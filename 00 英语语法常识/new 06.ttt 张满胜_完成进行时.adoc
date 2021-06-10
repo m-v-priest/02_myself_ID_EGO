@@ -4,516 +4,119 @@
 
 ---
 
-==
-
-完成进行时态（perfect continuous tense）是由"完成时态"和"进行时态"复合而成。 +
--> 完成时态 have＋-en +
--> 进行时态 be＋doing +
--> 所以"完成进行时"可以表示为 have-en ＋ be doing ＝ have been doing。
-
-因此"完成进行时"兼备“完成体”和“进行体”这两种时体的意义:
-
-[options="autowidth"]
-|===
-|Header 1 |完成进行时
-
-|完成体
-|-> 赋予了它“始于现在之前”的概念，即表示一个动作或状态, 是从"过去"持续或重复到"现在"
-
-|进行体
-|-> 进行体赋予它暂时的、不间断的延续性。
-
-|综合
-|所以，结合这两者的特点，*"现在完成进行时"的核心意义是表示：被描述的事件开始于现在之前，而且是有限地（不会无限期地）持续下去。* +
-简言之，完成进行时的核心含义**是表示“有限的延续性”。**
-|===
-
-以动词work为例，三种"完成进行时态"的构成形式如下：
-
-- 现在完成进行时：have been working
-- 过去完成进行时：had been working
-- 将来完成进行时：will have been working
-
-可见，*"现在完成进行时态"、"过去完成进行时态"和"将来完成进行时态", 具有共同的“态（aspect）”*，即“完成（perfect）＋进行（continuous）”态。*所以，三种"完成进行时态"的本质意义是相同的，区别只是“时（tense）”，即动作发生的时间不同而已。*
 
 ---
 
-== 1.
+== "完成进行时"与"完成时"对比总结
 
-"现在完成进行时"*强调动作的持续性，表示一个到目前为止尚未完成的活动*（an incomplete activity）。 +
-即: 它表示**开始于过去的活动, 持续到了现在，并且还没有结束，将继续持续下去。** +
-此时的"完成进行时", 常与for＋时间段、since＋时间点、all morning、all day、all week 等这样的表示一段时间的时间状语连用，以**强调在这一段期间内，某项活动正在持续。**
-
-
-image:../00 英语语法常识/img_engGram/张满胜eng 39.jpg[]
-
--> 图中的黑点, 表示"现在"和"过去"两个时刻； +
--> 粗箭头表示: 动作一直在持续； +
--> 细箭头表示: 该动作还将继续持续下去.
+这两个时态在用法上的种种区别, 其实都源于二者的这一根本区别：
 
 [cols="1a,1a"]
 |===
-|Header 1 |Header 2
+|完成进行时 have been doing |完成时 have done
 
-|- I'*ve been studying* English for over ten years now, but I still can't speak it well.
-|谓语have been studying采用了"现在完成进行时态"，表示从10年前开始学习英语，一直持续到目前说话的时候，并且还将继续持续下去。
-|- I *have been studying* too much and need a change.
-|最近我一直学得很辛苦，需要换换脑子了.
+|- 重在“进行（ongoing）”，即"*未完成*"（incomplete）
+- 强调动作**"持续"的过程**（emphasis on duration）
+|- 重在“完成”，即"*已完成*"（completed）
+- 强调动作的"*结果或成就"这个影响*（emphasis on achievement）
 
-|- You'*ve been studying* that one page for over an hour.
+|比如我们用"现在完成进行时"来谈论不断的变化和发展，*这是"进行时"赋予它的这个意义，因为"现在进行时"可以谈不断变化的过程。*
+
+- Scientists believe that the universe *has been expanding* since the beginning of time. +
+科学家们相信，自远古时代以来，宇宙一直在不断地扩大着。
 |
 
-|- A: Hey, you're watching TV again. +
-B: I'*ve been studying* for the whole morning. I need to relax now.
+|未完成
+|已完成
+
+
+|- I *have been reading* the book you lent me but I haven't finished it yet. +
+你借给我的那本书我一直在看，现在还没有看完。
+
+-> "现在完成进行时"中的 "进行", 表示read的动作"未完成".
+|- I *have read* the book you lent me, so you can have it back now. +
+你借我的那本书我已经看完了，所以你现在可以拿回去了。
+
+-> "现在完成时", 只有"完成", 而没带"进行", 就表示read的动作已完成.
+
+|- Your mother is still in the kitchen. She *has been cooking* all morning. <- 有doing, 表示"动作未完成"
+
+你妈妈还在厨房，她整个一上午都一直在厨房里做饭。
+|- I *have cooked* a lovely meal, which I'll be serving in a couple of minutes. <- 只有done, 表示动作已经完成.
+
+我做完了一顿可口的饭，再过两分钟就可以上桌了。
+
+|延续过程
+|结果或成果
+
+|- How long *have* you *been learning* English?  +
+-> 有doing, 强调"活动的持续时间"
+
+你学习英语有多久了？
+|- How many words *have* you *learned*? +
+-> 只有done, 强调"活动的成果怎样"
+
+你已经学会了多少英语单词？
+
+|- The phone *has been ringing* for almost a minute. Why doesn't someone answer it? +
+-> 有doing, 强调"活动的持续时间".
+
+电话铃声响了有一分钟了，怎么就没有人去接呢？
+|- The phone *has rung four times* this morning, and each time it has been for Clint. +
+-> 只有done, 强调"活动的成果怎样"
+
+今天上午电话铃响了四次，而且每次都是打给克林特的。
+
+|- Oh, I *have been sitting* in the same position too long. My legs *have fallen* asleep. +
+-> have been sitting : 有doing, 强调"活动的持续时间", 即长时间持续地sit. +
+-> have fallen asleep : 只有done, 强调"活动的成果怎样", 即腿麻了.
+
+噢，我一个姿势坐得太久了，两条腿都麻木了。
 |
 
-|===
+|强调持续，不讲次数
+|强调成果，讲次数
 
-从上面四句可以看出用"现在完成进行时态"所表达意思的特点:
+|- I'*ve been traveling*. 最近我一直在出差。
+|- I'*ve done* a lot of travel. 最近我出了很多差。
 
-- 上面四句中都有谓语动词 have been studying，都是**表示"延续"事件。**
-- 从活动持续时间的长短来看，从第一句到第三句，study的持续时间应该是越来越短的，比如从第一句的over ten years 到第三句的over an hour。
-- *第三句中的study持续到说话的时刻，而第四句中的study没有持续到说话的时刻，是在说话之前就结束了。*
+|-  I'*ve been ironing* my shirts this morning. +
+-> "现在完成进行时" have been ironing 表示重复，不能说出具体是几件衬衫，所以后面地宾语只是笼统的复数名词shirts，以强调iron这个活动持续的过程。
 
-所以, 同样是延续事件，也可以根据延续时间长短的不同，而细分成四种不同的延续事件：
+我今天上午一直在熨烫我的衬衫。
+|- I'*ve ironed* five shirts this morning. +
+-> 现在完成时have ironed表示重复，说出了具体有五件衬衫，以强调iron这个活动的成果。
 
-1. 长期在延续的事件
-2. 近期在延续的事件
-3. 在说话时刻, 仍在延续的事件
-4. 在说话时刻之前, 在延续的事件（即刚刚在延续的事件）
+我今天上午熨烫了五件衬衫。
 
----
+|因为更强调动作的延续性，因而"完成进行时"往往带有强烈的感情色彩，较为口语化。 +
+所以，在口语中完成进行时使用得较为普遍。
+|而"现在完成时"则只是说明一个事实，一种结果，较为平铺直叙，缺乏明显的感情色彩。
 
-==== 延续事件（一）：长期在延续的事件
+|- Why are you so late? I'*ve been waiting* here for more than an hour! +
+-> 用了have been doing，表达出强烈感情色彩, 本例显得较为生气。 +
+如果他说have waited, 则显得很平铺直叙，只是简单地说明“等了一个多小时”这样的事实。
 
-现在完成进行时, 可以表示从过去到现在的一个相当长的时期内, 在持续的一个一般性活动。
-
-[cols="1a,1a"]
-|===
-|Header 1 |Header 2
-
-|- I *have been living here* since 3 years ago.  +
-我从三年前就一直住在这里。
-|Column 2, row 1
-
-|- I *have been teaching* in this school for 25 years.  +
-我在这所学校教书有25年了。
-|Column 2, row 2
-
-|- I'*ve been waiting for this* for months. +
-我等了好几个月了！
-|Column 2, row 3
-|===
-
-从以上例句可以看到，这些"现在完成进行时"表达的都是在相当长的一个时间段内（比如for 30 years）持续的一般性活动。 +
-**说它们是“一般性活动”，是因为这些活动并不具有很强的“正在进行”的动作的意味，或者说这些活动在说话的时刻一般并不正在持续。这些活动类似于一个持续的状态，更具有状态的意义，而没有多少动作的意义。所以，现在完成进行时的这一用法与“现在进行时态”的关系较远，而与“现在完成时态”的关系更近，完全类似于现在完成时所表达的“延续事件”的意义。** +
-所以,上述句子也完全可以改成"现在完成时态"，意义上没有多大差别：
-
-
-|===
-|现在完成进行时 have been doing |现在完成时态 have done
-
-|- I *have been living here* since 3 years ago.
-|- I'*ve learned English* for over ten years now.
-
-|- I *have been teaching* in this school for 25 years.
-|- I *have taught* in this school for 25 years.
-
-|- I'*ve been waiting for this* for months.
-|-  I'*ve waited* for this for months.
-|===
-
-注意: "现在完成进行时"往往表示"有限的"延续性，这是进行体赋予它的这个特点。而上面例句的"现在完成进行时"则表示长期在延续的事件. 这个矛盾怎么解释? 其实, 关键在于谓语动词. -- 能够表示"长期延续事件"的"现在完成进行时", 对谓语动词是有特殊要求的。
-
-
-[cols="1a,1a"]
-|===
-|"有限的"延续性 |长期在延续的事件
-
-|- He *has been repairing* his car *since 6:00 this morning*. +
--> 是一个“从早上6点到现在”短短几个小时的延续活动。 +
-这个句子的言外之意就是，他现在仍然在修车，也就是说，在说话的时刻，repair的动作依然在进行。
-
-|- He *has been repairing* cars *for almost 20 years*. +
--> 显然不是表示repair这个动作一直不间断地持续了将近20年，不能把它解释成一个长期延续的事件了，而只能把它解释成“重复事件”. 即在将近20年当中，他不断“重复”地修理汽车. 这就强烈地表明，修车是他的职业。 +
-而如果说“从早上6点到现在，他一直在修理他的车”，则并不能说明修车是他的职业，只是表示他一直在做的一项活动而已。
-
-|===
-
-从上面可以知道, **像repair这样的表示"单一具体动作"的动词, 用作谓语时，若句子接有一个表示较短时间的状语，则表示延续的活动；但若句子接一个表示较长时间的状语，则表示一个重复的活动。也就是说，像repair这样的动词虽然具有一定的延续性，但持续的时间不能太长，所以这类动词被称为"有限延续动词"。 +
-英文中的大多数动词都是"有限延续动词"。**
-
-关于像repair这样的动词, 用于表示较短时间的状语, 和用于表示较长时间的状语时, 会产生不同语义.
-
-所以, 那些动作意味很强的动词, 就不能用于表示长期延续事件. 要表示长期延续事件, 只能用"无限延续动词", 即: *像study，live，work，learn，teach和wait这样的动词, 不表达某一具体的动作，它们所表达的意思更近于是"状态的延续"，这样的动词就被称为"无限延续动词"。* +
-"无限延续动词"在英文中比较少。 +
-*"现在完成进行时"在表示"长期持续"的事件时，其谓语动词必须是"无限延续动词"。*
-
-[cols="1a,1a"]
-|===
-|Header 1 |Header 2
-
-|-  I'*ve been working* in this company for over five years now,
-|work不表现一个"具体的动作"，而是一个具有"状态"意义的动词。
-
-|-  But "someday" never seems to arrive. Now is the time for those little activities you'*ve been saving* for the future. +
-对于那些你一直攒着想等将来做的事情，现在就应该去做。
-|这里的save不表现一个"具体的动作"，而是一个具有"状态"意义的动词。
-
-|- He *has been working* on the puzzles *for two hours*. 他玩这个拼图游戏有两个小时了。 +
-- He *has been working* in the same job *for 30 years*. 这个工作他做了有30年了。
-|**对于"无限延续动词来说"，其所接的时间状语不论长短，都表示"延续事件"的意义。** +
-例如work是无限延续动词，表示一种状态，所以这两句无论时间是长是短, for two hours 还是 for 30 years，都是表示延续事件.
-
-|- I'*ve been waiting* for you *for three hours*! 我等你有三个小时了！
-- I'*ve been waiting* for this *for months*. 我等了好几个月了！
-|对于wait是同样的道理，无论时间长短, 都表示延续事件.
-|===
-
-
-英文中，像study，live，work和wait这种"无限延续动词"并不多，更多的是"有限延续动词"。因此，**当这些"有限延续动词"用于"完成进行时"的时候，往往都是接表达较短时间的状语才能表示延续事件。**这正体现了"现在完成进行时"所具有的“有限延续性”的特点。将在下面的三节中讨论的延续事件，都是在较短时间内持续的活动。
-
-
----
-
-== 延续事件（二）：近期在延续的事件
-
-[cols="2a,3a"]
-|===
-|Header 1 |Header 2
-
-|- Rose and John *have been dating* for a year. Recently, they *have been considering* getting married. +
-罗丝和约翰恋爱有一年了。最近他们一直在考虑要结婚。
-|-> have been dating 这个完成进行时, 表示较长时间的持续活动. +
--> have been considering 这个完成进行时,表示近期在持续的活动. (recently一词也表明了这一点)
-
-所以, *"现在完成进行时" 既可以表示一个"长期持续的活动"，也可用来表示"最近一段时期内正在持续的一般性活动".*
-
-|- A: *Has* Cynthia *been working* hard on her term paper? +
-B: Day in and day out. +
-A：最近辛西娅是一直在忙着做学期论文吗？ +
-B：是的，天天在忙着她的论文。
-|A的意思并不是在问Cynthia在此时此刻, 即说话的时刻是否一直在忙着写论文，而是问她"近期"是否在忙着写论文。
-
-从这个例句也可以看到，*"现在完成进行时"的这一用法的语义重点，不是关心某个活动在说话时是否正在进行，而是关心该活动在"最近一段时期内"是否在持续。*
-
-其实, *"现在进行时"一样可以表示一个在近期持续的一般性活动. 所以, "现在完成进行时"表示“近期在延续的事件”这一用法时, 是与"现在进行时"的关系更密切的。*
-
-- Cynthia *is working* hard on her term paper *these days*. +
--> 时间状语these days就表明，该句的语义重点不在于辛西娅在"说话的时刻"是否在写论文，而是表达她"近期"的一般性活动。
-
-|- Jo: You look tired. What *have* you *been doing*? +
-Emily: I'*ve been burning* the midnight oil. *been writing* my mid-term essay. +
-乔：你看上去很疲惫，最近都在忙什么？ +
-艾米丽：我最近一直在开夜车，写我的期中论文。
-|- What have you been doing? 中的"现在完成进行时" have been doing表示的是近期在持续的一般性活动，而不是表示刚刚在延续的活动. 所以应理解成“你最近在忙什么”，而不是“你刚刚一直在忙什么”。
-- I've been burning the midnight oil. 中的"现在完成进行时" have been burning 同样也是表示在近期持续的一般性活动，应理解成“我最近一直在挑灯夜战”。如果理解成刚刚在延续的活动，就是另外的意思了，即“我昨晚刚刚一夜没睡都在挑灯夜战”。但这从上下文来看是不通的。
-- burn the midnight oil 是英语的成语，是“挑灯夜战，开夜车”的意思。
-- Been writing my mid-term essay. 是一个省略句，相当于说I've been writing my mid-term essay. 其中的"现在完成进行时"同样是表示近期在持续的一般性活动。
-
-
-|- For the past couple days, people *have been avoiding* me and *giving* me these really strange looks. +
-最近几天人们总是故意逃避不理我，看到我时表情总是很奇怪。
-|这里有表示"持续"的时间状语 for the past couple days，明确表示 have been avoiding...giving 是一个近期在持续的活动。
-
-|- I *have been thinking about* changing my job.  +
-我最近一直在考虑换个工作。
+你怎么来得这么晚啊？我在这里一直等了有一个多小时了！
 |
 
-| - I'*ve been doing* a lot of thinking and the thing is I love you. +
-近我一直想了很多，我想对你说的是“我爱你”！
 |
-
-|- I *have been looking forward* to meeting you.  +
-久仰大名！
-|这里用"现在完成进行时" have been looking显得相当正式，所以要注意使用的对象(针对"外人"这么来说更好)。如果对象不妥，这么说则显得有点虚伪和矫情。
-|===
-
-
-所以在口语中 :
-
-[cols="2a,3a"]
-|===
-|你想要表达 |用"现在完成进行时" have been doing
-
-|我一直想干什么 +
-I *have been wanting* to do sth.
-|- I *have been wanting* to meet you for long. 我早就想见你了。
-
-|我早就想干什么 +
-I *have been meaning* to do sth.
-|- I *have been meaning* to talk to you. 我一直想找你聊聊。
-- I'*ve been meaning* to exchange it for a larger size. 我一直想着要去换一件大号的。
-
-|我一直想要什么 +
-I *have been wanting* ...
-|
-|===
-
-
-从上面这些例句可知，"现在完成进行时"的这一用法在大多数情况下是不带有持续时间状语的，不过也可以带有持续时间状语（如for the past couple days），都可以表示一个"近期"在"持续"的一般性活动。
-
-另外要注意，这里的“近期”是一个相对概念，可能是近几天，也可能是近几个星期，甚至是近几个月。所以，这里所讨论的“近期”与上一小节讨论的“长期”并没有明确的界限，完全是根据实际生活经验来判断的。
-
-比如上面的例句：
-
-- Thank you so much for the binoculars. I'*ve been wanting* a pair for ages.
-- I *have been wanting* to meet you for long.
-
-也可以看作是“长期在持续的事件”。
-
-"现在完成进行时"表示“近期在延续的事件”的用法，与下面的6.3.4小节将要讨论的"现在完成进行时"表示“说话时刻仍在延续的事件”的用法不同，因为前者关心某个活动在“最近一段时期内”是否在持续，而后者的语义重点是关心某个活动在“说话时”是否正在进行。
-
----
-
-== 延续事件（三）：在说话时刻仍在延续的事件
-
-"现在完成进行时"可以表示一个在说话时刻之前一段时间内延续的活动，*并且这个活动在说话的时刻仍然在进行。*
-
-即, 表示一个活动由过去开始,并且持续到现在的说话时刻，而且还一直在持续。当然, 也可以到现在为止即不再继续。
-
-image:../00 英语语法常识/img_engGram/张满胜eng 40.jpg[]
-
-图中的黑点表示"现在"和"过去"两个时刻；黑箭头表示动作一直在持续，该动作到"现在"时刻即告终止.
-
-
-[cols="1a,1a"]
-|===
-|Header 1 |Header 2
-
-|- You'*ve certainly been reading* that one page for a long time now. +
-那一页内容你显然已经看了很长时间了。
-|这里read的动作, 从过去开始, 并且持续到了现在说话的时刻，即在说话的时刻A仍然在看书。
-
-
-|- It *has been snowing* all day. I wonder when it will stop.  +
-雪一直下了一整天了，我不知道它何时会停。
-|
-
-|- I'm staring at this computer. I'*ve been staring at* this computer screen for hours and my eyes hurt. +
-A：嗨，汤姆，你的化学论文进展如何？ +
-B：正在写，不过我盯着电脑屏幕看了几个小时了，现在眼睛很痛。
-|stare的动作从几小时之前开始并且一直持续到现在，现在仍然在盯着电脑看。
-
-可见, *"现在完成进行时"表示“说话时刻仍在延续的事件”这一用法与"现在进行时"很接近.* 所以, 本例中就可以同时使用"现在进行时" am staring 和 "现在完成进行时" have been staring。 +
-*只不过，"现在进行时态"不能接持续的时间状语（durational adverbials），而"现在完成进行时"往往都会接一个这样的状语。*
-
--  I'*m staring* at this computer. <- 现在进行时, 不能加比如 for hours. 所以不能说 I'*m staring* at this computer *for hours*. ×
-- I'*ve been staring* at this computer screen *for hours* and my eyes hurt. <- 现在完成进行时, 往往会接上一个表持续的时间状语.
-
-|- I'm so sorry I'm late. *Have* you *been waiting* long?  +
-对不起我迟到了，你等了很久吗？
-|这句就表示: 开始于过去的活动持续到说话时刻为止, 就不再继续下去了.
-|===
-
-
----
-
-== 延续事件（四）：在说话时刻之前在延续的事件（即刚刚在延续的事件）
-
-
-一个事件在说话时刻之前一直在延续，但到说话时刻已经结束.（a recently finished activity）。虽然已经结束, 但这个事件对现在造成了清晰可见的后果。
-
-[cols="1a,1a"]
-|===
-|Header 1 |Header 2
-
-|- What *have* you *been doing* while I have been away? +
-我刚才不在的时候，你们一直在干什么？
-|
-
-|- A: You look hot. +
-B: Yes, I'*ve been running*. +
-A：看你很热的样子。 +
-B：是的，我刚刚一直在跑步来着。
-|have been running是表示一个延续的动作，但这个动作并没有延续到现在（说话人现在不在running了），而是一直延续到离现在不远的过去时间结束的. +
-“刚才在延续”的活动所导致的“现在”结果(You look hot)往往清晰可见。
-
-|- Your eyes are red. You've been crying?  +
-看你眼睛红肿的，你刚刚哭过吧？
-|
-|===
-
-所以, "现在完成进行时"的这一用法, 往往都伴随有刚刚在延续的事件所带来的后果。
-
-在日常口语中，如果看到某一个现状或后果，就可以用"现在完成进行时"来推导出刚刚在持续的、与这个后果有关的事件:
-
-[cols="1a,1a"]
-|===
-|Header 1 |Header 2
-
-|- Your friend is out of breath. You ask, "*Have* you *been running*?" +
-你的朋友上气不接下气的，你问他：“你刚刚是一直在跑步吧？”
-|
-
-|- It's only when the tide goes out that you learn who'*s been swimming* naked. +
-只有当潮水都已退去，你才能知道是谁刚刚在裸泳。
-|
-|===
-
-从上面可以发现,** "现在完成进行时"在表示“刚刚在延续的事件”时，一般不接持续的时间状语**（除了I've been standing outside in Arctic temperatures for over an hour waiting for a bus. 这个句子）。**若接持续的时间状语时，则往往表示一个延续至今的事件。**请比较：
-
-[cols="1a,1a"]
-|===
-|现在完成进行时 -> 延续性的事件在现在之前, 已经结束  |现在完成进行时 + 持续的时间状语 -> 事件延续至今
-
-|- Be careful! I'*ve been painting* the door! +
-小心，这门我刚刚刷完漆！ +
--> painting这个延续活动，刚刚才结束。
-|- I'*ve been painting* the door *for half an hour*. +
--> painting的活动还没结束。
-|===
-
-不过也不尽然。**对于某个句子到底是“刚刚在延续”还是“一直在延续”，需要结合上下文的具体语境来看。如果没有上下文，那么就可能有歧义，也就是两种情况都可能存在。**比如：
-
-[cols="1a,1a"]
-|===
-|Header 1 |Header 2
-
-|- A: You do look cold. What happened? +
-B: I'*ve been standing* outside in Arctic temperatures *for over an hour* waiting for a bus.
-|等车可能刚刚结束(语气只是客观陈述), 也可能等车还在延续(他用这句话来抱怨他已经等得不耐烦了).
-
-即, 这句话其实有两种意思:
-
-- 在这样冷的天气里，我刚才一直站在外面等车等了一个多小时。
-- 在这样一个大冷天，我站在外面等车到现在都等了一个多小时了（可是车还没来）。
-
-|- I'*ve been running for half an hour.*
-|- 这句话既可以理解成“刚刚在延续”(这个活动已经结束)：刚才我跑步跑了半小时（所以为什么我现在满头大汗的）。
-- 也可以理解成“一直在延续到现在”(这个活动并未结束)：到现在为止我一直跑了有半小时了。
-|===
-
-不过，*在没有上下文语境帮助排除的情况下，对于带有持续的时间状语的"完成进行时"的句子，我们一般会解释成“一直在延续”的事件。*
-
-对于不带有"持续的时间状语"的句子, 同样会存在歧义:
-
-[cols="1a,1a"]
-|===
-|Header 1 |Header 2
-
-|- It'*s been snowing*.
-|这句话可以有两种意思。
-
-- 如果在说这句话时, 外面还在下着雪，则表示“一直在延续”而并未结束的动作：外面一直在下雪哩。
-- 或者，如果说这句话时, 外面的雪已经停了，则表示“刚刚在延续”——延续至不久前刚刚结束的动作：（瞧，地上是白的）刚刚下过雪。
-
-|===
-
-由此可见，要把这句话放在具体的语境中，结合说话时的语境来理解，才不会产生歧义。
-
-不过，*在没有上下文语境帮助排除的情况下，对于没有"持续的时间状语"的"完成进行时"的句子，我们一般会解释成“刚刚在延续(现已结束)”的事件。*
-
-
-总结:
-
-[options="autowidth"]
-|===
-|现在完成进行时 |表示一个刚刚结束的活动 |表示一个延续至今的活动
-
-|有持续的时间状语
-|√
-|√ (默认理解)
-
-|没有持续的时间状语
-|√ (默认理解)
-|√
-|===
-
-
-本节重点讨论了现在完成进行时所表示的四种不同的延续事件，它们与现在进行时或现在完成时都有某种联系，具体如下：
-
-表示“长期在延续的事件”的现在完成进行时与现在进行时态的关系较远，而与现在完成时态的关系更近，完全类似于现在完成时所表达的“延续事件”的意义。
-
-表示“近期在延续的事件”的现在完成进行时与现在进行时态的关系更密切，完全类似于现在进行时所表示的“一个在近期持续的一般性活动”的意义。
-
-表示“在说话时刻仍在延续的事件”的现在完成进行时与现在进行时态的意义很接近，因为二者都表示这个活动在说话的时刻仍然在进行。
-
-表示“刚刚在延续的事件”的现在完成进行时与现在完成时态的关系更接近，类似于完成时表示的“单一事件”。与现在进行时的关系较远，因为现在进行时没有表示事件在说话时刻已经结束的用法。
-
----
-
-== 表达"过去"事件对"现在"具有后果影响, 可以用"完成时", 也能用"完成进行时", 用两者有什么区别?
-
-既然两种时态都可以表示“延续事件”，那么有何异同？
-
-[cols="1a,3a,3a"]
-|===
-||现在完成时: 单一事件 -> 强调活动的结果，或成果（emphasis on achievement）|现在完成进行时 :刚刚在延续的事件(现已结束) ->  强调活动本身的持续性（emphasis on duration）
-
-|相同点
-|- 表示一个事件在说话的时刻, 已经结束；
-- 事件对现在, 有清晰可见的后果影响
-- 不接"持续性的时间状语"
-|- √
-- √
-- √
-
-|不同点
-|- 强调活动的结果，或成果（emphasis on achievement）
-- *谓语是"短暂动词"*，不表示一个延续活动. 所以不能接持续的时间状语.
-|- 强调活动本身的持续性（emphasis on duration）
-- *谓语是"延续性动词"*，以表示一个延续活动. 所以可以接"持续的时间状语".
-- 如果接了"持续的时间状语", 句意会变成另一种意思.
-
-|
-|- I'*ve just cleaned* the car. +
-我刚把车洗干净了。
-
--> "现在完成时"强调活动的结果或成果（emphasis on achievement）——车子现在干净了。 +
-这里的clean是用作一个短暂动词，而不是表示延续活动。
-
-|- My hands are dirty. I'*ve been cleaning* the car. +
-我的手很脏，我刚刚一直在洗车来着。
-
--> 这里的clean是一个延续活动。"现在完成进行时"强调活动本身的持续性（emphasis on duration），然后得出与这个持续的活动相关的后果——手脏了。
-
-|
-|- I'*ve painted* the door green. +
-我把门漆成了绿色。
-|- Be careful! I'*ve been painting* the door! +
-小心！这门我刚刚刷过油漆。
-
--> "现在完成进行时"强调活动本身的持续性——我刚刚一直在给门刷漆，由此的结果是 ——门上的油漆现在还没有干. 所以“你”要be careful（小心）。
-
-
-|
-|
-|*可以看出，"现在完成进行时"的这一用法, 与"现在完成时态"的关系更接近，而与"现在进行时"的关系较远，因为"现在进行时"没有表示事件在说话时刻已经结束的用法。*
-
-
+|- A: What *have* you *done* with my knife? +
+B: I put it back in your drawer. +
+A: (taking it out) But what *have* you *been doing* with it? The blade's all twisted! *Have* you *been using* it to open tins? +
+-> 先用了一个"现在完成时态" have done，只是单纯地询问对方是如何处理小刀的。 +
+-> 当看到小刀被弄坏了之后，他才用了"现在完成进行时"have been doing, 来表明自己的强烈情感 -- 气愤。 +
+-> have been using，同样表示自己生气了。
+
+
+A：你把我的刀子弄到哪里去了？ +
+B：我把它放回你的抽屉里了。 +
+A：（拿出小刀）可你用这刀子干什么来着？刀刃都卷了！你用它开罐头了吧？
 |===
 
 ---
 
-
-== 表达延续事件, 可以用"完成时", 也能用"完成进行时", 用两者有什么区别?
-
-
-==== 在带有"持续的时间状语"时，用两种时态几乎没有多大区别，都表示一个开始于过去的动作一直延续到现在。
-
-[cols="1a,1a"]
-|===
-|完成时 + 持续的时间 | = 现在完成进行时 + 持续的时间
-
-|- I have taught for 25 years. +
-我教书有25年了。
-|- = I have been teaching for 25 years.
-
-|而"现在完成时"则往往表示: 动作**有可能会**持续下去。
-
-所以上面的话语, 可能有如下言外之意:
-
-- I *have taught for 25 years*, so now it's time to think about doing something else.
-
-我教书都教了25年了，现在是该考虑改行做别的事情的时候了。
-|不过也有这样一种观点，认为此时二者的细微区别在于："现在完成进行时"会**强烈暗示动作会继续持续下去**.
-
-所以上面的话语, 可能有如下言外之意:
-
--  I *have been teaching for 25 years*, and I can't imagine doing anything else. +
-我教书都教了25年了，我真想象不出还能干什么别的事情。
-|===
+== 现在完成进行时与现在完成时的思维差异总结
 
 
 
@@ -521,6 +124,13 @@ B: I'*ve been standing* outside in Arctic temperatures *for over an hour* waitin
 
 
 
----
 
-file:///E:/+%20ebook/eng%20%E8%8B%B1%E8%AF%AD/%E5%BC%A0%E6%BB%A1%E8%83%9C%20eng%20img/Zhang%20Man%20Sheng/Ying%20Yu%20Yu%20Fa%20Xin%20Si%20Wei%20Zhong%20Ji%20J%20(141)/Ying%20Yu%20Yu%20Fa%20Xin%20Si%20Wei%20Zhong%20-%20Zhang%20Man%20Sheng/index_split_050.html#filepos1023873
+
+
+
+file:///E:/+%20ebook/eng%20%E8%8B%B1%E8%AF%AD/%E5%BC%A0%E6%BB%A1%E8%83%9C%20eng%20img/Zhang%20Man%20Sheng/Ying%20Yu%20Yu%20Fa%20Xin%20Si%20Wei%20Zhong%20Ji%20J%20(141)/Ying%20Yu%20Yu%20Fa%20Xin%20Si%20Wei%20Zhong%20-%20Zhang%20Man%20Sheng/index_split_053.html#filepos1108931
+
+
+
+
+
