@@ -233,6 +233,8 @@ image:../00 英语语法常识/img_engGram/张满胜eng 59.svg[]
 
 image:../00 英语语法常识/img_engGram/张满胜eng 55.svg[700,700]
 
+- If the doctor *had come* last night, the boy *would have been saved*. +
+= *Had* the doctor *come* last night, the boy *would have been saved*. ->  条件句中如果出现were, had, should, 可省去if，将这些词与主语倒装。
 
 - If I *had got* there earlier，I *should/would have met* her. +
 如果我早到那儿，我就会见到她。
@@ -255,6 +257,9 @@ image:../00 英语语法常识/img_engGram/张满胜eng 55.svg[700,700]
 [cols="1a,1a"]
 |===
 |Header 1 |Header 2
+
+|- If I *were* you, I *would study* hard.
+|
 
 |- If I *were* the president of a university I *should establish* a compulsory course in "How to Use Your Eyes".  +
 如果我是一名大学校长的话，我会开设一门“如何用眼”的必修课。
@@ -340,6 +345,14 @@ image:../00 英语语法常识/img_engGram/张满胜eng 55.svg[700,700]
 [cols="1a,1a"]
 |===
 |Header 1 |Header 2
+
+|- If I *were to* go to the moon one day, I *could see* it with my own eyes. +
+= *Were* I *to go* to the moon one day, I *would see* it with my own eyes.
+|<- 条件句中如果出现were, had, should, 可省去if，将这些词与主语倒装。
+
+|- If you *missed* the film tonight, you *would feel* sorry.
+|
+
 
 |- If I *were to* live my life over again, I *would have* you as my wife. +
 如果我有来生，我一定会娶你为妻。
@@ -443,45 +456,534 @@ image:../00 英语语法常识/img_engGram/张满胜eng 58.svg[700,700]
 
 == 跳层虚拟
 
+“跳层虚拟句”，就是它不含if引导的从句，而是通过其他方式来表达“非真实的虚拟条件”。
+
+[cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|- He *must have heard* her initial instructions or he *would not have known* where to take her. +
+这个司机不可能是聋哑人。那么, 她是怎么知道的？ 在她刚上车时告诉他要去哪里，他一定是听清了，否则他不会知道该把她送到哪。
+|-> 在英文中，*“must＋have done”的意思, 是表示对过去的推测。*
+
+-> or，表示“否则”，其后面接的就是虚拟语气。那么**接下来要搞清楚两点**:
+
+1. *是对哪个时间的事情进行的虚拟?* 是对"过去时间的事情"进行虚拟.
+2. *这个要虚拟的句子, 是属于主句还是从句?* or后面的句子依然是一个主句.
+
+*对主句进行"过去历史"的虚拟, (主过)谓语形式就要用: would have done.* 所以本句中就用了 would not have known.
+
+|===
+
+上面这个句子, 就代表一类特殊的虚拟语气句子, 它有如下特点: +
+这类虚拟句一般分成两半(两部分): 一部分不虚拟，用的是陈述语气，用以陈述一个事实 (He *must have heard* her initial instructions)。另一部分虚拟 (or he *would not have known* where to take her). 这两部分之间往往有 but，or，or else 或 otherwise 来连接。*本例句子即 “陈述句＋or＋虚拟句”这样的结构。*
+
+这类一部分不虚拟, 一部分又虚拟的句子, 就称之为“跳层虚拟句”。 +
+跳层虚拟句共有两类 :
+
+- 由 or 等引导的
+- 由 but 引导的
+
+*注意: 这两类句型的前后两个分句的语气, 正好相反。*
+
+
+---
+
+==== 陈述句＋or＋虚拟主句
+
+这里的连接词除了or，还可以有 or else 和otherwise.
+
+[cols="1a,2a"]
+|===
+|Header 1 |or前面的句子是陈述语气，而后面的句子用的是虚拟语气，而且是对主句进行虚拟.
+
+|-> 表示对"现在事实"的虚拟
+
+*主语＋"一般现在时"的谓语形式，or ＋ (主句) 主语 would do*
+|
+- Well, I *had* to do it. *Otherwise*, she *would have given* me a low score. +
+没办法啊，不然她(老师)就会给我很低的分了。
+
+- Mao Tse-tung clearly *was* willing to make the ideological sacrifice; *otherwise* he *would not have told* Edgar Snow in his unique interview that... +
+毛泽东也愿意为此付出意识形态上的代价，否则他当初就不会在一次单独会见埃德加·斯诺时告诉他说...
+
+
+|-> 表示对"过去事实"的虚拟
+
+*主语＋"一般过去时"的谓语形式，or ＋ (主句) 主语 would have done*
+|
+- We *didn't know* his telephone number, *otherwise* we *would have telephoned* him. +
+=We *would have telephoned* him if we *had known* his telephone number. +
+我们不知道他的电话号码，要不然我们当时就会给他打电话了。
+
+- He must *have had* an accident, *or* he *would have been* here then. +
+他一定是出事故了，要不然早就到了。
+|===
+
+
+---
+
+==== 虚拟主句＋but＋陈述句
+
+
+与or等词不同的是，这里but的前面是虚拟主句，but的后面是陈述句。
+
+句中的would 可换成 should，might 或 could。 +
+这类"跳层虚拟句"的关键标志词是but，*随着but一转折，句子的语气也由"虚拟"变为"不虚拟"*，即but将句子一分为二，but前面部分的句子用"虚拟语气"，but后面部分的句子用"陈述语气"。
+
+[cols="1a,2a"]
+|===
+|Header 1 |Header 2
+
+|表示对"现在事实"的虚拟
+
+*(主句) 主语 would do，BUT ＋ 主语＋"一般现在时"的谓语形式*
+|- He *would put* on weight, *but* he *doesn't eat* much. +
+=He *would put* on weight *if* he *ate* much. +
+他本来是会发胖的，但是他特别注意节食，从来不会多吃。
+
+|表示对"过去事实"的虚拟
+
+*(主句) 主语 would have done，BUT ＋ 主语＋"一般过去时"的谓语形式*
+
+|- Some women *could have made* a good salary in a job instead of staying home, *but* they *decided* not to work for the sake of the family. +
+=Some women *could have made* a good salary in a job instead of staying home *if* they *hadn't decided* not to work for the sake of the family. +
+有些妇女本来是能够挣得很高的薪水的，但是为了家庭，她们放弃了工作。
+
+- A safety analysis *would have identified* the target as a potential danger. *Unfortunately*, it *was* never done. +
+若是有安全分析，就可以发现这个潜在的隐患，但遗憾的是，并没有做安全分析。
+|===
+
+---
+
+== ---------- ----------
+
+---
+
+== 在特定的名词从句中(表示: 愿望、建议、命令、请求或意志等语气), 也需要用虚拟语气 -> "从句"谓语用（should）do
+
+虚拟语气除了用在上述"非真实条件从句"以外，在特定的"名词从句"中, 也需要用虚拟语气。 +
+这里所说的“特定的名词从句”，是指其中含有特定的标志词，这些标志词可**用来表示: 愿望、建议、命令、请求或意志等语气。**
+
+[cols="1a,1a"]
+|===
+|非真实条件虚拟句 |名词从句虚拟句
+
+|"主句"和"从句"的谓语动词的形式, 完全不同
+|无论其"主句"的谓语动词是何种形式，*"从句"的谓语形式均为should＋动词原形，其中should可以省去。* +
+注意：不是用would，而是用should。
+
+|
+|- I *suggest* that we *should go* tomorrow. +
+我建议我们明天走。
+
+- I *suggested* that we *should go* the next day. +
+我当时建议我们第二天走。
+
+-> 这里 suggest 即是我们所说的标志词。 +
+-> "从句"中谓语的时态（should go）, 并没有受"主句"谓语时态（suggest，suggested）的影响。
+
+|===
+
+由此可知，要掌握"名词从句的虚拟句"，最终归结为：*记住相应的标志词即可，一旦主句中出现某一个标志词，就要注意其"从句"谓语须用（should）＋do。*
+
+
+---
+
+==== 主句谓语是下列词 (ask（要求，请求），advise，beg，command，demand，decide，deserve，desire，determine，insist，move（动议，提议），order，prefer，propose，require，recommend，request，suggest和urge等), 其后的"宾语从句"(也属名词从句)中, 谓语要用虚拟语气 （should）do.
+
+[cols="1a,1a"]
+|===
+|Header 1 |"从句"谓语用虚拟语气 （should）do
+
+|- His father *urged* that he *study* medicine. +
+他父亲要求他学医学。
+|注意这句话中用study，不用studies。 因为这个宾语从句, 谓语要用虚拟语气 (should) do.
+
+|- The instructions *ask* that we *not take* more than three tablets once. +
+说明书要求每次服用的量不超过三粒。
+|从句的谓语not take相当于should not take，这里should被省去了。
+
+|- They *recommend* that this tax *be abolished*.  +
+他们建议取消这种税。
+|
+
+|- I *ask* that he *leave*.  +
+我要求他走开。
+|
+
+|- The Chinese government and people *have demanded* that the U.S. Government *shoulder* all the responsibilities for the incident, *apologize* to the Chinese side /and *take* effective measures to prevent the recurrence of such incidents. +
+中国政府和人民要求美国政府对此事件必须承担全部责任，向中国道歉，并采取有效措施防止类似事件再次发生。
+|
+
+
+|===
+
+
+---
+
+==== 在 "It is adj./-ed/n. that ..." 的主语从句中, 主语从句中的谓语, 需要用虚拟语气形式 （should）do
+
+在 "It is adj./-ed过去分词/n.特定的名词 + that ..." 的主语从句中, 主语从句中的谓语, 需要用虚拟语气形式.
+
+[cols="1a,4a"]
+|===
+|Header 1 |Header 2
+
+|adj. 是这类的 :
+|astonishing(令人十分惊讶的,难以置信的)，amazing，advisable(明智的,可取的)，appropriate(合适的；恰当的)，crucial，desirable(想望的；可取的；值得拥有的；值得做的;引起性欲的；性感的)，essential(必不可少的；极其重要的)，important，imperative(重要紧急的；迫切的；急需处理的)，keen，necessary，natural，normal，odd(奇怪的；怪异的；反常的)，proper(恰当的；符合规则的)，preferable(较适合；更可取)，strange，sorry，shocked，surprising，urgent，unusual 和 vital(必不可少的；对…极重要的;生命的；维持生命所必需的) 等。 +
+*这类 adj.一般表示"个人对事件的反应"。*
+
+|-ed 过去分词 是这类的:
+|decided，desired(渴望；期望；想望)，demanded(强烈要求,需要)，ordered，requested(要求，请求)，required(必需的)，recommended(推荐；举荐) 和 suggested 等。
+
+|特定的n. 名词有
+|advice，decision，desire，demand，suggestion，motion(动议；提议)，pray，resolution，wish，preference，proposal(提议；建议；动议)，recommendation(正式建议；提议)，requirement，idea 和 order等。
+|===
+
+
+[cols="1a,4a"]
+|===
+|Header 1 |"从句"谓语用虚拟语气 （should）do
+
+|adj.
+|- *It is strange that* he *should not come* here. +
+他竟然没来，这真是太奇怪了。 +
+-> 这里的should只表明一种意外的语气，可译为“竟然”。
+
+- *It is natural that* I *should dwell* upon his successes rather than upon his failures. +
+我宁愿强调他成功的地方，而不愿突出他的失败之处，这是很自然的。
+
+- If we are ever going to protect the atmosphere, *it is crucial that* those new plants *be* environmentally sound. +
+我们若是想保护大气层，那么就应该要求那些新开工的工厂环保。 +
+-> 从句要用虚拟语气，即用动词原形be。
+
+- *It is quite natural that* the customs of all national minorities *be respected*. +
+各个少数民族的风俗习惯都应该得到尊重，这是非常自然的。
+
+- *It is important that* the hotel receptionist *make* sure that guests are registered correctly. +
+宾馆的前台接待人员应该确认客人们正确地登记注册，这是十分重要的。
+
+- *It's essential that* people *be* psychologically able to resist the impact brought about by the transition from planned economy to market economy. +
+从心理上来讲，人们能够抗拒由计划经济转变为市场经济这一过程带来的影响，这是很明显的。
+
+|-ed 过去分词
+|- *It is requested that* all members *be present* at the meeting. 要求所有的成员都出席这个会议。
+
+- *It is politely requested* by the hotel management *that* radios *not be played* after 11 o'clock at night. +
+宾馆的管理人员客气地要求，晚上11点以后不要听收音机(不要产生噪音, 影响隔壁客人)。
+|n.
+|- *It is my proposal that* he *be sent* to study further abroad. 我建议，把他送到国外去学习。
+|===
+
+---
+
+==== 在带有上述名词(advice，decision，desire，demand，suggestion等等) 的"表语从句"和"同位语从句" (即都属于名词从句)中, 谓语需使用虚拟语气 （should）do
+
+- `主` The *motion*(n.) that the meeting *be adjourned* 虚拟 `谓` was adopted. +
+要求会议暂停的动议被批准了。 +
+(adjourn (v.)休庭；休会；延期 => ad-来,临近 + -journ-(一天) → 其原义为“为某事指定一天”,由于人自身的特性,其意义逐步变化为“推迟”、“延缓”、“暂停”等。)
+
+- For my own part, it seems that `主` the main *requirement*(n.) of an international language is that 表从 it  *be 虚拟 easily learned*. +
+我个人认为，对于一门国际性的语言最主要的要求是，它必须易于学习。
+
+- Reports indicate that both sides have softened their respective positions for a possible settlement. The government has backed away from *demands*(n.) that the software giant *be broken up*, while Microsoft is now more willing to accept restrictions on how it manages its business. +
+报告显示，双方在可能签订的协议中各自作出了让步。政府已经不再支持拆分软件巨人微软公司的要求，而微软目前则更希望接受对于如何管理其企业的限制。
+
+- `主` The *suggestion* that the mayor *present* the prizes `谓` was accepted by everyone.  +
+由市长颁奖的建议被所有人接受了。
+
+- Jean Wagner's most enduring contribution to the study of Afro-American poetry is his *insistence* that it *be analyzed* in religious, as well as worldly, frame of reference. +
+让·瓦格纳对美国黑人诗歌的研究最为持久的贡献是，他坚持认为，应把此类诗歌放在宗教与世俗的框架中进行分析。
+
+---
+
+== ---------- ----------
+
+---
+
+== 其他的各种虚拟句型
+
+在英文中，虚拟语气可以分为"非真实条件句"（unreal conditionals）和"名词从句虚拟句"两大类。 +
+除这两大类虚拟句以外，还有其他一些句型表示的虚拟语气。由于无法归入上述任何一类中，在此将一一单列，分别讨论。
+
+---
+
+==== 1. wish + 宾语从句 -> 从句谓语要用虚拟语气 => 表示说话者难以实现的, 或与事实违背的愿望，具有较强的感情色彩
+
+它用来表示说话者难以实现的, 或与事实违背的愿望，具有较强的感情色彩. 可分别表示对"现在"、"过去"和"将来"情景的虚拟。
+
+[cols="2a,3a"]
+|===
+|Header 1 |Header 2
+
+|对"过去"的虚拟:
+
+- 即对过去发生的事情, 表示遗憾或后悔.
+- *从句的谓语动词, 用"过去完成时"（had done）或“would/could＋现在完成时”*，意指从句的谓语动作, 发生在主句的谓语动作之前。
+|- I wish I *had been* there.  +
+我真希望我当时在那。
+
+- I wish I *hadn't hurt* Mary's feelings like that. +
+我真希望我没有像那样伤玛丽的感情.
+
+- I wished I *hadn't spent* so much money.  +
+我真希望我没有花这么多钱。
+
+- I wish I *could have gone* with you to the concert last night. 我真希望昨晚能和你一起去听音乐会。
+
+- I wish I *had not attended* that party.  +
+我真希望我当时没参加那个聚会。
+
+|对"现在"的虚拟:
+
+- 即表示对现状的愿望
+- *从句的谓语动词用"过去时"。*
+|- I *wish* I *were* a little younger.  +
+我希望我能够年轻一点。
+
+- I *wish* I *could* travel to the moon (but I can't do that).  +
+我希望我能够登上月球（但实际上我不能）。
+
+- I *wish* I *knew* his address (but I don't know his address).  +
+我希望我知道他的地址（但实际上我不知道）。
+
+- Success makes so many people hate you. I *wish* it *weren't* that way. +
+成功会让很多人讨厌你，我真希望不要这样。
+
+|对"将来"的虚拟:
+
+- 指对将来发生的事情, 表示祝愿.
+- *从句的谓语动词, 用“would/could＋动词原形”*，意指"从句"的谓语动作, 可能发生在"主句"的谓语动作之后。
+|- I wish he *could explain* what he means.  +
+我希望他能解释一下他是什么意思。
+
+- I wish you *would shut up*.  +
+我希望你能闭嘴。
+
+- I wish the train *would come*. 我希望火车将会来。
+|===
+
+---
+
+==== 2. 在 if only 感叹句中, 谓语要用虚拟语气 <- 其用法和wish基本相同
+
+if only 表示“但愿”，“要是……就好了”，*其用法和wish基本相同*，可表示对"现在"、"过去"和"将来"的虚拟，只是比wish具有更强烈的感情色彩。
+
+[cols="2a,3a"]
+|===
+|Header 1 |Header 2
+
+|对"过去"的虚拟
+
+- *谓语动词, 用 had done, 或 would/could have done*
+|- If only he *had followed* your advice!  +
+（对过去的虚拟）他要是听从了你的建议就好了！
+
+注意: *可以把only放到句中的位置:*
+
+- *If* he *had only followed* your advice!
+
+- *If* I'*d only remembered* to lock the door. +
+我要是记得锁门就好了。
 
 
 
+|对"现在"的虚拟
+
+- *谓语动词, 用 did*
+|- If only I *were* taller.  +
+（对现在的虚拟）我的个子要是能高一点就好了。
+
+|对"将来"的虚拟
+
+- *谓语动词, 用 would/could + do*
+|- If only the rain *would stop*.  +
+（对将来的虚拟）但愿雨能停。
+|===
+
+---
+
+==== 3. 在 as if/as though 引导的从句中, 谓语要用虚拟语气 -> ① 与"过去事实"相反, 谓语用 had done. ② 与"现在事实"相反, 谓语用 did
+
+[cols="1a,2a"]
+|===
+|Header 1 |Header 2
+
+|表示与"过去事实"相反
+
+- *谓语用 had done* (过去完成时)
+|- ...  we were still so affectionate that *it seemed as if* not a single day *had gone* by.  +
+就好像时光并未流逝，我们还在10年以前那样。
+
+---
+
+注意: *若从句中的情形是根据"现在的迹象"作出的推测，有可能发生，则要用"陈述语气"(而不能用虚拟语气)。*
+
+- It is becoming dark. *It looks as if* it'*s going to* rain. 天变黑了，似乎就要下雨。
+
+- *It seems as if* he *has been* to America. 他好像去过美国。
+
+|表示与"现在事实"相反, 或对"现在情况"有所怀疑
+
+- *谓语用 did (过去时)*
+|- She loves the children *as if* they *were* hers.
+
+- I really don't care for the way you're speaking to me. *It seems as if* you *were* my father. +
+我真的非常讨厌你和我说话的方式。你听起来就好像是我爸爸。
+
+- You should live each day *as if* it *were* the last and use every second to your advantage. +
+你们应该把每一态都当作是生命中的最后一天来度过，充分利用每一秒钟。
+
+|===
+
+---
+
+==== 4. 在 it is（high）time（that）从句中 -> 谓语用 did
+
+该句型表示“该是做什么事的时候了”，含有“晚了一点”的意思. *从句中的谓语, 用did (过去时)。*
+
+....
+high a. used to describe the middle or the most attractive part of a period of time 中间的；全盛的
+
+- high noon 正午
+- high summer 盛夏
+....
 
 
+[cols="4a,1a"]
+|===
+|虚拟语气, 谓语用 did |
+
+|- Don't dawdle away your youth any more. *It is time* you *thought* about your future.  +
+不要再浪费青春了，你该考虑自己的将来了。
+|
+
+|- *It seems to be high time that* this argument *were* put to an end.  +
+现在似乎是时候结束争吵了。
+|
+
+|- "You are very selfish. *It's high time* (that) you *realized* that you are not the most important person in the world," Edgar said to his boss angrily.  +
+埃德加生气地对他老板说：“你太自私了。你早就应该知道，你绝对不是这个世界上最重要的人。”
+|
+
+|- Man: The school had the football field redone over the summer. +
+Woman: *It's about time*.  +
+男：学校在暑假期间把足球场重新翻修了一下。 +
+女：*早就该修了*。
+|<- 请体会这种“已经晚了一点”的含义
+
+|- Man: Let's get this desk in order. +
+Woman: Yes, *it's about time* we *cleared* it off. +
+是的，我们**早该整理了**。
+|
+
+|===
 
 
+---
 
+==== 5. 在 would rather，would（just）as soon，would sooner，would prefer 等从句中, 谓语要用虚拟语气
 
+would rather 在表示"过去", "现在", "将来"时, 谓语动词要用不同的形式。
+
+==== ---- would rather do sth -> 主语宁愿自己做某事
+
+would rather 后面接 do (动词原形)，可以表示"将来"或"现在"的事件，意指“*主语宁愿自己做某事*”。这是 would rather 最常见的用法。
+
+[cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|- I *would rather go* there tomorrow.  +
+我想明天去那里。
+|
+
+|- He *would rather stay* at home *than go* to the cinema tonight.  +
+他今晚就想在家里呆着，而不想去看电影。
+|<- 如果要和另外一件事情来比较，要用than来引出另外的事情。
+
+|- He would rather *not stay* at home tonight. +
+他今晚不想在家呆着。
+|<- 对该句型的否定，要在动词的前面加not，而不是在would的后面加not。
+
+|===
+
+---
+
+==== ---- would rather have done sth. -> 主语宁愿自己过去做了某事，但实际上没有做 (即:对"过去"进行虚拟)
+
+这是would rather后面接"动词完成式"的用法，*表示过去的事件，意指“主语宁愿自己过去做了某事，但实际上没有做”，因此，具有过去虚拟的意味*，如同"过去虚拟条件"主句的谓语形式。
+
+[cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|- I took Sally to the cinema last night, but I *would rather have been* there alone. +
+我昨晚带萨丽看电影去了，可是我还不如自己一个人去呢（真不该带她去）。
+|<- 这里的 would rather have been 表示对过去的虚拟，意思是“还不如自己一个人去”，但实际上不是一个人去的。
+
+|- I *would rather have had* one breath of her hair, one kiss of her mouth, one touch of her hand *than* an eternity without it. +
+如果可以呼吸到她散发在空气中的发香、轻吻她的双唇、抚摸她的双手，那么我宁愿放弃永生。
+|<- 美国电影《天使之城》（The City of Angels） 的台词. +
+**宁愿过去做过这个事情, 但实际上是没做过.
+**
+|===
+
+---
+
+==== ---- would rather sb. did -> 主语宁愿让另一个人做某事 (即: 对"现在或将来"进行虚拟)
+
+这是would rather后面接从句的用法，意指“*主语宁愿让另一个人做某事*”。 +
+这里从句的谓语, 用 did (一般过去式)，但表示的是"现在"或"将来"的事件，如同"对现在事实进行虚拟的"虚拟条件从句的谓语形式。
+
+[cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|- Don't come tomorrow. I'*d rather you came* next weekend. +
+明天就别来了，我希望你下周末过来。
+|<- 我们看到，这里的时间状语next weekend显然是表示一个"将来"的时间，但句子的谓语却用了came这样的"一般过去式"，而不用will come，甚至也不用would come。
+
+|- She says she'*d rather he left* tomorrow instead of today. +
+她说她希望他明天走，而不是今天。
+|<- 尽管有"将来"的时间状语 tomorrow，但句子的谓语却用了left这样的"一般过去式"，而不用 will leave，甚至也不用 would leave。
+
+|===
+
+---
+
+==== ---- would rather sb. had done -> 主语宁愿别人过去做了某事，但实际上没有做  (即: 对"过去"进行虚拟)
+
+这是would rather后面接从句的用法，意指“*主语宁愿别人过去做了某事，但实际上没有做*”。 +
+这里从句的谓语, 用 had done (过去完成时)表示过去的事件，如同"过去虚拟条件从句"的谓语形式。
+
+- For my ninth birthday, my father gave me a set of the World Book Encyclopedia. But I *would rather he had given* me a set of transformers.  +
+在我九岁生日的时候，我爸爸送给了我一套《世界百科全书》，可是我倒希望他能送我一套变形金刚更好。
+
+---
+
+==== ---- 其他的结构，如 would（just）as soon，would sooner 和 would prefer 在接从句时，完全如同 would rather 的虚拟用法
+
+- I'*d just as soon* you *didn't speak* rudely to her. <- 逆转现在 +
+我希望你不要那么粗鲁地对她说话。(just as soon 宁愿)
+
+- I'*d as soon* you *hadn't spoken* rudely to her. <- 逆转过去 +
+我希望你当时没有那么粗鲁地对她说话。
+
+---
+
+==== ---- might just as well + have done -> 当时宁可做...了 (即: 对"过去"的虚拟)
+
+You/We *may/might (just) as well*... 我们**不妨...; 还是...的好; 倒不如**
+
+- Our holidays were ruined by the weather — we *might just as well have stayed* at home. +
+因为天气的原因，我们的假期全给毁了。我们还不如就在家里呆着哪也不去呢！ +
+-> 这完全类似于 would rather have done 的意义和用法，都表示对"过去"的虚拟，意思是“还不如呆在家里”，但实际上没有这么做，而是出去度假了，但天气不好，玩得并不开心。
 
 
 
 
 ---
-
-
-
-file:///E:/+%20ebook/eng%20%E8%8B%B1%E8%AF%AD/%E5%BC%A0%E6%BB%A1%E8%83%9C%20eng%20img/Zhang%20Man%20Sheng/Ying%20Yu%20Yu%20Fa%20Xin%20Si%20Wei%20Zhong%20Ji%20J%20(141)/Ying%20Yu%20Yu%20Fa%20Xin%20Si%20Wei%20Zhong%20-%20Zhang%20Man%20Sheng/index_split_064.html#filepos1334047
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
