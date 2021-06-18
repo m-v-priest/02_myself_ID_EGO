@@ -4,6 +4,22 @@
 
 ---
 
+== 把"定语从句"简化为"非谓语"的形式, 是以丧失"明晰性"（clarity）为代价的
+
+*定语从句, 就相当于一个adj.的作用. +
+那么所有可以起到adj.功能的成分, 都能用来代替定语从句, 或者说, 定语从句可以简化成这些成分.*
+
+*哪些成分, 也相当于adj.呢, 能用做定语呢 ?*
+
+- -ing, -ed 分词短语
+- to do 不定式
+
+*所以, 定语从句, 就能简化成 -ing/-ed 分词短语, 或 to do 不定式.*
+
+但是读者要牢记这一点：**把"定语从句"简化为"非谓语"的形式, 是以丧失"明晰性"（clarity）为代价的，即逻辑语义关系的明晰性降低了，意思变得模糊了。**
+
+---
+
 == 如果"关系词(假对象)"充当定语从句中谓语的"宾语", 则该定语从句, 就无法简化! 只有"关系词(假对象)"充当定语从句中谓语的"主语", 该定语从句才能简化.
 
 首先要注意, 不是所有的"定语从句"都可以简化, 其原因之一是, 这与"定语从句"本身的结构有关。因此, 我们的考虑顺序, 就分为两步:
@@ -68,13 +84,221 @@
 
 ---
 
-==
+== 分词动作的时间, 一般须与句子谓语的时间一致，若不一致则不能用分词造句(即定语从句不能简化成分词)，而只能用定语从句
+
+
+[cols="1a,1a" options="autowidth"]
+|===
+|-ing |-ed (过分)
+
+|- 主动"一般"的动作
+- 主动"进行"的动作
+|- 被动"一般"的动作, 或"完成"的动作
+- 主动"完成"的动作
+|===
+
+
+注意: *这里都没有涉及动作的"具体时间", 是"过去"还是"现在"? 因为"分词"动作的时间, 要通过句子谓语的时间来表现出来.* +
+且两者一般是一致的，比如同样表示"过去"，或同样表示"现在"。
+
+- The men *working* on the site *were* in some danger. <- 主句谓语were表明时间是"过去"，所以分词working的时间也是"过去". +
+=The men who *were working* on the site *were* in some danger. +
+当时在工地上工作的那些人, 处境非常危险。
+
+- The men *working* on the site *are* in some danger. <- 主句的谓语are表明时间是"现在"，所以分词working的时间也是"现在". +
+=The men who *are working* on the site *are* in some danger. +
+现在正在工地上工作的那些人, 处境非常危险。
+
+总之，对于分词, 我们现在就知道了两点:
+
+1. 分词的动作, 是没有时间概念的 (*光看分词本身, 是不表达任何的动作所处的时间的*).
+2. *分词动作的时间概念, 要通过句子谓语的时态, 体现出来，与它一致*，即“分词动作的时间,与句子谓语的时间,一致性原则”。
+
+*因此，当"定语从句"的谓语动作的时间, 与"主句"谓语的时间不一致时，此时定语从句通常就不能改写成分词短语*. 如:
+
+[cols="1a,2a"]
+|===
+|Header 1 |Header 2
+
+|- *Do* you know the boy who *broke* the window?
+|-> 主句的谓语do, 是一般现在时态 +
+-> 定义从句的谓语broke, 是一般过去时态 +
+两者之间在时间上是不一致的, 所以不能把这个定语从句,简化为分词短语. 所以如果你说成 *Do* you know the boy *breaking* the window? × 是错的.   +
+**不能简化, 就只能还原成完整的定语从句才行. **根据时间一致性原则, 其完整的定语从句是  *Do* you know the boy who *is breaking* the window? 这句子的意思就成了："你认识现在正在那里砸窗户的那个男孩吗？"
+
+
+|- *Do* you know the fire __ yesterday? +
+A.which *broke* out √ +
+B.*breaking* out
+|*"句子"谓语动作的时间, 必须与"分词"动作的时间要一致，否则只好用"定语从句"。* +
+这个句子就是遇到了不一致的情况：由do知道句子的谓语是现在时态，而由yesterday知道分词是过去时态，所以此时只好用定语从句。故A即which broke out正确，而B即breaking out违背了这个时间一致性原则, 所以不能采用简化形式。
+
+如果将 *Do* you know the fire *breaking* out? 这个简化形式, 还原成完整的定语从句, 就只能是 *Do* you know the fire which *is breaking* out now? 意思就是“你知道现在正在燃烧的大火吗？” 此时就不能用yesterday这样的表示过去时间的状语。
+
+|===
+
+综上所述，分词动作的时间, 一般须与句子谓语的时间一致，*若不一致则不能用分词造句(即定语从句不能简化成分词)，而只能用完整的定语从句。*
+
+
+---
+
+== (1)定语从句的"主动式" -> 简化成 -ing短语; (2)定语从句的"被动式" -> 简化成 -ed短语
+
+对于可以简化成"分词短语"的定语从句, 一般来说 :
+
+- 定语从句的**主动式, 可以转换成 -ing 短语**，因为"现在分词"表示"主动"的动作；
+- 定语从句的**被动式, 可以转换成 -ed短语**，因为"过去分词"通常表示"被动"的动作。
+
+[cols="1a,3a"]
+|===
+|Header 1 |定语从句 -> 简化成 -ing(主动) /-ed(被动)
+
+|
+- 主句谓语 : do 时态,
+- 从句谓语 : do 时态
+|-  China *is* a developing country *which belongs to* the third world. +
+-> 简化成 China is a developing country *belonging to* the third world.
+
+定语从句是"主动"语态，所以用 -ing
+ 来简化. +
+*"-ing 现在分词"表示 ①主动的、②一般的 动作。*
+
+---
+
+- Books *which are written* in English *are* more expensive. +
+-> 简化成 Books *written* in English are more expensive. +
+英文书一般都较贵。
+
+定语从句是"被动"语态，所以用 -ed
+ 来简化.  +
+*"-ed 过去分词"表示 ① 被动的、 ②一般的 动作。*
+
+|- 主句谓语 : do 时态,
+- 从句谓语 : be doing 时态
+|- *Do* you know the boy *who is playing* the violin? +
+-> 简化成 Do you know the boy *playing* the violin?
+
+*-ing现在分词表示 : ①主动的、②现在进行的 动作。*
+
+---
+
+- The car *that is being repaired* is mine.
+-> 简化成  The car *being repaired* is mine.
+
+*定语从句是"现在进行时"的"被动"语态，所以也用"-ing现在分词"的被动形式 being done 来简化. 表示 ①现在进行的, ②被动的 动作.*
+
+
+|- 主句谓语 : did 时态,
+- 从句谓语 : did 时态
+|
+- The man *who stole* into the room *was caught* immediately.
+-> 简化成 The man *stealing* into the room was caught immediately. +
+
+steal (v.) 偷偷地（或悄悄地）移动 /~ (sth) (from sb/sth) 偷；窃取
+
+定语从句是"主动"语态，所以简化成 -ing 现在分词.
+
+|主从句的谓语时间不一致
+|在某些特殊情况下，尽管"主句"与"从句"谓语的时间不一致，但在不影响句子意思表达的情况下，可以把"定语从句"简化为"分词短语"。
+
+- The girl *who is playing* basketball *used to be* very weak.
+-> 简化成 The girl *playing* basketball used to be very weak.
+
+本句话, 主句谓语是 did时态, 从句谓语是 be doing 时态.
+
+---
+
+- The car *that was repaired* yesterday by him is mine.
+-> 简化成 The car *repaired* yesterday by him is mine.
+
+本句话, 主句谓语是 do 时态, 从句谓语是 did 时态.
+
+---
+
+**但是，若简化后影响了句子意思的表达，则只能保留"定语从句"，而不能简化为"分词"。**比如这个句子 *Do* you know the boy *who broke* the window.
+
+|===
+
+---
+
+== 哪些定语从句, 无法简化成"分词短语"?
+
+[cols="2a,3a"]
+|===
+|Header 1 |Header 2
+
+|因时态限制不能转换 :  +
+若从句谓语动作发生的时间, 先于主句谓语动作发生的时间，此时, 从句不能简化为分词。
+
+|- *Do* you know the boy *who broke* the window? +
+-> 从句先"打破窗户", 后 主句"知道". 主句在时间上落后了, 就不能简化.
+
+- The girl *who stood* at the gate yesterday *is* my sister. +
+-> 若简化为分词说成：The girl *standing* at the gate yesterday is my sister. 还原后只能是：The girl *who is standing* at the gate yesterday is my sister. 你就把从句的动作时间都变了!
+
+
+|*因为分词的"完成式" having done 或 having been done 这两种形式都是不能用作定语的，所以当"定语从句"的时态为"完成时态"的时候，也不能将从句简化为分词。*
+|- Those *who have finished* their exercises may go now. +
+-> 不能简化成 Those *having finished* their exercises may go now. × 英语中没有这样的句子构造形式。
+
+
+|定语从句中含有情态动词时 : +
+*如果定语从句中含有情态动词，具有特定的情态含义，那么若简化为分词，则会失去情态的意味，因此一般不能简化。*
+
+|- Is there anyone who *can* answer the question? +
+-> 不能简化为分词说成：Is there anyone *answering* the question? × 因为简化后会导致情态动词意义丢失了
+
+---
+
+不过帮助构成"将来时"的 will和shall, 不在此列。
+
+- The boy *who will come* to see you tomorrow will bring you that book. +
+-> 可简化成 The boy *coming* to see you tomorrow will bring you that book.
+
+
+|定语从句中是由be动词作谓语时, 就不能简化为分词
+|- Those *who are* busy don't have to go. +
+那些正在忙着的人不必去。
+
+-> 不能简化为分词说成：Those *being busy* don't have to go.  × +
+因为**英语中，“being+形容词”这样的结构, 不能作后置定语。**
+
+
+|在一些特殊的句子里，有时由于语义上的原因，不能转换
+|- The man *who cooked* for the students *has died*.
+
+-> 这里从句的谓语cooked是"过去时态"，主句的谓语has died 是"现在完成时态"。如果改写成分词后说成：
+
+- The man *cooking for* the students *has died*.  ×
+
+还原后就变成了：
+
+- The man *who is cooking/cooks for* the students *has died*.  ×
+
+从句谓语 is cooking或cooks, 表明这个人现在还活着，但主句的谓语has died 却说他已经死了，造成前后矛盾. 所以, 本句这种语意情况, 定语从句就不能简化.
 
 
 
+|===
 
 
+---
+
+== 定语从句起(adj.)定语作用, to do 不定式也能起(adj.)定语作用
+
+上面讨论的 -ing/-ed 分词, 具有 adj.功能, 主要用来作定语 (即 "定语从句"可简化成"分词短语")。 +
+同样,  to do 不定式, 也可当作 adj. 来用，在句中作定语。
+
+一般来说，*被 the only，the last，the next，序数词和最高级形容词修饰的名词，其后所接的"定语从句", 往往要用 "to do 不定式" 来替换。*
+
+- You are *the only one that can understand* me. +
+-> 简化成 You are *the only one to understand* me.
+
+- *The next train that arrives* is from New York. +
+-> 简化成  *The next train to arrive* is from New York.
+
+- Clint was *the second person that fell* into this trap. +
+-> 简化成  Clint was *the second person to fall* into this trap.
 
 
-
-
+---
