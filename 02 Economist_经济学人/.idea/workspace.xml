@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a68e88ed-e7b2-4e0e-8121-865f3da9a049" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/02 Economist_经济学人.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eco2020_1-6 months/eco2020_01.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/eco2020_1-6 months/eco2020_01.adoc" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="1ob0rjQfnbjWX3gyGK7Zxo47LP1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a68e88ed-e7b2-4e0e-8121-865f3da9a049" name="Default Changelist" comment="" />
+      <created>1613540184943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613540184943</updated>
+      <workItem from="1613540193848" duration="3448000" />
+      <workItem from="1613554688132" duration="12492000" />
+      <workItem from="1613646823970" duration="1965000" />
+      <workItem from="1613734430398" duration="3626000" />
+      <workItem from="1613740221801" duration="2145000" />
+      <workItem from="1613818185552" duration="5358000" />
+      <workItem from="1613865989495" duration="685000" />
+      <workItem from="1613891340825" duration="4183000" />
+      <workItem from="1613903105110" duration="3618000" />
+      <workItem from="1614077677658" duration="6357000" />
+      <workItem from="1614392077487" duration="3162000" />
+      <workItem from="1614428206880" duration="2256000" />
+      <workItem from="1614470064993" duration="5238000" />
+      <workItem from="1614596422654" duration="4191000" />
+      <workItem from="1614683359910" duration="1713000" />
+      <workItem from="1615074877261" duration="18000" />
+      <workItem from="1615074951003" duration="124000" />
+      <workItem from="1619827450306" duration="1152000" />
+      <workItem from="1619828609010" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="851" y="251" key="FileChooserDialogImpl" timestamp="1619828628310">
+      <screen x="0" y="81" width="1600" height="819" />
+    </state>
+    <state x="851" y="251" key="FileChooserDialogImpl/0.81.1600.819@0.81.1600.819" timestamp="1619828628310" />
+  </component>
+</project>
