@@ -142,6 +142,7 @@ Doctor: Well, how's the patient this morning? +
 Nurse: He appears to have had a very restless night. +
 Doctor: Oh. Was he in very severe pain? +
 Nurse: Yes. I'm afraid he was, doctor. +
+
 Doctor: Hmm. In that case, I think we'd better increase his dosage of diamorphine. +
 Nurse: Yes, doctor. By how much? +
 Doctor: Let's see. How much is he on at the moment? +
@@ -150,22 +151,53 @@ Doctor: Hmm. Increase it to fifty. +
 Nurse: Fifty? All at once? +
 Doctor: Yes, that's what I said, nurse. +
 Nurse: But that's an increase of forty-five milligrammes. +
+
+====
+- con·science /ˈkɑːnʃəns/ 良心；良知 /内疚；愧疚
+- patient 接受治疗者，病人（尤指医院里的）
+- restless  坐立不安的；不耐烦的 / 没有真正休息的；没有睡眠的
+- dosage   （通常指药的）剂量 +
+-> a high/low dosage 大╱小剂量
+- diamorphine : a powerful drug that is made from opium and used to reduce pain 二乙酰吗啡，海洛因（用以镇痛）
+- milligramme = milligram 毫克；千分之一克
+====
+
+
 Doctor: I'm quite aware of that. However, when I operated on the patient yesterday, I
-found his abdomen was riddled with carcinoma. I'm sure you realize what that means. +
-Nurse: Yes, I do, doctor. But I still don't feel I can accept responsibility for administering
-such an increase. +
+found his abdomen was riddled(a.) with carcinoma(n.). I'm sure you realize what that means. +
+Nurse: Yes, I do, doctor. But I still don't feel I can accept responsibility for administering(v.) such an increase. +
 Doctor: Can't you? What exactly do you suggest, then? +
-Nurse: That if you're convinced it's the right thing to do, you ought to administer the
-injection yourself. +
+Nurse: That if you're convinced(a.) it's the right thing to do, you ought to administer the injection yourself. +
 Doctor: Hmm. I see what you mean. Very well, I will.
 
+====
+- riddled  : ADJ If something is *riddled with* undesirable qualities or features, it is full of them. 充满 (不好的特质或特征) 的 / 布满 (枪眼) 的 +
+-> They were the principal shareholders in a bank *riddled(a.) with* corruption.
+ 他们是一家腐败成风的银行的主要股东。
 
+- carcinoma 癌（影响上皮组织或腹腔器官内膜的恶性肿瘤） +
+=> carcin, 癌，同cancer, 字母r,n音变。-oma, 块，见sarcoma.
+
+- administer (v.)
+1.施行；执行 /管理（公司、组织、机构等）；治理（国家）::
+-> to administer justice/the law 司法；执法
+2.~ sth (to sb) 给予；提供 /给予，施用（药物等）::
+-> The teacher has the authority to administer(v.) punishment. 老师有权处罚。
+
+- But I still don't feel I can accept responsibility for administering(v.) such an increase. 但我还是觉得我不能承担增加剂量的责任。
+
+- What exactly do you suggest, then? 那你到底有什么建议呢?
+- **convinced (a.)~ (of sth/that...) **: completely sure about sth 坚信；深信；确信
+
+- I see what you mean. 我明白你的意思了。
+====
 
 
 
 ---
 
 ==== C. Earthquake.
+
 
 Woman: What did you do during the earthquake, James? +
 James: Stayed in bed. +
@@ -176,30 +208,74 @@ James: Well, I must have slept through the first earthquake although nobody beli
 They said it was so noisy. Then I woke up about four in the morning. Still feeling terrible
 with the flu. Eyes running, nose running. You know how you feel when you've got the flu. +
 Woman: Don't I just. I've been lucky so far this year, though. +
+
+====
+- must have done  想必曾经 / 必须曾经 +
+-> The door droops a little; there must have been something wrong with the hinges. 门有点下坠，铰链一定（想必曾经）出了问题。 +
+-> Any applicant for this position must have practised for six years. 凡申请该职务者，必须具有六年的实践经验。
+
+- I must have slept through the first earthquake although nobody believes me. 我一定是在第一次地震时睡着了，尽管没人相信我。
+- nose 鼻；鼻子
+- Eyes running, nose running.  流眼泪，流鼻涕
+====
+
+
+
+
 James: So I decided to get up and make a cup of tea. I'd just got into the kitchen when I
 started to feel all unsteady on my feet. Then I got this roaring noise in my ears. I still
 thought it was the flu, you see. +
 Woman: So what happened then? +
-James: Well, I slowly realized that it wasn't me feeling dizzy and the noises weren't in my
-head. I heard the people upstairs screaming. The wooden floor started moving up and
-down, the doors and windows started rattling and banging, all the kitchen cupboards were
+James: Well, I slowly realized that it wasn't me feeling dizzy(a.) and the noises weren't in my head. I heard the people upstairs screaming. The wooden floor started moving up and
+down, the doors and windows started rattling(v.) and banging, all the kitchen cupboards were
 thrown open and cups and saucers came crashing to the floor, the kitchen clock fell from
 the wall ... +
+
+====
+- I’d just got into the kitchen when I started to feel all unsteady on my feet. Then I got this roaring noise in my ears. I still thought it was the flu, you see. +
+我刚进厨房, 就感到脚不稳了。然后我耳朵里就嗡嗡作响。我还以为是流感的原因呢.
+
+- dizzy (a.)头晕目眩的；眩晕的
+- rattle (v.)（使）发出咔嗒咔嗒的声音
+- bang (v.) 猛敲；砸 /（把…）砰的关上
+
+- come doing sth 表示方式或伴随. ** come接doing表示来的方式，作方式状语。** +
+-> Men came bearing heavy burdens of provisions. 人们扛着沉重的粮食物资来到这里。  +
+=> came 是谓语动词，*bearing heavy burdens of provisions 是现在分词短语，作伴随状语。如果需要，came 可以换成其他的动词，例如，went away, walked 等等。* +
+-> Eric came running into the room, out of breath. 埃里克上气不接下气地跑进房间。
+====
+
+
+
 Woman: Well, what did you do? +
 James: What could I do? I just stood there and watched. +
 Woman: Why didn't you try to get out? +
-James: Oh, I couldn't be bothered. I was feeling so terrible with the flu. I just went back to
-my bedroom. Some books had fallen from the bookcase and that little porcelain vase had
-rolled to the floor but fortunately didn't break. I even had to look for my transistor radio
-under the bed. I picked it up and switched it on and they were telling people to go and
-sleep in the parks. +
+James: Oh, I couldn't be bothered. I was feeling so terrible with the flu. I just went back to my bedroom. Some books had fallen from the bookcase and that little *porcelain(n.) vase*(n.) had rolled to the floor but fortunately didn't break. I even had to look for my *transistor radio* under the bed. I picked it up and switched it on and they were telling people to go and sleep in the parks. +
+
+====
+- porcelain /ˈpɔːrsəlɪn/  瓷；瓷器 +
+=> porc-经c、k音变后成pork（猪肉），二者同源，本义为“猪”；-elain指“小”；其本义是“小母猪”。引申路径是：母猪的外阴形似一种贝壳（cowrie shell，网上译作“子安贝”），而该贝壳的表面光泽和瓷器十分类似。
+
+- vase 花瓶；装饰瓶
+- transistor  晶体管 +
+image:../img/transistor.jpg[150,150]
+====
+
+
+
+
 Woman: So why didn't you? +
-James: I told you, I was feeling too ill. And the nearest park is a long walk from my flat.
-And I didn't want to be with a lot of people. So I just stayed in bed and hoped for the best. I
-didn't really think the house was going to fall down around me. Though several did, I found
-out later. +
-Woman: Yes. I was sitting in a cafe when the first one started and the whole place started
-to shake. People were running and screaming and pushing to get out ...
+James: I told you, I was feeling too ill. And the nearest park is a long walk from my flat. And I didn’t want to be with a lot of people. So I just stayed in bed and hoped for the best. I didn’t really think the house was going to fall down around me. Though several did, I found out later.  +
+Woman: Yes. I was sitting in a cafe when the first one started and the whole place started to shake. People were running and screaming and pushing to get out ...
+
+
+====
+- I didn’t really think the house was going to fall down around me. Though several did, I found out later.  +
+我并不真的认为我周围的房子会倒塌。虽然有几个是这样，我事后发现。
+====
+
+
+
 
 ---
 
@@ -207,42 +283,84 @@ to shake. People were running and screaming and pushing to get out ...
 
 ==== A. Who Needs Friends Like This?
 
-Martin, Robert and Jean are being interviewed on the subject of friendship. +
-Interviewer: How important are friends to you, Martin?
+
+Martin, Robert and Jean are being interviewed on the subject of friendship.
+
+
+Interviewer: How important are friends to you, Martin? +
 Martin: I've never had a lot of friends. I've never regarded them as particularly important.
 Perhaps that's because I come from a big family. Two brothers and three sisters. And lots
 of cousins. And that's what's really important to me. My family. The different members of
 my family. If you really need help, you get it from your family, don't you? Well, at least
 that's what I've always found. +
+
+====
+- Well, at least that’s what I’ve always found. 至少我一直都是这么认为的。
+====
+
+
+
 Interviewer: What about you, Jean? +
-Jean: To me, friendship ... having friends ... people I know I can really count on ... to me
+Jean: To me, friendship ... having friends ... people I know I can really *count on* ... to me
 that's the most important thing in life. It's more important even than love. If you love
-someone, you can always fall out of love again, and that can lead to a lot of hurt feelings,
+someone, you can always *fall out of love* again, and that can lead to a lot of hurt feelings,
 bitterness, and so on. But a good friend is a friend for life. +
 Interviewer: And what exactly do you mean by a friend? +
-Jean: Well, I've already said, someone you know you can count on. I suppose what I really
-mean is ... let's see, how am I going to put this ... it's someone who will help you if you
-need help, who'll listen to you when you talk about your problems ... someone you can
-trust. +
+Jean: Well, I've already said, someone you know you can count on. I suppose what I really mean is ... let's see, how am I going to put this ... it's someone who will help you if you need help, who'll listen to you when you talk about your problems ... someone you can trust. +
+
+
+====
+- count on 指望 /依靠 +
+-> Don't count on Lillian.  别依靠莉莲了。
+
+- To me, friendship …​ having friends …​ people I know I can really count on …​ to me that’s the most important thing in life. +
+对我来说，友谊，有朋友，有我可以信赖的人，对我来说这是生命中最重要的事情。
+
+- fall out of love 失恋
+- But a good friend is a friend for life. 但是一个好朋友是一生的朋友。
+- let's see, how am I going to put this ... 让我想想，我该怎么说呢…
+- put (v.)[ + adv./prep. ] to express or state sth in a particular way 说；表达 +
+-> She put it very tactfully. 她的话说得很巧妙。 +
+-> Put simply , we accept their offer or go bankrupt. 简单地说吧，我们要么接受他们的条件，要么破产。
+====
+
+
+
+
 Interviewer: What do you mean by a friend, Robert?
-Robert: Someone who likes the same things that you do, who you can argue with and not
-lose your temper, even if you don't always agree about things. I mean someone who you
-don't have to talk to all the time but can be silent with, perhaps. That's important, too. You
-can just sit together and not say very much sometimes. Just relax. I don't like people who
-talk all the time. +
-Interviewer: Are you very good at keeping in touch with your friends if you don't see them
-regularly?
-Robert: No, not always. I've lived in lots of places, and, to be honest, once I move away, I
-often do drift out of touch with my friends. And I'm not a very good letter writer, either.
-Never have been. But I know that if I saw those friends again, if I ever moved back to the
-same place, or for some other reason we got back into close contact again, I'm sure the
+Robert: Someone who likes the same things that you do, who you can *argue with* and not lose your temper, even if you don't always agree about things. I mean someone who you don't have to talk to all the time but can be silent with, perhaps. That's important, too. You can just sit together and not say very much sometimes. Just relax. I don't like people who talk all the time. +
+
+Interviewer: Are you very good at *keeping in touch with* your friends if you don't see them regularly?
+Robert: No, not always. I've lived in lots of places, and, to be honest, once I move away, I often do drift *out of touch with* my friends. And I'm not a very good letter writer, either. Never have been. But I know that if I saw those friends again, if I ever moved back to the same place, or for some other reason we *got back into* close contact again, I'm sure the
 friendship would be just as strong as it was before. +
-Jean: Several of my friends have moved away, got married, things like that. One of my
-friends has had a baby recently, and I'll admit I don't see her or hear from her as much as I
-used to ... She lives in another neighborhood and when I phone her, she always seems
-busy. But that's an exception. I write a lot of letters to my friends and get a lot of letters
-from them. I have a friend I went to school with and ten years ago she emigrated to
-Canada, but she still writes to me every month, and I write to her just as often.
+
+====
+- argue (v.)~ (with sb) (about/over sth)  争论；争吵；争辩
+- Are you very good at keeping in touch with your friends if you don't see them regularly? +
+如果你不经常见到你的朋友，你会和他们保持很好的联系吗?
+
+- be, get, keep, etc. in ˈtouch (with sb)  （与…）有（或进行、保持等）联系
+- be out of ˈtouch (with sb) 失去联系；不再了解（某人的）情况
+- drift (v.)无意间发生；无目的地转变；顺其自然地做 +
+-> The conversation drifted onto politics. 谈话不知不觉就转到政治方面来了
+
+- And I'm not a very good letter writer, either. Never have been. 我也不太会写信。从来都不是。
+====
+
+
+
+
+
+Jean: Several of my friends have moved away, got married, things like that. One of my friends has had a baby recently, and I’ll admit I don’t see her or hear from her *as much as I used to* .... She lives in another neighborhood and when I phone her, she always seems busy.  +
+But that’s an exception. I write a lot of letters to my friends and get a lot of letters from them. I have a friend I went to school with and ten years ago she emigrated to Canada, but she still writes to me every month, and I write to her just as often.
+
+====
+- One of my friends has had a baby recently, and I’ll admit I don’t see her or hear from her as much as I used to ...  +
+我承认我不再像以前那样, 经常见到她, 或听到她的消息...
+- exception 一般情况以外的人（或事物）；例外
+====
+
+
 
 ---
 
@@ -250,51 +368,80 @@ Canada, but she still writes to me every month, and I write to her just as often
 
 Bill Walker works for an import-export company. Last Wednesday morning Bill rang his
 office at nine o'clock. His boss, Mr. Thompson, answered the phone.
-Mr. Thompson: Hello, Thompson here ...
-Bill: Hello. This is Bill Walker.
-Mr. Thompson: Oh, hello, Bill.
-Bill: I'm afraid I can't come to work today, Mr. Thompson.
-Mr. Thompson: Oh, what's the problem?
-Bill: I've got a very sore throat.
-Mr. Thompson: Yes, you sound ill on the phone.
-Bill: Yes, I'll stay in bed today, but I'll be able to come tomorrow.
-Mr. Thompson: That's all right, Bill. Stay in bed until you feel well enough to work.
-Bill: Thank you, Mr. Thompson ... Goodbye.
+
+Mr. Thompson: Hello, Thompson here ... +
+Bill: Hello. This is Bill Walker. +
+Mr. Thompson: Oh, hello, Bill. +
+Bill: I'm afraid I can't come to work today, Mr. Thompson. +
+Mr. Thompson: Oh, what's the problem? +
+Bill: I've got a very sore throat. +
+Mr. Thompson: Yes, you sound ill on the phone. +
+Bill: Yes, I'll stay in bed today, but I'll be able to come tomorrow. +
+Mr. Thompson: That's all right, Bill. Stay in bed until you feel well enough to work. +
+Bill: Thank you, Mr. Thompson ... Goodbye. +
 Mr. Thompson: Goodbye, Bill.
+
+
+====
+- sore throat 咽喉痛
+====
 
 \***
 
-Mr. Thompson liked Bill very much. At 12:30 he got into his car, drove to a shop and
+Mr. Thompson liked Bill very much. At 12:30 he got into his car, drove(v.) to a shop and
 bought some fruit for him. He went to Bill's flat and rang the doorbell. Bill's wife, Susan,
 answered the door. +
-Susan: Oh, Mr. Thompson! Hello ... how are you?
+
+Susan: Oh, Mr. Thompson! Hello ... how are you? +
 Mr. Thompson: Fine, thanks, Susan. I've just come to see Bill. How is he? +
-Susan: He doesn't look very well. I wanted him to see the doctor.
-Mr. Thompson: I'll go in and see him ... Hello, Bill!
-Bill: Oh ... hello ... hello, Mr. Thompson ... er ... er ...
-Mr. Thompson: I've brought some fruit for you, Bill.
-Bill: Thank you very much, Mr. Thompson.
-Mr. Thompson: Well, ... I had to pass your house anyway. How's your throat?
-Bill: It seems a little better. I'll be OK tomorrow.
-Mr. Thompson: Well, don't come in until you feel better.
-Bill: All right ... but I'm sure I'll be able to come in tomorrow.
-Mr. Thompson: Goodbye, Bill.
-Bill: Goodbye, Mr. Thompson.
+Susan: He doesn't look very well. I wanted him to see the doctor. +
+Mr. Thompson: I'll go in and see him ... Hello, Bill! +
+Bill: Oh ... hello ... hello, Mr. Thompson ... er ... er ... +
+Mr. Thompson: I've brought some fruit for you, Bill. +
+Bill: Thank you very much, Mr. Thompson. +
+Mr. Thompson: Well, ... I had to pass your house anyway. How's your throat? +
+Bill: It seems a little better. I'll be OK tomorrow. +
+Mr. Thompson: Well, don't come in until you feel better. +
+Bill: All right ... but I'm sure I'll be able to come in tomorrow. +
+Mr. Thompson: Goodbye, Bill. +
+Bill: Goodbye, Mr. Thompson. +
+
+
+====
+- get into 进入
+-  I had to pass your house anyway. 反正我得路过你家。
+- anyway （转换话题、结束谈话或回到原话题时说）无论如何，反正 +
+-> Anyway, let's forget about that for the moment. 咱们无论如何暂时不要再提这件事。
+====
+
 
 \***
 
 
 At three o'clock in the afternoon, Mr. Thompson locked his office door, and switched
 on his portable television. He wanted to watch an important international football match. It
-was England against Brazil. Both teams were playing well, but neither team could score a
+was England against Brazil. Both teams were playing well, but neither team could score(v.) a
 goal. The crowd were cheering and booing. It was very exciting.
+
+====
+- portable 便携式的；手提的；轻便的
+- score (v.)（在游戏或比赛中）得分
+- goal 球门 / 射门；进球得分 /目标；目的
+====
+
 
 \***
 
 Then at 3:20, England scored from a penalty. Mr. Thompson jumped out of his chair.
 He was very excited. He was smiling happily when suddenly the cameraman focused on
 the crowd. Mr. Thompson's smile disappeared and he looked very angry. Bill Walker's
-face, in close-up, was there on the screen. He didn't look ill, and he didn't sound ill. He
-was smiling happily and cheering wildly!
+face, in close-up(n.), was there on the screen. He didn't look ill, and he didn't sound ill. He was smiling happily and cheering wildly!
+
+====
+- penalty 惩罚；处罚；刑罚 /点球；罚点球得分+
+- cameraman （电影、电视节目的）摄影师
+- close-up （照相、电影的）特写，特写镜头
+====
+
 
 ---
