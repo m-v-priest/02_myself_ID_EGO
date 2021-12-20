@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 514 155" height="155" xmlns:xlink="http://www.w3.org/1999/xlink" width="514">
+    <defs/>
+    <g transform="translate(-689.00,-94.22)">
+        <g id="shape1" transform="translate(690.00,151.60)">
+            <path stroke="#323232" fill-rule="nonzero" fill="#ffffff" d="M.0,.0L138.5,.0L138.5,96.3L.0,96.3L.0,.0z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="56.3" y="53.6">中央</tspan>
+            </text>
+        </g>
+        <g id="shape2" transform="translate(931.52,172.85)">
+            <path stroke="#323232" fill-rule="nonzero" fill="#ffffff" d="M.0,.0L106.2,.0L106.2,53.7L.0,53.7L.0,.0z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="40.1" y="22.9">地方</tspan>
+                <tspan x="10.1" y="41.9">(三级地方政府)</tspan>
+            </text>
+        </g>
+        <g id="shape3" transform="translate(828.52,200.19)">
+            <path stroke="#191919" fill="none" d="M.0,.0L97.0,-0.2"/>
+            <path stroke-width="1" stroke="#191919" stroke-linecap="round" fill="#191919" d="M97.0,-3.2L103.0,-0.2L97.0,2.8L97.0,-3.2"/>
+            <rect x="32.4" y="-9.6" fill="#ffffff" height="19.0" width="39.0"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="32.4" y="5.4">可控制</tspan>
+            </text>
+        </g>
+        <g id="shape4" transform="translate(1037.74,199.99)">
+            <path stroke="#191919" fill="none" d="M.0,.0L95.2,-0.1"/>
+            <path stroke-linejoin="round" stroke-width="1" stroke="#191919" stroke-linecap="round" fill="none" d="M86.2,2.9L92.2,-3.1"/>
+            <rect x="12.0" y="-9.5" fill="#ffffff" height="19.0" width="52.0"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="12.0" y="5.5">无力镇压</tspan>
+            </text>
+        </g>
+        <g id="shape5" transform="translate(1132.95,180.07)">
+            <path stroke="#323232" fill-rule="nonzero" fill="#ffffff" d="M.0,.0L69.1,.0L69.1,39.3L.0,39.3L.0,.0z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="8.6" y="25.1">农民起义</tspan>
+            </text>
+        </g>
+        <g id="shape6" transform="translate(876.20,95.22)">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="40.9" y="19.5">内重外轻 :</tspan>
+                <tspan x="21.4" y="38.5">中央强大, 地方弱</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
