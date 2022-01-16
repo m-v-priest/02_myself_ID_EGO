@@ -1,12 +1,12 @@
 [{:block/name "++ my diary and values",
   :block/created-at 1642224072039,
-  :block/updated-at 1642253784914}
+  :block/updated-at 1642301278795}
  {:block/name "00 我的价值观架构, 认知库记录的基本原则",
   :block/created-at 1642253789090,
   :block/updated-at 1642253915400}
  {:block/name "01 roi 投资回报率",
   :block/created-at 1642224474013,
-  :block/updated-at 1642224633764}
+  :block/updated-at 1642295574914}
  {:block/name "02 人 - 谋事者_ 一个人如果懂得为什么去做(底层逻辑, 背后逻辑),那么他将永远是自己的主宰。",
   :block/created-at 1642236638230,
   :block/updated-at 1642236638230}
@@ -37,6 +37,9 @@
  {:block/name "11 二八定律_ 成为头部, 才能收取最大利益",
   :block/created-at 1642236638230,
   :block/updated-at 1642253486887}
+ {:block/name "11 各职业",
+  :block/created-at 1642294654994,
+  :block/updated-at 1642298180267}
  {:block/name "_因然_ 与 _实然_的区分,  '信仰'和'真理'的区别",
   :block/created-at 1642231506519,
   :block/updated-at 1642231518016}
@@ -76,6 +79,9 @@
  {:block/name "jan 15th, 2022",
   :block/created-at 1642221952640,
   :block/updated-at 1642223968036}
+ {:block/name "jan 16th, 2022",
+  :block/created-at 1642291200000,
+  :block/updated-at 1642291200000}
  {:block/name "later",
   :block/created-at 1642224014410,
   :block/updated-at 1642224014410}
@@ -91,10 +97,16 @@
  {:block/name "waiting",
   :block/created-at 1642224014409,
   :block/updated-at 1642224014409}
+ {:block/name "“一通百通”,即学好数学,那整个涉及到数学公式的书就都不在话下了。",
+  :block/created-at 1642295615579,
+  :block/updated-at 1642295626070}
  {:block/name
   "一旦选错职业,就像坐上了一辆开往远离你内心方向的火车, 并且随着这些工作职业要求越来越高,就离你心中的方向距离越来越远。",
   :block/created-at 1642249943686,
   :block/updated-at 1642250026039}
+ {:block/name "不管是什么投资,只有在'风险'和'收益'配比的情况下('高风险'应该给你带来'高收益'),才会有人去玩。",
+  :block/created-at 1642295686490,
+  :block/updated-at 1642295847278}
  {:block/name "不要去积累_你不想积累的经验_!!",
   :block/created-at 1642232238095,
   :block/updated-at 1642232288896}
@@ -114,6 +126,10 @@
  {:block/name "你做任何一件事, 若没有兴趣支撑, 你就度过不了它最艰难的时间段",
   :block/created-at 1642249795662,
   :block/updated-at 1642249807452}
+ {:block/name
+  "你公司自己的投资回报率, 你经营时亏不亏, 对收购方b公司来说没有意义. b公司只看他买下你公司后, 他自己赚不赚, 他的新的投资回报率变成多少_",
+  :block/created-at 1642296938748,
+  :block/updated-at 1642296976340}
  {:block/name "你吸引人不是最终目的,而是实现你进化目的的手段(诱饵、催化剂)",
   :block/created-at 1642233458389,
   :block/updated-at 1642233557498}
@@ -127,6 +143,9 @@
   "借助_钱_的势能 _你的首要任务就是拼项目、签合同,你首先要想尽办法给公司挣钱,而不是只考虑替公司省钱,不能舍本逐末",
   :block/created-at 1642233746495,
   :block/updated-at 1642233752868}
+ {:block/name "公务员",
+  :block/created-at 1642294757374,
+  :block/updated-at 1642294779575}
  {:block/name "兴趣分两种,一种是对技术类产生兴趣, 一种是对事业类产生兴趣",
   :block/created-at 1642225362429,
   :block/updated-at 1642225370426}
@@ -148,15 +167,27 @@
  {:block/name "复盘 _ 要不断的复盘, 要不断地分析自己工作的流程,改善流程",
   :block/created-at 1642253179460,
   :block/updated-at 1642253271236}
+ {:block/name "大学学历如果有价值, 它就必须能得到与这些价值对应的收入",
+  :block/created-at 1642295907568,
+  :block/updated-at 1642295943515}
  {:block/name "女性应该利用自己的女性资本, 取得对自己有利的结果。",
   :block/created-at 1642233652914,
   :block/updated-at 1642233662684}
  {:block/name "如何判断自己是否适合一份职业_",
   :block/created-at 1642249831846,
   :block/updated-at 1642249845640}
+ {:block/name "如果加装电梯,一楼房价必定下跌,试问顶楼加电梯涨个几十万会分钱给一楼吗?",
+  :block/created-at 1642301296476,
+  :block/updated-at 1642301296476}
+ {:block/name "如果加装电梯,一楼房价必定下跌,试问顶楼加电梯涨个几十万会分钱给一楼吗_",
+  :block/created-at 1642297011268,
+  :block/updated-at 1642297130856}
  {:block/name "学习与专业化, 相关的古人云",
   :block/created-at 1642253335822,
   :block/updated-at 1642253376839}
+ {:block/name "学习中遇到的问题, 在你解决后, 必须将过程记录下来, 复盘. 即, 结果不重要, 解决思路的过程才重要!!",
+  :block/created-at 1642296706868,
+  :block/updated-at 1642296712511}
  {:block/name "实践与想象, 相关的古人云",
   :block/created-at 1642231738402,
   :block/updated-at 1642231741522}
@@ -168,8 +199,8 @@
   :block/created-at 1642236638230,
   :block/updated-at 1642236638230}
  {:block/name "工具人的价值上限_ _工具人_的最高价值, 也不会超过该_工具_所能给你带来的_上限功能_所值的价值本身",
-  :block/created-at 1642253999303,
-  :block/updated-at 1642253999303}
+  :block/created-at 1642301296476,
+  :block/updated-at 1642301296476}
  {:block/name "工具人的命运 -_ 职业病",
   :block/created-at 1642236638230,
   :block/updated-at 1642236638230}
@@ -203,6 +234,9 @@
  {:block/name "工具比人低 _ 工具创造出来就是给人用的, 所以不存在_高级_或_门槛_这种东西的.",
   :block/created-at 1642235739260,
   :block/updated-at 1642235766789}
+ {:block/name "建造师",
+  :block/created-at 1642294684642,
+  :block/updated-at 1642294723287}
  {:block/name "思考「如何使工作对我有意义」,比死磕「我的工作有什么意义」更有意义。",
   :block/created-at 1642252998372,
   :block/updated-at 1642253025407}
@@ -244,6 +278,9 @@
   "消费者购买某产品, 必定要通过_用户之旅_的全过程. 所以不能让负责最前端内容推广的公关人, 直接承诺最后一个环节的销售成果.",
   :block/created-at 1642235013737,
   :block/updated-at 1642235142475}
+ {:block/name "演员 _ 演员的成功, 远不像科学家和艺术家那样随机",
+  :block/created-at 1642298194797,
+  :block/updated-at 1642298486600}
  {:block/name "演进 _ 你的_认知_, 需要随时间, 事态的变化, 而不断_演进_.",
   :block/created-at 1642252335462,
   :block/updated-at 1642252335477}
@@ -254,8 +291,8 @@
   :block/created-at 1642234942609,
   :block/updated-at 1642234944053}
  {:block/name "目标要明确, 要有完成的时间计划, 不能永无结束之日",
-  :block/created-at 1642253999303,
-  :block/updated-at 1642253999303}
+  :block/created-at 1642301296476,
+  :block/updated-at 1642301296476}
  {:block/name "目标要明确, 要有完成的时间计划, 不能永无结束之日.",
   :block/created-at 1642231796184,
   :block/updated-at 1642231921868}
@@ -268,6 +305,12 @@
  {:block/name "社会一直有需求,但是又无利润的工作,自然就要制造各种舆论谎言,不断的让人入坑。",
   :block/created-at 1642229402958,
   :block/updated-at 1642229402958}
+ {:block/name "程序运行的80%的时间, 其实是花在20%的代码上,剩下80%的代码就算优化到速度无穷快,也没有意义。",
+  :block/created-at 1642301296475,
+  :block/updated-at 1642301296475}
+ {:block/name "程序运行的80_的时间, 其实是花在20_的代码上,剩下80_的代码就算优化到速度无穷快,也没有意义。",
+  :block/created-at 1642301282982,
+  :block/updated-at 1642301286579}
  {:block/name "网上公开能学到的教程,都没有门槛和护城河. 网上学不到的,才有真正门槛",
   :block/created-at 1642229880944,
   :block/updated-at 1642229901783}
