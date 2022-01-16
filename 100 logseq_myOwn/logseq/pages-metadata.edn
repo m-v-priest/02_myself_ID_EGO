@@ -39,7 +39,10 @@
   :block/updated-at 1642253486887}
  {:block/name "11 各职业",
   :block/created-at 1642294654994,
-  :block/updated-at 1642298180267}
+  :block/updated-at 1642333967774}
+ {:block/name "61e2a6cf-744d-4674-855c-aaa8b276b4e2",
+  :block/created-at 1642338691217,
+  :block/updated-at 1642338691217}
  {:block/name "_因然_ 与 _实然_的区分,  '信仰'和'真理'的区别",
   :block/created-at 1642231506519,
   :block/updated-at 1642231518016}
@@ -88,6 +91,9 @@
  {:block/name "now",
   :block/created-at 1642224014410,
   :block/updated-at 1642224014410}
+ {:block/name "test 测试学习",
+  :block/created-at 1642334144192,
+  :block/updated-at 1642337854382}
  {:block/name "todo",
   :block/created-at 1642224014410,
   :block/updated-at 1642224014410}
@@ -116,6 +122,9 @@
  {:block/name "两者(两种工作)所处的_生态位_高低就不一样. 就决定了你_社会地位_的高低也不一样.",
   :block/created-at 1642227122426,
   :block/updated-at 1642227125533}
+ {:block/name "二八定律表明, 最后10_的功能, 往往需要90_的成本耗费, 在投入产出比是不合算的.",
+  :block/created-at 1642338691217,
+  :block/updated-at 1642338691217}
  {:block/name
   "人的精力和时间, 只会花在两种地方上_ 1.要么是第二曲线, 第三曲线, 思维模型的升级上;  2.要么是吃喝玩乐, 电脑游戏上面.",
   :block/created-at 1642233991042,
@@ -177,8 +186,8 @@
   :block/created-at 1642249831846,
   :block/updated-at 1642249845640}
  {:block/name "如果加装电梯,一楼房价必定下跌,试问顶楼加电梯涨个几十万会分钱给一楼吗?",
-  :block/created-at 1642301296476,
-  :block/updated-at 1642301296476}
+  :block/created-at 1642338691217,
+  :block/updated-at 1642338691217}
  {:block/name "如果加装电梯,一楼房价必定下跌,试问顶楼加电梯涨个几十万会分钱给一楼吗_",
   :block/created-at 1642297011268,
   :block/updated-at 1642297130856}
@@ -199,8 +208,8 @@
   :block/created-at 1642236638230,
   :block/updated-at 1642236638230}
  {:block/name "工具人的价值上限_ _工具人_的最高价值, 也不会超过该_工具_所能给你带来的_上限功能_所值的价值本身",
-  :block/created-at 1642301296476,
-  :block/updated-at 1642301296476}
+  :block/created-at 1642338691217,
+  :block/updated-at 1642338691217}
  {:block/name "工具人的命运 -_ 职业病",
   :block/created-at 1642236638230,
   :block/updated-at 1642236638230}
@@ -255,6 +264,9 @@
  {:block/name "时间花在什么上_ _ 非_上岸_的行动, 都是幻觉",
   :block/created-at 1642233875549,
   :block/updated-at 1642233902338}
+ {:block/name "明明有各种各样的图形化工具,为什么偏偏要学习命令操作 (即编程)",
+  :block/created-at 1642338691217,
+  :block/updated-at 1642338691217}
  {:block/name
   "最开始,大家都只有微弱的差距,似乎在一条起跑线上. 但随着时间的推移,从业年份的增长,成功概率越来越显示出它的力量!",
   :block/created-at 1642227597221,
@@ -291,8 +303,8 @@
   :block/created-at 1642234942609,
   :block/updated-at 1642234944053}
  {:block/name "目标要明确, 要有完成的时间计划, 不能永无结束之日",
-  :block/created-at 1642301296476,
-  :block/updated-at 1642301296476}
+  :block/created-at 1642338691217,
+  :block/updated-at 1642338691217}
  {:block/name "目标要明确, 要有完成的时间计划, 不能永无结束之日.",
   :block/created-at 1642231796184,
   :block/updated-at 1642231921868}
@@ -306,8 +318,8 @@
   :block/created-at 1642229402958,
   :block/updated-at 1642229402958}
  {:block/name "程序运行的80%的时间, 其实是花在20%的代码上,剩下80%的代码就算优化到速度无穷快,也没有意义。",
-  :block/created-at 1642301296475,
-  :block/updated-at 1642301296475}
+  :block/created-at 1642338691216,
+  :block/updated-at 1642338691216}
  {:block/name "程序运行的80_的时间, 其实是花在20_的代码上,剩下80_的代码就算优化到速度无穷快,也没有意义。",
   :block/created-at 1642301282982,
   :block/updated-at 1642301286579}
