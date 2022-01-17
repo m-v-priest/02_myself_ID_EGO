@@ -17,41 +17,41 @@
   :block/created-at 1642224474013,
   :block/updated-at 1642224633764}
  {:block/name "01 时间与熵",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457171,
+  :block/updated-at 1642408457171}
  {:block/name "02 人 - 谋事者_ 一个人如果懂得为什么去做(底层逻辑, 背后逻辑),那么他将永远是自己的主宰。",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457171,
+  :block/updated-at 1642408457171}
  {:block/name "03 反人性 - 工具人",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457171,
+  :block/updated-at 1642408457171}
  {:block/name "03-1 坏职业的特征",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457172,
+  :block/updated-at 1642408457172}
  {:block/name "03-2 好职业的特征",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457171,
+  :block/updated-at 1642408457171}
  {:block/name "04 判断 - 实践是检验_真理_(思想想法)真伪的唯一标准",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457172,
+  :block/updated-at 1642408457172}
  {:block/name "05 行;人生选择;策略 - 正确的行动态度_ 人生也就短短三万天, 无惧无畏, 不断向上",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457172,
+  :block/updated-at 1642408457172}
  {:block/name "06 思 - 人新的想法, 是看了其他东西后被刺激, 启发出来的.",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457172,
+  :block/updated-at 1642408457172}
  {:block/name "07 学 - 快速学习的方法",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457171,
+  :block/updated-at 1642408457171}
  {:block/name "08 概念是个框, 所以没有绝对的定义, 只有不同人赋予它的不同定义",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457172,
+  :block/updated-at 1642408457172}
  {:block/name "11 二八定律_ 成为头部, 才能收取最大利益",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457171,
+  :block/updated-at 1642408457171}
  {:block/name "11 各职业",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457172,
+  :block/updated-at 1642408457172}
  {:block/name "99_=0, 你离上岸还差1_的分数, 就是等于没上岸!",
   :block/created-at 1642384670909,
   :block/updated-at 1642402953687}
@@ -78,11 +78,11 @@
   :block/created-at 1642224014410,
   :block/updated-at 1642224014410}
  {:block/name "card",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457171,
+  :block/updated-at 1642408457171}
  {:block/name "contents",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457171,
+  :block/updated-at 1642408457171}
  {:block/name "doing",
   :block/created-at 1642224014410,
   :block/updated-at 1642224014410}
@@ -90,11 +90,11 @@
   :block/created-at 1642224014410,
   :block/updated-at 1642224014410}
  {:block/name "favorites",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457171,
+  :block/updated-at 1642408457171}
  {:block/name "important",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457172,
+  :block/updated-at 1642408457172}
  {:block/name "in-progress",
   :block/created-at 1642224014410,
   :block/updated-at 1642224014410}
@@ -108,8 +108,8 @@
   :block/created-at 1642224014410,
   :block/updated-at 1642224014410}
  {:block/name "my d",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457172,
+  :block/updated-at 1642408457172}
  {:block/name "now",
   :block/created-at 1642224014410,
   :block/updated-at 1642224014410}
@@ -126,8 +126,8 @@
   :block/created-at 1642224014409,
   :block/updated-at 1642224014409}
  {:block/name "“一通百通”,即学好数学,那整个涉及到数学公式的书就都不在话下了。",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457171,
+  :block/updated-at 1642408457171}
  {:block/name "“立刻开始”or“做好准备在开始”,哪个更重要_ -- 立刻开始.",
   :block/created-at 1642403739187,
   :block/updated-at 1642404149299}
@@ -143,8 +143,8 @@
   :block/created-at 1642392277460,
   :block/updated-at 1642392296234}
  {:block/name "不管是什么投资,只有在'风险'和'收益'配比的情况下('高风险'应该给你带来'高收益'),才会有人去玩。",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457172,
+  :block/updated-at 1642408457172}
  {:block/name "不要去积累_你不想积累的经验_!!",
   :block/created-at 1642232238095,
   :block/updated-at 1642232288896}
@@ -152,14 +152,14 @@
   :block/created-at 1642387373051,
   :block/updated-at 1642394761369}
  {:block/name "不要用实习生的认知, 来取代你的认知",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457172,
+  :block/updated-at 1642408457172}
  {:block/name "两者(两种工作)所处的_生态位_高低就不一样. 就决定了你_社会地位_的高低也不一样.",
   :block/created-at 1642227122426,
   :block/updated-at 1642227125533}
  {:block/name "二八定律表明, 最后10_的功能, 往往需要90_的成本耗费, 在投入产出比是不合算的.",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457172,
+  :block/updated-at 1642408457172}
  {:block/name "人最大的敌人是“忘记”, 忘记敌人即意味着背叛",
   :block/created-at 1642382354626,
   :block/updated-at 1642386236266}
@@ -185,8 +185,8 @@
   :block/updated-at 1642381984344}
  {:block/name
   "你公司自己的投资回报率, 你经营时亏不亏, 对收购方b公司来说没有意义. b公司只看他买下你公司后, 他自己赚不赚, 他的新的投资回报率变成多少_",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457172,
+  :block/updated-at 1642408457172}
  {:block/name "你吸引人不是最终目的,而是实现你进化目的的手段(诱饵、催化剂)",
   :block/created-at 1642233458389,
   :block/updated-at 1642382124519}
@@ -201,8 +201,8 @@
   :block/created-at 1642233746495,
   :block/updated-at 1642233752868}
  {:block/name "公务员",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457171,
+  :block/updated-at 1642408457171}
  {:block/name "关于_时间_的古人云",
   :block/created-at 1642396136384,
   :block/updated-at 1642396136384}
@@ -216,8 +216,8 @@
   :block/created-at 1642231311685,
   :block/updated-at 1642231321089}
  {:block/name "初心",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457172,
+  :block/updated-at 1642408457172}
  {:block/name "别忘了你一开始为什么学它的初心, 否则就会陷入疑惑, 学习就会停滞",
   :block/created-at 1642393361283,
   :block/updated-at 1642399949218}
@@ -234,8 +234,8 @@
   :block/created-at 1642230057338,
   :block/updated-at 1642230375083}
  {:block/name "坏职业的特征 -_ 社会一直有需求,但是又无利润的工作,自然就要制造各种舆论谎言,不断的让人入坑.",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457172,
+  :block/updated-at 1642408457172}
  {:block/name "坑与坑是不一样的。有的坑你可以填平, 有的坑你只会摔死",
   :block/created-at 1642383731138,
   :block/updated-at 1642383744042}
@@ -243,14 +243,14 @@
   :block/created-at 1642393564545,
   :block/updated-at 1642399415815}
  {:block/name "大学学历如果有价值, 它就必须能得到与这些价值对应的收入",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457171,
+  :block/updated-at 1642408457171}
  {:block/name "女性应该利用自己的女性资本, 取得对自己有利的结果。",
   :block/created-at 1642233652914,
   :block/updated-at 1642233662684}
  {:block/name "如何判断自己是否适合一份职业_",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457172,
+  :block/updated-at 1642408457172}
  {:block/name "如果世上还没有我关注方面的方法论, 我不会坐等, 我就自己创建自己的方法论!",
   :block/created-at 1642388024095,
   :block/updated-at 1642388032319}
@@ -258,55 +258,55 @@
   :block/created-at 1642399473743,
   :block/updated-at 1642399474563}
  {:block/name "如果加装电梯,一楼房价必定下跌,试问顶楼加电梯涨个几十万会分钱给一楼吗?",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457171,
+  :block/updated-at 1642408457171}
  {:block/name "如果加装电梯,一楼房价必定下跌,试问顶楼加电梯涨个几十万会分钱给一楼吗_",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457171,
+  :block/updated-at 1642408457171}
  {:block/name "学习与专业化, 相关的古人云",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457172,
+  :block/updated-at 1642408457172}
  {:block/name "学习中遇到的问题, 在你解决后, 必须将过程记录下来, 复盘",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457171,
+  :block/updated-at 1642408457171}
  {:block/name "学习中遇到的问题, 在你解决后, 必须将过程记录下来, 复盘. 即, 结果不重要, 解决思路的过程才重要!!",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457172,
+  :block/updated-at 1642408457172}
  {:block/name "学习中遇到的问题, 在你解决后, 必须将过程记录下来, 复盘/ 即, 结果不重要, 解决思路的过程才重要!!",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457172,
+  :block/updated-at 1642408457172}
  {:block/name "实践与想象, 相关的古人云",
   :block/created-at 1642231738402,
   :block/updated-at 1642231741522}
  {:block/name "对新生事物, 你就有机会去定义它, 来塑造它的未来样子. (正如对婴儿)",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457172,
+  :block/updated-at 1642408457172}
  {:block/name
   "工具人的价值上限 -_ _工具人_的最高价值, 也不会超过该_工具_所能给你带来的_上限功能_所值的价值本身.",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457172,
+  :block/updated-at 1642408457172}
  {:block/name
   "工具人的价值上限 -_ _工具人_的最高价值, 也不会超过该_工具_所能给你带来的_上限功能_所值的价值本身. ",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457171,
+  :block/updated-at 1642408457171}
  {:block/name "工具人的价值上限 -_ 工具人的最高价值, 也不会超过_该工具所能给你带来的上限功能, 所值的价值_本身.",
   :block/created-at 1642395500978,
   :block/updated-at 1642395500978}
  {:block/name "工具人的命运 -_ 职业病",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457172,
+  :block/updated-at 1642408457172}
  {:block/name "工具人的命运 -_ 被 ai 取代",
   :block/created-at 1642227225908,
   :block/updated-at 1642395993110}
  {:block/name "工具人的命运 -_ 被困在原路径里面",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457172,
+  :block/updated-at 1642408457172}
  {:block/name "工具人的命运和归宿 -_ 变成某事者手中的工具",
   :block/created-at 1642227384438,
   :block/updated-at 1642399598060}
  {:block/name "工具人的命运和归宿_ 变成某事者手中的工具",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457171,
+  :block/updated-at 1642408457171}
  {:block/name "工具人的损失 -_ 丧失发展头脑的宝贵机会",
   :block/created-at 1642227840744,
   :block/updated-at 1642404075979}
@@ -323,14 +323,14 @@
   :block/created-at 1642388150489,
   :block/updated-at 1642388272404}
  {:block/name "建造师",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457172,
+  :block/updated-at 1642408457172}
  {:block/name "必须要把一部分时间, 留给“不得不浪费”的事情上, 作为_时间损失账户_.",
   :block/created-at 1642393978042,
   :block/updated-at 1642393978042}
  {:block/name "思考「如何使工作对我有意义」,比死磕「我的工作有什么意义」更有意义。",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457172,
+  :block/updated-at 1642408457172}
  {:block/name "我的学习搞定顺序",
   :block/created-at 1642397706908,
   :block/updated-at 1642397724162}
@@ -341,11 +341,11 @@
   :block/created-at 1642382440327,
   :block/updated-at 1642399797597}
  {:block/name "改变思维方式,从另外一个角度思考问题。",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457171,
+  :block/updated-at 1642408457171}
  {:block/name "既然那么爱学习,为何不去考研?",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457171,
+  :block/updated-at 1642408457171}
  {:block/name "既然那么爱学习,为何不去考研_",
   :block/created-at 1642393750667,
   :block/updated-at 1642393771875}
@@ -360,8 +360,8 @@
   :block/created-at 1642233875549,
   :block/updated-at 1642381941103}
  {:block/name "明明有各种各样的图形化工具,为什么偏偏要学习命令操作 (即编程)",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457172,
+  :block/updated-at 1642408457172}
  {:block/name
   "最开始,大家都只有微弱的差距,似乎在一条起跑线上. 但随着时间的推移,从业年份的增长,成功概率越来越显示出它的力量!",
   :block/created-at 1642227597221,
@@ -373,11 +373,14 @@
   :block/created-at 1642232187018,
   :block/updated-at 1642232205364}
  {:block/name "每天思考 _ 3+3+3句 _ 每天脑子里都在想什么?关注什么?策略什么?解决什么?",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457172,
+  :block/updated-at 1642408457172}
  {:block/name "每天思考 _ 3+3+3句 _ 每天脑子里都在想什么_关注什么_策略什么_解决什么_",
   :block/created-at 1642226185112,
   :block/updated-at 1642226250149}
+ {:block/name "没有任何链接的独立测试页面",
+  :block/created-at 1642408333127,
+  :block/updated-at 1642408334650}
  {:block/name "没有门槛. 没有门槛的事, 恰恰是门槛最大的事. 因为没有门槛就没有护城河",
   :block/created-at 1642229553228,
   :block/updated-at 1642384880930}
@@ -386,11 +389,11 @@
   :block/created-at 1642235013737,
   :block/updated-at 1642235142475}
  {:block/name "演员 _ 演员的成功, 远不像科学家和艺术家那样随机",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457172,
+  :block/updated-at 1642408457172}
  {:block/name "演进 _ 你的_认知_, 需要随时间, 事态的变化, 而不断_演进_.",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457172,
+  :block/updated-at 1642408457172}
  {:block/name "现在人满为患是真,但门槛也更高了",
   :block/created-at 1642234047298,
   :block/updated-at 1642234062674}
@@ -412,17 +415,17 @@
   :block/created-at 1642231577307,
   :block/updated-at 1642401871693}
  {:block/name "社会一直有需求,但是又无利润的工作,自然就要制造各种舆论谎言,不断的让人入坑.",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457172,
+  :block/updated-at 1642408457172}
  {:block/name "社会一直有需求,但是又无利润的工作,自然就要制造各种舆论谎言,不断的让人入坑。",
   :block/created-at 1642229402958,
   :block/updated-at 1642229402958}
  {:block/name "程序运行的80%的时间, 其实是花在20%的代码上,剩下80%的代码就算优化到速度无穷快,也没有意义。",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457172,
+  :block/updated-at 1642408457172}
  {:block/name "程序运行的80_的时间, 其实是花在20_的代码上,剩下80_的代码就算优化到速度无穷快,也没有意义。",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457171,
+  :block/updated-at 1642408457171}
  {:block/name "第一次敏感, 意识到时, 你还来得及改变命运, 就要行动!!",
   :block/created-at 1642385051691,
   :block/updated-at 1642398368803}
@@ -441,8 +444,8 @@
   :block/updated-at 1642392828117}
  {:block/name
   "能在脑子里想到最终效果的东西,就不要实际再去做它们,因为你只不过是把你脑中已经知道的结果, 再在实际中重复一遍,纯属浪费人生。",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457171,
+  :block/updated-at 1642408457171}
  {:block/name "能让你当别人的大脑! 而不是别人当你的大脑",
   :block/created-at 1642230959945,
   :block/updated-at 1642231130489}
@@ -456,8 +459,8 @@
   :block/created-at 1642235822100,
   :block/updated-at 1642235832640}
  {:block/name "英语学习, 我的经验和方法论",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457172,
+  :block/updated-at 1642408457172}
  {:block/name "要做树枝, 不要做树叶 _ 要当树枝, 能复制大树的成长. 而不要当树叶! 不要_替他人做嫁衣裳_",
   :block/created-at 1642234785886,
   :block/updated-at 1642381902913}
@@ -474,8 +477,8 @@
   :block/created-at 1642231974132,
   :block/updated-at 1642232598064}
  {:block/name "赛道抬人 _ 每一个赛场对于你是否_普通_或者_别致_的判断,都有不同的判定标准。",
-  :block/created-at 1642406553336,
-  :block/updated-at 1642406553336}
+  :block/created-at 1642408457172,
+  :block/updated-at 1642408457172}
  {:block/name "越是巨坑的陷阱入口处, 都铺满了最诱人进来的鲜花",
   :block/created-at 1642229098305,
   :block/updated-at 1642396622316}
