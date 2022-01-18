@@ -1,0 +1,9 @@
+* {font-size:14px;}
+
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid hsl(0, 0%, 29%);
+}

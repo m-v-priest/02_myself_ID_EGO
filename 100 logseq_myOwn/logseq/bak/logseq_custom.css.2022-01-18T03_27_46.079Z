@@ -1,0 +1,6 @@
+* {font-size:14px;}
+
+border: 1px solid black;
+th, td {
+  border-bottom: 1px solid #ddd;
+}
