@@ -165,7 +165,7 @@
  :ref/default-open-blocks-level 2
 
  :ref/linked-references-collapsed-threshold 50
- :favorites ["++ 02. My Diary and Values" "00. ++ principles" "02. 必须翻译成自己的话, 并且一句就能表达清楚的, 别说成几句! My Diary and Values" "++ 03. 心理学, 情感, 人性, 性格分析" "++ 05 方法的学习, 方法论" "++ 04. 人生, 世事中的定律" "test 测试学习" "11 各职业"]
+ :favorites ["02. 必须翻译成自己的话, 并且一句就能表达清楚的, 别说成几句! my diary and values" "00. ++ principles" "++ 03. 心理学, 情感, 人性, 性格分析" "++ 05 方法的学习, 方法论" "++ 04. 人生, 世事中的定律" "++ 02. my diary and values" "test 测试学习" "11 各职业"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
