@@ -1,6 +1,61 @@
-[{:block/name "06 思 - 人新的想法, 是看了其他东西后被刺激, 启发出来的.",
+[{:block/name "++ 02. my diary and values",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "00 我的价值观架构, 认知库记录的基本原则",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "01 roi 投资回报率",
+  :block/created-at 1642667560922,
+  :block/updated-at 1642667560922}
+ {:block/name "02 人 - 谋事者_ 一个人如果懂得为什么去做(底层逻辑, 背后逻辑),那么他将永远是自己的主宰。",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "03 反人性 - 工具人",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "03-1 坏职业的特征",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "03-2 好职业的特征",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "04 判断 - 实践是检验_真理_(思想想法)真伪的唯一标准",
+  :block/created-at 1642667560922,
+  :block/updated-at 1642667560922}
+ {:block/name "05 行;人生选择;策略 - 正确的行动态度_ 人生也就短短三万天, 无惧无畏, 不断向上",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "06 思 - 人新的想法, 是看了其他东西后被刺激, 启发出来的.",
   :block/created-at 1642555119924,
   :block/updated-at 1642555119924}
+ {:block/name "07 学 - 快速学习的方法",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "08 概念是个框, 所以没有绝对的定义, 只有不同人赋予它的不同定义",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "11 二八定律_ 成为头部, 才能收取最大利益",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "264c9b",
+  :block/created-at 1642667560922,
+  :block/updated-at 1642667560922}
+ {:block/name "99_=0, 你离上岸还差1_的分数, 就是等于没上岸!",
+  :block/created-at 1642667560922,
+  :block/updated-at 1642667560922}
+ {:block/name
+  "_可实践的方法论(跑在第一步, 第二步...上)_, 比_只鼓励你_的内容(你永远只在起跑线之前准备着), 要更重要, 更有价值!",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "_因然_ 与 _实然_的区分,  '信仰'和'真理'的区别",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "_定性_毫无用处,_定量_才能拯救你。",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "_有用_比_绝对为真_更重要!",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
  {:block/name "a",
   :block/created-at 1642224014410,
   :block/updated-at 1642224014410}
@@ -10,18 +65,33 @@
  {:block/name "c",
   :block/created-at 1642224014410,
   :block/updated-at 1642224014410}
+ {:block/name "card",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "contents",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
  {:block/name "doing",
   :block/created-at 1642224014410,
   :block/updated-at 1642224014410}
  {:block/name "done",
   :block/created-at 1642224014410,
   :block/updated-at 1642224014410}
+ {:block/name "egw ",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "favorites",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
  {:block/name "important",
-  :block/created-at 1642663067195,
-  :block/updated-at 1642663067195}
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
  {:block/name "in-progress",
   :block/created-at 1642224014410,
   :block/updated-at 1642224014410}
+ {:block/name "jan 14th, 2022",
+  :block/created-at 1642118400000,
+  :block/updated-at 1642118400000}
  {:block/name "jan 20th, 2022",
   :block/created-at 1642636800000,
   :block/updated-at 1642636800000}
@@ -31,6 +101,18 @@
  {:block/name "now",
   :block/created-at 1642224014410,
   :block/updated-at 1642224014410}
+ {:block/name "pages_学习中遇到的问题, 在你解决后, 必须将过程记录下来, 复盘",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "pages_认知上的学习, 作用只是启发你小步登台阶, 不要妄想它能令你一步改变命运",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "pages_越是巨坑的陷阱入口处, 都铺满了最诱人进来的鲜花",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "saying",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
  {:block/name "todo",
   :block/created-at 1642224014410,
   :block/updated-at 1642224014410}
@@ -40,12 +122,316 @@
  {:block/name "waiting",
   :block/created-at 1642224014409,
   :block/updated-at 1642224014409}
+ {:block/name "“一通百通”,即学好数学,那整个涉及到数学公式的书就都不在话下了。",
+  :block/created-at 1642667560922,
+  :block/updated-at 1642667560922}
+ {:block/name "“立刻开始”or“做好准备在开始”,哪个更重要_ -- 立刻开始.",
+  :block/created-at 1642667560922,
+  :block/updated-at 1642667560922}
+ {:block/name
+  "一旦选错职业,就像坐上了一辆开往远离你内心方向的火车, 并且随着这些工作职业要求越来越高,就离你心中的方向距离越来越远。",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "一旦选错职业,就像坐上了开往_远离你内心向往方向_的火车.",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "一旦选错职业,就像坐上了开往_远离你内心向往方向_的火车. ",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name
+  "上帝给我们的是一只右(right)脚和一只左(left)脚,而不是一只正确的(right)脚和一只错误的(wrong)脚.",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "不断发现自己的盲点, 即_不知道自己不知道_之处. 方法之一就是从别人的踩坑教训中来发现你的盲点",
+  :block/created-at 1642667560922,
+  :block/updated-at 1642667560922}
+ {:block/name "不管是什么投资,只有在'风险'和'收益'配比的情况下('高风险'应该给你带来'高收益'),才会有人去玩。",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "不要去积累_你不想积累的经验_!!",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "不要用实习生的认知, 来取代你的认知",
+  :block/created-at 1642667560922,
+  :block/updated-at 1642667560922}
+ {:block/name "两者(两种工作)所处的_生态位_高低就不一样. 就决定了你_社会地位_的高低也不一样.",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "丧失发展头脑的宝贵机会",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "二八定律表明, 最后10_的功能, 往往需要90_的成本耗费, 在投入产出比是不合算的.",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "人生前期越嫌麻烦,越懒得学,后来就越可能你没有准备, 机会来了你也没法抓住它.",
+  :block/created-at 1642667560922,
+  :block/updated-at 1642667560922}
+ {:block/name "人生的任务, 是要去解决更多的问题,而不是只盯着一两个问题解决到最好(所以不要去追求完美的方法).",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name
+  "人的精力和时间, 只会花在两种地方上_ 1.要么是第二曲线, 第三曲线, 思维模型的升级上;  2.要么是吃喝玩乐, 电脑游戏上面.",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "人际中, 正确的自我站位, 看待他人",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name
+  "他们的性格,他们是通过试探,来一步步验证每一步的行动有效与否的,他们天生就有一种探索的乐趣精神,最终能摸着石头走过整条河。而不是要靠别人来告诉他们每一步该怎么走。",
+  :block/created-at 1642667560922,
+  :block/updated-at 1642667560922}
+ {:block/name "你做任何一件事, 若没有兴趣支撑, 你就度过不了它最艰难的时间段",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name
+  "你公司自己的投资回报率, 你经营时亏不亏, 对收购方b公司来说没有意义. b公司只看他买下你公司后, 他自己赚不赚, 他的新的投资回报率变成多少_",
+  :block/created-at 1642667560922,
+  :block/updated-at 1642667560922}
+ {:block/name "你吸引人不是最终目的,而是实现你进化目的的手段(诱饵、催化剂)",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "你所做的事,都只是暂时的。你要利用他们来进入下一个你想去的环节. 前一个目标对你只不过是敲门砖而已.",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "你的职位高低本身受到的约束, 会限制你能力的发挥",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "你经营这公司时, 你的roi对b不重要, b只看, 他买下你的公司后, 他新的roi会变成多少_",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "你越逃避学习复杂专业有难度的学科专业,你也就越把自己推入底层茫茫人海中的,没有门槛.",
+  :block/created-at 1642667560922,
+  :block/updated-at 1642667560922}
+ {:block/name
+  "借助_钱_的势能 _你的首要任务就是拼项目、签合同,你首先要想尽办法给公司挣钱,而不是只考虑替公司省钱,不能舍本逐末",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "借势前进",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "公务员",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "关于_时间_的古人云",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "兴趣分两种,一种是对技术类产生兴趣, 一种是对事业类产生兴趣",
+  :block/created-at 1642667560922,
+  :block/updated-at 1642667560922}
+ {:block/name "兵闻拙速,未睹巧之久也",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "别穿得跟你想表达自己的意思相矛盾或不符合 (_借势, 势是一种能量_)",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "原则_ 00 我的价值观架构, 认知库, 记录的基本原则",
+  :block/created-at 1642667560922,
+  :block/updated-at 1642667560922}
+ {:block/name "受启发 _ 人新的想法",
+  :block/created-at 1642667560922,
+  :block/updated-at 1642667560922}
+ {:block/name "受启发 _ 人新的想法, 是看了其他东西后被刺激, 启发出来的.",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "启发出来的.",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "国家职业资格证书, _准入类_, 与_水平评价类_ 区别",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "复盘 _ 要不断的复盘, 要不断地分析自己工作的流程,改善流程",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "大学学历如果有价值, 它就必须能得到与这些价值对应的收入",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "天下大势,归根到底其实就取决于_关键人的关键认知_",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "女性应该利用自己的女性资本, 取得对自己有利的结果。",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "如何判断自己是否适合一份职业_",
+  :block/created-at 1642667560922,
+  :block/updated-at 1642667560922}
+ {:block/name "如果你觉得我这个产品是帮助客户成功,那你的自信心会很强。",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "如果加装电梯,一楼房价必定下跌,试问顶楼加电梯涨个几十万会分钱给一楼吗?",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "学习与专业化, 相关的古人云",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "学习中遇到的问题, 在你解决后, 必须将过程记录下来, 复盘. 即, 结果不重要, 解决思路的过程才重要!!",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "实践与想象, 相关的古人云",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name
+  "工具人的价值上限 -_ _工具人_的最高价值, 也不会超过该_工具_所能给你带来的_上限功能_所值的价值本身. ",
+  :block/created-at 1642667560922,
+  :block/updated-at 1642667560923}
  {:block/name "工具人的价值上限 -_ 工具人的最高价值, 也不会超过_该工具所能给你带来的上限功能, 所值的价值_本身.",
   :block/created-at 1642395500978,
   :block/updated-at 1642562174915}
- {:block/name "工具人的命运 -_ 职业病",
-  :block/created-at 1642663067195,
-  :block/updated-at 1642663067195}
- {:block/name "工具人的命运 -_ 被困在原路径里面",
-  :block/created-at 1642663067195, 
-  :block/updated-at 1642663067195}]
+ {:block/name "工具人的命运 -_ 被 ai 取代",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "工具人的命运_ 职业病",
+  :block/created-at 1642667560922,
+  :block/updated-at 1642667560922}
+ {:block/name "工具人的命运_ 被困在原路径里面",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "工具人的命运和归宿 -_ 变成某事者手中的工具",
+  :block/created-at 1642667560922,
+  :block/updated-at 1642667560922}
+ {:block/name "工具人的损失 -_ 丧失发展头脑的宝贵机会",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "工具人的损失 -_ 没对收入进行_风险分散_",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "工具人的损失 -_ 缺乏意义感",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "工具比人低 _ 工具创造出来就是给人用的, 所以不存在_高级_或_门槛_这种东西的.",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "建立的方法 _ 我自己的方法论 -- 关于如何建立我自己的_价值观_和_方法论框架_",
+  :block/created-at 1642667560922,
+  :block/updated-at 1642667560922}
+ {:block/name "建造师",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "必须要把一部分时间, 留给“不得不浪费”的事情上, 作为_时间损失账户_.",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "思考「如何使工作对我有意义」,比死磕「我的工作有什么意义」更有意义。",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "所有的工作都能赚钱,很多工作也能赚大钱,但工作内容的性质带给你思想头脑上的回报, 就有本质区别了",
+  :block/created-at 1642667560922,
+  :block/updated-at 1642667560922}
+ {:block/name "把案例学习当哑铃, 你的目的不是哑铃, 而是锻炼你肌肉(大脑思维认知)",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "改变思维方式,从另外一个角度思考问题。",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "文风",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "既然那么爱学习,为何不去考研?",
+  :block/created-at 1642667560922,
+  :block/updated-at 1642667560922}
+ {:block/name
+  "既要入世_工作专业_(往下钻研, 低头行路), 也要入世_个人的生活实际与社会_(往上,抬头看天). 树的根往下扎的再深,也不带来地面上的枝繁叶茂。",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "时间只分为两种性质_ 或花在_上岸行动_上, 或花在_对上岸没有帮助的行为_上.",
+  :block/created-at 1642667560922,
+  :block/updated-at 1642667560922}
+ {:block/name "时间花在什么上_ _ 非_上岸_的行动, 都是幻觉",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "明明有各种各样的图形化工具,为什么偏偏要学习命令操作 (即编程)",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "是看了其他东西后被刺激",
+  :block/created-at 1642667560922,
+  :block/updated-at 1642667560922}
+ {:block/name
+  "最开始,大家都只有微弱的差距,似乎在一条起跑线上. 但随着时间的推移,从业年份的增长,成功概率越来越显示出它的力量!",
+  :block/created-at 1642667560922,
+  :block/updated-at 1642667560922}
+ {:block/name "有两种人 _ 1.谋事的,  2.成为工具人的",
+  :block/created-at 1642667560922,
+  :block/updated-at 1642667560922}
+ {:block/name "每一个赛场对于你是否_普通_或者_别致_的判断,都有不同的判定标准",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "每天思考 _ 3+3+3句 _ 每天脑子里都在想什么?关注什么?策略什么?解决什么?",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name
+  "消费者购买某产品, 必定要通过_用户之旅_的全过程. 所以不能让负责最前端内容推广的公关人, 直接承诺最后一个环节的销售成果.",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "演员 _ 演员的成功, 远不像科学家和艺术家那样随机",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "演进 _ 你的_认知_, 需要随时间, 事态的变化, 而不断_演进_.",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "现在人满为患是真,但门槛也更高了",
+  :block/created-at 1642667560922,
+  :block/updated-at 1642667560922}
+ {:block/name "生活中,你真正要做的,是从头到尾,一个人掌握那种可以产生现金流的技能和产品.",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name
+  "画面设计, 没有内涵, 你被花花绿绿的画面吸引一天, 看过即忘, 头脑依然会空空. 而你看一天书, 才真的是有一天思想收获的!",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "目标要明确, 要有完成的时间计划, 不能永无结束之日.",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name
+  "真正能跨越时间而_保值_的东西, 是内容本身, 而不是视频的拍摄与剪辑技巧! 现在_炫技_大于_内容价值内涵_的视频(金玉其外败,絮其中), 到未来时, 即没有内涵, 所炫的技(包括特效等)也会_过时_.  什么都没留下来.",
+  :block/created-at 1642667560922,
+  :block/updated-at 1642667560922}
+ {:block/name "社会一直有需求,但是又无利润的工作,自然就要制造各种舆论谎言,不断的让人入坑.",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "程序运行的80%的时间, 其实是花在20%的代码上,剩下80%的代码就算优化到速度无穷快,也没有意义。",
+  :block/created-at 1642667560922,
+  :block/updated-at 1642667560922}
+ {:block/name "程序运行的80_的时间, 其实是花在20_的代码上,剩下80_的代码就算优化到速度无穷快,也没有意义。",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "网上公开能学到的教程,都没有门槛和护城河. 网上学不到的,才有真正门槛",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "职位的边界比人的才能小 _ 你的职位高低本身受到的约束, 会限制你能力的发挥, 和视野的升级",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name
+  "能在脑子里想到最终效果的东西,就不要实际再去做它们,因为你只不过是把你脑中已经知道的结果, 再在实际中重复一遍,纯属浪费人生。",
+  :block/created-at 1642667560922,
+  :block/updated-at 1642667560922}
+ {:block/name "能让你当别人的大脑! 而不是别人当你的大脑",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "自带磁场价值效应(刚需)",
+  :block/created-at 1642667560922,
+  :block/updated-at 1642667560922}
+ {:block/name "自律带来自信, 自信带来自由",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "要做树枝, 不要做树叶 _ 要当树枝, 能复制大树的成长. 而不要当树叶! 不要_替他人做嫁衣裳_",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "认知,几乎是人和人之间唯一的本质差别。人是会思考的芦苇.",
+  :block/created-at 1642667560922,
+  :block/updated-at 1642667560922}
+ {:block/name "认知上的学习, 作用只是启发你小步登台阶, 不要妄想它能令你一步改变命运",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "记住_ 你不是来这里度假的!每天都要在心中牢记三个问题",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "赛道抬人 _ 每一个赛场对于你是否_普通_或者_别致_的判断,都有不同的判定标准。",
+  :block/created-at 1642667560922,
+  :block/updated-at 1642667560922}
+ {:block/name "越是巨坑的陷阱入口处, 都铺满了最诱人进来的鲜花",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "越有清晰明确的反馈的, 发展的越快.",
+  :block/created-at 1642667560923,
+  :block/updated-at 1642667560923}
+ {:block/name "进入是为了离开_ 进入现在这个阶段, 是为了得到进入下一个阶段的敲门砖",
+  :block/created-at 1642667560923, 
+  :block/updated-at 1642667560923}]
