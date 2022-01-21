@@ -1,8 +1,0 @@
-* {font-size:14px;}
-
-table {
-  border: 1px solid black;
-}
-th, td {
-  border-bottom: 1px solid #ddd;
-}
