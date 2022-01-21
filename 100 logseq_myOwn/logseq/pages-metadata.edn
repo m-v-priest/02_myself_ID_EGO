@@ -36,57 +36,63 @@
   :block/created-at 1642668308766,
   :block/updated-at 1642668308766}
  {:block/name "contents",
-  :block/created-at 1642729209988,
-  :block/updated-at 1642729209988}
+  :block/created-at 1642751512468,
+  :block/updated-at 1642751512468}
  {:block/name "dir_00. ++ principles",
-  :block/created-at 1642729209988,
-  :block/updated-at 1642729209988}
+  :block/created-at 1642751512468,
+  :block/updated-at 1642751512468}
  {:block/name "dir_01. main",
   :block/created-at 1642729145948,
-  :block/updated-at 1642729155240}
+  :block/updated-at 1642741793969}
  {:block/name
   "dir_02. 必须翻译成自己的话, 并且一句就能表达清楚的, 别说成几句! my diary and values",
   :block/created-at 1642727330761,
-  :block/updated-at 1642728445378}
+  :block/updated-at 1642751408794}
  {:block/name "dir_03. 心理学, 情感, 人性, 性格分析",
   :block/created-at 1642728565928,
-  :block/updated-at 1642728888711}
+  :block/updated-at 1642749451305}
+ {:block/name "dir_04. 社保, 养老, 健康, 医学, 教育, 买房, 物业, 法律, 官司",
+  :block/created-at 1642741868668,
+  :block/updated-at 1642742148652}
  {:block/name
   "dir_★ 画面设计上, 是没有内涵的, 你被花花绿绿的画面吸引一天, 看过即忘, 头脑依然会空空. 而你看一天书, 真的是有一天思想收获的! (有精神食粮感)",
-  :block/created-at 1642729209988,
-  :block/updated-at 1642729209988}
+  :block/created-at 1642751512468,
+  :block/updated-at 1642751512468}
  {:block/name "dir_一旦选错职业,就像坐上了开往_远离你内心向往方向_的火车.",
   :block/created-at 1642668308766,
   :block/updated-at 1642668308766}
  {:block/name
   "dir_不管是什么投资,只有在'风险'和'收益'配比的情况下('高风险'应该给你带来'高收益'),才会有人去玩。",
-  :block/created-at 1642729209988,
-  :block/updated-at 1642729209988}
+  :block/created-at 1642751512468,
+  :block/updated-at 1642751512468}
  {:block/name "dir_丧失发展头脑的宝贵机会",
-  :block/created-at 1642729209988,
-  :block/updated-at 1642729209988}
+  :block/created-at 1642751512468,
+  :block/updated-at 1642751512468}
  {:block/name "dir_人生的任务, 是要去解决更多的问题,而不是只盯着一两个问题解决到最好(所以不要去追求完美的方法).",
   :block/created-at 1642668308766,
-  :block/updated-at 1642668308766}
+  :block/updated-at 1642731698889}
  {:block/name "dir_人的想法, 是需要受刺激, 而启发出来的.",
-  :block/created-at 1642729209988,
-  :block/updated-at 1642729209988}
+  :block/created-at 1642751512468,
+  :block/updated-at 1642751512468}
  {:block/name "dir_借势前进",
-  :block/created-at 1642729209987,
-  :block/updated-at 1642729209987}
+  :block/created-at 1642751512468,
+  :block/updated-at 1642751512468}
  {:block/name "dir_天下大势,归根到底其实就取决于_关键人的关键认知_",
-  :block/created-at 1642729209988,
-  :block/updated-at 1642729209988}
+  :block/created-at 1642751512468,
+  :block/updated-at 1642751512468}
  {:block/name "dir_完成任务要有截止时间计划, 不能永无结束之日.",
-  :block/created-at 1642729209988,
-  :block/updated-at 1642729209988}
+  :block/created-at 1642738100222,
+  :block/updated-at 1642738160940}
  {:block/name "dir_每一个赛场对于你是否'普通'或者'别致'的判断,都有不同的判定标准",
-  :block/created-at 1642729209988,
-  :block/updated-at 1642729209988}
+  :block/created-at 1642751512468,
+  :block/updated-at 1642751512468}
  {:block/name
   "dir_真正能跨越时间而_保值_的东西, 是内容本身, 而不是视频的拍摄与剪辑技巧! 现在_炫技_大于_内容价值内涵_的视频(金玉其外败,絮其中), 到未来时, 即没有内涵, 所炫的技(包括特效等)也会_过时_.  什么都没留下来.",
   :block/created-at 1642668308764,
   :block/updated-at 1642668308764}
+ {:block/name "dir_社交中最常见的三种恐惧",
+  :block/created-at 1642747208707,
+  :block/updated-at 1642748139168}
  {:block/name "doing",
   :block/created-at 1642224014410,
   :block/updated-at 1642224014410}
@@ -118,8 +124,8 @@
   :block/created-at 1642224014410,
   :block/updated-at 1642224014410}
  {:block/name "page_兴趣分两种,一种是对技术类产生兴趣, 一种是对事业类产生兴趣",
-  :block/created-at 1642729209988,
-  :block/updated-at 1642729209988}
+  :block/created-at 1642751512468,
+  :block/updated-at 1642751512468}
  {:block/name "pages_学习中遇到的问题, 在你解决后, 必须将过程记录下来, 复盘",
   :block/created-at 1642668308765,
   :block/updated-at 1642668308765}
@@ -139,8 +145,8 @@
   :block/created-at 1642668308765,
   :block/updated-at 1642668308765}
  {:block/name "一旦选错职业,就像坐上了开往_远离你内心向往方向_的火车.",
-  :block/created-at 1642729209988,
-  :block/updated-at 1642729209988}
+  :block/created-at 1642751512468,
+  :block/updated-at 1642751512468}
  {:block/name
   "上帝给我们的是一只右(right)脚和一只左(left)脚,而不是一只正确的(right)脚和一只错误的(wrong)脚.",
   :block/created-at 1642668308765,
@@ -188,14 +194,14 @@
   :block/created-at 1642668308766,
   :block/updated-at 1642668308766}
  {:block/name "兴趣",
-  :block/created-at 1642729209988,
-  :block/updated-at 1642729209988}
+  :block/created-at 1642751512468,
+  :block/updated-at 1642751512468}
  {:block/name "原则_ 00 我的价值观架构, 认知库, 记录的基本原则",
   :block/created-at 1642668308765,
   :block/updated-at 1642668308765}
  {:block/name "发挥",
-  :block/created-at 1642729209988,
-  :block/updated-at 1642729209988}
+  :block/created-at 1642751512468,
+  :block/updated-at 1642751512468}
  {:block/name "受启发 _ 人新的想法",
   :block/created-at 1642668308765,
   :block/updated-at 1642668308765}
