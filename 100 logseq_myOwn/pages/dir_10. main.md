@@ -1,4 +1,4 @@
-title:: dir_01. main
+title:: dir_10. main
 {{renderer :tocgen }}
 
 - background-color:: #533e7d
@@ -12,7 +12,11 @@ title:: dir_01. main
 	  background-color:: #533e7d
 - ---
 - [[dir_00. ++ principles]]
-- [[dir_02. 必须翻译成自己的话, 并且一句就能表达清楚的, 别说成几句! My Diary and Values]]
-- [[dir_03. 心理学, 情感, 人性, 性格分析]]
-- [[dir_04. 社保, 养老, 健康, 医学, 教育, 买房, 物业, 法律, 官司]]
+- [[dir_20. ROI, 谋事者, 工具人, 职业的好坏鸿沟]]
+- [[dir 21. 思考,判断,行动,策略]]
+- [[dir 22. 人生,政治]]
+- [[dir 23. 快速学习]]
+- [[dir 24. 人生定律]]
+- [[dir_30. 心理学, 情感, 人性, 性格分析]]
+- [[dir_40. 社保, 养老, 健康, 医学, 教育, 买房, 物业, 法律, 官司]]
 -
