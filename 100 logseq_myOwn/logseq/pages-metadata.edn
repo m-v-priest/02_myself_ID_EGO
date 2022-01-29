@@ -36,42 +36,73 @@
   :block/created-at 1642668308766,
   :block/updated-at 1642668308766}
  {:block/name "contents",
-  :block/created-at 1643011484404,
-  :block/updated-at 1643011484404}
+  :block/created-at 1643421686133,
+  :block/updated-at 1643421686133}
+ {:block/name "dir 200. 战略",
+  :block/created-at 1643418351724,
+  :block/updated-at 1643421262157}
  {:block/name "dir 21. 思考,判断,行动,策略",
   :block/created-at 1643001404762,
-  :block/updated-at 1643001421988}
+  :block/updated-at 1643252481699}
  {:block/name "dir 22. 人生,政治",
   :block/created-at 1643001183990,
-  :block/updated-at 1643007766049}
+  :block/updated-at 1643260861500}
  {:block/name "dir 23. 快速学习",
   :block/created-at 1643001324387,
-  :block/updated-at 1643001334275}
+  :block/updated-at 1643175063989}
  {:block/name "dir 24. 人生定律",
   :block/created-at 1643001131182,
   :block/updated-at 1643001378793}
- {:block/name "dir 41. 孩子教育",
+ {:block/name "dir 25. 真理,科研",
+  :block/created-at 1643172487241,
+  :block/updated-at 1643173812963}
+ {:block/name "dir 26.辩论,说服,演讲",
+  :block/created-at 1643164108081,
+  :block/updated-at 1643172321712}
+ {:block/name "dir 27. 写作, 艺术",
+  :block/created-at 1643164968061,
+  :block/updated-at 1643165042997}
+ {:block/name "dir 409. 孩子教育",
   :block/created-at 1643003573154,
   :block/updated-at 1643004002445}
+ {:block/name "dir 81. 经济,金融",
+  :block/created-at 1643183733418,
+  :block/updated-at 1643183799123}
  {:block/name "dir_00. ++ principles",
-  :block/created-at 1643011484403,
-  :block/updated-at 1643011484403}
+  :block/created-at 1643165157455,
+  :block/updated-at 1643183594649}
  {:block/name "dir_10. main",
   :block/created-at 1642729145948,
-  :block/updated-at 1643004028529}
+  :block/updated-at 1643418346613}
+ {:block/name
+  "dir_1推定,2举证责任。推定某事实对的,与它是否在科学上的确为_真_,并没有必然关系,我们之所以支持它,是因为迄今没有证据让我们不支持它。",
+  :block/created-at 1643166702279,
+  :block/updated-at 1643173580279}
  {:block/name "dir_20. roi, 谋事者, 工具人, 职业的好坏鸿沟",
   :block/created-at 1642727330761,
-  :block/updated-at 1643001475827}
+  :block/updated-at 1643418241762}
  {:block/name "dir_30. 心理学, 情感, 人性, 性格分析",
   :block/created-at 1642728565928,
-  :block/updated-at 1642994244190}
- {:block/name "dir_40. 社保, 养老, 健康, 医学, 教育, 买房, 物业, 法律, 官司",
+  :block/updated-at 1643259608266}
+ {:block/name "dir_400. 社保, 养老",
   :block/created-at 1642741868668,
   :block/updated-at 1642742148652}
+ {:block/name "dir_403. 健康,医学",
+  :block/created-at 1643421686133,
+  :block/updated-at 1643421686133}
+ {:block/name "dir_404. 缴税,税收",
+  :block/created-at 1643247222342,
+  :block/updated-at 1643248077196}
+ {:block/name "dir_405. 买房, 物业",
+  :block/created-at 1643421686133,
+  :block/updated-at 1643421686133}
+ {:block/name "dir_407. 法律,官司",
+  :block/created-at 1643250794977,
+  :block/updated-at 1643251011979}
  {:block/name
   "dir_★ 画面设计上, 是没有内涵的, 你被花花绿绿的画面吸引一天, 看过即忘, 头脑依然会空空. 而你看一天书, 真的是有一天思想收获的! (有精神食粮感)",
-  :block/created-at 1643011484403,
-  :block/updated-at 1643011484403}
+  :block/created-at 1643421686133,
+  :block/updated-at 1643421686133}
  {:block/name "dir_一旦选错职业,就像坐上了开往_远离你内心向往方向_的火车.",
   :block/created-at 1642668308766,
   :block/updated-at 1642668308766}
@@ -80,78 +111,201 @@
   :block/updated-at 1642993578968}
  {:block/name
   "dir_不管是什么投资,只有在'风险'和'收益'配比的情况下('高风险'应该给你带来'高收益'),才会有人去玩。",
-  :block/created-at 1643011484403,
-  :block/updated-at 1643011484403}
+  :block/created-at 1643421686133,
+  :block/updated-at 1643421686133}
  {:block/name "dir_不要让他人形成对你不该有的条件反射",
   :block/created-at 1642993421329,
-  :block/updated-at 1642993421421}
+  :block/updated-at 1643246059007}
  {:block/name "dir_丧失发展头脑的宝贵机会",
-  :block/created-at 1643011484403,
-  :block/updated-at 1643011484403}
+  :block/created-at 1643421686133,
+  :block/updated-at 1643421686133}
+ {:block/name "dir_人性-古人云",
+  :block/created-at 1643176947409,
+  :block/updated-at 1643176947409}
+ {:block/name
+  "dir_人最怕的是没有个性。没有个性,你就只能做别人的影子或者传声筒。都不用说你的优势在哪里了,你的差异性都没有了,客户怎么会选择你?",
+  :block/created-at 1643421686133,
+  :block/updated-at 1643421686133}
+ {:block/name
+  "dir_人最怕的是没有个性。没有个性,你就只能做别人的影子或者传声筒。都不用说你的优势在哪里了,你的差异性都没有了,客户怎么会选择你_",
+  :block/created-at 1643163280667,
+  :block/updated-at 1643163468353}
  {:block/name "dir_人生的任务, 是要去解决更多的问题,而不是只盯着一两个问题解决到最好(所以不要去追求完美的方法).",
   :block/created-at 1642668308766,
   :block/updated-at 1642731698889}
  {:block/name "dir_人的想法, 是需要受刺激, 而启发出来的.",
-  :block/created-at 1643011484404,
-  :block/updated-at 1643011484404}
+  :block/created-at 1643421686133,
+  :block/updated-at 1643421686133}
  {:block/name "dir_什么样的人更容易获得权力_",
   :block/created-at 1643006839077,
   :block/updated-at 1643007138789}
+ {:block/name "dir_以终为始",
+  :block/created-at 1643421286407,
+  :block/updated-at 1643421490210}
+ {:block/name "dir_任何职业, 早就被社会标好了它们的下限和上限. 它们在世人眼中的地位和价值.  职业即社会阶层",
+  :block/created-at 1643184053950,
+  :block/updated-at 1643184103469}
  {:block/name "dir_借势前进",
-  :block/created-at 1643011484403,
-  :block/updated-at 1643011484403}
+  :block/created-at 1643182554602,
+  :block/updated-at 1643253168149}
  {:block/name "dir_加薪代表着自信",
   :block/created-at 1642993366066,
   :block/updated-at 1642993377832}
  {:block/name "dir_变成某事者手中的工具",
   :block/created-at 1642993635312,
   :block/updated-at 1642993635446}
- {:block/name "dir_向死而生",
+ {:block/name "dir_向死而生3",
   :block/created-at 1642993214139,
   :block/updated-at 1642993214796}
+ {:block/name "dir_在“人际辩论”中,辩论者中的一方往往也自认为是辩论胜负的裁决者,“球员兼裁判”的情况很常见。",
+  :block/created-at 1643166138024,
+  :block/updated-at 1643166643774}
+ {:block/name "dir_在公共舆论上, 少数人密集持有的_激情观点_, 能够抵消大量冷漠的人的_温和,无所谓态度的观点_",
+  :block/created-at 1643161977727,
+  :block/updated-at 1643162141341}
+ {:block/name
+  "dir_多数辩题都是正反皆言之成理的, 目的就是为了达成训练“批判思考”(critical thinking)。",
+  :block/created-at 1643171694546,
+  :block/updated-at 1643171723475}
  {:block/name
   "dir_大家都有矛盾,但是这个矛盾都有化解的可能,只要我确保你们之间的矛盾大于你们和我之间的矛盾,你们就会永远争取我的支持。",
   :block/created-at 1642999847260,
   :block/updated-at 1642999847343}
  {:block/name "dir_天下大势,归根到底其实就取决于_关键人的关键认知_",
-  :block/created-at 1643011484404,
-  :block/updated-at 1643011484404}
+  :block/created-at 1643421686133,
+  :block/updated-at 1643421686133}
+ {:block/name "dir_如何限制权力?最好的办法就是分散权力。",
+  :block/created-at 1643421686133,
+  :block/updated-at 1643421686133}
+ {:block/name "dir_如何限制权力_最好的办法就是分散权力。",
+  :block/created-at 1643072688941,
+  :block/updated-at 1643072820934}
+ {:block/name
+  "dir_如果一个人的“真实自我”经常遭受否定和打压,就会造成其对_原生自我_的怀疑。(所以, 不断晋升做大的人, 自由权力越大, 自我信心也越强)",
+  :block/created-at 1643159093942,
+  :block/updated-at 1643159395647}
  {:block/name "dir_完成任务要有截止时间计划, 不能永无结束之日.",
   :block/created-at 1642738100222,
-  :block/updated-at 1642738160940}
+  :block/updated-at 1643257068078}
  {:block/name "dir_对重大利益回报的 _生态位_的抢坑竞争, 是你死我活的. 你不能把这个世界,让给你所鄙视的人",
   :block/created-at 1642993836825,
-  :block/updated-at 1642993842261}
+  :block/updated-at 1643182082142}
  {:block/name "dir_必须先建立情感, 然后才有可能说服对方.",
   :block/created-at 1642993488988,
   :block/updated-at 1642993489045}
+ {:block/name "dir_情感-古人云",
+  :block/created-at 1643176977476,
+  :block/updated-at 1643176977476}
  {:block/name
   "dir_抓住机会尤为重要。主管经理很少会有时间仔细地考察每个申请职位的人,他们更不会去说服沉默谨慎的人申请职位。",
   :block/created-at 1642994393847,
   :block/updated-at 1642994549406}
+ {:block/name "dir_抽象的东西,需要借用日常比喻, 来转为更容易_理解和记忆_的形式.",
+  :block/created-at 1643175066351,
+  :block/updated-at 1643175328821}
  {:block/name "dir_拒绝,是你表达自己职业意愿的一个机会。",
   :block/created-at 1642993311950,
   :block/updated-at 1642993312097}
+ {:block/name "dir_政治-古人云",
+  :block/created-at 1643259690959,
+  :block/updated-at 1643260075672}
  {:block/name "dir_政治里面有很多非常高层次的需求",
   :block/created-at 1642999906107,
   :block/updated-at 1642999906219}
+ {:block/name "dir_无关的话题,故事,不要在会议上说,不要浪费大家时间.",
+  :block/created-at 1643164172111,
+  :block/updated-at 1643164332613}
+ {:block/name "dir_星星之火,可以燎原",
+  :block/created-at 1643421686133,
+  :block/updated-at 1643421686133}
+ {:block/name "dir_最重要和关键的是,前进是一步步做出来的 (想想唐僧取经)",
+  :block/created-at 1643421686132,
+  :block/updated-at 1643421686132}
+ {:block/name "dir_概念是个框, 所以没有绝对的定义, 只有不同人赋予它的不同定义",
+  :block/created-at 1643160008622,
+  :block/updated-at 1643177350195}
  {:block/name "dir_每一个赛场对于你是否'普通'或者'别致'的判断,都有不同的判定标准",
-  :block/created-at 1643011484403,
-  :block/updated-at 1643011484403}
+  :block/created-at 1643421686133,
+  :block/updated-at 1643421686133}
+ {:block/name "dir_永远不要停下来! 不要站在原地哭,即使哭泣,也要在移动中哭泣。",
+  :block/created-at 1643421686133,
+  :block/updated-at 1643421686133}
+ {:block/name "dir_没有门槛, 恰恰是最大的门槛. 因为没有门槛就没有护城河, 直接就会变成红海内卷.",
+  :block/created-at 1643184009828,
+  :block/updated-at 1643184445294}
  {:block/name
   "dir_洞悉错觉(transparency illusion)-- 事实上, “被误解”才是世间常态,“你懂我”的几率则像中彩。",
   :block/created-at 1642993531099,
   :block/updated-at 1642993531171}
+ {:block/name "dir_混沌系统分成两级 _ 1.“不会因为预测而改变”, 2.“会受到预测的影响而改变”",
+  :block/created-at 1643173820144,
+  :block/updated-at 1643173868273}
+ {:block/name
+  "dir_现代科学, 与先前的知识体系, 有三大不同之处_ 1.愿意承认自己的无知。2.以观察和数学为中心。3.运用理论来取得新能力。",
+  :block/created-at 1643173688301,
+  :block/updated-at 1643173736870}
+ {:block/name "dir_生物里最好的学习方式是看动画!因为往往文字讲不清楚太多物质之间的_动力学关系_",
+  :block/created-at 1643174714030,
+  :block/updated-at 1643174892711}
  {:block/name
   "dir_真正能跨越时间而_保值_的东西, 是内容本身, 而不是视频的拍摄与剪辑技巧! 现在_炫技_大于_内容价值内涵_的视频(金玉其外败,絮其中), 到未来时, 即没有内涵, 所炫的技(包括特效等)也会_过时_.  什么都没留下来.",
   :block/created-at 1642668308764,
   :block/updated-at 1642668308764}
+ {:block/name "dir_知识付费中诈骗的一种方式, 就是把很普通的_概念_包装成一种_定理_",
+  :block/created-at 1643252484245,
+  :block/updated-at 1643252884131}
  {:block/name "dir_社交中最常见的三种恐惧",
   :block/created-at 1642747208707,
   :block/updated-at 1642748139168}
  {:block/name "dir_立即行动的原因",
   :block/created-at 1642999262282,
   :block/updated-at 1642999292319}
+ {:block/name "dir_脱口秀行业有一句话:一个人摔跤的时候是可笑的,但是当一个人摔出血了就不好笑了。",
+  :block/created-at 1643421686132,
+  :block/updated-at 1643421686132}
+ {:block/name "dir_脱口秀行业有一句话_一个人摔跤的时候是可笑的,但是当一个人摔出血了就不好笑了。",
+  :block/created-at 1643164436450,
+  :block/updated-at 1643164436535}
+ {:block/name
+  "dir_要清楚你做这个报告的目的是什么. — 你是想得到什么样的资源支持?还是为了展示阶段性的工作成果? 还是为了讨论具体问题?",
+  :block/created-at 1643421686133,
+  :block/updated-at 1643421686133}
+ {:block/name
+  "dir_要清楚你做这个报告的目的是什么. — 你是想得到什么样的资源支持_还是为了展示阶段性的工作成果_ 还是为了讨论具体问题_",
+  :block/created-at 1643164535398,
+  :block/updated-at 1643164638595}
+ {:block/name "dir_视频内容平台, 赚钱方式, 与遇到的问题",
+  :block/created-at 1643253180152,
+  :block/updated-at 1643417900837}
+ {:block/name
+  "dir_训练辩论, 可以得到六项重要能力:1提升民主参与的能力、2孕育社会的领导精英、3培养求知的能力与兴趣、4接触与整合多元知识、5提升批判思考的能力,6提升口语传播能力等。",
+  :block/created-at 1643421686133,
+  :block/updated-at 1643421686133}
+ {:block/name
+  "dir_训练辩论, 可以得到六项重要能力_1提升民主参与的能力、2孕育社会的领导精英、3培养求知的能力与兴趣、4接触与整合多元知识、5提升批判思考的能力,6提升口语传播能力等。",
+  :block/created-at 1643171779172,
+  :block/updated-at 1643172224992}
+ {:block/name "dir_话语权即政治, 表达出的话语即政治. 是你很重要的权力!",
+  :block/created-at 1643159753313,
+  :block/updated-at 1643159753362}
+ {:block/name "dir_说服他人, 有以下几种方法",
+  :block/created-at 1643172334026,
+  :block/updated-at 1643172339117}
+ {:block/name
+  "dir_辩论, 本质目的不是为了说服对方, 而是为了拉拢第三方听众的数量, 扩大自己的_盟友_. → 即, 将_中立者_转化为_支持者_; 将_反对者_转化为_中立者_.",
+  :block/created-at 1643165771954,
+  :block/updated-at 1643166095393}
+ {:block/name
+  "dir_辩题可分为三大类:事实, 价值, 政策。这三者存在着一种层级关系 -_ 做出的_政策_, 须有_价值判断_做支撑;  而_价值判断_, 由_客观事实带来的后果_为证明.",
+  :block/created-at 1643421686133,
+  :block/updated-at 1643421686133}
+ {:block/name
+  "dir_辩题可分为三大类_事实, 价值, 政策。这三者存在着一种层级关系 -_ 做出的_政策_, 须有_价值判断_做支撑;  而_价值判断_, 由_客观事实带来的后果_为证明.",
+  :block/created-at 1643167268935,
+  :block/updated-at 1643168124356}
+ {:block/name "dir_这些路不是用来局限住你的,而只意味着提供你一些选择的途径. 没有创新精神的人永远也只能是一个执行者。",
+  :block/created-at 1643163549626,
+  :block/updated-at 1643163935669}
  {:block/name "dir_追取晋升, 这恰恰是一个人雄心的反映.",
   :block/created-at 1642994252974,
   :block/updated-at 1642994253038}
@@ -167,6 +321,9 @@
  {:block/name "favorites",
   :block/created-at 1642668308766,
   :block/updated-at 1642668308766}
+ {:block/name "importan",
+  :block/created-at 1643421686133,
+  :block/updated-at 1643421686133}
  {:block/name "important",
   :block/created-at 1642668308766,
   :block/updated-at 1642668308766}
@@ -174,8 +331,8 @@
   :block/created-at 1642224014410,
   :block/updated-at 1642224014410}
  {:block/name "into",
-  :block/created-at 1643011484404,
-  :block/updated-at 1643011484404}
+  :block/created-at 1643421686133,
+  :block/updated-at 1643421686133}
  {:block/name "jan 14th, 2022",
   :block/created-at 1642118400000,
   :block/updated-at 1642118400000}
@@ -185,6 +342,18 @@
  {:block/name "jan 24th, 2022",
   :block/created-at 1642982400000,
   :block/updated-at 1642982400000}
+ {:block/name "jan 25th, 2022",
+  :block/created-at 1643068800000,
+  :block/updated-at 1643068800000}
+ {:block/name "jan 26th, 2022",
+  :block/created-at 1643155200000,
+  :block/updated-at 1643155200000}
+ {:block/name "jan 27th, 2022",
+  :block/created-at 1643241600000,
+  :block/updated-at 1643241600000}
+ {:block/name "jan 29th, 2022",
+  :block/created-at 1643414400000,
+  :block/updated-at 1643414400000}
  {:block/name "later",
   :block/created-at 1642224014410,
   :block/updated-at 1642224014410}
@@ -192,8 +361,8 @@
   :block/created-at 1642224014410,
   :block/updated-at 1642224014410}
  {:block/name "page_兴趣分两种,一种是对技术类产生兴趣, 一种是对事业类产生兴趣",
-  :block/created-at 1643011484404,
-  :block/updated-at 1643011484404}
+  :block/created-at 1643421686133,
+  :block/updated-at 1643421686133}
  {:block/name "pages_学习中遇到的问题, 在你解决后, 必须将过程记录下来, 复盘",
   :block/created-at 1642668308765,
   :block/updated-at 1642668308765}
@@ -213,8 +382,8 @@
   :block/created-at 1642668308765,
   :block/updated-at 1642668308765}
  {:block/name "一旦选错职业,就像坐上了开往_远离你内心向往方向_的火车.",
-  :block/created-at 1643011484404,
-  :block/updated-at 1643011484404}
+  :block/created-at 1643421686133,
+  :block/updated-at 1643421686133}
  {:block/name
   "上帝给我们的是一只右(right)脚和一只左(left)脚,而不是一只正确的(right)脚和一只错误的(wrong)脚.",
   :block/created-at 1642668308765,
@@ -262,14 +431,14 @@
   :block/created-at 1642668308766,
   :block/updated-at 1642668308766}
  {:block/name "兴趣",
-  :block/created-at 1643011484403,
-  :block/updated-at 1643011484403}
+  :block/created-at 1643421686133,
+  :block/updated-at 1643421686133}
  {:block/name "原则_ 00 我的价值观架构, 认知库, 记录的基本原则",
   :block/created-at 1642668308765,
   :block/updated-at 1642668308765}
  {:block/name "发挥",
-  :block/created-at 1643011484403,
-  :block/updated-at 1643011484403}
+  :block/created-at 1643421686133,
+  :block/updated-at 1643421686133}
  {:block/name "受启发 _ 人新的想法",
   :block/created-at 1642668308765,
   :block/updated-at 1642668308765}
@@ -331,14 +500,14 @@
   :block/created-at 1642668308766,
   :block/updated-at 1642668308766}
  {:block/name "拒绝,是你表达自己职业意愿的一个机会。",
-  :block/created-at 1643011484403,
-  :block/updated-at 1643011484403}
+  :block/created-at 1643421686133,
+  :block/updated-at 1643421686133}
  {:block/name "拒绝,是你表达自己职业意愿的一个机会。/into",
-  :block/created-at 1643011484403,
-  :block/updated-at 1643011484403}
+  :block/created-at 1643421686133,
+  :block/updated-at 1643421686133}
  {:block/name "拒绝，是你表达自己职业意愿的一个机会。",
-  :block/created-at 1643011484403,
-  :block/updated-at 1643011484403}
+  :block/created-at 1643421686133,
+  :block/updated-at 1643421686133}
  {:block/name "文风",
   :block/created-at 1642668308766,
   :block/updated-at 1642668308766}
@@ -381,6 +550,9 @@
  {:block/name "演进 _ 你的_认知_, 需要随时间, 事态的变化, 而不断_演进_.",
   :block/created-at 1642668308766,
   :block/updated-at 1642668308766}
+ {:block/name "生意计算",
+  :block/created-at 1643245512805,
+  :block/updated-at 1643245752938}
  {:block/name "生活中,你真正要做的,是从头到尾,一个人掌握那种可以产生现金流的技能和产品.",
   :block/created-at 1642668308766,
   :block/updated-at 1642668308766}
@@ -413,5 +585,5 @@
   :block/created-at 1642668308766,
   :block/updated-at 1642668308766}
  {:block/name "追取晋升, 这恰恰是一个人雄心的反映.",
-  :block/created-at 1643011484403, 
-  :block/updated-at 1643011484403}]
+  :block/created-at 1643421686133, 
+  :block/updated-at 1643421686133}]
