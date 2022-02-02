@@ -430,6 +430,24 @@ y = x^2 (\text{三次函数})
 
 &符号用来表明"对齐的位置".
 
+一列公式左对齐, 且有编号 (在 logseq中有效):
+....
+\begin{align}
+& equation 1 \\
+& equation 2 \\
+\end{align}
+....
+
+
+一列公式左对齐且无编号 (在 logseq中有效):
+....
+\begin{align*}
+& equation 1 \\
+& equation 2 \\
+\end{align*}
+....
+
+
 ---
 
 ==== 文本对齐 : 居中 ->  \begin{gather}
@@ -721,9 +739,68 @@ image:/img_LaTeX/LaTeX_35.png[]
 
 需要使用到矩阵"环境", 来实现矩阵排列.
 
+在latex中，我们可以使用array参数来输入一个矩阵。
+
+[cols="1a,1a"]
+|===
+|写法 |效果
+
+|
+\begin{array}{ccc}
+    1 & 0 & 0\\
+    0 & 1 & 0\\
+    0 & 0 & 1\\
+\end{array}
+|
+....
+\begin{array}{ccc}
+    1 & 0 & 0\\
+    0 & 1 & 0\\
+    0 & 0 & 1\\
+\end{array}
+....
+
+{ccc}是指元素(上例为3列)的对齐方法:
+
+- c 即 center居中.
+- 还有 l 左对齐 (left)）
+- r 右对齐 (right)
+|===
+
+从本质上说，array是将一些事物"对齐显示"的阵列，所以也可以对齐其他数学对象。 如:
+
+
+[cols="1a,1a" options="autowidth"]
+|===
+|Header 1 |Header 2
+
+|....
+\begin{array}{cc}
+        (A)\quad 4 & \hspace{4cm}(B)\quad 3\\
+        (B)\quad 2 & \hspace{4cm}(D)\quad 1
+\end{array}
+....
+
+\quad和\hspace{}都是表示空格，但是空的个数不同
+
+|
+\begin{array}{cc}
+        (A)\quad 4 & \hspace{2cm}(B)\quad 3\\
+        (B)\quad 2 & \hspace{2cm}(D)\quad 1
+\end{array}
+|===
+
+
+
+
+
+
+
+
+
 常用的矩阵环境有 matrix、bmatrix、vmatrix、pmatrix ，其区别为在于外面的括号不同：
 
-[options="autowidth"]
+[options="autowidth"  cols="1a,1a"]
 |===
 |效果 |写在下面的环境中
 
@@ -735,40 +812,130 @@ x_3 & x_4 & \dots \\
 \vdots & \vdots  & \ddots \\
 \end{matrix}
 \end{align}
-|
 
-|\begin{pmatrix}
+|
+....
+\begin{align}
+\begin{matrix}
+x_1 & x_2 & \dots \\
+x_3 & x_4 & \dots \\
+\vdots & \vdots  & \ddots \\
+\end{matrix}
+\end{align}
+....
+
+|
+\begin{pmatrix}
 a & b \\
 c & d \\
 \end{pmatrix}
-|\begin{pmatrix}
+
+|
+....
+\begin{pmatrix}
+a & b \\
+c & d \\
+\end{pmatrix}
+....
+
+====
+parenthesis  /pəˈren-θə-sɪs/ 小括号；圆括号（复数） +
+-> para-,在旁，在周围，en-,进入，使，-thes,放置，词源同thesis,do.引申词义插入语，括号。
+====
 
 |\begin{bmatrix}
 a & b \\
 c & d \\
 \end{bmatrix}
+
 |\begin{bmatrix}
+
+====
+Bracket  /ˈbrækɪt/ 中括号；方括号
+====
+
 
 |\begin{Bmatrix}
 a & b \\
 c & d \\
 \end{Bmatrix}
+
 |\begin{Bmatrix}
+
+====
+Curly brackets : are a pair of written marks {} 大括号 +
+= Opening / closing braces
+====
 
 |\begin{vmatrix}
 a & b \\
 c & d \\
 \end{vmatrix}
+
 |\begin{vmatrix}
+
+====
+vertical  /ˈvɜːrtɪkl/ 竖的；垂直的；直立的 +
+-> 词根vert表“转”
+====
 
 |\begin{Vmatrix}
 a & b \\
 c & d \\
 \end{Vmatrix}
 |\begin{Vmatrix}
+
+
+|
+\begin{pmatrix}
+        a_{11} & a_{12} & \cdots & a_{1n}\\
+        a_{21} & a_{22} & \cdots & a_{2n}\\
+        \vdots & \vdots & \ddots & \vdots\\
+        a_{n1} & a_{n2} & \cdots & a_{nn}\\
+    \end{pmatrix}
+|
+....
+\begin{pmatrix}
+        a_{11} & a_{12} & \cdots & a_{1n}\\
+        a_{21} & a_{22} & \cdots & a_{2n}\\
+        \vdots & \vdots & \ddots & \vdots\\
+        a_{n1} & a_{n2} & \cdots & a_{nn}\\
+\end{pmatrix}
+....
+
+- 横排列的点 ⋯ 用 $\cdots$ 表示，
+- 列排列的点 ⋮ 用 $\vdots$ 表示，
+- 斜排列的点 ⋱ 用 $\ddots$ 表示
+
 |===
 
+
+
+也可以画成"表格"一样:
+....
+\begin{array}{|c|c|}
+        \hline
+        0 & 1 \\ \hline
+        1 & 0 \\ \hline
+\end{array}
+....
+
+其中:
+
+- 水平线 : 用 \hline表示，
+- 竖线:  用 | 来表示
+
+
+效果:
+
+\begin{array}{|c|c|}
+        \hline
+        0 & 1 \\ \hline
+        1 & 0 \\ \hline
+\end{array}
+
 ---
+
 
 ==== ---- 在矩阵内部, 画横线或竖线 -> 要用 array 环境
 
