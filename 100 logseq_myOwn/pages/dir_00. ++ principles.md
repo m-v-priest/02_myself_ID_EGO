@@ -3,6 +3,7 @@ title:: dir_00. ++ principles
 {{renderer :tocgen }}
 
 - ---
+- ==数学学习中的例题, 必须用 apple pencil 手写(还能画图), 再截图. 不要用 latex输入, 不然速度太慢了!!==
 - 选书与笔记方法
   collapsed:: true
 	- 初心 -> 牢记初心目的, 别迷失

@@ -165,7 +165,7 @@
  :ref/default-open-blocks-level 2
 
  :ref/linked-references-collapsed-threshold 50
- :favorites ["dir_20. roi, 谋事者, 工具人, 职业的好坏鸿沟" "dir 21. 思考,判断,行动,策略" "dir_10. main" "dir_30. 心理学, 情感, 人性, 性格分析" "++ 05 方法的学习, 方法论" "test 测试学习" "11 各职业"]
+ :favorites ["dir 200. 战略" "dir_20. roi, 谋事者, 工具人, 职业的好坏鸿沟" "dir 21. 思考,判断,行动,策略" "dir_10. main" "dir_30. 心理学, 情感, 人性, 性格分析" "00. ++ principles" "++ 05 方法的学习, 方法论" "test 测试学习" "11 各职业"]
  :graph/settings {:builtin-pages? false, :orphan-pages? true}
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
