@@ -18,7 +18,6 @@
   background-color:: #264c9b
 	- 矩阵加法的性质 : 交换律:
 	  background-color:: #264c9b
-	  collapsed:: true
 		- 显然, 两个矩阵的加法, 就具有"==交换律=="的性质了:
 		- #+BEGIN_EXPORT latex
 		  \boxed{
@@ -28,7 +27,6 @@
 	- ---
 	- 矩阵加法的性质 : 零阵:
 	  background-color:: #264c9b
-	  collapsed:: true
 		- 零阵(即里面"所有元素都是 0"的矩阵), 记为英文大写字母的O.  即:
 			- ![QQ图片20220204110642.jpg](../assets/QQ图片20220204110642_1643944009003_0.jpg){:height 66, :width 247}
 			- 显然, 在可相加的前提下, ==一个矩阵+零阵, 就等于该矩阵本身==. 即:
@@ -40,7 +38,6 @@
 	- ---
 	- 矩阵加法的性质 : 分配律:
 	  background-color:: #264c9b
-	  collapsed:: true
 		- ==一个数x, 乘以一个矩阵, 就是把矩阵中的每一个元素, 都乘上这个数x. (类似于乘法分配律)==
 			- 有矩阵 $A=[a_{ij}]_{m*n}$,  还有一个数 λ, 则:
 			- #+BEGIN_EXPORT latex
