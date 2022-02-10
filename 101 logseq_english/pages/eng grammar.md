@@ -28,6 +28,29 @@
 	  background-color:: #264c9b
 		- [[当前 + 特定场合中 + 正在发生 + 短暂动作 ← do/does]]
 		- [[当前 + 临时 + 正在持续 ← am/is/are doing]]
+		- [[当前 + 逐渐在变化 ← am/is/are doing]]
+		-
+	- 将来
+	  background-color:: #264c9b
+		- [[将来 + 眼前立马就要发生 ← 1.be on the point/verge/brink/eve of doing; 2.be about to do]]
+		- [[①将来 + 主观 ← will, ②将来+ 客观 ← will be doing]]
+		- [[将来 + 想象 + 某一特定时刻 + 正在做 ← shall/will be doing]]
+		- [[将来 + 条件状语从句/时间状语从句中 ← do/does]]
+		- [[将来 + 主句中为将来时 + 则从句中想表达将来 ← 用 do/does (即"客"不跟"主"抢will)]]
+		-
+	- 预测
+	  background-color:: #264c9b
+		- [[预测将来 + 少证据支持(即更主观) ← 情态动词(按可信度大小排): will > may > might]]
+		- [[预测将来 + 有证据支持(即更客观) ← be going to]]
+		- [[预测将来 + 在某条件下 ← will]]
+		-
+	- 计划
+	  background-color:: #264c9b
+		- 事先计划（future plan）：即早就计划好了. 表示说话人在头脑里已经做出决定"将来"要做某件事
+		- [[计划 + 将来 ← be going to]]
+		- [[计划(决心很强) + 将来 ← be going to]]
+		- [[计划 + 将来 + 短暂性动作(go，start，leave等) ← do/does]]
+		-
 		-
 -
 - ---
@@ -40,6 +63,19 @@
 	- [[①还没板上钉钉的事情, 或尚未存在的事情, 前面要用a. ②已经确认了的事情, 才能用the.]]
 	-
 	-
+- ---
+- 介词
+  background-color:: #793e3e
+	- [[位于某物的另一边 -> across]]
+	-
+-
+- ---
+- 常用的说法
+  background-color:: #793e3e
+	- [[(what) X is all about : 关于X是...一回事]]
+	- [[表示“不屑做某事”, 用 above + -ing]]
+	-
+-
 -
 - 440 p
 -
