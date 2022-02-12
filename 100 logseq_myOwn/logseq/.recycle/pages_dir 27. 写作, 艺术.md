@@ -1,6 +1,3 @@
-title:: dir 27. 写作, 艺术
-
--
 - {{renderer :tocgen }}
 - ---
 - 写作
