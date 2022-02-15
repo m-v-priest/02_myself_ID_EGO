@@ -14,12 +14,15 @@
 	  background-color:: #264c9b
 		- [[任意过去到未来, 任意时间段长短 ← do/does]]
 		- [[重复性(/习惯性)活动 ← do/does]]
+		- [[表习惯性的动作特征, 总是 <- will]]
+		- [[习惯于〈做〉某事 -> 用 be used to (doing) sth. (动名词)]]
 		- [[在具体的时间点(过去/现在/将来) + 正在发生 ← 进行时 be doing, 并需要指明"具体的时间点"]]
 		-
 	- 过去 past
 	  background-color:: #264c9b
 		- [[过去 + 短暂动作/状态 ← did, 并需要指明"具体的时间点"]]
 		- [[过去 + 一段时期内 + 重复性动作/状态 ← did, 需要指明"具体的时间段"]]
+		- [[表“过去的习惯, 而现在已没那习惯了". -> 用 used to do (动词不定式)]]
 		- [[过去 + 特定时刻 + 正在发生 ← was/were doing]]
 		- [[过去 + 故事的背景 ← was/were doing. ⇒ 即: 1.长动作,用"was/were doing"; 2.短动作,用"did"(did)]]
 			- [[在连接"背景(用"was/were doing")" 和"前景(用"did")"动作时, when 长短动作都能连接, 而 while只能接"长动作".]]
@@ -38,11 +41,14 @@
 		- [[将来 + 条件状语从句/时间状语从句中 ← do/does]]
 		- [[将来 + 主句中为将来时 + 则从句中想表达将来 ← 用 do/does (即"客"不跟"主"抢will)]]
 		-
-	- 预测
+	- 预测未来, 推测过去
 	  background-color:: #264c9b
 		- [[预测将来 + 少证据支持(即更主观) ← 情态动词(按可信度大小排): will > may > might]]
 		- [[预测将来 + 有证据支持(即更客观) ← be going to]]
 		- [[预测将来 + 在某条件下 ← will]]
+		-
+		- [[表对"过去事情"的推测, 在肯定句中 -> 用 must have done]]
+		- [[表对"过去事情"的推测, 在"否定/疑问句"中 -> 用 can / can’t have done]]
 		-
 	- 计划
 	  background-color:: #264c9b
@@ -52,7 +58,37 @@
 		- [[计划 + 将来 + 短暂性动作(go，start，leave等) ← do/does]]
 		-
 		-
--
+- ---
+- 逻辑, 转折等说法
+  background-color:: #793e3e
+	- 要想的某个事物作"进一步说明", 就用:
+	  background-color:: #264c9b
+		- [[想做进一步的说明, 可用"同位语从句"-> that...]]
+		- [[补充说明某事物的动作或状态 -> 用 v-ing , v-ed, to do 来当补足语]]
+		-
+		-
+	- 表因果关系:
+	  background-color:: #264c9b
+		- [[表"事后想到的原因", 类似于置于括号内的说明性文字, 用 for.]]
+		- [[表"众人已所知"的因果关系, 用 as/ since, 并多用于句首]]
+			-
+			-
+	- 表前提条件:
+	  background-color:: #264c9b
+		- [[表前提条件"如果没有...的话": 用 unless ... do/does (= if ... not)]]
+		-
+	- 表"做对比":
+	  background-color:: #264c9b
+		- [[表示"做对比" -> 用 however]]
+		-
+- ---
+- 表示出"情感色彩"的说法
+  background-color:: #793e3e
+	- 表达出你的"情感色彩"的说法
+	  background-color:: #264c9b
+		- [[要表达出你的情感色彩, 用 be doing (正在进行时)]]
+		-
+	-
 - ---
 - adj.
   background-color:: #793e3e
@@ -68,12 +104,16 @@
   background-color:: #793e3e
 	- [[位于某物的另一边 -> across]]
 	-
+	-
 -
 - ---
 - 常用的说法
   background-color:: #793e3e
 	- [[(what) X is all about : 关于X是...一回事]]
 	- [[表示“不屑做某事”, 用 above + -ing]]
+	-
+	- [[表达"使某事物完成"的意思 -> 用 have sth. done 使役式）]]
+	- [[表示”让某人做某事”或”使某人处于某种境地” -> 用 have sb. doing/done]]
 	-
 -
 -
