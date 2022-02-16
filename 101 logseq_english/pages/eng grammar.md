@@ -26,6 +26,14 @@
 		- [[过去 + 特定时刻 + 正在发生 ← was/were doing]]
 		- [[过去 + 故事的背景 ← was/were doing. ⇒ 即: 1.长动作,用"was/were doing"; 2.短动作,用"did"(did)]]
 			- [[在连接"背景(用"was/were doing")" 和"前景(用"did")"动作时, when 长短动作都能连接, 而 while只能接"长动作".]]
+			-
+		- [[表示"回顾以前发生的事", -> 就要用 "完成时"]]
+			- [[现在 (回顾->) 过去 :  用 have done]]
+			- [[过去 (回顾→) 更远的过去 : 用 had done]]
+			- [[未来 (回顾→) 之前的事 : will have done]]
+			-
+			-
+			-
 		-
 	- 当前, 此刻, now
 	  background-color:: #264c9b
@@ -40,6 +48,8 @@
 		- [[将来 + 想象 + 某一特定时刻 + 正在做 ← shall/will be doing]]
 		- [[将来 + 条件状语从句/时间状语从句中 ← do/does]]
 		- [[将来 + 主句中为将来时 + 则从句中想表达将来 ← 用 do/does (即"客"不跟"主"抢will)]]
+		- [[将来 + 故事的背景动作 ← shall/will be doing]]
+		-
 		-
 	- 预测未来, 推测过去
 	  background-color:: #264c9b
@@ -53,9 +63,13 @@
 	- 计划
 	  background-color:: #264c9b
 		- 事先计划（future plan）：即早就计划好了. 表示说话人在头脑里已经做出决定"将来"要做某件事
-		- [[计划 + 将来 ← be going to]]
+		- [[计划 + 将来 ← be going to (1.计划确定性不强, 2.强烈决心, 3.预测)]]
 		- [[计划(决心很强) + 将来 ← be going to]]
-		- [[计划 + 将来 + 短暂性动作(go，start，leave等) ← do/does]]
+		- [[计划 + 将来 + 短暂性动作(go，start，leave等) ← do/does (更客观)]]
+		- [[最近的将来 + 计划安排 <- am/is/are doing (1.最近的将来, 2.更主观, 3.计划确定性更强)]]
+		- [[计划 + 将来 + 口语中用 ← will be doing (可近可远的将来)]]
+		- [[计划 + 将来 ← be to do , 很正式]]
+		- [[意愿（willingness）(临时起意) + 将来 ← will]]
 		-
 		-
 - ---
@@ -86,8 +100,19 @@
   background-color:: #793e3e
 	- 表达出你的"情感色彩"的说法
 	  background-color:: #264c9b
-		- [[要表达出你的情感色彩, 用 be doing (正在进行时)]]
+		- [[要表达出你的情感色彩, 强烈的情感 -> 用 be doing (正在进行时)]]
+		- [[抱怨 + 拟人化 -> 物做主语 + won’t ]]
 		-
+	- 委婉
+	  background-color:: #264c9b
+		- [[委婉 + 探询式询问 + 口语中  ← 用did 或 was/were doing]]
+		- [[委婉 + 客观地询问事实(对方做不做和我没关系) ← shall/will be doing (将来进行时)]]
+	- 强硬
+	  background-color:: #264c9b
+		- [[请求, 命令, 指示,质问,威胁+ 询问对方 <- will/shall do (一般将来时)]]
+		- [[强烈的命令 ← be to do (= must, should)]]
+		-
+	-
 	-
 - ---
 - adj.

@@ -36,3 +36,4 @@ title:: 过去 + 故事的背景 ← was/were doing. ⇒ 即: 1.长动作,用"wa
 -
 - [[在连接"背景(用"was/were doing")" 和"前景(用"did")"动作时, when 长短动作都能连接, 而 while只能接"长动作".]]
 -
+- [[将来 + 故事的背景动作 ← shall/will be doing]]
