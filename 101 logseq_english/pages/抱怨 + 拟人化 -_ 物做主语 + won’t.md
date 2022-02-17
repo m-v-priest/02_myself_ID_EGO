@@ -1,0 +1,4 @@
+-
+- **若用“物”作主语, 则具有拟人的意味，此时说话人往往是在抱怨，而且通常用否定形式的won’t。**
+	- **My car won’t start**. Will you give me a ride? 我的车子就是发动不了，我能搭你的车吗？
+	- **The closet door won’t open**. Will you try it? 这个储藏室的门就是打不开，你要试试看吗？

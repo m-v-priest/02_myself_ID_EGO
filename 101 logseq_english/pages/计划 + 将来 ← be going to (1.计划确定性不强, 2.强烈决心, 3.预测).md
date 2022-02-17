@@ -19,4 +19,5 @@
 	- Mrs. Gump: What does normal mean, anyway? **He might be** a bit on the slow side, but my boy, Forrest, **is going to** get the same opportunities as everyone else. **He’s not going to** some special school to learn how to retread tires. We’re talking about 5 little points here. There must be something can be done.
 	  <- 这里的两个 be going to表示“强烈的==决心==”，表明阿甘妈妈决心要让阿甘接受正式的教育，而不能因为智商低而被歧视。
 	  ← ==她用might这种非常不肯定的情态动词==, 说He might be a bit on the slow side. 表明她并没有因为儿子的智商比正常人少五个点, 而觉得有什么大不了的. ==她没有用may（很可能是）==，更没有用must（一定是），否则会显得她对儿子的前途命运非常悲观。
-	-
+-
+- ((620c5625-d76e-486c-bcc8-7075f99846b1))

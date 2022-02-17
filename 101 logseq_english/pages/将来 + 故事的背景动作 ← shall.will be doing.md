@@ -1,0 +1,7 @@
+-
+- 同"was/were doing"的用法类似，**可以用"will be doing"来表示一个背景动作，来描述在这个背景动作下，将会发生的另外一个短暂动作。**
+	- **Will your friends be waiting for you** at the airport when you arrive? 你一会到达机场时，你的朋友们会在那接你吗？
+	- If we don’t hurry, **the musicians will be playing** by the time we arrive.如果我们再不快点走，一会儿到那时，音乐家们一定正在演出了。
+	- What do you think **she’ll be doing** when we get there? 你觉得等我们一会儿到那时，她会正在做什么？
+-
+- [[过去 + 故事的背景 ← was/were doing. ⇒ 即: 1.长动作,用"was/were doing"; 2.短动作,用"did"(did)]]
