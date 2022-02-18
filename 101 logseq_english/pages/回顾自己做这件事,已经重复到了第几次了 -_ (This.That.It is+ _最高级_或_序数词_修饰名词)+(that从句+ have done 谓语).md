@@ -9,3 +9,6 @@ title:: 回顾自己做这件事,已经重复到了第几次了 -> (This/That/It
 	- If **this is the first time you've seen** this stop error screen, restart your computer. 如果这是你第一次看到这个终止操作的屏幕错误信息…​
 	- That **was** the tenth cup of coffee that I **had drunk** that night. 那是我那天晚上喝的第10杯咖啡。
 -
+- 比较: have done 与 had done
+  background-color:: #264c9b
+	- [[It was the＋序数词（first, second…​）或最高级……that had done... ]]
