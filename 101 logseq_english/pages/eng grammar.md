@@ -46,11 +46,14 @@
 				- [["远的过去", 对现在有影响 → " do/doe "讲述自己过去的[人人都会有的普通的]经历 + " have done "探询对方是否有相似的经历]]
 				- [[远的过去的"单一事件", 只要加上"次数", 就能变成"重复事件".]]
 			-
-			- now -> past
+			- now -回顾-> past (反过来亦然 : past -延续到-> now)
 			  background-color:: #497d46
 				- [[现在 (回顾->) 过去 :  用 have done]]
+				- [[①have done 强调"动作的完成, 及其产生的后果影响", ②have been doing 强调"动作仍在进行中,延续至今"]]
+				-
+				-
 			-
-			- past ->  past
+			- 较近的past -回顾->  更早的past  (反过来亦然 : 更早的past  -延续到-> 较近的past)
 			  background-color:: #497d46
 				- [[过去 (回顾→) 更远的过去 : 用 had done]]
 					- #+BEGIN_QUOTE
@@ -66,7 +69,7 @@
 					- [[(1)几个动作按先后顺序发生 → 用" did "; (2)在过去, “回顾”到更早的过去事情 → 用" had done ".]]
 					- [[两个相继发生的动作A和B, (1)两者之间没有因果关系, 彼此独立发生, 就要用" had done "; (2)A导致了B的发生(即两者有因果关系), 要用" did "]]
 			-
-			- future -> previous
+			- future -回顾-> previous  (反过来亦然 : future之前 -延续到-> future)
 			  background-color:: #497d46
 				- [[未来 (回顾→) 之前的事 : will have done]]
 					- [[表示 从"将来之前"(过去, 现在, 将来A时刻) →(延续,重复到)→ "将来"B时刻 : 用 will have done (将来完成时)]]
@@ -160,11 +163,14 @@
   background-color:: #793e3e
 	- 表达出你的"情感色彩"的说法
 	  background-color:: #264c9b
+		- [[肯定句中, 要加强语气和情感色彩，就用 do,did,does, 置于动词原形之前]]
+		- [[在be祈使句中, 想要表达"强调"语气, -> 可用 do]]
 		- [[要表达出你的情感色彩, 强烈的情感 -> 用 be doing (正在进行时)]]
 		- [[抱怨 + 拟人化 -> 物做主语 + won’t ]]
 		-
 	- 委婉
 	  background-color:: #264c9b
+		- [[表示邀请的祈使句时，要想使邀请听起来更为礼貌、真诚或友好, -> 就用 do]]
 		- [[委婉 + 探询式询问 + 口语中  ← 用did 或 was/were doing]]
 		- [[委婉 + 客观地询问事实(对方做不做和我没关系) ← shall/will be doing (将来进行时)]]
 	- 强硬
@@ -199,6 +205,10 @@
 	-
 	- [[表达"使某事物完成"的意思 -> 用 have sth. done 使役式）]]
 	- [[表示”让某人做某事”或”使某人处于某种境地” -> 用 have sb. doing/done]]
+	-
+	- [[表示"习惯于" -> 用 get used to(prep.) sth., be used to, be accustomed to, get accustomed to]]
+	-
+	- [[表示"几乎和...一样", “实际上等于” -> 用 as good as]]
 	-
 -
 -
