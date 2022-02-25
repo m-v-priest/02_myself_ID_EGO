@@ -1,33 +1,33 @@
 [{:block/name "\"远的过去\", 对现在有影响 → \" do",
-  :block/created-at 1645155443788,
-  :block/updated-at 1645155443788}
+  :block/created-at 1645774683540,
+  :block/updated-at 1645774683540}
  {:block/name
   "(1)几个动作按先后顺序发生 → 用_ did _; (2)在过去, “回顾”到更早的过去事情 → 用_ had done _.",
   :block/created-at 1645147171758,
   :block/updated-at 1645147508540}
  {:block/name
   "(1)强调_最近发生_的事件 -_ 动作动词(v.) + 完成时态 ; (2) 强调“较远的过去”经历 -_ 状态(a.) + 完成时态",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683538,
+  :block/updated-at 1645774683538}
  {:block/name
   "(1)强调_最近发生_的事件,对现在的影响或结果 -_ 动作动词(v.) + 完成时态 ; (2) 强调“较远的过去”经历 -_ 状态(a.) + 完成时态",
   :block/created-at 1645074100793,
   :block/updated-at 1645075126218}
  {:block/name "(what) x is all about _ 关于x是",
-  :block/created-at 1645155443788,
-  :block/updated-at 1645155443788}
+  :block/created-at 1645774683540,
+  :block/updated-at 1645774683540}
  {:block/name "(what) x is all about _ 关于x是...一回事",
-  :block/created-at 1645155443788,
-  :block/updated-at 1645155443788}
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name "(what) x is all about _ 关于x是//",
-  :block/created-at 1645155443787,
-  :block/updated-at 1645155443787}
+  :block/created-at 1645774683539,
+  :block/updated-at 1645774683539}
  {:block/name "(what) x is all about _ 关于x是///一回事",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name "(主句 have done...) + (since从句  +短暂动词 did ",
-  :block/created-at 1645155443785,
-  :block/updated-at 1645155443785}
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name
   "1. 动作或事件, 从a时 延续到→ b时 → 并可能继续延续到未来. ⇒ (1). 谓语必须是_延续性动词_(而非_短暂动词_); (2). 句子要带_延续性时间状语_(since...​, for+时间段, 等)",
   :block/created-at 1645063193252,
@@ -35,33 +35,37 @@
  {:block/name "1a +暂时的adj. 客体, 2the +长久状态的adj. 客体",
   :block/created-at 1644392252852,
   :block/updated-at 1644394305138}
+ {:block/name
+  "1have done 强调_动作的完成, 及其产生的后果影响_, 2have been doing 强调_动作仍在进行中,延续至今_",
+  :block/created-at 1645774683538,
+  :block/updated-at 1645774683538}
  {:block/name "1将来 + 主观 ← will, 2将来+ 客观 ← will be doing",
-  :block/created-at 1645155443787,
-  :block/updated-at 1645155443787}
+  :block/created-at 1645774683540,
+  :block/updated-at 1645774683540}
  {:block/name
   "1短暂动作_ 表示已经发生了_质变change_. 2延续动作_ 表示原先的状态没变化. 依然保持maintain原先状态中.",
   :block/created-at 1644306289940,
   :block/updated-at 1644372399846}
  {:block/name "1表示 动作是 _具体的",
-  :block/created-at 1645155443785,
-  :block/updated-at 1645155443785}
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name "1表示 动作是 _具体的/暂时存在的",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name "1表示 动作是 _具体的/暂时存在的/未完成的",
-  :block/created-at 1645155443785,
-  :block/updated-at 1645155443785}
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name "1表示 动作是 _具体的/暂时存在的/未完成的/还在变化中的_, 要用_进行时_. 2表示动作是 _笼统的",
-  :block/created-at 1645155443785,
-  :block/updated-at 1645155443785}
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name
   "1表示 动作是 _具体的/暂时存在的/未完成的/还在变化中的_, 要用_进行时_. 2表示动作是 _笼统的/长久存在的",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name
   "1表示 动作是 _具体的/暂时存在的/未完成的/还在变化中的_, 要用_进行时_. 2表示动作是 _笼统的/长久存在的/已经完成了的",
-  :block/created-at 1645155443787,
-  :block/updated-at 1645155443787}
+  :block/created-at 1645774683539,
+  :block/updated-at 1645774683539}
  {:block/name
   "1表示 动作是 _具体的/暂时存在的/未完成的/还在变化中的_, 要用_进行时_. 2表示动作是 _笼统的/长久存在的/已经完成了的/不再变化的_, 要用_一般时态_.",
   :block/created-at 1644303147134,
@@ -90,45 +94,45 @@
   :block/created-at 1645067754600,
   :block/updated-at 1645068255587}
  {:block/name "_远的过去_, 对现在有影响 → _ do",
-  :block/created-at 1645155443785,
-  :block/updated-at 1645155443785}
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name
   "_远的过去_, 对现在有影响 → _ do/doe _讲述自己过去的[人人都会有的普通的]经历 + _ have done _探询对方是否有相似的经历",
   :block/created-at 1645068329180,
   :block/updated-at 1645068499573}
  {:block/name "a",
-  :block/created-at 1645155443785,
-  :block/updated-at 1645155443785}
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name "b",
-  :block/created-at 1645155443787,
-  :block/updated-at 1645155443787}
+  :block/created-at 1645774683539,
+  :block/updated-at 1645774683539}
  {:block/name "c",
-  :block/created-at 1645155443787,
-  :block/updated-at 1645155443787}
+  :block/created-at 1645774683539,
+  :block/updated-at 1645774683539}
  {:block/name "card",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name "contents",
-  :block/created-at 1645155443788,
-  :block/updated-at 1645155443788}
+  :block/created-at 1645774683541,
+  :block/updated-at 1645774683541}
  {:block/name "doing",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683538,
+  :block/updated-at 1645774683538}
  {:block/name "done",
-  :block/created-at 1645155443787,
-  :block/updated-at 1645155443787}
+  :block/created-at 1645774683539,
+  :block/updated-at 1645774683539}
  {:block/name "dynamic adjective (动态形容词), 可以用在_进行时_中.",
   :block/created-at 1644373954134,
   :block/updated-at 1644380248256}
  {:block/name "eng grammar",
   :block/created-at 1644296153410,
-  :block/updated-at 1645149975580}
+  :block/updated-at 1645764327451}
  {:block/name "eng main",
   :block/created-at 1644202830699,
-  :block/updated-at 1644296147835}
+  :block/updated-at 1645772673562}
  {:block/name "favorites",
-  :block/created-at 1645155443785,
-  :block/updated-at 1645155443785}
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name "feb 11th, 2022",
   :block/created-at 1644537600000,
   :block/updated-at 1644537600000}
@@ -144,6 +148,21 @@
  {:block/name "feb 18th, 2022",
   :block/created-at 1645142400000,
   :block/updated-at 1645142400000}
+ {:block/name "feb 21st, 2022",
+  :block/created-at 1645401600000,
+  :block/updated-at 1645401600000}
+ {:block/name "feb 22nd, 2022",
+  :block/created-at 1645488000000,
+  :block/updated-at 1645488000000}
+ {:block/name "feb 23rd, 2022",
+  :block/created-at 1645574400000,
+  :block/updated-at 1645574400000}
+ {:block/name "feb 24th, 2022",
+  :block/created-at 1645660800000,
+  :block/updated-at 1645660800000}
+ {:block/name "feb 25th, 2022",
+  :block/created-at 1645747200000,
+  :block/updated-at 1645747200000}
  {:block/name "feb 7th, 2022",
   :block/created-at 1644192000000,
   :block/updated-at 1644192000000}
@@ -153,32 +172,35 @@
  {:block/name "feb 9th, 2022",
   :block/created-at 1644364800000,
   :block/updated-at 1644364800000}
+ {:block/name "important",
+  :block/created-at 1645774683541,
+  :block/updated-at 1645774683541}
  {:block/name "in-progress",
-  :block/created-at 1645155443788,
-  :block/updated-at 1645155443788}
+  :block/created-at 1645774683541,
+  :block/updated-at 1645774683541}
  {:block/name
   "it was the+序数词(first, second...​)或最高级......that had done...",
   :block/created-at 1645146550741,
   :block/updated-at 1645151324838}
  {:block/name
   "it was the+序数词(first, second...​)或最高级......that had done... ",
-  :block/created-at 1645155443788,
-  :block/updated-at 1645155443788}
+  :block/created-at 1645774683541,
+  :block/updated-at 1645774683541}
  {:block/name "later",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683538,
+  :block/updated-at 1645774683538}
  {:block/name "lesson to this 01",
   :block/created-at 1644203013499,
   :block/updated-at 1644286780675}
  {:block/name "lesson to this 01_33",
-  :block/created-at 1645155443785,
-  :block/updated-at 1645155443785}
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name "lesson to this 02",
-  :block/created-at 1645155443788,
-  :block/updated-at 1645155443788}
+  :block/created-at 1645774683541,
+  :block/updated-at 1645774683541}
  {:block/name "lesson to this 03",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683538,
+  :block/updated-at 1645774683538}
  {:block/name "ltt 01_33",
   :block/created-at 1644203196310,
   :block/updated-at 1644288593898}
@@ -189,44 +211,44 @@
   :block/created-at 1644286782977,
   :block/updated-at 1644296096537}
  {:block/name "ltt 01_34 pure",
-  :block/created-at 1645155443788,
-  :block/updated-at 1645155443788}
+  :block/created-at 1645774683540,
+  :block/updated-at 1645774683540}
  {:block/name "now",
-  :block/created-at 1645155443788,
-  :block/updated-at 1645155443788}
+  :block/created-at 1645774683541,
+  :block/updated-at 1645774683541}
  {:block/name "todo",
-  :block/created-at 1645155443787,
-  :block/updated-at 1645155443787}
+  :block/created-at 1645774683539,
+  :block/updated-at 1645774683539}
  {:block/name "wait",
-  :block/created-at 1645155443788,
-  :block/updated-at 1645155443788}
+  :block/created-at 1645774683541,
+  :block/updated-at 1645774683541}
  {:block/name "waiting",
-  :block/created-at 1645155443785,
-  :block/updated-at 1645155443785}
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name "“单一事件(短暂动作)”在过去时间b之前已经结束 → 但对时间b有后果影响 _ had done",
   :block/created-at 1645085234586,
   :block/updated-at 1645085588937}
  {:block/name "①表示 动作是 \"具体的",
-  :block/created-at 1645155443787,
-  :block/updated-at 1645155443787}
+  :block/created-at 1645774683539,
+  :block/updated-at 1645774683539}
  {:block/name "①表示 动作是 \"具体的/暂时存在的",
-  :block/created-at 1645155443788,
-  :block/updated-at 1645155443788}
+  :block/created-at 1645774683540,
+  :block/updated-at 1645774683540}
  {:block/name "①表示 动作是 \"具体的/暂时存在的/未完成的",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683538,
+  :block/updated-at 1645774683538}
  {:block/name
   "①表示 动作是 \"具体的/暂时存在的/未完成的/还在变化中的\", 要用\"进行时\". ②表示动作是 \"笼统的",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683538,
+  :block/updated-at 1645774683538}
  {:block/name
   "①表示 动作是 \"具体的/暂时存在的/未完成的/还在变化中的\", 要用\"进行时\". ②表示动作是 \"笼统的/长久存在的",
-  :block/created-at 1645155443788,
-  :block/updated-at 1645155443788}
+  :block/created-at 1645774683541,
+  :block/updated-at 1645774683541}
  {:block/name
   "①表示 动作是 \"具体的/暂时存在的/未完成的/还在变化中的\", 要用\"进行时\". ②表示动作是 \"笼统的/长久存在的/已经完成了的",
-  :block/created-at 1645155443788,
-  :block/updated-at 1645155443788}
+  :block/created-at 1645774683541,
+  :block/updated-at 1645774683541}
  {:block/name "一个感官动词, 可以有三种意思",
   :block/created-at 1644370404549,
   :block/updated-at 1644371440785}
@@ -245,86 +267,95 @@
   :block/created-at 1644998941966,
   :block/updated-at 1645001187975}
  {:block/name "从a时间点, “重复(repeat)”到b时间点",
-  :block/created-at 1645155443788,
-  :block/updated-at 1645155443788}
+  :block/created-at 1645774683541,
+  :block/updated-at 1645774683541}
  {:block/name "任意过去到未来, 任意时间段长短 ← do",
-  :block/created-at 1645155443787,
-  :block/updated-at 1645155443787}
+  :block/created-at 1645774683539,
+  :block/updated-at 1645774683539}
  {:block/name "任意过去到未来, 任意时间段长短 ← do/does",
   :block/created-at 1644376361882,
   :block/updated-at 1644376893312}
  {:block/name "位于某物的另一边 -_ across",
-  :block/created-at 1645155443787,
-  :block/updated-at 1645155443787}
+  :block/created-at 1645774683541,
+  :block/updated-at 1645774683541}
  {:block/name "你想回顾_以往的重复经历_, 并与_现在当前_的事情进行比较",
-  :block/created-at 1645155443788,
-  :block/updated-at 1645155443788}
+  :block/created-at 1645774683541,
+  :block/updated-at 1645774683541}
  {:block/name
   "你想回顾_以往的重复经历_, 并与_现在当前_的事情进行比较. 整句话的意思就是_ _现在这个, 是我经历过的最...​的一次._ -_   (最高级+名词)+(that从句+ have done 谓语)",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name
   "你想回顾_以往的重复经历_, 并与_现在当前_的事情进行比较/ 整句话的意思就是_ _现在这个, 是我经历过的最",
-  :block/created-at 1645155443787,
-  :block/updated-at 1645155443787}
+  :block/created-at 1645774683539,
+  :block/updated-at 1645774683539}
  {:block/name
   "你想回顾_以往的重复经历_, 并与_现在当前_的事情进行比较/ 整句话的意思就是_ _现在这个, 是我经历过的最//",
-  :block/created-at 1645155443788,
-  :block/updated-at 1645155443788}
+  :block/created-at 1645774683541,
+  :block/updated-at 1645774683541}
  {:block/name
   "你想回顾_以往的重复经历_, 并与_现在当前_的事情进行比较/ 整句话的意思就是_ _现在这个, 是我经历过的最///​的一次",
-  :block/created-at 1645155443787,
-  :block/updated-at 1645155443787}
+  :block/created-at 1645774683540,
+  :block/updated-at 1645774683540}
  {:block/name
   "你想回顾_以往的重复经历_, 并与_现在当前_的事情进行比较/ 整句话的意思就是_ _现在这个, 是我经历过的最///​的一次/_ -_   (最高级+名词)+(that从句+ have done 谓语)",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683538,
+  :block/updated-at 1645774683538}
  {:block/name "你想表达比喻 “一个像...的...”, 就用 _a 喻体 of a 本体_ 来说.",
   :block/created-at 1644393755412,
   :block/updated-at 1644394033626}
+ {:block/name "像高手一样学语法 - 牛童",
+  :block/created-at 1645491953870,
+  :block/updated-at 1645596269038}
+ {:block/name "分级阅读",
+  :block/created-at 1645772675378,
+  :block/updated-at 1645772902535}
  {:block/name "动态形容词, 可以用在_进行时_中.",
-  :block/created-at 1645155443787,
-  :block/updated-at 1645155443787}
+  :block/created-at 1645774683539,
+  :block/updated-at 1645774683539}
  {:block/name "回顾自己做这件事,已经重复到了第几次了 -> (this",
-  :block/created-at 1645155443787,
-  :block/updated-at 1645155443787}
+  :block/created-at 1645774683539,
+  :block/updated-at 1645774683539}
  {:block/name "回顾自己做这件事,已经重复到了第几次了 -> (this/that",
-  :block/created-at 1645155443785,
-  :block/updated-at 1645155443785}
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name "回顾自己做这件事,已经重复到了第几次了 -_ (this",
-  :block/created-at 1645155443788,
-  :block/updated-at 1645155443788}
+  :block/created-at 1645774683541,
+  :block/updated-at 1645774683541}
  {:block/name "回顾自己做这件事,已经重复到了第几次了 -_ (this/that",
-  :block/created-at 1645155443788,
-  :block/updated-at 1645155443788}
+  :block/created-at 1645774683541,
+  :block/updated-at 1645774683541}
  {:block/name
   "回顾自己做这件事,已经重复到了第几次了 -_ (this/that/it is+ _最高级_或_序数词_修饰名词)+(that从句+ have done 谓语)",
   :block/created-at 1645151269503,
   :block/updated-at 1645151284097}
+ {:block/name "在be祈使句中, 想要表达_强调_语气, -_ 可用 do",
+  :block/created-at 1645774683538,
+  :block/updated-at 1645774683538}
  {:block/name "在任意时间点(过去",
-  :block/created-at 1645155443785,
-  :block/updated-at 1645155443785}
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name "在任意时间点(过去/现在",
-  :block/created-at 1645155443788,
-  :block/updated-at 1645155443788}
+  :block/created-at 1645774683541,
+  :block/updated-at 1645774683541}
  {:block/name "在具体的时间点(过去",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683538,
+  :block/updated-at 1645774683538}
  {:block/name "在具体的时间点(过去/现在",
-  :block/created-at 1645155443787,
-  :block/updated-at 1645155443787}
+  :block/created-at 1645774683539,
+  :block/updated-at 1645774683539}
  {:block/name "在具体的时间点(过去/现在/将来) + 正在发生 ← 进行时 be doing, 并需要指明_具体的时间点_",
   :block/created-at 1644380038674,
   :block/updated-at 1644381508464}
  {:block/name "在具体的时间点(过去/现在/将来) + 正在发生 ← 进行时 be doing, 并需要指明具体的时间点",
-  :block/created-at 1645155443788,
-  :block/updated-at 1645155443788}
+  :block/created-at 1645774683541,
+  :block/updated-at 1645774683541}
  {:block/name "在连接\"背景(用\"was",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683538,
+  :block/updated-at 1645774683538}
  {:block/name "在连接_背景(用_was",
-  :block/created-at 1645155443787,
-  :block/updated-at 1645155443787}
+  :block/created-at 1645774683540,
+  :block/updated-at 1645774683540}
  {:block/name
   "在连接_背景(用_was/were doing_)_ 和_前景(用_did_)_动作时, when 长短动作都能连接, 而 while只能接_长动作_.",
   :block/created-at 1644390299927,
@@ -333,84 +364,87 @@
   :block/created-at 1644303197274,
   :block/updated-at 1644303899021}
  {:block/name "委婉 + 客观地询问事实(对方做不做和我没关系) ← shall",
-  :block/created-at 1645155443788,
-  :block/updated-at 1645155443788}
+  :block/created-at 1645774683541,
+  :block/updated-at 1645774683541}
  {:block/name "委婉 + 客观地询问事实(对方做不做和我没关系) ← shall/will be doing (将来进行时)",
   :block/created-at 1644981009855,
   :block/updated-at 1644981328974}
  {:block/name "委婉 + 探询式询问 + 口语中  ← 用did 或 was",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name "委婉 + 探询式询问 + 口语中  ← 用did 或 was/were doing",
   :block/created-at 1644979930144,
   :block/updated-at 1644980614631}
  {:block/name "将来 + 主句中为将来时 + 则从句中想表达将来 ← 用 do",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683538,
+  :block/updated-at 1645774683538}
  {:block/name "将来 + 主句中为将来时 + 则从句中想表达将来 ← 用 do/does (即_客_不跟_主_抢will)",
-  :block/created-at 1645155443787,
-  :block/updated-at 1645155443787}
+  :block/created-at 1645774683540,
+  :block/updated-at 1645774683540}
  {:block/name "将来 + 想象 + 某一特定时刻 + 正在做 ← shall",
-  :block/created-at 1645155443785,
-  :block/updated-at 1645155443785}
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name "将来 + 想象 + 某一特定时刻 + 正在做 ← shall/will be doing",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name "将来 + 故事的背景动作 ← shall",
-  :block/created-at 1645155443785,
-  :block/updated-at 1645155443785}
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name "将来 + 故事的背景动作 ← shall/will be doing",
   :block/created-at 1644978654153,
   :block/updated-at 1644978731094}
  {:block/name "将来 + 条件状语从句",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683538,
+  :block/updated-at 1645774683538}
  {:block/name "将来 + 条件状语从句/时间状语从句中 ← do",
-  :block/created-at 1645155443788,
-  :block/updated-at 1645155443788}
+  :block/created-at 1645774683540,
+  :block/updated-at 1645774683540}
  {:block/name "将来 + 条件状语从句/时间状语从句中 ← do/does",
-  :block/created-at 1645155443785,
-  :block/updated-at 1645155443785}
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name "将来 + 眼前立马就要发生 ← 1.be on the point",
-  :block/created-at 1645155443785,
-  :block/updated-at 1645155443785}
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name "将来 + 眼前立马就要发生 ← 1.be on the point/verge",
-  :block/created-at 1645155443788,
-  :block/updated-at 1645155443788}
+  :block/created-at 1645774683541,
+  :block/updated-at 1645774683541}
  {:block/name "将来 + 眼前立马就要发生 ← 1.be on the point/verge/brink",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name
   "将来 + 眼前立马就要发生 ← 1.be on the point/verge/brink/eve of doing; 2.be about to do",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683538,
+  :block/updated-at 1645774683538}
+ {:block/name "常用的说法, 句式, 套子",
+  :block/created-at 1645764014939,
+  :block/updated-at 1645770958516}
  {:block/name "强烈的命令 ← be to do (= must, should)",
   :block/created-at 1644982374409,
   :block/updated-at 1644982499520}
  {:block/name "当前 + 临时 + 正在持续 ← am",
-  :block/created-at 1645155443787,
-  :block/updated-at 1645155443787}
+  :block/created-at 1645774683539,
+  :block/updated-at 1645774683539}
  {:block/name "当前 + 临时 + 正在持续 ← am/is",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683538,
+  :block/updated-at 1645774683538}
  {:block/name "当前 + 临时 + 正在持续 ← am/is/are doing",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683538,
+  :block/updated-at 1645774683538}
  {:block/name "当前 + 特定场合中 + 正在发生 + 短暂动作 ← do",
-  :block/created-at 1645155443788,
-  :block/updated-at 1645155443788}
+  :block/created-at 1645774683541,
+  :block/updated-at 1645774683541}
  {:block/name "当前 + 特定场合中 + 正在发生 + 短暂动作 ← do/does",
   :block/created-at 1644390986007,
   :block/updated-at 1644391510806}
  {:block/name "当前 + 逐渐在变化 ← am",
-  :block/created-at 1645155443787,
-  :block/updated-at 1645155443787}
+  :block/created-at 1645774683540,
+  :block/updated-at 1645774683540}
  {:block/name "当前 + 逐渐在变化 ← am/is",
-  :block/created-at 1645155443785,
-  :block/updated-at 1645155443785}
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name "当前 + 逐渐在变化 ← am/is/are doing",
-  :block/created-at 1645155443785,
-  :block/updated-at 1645155443785}
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name "想做进一步的说明, 可用_同位语从句_-_ that...",
   :block/created-at 1644906536786,
   :block/updated-at 1644906536842}
@@ -421,32 +455,32 @@
   :block/created-at 1644978146444,
   :block/updated-at 1644978162401}
  {:block/name "抱怨 + 拟人化 -_ 物做主语 + won’t ",
-  :block/created-at 1645155443785,
-  :block/updated-at 1645155443785}
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name "更远的过去 → (重复到)→ 过去",
-  :block/created-at 1645155443785,
-  :block/updated-at 1645155443785}
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name "更远的过去 → (重复到)→ 过去 _ had done",
   :block/created-at 1645084382010,
   :block/updated-at 1645084896205}
  {:block/name "更远的过去 →(延续到)→ 过去 → 还可能延续到未来",
-  :block/created-at 1645155443788,
-  :block/updated-at 1645155443788}
+  :block/created-at 1645774683541,
+  :block/updated-at 1645774683541}
  {:block/name "更远的过去 →(延续到)→ 过去 → 还可能延续到未来 _ had done",
   :block/created-at 1645080944798,
   :block/updated-at 1645084390536}
  {:block/name "最近的将来 + 计划安排 <- am",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name "最近的将来 + 计划安排 <- am/is",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683538,
+  :block/updated-at 1645774683538}
  {:block/name "最近的将来 + 计划安排 _- am",
-  :block/created-at 1645155443788,
-  :block/updated-at 1645155443788}
+  :block/created-at 1645774683540,
+  :block/updated-at 1645774683540}
  {:block/name "最近的将来 + 计划安排 _- am/is",
-  :block/created-at 1645155443785,
-  :block/updated-at 1645155443785}
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name
   "最近的将来 + 计划安排 _- am/is/are doing (1.最近的将来, 2.更主观, 3.计划确定性更强)",
   :block/created-at 1644973776115,
@@ -460,79 +494,92 @@
  {:block/name "某事件 → (重复到) 将来某时刻  _ will have done",
   :block/created-at 1645150103085,
   :block/updated-at 1645150239985}
+ {:block/name "漏屋-英语",
+  :block/created-at 1645596537867,
+  :block/updated-at 1645673821315}
  {:block/name "现在 (回顾-_) 过去 _  用 have done",
   :block/created-at 1644987436052,
   :block/updated-at 1645078286222}
+ {:block/name "肯定句中, 要加强语气和情感色彩,就用 do,did,does, 置于动词原形之前",
+  :block/created-at 1645774683539,
+  :block/updated-at 1645774683539}
  {:block/name "英语中,“短暂动作action”动词的_完成时态_, 在意思上相当于“状态state”动词的_ do",
-  :block/created-at 1645155443787,
-  :block/updated-at 1645155443787}
+  :block/created-at 1645774683539,
+  :block/updated-at 1645774683539}
  {:block/name
   "英语中,“短暂动作action”动词的_完成时态_, 在意思上相当于“状态state”动词的_ do/doe _。",
   :block/created-at 1645073173597,
   :block/updated-at 1645073972425}
  {:block/name "英语中，“短暂动作action”动词的\"完成时态\", 在意思上相当于“状态state”动词的\" do",
-  :block/created-at 1645155443788,
-  :block/updated-at 1645155443788}
+  :block/created-at 1645774683540,
+  :block/updated-at 1645774683540}
  {:block/name "补充说明某事物的动作或状态 -_ 用 v-ing , v-ed, to do 来当补足语",
   :block/created-at 1644910025671,
   :block/updated-at 1644910806018}
  {:block/name "表\"众人已所知\"的因果关系, 用 as",
-  :block/created-at 1645155443785,
-  :block/updated-at 1645155443785}
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name "表_事后想到的原因_, 类似于置于括号内的说明性文字, 用 for.",
   :block/created-at 1644906562449,
   :block/updated-at 1644906607169}
  {:block/name "表_众人已所知_的因果关系, 用 as",
-  :block/created-at 1645155443785,
-  :block/updated-at 1645155443785}
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name "表_众人已所知_的因果关系, 用 as/ since, 并多用于句首",
   :block/created-at 1644910584065,
   :block/updated-at 1644910694982}
  {:block/name "表“过去的习惯, 而现在已没那习惯了_. -_ 用 used to do",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name "表“过去的习惯, 而现在已没那习惯了_. -_ 用 used to do (动词不定式)",
   :block/created-at 1644913075068,
   :block/updated-at 1644914034335}
  {:block/name "表“过去的习惯性动作或状态”, 即_过去常常做,而现在不再发生的事_. -_ 用 used to do",
-  :block/created-at 1645155443787,
-  :block/updated-at 1645155443787}
+  :block/created-at 1645774683539,
+  :block/updated-at 1645774683539}
  {:block/name "表习惯性的动作特征, 总是 _- will",
   :block/created-at 1644906754484,
   :block/updated-at 1644906919170}
  {:block/name "表前提条件\"如果没有...的话\": 用 unless ... do",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683538,
+  :block/updated-at 1645774683538}
  {:block/name "表前提条件_如果没有...的话_ 用 unless ... do",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name "表前提条件_如果没有...的话_ 用 unless ... do/does (= if ... not)",
   :block/created-at 1644909320011,
   :block/updated-at 1644909492255}
  {:block/name "表因果关系, 用 as",
-  :block/created-at 1645155443787,
-  :block/updated-at 1645155443787}
+  :block/created-at 1645774683539,
+  :block/updated-at 1645774683539}
  {:block/name "表因果关系, 用 as/ since",
-  :block/created-at 1645155443785,
-  :block/updated-at 1645155443785}
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name "表对\"过去事情\"的推测, 在\"否定",
-  :block/created-at 1645155443787,
-  :block/updated-at 1645155443787}
+  :block/created-at 1645774683539,
+  :block/updated-at 1645774683539}
  {:block/name "表对\"过去事情\"的推测, 在\"否定/疑问句\"中 -> 用 can ",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683538,
+  :block/updated-at 1645774683538}
  {:block/name "表对_过去事情_的推测, 在_否定",
-  :block/created-at 1645155443785,
-  :block/updated-at 1645155443785}
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name "表对_过去事情_的推测, 在_否定/疑问句_中 -_ 用 can ",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683538,
+  :block/updated-at 1645774683538}
  {:block/name "表对_过去事情_的推测, 在_否定/疑问句_中 -_ 用 can / can’t have done",
   :block/created-at 1644911058086,
   :block/updated-at 1644911247075}
  {:block/name "表对_过去事情_的推测, 在肯定句中 -_ 用 must have done",
   :block/created-at 1644910955556,
   :block/updated-at 1644911257387}
+ {:block/name "表时间, 可以用 v-ing 现在分词短语,来作“时间状语_",
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
+ {:block/name
+  "表示 : 从句的动作结束后，主句活动才开始,并且一直在持续 -> (主句 have done...) + (since从句  +短暂动词 did ",
+  :block/created-at 1645774683541,
+  :block/updated-at 1645774683541}
  {:block/name
   "表示 _ 从句动作“开始”以来,主句活动在持续. -_ (主句 have done...) + (since从句 +延续动词 have done)",
   :block/created-at 1645076310528,
@@ -541,6 +588,10 @@
   "表示 _ 从句动作“结束”以来,主句活动在持续. -_ (主句 have done...) + (since从句+延续动词 did)",
   :block/created-at 1645076301771,
   :block/updated-at 1645076349846}
+ {:block/name
+  "表示 _ 从句的动作结束后,主句活动才开始,并且一直在持续 -_ (主句 have done...) + (since从句  +短暂动词 did ",
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name
   "表示 _ 从句的动作结束后,主句活动才开始,并且一直在持续 -_ (主句 have done...) + (since从句  +短暂动词 did / have done)",
   :block/created-at 1645075556255,
@@ -551,106 +602,116 @@
   :block/updated-at 1645149841422}
  {:block/name
   "表示 从句动作“开始”以来,主句活动在持续. -_ (主句 have done...) + (since从句 +延续动词 have done)",
-  :block/created-at 1645155443787,
-  :block/updated-at 1645155443787}
+  :block/created-at 1645774683540,
+  :block/updated-at 1645774683540}
  {:block/name "表示 动作是 \"==具体的",
-  :block/created-at 1645155443785,
-  :block/updated-at 1645155443785}
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name "表示 动作是 \"==具体的/暂时存在的",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683538,
+  :block/updated-at 1645774683538}
  {:block/name "表示 动作是 \"==具体的/暂时存在的/未完成的",
-  :block/created-at 1645155443787,
-  :block/updated-at 1645155443787}
+  :block/created-at 1645774683539,
+  :block/updated-at 1645774683539}
  {:block/name
   "表示 动作是 \"==具体的/暂时存在的/未完成的/还在变化中的==\", 要用\"进行时\". 表示动作是 \"==笼统的",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683538,
+  :block/updated-at 1645774683538}
  {:block/name
   "表示 动作是 \"==具体的/暂时存在的/未完成的/还在变化中的==\", 要用\"进行时\". 表示动作是 \"==笼统的/长久存在的",
-  :block/created-at 1645155443787,
-  :block/updated-at 1645155443787}
+  :block/created-at 1645774683539,
+  :block/updated-at 1645774683539}
  {:block/name
   "表示 动作是 \"==具体的/暂时存在的/未完成的/还在变化中的==\", 要用\"进行时\". 表示动作是 \"==笼统的/长久存在的/已经完成了的",
-  :block/created-at 1645155443788,
-  :block/updated-at 1645155443788}
+  :block/created-at 1645774683541,
+  :block/updated-at 1645774683541}
  {:block/name "表示 动作是 _==具体的",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683538,
+  :block/updated-at 1645774683538}
  {:block/name "表示 动作是 _==具体的/暂时存在的",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683538,
+  :block/updated-at 1645774683538}
  {:block/name "表示 动作是 _==具体的/暂时存在的/未完成的",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683538,
+  :block/updated-at 1645774683538}
  {:block/name
   "表示 动作是 _==具体的/暂时存在的/未完成的/还在变化中的==_, 要用_进行时_. 表示动作是 _==笼统的",
-  :block/created-at 1645155443787,
-  :block/updated-at 1645155443787}
+  :block/created-at 1645774683539,
+  :block/updated-at 1645774683539}
  {:block/name
   "表示 动作是 _==具体的/暂时存在的/未完成的/还在变化中的==_, 要用_进行时_. 表示动作是 _==笼统的/长久存在的",
-  :block/created-at 1645155443785,
-  :block/updated-at 1645155443785}
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name
   "表示 动作是 _==具体的/暂时存在的/未完成的/还在变化中的==_, 要用_进行时_. 表示动作是 _==笼统的/长久存在的/已经完成了的",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683538,
+  :block/updated-at 1645774683538}
  {:block/name
   "表示 动作是 _==具体的/暂时存在的/未完成的/还在变化中的==_, 要用_进行时_. 表示动作是 _==笼统的/长久存在的/已经完成了的/不再变化的==_, 要用_一般时态_.",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683538,
+  :block/updated-at 1645774683538}
  {:block/name
   "表示 表示的是_ 从句动作“结束”以来,主句活动在持续. -_ (主句 have done...) + (since从句+延续动词 did)",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683538,
+  :block/updated-at 1645774683538}
+ {:block/name
+  "表示_习惯于_ -_ 用 get used to(prep.) sth., be used to, be accustomed to, get accustomed to",
+  :block/created-at 1645774683541,
+  :block/updated-at 1645774683541}
  {:block/name "表示_做对比_ -_ 用 however",
   :block/created-at 1644914449319,
   :block/updated-at 1644914814305}
+ {:block/name "表示_几乎和...一样_, “实际上等于” -_ 用 as good as",
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name "表示_回顾以前发生的事_, -_ 就要用 _完成时_",
   :block/created-at 1644989190757,
   :block/updated-at 1645063643162}
  {:block/name "表示“不屑做某事”, 用 above + -ing",
-  :block/created-at 1645155443785,
-  :block/updated-at 1645155443785}
+  :block/created-at 1645774683539,
+  :block/updated-at 1645774683539}
  {:block/name "表示”让某人做某事”或”使某人处于某种境地” -> 用 have sb. doing",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683538,
+  :block/updated-at 1645774683538}
  {:block/name "表示”让某人做某事”或”使某人处于某种境地” -> 用 have sth doing",
-  :block/created-at 1645155443787,
-  :block/updated-at 1645155443787}
+  :block/created-at 1645774683539,
+  :block/updated-at 1645774683539}
  {:block/name "表示”让某人做某事”或”使某人处于某种境地” -_ 用 have sb. doing",
-  :block/created-at 1645155443787,
-  :block/updated-at 1645155443787}
+  :block/created-at 1645774683539,
+  :block/updated-at 1645774683539}
  {:block/name "表示”让某人做某事”或”使某人处于某种境地” -_ 用 have sb. doing/done",
-  :block/created-at 1644912631558,
-  :block/updated-at 1644912891295}
+  :block/created-at 1645774683541,
+  :block/updated-at 1645774683541}
  {:block/name "表示”让某人做某事”或”使某人处于某种境地” -_ 用 have sth doing",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683538,
+  :block/updated-at 1645774683538}
+ {:block/name "表示邀请的祈使句时,要想使邀请听起来更为礼貌、真诚或友好, -_ 就用 do",
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name "表达_使某事物完成_的意思 -_ 用 have sth. done 使役式)",
-  :block/created-at 1644912571594,
-  :block/updated-at 1644912847454}
+  :block/created-at 1645774683541,
+  :block/updated-at 1645774683541}
  {:block/name "要表达出你的情感色彩, 强烈的情感 -_ 用 be doing (正在进行时)",
   :block/created-at 1644911987739,
   :block/updated-at 1644985882648}
  {:block/name "要表达出你的情感色彩, 用 be doing (正在进行时)",
-  :block/created-at 1645155443787,
-  :block/updated-at 1645155443787}
+  :block/created-at 1645774683539,
+  :block/updated-at 1645774683539}
  {:block/name "计划 + 将来 + 口语中用 ← will be doing (可近可远的将来)",
   :block/created-at 1644975117159,
   :block/updated-at 1644975629644}
  {:block/name "计划 + 将来 + 短暂性动作(go,start,leave等) ← do",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683538,
+  :block/updated-at 1645774683538}
  {:block/name "计划 + 将来 + 短暂性动作(go,start,leave等) ← do/does",
-  :block/created-at 1645155443788,
-  :block/updated-at 1645155443788}
+  :block/created-at 1645774683540,
+  :block/updated-at 1645774683540}
  {:block/name "计划 + 将来 + 短暂性动作(go,start,leave等) ← do/does (更客观)",
   :block/created-at 1644976695354,
   :block/updated-at 1644977011095}
  {:block/name "计划 + 将来 + 短暂性动作(go，start，leave等) ← do",
-  :block/created-at 1645155443787,
-  :block/updated-at 1645155443787}
+  :block/created-at 1645774683539,
+  :block/updated-at 1645774683539}
  {:block/name "计划 + 将来 ← be going to (1.计划确定性不强, 2.强烈决心, 3.预测)",
   :block/created-at 1644975804948,
   :block/updated-at 1644975814521}
@@ -658,14 +719,14 @@
   :block/created-at 1644976882966,
   :block/updated-at 1644976916168}
  {:block/name "计划(决心很强) + 将来 ← be going to",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name "请求, 命令, 指示,质问,威胁+ 询问对方 <- will",
-  :block/created-at 1645155443788,
-  :block/updated-at 1645155443788}
+  :block/created-at 1645774683541,
+  :block/updated-at 1645774683541}
  {:block/name "请求, 命令, 指示,质问,威胁+ 询问对方 _- will",
-  :block/created-at 1645155443788,
-  :block/updated-at 1645155443788}
+  :block/created-at 1645774683540,
+  :block/updated-at 1645774683540}
  {:block/name "请求, 命令, 指示,质问,威胁+ 询问对方 _- will/shall do (一般将来时)",
   :block/created-at 1644981530361,
   :block/updated-at 1644981916555}
@@ -673,75 +734,75 @@
   :block/created-at 1645146395962,
   :block/updated-at 1645146459874}
  {:block/name "谈起过去没能实现的计划时, -_ 用 had done ",
-  :block/created-at 1645155443785,
-  :block/updated-at 1645155443785}
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name "过去 (回顾→) 更远的过去 _ 用 had done",
   :block/created-at 1644987667110,
   :block/updated-at 1645080099545}
  {:block/name "过去 + 一段时期内 + 重复性动作",
-  :block/created-at 1645155443788,
-  :block/updated-at 1645155443788}
+  :block/created-at 1645774683541,
+  :block/updated-at 1645774683541}
  {:block/name "过去 + 一段时期内 + 重复性动作/状态 ← did",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683538,
+  :block/updated-at 1645774683538}
  {:block/name "过去 + 一段时期内 + 重复性动作/状态 ← did, 需要指明_具体的时间段_",
   :block/created-at 1644381586404,
   :block/updated-at 1644381763903}
  {:block/name "过去 + 故事的背景 ← was",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name "过去 + 故事的背景 ← was/were doing. ⇒ 即: 1.长动作,用\"was",
-  :block/created-at 1645155443787,
-  :block/updated-at 1645155443787}
+  :block/created-at 1645774683539,
+  :block/updated-at 1645774683539}
  {:block/name "过去 + 故事的背景 ← was/were doing. ⇒ 即_ 1.长动作,用_was",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683538,
+  :block/updated-at 1645774683538}
  {:block/name
   "过去 + 故事的背景 ← was/were doing. ⇒ 即_ 1.长动作,用_was/were doing_; 2.短动作,用_did_(did)",
   :block/created-at 1644386208220,
   :block/updated-at 1644978786625}
  {:block/name "过去 + 特定时刻 + 正在发生 ← was",
-  :block/created-at 1645155443785,
-  :block/updated-at 1645155443785}
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name "过去 + 特定时刻 + 正在发生 ← was/were doing",
   :block/created-at 1644386119537,
   :block/updated-at 1644386161048}
  {:block/name "过去 + 短暂动作",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name "过去 + 短暂动作/状态 ← did, 并需要指明_具体的时间点_",
   :block/created-at 1644380906860,
   :block/updated-at 1644385880237}
  {:block/name "过去 + 短暂动作/状态 ← did, 并需要指明具体的时间点",
-  :block/created-at 1645155443788,
-  :block/updated-at 1645155443788}
+  :block/created-at 1645774683540,
+  :block/updated-at 1645774683540}
  {:block/name "过去时间点a已经结束的事件, 后果影响到了时间点b",
-  :block/created-at 1645155443787,
-  :block/updated-at 1645155443787}
+  :block/created-at 1645774683539,
+  :block/updated-at 1645774683539}
  {:block/name "进行时 doing 不能用在_被动句_的谓语中",
-  :block/created-at 1645155443788,
-  :block/updated-at 1645155443788}
+  :block/created-at 1645774683541,
+  :block/updated-at 1645774683541}
  {:block/name "进行时 doing, 不能用在_被动句_的谓语中",
   :block/created-at 1644369453098,
   :block/updated-at 1645072975636}
  {:block/name "进行时态中用_静态动词_, 目的是给该动词(动作)带出一些你所需要的含义",
-  :block/created-at 1645155443787,
-  :block/updated-at 1645155443787}
+  :block/created-at 1645774683539,
+  :block/updated-at 1645774683539}
  {:block/name "进行时态中用_静态动词_, 目的是给该动词(动作)附加上一些你想表达出的其他_深意_",
   :block/created-at 1644372572648,
   :block/updated-at 1644380197996}
  {:block/name "进行时态中用_静态动词_, 目的是给该动词(动作)附加上一些你想表达出的其他含义",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name "远的过去的_单一事件_, 只要加上_次数_, 就能变成_重复事件_.",
   :block/created-at 1645068528834,
   :block/updated-at 1645068563653}
  {:block/name "重复性(",
-  :block/created-at 1645155443788,
-  :block/updated-at 1645155443788}
+  :block/created-at 1645774683541,
+  :block/updated-at 1645774683541}
  {:block/name "重复性(/习惯性)活动 ← do",
-  :block/created-at 1645155443786,
-  :block/updated-at 1645155443786}
+  :block/created-at 1645774683538,
+  :block/updated-at 1645774683538}
  {:block/name "重复性(/习惯性)活动 ← do/does",
   :block/created-at 1644379194613,
   :block/updated-at 1644379938054}
@@ -749,8 +810,8 @@
   :block/created-at 1644978250198,
   :block/updated-at 1644978356746}
  {:block/name "预测将来 + 少证据支持(即更主观) ← 情态动词(按可信度大小排)_ will _ may _ might",
-  :block/created-at 1645155443785,
-  :block/updated-at 1645155443785}
+  :block/created-at 1645774683537,
+  :block/updated-at 1645774683537}
  {:block/name "预测将来 + 有证据支持(即更客观) ← be going to",
-  :block/created-at 1645155443785, 
-  :block/updated-at 1645155443785}]
+  :block/created-at 1645774683537, 
+  :block/updated-at 1645774683537}]
