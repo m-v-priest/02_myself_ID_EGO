@@ -17,6 +17,7 @@ title:: main_Anaconda
   background-color:: #787f97
   collapsed:: true
 	- 在你的 C:\Users\priest 目录下, 新建一个文件, 取名 "==.condarc==".
+	  collapsed:: true
 	  Windows 用户无法直接创建名为 .condarc 的文件，可先执行命令: conda config --set show_channel_urls yes , 生成该文件之后再修改。
 		- ![image.png](../assets/image_1645855708688_0.png)
 	- 然后, 给它输入以下内容:
@@ -49,11 +50,20 @@ title:: main_Anaconda
 	-
 - pip 命令 下载 加速 -> 在正常的 pip命令后, 加上 ==-i https://pypi.tuna.tsinghua.edu.cn/simple==, 即通过-i参数指定镜像地址（这里用清华镜像的）。(亲测可行)
   background-color:: #264c9b
+  collapsed:: true
 	- pip install 模块名 -i https://pypi.tuna.tsinghua.edu.cn/simple
 	- > 如: pip install insightface==0.2.1 onnxruntime moviepy -i https://pypi.tuna.tsinghua.edu.cn/simple
 - 将conda 创建的虚拟环境, 复制到另一台电脑 (未验证)
   collapsed:: true
 	- 打开你 conda的安装目录, 即C:\\Users\\priest\\anaconda3, 里面有两个文件夹: envs和pkgs, 我们所有的conda环境和conda install 和 pip install 安装的包, 都在里面. 只要把anaconda3 的整个目录拷贝到另一台电脑即可.
+	-
+- 查看你显卡 的cuda 版本号
+  collapsed:: true
+	- 搜索 "nvida控制面板", 点左下角"系统信息"图标, 打开如下
+	- ![image.png](../assets/image_1645880852278_0.png)
+- pytorch官网, 对应cuda版本 的下载命令 https://pytorch.org/
+  collapsed:: true
+	- ![image.png](../assets/image_1645881362215_0.png)
 	-
 - ---
 - simswap 网上说明
@@ -76,6 +86,16 @@ title:: main_Anaconda
 	  pip install insightface==0.2.1 onnxruntime moviepy
 	  (option): pip install onnxruntime-gpu  (If you want to reduce the inference time)(It will be diffcult to install onnxruntime-gpu , the specify version of onnxruntime-gpu may depends on your machine and cuda version.)
 	- 这些命令, 在simswap 的github 官网上有 https://github.com/neuralchen/SimSwap/blob/main/docs/guidance/preparation.md
+	-
+	- 把 antelope.zip文件解压到./insightface_func/models 目录中
+	- 把 79999_iter.pth文件, 放到 ./parsing_model/checkpoint 目录中 (若没有这个目录, 就新建这个文件夹)
+	- 把 arcface_checkpoint.tar  直接复制到 ./arcface_model 中。而不要解压!
+	- 解压 checkpoints.zip 到项目的根目录中 ./
+	-
+	- 注意现在保持在 激活 simswap虚拟环境的状态下:   conda activate simswap
+		- ![image.png](../assets/image_1645877955996_0.png)
+	-
+	-
 	-
 	-
 -
