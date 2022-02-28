@@ -9,6 +9,11 @@
 - ---
 - [[eng grammar]]
 -
+- ---
+- VOA 慢速英语
+	- [[001 Scientists Raise(v.) Questions about Future Vaccine Strategy]]
+	- [[002 First Woman Is Reported Cured of HIV]]
+	- [[003 Omicron Increases Worries about ‘Long COVID’]]
 -
 - ---
 - [[lesson to this 01]]

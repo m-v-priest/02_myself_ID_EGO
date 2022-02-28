@@ -200,6 +200,7 @@
 - ---
 - 优化, 降低预览精度, 提高编辑性能
   background-color:: #264c9b
+  collapsed:: true
 	-
 - ---
 - 辅助
