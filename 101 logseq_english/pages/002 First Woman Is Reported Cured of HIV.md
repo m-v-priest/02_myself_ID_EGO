@@ -56,7 +56,8 @@
 - The patient received **stem cells** from a donor. Stem cells are special cells that can become any kind of cell in the body. The donor **was naturally resistant(a.) to** HIV, researchers told reporters Tuesday.
 	- def
 		- > ▶ stem cell : a basic type of cell which can divide and develop into cells with particular functions. All the different kinds of cells in the human body develop from stem cells . 干细胞
-		- > ▶ donor 捐赠者；捐赠机构
+		- id:: 621c4ec3-13bc-4edf-ad31-377d824ab076
+		  > ▶ donor 捐赠者；捐赠机构
 		  => 捐赠者；捐赠机构
 - The woman has been described as a 64-year-old woman of **mixed race**. Her case was presented(v.) at the Conference on **Retroviruses** and **Opportunistic Infections** in Denver, Colorado.
 	- def
@@ -88,7 +89,8 @@
 		- > ▶ remission (n.) a period during which a serious illness improves for a time and the patient seems to get better （重病的）缓解期，减轻期 /( formal ) an act of reducing or cancelling the amount of money that sb has to pay （应付费用的）减少，免除
 		  -> The symptoms reappeared **after only a short remission**. 短暂的康复之后，症状再次出现。
 		  -> New businesses may qualify for **tax remission**. 新的企业可以有资格享受税收减免。
-		- > ▶ **free (a.) ~ from/of sth** : not containing or affected by sth harmful or unpleasant 不含有害物的；不受…伤害（或影响等的）
+		- id:: 621c54f2-542c-4aeb-8c82-d00a74a321e7
+		  > ▶ **free (a.) ~ from/of sth** : not containing or affected by sth harmful or unpleasant 不含有害物的；不受…伤害（或影响等的）
 		  -> **free from difficulty/doubt/fear** 没有困难；不怀疑╱害怕
 		- > ▶ antiretroviral  /ˌæntiˌretroʊˈvaɪrəl/  adj. 抗逆转录病毒的
 		- > ▶ therapy /ˈθerəpi/ [ UC ] the treatment of a physical problem or an illness 治疗；疗法

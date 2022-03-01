@@ -119,7 +119,9 @@
 	- > ▶ the publication Cell 《细胞》(Cell)杂志
 	- > ▶  Epstein-Barr : EB 病毒. 是疱疹病毒家族中八种已知的人类疱疹病毒之一，也是人类最常见的致病病毒之一。
 	- > ▶ risk factor 危险因素,风险因素,影响因素
-	- > ▶ mononucleosis  = glandular fever   /ˌmɑːnoʊˌnuːkliˈoʊsɪs/ N-UNCOUNT Mononucleosis is a disease which causes swollen glands, fever, and a sore throat. 单核细胞增多症; 腺热
+	- id:: 621c718b-f5ce-4658-8cdb-744b7edfa175
+	  > ▶ mononucleosis  = glandular fever   /ˌmɑːnoʊˌnuːkliˈoʊsɪs/ N-UNCOUNT Mononucleosis is a disease which causes swollen glands, fever, and a sore throat. 单核细胞增多症; 腺热
+	  => 来自mononuclear,单核细胞，-osis,疾病症状。
 	  单核细胞增多症（Infectious mononucleosis）是由EBV病毒（一种接触传染性病毒，Epstein-Barr virus）所致的急性自限性传染病。
 - The study’s findings(n.) must be confirmed by more research.
 - A third theory is that /**autoimmune(a.) reactions** develop(v.) after severe COVID-19. In a normal **immune reaction**, **viral(a.) infections** activate(v.) antibodies that fight(v.) **virus proteins**. But sometimes, antibodies mistakenly attack(v.) normal cells. This action is thought **to play a part in** **autoimmune diseases** such as **lupus** and **multiple sclerosis**.
@@ -131,9 +133,11 @@
 	  => 来自拉丁语lupus,狼，词源同wolf.因这种病的症状如同被狼咬过而得名。
 	  红斑狼疮是一类慢性、反复发作的自身免疫性疾病的总称，常见于育龄期女性。红斑狼疮最具特征性的症状为面颊部出现蝶形红斑，而“狼疮”的名字正是因为过去人们认为该病的面部红斑表现，像是被狼咬伤所致。而除皮肤损害以外，红斑狼疮的病变还可累及多脏器和系统。
 	  ![image.png](../assets/image_1646031801301_0.png){:height 74, :width 114}
-	- > ▶ sclerosis  /skləˈroʊsɪs/ N-UNCOUNT Sclerosis is a medical condition in which a part inside your body becomes hard. 硬化症
+	- id:: 621c73e2-1f57-4d44-885d-42576ef47b22
+	  > ▶ sclerosis  /skləˈroʊsɪs/ N-UNCOUNT Sclerosis is a medical condition in which a part inside your body becomes hard. 硬化症
 	  => sclero-,硬的，-osis,表疾病症状。引申词义软组织硬化症
-	- > ▶ multiple sclerosis /ˌmʌltɪpəl skləˈrəʊsɪs/      
+	- id:: 621c73f7-2139-440b-9afc-0c978926e96b
+	  > ▶ multiple sclerosis /ˌmʌltɪpəl skləˈrəʊsɪs/      
 	  N-UNCOUNT Multiple sclerosis is a serious disease of the nervous system, which gradually makes a person weaker, and sometimes affects their sight or speech. The abbreviation is also used. 多发性硬化症
 	  多发性硬化症（英语：Multiple sclerosis，缩写：MS）**是一种脱髓鞘性神经病变，患者脑或脊髓中的神经细胞表面的绝缘物质（即髓鞘）受到破坏，神经系统的信号转导受损，导致一系列可能发生的症状，影响患者的活动、心智、甚至精神状态。** 这些症状可能包括复视、单侧视力受损、肌肉无力、感觉迟钝，或协调障碍。
 	  多发性硬化症的病情多变，患者的症状可能反复发作，也可能持续加剧。在每次发作之间，症状有可能完全消失，但永久性的神经损伤仍然存在，这在病情严重的患者特别明显。
@@ -200,11 +204,14 @@
 	-
 - Immunobiologist Akiko Iwasaki is studying the possibility that **COVID-19 vaccination** might reduce long COVID symptoms. `主` Her team at Yale University in Connecticut `谓` is working with a patient group called Survivor Corps. Their research involves **vaccinating**(v.) unvaccinated(a.) long COVID patients **as a possible treatment**.
 	- > ▶ immunobiology n. [免疫] 免疫生物学
-	- > ▶ immunologist 免疫学家, 免疫科医生
+	- id:: 621c846b-641e-4c8a-a817-193464abf24a
+	  > ▶ immunologist 免疫学家, 免疫科医生
 	- > ▶ Connecticut   /kəˈnetɪkət/ n. 美国州名（位于美国东北部）
 	- > ▶ survivor (n.)a person who continues to live, especially despite being nearly killed or experiencing great danger or difficulty 幸存者；生还者；挺过困难者
-	- > ▶ **vaccinate (v.)[ VN ] ~ sb (against sth)** to give a person or an animal a vaccine , especially by injecting it, in order to protect them against a disease 给…接种疫苗
+	- id:: 621c84f3-f354-45a6-a654-4c65dbc71e32
+	  > ▶ **vaccinate (v.)[ VN ] ~ sb (against sth)** to give a person or an animal a vaccine , especially by injecting it, in order to protect them against a disease 给…接种疫苗
 	- > ▶ unvaccinated  ADJ (of a person or animal) not having been inoculated with a vaccine (人、动物)未接种疫苗的
+	-
 	-
 - Two recently released studies **offer(v.) early evidence that** `主` being vaccinated(v.) before getting COVID-19 `谓` could help prevent long COVID, or at least **reduce(v.) its severity**. Both studies were done before **the Omicron version of the new coronavirus** appeared.
 	- > ▶ severity n. 严重，严重性

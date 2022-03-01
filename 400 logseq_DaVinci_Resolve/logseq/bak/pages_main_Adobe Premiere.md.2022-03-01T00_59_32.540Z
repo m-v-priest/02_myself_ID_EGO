@@ -146,20 +146,6 @@
 		- 注意: 加速后, 视频播放的时间会相应变短! 因为原来的帧数被压缩到了更短的时间内完成, 就是视频加速了.
 		- ![image.png](../assets/image_1645965566763_0.png)
 		- ![image.png](../assets/image_1645965755373_0.png)
-	- 修改片段播放速度 -> 用"比率拉伸工具"
-	  background-color:: #793e3e
-	  collapsed:: true
-		- ![image.png](../assets/image_1646048061544_0.png)
-	- 对片段的其中某区域, 单独进行变速
-	  background-color:: #793e3e
-	  collapsed:: true
-		- 先打开"显示视频关键帧"
-		  id:: 621cb3a4-04fb-494b-9848-93d8dde47ebd
-			- ![image.png](../assets/image_1646048214567_0.png)
-		- 点击 fx 按钮 -> 时间重映射 -> 速度
-			- ![image.png](../assets/image_1646048329892_0.png)
-			- ![image.png](../assets/image_1646048790579_0.png)
-			-
 	- 倒放视频
 	  background-color:: #793e3e
 	  collapsed:: true
@@ -177,13 +163,12 @@
   background-color:: #264c9b
 	- 任意时间处
 	  background-color:: #497d46
-	  collapsed:: true
 		- 快速定位到某时间处
+		  collapsed:: true
 			- 直接用小键盘输入 7.0  -> 就能到 7秒处
 			  输入 2.15.0 -> 就能到2分15秒处
 			  输入 5.59.24 -> 到 5分59秒24帧处 (如果你输入25帧, 则会进1秒, 变成 6分0秒)
 			- ![image.png](../assets/image_1645946643319_0.png)
-			- ![image.png](../assets/image_1646051812022_0.png)
 	- 标记
 	  background-color:: #497d46
 		- 在片段预览窗口上, 添加标记(快捷键 M), 以快速定位
@@ -228,40 +213,6 @@
 		- 播放素材时, 如果绿灯变成了黄灯, 就表示有丢帧现象
 		- ![image.png](../assets/image_1645933954899_0.png)
 		- ![image.png](../assets/image_1645934027268_0.png)
--
-- ---
-- 添加字幕
-  background-color:: #264c9b
-	- 添加字幕轨道
-	  background-color:: #793e3e
-	  collapsed:: true
-		- ![image.png](../assets/image_1646049520899_0.png)
-		- ![image.png](../assets/image_1646050018146_0.png)
-		- ![image.png](../assets/image_1646050135558_0.png)
-		-
-	- 最后导出视频时 ( ctrl + m), 别忘了把字幕 烧录到视频中
-	  collapsed:: true
-		- ![image.png](../assets/image_1646050653219_0.png)
-	- 文字工具 -> 按 ctrl + 拖动, 能出现居中对齐的参考线
-	  collapsed:: true
-		- ![image.png](../assets/image_1646050837666_0.png)
-	- 复制文字片段 -> 按 alt + 拖动
-	  collapsed:: true
-	  background-color:: #793e3e
-		- ![image.png](../assets/image_1646051024583_0.png)
-	- 将你文字片段, 导出为模板, 方便下次直接套用它的样式
-	  collapsed:: true
-		- ![image.png](../assets/image_1646051372797_0.png)
-		- ![image.png](../assets/image_1646051568424_0.png)
-		- ![image.png](../assets/image_1646051685487_0.png)
-- ---
-- 视频特效, 调色等
-  background-color:: #264c9b
-	- 调整视频透明度
-	  collapsed:: true
-		- ((621cb3a4-04fb-494b-9848-93d8dde47ebd))
-		- ![image.png](../assets/image_1646048586005_0.png)
-	-
 -
 - ---
 - 音频编辑

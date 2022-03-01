@@ -105,7 +105,8 @@ title:: 001 Scientists Raise(v.) Questions about Future Vaccine Strategy
 		  =>  se-分离 + -cur-关心 + -ity名词词尾
 		  -> **the security forces/services** (= the police, army, etc.) 安全部队╱机构
 		  -> **financial security** 财务担保
-		- > ▶ immediate  (a.)立即的；立刻的 /existing now and needing urgent attention 目前的；当前的；迫切的
+		- id:: 621c2f25-e96e-41b5-ab0f-600aeb0cd3dd
+		  > ▶ immediate  (a.)立即的；立刻的 /existing now and needing urgent attention 目前的；当前的；迫切的
 		  => im-,不，非，-med,中间，词源同middle,medial.即没有中间环节的，立即的，马上的。
 		  -> The hospital says **she's out of immediate danger** . 医院说她眼下已没有危险。
 		  -> The prospects for **the immediate future** are good. 短期内前景乐观。
@@ -114,7 +115,8 @@ title:: 001 Scientists Raise(v.) Questions about Future Vaccine Strategy
 - ## The immune system
 - The job of blocking infection **falls to** antibodies, which form(v.) after **either** vaccination **or** getting COVID-19. The antibodies are ready to fight back /the next time a person is exposed.
 	- def
-		- > ▶ vaccination n. 接种疫苗，种痘
+		- id:: 621c3058-d39f-46a2-a9b8-aa490400acb9
+		  > ▶ vaccination n. 接种疫苗，种痘
 - But there is a problem: Mutations change(v.) the appearance of **the spike protein** that covers the coronavirus. That is why Omicron was able to **break through** that first defense. Also, **the immune system** is not designed to always **be on high alert**, so the antibodies that **fight off infection** /decrease(v.) **over time**.
 	- def
 		- > ▶ spike [ C ] a thin object with a sharp point, especially a pointed piece of metal, wood, etc. 尖状物；尖头；尖刺 /(v.)用尖物刺入（或扎破）
@@ -163,12 +165,14 @@ title:: 001 Scientists Raise(v.) Questions about Future Vaccine Strategy
 		  /detailed and exact 明确的；具体的
 		  -> The money was collected for **a specific purpose**. 这笔钱是为一个特定用途而收的。
 - However, it is not clear /if health officials **would drop(v.) vaccines** proven to save lives for new ones /**in hopes of** reducing(v.) **breakthrough infections**. Drug-makers can combine(v.) two different kinds of shots, but they would have to prove that /the mixture works(v.) against the virus.
+  id:: 7a360ab0-a75e-405c-be75-ebb92b8ce1fb
 	- def
 		- > ▶ drop (v.)to stop doing or discussing sth; to not continue with sth 停止；终止；放弃
 		  -> Look, **can we just drop it** (= stop talking about it) ? 喂，这事儿能不能就谈到这儿？
 		  -> The police decided **to drop the charges against her**. 警方决定撤回对她的指控。
 		- > ▶ breakthrough (n.)重大进展；突破
-		- > ▶ breakthrough infection : “突破感染”（breakthrough infections）指病原体突破了疫苗防线，导致完成疫苗接种的人, 感染了疫苗本该预防的疾病。
+		- id:: 621c38a2-13ac-4ed7-aced-f48bede13aea
+		  > ▶ breakthrough infection : “突破感染”（breakthrough infections）指病原体突破了疫苗防线，导致完成疫苗接种的人, 感染了疫苗本该预防的疾病。
 		- 然而，目前尚不清楚, 卫生官员是否会放弃已被证明可以拯救生命的疫苗，以希望减少"突破性感染"。制药商可以将两种不同的疫苗混合使用，但他们必须证明这种混合物对病毒有效。
 - In the United States, **the National Institutes of Health** is spending about $43 million to develop so-called **“pan-coronavirus” vaccines**. The hope is to have one vaccine that can protect against more than one kind of coronavirus. Pan means all.
 	- def
