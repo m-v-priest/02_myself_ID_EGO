@@ -198,8 +198,27 @@
 	-
 	- 一般态
 	  background-color:: #264c9b
-		- 一般态 + 现在时 (=一般现在时) : 含义为"当前/近期真实性+不允许发展变化的完整体"。即"不变的近期事实"。
+		- 一般态 + 过去时 = did : 含义为"不发展变化的完整体+遥远感"，即"巳经结束的遥远行动"。
 		  background-color:: #497d46
+		  collapsed:: true
+			- 一旦意识到行动符合"已结束的遥远行动"的含义，就可以使用 did 的形式。
+			  background-color:: #787f97
+				- > + **He worked in the library** for two years. 他**以前**在图书馆工作了两年。<- 时态含义反映出，"在图书馆工作两年"**是个不再改变的历史，他现已不在图书馆工作了。**
+				  + **He wrote a book** last year. 去年他写了一本书。<- 时态含义反映出，**写书的行动已经结束，在过去某个具体时间书写完了。**
+			- ==**可以利用"过去时"的遥远感含义，能让语言变得间接和婉转，会感觉比使用 "现在时"的形式有礼貌。**==
+				- > + **Did you want** a receipt?
+				  + **I was calling to inform you** a change in your flight schedule.
+				  -> 这两句话都是"当前"正在跟对方说的话，描绘的也是"现在的事情"。就是用过去时来表委婉. 
+				  所以服务人员在向顾客询问和告知顾客信息时，经常会使用 did 而不是 do。
+			- **在请求对方做事情的时候，过去时的遥远感, 也被用来让语言因为不直接而显得更礼貌。**
+				- > **Could you** open the window? 并非表示过去的事情，而是比Can you open the window? 更间接和客气。
+			- **如果再想更加礼貌一些，就只能在"过去时"之外再加上"假设"，来进一步增加遥远的程度了.**
+				- > **If you could** open the window, that would be nice.
+				-
+		-
+		- 一般态 + 现在时 = do/ does : 含义为"当前/近期真实性+不允许发展变化的完整体"。即"不变的近期事实"。
+		  background-color:: #497d46
+		  collapsed:: true
 			- 例
 				- >  + He **works in the library**.  <- 时态含义反映出，他的这份工作是个稳定的长期取位，即"不变化的事实"。
 				  + He **lives in New York**.  <- 目前的不变事实，表明他的长期固定住址, 是纽约，尽管此时此刻他本人不一定在纽约。
@@ -208,7 +227,7 @@
 			- 用这种时态来描绘一系列动作，会给人带来很强的" 当前" 和"真实" 的感受。
 			  background-color:: #793e3e
 			  collapsed:: true
-				- 所以, 在**体育解说**中，就使用"一般现在时"。
+				- 所以, 在**体育解说**中，就使用 do/does。
 				  collapsed:: true
 					- > 如"David **gets** the rebound, **passes** the ball **to** Johnny. Johnny **shoots** - and **misses** again . The team **is losing** momentum. "
 					  -> 严格地讲，David 抢到篮板球, 并把球传给Johnny ，已经是发生过的事情了，按理是可以使用"过去时"的: David **got** the rebound and /then **passed** the ball **to** Johnny . **但如果使用"过去时"，则会让听众感觉是很久以前发生的事情， 一下子就失去了"现场"效果。**
@@ -251,43 +270,216 @@
 					  + She won't get her drivers' license **until she passes the driving test**.
 					  + I will go **if you go, too.**
 					  + I will **if I can**.
-				- 对"决定了"且"进入准备实施状态"的未来行动，可以用 be doing.
-				  background-color:: #787f97
-					- > + **I'm meeting Jim** at the airport. <- 我俩已经说好了这个安排, 不见不散。
+				- 上面这用"现在时"表示"将来事件"的例句，如果全部使用"将来时"，语法上是正确的，但含义却会有所不同。
+				  id:: 622169f7-8135-4186-8a10-c1e388e17631
+		-
+		- 一般态 + 将来时 : 时态含义为"预言+完整的未来的行动"。使用将来时，更倾向于表达说话人的"主观意愿"，而没有"客观的, 不会发生变化的当前事实"的概念，所以是不同的含义。
+		  background-color:: #497d46
+		  collapsed:: true
+			- > **I will go to meet Jim** at the airport tomorrow. <- 预言. **只表达我单方面的想法**，但很可能对方Jim 还不知道这个安排, 或者还没同意这个约定，事情的变数就比较大，不如"I am
+			  meeting Jim at the airport. "的确定性高。
+			  **I am going to meet Jim** at the airport. <- 预言
+			- > **I will leave** tomorrow. <- 也只表达"主观愿望"，而不是当下就进入了准备离开的客观状态，确定性和离开的决心, 都比"**I am leaving** tomorrow. "弱。
+			- **事实上, will 这个助动词, 本身就是"愿望"的含义.** 所以带有will 的句子，就带有很强的"==主观愿望=="的含义。
+			- **而be going to 是"现在的决定或情况的延续，从==客观上==将导致发生这个行动"，而不单纯是"主观愿望"实现的。所以从含义上来讲， ==be going to 指代的行动会发生的确定性，比be doing 低，但比will 高==。**
+				- > + **He will become** a famous writer.
+				  + **He is going to become** a famous writer. <- **be going to 更加客观，所以同样是作为预言，说话人用 be going to, 意思就是表明"发生的可能度"要比  will 高.**
+			-
 	-
 	-
 	- 进行态 doing
 	  background-color:: #264c9b
 		- 有些动作, 是瞬间完成的(如 flash , flick , clap, click), 它们的进行态, 表达的是什么意思? -- 表示"重复进行了多次", 相当于"不停地", "连续地".
 		-
-		- 进行态 + 现在 = 现在进行时 : 含义为"当前真实性+不完整的、允许有限发展变化的状态"。即"发展变化中的当前/近期事实"。
+		- 进行态 + 过去 = was/were doing : 含义为"遥远感+ 可发展变化的" 含义。即"某个结束了的过程" 。
+		  background-color:: #497d46
+		  collapsed:: true
+			- did 和 had done, 如果用来描述"发展变化的行动"，即成为具有"进行态"的 was/were doing 和 **had been doing(该进行着的动作, 在过去某参考点之前, 就已经完成)**. 此时"遥远感" 的含义仍存在，只是换成了从内部角度来观察"延续进行着"的行动。
+				- > **He was working** in the library a year ago. 一年前他正在图书馆工作。<- 在某个遥远的时间段呢， 他在图书馆持续工作， 该状态已结束。
+			- 比较 had been doing 和 was/were doing
+			  background-color:: #787f97
+			  collapsed:: true
+				- had been doing 可以简单理解为"过去了的 过去进行时"。
+					- > **I had been cleaning my room** when you **called** me yesterday. 你昨天给我打电话之前，我一直在打扫着我的房间。<- 即, **昨天你来电话时， 我已经打扫完了。** 在过去参考点之前, 已经完成.
+					  > **I was cleaning my room** when you **called** me yesterday. 你昨天给我打电话的时候，我正在打扫着我的房间。<- **昨天你来电话时， 我正在打扫中， 还没打扫完。**
+					- ![image.png](../assets/image_1646363238837_0.png){:height 311, :width 406}
+					- 上面这两句话的差别，正是通过时态含义反映出来的。
+					  was/were doing 是某个过去行动的过程，从句when you called 这个事件，打断了当时 那个正在进行的行动(在…时，我正在…)。
+					  而 had been doing 则是表示 when you called 这个时间点之前的, "某个过去行动"的 持续状态(在… 之前，我一直在…)。
+		-
+		- 进行态 + 现在 = be doing : 含义为"当前真实性+不完整的、允许有限发展变化的状态"。即"发展变化中的当前/近期事实"。
 		  background-color:: #497d46
 		  collapsed:: true
 			- 例
+			  collapsed:: true
 				- He **is working** in the library. <- 时态含义反映出，他在图书馆工作的性质是发展可变的，可能是个临时工作。
 				- The earth **is moving around the sun** (now) 地球正在围绕太阳转。<- 从时态含义的角度来说，这个句子不是在描述真理和自然现象，而是在讲述当前的一个正在发展过程中的行动。
 				- He **is living in New York** (now). <- 是会变化的目前事实。虽然他此时住在纽约，但可能是短期行为。
 				- He **is speaking English** . 他此，刻正在讲英语。<- 一个发展变化的行动。说英语是个短期行为，可能不久就会转成说其他的语言。
+			- 对"决定了"且"进入准备实施状态"的未来行动，可以用 be doing.
+			  background-color:: #787f97
+			  因为某个未来的计划，从现在这一刻起已经进入了不以主观愿望而改变的实施状态，即已经成为了事实。进入了准备阶段，必然是需要经历一个发展变化的过程，所以符合"现在时"和"进行态"的含义。
+				- > 		* **I'm meeting Jim** at the airport. <- 我俩已经说好了这个安排, 不见不散。
+				  		* I am leaving tomorrow. 下了决心非走不可
+				  		* **We're having a staff meeting** next Monday. 开定了，谁也不能改时间!
+				  		* I am getting a new iPhone! 买定了, 谁也别拦着我!
+				- ((622169f7-8135-4186-8a10-c1e388e17631))
+		-
+		- 进行态 + 将来 = will be doing : 含义是"预言+发展变化的状态" 。
+		  background-color:: #497d46
+		  collapsed:: true
+			- **相对 will do 来说, will be doing 带有更大的不确定性.**
+			  background-color:: #787f97
+			  collapsed:: true
+				- > **We will be offering** a computer programming course this summer. <- 预言一个发展状态的行动，带有一定的变数。如, 本例中, 课程可能会取消.
+				-
+			- ==**跟使用 "过去时" 来增加遥远感, 而显得礼貌 的情况类似，will be doing 也由于其"不确定性", 能通过降低将来事件的确定性, 来让话语更婉转礼貌, 给别人留有改变的余地.**==
+			  collapsed:: true
+				- 心理学家, 对这种使用方式的解释是: **故意用"将来时"来暗示: 在事情的发展进程中, 会考虑到对方的意见，让听者感觉, 某个计划貌似是可以根据自己的意愿来调整的**( Pinker, 2007) 。
+				- **在服务行业，经常能见到在介绍产品和服务项目时，有大量使用 will be doing 的现象。**
+				  collapsed:: true
+					- > 比如服务生会说: 
+					  + **We will be offering** three kind of bread. 
+					  + **The chef will be preparing it** on a freshly baked potato.
+					  + **How will you be paying for your bill**?
+			-
 	-
 	- 完成态 done
 	  background-color:: #264c9b
-		- 完成态 + 现在 = 现在完成时 : 虽然名字中带有"现在"，然而行动的时间概念, 却是发生于"过去".
+		- 完成态 + 过去 = had done : 含义为"遥远感+回顾之前"，即"过去时的过去时", "在那之前结束的行动"。
 		  background-color:: #497d46
 		  collapsed:: true
-			- He **works in the library**.  <- 时态含义反映出，他的这份工作是个稳定的长期取位，即"不变化的事实"。
-			- He lives in New York.  <- 目前的不变事实，表明他的长期固定住址, 是纽约，尽管此时此刻他本人不一定在纽约。
-			- He speaks English. 他会说英语。/他平时说英语。<- 不变的当前/近期事实，表示说英语是他的能力或习惯，但他此刻并不一定正在说英语。
+			- **had done 也是带有"结束的遥远行动"这一含义，与 did 不同的，是增加了一个"过去的时间参考点"。**同样是结束的遥远行动，一旦增加了某个"过去时间"作为参考点，即成了比过去概念更过去的行动，就引导出了 had done。
+			- ![image.png](../assets/image_1646360926583_0.png){:height 101, :width 347}
+			  collapsed:: true
+				- > **He had worked in a library** for two years **before** he became a famous writer. 在他成为知名作家之前，他在图书馆工作了两年。 在某个过去的时间参考点之前，他的行动状态为在图书馆工作。
+				- > **I had written** a book **before** he moved to New York City.
+				  他在搬去纽约之前, 写了一本书。
+				  他搬到纽约, 是个过去的遥远行动，但"搬家之前写书"这个更加过去的遥远行动, 已经结束了。
+				- > + **The thieves had already gone** when the police **arrived**. 贼逃跑的时间，比警察到来的时间更早，即警察来时，贼早就跑了。
+				  + **The police had already  arrived** when the thieves **fled the scene**. 警察赶到现场的时间，比贼逃跑的时间更早，即贼从警察眼皮底下跑了。
+				- 上面两个例句中，had done 描述的行动，发生时间, 是比从句中 did 行动更往前，所以是"过去时的过去时"。
+				-
+			- 听到 had done, 脑袋里就要马上意识到 还有一个 did 时间参考点会存在!
+			  background-color:: #793e3e
+				- ==**既然  had done 是表达"过去时的过去时"，那么我们在听到以 had done 开头的句子时，听到前半句，马上就要在头脑中期待, 之后会有某个"过去时刻"的时间参考点出现。最典型的是当听到类似 I had done sth. ... 的时候， 头脑中就开始预估后面跟着的是 when sth. happened 之类的时间描述。这种预估习惯的养成, 能大大加快对后半句话的理解速度和准确度。**==
+				-
+		-
+		- 完成态 + 现在 = have done : 虽然名字中带有"现在"，然而行动的时间概念, 却是发生于"过去". 含义，是现在时"当前真实"加上完成态"回顾此刻之前"。既"当前"又"回顾". 
+		  background-color:: #497d46
+		  collapsed:: true
+			- 例
+				- He **works in the library**.  <- 时态含义反映出，他的这份工作是个稳定的长期取位，即"不变化的事实"。
+				- He lives in New York.  <- 目前的不变事实，表明他的长期固定住址, 是纽约，尽管此时此刻他本人不一定在纽约。
+				- He speaks English. 他会说英语。/他平时说英语。<- 不变的当前/近期事实，表示说英语是他的能力或习惯，但他此刻并不一定正在说英语。
+			-
+			- **==have done 是在描绘过去的行动. 这个过去的行动, 允许有"结束"与"未结束"两个不同的情况，相当于出现了两种不同的态.== 之前我们学习的各种时态形式，都是具有单一的态，要么是描述行动"完整"的状态(比如 did) ，要么是行动"发展进行"的状态(比如was/were doing). 而 have done, 包含了这两种状态的可能性.**
+				-
+				- 第一种情况: 延续的行动
+				  background-color:: #787f97
+				  collapsed:: true
+					- > **He has lived in New York City** for two years. 他在纽约住了两年了。
+					  -> **从现在这个时刻回顾过去， 住纽约是个发生于过去的行动， 但该行动一直发展和持续到现在，并未结束。因为行动带有持续状态，所以使用形式上就会配合标注时间长度的词汇和短语，比如 for two years**，或"since October 1, 2014" 等。
+					- **既然是一直延续的行动，那么在行动的状态思考上，不成"进行态"了吗? 这种情况下的确是可以这样认为。** 所以 He **has lived** in New York City **for two years**.  和 He **has been living** in New York City **for two years**.  这两种表达方式，对行动的发生时间和状态，在概念思考上是非常类似的。
+					- ==**对于仍在持续的未结束的行动，即可认为能用时间长度衡量的概念，可以引导出描绘时间的具体词汇和for ， since 等连接词。**==
+					- **尽管 "He has lived..." 在语气上侧重时间长短， 而 He has been living..." 更带有行动的体验感, 和侧重阐述发展过程，但在实际使用中，** 特别是对live ， know , own 等本身就有状态特征的动词来说，**两种表达可以认为是能够互换的，并没有实质的差别。**
+					- 所以对于 have done 描绘"未完成的行动"，大家在时间概念思考上, 把它当作"起始于过去,但一直在持续发展的行动"，即 have been doing来对待，反而能更准确地体会出它的实际特点。
+					-
+				- 第二种情况:完成的行动
+				  background-color:: #787f97
+				  collapsed:: true
+					- > He **has written** a book. 他写了一本书。 <- **回顾写书这个发生于过去，且已经结束的行动。written a book 是个遥远的且完整的行动，在时间和状态的概念思考上，跟"一般过去时"几乎完全一致，区别只是这种表达并没有明确时间点。**
+					- **所以在实际使用中，特别是美式英语中， He wrote a book. 也跟 He has written a book. 的表达应用差不多，两者只存在一些微小的差异:  ==have done 更强调过去的行动的"结果影响"， did 强调过去发生的"行动本身".==**
+					- **have done 是"从当前时刻, 回顾过去某个不确定的时间完成的事情"，==不能明确行动开始和结束的具体时间，也不能衡量行动持续的时间长度，所以不能与时间词连用.==** 不能说  He **has written** a book ~~last year~~.   也不能说 He **has written** a book ~~for a year~~.
+					- **而 did 则可以确定行动发生的时间**，可以说 He **wrote** a book **last year**.
+					- 简单地说，在描绘"过去已结束"的行动上，把have done 在时间的概念思考上, 等同于did，能更准确地体会它的实际特点。
+					-
+					- 对于已经结束的行动，又可以进而分化为两类。
+					- 第一类是: 结束的行动, 表示"经历". 
+					  background-color:: #787f97
+						- 表达经历类型的行动，近似于汉语中带"…·过"这个副词的句式。比如"一起同过窗， 一起扛过枪， 一起喝过酒， 一起分过赃" "和某人有过不正当关系" 。这种情况下，一般可以带有before ， ever, never 等副词。
+					- 第二类是: 结束的行动, 表示"结果".
+					  background-color:: #787f97
+					  collapsed:: true
+						- **have done 强调的是过去行动的"结果"，did 强调的是该"行动的本身"。**
+						- > + **I have cleaned my room**...  so I want to watch TV now. 我打扫完我的房间了**(强调一下这个结果) ，所以现在我可以看电视了吧。**
+						  + I **cleaned** my room 我打扫了我的房间。(不强调结果，现在并没什么条件要讲)
+						- > **I have eaten already**... so I am not hungry now. I do not want to eat now 我吃过了/我吃完饭了。(所以现在不饿)
+						  I **ate** already. (讲个事实而已，没引申跟现在的关系)
+						- > **I have seen that movie**... so I don't want to watch it again ! ( 我看过这个电影了， 所以换个别的片子看吧)
+					-
+					-
+				- **理解 have done 的时候，1.首先是要在时间的概念思考上, 建立"过去"的概念。2.接下来是根据具体行动的性质，判断是属于哪种状态分支: 是"在过去就结束了"的行动，还是"仍在持续未结束"的行动。** 但美式英语中，有对这两者合流的趋势, 即统一使用 did.
+					- > **I have lost** my keys. <- 英国人认为, 这表明说话人钥匙丢了后现在还没找到(即影响到现在). 而"I lost my keys. " 则只能说明丢过钥匙，现在有可能找到了。
+					-
+				-
 	-
 	- 过去时 done
 	  background-color:: #264c9b
+	  collapsed:: true
 		- > 一次儿童绑架案, 母亲说: My children **wanted** me, they **needed** me. 使用的是动词的一般过去时needed ， wanted。而根据常理, 被绑架的孩子们应该是"现在"最需要他们的母亲。但这位母亲却使用了过去时 needed 和 wanted，其时态含义表示"孩子们现在已经无法需要她了"，暗示出她知道他们已经死了。 
 		  而孩子父亲说的是"They are OK. 使用的是"一般现在时"，表现出对事件的时间思考完全不同。
+-
+- ---
+- ## 虚拟语气
+	- 虚拟语气的概念思考，跟 did 和 had done 的关系最紧密。
+	- 狭义来讲， 虚拟语气主要是指带有if 的各种条件句。根据假设条件的不同(就是if 后面的内容) ，虚拟语气可以分为三种情况:
 	-
+	- 1."如果" 类条件句
+	  background-color:: #264c9b
+	  collapsed:: true
+		- 条件句中的行动, 发生的确定性高=当前真实感含义=现在时
+		  background-color:: #793e3e
+		- 比如天气预报说明天会下雨，==**我们可以认为下雨的可能性很高，就可以把对明天下雨的假设, 当作事实来对待，就能使用"现在时"来表达**==:
+		- > **If it rains tomorrow**, we will stay at home.
+		- > **If he gets the offer**, he will accept it. 他是否已经收到录取信，这个事情我们并不知道. 但我们把这个事情当作"事实"来假设，就用一般现在时。
+		- 可见从含义角度讲，真实条件句, 更关心真实性，而不是发生的时间性。
+		- 这个所谓的"真实条件句的虚拟语气"，其实就是我们在"一般现在时"中讲过的条件句( if ， before, when, after, until ... ) ,  句子使用的语法形式完全一样。把**条件当作事实，尽管事情可能已经发生或者还未发生，也都要用"一般现在时"。**而主句中表达的事件, 是在条件事件之后发生的，所以主句会比条件句向未来推一个时态，就自然是"将来时"。
+		- id:: 62218777-21e6-42f9-a152-6107c9afca7a
+		  > 女: "老公，你这次去欧洲出差，给我买个爱马仕包包嘛。"
+		  男:  I will buy one **if I have time**. <- **这种一般现在时的回答, 表示事情会发生的真实度很高。你这样说得跟真的似的**，人家期望值也很高。
+		-
+	- 2."如果真的"类条件句
+	  background-color:: #264c9b
+	  collapsed:: true
+		- 条件句中的行动, 发生的确定性不高=遥远感含义=过去时
+		  background-color:: #793e3e
+		- 如果确定性不高呢?天气预报说明天要下雨，==**但"如果真的"不下雨呢?。这时就要把不下雨当成是一个希望不大、距离现实比较"遥远" 的事情对待。所以不论是此时发生, 还是在将来才可能发生，都要使用带有遥远感含义的"一般过去时".**==
+		- > **If** it **did not rain** tomorrow, we **would** go to the park. <- **主句go to the park ，是在条件句这个"一般过去时" did not rain 之后才发生，当然用过去的将来时，即would go。<- 即，主从两部分都要降时态.**
+		- **这种假设方式，有时可以理解为: 假设跟"现在的情况"相反.**
+			- > **If I were** a millionaire, **I would** buy a yacht. <- 他现在不是百万富翁. 这个假设
+			  与现实不相符。
+		- 但有时, 仅表达说话者认为, 这件事情离现在比较遥远, 或可能性不高, 并非100%不可能发生.
+		  background-color:: #787f97
+			- > 一个小孩说 **If I became** a millionaire , I **would** buy a yacht. <- 小孩有无限的可能性
+			  > **If he got** the offer, he **would** accept it. <- 说话者认为他接到录取信的可能性不高，但仍然有可能会发生。
+			- > 女: "老公，你这次去欧洲出差，给我买个爱马仕包包嘛!" 
+			    推脱: I **would** buy one **if I had time**. " <- ==**作为条件，此处是说将来的事情，但使用"过去时"的形式，把条件变为"遥远"的情况了. 真实感降低。虽然仍然有一定的发生可能性，并没有完全拒绝人家。但这样说的效果，就是在提前打预防针，我虽然没拒绝你，但你的期望值不要太高。**==
+			- 比较: ((62218777-21e6-42f9-a152-6107c9afca7a))
+			- **What if I told you... "假如我要是告诉你..."，就是个典型的利用过去时的"遥远感", 来与现实拉开距离.**
+			  > **What if I told you that** you are living in a dream world. 如果我跟你说,你是生活在梦想的世界中(你会怎样想) (黑客帝国伪台词)
+			-
+		-
+	- 3."如果当初"类条件句
+	  background-color:: #264c9b
+	  collapsed:: true
+		- 条件句中的行动, 在过去可能发生的时机已过=遥远感+回顾之前=过去完成时
+		  background-color:: #793e3e
+		- 一个应该发生在过去的事件却并没有发生，即, 用"如果当初"来设想, 事情如果曾经发生，结果会如何。这种"回顾+遥远感", 即"完成时"(have done)与"过去时"(did)的结合，当然要用 had done.
+		- **条件句是用 had done, 主句的内容是在条件之后才发生的, 那么 had done 的"将来时" 就是 would have done (<- 其实是 would + had done, 只是因为would 后面的词要用原形, 所以就变成了would have done).**
+		- > **If she had worked harder**, she **would have passed the exam**. <- 后悔之前没有努力。假如当初努力了，情况会不一样。但现在想努力已经晚了，不可能改变过去，只能"回顾+遥远的假设"。
+		- > 质问:你说这次去欧洲出差，为什么没给我买爱马仕?
+		  辩解: **I would have bought** one /**if I had had time**. <- 前后都降时态，即都取反，句子中所说的事实为假.
+		-
+	-
+	-
+-
 - ---
 - ## 学英语的第一件事 -- 听力先行
 	- 音标: 推荐 Adrian Underhill 设计的音标表.
 	- 听单词上
 	  background-color:: #264c9b
+	  collapsed:: true
 		- 研究发现, "边听边看", 比"只看不听", 要有效的多. 同时提供声音与图像, 记忆会更牢
 		  background-color:: #793e3e
 			- 就是在给出一个外语单词发音的同时，让学生看到这个声音所指代的物品的图像。
@@ -322,6 +514,7 @@
 		-
 	- 听句子上
 	  background-color:: #264c9b
+	  collapsed:: true
 		- ==**英语的能力最核心体现就是“听”，“听力不好”就可以认为是英语整体不好，而并非只是一项缺陷。**== #important
 		- 推荐的听力材料:
 			- 美国之音
@@ -384,10 +577,24 @@
 		- 头脑中数量众多的词汇块(词组, 句式)，主要是通过对交流语言, 和整段文字的大量接触, 自然获得的，并非主要来源于把这些词汇组合单独拿出来进行分析总结或背诵。
 		- 对英语中词汇的“预估”和“猜测”能力差，也是造成语言理解速度慢的主要原因。
 		-
+	-
+	- 说话, 是对概念分段思考和处理的. 前一段输出出去后, 再思考下一段的语言组织.
+	  background-color:: #264c9b
+		- 人说话时, 是不可能去考虑整体句子结构的. 因为在说句子前一部分的时候，根本不知道后一部分会使用什么词汇和什么句子结构。所以整句的完成, 必定是一个自动化局部衔接的过程。
+		- "分段"就是把要表达的内容，分为多个信息量较小的段(chunk) ，分步进行加工处理.  前一个段的内容在第一个模块(概念生成)处理完毕后，立即传递(pass) 到第二个模块(词句编码)进行处理，随即再传送到下一个(发音输出)模块中，变成语言声音立即说出。说出去后, 工作记忆区中就清空了这个"段"，这样才可以继续处理下一个段的内容。
+		- 所以, 说话, 其实是对每次只能关注和处理当前少量内容的"局部加工"操作。
+		-
+		- **那么每一段间的输出顺序, 是怎样的呢? 分输出的顺序，大部分是符合人大脑中, 概念生成中, 概念产生的顺序的。即, 你先想到什么(哪一段), 就先输出什么(那一段).**
+		-
+		-
+		-
+		-
+	-
+	-
 	- ---
 	-
 	-
 -
-- 37
+- 71
 -
 -

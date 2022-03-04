@@ -123,10 +123,26 @@
 	-
 	- ## Do not think like everyone else
 	  
-	  Example 1: Some people think /pulling weeds from the garden /is not fun. But Reich says that is not the right way to think of the job. A good idea is to look at your garden and take the weeds out every three or four days. That way, the work never takes too long. When you change the way you think, he said, a job once seen as difficult can become enjoyable. One other warning? Do not turn over the soil too much. That work often turns over weed seeds that would not grow otherwise.
-		-
-	- Example 2: Reich said you should mix and match plants and flowers. There is no reason you cannot plant eggplant, peppers and other vegetables with your flowers. Those plants look nice and the flowers will bring helpful insects like bees to the garden.
-	- Example 3: You can plant fruit trees wherever you want. You do not need an orchard. Many fruit trees look nice by themselves along with producing food that tastes good.
+	  Example 1: Some people think /pulling weeds from the garden /is not fun. But Reich says /**that is not the right way** /to think of the job. A good idea is /to look at your garden /and take the weeds out /every three or four days. That way, **the work never takes too long**. When you change the way you think, he said, a job **once seen as difficult** /can become enjoyable. One other warning? Do not **turn over the soil** too much. `主` That work `谓` often **turns over** weed seeds /that would not grow otherwise.
+		- ((621436bd-23a4-4855-9fce-82fcd87ec5af))
+		- > ▶ turn over :VERB If you turn something over, or if it turns over, it is moved so that the top part is now facing downward.  翻转, 翻身 /仔细考虑
+		- 另一个警告是, 不要太多次的翻土, 因为这会翻出杂草籽(导致它们生长), 而通常情况下,这些杂草籽不会去生长.
+	- Example 2: Reich said /you should mix and match(v.) plants and flowers. **There is no reason you cannot** plant(v.) eggplant, peppers and other vegetables with your flowers. Those plants look nice /and the flowers **will bring** helpful insects like bees **to** the garden.
+		- > ▶ match (v.)if two things match , or if one thing matches another, they have the same colour, pattern, or style and therefore look attractive together 般配；相配 
+		  /**~ sb/sth (to/with sb/sth)** : to find sb/sth that goes together with or is connected with another person or thing 找相称（或相关）的人（或物）；配对
+		  /[ VN ] to provide sth that is suitable for or enough for a particular situation 适应；满足
+		  -> Investment in hospitals is needed now /**to match(v.) the future needs** of the country. 为了适应国家未来的需要，必须现在就投资医院建设。
+		- > ▶ plant (v.)栽种；种植；播种
+		- > ▶ eggplant  /ˈeɡplænt/ 茄子
+		  => egg蛋 + plant植物
+		  ![image.png](../assets/image_1646373403683_0.png){:height 93, :width 141}
+		- > ▶ pepper ( BrE ) [C] [U] ( BrE NAmE also ˈsweet pepper ) ( NAmE also ˈbell pepper ) a hollow fruit, usually red, green or yellow, eaten as a vegetable either raw or cooked 甜椒；柿子椒；灯笼椒 /胡椒粉
+		  ![image.png](../assets/image_1646373468649_0.png){:height 66, :width 103}
+	- Example 3: You can plant(v.) fruit trees /wherever you want. You do not need an orchard. Many fruit trees **look nice** by themselves /along with **producing food** that tastes good.
+		- > ▶ orchard  /ˈɔːrtʃərd/ 果园
+		  => 几百年前，这个词拼作ortgeard；ort来自拉丁词hortus，意思是“garden（花园）”；geard即“yard”，是古英语的写法；合起来则是“花园庭院”的意思。
+		- > ▶ **along with sb/sth** : in addition to sb/sth; in the same way as sb/sth 除…以外（还）；与…同样地
+		  -> She lost her job when the factory closed, **along with** hundreds of others. 工厂倒闭时，她和成百上千的其他人一样失去了工作。
 	-
 	- ## Get help from trusted sources
 	  
