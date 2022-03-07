@@ -420,6 +420,39 @@
 		- > 一次儿童绑架案, 母亲说: My children **wanted** me, they **needed** me. 使用的是动词的一般过去时needed ， wanted。而根据常理, 被绑架的孩子们应该是"现在"最需要他们的母亲。但这位母亲却使用了过去时 needed 和 wanted，其时态含义表示"孩子们现在已经无法需要她了"，暗示出她知道他们已经死了。 
 		  而孩子父亲说的是"They are OK. 使用的是"一般现在时"，表现出对事件的时间思考完全不同。
 -
+-
+- ## 对谓语动作, 做补充说明 :
+  collapsed:: true
+	- Mary asked him **to open the door**.
+		- 谓语动词是ask ，随后事件中的主体他(him) ，无论做什么或何时做，都肯定只能是发生在ask 动作之后。而to do 的形式，在含义上就带有"将来发生"的特征，符合动作和事件发生的时间先后顺序.
+	- > Mary saw him **open the door**. <- 表明**整个事件的全过程, 被完整地看到。**
+	  Mary saw him **opening the door**. <- 表示**只看到了事件发生过程的片段， 没看到全过程**，对门最终是否被打开，不能下结论。
+	  I saw smoke **coming out of the chimney**. <- 一些具有延续性或重复性的动词，和本身比较难以用"完整过程"来表述的动词，使用-ing 的形式比较普遍。
+	- Mary saw he **opened the door**.
+		- <- 此句的含义是Mary 看出是他开的门，并没有看到他开门。**门已经被打开了(opened) ， opened 用的是过去时，并不是跟saw 同时发生的，所以Mary 是从迹象和证据推测是他开的门**，但并没有亲眼见到他开门。
+		- 另外注意: **这里 saw 后用了 he, 而没用him, 这就表明, 其实这句是个带that 的从句的简略形式**，原形是Mary saw **that** he opened the door .
+		- <- **因为是that 从句， 事件动词发生相对独立，所以从句动词的时态, 是由其在从句中的含义决定的， 跟主动词是否为感官动词无关。**此处用的是opened 。
+		- 在实际交流使用中，此句应该省略that。在什么情况下省略that 呢? 
+		  **越是使用频率高的词汇和词汇搭配， 越会在使用中被删减缩节。**所以高频词汇， 普遍为单音节词， 如 think ，see ， know 等， 后面的that 通常都省掉。
+		  **而低频词， 通常也是多音节词， 比如 imagine, reckon , suspect 等， 普遍不省略that.** 所以会说:
+		  **Mary suspected that** he opened the door .
+		  **Mary foresees that** he will open the door.
+		  **Mary imagined that** he had opened the door.
+		-
+	- Mary suggested he **open the door**.
+		- 主句的谓语suggested 后面用了主格he, 而不是 宾格him, 可以知道,  he是从句的主语. 这句话同样省略了 that.  不过, 由于suggest 不是高频词且是多音节词，所以that 不省略的情况反而更普遍。所以大多数情况下是Mary **suggested that** he open the door.
+		  另外,  open 用了动词原形， 表明open前面还有省略, 这里省略了should. 
+		  完整的话语为: Mary suggested that **he (should) open the door**.
+		- 实际使用中should 应该要省略掉，只有在说话者, 想表达"委婉"的语气时, 才保留 should. 在实际使用中， should 通常是不出现的:
+		  **He suggested that** I (should) be on time.
+		  He suggested that I (shouId) not waste money.
+		  **He demanded that** his money (should) be returned.
+		  **He preferred that** she (should) stay home.
+		  **He recommended that** she (should) get some help
+		-
+		-
+-
+-
 - ---
 - ## 虚拟语气
 	- 虚拟语气的概念思考，跟 did 和 had done 的关系最紧密。
@@ -475,7 +508,7 @@
 	-
 -
 - ---
-- ## 学英语的第一件事 -- 听力先行
+- ## 听 --  学英语的第一件事 -- 听力先行
 	- 音标: 推荐 Adrian Underhill 设计的音标表.
 	- 听单词上
 	  background-color:: #264c9b
@@ -573,18 +606,106 @@
 		  如: **问"一个单词如何拼写?"时, 地道的句子套子是: How do you spell...**
 	- 词汇块(词组, 句式)
 	  background-color:: #264c9b
-	  collapsed:: true
 		- 头脑中数量众多的词汇块(词组, 句式)，主要是通过对交流语言, 和整段文字的大量接触, 自然获得的，并非主要来源于把这些词汇组合单独拿出来进行分析总结或背诵。
+		- ==**我们对大量的常用搭配，都应该尽量将其作为整体来学习，而不是分析其语法形式。**==
+		- > 如:  Here it comes. 
+		  Here it goes. 
+		  It comes to my attention, 
+		  It goes without sayying ， 
+		  It takes,
+		  It smells... , 
+		  it stinks, 
+		  it sucks, 
+		  it woks， 
+		  it rhymes with , 
+		  he does, 
+		  she likes, 
+		  he loves,
+		  who knows, 
+		  who cares, 
+		  who wants... ，
+		  says who, 
+		  that sounds  good/interesting
+		  it doesn't mean
+		  ...
+		- ==**念熟后, 主谓单复数一致就不用去想了，已经捆绑在一起了，就能脱口而出而不会出错**.==
+		-
+		- 英语中各种短语、成语和比喻，其中的单词都是高频词，但搭配在一起时要把它们当成一个整块的词汇单元对待， 而不能从内部简单词汇出发去猜测其整体含义.
+		- 英语交流中, 短语动词的使用非常普遍。母语是英语的人, 倾向于使用短语动词, 而不用具有相同含义的复杂动词. 如:
+			- He was burned out.他累坏了。而不说 He was exhausted.
+			  He has passed out.他昏倒了。而不说. He has fainted .
+			  He **made it up**. 他瞎编的。而不说 He **fabricated** it.
+			  He **looked it up** . 他查找了它。而不说: He **searched** it.
+		- 短语动词, 或复杂动词的选择，有时可以看作是随意的日常交流, 与正规的书面表达之间的使用偏好。如:
+			- ![image.png](../assets/image_1646638017049_0.png)
+		- 短语动词在英语中数量巨大，高达一万多个。
+		- 在听力中, 应关注常用词汇搭配.
+		-
+		- ==**说话输出时, 是以短语作为基本单元的。短语既是思考中"概念生成"的基本单位，同时又是语句构成的基本单位.短语单元段生成的显著特征, 就是"高速度"和"高度自动化". 这也是保障说话流利的一个最重要的前提条件.**==
+		-
+		- 短语单元段, 大致分为两种类型:
+		  background-color:: #497d46
+			- 1.临时进行词汇"组合", 而生成的"自由短语";
+			  background-color:: #787f97
+				- "冠词+n."组成的名词短语。
+				  background-color:: #49767b
+				  collapsed:: true
+					- 不带冠词的单数名词: 指抽象概念的该物体. 带上冠词, 才是具体指.
+					  collapsed:: true
+						- He **played a game of cat and mouse** with the police. <- 猫鼠游戏没有冠词, 非具体指.
+						- **Man always remember love** because of romance only ( Marlboro) <- 万宝路的广告. 男人总是因为浪漫而记住爱 . 这里的man 不是具体指某一个男人, 而只是笼统的男人概念.
+						  一旦具体落实为真人，就必须说成 a man , the man ，或 this man , men. (**复数形式前可以不用冠词，是因为复数本身具有"具体值"的功能**)
+						- When **a man loves a woman** , spend his very last dime. <- "尽管"一个男人"不知是说谁，但对他行为描述太具体了，已不是抽象概念了，所以必须加冠词。
+						- We made him **captain of the team**. <- 这里的captain 队长一词，是代表职位的概念**，并非具体的某个人，所以不能要冠词。**
+						  反之，如果带了冠词， the captain 就是指具体的某个人.
+						- Shark! 有鲨鱼!  <- 没带冠词，说的是这里出现了鲨鱼(笼统概念) .
+						  **A shark** is coming close to you! <- 有冠词, 就是具体化指出了正在游向你的某条鲨鱼.
+					- 对于专有名词，比如人名、地名，因为其本身必然是"具体指代"某人某处，所以不用加冠词。比如人名Mary ， John ，专有地名London ， California.
+					- 但**如果是用政体概念，表示具体的国家的名称，就需要加"冠词"把这种概念具体化。**比如: The United States, The United Kingdom , The People's republic of China。
+					- 一些"不可数名词"之前是否带有冠词，也非常能反映出是具体实物, 还是抽象概念。
+						- **He spilled the milk** over the table. <- 特指某个具体的牛奶. 比如是某个杯子中的，或者是我昨天刚买的那个牛奶.
+						  **He spilled milk** over the table. <- 非具体指.
+					- 某国人或某国语(Chinese， English , Spanish , French) 
+					  -> **带冠词: 是具体化的人，**
+					  -> **不带冠词: 是国籍和语言文化等抽象概念。**
+						- I speak Chinese. <- 不带冠词, 指抽象的语言, 文化
+						  I am **a Chinese** (我是一个中国人)是"具体指"中国的人。
+						  I am **Chinese**  (我是中国人) 指的是国籍和文化背景。
+					- god 是否要冠词呢?如果God 是指那个唯一的万能的造物主，就不用冠词了(一般要用大写)。
+					  如果只是指某个普通神仙，比如灶王爷(the kitchen god, the stove god) ，就要带冠词。
+				- adj. + n.
+				  background-color:: #49767b
+				  collapsed:: true
+					- 一个n.如果需有多个adj.在修饰时,  adj.的排序, 其实在我们的思考过程中, 自然就已经解决了 -- **在概念思考中, 会自动地把最能代表事物的本质特征, 那个adj. 放在更接近 n.的位置上.**
+					- 英语中也有adj.顺序固化的习惯性说法， 如: French red wine.  a red Italian sports car.
+					-
+				-
+			- 2.不进行临时组合，直接从记忆中"调用"的, 经常使用的"固定短语".
+			  background-color:: #787f97
+				- **母语英语的人, 说话时, 句子中的大部分内容, 都不是在说的时候临时进行组合, 而是从记忆中直接调取的固定词汇组合.**
+				- 在母语是英语的人的头脑中，高频"词汇块"的地位跟"单一词汇"相同。英语是母语的人，掌握的固定词汇组合的数量有上万个，与独立单词的数量差不多(Jackendoff ， 1995) 。
+				- 中国人讲英语, 产生Chinglish 的主要原因之一, 就是孤立地背诵词汇, 而缺乏词汇块，造成词汇之间缺乏正确的搭配关系。
+				- 词汇块并不一定是各种固定的短语，**只要是使用频率高的词汇搭配形式，都可以认为是词汇块。**当我们大量听和阅读真实语言文字后，其中一些经常搭配使用的诸如 I don't know. / I Can / I have a... / if I were you , I'd... / I was wondering if... 等
+				- 典型的句式， 比如虚拟语气等句子， 由于长期大量使用， 很多结构搭配已经固化为词汇块了。最典型的就是"If I were you , I'd..." "If I could.. ., I would..." "Had I/ he/ she known..." , "What if I told you.. . " 等。**整体输出即可, 而不需要去考虑时态. 事实上它都已经帮你打包好了.**
 		- 对英语中词汇的“预估”和“猜测”能力差，也是造成语言理解速度慢的主要原因。
 		-
 	-
 	- 说话, 是对概念分段思考和处理的. 前一段输出出去后, 再思考下一段的语言组织.
 	  background-color:: #264c9b
+	  collapsed:: true
 		- 人说话时, 是不可能去考虑整体句子结构的. 因为在说句子前一部分的时候，根本不知道后一部分会使用什么词汇和什么句子结构。所以整句的完成, 必定是一个自动化局部衔接的过程。
 		- "分段"就是把要表达的内容，分为多个信息量较小的段(chunk) ，分步进行加工处理.  前一个段的内容在第一个模块(概念生成)处理完毕后，立即传递(pass) 到第二个模块(词句编码)进行处理，随即再传送到下一个(发音输出)模块中，变成语言声音立即说出。说出去后, 工作记忆区中就清空了这个"段"，这样才可以继续处理下一个段的内容。
 		- 所以, 说话, 其实是对每次只能关注和处理当前少量内容的"局部加工"操作。
+		- As a hardcore **cheesecake lover**, Mary was very excited about /==the news== /that she heard earlier /on the radio /that morning /==regarding== `主` a famous **French bakery**, which sells cheesecakes /that are made of low-fat chocolate chip **cookie dough** 生面团, `谓` has just opened at a new location /that is very close to the club /she goes to every weekend /where she plays poker 扑克牌游戏 with her former co-workers.
 		-
-		- **那么每一段间的输出顺序, 是怎样的呢? 分输出的顺序，大部分是符合人大脑中, 概念生成中, 概念产生的顺序的。即, 你先想到什么(哪一段), 就先输出什么(那一段).**
+		- **那么每一段间的输出顺序, 是怎样的呢? 分输出的顺序，大部分是符合人大脑中, 概念生成中, 概念产生的顺序的。即, 你先想到什么(哪一段), 就先输出什么(那一段).** 即, 你先想强调哪一事物, 就先说它. 然后再考虑它与动作是主动还是被动的关系.
+		-
+		- 《中式英语之鉴》的作者Joan Pinkham 说过: 英语句子表达的逻辑构成特点, 跟汉语有很大区别。普通英语的特点, 是以动词为基础，含义非常清晰; 而中国同学习惯了汉语句式， 所以在写英语时喜欢堆积大量的名词，烦琐、啰嗦, 且语义含糊。
+			-
+	- 前置思考习惯:
+	  collapsed:: true
+		- 说英语的人 已经养成习惯, 他们长年累月地、每天成百上千次地"考虑"他们要说明的事物是"一个"还是"多于一个" 。为了主谓一致.
+		-
 		-
 		-
 		-
@@ -592,9 +713,52 @@
 	-
 	-
 	- ---
+	- ## 读 --
+	-
+		- 高频词:
+		  background-color:: #264c9b
+			- 用听力来学习.
+			-
+		- 低频词: 用背诵突击来实现. 然后大量阅读原著来巩固.
+		  background-color:: #264c9b
+			- **频率在5000之后的低频词, 对其的学习, 主要来自阅读, 而不是听力或对话.**
+			  collapsed:: true
+				- 美国学生在阅读中, 通过"碰到一个学一个"的自然学习方式，词汇增长速度是平均每年1 千多个主词。而 用这种从背景文字中碰到生词学生词的学习方式，需要对每个词重复学习6 次, 才是最低限度. 所以实际上至少要读几百部小说的文字总量，且对其中碰到的大部分生词都不能放过，才能实现掌握这一万多个低频词的要求。
+				- 所以很多中国同学单词量达到5000后, 又读了很多英文书或教程，仍然感觉词汇增长缓慢，实际上主要原因是阅读量远远不够! 显然采用这种学习路线是很难取得成功的。所以在现阶段，必须采用特殊的突击学习方式。
+				- 从学习进度规划看，这些词汇也是必须速战速决。**因为出现频率过低，如果不尽快拿下，就很难在实际运用中巩固，学习效果会很难保持。**前5000 个常用单词的学习，也许耗费了我们几年的时间。但**这12000 不常用单词的学习，我们却可以先把单词拿出来对词义进行突击学习 -- 背单词 (用词根词缀法)，在几个月内实现一飞冲天式的突破，然后再回到原文中去慢慢进行巩固和体会词汇的实际应用。**
+				- 学而不用则废，很多靠突击达到上万单词量并考过了GRE 的中国留学生， 考完试后就再也去不管这些词汇，结果几年后词汇量就又退回到5000 左右的水平了。而此刻最直接、最有效率的方式，就是阅读。
+				- **在词汇量只有5000的阶段，只适合读经过简化改写的、降低了难度的课文。而当花费几个月时间突击了1 万个低频词后，所以此时进行阅读不但可以加快速度，而且还有精力去关注词汇的形式和使用方式。**而阅读我们感兴趣的原文材料，则更是成了我们学习的巨大推动力。
+				- **突击了1 万个低频词后，**我们就有条件阅读原版英语了。此时我们在大部分阅读材料中**碰到生词的机会，从只有5000 词汇量时的11% , 降低到了只有2% 左右。**
+			-
+			- 原著的选择
+			  background-color:: #497d46
+				- 原版的大学教材尽管适合阅读理解，但并不适合巩固低频词汇。该选择什么类型的材料来帮助提高和巩固低频词汇呢?
+				- 英语教材: 
+				  background-color:: #787f97
+					- 篇幅短, 文章主题广泛, 可以广泛接触不同的文化背景，不同性质和类型的生词，适应不同写作特点和叙述方式，但内容主题没有连贯性，阅读起来比较无趣。
+				- 专题读物: 
+				  background-color:: #787f97
+					- 指具有一定长度、以同一写作风格, 围绕同一主题而编写的读物。比如各种小说、科普书、社科书、影视剧本、专业课本等。
+					- 小说: 趣味性强 , 但写于七十五年以前的小说，基本不建议选用。而大部分"英文名著"写作时间都在这个范围内。原因是: 大部分名著不适合外语学习 -- 大部分名著, 用词陈旧, 偏词比例高, 写作风格古板过时, 其中大量引证写作当时的文化和历史背景知识, 很多连母语人士读起来也感到困难.
+					- 大部头名著普遍难度都过高，但其中也有少数例外。如海明威的小说, 语言通俗易懂, 低频词使用得极少, 就很适合阅读.
+					- **科普读物是非常合适的英语阅读材料.**
+					- **原版英文的报纸和杂志(比如Wall Street Journal , New York Times, Time, Economist) 等，普遍难度偏高,** 建议大家在实践大量阅读的初期不必去读。**杂志中只有科普类(比如Discovery ， National Geography , Scientific American) 的难度比较适中**，有兴趣的同学可以多读。
+					-
+				- 蓝思阅读分级体系
+				  background-color:: #787f97
+					- 如何判断小说的难度? 在 https://lexile.com/ 网站上，可以检索到大部分英语读物的阅读难度评估值。lexile 值越高越难读.
+					- https://hub.lexile.com/find-a-book/search
+					- 蓝思是最早被广泛应用的英文阅读分级体系，是一种用来衡量学生阅读水平和标识书籍难易程度的标准。
+					-
+					-
+						-
+						-
+						-
+	-
+	-
 	-
 	-
 -
-- 71
+- 214
 -
 -
