@@ -136,7 +136,8 @@
 		- > ▶ eggplant  /ˈeɡplænt/ 茄子
 		  => egg蛋 + plant植物
 		  ![image.png](../assets/image_1646373403683_0.png){:height 93, :width 141}
-		- > ▶ pepper ( BrE ) [C] [U] ( BrE NAmE also ˈsweet pepper ) ( NAmE also ˈbell pepper ) a hollow fruit, usually red, green or yellow, eaten as a vegetable either raw or cooked 甜椒；柿子椒；灯笼椒 /胡椒粉
+		- id:: 6221aa29-7d27-4260-8812-504811098236
+		  > ▶ pepper ( BrE ) [C] [U] ( BrE NAmE also ˈsweet pepper ) ( NAmE also ˈbell pepper ) a hollow fruit, usually red, green or yellow, eaten as a vegetable either raw or cooked 甜椒；柿子椒；灯笼椒 /胡椒粉
 		  ![image.png](../assets/image_1646373468649_0.png){:height 66, :width 103}
 	- Example 3: You can plant(v.) fruit trees /wherever you want. You do not need an orchard. Many fruit trees **look nice** by themselves /along with **producing food** that tastes good.
 		- > ▶ orchard  /ˈɔːrtʃərd/ 果园
@@ -146,21 +147,42 @@
 	-
 	- ## Get help from trusted sources
 	  
-	  Reich wrote about plants for 30 years, but sometimes he has questions. In those cases, he searches on the internet, but he centers his searches on information from educational institutions and government agencies. Even if the sources are not right 100 percent of the time, most of the time they have good information. It is hard to see the difference, sometimes, between good information and bad when it comes from sources you do not know well.
-	-
+	  Reich wrote about plants for 30 years, but sometimes he has questions. In those cases, he searches(v.) on the internet, but he ==centers==(v.) his searches ==on== information from **educational institutions** and **government agencies**. Even if the sources are not right **100 percent of the time**, most of the time /they have good information. **It is hard to see the difference**, sometimes, **between** good information and bad /when it comes from sources /you do not know well.
+		-
+		- 但他的搜索集中在教育机构和政府机构的信息。即使这些消息也不是百分之百的时间都正确，但大多数时候他们都有很好的信息。有时，当信息来自你不了解的来源时，很难看出好的信息和坏的信息之间的区别。
 	- ## Grow various plants, especially ones you can eat
 	  
-	  Sometimes bad weather can hurt plants. Other times, disease can hurt them. If you plant vegetables that are ready to eat at different times of the year, you can make sure that even if there is a problem in August or September, you picked something good to eat earlier in the year. In Reich’s experience, one year in the northeastern United States, a sickness late in the summer hurt many tomato plants. But that year, he already picked peppers, corn, kale and other vegetables.
+	  Sometimes bad weather can hurt plants. Other times, disease can hurt them. If you plant vegetables /that are ready to eat /at different times of the year, you can make sure that /even if there is a problem in August or September, you picked something good to eat /earlier in the year. In Reich’s experience, one year in the northeastern United States, a sickness late in the summer /hurt many tomato plants. But that year, he already picked peppers, corn, kale and other vegetables.
+		- > ▶ various (a.)  /ˈveriəs; ˈværiəs/  several different 各种不同的；各种各样的
+		- > ▶ sickness (n.)[ U ] illness; bad health 疾病；不健康 /恶心；呕吐
+		- ((6221aa29-7d27-4260-8812-504811098236))
+		-
+		- > ▶ kale   /keɪl/  ( NAmE also ˈcollard greens [ pl. ] ) a dark green vegetable like a cabbage 羽衣甘蓝 (是沙拉中必不可少的原料之一。)
+		  ![image.png](../assets/image_1646706734912_0.png){:height 109, :width 93}
+		-
 	-
 	- ## Do not plant too much
 	  
-	  You may get advertisements. You may go past a plant store that looks good. Even warm weather early in the year might make you excited to start planting. But Reich says it is better to have a small garden than a large one. When he has friends come over, they admire all his fruits and vegetables. However, he warns, “don’t do this at home!”
-	- In the end, Reich said, he may not be writing as much. However, he will never stop working in his garden. He will plant some new items and remove old ones in the next year. For example, he wants to plant rhododendrons and winterberry. He will build another stone wall he can use to support lingonberry and dwarf sweet box. The work never ends.
-	- Even if he is not writing as often, Reich plans to keep writing on his own website – leereich.com. You can visit him there if you want to keep up with his work, and perhaps see photos of his new projects.
+	  You may get advertisements. You may **go past** a plant store /that looks good. Even warm weather early in the year /might make you excited to start planting. But Reich says /it is better to have a small garden than a large one. When he has friends **come over**, they admire all his fruits and vegetables. However, he warns, “don’t do this at home!”
+	- In the end, Reich said, he may not be writing as much. However, he will never stop working in his garden. He will plant(v.) some new items /and remove old ones /in the next year. For example, he wants to plant rhododendrons and winterberry. He will build another stone wall /he can use(v.) to support lingonberry and **dwarf sweet box**. The work never ends.
+	- Even if he is not writing as often, Reich plans(v.) to keep writing /on his own website – leereich.com. You can visit him there /if you want to keep up with his work, and perhaps see photos of his new projects.
 	- He will be working hard, even on the cold days of winter.
 	- I’m Dan Friedell.
-	  
-	  ---
+		- 你可能会经过一家看起来不错的植物商店。
+		- > ▶ come over : PHRASAL VERB If someone comes over to your house or another place, they visit you there. 拜访
+		- id:: 6226c14a-a7a7-40cf-a3b9-957afc1c4b7b
+		  > ▶ rhododendron   /ˌroʊdəˈdendrən/  杜鹃花 (品种众多, 包括, 映山红 )
+		  =>来自希腊语 rhododendron,玫瑰树，来自希腊语 rhodon,玫瑰，词源同 rose,dendron,树，词源 同 tree,dentrology.
+		  ![image.png](../assets/image_1646707134593_0.png){:height 105, :width 118}
+		- > ▶ berry ( often in compounds 常构成复合词 ) a small fruit that grows on a bush. There are several types of berry , some of which can be eaten. 浆果；莓
+		- > ▶ winterberry n. [林] 美洲冬青
+		  ![image.png](../assets/image_1646707395983_0.png){:height 90, :width 160}
+		- 他将建造另一堵石墙，他可以用它来支撑越橘和矮子糖盒。
+		- > ▶ lingonberry   /ˈlɪŋɡənˌberi/  n. 越橘（等于 cowberry）
+		  ![image.png](../assets/image_1646707575899_0.png){:height 113, :width 147}
+		-
+		-
+	- ---
 	- ## Words in This Story
 	- advice – n. an opinion or suggestion about what someone should do
 	- microorganism – n. an extremely small living thing that can only be seen with a microscope

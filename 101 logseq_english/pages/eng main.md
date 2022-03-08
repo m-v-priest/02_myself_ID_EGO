@@ -17,6 +17,7 @@
 -
 - ---
 - VOA 慢速英语
+	- https://learningenglish.voanews.com/z/955?withmediaplayer=1
 	- [[001 Scientists Raise(v.) Questions about Future Vaccine Strategy]]
 	- [[002 First Woman Is Reported Cured of HIV]]
 	- [[003 Omicron Increases Worries about ‘Long COVID’]]
@@ -26,7 +27,10 @@
 	- [[007 How Will the Pandemic End?]]
 	- [[008 Testing Best Way to Know Difference Between Cold, Flu or COVID]]
 	- [[009 Final Thoughts from a Garden Expert]]
+	- [[010 Study Cannot Confirm Many Lab Results for Cancer Experiments]]
+	- [[011 Study Suggests Link Between Long Sleep Times, Cognitive Loss]]
 	-
+-
 -
 - ---
 - [[lesson to this 01]]
