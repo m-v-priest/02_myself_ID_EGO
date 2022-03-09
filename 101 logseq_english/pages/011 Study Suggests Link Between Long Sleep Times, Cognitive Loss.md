@@ -46,17 +46,49 @@
 		  => electro- +‎ encephalo- +‎ -graphy
 		  ![image.png](../assets/image_1646724221429_0.png){:height 87, :width 152}
 		-
-	- Overall, cognitive scores declined for the groups /that slept less than 4.5 hours or more than 6.5 hours per night — as measured by EEG. But the scores stayed the same /for those in the middle of the range.
-	- Dr. Brendan Lucey is director of the Washington University Sleep Medicine Center and led the research. He said, “Our study suggests that there is a middle range, or ‘sweet spot,’ for total sleep time” for best cognitive performance.
-	- “Short and long sleep times were associated with worse cognitive performance, perhaps due to insufficient sleep or poor sleep quality, ” Lucey added.
-	- Greg Elder is a sleep researcher at Northumbria University in New Castle, Britain. He was surprised about the findings that sleeping longer than 6.5 hours was linked with cognitive decline. He wrote in The Conversation, “this is low when we consider that older adults are recommended to get between seven and eight hours of sleep every night.”
-	- Elder also noted that the research did not consider other information about the individuals studied, including their general health or economic conditions.
-	- Earlier findings
-	- Other studies have shown that lack of sleep was linked with cognitive decline. A small 2018 study published in the Proceedings of the National Academy of Sciences found that losing just one night of sleep led to an increase in beta-amyloid production. Beta-amyloid is a metabolic waste product found in between brain cells. It has been long linked to brain disorders, such as Alzheimer’s disease.
-	- The National Sleep Foundation advises that healthy adults need between seven and nine hours of sleep per night. Babies, young children, and teens need even more sleep for their growth and development. And people over 65 should also get seven to eight hours per night, the foundation says.
-	- One unanswered question from the Washington University study is whether increasing sleep time for short sleepers would help their cognitive performance.
-	- But lead writer Lucey said each person’s sleep needs are individual. If people feel rested, there is no need to change how they sleep. But those who are not sleeping well should know that sleep problems often can be treated, Lucey said.
-	- Dr. David Holtzman, another top researcher on the study, added, “It suggests that sleep quality may be key, as opposed to simply total sleep."
+	- Overall, **cognitive scores** declined for the groups /that slept less than 4.5 hours or more than 6.5 hours per night — as measured by EEG. But the scores stayed the same /for those in the middle of the range.
+	- Dr. Brendan Lucey is director of _the Washington University_ **Sleep Medicine Center** /and led the research. He said, “Our study suggests that /there is **a middle range**, or ‘**sweet spot**,’ for total sleep time” for **best cognitive performance**.
+		- > ▶ sweet spot : the area on a bat which hits the ball in the most effective way （球拍或球棒的）最佳击球点，甜区
+		  ![image.png](../assets/image_1646788590271_0.png){:height 113, :width 136}
+		- 我们的研究表明，总睡眠时间存在一个中间区间，也就是‘最佳睡眠时间点’”，可以“获得最佳认知表现”。
+	- “Short and long sleep times **were associated with** worse cognitive performance, perhaps due to **insufficient sleep** or **poor sleep quality**, ” Lucey added.
+		- 睡眠时间长短, 与认知能力差有关，这可能是由于睡眠不足, 或睡眠质量差。
+	- Greg Elder is **a sleep researcher** at Northumbria University in New Castle, Britain. **He was surprised about** the findings /that `主` sleeping longer than 6.5 hours `系` **was linked with** cognitive decline. He wrote in The Conversation, “this is low /when we consider that /`主` older adults `谓` are recommended /to get between **seven and eight hours of sleep** /every night.”
+		- > ▶ conversation (n.) ~ (with sb) (about sth) an informal talk involving a small group of people or only two; the activity of talking in this way （非正式）交谈，谈话
+		- > ▶ low : weak or depressed; with very little energy 虚弱的；沮丧的；消沉的；无精打采的 /[ usually before noun ] not very good 不好的；差的
+		  -> **I'm feeling really low**. 我现在很消沉。
+		  ->**She has a very low opinion of** her own abilities. 她认为自己的能力很差。
+		- ... 是一名睡眠研究员. 他对"睡眠超过6.5小时, 与认知能力下降有关"这个研究结果, 感到惊讶。他在The Conversation中写道:“当我们考虑到老年人每晚的睡眠时间, 被建议在7到8小时之间时，这是糟糕的。”
+	- Elder also noted that /the research **did not consider other information /about** the individuals studied, including their **general health** or **economic conditions**.
+		- 这项研究没有考虑有关被研究个体的其他信息，包括他们的一般健康, 或经济状况。
+		-
+	- ## Earlier findings
+	- Other studies have shown that /lack of sleep **was linked with** cognitive decline. `主` A small 2018 study /published in the Proceedings of the National Academy of Sciences `谓` found that `主` losing(v.) just one night of sleep `谓` **led to an increase(n.) in** beta-amyloid production. Beta-amyloid is **a metabolic waste product** found in between brain cells. **It has been long linked to** brain disorders, such as Alzheimer’s disease.
+		- > ▶ Proceeding (n.)proceedings [ pl. ] the official written report of a meeting, etc. （会议等的）正式记录；公报 /proceedings [ pl. ] an event or a series of actions 事件；过程；一系列行动
+		  /[ Cusually pl. ] ~ (against sb) (for sth) the process of using a court to settle a disagreement or to deal with a complaint 诉讼；诉讼程序
+		  -> **bankruptcy/divorce/extradition, etc. proceedings** 破产、离婚、引渡等诉讼
+		  -> The Mayor **will open the proceedings** at the City Hall tomorrow. 明天市长将在市政厅宣布大会开幕。
+		  => pro-前 + -ceed-行走 + -ing
+		- > ▶ beta-amyloid : β-淀粉样蛋白
+		  由39～43个氨基酸残基组成。是阿尔茨海默病老年斑的主要成分。在神经细胞内、外聚积均可引起毒性反应，导致神经元变性和死亡。
+		- > ▶ amyloid  /ˈæmɪˌlɔɪd/  (n.)N a complex protein resembling starch, deposited in tissues in some degenerative diseases 类淀粉的复杂蛋白质 /ADJ starchlike 类淀粉的
+		- > ▶ metabolic  ADJ Metabolic means relating to a person's or animal's metabolism. 新陈代谢的
+		- 其他研究表明，睡眠不足与认知能力下降有关。2018年发表在《美国国家科学院院刊》(Proceedings of the National Academy of Sciences)上的一项小型研究发现，只要少睡一晚，就会导致β -淀粉样蛋白的生成增加。淀粉样蛋白是脑细胞之间的代谢废物。长期以来，它一直与老年痴呆症等脑部疾病有关。
+	- `主` The National Sleep Foundation `谓` advises that /healthy adults need between **seven and nine hours of sleep** per night. `主` Babies, young children, and teens `谓` need **even more sleep** for their growth and development. And `主`  people over 65 `谓` should also get seven to eight hours per night, the foundation says.
+		- 国家睡眠基金会
+	- **One unanswered question** from the Washington University study `系` is /whether increasing sleep time for **short sleepers** /would help their cognitive performance.
+		- unanswered  (a.)( of a question, problem, etc. 提问、问题等 ) that has not been answered 未回答的；未解答的；悬而未决的 /( of a letter, telephone call, etc. 信函、电话等 ) that has not been replied to 未回复（或答复）的
+		- 一个未回答的问题是，对于睡眠时间较短的人来说，增加睡眠时间是否有助于他们的认知表现。
+	- But **lead writer** Lucey said `主` each person’s sleep needs `系` are individual. If people **feel rested**(a.), **there is no need** to change how they sleep. But `主` those who are not sleeping well `谓` should know that /sleep problems **often can be treated**, Lucey said.
+		- > ▶  lead writer 主笔人
+		- > ▶ rested (a.)feeling healthy and full of energy because you have had a rest 休息后精力恢复（或精神振作）的
+		- 但主要作者露西表示，每个人的睡眠需求, 是因人而异的。如果人们感觉休息好了，就没有必要改变他们的睡眠方式。但是那些睡眠不好的人应该知道，睡眠问题通常是可以处理的.
+	- Dr. David Holtzman, another **top researcher** on the study, added, “It suggests that /**sleep quality** may be key, **as opposed to** simply total sleep."
+		- > ▶ AS OPPOSED TO : ( formal ) used to make a contrast between two things （表示对比）而，相对于
+		  ->200 attended, **as opposed to** 300 the previous year. 出席的有200人，而前一年是300人。
+		  -> This exercise develops suppleness **as opposed to** (= rather than) strength. 这项锻炼不是增强力量，而是增强柔韧性的。
+		- > ▶ Total sleep time 总睡眠时间
+		- 高级研究员 ... 这表明，与单纯的"总睡眠时长"相比，"睡眠质量"可能是关键。
 	- I'm Caty Weaver.
 	- Hai Do wrote this story for Learning English. Caty Weaver was the editor.
 	- _________________________________________________

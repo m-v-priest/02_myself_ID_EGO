@@ -96,7 +96,8 @@
 	- > ▶ norm (n.)( often **the norm** ) [ sing. ] a situation or a pattern of behaviour that is usual or expected 常态；正常行为
 	  -> **a departure from the norm** 一反常态
 - There are estimates that /more than one-third of people infected with COVID-19 /will develop long-lasting problems. Scientists are trying to understand the cause of so-called “long COVID” /and find treatments for it.
-	- > ▶ cause 原因；起因
+	- id:: 621c6c24-88c1-4f72-b750-4434d90e3f0a
+	  > ▶ cause 原因；起因
 - **It is too soon to know** whether people infected with the fast-spreading Omicron variant will develop mysterious symptoms. Signs of long COVID usually appear(v.) weeks after first getting sick. But some experts think a wave of long COVID is likely. And they say doctors need to be prepared for it.
 	- ((621c2c52-6719-4f22-8c50-aec038a3a528))
 - The U.S. National Institutes of Health **is carrying out research** on the condition, with the help of **the $1 billion** it received from Congress. Medical centers for studying long COVID are appearing around the world. Such centers **have connections with** places like **Stanford University in California** and **University College London**.

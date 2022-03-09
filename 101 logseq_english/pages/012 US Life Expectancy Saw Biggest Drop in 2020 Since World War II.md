@@ -1,0 +1,61 @@
+-
+- pure trext
+  collapsed:: true
+	- The average life expectancy for people in the United States fell by one year and a half in 2020. The decrease marks the largest one-year drop since World War II, public health officials said.
+	- Experts with the U.S. Centers for Disease Control and Prevention (CDC) released the report on life expectancy Wednesday.
+	- The decrease was mainly caused by the COVID-19 health crisis. Health officials said the pandemic was responsible for close to 74 percent of the life expectancy decline.
+	  Life expectancy is an estimate of the average number of years a baby born in a given year might expect to live. It is a useful method to show a country’s health. The number can be influenced by long-term health issues, such as weight problems. It also can be influenced by more temporary threats like pandemics or wars -- which might not affect those newborns in their lifetimes.
+	- More than 3.3 million Americans died last year. That is far more than any other year in U.S. history. COVID-19 made up about 11 percent of those deaths.
+	- For many years, U.S. life expectancy was rising. In 2019, the estimate was 78 years, 10 months. Last year, the CDC said, it dropped to about 77 years, 4 months.
+	- The decrease among Black Americans and Hispanic Americans was greater than the national average. The number for both populations dropped by three years.
+	- Life expectancy among Black Americans has not fallen so much in one year since the 1930s, during the Great Depression. Black life expectancy dropped last year to 71 years and 10 months. It has not been that low since 2000.
+	- Hispanic Americans have a longer life expectancy than white or Black Americans. Health officials only started measuring Hispanic life expectancy 15 years ago. The three-year drop measured in 2020 is the largest one-year decrease on record.
+	- Several problems affected Black and Hispanic people in 2020 that made COVID-19 a greater risk. Experts said these included a lack of good health care and more crowded living conditions. Experts also said that these groups held a greater share of lower-paying jobs that required them to keep working as usual during the pandemic.
+	- Elizabeth Arias was the report’s lead writer. She said a rise in murders among Black Americans was a small but important reason for the drop among that population.
+	- Other causes of the national life expectancy drop included drug abuse problems, especially among white Americans.
+	- The sharp fall among all populations is “basically catastrophic,” said Mark Hayward. He is a University of Texas professor who studies changes in U.S. death rates.
+	- Life expectancy in 2020 fell nearly two years for men, but only about one year for women, widening an already existing difference between the sexes. The CDC reports a life expectancy of 74 years, 6 months for boys in 2020. For girls, life expectancy is 80 years, 2 months.
+	- I'm Ashley Thompson.
+	- The Associated Press reported this story. Ashley Thompson adapted it for VOA Learning English. Mario Ritter Jr. was the editor.
+	- _____________________________________________________________
+	- Words in This Story
+	  decline –n. a change to a lower amount or number
+	  pandemic - n. ​an occurrence in which a disease spreads very quickly and affects a large number of people over a wide area or throughout the world​
+	- Hispanic –adj. coming from an area where Spanish is spoken, especially Latin America
+	- catastrophic –adj. something that is a terrible disaster
+- ---
+- def text
+	- **The average life expectancy** for people in the United States `谓` fell **by one year and a half** /in 2020. The decrease **marks(v.) the largest one-year drop** since World War II, public health officials said.
+		- 2020年，美国人的平均预期寿命, 下降了"一年半的年龄"。公共卫生官员说，这是自二战以来最大降幅的一年。
+	- `主` Experts with _the U.S. Centers_ for **Disease Control and Prevention** (CDC) `谓` released the report on **life expectancy** /Wednesday.
+		- 美国疾病控制和预防中心(CDC)的专家, 周三发布了这份关于预期寿命的报告。
+	- The decrease **was mainly caused by** the COVID-19 health crisis. Health officials said /the pandemic **was responsible for** close to 74 percent of **the life expectancy decline**.
+		- 下降的主要原因, 是来自COVID-19健康危机。卫生官员表示，近74%的预期寿命下降是由疫情造成的。
+	- **Life expectancy** is an estimate of **the average number of years** `主` a baby /后定 born in a given year/ `谓` might expect to live. It is a useful method to show a country’s health. The number **can be influenced by** long-term health issues, such as weight problems. It also **can be influenced by** more temporary threats like pandemics or wars -- which **might not affect** those newborns in their lifetimes.
+		- > ▶ newborn (a.)[ only before noun ] recently born 新生的；初生的
+		- 预期寿命, 是对某一年出生的婴儿, 预期能活的平均年数的估计。这是显示一个国家健康状况的有效方法。这个数字可能会受到长期健康问题的影响，比如体重问题。它还可能受到流行病或战争等更暂时的威胁的影响——这些可能不会影响到这些新生儿的一生。
+	- More than 3.3 million Americans died last year. **That is far more than** any other year in U.S. history. COVID-19 **made up** about 11 percent of those deaths.
+	- For many years, U.S. **life expectancy** was rising. In 2019, the estimate was 78 years, 10 months. Last year, the CDC said, it dropped to about 77 years, 4 months.
+	- The decrease among **Black Americans** and **Hispanic(a.) Americans** was greater /than the national average. The number for both populations /dropped by three years.
+		- > ▶ Hispanic (a.)(n.)of or connected with Spain or Spanish-speaking countries, especially those of Latin America 西班牙的；西班牙语国家（尤指拉丁美洲）的 /母语为西班牙语的人（尤指住在美国或加拿大的拉丁美洲人）
+		-
+	- Life expectancy among Black Americans /**has not fallen so much** in one year /since the 1930s, during **the Great Depression**. Black life expectancy **dropped** last year **to** 71 years and 10 months. It has not been that low /since 2000.
+	- Hispanic Americans have a longer life expectancy **than** white or Black Americans. Health officials only started measuring Hispanic life expectancy 15 years ago. `主` The three-year drop 后定 measured in 2020 `系` is the largest one-year decrease **on record**.
+		- 卫生官员15年前, 才开始测量西班牙人的预期寿命。2020年的三年年龄降幅, 是有记录以来最大的一年降幅。
+	- Several problems affected Black and Hispanic people in 2020 /that made COVID-19 a greater risk. Experts said /these included a lack of good **health care** /and more crowded living conditions. Experts also said that /these groups **held a greater share o**f lower-paying jobs /that required them to keep working **as usual** /during the pandemic.
+		- 这些问题包括: 缺乏良好的医疗保健, 和更拥挤的生活条件。专家们还表示，这些群体占据了更大比例的低薪工作，这些工作要求他们在疫情期间, 也还是要继续像往常一样地工作。
+	- Elizabeth Arias was the report’s **lead writer**. She said /`主` **a rise in murders** among Black Americans `系` was **a small but important reason** for the drop among that population.
+	- `主` Other causes of **the national life expectancy** drop `谓` included **drug abuse** problems, especially among white Americans.
+		- ((621c6c24-88c1-4f72-b750-4434d90e3f0a))
+		- 其他导致全国预期寿命下降的原因包括: 吸毒问题，尤其是美国白人中的吸毒问题。
+	- **The sharp fall** among all populations `系` is “basically catastrophic,” said Mark Hayward. He is a University of Texas professor /who studies(v.) changes in U.S. **death rates**.
+	- Life expectancy in 2020 fell(v.) nearly two years for men, but only about one year for women, **widening(v.) an already existing difference** between the sexes. The CDC reports a life expectancy of 74 years, 6 months for boys in 2020. For girls, life expectancy is 80 years, 2 months.
+		- 2020年，男性的预期寿命下降了近两年，而女性的预期寿命仅下降了一年左右，加大了已经存在的性别(预期寿命间的)差异。美国疾病控制与预防中心报告称，2020年男孩的预期寿命为74岁6个月。女孩的平均寿命是80岁零2个月。
+	- I'm Ashley Thompson.
+	- The Associated Press reported this story. Ashley Thompson adapted it for VOA Learning English. Mario Ritter Jr. was the editor.
+	- _____________________________________________________________
+	- Words in This Story
+	  decline –n. a change to a lower amount or number
+	  pandemic - n. ​an occurrence in which a disease spreads very quickly and affects a large number of people over a wide area or throughout the world​
+	- Hispanic –adj. coming from an area where Spanish is spoken, especially Latin America
+	- catastrophic –adj. something that is a terrible disaster
