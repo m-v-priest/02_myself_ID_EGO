@@ -1,0 +1,74 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="402" viewBox="0 0 402 238" height="238" xmlns="http://www.w3.org/2000/svg">
+    <defs/>
+    <g transform="translate(1.00,1.00)" id="group1">
+        <g transform="translate(151.00,102.00)" id="shape2">
+            <path d="M.0,.0L98.0,.0L98.0,40.0L.0,40.0L.0,.0z" fill="#d7d7d7" fill-rule="nonzero" stroke="#999999"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="25.5" x="29.5">王前妻</tspan>
+            </text>
+        </g>
+        <g transform="translate(0.00,102.00)" id="shape3">
+            <path d="M.0,.0L98.0,.0L98.0,40.0L.0,40.0L.0,.0z" fill="none" stroke="#999999"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="25.5" x="36.0">邻里</tspan>
+            </text>
+        </g>
+        <g transform="translate(151.00,196.00)" id="shape4">
+            <path d="M.0,.0L98.0,.0L98.0,40.0L.0,40.0L.0,.0z" fill="none" stroke="#999999"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="25.5" x="23.0">现任丈夫</tspan>
+            </text>
+        </g>
+        <g transform="translate(302.00,102.00)" id="shape5">
+            <path d="M.0,.0L98.0,.0L98.0,40.0L.0,40.0L.0,.0z" fill="none" stroke="#999999"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="25.5" x="23.0">家庭成员</tspan>
+            </text>
+        </g>
+        <g transform="translate(98.00,124.84)" id="shape6">
+            <path d="M.0,.0L47.0,.0" fill="none" stroke="#191919"/>
+            <path d="M47.0,-3.0L53.0,.0L47.0,3.0L47.0,-3.0" fill="#191919" stroke-linecap="round" stroke-width="1" stroke="#191919"/>
+        </g>
+        <g transform="translate(202.25,196.00)" id="shape7">
+            <path d="M.0,.0L.0,-48.0" fill="none" stroke="#191919"/>
+            <path d="M-3.0,-48.0L.0,-54.0L3.0,-48.0L-3.0,-48.0" fill="#191919" stroke-linecap="round" stroke-width="1" stroke="#191919"/>
+        </g>
+        <g transform="translate(302.00,120.84)" id="shape8">
+            <path d="M.0,.0L-47.0,.0" fill="none" stroke="#191919"/>
+            <path d="M-47.0,3.0L-53.0,.0L-47.0,-3.0L-47.0,3.0" fill="#191919" stroke-linecap="round" stroke-width="1" stroke="#191919"/>
+        </g>
+        <g transform="translate(151.00,0.00)" id="shape9">
+            <path d="M.0,.0L98.0,.0L98.0,54.0L.0,54.0L.0,.0z" fill="none" stroke="#999999"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="23.0" x="10.0">奔波中遭遇到</tspan>
+                <tspan y="42.0" x="29.5">的困难</tspan>
+            </text>
+        </g>
+        <g transform="translate(198.24,54.00)" id="shape10">
+            <path d="M.0,.0L.0,42.0" fill="none" stroke="#191919"/>
+            <path d="M3.0,42.0L.0,48.0L-3.0,42.0L3.0,42.0" fill="#191919" stroke-linecap="round" stroke-width="1" stroke="#191919"/>
+        </g>
+        <g transform="translate(97.50,70.33)" id="shape11">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="23.2" x="13.5">态度</tspan>
+                <tspan y="42.2" x="13.5">冲突</tspan>
+            </text>
+        </g>
+        <g transform="translate(196.00,57.00)" id="shape12">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="23.2" x="13.5">冲突</tspan>
+            </text>
+        </g>
+        <g transform="translate(253.00,70.33)" id="shape13">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="23.2" x="13.5">态度</tspan>
+                <tspan y="42.2" x="13.5">冲突</tspan>
+            </text>
+        </g>
+        <g transform="translate(203.00,156.00)" id="shape14">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="18.7" x="9.5">态度冲突</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
