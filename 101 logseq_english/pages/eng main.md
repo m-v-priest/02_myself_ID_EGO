@@ -18,6 +18,7 @@
 - ---
 - VOA 慢速英语
 	-
+	- https://learningenglish.voanews.com/
 	- https://learningenglish.voanews.com/z/955?withmediaplayer=1
 	- [[001 Scientists Raise(v.) Questions about Future Vaccine Strategy]]
 	- [[002 First Woman Is Reported Cured of HIV]]
@@ -31,6 +32,10 @@
 	- [[010 Study Cannot Confirm Many Lab Results for Cancer Experiments]]
 	- [[011 Study Suggests Link Between Long Sleep Times, Cognitive Loss]]
 	- [[012 US Life Expectancy Saw Biggest Drop in 2020 Since World War II]]
+	- [[013 Study Mars Missions Should Be Limited to 4 Years to Protect from Radiation]]
+	- [[014 More Information about Little-Known Venus]]
+	- [[015 Study : Long Periods in Space Can Shrink the Heart]]
+	- [[016 Scientists Use Human Cells to Copy Early Embryo Development]]
 -
 - ---
 - 牛津书虫

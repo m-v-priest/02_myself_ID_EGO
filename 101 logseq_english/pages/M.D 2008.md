@@ -29,7 +29,8 @@ title:: M.D 2008
 			  -> **trigger chemicals** 引起的化学物质, 诱发性的化学物质
 			- > ▶ stressed-out(a.) =very tense and anxious because of difficulties in their lives 不堪重负的；承受巨大压力的
 			- > ▶ ovary  卵巢
-			- > ▶ reproductive (a.)=connected with reproducing babies, young animals or plants 生殖的；繁殖的
+			- id:: 6219b283-49ca-4bb8-83f5-077ece5f64bb
+			  > ▶ reproductive (a.)=connected with reproducing babies, young animals or plants 生殖的；繁殖的
 			  -> **reproductive organs** 生殖器官
 			-
 	- **Adding to** a woman’s increased dose of **stress chemicals**, are her **increased “opportunities”** for stress. “**It’s not necessarily(ad.) that** /women don’t **cope as well**. It’s just that /they have so much more **to cope with**,” says Dr. Yehuda. “Their capacity for **tolerating stress** /may even be greater than men’s,” she observes, “it’s just that /they’re dealing with **so** many more things /**that** they become **worn out from it** /more visibly(ad.) and sooner.”
