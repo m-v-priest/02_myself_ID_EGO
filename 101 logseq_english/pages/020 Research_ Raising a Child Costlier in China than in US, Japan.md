@@ -1,0 +1,44 @@
+title:: 020 Research: Raising a Child Costlier in China than in US, Japan
+
+-
+- pure
+  collapsed:: true
+	- New research shows that the cost of raising a child in China is nearly seven times its GDP per capita, far more than in the United States and Japan.
+	- GDP, or gross domestic product, is the measure of the total value of goods and services in a country. GDP per capita is a measure resulting from GDP divided by the size of a nation’s total population.
+	- The high cost of child-raising is one more difficulty Chinese policymakers face as they try to deal with quickly decreasing birth rates.
+	- Experts warn China's aging population will put pressure on its health and social security systems. A decrease in workers could also severely limit growth for the world's second largest economy in the coming years.
+	- New policies permit families to have as many as three children. But China's birth rate dropped to 7.52 births per 1,000 people in 2021. That is the lowest since the National Bureau of Statistics began recording the information in 1949.
+	- The high costs of raising a child have caused officials in China to place restrictions on the private tutoring industry. Some areas have been giving couples money for having a second or third child.
+	- The average cost of raising a child to the age of 18 in China in 2019 was 485,000 yuan for a first child. That is 6.9 times China's GDP per capita that year. That information comes from a recent report from the YuWa Population Research Institute in Beijing.
+	- China ranks second highest among the 13 countries included in the study. The country is behind only South Korea, which has the lowest birth rate in the world. The United States number, based on 2015 data, is at 4.11 times GDP per capita. Japan stands at 4.26, based on data from 2010.
+	- Child raising costs are even higher in China's major cities, reaching more than 1 million yuan in Shanghai and 969,000 yuan in Beijing. Birth rates in the two cities are even lower than the national average.
+	- YuWa warned the decreasing birth rate would "profoundly affect" China's economic growth potential, its ability to create and its welfare problems.
+	- The study found that China would need to spend at least 5 percent of its yearly GDP to provide reasons for couples to have more children. That would include education funding, special housing loan rates and tax breaks. Other considerations include equal time for mothers and fathers to be away from their jobs and the building of more childcare centers.
+- ---
+- def
+	- New research shows that /the cost of **raising a child** in China /is nearly seven times its GDP **per capita**, far more than in the United States and Japan.
+		- > ▶ raise (v.)( especially NAmE ) to care for a child or young animal until it is able to take care of itself 抚养；养育；培养
+		- > ▶  **per capita** ( from Latin ) for each person 每人的；人均的
+		  -> **Per capita income** rose(v.) sharply last year. 去年人均收入猛增。
+		- 在中国抚养一个孩子的成本, 几乎是其人均GDP的7倍，远远高于美国和日本。
+	- GDP, or **gross domestic product**, is the measure of **the total value** of goods and services in a country. **GDP per capita** is a measure /**resulting from** GDP divided by the size of a nation’s total population.
+		- 人均国内生产总值(GDP), 是GDP除以国家总人口的一种衡量方法。
+	- **The high cost** of child-raising /is one more difficulty(n.) Chinese policymakers face /as they **try to deal with** quickly decreasing **birth rates**.
+		- > ▶ difficulty (n.)[ C ] [ usually pl.U ] a problem; a thing or situation that causes problems 困难；难题；难事；困境 /艰难；困难；费劲；辛苦
+	- Experts warn /`主` China's **aging population** `谓` **will put pressure on** its health and **social security systems**. A decrease in workers /could also severely limit(v.) growth for the world's second largest economy in the coming years.
+	- New policies **permit**(v.) families **to have** as many as three children. But China's birth rate **dropped to** 7.52 births(n.) per 1,000 people in 2021. That is the lowest /since the National **Bureau of Statistics** began recording the information in 1949.
+		- > ▶ Bureau  （附抽屉及活动写字台的）书桌 /(in the US) a government department or part of a government department （美国政府部门）局，处，科
+	- **The high costs** of **raising a child** /**have caused** officials in China **to place(v.) restrictions on** the private tutoring industry. Some areas **have been giving** couples **money** for having a second or third child.
+		- > ▶ tutor  家庭教师；私人教师 /导师；指导教师
+		- 抚养孩子的高成本, 已经导致中国官员对私人补习行业施加限制。一些地区已经为生育二胎或三胎的夫妇, 提供了补贴。
+	- **The average cost** of **raising a child to the age of 18** in China in 2019 /was 485,000 yuan for a first child. That is 6.9 times China's **GDP per capita** that year. That information **comes from** a recent report /from the YuWa **Population Research** Institute in Beijing.
+	- China ranks(v.) second highest /among the 13 countries included in the study. The country is behind only South Korea, which has the lowest birth rate in the world. The United States number, based on 2015 data, is at 4.11 times GDP per capita. Japan stands at 4.26, based on data from 2010.
+		- 中国在该研究涵盖的13个国家中排名第二, 仅次于韩国. 后者是世界上出生率最低的国家。
+	- Child **raising costs** /are even higher in China's major cities, reaching more than 1 million yuan in Shanghai /and 969,000 yuan in Beijing. **Birth rates** in the two cities /are even lower than the national average.
+	- YuWa warned /the decreasing birth rate **would "profoundly affect"** China's economic growth potential, its ability to create /and its **welfare problems**.
+		- 不断下降的出生率, 将“深刻影响”中国的经济增长潜力、制造能力和福利问题。
+	- The study found that /China would need to spend at least 5 percent of its yearly GDP /**to provide reasons for** couples to have more children. That would include **education funding**, special **housing loan rates** and **tax breaks**. **Other considerations include**(v.) /equal time for mothers and fathers **to be away from their jobs** /and the building of more **childcare centers**.
+		- > ▶ **tax break** (n.)a special advantage or reduction in taxes that the government gives to particular people or organizations 赋税优惠；减税
+		- > ▶ consideration : something that must be thought about when you are planning or deciding sth （作计划或决定时）必须考虑的事（或因素、原因） /[ C ] ( formal ) a reward or payment for a service 报酬；酬金；支付款
+		- 中国至少需要拿出每年GDP的5%, 来为夫妇们提供生育更多孩子的理由。这将包括教育资金、特殊住房贷款利率, 和税收减免。其他考虑还包括, 让父母有同等的时间远离工作照顾小孩，以及建立更多的托儿中心。
+		-

@@ -1,0 +1,95 @@
+title:: 021 Russia-Ukraine Conflict Affects(v.) Worldwide Economy
+
+-
+- pure
+  collapsed:: true
+	- There was so much oil in April 2020 that the price of a barrel of oil in the American state of Texas fell below $0 for a short time. Sellers had to pay buyers to take it.
+	- Less than two years later, the international price of a barrel of oil rose above $100 Thursday. The increase followed the Russian invasion of Ukraine. And it came at a time when the world’s economy is slowly recovering from the COVID-19 pandemic.
+	  Russia and Ukraine together produce less than two percent of the world’s gross domestic product - the total market value of both countries’ finished goods and services. But the conflict has increased existing inflation. This has frightened investors and affected everyone from Europe to Asia and Africa.
+	- Higher fuel prices
+	- Russia is the world’s third-biggest oil producer and is a major exporter of natural gas. Ukraine’s farms provide food for millions of people around the world.
+	- Europe receives about 40 percent of its natural gas from Russia. The price of gas is now four times higher than it was at the start of 2021. And Germany, on Tuesday, suspended approval of the Nord Stream 2 gas pipeline as part of Western nations’ economic sanctions against Russia.
+	- A mild winter and liquefied natural gas from the United States have helped ease some of Europe’s concerns about a possible loss of Russian gas supplies.
+	- High gas prices, however, have led to higher costs for home heating fuel and cutbacks by heavy industrial users. The yearly rate of inflation also rose to 5.1 percent in January in the 19 countries that use the euro. That is the highest rate since record-keeping began for the group in 1997.
+	- Reduced wheat export
+	- Ukraine is the world’s fifth-largest wheat exporter. The threat to farms in eastern Ukraine and exports through Black Sea ports could reduce wheat supplies at a time when food prices are at their highest level since 2011. Some countries are suffering from food shortages.
+	- Agriculture expert Alex Smith wrote about the threat in the publication Foreign Policy last month. Many countries that depend on Ukraine’s wheat, he wrote, “already face food insecurity from ongoing political instability or outright violence.” Yemen, for example, imports 22 percent of its wheat from Ukraine, Libya about 43 percent and Lebanon about half.
+	- Inflation
+	- Rising energy and food prices will increase pressure on policymakers and central banks struggling to control inflation. The London-based research firm Capital Economics estimated that the Ukraine crisis could force higher natural gas prices and send oil prices up to as much as $140 a barrel.
+	- That combination would add two percentage points to yearly inflation in the world’s rich countries, Capital Economics said.
+	- In the United States, prices of goods, not including energy and food, rose at a rate of 7.5 percent for the 12 months ending in January. It was the highest yearly increase in 40 years.
+	- On Tuesday, American President Joe Biden announced several new sanctions against Russian banks and powerful leaders for what he called “the beginning of a Russian invasion of Ukraine." Biden also warned Americans, "As I said last week, defending freedom will have costs, for us as well and here at home.”
+	- As of Thursday, the American Automobile Association said the national average gasoline price in the U.S. is $3.54 a gallon, about 3.8 liters. A gallon of gasoline cost $2.66 just one year ago.
+	- Lower stock prices
+	- The values of stocks, however, dropped in most financial markets around the world.
+	- In Russia, the Moscow stock exchange dropped nearly 45 percent Thursday following President Vladimir Putin’s announcement of a “military operation” against Ukraine. And the nation’s currency, the ruble, dropped to a record low against the American dollar.
+	- Market indexes in Europe, Asia and the U.S. all fell. In the face of international political worries, Michael Taylor, managing director at Moody’s Investors Service, warned that investors may switch to safe investments. If that happens, it could drive up the costs of borrowing for riskier businesses.
+	- “Chinese property developers would be particularly exposed to this risk” as they try to deal with large amounts of foreign debt this year, Taylor said.
+	- Some fear that financial markets could become riskier if the U.S. bans Russia from the worldwide financial payment network SWIFT. The network links thousands of banks and permits them to exchange payments around the world.
+	- Such a move would cut off oil payments to Russia which add up to 40 percent of the country’s revenue. But it could also hurt U.S. and European companies that do business with Russian companies.
+	- Elina Ribakova is an economist with the Institute of International Finance in Washington, D.C. She said risk is not limited to Russia.
+	- “There is a risk for global finance as much as there is for Russia,” said Ribakova.
+- ---
+- def
+	- There was ==so== much oil in April 2020 /==that== the price of **a barrel of oil** in the American state of Texas /fell(v.) below $0 for a short time. Sellers had to pay buyers to take it.
+		- > ▶ fell ——see also fall
+	- Less than two years later, the international price of a barrel of oil /rose above $100 Thursday. The increase followed the Russian invasion of Ukraine. And it came at a time /when the world’s economy is slowly recovering from the COVID-19 pandemic.
+	- Russia and Ukraine together /produce less than two percent of the world’s **gross domestic product** - **the total market value** of both countries’ finished goods and services. But the conflict /has increased existing inflation. This has frightened(v.) investors /and affected everyone from Europe to Asia and Africa.
+		- > ▶ gross domestic product 国内生产总值
+		- > ▶ gross  [ only before noun ] being the total amount of sth before anything is taken away 总的；毛的 /[ only before noun ] ( law 律 ) ( formal ) ( of a crime, etc. 罪行等 ) very obvious and unacceptable 严重的
+		  -> gross income/wage (= before taxes, etc. are taken away) （税前）总收益╱工资
+		  -> a gross violation of human rights 严重侵犯人权
+	- ## Higher fuel prices
+	- Russia is the world’s third-biggest oil producer /and is a major exporter of natural gas. Ukraine’s farms /provide(v.) food for millions of people around the world.
+	- Europe receives about 40 percent of its natural gas from Russia. The price of gas /is now four times higher than it was /at the start of 2021. And Germany, on Tuesday, **suspended(v.) approval of** the Nord Stream 2 **gas pipeline** /as part of Western nations’ **economic sanctions** against Russia.
+		- id:: 6230302e-f432-4071-b031-1c9e1d1a3c53
+		  > ▶ suspend (v.)to officially stop sth for a time; to prevent sth from being active, used, etc. for a time 暂停；中止；使暂停发挥作用（或使用等）
+		- > ▶ Nord  n. 北方，北部
+		- 作为西方国家对俄罗斯经济制裁的一部分，德国暂停了对"北溪2号"天然气管道的批准。
+	- **A mild winter** and **liquefied natural gas** from the United States /have helped ease(v.) some of Europe’s concerns /about **a possible loss** of Russian gas supplies.
+		- > ▶ liquefied  v. （使）液化（liquefy 的过去式及过去分词）
+		- 暖冬和来自美国的液化天然气, 帮助缓解了...
+	- High gas prices, however, **have led to** higher costs /for **home heating fuel** /and cutbacks(n.) by **heavy industrial users**. The yearly **rate of inflation** /also rose to 5.1 percent in January /in the 19 countries that use the euro. That is the highest rate /since record-keeping began for the group in 1997.
+		- > ▶ cutback (n.)~ (in sth): a reduction in sth 削减；缩减；减少
+		- 重工业用户减少使用
+	- ## Reduced wheat export
+	- Ukraine is the world’s fifth-largest **wheat exporter**. `主` The threat to farms(n.) in eastern Ukraine /and exports(n.) through Black Sea ports `谓` could reduce **wheat supplies** /at a time when **food prices** are **at their highest level** since 2011. Some countries are suffering from food shortages.
+		- > ▶ wheat   小麦（植物）；小麦（籽实）
+		- 对乌克兰东部农场, 和通过黑海港口出口的威胁, 可能会减少小麦供应。
+	- **Agriculture expert** Alex Smith /wrote about the threat /in the publication **Foreign Policy** last month. Many countries that depend on Ukraine’s wheat, he wrote, “already face **food insecurity** from ongoing(a.) **political instability** or **outright violence**.” Yemen, for example, imports(v.) 22 percent of its wheat from Ukraine, Libya about 43 percent /and Lebanon about half.
+		- > ▶ ongoing (a.)(ad.) [ usually before noun ] continuing to exist or develop 持续存在的；仍在进行的；不断发展的
+		- > ▶ outright (a.)complete and total 完全的；彻底的；绝对的 /open and direct 公开的；直率的；直截了当的
+		  -> an outright ban/rejection/victory 完全禁止；断然拒绝；彻底胜利
+		  -> There was **outright opposition** to the plan. 该计划遭到公开直接反对。
+		- 许多依赖乌克兰小麦的国家, “已经因为持续的政治不稳定, 或直接的暴力, 而面临粮食不安全”。例如，也门22%的小麦进口自乌克兰，利比亚是约43%，黎巴嫩则是约一半。
+	- ## Inflation
+	- Rising energy and food prices /**will increase pressure on** policymakers and central banks /struggling to control inflation. `主` The London-based research firm Capital Economics `谓` estimated that /the Ukraine crisis **could force**(v.) higher **natural gas** prices /and **send** oil prices **up to** as much as $140 a barrel.
+	- That combination **would add** two percentage points **to** yearly inflation /in the world’s rich countries, Capital Economics said.
+		- > ▶ combination :  two or more things joined or mixed together to form a single unit 结合体；联合体；混合体 / 结合；联合；混合
+		  -> These paints can be used individually or **in combination**. 这些涂料可单独或混合使用。
+	- In the United States, prices of goods, not including energy and food, rose(v.) **at a rate of 7.5 percent** /for the 12 months 后定 ending in January. It was **the highest yearly increase** in 40 years.
+		- 不包括能源和食品在内的商品价格, 在截至1月份的前12个月里, 上涨了7.5%。
+	- On Tuesday, American President Joe Biden announced several new sanctions /against **Russian banks** and **powerful leaders** /for what he called “the beginning of a Russian invasion of Ukraine." Biden also warned Americans, "**As I said** last week, defending freedom /will have costs, for us **as well** /and here at home.”
+		- 美国总统拜登宣布, 对俄罗斯银行和有权势的领导人, 实施几项新的制裁，他称这是“俄罗斯入侵乌克兰的开始”。拜登还警告美国人，“正如我上周所说，捍卫自由将会付出代价，对我们来说也是如此，对我们国内也是如此。”
+	- **As of** Thursday, the American **Automobile Association** said /the national average **gasoline price** in the U.S. /is $3.54 a gallon, about 3.8 liters. **A gallon of gasoline** cost(v.) $2.66 /just one year ago.
+		- > ▶ **As of** : ON, AT, FROM —used to indicate a time or date at which something begins or ends (1)自......起（相当于as from）；(2)在......时候；(3)截至......。
+		- > ▶ gasoline  /ˈɡæsəliːn; ˌɡæsəˈliːn/   = petrol
+		  ->  leaded/unleaded gasoline 含铅╱无铅汽油
+		- > ▶ gallon n. 加仑（液量单位，英制合 4.55 升，美制合 3.79 升）；<非正式>大量液体（gallons of）
+		  加仑又分为英制加仑和美制加仑，两者表示的大小不一样。
+		- > ▶ liter →see **litre** 升 (公制容量单位)
+		- 截至周四，全美汽油均价为每加仑3.54美元，约合3.8升。就在一年前，一加仑汽油的价格是2.66美元。
+	- ## Lower stock prices
+	- The values of stocks, however, dropped(v.) /in most financial markets around the world.
+	- In Russia, the Moscow **stock exchange** /dropped(v.) nearly 45 percent Thursday /following President Vladimir Putin’s announcement of a “military operation” against Ukraine. And the nation’s currency, the ruble, **dropped to** a record low against the American dollar.
+	- `主` **Market indexes** in Europe, Asia and the U.S. `谓` all fell. In the face of international political worries, Michael Taylor, **managing director** at Moody’s Investors Service, warned that /investors may **switch to** safe investments. If that happens, **it could drive up the costs of** borrowing for **riskier businesses**.
+		- > ▶ **managing director** N-COUNT The managing director of a company is the most important working director, and is in charge of the way the company is managed. 总经理
+		- 投资者可能转向安全投资。如果出现这种情况，可能会推高"高风险企业"的借贷成本。
+	- “Chinese **property developers** /**would be particularly exposed to** this risk” /as they **try to deal with** large amounts of foreign debt this year, Taylor said.
+	- Some fear that /financial markets could become riskier /if the U.S. **bans** Russia **from** the worldwide **financial payment network** SWIFT. The network links(v.) thousands of banks /and permits them to exchange(v.) payments around the world.
+	- Such a move **would cut off** oil payments to Russia /which **add up to** 40 percent of the country’s revenue. But it could also hurt U.S. and European companies /that **do business with** Russian companies.
+		- > ▶ add up to 合计达，总计达
+		- > ▶ revenue ( also rev·enues [ pl. ] ) the money that a government receives from taxes or that an organization, etc. receives from its business 财政收入；税收收入；收益
+	- Elina Ribakova is an economist with the Institute of International Finance in Washington, D.C. She said /risk is not limited to Russia.
+	- “There is a risk for global finance /**as much as** there is for Russia,” said Ribakova.
+		- 她表示，风险并不局限于俄罗斯。全球金融面临的风险和俄罗斯一样大。

@@ -19,7 +19,8 @@
 - VOA 慢速英语
 	-
 	- https://learningenglish.voanews.com/
-	- https://learningenglish.voanews.com/z/955?withmediaplayer=1
+	- https://learningenglish.voanews.com/z/3521
+	-
 	- [[001 Scientists Raise(v.) Questions about Future Vaccine Strategy]]
 	- [[002 First Woman Is Reported Cured of HIV]]
 	- [[003 Omicron Increases Worries about ‘Long COVID’]]
@@ -36,7 +37,16 @@
 	- [[014 More Information about Little-Known Venus]]
 	- [[015 Study : Long Periods in Space Can Shrink the Heart]]
 	- [[016 Scientists Use Human Cells to Copy Early Embryo Development]]
--
+	- [[017 New Studies Show Drops in World Insect Population]]
+	- [[018 Western Sanctions Hurting Russia's Economy]]
+	- [[019 The Worldwide Effects of Russia’s Invasion of Ukraine]]
+	- [[020 Research: Raising a Child Costlier in China than in US, Japan]]
+	- [[021 Russia-Ukraine Conflict Affects(v.) Worldwide Economy]]
+	-
+	-
+- ---
+- 美国学生世界历史
+	-
 - ---
 - 牛津书虫
 	-

@@ -1,0 +1,101 @@
+-
+- pure
+  collapsed:: true
+	- Russia’s attack on Ukraine has resulted in strong, international actions aimed at punishing Russia. But restrictions on Russia also put pressure on other countries.
+	- Clay Lowery is an official at the Institute of International Finance, a trade group of banks. “We know there are consequences that we cannot predict," he said.
+	- Most major economies have only limited trade with Russia. For the United States, it is 0.5 percent of total trade. For China, it is around 2.4 percent.
+	- For this reason, Adam Slater, lead economist at Oxford Economics predicts only a 0.2 percent drop in the world’s GDP, or total economic production, this year. He said the effects on the U.S., China and most developing countries should be limited.
+	- However, Russia is a very important supplier of oil, natural gas, and metals. Higher prices on important materials, known as commodities, could cause problems around the world.
+	- Economic restrictions
+	- The United States and other Western nations have targeted Russia with strong sanctions for a major economy. Some Russian banks have been removed from the SWIFT international payment system. High technology exports to Russia have been limited. And Russia’s ability to use its foreign currency reserves, money it uses to pay for exports, has been strongly restricted.
+	- “The world — or most of it anyway — is laying economic siege to Russia,” wrote Carl Weinberg, chief economist at High Frequency Economics.
+	- As a result, the exchange value of Russia’s money, the ruble, dropped to a record low on Monday. Many Russians lined up at banking machines to withdraw money, hurting Russia’s banking system.
+	- The Institute of International Finance in Washington, D.C., expects the Russian economy to shrink by more than 10 percent this year.
+	- Oxford Economics said, based on evidence from earlier wars, the Ukrainian economy could shrink by 50 to 60 percent.
+	- Hard times for Europe
+	- With its dependence on energy from Russia, Europe’s economy is now at great risk.
+	- Natural gas prices increased 20 percent after the war started, but are six times higher than they were at the start of 2021.
+	- High gas prices are feeding inflation, and Europeans are paying more for heating. The result is that households have less money to spend, and hopes for an economic recovery after the COVID-19 pandemic have decreased.
+	- Industries that use natural gas, like fertilizer makers, have to cut production. Farmers are paying more to run machinery and buy fertilizer. Germany’s economy could be facing a recession by the first three months of 2022.
+	- Finding supplies to meet demand
+	- Companies around the world are trying to find enough goods to meet demand as the COVID-19 pandemic eases. This has meant shortages, shipping delays and higher prices.
+	- Disruptions to Russian and Ukrainian industries could delay any return to normal conditions.
+	- Russia and Ukraine together supply 13 percent of the world’s titanium, which is used to make airplanes. The two provide 30 percent of the world’s palladium, which goes into cars, cellphones and dental fillings, said Mark Zandi. He is chief economist at Moody’s Analytics.
+	- Trouble in the neighborhood
+	- The conflict and sanctions will also hurt Russia’s migrant workers from Uzbekistan and Tajikistan. Those workers’ families depend on money sent home from Russia known as remittances.
+	- In 2020, remittances from Russia to Uzbekistan were $3.9 billion and to Kyrgyzstan $2 billion, says the Russian central bank.
+	- Gavin Helf is an expert on Central Asia for the U.S. Institute of Peace. This week, he wrote that the collapse of the labor market in Russia will have a strong effect on Central Asia.
+	- Rising prices
+	- The Ukraine war takes place as the U.S. Federal Reserve and other central banks are dealing with rising inflation.
+	- In January, U.S. consumer prices rose 7.5 percent from a year earlier, the biggest jump since 1982. In Europe, inflation increased to a record 5.8 percent compared with the same time a year earlier for the 19 countries that use the euro as money.
+	- Now, prices could go even higher. Zandi noted that Russia and Ukraine produce 12 percent of the world’s oil and 17 percent of its natural gas.
+	- To combat inflation, the U.S. central bank, or Fed for short, is expected to raise interest rates it controls when it meets in two weeks. The European Central Bank also is slowly withdrawing its pandemic aid efforts.
+	- However, central bankers must weigh the growing risks of inflation against the Ukraine crisis’s effects on the world’s economies.
+- ---
+- def
+	- Russia’s attack on Ukraine **has resulted(v.) in** strong, international actions /aimed at punishing Russia. But restrictions on Russia /**also put pressure on** other countries.
+		- > ▶ result (n.)[ CU ] ~ (of sth) a thing that is caused or produced because of sth else 后果；结果
+		  (v.)**result in sth** : to make sth happen 造成；导致
+		  -> These policies **resulted(v.) in** many elderly people suffering hardship. 这些政策使得许多老人饱受困苦。
+	- Clay Lowery is an official at the Institute of International Finance, **a trade group** of banks. “We know there are consequences /that we cannot predict," he said.
+	- Most major economies **have only limited(a.) trade with** Russia. For the United States, it is 0.5 percent of total trade. For China, it is around 2.4 percent.
+		- 大多数主要经济体, 与俄罗斯的贸易都很有限。
+	- For this reason, Adam Slater, **lead economist** at Oxford Economics predicts /only a 0.2 percent drop in the world’s GDP, or **total economic production**, this year. He said /the effects on the U.S., China and most **developing countries** /should be limited(a.).
+		- > ▶ limited (a.)not very great in amount or extent 有限的
+	- However, Russia is a very important supplier of oil, natural gas, and metals. **Higher prices** on important materials, known as commodities, could **cause problems** around the world.
+		- > ▶ metal 金属
+	- ## Economic restrictions
+	- The United States and other Western nations /**have targeted** Russia **with** strong sanctions for a major economy. Some Russian banks /have been removed from **the SWIFT international payment system**. High technology exports(n.) to Russia /have been limited. And Russia’s ability /to use its **foreign currency reserves**, money /it uses **to pay for exports**, has been strongly restricted.
+	- “The world — or most of it anyway — **is laying** economic siege **to** Russia,” wrote Carl Weinberg, **chief economist** at High Frequency Economics.
+		- > ▶ anyway （纠正或略微改变说过的话）至少 /（转换话题、结束谈话或回到原话题时说）无论如何，反正
+		  -> She works in a bank. She did when I last saw her, **anyway**. 她在银行工作。至少我上次见到她时是这样。
+		- > ▶ lay (v.)[ VN ] ( formal ) to put sb/sth in a particular position or state, especially a difficult or unpleasant one 使处于特定状态（尤指困境）
+		  SYN place
+		  -> to lay a responsibility/burden on sb 把责任╱重担加于某人身上
+		- 首席经济学家写道:“世界——或者说大部分世界上的国家——正在对俄罗斯进行经济围攻。”
+	- As a result, **the exchange value** of Russia’s money, the ruble, **dropped to a record low** on Monday. Many Russians **lined up** at banking machines /to withdraw money, hurting Russia’s banking system.
+		- > ▶ exchange value 汇兑价值, 外汇价值
+		- > ▶ **line up** :to stand in a line or row; to form a queue/line 排成一行；站队；排队（等候） / 组织，安排（活动）；邀集（人做某事）
+		  -> **I've got a lot lined up** this week (= I'm very busy) . 我这周有许多事要做。
+	- The Institute of **International Finance** in Washington, D.C., /**expects**(v.) the Russian economy **to shrink**(v.) by more than 10 percent this year.
+	- Oxford Economics said, based on evidence from earlier wars, the Ukrainian economy could shrink by 50 to 60 percent.
+	- ## Hard times for Europe
+	- With its dependence on energy from Russia, Europe’s economy is now at great risk.
+	- **Natural gas** prices increased 20 percent after the war started, but are six times higher than they were /at the start of 2021.
+	- High gas prices are feeding inflation, and Europeans are paying more for heating. The result is that households have less money to spend, and hopes for an economic recovery after the COVID-19 pandemic have decreased.
+	- Industries that use natural gas, like **fertilizer makers**, have to cut production. Farmers **are paying more** to run(v.) machinery and buy fertilizer. Germany’s economy **could be facing a recession** by the first three months of 2022.
+		- > ▶ fertilizer  [ CU ] a substance added to soil to make plants grow more successfully 肥料
+		- > ▶ recession 经济衰退；经济萎缩 / ( formal ) the movement backwards of sth from a previous position 退后；撤回
+	- ## Finding supplies to meet demand
+	- Companies around the world /are trying to find enough goods /to meet demand /as the COVID-19 pandemic eases. This has meant shortages, **shipping delays** and **higher prices**.
+	- Disruptions to Russian and Ukrainian industries /could delay any return(n.) to normal conditions.
+		- > ▶ disruption N-VAR When there is disruption of an event, system, or process, it is prevented from continuing or operating in a normal way. 妨碍; 扰乱
+	- Russia and Ukraine together /supply 13 percent of the world’s titanium, which is used to make airplanes. The two provide 30 percent of the world’s palladium, which goes into cars, cellphones and **dental fillings**, said Mark Zandi. He is chief economist at Moody’s Analytics.
+		- > ▶ titanium N-UNCOUNT Titanium is a light strong white metal. 钛
+		  是一种银白色的过渡金属. 钛  被认为是一种稀有金属，这是由于在自然界中其存在分散并难于提取。但其相对丰富. 钛的屈服强度比钢铁要高，而它的重量几乎只有同体积的钢铁的一半. 在宇宙火箭和导弹中，就大量用钛代替钢铁。
+		- > ▶ palladium  /pəˈleɪdiəm/   ( symbol Pd ) a chemical element. Palladium is a rare silver-white metal that looks like platinum . 钯（银白色稀有化学元素）
+		  钯是世界上最稀有的贵金属之一，地壳中的含量约为一亿分之一，比黄金要稀少很多。世界上只有俄罗斯和南非等少数国家出产，每年总产量不到黄金的5‰，比铂还稀有。
+		- > ▶ analytics n. [化学][数] 分析学；解析学
+		- dental fillings 牙科填充物
+	- ## Trouble in the neighborhood
+	- The conflict and sanctions /will also hurt Russia’s **migrant workers** from Uzbekistan and Tajikistan. Those workers’ families /**depend on money** sent home from Russia /known as remittances.
+		- > ▶ remittance (n.)[ C ] ( formal ) a sum of money that is sent to sb in order to pay for sth 汇款金额 / the act of sending money to sb in order to pay for sth 汇付；汇款
+		  -> Please return the completed form with your remittance. 请将填好的表格连同汇款寄回。
+		  =>  re-回,向后 + -mitt-送,派 + -ance名词词尾
+	- In 2020, remittances from Russia to Uzbekistan /were $3.9 billion /and to Kyrgyzstan $2 billion, says the Russian central bank.
+		- > ▶ Kyrgyzstan
+		  ![image.png](../assets/image_1647321966950_0.png){:height 82, :width 140}
+	- Gavin Helf is an expert on **Central Asia** for the U.S. Institute of Peace. This week, he wrote that /the collapse of **the labor market** in Russia /**will have a strong effect on** Central Asia.
+	- ## Rising prices
+	- The Ukraine war **takes place** /as _the U.S. Federal Reserve_ and other central banks /are dealing with rising inflation.
+	- In January, U.S. **consumer prices** /rose 7.5 percent /from a year earlier, the biggest jump since 1982. In Europe, inflation **increased to a record** 5.8 percent /**compared with** the same time a year earlier /for the 19 countries /that **use** the euro **as money**.
+		- > ▶ euro  欧元（欧盟中某些国家的货币单位）
+		  ![image.png](../assets/image_1647322245026_0.png){:height 50, :width 94}
+	- Now, prices **could go even higher**. Zandi noted that /Russia and Ukraine produce 12 percent of the world’s oil /and 17 percent of its natural gas.
+	- To combat(v.) inflation, the U.S. central bank, or Fed **for short**, is expected **to raise interest rates** it controls /when it meets in two weeks. The European Central Bank /also is slowly withdrawing its pandemic aid efforts.
+	- However, central bankers must **weigh** the growing risks of inflation **against** the Ukraine crisis’s effects on the world’s economies.
+		- > ▶ for short 简称, 简言之
+		- > ▶ **weigh (v.)~ sth (up) |~ (up) sth (against sth)** to consider sth carefully before making a decision 认真考虑；权衡；斟酌
+		- 为了对抗通胀，美国央行(简称美联储), 预计将在两周后的会议上, 提高其控制的利率。欧洲央行(European Central Bank)也在慢慢撤出对疫情的援助。
+		-
+		-
