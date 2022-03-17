@@ -1,0 +1,96 @@
+title:: 028 What Is the US House of Representatives?
+
+- pure
+  collapsed:: true
+	- Many news stories about the United States government tell about Congress and American lawmakers. The U.S. Congress is the nation’s legislature. It is made of two parts: the Senate and the House of Representatives.
+	- The House of Representatives is called “the House” for short. And sometimes it is called “the People’s House.”
+	- That term was chosen as a nickname because the men who wrote the U.S. Constitution in 1787 set few restrictions on who could serve there. They wanted the House to be as close as possible to everyday Americans.
+	- One of the writers of the Constitution, James Madison, wrote about the House years later. He noted, “The door of this part of the federal government is open to merit of every description, whether native or adoptive, whether young or old, and without regard to poverty or wealth, or to any particular profession of religious faith.”
+	  In other words, House members can be born in the United States or in any other country. They can be as young as 25 years old, or -- as some members have been -- into their 90s. They do not have to be rich. And they do not have to belong to any religion.
+	- However, in reality, for many years only free white men were permitted to serve as lawmakers. Women and other groups had limited legal rights, to say the least. However, as laws changed over time, members of the House also changed.
+	- The website of the U.S. House of Representatives notes, “The House’s first African-American member was elected in 1870. The first Hispanic member took office in 1877, the first woman member in 1917, the first Asian-American member in 1957, and the first African-American woman member in 1969.”
+	- The country’s Constitution-writers also made the terms for House members short, compared to the president and senators – only two years. One reason is so House members would have to stay in close contact with the people who live in the area they represent. Otherwise, voters would soon have a chance to push them out of office.
+	- Speaking of voters…
+	- One of the other central ideas about the House of Representatives is that known as “proportional representation.” The idea was that each member of the House would represent 30,000 U.S. citizens. That situation would enable states with large populations to send more lawmakers to Congress.
+	- But the Constitution-writers of 1787 struggled with how to count a state’s population. At that time, more than 650,000 enslaved people lived in the country. After much debate, the Constitution-writers decided the enslaved population would be only partly counted for legal and tax purposes. The decision is known as the 3/5 compromise.
+	- The first U.S. House of Representatives had 67 members. As the country’s population grew, the number of House members increased – from 105, to 142, and so on. After the approval of constitutional amendments following the Civil War, most formerly enslaved people were fully counted in the state’s population.
+	- The House continued to grow into the 20th century. Finally, in 1929, lawmakers officially limited the total number of House members to 435. Today, each member of the House represents about 700,000 people.
+	- What do members of the House do?
+	- Members of the House, along the senators, develop national laws. They also help voters who live in their districts deal with problems related to the government.
+	- And members of the House have other important jobs. They can investigate people with government ties who are suspected of wrongdoing. For example, members of the House have looked into cases of bribery, corruption, and abuses of power.
+	- In the 1950s, the House Un-American Activities Committee demanded information from private citizens suspected of communist activity. But critics said the committee had gone too far. In time, the Supreme Court limited Congress’ power to investigate issues related to the law, instead of people’s private beliefs.
+	- Over its history, the House has brought impeachment charges against government officials, including presidents, more than 60 times. But only a few officials were removed from office. Of those, some were federal judges accused of being drunk at court.
+	- ‘Power of the purse’ and war powers
+	- Members of Congress also have what some call “the power of the purse.” In other words, they control how the government spends public money.
+	- The House of Representatives website explains that the Constitution-writers wanted to put spending decisions in the hands of the people’s representatives in Congress.
+	- Similarly, the Constitution-writers did not want the chief executive to decide alone whether to take the country to war. They wanted to make war difficult to enter. They also wanted to prevent the president from going to war because of political or personal interests. So they wrote that the Congress had the power to declare war.
+	- But in truth, lawmakers have only officially “declared war” 11 times. The last time was in 1942. Since then, Congress has simply approved the use of military force.
+- ---
+- def
+	- Many news stories /about the United States government /tell about Congress and American lawmakers. The U.S. Congress /is the nation’s legislature. It is made of two parts: the Senate /and the House of Representatives.
+		- ((62316675-ac8a-486b-86cc-90e989eaab69))
+		- > ▶ Senate  [ sing. ] one of the two groups of elected politicians /who make laws in some countries, for example in the US, Australia, Canada and France. The Senate is smaller than the other group /but higher in rank. Many state parliaments in the US /also have a Senate. 参议院（美国、澳大利亚、加拿大、法国等国家的两个立法机构之一；美国许多州议会也设有参议院）
+		  => 来源于拉丁语形容词senex, senis(老的)派生的senat.us(元老院)。 词根词缀： -sen-老 + -ate名词词尾
+	- The House of Representatives /is called “the House” **for short**. And sometimes it is called “the People’s House.”
+		- > ▶ for short 简称, 简言之
+	- That term /was chosen as a nickname /because the men /who wrote the U.S. Constitution in 1787 /**set(v.) few restrictions /on** who could serve there. They wanted the House /to be **as ==close== as possible** ==to== everyday Americans.
+		- 是因为在1787年撰写美国宪法的人, 对谁可以在那里服役, 没有设置什么限制。他们希望众议院尽可能接近普通美国人。
+	- One of the writers of the Constitution, James Madison, wrote about the House /years later. He noted, “The door of this part of the federal government /is open to **merit(n.) of every description**, **whether** native(a.) **or** adoptive(a.), whether young or old, and **without regard to** poverty or wealth, or **to** any particular **profession of** religious faith.”
+		- > ▶ merit N-UNCOUNT If something has merit, it has good or worthwhile qualities. 优点; 价值
+		- > ▶ description [ C ] of some, all, every, etc. ~ of some, etc. type 类型
+		  -> Their money came from trade of some description. 他们的钱是做某种生意赚来的。
+		- > ▶ constitution : the system of laws and basic principles that a state, a country or an organization is governed by 宪法；章程 / the condition of a person's body and how healthy it is 身体素质；体质；体格
+		  -> to have a healthy/strong/weak constitution 体质健康╱强壮╱虚弱
+		- > ▶ native (a.)本地的；当地的 /(n.)a person who was born in a particular country or area 出生于某国（或某地）的人 /本地人；当地人 /土著
+		- > ▶ adoptive (a.)[ usually before noun ] an adoptive parent or family is one that has legally adopted a child 收养的；有收养关系的
+		- > ▶ regard (n.) **~ to/for sb/sth** ( formal ) attention to or thought and care for sb/sth 注意；关注；关心
+		  -> to do sth **with scant/little/no regard for** sb/sth 做事不怎么╱几乎不╱根本不顾及某人╱某事物
+		  -> He was driving **without regard to** speed limits. 他开着车，根本不理会速度限制。
+		  -> **to have/pay/show little regard for** other people's property 不大爱惜别人的财物
+		- > ▶ profession  (n.)~ of sth : a statement about what you believe, feel or think about sth, that is sometimes made publicly 声明；宣称；表白 /（需要专门技能，尤指需要较高教育水平的某一）行业，职业
+		  -> a profession of faith 信仰的表白
+		- 《宪法》的作者之一詹姆斯·麦迪逊(James Madison), 在几年后写下了关于众议院的故事。他指出:“联邦政府的这个部门, 对各种各样只要拥有优点的人才, 都敞开大门，无论他们是本地人还是领养人，是年轻人还是老年人，不论贫富，也不论任何特定的宗教信仰。”
+	- In other words, House members /can be born in the United States /or in any other country. They can be **as young as** 25 years old, or -- **as** some members have been -- into their 90s. They do not have to be rich. And they do not have to belong to any religion.
+	- However, in reality, for many years /only free white men /were permitted to serve as lawmakers. Women and other groups /had limited legal rights, **to say the least**.
+		- > ▶ to say the least 退一步说, 最起码, 至少可以说
+		- > ▶ least : ( usually **the least** ) smallest in size, amount, degree, etc. 最小的；最少的；程度最轻的
+		  -> **She never had the least idea** what to do about it. 这事怎么办，她一点主意都没有。
+	- However, as laws changed /over time, members of the House /also changed.
+	- The website of the U.S. House of Representatives notes, “The House’s first African-American member /was elected in 1870. The first Hispanic member /took office in 1877, the first woman member /in 1917, the first Asian-American member /in 1957, and the first African-American woman member /in 1969.”
+		- ((62294d13-e2f9-4257-b69d-8b789436ace4))
+	- The country’s Constitution-writers /also **made(v.) the terms** for House members **short**, **compared to** the president and senators – only two years. One reason is /so House members /would have to stay **in close contact with** the people /who live in the area they represent. Otherwise, voters would soon have a chance /to push them out of office.
+		- 与总统和参议员相比，美国宪法制定者, 还缩短了众议院议员的任期——只有两年。一个原因是，众议院成员必须与他们所代表地区的居民保持密切联系。否则，选民们很快就有机会把他们赶下台。
+	- ## Speaking of voters… 说到选民
+	- `主` One of the other **central ideas** /about the House of Representatives /`系` is that /known as “**proportional representation**.” The idea was that /each member of the House /would represent 30,000 U.S. citizens. That situation /would enable states with large populations /**to send** more lawmakers **to** Congress.
+		- > ▶ proportional (a.)~ (to sth) : of an appropriate size, amount or degree /in comparison with sth 相称的；成比例的；均衡的
+		  -> Salary is proportional to years of experience. 薪金视资历而定。
+		  -> **to be directly/inversely proportional(a.) to sth** 与某事物成正比╱反比
+		- 关于众议院的另一个中心思想, 是所谓的“比例代表制”。
+	- But the Constitution-writers of 1787 /struggled with how to count a state’s population. At that time, more than 650,000 enslaved people /lived in the country. After much debate, the Constitution-writers decided /the enslaved population would **be only partly counted for** legal and tax purposes. The decision is known as **the 3/5 compromise**.
+		- > ▶ enslave (v.)to make sb a slave 使成为奴隶；奴役 /**~ sb/sth (to sth)** ( formal ) to make sb/sth completely depend on sth so that they cannot manage without it 使受控制；征服；制伏
+		- 但是1787年的宪法制定者, 却在如何计算一个州的人口上, 遇到了困难。当时，超过65万名奴隶生活在这个国家。经过多次辩论，宪法制定者决定，出于法律和税收目的，奴隶人口只会被部分计算。这一决定被称为3/5妥协。
+	- The first U.S. House of Representatives /had 67 members. As the country’s population grew, the number of House members /increased – from 105, to 142, and so on. After the approval of **constitutional amendments** /following the Civil War, most formerly enslaved people /were fully counted /in the state’s population.
+		- 在南北战争后通过"宪法修正案"后，大多数之前的奴隶人口, 都被计入了该州的人口。
+	- The House /continued to grow into the 20th century. Finally, in 1929, lawmakers officially **limited** the total number of House members **to** 435. Today, each member of the House /represents about 700,000 people.
+	- ## What do members of the House do?
+	- Members of the House, along the senators, develop(v.) national laws. They also help voters /who live in their districts /deal with problems /related to the government.
+	- And members of the House /have other important jobs. They can investigate people with government ties /who **are suspected(a.) of** wrongdoing. For example, members of the House **have looked into** cases of bribery, corruption, and abuses of power.
+		- > ▶ wrongdoing (n.)[ UC ] ( formal ) illegal or dishonest behaviour 不法行为；坏事；作恶；欺骗行径
+		- > ▶ **look ˈinto sth** : to examine sth 调查；审查
+		  -> A working party has been set up /to look into the problem. 已成立一个工作小组来调查这个问题。
+		- 众议院成员和参议员一起制定国家法律。他们还帮助选区内的选民处理与政府有关的问题。
+		- 众议院成员还有其他重要的工作。他们可以调查与政府有关系的人，这些人有不法行为的嫌疑。例如，众议院议员调查了"贿赂、腐败, 和滥用权力"的案件。
+	- In the 1950s, the House _Un-American Activities Committee_ /demanded information from private citizens /**suspected of** communist activity. But critics said /the committee **had gone too far**. In time, the Supreme Court /**limited** Congress’ power **to** investigate issues /related to the law, **instead of** people’s private beliefs.
+		- > ▶ communist (n.)a person who believes in or supports communism 共产主义者；共产主义的支持者
+		- 众议院"非美裔活动委员会"(House Un-American Activities Committee)要求怀疑参与共产主义活动的普通公民, 提供信息。但批评人士表示，该委员会做得太过头了。最后，最高法院限制了国会的权力只能用于调查"与法律相关的问题"，而不是去调查"人们的私人信仰"。
+	- Over its history, the House /has brought **impeachment charges**(n.) /against government officials, including presidents, more than 60 times. But only a few officials /were removed from office. Of those, some were federal judges /**accused(v.) of** being drunk at court.
+		- > ▶ impeachment  N-VAR The impeachment of a senior official is the process of charging them with a crime that makes them unfit for office. 弹劾; 控告
+		  => N-VAR The impeachment of a senior official is the process of charging them with a crime that makes them unfit for office. 弹劾; 控告
+		- 在其历史上，众议院已经对包括总统在内的政府官员, 提出过60多次弹劾指控。但只有少数官员被免职。其中一些对象是联邦法官, 被指控在法庭上醉酒。
+	- ## ‘Power of the purse’ and war powers
+	- Members of Congress /also have what some call “the power of the purse.” In other words, they control how the government spends public money.
+		- > ▶ purse  钱包，皮夹子（尤指女用的）
+	- The House of Representatives website /explains that /the Constitution-writers /wanted **to put** spending decisions /**in the hands of** the people’s representatives in Congress.
+	- Similarly, the Constitution-writers /did not want **the chief executive** /to decide alone /whether **to take the country to war**. They wanted **to make war /difficult to enter**. They also wanted /**to prevent** the president **from** going to war /because of political or personal interests. So they wrote that /the Congress had the power /to declare war.
+	- But in truth, lawmakers **have only officially “declared(v.) war”** 11 times. The last time was in 1942. Since then, Congress has simply approved(v.) the use of military force.
+		- 但事实上，议员们只正式“宣战”了11次。上一次是在1942年。从那以后，国会只是批准使用武力。

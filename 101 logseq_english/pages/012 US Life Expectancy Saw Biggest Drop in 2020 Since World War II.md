@@ -37,7 +37,8 @@
 	- More than 3.3 million Americans died last year. **That is far more than** any other year in U.S. history. COVID-19 **made up** about 11 percent of those deaths.
 	- For many years, U.S. **life expectancy** was rising. In 2019, the estimate was 78 years, 10 months. Last year, the CDC said, it dropped to about 77 years, 4 months.
 	- The decrease among **Black Americans** and **Hispanic(a.) Americans** was greater /than the national average. The number for both populations /dropped by three years.
-		- > ▶ Hispanic (a.)(n.)of or connected with Spain or Spanish-speaking countries, especially those of Latin America 西班牙的；西班牙语国家（尤指拉丁美洲）的 /母语为西班牙语的人（尤指住在美国或加拿大的拉丁美洲人）
+		- id:: 62294d13-e2f9-4257-b69d-8b789436ace4
+		  > ▶ Hispanic (a.)(n.)of or connected with Spain or Spanish-speaking countries, especially those of Latin America 西班牙的；西班牙语国家（尤指拉丁美洲）的 /母语为西班牙语的人（尤指住在美国或加拿大的拉丁美洲人）
 		-
 	- Life expectancy among Black Americans /**has not fallen so much** in one year /since the 1930s, during **the Great Depression**. Black life expectancy **dropped** last year **to** 71 years and 10 months. It has not been that low /since 2000.
 	- Hispanic Americans have a longer life expectancy **than** white or Black Americans. Health officials only started measuring Hispanic life expectancy 15 years ago. `主` The three-year drop 后定 measured in 2020 `系` is the largest one-year decrease **on record**.

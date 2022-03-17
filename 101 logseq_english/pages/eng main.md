@@ -19,7 +19,9 @@
 - VOA 慢速英语
 	-
 	- https://learningenglish.voanews.com/
+	- https://learningenglish.voanews.com/z/4456
 	- https://learningenglish.voanews.com/z/3521
+	- 高级 https://learningenglish.voanews.com/p/6353.html
 	-
 	- [[001 Scientists Raise(v.) Questions about Future Vaccine Strategy]]
 	- [[002 First Woman Is Reported Cured of HIV]]
@@ -49,8 +51,28 @@
 	- [[024 Voting Rights Act, 56 Years Later, Is in Danger]]
 	- [[025 News Agencies Say Reporters, Activists Targeted by Spyware]]
 	- [[026 Law Enforcement Struggles to Find Officers Since Killing of Floyd]]
-	-
-	-
+	- [[027 Discussing Moral Issues: Important Structures and Terms]]
+	- ---
+	- U.S. Congress
+	  heading:: true
+		- [[028 What Is the US House of Representatives?]]
+		- [[029 What Is the US Senate?]]
+		- [[030 How Laws Are Made in the US]]
+		- [[031 What Is the US Capitol Building?]]
+		- [[032 United States Congress Explained]]
+		- [[033 Built, Burned, Bakery: A Short History of the US Capitol Building]]
+	- ---
+	- U.S. Supreme Court
+	  heading:: true
+		- [[034 The Rise of the US Supreme Court]]
+		- [[035 How the Supreme Court Makes Decisions]]
+		-
+	- ---
+	- America's Presidents
+	  heading:: true
+		- https://learningenglish.voanews.com/p/6353.html
+		-
+-
 - ---
 - 美国学生世界历史
 	-

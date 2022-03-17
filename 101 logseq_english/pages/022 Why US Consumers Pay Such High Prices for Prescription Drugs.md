@@ -49,7 +49,8 @@
 		- 美国国会的民主党议员, 在拜登总统提出的"气候和社会支出法案"之外，又提出了一项新法案。新法案将允许联邦医疗保险, 与制药公司, 就一些处方药的成本进行谈判。
 	- Medicare is **the federal government’s health care program** for Americans over 65 years old.
 	- Americans **pay higher prices for** prescription medications /**than** people in almost any other developed country. For many years, **politicians** and **health care representatives**(n.) /**have struggled** without success /**to change the system**. If passed, the proposal **would bring a small improvement to** the situation /for older Americans.
-		- > ▶ politician 从政者；政治家
+		- id:: 62313b00-775d-416d-9414-a9d60cd66f76
+		  > ▶ politician 从政者；政治家
 		- > ▶ representative (n.)a person who has been chosen to speak or vote for sb else or on behalf of a group 代表 /(a.)**~ (of sb/sth)** typical of a particular group of people 典型的；有代表性的
 		  -> **Is** a questionnaire answered by 500 people /**truly representative(a.) of** the population as a whole? 由500人参加的问卷调查能真正代表所有民众吗？
 		- 美国人支付的处方药价格, 几乎比其他任何发达国家的人都要高。多年来，政客和医疗保健代表, 一直在努力改变这一体系，但没有成功。如果该提案获得通过，将会给美国老年人的处境带来些许改善。

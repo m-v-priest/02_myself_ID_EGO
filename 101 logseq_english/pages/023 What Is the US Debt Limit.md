@@ -91,7 +91,8 @@
 		  ![image.png](../assets/image_1647404623221_0.png){:height 113, :width 106}
 		- > ▶ guarantee (v.)to promise to do sth; to promise sth will happen 保证；担保；保障
 		  ▶  **be guaranˈteed to do sth** : to be certain to have a particular result 肯定会；必定会
-		- > ▶ legislature ( formal ) a group of people who have the power to make and change laws 立法机关
+		- id:: 62316675-ac8a-486b-86cc-90e989eaab69
+		  > ▶ legislature ( formal ) a group of people who have the power to make and change laws 立法机关
 		- 提出了一项结束债务上限的议案。然而，该法案在目前处于分裂状态的立法机关, 无法保证一定会获得通过。
 	- Late on Wednesday, **Senate Republican leader** Mitch McConnell /told Democrats /he would permit **an emergency debt limit extension** /into December /to avoid a default. If the offer is accepted, the U.S. will have to deal with the debt limit again /by the end of the year.
 		- 他将允许将紧急债务上限延长至12月，以避免违约。
