@@ -1,0 +1,43 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="323" viewBox="0 0 323 135" height="135">
+    <defs/>
+    <g transform="translate(-396.00,-283.00)">
+        <g id="shape1" transform="translate(397.00,284.00)">
+            <path fill="#cacaca" d="M.0,.0L73.5,.0L73.5,54.0L.0,54.0L.0,.0z" stroke="#999999" fill-rule="nonzero"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="32.5" x="19.3">A方法</tspan>
+            </text>
+        </g>
+        <g id="shape2" transform="translate(644.50,284.00)">
+            <path fill="#cacaca" d="M.0,.0L73.5,.0L73.5,54.0L.0,54.0L.0,.0z" stroke="#999999" fill-rule="nonzero"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="23.0" x="15.8">X1目标</tspan>
+                <tspan y="42.0" x="13.3">(期望值)</tspan>
+            </text>
+        </g>
+        <g id="shape3" transform="translate(524.51,284.00)">
+            <path fill="none" d="M.0,.0L73.5,.0L73.5,54.0L.0,54.0L.0,.0z" stroke="#999999"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="23.0" x="18.8">现状x'</tspan>
+                <tspan y="42.0" x="6.8">(表面问题)</tspan>
+            </text>
+        </g>
+        <g id="shape4" transform="translate(470.50,316.18)">
+            <path fill="none" d="M.0,.0L48.0,.0" stroke="#191919"/>
+            <path fill="#191919" d="M48.0,-3.0L54.0,.0L48.0,3.0L48.0,-3.0" stroke-width="1" stroke="#191919" stroke-linecap="round"/>
+        </g>
+        <g id="shape5" transform="translate(598.01,317.53)">
+            <path fill="none" d="M.0,.0L40.5,.0" stroke="#191919"/>
+            <path fill="#191919" d="M40.5,-3.0L46.5,.0L40.5,3.0L40.5,-3.0" stroke-width="1" stroke="#191919" stroke-linecap="round"/>
+        </g>
+        <g id="shape6" transform="translate(455.50,376.85)">
+            <path fill="#cacaca" d="M.0,.0L73.5,.0L73.5,40.0L.0,40.0L.0,.0z" stroke="#999999" fill-rule="nonzero"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="25.5" x="17.3">变量 α</tspan>
+            </text>
+        </g>
+        <g id="shape7" transform="translate(494.26,376.85)">
+            <path fill="none" d="M.0,.0L61.8,-35.8" stroke="#191919"/>
+            <path fill="#191919" d="M60.3,-38.4L67.0,-38.9L63.3,-33.2L60.3,-38.4" stroke-width="1" stroke="#191919" stroke-linecap="round"/>
+        </g>
+    </g>
+</svg>
