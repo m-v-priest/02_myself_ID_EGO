@@ -1,0 +1,60 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="265" width="313" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 313 265">
+    <defs/>
+    <g transform="translate(-525.00,-226.00)">
+        <g id="shape1" transform="translate(605.00,454.00)">
+            <path fill="none" d="M.0,.0L183.0,.0" stroke="#191919"/>
+            <path fill="#191919" d="M183.0,-3.0L189.0,.0L183.0,3.0L183.0,-3.0" stroke="#191919" stroke-width="1" stroke-linecap="round"/>
+        </g>
+        <g id="shape2" transform="matrix(0.00,-1.00,1.00,0.00,605.0,454.0)">
+            <path fill="none" d="M.0,.0L183.0,.0" stroke="#191919"/>
+            <path fill="#191919" d="M183.0,-3.0L189.0,.0L183.0,3.0L183.0,-3.0" stroke="#191919" stroke-width="1" stroke-linecap="round"/>
+        </g>
+        <path fill="none" id="shape3" d="M.0,.0L180.0,.0" stroke="#191919" transform="translate(609.00,359.00)"/>
+        <path fill="none" id="shape4" d="M.0,.0L189.0,.0" stroke="#191919" transform="matrix(0.00,1.00,-1.00,0.00,699.0,265.0)"/>
+        <g id="shape5" transform="translate(661.00,462.50)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="13.5" y="15.0">紧急程度</tspan>
+            </text>
+        </g>
+        <g id="shape6" transform="translate(526.00,341.50)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="13.5" y="23.0">重要程度</tspan>
+            </text>
+        </g>
+        <g id="shape7" transform="translate(564.00,454.50)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="29.0" y="23.0">low</tspan>
+            </text>
+        </g>
+        <g id="shape8" transform="translate(564.00,227.00)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="26.0" y="23.0">high</tspan>
+            </text>
+        </g>
+        <g id="shape9" transform="translate(758.00,454.50)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="26.0" y="23.0">high</tspan>
+            </text>
+        </g>
+        <g id="shape10" transform="translate(612.50,390.00)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="26.5" y="23.0">放弃</tspan>
+            </text>
+        </g>
+        <g id="shape11" transform="translate(612.50,286.00)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="7.0" y="23.0">列入计划中</tspan>
+            </text>
+        </g>
+        <g id="shape12" transform="translate(709.00,390.00)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="7.0" y="23.0">授权让人做</tspan>
+            </text>
+        </g>
+        <g id="shape13" transform="translate(709.00,286.00)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="20.0" y="23.0">马上做</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

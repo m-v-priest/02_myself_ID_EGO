@@ -1,0 +1,69 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="226" width="370" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 370 226">
+    <defs/>
+    <g transform="translate(-538.00,-650.50)">
+        <path fill="none" id="shape1" d="M.0,.0L203.9,.0" stroke="#191919" transform="translate(627.82,784.00)"/>
+        <path fill="none" id="shape2" d="M.0,.0L189.0,.0" stroke="#191919" transform="matrix(-0.00,1.00,-1.00,-0.00,728.0,685.0)"/>
+        <g id="shape3" transform="translate(539.00,730.00)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="13.5" y="23.0">游戏环境</tspan>
+            </text>
+        </g>
+        <g id="shape4" transform="translate(625.50,651.50)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="26.5" y="23.0">当前</tspan>
+            </text>
+        </g>
+        <g id="shape5" transform="translate(539.00,796.00)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="26.5" y="23.0">玩家</tspan>
+            </text>
+        </g>
+        <g id="shape6" transform="translate(730.00,651.50)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="26.5" y="23.0">未来</tspan>
+            </text>
+        </g>
+        <g id="shape7" transform="translate(627.82,686.50)">
+            <path fill="none" d="M.0,.0L199.5,.0" stroke="#191919"/>
+            <path fill="#191919" d="M203.9,.0L198.7,-3.0C199.2,-2.1,199.5,-1.1,199.5,.0C199.5,1.1,199.2,2.1,198.7,3.0L203.9,.0" stroke="#191919" stroke-width="1" stroke-linecap="round"/>
+        </g>
+        <path fill="none" id="shape8" d="M.0,.0L189.0,.0" stroke="#191919" transform="matrix(-0.00,1.00,-1.00,-0.00,627.1,686.0)"/>
+        <g id="shape9" transform="translate(631.00,688.50)">
+            <circle cy="17.8" cx="17.0" fill="#191919" r="3.0"/>
+            <circle cy="36.8" cx="17.0" fill="#191919" r="3.0"/>
+            <circle cy="55.8" cx="17.0" fill="#191919" r="3.0"/>
+            <circle cy="74.8" cx="17.0" fill="#191919" r="3.0"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="24.3" y="23.3">商业模式</tspan>
+                <tspan x="24.3" y="42.3">技术壁垒</tspan>
+                <tspan x="24.3" y="61.3">盈利情况</tspan>
+                <tspan x="24.3" y="80.3">政策限制</tspan>
+            </text>
+        </g>
+        <g id="shape10" transform="translate(709.00,732.00)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="38.5" y="23.0">颠覆威胁/机遇</tspan>
+            </text>
+        </g>
+        <g id="shape11" transform="translate(631.00,789.50)">
+            <circle cy="22.5" cx="17.0" fill="#191919" r="3.0"/>
+            <circle cy="41.5" cx="17.0" fill="#191919" r="3.0"/>
+            <circle cy="60.5" cx="17.0" fill="#191919" r="3.0"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="24.3" y="28.0">群雄逐鹿</tspan>
+                <tspan x="24.3" y="47.0">头部玩家</tspan>
+                <tspan x="24.3" y="66.0">我自己</tspan>
+            </text>
+        </g>
+        <g id="shape12" transform="translate(690.00,813.25)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="61.0" y="23.0">外来者</tspan>
+            </text>
+        </g>
+        <g id="shape13" transform="translate(828.00,669.00)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="20.0" y="23.0">时间轴</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

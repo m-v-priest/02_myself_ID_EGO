@@ -41,9 +41,9 @@
  {:block/name "dir 200. 战略",
   :block/created-at 1643418351724,
   :block/updated-at 1643421262157}
- {:block/name "dir 21. 思考,判断,行动,策略",
+ {:block/name "dir 21. 思考,判断,行动,策略; 效率阅读,快速读书",
   :block/created-at 1643001404762,
-  :block/updated-at 1643252481699}
+  :block/updated-at 1648171078728}
  {:block/name "dir 22. 人生,政治",
   :block/created-at 1643001183990,
   :block/updated-at 1644567879525}
@@ -425,6 +425,12 @@
  {:block/name "mar 14th, 2022",
   :block/created-at 1647219484519,
   :block/updated-at 1647219484519}
+ {:block/name "mar 18th, 2022",
+  :block/created-at 1647565163696,
+  :block/updated-at 1647565163696}
+ {:block/name "mar 25th, 2022",
+  :block/created-at 1648170824628,
+  :block/updated-at 1648170824628}
  {:block/name "now",
   :block/created-at 1642224014410,
   :block/updated-at 1642224014410}
@@ -729,5 +735,11 @@
   :block/created-at 1646295200464,
   :block/updated-at 1646295200464}
  {:block/name "逐渐释放信息给观众",
-  :block/created-at 1644651248950, 
-  :block/updated-at 1644651249008}]
+  :block/created-at 1644651248950,
+  :block/updated-at 1644651249008}
+ {:block/name "麦肯锡7步程序法",
+  :block/created-at 1648170831777,
+  :block/updated-at 1648170831777}
+ {:block/name "麦肯锡等_问题解决方法论_",
+  :block/created-at 1648171078727, 
+  :block/updated-at 1648171084592}]

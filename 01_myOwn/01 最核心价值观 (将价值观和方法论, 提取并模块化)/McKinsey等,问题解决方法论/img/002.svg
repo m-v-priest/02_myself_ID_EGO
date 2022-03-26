@@ -1,0 +1,88 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="313" width="1273" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1273 313">
+    <defs/>
+    <g transform="translate(-479.26,-240.55)">
+        <g id="shape1" transform="translate(480.76,368.85)">
+            <path fill="#3f5cb8" d="M4.0,.0L131.0,.0C133.2,.0,135.0,1.8,135.0,4.0L135.0,52.0C135.0,54.2,133.2,56.0,131.0,56.0L4.0,56.0C1.8,56.0,.0,54.2,.0,52.0L.0,4.0C.0,1.8,1.8,.0,4.0,.0z" stroke="#3f5cb8" fill-rule="nonzero" stroke-width="3"/>
+            <text xml:space="preserve" style="fill:#ffffff;font-family:Tahoma;font-size:14.00pt">
+                <tspan x="7.8" y="37.0">如何提高ROCE</tspan>
+            </text>
+        </g>
+        <g id="shape2" transform="translate(678.76,265.40)">
+            <path fill="#eaebf1" d="M4.0,.0L83.0,.0C85.2,.0,87.0,1.8,87.0,4.0L87.0,38.0C87.0,40.2,85.2,42.0,83.0,42.0L4.0,42.0C1.8,42.0,.0,40.2,.0,38.0L.0,4.0C.0,1.8,1.8,.0,4.0,.0z" stroke="#eaebf1" fill-rule="nonzero"/>
+            <text xml:space="preserve" style="fill:#303030;font-family:Microsoft YaHei;font-size:12.00pt">
+                <tspan x="22.8" y="27.5">↑ 利润</tspan>
+            </text>
+        </g>
+        <g id="shape3" transform="translate(790.76,241.55)">
+            <path fill="none" d="M.0,30.5L417.0,30.5" stroke="#696969"/>
+            <text xml:space="preserve" style="fill:#454545;font-family:Tahoma;font-size:10.00pt">
+                <tspan x="12.5" y="21.3">↑ 收入 = 销量 * 价格 * 产品附加值 * 品牌商誉 * 研发高毛利商品 ...</tspan>
+            </text>
+        </g>
+        <g id="shape4" transform="translate(678.76,437.20)">
+            <path fill="#eaebf1" d="M4.0,.0L115.0,.0C117.2,.0,119.0,1.8,119.0,4.0L119.0,38.0C119.0,40.2,117.2,42.0,115.0,42.0L4.0,42.0C1.8,42.0,.0,40.2,.0,38.0L.0,4.0C.0,1.8,1.8,.0,4.0,.0z" stroke="#eaebf1" fill-rule="nonzero"/>
+            <text xml:space="preserve" style="fill:#303030;font-family:Microsoft YaHei;font-size:12.00pt">
+                <tspan x="22.8" y="27.5">↓ 资本投入</tspan>
+            </text>
+        </g>
+        <g id="shape5" transform="translate(790.76,280.75)">
+            <path fill="none" d="M.0,50.5L357.0,50.5" stroke="#696969"/>
+            <text xml:space="preserve" style="fill:#454545;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="80.5" y="21.3">↓ 成本 = 产业链上的各个环节支出</tspan>
+                <tspan x="12.5" y="40.3">= 原材料 + 研发 + 生产成本 + 营销费用 + 管理成本 + ...</tspan>
+            </text>
+        </g>
+        <g id="shape6" transform="translate(822.76,364.25)">
+            <path fill="none" d="M.0,31.5L86.0,31.5" stroke="#696969"/>
+            <text xml:space="preserve" style="fill:#454545;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="12.5" y="21.3">↓ 固定资产</tspan>
+            </text>
+        </g>
+        <g id="shape7" transform="translate(822.76,462.55)">
+            <path fill="none" d="M.0,31.5L239.0,31.5" stroke="#696969"/>
+            <text xml:space="preserve" style="fill:#454545;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="11.5" y="21.3">↑ 运营资本 =↑ 流动资产－↓ 流动负债</tspan>
+            </text>
+        </g>
+        <g id="shape8" transform="translate(1086.76,423.45)">
+            <path fill="none" d="M.0,31.5L86.0,31.5" stroke="#696969"/>
+            <text xml:space="preserve" style="fill:#454545;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="12.5" y="21.3">↑ 流动资产</tspan>
+            </text>
+        </g>
+        <g id="shape9" transform="translate(1086.76,501.65)">
+            <path fill="none" d="M.0,31.5L150.0,31.5" stroke="#696969"/>
+            <text xml:space="preserve" style="fill:#454545;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="12.5" y="21.3">↓ 流动负债 (短期融资)</tspan>
+            </text>
+        </g>
+        <g id="shape10" transform="translate(1197.76,404.45)">
+            <path fill="none" d="M.0,69.5L362.0,69.5" stroke="#696969"/>
+            <text xml:space="preserve" style="fill:#454545;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="81.0" y="21.3">指可以在一年内, 变现或运用的资产</tspan>
+                <tspan x="12.5" y="40.3">= 货币资金、证券投资、应收票据、应收账款、预付费用、</tspan>
+                <tspan x="71.5" y="59.3">存货和其它可以迅速变现的流动性资产</tspan>
+            </text>
+        </g>
+        <g id="shape11" transform="translate(1261.76,482.65)">
+            <path fill="none" d="M.0,69.5L232.0,69.5" stroke="#696969"/>
+            <text xml:space="preserve" style="fill:#454545;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="35.5" y="21.3">指需要在一年内, 偿还的债务</tspan>
+                <tspan x="12.5" y="40.3">= 短期借款、应付票据、应付账款、</tspan>
+                <tspan x="16.0" y="59.3">应付工资、应付税金, 及未交利润等</tspan>
+            </text>
+        </g>
+        <g id="shape12" transform="translate(1584.76,423.45)">
+            <path fill="none" d="M.0,31.5L166.0,31.5" stroke="#696969"/>
+            <text xml:space="preserve" style="fill:#454545;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="12.5" y="21.3">延长对供应商付钱的账期</tspan>
+            </text>
+        </g>
+        <g id="shape13" transform="translate(1518.76,501.65)">
+            <path fill="none" d="M.0,31.5L199.0,31.5" stroke="#696969"/>
+            <text xml:space="preserve" style="fill:#454545;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="12.5" y="21.3">采用订单式采购, 减少库存周期</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,75 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="211" width="527" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 527 211">
+    <defs/>
+    <g transform="translate(-422.48,-562.00)">
+        <g id="shape1" transform="translate(869.00,605.00)">
+            <path fill="none" d="M.0,.0L60.0,.0L60.0,54.0L.0,54.0L.0,.0z" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="10.5" y="23.0">子问题</tspan>
+                <tspan x="13.0" y="42.0">(变量)</tspan>
+            </text>
+        </g>
+        <g id="shape2" transform="translate(898.00,605.00)">
+            <path fill="none" d="M.0,.0L.0,-32.0" stroke="#191919"/>
+            <path fill="#191919" d="M-3.0,-32.0L.0,-38.0L3.0,-32.0L-3.0,-32.0" stroke="#191919" stroke-width="1" stroke-linecap="round"/>
+        </g>
+        <g id="shape3" transform="translate(849.98,690.00)">
+            <path fill="none" d="M.0,.0L98.0,.0L98.0,54.0L.0,54.0L.0,.0z" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="16.5" y="23.0">提出假设的</tspan>
+                <tspan x="23.0" y="42.0">解决方案</tspan>
+            </text>
+        </g>
+        <g id="shape4" transform="translate(901.55,690.00)">
+            <path fill="none" d="M.0,.0L.0,-15.0L-0.0,-15.0L-0.0,-25.0" stroke="#191919"/>
+            <path fill="#191919" d="M-3.0,-25.0L-0.0,-31.0L3.0,-25.0L-3.0,-25.0" stroke="#191919" stroke-width="1" stroke-linecap="round"/>
+        </g>
+        <g id="shape5" transform="translate(831.00,702.50)">
+            <path fill="#ffffff" d="M.0,14.5C.0,6.5,6.5,.0,14.5,.0C22.5,.0,29.0,6.5,29.0,14.5C29.0,22.5,22.5,29.0,14.5,29.0C6.5,29.0,.0,22.5,.0,14.5z" stroke="#323232" fill-rule="nonzero"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="10.5" y="20.0">1</tspan>
+            </text>
+        </g>
+        <g id="shape6" transform="translate(661.00,678.15)">
+            <path fill="none" d="M.0,.0L98.0,.0L98.0,73.0L.0,73.0L.0,.0z" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="6.5" y="23.0">用数据调查, 来</tspan>
+                <tspan x="7.0" y="42.0">证明/证伪你的</tspan>
+                <tspan x="10.0" y="61.0">假设解决方案</tspan>
+            </text>
+        </g>
+        <g id="shape7" transform="translate(759.04,717.50)">
+            <path fill="none" d="M.0,.0L66.0,.0" stroke="#191919"/>
+            <path fill="#191919" d="M66.0,-3.0L72.0,.0L66.0,3.0L66.0,-3.0" stroke="#191919" stroke-width="1" stroke-linecap="round"/>
+        </g>
+        <g id="shape8" transform="translate(695.52,651.00)">
+            <path fill="#ffffff" d="M.0,14.5C.0,6.5,6.5,.0,14.5,.0C22.5,.0,29.0,6.5,29.0,14.5C29.0,22.5,22.5,29.0,14.5,29.0C6.5,29.0,.0,22.5,.0,14.5z" stroke="#323232" fill-rule="nonzero"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="10.5" y="20.0">2</tspan>
+            </text>
+        </g>
+        <g id="shape9" transform="translate(423.48,657.00)">
+            <path fill="none" d="M.0,.0L173.0,.0L173.0,115.3L.0,115.3L.0,.0z" stroke="#323232"/>
+            <circle cy="39.0" cx="16.8" fill="#191919" r="3.0"/>
+            <circle cy="58.0" cx="16.8" fill="#191919" r="3.0"/>
+            <circle cy="77.0" cx="16.8" fill="#191919" r="3.0"/>
+            <circle cy="96.0" cx="16.8" fill="#191919" r="3.0"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="4.0" y="25.5">数据的来源可包括: </tspan>
+                <tspan x="24.0" y="44.5">市场调查</tspan>
+                <tspan x="24.0" y="63.5">公司财务报表</tspan>
+                <tspan x="24.0" y="82.5">第三方的行业分析报告</tspan>
+                <tspan x="24.0" y="101.5">相关人员访谈等</tspan>
+            </text>
+        </g>
+        <g id="shape10" transform="translate(596.52,715.00)">
+            <path fill="none" d="M.0,.0L32.5,.0L32.5,-0.1L58.5,-0.1" stroke="#191919"/>
+            <path fill="#191919" d="M58.5,-3.1L64.5,-0.1L58.5,2.9L58.5,-3.1" stroke="#191919" stroke-width="1" stroke-linecap="round"/>
+        </g>
+        <g id="shape11" transform="translate(495.50,630.00)">
+            <path fill="#ffffff" d="M.0,14.5C.0,6.5,6.5,.0,14.5,.0C22.5,.0,29.0,6.5,29.0,14.5C29.0,22.5,22.5,29.0,14.5,29.0C6.5,29.0,.0,22.5,.0,14.5z" stroke="#323232" fill-rule="nonzero"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="10.5" y="20.0">3</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
