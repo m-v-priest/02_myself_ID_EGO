@@ -136,7 +136,8 @@ title:: 001 Scientists Raise(v.) Questions about Future Vaccine Strategy
 - ## Issues(n.) with boosters
 - In some countries, people are getting a third shot, and in some cases, a fourth shot, to fight against **decreased immunity** and new variants. These shots are sometimes called boosters.
 	- def
-		- > ▶ issue (n.)[ C ] an important topic that people are discussing or arguing about 重要议题；争论的问题 /（有关某事的）问题，担忧
+		- id:: 621c33b4-57a2-411e-b4fd-eb48600b3879
+		  > ▶ issue (n.)[ C ] an important topic that people are discussing or arguing about 重要议题；争论的问题 /（有关某事的）问题，担忧
 		  -> **Money is not an issue** . 钱不是问题。
 		- > ▶ booster  （尤指政治上的）支持者，拥护者 /**an extra small amount of a drug** that is given to increase(v.) the effect of one given earlier, for example to protect you from a disease for longer 加强剂量 /帮助（或激励、改善）…的事物
 		  -> a tetanus booster 破伤风加强剂

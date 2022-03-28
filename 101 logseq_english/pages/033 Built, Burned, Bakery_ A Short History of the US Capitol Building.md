@@ -1,5 +1,6 @@
 title:: 033 Built, Burned, Bakery: A Short History of the US Capitol Building
 
+- # 033 Built, Burned, Bakery: A Short History of the US Capitol Building
 - pure
   collapsed:: true
 	- The United States Capitol is one of the most famous buildings in Washington.
@@ -23,7 +24,7 @@ title:: 033 Built, Burned, Bakery: A Short History of the US Capitol Building
 	- Today, the area around the Capitol is completely different than it was in 1793. Washington, D.C. is now a major city. And other government buildings stand near the Capitol. They include the U.S. Supreme Court, the Library of Congress, and even the Voice of America.
 	- But the Capitol remains the seat of U.S. lawmaking, and a well-known symbol of the federal government.
 - ---
-- def
+- ## def
 	- The United States Capitol /is one of the most famous buildings in Washington.
 	- The Capitol building /is also one of the best-known symbols of the U.S. government. And it has been around for almost as long.
 	- The country’s first president, George Washington, set the cornerstone for the building in 1793. At the time, the country’s government /was only about five years old. And the capital city /was Philadelphia, in Pennsylvania.

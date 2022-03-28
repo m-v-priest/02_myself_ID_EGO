@@ -30,7 +30,8 @@ title:: 007 How Will the Pandemic End?
 	- Vaccines offer(v.) strong protection from serious illness, even if they do not always prevent a mild infection. Omicron **does not appear to be** as deadly as some earlier variants. Those who survive /will have some **increased protection** against other forms of the virus.
 		- 存活下来的人, 对其他形式病毒的抵抗力会有所增强。
 	- Dr. Albert Ko is **an infectious disease specialist**(n.) at the Yale School of Public health. He said /the newest variant is a warning about /what will continue to happen /“unless we really **get serious about** the endgame.”
-		- > ▶ specialist (n.) 专家 /a doctor who has specialized in a particular area of medicine 专科医生
+		- id:: 621db40e-af00-4b90-b868-554d875b8237
+		  > ▶ specialist (n.) 专家 /a doctor who has specialized in a particular area of medicine 专科医生
 		- > ▶ endgame  （棋赛的）结束阶段，收官阶段 / （政治进程等的）最后阶段
 		-
 	- Ko added that /COVID will **be with us** permanently. He said that /the world will never **be free(a.) of** COVID, so we have to know our goals.

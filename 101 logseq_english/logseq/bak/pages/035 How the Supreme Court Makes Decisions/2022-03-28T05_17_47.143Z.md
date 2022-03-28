@@ -1,0 +1,75 @@
+-
+- pure
+  collapsed:: true
+	- Here is a question: who is the most powerful person in the United States? No, the answer is not the president. The answer is not even one person.
+	- Some observers would argue the most powerful people are the nine judges – called justices – who sit on the Supreme Court. Their decisions affect nearly every part of Americans’ lives.
+	- Here is lawyer Michael Trachtman. He wrote a book about how important the Supreme Court is.
+	- “The Supreme Court defines the distinctions between church and state … The Supreme Court decides how you’re treated and what happens to you and what your rights are should you be charged with a crime… The Supreme Court defines your rights if, for example, you are a racial or religious or ethnic minority and you feel as though you are being discriminated against, the Supreme Court defines how your life will be. The Supreme Court defines ...”
+	- The Supreme Court defines how the U.S. political process works, and how laws are made.
+	- The court defines the power of the president.
+	- The court can make decisions on rules governing technology and business.
+	- The court protects Americans’ ability to say what they want, about what they want.
+	- The Supreme Court also defines religious rights, workers’ rights, students’ rights, property rights, and privacy rights. And it can decide cases involving the right to die, the right to marry, and the right to stand up to employers and public officials.
+	- “It’s very hard to find anything that the Supreme Court doesn’t define and affect in American life.”
+	- ## The road to a Supreme Court decision
+	- So how do the court’s members make their important decisions?
+	- First, justices are appointed by the president and approved by Congress. Once approved, justices hold their positions for life.
+	- Elizabeth Slattery of the Heritage Foundation notes that justices are not supposed to be political. She says they are supposed to be neutral and fair.
+	- Every year, the justices decide to hear about 100 cases. Each case is a real conflict between groups, individuals, or federal and state governments. The Supreme Court does not advise on policy decisions before ruling on a case.
+	- After the justices decide what cases to rule on, they read about the history of the legal arguments. They try to learn what judges, lawyers, and other interested parties have said about it.
+	- When the justices finally hear the case, the trial usually lasts one hour. Both sides have 30 minutes to speak. If the government would like to talk about the case, a government lawyer is limited to half an hour, just like someone representing the opposing side.
+	- Linda Greenhouse is a reporter who followed the Supreme Court for 30 years. She says the courtroom is not very big. It holds a few hundred people. The justices sit behind a bench, but their seating is raised only about one meter above the floor.
+	- “The lawyers who are making the arguments stand very close to the justices. And many lawyers after they make their first argument have commented on how surprisingly intimate the space feels.”
+	- Greenhouse describes the Supreme Court building as having a modest quality. And, she notes, it is open to visitors. The public can stand in line and try to get a seat to listen to lawyers and justices discussing a case.
+	- Supreme Court justices do not announce their decisions on cases right away. Instead, they privately discuss the cases together and sometimes try to persuade each other to accept a way of thinking.
+	- For a final ruling, at least five of the nine justices must agree. One or more of those justices is asked to write the “majority opinion.” Justices who disagree may write a “minority opinion.” All opinions are released. But the majority opinion is the final ruling.
+	- ## Disagreements about disagreements
+	- Greenhouse notes that the Supreme Court and its decisions are not always popular among Americans. One of the current disagreements related to the Supreme Court is how the justices should think about, well, thinking.
+	- Elizabeth Slattery of the Heritage Foundation supports an idea called “originalism.”
+	- “This is where judges try to understand how the text was originally understand by the public at the time it was passed.”
+	- In other words, Slattery says justices should try to remain true to the public’s understanding of an issue when the law was approved.
+	- In cases related to constitutional issues, justices using an originalist interpretation try to consider what Americans thought of the issue in 1789, when the Constitution was enacted. The idea behind this way of thinking, Slattery says, is to prevent justices from letting personal opinions influence their decisions.
+	- Reporter Linda Greenhouse supports a different way of thinking. Her term for this is “pragmatic.”
+	- Greenhouse points out that many things have changed since the time the U.S. Constitution was written. For example, many of America’s founders accepted slavery. In addition, many did not support equality among people of different races or between women and men.
+	- Greenhouse says a pragmatic interpretation considers the U.S. Constitution as a guide to understanding the law in modern society. It is a “hope for the future,” she says, that permits change.
+	- ## Can the Supreme Court ‘change its mind’?
+	- Whatever justices decide, their ruling is final – unless lawmakers and the public decide to change the Constitution, or unless the Supreme Court overrules itself later.
+	- Lawyer and writer Michael Trachtman notes that Supreme Court justices respect the court’s earlier decisions. But, he adds, the Supreme Court is not limited by anything that happened in the past. And, he says, over time the Supreme Court has overturned rulings on many major issues, including guns and same-sex marriage.
+	- Elizabeth Slattery of the Heritage Foundation says the modern Supreme Court aims not to change the laws too quickly. Yes, she says, new information, new situations, or simply new justices can help overturn a ruling. But, she says, the Supreme Court often takes “baby steps” to make slow change over time.
+- ---
+- def
+	- Here is a question: who is the most powerful person /in the United States? No, the answer is not the president. The answer is not even one person.
+	- Some observers would argue /the most powerful people /are the nine judges – called justices – who sit on the Supreme Court. Their decisions /affect(v.) nearly every part of Americans’ lives.
+	- Here is lawyer Michael Trachtman. He wrote a book about /how important the Supreme Court is.
+	- “The Supreme Court defines the distinctions between church and state … The Supreme Court decides how you’re treated and what happens to you and what your rights are should you be charged with a crime… The Supreme Court defines your rights if, for example, you are a racial or religious or ethnic minority and you feel as though you are being discriminated against, the Supreme Court defines how your life will be. The Supreme Court defines ...”
+	- The Supreme Court defines how the U.S. political process works, and how laws are made.
+	- The court defines the power of the president.
+	- The court can make decisions on rules governing technology and business.
+	- The court protects Americans’ ability to say what they want, about what they want.
+	- The Supreme Court also defines religious rights, workers’ rights, students’ rights, property rights, and privacy rights. And it can decide cases involving the right to die, the right to marry, and the right to stand up to employers and public officials.
+	- “It’s very hard to find anything that the Supreme Court doesn’t define and affect in American life.”
+	- ## The road to a Supreme Court decision
+	- So how do the court’s members make their important decisions?
+	- First, justices are appointed by the president and approved by Congress. Once approved, justices hold their positions for life.
+	- Elizabeth Slattery of the Heritage Foundation notes that justices are not supposed to be political. She says they are supposed to be neutral and fair.
+	- Every year, the justices decide to hear about 100 cases. Each case is a real conflict between groups, individuals, or federal and state governments. The Supreme Court does not advise on policy decisions before ruling on a case.
+	- After the justices decide what cases to rule on, they read about the history of the legal arguments. They try to learn what judges, lawyers, and other interested parties have said about it.
+	- When the justices finally hear the case, the trial usually lasts one hour. Both sides have 30 minutes to speak. If the government would like to talk about the case, a government lawyer is limited to half an hour, just like someone representing the opposing side.
+	- Linda Greenhouse is a reporter who followed the Supreme Court for 30 years. She says the courtroom is not very big. It holds a few hundred people. The justices sit behind a bench, but their seating is raised only about one meter above the floor.
+	- “The lawyers who are making the arguments stand very close to the justices. And many lawyers after they make their first argument have commented on how surprisingly intimate the space feels.”
+	- Greenhouse describes the Supreme Court building as having a modest quality. And, she notes, it is open to visitors. The public can stand in line and try to get a seat to listen to lawyers and justices discussing a case.
+	- Supreme Court justices do not announce their decisions on cases right away. Instead, they privately discuss the cases together and sometimes try to persuade each other to accept a way of thinking.
+	- For a final ruling, at least five of the nine justices must agree. One or more of those justices is asked to write the “majority opinion.” Justices who disagree may write a “minority opinion.” All opinions are released. But the majority opinion is the final ruling.
+	- ## Disagreements about disagreements
+	- Greenhouse notes that the Supreme Court and its decisions are not always popular among Americans. One of the current disagreements related to the Supreme Court is how the justices should think about, well, thinking.
+	- Elizabeth Slattery of the Heritage Foundation supports an idea called “originalism.”
+	- “This is where judges try to understand how the text was originally understand by the public at the time it was passed.”
+	- In other words, Slattery says justices should try to remain true to the public’s understanding of an issue when the law was approved.
+	- In cases related to constitutional issues, justices using an originalist interpretation try to consider what Americans thought of the issue in 1789, when the Constitution was enacted. The idea behind this way of thinking, Slattery says, is to prevent justices from letting personal opinions influence their decisions.
+	- Reporter Linda Greenhouse supports a different way of thinking. Her term for this is “pragmatic.”
+	- Greenhouse points out that many things have changed since the time the U.S. Constitution was written. For example, many of America’s founders accepted slavery. In addition, many did not support equality among people of different races or between women and men.
+	- Greenhouse says a pragmatic interpretation considers the U.S. Constitution as a guide to understanding the law in modern society. It is a “hope for the future,” she says, that permits change.
+	- ## Can the Supreme Court ‘change its mind’?
+	- Whatever justices decide, their ruling is final – unless lawmakers and the public decide to change the Constitution, or unless the Supreme Court overrules itself later.
+	- Lawyer and writer Michael Trachtman notes that Supreme Court justices respect the court’s earlier decisions. But, he adds, the Supreme Court is not limited by anything that happened in the past. And, he says, over time the Supreme Court has overturned rulings on many major issues, including guns and same-sex marriage.
+	- Elizabeth Slattery of the Heritage Foundation says the modern Supreme Court aims not to change the laws too quickly. Yes, she says, new information, new situations, or simply new justices can help overturn a ruling. But, she says, the Supreme Court often takes “baby steps” to make slow change over time.

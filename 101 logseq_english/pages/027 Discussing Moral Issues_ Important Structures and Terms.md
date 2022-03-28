@@ -1,6 +1,6 @@
 title:: 027 Discussing Moral Issues: Important Structures and Terms
 
--
+- # 027 Discussing Moral Issues: Important Structures and Terms
 - pure
   collapsed:: true
 	- Imagine that you want to talk about moral issues – your opinion about what is correct behavior and what is incorrect behavior.
@@ -34,7 +34,7 @@ title:: 027 Discussing Moral Issues: Important Structures and Terms
 	- This report explored a few ways that English speakers talk about moral issues. There are certainly many other ways – politicians, religious experts and normal people have debated moral questions for a long time.
 	- This report ends with a kind of homework project. Choose some kind of a moral question that interests you. Then find examples – films, news broadcasts, podcasts, and so on – that explore that moral question. Pay careful attention to the terms and structures that the speakers use. Then try to use what you have learned to describe your own opinion on the issue.
 - ---
-- def
+- ## def
 	- Imagine that /you want to talk about **moral issues** – your opinion/ about what is correct behavior /and what is incorrect behavior.
 		- > ▶ moral (a.)(n.)morals [ pl. ] standards or principles of good behaviour, especially in matters of sexual relationships 品行，道德（尤指性关系方面）
 	- You might want to talk about your actions /or the actions of another. What kinds of terms and structures /should you use?
@@ -70,7 +70,8 @@ title:: 027 Discussing Moral Issues: Important Structures and Terms
 		  => provoke (v.)V-T If **you provoke(v.) someone**, you deliberately annoy them and try to make them behave aggressively. 对…挑衅 /V-T If **something provokes a reaction**, it causes it. 引起
 	- “Putin’s attack on Ukraine” is the subject of the sentence. Was – the past tense of BE – is the main verb. “Premeditated” and “unprovoked” are terms /that describe the attack.
 	- “Premeditated” is an adjective /that means /done or made according to a plan. **Legal cases** often use this term. A person **might be convicted(v.) of** premeditated murder, for example.
-		- > ▶ legal  ADJ Legal is used to describe things that relate to the law. 法律的 /ADV 在法律上
+		- id:: 62328e22-125c-44c5-8004-2116bfa1e5fa
+		  > ▶ legal  ADJ Legal is used to describe things that relate to the law. 法律的 /ADV 在法律上
 		- > ▶ convict (v.)**~ sb (of sth)** to decide and state officially in court that sb is guilty of a crime 定罪；宣判…有罪
 		  -> He was convicted of fraud. 他被判犯有诈骗罪。
 		- 法律案件中经常使用这个术语。例如，一个人可能会被判有预谋的谋杀。

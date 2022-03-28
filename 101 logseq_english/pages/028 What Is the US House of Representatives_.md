@@ -1,5 +1,6 @@
 title:: 028 What Is the US House of Representatives?
 
+- # 028 What Is the US House of Representatives?
 - pure
   collapsed:: true
 	- Many news stories about the United States government tell about Congress and American lawmakers. The U.S. Congress is the nation’s legislature. It is made of two parts: the Senate and the House of Representatives.
@@ -26,7 +27,7 @@ title:: 028 What Is the US House of Representatives?
 	- Similarly, the Constitution-writers did not want the chief executive to decide alone whether to take the country to war. They wanted to make war difficult to enter. They also wanted to prevent the president from going to war because of political or personal interests. So they wrote that the Congress had the power to declare war.
 	- But in truth, lawmakers have only officially “declared war” 11 times. The last time was in 1942. Since then, Congress has simply approved the use of military force.
 - ---
-- def
+- ## def
 	- Many news stories /about the United States government /tell about Congress and American lawmakers. The U.S. Congress /is the nation’s legislature. It is made of two parts: the Senate /and the House of Representatives.
 		- ((62316675-ac8a-486b-86cc-90e989eaab69))
 		- > ▶ Senate  [ sing. ] one of the two groups of elected politicians /who make laws in some countries, for example in the US, Australia, Canada and France. The Senate is smaller than the other group /but higher in rank. Many state parliaments in the US /also have a Senate. 参议院（美国、澳大利亚、加拿大、法国等国家的两个立法机构之一；美国许多州议会也设有参议院）

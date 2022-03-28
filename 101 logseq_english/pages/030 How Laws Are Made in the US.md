@@ -1,4 +1,4 @@
--
+- # 030 How Laws Are Made in the US
 - pure
   collapsed:: true
 	- The United States Congress is responsible for making and approving federal laws – rules that everyone in the country must follow. But exactly how do those laws get made? The process is not easy, and it takes a long time.
@@ -17,7 +17,7 @@
 	- Or the president can officially reject – or veto – the bill. If that happens, the bill is not stopped. Instead, it is returned to both the Senate and the House.
 	- If two-thirds of the senators and two-thirds of the House members approve the bill once again, they override the veto. That is, even with the president objecting, they turn the bill into a law.
 - ---
-- def
+- ## def
 	- The United States Congress /**is responsible for** making and approving federal laws – rules /that everyone in the country must follow. But exactly how do those laws get made? The process is not easy, and it takes a long time.
 		- 但这些法律究竟是如何制定的呢?这个过程并不容易，而且需要很长时间。
 	- A law begins /when someone proposes(v.) an idea. The idea can come from anyone, but it has to get to a U.S. lawmaker /who wants it to become legislation. In time, the idea is further developed into a written proposal, called a bill.

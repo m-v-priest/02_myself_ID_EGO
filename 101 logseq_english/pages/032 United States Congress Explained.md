@@ -1,3 +1,4 @@
+- # 032 United States Congress Explained
 - pure
   collapsed:: true
 	- In the United States, voters choose members of Congress every two years. But what is Congress?
@@ -18,7 +19,7 @@
 	- In total, the House has 435 voting members, while the Senate has 100 voting members, for a total of 535 lawmakers. They all meet in the Capitol building in Washington, DC.
 	- When Americans want to block, create or change a law in the U.S., they are often urged to contact their member of Congress. Some Americans also campaign for candidates to be elected to the House or Senate. In general, citizens of other countries are not permitted to donate money to members of Congress or lead campaign efforts.
 - ---
-- def
+- ## def
 	- In the United States, voters choose members of Congress /every two years. But what is Congress?
 	- Imagine that /the U.S. government is a chair with three legs.
 	- One leg /is the executive – the president and all the people /who carry out the country’s laws.

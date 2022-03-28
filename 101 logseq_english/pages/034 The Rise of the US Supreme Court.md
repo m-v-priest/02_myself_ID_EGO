@@ -1,4 +1,4 @@
--
+- # 034 The Rise of the US Supreme Court
 - pure
   collapsed:: true
 	- When Americans are angry and believe they are right about an issue, they might use this expression: “I’m going take it all the way to the Supreme Court!”
@@ -27,7 +27,7 @@
 	- As a sign of the respect it commands, in 1935 the Supreme Court finally moved to its permanent home. The building is made of white marble, with tall columns and a long staircase.
 	- The chief justice who pressed Congress to approve money for the building, William Howard Taft, did not live to see it completed. But his dream for it was realized. Taft said he wanted it to show the “dignity and importance” of the Supreme Court in American life.
 - ---
-- def
+- ## def
 	- When Americans are angry /and believe they are right about an issue, they might use this expression: “I’m going take it all the way /to the Supreme Court!”
 		- 当美国人很生气, 并且认为他们在一个问题上是对的时，他们可能会用这个表达:“我要把它一直带到最高法院去裁决!”
 	- ​These words /capture(v.) two important ideas. First, the Supreme Court of the United States /**has the final say** in legal disputes. The high court is sometimes called /the “court of **last resort**.”

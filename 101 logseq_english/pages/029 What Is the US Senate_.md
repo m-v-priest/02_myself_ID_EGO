@@ -1,5 +1,6 @@
 title:: 029 What Is the US Senate?
 
+- # 029 What Is the US Senate?
 - pure
   collapsed:: true
 	- The Senate is one of the two parts of the United States Congress, the legislature that makes the country’s laws.
@@ -21,7 +22,7 @@ title:: 029 What Is the US Senate?
 	- Because of all their talk, the Senate has been called the world’s “greatest deliberative body.”
 	- But others have pointed out that the Senate is a group of very different, independent individuals. Getting a majority to agree can be extremely difficult. One former Senate leader said trying to get them to move together was like “herding cats.” Another described it as “loading frogs into a wheelbarrow.”
 - ---
-- def
+- ## def
 	- The Senate is one of the two parts of the United States Congress, the legislature /that makes the country’s laws.
 		- ((62316675-ac8a-486b-86cc-90e989eaab69))
 	- The Congress has two parts /because the men /who wrote the U.S. Constitution /**could not agree on details of** the new form of government.
