@@ -1,5 +1,5 @@
 -
-- # The Unique Invention of the American President
+- # 040 The Unique Invention of the American President
 - pure
   collapsed:: true
 	- VOA Learning English presents America’s Presidents.
@@ -71,15 +71,45 @@
 		  => 来自拉丁语 venire,来，来自 PIE*gwa,来，往，词源同 come,acrobat,advent.
 		  ![image.png](../assets/image_1648456952895_0.png)
 		- 国会和各州, 应该成为美国民主的主要场所。
-	- Other people who helped write the U.S. Constitution, such as Alexander Hamilton, thought the president should be what Milkis calls “the anchor of American democracy.” Hamilton thought the president should have enough power to direct large projects for the public good.
+	- Other people who helped write the U.S. Constitution, such as Alexander Hamilton, thought /the president should be /what Milkis calls “the anchor of American democracy.” Hamilton thought /the president should have enough power /to direct large projects /for the public good.
+		- > ▶ direct (v.)**~ sth to/towards sth/sb |~ sth at/against sth/sb** :  to aim sth in a particular direction or at a particular person 把…对准（某方向或某人）
+		  /~ sb (to...) to tell or show sb how to get to somewhere or where to go 给（某人）指路；为（某人）领路 
+		  /**to control or be in charge of sb/sth** 管理；监督；指导 /to give an official order 指示；命令
+		  -> Could you direct me to the station? 请问到车站怎么走？
+		  -> The judge directed that /the mother be given custody of the children. 法官判决孩子由母亲监护.
+		- 总统应该有足够的权力, 来为着公众的利益, 而指导大型项目。
 	- So what happened?
-	- Well, in 1787, delegates to the Constitutional Convention found a unique solution. First, they agreed to make the president a one-person job. One person, they reasoned, could both make decisions more effectively than a group, and be more easily held responsible for them.
-	- But they decided not to give the president too much power. The person would be elected for one four-year term at a time. And the president would share power with a national legislature and a supreme court.
-	- The delegates also decided some of the details about how the president would be elected, and how to remove the person from office. And they said the president would have a number of duties. They include being the commander in chief of the military, nominating public officials, and giving Congress a report on the state of the Union. This list is comes from Article II of the U.S. Constitution.
-	- But a lot of the job description was left open. It said the president “shall take care that the laws be faithfully executed.”
-	- Since it was written in 1787, that expression has informed discussions about what powers the U.S. president should really have.
-	- Historian Sidney Milkis says Americans are still debating how much power the president should have. For most of the 19th century, he says, the powers of the president were more limited. But since the 20th century, the position has become more powerful. The president has moved closer to the center of American democracy.
-	- But in time, Milkis says, Americans may decide to limit the president’s authority again, and give more power to Congress and state governments.
-	- Milkis adds one more thing about the unusual invention of the U.S. president. It was unclear that the public would trust a national executive. But as our America’s Presidents series shows, for the most part, Americans respect the office of the president. Instead of fearing our great leaders, says Milkis, we honor them.
+	- Well, in 1787, delegates(n.) to the Constitutional Convention /found a unique solution. First, they agreed /to make the president a one-person job. One person, they reasoned, could **both** make decisions more effectively /than a group, **and** be more easily held responsible for them.
+		- > ▶ delegate (n.)a person who is chosen or elected to represent the views of a group of people and vote and make decisions for them 代表；会议代表 /(v.)~ (sth) (to sb) to give part of your work, power or authority to sb in a lower position than you 授（权）；把（工作、权力等）委托（给下级）
+		- id:: 62428ab0-f7be-431d-8775-35d4381e80a7
+		  > ▶ convention  :  a large meeting of the members of a profession, a political party, etc. SYN conference （某职业、政党等成员的）大会，集会 /习俗；常规；惯例 /（国家或首脑间的）公约，协定，协议
+		  -> the Geneva convention 日内瓦公约
+		- > ▶ reason (v.)to form a judgement about a situation by considering the facts and using your power to think in a logical way 推理；推论；推断
+		  -> They couldn't fire him, he reasoned. He was the only one who knew how the system worked. 他分析他们不会解雇他。他是唯一知道这套系统如何运转的人。
+		- 参加制宪会议的代表们找到了一个独特的解决办法。首先，他们同意把总统变成只一个人的工作。他们认为，一个人可以比一个群体更有效地做出决策，也更容易对决策负责。
+		-
+	- But they decided /not to give the president too much power. The person would be elected for one four-year term /at a time. And the president /would share power with a national legislature and a supreme court.
+		- > ▶ at a time 一次, 每次
+	- The delegates also decided /some of the details about /how the president would be elected, and how to remove the person from office. And they said /the president would have a number of duties. They include /being the commander in **chief of the military**, nominating public officials, and giving Congress a report /on **the state of the Union**. This list is comes from _Article II_ of **the U.S. Constitution**.
+		- > ▶  the state of the Union 国情咨文(演讲). 这里的state，指的是：状态、情况（注意不要理解为“国家”，或“陈述”）。而the Union，当U大写时，指的是：the United States（美国）。State of the Union的字面意思是：美国国情
+		  除了State of the Union，国情咨文还有几个接近的说法，State of the Union speech，或state of the Union address。
+		- 代表们还决定了总统如何当选以及如何将其免职的一些细节。他们说总统有很多职责。这些职责包括担任军队总司令，提名政府官员，向国会提交国情报告。这个列表来自美国宪法第二条。
+	- But a lot of the job description /was left open. It said /the president “shall take care that /the laws be faithfully executed.”
+	- Since it was written in 1787, that expression /has informed discussions about /what powers the U.S. president should really have.
+		- > ▶ expression (n.) things that people say, write or do in order to show their feelings, opinions and ideas 表示；表达；表露 /a word or phrase 词语；措辞；表达方式
+		- id:: 62428e4d-0bdb-4b12-9527-a2dd8e450e9a
+		  > ▶ inform (v.)to have an influence on sth 对…有影响 /~ sb (of/about sth) 知会；通知；通告
+		  -> Religion informs(v.) every aspect of their lives. 宗教影响着他们生活的各个方面。
+	- Historian Sidney Milkis says /Americans are still debating /how much power the president should have. For most of the 19th century, he says, the powers of the president /were more limited. But since the 20th century, the position has become more powerful. The president has moved closer to the center of American democracy.
+		- 在19世纪的大部分时间里，总统的影响力都比较有限。
+	- But in time, Milkis says, Americans may decide /to limit the president’s authority again, and give more power to Congress and state governments.
+		- > ▶ in time : after a period of time when a situation has changed 经过一段时间之后；迟早；最后；终于 SYN eventually
+		  -> They learned to accept their stepmother in time. 过了一段时间之后, 他们学会了接受他们的继母。
+		- > ▶ authority (n.)  **the power** to give orders to people 权力；威权；当权（地位） /~ (to do sth) **the power or right** to do sth 权；职权 / **the power** to influence people because they respect your knowledge or official position 权威；威信；影响力
+		  -> in a position of authority 当权
+		  => 来源于拉丁语auctor, -oris, m(创造者)。 词根词缀： auth(-auct-)增加→创造→权威 + -or名词词尾,行为 + -ity名词词尾
+	- Milkis adds one more thing /about **the unusual invention** of the U.S. president. It was unclear that /the public would trust a national executive. But as our America’s Presidents series shows, for the most part, Americans respect(v.) the office of the president. Instead of fearing(v.) our great leaders, says Milkis, we honor(v.) them.
+		- > ▶ for the most part 在极大程度上, 大多数情况下, 多半
+		- 目前还不清楚公众是否会信任一位国家行政长官。但正如我们的《美国总统》系列节目所显示的，在大多数情况下，美国人尊重总统这个职位。
 	-
 -

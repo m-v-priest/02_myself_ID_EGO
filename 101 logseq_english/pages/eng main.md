@@ -75,6 +75,11 @@
 	  heading:: true
 		- https://learningenglish.voanews.com/p/6353.html
 		- [[040 The Unique Invention of the American President]]
+		- [[041 George Washington: Reluctant]]
+		- [[042 John Adams: Second]]
+		- [[043 Thomas Jefferson: Complex]]
+		- [[044 James Madison: Scholar]]
+		-
 -
 - ---
 - 美国学生世界历史
