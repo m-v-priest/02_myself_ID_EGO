@@ -26,6 +26,12 @@
  {:block/name "a",
   :block/created-at 1642224014410,
   :block/updated-at 1642224014410}
+ {:block/name "apr 11th, 2022",
+  :block/created-at 1649638846482,
+  :block/updated-at 1649638846482}
+ {:block/name "apr 8th, 2022",
+  :block/created-at 1649379702734,
+  :block/updated-at 1649379702734}
  {:block/name "b",
   :block/created-at 1642224014410,
   :block/updated-at 1642224014410}
@@ -43,7 +49,7 @@
   :block/updated-at 1643421262157}
  {:block/name "dir 21. 思考,判断,行动,策略; 效率阅读,快速读书",
   :block/created-at 1643001404762,
-  :block/updated-at 1648171078728}
+  :block/updated-at 1649400622801}
  {:block/name "dir 22. 人生,政治",
   :block/created-at 1643001183990,
   :block/updated-at 1644567879525}
@@ -437,6 +443,9 @@
  {:block/name "mar 30th, 2022",
   :block/created-at 1648615041670,
   :block/updated-at 1648615041670}
+ {:block/name "mckinsey method 结构化思维方法论",
+  :block/created-at 1649400622800,
+  :block/updated-at 1649666088122}
  {:block/name "now",
   :block/created-at 1642224014410,
   :block/updated-at 1642224014410}
@@ -483,6 +492,9 @@
  {:block/name "二八定律表明, 最后10_的功能, 往往需要90_的成本耗费, 在投入产出比是不合算的.",
   :block/created-at 1642668308765,
   :block/updated-at 1642668308765}
+ {:block/name "二轴模型思维",
+  :block/created-at 1649392586070,
+  :block/updated-at 1649397852308}
  {:block/name "人生前期越嫌麻烦,越懒得学,后来就越可能你没有准备, 机会来了你也没法抓住它.",
   :block/created-at 1642668308765,
   :block/updated-at 1642668308765}
