@@ -29,6 +29,9 @@
  {:block/name "apr 11th, 2022",
   :block/created-at 1649638846482,
   :block/updated-at 1649638846482}
+ {:block/name "apr 12th, 2022",
+  :block/created-at 1649725271915,
+  :block/updated-at 1649725271915}
  {:block/name "apr 8th, 2022",
   :block/created-at 1649379702734,
   :block/updated-at 1649379702734}
@@ -445,7 +448,7 @@
   :block/updated-at 1648615041670}
  {:block/name "mckinsey method 结构化思维方法论",
   :block/created-at 1649400622800,
-  :block/updated-at 1649666088122}
+  :block/updated-at 1649743175660}
  {:block/name "now",
   :block/created-at 1642224014410,
   :block/updated-at 1642224014410}
