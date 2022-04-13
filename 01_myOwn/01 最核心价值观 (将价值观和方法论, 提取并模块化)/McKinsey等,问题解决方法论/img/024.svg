@@ -1,0 +1,60 @@
+<svg viewBox="0 0 353 197" width="353" xmlns="http://www.w3.org/2000/svg" height="197" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs/>
+    <g transform="translate(-1235.00,-1171.00)">
+        <g transform="translate(1236.00,1266.00)" id="shape1">
+            <path fill="none" stroke="#323232" d="M.0,.0L60.0,.0L60.0,35.0L.0,35.0L.0,.0z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="17.0" y="23.0">天热</tspan>
+            </text>
+        </g>
+        <g transform="translate(1362.23,1266.00)" id="shape2">
+            <path fill="none" stroke="#323232" d="M.0,.0L60.0,.0L60.0,35.0L.0,35.0L.0,.0z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="4.0" y="23.0">海边人多</tspan>
+            </text>
+        </g>
+        <g transform="translate(1336.48,1183.00)" id="shape3">
+            <path fill="none" stroke="#323232" d="M.0,.0L109.0,.0L109.0,35.0L.0,35.0L.0,.0z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="15.5" y="23.0">鲨鱼攻击人多</tspan>
+            </text>
+        </g>
+        <g transform="translate(1393.73,1218.00)" id="shape4">
+            <path fill="none" stroke="#191919" d="M.0,.0L.0,42.0"/>
+            <path fill="#191919" stroke="#191919" stroke-linecap="round" stroke-width="1" d="M3.0,42.0L.0,48.0L-3.0,42.0L3.0,42.0"/>
+        </g>
+        <g transform="translate(1296.00,1285.70)" id="shape5">
+            <path fill="none" stroke="#191919" d="M.0,.0L60.2,.0"/>
+            <path fill="#191919" stroke="#191919" stroke-linecap="round" stroke-width="1" d="M60.2,-3.0L66.2,.0L60.2,3.0L60.2,-3.0"/>
+        </g>
+        <g transform="translate(1474.00,1266.00)" id="shape6">
+            <path fill="none" stroke="#323232" d="M.0,.0L86.0,.0L86.0,35.0L.0,35.0L.0,.0z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="10.5" y="23.0">买冰淇淋多</tspan>
+            </text>
+        </g>
+        <g transform="translate(1422.23,1286.70)" id="shape7">
+            <path fill="none" stroke="#191919" d="M.0,.0L45.8,.0"/>
+            <path fill="#191919" stroke="#191919" stroke-linecap="round" stroke-width="1" d="M45.8,-3.0L51.8,.0L45.8,3.0L45.8,-3.0"/>
+        </g>
+        <g transform="translate(1445.52,1196.70)" id="shape8">
+            <path fill="none" stroke="#c00000" stroke-dasharray="6,4" d="M8.0,.0L69.3,.0L69.3,63.3"/>
+            <path fill="#c00000" stroke="#c00000" stroke-linecap="round" stroke-width="1" d="M8.0,4.0L.0,.0L8.0,-4.0L8.0,4.0"/>
+            <path fill="#c00000" stroke="#c00000" stroke-linecap="round" stroke-width="1" d="M72.3,63.3L69.3,69.3L66.3,63.3L72.3,63.3"/>
+        </g>
+        <g transform="translate(1506.92,1172.00)" id="shape9">
+            <text style="fill:#c00000;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="14.0" y="23.0">相关关系</tspan>
+            </text>
+        </g>
+        <g transform="translate(1352.19,1332.00)" id="shape10">
+            <text style="fill:#0070c0;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="14.0" y="23.0">因果关系</tspan>
+            </text>
+        </g>
+        <g transform="translate(1265.52,1301.00)" id="shape11">
+            <path fill="none" stroke="#0070c0" d="M.0,.0L.0,32.0L247.0,32.0L247.0,6.0"/>
+            <path fill="#0070c0" stroke="#0070c0" stroke-linecap="round" stroke-width="1" d="M244.0,6.0L247.0,.0L250.0,6.0L244.0,6.0"/>
+        </g>
+    </g>
+</svg>
