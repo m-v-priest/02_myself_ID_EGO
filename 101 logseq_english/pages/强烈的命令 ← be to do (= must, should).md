@@ -1,6 +1,0 @@
--
-- **表示强烈的命令，用 be to do . 相当于must，should，如：父母对孩子、上级对下级或法律条文中的规定等.**
-	- These tablets **are not to be taken orally**. 该药禁止口服。
-	- The parties involved **are to sign(v.) the agreement**. 有关当事人一定得签署协议。
-	- If he's to succeed in his new profession, **he must try harder**. 他如果想获得新事业上的成功，就必须更加努力。
--

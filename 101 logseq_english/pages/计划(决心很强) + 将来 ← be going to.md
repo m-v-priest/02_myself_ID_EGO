@@ -1,4 +1,0 @@
--
-- ==当be going to的“打算”或“预测”意味进一步升华后，就可以用来表达个人的“决心（great determination）”，具有强烈的感情色彩。==
-	- **We’re going to** become the world’s leading forwarding company. ← 表明要把公司发展壮大的决心.
-	- **You’re gonna** be sorry! You’re gonna be so sorry! ← 这里用be going to正是表明这个被欺负的小男孩要报复对方的决心。
