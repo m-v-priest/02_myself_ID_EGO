@@ -1,0 +1,63 @@
+<svg viewBox="0 0 678 132" width="678" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="132">
+    <defs/>
+    <g transform="translate(-1043.18,-1251.00)">
+        <g id="shape1" transform="translate(1232.50,1261.50)">
+            <path stroke="#323232" d="M.0,.0L76.0,.0L76.0,54.5L.0,54.5L.0,.0z" fill="none"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="23.3" x="8.5">清晰, 简洁</tspan>
+                <tspan y="42.3" x="12.0">表达清楚</tspan>
+            </text>
+        </g>
+        <g id="shape2" transform="translate(1371.00,1261.50)">
+            <path stroke="#323232" d="M.0,.0L141.0,.0L141.0,54.5L.0,54.5L.0,.0z" fill="none"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="23.5" x="17.0">个人化的表达艺术,</tspan>
+                <tspan y="42.5" x="8.5">并含有洞见, 另其认同</tspan>
+            </text>
+        </g>
+        <g id="shape3" transform="translate(1579.00,1252.00)">
+            <path stroke="#323232" d="M.0,.0L141.0,.0L141.0,73.5L.0,73.5L.0,.0z" fill="none"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="23.5" x="30.0">切身利益相关,</tspan>
+                <tspan y="42.5" x="23.5">两害相权取其轻,</tspan>
+                <tspan y="61.5" x="15.0">必须要做, 知行合一</tspan>
+            </text>
+        </g>
+        <g id="shape4" transform="translate(1308.50,1290.70)">
+            <path stroke="#191919" d="M.0,.0L56.5,.0" fill="none"/>
+            <path stroke="#191919" stroke-linecap="round" d="M56.5,-3.0L62.5,.0L56.5,3.0L56.5,-3.0" fill="#191919" stroke-width="1"/>
+        </g>
+        <g id="shape5" transform="translate(1512.00,1290.70)">
+            <path stroke="#191919" d="M.0,.0L61.0,.0" fill="none"/>
+            <path stroke="#191919" stroke-linecap="round" d="M61.0,-3.0L67.0,.0L61.0,3.0L61.0,-3.0" fill="#191919" stroke-width="1"/>
+        </g>
+        <g id="shape6" transform="translate(1192.16,1327.50)">
+            <text xml:space="preserve" style="fill:#c00000;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="23.5" x="65.3">攻脑</tspan>
+                <tspan y="42.5" x="9.8">我知道了, 但未必赞同你</tspan>
+            </text>
+        </g>
+        <g id="shape7" transform="translate(1371.00,1327.50)">
+            <text xml:space="preserve" style="fill:#c00000;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="23.3" x="48.3">攻情</tspan>
+                <tspan y="42.3" x="5.8">有了情绪, 却无行动</tspan>
+            </text>
+        </g>
+        <g id="shape8" transform="translate(1616.32,1327.75)">
+            <text xml:space="preserve" style="fill:#c00000;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="23.0" x="20.2">攻心</tspan>
+                <tspan y="42.0" x="7.2">知行合一</tspan>
+            </text>
+        </g>
+        <g id="shape9" transform="translate(1170.00,1290.70)">
+            <path stroke="#191919" d="M.0,.0L56.5,.0" fill="none"/>
+            <path stroke="#191919" stroke-linecap="round" d="M56.5,-3.0L62.5,.0L56.5,3.0L56.5,-3.0" fill="#191919" stroke-width="1"/>
+        </g>
+        <g id="shape10" transform="translate(1044.18,1261.50)">
+            <text xml:space="preserve" style="fill:#000000;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="23.5" x="42.3">有效的表达, </tspan>
+                <tspan y="42.5" x="13.3">要穿透连续的三层目的</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
