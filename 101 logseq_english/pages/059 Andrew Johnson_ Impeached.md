@@ -1,0 +1,112 @@
+title:: 059 Andrew Johnson: Impeached
+
+- ## Andrew Johnson: Impeached
+- ## pure
+  collapsed:: true
+	- Today we are talking about Andrew Johnson. Johnson was vice president under Abraham Lincoln, and became president in 1865 after Lincoln was killed.
+	- His name sounds like that of an earlier president, Andrew Jackson, and also like a later president, Lyndon Johnson.
+	- But Andrew Johnson served in the years just after the Civil War. You can remember Johnson this way: He was the first U.S. president to be impeached.
+	- ## Early life
+	- Andrew Johnson grew up in a poor family in the southern state of North Carolina.
+	- As a child, Johnson had little formal education. Instead, he trained to be a tailor.
+	- When he was a young man, Johnson moved to Tennessee, another southern state. He opened a tailoring business, where he made, repaired and sold clothing.
+	- When he was 18 years old, he married. His wife, Eliza McCardle, was only 16. They went on to have five children together.
+	- Eliza McCardle Johnson did not come from a wealthy family, either. But she was better educated than her husband, and she helped him develop his reading and writing skills.
+	- She also supported his gift for public speaking. Johnson's speeches were especially popular with workers in their community. They liked his criticism of the state's wealthy planters.
+	- The workers also liked his politics. At the time, Johnson supported measures that permitted slavery to expand across the country. He was clear in his speeches that he did not support equality between whites and African-Americans, whether enslaved or free.
+	- In time, Johnson held many political offices: mayor, Tennessee's governor, state legislator, and member of the U.S. House of Representatives. When the Civil War began, he was a member of the U.S. Senate.
+	- Although he was a Southerner, he did not believe the Southern states had a right to withdraw from the Union. When the other Southern senators resigned from the U.S. Congress, Johnson stayed.
+	- As a result, most Southerners considered him a traitor. But most Northerners considered him a hero.
+	- ## Election of 1864
+	- By 1864, the American Civil War was three years old. The conflict was becoming increasingly fierce and bloody. That year, the states that remained in the Union held their presidential election.
+	- The president, Abraham Lincoln, wanted to win re-election and continue directing the Union's war effort. But he was not sure that voters in the opposition Democratic Party would support him.
+	- So he turned to Andrew Johnson to be his choice for vice president.
+	- Johnson was a pro-slavery Democrat. Lincoln was an anti-slavery Republican. In the U.S. tradition, presidential candidates do not usually choose someone from a different party to serve as vice president.
+	- But in this case, Lincoln's Republicans did. They called the Lincoln-Johnson partnership the National Union Party.
+	- Political leaders hoped Johnson would appeal to Democrats who supported the war effort, to workers and to small farmers. The plan – along with several military successes for the Union – helped carry the National Union Party to victory.
+	- The swearing-in ceremony the following March, however, suggested some of the difficulties ahead. Johnson was sick. To feel better, he had a lot of alcoholic drinks the night before the ceremony. The next morning, he drank some more.
+	- When Johnson stood to give his speech, he appeared unsteady. He talked about his poor family and his simple beginnings. Then he spoke angrily about wealthy Southern planters who had withdrawn from the Union. He became increasingly confused.
+	- Other people in the crowd wrote later that they felt embarrassed by Johnson's behavior. And some Republicans began calling already for his resignation – or even impeachment.
+	- Those critics could not have predicted that in a few weeks, Johnson would be the president.
+	- ## Presidency
+	- A few very important events happened in the weeks after Lincoln and Johnson were sworn-in.
+	- In April, Lincoln was shot and killed. Johnson took office as the new president.
+	- The following month, the Civil War officially ended. The Confederate States of America was no more.
+	- And that December, a majority of states approved the 13th Amendment to the U.S. Constitution. That amendment ended slavery across the country.
+	- President Johnson, therefore, guided the process of re-uniting the North and South, and supervised the transition of many African-Americans from slavery to freedom. That period in U.S. history is called Reconstruction.
+	- Members of Congress from the Northern states had been thinking for a long time about how to carry out Reconstruction. The most extreme lawmakers, the Radical Republicans, wanted to punish former Confederate officials and extend political and civil rights to African-Americans.
+	- Johnson had different ideas. In the first months of his presidency, before Congress had met, Johnson pardoned many former Confederate officials.
+	- He also let Southerners rebuild their state governments as they wished. Those governments quickly passed laws called Black Codes.
+	- Black Codes restricted the freedom and rights of African-Americans. They permitted white land owners to control African-Americans' labor, much as they had when the workers were slaves. The laws were enforced by all-white police and militia.
+	- Radical Republicans in Congress – as well as African-Americans – objected strongly to the Black Codes. When Congress finally did meet, Republican lawmakers voted for a measure to help and protect formerly enslaved people.
+	- But Johnson vetoed the measure. He said the bill would give the federal government too much power.
+	- Johnson's veto was one move in a political war between the president and many Republicans.
+	- In time, lawmakers got the upper hand. The Republican Congress soon took control of Reconstruction. Against Johnson's wishes, they succeeded in passing several major pieces of legislation.
+	- One was the Civil Rights Act of 1866. It recognized that everyone born in the United States – including African-Americans, although not Native Americans – was a citizen.
+	- Another was the extension of the Freedman's Bureau Act, the measure that Johnson had earlier vetoed. For two more years, the federal government was authorized to help people displaced by the Civil War.
+	- Finally, lawmakers passed a measure barring the president from dismissing any top officials without the approval of Congress.
+	- President Johnson ignored the measure. When he believed the secretary of war did not treat him respectfully, the president ordered that man's dismissal.
+	- In answer, members of the U.S. House of Representatives voted to impeach Johnson. In other words, they charged him with a crime. It was the first time in U.S. history that a president has been impeached.
+	- But "impeached" does not always mean removed from office. The case moves to the Senate. There, senators act as a jury. They decide whether the president is guilty. Two-thirds of the Senate must agree to convict the president.
+	- In the case of Andrew Johnson, 54 senators considered his case. For him to be removed from office, 20 would need to find him guilty. But only 19 did. His position was saved by a single vote.
+	- ## Legacy
+	- Although Johnson survived impeachment, he was not nominated as a candidate for president in the next election. Instead, he returned to his home in Tennessee, then competed for a seat back in Congress.
+	- On the third try, he succeeded. Johnson is the first and only – so far – former president to serve as a senator.
+	- He did not stay in the position long, however. A few months after returning to Congress, Johnson died suddenly after suffering a stroke. He was 66 years old.
+	- Today historians have mixed feelings about his presidency. Johnson's supporters approve of his limits on the federal government and belief in a firm separation of powers among Congress, the president and Supreme Court.
+	- But most historians believe Johnson's Reconstruction policies were extremely damaging. They did not help re-unite the North and South. And they extended the suffering of African-Americans and the country's history of racial oppression.
+- ---
+- ## def
+	- Today we are talking about Andrew Johnson. Johnson was vice president under Abraham Lincoln, and became president in 1865 after Lincoln was killed.
+	- His name sounds like that of an earlier president, Andrew Jackson, and also like a later president, Lyndon Johnson.
+	- But Andrew Johnson served in the years just after the Civil War. You can remember Johnson this way: He was the first U.S. president to be impeached.
+	- ## Early life
+	- Andrew Johnson grew up in a poor family in the southern state of North Carolina.
+	- As a child, Johnson had little formal education. Instead, he trained to be a tailor.
+	- When he was a young man, Johnson moved to Tennessee, another southern state. He opened a tailoring business, where he made, repaired and sold clothing.
+	- When he was 18 years old, he married. His wife, Eliza McCardle, was only 16. They went on to have five children together.
+	- Eliza McCardle Johnson did not come from a wealthy family, either. But she was better educated than her husband, and she helped him develop his reading and writing skills.
+	- She also supported his gift for public speaking. Johnson's speeches were especially popular with workers in their community. They liked his criticism of the state's wealthy planters.
+	- The workers also liked his politics. At the time, Johnson supported measures that permitted slavery to expand across the country. He was clear in his speeches that he did not support equality between whites and African-Americans, whether enslaved or free.
+	- In time, Johnson held many political offices: mayor, Tennessee's governor, state legislator, and member of the U.S. House of Representatives. When the Civil War began, he was a member of the U.S. Senate.
+	- Although he was a Southerner, he did not believe the Southern states had a right to withdraw from the Union. When the other Southern senators resigned from the U.S. Congress, Johnson stayed.
+	- As a result, most Southerners considered him a traitor. But most Northerners considered him a hero.
+	- ## Election of 1864
+	- By 1864, the American Civil War was three years old. The conflict was becoming increasingly fierce and bloody. That year, the states that remained in the Union held their presidential election.
+	- The president, Abraham Lincoln, wanted to win re-election and continue directing the Union's war effort. But he was not sure that voters in the opposition Democratic Party would support him.
+	- So he turned to Andrew Johnson to be his choice for vice president.
+	- Johnson was a pro-slavery Democrat. Lincoln was an anti-slavery Republican. In the U.S. tradition, presidential candidates do not usually choose someone from a different party to serve as vice president.
+	- But in this case, Lincoln's Republicans did. They called the Lincoln-Johnson partnership the National Union Party.
+	- Political leaders hoped Johnson would appeal to Democrats who supported the war effort, to workers and to small farmers. The plan – along with several military successes for the Union – helped carry the National Union Party to victory.
+	- The swearing-in ceremony the following March, however, suggested some of the difficulties ahead. Johnson was sick. To feel better, he had a lot of alcoholic drinks the night before the ceremony. The next morning, he drank some more.
+	- When Johnson stood to give his speech, he appeared unsteady. He talked about his poor family and his simple beginnings. Then he spoke angrily about wealthy Southern planters who had withdrawn from the Union. He became increasingly confused.
+	- Other people in the crowd wrote later that they felt embarrassed by Johnson's behavior. And some Republicans began calling already for his resignation – or even impeachment.
+	- Those critics could not have predicted that in a few weeks, Johnson would be the president.
+	- ## Presidency
+	- A few very important events happened in the weeks after Lincoln and Johnson were sworn-in.
+	- In April, Lincoln was shot and killed. Johnson took office as the new president.
+	- The following month, the Civil War officially ended. The Confederate States of America was no more.
+	- And that December, a majority of states approved the 13th Amendment to the U.S. Constitution. That amendment ended slavery across the country.
+	- President Johnson, therefore, guided the process of re-uniting the North and South, and supervised the transition of many African-Americans from slavery to freedom. That period in U.S. history is called Reconstruction.
+	- Members of Congress from the Northern states had been thinking for a long time about how to carry out Reconstruction. The most extreme lawmakers, the Radical Republicans, wanted to punish former Confederate officials and extend political and civil rights to African-Americans.
+	- Johnson had different ideas. In the first months of his presidency, before Congress had met, Johnson pardoned many former Confederate officials.
+	- He also let Southerners rebuild their state governments as they wished. Those governments quickly passed laws called Black Codes.
+	- Black Codes restricted the freedom and rights of African-Americans. They permitted white land owners to control African-Americans' labor, much as they had when the workers were slaves. The laws were enforced by all-white police and militia.
+	- Radical Republicans in Congress – as well as African-Americans – objected strongly to the Black Codes. When Congress finally did meet, Republican lawmakers voted for a measure to help and protect formerly enslaved people.
+	- But Johnson vetoed the measure. He said the bill would give the federal government too much power.
+	- Johnson's veto was one move in a political war between the president and many Republicans.
+	- In time, lawmakers got the upper hand. The Republican Congress soon took control of Reconstruction. Against Johnson's wishes, they succeeded in passing several major pieces of legislation.
+	- One was the Civil Rights Act of 1866. It recognized that everyone born in the United States – including African-Americans, although not Native Americans – was a citizen.
+	- Another was the extension of the Freedman's Bureau Act, the measure that Johnson had earlier vetoed. For two more years, the federal government was authorized to help people displaced by the Civil War.
+	- Finally, lawmakers passed a measure barring the president from dismissing any top officials without the approval of Congress.
+	- President Johnson ignored the measure. When he believed the secretary of war did not treat him respectfully, the president ordered that man's dismissal.
+	- In answer, members of the U.S. House of Representatives voted to impeach Johnson. In other words, they charged him with a crime. It was the first time in U.S. history that a president has been impeached.
+	- But "impeached" does not always mean removed from office. The case moves to the Senate. There, senators act as a jury. They decide whether the president is guilty. Two-thirds of the Senate must agree to convict the president.
+	- In the case of Andrew Johnson, 54 senators considered his case. For him to be removed from office, 20 would need to find him guilty. But only 19 did. His position was saved by a single vote.
+	- ## Legacy
+	- Although Johnson survived impeachment, he was not nominated as a candidate for president in the next election. Instead, he returned to his home in Tennessee, then competed for a seat back in Congress.
+	- On the third try, he succeeded. Johnson is the first and only – so far – former president to serve as a senator.
+	- He did not stay in the position long, however. A few months after returning to Congress, Johnson died suddenly after suffering a stroke. He was 66 years old.
+	- Today historians have mixed feelings about his presidency. Johnson's supporters approve of his limits on the federal government and belief in a firm separation of powers among Congress, the president and Supreme Court.
+	- But most historians believe Johnson's Reconstruction policies were extremely damaging. They did not help re-unite the North and South. And they extended the suffering of African-Americans and the country's history of racial oppression.
+-

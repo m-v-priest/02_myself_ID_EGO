@@ -1,0 +1,109 @@
+title:: 072 Herbert Hoover: Blamed
+
+- ## 072 Herbert Hoover: Blamed
+- ## pure
+  collapsed:: true
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about Herbert Hoover. He took office in 1929.
+	- Hoover was president for the early years of what Americans call the Great Depression. During those years, the United States economy slid into a severe recession.
+	- Many banks and businesses failed. At times, nearly one in four people in the U.S. workforce were unemployed. Millions of people lost their homes and savings.
+	- Hoover did not cause the depression. The conditions had been in place before he took office.
+	- But many Americans blamed Hoover for their suffering. They believed he permitted the economic crisis to continue – and even deepen – during his time in office.
+	- ## Early life
+	- Herbert Hoover was born in a small house in the state of Iowa. His parents were Quakers. Their religion valued simplicity, hard work, equality among people, and peaceful resolution of conflict.
+	- Hoover and his brother and sister were influenced by these beliefs, even after their parents died.
+	- By the time young Herbert Hoover was nine, he was an orphan. He moved to the state of Oregon, in the Pacific Northwest, and lived with an uncle.
+	- Hoover did not thrive in that situation. Reports say that he usually kept to himself. And he did not do particularly well in school.
+	- Yet one official from Stanford University liked what he saw in the young man – hard work and a desire to learn new things. At the time, Stanford University was just getting established. It admitted Hoover into its first class.
+	- Hoover had to work hard at Stanford, both in class and to earn money to pay tuition. But the experience brought many benefits.
+	- Hoover studied geology, and went on to work as a mining engineer. The job led to positions in Australia, China and other parts of the world. He became an internationally-known expert on mining. He also wrote a leading textbook on mining.
+	- These experiences, along with good business investments, led to great wealth for Hoover.
+	- At Stanford, he also met the woman who would become his wife. Her name was Lou Henry. She was the first woman from Stanford to complete a study program with a degree in geology.
+	- The Hoovers went on to have two sons.
+	- ## Humanitarian work
+	- During World War I, the Hoovers' lives changed dramatically. The family was living in London when the war began. U.S. government officials asked Hoover to organize an evacuation effort for American tourists who were in Europe. In only a few weeks, Hoover's committee succeeded.
+	- Later, he helped get food and supplies to people in Belgium.
+	- As a result, Hoover earned a public image as a smart, skilled humanitarian.
+	- When the United States entered World War I, President Woodrow Wilson asked Hoover to lead the government's Food Administration.
+	- In that position, Hoover led an effort to change Americans' behavior in order to support the war effort. He asked them to limit the kinds of food they ate and goods they bought.
+	- The effort was, for the most part, successful. Americans called their moves to limit their consumption "to Hooverize."
+	- Hoover went on to organize programs to aid other countries, including Russia. He also helped parts of the U.S. recover after terrible flooding.
+	- And, as secretary of commerce, he pushed businesses, researchers, and government officials to work together. Hoover aimed to reduce "boom and bust" cycles and keep the U.S. economy healthy.
+	- In all his efforts, Hoover urged Americans to choose to participate. He did not believe in using government requirements to force cooperation.
+	- Instead, he supported "individualism" – the idea that Americans must protect the qualities of creativity, equal opportunity, and service to others.
+	- Hoover's beliefs were popular with many Americans at the time – and with many Americans today.
+	- In the election of 1928, Hoover easily won the presidency. He promised to continue leading the country down the path of prosperity.
+	- ## Presidency
+	- When Hoover took office in 1929, he said, "I have no fears for the future of our country. It is bright with hope."
+	- That was in March.
+	- In October, the U.S. stock market crashed. Thousands of investors lost their savings.
+	- The event was part of a sharp downturn in the economies of the United States and of many other countries.
+	- At first, Hoover believed the downturn would pass. But as time went on, the situation grew worse. Businesses could not expand their workforce. Farmers could not afford to harvest their crops. Everyday people had too little money to pay for housing costs and, in some cases, food. And then banks across the country began to fail.
+	- President Hoover worked hard to fix the problems. He tried many approaches: creating government agencies, urging private and public groups to cooperate, and working to balance the federal budget.
+	- But Hoover did not want to use federal money to provide direct aid to Americans. He worried that such actions would make people dependent on the government, and reduce people's individual power and morale.
+	- Nor did he want to use the federal government to try to control the economy. Government intervention, he said, would lead to socialism, and eventually destroy the country's founding beliefs.
+	- Instead, Hoover tried to support states and businesses indirectly and urged people to find ways to help one another.
+	- Yet many lawmakers and members of the public rejected Hoover's measures as insufficient, and even cruel.
+	- Some used his name differently than they had before he took office. Now, they called the dirty shelters where hungry and homeless people lived "Hoovervilles."
+	- And they called men's empty pockets "Hoover flags."
+	- Although Hoover tried to persuade Americans that he was protecting their interests in the long run, voters refused to elect him for a second term.
+	- Instead, they overwhelming chose a president who promised an activist federal government and a hopeful "new deal" for Americans.
+	- ## Legacy
+	- After they left the White House, the Hoovers retired to their home in Palo Alto, California.
+	- Lou Henry Hoover died in 1944. But Hoover lived 20 more years, many of them working for the public good. He helped international relief efforts, advised the U.S. government, and led committees to reform the presidency.
+	- Hoover also commented on later presidents and their policy decisions. He was especially critical of government programs set up to provide aid and intervention in Americans' lives.
+	- Until his death from cancer at the age of 90, Hoover remained committed to his beliefs. He spoke for limiting the power of the federal government and for supporting freedom of opportunity for individuals.
+	- But in the eyes of many Americans, Hoover is linked to the failure of the federal government to lessen the Great Depression.
+- ---
+- ## def
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about Herbert Hoover. He took office in 1929.
+	- Hoover was president for the early years of what Americans call the Great Depression. During those years, the United States economy slid into a severe recession.
+	- Many banks and businesses failed. At times, nearly one in four people in the U.S. workforce were unemployed. Millions of people lost their homes and savings.
+	- Hoover did not cause the depression. The conditions had been in place before he took office.
+	- But many Americans blamed Hoover for their suffering. They believed he permitted the economic crisis to continue – and even deepen – during his time in office.
+	- ## Early life
+	- Herbert Hoover was born in a small house in the state of Iowa. His parents were Quakers. Their religion valued simplicity, hard work, equality among people, and peaceful resolution of conflict.
+	- Hoover and his brother and sister were influenced by these beliefs, even after their parents died.
+	- By the time young Herbert Hoover was nine, he was an orphan. He moved to the state of Oregon, in the Pacific Northwest, and lived with an uncle.
+	- Hoover did not thrive in that situation. Reports say that he usually kept to himself. And he did not do particularly well in school.
+	- Yet one official from Stanford University liked what he saw in the young man – hard work and a desire to learn new things. At the time, Stanford University was just getting established. It admitted Hoover into its first class.
+	- Hoover had to work hard at Stanford, both in class and to earn money to pay tuition. But the experience brought many benefits.
+	- Hoover studied geology, and went on to work as a mining engineer. The job led to positions in Australia, China and other parts of the world. He became an internationally-known expert on mining. He also wrote a leading textbook on mining.
+	- These experiences, along with good business investments, led to great wealth for Hoover.
+	- At Stanford, he also met the woman who would become his wife. Her name was Lou Henry. She was the first woman from Stanford to complete a study program with a degree in geology.
+	- The Hoovers went on to have two sons.
+	- ## Humanitarian work
+	- During World War I, the Hoovers' lives changed dramatically. The family was living in London when the war began. U.S. government officials asked Hoover to organize an evacuation effort for American tourists who were in Europe. In only a few weeks, Hoover's committee succeeded.
+	- Later, he helped get food and supplies to people in Belgium.
+	- As a result, Hoover earned a public image as a smart, skilled humanitarian.
+	- When the United States entered World War I, President Woodrow Wilson asked Hoover to lead the government's Food Administration.
+	- In that position, Hoover led an effort to change Americans' behavior in order to support the war effort. He asked them to limit the kinds of food they ate and goods they bought.
+	- The effort was, for the most part, successful. Americans called their moves to limit their consumption "to Hooverize."
+	- Hoover went on to organize programs to aid other countries, including Russia. He also helped parts of the U.S. recover after terrible flooding.
+	- And, as secretary of commerce, he pushed businesses, researchers, and government officials to work together. Hoover aimed to reduce "boom and bust" cycles and keep the U.S. economy healthy.
+	- In all his efforts, Hoover urged Americans to choose to participate. He did not believe in using government requirements to force cooperation.
+	- Instead, he supported "individualism" – the idea that Americans must protect the qualities of creativity, equal opportunity, and service to others.
+	- Hoover's beliefs were popular with many Americans at the time – and with many Americans today.
+	- In the election of 1928, Hoover easily won the presidency. He promised to continue leading the country down the path of prosperity.
+	- ## Presidency
+	- When Hoover took office in 1929, he said, "I have no fears for the future of our country. It is bright with hope."
+	- That was in March.
+	- In October, the U.S. stock market crashed. Thousands of investors lost their savings.
+	- The event was part of a sharp downturn in the economies of the United States and of many other countries.
+	- At first, Hoover believed the downturn would pass. But as time went on, the situation grew worse. Businesses could not expand their workforce. Farmers could not afford to harvest their crops. Everyday people had too little money to pay for housing costs and, in some cases, food. And then banks across the country began to fail.
+	- President Hoover worked hard to fix the problems. He tried many approaches: creating government agencies, urging private and public groups to cooperate, and working to balance the federal budget.
+	- But Hoover did not want to use federal money to provide direct aid to Americans. He worried that such actions would make people dependent on the government, and reduce people's individual power and morale.
+	- Nor did he want to use the federal government to try to control the economy. Government intervention, he said, would lead to socialism, and eventually destroy the country's founding beliefs.
+	- Instead, Hoover tried to support states and businesses indirectly and urged people to find ways to help one another.
+	- Yet many lawmakers and members of the public rejected Hoover's measures as insufficient, and even cruel.
+	- Some used his name differently than they had before he took office. Now, they called the dirty shelters where hungry and homeless people lived "Hoovervilles."
+	- And they called men's empty pockets "Hoover flags."
+	- Although Hoover tried to persuade Americans that he was protecting their interests in the long run, voters refused to elect him for a second term.
+	- Instead, they overwhelming chose a president who promised an activist federal government and a hopeful "new deal" for Americans.
+	- ## Legacy
+	- After they left the White House, the Hoovers retired to their home in Palo Alto, California.
+	- Lou Henry Hoover died in 1944. But Hoover lived 20 more years, many of them working for the public good. He helped international relief efforts, advised the U.S. government, and led committees to reform the presidency.
+	- Hoover also commented on later presidents and their policy decisions. He was especially critical of government programs set up to provide aid and intervention in Americans' lives.
+	- Until his death from cancer at the age of 90, Hoover remained committed to his beliefs. He spoke for limiting the power of the federal government and for supporting freedom of opportunity for individuals.
+	- But in the eyes of many Americans, Hoover is linked to the failure of the federal government to lessen the Great Depression.

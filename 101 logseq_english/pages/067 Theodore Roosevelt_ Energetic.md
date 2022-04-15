@@ -1,0 +1,95 @@
+title:: 067 Theodore Roosevelt: Energetic
+
+- ## Theodore Roosevelt: Energetic
+- ## pure
+  collapsed:: true
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about Theodore Roosevelt, the 26th president of the United States.
+	- Many Americans like to call him "Teddy" Roosevelt or even "T.R." These nicknames for the president show that Roosevelt was, in general, popular with the public. He is one of the four presidents whose face can be seen on Mount Rushmore, a memorial to famous U.S. leaders.
+	- Historians note that Roosevelt's term in office marks the beginning of the modern presidency. In other words, he expanded the position, and used the media to connect with the public.
+	- Among Americans, his public image is often linked to youth, energy, strength, courage, and playfulness. But his image has also been linked to a strong liking for military action – and for oneself.
+	- ## Early life
+	- Theodore Roosevelt is also often tied to the American West, but he was born and raised on the East Coast, in New York City. His father was a wealthy businessman. His mother was from a Southern planter family that owned slaves.
+	- Theodore Roosevelt had two sisters and a brother. His family called him by another nickname: Teedie.
+	- When he was a boy, young Theodore was often sick. He had asthma, a lung condition that could make physical activity difficult.
+	- So, as he got older, Roosevelt strengthened his body. For the rest of his life, he strongly believed in physical exercise and vigorous activity – what he called "the strenuous life."
+	- Young Roosevelt also had hunger for learning. He studied with private tutors, traveled overseas, and studied many subjects while in college at Harvard.
+	- After his college years, he studied law briefly, and then began serving in public office in New York.
+	- But tragedy halted his early government service.
+	- Roosevelt had married Alice Hathaway Lee, who soon became pregnant.
+	- But two days after the baby was born, Roosevelt's wife died of kidney disease.
+	- And, as it happened, Roosevelt's mother died on the same day, in the same house. She suffered from Bright's Disease, another disorder affecting the kidneys.
+	- The future president was struck by grief. He left his baby daughter with his sister and went to the American West. There, Roosevelt lived as a cowboy – hunting, riding horses, taking part in cattle drives, and even chasing people who broke the law. The experience helped define Roosevelt's life and beliefs.
+	- But after two years, he was ready to return to the East Coast. There, he married Edith Kermit Carow, a woman he had known since childhood. They settled in a house on Long Island, New York and raised Roosevelt's daughter, Alice. He and Edith also had five other children.
+	- His family supported Roosevelt's rise in Republican Party politics, including his campaign to become governor of New York.
+	- But some of the party officials were not happy with Roosevelt. They did not like his independence, and they did not want him to be re-elected as governor. So, they plotted to have him nominated as U.S. vice president in the election of 1900. They believed Roosevelt would not be able to give them much trouble in that position.
+	- As the Republican leaders hoped, Roosevelt and the sitting president, William McKinley, won both the popular and electoral vote in a landslide.
+	- But less than a year later, McKinley was dead.
+	- And with that, Republican leaders found that the man they wanted to get out of their way was now the country's 26th president.
+	- ## Presidency
+	- When he became president, Roosevelt was only 42 years old. He is still the youngest person to hold that office.
+	- At first, Roosevelt promised to continue the policies of McKinley, who was, after all, the president voters had re-elected.
+	- But Roosevelt quickly put his own mark on the presidency. He is known for trying to balance the needs of many groups in society, including business owners, farmers and workers.
+	- Roosevelt called his program the "Square Deal." In other words, he suggested that everyone was treated fairly.
+	- However, some Americans objected to Roosevelt reducing the power of big businesses. They said his use of government rules, in general, did not let market forces operate freely.
+	- Roosevelt is also known for protecting the nation's wilderness areas. He set aside more than 800,000 square kilometers of land to protect nature and wildlife.
+	- In his foreign policy, Roosevelt was energetic. He helped Panama win independence from Colombia in order to start building the Panama Canal. He also defended and even added to the Monroe Doctrine, an idea from the presidency of James Monroe.
+	- Roosevelt confirmed that the United States would bar European powers from intervening in South America. And, more than that, that the U.S. would "police" the Western Hemisphere and make sure that countries honored their international obligations.
+	- In other words, Roosevelt believed the United States had the right and responsibility to be a world power. If diplomatic negotiations did not work, he was not afraid to threaten the use of force. He famously said, "Speak softly and carry a big stick; you will go far."
+	- Voters approved of Roosevelt's actions. Or, at least they enjoyed his leadership, and his young family that played all over the White House.
+	- In 1904, Roosevelt easily won the presidency in his own right. He is the first vice president who took power after the death of a sitting president to earn his own term.
+	- ## Legacy
+	- Although he was permitted to seek another term as president, Roosevelt promised not to. He left the White House in 1909, still a very young man.
+	- For a while, he traveled overseas. But when he returned home, he did not like the direction the new president and the Republican Party was going.
+	- So Roosevelt created a new political group, called the Progressive Party – or, as some called it, the Bull Moose Party. Not surprisingly, the term "bull moose" was meant to suggest Roosevelt and his animal-like strength.
+	- Although he earned many votes, Roosevelt did not win the 1912 election. Instead, he split the votes of the Republican Party, and permitted a Democrat to win the presidency.
+	- Roosevelt's efforts were not entirely lost, however. Later presidents – including Franklin Roosevelt, Harry Truman, John Kennedy, and Lyndon Johnson – used many of his ideas for reform.
+	- And, major U.S. political parties today often find lessons from Roosevelt's presidency they admire or support. Both Democrat Bill Clinton and Republican George W. Bush said Theodore Roosevelt was one of their role models.
+	- In the years after the 1912 election, Roosevelt remained active. He traveled, campaigned, and continued to try to influence politics from his home in New York, where he died unexpectedly in his sleep at age 60.
+	- One public official observed, "Death had to take Roosevelt sleeping, for if he had been awake, there would have been a fight."
+- ---
+- ## def
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about Theodore Roosevelt, the 26th president of the United States.
+	- Many Americans like to call him "Teddy" Roosevelt or even "T.R." These nicknames for the president show that Roosevelt was, in general, popular with the public. He is one of the four presidents whose face can be seen on Mount Rushmore, a memorial to famous U.S. leaders.
+	- Historians note that Roosevelt's term in office marks the beginning of the modern presidency. In other words, he expanded the position, and used the media to connect with the public.
+	- Among Americans, his public image is often linked to youth, energy, strength, courage, and playfulness. But his image has also been linked to a strong liking for military action – and for oneself.
+	- ## Early life
+	- Theodore Roosevelt is also often tied to the American West, but he was born and raised on the East Coast, in New York City. His father was a wealthy businessman. His mother was from a Southern planter family that owned slaves.
+	- Theodore Roosevelt had two sisters and a brother. His family called him by another nickname: Teedie.
+	- When he was a boy, young Theodore was often sick. He had asthma, a lung condition that could make physical activity difficult.
+	- So, as he got older, Roosevelt strengthened his body. For the rest of his life, he strongly believed in physical exercise and vigorous activity – what he called "the strenuous life."
+	- Young Roosevelt also had hunger for learning. He studied with private tutors, traveled overseas, and studied many subjects while in college at Harvard.
+	- After his college years, he studied law briefly, and then began serving in public office in New York.
+	- But tragedy halted his early government service.
+	- Roosevelt had married Alice Hathaway Lee, who soon became pregnant.
+	- But two days after the baby was born, Roosevelt's wife died of kidney disease.
+	- And, as it happened, Roosevelt's mother died on the same day, in the same house. She suffered from Bright's Disease, another disorder affecting the kidneys.
+	- The future president was struck by grief. He left his baby daughter with his sister and went to the American West. There, Roosevelt lived as a cowboy – hunting, riding horses, taking part in cattle drives, and even chasing people who broke the law. The experience helped define Roosevelt's life and beliefs.
+	- But after two years, he was ready to return to the East Coast. There, he married Edith Kermit Carow, a woman he had known since childhood. They settled in a house on Long Island, New York and raised Roosevelt's daughter, Alice. He and Edith also had five other children.
+	- His family supported Roosevelt's rise in Republican Party politics, including his campaign to become governor of New York.
+	- But some of the party officials were not happy with Roosevelt. They did not like his independence, and they did not want him to be re-elected as governor. So, they plotted to have him nominated as U.S. vice president in the election of 1900. They believed Roosevelt would not be able to give them much trouble in that position.
+	- As the Republican leaders hoped, Roosevelt and the sitting president, William McKinley, won both the popular and electoral vote in a landslide.
+	- But less than a year later, McKinley was dead.
+	- And with that, Republican leaders found that the man they wanted to get out of their way was now the country's 26th president.
+	- ## Presidency
+	- When he became president, Roosevelt was only 42 years old. He is still the youngest person to hold that office.
+	- At first, Roosevelt promised to continue the policies of McKinley, who was, after all, the president voters had re-elected.
+	- But Roosevelt quickly put his own mark on the presidency. He is known for trying to balance the needs of many groups in society, including business owners, farmers and workers.
+	- Roosevelt called his program the "Square Deal." In other words, he suggested that everyone was treated fairly.
+	- However, some Americans objected to Roosevelt reducing the power of big businesses. They said his use of government rules, in general, did not let market forces operate freely.
+	- Roosevelt is also known for protecting the nation's wilderness areas. He set aside more than 800,000 square kilometers of land to protect nature and wildlife.
+	- In his foreign policy, Roosevelt was energetic. He helped Panama win independence from Colombia in order to start building the Panama Canal. He also defended and even added to the Monroe Doctrine, an idea from the presidency of James Monroe.
+	- Roosevelt confirmed that the United States would bar European powers from intervening in South America. And, more than that, that the U.S. would "police" the Western Hemisphere and make sure that countries honored their international obligations.
+	- In other words, Roosevelt believed the United States had the right and responsibility to be a world power. If diplomatic negotiations did not work, he was not afraid to threaten the use of force. He famously said, "Speak softly and carry a big stick; you will go far."
+	- Voters approved of Roosevelt's actions. Or, at least they enjoyed his leadership, and his young family that played all over the White House.
+	- In 1904, Roosevelt easily won the presidency in his own right. He is the first vice president who took power after the death of a sitting president to earn his own term.
+	- ## Legacy
+	- Although he was permitted to seek another term as president, Roosevelt promised not to. He left the White House in 1909, still a very young man.
+	- For a while, he traveled overseas. But when he returned home, he did not like the direction the new president and the Republican Party was going.
+	- So Roosevelt created a new political group, called the Progressive Party – or, as some called it, the Bull Moose Party. Not surprisingly, the term "bull moose" was meant to suggest Roosevelt and his animal-like strength.
+	- Although he earned many votes, Roosevelt did not win the 1912 election. Instead, he split the votes of the Republican Party, and permitted a Democrat to win the presidency.
+	- Roosevelt's efforts were not entirely lost, however. Later presidents – including Franklin Roosevelt, Harry Truman, John Kennedy, and Lyndon Johnson – used many of his ideas for reform.
+	- And, major U.S. political parties today often find lessons from Roosevelt's presidency they admire or support. Both Democrat Bill Clinton and Republican George W. Bush said Theodore Roosevelt was one of their role models.
+	- In the years after the 1912 election, Roosevelt remained active. He traveled, campaigned, and continued to try to influence politics from his home in New York, where he died unexpectedly in his sleep at age 60.
+	- One public official observed, "Death had to take Roosevelt sleeping, for if he had been awake, there would have been a fight."

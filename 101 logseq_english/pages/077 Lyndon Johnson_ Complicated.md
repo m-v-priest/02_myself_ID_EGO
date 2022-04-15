@@ -1,0 +1,125 @@
+title:: 077 Lyndon Johnson: Complicated
+
+- ## 077 Lyndon Johnson: Complicated
+- ## pure
+  collapsed:: true
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about Lyndon Johnson. He was the vice president under John F. Kennedy.
+	- Many Americans recognize Johnson from a photograph of his swearing-in on November 22, 1963.
+	- Kennedy had just been shot during a visit to Dallas, Texas. Johnson and his wife also were visiting the city.
+	- After doctors announced that Kennedy had died, the Johnsons were taken to the presidential airplane. There, Johnson took the oath of office as president.
+	- Men wearing suits look on, while three women stand around him. His wife, Lady Bird Johnson, is at one side. Former first lady Jackie Kennedy is at the other. She is still wearing clothing covered with her husband's blood. The judge who is administering the oath, Sarah Hughes, stands in front of Lyndon Johnson. She holds a prayer book on which Johnson places one hand and swears to follow the Constitution.
+	- The photograph showed the American people that the federal government could and would continue in an orderly way.
+	- But Johnson's position was difficult. Many people were shocked and in mourning for the assassinated president.
+	- But as the conflict in Vietnam increased, and some Americans rejected Johnson's reforms, he found his position difficult again.In the next election, Johnson was elected president in his own right.
+	- ## Early life
+	- Lyndon Baines Johnson was born in Texas, where his family had lived for generations. A town called Johnson was even named after his relatives.
+	- Lyndon was the oldest of five children. His mother was a teacher and writer, and his father was a farmer and political leader.
+	- In time, the Johnson family experienced financial difficulties. They had little money to give their children much of an education, but Lyndon was able to attend a teaching college.
+	- Johnson excelled as a teacher. He also learned from his students. Many were even poorer than he was. They also faced discrimination because they came from Mexican families. Johnson promised to help them.
+	- But he found he could do more to improve people's lives as a politician than as a teacher.
+	- He volunteered for some political campaigns, became an aide to a member of the United States Congress, and in time became a member of Congress himself.
+	- Along the way, he married a woman named Claudia Taylor. But everyone called her Lady Bird. They went on to have two daughters.
+	- Johnson served for 12 years in the U.S. House of Representatives. In 1948, he was narrowly elected to the Senate, becoming one of the two senators from the state of Texas.
+	- From there, Johnson rose quickly. He took on increasingly important jobs in the Senate. By 1954, he was the Senate majority leader – the Democratic Party's top spokesman in the Senate.
+	- The Senate website notes that the person with that job needs to be able to work well with others, especially members of other parties.
+	- Historians also note that Johnson worked very hard, and was always prepared.
+	- A well-known biography of Johnson is called "Master of the Senate." The book describes Johnson as extremely ambitious, sometimes cruel, and often willing to praise others to get what he wanted. At the same time, he could be very concerned about other people's well-being.
+	- In other words, the picture of Johnson is a complicated one.
+	- In 1960, he competed against John F. Kennedy for the Democratic presidential nomination. Johnson lost that race – but the party asked him to be their vice presidential candidate instead.
+	- Johnson agreed, not knowing that in a little more than three years, he would enter the White House as president.
+	- ## Presidency
+	- After being sworn-in, Johnson used his political experience in the Senate to pass a number of reforms. They were aimed at carrying on, in his words, a "War on Poverty."
+	- The new laws created healthcare and education programs. They also used federal money to make food less costly for some people, and to train workers for jobs.
+	- Johnson also continued the work Kennedy began by signing the Civil Rights Act of 1964. The act made segregation because of race, religion, or national origin illegal.
+	- The Civil Rights Act also made it illegal for employers to discriminate against someone because of race, religion, national origin, or gender.
+	- The reforms had their critics, then and today. But in the presidential election of 1964, Johnson won "by the widest margin of popular votes in American history." Historian Kent Germany says that vote gave the Democrats a rare opening "to pass a comprehensive liberal program."
+	- R
+	- ## Presidency after 1964
+	- Johnson had a name for such a program. He called it the "Great Society." He said the United States should aim not only to be a rich and powerful society, but also to "end poverty and racial injustice."
+	- Johnson followed his earlier reforms with others. They sought to prevent crime, reduce pollution, support the arts, make roads safer, and protect American consumers against bad products. His administration also created an immigration policy that valued family members, skilled workers, and refugees.
+	- Johnson also signed the Voting Rights Act of 1965. It sought to lift the barriers that had long prevented African-American men and women from exercising their right to vote.
+	- Later, Johnson removed legal discrimination in the process of buying and renting homes.
+	- Together, these actions have linked Johnson to the civil rights movement in the minds of many Americans. Yet Johnson is also strongly linked to another part of U.S. history, often known simply as "Vietnam."
+	- Earlier presidents had ordered U.S. military action in the conflict between North and South Vietnam. Since 1950, Presidents Truman, Eisenhower, and Kennedy had slowly increased the American intervention. Their goal was to prevent the spread of communism in Southeast Asia.
+	- President Johnson continued Kennedy's policies. He also received the support of Congress to do whatever was necessary to protect U.S. forces and "prevent further aggression" by North Vietnam's communist government.
+	- Yet, when he was a presidential candidate in 1964, Johnson promised not to increase U.S. involvement and send young Americans to fight in Vietnam.
+	- The opposite happened.
+	- Over the next four years, Johnson called on hundreds of thousands of additional U.S. troops to fight on the ground and in the air. The North Vietnamese fought back, both on the battle field and politically.
+	- In time, the American public withdrew their support of the struggle and their support for the president.
+	- By early 1968, Johnson had become deeply unpopular with voters. His party lost seats in Congress, and Johnson lost his ability to persuade lawmakers to support the measures he proposed.
+	- In addition, the U.S. economy was showing signs of weakness, partly because of the costs of the conflict in Vietnam and government spending at home.
+	- As the presidential nominating process began in early 1968, Johnson was permitted to seek another four-year term. But he announced that he would not seek or accept his party's nomination.
+	- Shortly after, civil rights leader Martin Luther King, Jr. was shot and killed. Angered by his murder, people in more than 100 cities rioted.
+	- Then, in June, John Kennedy's brother, Robert Kennedy, was also assassinated. Kennedy had been competing for the Democrats' nomination for president.
+	- His death, and Johnson's withdrawal, added to the divisions in the Democratic Party. Several groups gathered to protest at the party's nominating convention in Chicago. The meeting ended in violent clashes between protesters and police.
+	- By the time Johnson left office in January 1969, his party had lost control of the White House, and many Americans believed the country was in disarray.
+	- ## Legacy
+	- After he left the presidency, Johnson returned to his home in Texas. He wrote his memories about his White House years, and made preparations for his presidential library.
+	- But he did not live much longer. He died in 1973, hours before the U.S. involvement in Vietnam officially came to a close.
+	- Johnson was a complex person, and his image in the mind of many Americans is just as complicated. His policies opened new paths for many people, but also led to years of death and destruction in Vietnam.
+	- As a president, he acted powerfully and often independently, and succeeded in passing an unusually large number of reforms. But he also failed to persuade many Americans to accept some of those measures.
+	- Supporters of the free market especially strongly rejected the government controls Johnson enacted.
+	- Even some in his Democratic Party, which Johnson had controlled for years, lost faith in him. In 1964, anti-war activists changed his campaign slogan, "All the way with LBJ." Instead, they said, "Part of the way with LBJ."
+	- And by 1968, they were saying, "Hey, Hey, LBJ. How many kids did you kill today?"
+- ---
+- ## def
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about Lyndon Johnson. He was the vice president under John F. Kennedy.
+	- Many Americans recognize Johnson from a photograph of his swearing-in on November 22, 1963.
+	- Kennedy had just been shot during a visit to Dallas, Texas. Johnson and his wife also were visiting the city.
+	- After doctors announced that Kennedy had died, the Johnsons were taken to the presidential airplane. There, Johnson took the oath of office as president.
+	- Men wearing suits look on, while three women stand around him. His wife, Lady Bird Johnson, is at one side. Former first lady Jackie Kennedy is at the other. She is still wearing clothing covered with her husband's blood. The judge who is administering the oath, Sarah Hughes, stands in front of Lyndon Johnson. She holds a prayer book on which Johnson places one hand and swears to follow the Constitution.
+	- The photograph showed the American people that the federal government could and would continue in an orderly way.
+	- But Johnson's position was difficult. Many people were shocked and in mourning for the assassinated president.
+	- But as the conflict in Vietnam increased, and some Americans rejected Johnson's reforms, he found his position difficult again.In the next election, Johnson was elected president in his own right.
+	- ## Early life
+	- Lyndon Baines Johnson was born in Texas, where his family had lived for generations. A town called Johnson was even named after his relatives.
+	- Lyndon was the oldest of five children. His mother was a teacher and writer, and his father was a farmer and political leader.
+	- In time, the Johnson family experienced financial difficulties. They had little money to give their children much of an education, but Lyndon was able to attend a teaching college.
+	- Johnson excelled as a teacher. He also learned from his students. Many were even poorer than he was. They also faced discrimination because they came from Mexican families. Johnson promised to help them.
+	- But he found he could do more to improve people's lives as a politician than as a teacher.
+	- He volunteered for some political campaigns, became an aide to a member of the United States Congress, and in time became a member of Congress himself.
+	- Along the way, he married a woman named Claudia Taylor. But everyone called her Lady Bird. They went on to have two daughters.
+	- Johnson served for 12 years in the U.S. House of Representatives. In 1948, he was narrowly elected to the Senate, becoming one of the two senators from the state of Texas.
+	- From there, Johnson rose quickly. He took on increasingly important jobs in the Senate. By 1954, he was the Senate majority leader – the Democratic Party's top spokesman in the Senate.
+	- The Senate website notes that the person with that job needs to be able to work well with others, especially members of other parties.
+	- Historians also note that Johnson worked very hard, and was always prepared.
+	- A well-known biography of Johnson is called "Master of the Senate." The book describes Johnson as extremely ambitious, sometimes cruel, and often willing to praise others to get what he wanted. At the same time, he could be very concerned about other people's well-being.
+	- In other words, the picture of Johnson is a complicated one.
+	- In 1960, he competed against John F. Kennedy for the Democratic presidential nomination. Johnson lost that race – but the party asked him to be their vice presidential candidate instead.
+	- Johnson agreed, not knowing that in a little more than three years, he would enter the White House as president.
+	- ## Presidency
+	- After being sworn-in, Johnson used his political experience in the Senate to pass a number of reforms. They were aimed at carrying on, in his words, a "War on Poverty."
+	- The new laws created healthcare and education programs. They also used federal money to make food less costly for some people, and to train workers for jobs.
+	- Johnson also continued the work Kennedy began by signing the Civil Rights Act of 1964. The act made segregation because of race, religion, or national origin illegal.
+	- The Civil Rights Act also made it illegal for employers to discriminate against someone because of race, religion, national origin, or gender.
+	- The reforms had their critics, then and today. But in the presidential election of 1964, Johnson won "by the widest margin of popular votes in American history." Historian Kent Germany says that vote gave the Democrats a rare opening "to pass a comprehensive liberal program."
+	- R
+	- ## Presidency after 1964
+	- Johnson had a name for such a program. He called it the "Great Society." He said the United States should aim not only to be a rich and powerful society, but also to "end poverty and racial injustice."
+	- Johnson followed his earlier reforms with others. They sought to prevent crime, reduce pollution, support the arts, make roads safer, and protect American consumers against bad products. His administration also created an immigration policy that valued family members, skilled workers, and refugees.
+	- Johnson also signed the Voting Rights Act of 1965. It sought to lift the barriers that had long prevented African-American men and women from exercising their right to vote.
+	- Later, Johnson removed legal discrimination in the process of buying and renting homes.
+	- Together, these actions have linked Johnson to the civil rights movement in the minds of many Americans. Yet Johnson is also strongly linked to another part of U.S. history, often known simply as "Vietnam."
+	- Earlier presidents had ordered U.S. military action in the conflict between North and South Vietnam. Since 1950, Presidents Truman, Eisenhower, and Kennedy had slowly increased the American intervention. Their goal was to prevent the spread of communism in Southeast Asia.
+	- President Johnson continued Kennedy's policies. He also received the support of Congress to do whatever was necessary to protect U.S. forces and "prevent further aggression" by North Vietnam's communist government.
+	- Yet, when he was a presidential candidate in 1964, Johnson promised not to increase U.S. involvement and send young Americans to fight in Vietnam.
+	- The opposite happened.
+	- Over the next four years, Johnson called on hundreds of thousands of additional U.S. troops to fight on the ground and in the air. The North Vietnamese fought back, both on the battle field and politically.
+	- In time, the American public withdrew their support of the struggle and their support for the president.
+	- By early 1968, Johnson had become deeply unpopular with voters. His party lost seats in Congress, and Johnson lost his ability to persuade lawmakers to support the measures he proposed.
+	- In addition, the U.S. economy was showing signs of weakness, partly because of the costs of the conflict in Vietnam and government spending at home.
+	- As the presidential nominating process began in early 1968, Johnson was permitted to seek another four-year term. But he announced that he would not seek or accept his party's nomination.
+	- Shortly after, civil rights leader Martin Luther King, Jr. was shot and killed. Angered by his murder, people in more than 100 cities rioted.
+	- Then, in June, John Kennedy's brother, Robert Kennedy, was also assassinated. Kennedy had been competing for the Democrats' nomination for president.
+	- His death, and Johnson's withdrawal, added to the divisions in the Democratic Party. Several groups gathered to protest at the party's nominating convention in Chicago. The meeting ended in violent clashes between protesters and police.
+	- By the time Johnson left office in January 1969, his party had lost control of the White House, and many Americans believed the country was in disarray.
+	- ## Legacy
+	- After he left the presidency, Johnson returned to his home in Texas. He wrote his memories about his White House years, and made preparations for his presidential library.
+	- But he did not live much longer. He died in 1973, hours before the U.S. involvement in Vietnam officially came to a close.
+	- Johnson was a complex person, and his image in the mind of many Americans is just as complicated. His policies opened new paths for many people, but also led to years of death and destruction in Vietnam.
+	- As a president, he acted powerfully and often independently, and succeeded in passing an unusually large number of reforms. But he also failed to persuade many Americans to accept some of those measures.
+	- Supporters of the free market especially strongly rejected the government controls Johnson enacted.
+	- Even some in his Democratic Party, which Johnson had controlled for years, lost faith in him. In 1964, anti-war activists changed his campaign slogan, "All the way with LBJ." Instead, they said, "Part of the way with LBJ."
+	- And by 1968, they were saying, "Hey, Hey, LBJ. How many kids did you kill today?"

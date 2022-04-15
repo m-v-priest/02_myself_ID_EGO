@@ -1,0 +1,80 @@
+-
+- ## Abraham Lincoln: Martyr (Part Two)
+- ## pure
+  collapsed:: true
+	- VOA Learning English presents America's Presidents.
+	- Today we are continuing our story about Abraham Lincoln.
+	- He led the United States during the Civil War, which lasted from 1861-1865. In that conflict, the Southern Confederacy battled the Union – the states that supported the federal government.
+	- Southern states wanted to make their own laws, including those that protected slavery. They were afraid that President Lincoln would use the power of the federal government to ban slavery in their states, as well as in other areas.
+	- So 11 Southern states withdrew from the rest of the country. They stopped recognizing the power of the central government.
+	- President Lincoln did not think states had the right to withdraw. He said he was fighting to reunite the country.
+	- But in time, he accepted that the Civil War would also be a fight to end slavery.
+	- ## Commander-in-chief
+	- Lincoln is known for several qualities as a wartime president. One was how he led the military campaign.
+	- As president, Lincoln worked with top military officials to create a plan. They realized that the Union had more resources and more men who could fight than the Confederate forces. So, they planned to surround the Southern states, cut off their supplies, and prevent foreign powers from helping the Confederacy.
+	- Lincoln hoped the Union's generals could execute the plan quickly and end the war as soon as possible.
+	- But the generals were guarded. They did not want to harm their soldiers if they did not have to. They also knew the Confederacy had a skilled commander in General Robert E. Lee.
+	- Troops under another Confederate general, Thomas "Stonewall" Jackson, also defeated the Union army in several early battles.
+	- Lincoln was frustrated with the war effort. He wanted generals who would not only win battles, but chase after the opposing forces and destroy them so they could not fight again.
+	- In one famous telegram, he wrote to his top general, George McClellan. Lincoln said, "If General McClellan does not want to use the Army, I would like to borrow it for a time..."
+	- Finally, Lincoln replaced McClellan. Then he replaced McClellan's replacements.
+	- ## Executive power
+	- Lincoln changed the presidency by being actively involved as a commander-in-chief of the military. He also greatly expanded the powers of the chief executive.
+	- Lincoln believed that, during war, the president had powers that were greater than those of Congress and the Supreme Court. As a result, he took many actions that critics – and even some supporters – considered illegal under the U.S. Constitution.
+	- For example, Lincoln spent millions of dollars in federal money without getting permission from Congress. He also limited freedom of the press, restricted mail service, and declared martial law in some places, even when the situation did not require military action.
+	- Most notably, Lincoln temporarily suspended the writ of habeas corpus. Habeas corpus is an important right in the American legal tradition. It means that people who are under arrest have the right to appear personally in court.
+	- But, at some periods, Lincoln ignored that right.
+	- He said the Confederacy's "rebellion" justified his actions. And, he said, extreme measures were necessary to re-unite the country.
+	- ## Emancipation Proclamation
+	- One of Lincoln's most important legacies relates to slavery. The issue was at the heart of the American Civil War.
+	- For most of his career, Lincoln spoke against slavery. But he did not try to bar the custom in states where it already existed. He agreed to leave slavery in the South alone.
+	- Lincoln also did not really believe in racial equality. And he worried that if slavery ended in the United States, blacks and whites would not be able to live peacefully together.
+	- But as the war continued, Lincoln changed his mind about how to deal with the issue.
+	- For one thing, anti-slavery activists were urging Lincoln to end slavery for moral reasons.
+	  Lincoln also considered tactical reasons -- those related to the war.
+	- He saw that enslaved people in the South were escaping to join Union armies in the North. Their actions helped the Union effort.
+	- Lincoln also wanted to prevent England or France from helping the South. The Southern states were important trading partners for Europe. But the English and French people had rejected slavery. Lincoln hoped that if the Union also rejected slavery, European countries would support the North – or at least not support the South.
+	- So Lincoln waited until the Union won a major battle in Antietam, Maryland. Then he announced that he was using his power as a wartime president to order the end of slavery in the Confederate states.
+	- He produced a document called the Emancipation Proclamation. It said that enslaved people in the rebelling states were "forever free."
+	- Historians note that the act was important and revolutionary. But it was mostly symbolic. The federal government was not able to enforce the order at the time. And it did not deal with enslaved people in other areas.
+	- But the Emancipation Proclamation was the beginning of the end of legal slavery in the country. During the rest of his presidency, Lincoln worked in support of an anti-slavery amendment to the Constitution. That amendment – the Thirteenth – was approved in 1865. It officially outlawed slavery across the country.
+	- Next week we will finish the story of Abraham Lincoln and the Civil War.
+- ---
+- ## def
+	- VOA Learning English presents America's Presidents.
+	- Today we are continuing our story about Abraham Lincoln.
+	- He led the United States during the Civil War, which lasted from 1861-1865. In that conflict, the Southern Confederacy battled the Union – the states that supported the federal government.
+	- Southern states wanted to make their own laws, including those that protected slavery. They were afraid that President Lincoln would use the power of the federal government to ban slavery in their states, as well as in other areas.
+	- So 11 Southern states withdrew from the rest of the country. They stopped recognizing the power of the central government.
+	- President Lincoln did not think states had the right to withdraw. He said he was fighting to reunite the country.
+	- But in time, he accepted that the Civil War would also be a fight to end slavery.
+	- ## Commander-in-chief
+	- Lincoln is known for several qualities as a wartime president. One was how he led the military campaign.
+	- As president, Lincoln worked with top military officials to create a plan. They realized that the Union had more resources and more men who could fight than the Confederate forces. So, they planned to surround the Southern states, cut off their supplies, and prevent foreign powers from helping the Confederacy.
+	- Lincoln hoped the Union's generals could execute the plan quickly and end the war as soon as possible.
+	- But the generals were guarded. They did not want to harm their soldiers if they did not have to. They also knew the Confederacy had a skilled commander in General Robert E. Lee.
+	- Troops under another Confederate general, Thomas "Stonewall" Jackson, also defeated the Union army in several early battles.
+	- Lincoln was frustrated with the war effort. He wanted generals who would not only win battles, but chase after the opposing forces and destroy them so they could not fight again.
+	- In one famous telegram, he wrote to his top general, George McClellan. Lincoln said, "If General McClellan does not want to use the Army, I would like to borrow it for a time..."
+	- Finally, Lincoln replaced McClellan. Then he replaced McClellan's replacements.
+	- ## Executive power
+	- Lincoln changed the presidency by being actively involved as a commander-in-chief of the military. He also greatly expanded the powers of the chief executive.
+	- Lincoln believed that, during war, the president had powers that were greater than those of Congress and the Supreme Court. As a result, he took many actions that critics – and even some supporters – considered illegal under the U.S. Constitution.
+	- For example, Lincoln spent millions of dollars in federal money without getting permission from Congress. He also limited freedom of the press, restricted mail service, and declared martial law in some places, even when the situation did not require military action.
+	- Most notably, Lincoln temporarily suspended the writ of habeas corpus. Habeas corpus is an important right in the American legal tradition. It means that people who are under arrest have the right to appear personally in court.
+	- But, at some periods, Lincoln ignored that right.
+	- He said the Confederacy's "rebellion" justified his actions. And, he said, extreme measures were necessary to re-unite the country.
+	- ## Emancipation Proclamation
+	- One of Lincoln's most important legacies relates to slavery. The issue was at the heart of the American Civil War.
+	- For most of his career, Lincoln spoke against slavery. But he did not try to bar the custom in states where it already existed. He agreed to leave slavery in the South alone.
+	- Lincoln also did not really believe in racial equality. And he worried that if slavery ended in the United States, blacks and whites would not be able to live peacefully together.
+	- But as the war continued, Lincoln changed his mind about how to deal with the issue.
+	- For one thing, anti-slavery activists were urging Lincoln to end slavery for moral reasons.
+	  Lincoln also considered tactical reasons -- those related to the war.
+	- He saw that enslaved people in the South were escaping to join Union armies in the North. Their actions helped the Union effort.
+	- Lincoln also wanted to prevent England or France from helping the South. The Southern states were important trading partners for Europe. But the English and French people had rejected slavery. Lincoln hoped that if the Union also rejected slavery, European countries would support the North – or at least not support the South.
+	- So Lincoln waited until the Union won a major battle in Antietam, Maryland. Then he announced that he was using his power as a wartime president to order the end of slavery in the Confederate states.
+	- He produced a document called the Emancipation Proclamation. It said that enslaved people in the rebelling states were "forever free."
+	- Historians note that the act was important and revolutionary. But it was mostly symbolic. The federal government was not able to enforce the order at the time. And it did not deal with enslaved people in other areas.
+	- But the Emancipation Proclamation was the beginning of the end of legal slavery in the country. During the rest of his presidency, Lincoln worked in support of an anti-slavery amendment to the Constitution. That amendment – the Thirteenth – was approved in 1865. It officially outlawed slavery across the country.
+	- Next week we will finish the story of Abraham Lincoln and the Civil War.

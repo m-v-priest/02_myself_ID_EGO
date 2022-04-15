@@ -1,0 +1,111 @@
+title:: 055 James Buchanan: Passive
+
+- ## James Buchanan: Passive
+- ## pure
+  collapsed:: true
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about James Buchanan, the 15th president of the United States.
+	- He was the third in a series of unsuccessful presidents. Millard Fillmore and Franklin Pierce had failed to resolve the country's increasing division over slavery.
+	- Democratic Party officials hoped Buchanan could do better.
+	- After all, he was a gifted lawyer and had been a member of the U.S. Congress, a secretary of state, and a diplomat.
+	- But Buchanan was not so sure he could resolve the country's problems. He was right. He was the last president before the American Civil War.
+	- ## Early life
+	- James Buchanan was born in the northern state of Pennsylvania.
+	- His father was a businessman, and his family was financially successful.
+	- Buchanan – the oldest son in a family with 11 children – received a good education. He attended Dickinson College in Pennsylvania and soon began working as a lawyer.
+	- His abilities earned him a good deal of money and a place in the state's legislature. But they were not able to win him a wife.
+	- As a young man, Buchanan fell in love with and proposed marriage to a young woman from a wealthy family. She accepted. But her father opposed the union.
+	- One day, his fiancée wrote Buchanan a letter saying she had reconsidered and decided not to marry him after all. Three days later, she unexpectedly died.
+	- Buchanan was heartbroken. He promised never to marry anyone else. And he did not.
+	- To date, James Buchanan is the only U.S. president who never married. When he entered the White House, his niece served as his first lady.
+	- ## Election of 1856
+	- Even with problems in his personal life, Buchanan went on to have a strong career as a national politician. He hoped his party would nominate him as its candidate for president.
+	- But in the 1840s and early 1850s, the Democrats nominated other candidates. Finally, in 1856, the party chose Buchanan. But by then, he was no longer sure he wanted to be president. He believed the country would soon be at war.
+	- Violence had already broken out in the western territory of Kansas. White settlers there had clashed over whether Kansas would enter the Union as a slave or free state.
+	- In one dramatic event, an anti-slavery activist named John Brown had murdered several pro-slavery settlers.
+	- President Buchanan had clear ideas about slavery. He said in his inaugural speech that voters in the territories – a group made up of white men – should be able to decide the issue for themselves.
+	- In the same speech, Buchanan urged Americans to support an important Supreme Court ruling that became known as the Dred Scott decision.
+	- Two days later, the court's justices announced the majority opinion in that case. The opinion said the federal government did not have the power to control slavery in the territories.
+	- In addition, the court declared that enslaved people were not U.S. citizens. They were property, it said. Enslaved people did not have any more rights than a horse or a chair.
+	- Buchanan hoped the decision would stop the country's debate over slavery. Instead, it made the debate more intense.
+	- ## Presidency
+	- During his presidency, Buchanan took two other actions that increased tensions and damaged his public image.
+	- First, he tried to persuade Congress to accept a state constitution for Kansas. The constitution permitted slavery, although a majority of Kansas voters had not agreed to it.
+	- The U.S. House of Representatives decided not to follow President Buchanan's wishes. They permitted Kansans to vote again on the constitution.
+	- This time, Kansas voters rejected it. A majority agreed instead to seek admission into the Union as a free state.
+	- Buchanan's image also suffered because of an event known as the raid on Harper's Ferry.
+	- The raid was led by John Brown, the anti-slavery activist who had murdered pro-slavery settlers in Kansas. This time, Brown hoped to create an armed rebellion of anti-slavery activists and freed slaves.
+	- To get weapons, Brown and his men attacked a federal arsenal about 110 kilometers northwest of Washington, D.C. The armory was in the town of Harper's Ferry, in today's state of West Virginia.
+	- President Buchanan answered the raid by permitting federal troops to use force. The U.S. Marines surrounded Brown and his forces. They killed some and captured others, including Brown.
+	- A few weeks later, Brown was brought to trial, found guilty, and hanged.
+	- The event further divided Americans. Anti-slavery Northerners believed Brown was a hero. Pro-slavery Southerners believed he was a traitor.
+	- In general, Buchanan agreed with the Southerners. He said in a speech that Northerners should not tell Southerners what they could do in their states.
+	- But his words did not satisfy either side. For one thing, a main issue was whether slavery should be permitted in any new states. Buchanan did not comment on that point.
+	- ## Election of 1860
+	- At the end of his single term, Buchanan kept an earlier promise not to seek re-election. His party did not urge him to. Instead, Northern Democrats and Southern Democrats split. They nominated two different candidates.
+	- The Democrats' lack of unity provided an opening for a candidate from a new party. The Republican Party was comprised of northerners who were against slavery. Their candidate was a lawyer without much experience in government. His name was Abraham Lincoln.
+	- Lincoln won the presidential election of 1860.
+	- In answer, the Southern state of South Carolina withdrew from the Union.
+	- Buchanan – who was in the last weeks of his presidency – did not support the move. But he did not act to stop South Carolina, either. He said the Constitution did not give him the power to force a state to stay in the Union.
+	- Following Buchanan's inaction, six other slave-holding Southern states also seceded.
+	- ## Legacy
+	- Today many historians agree James Buchanan was one of the worst American presidents.
+	- Buchanan had many good personal qualities, and he did not want to harm the country. Instead, a common belief is that he did not have the right skills to unite a divided nation.
+	- His behavior appeared to be guided by conflicting ideas. Buchanan said he opposed slavery and supported the Union. But he often took actions to protect slavery and help the South.
+	- Buchanan largely blamed anti-slavery activists and opposition politicians for the problems during his administration.
+	- But the public did not accept Buchanan's position. He was not respected after he left office, and he did not appear in public very often.
+	- Instead, the former president withdrew to his home in Pennsylvania until his death in 1868.
+- ---
+- ## def
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about James Buchanan, the 15th president of the United States.
+	- He was the third in a series of unsuccessful presidents. Millard Fillmore and Franklin Pierce had failed to resolve the country's increasing division over slavery.
+	- Democratic Party officials hoped Buchanan could do better.
+	- After all, he was a gifted lawyer and had been a member of the U.S. Congress, a secretary of state, and a diplomat.
+	- But Buchanan was not so sure he could resolve the country's problems. He was right. He was the last president before the American Civil War.
+	- ## Early life
+	- James Buchanan was born in the northern state of Pennsylvania.
+	- His father was a businessman, and his family was financially successful.
+	- Buchanan – the oldest son in a family with 11 children – received a good education. He attended Dickinson College in Pennsylvania and soon began working as a lawyer.
+	- His abilities earned him a good deal of money and a place in the state's legislature. But they were not able to win him a wife.
+	- As a young man, Buchanan fell in love with and proposed marriage to a young woman from a wealthy family. She accepted. But her father opposed the union.
+	- One day, his fiancée wrote Buchanan a letter saying she had reconsidered and decided not to marry him after all. Three days later, she unexpectedly died.
+	- Buchanan was heartbroken. He promised never to marry anyone else. And he did not.
+	- To date, James Buchanan is the only U.S. president who never married. When he entered the White House, his niece served as his first lady.
+	- ## Election of 1856
+	- Even with problems in his personal life, Buchanan went on to have a strong career as a national politician. He hoped his party would nominate him as its candidate for president.
+	- But in the 1840s and early 1850s, the Democrats nominated other candidates. Finally, in 1856, the party chose Buchanan. But by then, he was no longer sure he wanted to be president. He believed the country would soon be at war.
+	- Violence had already broken out in the western territory of Kansas. White settlers there had clashed over whether Kansas would enter the Union as a slave or free state.
+	- In one dramatic event, an anti-slavery activist named John Brown had murdered several pro-slavery settlers.
+	- President Buchanan had clear ideas about slavery. He said in his inaugural speech that voters in the territories – a group made up of white men – should be able to decide the issue for themselves.
+	- In the same speech, Buchanan urged Americans to support an important Supreme Court ruling that became known as the Dred Scott decision.
+	- Two days later, the court's justices announced the majority opinion in that case. The opinion said the federal government did not have the power to control slavery in the territories.
+	- In addition, the court declared that enslaved people were not U.S. citizens. They were property, it said. Enslaved people did not have any more rights than a horse or a chair.
+	- Buchanan hoped the decision would stop the country's debate over slavery. Instead, it made the debate more intense.
+	- ## Presidency
+	- During his presidency, Buchanan took two other actions that increased tensions and damaged his public image.
+	- First, he tried to persuade Congress to accept a state constitution for Kansas. The constitution permitted slavery, although a majority of Kansas voters had not agreed to it.
+	- The U.S. House of Representatives decided not to follow President Buchanan's wishes. They permitted Kansans to vote again on the constitution.
+	- This time, Kansas voters rejected it. A majority agreed instead to seek admission into the Union as a free state.
+	- Buchanan's image also suffered because of an event known as the raid on Harper's Ferry.
+	- The raid was led by John Brown, the anti-slavery activist who had murdered pro-slavery settlers in Kansas. This time, Brown hoped to create an armed rebellion of anti-slavery activists and freed slaves.
+	- To get weapons, Brown and his men attacked a federal arsenal about 110 kilometers northwest of Washington, D.C. The armory was in the town of Harper's Ferry, in today's state of West Virginia.
+	- President Buchanan answered the raid by permitting federal troops to use force. The U.S. Marines surrounded Brown and his forces. They killed some and captured others, including Brown.
+	- A few weeks later, Brown was brought to trial, found guilty, and hanged.
+	- The event further divided Americans. Anti-slavery Northerners believed Brown was a hero. Pro-slavery Southerners believed he was a traitor.
+	- In general, Buchanan agreed with the Southerners. He said in a speech that Northerners should not tell Southerners what they could do in their states.
+	- But his words did not satisfy either side. For one thing, a main issue was whether slavery should be permitted in any new states. Buchanan did not comment on that point.
+	- ## Election of 1860
+	- At the end of his single term, Buchanan kept an earlier promise not to seek re-election. His party did not urge him to. Instead, Northern Democrats and Southern Democrats split. They nominated two different candidates.
+	- The Democrats' lack of unity provided an opening for a candidate from a new party. The Republican Party was comprised of northerners who were against slavery. Their candidate was a lawyer without much experience in government. His name was Abraham Lincoln.
+	- Lincoln won the presidential election of 1860.
+	- In answer, the Southern state of South Carolina withdrew from the Union.
+	- Buchanan – who was in the last weeks of his presidency – did not support the move. But he did not act to stop South Carolina, either. He said the Constitution did not give him the power to force a state to stay in the Union.
+	- Following Buchanan's inaction, six other slave-holding Southern states also seceded.
+	- ## Legacy
+	- Today many historians agree James Buchanan was one of the worst American presidents.
+	- Buchanan had many good personal qualities, and he did not want to harm the country. Instead, a common belief is that he did not have the right skills to unite a divided nation.
+	- His behavior appeared to be guided by conflicting ideas. Buchanan said he opposed slavery and supported the Union. But he often took actions to protect slavery and help the South.
+	- Buchanan largely blamed anti-slavery activists and opposition politicians for the problems during his administration.
+	- But the public did not accept Buchanan's position. He was not respected after he left office, and he did not appear in public very often.
+	- Instead, the former president withdrew to his home in Pennsylvania until his death in 1868.

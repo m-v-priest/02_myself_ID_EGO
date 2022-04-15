@@ -1,0 +1,99 @@
+title:: 062 James Garfield: Assassinated
+
+- ## James Garfield: Assassinated
+- ## pure
+  collapsed:: true
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about James Garfield. He was the 20th president of the United States.
+	- Garfield is not one of the best-known presidents. He served only 100 days before he was shot. Eleven weeks later, he died from his wounds.
+	- But even during Garfield's short time in office, historians say his presidency had problems.
+	- ## Early life
+	- Like the president before him, Rutherford B. Hayes, Garfield was from the state of Ohio.
+	- Garfield's father died when he was very young. The future president was raised largely by his mother, two older sisters and a brother.
+	- Among all the presidents, Garfield probably was the most poor in his early years. Growing up, he worked as a farmer, a sailor, a carpenter, a teacher and a janitor.
+	- Finally, he earned a position as a student at Williams College in western Massachusetts.
+	- Garfield loved learning. He eventually taught at a school called the Eclectic Institute. Later, he became its president.
+	- Garfield married one of his students at the Eclectic Institute, Lucretia Rudolph. She became a teacher, too.
+	- The future president and his wife went on to have seven children. Four sons and a daughter survived to adulthood.
+	- In time, Garfield moved out of education and into law and politics. He was an anti-slavery activist who did not think the Southern states had a right to withdraw from the Union. When the Civil War came, Garfield welcomed it.
+	- During the war, Garfield served in the military as an officer. He won awards for his bravery. While still a young man, he was appointed to the position of major general.
+	- His image as a war hero was so great that Garfield did not have to campaign for a seat in the U.S. House of Representatives. He was elected on his name alone.
+	- ## Congress
+	- Garfield's way of thinking changed while he was in Congress. He began as one of the most extreme Radical Republicans. He wanted to punish former Confederate officers severely.
+	- But, in time, Garfield softened his positions. He learned to compromise with other groups in order to achieve results for his state.
+	- But he did not always represent the interests of workers or farmers in Ohio. Garfield supported business interests that wanted to limit the country's money supply. He opposed labor unions and cooperative farm programs, called the Grange.
+	- Garfield also became linked to a corruption case. He accepted stock shares in a company that was building a railroad across the country. In exchange, Garfield and other top officials eased government rules so businessman could earn higher profits for their work.
+	- Although Garfield's political career sometimes drew criticism, he continued to rise in government.
+	- ## Presidency
+	- When Garfield became president in March 1881, he did not have what Americans call a mandate – the approval of a large part of the population.
+	- Instead, he needed to make compromises with lawmakers to help win their support.
+	- As a result, the first weeks of his presidency were a political struggle to appoint members to his cabinet of advisors.
+	- Garfield also clashed with a powerful senator from New York State. The senator wanted to continue the tradition of permitting senators to choose who got government jobs in their states. But President Garfield wanted to put someone who shared his own beliefs in some of the top positions in New York.
+	- Finally, the senator resigned in protest.
+	- But the issue set the tone for Garfield's short time in office. Elected officials battled each other for advantages and financial gain. Officials in Garfield's party were accused of corruption and wrongdoing.
+	- And before Garfield could really suggest any ideas for government reform, he was shot by someone seeking a government job in exchange for his political support.
+	- ## Assassination
+	- On July 2, 1881 – fewer than four months after he took office – Garfield was leaving for a short trip with two of his sons. They were going to take a train to Williams, the college Garfield had attended and loved. The president was supposed to give a speech there.
+	- But as he walked through the train station, a man with a gun stepped behind Garfield and shot the president twice.
+	- One bullet touched Garfield's arm. The other went into his lower back.
+	- Garfield did not die immediately. Instead, he was taken back to the White House, where doctors tried to remove the bullet.
+	- One of the men who tried was Alexander Graham Bell, the inventor of the telephone.
+	- Bell tried to find the bullet by using a device like a metal detector that he had invented. But the springs on Garfield's bed interfered.
+	- Neither Bell nor the doctors were able to remove the bullet. And, some historians say, their efforts may have made the situation worse.
+	- Garfield suffered for more than two more months. At one point, he seemed to be recovering. But on September 19, he finally died. He was 49 years old.
+	- As for the gunman, he was captured shortly after the shooting. His name was Charles Guiteau.
+	- Guiteau was a lawyer with little money, but many mental problems.
+	- During the election of 1880, he had first supported the candidacy of former president Ulysses S. Grant. When Garfield won the Republican nomination instead, Guiteau supported him.
+	- Guiteau did not have an official role in the election campaign, and Garfield did not know him. But over time, Guiteau came to believe that he was responsible for Garfield winning the presidency. As a result, Guiteau thought Garfield owed him a government job.
+	- Guiteau wrote the president several letters requesting positions as a diplomat in Europe. When Garfield did not write back, Guiteau grew angry. He believed Garfield was ruining the Republican Party and destroying the country.
+	- For weeks, Guiteau followed the president and plotted to kill him. When he succeeded in shooting Garfield, Guiteau believed he had performed a great service.
+	- At his trial, a jury decided that Guiteau was sane – in other words, he was not too mentally unbalanced to be responsible for his crime. Almost a year after he shot the president, Guiteau himself was hanged.
+	- Thus the most dramatic event in James Garfield's presidency came to an end.
+- ---
+- ## def
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about James Garfield. He was the 20th president of the United States.
+	- Garfield is not one of the best-known presidents. He served only 100 days before he was shot. Eleven weeks later, he died from his wounds.
+	- But even during Garfield's short time in office, historians say his presidency had problems.
+	- ## Early life
+	- Like the president before him, Rutherford B. Hayes, Garfield was from the state of Ohio.
+	- Garfield's father died when he was very young. The future president was raised largely by his mother, two older sisters and a brother.
+	- Among all the presidents, Garfield probably was the most poor in his early years. Growing up, he worked as a farmer, a sailor, a carpenter, a teacher and a janitor.
+	- Finally, he earned a position as a student at Williams College in western Massachusetts.
+	- Garfield loved learning. He eventually taught at a school called the Eclectic Institute. Later, he became its president.
+	- Garfield married one of his students at the Eclectic Institute, Lucretia Rudolph. She became a teacher, too.
+	- The future president and his wife went on to have seven children. Four sons and a daughter survived to adulthood.
+	- In time, Garfield moved out of education and into law and politics. He was an anti-slavery activist who did not think the Southern states had a right to withdraw from the Union. When the Civil War came, Garfield welcomed it.
+	- During the war, Garfield served in the military as an officer. He won awards for his bravery. While still a young man, he was appointed to the position of major general.
+	- His image as a war hero was so great that Garfield did not have to campaign for a seat in the U.S. House of Representatives. He was elected on his name alone.
+	- ## Congress
+	- Garfield's way of thinking changed while he was in Congress. He began as one of the most extreme Radical Republicans. He wanted to punish former Confederate officers severely.
+	- But, in time, Garfield softened his positions. He learned to compromise with other groups in order to achieve results for his state.
+	- But he did not always represent the interests of workers or farmers in Ohio. Garfield supported business interests that wanted to limit the country's money supply. He opposed labor unions and cooperative farm programs, called the Grange.
+	- Garfield also became linked to a corruption case. He accepted stock shares in a company that was building a railroad across the country. In exchange, Garfield and other top officials eased government rules so businessman could earn higher profits for their work.
+	- Although Garfield's political career sometimes drew criticism, he continued to rise in government.
+	- ## Presidency
+	- When Garfield became president in March 1881, he did not have what Americans call a mandate – the approval of a large part of the population.
+	- Instead, he needed to make compromises with lawmakers to help win their support.
+	- As a result, the first weeks of his presidency were a political struggle to appoint members to his cabinet of advisors.
+	- Garfield also clashed with a powerful senator from New York State. The senator wanted to continue the tradition of permitting senators to choose who got government jobs in their states. But President Garfield wanted to put someone who shared his own beliefs in some of the top positions in New York.
+	- Finally, the senator resigned in protest.
+	- But the issue set the tone for Garfield's short time in office. Elected officials battled each other for advantages and financial gain. Officials in Garfield's party were accused of corruption and wrongdoing.
+	- And before Garfield could really suggest any ideas for government reform, he was shot by someone seeking a government job in exchange for his political support.
+	- ## Assassination
+	- On July 2, 1881 – fewer than four months after he took office – Garfield was leaving for a short trip with two of his sons. They were going to take a train to Williams, the college Garfield had attended and loved. The president was supposed to give a speech there.
+	- But as he walked through the train station, a man with a gun stepped behind Garfield and shot the president twice.
+	- One bullet touched Garfield's arm. The other went into his lower back.
+	- Garfield did not die immediately. Instead, he was taken back to the White House, where doctors tried to remove the bullet.
+	- One of the men who tried was Alexander Graham Bell, the inventor of the telephone.
+	- Bell tried to find the bullet by using a device like a metal detector that he had invented. But the springs on Garfield's bed interfered.
+	- Neither Bell nor the doctors were able to remove the bullet. And, some historians say, their efforts may have made the situation worse.
+	- Garfield suffered for more than two more months. At one point, he seemed to be recovering. But on September 19, he finally died. He was 49 years old.
+	- As for the gunman, he was captured shortly after the shooting. His name was Charles Guiteau.
+	- Guiteau was a lawyer with little money, but many mental problems.
+	- During the election of 1880, he had first supported the candidacy of former president Ulysses S. Grant. When Garfield won the Republican nomination instead, Guiteau supported him.
+	- Guiteau did not have an official role in the election campaign, and Garfield did not know him. But over time, Guiteau came to believe that he was responsible for Garfield winning the presidency. As a result, Guiteau thought Garfield owed him a government job.
+	- Guiteau wrote the president several letters requesting positions as a diplomat in Europe. When Garfield did not write back, Guiteau grew angry. He believed Garfield was ruining the Republican Party and destroying the country.
+	- For weeks, Guiteau followed the president and plotted to kill him. When he succeeded in shooting Garfield, Guiteau believed he had performed a great service.
+	- At his trial, a jury decided that Guiteau was sane – in other words, he was not too mentally unbalanced to be responsible for his crime. Almost a year after he shot the president, Guiteau himself was hanged.
+	- Thus the most dramatic event in James Garfield's presidency came to an end.

@@ -1,0 +1,43 @@
+- # 032 United States Congress Explained
+- pure
+  collapsed:: true
+	- In the United States, voters choose members of Congress every two years. But what is Congress?
+	- Imagine that the U.S. government is a chair with three legs.
+	- One leg is the executive – the president and all the people who carry out the country’s laws.
+	- Another leg is the judiciary – Supreme Court justices and judges on other federal courts. They decide what the law means.
+	- And another leg is the legislature – the elected officials who make laws. Another word for the legislature is Congress.
+	- What does Congress do?
+	- The first article of the U.S. Constitution describes the powers Congress has.
+	- First, Congress makes federal laws. These are laws everyone in the country must follow.
+	- Historically, Congress has made laws related to Native Americans, slavery and many other issues. They include immigration, business, banking, health, education, voting, foreign relations, and the environment.
+	- Congress has other important powers, too. It can raise money, spend money, and borrow money. It approves Supreme Court justices. It can impeach and remove a president from office. It also can declare war.
+	- Wait, so what is the Senate? And the ‘House’?
+	- When they are talking about U.S. lawmakers or lawmaking, Americans sometimes use the term “Congress.” And sometimes they talk about the two parts of Congress: the Senate and the House of Representatives or ‘House,’ for short.
+	- Members of the Senate are called senators. Members of the House are called House members, representatives, congressmen or congresswomen.
+	- The Congress has a lot more House members than Senators. That is because voters in each of the 50 states elect only two senators … and as many House members as permitted by law.
+	- Under the Constitution, House seats are based on the size of a state’s population. For example, California, the most populous state, has 53 House members. Wyoming, the least populous state, has only one. But both California and Wyoming have two senators.
+	- In total, the House has 435 voting members, while the Senate has 100 voting members, for a total of 535 lawmakers. They all meet in the Capitol building in Washington, DC.
+	- When Americans want to block, create or change a law in the U.S., they are often urged to contact their member of Congress. Some Americans also campaign for candidates to be elected to the House or Senate. In general, citizens of other countries are not permitted to donate money to members of Congress or lead campaign efforts.
+- ---
+- ## def
+	- In the United States, voters choose members of Congress /every two years. But what is Congress?
+	- Imagine that /the U.S. government is a chair with three legs.
+	- One leg /is the executive – the president and all the people /who carry out the country’s laws.
+	- Another leg /is the judiciary – Supreme Court justices /and judges on other federal courts. They decide what the law means.
+	- And another leg /is the legislature – the elected officials /who make laws. Another word for the legislature /is Congress.
+		- > ▶ judiciary : the judges of a country or a state, when they are considered as a group （统称）审判人员；司法部；司法系统
+		- ((62316675-ac8a-486b-86cc-90e989eaab69))
+	- ## What does Congress do?
+	- The first article of the U.S. Constitution /describes the powers /Congress has.
+	- First, Congress makes federal laws. These are laws /everyone in the country must follow.
+	- Historically, Congress has made laws /related to Native Americans, slavery and many other issues. They include immigration, business, banking, health, education, voting, foreign relations, and the environment.
+	- Congress has other important powers, too. It can raise money, spend money, and borrow money. It approves Supreme Court justices. It can impeach /and remove a president from office. It also can declare war.
+	- ## Wait, so what is the Senate? And the ‘House’?
+	- When they are talking about U.S. lawmakers /or lawmaking, Americans sometimes use the term “Congress.” And sometimes /they talk about the two parts of Congress: the Senate /and the House of Representatives or ‘House,’ for short.
+	- Members of the Senate /are called senators. Members of the House /are called House members, representatives, congressmen or congresswomen.
+	- The Congress has a lot more House members /than Senators. That is because /voters in each of the 50 states /elect(v.) only two senators … and **as many** House members **as** /permitted by law.
+	- Under the Constitution, House seats /are based on the size of a state’s population. For example, California, the most populous state, has 53 House members. Wyoming, the least populous state, has only one. But both California and Wyoming /have two senators.
+	- In total, the House has 435 voting members, while the Senate has 100 voting members, for a total of 535 lawmakers. They all meet(v.) in the Capitol building in Washington, DC.
+	- When Americans **want to block, create or change a law** in the U.S., they are often urged /to contact their member of Congress. Some Americans also **campaign(v.) for** candidates /to be elected to the House or Senate. In general, citizens of other countries /are not permitted **to donate money to** members of Congress /or lead(v.) campaign efforts.
+		- > ▶ campaign  V-I If someone **campaigns for** something, they carry out a planned set of activities over a period of time in order to achieve their aim. 从事运动
+		- 当美国人想要在美国阻止、创建, 或修改一项法律时，他们经常被敦促联系他们的国会议员。一些美国人, 还为候选人能选入参众两院, 而进行支持活动。一般来说，其他国家的公民不允许向国会议员捐款, 或领导竞选活动。

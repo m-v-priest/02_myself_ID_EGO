@@ -1,0 +1,69 @@
+- pure text
+  collapsed:: true
+	- Medical experts say the only way to know for sure if you have the common cold, flu or COVID-19 is to get a test because symptoms can be similar.
+	- The flu and COVID-19 have common symptoms, such as cough, fever, tiredness and muscle soreness. The viruses can all spread before people know they are sick.
+	- Many people who have COVID-19 do not feel sick but they can still spread the virus.
+	- Important differences
+	- The main difference with COVID-19 is people sometimes lose their ability to smell and taste.
+	- With flu, fevers are more common.
+	- With colds, people usually have throat pain or nasal congestion.
+	- The viruses are separate. It is, however, possible to become sick with more than one at the same time.
+	- Some people are calling the combination of flu and COVID-19 “flurona.”
+	- Kristen Coleman is an assistant professor at the University of Maryland School of Public Health. She said the number of people with flu and COVID-19 will increase in the coming weeks and months as the northern hemisphere enters flu season.
+	- Testing is the best way to find out which virus you have.
+	- While tests are in short supply in some parts of the world, Coleman said the best way to find out is to visit a pharmacy, where you can be tested for both flu and COVID-19 at the same time.
+	- As soon as you know which illness you have, doctors can help with treatment.
+	- Coleman said that in normal times, laboratories can find out if you have the common cold. However, right now, most are focused on testing for COVID-19.
+	- One way to reduce your chances of having a problem with flu and COVID is to get vaccinated, experts say. The U.S. Centers for Disease Control and Prevention said it is safe to get the flu vaccine and a third COVID-19 shot, or booster, at the same time.
+	- I’m Dan Friedell
+	- Dan Friedell adapted this story for Learning English based on reporting by Victoria Milko of The Associated Press.
+	- Are you wondering if you have one of the three illnesses? Tell us in the Comments Section and visit our Facebook page.
+	- ____________________________________________________________________
+	- Words in This Story
+	  symptom – n. a change in the body or mind which indicates that a disease is present
+	- cough – n. a physical condition or illness that causes someone to cough
+	- fever – n. a body temperature that is higher than normal
+	- congestion – n. related to a part of the body : blocked with fluid (such as blood or mucus)
+	- pharmacy – n. a store or part of a store in which drugs and medicines are prepared and sold
+-
+- ---
+- def text
+	- Medical experts say /`主` **the only way to know for sure** if you have the common cold, flu or COVID-19 /`系` is to get a test /because symptoms can be similar.
+	- The flu and COVID-19 have common symptoms, such as cough, fever, tiredness and muscle soreness. The viruses can all spread /before people know they are sick.
+		- 些病毒都能在人们发现自己生病前, 就已经传播了。
+	- Many people who have COVID-19 /do not feel sick /but they can still spread the virus.
+	-
+	- ## Important differences
+	- The main difference with COVID-19 is /people sometimes lose their ability to smell and taste.
+	- With flu, `主` fevers `系` are more common.
+		- 而流感则更常见的是发烧。
+	- With colds, people usually have **throat pain** or **nasal congestion**.
+		- > ▶ congestion  /kənˈdʒestʃən/  (n.) （交通）拥塞；塞车 /( medical 医 ) the state of part of the body being blocked with blood or mucus 充血；淤血
+		  -> congestion of the lungs 肺淤血
+		- 感冒时，人们通常会有喉咙痛或鼻塞。
+	- The viruses are separate. ==It is==, however, ==possible== to become sick /with more than one /at the same time.
+	- Some people are calling **the combination of flu and COVID-19** 宾补 “flurona.”
+		- 虽然不同的病毒是独立分开的。然而，存在可能, 能够同时感染上这两种病毒.
+		- > ▶ flurona 这种病毒结合了新冠肺炎和流感. 即患者会同时确诊新冠肺炎和流感.
+	- Kristen Coleman is **an assistant professor** at _the University of Maryland School_ of Public Health. She said /`主` the number of people with flu and COVID-19 `谓` will increase /in the coming weeks and months /as **the northern hemisphere** enters(v.) **flu season**.
+		- > ▶ assistant professor : (in the US and Canada) a teacher at a college or university **who has a rank /just below the rank of an associate professor** 助理教授（在美国和加拿大职位仅低于副教授）
+		- 随着北半球进入流感季节，感染流感和COVID-19的人数, 将在未来几周和几个月增加。
+	- Testing is the best way /to find out which virus you have.
+	- While tests are **in short supply** /in some parts of the world, Coleman said /the best way to find out /is to visit a pharmacy, where you can be tested /for both flu and COVID-19 /at the same time.
+		- > ▶ pharmacy  /ˈfɑːrməsi/  药房；药店；医药柜台 /[ C ] a place in a hospital where medicines are prepared （医院的）药房，配药室 /[ U ] the study of how to prepare medicines and drugs 药剂学；制药学
+	- As soon as you know /which illness you have, doctors can help with treatment.
+	- Coleman said that /in normal times, laboratories can find out /if you have the common cold. However, right now, most **are focused(v.) on** testing for COVID-19.
+		- > ▶ laboratory ( also informal lab ) a room or building used for scientific research, experiments, testing, etc. 实验室；实验大楼
+		- 在平时，实验室可以查出你是否患有普通感冒。然而目前, 大多数人都专注于COVID-19的检测。
+	- One way to reduce your chances of **having a problem with flu and COVID** /is to get vaccinated, experts say. The U.S. Centers for **Disease Control and Prevention** said /it is safe /to get **the flu vaccine** and **a third COVID-19 shot**, or booster, at the same time.
+		- 专家表示，减少患流感和新冠肺炎几率的一种方法, 是接种疫苗。美国疾病控制和预防中心表示，同时接种流感疫苗, 和第三针COVID-19疫苗或加强针, 是安全的。
+	- I’m Dan Friedell
+	- Dan Friedell adapted this story for Learning English based on reporting by Victoria Milko of The Associated Press.
+	- Are you wondering if you have one of the three illnesses? Tell us in **the Comments Section** and visit our Facebook page.
+	- ____________________________________________________________________
+	- Words in This Story
+	  symptom – n. a change in the body or mind which indicates that a disease is present
+	- cough – n. a physical condition or illness that causes someone to cough
+	- fever – n. a body temperature that is higher than normal
+	- congestion – n. related to a part of the body : blocked with fluid (such as blood or mucus)
+	- pharmacy – n. a store or part of a store in which drugs and medicines are prepared and sold

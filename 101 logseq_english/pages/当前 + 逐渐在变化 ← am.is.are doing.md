@@ -1,0 +1,11 @@
+-
+- 当你使用含有"变化"含义的动词时,  你想表达它在“随着时间推移, 逐渐变化”的过程, → 就用"am/is/are doing".
+  background-color:: #264c9b
+- ==常见的表示“改变”的动词有：change, come, get, become, grow 和 deteriorate（恶化）等。==
+	-
+	- Frank: Well, **this neighborhood is really booming**. It’s not really a suburb any more. Jenny: Yeah, **it is getting crowded**. ← booming和getting==这种进行时态, 都是强调出了“逐渐改变”的动态意味==，即“越来越繁荣”, “越来越（拥挤）”。
+	- It’s **getting dark**. 天渐渐黑了下来。
+	- Mom **is getting old**. 妈妈越来越老了。
+	- His health **is deteriorating**. 他的健康状况日益恶化。
+	- My dream **is coming true**. 我的梦想正一点点地成为现实。
+	-

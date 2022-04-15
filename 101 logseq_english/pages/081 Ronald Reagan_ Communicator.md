@@ -1,0 +1,103 @@
+title:: 081 Ronald Reagan: Communicator
+
+- ## 081 Ronald Reagan: Communicator
+- ## pure
+  collapsed:: true
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about Ronald Reagan. He was president for two terms, and served from 1981 to 1989. Before that, he was the governor of California, worked as an actor and led a labor union.
+	- As president, Reagan is credited for changing the direction of the country. He tried to establish a feeling of confidence in the American people.
+	- Although not everyone profited equally from his policies, the president rarely suffered in public opinion polls. Reagan was called the "Great Communicator" because he was able to connect with many Americans, and to speak persuasively about conservative values.
+	- He is remembered warmly by many Republican Party politicians and voters especially.
+	- ## Early life
+	- Ronald Reagan is often linked to California and the American West. But he was born and raised in Illinois, in the center of the United States.
+	- His father sold shoes, and his mother mostly took care of Ronald and his older brother, Neil. The entire family supported the Democratic Party, especially President Franklin Roosevelt.
+	- While the boys were growing up, the Reagans did not have much money, and the father suffered from alcoholism.
+	- But Ronald was energetic and took part in many activities.
+	- He played football and basketball; ran on the track team; swam; acted in plays; led student groups; wrote for school newspapers and yearbooks; and worked several jobs to help pay for his education and support his parents.
+	- He attended Eureka College in Illinois, and completed his studies in 1932.
+	- One of his first jobs out of college was as a sports announcer for a radio station. He had an appealing voice and a natural way of talking that was a good fit for radio.
+	- Reagan was also good-looking, and a dependable worker. In time, he was offered a chance to act in movies and moved to California.
+	- During his acting career, Reagan made more than 50 films. He also married actress Jane Wyman and had two children with her. But after several years, the relationship ended. Their marriage ended in divorce.
+	- Four years later, Reagan married another actress. Her name was Anne Robbins, but she was called Nancy Davis. They also had two children.
+	- As he was starting his second family, Reagan began another part of his career. He served as host of a popular television series about the American West. He also became president of a labor union, the Screen Actors Guild. It represented actors, announcers, and others working in the film and television industry.
+	- During that time, Reagan's political beliefs changed. He increasingly supported conservative ideas. During public appearances, he often spoke in support of business interests. He also expressed concern that the federal government was limiting Americans' freedom.
+	- The message was well-received by many Americans. Although the Democratic Party was in power for most of the 1960s, a number of Americans were becoming increasingly conservative.
+	- Reagan won national recognition in 1966 when he successfully ran for governor of California as a Republican. In 1970, voters re-elected him to the position.
+	- But Reagan had set his sights on the presidency. He sought the Republican nomination in both 1968 and 1976.
+	- Finally, in 1980, he won the office. By that time, he had already had several careers, as well as a long life. At age 69, he was the oldest person until then to be elected president.
+	- ## Presidency
+	- When Reagan took office, he made improving the U.S. economy his highest concern. One way to do that, he believed, was to reduce the influence of the federal government.
+	- He wanted especially to cut some of the government programs that former president Lyndon Johnson had put in place to help poor people. Reagan believed that cutting taxes – especially on big businesses – would help strengthen the economy, and in time help everyone.
+	- In a speech after taking office, Reagan noted that, "Government is not the solution to our problem; government is the problem."
+	- At first, the economy continued to struggle. But in a few years, Reagan's policies appeared to work. Unemployment dropped, the stock market rose, and many industries grew quickly. Americans often remember Reagan's presidency as a time of economic growth.
+	- Not everyone benefited equally, however. Reagan's critics observed that his policies largely helped people who were already wealthy. The divide between rich and middle-class Americans increased during Reagan's presidency.
+	- And Reagan did not reduce government spending in all areas. In fact, he sharply increased military spending.
+	- One result was a large national debt. Another result, Reagan's supporters say, was a quicker end to the Cold War.
+	- One of Reagan's major foreign policy goals was to end the stand-off with the Soviet Union. He believed that building up the U.S. military was the best way to pressure the Soviets to reach an agreement on arms control.
+	- Reagan also spoke out strongly against communism. In his second term, he famously appealed to the new Soviet leader, Mikhail Gorbachev, to tear down the Berlin Wall. For some, the wall was a sign of communism.
+	- Many historians say Reagan's policies worked. For sure, Reagan and Gorbachev improved relations between their countries. And in time, the Soviet leadership permitted the Berlin Wall to come down.
+	- ## Assassination attempt and Iran-Contra scandal
+	- In addition to the economy and the Cold War, Reagan is often remembered for his likable personality. He spoke easily with the public, often had a positive message about the country, and usually appeared cheerful.
+	- He won even more public approval after a man with mental problems tried to kill him.
+	- The bullets seriously injured several people nearby, and just missed Reagan's heart.
+	- Yet, shortly after he was shot, the president joked with his wife and with his doctors. Opinion polls showed that the recovered president was more popular than ever.
+	- Reagan's political image also survived a scandal known as Iran-Contra. In brief, Congress found that a number of government officials secretly sold U.S. weapons to Iran as part of a deal to free hostages. Then, the officials used some of the money to help rebels in Nicaragua.
+	- The actions violated congressional rules. They also challenged Reagan's promise that he had not traded weapons for hostages.
+	- The president apologized for any part he had played in the events. Polls showed that, in general, the American public accepted his apology and continued to trust him.
+	- Unlike most U.S. presidents, who lose public support during their terms, Reagan finished his time in office as he had taken it – with the support of more than half of Americans.
+	- ## Legacy
+	- Reagan retired to his home in California with his wife, Nancy. For several years, he wrote about his life and helped organize his presidential library.
+	- But in a few years, the former president announced that he suffered from Alzheimer's. The disease affects people's ability to think, remember, and express themselves.
+	- Soon, Reagan disappeared from public life. He died in 2004.
+	- But he is well-remembered as an able politician who could work effectively with many people. He is also remembered – by both supporters and critics – for being a powerful voice for conservative ideas and traditional values.
+	- His influence extended beyond his two terms. Later generations of leaders and voters called themselves Reagan Republicans.
+- ---
+- ## def
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about Ronald Reagan. He was president for two terms, and served from 1981 to 1989. Before that, he was the governor of California, worked as an actor and led a labor union.
+	- As president, Reagan is credited for changing the direction of the country. He tried to establish a feeling of confidence in the American people.
+	- Although not everyone profited equally from his policies, the president rarely suffered in public opinion polls. Reagan was called the "Great Communicator" because he was able to connect with many Americans, and to speak persuasively about conservative values.
+	- He is remembered warmly by many Republican Party politicians and voters especially.
+	- ## Early life
+	- Ronald Reagan is often linked to California and the American West. But he was born and raised in Illinois, in the center of the United States.
+	- His father sold shoes, and his mother mostly took care of Ronald and his older brother, Neil. The entire family supported the Democratic Party, especially President Franklin Roosevelt.
+	- While the boys were growing up, the Reagans did not have much money, and the father suffered from alcoholism.
+	- But Ronald was energetic and took part in many activities.
+	- He played football and basketball; ran on the track team; swam; acted in plays; led student groups; wrote for school newspapers and yearbooks; and worked several jobs to help pay for his education and support his parents.
+	- He attended Eureka College in Illinois, and completed his studies in 1932.
+	- One of his first jobs out of college was as a sports announcer for a radio station. He had an appealing voice and a natural way of talking that was a good fit for radio.
+	- Reagan was also good-looking, and a dependable worker. In time, he was offered a chance to act in movies and moved to California.
+	- During his acting career, Reagan made more than 50 films. He also married actress Jane Wyman and had two children with her. But after several years, the relationship ended. Their marriage ended in divorce.
+	- Four years later, Reagan married another actress. Her name was Anne Robbins, but she was called Nancy Davis. They also had two children.
+	- As he was starting his second family, Reagan began another part of his career. He served as host of a popular television series about the American West. He also became president of a labor union, the Screen Actors Guild. It represented actors, announcers, and others working in the film and television industry.
+	- During that time, Reagan's political beliefs changed. He increasingly supported conservative ideas. During public appearances, he often spoke in support of business interests. He also expressed concern that the federal government was limiting Americans' freedom.
+	- The message was well-received by many Americans. Although the Democratic Party was in power for most of the 1960s, a number of Americans were becoming increasingly conservative.
+	- Reagan won national recognition in 1966 when he successfully ran for governor of California as a Republican. In 1970, voters re-elected him to the position.
+	- But Reagan had set his sights on the presidency. He sought the Republican nomination in both 1968 and 1976.
+	- Finally, in 1980, he won the office. By that time, he had already had several careers, as well as a long life. At age 69, he was the oldest person until then to be elected president.
+	- ## Presidency
+	- When Reagan took office, he made improving the U.S. economy his highest concern. One way to do that, he believed, was to reduce the influence of the federal government.
+	- He wanted especially to cut some of the government programs that former president Lyndon Johnson had put in place to help poor people. Reagan believed that cutting taxes – especially on big businesses – would help strengthen the economy, and in time help everyone.
+	- In a speech after taking office, Reagan noted that, "Government is not the solution to our problem; government is the problem."
+	- At first, the economy continued to struggle. But in a few years, Reagan's policies appeared to work. Unemployment dropped, the stock market rose, and many industries grew quickly. Americans often remember Reagan's presidency as a time of economic growth.
+	- Not everyone benefited equally, however. Reagan's critics observed that his policies largely helped people who were already wealthy. The divide between rich and middle-class Americans increased during Reagan's presidency.
+	- And Reagan did not reduce government spending in all areas. In fact, he sharply increased military spending.
+	- One result was a large national debt. Another result, Reagan's supporters say, was a quicker end to the Cold War.
+	- One of Reagan's major foreign policy goals was to end the stand-off with the Soviet Union. He believed that building up the U.S. military was the best way to pressure the Soviets to reach an agreement on arms control.
+	- Reagan also spoke out strongly against communism. In his second term, he famously appealed to the new Soviet leader, Mikhail Gorbachev, to tear down the Berlin Wall. For some, the wall was a sign of communism.
+	- Many historians say Reagan's policies worked. For sure, Reagan and Gorbachev improved relations between their countries. And in time, the Soviet leadership permitted the Berlin Wall to come down.
+	- ## Assassination attempt and Iran-Contra scandal
+	- In addition to the economy and the Cold War, Reagan is often remembered for his likable personality. He spoke easily with the public, often had a positive message about the country, and usually appeared cheerful.
+	- He won even more public approval after a man with mental problems tried to kill him.
+	- The bullets seriously injured several people nearby, and just missed Reagan's heart.
+	- Yet, shortly after he was shot, the president joked with his wife and with his doctors. Opinion polls showed that the recovered president was more popular than ever.
+	- Reagan's political image also survived a scandal known as Iran-Contra. In brief, Congress found that a number of government officials secretly sold U.S. weapons to Iran as part of a deal to free hostages. Then, the officials used some of the money to help rebels in Nicaragua.
+	- The actions violated congressional rules. They also challenged Reagan's promise that he had not traded weapons for hostages.
+	- The president apologized for any part he had played in the events. Polls showed that, in general, the American public accepted his apology and continued to trust him.
+	- Unlike most U.S. presidents, who lose public support during their terms, Reagan finished his time in office as he had taken it – with the support of more than half of Americans.
+	- ## Legacy
+	- Reagan retired to his home in California with his wife, Nancy. For several years, he wrote about his life and helped organize his presidential library.
+	- But in a few years, the former president announced that he suffered from Alzheimer's. The disease affects people's ability to think, remember, and express themselves.
+	- Soon, Reagan disappeared from public life. He died in 2004.
+	- But he is well-remembered as an able politician who could work effectively with many people. He is also remembered – by both supporters and critics – for being a powerful voice for conservative ideas and traditional values.
+	- His influence extended beyond his two terms. Later generations of leaders and voters called themselves Reagan Republicans.

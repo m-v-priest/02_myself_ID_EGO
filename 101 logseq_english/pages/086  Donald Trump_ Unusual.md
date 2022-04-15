@@ -1,0 +1,66 @@
+title:: 086  Donald Trump: Unusual
+
+- ## 086  Donald Trump: Unusual
+- ## pure
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about Donald Trump. He was elected in 2016. Because his presidency is so new, this program will not discuss his time in office.
+	- Instead, it will discuss his early life.
+	- And it will note a few ways that Trump's background is unusual compared to most U.S. presidents.
+	- ## Early life
+	- Donald Trump was born in Queens, a borough of New York City. He was the fourth child. He had two brothers and two sisters.
+	- His mother had been born in Scotland. His father, whose relatives were German, became a successful businessman in New York.
+	- Donald and his two brothers helped their father in the family business. At the time, the business was called Elizabeth Trump and Son, after his grandmother and father. The work related to building, buying, and managing property.
+	- By his own telling, young Donald often created trouble in school. So when he was 13 years old, his parents sent him to a military-style school.
+	- Donald said that, for the most part, he enjoyed the experience. Other students there remembered him as a good baseball player, as popular with girls, and as someone who wanted to succeed.
+	- Trump went on to college first at Fordham University in New York, and then at the University of Pennsylvania. He earned a degree in economics.
+	- He was also already investing in real estate. After he graduated, Trump quickly returned to New York City and his career.
+	- In time, he became the head of the family business. He re-named it the Trump Organization. As its president, Trump developed and put his name on luxury buildings, casinos, hotels, and golf courses around the world.
+	- Later, he became linked to the entertainment industry, too. He became a part owner of beauty pageants, hosted a television show, and wrote a book about how to succeed in business.
+	- During these years, Trump also married three times and divorced twice. The media wrote especially about his first and second marriages because he openly had a relationship with his second wife while he was married to his first.
+	- In 2005, he married Melania Knauss, a former model from Slovenia. She is only the second first lady who was not born in the United States. The first was Louisa Adams, who came from Britain in 1801.
+	- All together, Trump has three sons and two daughters.
+	- Because Trump has been a public figure for most of his life, many Americans were familiar with him before he ran for president.
+	- To some, he is linked to success in business and branding.
+	- To others, notes journalist Jackie Calmes, he is linked to debt and legal battles.
+	- But, until he officially entered the 2016 campaign as a Republican candidate, few linked him to politics.
+	- Trump is unusual among past presidents in that he had never worked in the government before. Nor has Trump served in the military. Only Presidents Taylor, Grant, and Eisenhower had no previous government experience; however, they had all been generals.
+	- During the campaign for president, other candidates spent money to buy advertising. But Trump spread his message on free television, radio and social media.
+	- Trump won the Republican nomination over 16 candidates. He went on to defeat Democratic nominee Hillary Clinton to win the presidency.
+	- Trump is the oldest person ever to take office. He was 70 years old when he was sworn in.
+	- He is also one of the richest.
+	- And Trump is unusual in how he communicates with the public. As president, he continues to use Twitter to communicate his thoughts directly to anyone who wants to follow him.
+	- Many earlier presidents also used changes in technology to interact with the public. Woodrow Wilson was the first to hold press conferences regularly with reporters. Franklin Roosevelt famously spoke to Americans on the radio. John F. Kennedy – and later Richard Nixon – are credited with using television to their advantage.
+	- But these episodes were often planned in advance. Trump has said he likes Twitter because he can share his thoughts immediately. And, he adds, the media and the public respond immediately, too.
+	- While the long-term effects of Trump's presidency are not yet known, he will likely be remembered in part for his direct and unscripted style of communication.
+- ---
+- ## def
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about Donald Trump. He was elected in 2016. Because his presidency is so new, this program will not discuss his time in office.
+	- Instead, it will discuss his early life.
+	- And it will note a few ways that Trump's background is unusual compared to most U.S. presidents.
+	- ## Early life
+	- Donald Trump was born in Queens, a borough of New York City. He was the fourth child. He had two brothers and two sisters.
+	- His mother had been born in Scotland. His father, whose relatives were German, became a successful businessman in New York.
+	- Donald and his two brothers helped their father in the family business. At the time, the business was called Elizabeth Trump and Son, after his grandmother and father. The work related to building, buying, and managing property.
+	- By his own telling, young Donald often created trouble in school. So when he was 13 years old, his parents sent him to a military-style school.
+	- Donald said that, for the most part, he enjoyed the experience. Other students there remembered him as a good baseball player, as popular with girls, and as someone who wanted to succeed.
+	- Trump went on to college first at Fordham University in New York, and then at the University of Pennsylvania. He earned a degree in economics.
+	- He was also already investing in real estate. After he graduated, Trump quickly returned to New York City and his career.
+	- In time, he became the head of the family business. He re-named it the Trump Organization. As its president, Trump developed and put his name on luxury buildings, casinos, hotels, and golf courses around the world.
+	- Later, he became linked to the entertainment industry, too. He became a part owner of beauty pageants, hosted a television show, and wrote a book about how to succeed in business.
+	- During these years, Trump also married three times and divorced twice. The media wrote especially about his first and second marriages because he openly had a relationship with his second wife while he was married to his first.
+	- In 2005, he married Melania Knauss, a former model from Slovenia. She is only the second first lady who was not born in the United States. The first was Louisa Adams, who came from Britain in 1801.
+	- All together, Trump has three sons and two daughters.
+	- Because Trump has been a public figure for most of his life, many Americans were familiar with him before he ran for president.
+	- To some, he is linked to success in business and branding.
+	- To others, notes journalist Jackie Calmes, he is linked to debt and legal battles.
+	- But, until he officially entered the 2016 campaign as a Republican candidate, few linked him to politics.
+	- Trump is unusual among past presidents in that he had never worked in the government before. Nor has Trump served in the military. Only Presidents Taylor, Grant, and Eisenhower had no previous government experience; however, they had all been generals.
+	- During the campaign for president, other candidates spent money to buy advertising. But Trump spread his message on free television, radio and social media.
+	- Trump won the Republican nomination over 16 candidates. He went on to defeat Democratic nominee Hillary Clinton to win the presidency.
+	- Trump is the oldest person ever to take office. He was 70 years old when he was sworn in.
+	- He is also one of the richest.
+	- And Trump is unusual in how he communicates with the public. As president, he continues to use Twitter to communicate his thoughts directly to anyone who wants to follow him.
+	- Many earlier presidents also used changes in technology to interact with the public. Woodrow Wilson was the first to hold press conferences regularly with reporters. Franklin Roosevelt famously spoke to Americans on the radio. John F. Kennedy – and later Richard Nixon – are credited with using television to their advantage.
+	- But these episodes were often planned in advance. Trump has said he likes Twitter because he can share his thoughts immediately. And, he adds, the media and the public respond immediately, too.
+	- While the long-term effects of Trump's presidency are not yet known, he will likely be remembered in part for his direct and unscripted style of communication.

@@ -1,0 +1,109 @@
+title:: 061 Rutherford B. Hayes: Middle-of-the-Road
+
+- ## 061 Rutherford B. Hayes: Middle-of-the-Road
+- ## pure
+  collapsed:: true
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about Rutherford B. Hayes. He took office in 1877 and was president during the end of what Americans call Reconstruction – the period following the Civil War.
+	- Hayes had a public image as an honest, dignified man. And even though he had ideas that were radical at the time, he supported moderate policies and measured change.
+	- One exception was alcoholic drinks. Hayes banned wine and liquor from the White House.
+	- ## Early Life
+	- Before Rutherford Hayes was born, his father died. Not too long after that, his older brother died, too.
+	- As a result, Hayes grew up mostly with just his mother and his older sister. Later, an uncle helped raise him, as well.
+	- As a boy, Rutherford Hayes was called "Rud." He grew up on a farm in Ohio and spent his early years playing with his sister, who taught him to love books.
+	- Hayes was an excellent student, and in time he attended Kenyon College and Harvard Law School.
+	- Hayes started his career as a lawyer in the city of Cincinnati, Ohio. He did not go into a field that made much money. Instead, he defended people who were poor or in difficult situations.
+	- He also courted the woman he would marry. Lucy Webb – like Hayes' mother and sister – strongly influenced the way Hayes thought.
+	- Hayes' own views at the time were moderate. He drank alcohol, but not much. He opposed slavery, but he was not an anti-slavery activist.
+	- His new wife, however, was strongly against alcohol and slavery. She was part of social movements at the time to ban alcoholic drinks entirely in the United States.
+	- And she encouraged Hayes to defend not only the poor in his law business, but also runaway slaves.
+	- Together, Rutherford and Lucy Hayes formed an equal marriage committed to helping others. They were known for being friendly, informal and welcoming.
+	- They also went on to have eight children, five of whom survived to adulthood. Lucy Webb Hayes said her husband was "always calm" as a father, and took time even when he was president to care for his children.
+	- ## Election of 1876
+	- Because Hayes had such a positive public image, it is ironic that the contest that elected him president was one of the most hostile in U.S. history.
+	- The full story is complex. But the general story is that Hayes was the Republican candidate, and Samuel Tilden was the Democratic candidate.
+	- Tilden won more popular votes across the country. But in the U.S. system, the majority of voters do not choose the president. Instead, a few electors in each state cast votes. In a way, then, the states choose the president.
+	- And in the election of 1876, three Southern states gave conflicting reports. It was not clear whether Tilden or Hayes had won South Carolina, Florida and Louisiana.
+	- Even though the election was held in November, the debate over the winner lasted until the following March – days before the new president was to be sworn in.
+	- One of the most serious accusations was that Democrats in the South had prevented many black men from voting. If those men had been able to vote, they almost certainly would have voted for Hayes.
+	- In the end, a special commission in Congress gave the votes in all three disputed states to Rutherford Hayes.
+	- His opponents pointed out that the majority of people on the commission were Republicans. As a result, they said, the new president had earned his position only because of party politics. They called him "Rutherfraud" and "His Fraudulancy."
+	- But, in the end, Hayes was widely considered an independent president who operated outside of party loyalties.
+	- ## Presidency
+	- One of Hayes' first acts as president was probably his most important: He withdrew federal troops from Southern states.
+	- The troops had been trying to protect the civil and political rights of African-Americans . But white Democrats disliked the federal government's involvement in their affairs. Also, the troops were not very effective.
+	- So Hayes said that if Southern officials promised to obey the country's laws protecting all people equally, he would end the federal government's occupation of their states.
+	- The officials agreed, and the period known as Reconstruction officially ended.
+	- But, as the years went on, the rights of black Americans were increasingly violated.
+	- As a result, part of Hayes' legacy is one of betrayal. His policy permitted systemic violence and racism to continue for decades.
+	- Another of Hayes' important acts was to reform the country's civil service. For the most part, members of Congress offered their political allies government jobs with good pay. But Hayes sought to change the rules. He wanted to give government jobs to the most able workers.
+	- While his goal was a good one, his action shocked and angered many members of Congress.
+	- The Democrats especially sought to weaken Hayes' position by removing the president's ability to veto their bills. Hayes fought back – and won.
+	- By the second half of his term, Hayes had restored some of Americans' trust in government that had been lost under the two presidents before him, Andrew Johnson and Ulysses S. Grant.
+	- He had helped ease the tensions between the North and South.
+	- He had stabilized the economy.
+	- He had increased the power of the presidency in a mostly positive way.
+	- And he had prepared the way for major civil service reform.
+	- But Hayes is not remembered as an especially great president. He is often placed toward the middle – not one of the best, and not one of the worst.
+	- Some historians suggest that Hayes would be better remembered if he had stayed a second term and supervised some of the gains begun in his first years.
+	- But, Hayes had promised that he would serve only one term as president.
+	- So, true to his word, Hayes did not seek re-election.
+	- ## Final years
+	- Hayes had always believed that the best way to solve the country's problems was to improve the education system.
+	- So, in his retirement, Hayes became president of two social welfare organizations. One aimed to provide a Christian education to blacks in the South. One of the people helped by that organization was the well-known writer and activist W.E.B. DuBois.
+	- Hayes also led a group aimed at reforming the country's prison system.
+	- When he was 70 years old, Hayes fell ill. Although he had a big heart for children and for helping people, he died of heart failure.
+	- Afterwards, one of his sons began a new tradition in honor of his father. He established the first presidential library.
+- ---
+- ## def
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about Rutherford B. Hayes. He took office in 1877 and was president during the end of what Americans call Reconstruction – the period following the Civil War.
+	- Hayes had a public image as an honest, dignified man. And even though he had ideas that were radical at the time, he supported moderate policies and measured change.
+	- One exception was alcoholic drinks. Hayes banned wine and liquor from the White House.
+	- ## Early Life
+	- Before Rutherford Hayes was born, his father died. Not too long after that, his older brother died, too.
+	- As a result, Hayes grew up mostly with just his mother and his older sister. Later, an uncle helped raise him, as well.
+	- As a boy, Rutherford Hayes was called "Rud." He grew up on a farm in Ohio and spent his early years playing with his sister, who taught him to love books.
+	- Hayes was an excellent student, and in time he attended Kenyon College and Harvard Law School.
+	- Hayes started his career as a lawyer in the city of Cincinnati, Ohio. He did not go into a field that made much money. Instead, he defended people who were poor or in difficult situations.
+	- He also courted the woman he would marry. Lucy Webb – like Hayes' mother and sister – strongly influenced the way Hayes thought.
+	- Hayes' own views at the time were moderate. He drank alcohol, but not much. He opposed slavery, but he was not an anti-slavery activist.
+	- His new wife, however, was strongly against alcohol and slavery. She was part of social movements at the time to ban alcoholic drinks entirely in the United States.
+	- And she encouraged Hayes to defend not only the poor in his law business, but also runaway slaves.
+	- Together, Rutherford and Lucy Hayes formed an equal marriage committed to helping others. They were known for being friendly, informal and welcoming.
+	- They also went on to have eight children, five of whom survived to adulthood. Lucy Webb Hayes said her husband was "always calm" as a father, and took time even when he was president to care for his children.
+	- ## Election of 1876
+	- Because Hayes had such a positive public image, it is ironic that the contest that elected him president was one of the most hostile in U.S. history.
+	- The full story is complex. But the general story is that Hayes was the Republican candidate, and Samuel Tilden was the Democratic candidate.
+	- Tilden won more popular votes across the country. But in the U.S. system, the majority of voters do not choose the president. Instead, a few electors in each state cast votes. In a way, then, the states choose the president.
+	- And in the election of 1876, three Southern states gave conflicting reports. It was not clear whether Tilden or Hayes had won South Carolina, Florida and Louisiana.
+	- Even though the election was held in November, the debate over the winner lasted until the following March – days before the new president was to be sworn in.
+	- One of the most serious accusations was that Democrats in the South had prevented many black men from voting. If those men had been able to vote, they almost certainly would have voted for Hayes.
+	- In the end, a special commission in Congress gave the votes in all three disputed states to Rutherford Hayes.
+	- His opponents pointed out that the majority of people on the commission were Republicans. As a result, they said, the new president had earned his position only because of party politics. They called him "Rutherfraud" and "His Fraudulancy."
+	- But, in the end, Hayes was widely considered an independent president who operated outside of party loyalties.
+	- ## Presidency
+	- One of Hayes' first acts as president was probably his most important: He withdrew federal troops from Southern states.
+	- The troops had been trying to protect the civil and political rights of African-Americans . But white Democrats disliked the federal government's involvement in their affairs. Also, the troops were not very effective.
+	- So Hayes said that if Southern officials promised to obey the country's laws protecting all people equally, he would end the federal government's occupation of their states.
+	- The officials agreed, and the period known as Reconstruction officially ended.
+	- But, as the years went on, the rights of black Americans were increasingly violated.
+	- As a result, part of Hayes' legacy is one of betrayal. His policy permitted systemic violence and racism to continue for decades.
+	- Another of Hayes' important acts was to reform the country's civil service. For the most part, members of Congress offered their political allies government jobs with good pay. But Hayes sought to change the rules. He wanted to give government jobs to the most able workers.
+	- While his goal was a good one, his action shocked and angered many members of Congress.
+	- The Democrats especially sought to weaken Hayes' position by removing the president's ability to veto their bills. Hayes fought back – and won.
+	- By the second half of his term, Hayes had restored some of Americans' trust in government that had been lost under the two presidents before him, Andrew Johnson and Ulysses S. Grant.
+	- He had helped ease the tensions between the North and South.
+	- He had stabilized the economy.
+	- He had increased the power of the presidency in a mostly positive way.
+	- And he had prepared the way for major civil service reform.
+	- But Hayes is not remembered as an especially great president. He is often placed toward the middle – not one of the best, and not one of the worst.
+	- Some historians suggest that Hayes would be better remembered if he had stayed a second term and supervised some of the gains begun in his first years.
+	- But, Hayes had promised that he would serve only one term as president.
+	- So, true to his word, Hayes did not seek re-election.
+	- ## Final years
+	- Hayes had always believed that the best way to solve the country's problems was to improve the education system.
+	- So, in his retirement, Hayes became president of two social welfare organizations. One aimed to provide a Christian education to blacks in the South. One of the people helped by that organization was the well-known writer and activist W.E.B. DuBois.
+	- Hayes also led a group aimed at reforming the country's prison system.
+	- When he was 70 years old, Hayes fell ill. Although he had a big heart for children and for helping people, he died of heart failure.
+	- Afterwards, one of his sons began a new tradition in honor of his father. He established the first presidential library.

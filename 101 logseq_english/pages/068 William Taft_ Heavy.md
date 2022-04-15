@@ -1,0 +1,93 @@
+title:: 068 William Taft: Heavy
+
+- ## 068 William Taft: Heavy
+- ## pure
+  collapsed:: true
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about William Howard Taft, who took office in 1909.
+	- In some ways, the story of Taft's presidency is also a story about Theodore Roosevelt's presidency. Roosevelt had been president for the eight years before Taft. The two men were friends; Roosevelt was even a mentor to Taft.
+	- But the two men were very different. Roosevelt was energetic, both in his physical abilities and in his use of executive power. His vision for the country was progressive.
+	- In contrast, Taft was a more conservative, heavy man who fell asleep in meetings, and who did not make decisions quickly.
+	- In fact, Americans often remember Taft because of his size. His weight changed frequently, but as president Taft usually weighed about 135 kilograms.
+	- One popular story claims that Taft got stuck in a White House bathtub. This story is not true. However, it is true that Taft had a special bathtub made for him. Several men could sit comfortably in it.
+	- As president, Taft did continue some of Roosevelt's reforms, but in a more orderly way. He also took some actions that contradicted Roosevelt's wishes.
+	- In four years, the two men had gone from political allies to competitors for the White House.
+	- ## Early life
+	- Taft was another president who was born in the state of Ohio. He grew up in the city of Cincinnati, along with five siblings.
+	- Taft's father was a well-known lawyer, public official and diplomat. He was an advisor to President Ulysses Grant.
+	- His mother was an intelligent, independent woman who also worked for the public good.
+	- The Tafts had high expectations for their son. He became an excellent student, who went on to study at Yale and then the University of Cincinnati Law School.
+	- Taft sought a career path that he hoped would lead him one day to the U.S. Supreme Court. He worked as a lawyer, and then as a judge in Ohio. Along the way, he met Theodore Roosevelt. Roosevelt helped Taft advance his career as a judge.
+	- But one person was not happy about the career move: Taft's wife.
+	- Taft had married an intelligent, independent woman named Helen Herron, known as Nellie. She had always wanted to be first lady, and she urged her husband to follow a path toward the White House.
+	- In time, Nellie Taft had her wish. In 1900 President William McKinley offered Taft a position in the Philippines. The islands had come under the control of the United States after the Spanish-American War.
+	- McKinley wanted Taft to help prepare the Philippines to be ruled by civilians, instead of by soldiers. Taft worried he would not like the job; however, he knew that it was a good chance to build a political career.
+	- Taft was right about that. But he was wrong about disliking the job. He enjoyed it so much that he turned down two offers to return to the U.S. and serve on the Supreme Court.
+	- In the Philippines, Taft successfully established courts, schools, a transportation network, and a health care system.
+	- Taft did have pejorative views about the people who lived there – he did not think they were yet capable of governing themselves. But he performed his job as governor general effectively.
+	- Taft might have even stayed in the Philippines if it were not for his friend Theodore Roosevelt. In 1901, Roosevelt became president. He asked Taft to become his secretary of war.
+	- Taft agreed, partly so he could continue to supervise the Philippines. But the job also put him in a position to become president himself.
+	- ## Presidency
+	- William Taft did not really want to be president. But Theodore Roosevelt and Nellie Taft wanted him to be.
+	- During the election of 1908, Taft permitted Roosevelt to do most of the campaigning for him. He spent a lot of time golfing. Taft was the first president to be strongly linked – so to speak – to the sport of golfing. (Another word for golf course is "links.")
+	- Yet voters approved of Taft. They likely hoped he would continue the reforms of Roosevelt. He won the election easily.
+	- Once in the White House, however, Taft did several things that reversed Roosevelt's positions.
+	- First, Taft signed a bill that did not reduce tariffs as much as many progressive activists wanted.
+	- Then, Taft removed one of Roosevelt's friends from a goverment position. Taft believed he was correct in making the move, but Roosevelt and many other Republicans were furious.
+	- Some historians say they did not give Taft enough credit for the many reforms he did make. His government pursued a large number of anti-trust suits against big business.
+	- It also advanced two Constitutional amendments – one to establish a federal income tax, and another to permit voters to elect senators directly.
+	- As the end of Taft's term in the White House came near, the Republican Party was divided. At their 1912 convention, a majority of delegates nominated Taft for president again. But a number left the meeting in anger. They created a new group, called the Progressive Party, and nominated as their candidate Theodore Roosevelt.
+	- Taft and Roosevelt, along with the Democratic Party candidate, fought a bitter campaign during 1912. Of the three, Taft came in last.
+	- Roosevelt came in second.
+	- The divided Republicans had given control of the White House to the Democratic candidate Woodrow Wilson.
+	- ## Legacy
+	- Happily for him, Taft's story does not end there.
+	- Taft taught at Yale University Law School for a while. Then, when a Republican took the White House again, President Warren Harding appointed Taft as chief justice of the Supreme Court. He is the only person to lead both the executive and judicial branches of the U.S. government.
+	- Taft was clear about which one he favored: He was much more comfortable as a justice than he was as president.
+	- One journalist at the time described Chief Justice Taft as "a smiling Buddha, placid, wise, gentle, sweet."
+	- He even lost weight.
+- ---
+- ## def
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about William Howard Taft, who took office in 1909.
+	- In some ways, the story of Taft's presidency is also a story about Theodore Roosevelt's presidency. Roosevelt had been president for the eight years before Taft. The two men were friends; Roosevelt was even a mentor to Taft.
+	- But the two men were very different. Roosevelt was energetic, both in his physical abilities and in his use of executive power. His vision for the country was progressive.
+	- In contrast, Taft was a more conservative, heavy man who fell asleep in meetings, and who did not make decisions quickly.
+	- In fact, Americans often remember Taft because of his size. His weight changed frequently, but as president Taft usually weighed about 135 kilograms.
+	- One popular story claims that Taft got stuck in a White House bathtub. This story is not true. However, it is true that Taft had a special bathtub made for him. Several men could sit comfortably in it.
+	- As president, Taft did continue some of Roosevelt's reforms, but in a more orderly way. He also took some actions that contradicted Roosevelt's wishes.
+	- In four years, the two men had gone from political allies to competitors for the White House.
+	- ## Early life
+	- Taft was another president who was born in the state of Ohio. He grew up in the city of Cincinnati, along with five siblings.
+	- Taft's father was a well-known lawyer, public official and diplomat. He was an advisor to President Ulysses Grant.
+	- His mother was an intelligent, independent woman who also worked for the public good.
+	- The Tafts had high expectations for their son. He became an excellent student, who went on to study at Yale and then the University of Cincinnati Law School.
+	- Taft sought a career path that he hoped would lead him one day to the U.S. Supreme Court. He worked as a lawyer, and then as a judge in Ohio. Along the way, he met Theodore Roosevelt. Roosevelt helped Taft advance his career as a judge.
+	- But one person was not happy about the career move: Taft's wife.
+	- Taft had married an intelligent, independent woman named Helen Herron, known as Nellie. She had always wanted to be first lady, and she urged her husband to follow a path toward the White House.
+	- In time, Nellie Taft had her wish. In 1900 President William McKinley offered Taft a position in the Philippines. The islands had come under the control of the United States after the Spanish-American War.
+	- McKinley wanted Taft to help prepare the Philippines to be ruled by civilians, instead of by soldiers. Taft worried he would not like the job; however, he knew that it was a good chance to build a political career.
+	- Taft was right about that. But he was wrong about disliking the job. He enjoyed it so much that he turned down two offers to return to the U.S. and serve on the Supreme Court.
+	- In the Philippines, Taft successfully established courts, schools, a transportation network, and a health care system.
+	- Taft did have pejorative views about the people who lived there – he did not think they were yet capable of governing themselves. But he performed his job as governor general effectively.
+	- Taft might have even stayed in the Philippines if it were not for his friend Theodore Roosevelt. In 1901, Roosevelt became president. He asked Taft to become his secretary of war.
+	- Taft agreed, partly so he could continue to supervise the Philippines. But the job also put him in a position to become president himself.
+	- ## Presidency
+	- William Taft did not really want to be president. But Theodore Roosevelt and Nellie Taft wanted him to be.
+	- During the election of 1908, Taft permitted Roosevelt to do most of the campaigning for him. He spent a lot of time golfing. Taft was the first president to be strongly linked – so to speak – to the sport of golfing. (Another word for golf course is "links.")
+	- Yet voters approved of Taft. They likely hoped he would continue the reforms of Roosevelt. He won the election easily.
+	- Once in the White House, however, Taft did several things that reversed Roosevelt's positions.
+	- First, Taft signed a bill that did not reduce tariffs as much as many progressive activists wanted.
+	- Then, Taft removed one of Roosevelt's friends from a goverment position. Taft believed he was correct in making the move, but Roosevelt and many other Republicans were furious.
+	- Some historians say they did not give Taft enough credit for the many reforms he did make. His government pursued a large number of anti-trust suits against big business.
+	- It also advanced two Constitutional amendments – one to establish a federal income tax, and another to permit voters to elect senators directly.
+	- As the end of Taft's term in the White House came near, the Republican Party was divided. At their 1912 convention, a majority of delegates nominated Taft for president again. But a number left the meeting in anger. They created a new group, called the Progressive Party, and nominated as their candidate Theodore Roosevelt.
+	- Taft and Roosevelt, along with the Democratic Party candidate, fought a bitter campaign during 1912. Of the three, Taft came in last.
+	- Roosevelt came in second.
+	- The divided Republicans had given control of the White House to the Democratic candidate Woodrow Wilson.
+	- ## Legacy
+	- Happily for him, Taft's story does not end there.
+	- Taft taught at Yale University Law School for a while. Then, when a Republican took the White House again, President Warren Harding appointed Taft as chief justice of the Supreme Court. He is the only person to lead both the executive and judicial branches of the U.S. government.
+	- Taft was clear about which one he favored: He was much more comfortable as a justice than he was as president.
+	- One journalist at the time described Chief Justice Taft as "a smiling Buddha, placid, wise, gentle, sweet."
+	- He even lost weight.

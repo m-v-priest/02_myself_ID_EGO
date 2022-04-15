@@ -1,0 +1,99 @@
+- # 034 The Rise of the US Supreme Court
+- pure
+  collapsed:: true
+	- When Americans are angry and believe they are right about an issue, they might use this expression: “I’m going take it all the way to the Supreme Court!”
+	- ​These words capture two important ideas. First, the Supreme Court of the United States has the final say in legal disputes. The high court is sometimes called the “court of last resort.”
+	- The expression also suggests that taking a case “all the way” to the Supreme Court is hard. Each year, the court receives about 7,000 requests to consider cases. The judges – called justices – rule on only 100 or so. Their job is to strike down laws or actions that violate the U.S. Constitution.
+	- Linda Greenhouse reported on the U.S. Supreme Court for 30 years. She points out that although the justices hear only a few cases every year, the court plays an important role.
+	- “It sits there as a symbol that there is rule of law in the country that people can turn to, and I think it’s a very important part of American culture.”
+	- ## “Something that the world had never seen”
+	- The idea for the Supreme Court dates back to 1787. At that time, the men who wrote the U.S. Constitution described a court system with a number of lower courts and one high court. The judicial branch, as it was called, would be one part of a three-part system of government.
+	- ​Reporter Linda Greenhouse says the idea of the U.S. Supreme Court was unusual because it was designed to be independent from Congress and the president.
+	- “And so from the beginning the U.S. had a supreme court that could talk back, push back, and actually define the boundaries of the law. And that was something that the world had never seen.”
+	- ## How the Supreme Court became supreme
+	- At first, Americans were not sure how important the Supreme Court would be. Not very, some thought.
+	- The court did not even have its own building, but moved from place to place. For a while, it operated out of the U.S. Capitol building in a meeting room lawmakers were not using.
+	- And the position of Supreme Court justice was not highly valued.
+	- One of the first justices, John Jay, resigned from the Supreme Court to become the governor of New York. Later, the president asked Jay to return to the high court. Jay said no. The idea of the federal judiciary had too many problems, he said. He did not think the Supreme Court could ever earn the public’s trust.
+	- So the president at the time, John Adams, asked someone else, John Marshall, to be a Supreme Court justice.
+	- That decision turned out to be very important. During his 34 years in office, beginning in 1801, John Marshall helped shape and strengthen the Supreme Court. One of his most historic decisions came in 1803. That year, Marshall wrote the opinion on a case called Marbury versus Madison.
+	- The case related to a man named William Marbury. He had been offered a government job at the last minute by an outgoing president. The new president and his secretary of state, Thomas Jefferson and James Madison, did not want to give Marbury the position for political reasons. But Marbury believed an earlier act of Congress required the president to appoint him. So Marbury took the dispute all the way to the Supreme Court.
+	- The justices at the time agreed that Marbury should get the job. But they did not order Jefferson and Madison to give it to him. Instead, the justices believed, the earlier act of Congress violated the Constitution. So the whole idea behind Marbury’s case could not be justified.
+	- That decision was historic, not because Marbury lost his case, but because of what it said about the Supreme Court. The chief justice claimed the court’s right to tell the rest of the federal government what the Constitution permits them to do.
+	- Michael Trachtman, a lawyer and writer, puts it this way:
+	- “Marbury versus Madison established that it is the Supreme Court who makes the final rules. The Supreme Court gets to say to the president of the United States, ‘You cannot do that.’ The Supreme Court gets to say to the Congress of the United States, ‘You passed this legislation, it took you 10 years to do it, the president signed it. No. It’s invalidated because it violates the Constitution.’”
+	- ## Dignity and importance
+	- Of course, the Supreme Court does not have any power to enforce its decisions. It does not have money or an army. Instead, it depends on Americans’ respect for the Supreme Court and the rule of law.
+	- As a sign of the respect it commands, in 1935 the Supreme Court finally moved to its permanent home. The building is made of white marble, with tall columns and a long staircase.
+	- The chief justice who pressed Congress to approve money for the building, William Howard Taft, did not live to see it completed. But his dream for it was realized. Taft said he wanted it to show the “dignity and importance” of the Supreme Court in American life.
+- ---
+- ## def
+	- When Americans are angry /and believe they are right about an issue, they might use this expression: “I’m going take it all the way /to the Supreme Court!”
+		- 当美国人很生气, 并且认为他们在一个问题上是对的时，他们可能会用这个表达:“我要把它一直带到最高法院去裁决!”
+	- ​These words /capture(v.) two important ideas. First, the Supreme Court of the United States /**has the final say** in legal disputes. The high court is sometimes called /the “court of **last resort**.”
+		- > ▶ say (n.) ~ (in sth) the right to influence sth by giving your opinion before a decision is made 决定权；发言权
+		  -> The judge **has the final say** on the sentence. 法官对判决有最后的决定权。
+		- > ▶ resort (n.)[ U ] ~ to sth : the act of using sth, especially sth bad or unpleasant, because nothing else is possible 诉诸；求助；采取 
+		  / **the first/last/final ~** : the first or last course of action that you should or can take in a particular situation 应急措施；可首先（或最后）采取的手段
+		  -> **In the last resort (= in the end)** everyone must decide for themselves. 最后人人都得自己作决定。
+		- 这些话抓住了两个重要的点。首先，美国最高法院, 在法律纠纷中, 拥有最终决定权。高等法院有时被称为“最后的法庭”。
+	- The expression also suggests that /taking a case “all the way” to the Supreme Court /is hard. Each year, the court receives about 7,000 requests /to consider(v.) cases. The judges – called justices – rule on only 100 or so. Their job is `表` **to strike down** laws or actions /that violate(v.) the U.S. Constitution.
+		- > ▶ consider (v.)to think about sth carefully, especially in order to make a decision （尤指为作出决定而）仔细考虑，细想
+		- > ▶ Just·ice  [ C ] ( NAmE ) a judge in a court (also used before the name of a judge) 法官（亦作称谓）
+		- > ▶ strike sb ˈdown : [ usually passive ] (1) ( of a disease, etc. 疾病等 ) to make sb unable to lead an active life; to make sb seriously ill; to kill sb 摧垮；使病倒；使丧命 / 击倒，撞倒（某人）
+		- 这个表达还暗示，要把案件“一路”打到最高法院, 是很困难的。每年，最高法院收到约7000宗案件的审理请求。这些法官——也就是所谓的大法官——只对大约100宗做出裁决。他们的工作是推翻违反美国宪法的法律或行为。
+	- Linda Greenhouse /reported(v.) on the U.S. Supreme Court /for 30 years. She points out that /although the justices hear(v.) only a few cases every year, the court /plays an important role.
+		- Linda Greenhouse 报道"美国最高法院的新闻"已经30年了。
+	- “It **sits** there **as** a symbol /that there is rule of law in the country /that people can **turn to**, and I think it’s a very important part /of American culture.”
+		- > ▶ sit (v.) **~ in/on/for sth |~ as sth** : to have an official position as sth /or as a member of sth （在…中）任职；任（…的）代表；担任
+		  -> They both **sat as MPs** in the House of Commons. 他们两人都曾是下议院议员。
+		- > ▶ **turn to sb/sth** :to go to sb/sth for help, advice, etc. 向…求助（或寻求指教等）
+		  -> She has nobody **she can turn to**. 她求助无门。
+		- 它象征着这个国家的法治，人们可以求助于它，我认为这是美国文化非常重要的一部分。
+	- ## “Something that the world had never seen”
+	- The idea for the Supreme Court /dates(v.) back to 1787. At that time, the men /who wrote the U.S. Constitution /described a court system /with a number of lower courts /and one high court. The judicial branch, as it was called, would be /one part of a three-part system of government.
+		- > ▶ court (n.) the place where legal trials take place and where crimes, etc. are judged 法院；法庭；审判庭
+		- 设立最高法院的想法, 可以追溯到1787年。当时，撰写美国宪法的人, 描述了一个由若干个下级法院和一个高等法院, 所组成的法院系统。
+	- ​Reporter Linda Greenhouse says /the idea of the U.S. Supreme Court /was unusual /because it was designed /to be independent from Congress and the president.
+		- 美国最高法院的创立想法, 是不同寻常的，因为它的设计是独立于国会和总统。
+	- “And so /from the beginning /the U.S. had a supreme court /that could **talk back**, push back, and actually define **the boundaries of the law**. And that was something /that the world had never seen.”
+		- > ▶ **talk back** PHRASAL VERB If you talk back to someone in authority such as a parent or teacher, you answer them in a rude way. 顶嘴
+		- 从一开始，美国就有一个最高法院，可以反驳、反驳，并实际定义法律的边界。
+	- ## How the Supreme Court became supreme
+	- At first, Americans were not sure /how important the Supreme Court would be. Not very, some thought(v.).
+		- > ▶ supreme  (a.)highest in rank or position （级别或地位）最高的，至高无上的 /very great or the greatest in degree （程度）很大的，最大的
+		  -> a supreme effort 最大的努力
+	- The court did not even have its own building, but moved /from place to place. For a while, it operated /out of the U.S. Capitol building /in a meeting room /lawmakers were not using.
+	- And the position of **Supreme Court justice** /was not highly valued.
+		- 法院甚至没有自己的建筑，而是从一个地方搬到另一个地方。有一段时间，它在美国国会大厦外的一间国会议员们不使用的会议室里运作。
+		  最高法院法官的地位, 也不被重视。
+	- One of the first justices, John Jay, resigned(v.) from the Supreme Court /to become the governor of New York. Later, the president asked Jay to return to the high court. Jay said no. The idea of the federal judiciary /had too many problems, he said. He did not think /the Supreme Court /could ever earn the public’s trust.
+	- So the president /at the time, John Adams, asked someone else, John Marshall, to be a Supreme Court justice.
+	- That decision /**turned out to be** very important. During his 34 years in office, beginning in 1801, John Marshall /helped shape(v.) and strengthen(v.) the Supreme Court. One of his most historic decisions /came in 1803. That year, Marshall wrote the opinion on a case /called **Marbury versus Madison**.
+		- 约翰·马歇尔帮助塑造和巩固了最高法院。他最具历史意义的决定之一是在1803年。那年，马歇尔撰写了一份关于马布里诉麦迪逊案的意见书。
+	- The case **related to** a man /named William Marbury. He had been offered a government job /at the last minute /by an outgoing president. The new president and his **secretary of state**, Thomas Jefferson and James Madison, did not want to give Marbury the position /for political reasons. But Marbury believed /an earlier act of Congress /required the president to appoint him. So Marbury took the dispute /all the way to the Supreme Court.
+		- > ▶ outgoing  (a.)leaving the position of responsibility mentioned 将卸任的；离职的 /going away from a particular place rather than arriving in it 向外的；离开的
+		  -> outgoing flights/passengers 出港航班╱旅客
+		- 但马布里认为，国会早些时候的一项法案, 要求总统任命他。
+	- The justices at the time /agreed that /Marbury should get the job. But they did not order(v.) Jefferson and Madison /to give it to him. Instead, the justices believed, the earlier act of Congress /violated the Constitution. So the whole idea behind Marbury’s case /could not be justified.
+		- 当时的法官们一致认为, 马布里应该得到这份工作。但是他们并没有命令杰斐逊和麦迪逊把它交给他。相反，大法官们认为，国会早些时候的法案, 违反了宪法。因此，马布里案背后的整个想法是不合理的。
+	- That decision was historic, not because Marbury lost(v.) his case, but because of /what it said about the Supreme Court. The chief justice /claimed(v.) the court’s right /to tell the rest of the federal government /what the Constitution permits(v.) them to do.
+		- > ▶ historic (a.)important in history; likely to be thought of as important at some time in the future 历史上著名（或重要）的；可名垂青史的
+		- > ▶ get (v.)to reach the point /at which you feel, know, are, etc. sth 开始（感觉到、认识到、成为）；达到…地步（或程度）
+		  -> After a time /**you get to realize that** /these things don't matter. 过段时间你会明白这些事情并不要紧。
+		  -> **She's getting to be** an old lady now. 她现在都快是个老太婆了。
+		- 这个决定是历史性的，因为它对最高法院的评价。首席大法官声称，法院有权告诉联邦政府的其他部门，宪法允许他们做什么。
+	- Michael Trachtman, a lawyer and writer, puts it this way:
+	- “Marbury versus Madison /established that /it is the Supreme Court /who makes the final rules. The Supreme Court /gets to say to the president of the United States, ‘You cannot do that.’ The Supreme Court /gets to say to the Congress of the United States, ‘You passed this legislation, it took you 10 years to do it, the president signed it. No. It’s invalidated /because it violates the Constitution.’”
+	- ## Dignity and importance
+	- Of course, the Supreme Court /does not have any power /to enforce its decisions. It does not have money /or an army. Instead, it depends on Americans’ respect for the Supreme Court /and the rule of law.
+	- As a sign of the respect it commands, in 1935 /the Supreme Court finally moved to its permanent home. The building is made of white marble, with tall columns /and a long staircase.
+		- > ▶ command (v.)(n.) [ C ] an order given to a person or an animal （给人或动物的）命令 /[ U ] control and authority over a situation or a group of people 控制；管辖；指挥
+		  /~ (of sth) your knowledge of sth; your ability to do or use sth, especially a language 知识；（尤指对语言的）掌握，运用能力
+		  -> Applicants will be expected **to have (a) good command of English**. 申请人必须精通英语。
+		  /(v.)[ no passive ] ( not used in the progressive tenses 不用于进行时 ) to deserve and get sth because of the special qualities you have 应得；博得；值得
+		  -> **to command(v.) sympathy/support** 值得同情╱支持
+		- > ▶ staircase （建筑物内的）楼梯
+	- The chief justice /who pressed(v.) Congress /to approve(v.) money for the building, William Howard Taft, **did not live /to see** it completed. But his dream for it /was realized. Taft said /he wanted it to show /the “dignity and importance” of the Supreme Court /in American life.
+		- > ▶ approve (v.)[ VN ] to officially agree to a plan, request, etc. 批准，通过（计划、要求等）
+		- 曾向国会施压，要求拨款修建这座大楼的首席大法官William Howard Taft 没有活着看到大楼完工。但他的梦想实现了。Taft 说，他希望它能显示最高法院, 在美国人生活中的“尊严和重要性”。

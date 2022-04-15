@@ -1,0 +1,96 @@
+-
+- PURE TEXT
+  collapsed:: true
+	- Researchers have found more evidence that one of the world’s most common viruses may be linked to the disease multiple sclerosis.
+	- MS causes the body’s own immune system to mistakenly attack nerve cells. It destroys the protective material that covers nerve tissue.
+	- The Epstein-Barr virus has long been suspected of playing a part in development of MS. But a connection is hard to prove because just about everybody gets infected with Epstein-Barr but few develop MS.
+	- Last week, Harvard researchers reported one of the largest studies yet to support the possible link between the virus and MS. They studied a supply of blood samples from usual medical tests on more than 10 million members of the American military. The samples cover a period from 1993 to 2013. The scientists searched the samples for antibodies signaling viral infection.
+	- They found that the risk of MS increased by 32 times following Epstein-Barr infection.
+	- Only 5.3 percent of the sampled group were free of signs of the virus when they joined the military. The researchers compared 801 MS cases found later over the 20-year period with 1,566 service members who never got MS.
+	- Only one of the MS patients had no evidence of the Epstein-Barr virus before their MS diagnosis. And the researchers found no evidence that other viral infections were involved.
+	- The findings “strongly suggest” that Epstein-Barr infection is “a cause and not a consequence of MS,” study leader Alberto Ascherio and his team reported in the publication Science. Dr. Ascherio is with the Harvard T.H. Chan School of Public Health.
+	- The virus appears to be “the initial trigger,” Dr. William H. Robinson and Dr. Lawrence Steinman of Stanford University wrote in a report alongside the study.
+	- Epstein-Barr is best known for causing “mono,” or infectious mononucleosis, in teenagers and young adults. The virus remains inactive in the body after infection and has been linked to later development of some autoimmune diseases, including MS, and rare cancers.
+	- It is not clear why. Some scientists think the body is tricked by viral proteins that look very much like nerve proteins.
+	- Whatever the cause may be, the new study is “the strongest evidence to date that Epstein-Barr contributes to cause MS,” said Mark Allegretta. He is vice president for research at the National Multiple Sclerosis Society.
+	- He added that the evidence, “opens the door to potentially prevent MS by preventing Epstein-Barr infection.”
+	- I’m Caty Weaver.
+	- Words in This Story
+	  sample –n. a small amount of something that gives you information about the thing it was taken from
+	- diagnosis –n. the act of identifying a disease, illness, or problem by examining someone or something
+	- consequence –n. something that happens as a result of a particular action or set of conditions
+	- initial –adj. occurring at the beginning of something
+	- trigger –n. something that causes something else to happen
+	- contribute –v. to help to cause something to happen
+	- potentially –adj. in a possible state or condition — used to describe the possible results or effects of something​
+-
+- ---
+- def text
+	- Researchers have found more evidence /that one of the world’s most common viruses /may be linked to **the disease multiple sclerosis**.
+		- ((621c73e2-1f57-4d44-885d-42576ef47b22))
+		- ((621c73f7-2139-440b-9afc-0c978926e96b))
+		- 研究人员发现更多的证据表明，世界上最常见的一种病毒, 可能与"多发性硬化症"有关。
+	- MS causes(v.) the body’s own **immune system** /to mistakenly attack(v.) **nerve cells**. It destroys **the protective material** that covers **nerve tissue**.
+		- 多发性硬化症, 会导致人体自身的免疫系统, 错误地攻击神经细胞。它会破坏覆盖神经组织的保护性物质。
+	- The Epstein-Barr virus **has long been suspected of** playing a part in development of MS. But a connection is hard to prove /because `主` **just about** everybody `谓` **gets infected with** Epstein-Barr /but few develop MS.
+		- > ▶ just about 几乎，差不多
+		- 长期以来，Epstein-Barr病毒, 一直被怀疑在多发性硬化症的发展过程中, 起到了一定的作用。但很难证明两者之间的联系，因为几乎所有人都会感染Epstein-Barr病毒，但很少有人会患上多发性硬化症。
+	- Last week, Harvard researchers reported(v.) **one of the largest studies** yet /to support(v.) **the possible link /between** the virus **and** MS. They studied(v.) a supply of **blood samples** /from **usual medical tests** /on more than 10 million members /of **the American military**. The samples cover(v.) a period /from 1993 to 2013. The scientists ==searched== the samples ==for== antibodies /后定 signaling(v.) **viral infection**.
+		- > ▶ medical test 体检, 医学检验
+		- > ▶ military (a.)(n.)the military [ sing.+sing./pl.v. ] soldiers; the armed forces 军人；军队；军方
+		- > ▶ signal (v.) ~ (to sb) to make a movement or sound to give sb a message, an order, etc. 发信号；发暗号；示意
+		- 上周，哈佛大学的研究人员, 报告了迄今为止支持这种病毒和多发性硬化症之间可能存在联系的, 规模最大的研究之一。他们研究了来自1000多万名美国军人的, 常规医学测试的血液样本。这些样本, 涵盖了1993年至2013年的时间段。科学家们在这些样本中, 寻找被病毒感染后所产生的, 作为提示信号的抗体。
+		-
+	- They found that /`主` the risk of MS `谓` increased by 32 times /following Epstein-Barr infection.
+		- 他们发现，在Epstein-Barr感染后，MS的患病风险, 增加了32倍。
+	- `主` Only 5.3 percent of **the sampled group** /`系` **were free(a.) of** signs of the virus /when they joined the military. The researchers ==compared== 801 MS cases /found later over the 20-year period /==with== 1,566 **service members** who never got MS.
+		- ((621c54f2-542c-4aeb-8c82-d00a74a321e7))
+		- > ▶ service member 服役人员
+		- 在这组样本中，只有5.3%的人, 参军时没有感染病毒的迹象。研究人员将20年来发现的801例多发性硬化病例, 与1566名从未得过多发性硬化的军人, 进行了比较。
+		-
+	- Only one of the MS patients /**had no evidence of** the Epstein-Barr virus /before their MS diagnosis(n.). And the researchers found(v.) no evidence /that `主` other **viral infections** `谓` were involved.
+		- > ▶ diagnosis (n.)~ (of sth) the act of **discovering or identifying the exact cause** of an illness or a problem 诊断；（问题原因的）判断
+		  -> They are waiting for the doctor's diagnosis. 他们正在等待医生的诊断结论。
+		- > ▶ viral infection [病毒] 病毒性感染
+		- 只有一名多发性硬化症患者, 在被诊断为多发性硬化症之前, 没有被发现eb病毒。研究人员没有发现"存在其他病毒感染"的证据。(意思就是说, 在 MS 疾病患者身上, 只发现了 eb病毒, 而没有发现其他病毒.)
+	- **The findings “strongly suggest” that** /Epstein-Barr infection **is “a cause and not a consequence of** MS,” `主` **study leader** Alberto Ascherio and his team `谓` reported(v.) in **the publication Science**. Dr. Ascherio is **with** the Harvard _T.H. Chan_ School of **Public Health**.
+		- > ▶ with  : employed by; using the services of 为…工作；受雇于；利用…的服务
+		  -> **She acted with a touring company** for three years. 她在一巡回剧团里演出了三年。
+		- > ▶  T.H. Chan 陈曾熙, 1923年生，承包政府及私人发展商的建筑工程，创办恒隆集团。
+		  2014年, 香港最大地产集团之一恒隆地产（Hang Long Group）主席陈启宗、集团董事陈乐宗创立的晨兴基金会（Morningside Fundation）, 向美国哈佛大学捐款3.5亿美元，用以支持该校公共卫生学院的发展，哈佛大学因此将其公共卫生学院, 改名为哈佛陈曾熙公共卫生学院（Harvard T.H. Chan School of Public Health），以此纪念恒隆已故创办人陈曾熙。这是哈佛第二个以个人名字命名的学院。
+		  ![image.png](../assets/image_1646110174514_0.png){:height 91, :width 146}
+		- 研究负责人...和他的团队, 在《科学》杂志上报告说，这些发现“强烈表明”，eb病毒感染是“多发性硬化症的一个原因，而不是后果”。...博士就职于哈佛大学陈曾熙公共卫生学院。
+	- The virus **appears to be “the initial trigger,”** `主` Dr. William H. Robinson /and Dr. Lawrence Steinman of **Stanford University** /`谓` wrote in a report /alongside the study.
+		- > ▶ stanford university
+		  ![image.png](../assets/image_1646110479395_0.png){:height 129, :width 97}
+		- 该病毒似乎是“最初的触发因素”，...博士和 ... 博士, 在与该研究同时发表的一份报告中写道。
+	- Epstein-Barr **is best known /for** causing(v.) “mono,” or **infectious mononucleosis**, in teenagers and young adults. The virus **remains inactive** in the body after infection /and **has been linked to** later development of some **autoimmune diseases**, including MS, and rare cancers.
+		- > ▶ mono 单一, 单核细胞
+		- ((621c718b-f5ce-4658-8cdb-744b7edfa175))
+		- > ▶ **infectious mononucleosis** (IM) : N **an acute infectious disease**, caused by Epstein-Barr virus, characterized by fever, sore throat, swollen and painful lymph nodes, and abnormal lymphocytes 淋巴球 in the blood 传染性单核细胞增多症 (Also called glandular fever)
+		  传染性单核白血球增多症（英语：Infectious mononucleosis，缩写“IM”，别名mono、glandular fever、Pfeiffer's disease、Filatov's disease）是一种由EB病毒(是疱疹病毒家族成员之一)造成的传染病。大部分人是在孩童时期被感染，当时症状轻微或没有症状。罹患 infectious mononucleosis , 在青壮年族群会造成发烧、喉咙痛、颈部淋巴结肿大以及疲倦感。大部分人会在两到四周后痊愈，然而疲倦感会持续数月。肝脏或脾脏也会肿大，在1%案例中会造成脾脏破裂。
+		  EB病毒目前并没有疫苗。预防此疾病的方式是不共用个人物品或是亲密接触被感染者。**患者多半会自己康复。**
+		- Epstein-Barr因在青少年和年轻人中引起“单核细胞增多症”或传染性单核细胞增多症, 而闻名。该病毒在感染后, 在体内保持不活跃状态，并与后期一些自身免疫性疾病的发展有关，包括多发性硬化症, 和罕见的癌症。
+	- **It is not clear why**. Some scientists think /the body is tricked by **viral proteins** /that look very much like **nerve proteins**.
+		- 原因尚不清楚。一些科学家认为，人体被"病毒蛋白质"欺骗了, 因为它看上去非常像"神经蛋白质"
+	- **Whatever the cause may be**, the new study is “the strongest evidence **to date** /that Epstein-Barr **contributes(v.) to** cause(v.) MS,” said Mark Allegretta. He is **vice president** for research at the National **Multiple Sclerosis** Society.
+		- > ▶  **to date** : until now 迄今为止；到目前为止；直到现在
+		- > ▶ sclerosis ( medical 医 ) a condition in which soft tissue in the body becomes hard, in a way that is not normal 硬化；硬化症
+		  => sclero-,硬的，-osis,表疾病症状。引申词义软组织硬化症。
+		- > ▶ society : (abbr. Soc. ) [ C ] ( especially in names 尤用于名称 ) a group of people who join together for a particular purpose 社团；协会；学会
+		  -> the American **Society of Newspaper Editors** 美国报纸主编协会
+		- 无论病因是什么，这项新研究是迄今为止最有力的证据，表明eb病毒 导致了多发性硬化症.
+	- He added that /the evidence, “opens(v.) the door /to potentially prevent MS /by preventing Epstein-Barr infection.”
+		-
+	- I’m Caty Weaver.
+	- ---
+	- ## Words in This Story
+	- sample –n. a small amount of something that gives you information about the thing it was taken from
+	- diagnosis –n. the act of identifying a disease, illness, or problem by examining someone or something
+	- consequence –n. something that happens as a result of a particular action or set of conditions
+	- initial –adj. occurring at the beginning of something
+	- trigger –n. something that causes something else to happen
+	- contribute –v. to help to cause something to happen
+	- potentially –adj. in a possible state or condition — used to describe the possible results or effects of something​
+-
+-

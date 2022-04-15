@@ -1,0 +1,74 @@
+title:: 073 Franklin D. Roosevelt: Powerful
+
+- ## 073 Franklin D. Roosevelt: Powerful
+- ## pure
+  collapsed:: true
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about Franklin Delano Roosevelt. He was related to an earlier president with same last name, Theodore Roosevelt. Many Americans call Franklin Roosevelt by the first letter of each word in his full name: FDR.
+	- When FDR took office, the United States was in a severe economic depression. The previous president, Herbert Hoover, had tried to improve the economy, but his efforts had failed.
+	- FDR defeated Hoover in the election of 1932. He won, in part, by promising what he called a "new deal" for Americans.
+	- Voters did not know what FDR's "new deal" meant exactly, but many liked his message of hope.
+	- Voters also did not know how much FDR would change the country. He remained in office for 12 years – the longest of any U.S. president – and led the country through the Great Depression and most of World War II.
+	- Along the way, he changed the way government affected Americans' lives, and the job of the U.S. president.
+	- ## Early life
+	- Franklin Roosevelt was born on a large estate in New York, about 140 kilometers outside New York City. He was the only child of wealthy parents.
+	- His mother and father made sure he had an excellent education. As a young man he attended a private high school, and then Harvard College in Massachusetts. He also studied law at Columbia University in New York.
+	- Young FDR was not an excellent student, however. He was interested in many things outside the classroom, including politics and girls.
+	- Two of FDR's interests came together in a young woman named Anna Eleanor Roosevelt, who went by the name Eleanor. She was the niece of a politician FDR greatly respected: President Theodore Roosevelt.
+	- On the day when Franklin and Eleanor Roosevelt were married, Theodore Roosevelt attended the ceremony. In fact, he walked with his niece in front of the guests to her future husband.
+	- Franklin and Eleanor Roosevelt went on to have six children, although one died as a baby.
+	- While Eleanor Roosevelt raised the children, Franklin Roosevelt directed his attention to politics.
+	- He left a job in a law office to serve in the New York state senate. In time, he was offered a job in the federal government as an assistant secretary of the Navy.
+	- FDR enjoyed the job, but he continued seeking other political positions. He tried unsuccessfully for a seat in the U.S. Senate, but did get nominated by the Democratic Party to be its vice presidential candidate in 1920.
+	- Although he and his partner lost the race, FDR seemed like he was in a good position for major political success.
+	- But then something unexpected happened.
+	- ## Illness and return to politics
+	- When he was 39 years old, FDR suffered major health problems. One day he started to feel a pain in his back. The following day his legs grew tired. Then his skin became sensitive.
+	- By the end of the week, both his legs were paralyzed. He could not move from the waist down. He remained paralyzed for the rest of his life.
+	- The next years were difficult for the Roosevelts. Eleanor and the children helped care for FDR. And he worked hard to recover some of his strength and physical abilities, especially by exercising.
+	- While he remained hopeful about his condition, FDR worried about his political career. He did not think the public would accept a leader who could not even walk by himself. So he took several measures.
+	- He created a small wheelchair that would not get too much attention. It was made from a dining room chair, with wheels instead of legs.
+	- He refused to let photographers take pictures of him being carried or struggling to move, and he found a way to appear as if he were walking. He used a cane or the arm of a partner to balance, and then he swung his hips to make his legs move forward.
+	- Using this method, FDR "walked" to the stage at the 1924 Democratic National Convention. He used the event to nominate the governor of New York for president.
+	- That man's bid did not succeed. But FDR showed himself to still be an able politician.
+	- Four years later, FDR himself was elected governor of New York. He held the position in the early years of the country's economic crisis.
+	- In 1932, FDR was a candidate for president. He took the unusual step of appearing in person at the Democratic convention to accept his party's nomination.
+	- His campaign was such a success that the Democrats took not only the White House, but majorities in both the U.S. Senate and House of Representatives.
+	- The strength of the Democratic Party in Congress would help FDR become one of the most powerful presidents the country had ever seen.
+	- Next week we will continue our story of FDR and his presidency.
+- ---
+- ## def
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about Franklin Delano Roosevelt. He was related to an earlier president with same last name, Theodore Roosevelt. Many Americans call Franklin Roosevelt by the first letter of each word in his full name: FDR.
+	- When FDR took office, the United States was in a severe economic depression. The previous president, Herbert Hoover, had tried to improve the economy, but his efforts had failed.
+	- FDR defeated Hoover in the election of 1932. He won, in part, by promising what he called a "new deal" for Americans.
+	- Voters did not know what FDR's "new deal" meant exactly, but many liked his message of hope.
+	- Voters also did not know how much FDR would change the country. He remained in office for 12 years – the longest of any U.S. president – and led the country through the Great Depression and most of World War II.
+	- Along the way, he changed the way government affected Americans' lives, and the job of the U.S. president.
+	- ## Early life
+	- Franklin Roosevelt was born on a large estate in New York, about 140 kilometers outside New York City. He was the only child of wealthy parents.
+	- His mother and father made sure he had an excellent education. As a young man he attended a private high school, and then Harvard College in Massachusetts. He also studied law at Columbia University in New York.
+	- Young FDR was not an excellent student, however. He was interested in many things outside the classroom, including politics and girls.
+	- Two of FDR's interests came together in a young woman named Anna Eleanor Roosevelt, who went by the name Eleanor. She was the niece of a politician FDR greatly respected: President Theodore Roosevelt.
+	- On the day when Franklin and Eleanor Roosevelt were married, Theodore Roosevelt attended the ceremony. In fact, he walked with his niece in front of the guests to her future husband.
+	- Franklin and Eleanor Roosevelt went on to have six children, although one died as a baby.
+	- While Eleanor Roosevelt raised the children, Franklin Roosevelt directed his attention to politics.
+	- He left a job in a law office to serve in the New York state senate. In time, he was offered a job in the federal government as an assistant secretary of the Navy.
+	- FDR enjoyed the job, but he continued seeking other political positions. He tried unsuccessfully for a seat in the U.S. Senate, but did get nominated by the Democratic Party to be its vice presidential candidate in 1920.
+	- Although he and his partner lost the race, FDR seemed like he was in a good position for major political success.
+	- But then something unexpected happened.
+	- ## Illness and return to politics
+	- When he was 39 years old, FDR suffered major health problems. One day he started to feel a pain in his back. The following day his legs grew tired. Then his skin became sensitive.
+	- By the end of the week, both his legs were paralyzed. He could not move from the waist down. He remained paralyzed for the rest of his life.
+	- The next years were difficult for the Roosevelts. Eleanor and the children helped care for FDR. And he worked hard to recover some of his strength and physical abilities, especially by exercising.
+	- While he remained hopeful about his condition, FDR worried about his political career. He did not think the public would accept a leader who could not even walk by himself. So he took several measures.
+	- He created a small wheelchair that would not get too much attention. It was made from a dining room chair, with wheels instead of legs.
+	- He refused to let photographers take pictures of him being carried or struggling to move, and he found a way to appear as if he were walking. He used a cane or the arm of a partner to balance, and then he swung his hips to make his legs move forward.
+	- Using this method, FDR "walked" to the stage at the 1924 Democratic National Convention. He used the event to nominate the governor of New York for president.
+	- That man's bid did not succeed. But FDR showed himself to still be an able politician.
+	- Four years later, FDR himself was elected governor of New York. He held the position in the early years of the country's economic crisis.
+	- In 1932, FDR was a candidate for president. He took the unusual step of appearing in person at the Democratic convention to accept his party's nomination.
+	- His campaign was such a success that the Democrats took not only the White House, but majorities in both the U.S. Senate and House of Representatives.
+	- The strength of the Democratic Party in Congress would help FDR become one of the most powerful presidents the country had ever seen.
+	- Next week we will continue our story of FDR and his presidency.
+	-

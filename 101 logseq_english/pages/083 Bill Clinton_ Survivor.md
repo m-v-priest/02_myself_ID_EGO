@@ -1,0 +1,101 @@
+title:: 083 Bill Clinton: Survivor
+
+- ## 083 Bill Clinton: Survivor
+- ## pure
+  collapsed:: true
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about William Jefferson Clinton – better known as Bill Clinton.
+	- Clinton took office in 1993, and was re-elected in 1996. In many ways, historians consider his time in office a success. The economy expanded, and the country was largely at peace.
+	- But Clinton had some notable failures, too. He could not persuade Congress to accept a plan to reform the nation's health care system.
+	- And, in his second term, the House of Representatives took steps to remove him from office. But the Senate decided not to act.
+	- Clinton finished his second term with high approval ratings. Yet he is also remembered for being only the second U.S. president to be impeached.
+	- ## Early life
+	- Bill Clinton came from a town with a memorable name: Hope. He grew up there, and in another nearby town in the Southern state of Arkansas.
+	- For most of his early life, Bill was raised by his grandmother and his mother, both nurses. His father had died in a car accident before he was born.
+	- People who knew Bill as a young man remember him as very intelligent, charming with people, and talented in music. His mother told him he would be president one day.
+	- Sure enough, Clinton pursued activities that would lead to a political career. He attended college at Georgetown University in Washington, DC, where he studied international affairs; led student government groups; and took a position as a clerk in the U.S. Senate.
+	- He went on to study at Oxford University in England on a prestigious Rhodes Scholarship.
+	- Then he graduated from law school at Yale University. There, he met another student who would be his wife, Hillary Rodham. The two went on to have one child together, a daughter named Chelsea.
+	- After finishing his studies, Clinton returned to his home state of Arkansas and pursued political office. At 32, he became one of the youngest governors ever in the country.
+	  Two years later, he was voted out of office, and -- as historian Russell Riley notes -- he became the youngest former governor.
+	- And that is how a good deal of Clinton's political career continued: in a pattern of successes and failures.
+	- His successes often came as a result of his centrist policies, which appealed to people of different political beliefs. He also was an effective public speaker and, to many, a likable, charismatic person who seemed to care deeply about others.
+	- But, his critics pointed out, Clinton also appeared to make many decisions simply for political advantage. And he sometimes tried to please so many people that he pleased no one.
+	- Following a series of increasingly national roles – as well as a series of setbacks – Clinton campaigned for president in 1992. At first, he did not do well in the campaign. He was young and not well-known. He also suffered from reports that he had relationships with women who were not his wife.
+	- But in time, Clinton began winning primary contests. Reporters called him the "Comeback Kid." He earned a public image as a politician who could survive problems.
+	- In the general election, Clinton competed against the sitting president, Republican George H.W. Bush. The two men also faced an unusually strong third-party candidate named Ross Perot.
+	- On Election Night, Clinton prevailed. Because Americans had split their votes among three major candidates, Clinton earned less than 50% of the popular vote. But he won enough electoral votes to become the next U.S. president.
+	- ## Presidency
+	- The people who worked on Bill Clinton's presidential campaign adopted an informal motto. They said, "It's the economy, stupid." In other words, campaign officials believed that most Americans cared primarily about how a president's policies would affect their financial concerns.
+	- So, President Clinton quickly set about making a series of economic changes. They included raising taxes on wealthier Americans and cutting spending to help poorer Americans.
+	- In a few years, the U.S. budget deficit was gone, the federal government had a surplus, and the country's financial situation was strong and healthy – although not everyone approved of the steps Clinton took to get there, or believed he should get all the credit.
+	- Early in his first term, Clinton sought an additional reform he believed would help voters' financial concerns: affordable health insurance for all Americans. Most people in the U.S. either bought private health insurance or did not have any insurance to help pay for medical costs. Clinton wanted to find a way for the U.S. government to support Americans' health-related expenses.
+	- He appointed his wife, first lady Hillary Clinton, to lead a healthcare reform effort. Hillary Clinton, a lawyer, had led a similar effort to reform education in Arkansas when her husband was governor there.
+	- But some lawmakers in Congress – as well as some voters – rejected her efforts. The reform effort failed.
+	- Clinton also struggled in some early foreign policy moves. He withdrew American troops from Somalia after their humanitarian efforts there turned into a bloody military struggle.
+	- He was also criticized for failing to intervene quickly in the genocide in Rwanda, where hundreds of thousands of people were killed.
+	- Later, Clinton won praise for some of his foreign policy. His government helped restore the elected president in Haiti after a coup. It also helped negotiate peace agreements in Bosnia and Ireland. And it cooperated with NATO to intervene in the Kosovo area and stop attacks on Albanians there.
+	- In general, Clinton believed the U.S. had an important role to play in maintaining peace and protecting human life around the world. At the same time, he did not want to use too many American resources to do so. He aimed to cooperate with other nations, and to set moderate goals.
+	- As usual, Clinton adopted an approach that was not too extreme on one side or another.
+	- ## Impeachment
+	- During most of his time as president, Clinton had been under investigation. Federal judges had appointed a special counsel, named Kenneth Starr, to find out if the president had committed any crimes related to financial investments before he took office.
+	- During the investigation, Starr learned that the president had been having a sexual relationship with a young woman who worked in the White House. Starr asked Clinton about the affair under oath.
+	- Later, Starr accused Clinton of lying about his relationship with the woman. Starr said that Clinton had also tried to prevent others from telling the truth about some of his activities.
+	- In time, the president publicly admitted the relationship, and he apologized to voters and his family. But he said he had not lied or told anyone else to lie for him.
+	- Lawmakers in the House of Representatives did not accept Clinton's defense. They advanced two articles of impeachment.
+	- Lawmakers in the U.S. Senate then considered the case. It is their job to examine the evidence and decide whether to remove a president from office. A majority did not believe the actions Clinton was accused of were serious violations against the country. They voted to acquit Clinton of the charges and permit him to continue as president.
+	- ## Legacy
+	- In the U.S., a president can serve only two full terms. After his second, Bill Clinton and his wife settled in a town outside New York City. In time, Hillary Clinton became the U.S. senator from New York, as well as a secretary of state and the Democratic Party's candidate for president.
+	- Bill Clinton, like many other U.S. presidents, wrote about his experiences and helped develop his presidential library. He also worked on humanitarian, health, and economic issues with his family's organization, the Clinton Foundation.
+	- For many, Clinton's time in office is remembered as a mixed experience. The economy was at one of its strongest in U.S. history. Most people could find jobs, and many Americans bought homes for the first time. In the mid-1990s especially, the Internet and other new developments created a technology boom.
+	- In addition, Clinton was an effective public speaker, and he inspired new groups of people to support his Democratic Party. Many voters approved of his appointments of women and minorities to positions of power in his government. They also liked the steps he took to reduce the use of handguns, protect the environment, and provide paid time off work for some people to care for themselves or their families.
+	- But both Democrats and Republicans found fault with some of Clinton's efforts. And even his supporters note that the president had to spend much of his time in office answering charges of wrongdoing.
+- ---
+- ## def
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about William Jefferson Clinton – better known as Bill Clinton.
+	- Clinton took office in 1993, and was re-elected in 1996. In many ways, historians consider his time in office a success. The economy expanded, and the country was largely at peace.
+	- But Clinton had some notable failures, too. He could not persuade Congress to accept a plan to reform the nation's health care system.
+	- And, in his second term, the House of Representatives took steps to remove him from office. But the Senate decided not to act.
+	- Clinton finished his second term with high approval ratings. Yet he is also remembered for being only the second U.S. president to be impeached.
+	- ## Early life
+	- Bill Clinton came from a town with a memorable name: Hope. He grew up there, and in another nearby town in the Southern state of Arkansas.
+	- For most of his early life, Bill was raised by his grandmother and his mother, both nurses. His father had died in a car accident before he was born.
+	- People who knew Bill as a young man remember him as very intelligent, charming with people, and talented in music. His mother told him he would be president one day.
+	- Sure enough, Clinton pursued activities that would lead to a political career. He attended college at Georgetown University in Washington, DC, where he studied international affairs; led student government groups; and took a position as a clerk in the U.S. Senate.
+	- He went on to study at Oxford University in England on a prestigious Rhodes Scholarship.
+	- Then he graduated from law school at Yale University. There, he met another student who would be his wife, Hillary Rodham. The two went on to have one child together, a daughter named Chelsea.
+	- After finishing his studies, Clinton returned to his home state of Arkansas and pursued political office. At 32, he became one of the youngest governors ever in the country.
+	  Two years later, he was voted out of office, and -- as historian Russell Riley notes -- he became the youngest former governor.
+	- And that is how a good deal of Clinton's political career continued: in a pattern of successes and failures.
+	- His successes often came as a result of his centrist policies, which appealed to people of different political beliefs. He also was an effective public speaker and, to many, a likable, charismatic person who seemed to care deeply about others.
+	- But, his critics pointed out, Clinton also appeared to make many decisions simply for political advantage. And he sometimes tried to please so many people that he pleased no one.
+	- Following a series of increasingly national roles – as well as a series of setbacks – Clinton campaigned for president in 1992. At first, he did not do well in the campaign. He was young and not well-known. He also suffered from reports that he had relationships with women who were not his wife.
+	- But in time, Clinton began winning primary contests. Reporters called him the "Comeback Kid." He earned a public image as a politician who could survive problems.
+	- In the general election, Clinton competed against the sitting president, Republican George H.W. Bush. The two men also faced an unusually strong third-party candidate named Ross Perot.
+	- On Election Night, Clinton prevailed. Because Americans had split their votes among three major candidates, Clinton earned less than 50% of the popular vote. But he won enough electoral votes to become the next U.S. president.
+	- ## Presidency
+	- The people who worked on Bill Clinton's presidential campaign adopted an informal motto. They said, "It's the economy, stupid." In other words, campaign officials believed that most Americans cared primarily about how a president's policies would affect their financial concerns.
+	- So, President Clinton quickly set about making a series of economic changes. They included raising taxes on wealthier Americans and cutting spending to help poorer Americans.
+	- In a few years, the U.S. budget deficit was gone, the federal government had a surplus, and the country's financial situation was strong and healthy – although not everyone approved of the steps Clinton took to get there, or believed he should get all the credit.
+	- Early in his first term, Clinton sought an additional reform he believed would help voters' financial concerns: affordable health insurance for all Americans. Most people in the U.S. either bought private health insurance or did not have any insurance to help pay for medical costs. Clinton wanted to find a way for the U.S. government to support Americans' health-related expenses.
+	- He appointed his wife, first lady Hillary Clinton, to lead a healthcare reform effort. Hillary Clinton, a lawyer, had led a similar effort to reform education in Arkansas when her husband was governor there.
+	- But some lawmakers in Congress – as well as some voters – rejected her efforts. The reform effort failed.
+	- Clinton also struggled in some early foreign policy moves. He withdrew American troops from Somalia after their humanitarian efforts there turned into a bloody military struggle.
+	- He was also criticized for failing to intervene quickly in the genocide in Rwanda, where hundreds of thousands of people were killed.
+	- Later, Clinton won praise for some of his foreign policy. His government helped restore the elected president in Haiti after a coup. It also helped negotiate peace agreements in Bosnia and Ireland. And it cooperated with NATO to intervene in the Kosovo area and stop attacks on Albanians there.
+	- In general, Clinton believed the U.S. had an important role to play in maintaining peace and protecting human life around the world. At the same time, he did not want to use too many American resources to do so. He aimed to cooperate with other nations, and to set moderate goals.
+	- As usual, Clinton adopted an approach that was not too extreme on one side or another.
+	- ## Impeachment
+	- During most of his time as president, Clinton had been under investigation. Federal judges had appointed a special counsel, named Kenneth Starr, to find out if the president had committed any crimes related to financial investments before he took office.
+	- During the investigation, Starr learned that the president had been having a sexual relationship with a young woman who worked in the White House. Starr asked Clinton about the affair under oath.
+	- Later, Starr accused Clinton of lying about his relationship with the woman. Starr said that Clinton had also tried to prevent others from telling the truth about some of his activities.
+	- In time, the president publicly admitted the relationship, and he apologized to voters and his family. But he said he had not lied or told anyone else to lie for him.
+	- Lawmakers in the House of Representatives did not accept Clinton's defense. They advanced two articles of impeachment.
+	- Lawmakers in the U.S. Senate then considered the case. It is their job to examine the evidence and decide whether to remove a president from office. A majority did not believe the actions Clinton was accused of were serious violations against the country. They voted to acquit Clinton of the charges and permit him to continue as president.
+	- ## Legacy
+	- In the U.S., a president can serve only two full terms. After his second, Bill Clinton and his wife settled in a town outside New York City. In time, Hillary Clinton became the U.S. senator from New York, as well as a secretary of state and the Democratic Party's candidate for president.
+	- Bill Clinton, like many other U.S. presidents, wrote about his experiences and helped develop his presidential library. He also worked on humanitarian, health, and economic issues with his family's organization, the Clinton Foundation.
+	- For many, Clinton's time in office is remembered as a mixed experience. The economy was at one of its strongest in U.S. history. Most people could find jobs, and many Americans bought homes for the first time. In the mid-1990s especially, the Internet and other new developments created a technology boom.
+	- In addition, Clinton was an effective public speaker, and he inspired new groups of people to support his Democratic Party. Many voters approved of his appointments of women and minorities to positions of power in his government. They also liked the steps he took to reduce the use of handguns, protect the environment, and provide paid time off work for some people to care for themselves or their families.
+	- But both Democrats and Republicans found fault with some of Clinton's efforts. And even his supporters note that the president had to spend much of his time in office answering charges of wrongdoing.

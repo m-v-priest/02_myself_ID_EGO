@@ -1,0 +1,95 @@
+title:: 069 Woodrow Wilson: Idealist
+
+- ## 069 Woodrow Wilson: Idealist
+- ## pure
+  collapsed:: true
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about Woodrow Wilson. He served two terms, from 1913 to 1921, and led the United States through the first World War.
+	- Wilson might have seemed an unlikely war president. He was a university professor before he entered politics.
+	- And, when the conflict began in Europe in 1914, Wilson strongly rejected the idea of the U.S. getting involved. He even campaigned for his second term on the slogan "He kept us out of the war."
+	- But Wilson's idealism eventually made him believe the U.S. must enter the conflict. He famously said, "The world must be safe for democracy."
+	- He spent the last months of his presidency fighting to create a league of nations that would prevent future wars.
+	- Wilson did not succeed in that effort. But the effects of his presidency are still seen today in both the domestic and foreign affairs of the United States.
+	- ## Early life
+	- Woodrow Wilson was born in the state of Virginia in 1856 and grew up in the South.
+	- Wilson's father was a Protestant Christian minister who supported the views of the Confederacy during the Civil War.
+	- Wilson's mother had been born in England but raised in the United States. She was reportedly warm and loving, especially to her husband and four children.
+	- Wilson's early life was marked by poor health and a passion for learning. His education included tutoring by Confederate soldiers, classes with his father, a year at Davidson College, a bachelor's degree from the school now called Princeton, one year of law school, and a doctoral degree in history and political science from the University of Johns Hopkins.
+	- He remains, so far, the only president with a Ph.D.
+	- Wilson's academic interests were in government, and how it could be most effective. Even as a young man, he supported the idea of a strong executive, either a prime minister or a president.
+	- He wrote a number of books, including a biography of George Washington, and a history of the United States. He also taught popular classes at several colleges, including Bryn Mawr in Pennsylvania, Wesleyan in Connecticut, and Princeton in New Jersey.
+	- In time, Wilson became the president of Princeton. He made major reforms to the school until some faculty and alumni resisted his efforts.
+	- Wilson had always been interested in political power. The Democratic Party in New Jersey became interested in Wilson when they were looking for a candidate with an honest public image.
+	- In truth, party officials believed he would be a weak leader whom they could influence. Wilson surprised them by winning the seat as New Jersey governor easily, and then rejecting their efforts to control him.
+	- He went on to pass major reform legislation in New Jersey that reduced corruption and protected the rights of workers. His actions drew the attention of Democratic Party leaders seeking a candidate for president in 1912.
+	- ## Presidency: first term
+	- Voters did not overwhelmingly choose Wilson in 1912. Although he did well in the Electoral College, he earned only a little more than 40 percent of the popular vote. Other votes were mostly divided between two former presidents, Theodore Roosevelt and William Taft.
+	- Yet Wilson quickly asserted authority over Congress and pushed through a number of laws aimed at dramatic reform.
+	- Historian Kendrick Clements at the University of South Carolina says Wilson had a strongly progressive vision.
+	- He was interested in "expanding economic opportunity for people at the bottom of society and eliminating special privileges enjoyed by the richest and most powerful members of society."
+	- One of Wilson's most important acts was to create a new federal agency called the Federal Reserve Board. It still regulates American banks, credit, and money supply. He also created the Federal Trade Commission to ensure fair business practices, and the Department of Labor to protect workers' rights.
+	- And he supported laws to reduce working hours for railroad employees, bar child labor, and offer government loans to farmers.
+	- But even during Wilson's busy lawmaking, the threat of world war demanded his attention. Wilson had declared that the U.S. would remain neutral in the growing conflict between the Allied and Central Powers.
+	- One of his reasons was that people in the U.S. were immigrants from the countries that were at war. Wilson did not want the conflict to divide Americans.
+	- However, he permitted international trade, including with Britain and France. As a result, many believed the U.S. was favoring those countries.
+	- In 1915, a German submarine sank a British ship called the Lusitania and killed more than 100 Americans on board.
+	- Wilson protested several times to Germany about the sinking. He warned that the U.S. would not accept another such aggression. But two years later, Germany attacked U.S. commercial ships. It also invited Mexico to enter into an alliance against the United States.
+	- At the beginning of Wilson's second term in office, he asked Congress to declare war on Germany.
+	- ## Presidency: second term
+	- The U.S. entered World War I on the side of the Allied Powers. The additional support came at an important time. American soldiers were able to help resist German troops in France.
+	- In time, Germany asked for an armistice – an agreement to stop fighting.
+	- Following the war, Wilson had a grand vision for how to gain lasting peace in Europe. In a speech known as "Fourteen Points," he proposed that the countries that had won the war not punish Germany.
+	- Wilson also wanted European colonies to rule themselves, and other areas be given immediate independence.
+	- Most importantly, Wilson suggested a League of Nations that would guarantee the member countries' independence and safety.
+	- But few world leaders agreed with his plan completely.
+	- Even in the U.S., many Republican lawmakers in Congress resisted Wilson's idea for a League of Nations. Some strongly objected to any treaty that would limit the country's independence. Others did not want the country to be involved in world issues at all.So Wilson began a trip across the U.S. to raise public support for the League of Nations. He traveled more than 15,000 kilometers in 22 days and gave 29 speeches.
+	- Wilson's doctors warned him that the trip was hard on his health. But Wilson was firm about pressuring Senate Republicans to adopt the agreement.
+	- Finally, he collapsed from exhaustion. Shortly after, he suffered a major stroke. Although he recovered somewhat, he remained partly paralyzed. He rarely appeared in public again.Instead, Wilson communicated to Congress through his wife. When Republicans changed the treaty to deal with their concerns, Wilson told his supporters to reject it.
+	- In the end, the U.S. never did join the League of Nations.
+	- When a new president, Warren Harding, was sworn-in in 1921, Edith and Woodrow Wilson retired to a house in Washington, D.C. Three years later, the former president died quietly there, finally at peace.
+- ---
+- ## def
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about Woodrow Wilson. He served two terms, from 1913 to 1921, and led the United States through the first World War.
+	- Wilson might have seemed an unlikely war president. He was a university professor before he entered politics.
+	- And, when the conflict began in Europe in 1914, Wilson strongly rejected the idea of the U.S. getting involved. He even campaigned for his second term on the slogan "He kept us out of the war."
+	- But Wilson's idealism eventually made him believe the U.S. must enter the conflict. He famously said, "The world must be safe for democracy."
+	- He spent the last months of his presidency fighting to create a league of nations that would prevent future wars.
+	- Wilson did not succeed in that effort. But the effects of his presidency are still seen today in both the domestic and foreign affairs of the United States.
+	- ## Early life
+	- Woodrow Wilson was born in the state of Virginia in 1856 and grew up in the South.
+	- Wilson's father was a Protestant Christian minister who supported the views of the Confederacy during the Civil War.
+	- Wilson's mother had been born in England but raised in the United States. She was reportedly warm and loving, especially to her husband and four children.
+	- Wilson's early life was marked by poor health and a passion for learning. His education included tutoring by Confederate soldiers, classes with his father, a year at Davidson College, a bachelor's degree from the school now called Princeton, one year of law school, and a doctoral degree in history and political science from the University of Johns Hopkins.
+	- He remains, so far, the only president with a Ph.D.
+	- Wilson's academic interests were in government, and how it could be most effective. Even as a young man, he supported the idea of a strong executive, either a prime minister or a president.
+	- He wrote a number of books, including a biography of George Washington, and a history of the United States. He also taught popular classes at several colleges, including Bryn Mawr in Pennsylvania, Wesleyan in Connecticut, and Princeton in New Jersey.
+	- In time, Wilson became the president of Princeton. He made major reforms to the school until some faculty and alumni resisted his efforts.
+	- Wilson had always been interested in political power. The Democratic Party in New Jersey became interested in Wilson when they were looking for a candidate with an honest public image.
+	- In truth, party officials believed he would be a weak leader whom they could influence. Wilson surprised them by winning the seat as New Jersey governor easily, and then rejecting their efforts to control him.
+	- He went on to pass major reform legislation in New Jersey that reduced corruption and protected the rights of workers. His actions drew the attention of Democratic Party leaders seeking a candidate for president in 1912.
+	- ## Presidency: first term
+	- Voters did not overwhelmingly choose Wilson in 1912. Although he did well in the Electoral College, he earned only a little more than 40 percent of the popular vote. Other votes were mostly divided between two former presidents, Theodore Roosevelt and William Taft.
+	- Yet Wilson quickly asserted authority over Congress and pushed through a number of laws aimed at dramatic reform.
+	- Historian Kendrick Clements at the University of South Carolina says Wilson had a strongly progressive vision.
+	- He was interested in "expanding economic opportunity for people at the bottom of society and eliminating special privileges enjoyed by the richest and most powerful members of society."
+	- One of Wilson's most important acts was to create a new federal agency called the Federal Reserve Board. It still regulates American banks, credit, and money supply. He also created the Federal Trade Commission to ensure fair business practices, and the Department of Labor to protect workers' rights.
+	- And he supported laws to reduce working hours for railroad employees, bar child labor, and offer government loans to farmers.
+	- But even during Wilson's busy lawmaking, the threat of world war demanded his attention. Wilson had declared that the U.S. would remain neutral in the growing conflict between the Allied and Central Powers.
+	- One of his reasons was that people in the U.S. were immigrants from the countries that were at war. Wilson did not want the conflict to divide Americans.
+	- However, he permitted international trade, including with Britain and France. As a result, many believed the U.S. was favoring those countries.
+	- In 1915, a German submarine sank a British ship called the Lusitania and killed more than 100 Americans on board.
+	- Wilson protested several times to Germany about the sinking. He warned that the U.S. would not accept another such aggression. But two years later, Germany attacked U.S. commercial ships. It also invited Mexico to enter into an alliance against the United States.
+	- At the beginning of Wilson's second term in office, he asked Congress to declare war on Germany.
+	- ## Presidency: second term
+	- The U.S. entered World War I on the side of the Allied Powers. The additional support came at an important time. American soldiers were able to help resist German troops in France.
+	- In time, Germany asked for an armistice – an agreement to stop fighting.
+	- Following the war, Wilson had a grand vision for how to gain lasting peace in Europe. In a speech known as "Fourteen Points," he proposed that the countries that had won the war not punish Germany.
+	- Wilson also wanted European colonies to rule themselves, and other areas be given immediate independence.
+	- Most importantly, Wilson suggested a League of Nations that would guarantee the member countries' independence and safety.
+	- But few world leaders agreed with his plan completely.
+	- Even in the U.S., many Republican lawmakers in Congress resisted Wilson's idea for a League of Nations. Some strongly objected to any treaty that would limit the country's independence. Others did not want the country to be involved in world issues at all.So Wilson began a trip across the U.S. to raise public support for the League of Nations. He traveled more than 15,000 kilometers in 22 days and gave 29 speeches.
+	- Wilson's doctors warned him that the trip was hard on his health. But Wilson was firm about pressuring Senate Republicans to adopt the agreement.
+	- Finally, he collapsed from exhaustion. Shortly after, he suffered a major stroke. Although he recovered somewhat, he remained partly paralyzed. He rarely appeared in public again.Instead, Wilson communicated to Congress through his wife. When Republicans changed the treaty to deal with their concerns, Wilson told his supporters to reject it.
+	- In the end, the U.S. never did join the League of Nations.
+	- When a new president, Warren Harding, was sworn-in in 1921, Edith and Woodrow Wilson retired to a house in Washington, D.C. Three years later, the former president died quietly there, finally at peace.

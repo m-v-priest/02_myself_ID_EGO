@@ -1,0 +1,109 @@
+- ## 074 Franklin Roosevelt: Powerful (Part 2)
+- ## pure
+  collapsed:: true
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about Franklin Delano Roosevelt. Earlier we told about his rise to power, and his health problems. When he was 39 years old, FDR – as he was often called – became paralyzed from the waist down. He was never able to walk independently again.
+	- But that did not prevent him from becoming one of the country's most powerful presidents.
+	- ## Presidency: The Great Depression and the New Deal
+	- When FDR took office, the United States was in a severe economic depression. Many farmers were not able to sell their crops for profit. Banks across the country had failed. A number of Americans lost their savings and their homes. And more than 25% of the workforce did not have a job.
+	- Yet when FDR took office in 1933, he told people, "The only thing we have to fear is fear itself."
+	- When Americans think of FDR, they often think of that statement. It showed his spirit of hope and confidence for which he became known.
+	- Americans also remember FDR for the way he began his presidency. In his first 100 days, he signed more than 70 bills into law. Some led to major changes in the country. They helped calm the country's banking industry, provided federal aid directly to farmers and the unemployed, and created public works programs.
+	- The acts formed the base of what FDR and others called the New Deal.
+	- Some New Deal programs – including the Civilian Conservation Corps and the Tennessee Valley Authority – created government-funded jobs. In addition to providing a paycheck for workers, the programs were meant to improve and care for the country's natural resources. For example, workers planted trees, made roads, and built dams and power plants.
+	- Americans continue to experience the effects of these programs today.
+	- FDR is also remembered for the way he communicated with the public. At that time, as many as 90% of Americans owned a radio. So, from time to time, FDR spoke to the public on radio broadcasts that became known as "fireside chats."
+	- The term created an image of the president sitting comfortably near a fireplace, talking informally with a few close friends. In fact, FDR gave these talks from his office in the White House. But his voice was warm, and he spoke in an easy, conversational way to listeners, whom he called "my friends."
+	- The combination of FDR's hope, energy, and affectionate concern for everyday Americans made him popular with many voters. He was re-elected easily in 1936.
+	- But FDR had critics, too. Some pointed out that many of his programs failed. They cost a lot of money or were simply not effective.
+	- Others said that FDR's policy of massive government intervention was not American. It restricted capitalism and the free market.
+	- Still others observed that FDR's programs did not help everyone equally. Many New Deal programs aimed to put young, white American men to work. Women, racial minorities, and older Americans were often overlooked.
+	- Critics and supporters alike also noted that FDR greatly expanded the power of the presidency. He added a number of full-time positions to the executive branch of government. And he took on the power of Congress to make laws.
+	- Even the Supreme Court found that FDR had, in some cases, gone too far. It ruled that some of his actions were illegal.
+	- FDR worried that the Supreme Court would block many of his other New Deal programs, too. So he proposed a rule. It would give the president power to appoint six new members to the nine-member court. His appointments would almost certainly make sure that his New Deal programs could continue.
+	- Many historians point to FDR's efforts at "court-packing" as one of the most extreme examples of his attempts to expand presidential power.
+	- But Congress did not accept FDR's proposal. Nine justices remained on the Supreme Court.
+	- However, those justices went on to approve FDR's actions anyway. They supported programs such as Social Security, which was set up to help older adults, disabled people, and others who needed support; and the Wagner Act, which permitted workers to organize in a trade union.
+	- While these efforts and other programs were important parts of FDR's reform efforts, they did not stop the Great Depression. None of the New Deal programs really did. The economy continued to struggle.
+	- ## Presidency: Declaration of war
+	- For several years, the president had been warning lawmakers and other Americans about the political forces in Japan, Germany, and Italy. Leaders in those countries supported nationalist movements and had already invaded or taken control of other areas.
+	- By 1941, more than 30 countries were involved in the conflict.
+	- Many Americans had wanted the U.S. to remain neutral. They regretted becoming involved in World War I. For years, they had taken steps to prevent another major international conflict. Lawmakers had even banned the U.S. government from selling or giving weapons to warring countries.
+	- But FDR believed World War II was different. He believed that Germany was the clear aggressor and needed to be stopped.
+	- So, in the 1930s, FDR received permission from Congress to provide weapons to the countries opposing Germany. After Germany took control of France, FDR received permission to give direct military aid to Britain.
+	- In addition, FDR began preparing the U.S. military for war.
+	- On December 7, 1941, Japanese forces bombed American ships at the U.S. Navy base in Pearl Harbor, Hawaii. More than 2,400 Americans died at Pearl Harbor, and more than 1,700 were wounded.
+	- The day after Pearl Harbor was attacked, Congress quickly approved FDR's request to declare war against Japan.
+	- Three days later, Germany and Italy declared war on the United States. American lawmakers responded in kind. The U.S., which had remained neutral for many years, was now completely involved in World War II.
+	- ## Presidency: World War II
+	- During the war, FDR directed much of his attention to what would happen after the fighting stopped. He wanted to create an international order that would improve peace and cooperation. To that end, he helped organize 26 countries into a group he called the United Nations.
+	- FDR also believed that the world's future security depended, in large part, on cooperation between the U.S. and the Soviet Union. He worked hard to create friendly relations with the Soviet leader, Joseph Stalin.
+	- Stalin, FDR, and British prime minister Winston Churchill all famously met at the Russian town of Yalta.
+	- There, the three men discussed plans to bring World War II to an end. They decided to demand that Germany surrender unconditionally. They also talked about diplomatic relations after the war ended.
+	- At the time, many Americans believed the Yalta conference was a success. Soviet officials agreed to enter the war against Japan. In return, U.S. officials said the Soviet government could re-gain control over parts of Northeastern China. Soviet officials also agreed to let countries in Eastern Europe hold free elections, and to share rights to veto U.N. decisions.
+	- In the eyes of many Americans, the Yalta agreement showed that the United States and the Soviet Union would be able to cooperate.
+	- ## Legacy
+	- FDR did not live to see the effects of the Yalta agreement, or even the end of the conflict.
+	- He had been president for 12 years. A few weeks before the Yalta Conference, he had been sworn-in yet again.
+	- FDR had already served longer than any U.S. president. All others before him had followed the custom set by the first president, George Washington. They had served no more than two terms.
+	- In the winter of 1944, FDR was beginning his fourth term. But people close to him said he did not look well. Doctors also warned Roosevelt that his health was suffering.
+	- So, in April, FDR went to a warm water resort in Georgia where he often rested and recovered his strength. There, he suffered a cerebral hemorrhage. In other words, his brain began to bleed.
+	- World leaders, including Stalin and Churchill, said they were shocked he had died. Many Americans felt the same. They stood alongside train tracks as his body was carried from Georgia to his childhood home in New York.
+	- He is buried there, at Hyde Park. In 1962, his wife Eleanor died and was buried next to him.
+	- Today, Franklin and Eleanor Roosevelt are important figures in U.S. history. Many programs from the New Deal are still in effect now. FDR also changed the position of president into an active, powerful leader who legally intervenes in the economy and seems to have a personal relationship with Americans.
+	- And Eleanor Roosevelt developed a strong voice of her own. Her humanitarian efforts and work on behalf of civil rights and women's rights have given her a legacy independent from her husband.
+	- Both admirers and critics point to the Roosevelts' influence as evidence of their strong feelings about the couple.
+- ---
+- ## def
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about Franklin Delano Roosevelt. Earlier we told about his rise to power, and his health problems. When he was 39 years old, FDR – as he was often called – became paralyzed from the waist down. He was never able to walk independently again.
+	- But that did not prevent him from becoming one of the country's most powerful presidents.
+	- ## Presidency: The Great Depression and the New Deal
+	- When FDR took office, the United States was in a severe economic depression. Many farmers were not able to sell their crops for profit. Banks across the country had failed. A number of Americans lost their savings and their homes. And more than 25% of the workforce did not have a job.
+	- Yet when FDR took office in 1933, he told people, "The only thing we have to fear is fear itself."
+	- When Americans think of FDR, they often think of that statement. It showed his spirit of hope and confidence for which he became known.
+	- Americans also remember FDR for the way he began his presidency. In his first 100 days, he signed more than 70 bills into law. Some led to major changes in the country. They helped calm the country's banking industry, provided federal aid directly to farmers and the unemployed, and created public works programs.
+	- The acts formed the base of what FDR and others called the New Deal.
+	- Some New Deal programs – including the Civilian Conservation Corps and the Tennessee Valley Authority – created government-funded jobs. In addition to providing a paycheck for workers, the programs were meant to improve and care for the country's natural resources. For example, workers planted trees, made roads, and built dams and power plants.
+	- Americans continue to experience the effects of these programs today.
+	- FDR is also remembered for the way he communicated with the public. At that time, as many as 90% of Americans owned a radio. So, from time to time, FDR spoke to the public on radio broadcasts that became known as "fireside chats."
+	- The term created an image of the president sitting comfortably near a fireplace, talking informally with a few close friends. In fact, FDR gave these talks from his office in the White House. But his voice was warm, and he spoke in an easy, conversational way to listeners, whom he called "my friends."
+	- The combination of FDR's hope, energy, and affectionate concern for everyday Americans made him popular with many voters. He was re-elected easily in 1936.
+	- But FDR had critics, too. Some pointed out that many of his programs failed. They cost a lot of money or were simply not effective.
+	- Others said that FDR's policy of massive government intervention was not American. It restricted capitalism and the free market.
+	- Still others observed that FDR's programs did not help everyone equally. Many New Deal programs aimed to put young, white American men to work. Women, racial minorities, and older Americans were often overlooked.
+	- Critics and supporters alike also noted that FDR greatly expanded the power of the presidency. He added a number of full-time positions to the executive branch of government. And he took on the power of Congress to make laws.
+	- Even the Supreme Court found that FDR had, in some cases, gone too far. It ruled that some of his actions were illegal.
+	- FDR worried that the Supreme Court would block many of his other New Deal programs, too. So he proposed a rule. It would give the president power to appoint six new members to the nine-member court. His appointments would almost certainly make sure that his New Deal programs could continue.
+	- Many historians point to FDR's efforts at "court-packing" as one of the most extreme examples of his attempts to expand presidential power.
+	- But Congress did not accept FDR's proposal. Nine justices remained on the Supreme Court.
+	- However, those justices went on to approve FDR's actions anyway. They supported programs such as Social Security, which was set up to help older adults, disabled people, and others who needed support; and the Wagner Act, which permitted workers to organize in a trade union.
+	- While these efforts and other programs were important parts of FDR's reform efforts, they did not stop the Great Depression. None of the New Deal programs really did. The economy continued to struggle.
+	- ## Presidency: Declaration of war
+	- For several years, the president had been warning lawmakers and other Americans about the political forces in Japan, Germany, and Italy. Leaders in those countries supported nationalist movements and had already invaded or taken control of other areas.
+	- By 1941, more than 30 countries were involved in the conflict.
+	- Many Americans had wanted the U.S. to remain neutral. They regretted becoming involved in World War I. For years, they had taken steps to prevent another major international conflict. Lawmakers had even banned the U.S. government from selling or giving weapons to warring countries.
+	- But FDR believed World War II was different. He believed that Germany was the clear aggressor and needed to be stopped.
+	- So, in the 1930s, FDR received permission from Congress to provide weapons to the countries opposing Germany. After Germany took control of France, FDR received permission to give direct military aid to Britain.
+	- In addition, FDR began preparing the U.S. military for war.
+	- On December 7, 1941, Japanese forces bombed American ships at the U.S. Navy base in Pearl Harbor, Hawaii. More than 2,400 Americans died at Pearl Harbor, and more than 1,700 were wounded.
+	- The day after Pearl Harbor was attacked, Congress quickly approved FDR's request to declare war against Japan.
+	- Three days later, Germany and Italy declared war on the United States. American lawmakers responded in kind. The U.S., which had remained neutral for many years, was now completely involved in World War II.
+	- ## Presidency: World War II
+	- During the war, FDR directed much of his attention to what would happen after the fighting stopped. He wanted to create an international order that would improve peace and cooperation. To that end, he helped organize 26 countries into a group he called the United Nations.
+	- FDR also believed that the world's future security depended, in large part, on cooperation between the U.S. and the Soviet Union. He worked hard to create friendly relations with the Soviet leader, Joseph Stalin.
+	- Stalin, FDR, and British prime minister Winston Churchill all famously met at the Russian town of Yalta.
+	- There, the three men discussed plans to bring World War II to an end. They decided to demand that Germany surrender unconditionally. They also talked about diplomatic relations after the war ended.
+	- At the time, many Americans believed the Yalta conference was a success. Soviet officials agreed to enter the war against Japan. In return, U.S. officials said the Soviet government could re-gain control over parts of Northeastern China. Soviet officials also agreed to let countries in Eastern Europe hold free elections, and to share rights to veto U.N. decisions.
+	- In the eyes of many Americans, the Yalta agreement showed that the United States and the Soviet Union would be able to cooperate.
+	- ## Legacy
+	- FDR did not live to see the effects of the Yalta agreement, or even the end of the conflict.
+	- He had been president for 12 years. A few weeks before the Yalta Conference, he had been sworn-in yet again.
+	- FDR had already served longer than any U.S. president. All others before him had followed the custom set by the first president, George Washington. They had served no more than two terms.
+	- In the winter of 1944, FDR was beginning his fourth term. But people close to him said he did not look well. Doctors also warned Roosevelt that his health was suffering.
+	- So, in April, FDR went to a warm water resort in Georgia where he often rested and recovered his strength. There, he suffered a cerebral hemorrhage. In other words, his brain began to bleed.
+	- World leaders, including Stalin and Churchill, said they were shocked he had died. Many Americans felt the same. They stood alongside train tracks as his body was carried from Georgia to his childhood home in New York.
+	- He is buried there, at Hyde Park. In 1962, his wife Eleanor died and was buried next to him.
+	- Today, Franklin and Eleanor Roosevelt are important figures in U.S. history. Many programs from the New Deal are still in effect now. FDR also changed the position of president into an active, powerful leader who legally intervenes in the economy and seems to have a personal relationship with Americans.
+	- And Eleanor Roosevelt developed a strong voice of her own. Her humanitarian efforts and work on behalf of civil rights and women's rights have given her a legacy independent from her husband.
+	- Both admirers and critics point to the Roosevelts' influence as evidence of their strong feelings about the couple.

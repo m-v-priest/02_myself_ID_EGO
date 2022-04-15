@@ -1,0 +1,105 @@
+title:: 082 George H.W. Bush: Cautious
+
+- ## 082 George H.W. Bush: Cautious
+- ## pure
+  collapsed:: true
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about George Herbert Walker Bush.
+	- Before he became president in 1989, Bush had a lot of experience in government.
+	- He spent four years in the United States House of Representatives, worked as the U.S. ambassador to the United Nations, and led the Central Intelligence Agency, or CIA. Then, for eight years, he was vice president under Ronald Reagan.
+	- Interestingly, in U.S. history, a person serving as vice president rarely becomes president after the sitting president leaves office at the end of his term.
+	- Before George H.W. Bush, the last time such an event happened was in 1836. At that time, Martin Van Buren took office after the two-term presidency of Andrew Jackson.
+	- Yet neither Bush nor Van Buren was able to successfully deal with some of the problems facing the country during their years in office, or to persuade voters to elect them for a second term.
+	- While many people respect Bush for his foreign policy successes, his years in office are also remembered as a time of economic problems and social unrest.
+	- ## Early Life
+	- George Bush was born into a wealthy family in Massachusetts, and raised in a Connecticut town near New York City. He had three brothers and a sister.
+	- Their father was a business leader who became a U.S. senator. Their mother was active doing public service work. The family employed servants, but Mrs. Bush did not want her children's privileged position to make them think they were special. Instead, she taught them to work hard and help others.
+	- When he was a young man, George Bush moved away from home to attend a private high school in Massachusetts. There, he played baseball and soccer, and was elected student body president.
+	- On his 18th birthday, Bush joined the U.S. Navy. For three years, he fought in World War II. At the time, he was the youngest pilot in the Navy, and earned a medal for bravery.In early 1945, he married a young woman he had met at a dance. Her name was Barbara Pierce.
+	- After the war, she and George moved to Connecticut, where he studied economics at Yale University and played on the school's baseball team.
+	- In time, they moved to the southern state of Texas. George Bush worked in the oil industry, and became president of a company that sold oil drilling equipment.
+	- George and Barbara Bush mostly raised their four sons and one daughter in the Houston, Texas area. Another daughter died of cancer when she was a child.
+	- In time, George Bush decided to follow his father's example and enter politics. He became a Republican Party official. Then he was elected to the U.S. Congress, representing part of Houston.
+	- Despite having a home in Texas, opponents and the public connected Bush with the East Coast and the upper class. That image created some problems for Bush in the presidential election of 1980.
+	- By then, he had held other high offices in the federal government, and had been successful as the head of the CIA.
+	- But voters liked another Republican candidate, former California governor Ronald Reagan. Many Americans remembered Reagan from his days in movies and on television.
+	- When Reagan was nominated as the party's candidate for president, he asked Bush to be vice president. For eight years, Bush held the office, and worked closely with Reagan on foreign policy and other issues.
+	- In 1988, Bush finally won the presidency in his own right.
+	- ## Presidency
+	- On entering the White House, the new president promised to continue many of Reagan's policies of limited government. While he was a candidate, Bush often said that, if elected, he would not raise taxes.
+	- Bush also said that he wanted the United States to be "a kinder and gentler" nation. He wanted especially to support community organizations in their efforts to reduce crime, homelessness, and drug abuse.
+	- He also signed legislation to help people with disabilities, and to protect the environment.
+	- But Bush faced a number problems.
+	- One was a large budget deficit, created in part by increased military spending during the Reagan years.
+	- Another were disputes in Congress with the Democratic Party.
+	- And another was a banking crisis. After years of problems in the savings and loan industry, more than 1,000 small financial institutions failed. In time, Congress agreed to spend billions of dollars to help the industry recover.
+	- And President Bush had to break his promise not to raise taxes. He pointed out that he needed to balance the budget; however, many Americans and some members of his own party felt betrayed.
+	- The economic troubles helped create a mood of unrest in the country. The feeling was strengthened by events around the world.
+	- Soon after Bush took office, the Chinese government launched a campaign to stop protests in Beijing's Tiananmen Square.
+	- A few months later, the Berlin Wall came down. The wall separated East and West Germany. Many considered its collapse to be the end of the Soviet Union's control of Eastern Europe.
+	- At the same time, the leader of Panama, Manuel Noriega, was threatening Americans. He was also accused of supporting drug traffickers and the drug trade in the United States.
+	- Bush answered all the events in a calm, cautious way. He tried to keep good relations with China and the Soviet Union. In time, he ordered military action in Panama, and U.S. troops ousted Noriega.
+	- Supporters praised Bush's cool head and way of doing things. But critics questioned Bush's decisions. Some said he went too far. Others said he did not go far enough.
+	- The same criticisms and support were repeated during the Gulf War against Iraq. In brief, Iraqi leader Saddam Hussein ordered his forces to invade and occupy Kuwait. Bush and other world leaders created an international coalition to seek a diplomatic solution.
+	- When diplomacy failed, U.S. troops led international air strikes against Iraq. Coalition forces also attacked on the ground.
+	- In a few weeks, the Iraqi leadership agreed to a ceasefire.
+	- Some criticized Bush for letting Saddam Hussein stay in power. But the American public largely approved of Bush's actions. He won praise for helping create an international coalition to answer the Iraqi occupation.
+	- The effort showed what some called a "New World Order." The U.S. and Soviet Union had even worked successfully together.
+	- Yet, soon after the end of the Gulf War, Bush failed in his efforts at re-election. The U.S. economy had entered a recession. And Bush was not able to connect effectively with voters, even though those who knew him personally said Bush was a kind, gentle person. One of his last acts as president was to write a note for the candidate who had beat him, wishing him well.
+	- ## Legacy
+	- George H.W. Bush retired to his home in Texas with his wife, Barbara. They also have a house in Maine.
+	- Bush often urged Americans to help others in their community. He put his words into action by volunteering with his church and supporting a local hospital.
+	- On his 90th birthday, Bush did something unusual to test his image as a cautious person. He celebrated by going sky diving.
+	- For many, Bush is remembered for his connection to other presidents. He is often linked to the Reagan years. Compared to Reagan, Bush is usually considered a less conservative leader, as well as a less charismatic one.
+	- By the 21st century, historians began comparing the former president Bush with another president: his son, George Walker Bush, who took office eight years after his father left it.
+- ---
+- ## def
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about George Herbert Walker Bush.
+	- Before he became president in 1989, Bush had a lot of experience in government.
+	- He spent four years in the United States House of Representatives, worked as the U.S. ambassador to the United Nations, and led the Central Intelligence Agency, or CIA. Then, for eight years, he was vice president under Ronald Reagan.
+	- Interestingly, in U.S. history, a person serving as vice president rarely becomes president after the sitting president leaves office at the end of his term.
+	- Before George H.W. Bush, the last time such an event happened was in 1836. At that time, Martin Van Buren took office after the two-term presidency of Andrew Jackson.
+	- Yet neither Bush nor Van Buren was able to successfully deal with some of the problems facing the country during their years in office, or to persuade voters to elect them for a second term.
+	- While many people respect Bush for his foreign policy successes, his years in office are also remembered as a time of economic problems and social unrest.
+	- ## Early Life
+	- George Bush was born into a wealthy family in Massachusetts, and raised in a Connecticut town near New York City. He had three brothers and a sister.
+	- Their father was a business leader who became a U.S. senator. Their mother was active doing public service work. The family employed servants, but Mrs. Bush did not want her children's privileged position to make them think they were special. Instead, she taught them to work hard and help others.
+	- When he was a young man, George Bush moved away from home to attend a private high school in Massachusetts. There, he played baseball and soccer, and was elected student body president.
+	- On his 18th birthday, Bush joined the U.S. Navy. For three years, he fought in World War II. At the time, he was the youngest pilot in the Navy, and earned a medal for bravery.In early 1945, he married a young woman he had met at a dance. Her name was Barbara Pierce.
+	- After the war, she and George moved to Connecticut, where he studied economics at Yale University and played on the school's baseball team.
+	- In time, they moved to the southern state of Texas. George Bush worked in the oil industry, and became president of a company that sold oil drilling equipment.
+	- George and Barbara Bush mostly raised their four sons and one daughter in the Houston, Texas area. Another daughter died of cancer when she was a child.
+	- In time, George Bush decided to follow his father's example and enter politics. He became a Republican Party official. Then he was elected to the U.S. Congress, representing part of Houston.
+	- Despite having a home in Texas, opponents and the public connected Bush with the East Coast and the upper class. That image created some problems for Bush in the presidential election of 1980.
+	- By then, he had held other high offices in the federal government, and had been successful as the head of the CIA.
+	- But voters liked another Republican candidate, former California governor Ronald Reagan. Many Americans remembered Reagan from his days in movies and on television.
+	- When Reagan was nominated as the party's candidate for president, he asked Bush to be vice president. For eight years, Bush held the office, and worked closely with Reagan on foreign policy and other issues.
+	- In 1988, Bush finally won the presidency in his own right.
+	- ## Presidency
+	- On entering the White House, the new president promised to continue many of Reagan's policies of limited government. While he was a candidate, Bush often said that, if elected, he would not raise taxes.
+	- Bush also said that he wanted the United States to be "a kinder and gentler" nation. He wanted especially to support community organizations in their efforts to reduce crime, homelessness, and drug abuse.
+	- He also signed legislation to help people with disabilities, and to protect the environment.
+	- But Bush faced a number problems.
+	- One was a large budget deficit, created in part by increased military spending during the Reagan years.
+	- Another were disputes in Congress with the Democratic Party.
+	- And another was a banking crisis. After years of problems in the savings and loan industry, more than 1,000 small financial institutions failed. In time, Congress agreed to spend billions of dollars to help the industry recover.
+	- And President Bush had to break his promise not to raise taxes. He pointed out that he needed to balance the budget; however, many Americans and some members of his own party felt betrayed.
+	- The economic troubles helped create a mood of unrest in the country. The feeling was strengthened by events around the world.
+	- Soon after Bush took office, the Chinese government launched a campaign to stop protests in Beijing's Tiananmen Square.
+	- A few months later, the Berlin Wall came down. The wall separated East and West Germany. Many considered its collapse to be the end of the Soviet Union's control of Eastern Europe.
+	- At the same time, the leader of Panama, Manuel Noriega, was threatening Americans. He was also accused of supporting drug traffickers and the drug trade in the United States.
+	- Bush answered all the events in a calm, cautious way. He tried to keep good relations with China and the Soviet Union. In time, he ordered military action in Panama, and U.S. troops ousted Noriega.
+	- Supporters praised Bush's cool head and way of doing things. But critics questioned Bush's decisions. Some said he went too far. Others said he did not go far enough.
+	- The same criticisms and support were repeated during the Gulf War against Iraq. In brief, Iraqi leader Saddam Hussein ordered his forces to invade and occupy Kuwait. Bush and other world leaders created an international coalition to seek a diplomatic solution.
+	- When diplomacy failed, U.S. troops led international air strikes against Iraq. Coalition forces also attacked on the ground.
+	- In a few weeks, the Iraqi leadership agreed to a ceasefire.
+	- Some criticized Bush for letting Saddam Hussein stay in power. But the American public largely approved of Bush's actions. He won praise for helping create an international coalition to answer the Iraqi occupation.
+	- The effort showed what some called a "New World Order." The U.S. and Soviet Union had even worked successfully together.
+	- Yet, soon after the end of the Gulf War, Bush failed in his efforts at re-election. The U.S. economy had entered a recession. And Bush was not able to connect effectively with voters, even though those who knew him personally said Bush was a kind, gentle person. One of his last acts as president was to write a note for the candidate who had beat him, wishing him well.
+	- ## Legacy
+	- George H.W. Bush retired to his home in Texas with his wife, Barbara. They also have a house in Maine.
+	- Bush often urged Americans to help others in their community. He put his words into action by volunteering with his church and supporting a local hospital.
+	- On his 90th birthday, Bush did something unusual to test his image as a cautious person. He celebrated by going sky diving.
+	- For many, Bush is remembered for his connection to other presidents. He is often linked to the Reagan years. Compared to Reagan, Bush is usually considered a less conservative leader, as well as a less charismatic one.
+	- By the 21st century, historians began comparing the former president Bush with another president: his son, George Walker Bush, who took office eight years after his father left it.

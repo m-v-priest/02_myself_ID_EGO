@@ -1,0 +1,117 @@
+title:: 075 Harry Truman: Atomic
+
+- ## 075 Harry Truman: Atomic
+- ## pure
+  collapsed:: true
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about Harry S. Truman. He became president of the United States in 1945, a few weeks before the end of World War II in Europe.
+	- Truman took office after Franklin Roosevelt died suddenly of a cerebral hemorrhage.
+	- Roosevelt had been president for 12 years. But Truman was new to the position of vice president. Two other men had earlier served in the office under Roosevelt.
+	- On April 12, 1945 – less than three months after he became vice president – Truman was called to the White House. There, Roosevelt's wife, Eleanor, told Truman about her husband's death. Truman was quickly sworn-in as president.
+	- Shortly after the ceremony, the secretary of war privately told Truman about a secret project involving American scientists. They were building an extremely destructive atomic bomb.
+	- Historians debate whether Truman already knew about the project, or whether the information was a complete surprise.
+	- In either case, the new president had to decide whether to use the weapon, which he called "the most terrible bomb in the history of the world."
+	- ## Early life
+	- Harry Truman came from simple beginnings. He was born in the state of Missouri. He, his parents, a brother and a sister lived in the town of Independence.
+	- As a boy, Harry Truman helped his father on the family's farm, but he did not enjoy the work. And he could not play sports because he could not see very well; from the time he was a child, Truman wore eyeglasses.
+	- So he developed his interests in reading and music. He was an especially good piano player.
+	- Truman was also a good student, but his parents did not have enough money to send him to a four-year college.
+	- Instead, Truman worked in a number of jobs, including as a bank clerk, mining company operator, and partner in an oil business.
+	- When the United States became involved in World War I, Truman decided to re-join the National Guard. His guard unit became part of the U.S. Army, and Truman earned a position as a captain.
+	- Truman experienced real success in the military. He was an able soldier and leader, and he and his troops fought in battle. When the war ended, Truman kept both the feeling of self-confidence and the friendships with the other solders he had formed.
+	- One of Truman's first acts after the war was to get married. He married a woman from his hometown. They had been romantically linked for a long time. Her name was Elizabeth Wallace, but she was called Bess. The Trumans remained happily married for more than 50 years and had a daughter named Mary Margaret.
+	  In the first years after the war, Harry Truman opened a men's clothing shop with a friend from the military. But the shop – called a haberdashery -- eventually failed.
+	- Truman soon found a new line of work. An operative from the Democratic Party asked Truman to be a candidate for a position as a judge.
+	- Truman won the seat, as well as a public reputation for being an honest, effective public servant.
+	- In time, Truman successfully won election to a seat in the U.S. Senate. For the most part, he earned a good public image there, too. He supported the social programs of President Roosevelt, and he tried to prevent big businesses or large labor unions from misusing public money.
+	- Both voters and Democratic officials liked Truman enough to accept him as the party's vice presidential candidate in 1944. Truman performed well as a candidate, but he did not have a close relationship with Roosevelt or play much of a part in his government.
+	- Yet in a few weeks, following Roosevelt's death, Truman was leading the country.
+	- ## Presidency
+	- Truman faced a number of difficult decisions during his two terms as president. Many of them involved foreign policy. His actions helped shape the second half of the 20th century.
+	- In his first months after taking office, Truman watched the end of World War II in Europe.
+	- He then had to decide how to deal with the war in the Pacific. Japan did not want to accept the Allied forces' demand for total surrender. And Truman did not want to extend the war.
+	- So he approved using the atomic bomb on Japan. Truman directed the secretary of war to drop the weapon on military targets and try to reduce civilian deaths. But the destruction was still terrible.
+	- An estimated 192,000 people died in the attack or the effects of the bomb in Hiroshima. Most of the city was destroyed.
+	- Three days later, the U.S. military dropped another atomic bomb, this time on the city of Nagasaki. More than 70,000 people died instantly.
+	- The emperor of Japan called the weapon "a new and most cruel bomb." He agreed to his country's surrender on August 14, 1945. World War II came to an end.
+	- Truman and his government quickly had to make other decisions about how to react to the new international situation. One of the most pressing concerns was the Soviet Union.
+	- Soviet officials sought to expand their influence around the country's borders, especially in Eastern Europe, Turkey and Iran. Truman and other U.S. officials believed those moves threatened American interests. The United States supported democracy and capitalism. It did not want the Soviet Union's form of communism to spread.
+	- So Truman's government put in place two measures to answer the Soviet Union's influence.
+	- One was a policy known as the Truman Doctrine. It promised American support to Greece, Turkey and other democratic nations against authoritarian forces. The measure was a new step for the United States. In the past, the country had tried to avoid conflicts that did not directly involve it.
+	- Under Truman, the U.S. government was committed to helping "free peoples" anywhere by improving their living conditions.
+	- A second measure came to be called the Marshall Plan, after Truman's secretary of state, George Marshall. Marshall wanted the United States to invest a large amount of money in rebuilding Europe after World War II. Because the Soviet Union controlled much of Eastern Europe, the money eventually went to improving the market economy of Western Europe.
+	- The office of the historian at the State Department notes that one effect of the Marshall Plan was to introduce foreign aid programs as an official part of U.S. foreign policy.
+	- Truman also sought to guarantee peace and contain communism in other ways. He supported the United Nations, which was officially launched during his presidency.
+	- And he negotiated a military alliance among Western, democratic nations. The group became known as the North Atlantic Treaty Organization, or NATO.
+	  Military alliances became especially important in 1950 when communist forces in North Korea invaded South Korea. The U.N. agreed to send troops to help South Korea -- although many of the troops were American, and they were led by an American general.
+	- Fighting in the Korean War lasted until 1953. As many as 5 million people died in the conflict. Neither side gained much territory.
+	- But the Korean War had other effects. It fueled the Cold War between communist and democratic forces. It showed the U.S. would really defend other countries against authoritarian forces. It sharply increased Americans' spending on the defense industry.
+	- And it helped make President Truman very unpopular.
+	- Many Americans believed Truman was losing the battle against communism. During his presidency, the Soviet Union successfully tested a nuclear weapon, and China officially became a communist country under Mao Zedong.
+	- Some U.S. lawmakers even accused Truman's government of protecting communist spies. Senator Joseph McCarthy was the most famous of these critics. He launched investigations against thousands of U.S. government employees, as well as movie actors and directors in Hollywood.
+	- McCarthy did not have evidence that these people were secretly working for the Soviet Union. But his campaign helped fuel the public's concerns over communism, a fear that came to be called the Red Scare.
+	- Truman grew tired of the accusations, as well as other political battles. He decided not to seek re-election in 1952.
+	- Instead, he retired with his wife to their home in Missouri.
+	- ## Legacy
+	- At first, many Americans had mixed emotions about Truman's presidency. For the most part, they did not support the Korean War. And they remained suspicious that his government had included communist supporters.
+	- But Truman's public reputation rose over time. He became known as a down-to-earth person who would and could fight if needed. His supporters liked to say, "Give ‘em Hell, Harry."
+	- Truman is also remembered for taking some steps toward ensuring equal rights for all Americans. Truman supported the racial desegregation of the military and banned racial discrimination in the civil service.
+	- But Truman is probably best remembered for the difficult decisions he made during his presidency, especially the one to drop atomic bombs on Japan. To the end of his life, he accepted responsibility for the decision and did not apologize for it.
+	- Truman died of natural causes at the age of 88. His remains are buried at his presidential library in Independence, Missouri.
+- ---
+- ## def
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about Harry S. Truman. He became president of the United States in 1945, a few weeks before the end of World War II in Europe.
+	- Truman took office after Franklin Roosevelt died suddenly of a cerebral hemorrhage.
+	- Roosevelt had been president for 12 years. But Truman was new to the position of vice president. Two other men had earlier served in the office under Roosevelt.
+	- On April 12, 1945 – less than three months after he became vice president – Truman was called to the White House. There, Roosevelt's wife, Eleanor, told Truman about her husband's death. Truman was quickly sworn-in as president.
+	- Shortly after the ceremony, the secretary of war privately told Truman about a secret project involving American scientists. They were building an extremely destructive atomic bomb.
+	- Historians debate whether Truman already knew about the project, or whether the information was a complete surprise.
+	- In either case, the new president had to decide whether to use the weapon, which he called "the most terrible bomb in the history of the world."
+	- ## Early life
+	- Harry Truman came from simple beginnings. He was born in the state of Missouri. He, his parents, a brother and a sister lived in the town of Independence.
+	- As a boy, Harry Truman helped his father on the family's farm, but he did not enjoy the work. And he could not play sports because he could not see very well; from the time he was a child, Truman wore eyeglasses.
+	- So he developed his interests in reading and music. He was an especially good piano player.
+	- Truman was also a good student, but his parents did not have enough money to send him to a four-year college.
+	- Instead, Truman worked in a number of jobs, including as a bank clerk, mining company operator, and partner in an oil business.
+	- When the United States became involved in World War I, Truman decided to re-join the National Guard. His guard unit became part of the U.S. Army, and Truman earned a position as a captain.
+	- Truman experienced real success in the military. He was an able soldier and leader, and he and his troops fought in battle. When the war ended, Truman kept both the feeling of self-confidence and the friendships with the other solders he had formed.
+	- One of Truman's first acts after the war was to get married. He married a woman from his hometown. They had been romantically linked for a long time. Her name was Elizabeth Wallace, but she was called Bess. The Trumans remained happily married for more than 50 years and had a daughter named Mary Margaret.
+	  In the first years after the war, Harry Truman opened a men's clothing shop with a friend from the military. But the shop – called a haberdashery -- eventually failed.
+	- Truman soon found a new line of work. An operative from the Democratic Party asked Truman to be a candidate for a position as a judge.
+	- Truman won the seat, as well as a public reputation for being an honest, effective public servant.
+	- In time, Truman successfully won election to a seat in the U.S. Senate. For the most part, he earned a good public image there, too. He supported the social programs of President Roosevelt, and he tried to prevent big businesses or large labor unions from misusing public money.
+	- Both voters and Democratic officials liked Truman enough to accept him as the party's vice presidential candidate in 1944. Truman performed well as a candidate, but he did not have a close relationship with Roosevelt or play much of a part in his government.
+	- Yet in a few weeks, following Roosevelt's death, Truman was leading the country.
+	- ## Presidency
+	- Truman faced a number of difficult decisions during his two terms as president. Many of them involved foreign policy. His actions helped shape the second half of the 20th century.
+	- In his first months after taking office, Truman watched the end of World War II in Europe.
+	- He then had to decide how to deal with the war in the Pacific. Japan did not want to accept the Allied forces' demand for total surrender. And Truman did not want to extend the war.
+	- So he approved using the atomic bomb on Japan. Truman directed the secretary of war to drop the weapon on military targets and try to reduce civilian deaths. But the destruction was still terrible.
+	- An estimated 192,000 people died in the attack or the effects of the bomb in Hiroshima. Most of the city was destroyed.
+	- Three days later, the U.S. military dropped another atomic bomb, this time on the city of Nagasaki. More than 70,000 people died instantly.
+	- The emperor of Japan called the weapon "a new and most cruel bomb." He agreed to his country's surrender on August 14, 1945. World War II came to an end.
+	- Truman and his government quickly had to make other decisions about how to react to the new international situation. One of the most pressing concerns was the Soviet Union.
+	- Soviet officials sought to expand their influence around the country's borders, especially in Eastern Europe, Turkey and Iran. Truman and other U.S. officials believed those moves threatened American interests. The United States supported democracy and capitalism. It did not want the Soviet Union's form of communism to spread.
+	- So Truman's government put in place two measures to answer the Soviet Union's influence.
+	- One was a policy known as the Truman Doctrine. It promised American support to Greece, Turkey and other democratic nations against authoritarian forces. The measure was a new step for the United States. In the past, the country had tried to avoid conflicts that did not directly involve it.
+	- Under Truman, the U.S. government was committed to helping "free peoples" anywhere by improving their living conditions.
+	- A second measure came to be called the Marshall Plan, after Truman's secretary of state, George Marshall. Marshall wanted the United States to invest a large amount of money in rebuilding Europe after World War II. Because the Soviet Union controlled much of Eastern Europe, the money eventually went to improving the market economy of Western Europe.
+	- The office of the historian at the State Department notes that one effect of the Marshall Plan was to introduce foreign aid programs as an official part of U.S. foreign policy.
+	- Truman also sought to guarantee peace and contain communism in other ways. He supported the United Nations, which was officially launched during his presidency.
+	- And he negotiated a military alliance among Western, democratic nations. The group became known as the North Atlantic Treaty Organization, or NATO.
+	  Military alliances became especially important in 1950 when communist forces in North Korea invaded South Korea. The U.N. agreed to send troops to help South Korea -- although many of the troops were American, and they were led by an American general.
+	- Fighting in the Korean War lasted until 1953. As many as 5 million people died in the conflict. Neither side gained much territory.
+	- But the Korean War had other effects. It fueled the Cold War between communist and democratic forces. It showed the U.S. would really defend other countries against authoritarian forces. It sharply increased Americans' spending on the defense industry.
+	- And it helped make President Truman very unpopular.
+	- Many Americans believed Truman was losing the battle against communism. During his presidency, the Soviet Union successfully tested a nuclear weapon, and China officially became a communist country under Mao Zedong.
+	- Some U.S. lawmakers even accused Truman's government of protecting communist spies. Senator Joseph McCarthy was the most famous of these critics. He launched investigations against thousands of U.S. government employees, as well as movie actors and directors in Hollywood.
+	- McCarthy did not have evidence that these people were secretly working for the Soviet Union. But his campaign helped fuel the public's concerns over communism, a fear that came to be called the Red Scare.
+	- Truman grew tired of the accusations, as well as other political battles. He decided not to seek re-election in 1952.
+	- Instead, he retired with his wife to their home in Missouri.
+	- ## Legacy
+	- At first, many Americans had mixed emotions about Truman's presidency. For the most part, they did not support the Korean War. And they remained suspicious that his government had included communist supporters.
+	- But Truman's public reputation rose over time. He became known as a down-to-earth person who would and could fight if needed. His supporters liked to say, "Give ‘em Hell, Harry."
+	- Truman is also remembered for taking some steps toward ensuring equal rights for all Americans. Truman supported the racial desegregation of the military and banned racial discrimination in the civil service.
+	- But Truman is probably best remembered for the difficult decisions he made during his presidency, especially the one to drop atomic bombs on Japan. To the end of his life, he accepted responsibility for the decision and did not apologize for it.
+	- Truman died of natural causes at the age of 88. His remains are buried at his presidential library in Independence, Missouri.

@@ -1,0 +1,103 @@
+title:: 066 William McKinley: Imperial
+
+- ## William McKinley: Imperial
+- ## pure
+  collapsed:: true
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about William McKinley. He took office in 1897 and was re-elected in 1900. He led the United States into the 20th century.
+	- One way to think of McKinley is as a transition president. In the 1800s, lawmakers were mostly concerned with how the country was growing in North America.
+	- But during McKinley's government, the U.S. looked beyond its borders. Congress declared war on Spain, the first time the U.S. had fought a European power since the War of 1812 against Britain.
+	- The U.S. also took control of overseas territories, annexed Hawaii, and tried to regulate the world's trade with China.
+	- Some historians say President McKinley himself wanted the U.S. to increase its international influence. Others argue that he was just answering the country's mood at the time.
+	- Either way, his presidency is often defined by the country's rise as an imperial power.
+	- ## Early life
+	- McKinley was the sixth president to come from the state of Ohio. He was the seventh of eight children. Historians describe his childhood as loving and fun.
+	- His father owned a small iron factory. His mother raised her children to be honest and polite.
+	- McKinley was a hard-working student. He briefly attended Allegheny College in Pennsylvania, but he did not have the money to finish his education there.
+	- A few years after leaving that school, he volunteered for the Army on the side of the Union in the Civil War. He served under a man who would later become president himself, Rutherford B. Hayes. The two stayed close throughout their lives.
+	- After the war ended, McKinley studied law, became involved in Republican Party politics, married, and had two daughters.
+	- His wife, Ida, was an energetic, well-educated young woman from a wealthy family. For a while, she had worked in her father's bank.
+	- But Ida McKinley's health began to suffer. She was struck by seizures. Then her mother died. A few months later, her younger daughter died while still an infant. Ida McKinley clung to her older daughter, but the little girl soon developed a fever disease, and she died, too.
+	- William and Ida McKinley were never the same. Ida McKinley remained sick her entire life. She spent most of her hours in a small rocking chair sewing.
+	- William McKinley paid great attention to her. He organized his schedule to spend time near her, even as his political success grew.
+	- In time, McKinley served in Congress and as the governor of Ohio. He was known as a likable person and a skilled politician.
+	- His Republican Party nominated him on the first ballot at their convention. A few months later, voters elected McKinley into office in a landslide. He became the country's 25th president.
+	- ## Presidency
+	- When McKinley took office, the U.S. was just coming out of a severe economic depression.
+	- His government quickly approved a high protective tariff to help struggling workers. In general, his administration also permitted the growth of big business.
+	- But most of McKinley's attention as president was devoted to foreign policy. The main issue was Cuba.
+	- At that time, Spain controlled the island. Cubans revolted, and Spanish forces used violence and detainments to crush the rebellion.
+	- In the U.S., many Americans denounced the events in Cuba. They wanted McKinley and his government to intervene.
+	- At first, President McKinley was unwilling. He tried to use diplomacy. He even ordered a U.S. ship into Spanish waters near Havana to show his continued support of Spain.
+	- But the ship, called the Maine, exploded. Americans believed the Spanish were responsible. Relations between the two countries worsened fast. Spain declared war. The U.S. Congress answered in kind.
+	- For 100 days, U.S. and Spanish forces fought in Cuba and other areas under Spanish control.
+	- The war quickly turned in the Americans' favor. When the Spanish-American War ended with the Treaty of Paris in 1898, the U.S. took control of Puerto Rico, Guam, and the Philippines from Spain. Cuba was made independent; however, the U.S. continued to occupy the island for several more years.
+	- Not everyone approved of the actions of McKinley's government. Even some members of Congress warned against the U.S. becoming an imperial power.
+	- But a majority of voters approved of McKinley as a victorious commander-in-chief. They also noted that the U.S. economy was getting stronger. In 1900, McKinley won re-election.
+	- ## Assassination
+	- As it turned out, McKinley's second term in office was short.
+	- In September, only six months after his swearing-in, the president was receiving visitors at a fair in the city of Buffalo, New York.
+	- One of the visitors in line was a 28-year-old man named Leon Czolgosz. His family was from Poland, but he lived in the city of Detroit, Michigan. He had worked in a factory, but at the time was unemployed. He supported the idea of anarchy – no government at all.
+	- When McKinley reached to shake the young man's hand, Czolgosz shot the president twice in the stomach.
+	- Although injured, McKinley spoke to his guards. He told them not to hurt the shooter. And, he expressed concern about how his wife would feel when she learned he had been shot.
+	- Quickly, McKinley was taken to a hospital. Doctors predicted that he would survive. And, for a few days, McKinley seemed to improve.
+	- But the wound became infected, and eight days after the attack McKinley died.
+	- The president's murderer did not say he was sorry for his act. He defended it, saying McKinley was an enemy of working people.
+	- Within a few weeks of the shooting, Czolgosz was tried, found guilty, and executed.
+	- ## Legacy
+	- Both the nation and the world mourned when McKinley died. He had been one of the country's most popular presidents in many years.
+	- He left behind the beginning of what some called an American empire. He also marked a change in the U.S. presidency.
+	- When he first took office in the 19th century, most presidents acted primarily as administrators.
+	- But President McKinley began to act in ways that are more like a modern president. He prepared remarks to give to the media. He traveled across the country speaking to voters. He used the power of his office to direct the armed forces.
+	- McKinley laid the groundwork, but he did not completely change the presidency. He left that to the even more famous man who followed him into the White House.
+	- After McKinley's death, his vice president, Theodore Roosevelt, took office and truly brought the country into modern times.
+- ---
+- ## def
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about William McKinley. He took office in 1897 and was re-elected in 1900. He led the United States into the 20th century.
+	- One way to think of McKinley is as a transition president. In the 1800s, lawmakers were mostly concerned with how the country was growing in North America.
+	- But during McKinley's government, the U.S. looked beyond its borders. Congress declared war on Spain, the first time the U.S. had fought a European power since the War of 1812 against Britain.
+	- The U.S. also took control of overseas territories, annexed Hawaii, and tried to regulate the world's trade with China.
+	- Some historians say President McKinley himself wanted the U.S. to increase its international influence. Others argue that he was just answering the country's mood at the time.
+	- Either way, his presidency is often defined by the country's rise as an imperial power.
+	- ## Early life
+	- McKinley was the sixth president to come from the state of Ohio. He was the seventh of eight children. Historians describe his childhood as loving and fun.
+	- His father owned a small iron factory. His mother raised her children to be honest and polite.
+	- McKinley was a hard-working student. He briefly attended Allegheny College in Pennsylvania, but he did not have the money to finish his education there.
+	- A few years after leaving that school, he volunteered for the Army on the side of the Union in the Civil War. He served under a man who would later become president himself, Rutherford B. Hayes. The two stayed close throughout their lives.
+	- After the war ended, McKinley studied law, became involved in Republican Party politics, married, and had two daughters.
+	- His wife, Ida, was an energetic, well-educated young woman from a wealthy family. For a while, she had worked in her father's bank.
+	- But Ida McKinley's health began to suffer. She was struck by seizures. Then her mother died. A few months later, her younger daughter died while still an infant. Ida McKinley clung to her older daughter, but the little girl soon developed a fever disease, and she died, too.
+	- William and Ida McKinley were never the same. Ida McKinley remained sick her entire life. She spent most of her hours in a small rocking chair sewing.
+	- William McKinley paid great attention to her. He organized his schedule to spend time near her, even as his political success grew.
+	- In time, McKinley served in Congress and as the governor of Ohio. He was known as a likable person and a skilled politician.
+	- His Republican Party nominated him on the first ballot at their convention. A few months later, voters elected McKinley into office in a landslide. He became the country's 25th president.
+	- ## Presidency
+	- When McKinley took office, the U.S. was just coming out of a severe economic depression.
+	- His government quickly approved a high protective tariff to help struggling workers. In general, his administration also permitted the growth of big business.
+	- But most of McKinley's attention as president was devoted to foreign policy. The main issue was Cuba.
+	- At that time, Spain controlled the island. Cubans revolted, and Spanish forces used violence and detainments to crush the rebellion.
+	- In the U.S., many Americans denounced the events in Cuba. They wanted McKinley and his government to intervene.
+	- At first, President McKinley was unwilling. He tried to use diplomacy. He even ordered a U.S. ship into Spanish waters near Havana to show his continued support of Spain.
+	- But the ship, called the Maine, exploded. Americans believed the Spanish were responsible. Relations between the two countries worsened fast. Spain declared war. The U.S. Congress answered in kind.
+	- For 100 days, U.S. and Spanish forces fought in Cuba and other areas under Spanish control.
+	- The war quickly turned in the Americans' favor. When the Spanish-American War ended with the Treaty of Paris in 1898, the U.S. took control of Puerto Rico, Guam, and the Philippines from Spain. Cuba was made independent; however, the U.S. continued to occupy the island for several more years.
+	- Not everyone approved of the actions of McKinley's government. Even some members of Congress warned against the U.S. becoming an imperial power.
+	- But a majority of voters approved of McKinley as a victorious commander-in-chief. They also noted that the U.S. economy was getting stronger. In 1900, McKinley won re-election.
+	- ## Assassination
+	- As it turned out, McKinley's second term in office was short.
+	- In September, only six months after his swearing-in, the president was receiving visitors at a fair in the city of Buffalo, New York.
+	- One of the visitors in line was a 28-year-old man named Leon Czolgosz. His family was from Poland, but he lived in the city of Detroit, Michigan. He had worked in a factory, but at the time was unemployed. He supported the idea of anarchy – no government at all.
+	- When McKinley reached to shake the young man's hand, Czolgosz shot the president twice in the stomach.
+	- Although injured, McKinley spoke to his guards. He told them not to hurt the shooter. And, he expressed concern about how his wife would feel when she learned he had been shot.
+	- Quickly, McKinley was taken to a hospital. Doctors predicted that he would survive. And, for a few days, McKinley seemed to improve.
+	- But the wound became infected, and eight days after the attack McKinley died.
+	- The president's murderer did not say he was sorry for his act. He defended it, saying McKinley was an enemy of working people.
+	- Within a few weeks of the shooting, Czolgosz was tried, found guilty, and executed.
+	- ## Legacy
+	- Both the nation and the world mourned when McKinley died. He had been one of the country's most popular presidents in many years.
+	- He left behind the beginning of what some called an American empire. He also marked a change in the U.S. presidency.
+	- When he first took office in the 19th century, most presidents acted primarily as administrators.
+	- But President McKinley began to act in ways that are more like a modern president. He prepared remarks to give to the media. He traveled across the country speaking to voters. He used the power of his office to direct the armed forces.
+	- McKinley laid the groundwork, but he did not completely change the presidency. He left that to the even more famous man who followed him into the White House.
+	- After McKinley's death, his vice president, Theodore Roosevelt, took office and truly brought the country into modern times.

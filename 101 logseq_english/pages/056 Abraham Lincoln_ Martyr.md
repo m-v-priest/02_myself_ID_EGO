@@ -1,0 +1,103 @@
+title:: 056 Abraham Lincoln: Martyr
+
+- ## Abraham Lincoln: Martyr
+- ## pure
+  collapsed:: true
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about Abraham Lincoln.
+	- He was the 16th president of the United States. Many Americans consider him one of country's greatest leaders.
+	- Yet people alive when Lincoln was elected in 1860 would probably be surprised by modern-day opinions about him. He had little formal education or government experience.
+	- During the presidential campaign, critics made fun of his appearance and his simple way of talking. They warned that he was not very intelligent and would harm the nation's image.
+	- Some of his opponents – especially in Southern states – had even bigger concerns. They were afraid Lincoln would use the power of the federal government to end slavery in their states.
+	- They were right.
+	- ## Early life
+	- Abraham Lincoln was born in the frontier state of Kentucky. His family was very poor and had a simple home: a log cabin.
+	- Lincoln had to support his parents and his sister by working, so he rarely went to school. Instead, he taught himself by reading books.
+	- Eventually, he became a lawyer in the state of Illinois.
+	- As a young man, Lincoln was known for several qualities. He was tall and thin. He was very strong – his neighbors remembered him cutting down trees. And he was honest. The people he defended in court called him "Honest Abe."
+	- In time, Lincoln was elected to the Illinois General Assembly, the state's legislature. He also served one term as a congressman in the U.S. House of Representatives.
+	- But he was not popular there. Voters did not like his opposition to the country's war with Mexico.
+	- So Lincoln withdrew from politics and turned his attention to his family. He had married a Southern belle named Mary Todd in 1842. They had four sons. But two died when they were very young.
+	- Lincoln also developed his legal career representing railroad companies. Some people thought he might become the best railroad lawyer in the country. But that is not what happened.
+	- ## Election of 1860
+	- In the 1850s, Lincoln returned to national politics. The division over the issue of slavery was deepening. Lincoln was not an anti-slavery activist, an abolitionist. But he did not support the country's policies on slavery.
+	- Lincoln believed slavery violated the American Declaration of Independence, which said all men had the right to life, liberty and the pursuit of happiness.
+	- To be clear, Lincoln did not believe that black people should have the same rights as white U.S. citizens. But he did not agree that one person should own other people, or profit from their work while they earned nothing and were held captive.
+	- Lincoln decided to compete in elections for a seat in the U.S. Senate. He was chosen as the candidate of a new, anti-slavery party. Members called themselves Republicans.
+	- During the election campaign, Lincoln famously discussed the issue of slavery in a series of debates with Stephen Douglas, the Democratic Party's candidate.
+	- Lincoln's words moved some voters. But they did not earn him enough votes to get elected.
+	- So, while Douglas took the seat in the Senate, Lincoln prepared to run for president. Lincoln said that, if he were elected, he would not expand slavery to new territories in the country's west. But he promised not to interfere with slavery in the Southern states, where it already existed.
+	- Voters in Southern, slave-holding states did not trust Lincoln. Not a single Southern state supported him in the election of 1860.
+	- But he won anyway. The support of anti-slavery Northerners gave him the presidency.
+	- In answer, seven Southern states withdrew from the Union. Four more later joined them. These states formed a new government, called the Confederate States of America – or, the Confederacy.
+	- Confederate officials chose their own president and wrote their own constitution, which permitted each state control over its own laws – especially laws that protected slavery. Confederate officials said they no longer recognized the power of the U.S. federal government, or its chief executive.
+	- As that chief executive, Lincoln would have to decide what to do.
+	- ## Civil War
+	- President Lincoln's first test came a little more than a month after he was sworn-in.
+	- The event involved Fort Sumter, a federal military base on an island off the coast of South Carolina. Soldiers on the base needed food. Lincoln said he would send some by ship.
+	- But Confederate officials considered the fort part of South Carolina, which belonged to the Confederacy. They demanded that the Union soldiers leave the fort.
+	- But Union forces and the U.S. president ignored the Confederates' demands.
+	- As promised, Lincoln sent the supply ships. As expected, Confederate soldiers attacked. A day and a half later, the fort's Union soldiers surrendered.
+	- The clash did not last long, and no one was killed in the fighting. But the battle at Fort Sumter marked the official beginning of hostilities between the Union and the Confederacy.
+	- Lincoln immediately took action to answer the loss of Fort Sumter. He called on state militias for troops and asked for a special meeting of Congress.
+	- The president was careful not to ask Congress to make an official declaration of war, in part because he did not want to recognize the Confederacy as a separate nation. Instead, he called the Southern states' opposition a rebellion.
+	- However, the conflict between the Southern Confederacy and the Northern Union was a civil war.
+	- Neither side expected the fighting to last very long – a few weeks or maybe months. Instead, the Civil War lasted four and a half years.
+	- Most of the major battles took place near Washington, DC, in the states of Maryland, Virginia and Pennsylvania. Soldiers and civilians also clashed in the west, in Tennessee, as well as in the southern states of Mississippi, South Carolina, and Georgia.
+	- But the war involved the entire country. At least 4 million men fought in it. Among the soldiers were African-American and Native-American men.
+	- The conflict divided families. Brothers, fathers and sons fought against each other.
+	- Women in both the North and South also supported the war effort. They cooked meals, made and repaired clothing for the troops, served as nurses and cared for the soldiers. Both white and African-American women also took over the work of men who had left to fight.
+	  And more than 620,000 men died -- recent scholarship says as many as 750,000. The Civil War remains the bloodiest war in American history.
+	- And it changed the country. The war radically affected American politics, economics, and society.
+	- Abraham Lincoln was the U.S. president through all of it.
+	- Next week's article will discuss Lincoln's presidency and legacy.
+- ---
+- ## def
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about Abraham Lincoln.
+	- He was the 16th president of the United States. Many Americans consider him one of country's greatest leaders.
+	- Yet people alive when Lincoln was elected in 1860 would probably be surprised by modern-day opinions about him. He had little formal education or government experience.
+	- During the presidential campaign, critics made fun of his appearance and his simple way of talking. They warned that he was not very intelligent and would harm the nation's image.
+	- Some of his opponents – especially in Southern states – had even bigger concerns. They were afraid Lincoln would use the power of the federal government to end slavery in their states.
+	- They were right.
+	- ## Early life
+	- Abraham Lincoln was born in the frontier state of Kentucky. His family was very poor and had a simple home: a log cabin.
+	- Lincoln had to support his parents and his sister by working, so he rarely went to school. Instead, he taught himself by reading books.
+	- Eventually, he became a lawyer in the state of Illinois.
+	- As a young man, Lincoln was known for several qualities. He was tall and thin. He was very strong – his neighbors remembered him cutting down trees. And he was honest. The people he defended in court called him "Honest Abe."
+	- In time, Lincoln was elected to the Illinois General Assembly, the state's legislature. He also served one term as a congressman in the U.S. House of Representatives.
+	- But he was not popular there. Voters did not like his opposition to the country's war with Mexico.
+	- So Lincoln withdrew from politics and turned his attention to his family. He had married a Southern belle named Mary Todd in 1842. They had four sons. But two died when they were very young.
+	- Lincoln also developed his legal career representing railroad companies. Some people thought he might become the best railroad lawyer in the country. But that is not what happened.
+	- ## Election of 1860
+	- In the 1850s, Lincoln returned to national politics. The division over the issue of slavery was deepening. Lincoln was not an anti-slavery activist, an abolitionist. But he did not support the country's policies on slavery.
+	- Lincoln believed slavery violated the American Declaration of Independence, which said all men had the right to life, liberty and the pursuit of happiness.
+	- To be clear, Lincoln did not believe that black people should have the same rights as white U.S. citizens. But he did not agree that one person should own other people, or profit from their work while they earned nothing and were held captive.
+	- Lincoln decided to compete in elections for a seat in the U.S. Senate. He was chosen as the candidate of a new, anti-slavery party. Members called themselves Republicans.
+	- During the election campaign, Lincoln famously discussed the issue of slavery in a series of debates with Stephen Douglas, the Democratic Party's candidate.
+	- Lincoln's words moved some voters. But they did not earn him enough votes to get elected.
+	- So, while Douglas took the seat in the Senate, Lincoln prepared to run for president. Lincoln said that, if he were elected, he would not expand slavery to new territories in the country's west. But he promised not to interfere with slavery in the Southern states, where it already existed.
+	- Voters in Southern, slave-holding states did not trust Lincoln. Not a single Southern state supported him in the election of 1860.
+	- But he won anyway. The support of anti-slavery Northerners gave him the presidency.
+	- In answer, seven Southern states withdrew from the Union. Four more later joined them. These states formed a new government, called the Confederate States of America – or, the Confederacy.
+	- Confederate officials chose their own president and wrote their own constitution, which permitted each state control over its own laws – especially laws that protected slavery. Confederate officials said they no longer recognized the power of the U.S. federal government, or its chief executive.
+	- As that chief executive, Lincoln would have to decide what to do.
+	- ## Civil War
+	- President Lincoln's first test came a little more than a month after he was sworn-in.
+	- The event involved Fort Sumter, a federal military base on an island off the coast of South Carolina. Soldiers on the base needed food. Lincoln said he would send some by ship.
+	- But Confederate officials considered the fort part of South Carolina, which belonged to the Confederacy. They demanded that the Union soldiers leave the fort.
+	- But Union forces and the U.S. president ignored the Confederates' demands.
+	- As promised, Lincoln sent the supply ships. As expected, Confederate soldiers attacked. A day and a half later, the fort's Union soldiers surrendered.
+	- The clash did not last long, and no one was killed in the fighting. But the battle at Fort Sumter marked the official beginning of hostilities between the Union and the Confederacy.
+	- Lincoln immediately took action to answer the loss of Fort Sumter. He called on state militias for troops and asked for a special meeting of Congress.
+	- The president was careful not to ask Congress to make an official declaration of war, in part because he did not want to recognize the Confederacy as a separate nation. Instead, he called the Southern states' opposition a rebellion.
+	- However, the conflict between the Southern Confederacy and the Northern Union was a civil war.
+	- Neither side expected the fighting to last very long – a few weeks or maybe months. Instead, the Civil War lasted four and a half years.
+	- Most of the major battles took place near Washington, DC, in the states of Maryland, Virginia and Pennsylvania. Soldiers and civilians also clashed in the west, in Tennessee, as well as in the southern states of Mississippi, South Carolina, and Georgia.
+	- But the war involved the entire country. At least 4 million men fought in it. Among the soldiers were African-American and Native-American men.
+	- The conflict divided families. Brothers, fathers and sons fought against each other.
+	- Women in both the North and South also supported the war effort. They cooked meals, made and repaired clothing for the troops, served as nurses and cared for the soldiers. Both white and African-American women also took over the work of men who had left to fight.
+	  And more than 620,000 men died -- recent scholarship says as many as 750,000. The Civil War remains the bloodiest war in American history.
+	- And it changed the country. The war radically affected American politics, economics, and society.
+	- Abraham Lincoln was the U.S. president through all of it.
+	- Next week's article will discuss Lincoln's presidency and legacy.

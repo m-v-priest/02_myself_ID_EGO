@@ -1,0 +1,113 @@
+title:: 060 Ulysses S. Grant: Well-Meaning
+
+- ## 060 Ulysses S. Grant: Well-Meaning
+- ## pure
+  collapsed:: true
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about Ulysses S. Grant. He took office in 1869.
+	- But his presidency is not what made him famous. Grant is best remembered for being the commander of Union forces at the end of the Civil War. He led the United States to victory over the Confederate States of America.
+	- Many Americans also remember Grant because of the unusual story about his middle initial.
+	- When the future 18th president was born, his parents named him Hiram Ulysses Grant. But the boy was known as Ulysses.
+	- When Grant was a young man, a member of Congress appointed him to a top college: the U.S. Military Academy at West Point, New York.
+	- The congressman did not know Grant personally. He thought Grant used his mother's family name, Simpson, as his middle name. So the congressman called him Ulysses S. Grant.
+	- The middle initial "S" became official. Years later, Grant joked that it did not mean anything.
+	- During the Civil War, however, Grant's middle name did come to have a popular meaning. In a famous battle in the state of Tennessee, Grant's army overpowered their opponents.
+	  The Confederate general sent a note asking for the terms of surrender -- in other words, what would the Union army require of them if they withdrew from the battle?
+	- General Grant replied: "No terms except unconditional and immediate surrender."
+	- The answer did not please the Confederate general, but he agreed.
+	- In the North, people celebrated the victory. They began saying Grant's first two initials stood for "Unconditional Surrender."
+	- ## Early life
+	- Grant was born in the state of Ohio. He was the oldest of six children.
+	- Grant's father worked as a tanner – a person who makes leather from animal skin.
+	- As a boy, Grant helped his father. But he did not like the work. He said he would not do it when he was an adult.
+	- So, when Grant was a young man, his father asked West Point officials to admit his son as a student. The Grants had little money to pay for the boy's college education. But they knew he was intelligent and skilled, and West Point was free. In exchange for their education, West Point graduates serve in the military.
+	- Grant probably did not seem like a soldier. He was quiet and sensitive. He hated seeing men die in battle, and he questioned the value of war.
+	- But he turned out to be an excellent military leader. After he graduated from West Point, he fought in the Mexican War and earned medals for bravery. He was given more power and added responsibilities.
+	- However, Grant was lonely. Early in his career, he married Julia Dent, the sister of a college friend. He was devoted to Julia and their four children.
+	- But his family could not come with Grant on all his deployments for the military. They were separated for years at a time.
+	- Without his family nearby, Grant began having problems with money. Some people said he also drank too much alcohol.
+	- One day, Grant resigned from the army.
+	- He returned home to his family. At first, he tried to farm, but he could not make enough money. Then he tried other jobs.
+	- Finally, he asked his father for help. His father gave him a job, but it was the one the young Grant swore he never wanted: working in a leather shop.
+	- ## Civil War
+	- Then things took a surprising turn. The Civil War began. The Union needed experienced military leaders.
+	- Grant accepted a position leading a difficult group of troops. He was able to train them and earn their respect.
+	- Quickly, Grant's public image as a military leader grew. He won major victories for the Union in battles at Fort Donelson, Tennessee, and Vicksburg, Mississippi.
+	- The president at the time, Abraham Lincoln, liked the way Grant planned the battles. He also liked that Grant did everything he could to win. Grant permitted so many of his soldiers to die that his critics gave him a nickname: The Butcher.
+	- Grant's methods were harsh, but effective. The Civil War effectively ended when the famous Confederate general Robert E. Lee surrendered to Grant at Appomattox Court House, Virginia.
+	- The following year, Grant was named general of the U.S. armies. The only other person to hold that position was the military leader during the Revolutionary War, George Washington.
+	- ## Presidency
+	- Like George Washington, Grant became president although he did not really seek the position.
+	- But Republican Party leaders realized that the former general was very popular. And they knew that Grant opposed the policies of the president at the time, Andrew Johnson.
+	- So the Republicans nominated Grant as their candidate in 1868. He won easily.
+	- But Grant's popularity and ability as a military leader did not make him a successful president.
+	- Grant tried to work for the political and civil rights of African-Americans, many of whom had been enslaved. One of Grant's most important acts was to support the 15th Amendment to the U.S. Constitution. The measure gave African-American men the right to vote.
+	- At the same time, Grant tried to give states control over their own laws. So, sometimes he used the power of the federal government to protect the rights of African-Americans. And he sometimes let states use violence to prevent African-Americans from exercising their rights.
+	- Grant also spoke about treating Native Americans with greater respect. He used government resources to help native people become farmers.
+	- But other government policies helped white settlers continue to push tribes off their lands.
+	- Few Native Americans saw their lives really improve under Grant.
+	- Finally, his administration suffered because of corrupt government officials. Grant himself did not get rich from their actions. But he remained loyal to people who worked for him, even when they profited from their position.
+	- As a result of all this, many Americans lost interest in Reconstruction and lost faith in the federal government.
+	- But Grant himself remained popular. He won a second term more easily than the first.
+	- Shortly after, the country entered a bad economic depression. Grant tried to improve the situation by supporting the gold standard. But many Americans – of all backgrounds – continued to suffer.
+	- ## Legacy
+	- Because of the problems in his government, Grant is not remembered as one of the country's best presidents.
+	- But he is remembered as a war hero and as a kind-hearted man with an interesting life.
+	- In his last months, Grant worked nearly nonstop on writing his memoirs. Final images show him, covered in a blanket and with a pen in his hand, diligently working.
+	- Grant died in 1885, a few days after the book was finished. It was a major success. It earned enough money to provide for his family for the rest of their lives.
+	- People across the country mourned the loss of Grant. More than a million and a half watched his funeral parade in New York City. He is buried there, along with his beloved wife, in a well-known memorial popularly called Grant's Tomb.
+- ---
+- ## def
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about Ulysses S. Grant. He took office in 1869.
+	- But his presidency is not what made him famous. Grant is best remembered for being the commander of Union forces at the end of the Civil War. He led the United States to victory over the Confederate States of America.
+	- Many Americans also remember Grant because of the unusual story about his middle initial.
+	- When the future 18th president was born, his parents named him Hiram Ulysses Grant. But the boy was known as Ulysses.
+	- When Grant was a young man, a member of Congress appointed him to a top college: the U.S. Military Academy at West Point, New York.
+	- The congressman did not know Grant personally. He thought Grant used his mother's family name, Simpson, as his middle name. So the congressman called him Ulysses S. Grant.
+	- The middle initial "S" became official. Years later, Grant joked that it did not mean anything.
+	- During the Civil War, however, Grant's middle name did come to have a popular meaning. In a famous battle in the state of Tennessee, Grant's army overpowered their opponents.
+	  The Confederate general sent a note asking for the terms of surrender -- in other words, what would the Union army require of them if they withdrew from the battle?
+	- General Grant replied: "No terms except unconditional and immediate surrender."
+	- The answer did not please the Confederate general, but he agreed.
+	- In the North, people celebrated the victory. They began saying Grant's first two initials stood for "Unconditional Surrender."
+	- ## Early life
+	- Grant was born in the state of Ohio. He was the oldest of six children.
+	- Grant's father worked as a tanner – a person who makes leather from animal skin.
+	- As a boy, Grant helped his father. But he did not like the work. He said he would not do it when he was an adult.
+	- So, when Grant was a young man, his father asked West Point officials to admit his son as a student. The Grants had little money to pay for the boy's college education. But they knew he was intelligent and skilled, and West Point was free. In exchange for their education, West Point graduates serve in the military.
+	- Grant probably did not seem like a soldier. He was quiet and sensitive. He hated seeing men die in battle, and he questioned the value of war.
+	- But he turned out to be an excellent military leader. After he graduated from West Point, he fought in the Mexican War and earned medals for bravery. He was given more power and added responsibilities.
+	- However, Grant was lonely. Early in his career, he married Julia Dent, the sister of a college friend. He was devoted to Julia and their four children.
+	- But his family could not come with Grant on all his deployments for the military. They were separated for years at a time.
+	- Without his family nearby, Grant began having problems with money. Some people said he also drank too much alcohol.
+	- One day, Grant resigned from the army.
+	- He returned home to his family. At first, he tried to farm, but he could not make enough money. Then he tried other jobs.
+	- Finally, he asked his father for help. His father gave him a job, but it was the one the young Grant swore he never wanted: working in a leather shop.
+	- ## Civil War
+	- Then things took a surprising turn. The Civil War began. The Union needed experienced military leaders.
+	- Grant accepted a position leading a difficult group of troops. He was able to train them and earn their respect.
+	- Quickly, Grant's public image as a military leader grew. He won major victories for the Union in battles at Fort Donelson, Tennessee, and Vicksburg, Mississippi.
+	- The president at the time, Abraham Lincoln, liked the way Grant planned the battles. He also liked that Grant did everything he could to win. Grant permitted so many of his soldiers to die that his critics gave him a nickname: The Butcher.
+	- Grant's methods were harsh, but effective. The Civil War effectively ended when the famous Confederate general Robert E. Lee surrendered to Grant at Appomattox Court House, Virginia.
+	- The following year, Grant was named general of the U.S. armies. The only other person to hold that position was the military leader during the Revolutionary War, George Washington.
+	- ## Presidency
+	- Like George Washington, Grant became president although he did not really seek the position.
+	- But Republican Party leaders realized that the former general was very popular. And they knew that Grant opposed the policies of the president at the time, Andrew Johnson.
+	- So the Republicans nominated Grant as their candidate in 1868. He won easily.
+	- But Grant's popularity and ability as a military leader did not make him a successful president.
+	- Grant tried to work for the political and civil rights of African-Americans, many of whom had been enslaved. One of Grant's most important acts was to support the 15th Amendment to the U.S. Constitution. The measure gave African-American men the right to vote.
+	- At the same time, Grant tried to give states control over their own laws. So, sometimes he used the power of the federal government to protect the rights of African-Americans. And he sometimes let states use violence to prevent African-Americans from exercising their rights.
+	- Grant also spoke about treating Native Americans with greater respect. He used government resources to help native people become farmers.
+	- But other government policies helped white settlers continue to push tribes off their lands.
+	- Few Native Americans saw their lives really improve under Grant.
+	- Finally, his administration suffered because of corrupt government officials. Grant himself did not get rich from their actions. But he remained loyal to people who worked for him, even when they profited from their position.
+	- As a result of all this, many Americans lost interest in Reconstruction and lost faith in the federal government.
+	- But Grant himself remained popular. He won a second term more easily than the first.
+	- Shortly after, the country entered a bad economic depression. Grant tried to improve the situation by supporting the gold standard. But many Americans – of all backgrounds – continued to suffer.
+	- ## Legacy
+	- Because of the problems in his government, Grant is not remembered as one of the country's best presidents.
+	- But he is remembered as a war hero and as a kind-hearted man with an interesting life.
+	- In his last months, Grant worked nearly nonstop on writing his memoirs. Final images show him, covered in a blanket and with a pen in his hand, diligently working.
+	- Grant died in 1885, a few days after the book was finished. It was a major success. It earned enough money to provide for his family for the rest of their lives.
+	- People across the country mourned the loss of Grant. More than a million and a half watched his funeral parade in New York City. He is buried there, along with his beloved wife, in a well-known memorial popularly called Grant's Tomb.

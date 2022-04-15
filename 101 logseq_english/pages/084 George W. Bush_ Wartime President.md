@@ -1,0 +1,91 @@
+title:: 084 George W. Bush: Wartime President
+
+- ## George W. Bush: Wartime President
+- ## pure
+  collapsed:: true
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about George Walker Bush. He took office in 2001 as the 43rd president.
+	  He has a similar name to another president -- his father, George Herbert Walker Bush.
+	- To simplify things, Americans sometimes call the younger Bush "43," or simply "W." Here we will just call him Bush.
+	- Because Bush is a recent president, historians have not reached a broad agreement on his time as a leader.
+	- But he will surely be remembered for facing one of the biggest challenges to any president: the attacks against the U.S. on September 11, 2001.
+	- ## Early life
+	- George Bush was born in the northeast state of Connecticut. But his parents soon moved to the southwest state of Texas. George grew up there and considered Texas home.
+	- The Bush family had a long background in politics. Bush's grandfather was a senator. His father held many public offices. In some ways, George was prepared for a career in politics, too.
+	- He went to the same private boarding school as his father. Then, like his father and grandfather, George went to Yale for college. He also worked on several political campaigns. But he said he did not consider pursuing politics.
+	- Instead, he earned a degree in business at Harvard and took a job in an oil company in Texas. In time, he founded his own oil business.
+	- And he married Laura Welch, who was a teacher and librarian in their hometown. They had twin daughters named Barbara and Jenna.
+	- In these years as a young adult, Bush began to make some changes. He began attending a Christian church regularly. He decided to stop drinking alcohol because it was creating problems in his personal life. And he turned his attention to politics.
+	- Bush lost the first election in which he competed, a race to become a member of Congress. So, for a while, he focused on business investments and helping his father's political career.
+	- But in 1992, his father lost re-election to the presidency. And the younger Bush saw a chance to enter politics himself again. In 1994, Bush ran for governor of Texas. To many people's surprise, he won.
+	- Four years later, he was overwhelmingly re-elected. Many voters liked his image as, what he called, a "compassionate conservative." In other words, he wanted to use traditional Republican ideas about government to help society.
+	- Following two successful terms as governor, Bush turned his attention to the presidency. In 2000, he competed against the vice president at the time, Al Gore. The winner was not announced until more than a month following the election – usually, the winner is announced within hours.
+	- Both sides disputed the process of counting votes in the state of Florida. Finally, the U.S. Supreme Court ruled on the process. The Court ordered state officials to stop re-counting votes. Bush's lead stood.
+	- ## Presidency
+	- Bush entered office expecting to bring many of the ideas he pursued in Texas to the entire nation. For example, as president he permitted religious groups to receive government funding, and set national standards for public schools.
+	- These moves were popular with many voters. But they also challenged some American traditions: the separation of church and state, and the ability of public schools to govern themselves.
+	- For many presidents, these policies might have created a legacy. But early in Bush's term, he faced a crisis that defined much of his time in office.
+	- Hijackers linked to the al-Qaeda group seized four airplanes on September 11, 2001. They purposely crashed two planes into the twin towers of the World Trade Center in New York City, eventually killing more than 2,700 people.
+	- Another plane was flown into the Pentagon, the country's military headquarters outside of Washington, DC. About 200 people died there.
+	- The fourth plane was aimed at another important target. But passengers fought the hijackers. The plane lost control and crashed in a field in Pennsylvania. All 44 people on board died there.
+	- President Bush was visiting an elementary school in Florida that morning. He learned about the attacks while he was reading with the children.
+	- At the end of the day, Bush spoke to the nation. He said the U.S. would answer both the terrorist groups and the countries that permitted terrorist groups to thrive.
+	- Over the next years, Bush took a number of actions to create a new national security strategy. They included creating a Department of Homeland Security, making changes to the country's intelligence operations, and reforming the U.S. military.
+	- He also sent U.S. forces into Afghanistan to destroy terrorist networks there. Bush was especially targeting the person who had designed the September 11 terrorist attacks, Osama bin Laden.
+	- The struggle in Afghanistan was successful at first, but continued throughout Bush's time in office. And bin Laden was not captured while Bush was president.
+	- In 2003, Bush opened another front on what some called the "war on terror." He and other government officials said the leader of Iraq, Saddam Hussein, was developing weapons that could kill many people. They said Hussein – and his connections to terrorist groups – threatened Americans and people in other countries.
+	- Hussein did not agree to leave Iraq. So U.S. and British forces launched bombs at targets in the country's capital. Additional troops destroyed what was left of the targets. Hussein was quickly overthrown.
+	- But the weapons of mass destruction were not found.
+	- For the rest of Bush's presidency, U.S. forces remained in Iraq. Bush promised that Americans would stabilize the country and help Iraqis create a democratic government.
+	- ## Legacy
+	- The presidency of George W. Bush is too recent to understand its impact. But there is some evidence of the public's reaction at the time.
+	- Bush received some of the highest ratings of any president. In the weeks following the September 11 attacks, 90 percent approved of his leadership.
+	- He was re-elected in 2004. But his popularity steadily decreased .
+	- At the end of his second term, he had one of the lowest public approval ratings of any president: 33 percent.
+	- The U.S. economy had entered a recession. More Americans disagreed especially with his decision to invade Iraq. And some criticized his government for responding too slowly after Hurricane Katrina struck New Orleans and the country's Gulf Coast.
+	- Since Bush left the White House in 2009, his approval ratings have – like those of many presidents – risen again. He has mostly avoided public appearances. Instead, he has enjoyed playing sports, helping charities, and reading U.S. history.
+	- He also began a new hobby: painting. He has created portraits of dozens of veterans to honor their service in the military.
+- ---
+- ## def
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about George Walker Bush. He took office in 2001 as the 43rd president.
+	  He has a similar name to another president -- his father, George Herbert Walker Bush.
+	- To simplify things, Americans sometimes call the younger Bush "43," or simply "W." Here we will just call him Bush.
+	- Because Bush is a recent president, historians have not reached a broad agreement on his time as a leader.
+	- But he will surely be remembered for facing one of the biggest challenges to any president: the attacks against the U.S. on September 11, 2001.
+	- ## Early life
+	- George Bush was born in the northeast state of Connecticut. But his parents soon moved to the southwest state of Texas. George grew up there and considered Texas home.
+	- The Bush family had a long background in politics. Bush's grandfather was a senator. His father held many public offices. In some ways, George was prepared for a career in politics, too.
+	- He went to the same private boarding school as his father. Then, like his father and grandfather, George went to Yale for college. He also worked on several political campaigns. But he said he did not consider pursuing politics.
+	- Instead, he earned a degree in business at Harvard and took a job in an oil company in Texas. In time, he founded his own oil business.
+	- And he married Laura Welch, who was a teacher and librarian in their hometown. They had twin daughters named Barbara and Jenna.
+	- In these years as a young adult, Bush began to make some changes. He began attending a Christian church regularly. He decided to stop drinking alcohol because it was creating problems in his personal life. And he turned his attention to politics.
+	- Bush lost the first election in which he competed, a race to become a member of Congress. So, for a while, he focused on business investments and helping his father's political career.
+	- But in 1992, his father lost re-election to the presidency. And the younger Bush saw a chance to enter politics himself again. In 1994, Bush ran for governor of Texas. To many people's surprise, he won.
+	- Four years later, he was overwhelmingly re-elected. Many voters liked his image as, what he called, a "compassionate conservative." In other words, he wanted to use traditional Republican ideas about government to help society.
+	- Following two successful terms as governor, Bush turned his attention to the presidency. In 2000, he competed against the vice president at the time, Al Gore. The winner was not announced until more than a month following the election – usually, the winner is announced within hours.
+	- Both sides disputed the process of counting votes in the state of Florida. Finally, the U.S. Supreme Court ruled on the process. The Court ordered state officials to stop re-counting votes. Bush's lead stood.
+	- ## Presidency
+	- Bush entered office expecting to bring many of the ideas he pursued in Texas to the entire nation. For example, as president he permitted religious groups to receive government funding, and set national standards for public schools.
+	- These moves were popular with many voters. But they also challenged some American traditions: the separation of church and state, and the ability of public schools to govern themselves.
+	- For many presidents, these policies might have created a legacy. But early in Bush's term, he faced a crisis that defined much of his time in office.
+	- Hijackers linked to the al-Qaeda group seized four airplanes on September 11, 2001. They purposely crashed two planes into the twin towers of the World Trade Center in New York City, eventually killing more than 2,700 people.
+	- Another plane was flown into the Pentagon, the country's military headquarters outside of Washington, DC. About 200 people died there.
+	- The fourth plane was aimed at another important target. But passengers fought the hijackers. The plane lost control and crashed in a field in Pennsylvania. All 44 people on board died there.
+	- President Bush was visiting an elementary school in Florida that morning. He learned about the attacks while he was reading with the children.
+	- At the end of the day, Bush spoke to the nation. He said the U.S. would answer both the terrorist groups and the countries that permitted terrorist groups to thrive.
+	- Over the next years, Bush took a number of actions to create a new national security strategy. They included creating a Department of Homeland Security, making changes to the country's intelligence operations, and reforming the U.S. military.
+	- He also sent U.S. forces into Afghanistan to destroy terrorist networks there. Bush was especially targeting the person who had designed the September 11 terrorist attacks, Osama bin Laden.
+	- The struggle in Afghanistan was successful at first, but continued throughout Bush's time in office. And bin Laden was not captured while Bush was president.
+	- In 2003, Bush opened another front on what some called the "war on terror." He and other government officials said the leader of Iraq, Saddam Hussein, was developing weapons that could kill many people. They said Hussein – and his connections to terrorist groups – threatened Americans and people in other countries.
+	- Hussein did not agree to leave Iraq. So U.S. and British forces launched bombs at targets in the country's capital. Additional troops destroyed what was left of the targets. Hussein was quickly overthrown.
+	- But the weapons of mass destruction were not found.
+	- For the rest of Bush's presidency, U.S. forces remained in Iraq. Bush promised that Americans would stabilize the country and help Iraqis create a democratic government.
+	- ## Legacy
+	- The presidency of George W. Bush is too recent to understand its impact. But there is some evidence of the public's reaction at the time.
+	- Bush received some of the highest ratings of any president. In the weeks following the September 11 attacks, 90 percent approved of his leadership.
+	- He was re-elected in 2004. But his popularity steadily decreased .
+	- At the end of his second term, he had one of the lowest public approval ratings of any president: 33 percent.
+	- The U.S. economy had entered a recession. More Americans disagreed especially with his decision to invade Iraq. And some criticized his government for responding too slowly after Hurricane Katrina struck New Orleans and the country's Gulf Coast.
+	- Since Bush left the White House in 2009, his approval ratings have – like those of many presidents – risen again. He has mostly avoided public appearances. Instead, he has enjoyed playing sports, helping charities, and reading U.S. history.
+	- He also began a new hobby: painting. He has created portraits of dozens of veterans to honor their service in the military.

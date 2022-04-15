@@ -1,0 +1,132 @@
+-
+- ## Abraham Lincoln: Martyr (Part Three)
+- ## pure
+  collapsed:: true
+	- VOA Learning English presents America's Presidents.
+	- Today we will finish our story about Abraham Lincoln.
+	- He led the United States during the Civil War. That conflict lasted from 1861 to 1865. In it, the southern states of the Confederacy battled the Northern states of the Union.
+	- As a wartime president, Lincoln was known for several things. He was actively involved in plotting the military campaign. When Lincoln was unhappy with the performance of his top generals, he dismissed them.
+	- He also greatly increased the power of the presidency, even beyond what the U.S. Constitution permitted.
+	- And, Lincoln struck at the issue at the heart of the Civil War: slavery. He ordered that enslaved people in the Confederate states be "forever free."
+	- His order is called the Emancipation Proclamation.
+	- ## Gettysburg
+	- Seven months after the Emancipation Proclamation went into effect, the Confederacy and the Union clashed in the bloodiest battle of the Civil War.
+	- The army of Confederate General Robert E. Lee was on the offensive. Lee planned to move the fighting out of the South and invade the North. He won a major victory against Union forces at Chancellorsville, Virginia. Then he pushed across Maryland and into Pennsylvania.
+	- A Union army, led by General George Meade, met Lee's troops near a small, crossroads town called Gettysburg.
+	- In the first days of July 1863 – a little more than two years after the start of the Civil War – Confederate and Union troops each struggled to claim the territory. Both sides suffered massive casualties.
+	- But Lee believed Confederate troops were close to winning, and that Meade had spread his soldiers thin. So, on the third day of fighting, he ordered a direct attack on Union forces. Lee's soldiers aimed at the center of the Union line, positioned behind stone walls at the top of a ridge, or raised area.
+	- Confederates first used cannons to fire artillery at the ridge.
+	- Then about 15,000 Confederate soldiers began marching across more than a kilometer of an open field. The Union soldiers behind the walls fired on them.
+	- At the same time, more Union forces attacked the Confederate soldiers on the left and right.
+	- In half an hour, three-quarters of the soldiers in the open field had been killed or wounded.
+	- Thousands more on each side also died.
+	- The surviving Confederate forces quickly withdrew and waited for Meade to attack again. But, much to Lincoln's dissatisfaction, he did not.
+	- The following morning, Lee led the survivors back to Virginia. He left behind 28,000 soldiers dead, wounded or missing, more than one-third of his total army.
+	- The Union had suffered 23,000 casualties, almost as many.
+	- ## Gettysburg Address
+	- The Battle of Gettysburg is important in American history for several reasons. One is the large number of killed and wounded soldiers – the largest until World War II in the 20th century.
+	- Another reason is because it was a turning point in the war. It ended Lee's invasion of the North and weakened his army permanently.
+	- Over the same days, Union troops won another major victory under General Ulysses S. Grant in the southern city of Vicksburg, Mississippi.
+	- The battles at Vicksburg and Gettysburg began to turn the conflict to the Union's favor.
+	- Finally, the Battle of Gettysburg is almost always linked to a speech Lincoln gave there, known as the Gettysburg Address. It is only about 270 words long. But it is one of the most famous speeches in American history.
+	- Lincoln spoke at the opening of a cemetery for all the soldiers who had died at Gettysburg. But he also used the event to speak to the entire country about the war.
+	- He said the conflict was a test of whether the American form of government could survive. That is, a "government of the people, by the people, for the people."
+	- He also pointed to the Declaration of Independence as the country's founding document. He said the nation had been "conceived in liberty." And, he said, it was dedicated to the idea that "all men are created equal."
+	- Historians have noted that, in the speech, Lincoln changed the reasoning behind the war effort. It continued to be a struggle to reunite the country. But after the Gettysburg Address, it was also more clearly a struggle to free enslaved people.
+	- ## Surrender at Appomattox Courthouse
+	- In 1864, Lincoln won re-election to a second term as president. His new vice president was Senator Andrew Johnson from the Southern state of Tennessee.
+	- At the swearing-in ceremony, the president spoke about the need for the North and South to come together again peacefully.
+	- In that speech, his famous Second Inaugural, Lincoln called on all Americans to finish the war. He urged them to care for the wounded, the wives and children of soldiers killed in battle, and to seek a "just and lasting peace."
+	- Most importantly, Lincoln asked Americans to reunite "with malice toward none, with charity for all." In other words, with respect and kindness.
+	- A few weeks later, the war effectively ended.
+	- Lincoln's military plan had worked. He had finally found two generals whom he trusted: Ulysses S. Grant and William T. Sherman.
+	- Sherman led a campaign across the southern states. His path through Georgia, from the city of Atlanta to the city of Savannah, was known as Sherman's March to the Sea. The march destroyed farms and houses along the way. The destruction was terrible. It was also effective. The Confederate Army was left with little food or communication.
+	- At the same time, Grant surrounded Lee's army in Virginia. Grant cut these Southern troops off from supplies, too.
+	- Lee realized he must surrender to Grant – although, he said, he "would rather die a thousand deaths."
+	- The two men met on April 9, 1865 at a farmhouse in the town of Appomattox Court House, Virginia. Lee famously wore his finest military uniform and sword. Grant famously wore his fighting clothes, still marked with mud.
+	- Lee and Grant spoke briefly, then Grant wrote the terms of surrender. As Lincoln had asked, the terms were respectful and generous. Lee's officers were free to keep their horses and their weapons, and the Union army would give the Confederate soldiers food.
+	- When some Union troops began to play a victory song, Grant told them to stop. "The war is over," he said. "The rebels are our countrymen again."
+	- ## Ford's Theater
+	- Five days after Lee surrendered, Lincoln and his wife Mary went to a theater in Washington, DC.
+	- To put it mildly, the last years had been very difficult for them. While Lincoln was supervising the war effort, both his third and fourth son became sick with typhoid. The younger boy recovered. The older did not. Willie Lincoln died in the White House at age 11.
+	- Mary and Abraham Lincoln were crushed. Mary Lincoln blamed herself; she believed God was punishing her. In their own ways, the Lincolns continued to mourn in the years after Willie's death.
+	- At one point, Lincoln said he hoped he and Mary could feel happier. He urged them to have some pleasant times together.
+	- So, with the war coming to an end, they went to a light-hearted play at Ford's Theater. It was the night of Friday, April 14, 1865 – a day that Christians were marking that year as Good Friday, the anniversary of Jesus' death.
+	- The theater was not far from the White House. The Lincolns had seats in a box high above the stage.
+	- Toward the end of the performance, a man entered their box and shot Abraham Lincoln in the back of the head.
+	- Then the gunman jumped to the stage, breaking his leg as he landed. He called out a Latin expression, "Sic semper Tyrranis!" It means "Thus always to tyrants."
+	- Some observers say the man added, "The South is avenged."
+	- The gunman was a southerner named John Wilkes Booth. He had plotted to kill the president after hearing Lincoln support voting rights for African-Americans.
+	- Booth briefly escaped, but was later captured and hanged.
+	- Lincoln was taken to a nearby boardinghouse. He seemed lifeless and could hardly breathe. Doctors examined him but found they could not save him.
+	- Lincoln died the following morning. He was 56 years old.
+	- The emotions of many Americans changed from joy at the coming end of the Civil War to shock and mourning. Thousands lined up along railroad tracks as Lincoln's body made its way from Washington, DC to his home in Illinois.
+	- Even many Southerners mourned Lincoln's death. They understood that he would treat them kindly when the country was reunited.
+	- A little more than six weeks after Lincoln's assassination, the last Confederate army surrendered, and the war was considered officially over.
+	- The country was reunited and the process of legally freeing enslaved people had begun.
+	- Although these acts are tremendous parts of Lincoln's legacy, in time his public image would grow only larger and more celebrated. As one witness to Lincoln's death reportedly said, "Now he belongs to the ages."
+- ---
+- ## def
+	- VOA Learning English presents America's Presidents.
+	- Today we will finish our story about Abraham Lincoln.
+	- He led the United States during the Civil War. That conflict lasted from 1861 to 1865. In it, the southern states of the Confederacy battled the Northern states of the Union.
+	- As a wartime president, Lincoln was known for several things. He was actively involved in plotting the military campaign. When Lincoln was unhappy with the performance of his top generals, he dismissed them.
+	- He also greatly increased the power of the presidency, even beyond what the U.S. Constitution permitted.
+	- And, Lincoln struck at the issue at the heart of the Civil War: slavery. He ordered that enslaved people in the Confederate states be "forever free."
+	- His order is called the Emancipation Proclamation.
+	- ## Gettysburg
+	- Seven months after the Emancipation Proclamation went into effect, the Confederacy and the Union clashed in the bloodiest battle of the Civil War.
+	- The army of Confederate General Robert E. Lee was on the offensive. Lee planned to move the fighting out of the South and invade the North. He won a major victory against Union forces at Chancellorsville, Virginia. Then he pushed across Maryland and into Pennsylvania.
+	- A Union army, led by General George Meade, met Lee's troops near a small, crossroads town called Gettysburg.
+	- In the first days of July 1863 – a little more than two years after the start of the Civil War – Confederate and Union troops each struggled to claim the territory. Both sides suffered massive casualties.
+	- But Lee believed Confederate troops were close to winning, and that Meade had spread his soldiers thin. So, on the third day of fighting, he ordered a direct attack on Union forces. Lee's soldiers aimed at the center of the Union line, positioned behind stone walls at the top of a ridge, or raised area.
+	- Confederates first used cannons to fire artillery at the ridge.
+	- Then about 15,000 Confederate soldiers began marching across more than a kilometer of an open field. The Union soldiers behind the walls fired on them.
+	- At the same time, more Union forces attacked the Confederate soldiers on the left and right.
+	- In half an hour, three-quarters of the soldiers in the open field had been killed or wounded.
+	- Thousands more on each side also died.
+	- The surviving Confederate forces quickly withdrew and waited for Meade to attack again. But, much to Lincoln's dissatisfaction, he did not.
+	- The following morning, Lee led the survivors back to Virginia. He left behind 28,000 soldiers dead, wounded or missing, more than one-third of his total army.
+	- The Union had suffered 23,000 casualties, almost as many.
+	- ## Gettysburg Address
+	- The Battle of Gettysburg is important in American history for several reasons. One is the large number of killed and wounded soldiers – the largest until World War II in the 20th century.
+	- Another reason is because it was a turning point in the war. It ended Lee's invasion of the North and weakened his army permanently.
+	- Over the same days, Union troops won another major victory under General Ulysses S. Grant in the southern city of Vicksburg, Mississippi.
+	- The battles at Vicksburg and Gettysburg began to turn the conflict to the Union's favor.
+	- Finally, the Battle of Gettysburg is almost always linked to a speech Lincoln gave there, known as the Gettysburg Address. It is only about 270 words long. But it is one of the most famous speeches in American history.
+	- Lincoln spoke at the opening of a cemetery for all the soldiers who had died at Gettysburg. But he also used the event to speak to the entire country about the war.
+	- He said the conflict was a test of whether the American form of government could survive. That is, a "government of the people, by the people, for the people."
+	- He also pointed to the Declaration of Independence as the country's founding document. He said the nation had been "conceived in liberty." And, he said, it was dedicated to the idea that "all men are created equal."
+	- Historians have noted that, in the speech, Lincoln changed the reasoning behind the war effort. It continued to be a struggle to reunite the country. But after the Gettysburg Address, it was also more clearly a struggle to free enslaved people.
+	- ## Surrender at Appomattox Courthouse
+	- In 1864, Lincoln won re-election to a second term as president. His new vice president was Senator Andrew Johnson from the Southern state of Tennessee.
+	- At the swearing-in ceremony, the president spoke about the need for the North and South to come together again peacefully.
+	- In that speech, his famous Second Inaugural, Lincoln called on all Americans to finish the war. He urged them to care for the wounded, the wives and children of soldiers killed in battle, and to seek a "just and lasting peace."
+	- Most importantly, Lincoln asked Americans to reunite "with malice toward none, with charity for all." In other words, with respect and kindness.
+	- A few weeks later, the war effectively ended.
+	- Lincoln's military plan had worked. He had finally found two generals whom he trusted: Ulysses S. Grant and William T. Sherman.
+	- Sherman led a campaign across the southern states. His path through Georgia, from the city of Atlanta to the city of Savannah, was known as Sherman's March to the Sea. The march destroyed farms and houses along the way. The destruction was terrible. It was also effective. The Confederate Army was left with little food or communication.
+	- At the same time, Grant surrounded Lee's army in Virginia. Grant cut these Southern troops off from supplies, too.
+	- Lee realized he must surrender to Grant – although, he said, he "would rather die a thousand deaths."
+	- The two men met on April 9, 1865 at a farmhouse in the town of Appomattox Court House, Virginia. Lee famously wore his finest military uniform and sword. Grant famously wore his fighting clothes, still marked with mud.
+	- Lee and Grant spoke briefly, then Grant wrote the terms of surrender. As Lincoln had asked, the terms were respectful and generous. Lee's officers were free to keep their horses and their weapons, and the Union army would give the Confederate soldiers food.
+	- When some Union troops began to play a victory song, Grant told them to stop. "The war is over," he said. "The rebels are our countrymen again."
+	- ## Ford's Theater
+	- Five days after Lee surrendered, Lincoln and his wife Mary went to a theater in Washington, DC.
+	- To put it mildly, the last years had been very difficult for them. While Lincoln was supervising the war effort, both his third and fourth son became sick with typhoid. The younger boy recovered. The older did not. Willie Lincoln died in the White House at age 11.
+	- Mary and Abraham Lincoln were crushed. Mary Lincoln blamed herself; she believed God was punishing her. In their own ways, the Lincolns continued to mourn in the years after Willie's death.
+	- At one point, Lincoln said he hoped he and Mary could feel happier. He urged them to have some pleasant times together.
+	- So, with the war coming to an end, they went to a light-hearted play at Ford's Theater. It was the night of Friday, April 14, 1865 – a day that Christians were marking that year as Good Friday, the anniversary of Jesus' death.
+	- The theater was not far from the White House. The Lincolns had seats in a box high above the stage.
+	- Toward the end of the performance, a man entered their box and shot Abraham Lincoln in the back of the head.
+	- Then the gunman jumped to the stage, breaking his leg as he landed. He called out a Latin expression, "Sic semper Tyrranis!" It means "Thus always to tyrants."
+	- Some observers say the man added, "The South is avenged."
+	- The gunman was a southerner named John Wilkes Booth. He had plotted to kill the president after hearing Lincoln support voting rights for African-Americans.
+	- Booth briefly escaped, but was later captured and hanged.
+	- Lincoln was taken to a nearby boardinghouse. He seemed lifeless and could hardly breathe. Doctors examined him but found they could not save him.
+	- Lincoln died the following morning. He was 56 years old.
+	- The emotions of many Americans changed from joy at the coming end of the Civil War to shock and mourning. Thousands lined up along railroad tracks as Lincoln's body made its way from Washington, DC to his home in Illinois.
+	- Even many Southerners mourned Lincoln's death. They understood that he would treat them kindly when the country was reunited.
+	- A little more than six weeks after Lincoln's assassination, the last Confederate army surrendered, and the war was considered officially over.
+	- The country was reunited and the process of legally freeing enslaved people had begun.
+	- Although these acts are tremendous parts of Lincoln's legacy, in time his public image would grow only larger and more celebrated. As one witness to Lincoln's death reportedly said, "Now he belongs to the ages."

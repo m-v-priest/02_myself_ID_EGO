@@ -1,0 +1,101 @@
+title:: 064 Grover Cleveland: Repeated
+
+- ## 064 Grover Cleveland: Repeated
+- ## pure
+  collapsed:: true
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about Grover Cleveland. When Americans remember him, it is mostly because he makes writing presidential timelines difficult. Cleveland was the nation's 22nd president, and also its 24th.
+	- He remains the only U.S. president to date whose second term did not immediately follow the first.
+	- Cleveland is also notable because of his personal life, and because he held office during one of the country's worst economic crises.
+	- ## Early life
+	- Stephen Grover Cleveland was born in the northeastern state of New Jersey and grew up mostly in New York. He was a middle child in a family of nine children. His father was a minister, and the family did not have much money.
+	- As a result, Cleveland had little formal education. He was one of the few presidents who did not go to college. But he was able to become a lawyer. He earned enough money and developed a good professional image.
+	- In time, he became a sheriff, a mayor, and the governor of the state of New York.
+	- In his early life, Cleveland did not marry and have children. Instead, he had many friends, with whom he enjoyed hunting, fishing, and eating and drinking in restaurants.
+	- But Cleveland did have a relationship with a widow named Maria Halpin. She became pregnant and said Cleveland was the baby's father.
+	- Cleveland said he was not sure if he was. However, he gave the child some financial support, the name of one of his closest friends, and his own family name. The child was called Oscar Folsom Cleveland.
+	- Shortly after the boy was born, his mother was sent to an institution for the mentally unstable. Doctors quickly confirmed that her mental health was fine, but her son was taken from her and raised by another family.
+	- The story about Halpin and the child became an issue in the election of 1884. The Democratic Party had nominated Cleveland as their candidate for president.
+	- In general, voters liked his message of limiting federal spending, reducing the power of wealthy interests, and stopping political corruption. Some called him "Grover the Good."
+	- But Cleveland's opponents said his history with Maria Halpin showed that he was an immoral man. At anti-Cleveland rallies, Republicans chanted, "Ma, ma, where's my Pa?" Pa is another word for father.
+	- But Cleveland did not comment much on the matter. His defenders said Cleveland's honesty as a public official was more important than his bad judgment as a private citizen.
+	- Voters seemed to agree. Cleveland narrowly won the election. His supporters answered the Republicans' chants of "where's my Pa?" by saying, "Gone to the White House, ha, ha, ha!"
+	- ## First presidential term
+	- Grover Cleveland's presidency was unusual because he did not want to use the office to propose laws. Instead, he mostly aimed to keep the federal government operating efficiently. He also wanted to limit lawmakers' power to help special interest groups.
+	- As a result, Cleveland vetoed many bills in his first term. He set a record at that time for saying no to proposals from Congress.
+	- One of the few ideas that he supported was reducing tariffs.
+	- Many of his fellow Democrats liked that idea, too. But a number of Republicans did not. In the next election, their candidate, Benjamin Harrison, defeated Cleveland.
+	- Cleveland returned to being a lawyer in New York.
+	- In 1892, Cleveland was chosen to run against Benjamin Harrison again. The tariff issue returned: the Republicans' protective tariffs had hurt some industries, and voters answered this time by voting Harrison out of office.
+	- Cleveland returned to the White House. But this time he was not alone.
+	- ## White House Wedding
+	- Two years into his first term as president, Cleveland married the daughter of his close friend, Oscar Folsom.
+	- The bride's name was Frances Folsom. She was 21 years old at the time. The president was 49.
+	- Cleveland was not the first president to get married while in office. But he was the first one to be married in the White House.
+	- The event captivated the public. What's more, Americans adored the new first lady. She was known for being social, charming, and beautiful. Historians conclude that she was the most popular first lady since Dolley Madison. She remains the youngest.
+	- ## Second presidential term
+	- When the Clevelands returned to the White House, the country was entering a severe economic recession. Some of the country's biggest businesses were failing, including a railroad and many banks.
+	- As a result, investors withdrew their money from the stock market. The withdrawal caused many other businesses to fail. The series of events is known as the Panic of 1893.
+	- Soon, more and more Americans were out of work. Many could not afford houses or food. Some begged President Cleveland to intervene. But he declined. He did not think it was the role of the federal government to create jobs in order to reverse the depression.
+	- However, Cleveland did use the power of the federal government to intervene during a famous labor strike. In that event, workers in Chicago who helped keep the trains operating walked out of their jobs. They were protesting a major decrease in their pay that did not include a decrease in their living expenses.
+	- Since the owner of the company also controlled the price of housing and food, workers appealed to him to treat them more fairly. But the company owner refused even to meet with the workers.
+	- Soon, the workers' boycott grew. Workers at other railyards stopped working. Farmers could not get their goods to market, and others could not get the supplies they needed. Even the mail stopped being delivered.
+	- So Cleveland sent federal troops to break the strike.
+	- In the short term, Cleveland's actions worked. The trains moved again, and both the courts and most of the public agreed with the president's decision.
+	- But in the long term, Cleveland's handling of the panic, depression, and workers' strike lost the support of many voters. At the next opportunity, they voted him out of the White House again.
+	- ## Cleveland's Legacy
+	- Cleveland returned to New York, and later settled in a large house in Princeton, New Jersey.
+	- There, he wrote, made speeches, sat on corporate boards, became a trustee of Princeton University and enjoyed the respect of the people who lived in the town.
+	- He died at age 71 of problems with his stomach, heart, and kidneys. Several people said his final words were, "I have tried so hard to do right."
+	- Then and now, many people agreed with that idea. Cleveland was generally an honest man who worked hard and tried to act independently as president.
+	- But he is not considered one of America's best leaders. He did not have a clear idea about how to guide the country.
+	- Yet the opposing party, at least, may have considered Cleveland's presidency a success. After Cleveland's final election defeat, six of the next seven presidents were Republicans.
+- ---
+- ## def
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about Grover Cleveland. When Americans remember him, it is mostly because he makes writing presidential timelines difficult. Cleveland was the nation's 22nd president, and also its 24th.
+	- He remains the only U.S. president to date whose second term did not immediately follow the first.
+	- Cleveland is also notable because of his personal life, and because he held office during one of the country's worst economic crises.
+	- ## Early life
+	- Stephen Grover Cleveland was born in the northeastern state of New Jersey and grew up mostly in New York. He was a middle child in a family of nine children. His father was a minister, and the family did not have much money.
+	- As a result, Cleveland had little formal education. He was one of the few presidents who did not go to college. But he was able to become a lawyer. He earned enough money and developed a good professional image.
+	- In time, he became a sheriff, a mayor, and the governor of the state of New York.
+	- In his early life, Cleveland did not marry and have children. Instead, he had many friends, with whom he enjoyed hunting, fishing, and eating and drinking in restaurants.
+	- But Cleveland did have a relationship with a widow named Maria Halpin. She became pregnant and said Cleveland was the baby's father.
+	- Cleveland said he was not sure if he was. However, he gave the child some financial support, the name of one of his closest friends, and his own family name. The child was called Oscar Folsom Cleveland.
+	- Shortly after the boy was born, his mother was sent to an institution for the mentally unstable. Doctors quickly confirmed that her mental health was fine, but her son was taken from her and raised by another family.
+	- The story about Halpin and the child became an issue in the election of 1884. The Democratic Party had nominated Cleveland as their candidate for president.
+	- In general, voters liked his message of limiting federal spending, reducing the power of wealthy interests, and stopping political corruption. Some called him "Grover the Good."
+	- But Cleveland's opponents said his history with Maria Halpin showed that he was an immoral man. At anti-Cleveland rallies, Republicans chanted, "Ma, ma, where's my Pa?" Pa is another word for father.
+	- But Cleveland did not comment much on the matter. His defenders said Cleveland's honesty as a public official was more important than his bad judgment as a private citizen.
+	- Voters seemed to agree. Cleveland narrowly won the election. His supporters answered the Republicans' chants of "where's my Pa?" by saying, "Gone to the White House, ha, ha, ha!"
+	- ## First presidential term
+	- Grover Cleveland's presidency was unusual because he did not want to use the office to propose laws. Instead, he mostly aimed to keep the federal government operating efficiently. He also wanted to limit lawmakers' power to help special interest groups.
+	- As a result, Cleveland vetoed many bills in his first term. He set a record at that time for saying no to proposals from Congress.
+	- One of the few ideas that he supported was reducing tariffs.
+	- Many of his fellow Democrats liked that idea, too. But a number of Republicans did not. In the next election, their candidate, Benjamin Harrison, defeated Cleveland.
+	- Cleveland returned to being a lawyer in New York.
+	- In 1892, Cleveland was chosen to run against Benjamin Harrison again. The tariff issue returned: the Republicans' protective tariffs had hurt some industries, and voters answered this time by voting Harrison out of office.
+	- Cleveland returned to the White House. But this time he was not alone.
+	- ## White House Wedding
+	- Two years into his first term as president, Cleveland married the daughter of his close friend, Oscar Folsom.
+	- The bride's name was Frances Folsom. She was 21 years old at the time. The president was 49.
+	- Cleveland was not the first president to get married while in office. But he was the first one to be married in the White House.
+	- The event captivated the public. What's more, Americans adored the new first lady. She was known for being social, charming, and beautiful. Historians conclude that she was the most popular first lady since Dolley Madison. She remains the youngest.
+	- ## Second presidential term
+	- When the Clevelands returned to the White House, the country was entering a severe economic recession. Some of the country's biggest businesses were failing, including a railroad and many banks.
+	- As a result, investors withdrew their money from the stock market. The withdrawal caused many other businesses to fail. The series of events is known as the Panic of 1893.
+	- Soon, more and more Americans were out of work. Many could not afford houses or food. Some begged President Cleveland to intervene. But he declined. He did not think it was the role of the federal government to create jobs in order to reverse the depression.
+	- However, Cleveland did use the power of the federal government to intervene during a famous labor strike. In that event, workers in Chicago who helped keep the trains operating walked out of their jobs. They were protesting a major decrease in their pay that did not include a decrease in their living expenses.
+	- Since the owner of the company also controlled the price of housing and food, workers appealed to him to treat them more fairly. But the company owner refused even to meet with the workers.
+	- Soon, the workers' boycott grew. Workers at other railyards stopped working. Farmers could not get their goods to market, and others could not get the supplies they needed. Even the mail stopped being delivered.
+	- So Cleveland sent federal troops to break the strike.
+	- In the short term, Cleveland's actions worked. The trains moved again, and both the courts and most of the public agreed with the president's decision.
+	- But in the long term, Cleveland's handling of the panic, depression, and workers' strike lost the support of many voters. At the next opportunity, they voted him out of the White House again.
+	- ## Cleveland's Legacy
+	- Cleveland returned to New York, and later settled in a large house in Princeton, New Jersey.
+	- There, he wrote, made speeches, sat on corporate boards, became a trustee of Princeton University and enjoyed the respect of the people who lived in the town.
+	- He died at age 71 of problems with his stomach, heart, and kidneys. Several people said his final words were, "I have tried so hard to do right."
+	- Then and now, many people agreed with that idea. Cleveland was generally an honest man who worked hard and tried to act independently as president.
+	- But he is not considered one of America's best leaders. He did not have a clear idea about how to guide the country.
+	- Yet the opposing party, at least, may have considered Cleveland's presidency a success. After Cleveland's final election defeat, six of the next seven presidents were Republicans.

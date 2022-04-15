@@ -1,0 +1,125 @@
+title:: 079 Gerald Ford: Unelected
+
+- ## 079 Gerald Ford: Unelected
+- ## pure
+  collapsed:: true
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about Gerald Ford. Ford was the 38th president, but he was never elected to the position.
+	- Instead, an unusual series of events brought him there.
+	- Many historians have described Ford as a good man facing a difficult situation. He tried to fix a troubled economy, end United States' involvement in Vietnam, and show people that the U.S. government could continue to operate after a crisis.
+	- Critics from the two main political parties had problems with Ford's efforts. And voters did not elect him president when they had the chance in 1976.
+	- But he is remembered in American history for making many voters feel better about their elected officials.
+	- ## Early life
+	- When he was born, the future president was given his father's name: Leslie Lynch King.
+	- But the boy's father was abusive. His mother separated from him a short time after their son was born. She asked a court for permission to cancel their marriage. Her request was quickly approved.
+	- She and the boy moved from the Midwestern state of Nebraska to Michigan. In a few years, the mother married a man named Gerald Ford. The couple had three sons together.
+	- The new family was warm and loving. In time, the oldest boy officially took his step-father's name and became Gerald Rudolph Ford, Junior. He was called Jerry for short.
+	- Growing up, Jerry Ford was a well-liked person and a good student. He was also a top football player. He was named the most valuable player on his team at the University of Michigan. After finishing college, he was offered work with professional football teams.
+	- But Ford wanted to continue his education instead. He accepted coaching positions for the football and boxing teams at Yale University in Connecticut. In time, he attended the law school there.
+	- Ford's path to politics was similar to that of other presidents during that period. He worked at a law office in his home state. He fought in World War II. He married.
+	- Ford's wife was Elizabeth Bloomer. Her friends called her Betty. She had been a dancer and worked as a fashion model. The Fords went on to have four children.
+	- When Gerald Ford was 35 years old, he launched his political career. The Republican Party chose him as its candidate for a seat in the U.S. House of Representatives.
+	- Ford was elected to represent his home area of Grand Rapids, Michigan. But unlike many other politicians, he did not move on to the Senate or become governor of a state. Instead, he stayed in the House of Representatives for 25 years.
+	- The job of congressman was, in many ways, a good choice for Ford. He was well-liked by many voters and other lawmakers. He could help different groups come to agreement. He took increasingly important positions on political issues, and in time became the top person in his party in the House.
+	- Ford was a strong supporter of Republican presidents. In the 1968 election, Ford advocated for Richard Nixon. Ford liked Nixon's plans for the United States, as well as his efforts to improve relations with China and the Soviet Union.
+	- Both Ford and Nixon were re-elected to their positions in 1972.
+	- But by then, major problems had come to light in Nixon's administration.
+	- ## An unusual path to the White House
+	- One problem in the early 1970s related to Nixon's vice president, Spiro Agnew. Agnew had been vice president since 1969. Five years later, officials found evidence that he had accepted money from contractors, both while Maryland's governor and as vice president.
+	- In answer, Agnew resigned from the vice presidency.
+	- Normally, voters elect a vice president along with a president every four years. But by coincidence, the U.S. Constitution had recently been updated to say what happens if the country needs a vice president unexpectedly. It states that the president has to nominate someone for the position. Then, a majority of lawmakers in Congress must agree.
+	- So, in 1973, Nixon nominated Gerald Ford to take Agnew's position. Nixon was not especially close to Ford. But, he knew a majority of lawmakers would likely accept him as vice president.
+	- They did.
+	- However, Ford did not serve in the position long. In eight months, another unexpected event put him in the Oval Office.
+	- ## Presidency
+	- In August 1974, President Richard Nixon resigned from office. He was the first president to do so.
+	- As a result, the vice president, Gerald Ford, became president.
+	- Ford was sworn-in as president on August 9, 1974. Then he spoke to the nation on television. He said, "My fellow Americans, our long national nightmare is over." He told people, "Our Constitution works. Our great republic is a government of laws and not men."
+	- The public had understandably lost a good deal of faith in government officials, and especially in Richard Nixon. Ford wanted to re-establish their trust.
+	- But a few weeks after taking office, Ford used his presidential powers to pardon Nixon. The pardon meant that Nixon would never face a criminal trial or, if found guilty, punishment for his actions.
+	- Ford said he believed pardoning Nixon would help Americans begin to recover from their painful experience with the former president.
+	- But instead, the move angered many people. They believed that Nixon should be held responsible. They also lost some of their trust in Ford.
+	- In addition to these political troubles, Ford faced other difficult issues. The American economy was struggling. His administration had to deal with unemployment, inflation and the lasting effects of an energy crisis. The high price of oil imports came at a time when Americans were using more and more gasoline.
+	- Ford took steps aimed at improving the economy. But critics said he was not consistent. Some criticized him for increasing government spending and cutting taxes; others criticized him for reducing government spending and raising taxes.
+	- Ford also oversaw the withdrawal of Americans from Vietnam. An earlier agreement had brought a ceasefire to groups in South Vietnam, North Vietnam, and Communist forces. The U.S. officially withdrew its combat troops in 1973. But the fighting restarted.
+	- Ford asked Congress to approve military and humanitarian aid for the area. But U.S. lawmakers did not approve the full amount. And in time, they cut military aid.
+	- In 1975, Communist forces began to take control of Saigon, the capital of South Vietnam.
+	- Ford ordered all remaining Americans in the country to leave, along with any South Vietnamese who were connected to the United States.
+	- He said that, as far as Americans were concerned, the Vietnam War was finished.
+	- Americans did not appear to blame Ford for the troubling end of the country's involvement in Vietnam. And some recognized that the country's economic and energy problems had started long before he became president.
+	- But, in general, Ford did not have the support of Congress. And many voters did not forgive him for pardoning Nixon.
+	- In 1976, Ford officially campaigned for president for the first time.
+	- He won his party's nomination in a close race against Ronald Reagan, the former governor of California.
+	- But he lost the general election to the Democratic candidate, who said one of his best qualities was that he did not have experience in the federal government.
+	- The argument appeared persuasive to many voters, who still did not appear to be enthusiastic about the government. In the 1976 election, nearly half of all people who were legally able to vote chose not to.
+	- Ford left the presidency graciously. He said that, because he had not planned to be president, he was thankful for the unexpected opportunity.
+	- ## Legacy
+	- Although Ford said he was ready to retire from politics, he continued to be active in public life. He advised others on government affairs, published books, and sat on boards and committees.
+	- His wife, Betty Ford, also left a lasting effect on the public.
+	- As first lady, she had spoken about her experience with breast cancer.
+	- After her husband left the presidency, she also spoke openly about her battle with alcohol and drug abuse.
+	- In 1982, Betty Ford co-founded the Betty Ford Center in California to help people get treatment for drug addiction.
+	- She announced her husband's death in 2006. Gerald Ford died of heart disease at the age of 93.
+	- By that time, most the public had accepted that one of Ford's biggest achievements was to help the country recover after Nixon resigned. President Bill Clinton gave Ford a Presidential Medal of Freedom for his efforts.
+	- And even Jimmy Carter, who beat Ford in the 1976 presidential election, began his inauguration speech by thanking Ford. Carter said, "For myself and for our Nation, I want to thank my predecessor for all he has done to heal our land."
+- ---
+- ## def
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about Gerald Ford. Ford was the 38th president, but he was never elected to the position.
+	- Instead, an unusual series of events brought him there.
+	- Many historians have described Ford as a good man facing a difficult situation. He tried to fix a troubled economy, end United States' involvement in Vietnam, and show people that the U.S. government could continue to operate after a crisis.
+	- Critics from the two main political parties had problems with Ford's efforts. And voters did not elect him president when they had the chance in 1976.
+	- But he is remembered in American history for making many voters feel better about their elected officials.
+	- ## Early life
+	- When he was born, the future president was given his father's name: Leslie Lynch King.
+	- But the boy's father was abusive. His mother separated from him a short time after their son was born. She asked a court for permission to cancel their marriage. Her request was quickly approved.
+	- She and the boy moved from the Midwestern state of Nebraska to Michigan. In a few years, the mother married a man named Gerald Ford. The couple had three sons together.
+	- The new family was warm and loving. In time, the oldest boy officially took his step-father's name and became Gerald Rudolph Ford, Junior. He was called Jerry for short.
+	- Growing up, Jerry Ford was a well-liked person and a good student. He was also a top football player. He was named the most valuable player on his team at the University of Michigan. After finishing college, he was offered work with professional football teams.
+	- But Ford wanted to continue his education instead. He accepted coaching positions for the football and boxing teams at Yale University in Connecticut. In time, he attended the law school there.
+	- Ford's path to politics was similar to that of other presidents during that period. He worked at a law office in his home state. He fought in World War II. He married.
+	- Ford's wife was Elizabeth Bloomer. Her friends called her Betty. She had been a dancer and worked as a fashion model. The Fords went on to have four children.
+	- When Gerald Ford was 35 years old, he launched his political career. The Republican Party chose him as its candidate for a seat in the U.S. House of Representatives.
+	- Ford was elected to represent his home area of Grand Rapids, Michigan. But unlike many other politicians, he did not move on to the Senate or become governor of a state. Instead, he stayed in the House of Representatives for 25 years.
+	- The job of congressman was, in many ways, a good choice for Ford. He was well-liked by many voters and other lawmakers. He could help different groups come to agreement. He took increasingly important positions on political issues, and in time became the top person in his party in the House.
+	- Ford was a strong supporter of Republican presidents. In the 1968 election, Ford advocated for Richard Nixon. Ford liked Nixon's plans for the United States, as well as his efforts to improve relations with China and the Soviet Union.
+	- Both Ford and Nixon were re-elected to their positions in 1972.
+	- But by then, major problems had come to light in Nixon's administration.
+	- ## An unusual path to the White House
+	- One problem in the early 1970s related to Nixon's vice president, Spiro Agnew. Agnew had been vice president since 1969. Five years later, officials found evidence that he had accepted money from contractors, both while Maryland's governor and as vice president.
+	- In answer, Agnew resigned from the vice presidency.
+	- Normally, voters elect a vice president along with a president every four years. But by coincidence, the U.S. Constitution had recently been updated to say what happens if the country needs a vice president unexpectedly. It states that the president has to nominate someone for the position. Then, a majority of lawmakers in Congress must agree.
+	- So, in 1973, Nixon nominated Gerald Ford to take Agnew's position. Nixon was not especially close to Ford. But, he knew a majority of lawmakers would likely accept him as vice president.
+	- They did.
+	- However, Ford did not serve in the position long. In eight months, another unexpected event put him in the Oval Office.
+	- ## Presidency
+	- In August 1974, President Richard Nixon resigned from office. He was the first president to do so.
+	- As a result, the vice president, Gerald Ford, became president.
+	- Ford was sworn-in as president on August 9, 1974. Then he spoke to the nation on television. He said, "My fellow Americans, our long national nightmare is over." He told people, "Our Constitution works. Our great republic is a government of laws and not men."
+	- The public had understandably lost a good deal of faith in government officials, and especially in Richard Nixon. Ford wanted to re-establish their trust.
+	- But a few weeks after taking office, Ford used his presidential powers to pardon Nixon. The pardon meant that Nixon would never face a criminal trial or, if found guilty, punishment for his actions.
+	- Ford said he believed pardoning Nixon would help Americans begin to recover from their painful experience with the former president.
+	- But instead, the move angered many people. They believed that Nixon should be held responsible. They also lost some of their trust in Ford.
+	- In addition to these political troubles, Ford faced other difficult issues. The American economy was struggling. His administration had to deal with unemployment, inflation and the lasting effects of an energy crisis. The high price of oil imports came at a time when Americans were using more and more gasoline.
+	- Ford took steps aimed at improving the economy. But critics said he was not consistent. Some criticized him for increasing government spending and cutting taxes; others criticized him for reducing government spending and raising taxes.
+	- Ford also oversaw the withdrawal of Americans from Vietnam. An earlier agreement had brought a ceasefire to groups in South Vietnam, North Vietnam, and Communist forces. The U.S. officially withdrew its combat troops in 1973. But the fighting restarted.
+	- Ford asked Congress to approve military and humanitarian aid for the area. But U.S. lawmakers did not approve the full amount. And in time, they cut military aid.
+	- In 1975, Communist forces began to take control of Saigon, the capital of South Vietnam.
+	- Ford ordered all remaining Americans in the country to leave, along with any South Vietnamese who were connected to the United States.
+	- He said that, as far as Americans were concerned, the Vietnam War was finished.
+	- Americans did not appear to blame Ford for the troubling end of the country's involvement in Vietnam. And some recognized that the country's economic and energy problems had started long before he became president.
+	- But, in general, Ford did not have the support of Congress. And many voters did not forgive him for pardoning Nixon.
+	- In 1976, Ford officially campaigned for president for the first time.
+	- He won his party's nomination in a close race against Ronald Reagan, the former governor of California.
+	- But he lost the general election to the Democratic candidate, who said one of his best qualities was that he did not have experience in the federal government.
+	- The argument appeared persuasive to many voters, who still did not appear to be enthusiastic about the government. In the 1976 election, nearly half of all people who were legally able to vote chose not to.
+	- Ford left the presidency graciously. He said that, because he had not planned to be president, he was thankful for the unexpected opportunity.
+	- ## Legacy
+	- Although Ford said he was ready to retire from politics, he continued to be active in public life. He advised others on government affairs, published books, and sat on boards and committees.
+	- His wife, Betty Ford, also left a lasting effect on the public.
+	- As first lady, she had spoken about her experience with breast cancer.
+	- After her husband left the presidency, she also spoke openly about her battle with alcohol and drug abuse.
+	- In 1982, Betty Ford co-founded the Betty Ford Center in California to help people get treatment for drug addiction.
+	- She announced her husband's death in 2006. Gerald Ford died of heart disease at the age of 93.
+	- By that time, most the public had accepted that one of Ford's biggest achievements was to help the country recover after Nixon resigned. President Bill Clinton gave Ford a Presidential Medal of Freedom for his efforts.
+	- And even Jimmy Carter, who beat Ford in the 1976 presidential election, began his inauguration speech by thanking Ford. Carter said, "For myself and for our Nation, I want to thank my predecessor for all he has done to heal our land."

@@ -1,0 +1,85 @@
+title:: 054 Franklin Pierce: Ineffective
+
+- ## 054 Franklin Pierce: Ineffective
+- ## pure
+  collapsed:: true
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about Franklin Pierce, the 14th president of the United States. He took office in 1853 at age 48. At that time, he was the youngest person elected to the White House.
+	- Pierce was known for being social – and for his good looks. But his personal life was full of tragedy, and he was not an effective chief executive.
+	- Over time, he has come to be remembered as one of the country's worst presidents.
+	- ## Early life
+	- Franklin Pierce was born in the northern state of New Hampshire. He was one of eight children.
+	- He attended school regularly as a child, and he went on to Bowdoin College in Maine. There, he developed his skills as an excellent public speaker. He also became an able lawyer.
+	- Pierce's abilities carried him far. But his personal connections helped, too.
+	- His father became the governor of New Hampshire. Shortly after, Pierce was elected to the state legislature. He soon became a member of the U.S. Congress – first as a member of the House of Representatives, and then as a senator.
+	- Several important things happened in Pierce's personal life during those years in Washington, DC. He married Jane Means Appleton. They soon had a son, but the child died after only three days. The couple went on to have two more boys.
+	- In Washington, Franklin Pierce also developed friendships with many people from the South. They defended the right of states to permit slavery. Although he was from the North, Pierce came to share the opinions of his Southern friends. He grew to dislike anti-slavery activists, who were known as abolitionists.
+	- As a politician, Pierce was a member of the Democratic Party and strongly supported the ideas of President Andrew Jackson. But politics did not appeal to his wife. She also did not like her husband's habit of drinking alcohol with his friends. Jane Pierce belonged to the temperance movement, which urged Americans to avoid the use of alcoholic drinks.
+	- So Pierce resigned his job in the Senate and moved back to New Hampshire.
+	- There, he stopped drinking alcohol and earned fame as a lawyer and public speaker. But tragedy struck again: his second son became sick and died.
+	- ## Fainting Frank
+	- Pierce remained active in politics in New Hampshire. He helped the Democratic candidate for president at the time, James K. Polk, win votes in the state.
+	- When Polk entered the White House, he gave Pierce a position as a general in the Mexican-American War.
+	- Pierce did not earn the respect of his troops. In one battle, he passed out after he fell off his horse and crushed his leg. Some of his men, seeing what happened, fled the battlefield. Others called him "Fainting Frank."
+	- Although Pierce had his critics, he returned to New Hampshire as a leader in the state's Democratic Party. Yet no one expected him to become president of the United States.
+	- Pierce's nomination came during the Democratic national convention in 1852. Party leaders could not agree on a candidate. They were split among the three top choices.
+	- So the party turned to Pierce. They liked the fact that he was not well known or had taken any strong positions as a lawmaker. As a result, fewer people could object to him, they reasoned.
+	- Pierce did very little during the election campaign. He did not need to. Many voters, especially in the South, did not like his opponent.
+	- When the election was held, Pierce won easily.
+	- But before he took office, another terrible thing happened. Franklin and Jane Pierce were traveling by train with their youngest son Benjamin, who was 11-years-old. The train went off the rails. Bennie was killed instantly in front of his parents.
+	- Neither Franklin nor Jane Pierce ever really recovered. Jane believed their son's death was a punishment from God for her husband becoming president.
+	- ## Presidency
+	- As president, Pierce faced an extremely difficult situation. The country's ongoing dispute about whether and where to permit slavery was becoming more intense. Under Pierce, the dispute centered on the areas of Kansas and Nebraska.
+	- At the time, both areas were considered territories, not states. And each territory was above the line of the Missouri Compromise of 1820. That act, approved by lawmakers nearly 35 years before Pierce took office, banned slavery in northern areas, including what would become Kansas and Nebraska.
+	- But pro-slavery settlers demanded that Kansas and Nebraska voters – a group comprised of white men – decide the issue for themselves. A majority of U.S. lawmakers agreed.
+	- Under pressure, President Pierce signed the Kansas-Nebraska Act in 1854.
+	- The measure was one of the most important in U.S. history. It overturned the Missouri Compromise and cancelled the ban on slavery. It incited years of intense of violence between pro-slavery and anti-slavery activists. And it pushed a divided nation even further apart.
+	- The troubles also showed Pierce to be an ineffective president. He could not ease the tensions over slavery, nor unite the country behind the Kansas-Nebraska Act.
+	- And he delayed using his power to stop the violence in Kansas until it was far too late.
+	- Finally, his sympathy for pro-slavery groups angered many in the North, including people in his own party.
+	- The Democrats did not nominate him again at the next election.
+	- ## Legacy
+	- After four years as president, Pierce returned to New Hampshire. He rarely socialized and began drinking alcohol again.
+	- After his wife died in 1863, Pierce seemed to disappear from public life. Americans heard little about him until his death in 1869.
+	- But he lived to see the ultimate tragedy of the Civil War that he – like other presidents before him – had failed to prevent.
+- ---
+- ## def
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about Franklin Pierce, the 14th president of the United States. He took office in 1853 at age 48. At that time, he was the youngest person elected to the White House.
+	- Pierce was known for being social – and for his good looks. But his personal life was full of tragedy, and he was not an effective chief executive.
+	- Over time, he has come to be remembered as one of the country's worst presidents.
+	- ## Early life
+	- Franklin Pierce was born in the northern state of New Hampshire. He was one of eight children.
+	- He attended school regularly as a child, and he went on to Bowdoin College in Maine. There, he developed his skills as an excellent public speaker. He also became an able lawyer.
+	- Pierce's abilities carried him far. But his personal connections helped, too.
+	- His father became the governor of New Hampshire. Shortly after, Pierce was elected to the state legislature. He soon became a member of the U.S. Congress – first as a member of the House of Representatives, and then as a senator.
+	- Several important things happened in Pierce's personal life during those years in Washington, DC. He married Jane Means Appleton. They soon had a son, but the child died after only three days. The couple went on to have two more boys.
+	- In Washington, Franklin Pierce also developed friendships with many people from the South. They defended the right of states to permit slavery. Although he was from the North, Pierce came to share the opinions of his Southern friends. He grew to dislike anti-slavery activists, who were known as abolitionists.
+	- As a politician, Pierce was a member of the Democratic Party and strongly supported the ideas of President Andrew Jackson. But politics did not appeal to his wife. She also did not like her husband's habit of drinking alcohol with his friends. Jane Pierce belonged to the temperance movement, which urged Americans to avoid the use of alcoholic drinks.
+	- So Pierce resigned his job in the Senate and moved back to New Hampshire.
+	- There, he stopped drinking alcohol and earned fame as a lawyer and public speaker. But tragedy struck again: his second son became sick and died.
+	- ## Fainting Frank
+	- Pierce remained active in politics in New Hampshire. He helped the Democratic candidate for president at the time, James K. Polk, win votes in the state.
+	- When Polk entered the White House, he gave Pierce a position as a general in the Mexican-American War.
+	- Pierce did not earn the respect of his troops. In one battle, he passed out after he fell off his horse and crushed his leg. Some of his men, seeing what happened, fled the battlefield. Others called him "Fainting Frank."
+	- Although Pierce had his critics, he returned to New Hampshire as a leader in the state's Democratic Party. Yet no one expected him to become president of the United States.
+	- Pierce's nomination came during the Democratic national convention in 1852. Party leaders could not agree on a candidate. They were split among the three top choices.
+	- So the party turned to Pierce. They liked the fact that he was not well known or had taken any strong positions as a lawmaker. As a result, fewer people could object to him, they reasoned.
+	- Pierce did very little during the election campaign. He did not need to. Many voters, especially in the South, did not like his opponent.
+	- When the election was held, Pierce won easily.
+	- But before he took office, another terrible thing happened. Franklin and Jane Pierce were traveling by train with their youngest son Benjamin, who was 11-years-old. The train went off the rails. Bennie was killed instantly in front of his parents.
+	- Neither Franklin nor Jane Pierce ever really recovered. Jane believed their son's death was a punishment from God for her husband becoming president.
+	- ## Presidency
+	- As president, Pierce faced an extremely difficult situation. The country's ongoing dispute about whether and where to permit slavery was becoming more intense. Under Pierce, the dispute centered on the areas of Kansas and Nebraska.
+	- At the time, both areas were considered territories, not states. And each territory was above the line of the Missouri Compromise of 1820. That act, approved by lawmakers nearly 35 years before Pierce took office, banned slavery in northern areas, including what would become Kansas and Nebraska.
+	- But pro-slavery settlers demanded that Kansas and Nebraska voters – a group comprised of white men – decide the issue for themselves. A majority of U.S. lawmakers agreed.
+	- Under pressure, President Pierce signed the Kansas-Nebraska Act in 1854.
+	- The measure was one of the most important in U.S. history. It overturned the Missouri Compromise and cancelled the ban on slavery. It incited years of intense of violence between pro-slavery and anti-slavery activists. And it pushed a divided nation even further apart.
+	- The troubles also showed Pierce to be an ineffective president. He could not ease the tensions over slavery, nor unite the country behind the Kansas-Nebraska Act.
+	- And he delayed using his power to stop the violence in Kansas until it was far too late.
+	- Finally, his sympathy for pro-slavery groups angered many in the North, including people in his own party.
+	- The Democrats did not nominate him again at the next election.
+	- ## Legacy
+	- After four years as president, Pierce returned to New Hampshire. He rarely socialized and began drinking alcohol again.
+	- After his wife died in 1863, Pierce seemed to disappear from public life. Americans heard little about him until his death in 1869.
+	- But he lived to see the ultimate tragedy of the Civil War that he – like other presidents before him – had failed to prevent.

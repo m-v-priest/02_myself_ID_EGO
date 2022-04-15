@@ -1,0 +1,107 @@
+title:: 071 Calvin Coolidge: Silent
+
+- ## 071 Calvin Coolidge: Silent
+- ## pure
+  collapsed:: true
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about Calvin Coolidge. He was the vice president under Warren Harding. When Harding died suddenly a little more than two years into his term, Coolidge became president.
+	- Coolidge is linked to two opposing ideas. The first idea is quiet restraint.
+	- The president's nickname was "Silent Cal." He rarely took part in casual conversation. And as a leader, he often thought the best action was not to take any action.
+	- Many voters liked his "cool" style. Coolidge quickly earned a public image as a serious man who did not spend money or words easily.
+	- But Coolidge is also linked to a period in U.S. history known as the Roaring Twenties.
+	- In those years, the 1920s, the American economy was generally good. Many people spent money on exciting things – such as the still-new automobile – and on entertainment, including alcoholic drinks, cigarettes, and dancing. Creative expression such as jazz and Art Deco architecture became popular.
+	- Calvin Coolidge is often given credit for helping fuel the Roaring Twenties with his pro-business economic policies.
+	- But some historians caution against remembering Coolidge's business freedom policies too fondly. They say he helped create the conditions for the severe economic depression that followed his presidency.
+	- ## Early life
+	- Calvin Coolidge and his sister were born and raised on a farm in the northeast state of Vermont.
+	- Coolidge spoke highly of both his parents.
+	- His father owned a store, and also held local political offices. He had a public image for honesty, public service, and thrift.
+	- Young Calvin Coolidge helped his father in the store, and hoped to be just like him.
+	- Coolidge also admired his mother's strong character. He was 12 years old when she died, and he wrote that losing her was "the greatest grief that can come to a boy."
+	- Six years later, his sister also died.
+	- Their deaths made young Calvin Coolidge even more serious than he already was.
+	- But Coolidge was also known for his wit – a kind of humor that often depends on word play or intelligence. As a student at Amherst College in Massachusetts, Coolidge became known as an able and funny public speaker.
+	- That skill helped him rise in politics. He began with lower-level offices in Massachusetts, and later served as that state's governor.
+	- Along the way, he married Grace Anna Goodhue, a teacher for the deaf. She was known to be warm and social, and the couple were reported to have a loving marriage. They went on to have two sons.
+	- In 1920, the Republican Party nominated Coolidge to be its vice presidential candidate. In general, voters liked the Republican ticket. They were ready for a change after the reform policies and international engagement of Democrat Woodrow Wilson.
+	- Sure enough, the Republicans won the election in a landslide.
+	- But Coolidge did not enjoy the office of vice president very much. He had little power in the government. During meetings, he often remained silent.
+	- One summer night he and his wife were on vacation in Vermont. His father, Colonel Coolidge, woke them up in the middle of the night with some dramatic news: President Harding had died.
+	- Reporters quickly gathered at the small farmhouse. Colonel Coolidge had not put electricity in the house. So everyone watched by the light of an oil lamp.
+	- Colonel Coolidge was a public official. He used the family Bible and a copy of the Constitution to swear in his son as the 30th U.S. president.
+	- Then the country's new leader did a very sensible thing: he went back to bed.
+	- ## Presidency
+	- President Coolidge believed in limited government, especially limited federal government. He permitted state and Cabinet officials to decide as many issues as they could.
+	- Coolidge used his authority to focus mostly on the country's economy.
+	- At the time he took office, the U.S. was at the start of an economic boom. Coolidge tried to maintain that prosperity. He did not regulate businesses too much, and he sharply reduced taxes, especially on the wealthy.
+	- By nearly every measure, the economy grew.
+	- But the policies also widened the divide between rich and poor Americans, and put the country's economy in a risky situation.
+	- More and more people began to invest their money in the stock market. Some put their dollars in dangerous investments.
+	- And business owners produced more goods than most members of the public could really afford. Increasingly, people borrowed money on credit to pay for luxury goods.
+	- At the same time, the economic situation of many American farmers was getting worse. The weather had been unusually dry in some places. And the price of food was falling.
+	- Farmers asked the federal government for assistance. But Coolidge rejected several bills that might have helped them. The bills had other problems, Coolidge reasoned, and he did not think that the federal government should intervene in the situation.
+	- So the farmers continued to suffer.
+	- But most voters remained supportive of Coolidge. Even though the president was considered a quiet person, he spoke often on the radio, appeared in a talking film, met with reporters regularly, and posed in funny costumes for photographers.
+	- He easily won elected in 1924. Historians believe he could have won another term, too, in 1928. But Coolidge chose not to seek office.
+	- Some believed he was too saddened by the death of his teenaged son. Shortly after Coolidge became president, the boy had been playing tennis and slightly wounded his toe. The wound became infected. The infection spread to the boy's blood. A few days later, he died.
+	- Although Coolidge continued his presidency, he later said the joy had gone from the job.
+	- But when he decided not to seek re-election, he did not talk about his feelings. Instead, he simply wrote a note to reporters saying: "I do not choose to run for President in 1928."
+	- His secretary of commerce, Herbert Hoover, was elected instead. Coolidge retired to his home in Massachusetts and led a quiet private life.
+	- ## Legacy
+	- President Coolidge was well-liked by most Americans. Later presidents – including Ronald Reagan – sought to follow some of his economic policies.
+	- But many historians have questioned those policies. They say that Coolidge did not pay enough attention to the situation of farmers. And they say the stock market was rising too fast.
+	- Seven months after Coolidge left office, the U.S. economy collapsed.
+	- The country was still deep in the Great Depression when Coolidge passed away. He died – quietly, of course – during an afternoon nap at the age of 60.
+	- His will was but a single sentence.
+- ---
+- ## def
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about Calvin Coolidge. He was the vice president under Warren Harding. When Harding died suddenly a little more than two years into his term, Coolidge became president.
+	- Coolidge is linked to two opposing ideas. The first idea is quiet restraint.
+	- The president's nickname was "Silent Cal." He rarely took part in casual conversation. And as a leader, he often thought the best action was not to take any action.
+	- Many voters liked his "cool" style. Coolidge quickly earned a public image as a serious man who did not spend money or words easily.
+	- But Coolidge is also linked to a period in U.S. history known as the Roaring Twenties.
+	- In those years, the 1920s, the American economy was generally good. Many people spent money on exciting things – such as the still-new automobile – and on entertainment, including alcoholic drinks, cigarettes, and dancing. Creative expression such as jazz and Art Deco architecture became popular.
+	- Calvin Coolidge is often given credit for helping fuel the Roaring Twenties with his pro-business economic policies.
+	- But some historians caution against remembering Coolidge's business freedom policies too fondly. They say he helped create the conditions for the severe economic depression that followed his presidency.
+	- ## Early life
+	- Calvin Coolidge and his sister were born and raised on a farm in the northeast state of Vermont.
+	- Coolidge spoke highly of both his parents.
+	- His father owned a store, and also held local political offices. He had a public image for honesty, public service, and thrift.
+	- Young Calvin Coolidge helped his father in the store, and hoped to be just like him.
+	- Coolidge also admired his mother's strong character. He was 12 years old when she died, and he wrote that losing her was "the greatest grief that can come to a boy."
+	- Six years later, his sister also died.
+	- Their deaths made young Calvin Coolidge even more serious than he already was.
+	- But Coolidge was also known for his wit – a kind of humor that often depends on word play or intelligence. As a student at Amherst College in Massachusetts, Coolidge became known as an able and funny public speaker.
+	- That skill helped him rise in politics. He began with lower-level offices in Massachusetts, and later served as that state's governor.
+	- Along the way, he married Grace Anna Goodhue, a teacher for the deaf. She was known to be warm and social, and the couple were reported to have a loving marriage. They went on to have two sons.
+	- In 1920, the Republican Party nominated Coolidge to be its vice presidential candidate. In general, voters liked the Republican ticket. They were ready for a change after the reform policies and international engagement of Democrat Woodrow Wilson.
+	- Sure enough, the Republicans won the election in a landslide.
+	- But Coolidge did not enjoy the office of vice president very much. He had little power in the government. During meetings, he often remained silent.
+	- One summer night he and his wife were on vacation in Vermont. His father, Colonel Coolidge, woke them up in the middle of the night with some dramatic news: President Harding had died.
+	- Reporters quickly gathered at the small farmhouse. Colonel Coolidge had not put electricity in the house. So everyone watched by the light of an oil lamp.
+	- Colonel Coolidge was a public official. He used the family Bible and a copy of the Constitution to swear in his son as the 30th U.S. president.
+	- Then the country's new leader did a very sensible thing: he went back to bed.
+	- ## Presidency
+	- President Coolidge believed in limited government, especially limited federal government. He permitted state and Cabinet officials to decide as many issues as they could.
+	- Coolidge used his authority to focus mostly on the country's economy.
+	- At the time he took office, the U.S. was at the start of an economic boom. Coolidge tried to maintain that prosperity. He did not regulate businesses too much, and he sharply reduced taxes, especially on the wealthy.
+	- By nearly every measure, the economy grew.
+	- But the policies also widened the divide between rich and poor Americans, and put the country's economy in a risky situation.
+	- More and more people began to invest their money in the stock market. Some put their dollars in dangerous investments.
+	- And business owners produced more goods than most members of the public could really afford. Increasingly, people borrowed money on credit to pay for luxury goods.
+	- At the same time, the economic situation of many American farmers was getting worse. The weather had been unusually dry in some places. And the price of food was falling.
+	- Farmers asked the federal government for assistance. But Coolidge rejected several bills that might have helped them. The bills had other problems, Coolidge reasoned, and he did not think that the federal government should intervene in the situation.
+	- So the farmers continued to suffer.
+	- But most voters remained supportive of Coolidge. Even though the president was considered a quiet person, he spoke often on the radio, appeared in a talking film, met with reporters regularly, and posed in funny costumes for photographers.
+	- He easily won elected in 1924. Historians believe he could have won another term, too, in 1928. But Coolidge chose not to seek office.
+	- Some believed he was too saddened by the death of his teenaged son. Shortly after Coolidge became president, the boy had been playing tennis and slightly wounded his toe. The wound became infected. The infection spread to the boy's blood. A few days later, he died.
+	- Although Coolidge continued his presidency, he later said the joy had gone from the job.
+	- But when he decided not to seek re-election, he did not talk about his feelings. Instead, he simply wrote a note to reporters saying: "I do not choose to run for President in 1928."
+	- His secretary of commerce, Herbert Hoover, was elected instead. Coolidge retired to his home in Massachusetts and led a quiet private life.
+	- ## Legacy
+	- President Coolidge was well-liked by most Americans. Later presidents – including Ronald Reagan – sought to follow some of his economic policies.
+	- But many historians have questioned those policies. They say that Coolidge did not pay enough attention to the situation of farmers. And they say the stock market was rising too fast.
+	- Seven months after Coolidge left office, the U.S. economy collapsed.
+	- The country was still deep in the Great Depression when Coolidge passed away. He died – quietly, of course – during an afternoon nap at the age of 60.
+	- His will was but a single sentence.

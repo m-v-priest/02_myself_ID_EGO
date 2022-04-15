@@ -1,0 +1,89 @@
+title:: 065 Benjamin Harrison: Grandson
+
+- ## 065 Benjamin Harrison: Grandson
+- ## pure
+  collapsed:: true
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about Benjamin Harrison.
+	- His family name may sound familiar. That is because he was the grandson of President William Henry Harrison. That situation is unique in U.S. history so far.
+	- Harrison played an unusually active role as president at a time when most chief executives saw themselves as simply administrators. As a result, American writer and intellectual Henry Adams said Harrison was the best president since Lincoln.
+	- But most Americans remember little about him, except his connection to the previous President Harrison, who himself died after only a month in office.
+	- ## Early life
+	- Benjamin Harrison grew up on a farm in the Midwestern state of Ohio as one of eight children.
+	- His grandfather was not the only famous political Harrison.
+	- His great-grandfather signed the Declaration of Independence. And his father had been a congressman.
+	- Young Benjamin Harrison respected these men and believed he had a role to play in history, too. He received a good education, and even outside of school he read many books.
+	- His hard work and intelligence carried him to Miami University in Ohio, and then to a career as a lawyer.
+	- Along the way, he married a woman he had known since he was a teenager, Caroline Lavinia Scott. The couple settled in another Midwestern city, Indianapolis, Indiana, and had a son and daughter.
+	- Over time, Harrison steadily built a career as a public official. But his political path was interrupted by the American Civil War.
+	- Harrison rose to the rank of general in the Union Army. He fought under General William T. Sherman, and was one of the first soldiers to enter Atlanta, Georgia after the city surrendered.
+	- After the war, he returned home to Indiana and continued his legal and political career. In 1881, he was elected to the U.S. Senate. But six years later he lost his seat when Democrats came to power in his state.Reports say that Harrison was an excellent soldier. But he did not enjoy fighting or find war romantic.
+	- Harrison's loss of his Senate seat soon turned to a victory. The Republican Party nominated him as their candidate to run against Grover Cleveland in the 1888 presidential election.
+	- Cleveland's economic policies had become unpopular, and Republicans worked hard to support their candidate. They succeeded. Although Cleveland won the popular vote, Harrison won the Electoral College.
+	- In 1889, he followed his grandfather's footsteps all the way to the White House.
+	- ## Presidency
+	- Harrison's election was a major victory for his Republican Party. In addition to winning the White House, Republicans gained seats in the House of Representatives, held a majority in the Senate, and appointed several Republican justices to the Supreme Court.
+	- Harrison and other Republican lawmakers used their power to take action on issues at home and internationally.
+	- One act was to preserve forests. Harrison identified 17 protected natural areas, and helped create Yosemite National Park in California.
+	- His government also established Ellis Island in New York to make immigration to the U.S. a more orderly process.
+	- Internationally, Harrison's administration sought to build ties with Latin American countries. His government established what would, in time, become the Organization of American States.
+	- His administration also increased the United States' global trade – as well as the country's navy.
+	- But, for the most part, the most pressing issues of the day were economic. The federal government at that time had an unusually large surplus. Some argued that the surplus was hurting business. In answer, Harrison's government placed a high protective tariff on imported goods. The legislation was known as the McKinley Tariff of 1890.
+	- Officials also aimed to limit the power of large corporations to control important markets in the U.S.
+	- Finally, they agreed to require the government to buy silver to use as currency.
+	- These actions pleased some of his supporters. But, they may have contributed to the severe economic depression that followed Harrison's term.
+	- And in general, voters disapproved of the amount of money Republican lawmakers were spending. Although the country was at peace, the 51st Congress appropriated $1 billion. At the midterm elections, many lawmakers paid for all the spending with their seats.
+	- Two years later, voters turned Harrison out of the White House, too. They returned Grover Cleveland to the presidency.
+	- Harrison did not express much disappointment. He had worked hard to become president like his grandfather. But he found he did not like being the chief executive. He said when he left the White House, it was like being released from prison.
+	- ## Legacy
+	- Among U.S. presidents, Harrison does not have one of the most dramatic biographies. The facts of his life show an intelligent, disciplined man who tried to live by his beliefs.
+	- But he was not considered passionate about many things, except perhaps his enjoyment of nature. And he did not have an easy way with people. Even his staff called him "the human iceberg" because he could be aloof and act coldly toward people.
+	- Yet Harrison's family brought some warmth to his administration. His wife, Caroline, was known to be a lively, social person. She was the first to install a Christmas tree in the White House.
+	- Some of Harrison's grandchildren also lived in the White House. Harrison permitted them to play on the grounds with their pet animals. During Harrison's term, the family kept a goat, which the children called "Old Whiskers."
+	- Harrison's time in the White House saw sorrow, too. Toward the end of her husband's term, the first lady became seriously ill with tuberculosis. For months, Benjamin Harrison divided his attention between his wife and his job, and yet in the end lost both.
+	- After his term as president ended, Benjamin Harrison returned to his home in Indianapolis. He did some work as a teacher and lawyer, and kept a good public image in his community.
+	- He also re-married. His second wife was a widow herself, as well as his first wife's niece.
+	- He and Mary Scott Lord Dimmick Harrison had a daughter together. The child was only four when Harrison died from pneumonia at age 67.
+- ---
+- ## def
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about Benjamin Harrison.
+	- His family name may sound familiar. That is because he was the grandson of President William Henry Harrison. That situation is unique in U.S. history so far.
+	- Harrison played an unusually active role as president at a time when most chief executives saw themselves as simply administrators. As a result, American writer and intellectual Henry Adams said Harrison was the best president since Lincoln.
+	- But most Americans remember little about him, except his connection to the previous President Harrison, who himself died after only a month in office.
+	- ## Early life
+	- Benjamin Harrison grew up on a farm in the Midwestern state of Ohio as one of eight children.
+	- His grandfather was not the only famous political Harrison.
+	- His great-grandfather signed the Declaration of Independence. And his father had been a congressman.
+	- Young Benjamin Harrison respected these men and believed he had a role to play in history, too. He received a good education, and even outside of school he read many books.
+	- His hard work and intelligence carried him to Miami University in Ohio, and then to a career as a lawyer.
+	- Along the way, he married a woman he had known since he was a teenager, Caroline Lavinia Scott. The couple settled in another Midwestern city, Indianapolis, Indiana, and had a son and daughter.
+	- Over time, Harrison steadily built a career as a public official. But his political path was interrupted by the American Civil War.
+	- Harrison rose to the rank of general in the Union Army. He fought under General William T. Sherman, and was one of the first soldiers to enter Atlanta, Georgia after the city surrendered.
+	- After the war, he returned home to Indiana and continued his legal and political career. In 1881, he was elected to the U.S. Senate. But six years later he lost his seat when Democrats came to power in his state.Reports say that Harrison was an excellent soldier. But he did not enjoy fighting or find war romantic.
+	- Harrison's loss of his Senate seat soon turned to a victory. The Republican Party nominated him as their candidate to run against Grover Cleveland in the 1888 presidential election.
+	- Cleveland's economic policies had become unpopular, and Republicans worked hard to support their candidate. They succeeded. Although Cleveland won the popular vote, Harrison won the Electoral College.
+	- In 1889, he followed his grandfather's footsteps all the way to the White House.
+	- ## Presidency
+	- Harrison's election was a major victory for his Republican Party. In addition to winning the White House, Republicans gained seats in the House of Representatives, held a majority in the Senate, and appointed several Republican justices to the Supreme Court.
+	- Harrison and other Republican lawmakers used their power to take action on issues at home and internationally.
+	- One act was to preserve forests. Harrison identified 17 protected natural areas, and helped create Yosemite National Park in California.
+	- His government also established Ellis Island in New York to make immigration to the U.S. a more orderly process.
+	- Internationally, Harrison's administration sought to build ties with Latin American countries. His government established what would, in time, become the Organization of American States.
+	- His administration also increased the United States' global trade – as well as the country's navy.
+	- But, for the most part, the most pressing issues of the day were economic. The federal government at that time had an unusually large surplus. Some argued that the surplus was hurting business. In answer, Harrison's government placed a high protective tariff on imported goods. The legislation was known as the McKinley Tariff of 1890.
+	- Officials also aimed to limit the power of large corporations to control important markets in the U.S.
+	- Finally, they agreed to require the government to buy silver to use as currency.
+	- These actions pleased some of his supporters. But, they may have contributed to the severe economic depression that followed Harrison's term.
+	- And in general, voters disapproved of the amount of money Republican lawmakers were spending. Although the country was at peace, the 51st Congress appropriated $1 billion. At the midterm elections, many lawmakers paid for all the spending with their seats.
+	- Two years later, voters turned Harrison out of the White House, too. They returned Grover Cleveland to the presidency.
+	- Harrison did not express much disappointment. He had worked hard to become president like his grandfather. But he found he did not like being the chief executive. He said when he left the White House, it was like being released from prison.
+	- ## Legacy
+	- Among U.S. presidents, Harrison does not have one of the most dramatic biographies. The facts of his life show an intelligent, disciplined man who tried to live by his beliefs.
+	- But he was not considered passionate about many things, except perhaps his enjoyment of nature. And he did not have an easy way with people. Even his staff called him "the human iceberg" because he could be aloof and act coldly toward people.
+	- Yet Harrison's family brought some warmth to his administration. His wife, Caroline, was known to be a lively, social person. She was the first to install a Christmas tree in the White House.
+	- Some of Harrison's grandchildren also lived in the White House. Harrison permitted them to play on the grounds with their pet animals. During Harrison's term, the family kept a goat, which the children called "Old Whiskers."
+	- Harrison's time in the White House saw sorrow, too. Toward the end of her husband's term, the first lady became seriously ill with tuberculosis. For months, Benjamin Harrison divided his attention between his wife and his job, and yet in the end lost both.
+	- After his term as president ended, Benjamin Harrison returned to his home in Indianapolis. He did some work as a teacher and lawyer, and kept a good public image in his community.
+	- He also re-married. His second wife was a widow herself, as well as his first wife's niece.
+	- He and Mary Scott Lord Dimmick Harrison had a daughter together. The child was only four when Harrison died from pneumonia at age 67.

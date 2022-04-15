@@ -1,0 +1,55 @@
+title:: 085 Barack Obama: African-American
+
+- ## 085 Barack Obama: African-American
+- ## pure
+  collapsed:: true
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about Barack Obama.
+	- He first took office in 2009 and was re-elected in 2012. Because his presidency is so recent, this program will not try to offer a historical perspective.
+	- But one part of his legacy is already clear. Obama is the United States' first African-American president. His father was a black man from Kenya; his mother was a white American from the Midwestern state of Kansas.
+	- For many Americans, Obama's presidency was an important symbol in a country that permitted black people to be enslaved.
+	- And, even after the U.S. Constitution officially banned slavery in 1865, African-Americans have been extremely under-represented in the U.S. government.
+	- By 2009, only five African-Americans had ever served in the U.S. Senate – and Obama was one of them.
+	- Even many people who did not vote for Obama said his election to the country's highest office made them proud or hopeful. A public opinion survey immediately after Election Day found that two-thirds of Americans believed that the country's racial conflicts could be resolved.
+	- ## Early life
+	- Obama's parents met as students at the University of Hawaii. His father had won a scholarship to study economics. His mother went on to earn a degree in math there, as well as a graduate degree.
+	- The two married and had a son, whom they named after his father: Barack Hussein Obama, Jr.
+	- But the couple soon separated. The older Barack Obama returned to Kenya, where he later died in a car accident.
+	- Barack's mother went on to marry another man. He was from Indonesia. The family moved to Jakarta, and the couple had a daughter named Maya.
+	- When Barack was 10, his mother sent him back to Hawaii to live with her parents. She wanted him to get a good education. Barack finished high school in Hawaii, then went on to Occidental College in Los Angeles.
+	- After two years, he transferred to Columbia University in New York. There, he completed a degree in political science.
+	- But Obama said the best education he received was in one of his first jobs. He worked as a community organizer in Chicago. He helped people who lived in public housing put pressure on the city government to improve their conditions.
+	- Obama later said the work showed him how important it was to understand the legal process. So he entered Harvard Law School.
+	- Over the next years, Obama worked as a lawyer, wrote a book about his experience as a person of mixed race, and married Michelle Robinson, a woman he worked with at a law firm.
+	- She and Barack Obama settled in Chicago and had two daughters, Malia and Sasha.
+	- When he was in his mid-30s, Obama began his political career. He was elected three times to the Illinois state senate. After 10 years there, he won a seat in the U.S. Senate in a landslide victory.
+	- That same year, Obama attended the Democratic National Convention – the meeting where the party officially nominates a presidential candidate. Obama was not one of the candidates. But the Democrats asked him to make an important speech.
+	- In it, Obama famously talked about how his life story was an American story. He said he was confident the U.S. could overcome its divisions and achieve unity.
+	- "There's not a liberal America and a conservative America," he said. "...There's not a black America and white America and Latino America and Asian America. There's a United States of America."
+	- Only four years later, Obama would be elected its 44th president.
+- ---
+- ## def
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about Barack Obama.
+	- He first took office in 2009 and was re-elected in 2012. Because his presidency is so recent, this program will not try to offer a historical perspective.
+	- But one part of his legacy is already clear. Obama is the United States' first African-American president. His father was a black man from Kenya; his mother was a white American from the Midwestern state of Kansas.
+	- For many Americans, Obama's presidency was an important symbol in a country that permitted black people to be enslaved.
+	- And, even after the U.S. Constitution officially banned slavery in 1865, African-Americans have been extremely under-represented in the U.S. government.
+	- By 2009, only five African-Americans had ever served in the U.S. Senate – and Obama was one of them.
+	- Even many people who did not vote for Obama said his election to the country's highest office made them proud or hopeful. A public opinion survey immediately after Election Day found that two-thirds of Americans believed that the country's racial conflicts could be resolved.
+	- ## Early life
+	- Obama's parents met as students at the University of Hawaii. His father had won a scholarship to study economics. His mother went on to earn a degree in math there, as well as a graduate degree.
+	- The two married and had a son, whom they named after his father: Barack Hussein Obama, Jr.
+	- But the couple soon separated. The older Barack Obama returned to Kenya, where he later died in a car accident.
+	- Barack's mother went on to marry another man. He was from Indonesia. The family moved to Jakarta, and the couple had a daughter named Maya.
+	- When Barack was 10, his mother sent him back to Hawaii to live with her parents. She wanted him to get a good education. Barack finished high school in Hawaii, then went on to Occidental College in Los Angeles.
+	- After two years, he transferred to Columbia University in New York. There, he completed a degree in political science.
+	- But Obama said the best education he received was in one of his first jobs. He worked as a community organizer in Chicago. He helped people who lived in public housing put pressure on the city government to improve their conditions.
+	- Obama later said the work showed him how important it was to understand the legal process. So he entered Harvard Law School.
+	- Over the next years, Obama worked as a lawyer, wrote a book about his experience as a person of mixed race, and married Michelle Robinson, a woman he worked with at a law firm.
+	- She and Barack Obama settled in Chicago and had two daughters, Malia and Sasha.
+	- When he was in his mid-30s, Obama began his political career. He was elected three times to the Illinois state senate. After 10 years there, he won a seat in the U.S. Senate in a landslide victory.
+	- That same year, Obama attended the Democratic National Convention – the meeting where the party officially nominates a presidential candidate. Obama was not one of the candidates. But the Democrats asked him to make an important speech.
+	- In it, Obama famously talked about how his life story was an American story. He said he was confident the U.S. could overcome its divisions and achieve unity.
+	- "There's not a liberal America and a conservative America," he said. "...There's not a black America and white America and Latino America and Asian America. There's a United States of America."
+	- Only four years later, Obama would be elected its 44th president.

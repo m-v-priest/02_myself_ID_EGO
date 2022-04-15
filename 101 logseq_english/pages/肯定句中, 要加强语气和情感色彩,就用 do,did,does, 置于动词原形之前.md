@@ -1,0 +1,5 @@
+-
+- **肯定句中, 要加强语气和情感色彩，就用 do,did,does, 一定要位于动词原形之前.**
+	- You **do** look nice today ! 你今天真的看起来很美！
+	- She **does** talk a lot，doesn’t she ? 她的确说了许多，不对吗？
+	- '**You certainly did give me a surprise**!' said the vicar. 'You've probably woken up everyone in the village as well. Still, I'm glad the bell is working again.'
