@@ -70,7 +70,8 @@ title:: 050 John Tyler: Unexpected
 	- But the United States was starting to change. For example, President John Quincy Adams /had proposed creating(v.) a national system of roads. The Missouri Compromise(n.) of 1820 /limited slavery in new states in the northwest. And in the 1830s, many white men /who did not own property /earned the right to vote.
 		- 约翰·昆西·亚当斯总统曾提议, 建立一个全国性的道路系统。1820年的密苏里妥协案, 限制了西北部新州的奴隶制。
 	- In other words, the U.S. was becoming more national, abolitionist, and equal.
-		- > ▶ abolitionist (n.)a person who is in favour of the abolition of sth 主张废除…的人; 废奴主义者
+		- id:: 62566c78-534d-4200-af10-9375c2cfee83
+		  > ▶ abolitionist (n.)a person who is in favour of the abolition of sth 主张废除…的人; 废奴主义者
 	- Tyler resisted these changes. He fought against them /as a member of **the U.S. House of Representative**s, a governor of Virginia, and a senator.
 	- His fight reached a crisis during the presidency of Andrew Jackson. The two men belonged to the same party, the Democratic Party. However, Tyler hated Jackson's populist policies and use of presidential powers against the states.
 	- In the middle of the 1830s, Tyler joined with several other political leaders /to create a new, anti-Jackson party. They were called the Whigs.

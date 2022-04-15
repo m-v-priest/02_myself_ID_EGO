@@ -152,7 +152,8 @@ title:: 052 Zachary Taylor: Brief
 	- And members of Taylor's own family /became **linked to** the states /that withdrew from the Union.
 		- 泰勒自己的家庭成员, 与退出联邦的州建立了联系。
 	- One of his daughters /had married Jefferson Davis, who became the president of the Confederacy.
-		- > ▶ confederacy : [ C ] a union of states, groups of people or political parties with the same aim 联盟；同盟；联邦
+		- id:: 6257cdcb-fb0b-4472-8949-cf8aa36b57cd
+		  > ▶ confederacy : [ C ] a union of states, groups of people or political parties with the same aim 联盟；同盟；联邦
 		  => con-, 强调。-fed, 相信，信任，词源同faith, confide.
 		  > ▶ **Conˌfederate ˈStates** : n.    
 		  ( also **the Confederacy** [ sing. ] ) the eleven southern states of the US /which left the United States in 1860-1, starting the American Civil War （美国）南部邦联（1860 –1861年脱离联邦从而引发南北战争的美国南部11州）

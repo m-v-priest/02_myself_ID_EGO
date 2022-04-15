@@ -10,7 +10,6 @@ blockquote {
   border-left: 3px solid #ccc; /*应用块前竖线的粗细*/
   margin: 0.1em; /*上－右－下－左*/
   padding: 0.5em 10px;
-  /*quotes: "\201C""\201D""\2018""\2019";*/
 }
 blockquote:before {
   color: #ccc;

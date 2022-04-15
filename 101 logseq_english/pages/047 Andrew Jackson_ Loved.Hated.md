@@ -175,7 +175,8 @@ title:: 047 Andrew Jackson: Loved/Hated
 		- > ▶ nullify  /ˈnʌlɪfaɪ/  (v.) to make sth such as an agreement or order **lose(v.) its legal force** 使失去法律效力；废止 SYN invalidate  /to make sth lose its effect or power 使无效；抵消
 		  -> An unhealthy diet will nullify the effects of training. 不健康的饮食会抵消锻炼的效果。
 		  => 来自拉丁语nullus,无，没有，词源同no,-fy,使。引申词义使废除，使无效。
-		- > ▶ traitor (n.)   /ˈtreɪtər/  ~ (to sb/sth) a person who gives away secrets about their friends, their country, etc. 背叛者；叛徒；卖国贼
+		- id:: 625520c9-7e86-476c-afd0-8e99d67a7415
+		  > ▶ traitor (n.)   /ˈtreɪtər/  ~ (to sb/sth) a person who gives away secrets about their friends, their country, etc. 背叛者；叛徒；卖国贼
 		  => 前缀tra=trans，表“穿过，由此及彼”，如transport（运输）；-it-是词根dit的简化，表“给”，如editor（编辑），编辑就是将成稿对外呈现，向外给出的人；or名词后缀；所以它本义是“交付、给出（内部信息）的人”。可用同源词betray（背叛）助记。
 		- > ▶ send in  : PHRASAL VERB When a government **sends in** troops or police officers, it orders them to deal with a crisis or problem somewhere. 派遣 (军队或警察)
 		- 杰克逊拒绝让南卡罗来纳州废除或无视"该州官员反对的一项联邦法律"。
@@ -225,8 +226,12 @@ title:: 047 Andrew Jackson: Loved/Hated
 	- Jackson changed the U.S. presidency. After him, presidential candidates had to show they could connect with voters, not just lawmakers.
 		- 在他之后，总统候选人必须表明他们能够与选民建立联系，而不仅仅是议员。
 	- He also increased the power of **the chief executive**. Jackson often questioned(v.) – or dismissed(v.) – the power of Congress, the Constitution, and the Supreme Court.
-		- > ▶ dismiss (v.)~ sb/sth (as sth) : to decide that sb/sth is not important and not worth thinking or talking about 不予考虑；摒弃；对…不屑一提
+		- id:: 6255290d-c6d0-4975-b5e3-5f1e914163aa
+		  > ▶ dismiss (v.)~ sb/sth (as sth) : to decide that sb/sth is not important and not worth thinking or talking about 不予考虑；摒弃；对…不屑一提
 		  -> He **dismissed** the opinion polls **as** worthless. 他认为民意测验毫无用处而不予考虑。
+		  /**~ sb (from sth)** : to officially remove sb from their job 解雇；免职；开除
+		  /to send sb away or allow them to leave 让（某人）离开；把（某人）打发走；解散
+		  => dis-, 分开，散开。miss,送出。即送走，引申词义摈弃。
 		- 他还增加了行政长官的权力。杰克逊经常质疑或驳回国会、宪法和最高法院的权力。
 	- And, he began the custom of **replacing** experienced government officials **with** people /whose main qualification was their loyalty to him.
 		- > ▶ qualification :  information that you add to a statement to limit the effect that it has or the way it is applied 限定条件 /a skill or type of experience that you need for a particular job or activity （通过经验或具备技能而取得的）资格；资历

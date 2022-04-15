@@ -32,8 +32,8 @@
 	- [[007 How Will the Pandemic End?]]
 	- [[008 Testing Best Way to Know Difference Between Cold, Flu or COVID]]
 	- [[009 Final Thoughts from a Garden Expert]]
-	- [[010 Study Cannot Confirm Many Lab Results for Cancer Experiments]]
 	-
+	- [[010 Study Cannot Confirm Many Lab Results for Cancer Experiments]]
 	- [[011 Study Suggests Link Between Long Sleep Times, Cognitive Loss]]
 	- [[012 US Life Expectancy Saw Biggest Drop in 2020 Since World War II]]
 	- [[013 Study Mars Missions Should Be Limited to 4 Years to Protect from Radiation]]
@@ -43,8 +43,8 @@
 	- [[017 New Studies Show Drops in World Insect Population]]
 	- [[018 Western Sanctions Hurting Russia's Economy]]
 	- [[019 The Worldwide Effects of Russia’s Invasion of Ukraine]]
-	- [[020 Research: Raising a Child Costlier in China than in US, Japan]]
 	-
+	- [[020 Research: Raising a Child Costlier in China than in US, Japan]]
 	- [[021 Russia-Ukraine Conflict Affects(v.) Worldwide Economy]]
 	- [[022 Why US Consumers Pay Such High Prices for Prescription Drugs]]
 	- [[023 What Is the US Debt Limit]]
@@ -84,16 +84,17 @@
 		- [[047 Andrew Jackson: Loved/Hated]]
 		- [[048 Martin Van Buren: OK]]
 		- [[049 William Henry Harrison: Short-Lived]]
+		-
 		- [[050 John Tyler: Unexpected]]
 		- [[051 James K. Polk: Dark Horse]]
 		- [[052 Zachary Taylor: Brief]]
 		- [[053 Millard Fillmore: Forgotten]]
-		-
 		- [[054 Franklin Pierce: Ineffective]]
 		- [[055 James Buchanan: Passive]]
 		- [[056 Abraham Lincoln: Martyr]]
 		- [[057 Abraham Lincoln: Martyr (Part Two) ]]
 		- [[058 Abraham Lincoln: Martyr (Part Three) ]]
+		-
 		- [[059 Andrew Johnson: Impeached]]
 		- [[060 Ulysses S. Grant: Well-Meaning]]
 		- [[061 Rutherford B. Hayes: Middle-of-the-Road]]

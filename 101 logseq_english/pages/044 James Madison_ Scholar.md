@@ -120,7 +120,8 @@ title:: 044 James Madison: Scholar
 		  但他妻子的声望, 并不能阻止麦迪逊面对一个艰难的总统任期。
 	- ## Conflict abroad and at home
 	- During his first term, the U.S. faced **increasingly tense relations** with Britain. Madison **accused** the British **of** /**interfering with** international trade /and seizing American sailors.
-		- > ▶ interfere: **INTERˈFERE WITH STH**
+		- id:: 6243b236-13ae-418b-9bb8-3a964ff1aa96
+		  > ▶ interfere: **INTERˈFERE WITH STH**
 		  (1) to prevent sth from succeeding /or from being done or happening /as planned 妨碍；干扰
 		   ▶ **INTERˈFERE WITH SB**
 		  (1) to illegally try to influence sb who is going to give evidence in court, for example by threatening them or offering them money 干扰证人（企图威胁或贿赂等）
@@ -182,7 +183,8 @@ title:: 044 James Madison: Scholar
 		- 然而，这场战斗是没有必要发生的。因为根据条约，战争在两周前就已经结束了。
 	- ## Legacy
 	- The War of 1812 /almost bankrupted(v.) the U.S. government /and cost(v.) the lives of tens of thousands of soldiers. It was devastating(v.) for many Native Americans. It did provide a chance for several thousand slaves /to escape to freedom /by serving in the British military. But it did nothing /to improve the lives of most of 1 million enslaved people /in the U.S. /at the time.
-		- > ▶ legacy : money or property /that is given to you by sb /when they die 遗产；遗赠财物 / a situation that exists now /because of events, actions, etc. /that took place in the past 遗留；遗产；后遗症
+		- id:: 6243ba91-7e48-4114-af04-0a23ad511235
+		  > ▶ legacy : money or property /that is given to you by sb /when they die 遗产；遗赠财物 / a situation that exists now /because of events, actions, etc. /that took place in the past 遗留；遗产；后遗症
 		- > ▶ cost (v.) to cause the loss of sth 使丧失；使损失 /需付费；价钱为
 		  -> That one mistake **almost cost him his life**. 那一个差错几乎使他丧命。
 		- > ▶ devastate (v.)to completely destroy a place or an area 彻底破坏；摧毁；毁灭 /[ often passive ] to make sb feel very shocked and sad 使震惊；使极为忧伤；使极为悲痛
