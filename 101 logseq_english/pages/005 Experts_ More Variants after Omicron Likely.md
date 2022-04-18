@@ -97,7 +97,8 @@ title:: 005 Experts: More Variants after Omicron Likely
 	- Ray added, “**I don’t think we can be confident that** /the virus will become less lethal(a.) over time.” Lethal is a term that means deadly.
 		- > ▶ lethal : /ˈliːθl/(a.)causing or able to cause death 致命的；可致死的 /危害极大的；破坏性极大的
 		  => 来自拉丁语letum,死亡，词源不详。可能同Lethe,冥河，地狱，引申词义死去的，致命的。
-		- > ▶ term  词语；术语；措辞 /期；期限；任期
+		- id:: 621d8b80-0bda-4229-bb1e-663dc0abaa18
+		  > ▶ term  词语；术语；措辞 /期；期限；任期
 	- When SARS-CoV-2, the virus that caused COVID-19, first appeared, no one was immune(a.). But infections and vaccines **have given** at least some immunity **to** much of the world, so the virus must change /to survive(v.) and spread to others.
 		- > ▶ immune  /ɪˈmjuːn/ (a.) ~ (to sth) that cannot catch or be affected by a particular disease or illness 有免疫力 /不受影响 /~ (from sth) protected from sth and therefore able to avoid it 受保护；免除；豁免
 		- 当导致COVID-19 的SARS-CoV-2病毒首次出现时，没有人有免疫力。但是感染和疫苗至少给了世界上大部分地区的人一些免疫力，所以病毒必须变异, 才能存活下去, 并继续传播给其他人。

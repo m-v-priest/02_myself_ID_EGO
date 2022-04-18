@@ -60,9 +60,10 @@
 	- Troops /under another Confederate general, Thomas "Stonewall" Jackson, also defeated the Union army /in several early battles.
 		- > ▶ defeat (v.)to win against sb in a war, competition, sports game, etc. 击败；战胜 /to stop sth from being successful 使失败；阻挠；挫败
 	- Lincoln was frustrated with the war effort. He wanted generals /who would not only win battles, but chase after the opposing forces /and destroy them /so they could not fight again.
-		- > ▶ effort (n.)[ C ] the result of an attempt to do sth 努力的结果；成就
+		- id:: 62590ab9-a10c-4c66-9eb6-34be19b8ba89
+		  > ▶ effort (n.)[ C ] **the result** of an attempt to do sth 努力的结果；成就
 		  -> I'm afraid /this essay is a poor effort. 很抱歉，这篇文章写得不好。
-		  /[ C ] ( usually after a noun 通常置于名词后 ) a particular activity that a group of people organize in order to achieve sth 有组织的活动
+		  /[ C ] ( usually after a noun 通常置于名词后 ) **a particular activity** that a group of people organize in order to achieve sth 有组织的活动
 		  -> the Russian space effort 俄罗斯航天计划
 		- 林肯对战争的结果感到失望。他希望有这样的将军存在 --  他们不仅能赢得战斗，而且能追击并消灭敌人，使他们不能再战斗。
 	- In one famous telegram, he wrote to his top general, George McClellan. Lincoln said, "If General McClellan does not want to use the Army, I would like to borrow it for a time..."

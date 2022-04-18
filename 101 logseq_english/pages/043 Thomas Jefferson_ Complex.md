@@ -67,7 +67,8 @@ title:: 043 Thomas Jefferson: Complex
 	- ## Virginia planter /and slave owner
 	- Jefferson played an important part /in the creation of the U.S. But he often wrote to friends /about how he most wanted /to retire from public service /and return to his home in Virginia.
 	- In the 1760s, he designed a house there /that he called Monticello – the word means “little mountain” in Italian.
-		- > ▶ planter  : a person /who owns or manages a plantation /in a tropical country 种植园主；种植园经营者 /花盆 /a machine that plants seeds, etc. 播种机；插秧机
+		- id:: 6242b599-a974-4351-9967-6be0477055ae
+		  > ▶ planter  : a person /who owns or manages a plantation /in a tropical country 种植园主；种植园经营者 /花盆 /a machine that plants seeds, etc. 播种机；插秧机
 	- About 130 slaves /lived on Monticello’s grounds /at any time. They worked in Jefferson’s home, farms, and on special projects, such as making cabinets and nails.
 		- 在任何时候，Monticello 的土地上都住着大约130名奴隶。他们在杰斐逊的家中、农场工作，并从事一些特殊的项目，如制作橱柜和钉子。
 	- Jefferson owned about 600 slaves /during his life. Yet he said /he disliked slavery. He believed /God would judge(v.) **slave owners** severely.

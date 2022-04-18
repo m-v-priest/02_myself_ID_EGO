@@ -134,7 +134,8 @@ title:: 042 John Adams: Second
 		  -> parliamentary/congressional/government approval 议会的╱国会的╱政府的批准
 		- 副总统托马斯·杰斐逊的支持者有效地利用亚当斯批准的《外国人和煽动叛乱法》来对付他。杰斐逊的竞选团队说，亚当斯作为总统行使的权力如此之大，他一定希望美国成为君主制国家。
 	- Adams’ campaign said /Jefferson was a radical(n.) /who would bring revolution to the country.
-		- > ▶ radical (n.)a person with radical opinions 激进分子 /( chemistry 化 ) a group of atoms that behave as a single unit in a number of compounds 游离基；自由基
+		- id:: 6242ac46-a1aa-4a42-9c60-bc15cca40489
+		  > ▶ radical (n.)a person with radical opinions 激进分子 /( chemistry 化 ) a group of atoms that behave as a single unit in a number of compounds 游离基；自由基
 		  /(a.) concerning the most basic and important parts of sth; thorough and complete 根本的；彻底的；完全的 /in favour of thorough and complete political or social change 激进的；极端的
 		  -> demands for radical reform of the law 彻底改变法律的要求
 	- The U.S. had never experienced such an ugly election before. Some people wondered /whether the country would be able to transfer power peacefully.

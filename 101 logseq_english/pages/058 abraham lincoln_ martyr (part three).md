@@ -166,7 +166,8 @@
 	- The two men /met on April 9, 1865 /at a farmhouse /in the town of Appomattox Court House, Virginia. Lee famously wore(v.) his finest **military uniform** and sword. Grant famously wore his fighting clothes, still marked with mud.
 		- 李将军穿着他最好的军装和佩剑。格兰特穿着他的军装，上面仍然沾着泥。而被人记住.
 	- Lee and Grant /spoke briefly, then Grant wrote the terms of surrender. As Lincoln had asked, the terms /were respectful and generous. Lee's officers /were free(a.) to keep their horses /and their weapons, and the Union army /would give the Confederate soldiers food.
-		- > ▶ terms (n.) the conditions that people offer, demand or accept when they make an agreement, an arrangement or a contract （协议、合同等的）条件，条款 /conditions that you agree to when you buy, sell, or pay for sth; a price or cost （交易的）条件；价钱；费用
+		- id:: 6259266b-7a76-4ad0-906b-8e57df346b40
+		  > ▶ terms (n.) the conditions that people offer, demand or accept when they make an agreement, an arrangement or a contract （协议、合同等的）条件，条款 /conditions that you agree to when you buy, sell, or pay for sth; a price or cost （交易的）条件；价钱；费用
 		  -> These are the terms and conditions of your employment. 这些是聘用你的条件。
 		  -> My terms are ￡20 a lesson. 每教一课书我收费20英镑。
 		- > ▶ free (a.) ~ (to do sth) not under the control or in the power of sb else; able to do what you want 能随自己意愿的；随心所欲的
@@ -178,7 +179,8 @@
 	- Five days after Lee surrendered, Lincoln and his wife Mary /went to a theater in Washington, DC.
 		- > ▶ theater = theatre : [ C ] a building or an outdoor area /where plays and similar types of entertainment are performed 戏院；剧场；露天剧场
 	- To put it mildly, the last years /had been very difficult for them. While Lincoln was supervising(v.) the war effort, **both** his third **and** fourth son /became sick with typhoid. The younger boy recovered. The older did not. Willie Lincoln died /in the White House at age 11.
-		- > ▶ supervise (v.) [ V ] **to be in charge of sb/sth** /and make sure /that everything is done correctly, safely, etc. 监督；管理；指导；主管
+		- id:: 625927ff-cad7-4846-9bca-8d32a4d16db9
+		  > ▶ supervise (v.) [ V ] **to be in charge of sb/sth** /and make sure /that everything is done correctly, safely, etc. 监督；管理；指导；主管
 		  ->  to supervise building work 监理建筑工程
 		  => super-,在上，上方，-vis,看，词源同 visit,advise.引申词义监督，监管。
 		- > ▶ typhoid  /ˈtaɪfɔɪd/ (n.)( ˌtyphoid ˈfever ) [ U ] a serious infectious disease /that causes fever, red spots on the chest /and severe pain in the bowels , and sometimes causes death 伤寒

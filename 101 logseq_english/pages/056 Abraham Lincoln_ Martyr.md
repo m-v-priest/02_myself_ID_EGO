@@ -84,13 +84,16 @@ title:: 056 Abraham Lincoln: Martyr
 	- Lincoln believed /slavery violated the American **Declaration of Independence**, which said /all men had the right to life, liberty(n.) and the pursuit of happiness.
 		- > ▶ liberty (n.) [ U ] freedom to live as you choose without too many restrictions from government or authority 自由（自己选择生活方式而不受政府及权威限制）
 	- To be clear, Lincoln did not believe that /black people should have the same rights as white U.S. citizens. But he did not agree that /one person should own(v.) other people, or **profit(v.) from** their work /while they earned nothing /and were held captive(a.).
-		- > ▶ **profit (v.) ~ (by/from sth)** ( formal ) to get sth useful from a situation; to be useful to sb or give them an advantage 获益；得到好处；对…有用（或有益）
+		- id:: 6258fc94-4e2d-4f8c-ba83-e2a8d61dab3e
+		  > ▶ **profit (v.) ~ (by/from sth)** ( formal ) to get sth useful from a situation; to be useful to sb or give them an advantage 获益；得到好处；对…有用（或有益）
 		  -> We tried to profit by our mistakes (= learn from them) . 我们努力从错误中吸取教训。
 		  /(n.) [ CU ] **~ on sth |~ from sth** : the money that you make in business or by selling things, especially after paying the costs involved 利润；收益；赢利
 		  => pro-,向前，-fit,做，词源同benefit,effect.字母c脱落。即做事的收益，引申词义利润，报酬。
 		- 明确地说，林肯不认为黑人应该享有与美国白人公民相同的权利。但他不同意一个人应该拥有其他人，或从他们的工作中获利，而后者什么也没赚到，并被囚禁。
 	- Lincoln decided **to compete**(v.) in elections /**for** a seat in the U.S. Senate. He was chosen /as the candidate of a new, anti-slavery party. Members called themselves Republicans.
-		- > ▶ **compete (v.)~ (with/against sb) (for sth)**  : to try to be more successful or better than sb else who is trying to do the same as you 竞争；对抗
+		- id:: 6258fd2a-1c18-4ed9-9594-1f973f337636
+		  > ▶ **compete (v.)~ (with/against sb) (for sth)**  : to try to be more successful or better than sb else who is trying to do the same as you 竞争；对抗
+		  [ V ] ~ (in sth) (against sb) : to take part in a contest or game 参加比赛（或竞赛）
 		- 林肯决定参加美国参议院的竞选。他被选为一个新成立的反奴隶制政党的候选人。他们自称为共和党人。
 	- During the election campaign, Lincoln famously discussed the issue of slavery /in a series of debates with Stephen Douglas, the Democratic Party's candidate.
 	- Lincoln's words /moved some voters. But they did not earn him enough votes /to get elected.
