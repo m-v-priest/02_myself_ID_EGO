@@ -88,7 +88,8 @@ title:: 059 Andrew Johnson: Impeached
 		  =>  来源于拉丁语形容词magnus(大的)的比较级major。 词根词缀： -magn- →maj大的→mayor市长
 		- 后来，约翰逊担任过许多政治职务
 	- Although he was a Southerner, he did not believe /the Southern states had a right /to withdraw from the Union. When the other Southern senators /resigned from the U.S. Congress, Johnson stayed.
-		- > ▶ **resign (v.) ~ (from sth) |~ (as sth)**: to officially tell sb that you are leaving your job, an organization, etc. 辞职；辞去（某职务）
+		- id:: 625cc208-7ad2-4660-8293-79ebd4291782
+		  > ▶ **resign (v.) ~ (from sth) |~ (as sth)**: to officially tell sb that you are leaving your job, an organization, etc. 辞职；辞去（某职务）
 		  -> He resigned as manager /after eight years. 八年后，他辞去了经理的职务。
 		  > ▶ **REˈSIGN YOURSELF TO STH** :
 		  to accept sth unpleasant that cannot be changed or avoided 听任；只好接受；顺从

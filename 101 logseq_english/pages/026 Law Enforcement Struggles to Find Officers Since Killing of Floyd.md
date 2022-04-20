@@ -49,7 +49,8 @@
 	- While `主` the opinions of those /in law enforcement /about policing in the past year /`系` is not well-documented, public opinion is. The Associated Press - NORC center for **Public Affairs** Research /asked Americans /what they **thought of** the police. It found /as many as half of American adults believed /police violence against the public /is a “very” or “extremely” serious problem /in the past year.
 		- 虽然, 执法人员对过去一年警务工作的意见, 并没有很好地记录在案，但公众的意见有很好的记录。美联社- norc公共事务研究中心, 询问了美国人对警察的看法。调查发现，多达一半的美国成年人认为，在过去的一年中，警察对公众的暴力, 是一个“非常”或“极其”严重的问题。
 	- Some police officers have protested /in the last year. Many **stayed out of work**, claiming to be sick, in an event /called the “Blue Flu.”
-		- > ▶ protest (v.)[ UC ] /ˈprəʊtest/  [ VN ] ~ (about/against/at sth) to say or do sth to show that you disagree with or disapprove of sth, especially publicly （公开）反对；抗议
+		- id:: 62319d24-63d2-4391-a5f1-ba755ae6b05d
+		  > ▶ protest (v.)[ UC ] /ˈprəʊtest/  [ VN ] ~ (about/against/at sth) to say or do sth to show that you disagree with or disapprove of sth, especially publicly （公开）反对；抗议
 		- > ▶ **stay ˈout of sth**
 		  (1) to not become involved in sth that does not concern you 不介入；不干预
 		  (2) to avoid sth 避开；远离

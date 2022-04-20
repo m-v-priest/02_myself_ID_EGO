@@ -72,7 +72,8 @@
 		- > ▶ durable (a.)耐用的；持久的
 		- > ▶ primitive 原始的；远古的 /人类或动物发展早期的 /原始本能的
 		  -> a primitive instinct 原始本能
-		- > ▶ intervene (v.)~ (in sth) to become involved in a situation in order to improve or help it 出面；介入 /插嘴；打断（别人的话） /阻碍；阻挠；干扰
+		- id:: 6230164d-c724-44bd-bb13-1aa531300c9d
+		  > ▶ intervene (v.)~ (in sth) to become involved in a situation in order to improve or help it 出面；介入 /插嘴；打断（别人的话） /阻碍；阻挠；干扰
 		  -> The President **intervened(v.) personally in** the crisis. 总统亲自出面处理这场危机。
 		-
 	- “I’m not saying they’re going to have a wonderful time. I’m saying they have the resources **to deal with these problems**,” he said.

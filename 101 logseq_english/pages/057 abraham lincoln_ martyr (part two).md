@@ -51,7 +51,9 @@
 	- ## Commander-in-chief
 	- Lincoln is known for several qualities /as a wartime president. One was how he led the military campaign.
 		- > ▶ Commander-in-chief : ( abbr. C.-in-C. ) the officer who commands all the armed forces of a country or all its forces in a particular area 总司令；最高统帅
-		- > ▶ campaign N-COUNT A campaign is a planned set of activities that people carry out over a period of time in order to achieve something such as social or political change. (有计划的) 活动; 运动 / In a war, a campaign is a series of planned movements carried out by armed forces. 一系列军事行动; 战役
+		- id:: 625908f6-f5cc-42ed-a354-52a7f9aa8d4e
+		  > ▶ campaign : V-I If someone **campaigns for** something, they carry out a planned set of activities /over a period of time /in order to achieve their aim. 从事运动
+		  /N-COUNT A campaign is a planned set of activities that people carry out over a period of time in order to achieve something such as social or political change. (有计划的) 活动; 运动 / In a war, a campaign is a series of planned movements carried out by armed forces. 一系列军事行动; 战役
 		  => 来自camp, 平地，战场。原指两军交战。
 	- As president, Lincoln worked with top military officials /to create a plan. They realized that /the Union had more resources /and more men /who could fight than the Confederate forces. So, they planned to surround the Southern states, cut off their supplies, and **prevent** foreign powers **from** helping the Confederacy.
 	- Lincoln hoped /the Union's generals could execute the plan quickly /and **end(v.) the war** as soon as possible.
