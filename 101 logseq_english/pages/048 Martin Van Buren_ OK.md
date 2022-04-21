@@ -88,7 +88,8 @@ title:: 048 Martin Van Buren: OK
 	- Van Buren became a local official, and then a senator and governor of New York.
 		- > ▶ governor : ( also Governor ) a person who is the official head of a country or region that is governed by another country 统治者；管辖者；总督 /( also Governor ) a person who is chosen to be in charge of the government of a state in the US （美国的）州长
 	- When he was 24, he married a young woman /he had grown up with. But she died of tuberculosis after 12 years, leaving him with four sons.
-		- > ▶ tuberculosis :  /tuːˌbɜːrkjəˈloʊsɪs/  ( abbr. TB ) a serious infectious disease in which swellings appear on the lungs and other parts of the body 结核病
+		- id:: 625654f2-dbb1-4f56-bd93-110e38153f4d
+		  > ▶ tuberculosis :  /tuːˌbɜːrkjəˈloʊsɪs/  ( abbr. TB ) a serious infectious disease in which swellings appear on the lungs and other parts of the body 结核病
 		  => tubercle,肺结核结节，-osis,表疾病。引申词义结核病。tuber,块茎，-cle,小词后缀。引申诸相关词义。
 		  结核病, 是由"结核杆菌"感染引起的**慢性传染病**。结核菌可能侵入人体全身各种器官，但主要侵犯肺脏，称为肺结核病。结核病，又叫“痨病”.
 		  **联合用药可防止耐药性产生. 联合用药还可针对各种代谢状态细菌及细胞内外菌选药，已达到强化药效的目的.**

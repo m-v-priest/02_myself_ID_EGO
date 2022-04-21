@@ -125,7 +125,8 @@ title:: 047 Andrew Jackson: Loved/Hated
 		- 然而，许多人喜欢杰克逊热情、行动至上的性格。
 	- ## Three nicknames
 	- Jackson did not have any officially recognized military training. But during the War of 1812, he volunteered in the Tennessee militia /and quickly took control of troops.
-		- > ▶ volunteer (v.)~ (sth) (for/as sth) : to offer to do sth without being forced to do it or without getting paid for it 自愿做；义务做；无偿做 /~ (for sth) to join the army, etc. without being forced to 自愿参军；当志愿兵
+		- id:: 62551ab1-ce4d-4373-8144-14bed0e58957
+		  > ▶ volunteer (v.)~ (sth) (for/as sth) : to offer to do sth without being forced to do it or without getting paid for it 自愿做；义务做；无偿做 /~ (for sth) to join the army, etc. without being forced to 自愿参军；当志愿兵
 	- Many of his soldiers came to respect him. Jackson refused to give up, even when the government ordered the militia to disband. And, when some of the men wanted to leave, he threatened them with a gun.
 		- > ▶ disband (v.)to stop sb/sth from operating as a group; to separate or no longer operate as a group 解散；解体；散伙
 	- Because he was uncompromising and strong as a tree, soldiers called Jackson “Old Hickory.”

@@ -126,7 +126,8 @@ title:: 045  PRESIDENTS James Monroe: Likeable
 		- James Monroe签署了后来被称为密苏里妥协案的法律。
 	- ## The Monroe Doctrine
 	- In 1823, Monroe made one of the most important foreign policy decisions /in American history. It became known as /the Monroe Doctrine. It **related to** Spain’s colonies in Latin America.
-		- > ▶ doctrine (n.)[ CU ] **a belief** or set of beliefs /held and taught by a Church, a political party, etc. 教义；主义；学说；信条
+		- id:: 6243cc60-8bee-4809-a76b-f8cc7f4c6bf5
+		  > ▶ doctrine (n.)[ CU ] **a belief** or set of beliefs /held and taught by a Church, a political party, etc. 教义；主义；学说；信条
 		  /**Doctrine** [ C ] ( US ) **a statement** of government policy （政府政策的）正式声明
 		  -> the Monroe Doctrine 门罗主义
 		  => 来自doctor, 教导，后主要指宗教教义，教条。与词根-doc-, -doct-(教)同源

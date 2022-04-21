@@ -94,8 +94,8 @@
 		- [[056 Abraham Lincoln: Martyr]]
 		- [[057 Abraham Lincoln: Martyr (Part Two) ]]
 		- [[058 Abraham Lincoln: Martyr (Part Three) ]]
-		-
 		- [[059 Andrew Johnson: Impeached]]
+		-
 		- [[060 Ulysses S. Grant: Well-Meaning]]
 		- [[061 Rutherford B. Hayes: Middle-of-the-Road]]
 		- [[062 James Garfield: Assassinated]]
@@ -106,6 +106,7 @@
 		- [[067 Theodore Roosevelt: Energetic]]
 		- [[068 William Taft: Heavy]]
 		- [[069 Woodrow Wilson: Idealist]]
+		-
 		- [[070 Warren Harding: Damaged]]
 		- [[071 Calvin Coolidge: Silent]]
 		- [[072 Herbert Hoover: Blamed]]

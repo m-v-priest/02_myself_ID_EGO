@@ -63,8 +63,12 @@ title:: 046 John Quincy Adams: Independent
 		  但昆西·亚当斯在另一份工作中取得了多年的成功。他是(到目前为止)唯一一位在众议院任职的前总统。
 	- ## Great expectations
 	- The parents of John Quincy Adams, John and Abigail, were strong patriots. Theirs was one of the founding families of America.
-		- > ▶ expectation [ C ] [ usually pl.U ] a hope that sth good will happen 希望；盼望
+		- id:: be19803d-cb2c-468a-87da-67f4ac252d56
+		  > ▶ expectation [ C ] [ usually pl.U ] **a hope** that sth good will happen 希望；盼望
 		  ->The results exceeded our expectations. 结果比我们希望的还好。
+		  /[ Cusually pl. ] **a strong belief** about the way sth should happen /or how sb should behave 期望；指望
+		  /[ UC ] ~ (of sth)~ (that...) : **a belief** that sth will happen /because it is likely 预料；预期；期待
+		  => ex-出,向外(x发音为ks) + -spect-看(s因和x发音重复而省略) + -ation名词词尾
 	- Abigail Adams especially raised her son /to serve his country. She expected him /to become president. She told him that, with his good education and training, if he did not serve in a high public office /it would be his own fault.
 		- > ▶ **public office** N-UNCOUNT Someone who is in public office is in a job that they have been elected to do by the public. 公职
 		- 如果他不担任高级公职，那将是他自己的过错。
