@@ -149,7 +149,8 @@ title:: 062 James Garfield: Assassinated
 		- ((6242a810-42ee-40e9-84ad-6fc9fd95c282))
 	- For weeks, Guiteau followed the president /and plotted to kill him. When he succeeded in shooting Garfield, Guiteau believed /he had performed a great service.
 	- At his trial, a jury decided that /Guiteau was sane(a.) – in other words, he was not **too** mentally unbalanced(a.) **to** be responsible for his crime. Almost a year after he shot the president, Guiteau himself was hanged.
-		- > ▶ sane (a.) having a normal healthy mind; not mentally ill 精神健全的；神志正常的 /sensible and reasonable 明智的；理智的；合乎情理的
+		- id:: 625f8da9-4ac8-4a57-973b-abb60da35213
+		  > ▶ sane (a.) having a normal healthy mind; not mentally ill 精神健全的；神志正常的 /sensible and reasonable 明智的；理智的；合乎情理的
 		  -> the sane way to solve the problem 解决问题的明智方法
 		  => 词源同 sound,健全 的，明智的，身心健康的。
 		- > ▶ unbalanced (a.)[ not usually before noun ] ( of a person 人 ) slightly crazy; mentally ill 心理不平衡；精神失常 /[ usually before noun ] giving too much or too little importance to one part or aspect of sth 不持平的；偏颇的；失衡的

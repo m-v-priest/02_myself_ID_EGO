@@ -110,7 +110,8 @@ title:: 066 William McKinley: Imperial
 		- > ▶ unwilling (a.)~ (to do sth) not wanting to do sth and refusing to do it 不情愿；不愿意 
 		  /[ only before noun ] not wanting to do or be sth, but forced to by other people 勉强的；无奈的；迫不得已的
 	- But the ship, called the Maine, exploded. Americans believed /the Spanish were responsible. Relations between the two countries /worsened fast. Spain declared war. The U.S. Congress /answered **in kind**.
-		- > ▶  in kind:
+		- id:: 6260c4be-6bf8-4c48-8a14-456458f1da9b
+		  > ▶  in kind:
 		  (1) ( of a payment 支付 ) consisting of goods or services, not money 以实物支付；以货代款；以服务偿付
 		  (2) ( formal ) with the same thing 以同样的方法（或手段）
 		  -> She insulted him /and he responded **in kind**. 她侮辱了他，他也以其人之道还治其人之身。

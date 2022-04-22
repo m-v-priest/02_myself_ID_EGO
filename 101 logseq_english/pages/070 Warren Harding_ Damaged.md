@@ -101,7 +101,8 @@ title:: 070 Warren Harding: Damaged
 	- He succeeded /on both issues. His administration reduced taxes /for big businesses and wealthy people. It also increased tariffs -- taxes on foreign imports.
 		- 为大企业和富人减税,  它还提高了进口关税。
 	- And the Harding administration /**put in place** new rules on immigration. The rules made it easier for immigrants from northern Europe /to enter the country, but harder /for immigrants from Russia, eastern and central Europe.
-		- > ▶ **in place**
+		- id:: 626117e7-4d19-47a3-a515-d6de9831694c
+		  > ▶ **in place**
 		  (1) ( also into ˈplace ) in the correct position; ready for sth 在正确位置；准备妥当
 		  -> Carefully lay each slab in place. 要仔细铺好每一块石板。 
 		  (2) working or ready to work 在工作；准备就绪
@@ -133,15 +134,23 @@ title:: 070 Warren Harding: Damaged
 		- 当...时，调查才刚刚开始。
 	- Some say that /Harding was also trying to escape the problems in his administration. He reportedly told one reporter that /`主` **worrying about** what his friends were doing `谓` kept him awake at nights.
 		- 有人说Harding也在试图逃避他的政府的问题。据报道，他告诉一名记者，担心朋友们在做什么让他晚上睡不着。
-	- During the trip, Harding showed signs of not being in good health. Doctors thought he could have food poisoning or pneumonia. He was taken to a hotel in San Francisco, California. For a day, he appeared to be feeling better.
+	- During the trip, Harding showed signs of /not being in good health. Doctors thought /he could have **food poisoning** or pneumonia. He was taken to a hotel /in San Francisco, California. For a day, he appeared to be feeling better.
+		- > ▶ poisoning (n.)the fact or state of having swallowed or absorbed poison 中毒；服毒 /毒害；毒杀；投毒
+		- ((62566800-8b6c-498f-b0a6-ee7824a3c31b))
 	- He was sitting up in bed. And then suddenly, his body shook and collapsed. He died instantly.
-	- Reports at the time differed on the cause of Harding's death. Some even said that his wife poisoned the president to protect him from being punished for the wrongdoing in his administration.
-	- But most historians think that he had long suffered from heart failure, and was struck by a heart attack. He was 57.
+	- Reports at the time /differed on the cause of Harding's death. Some even said that /his wife poisoned the president /to protect him from being punished /for the wrongdoing in his administration.
+	- But most historians think that /he had long suffered from heart failure, and was struck by a heart attack. He was 57.
 	- ## Legacy
-	- Millions of Americans mourned over Warren Harding's death. They stood beside railroad tracks as his body traveled from California back to Washington, DC.
-	- The following year, Florence Harding also died. She and her husband are buried together under a grand memorial in their hometown in Ohio.
-	- But in the years after his death, Harding's public image worsened. More corruption scandals in his administration came to light. And some historians have criticized him for not having a clear idea about how he wanted to lead the country.
-	- In 1927, a woman published a book saying she had a long, but secret relationship with Harding, both before and during his presidency. She also said he was the father of her daughter. Genetic testing has confirmed her claim.
-	- More than 30 years after her book was published, a lawyer discovered love letters from Harding to a different woman. They confirmed that he had a long romantic affair with the wife of one of his friends. Harding had also been married at the time.
-	- These reports, as well as the corruption during his administration, damaged Harding's public image. But he also seemed to know that he would not be remembered as one of the best occupants of the White House.
-	- Instead, he tried to be likable and modest. He called himself "a man of limited talents" who was "not fit for the office" of president.
+	- Millions of Americans **mourned over** Warren Harding's death. They stood beside railroad tracks /as his body traveled from California /back to Washington, DC.
+	- The following year, Florence Harding also died. She and her husband /are buried together /under a grand memorial /in their hometown in Ohio.
+	- But in the years /after his death, Harding's public image worsened. More corruption scandals /in his administration /came to light. And some historians have criticized him /for not having a clear idea about /how he wanted to lead the country.
+	- In 1927, a woman published a book /saying she had a long, but secret relationship with Harding, **both** before **and** during his presidency. She also said /he was the father of her daughter. **Genetic testing** has confirmed her claim.
+		- 基因检测证实了她的说法。
+	- More than 30 years /after her book was published, a lawyer discovered **love letters** from Harding to a different woman. They confirmed that /he had a long romantic affair with the wife of one of his friends. Harding had also been married at the time.
+		- > ▶ love letter (n.) a letter that you write to sb telling them that you love them 情书
+	- These reports, **as well as** the corruption during his administration, damaged Harding's public image. But he also seemed to know that /he would not be remembered as one of the best occupants of the White House.
+		- > ▶ occupant (n.) a person who lives or works in a particular house, room, building, etc. （房屋、建筑等的）使用者，居住者 /（汽车等内的）乘坐者，占用者
+	- Instead, he tried to be likable and modest. He called himself "a man of limited talents" who was "not **fit for** the office" of president.
+		- > ▶ talent  [ CU ] ~ (for sth) a natural ability to do sth well 天才；天资；天赋
+		  + /[ UC ] people or a person with a natural ability to do sth well 有才能的人；人才；天才
+		- 他称自己“才华有限”，“不适合当总统”。

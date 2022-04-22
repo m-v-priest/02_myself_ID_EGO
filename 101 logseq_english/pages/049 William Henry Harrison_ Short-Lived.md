@@ -163,7 +163,8 @@ title:: 049 William Henry Harrison: Short-Lived
 		- > ▶ episode (n.)an event, a situation, or a period of time in sb's life, a novel, etc. that is important or interesting in some way （人生的）一段经历；（小说的）片段，插曲 /an event, a situation, or a period of time in sb's life, a novel, etc. that is important or interesting in some way （人生的）一段经历；（小说的）片段，插曲
 	- For future generations, it also raised a question about /what Harrison died of. The traditional story is that /his long inaugural speech /led to a fatal pneumonia.
 		- > ▶ fatal (a.)causing or ending in death 致命的 /causing or ending in death 致命的
-		- > ▶ pneumonia  /nuːˈmoʊniə/ [ U ] a serious illness affecting one or both lungs that makes breathing difficult 肺炎
+		- id:: 62566800-8b6c-498f-b0a6-ee7824a3c31b
+		  > ▶ pneumonia  /nuːˈmoʊniə/ [ U ] a serious illness affecting one or both lungs that makes breathing difficult 肺炎
 	- But researchers in 2014 /proposed a different reason.
 		- > ▶ propose  (v.)[ VN ] ( formal ) to suggest an explanation of sth for people to consider 提供（解释） /( formal ) to suggest a plan, an idea, etc. for people to think about and decide on 提议；建议
 		  -> What would you propose? 你想提什么建议？

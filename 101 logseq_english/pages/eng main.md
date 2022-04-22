@@ -113,6 +113,7 @@
 		- [[073 Franklin D. Roosevelt: Powerful]]
 		- [[074 Franklin Roosevelt: Powerful  (Part 2)]]
 		- [[075 Harry Truman: Atomic]]
+		-
 		- [[076 John Kennedy: Young]]
 		- [[077 Lyndon Johnson: Complicated]]
 		- [[078 Richard Nixon: Resigned]]
