@@ -113,11 +113,11 @@
 		- [[073 Franklin D. Roosevelt: Powerful]]
 		- [[074 Franklin Roosevelt: Powerful  (Part 2)]]
 		- [[075 Harry Truman: Atomic]]
-		-
 		- [[076 John Kennedy: Young]]
 		- [[077 Lyndon Johnson: Complicated]]
 		- [[078 Richard Nixon: Resigned]]
 		- [[079 Gerald Ford: Unelected]]
+		-
 		- [[080 Jimmy Carter: Outsider]]
 		- [[081 Ronald Reagan: Communicator]]
 		- [[082 George H.W. Bush: Cautious]]

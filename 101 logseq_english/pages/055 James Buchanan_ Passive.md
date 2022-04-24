@@ -142,8 +142,11 @@ title:: 055 James Buchanan: Passive
 		- > ▶ unity (n.) [ Using. ] the state of being in agreement and working together; the state of being joined together to form one unit 团结一致；联合；统一
 		  -> European unity 欧洲的统一
 		  /( in art, etc. 艺术等 ) the state of looking or being complete in a natural and pleasing way 完整；完美；和谐；协调
-		- > ▶ opening (n.) a space or hole that sb/sth can pass through 孔；洞；缺口 / [ Cusually sing. ] the beginning or first part of sth 开始；开端 /a good opportunity for sb 良机
+		- id:: 6258f7b2-2eb8-4edd-ba7a-520ee1be46f7
+		  > ▶ opening (n.) a space or hole that sb/sth can pass through 孔；洞；缺口 
+		  + / [ Cusually sing. ] the beginning or first part of sth 开始；开端 
 		  -> Winning the competition /was **the opening** /she needed for her career. 在这次比赛中获胜, 是她未来事业发展的良好开端。
+		  + /**a good opportunity for sb** 良机
 		- 民主党的缺乏团结, 为新党(--共和党)的候选人提供了机会。共和党是由反对奴隶制的北方人组成的。
 	- Lincoln won the presidential election of 1860.
 	- In answer, the Southern state of South Carolina /withdrew from the Union.

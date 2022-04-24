@@ -53,7 +53,8 @@
 		- > ▶  hard-won (a.)that you only get after fighting or working hard for it 经奋斗（或努力）得到的；来之不易的
 		- > ▶ Philadelphia  /ˌfɪləˈdelfɪr/ 美国城市名
 		  ![image.png](../assets/image_1647408758307_0.png){:height 62, :width 130}
-		- > ▶ segregation :  the act or policy of separating people of different races, religions or sexes and treating them in a different way （对不同种族、宗教或性别的人所采取的）隔离并区别对待，隔离政策 / 隔离（或分离）措施
+		- id:: 6231769b-8b88-44b3-98ad-208593d7eea8
+		  > ▶ segregation :  the act or policy of separating people of different races, religions or sexes and treating them in a different way （对不同种族、宗教或性别的人所采取的）隔离并区别对待，隔离政策 / 隔离（或分离）措施
 		  -> **racial/religious segregation** 种族╱宗教隔离
 		- 美国总统拜登批评这些法案侵犯了来之不易的投票权。今年7月，拜登在费城表示，“21世纪的吉姆·克劳式攻击是真实的。”这个词是关于19世纪和20世纪的种族隔离法律的。现在它被用来描述选民压制行动。
 	- Republican officials **behind the laws** say /they are meant to prevent fraud /and bring back public confidence in elections. Georgia Governor Brian Kemp said /of the state’s new election law, "Georgia will take another step toward /ensuring our elections are secure, accessible and fair."

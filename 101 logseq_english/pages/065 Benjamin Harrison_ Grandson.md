@@ -79,7 +79,9 @@ title:: 065 Benjamin Harrison: Grandson
 	- Harrison's loss of his Senate seat /soon turned to a victory. The Republican Party /nominated him as their candidate /to run against Grover Cleveland /in the 1888 presidential election.
 	- Cleveland's economic policies /had become unpopular, and Republicans /worked hard to support their candidate. They succeeded. Although Cleveland won **the popular vote**, Harrison won **the Electoral College**.
 		- > ▶ popular vote 普选；直接投票, 选民票
-		- > ▶ electoral  (a.) [ only before noun ] connected with elections 有关选举的
+		- id:: 6260af7c-cb61-4a69-8778-b87a59fbc12f
+		  > ▶ electoral  (a.) [ only before noun ] connected with elections 有关选举的
+		  > ▶  **the Electoral College** :  (in the US) a group of people who come together to elect the President and Vice-President, based on the votes of people in each state 总统选举团（在美国由各州选民投票推选组成，集中在一起选举总统和副总统）
 		- > ▶  Electoral College : **the Electoral College** (in the US) a group of people /who come together /to elect the President and Vice-President, based on the votes of people /in each state 总统选举团（在美国由各州选民投票推选组成，集中在一起选举总统和副总统）
 		- 虽然克利夫兰赢得了普选，但哈里森赢得了选举团。
 	- In 1889, he followed his grandfather's footsteps /all the way to the White House.

@@ -28,7 +28,8 @@
 		- > ▶ **guilty (a.)~ (of sth)** having done sth illegal; being responsible for sth bad that has happened 犯了罪；有过失的；有罪责的
 		  -> The jury found the defendant **not guilty(a.) of the offence**. 陪审团裁决被告无罪。
 	- While the country is having a discussion on policing, communities are questioning /who should become a police officer today.
-		- > ▶ community [ sing. ] all the people who live in a particular area, country, etc. when talked about as a group 社区；社会
+		- id:: 623196ed-fcf1-449d-b09d-c5e44b3dbe1b
+		  > ▶ community [ sing. ] all the people who live in a particular area, country, etc. when talked about as a group 社区；社会
 		- 当国家在讨论警务时，社区在质疑今天谁应该成为一名警察。
 	- `主` Large protests, **calls for** reforming or defunding the police, as well as the coronavirus pandemic /`谓` have hurt police officers’ spirit.
 		- > ▶ defund 从……抽回资金; 撤回资金
