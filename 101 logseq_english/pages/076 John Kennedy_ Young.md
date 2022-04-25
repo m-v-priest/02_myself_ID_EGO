@@ -126,7 +126,8 @@ title:: 076 John Kennedy: Young
 	- Kennedy is also remembered for several troubling international events. In one, known as the Bay of Pigs, Americans supported Cuban refugees(n.) /in an effort to oust(v.) the government of Fidel Castro. **Not only** did the refugees fail, **but** Kennedy's government was found to be lying about their support of the effort.
 		- > ▶ refugee  : N-COUNT Refugees are people /who have been forced to leave their homes or their country, either because there is a war there, because of their political or religious beliefs, or because of natural disaster. 难民
 		  => re-,向后，往回，-fug,逃避，逃跑，词源同 fugitive,centrifuge.
-		- > ▶ oust (v.)[ VN ] ~ sb (from sth/as sth) : to force sb out of a job or position of power, especially in order to take their place 剥夺；罢免；革职
+		- id:: 6264a635-a16f-4180-af63-990b3b567d6f
+		  > ▶ oust (v.)[ VN ] ~ sb (from sth/as sth) : to force sb out of a job or position of power, especially in order to take their place 剥夺；罢免；革职
 		  -> He was ousted as chairman. 他的主席职务被革除了。
 		  -> The rebels finally managed to oust(v.) the government from power. 反叛者最后总算推翻了政府。
 		  => 来自古法语oster,驱逐，赶走，来自拉丁语obstare,站在对面，阻止，阻碍，来自ob-,相对，对着的，-st,站，站立，词源同stand.引申词义剥夺，罢免。词义演变比较obviate.

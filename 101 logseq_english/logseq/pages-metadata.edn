@@ -98,7 +98,7 @@
  {:block/name
   "019 the worldwide effects of russia’s invasion of ukraine",
   :block/created-at 1647319292281,
-  :block/updated-at 1647322515730}
+  :block/updated-at 1650867251702}
  {:block/name
   "020 research_ raising a child costlier in china than in us, japan",
   :block/created-at 1647322593566,
@@ -116,7 +116,7 @@
   :block/updated-at 1647404824067}
  {:block/name "024 voting rights act, 56 years later, is in danger",
   :block/created-at 1647406581519,
-  :block/updated-at 1647413821682}
+  :block/updated-at 1650866034939}
  {:block/name
   "025 news agencies say reporters, activists targeted by spyware",
   :block/created-at 1647414424281,
@@ -216,7 +216,7 @@
   :block/updated-at 1649991925595}
  {:block/name "055 james buchanan_ passive",
   :block/created-at 1649751295073,
-  :block/updated-at 1649998252563}
+  :block/updated-at 1650768524912}
  {:block/name "056 abraham lincoln_ martyr",
   :block/created-at 1649751420531,
   :block/updated-at 1650252272989}
@@ -252,7 +252,7 @@
   :block/updated-at 1650439551421}
  {:block/name "065 benjamin harrison_ grandson",
   :block/created-at 1649752621801,
-  :block/updated-at 1650507501988}
+  :block/updated-at 1650862511803}
  {:block/name "066 william mckinley_ imperial",
   :block/created-at 1649752719647,
   :block/updated-at 1650510131540}
@@ -270,7 +270,7 @@
   :block/updated-at 1650590595387}
  {:block/name "071 calvin coolidge_ silent",
   :block/created-at 1649811942452,
-  :block/updated-at 1650593678302}
+  :block/updated-at 1650848934668}
  {:block/name "072 herbert hoover_ blamed",
   :block/created-at 1649812059903,
   :block/updated-at 1650598282631}
@@ -285,37 +285,37 @@
   :block/updated-at 1650609394803}
  {:block/name "076 john kennedy_ young",
   :block/created-at 1649812766457,
-  :block/updated-at 1650614900402}
+  :block/updated-at 1650766250364}
  {:block/name "077 lyndon johnson_ complicated",
   :block/created-at 1649812908349,
-  :block/updated-at 1649813007349}
+  :block/updated-at 1650770176248}
  {:block/name "078 richard nixon_ resigned",
   :block/created-at 1649813023084,
-  :block/updated-at 1649813156340}
+  :block/updated-at 1650775787908}
  {:block/name "079 gerald ford_ unelected",
   :block/created-at 1649813182571,
-  :block/updated-at 1649813281081}
+  :block/updated-at 1650778965988}
  {:block/name "080 jimmy carter_ outsider",
   :block/created-at 1649813303084,
-  :block/updated-at 1649813403898}
+  :block/updated-at 1650782685796}
  {:block/name "081 ronald reagan_ communicator",
   :block/created-at 1649813427473,
-  :block/updated-at 1649813511992}
+  :block/updated-at 1650855211270}
  {:block/name "082 george h.w. bush_ cautious",
   :block/created-at 1649813532897,
-  :block/updated-at 1649813620607}
+  :block/updated-at 1650860165139}
  {:block/name "083 bill clinton_ survivor",
   :block/created-at 1649813640109,
-  :block/updated-at 1649813876405}
+  :block/updated-at 1650865311955}
  {:block/name "084 george w. bush_ wartime president",
   :block/created-at 1649813897019,
-  :block/updated-at 1649813997431}
+  :block/updated-at 1650871018762}
  {:block/name "085 barack obama_ african-american",
   :block/created-at 1649814159371,
-  :block/updated-at 1649814777803}
+  :block/updated-at 1650870917132}
  {:block/name "086  donald trump_ unusual",
   :block/created-at 1649814816654,
-  :block/updated-at 1649815065719}
+  :block/updated-at 1650873217823}
  {:block/name
   "1. 动作或事件, 从a时 延续到→ b时 → 并可能继续延续到未来. ⇒ (1). 谓语必须是_延续性动词_(而非_短暂动词_); (2). 句子要带_延续性时间状语_(since...​, for+时间段, 等)",
   :block/created-at 1645063193252,
@@ -367,6 +367,9 @@
  {:block/name "3. 过去时间点a已经结束的事件, 后果影响到了时间点b",
   :block/created-at 1645063517291,
   :block/updated-at 1645067712850}
+ {:block/name "_ ▶",
+  :block/created-at 1650783018725,
+  :block/updated-at 1650783018725}
  {:block/name
   "_短暂动作_动词, 不能表示延续; 但它用在_否定句中_时, 表示_事情还未发生_这样一种状态, 就具有了_延续_的含义.",
   :block/created-at 1645072703271,
@@ -415,6 +418,12 @@
  {:block/name "apr 22nd, 2022",
   :block/created-at 1650589137878,
   :block/updated-at 1650589137878}
+ {:block/name "apr 24th, 2022",
+  :block/created-at 1650761926007,
+  :block/updated-at 1650761926007}
+ {:block/name "apr 25th, 2022",
+  :block/created-at 1650848000519,
+  :block/updated-at 1650848000519}
  {:block/name "apr 8th, 2022",
   :block/created-at 1649377698587,
   :block/updated-at 1649377698587}
@@ -453,7 +462,7 @@
   :block/updated-at 1645764327451}
  {:block/name "eng main",
   :block/created-at 1644202830699,
-  :block/updated-at 1650609450639}
+  :block/updated-at 1650779198057}
  {:block/name "english 学习方法论",
   :block/created-at 1646284526833,
   :block/updated-at 1646705216761}

@@ -35,6 +35,7 @@
 		- id:: 62316f64-7feb-43b1-a425-ce70b0eba349
 		  > ▶ conservative (a.)opposed to great or sudden social change; showing that you prefer traditional styles and values 保守的；守旧的
 		  -> **the conservative views** of his parents 他父母的保守观念
+		  + /(n.) ( usually Conservative ) (abbr. Con ) a member or supporter of the British Conservative Party （英国）保守党党员，保守党支持者
 		- > ▶ lessen (v.)to become or make sth become smaller, weaker, less important, etc. （使）变小，变少，减弱，减轻
 		- 一个威胁是, 共和党控制的州, 在全国范围内, 通过的一系列限制性投票规则。另一个威胁是由保守派控制的最高法院，该法院一直在不断削弱法律所赋予的法律保护。
 	- ## State legislation to limit(v.) voting rights

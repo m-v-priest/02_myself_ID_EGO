@@ -71,7 +71,8 @@ title:: 077 Lyndon Johnson: Complicated
 	- Many Americans recognize Johnson from a photograph of his swearing-in on November 22, 1963.
 	- Kennedy had just been shot /during a visit to Dallas, Texas. Johnson and his wife also were visiting the city.
 	- After doctors announced that /Kennedy had died, the Johnsons were taken to the presidential airplane. There, Johnson **took the oath** of office as president.
-		- > ▶ oath   /oʊθ/ (n.) a formal promise to do sth /or a formal statement that sth is true 宣誓；誓言
+		- id:: 6264b368-d2cf-4467-9315-9c66dff6ccd3
+		  > ▶ oath   /oʊθ/ (n.) a formal promise to do sth /or a formal statement that sth is true 宣誓；誓言
 		  -> to take/swear an oath of allegiance 宣誓效忠
 		  + **ON/UNDER OATH**
 		  ( law 律 ) having made a formal promise to tell the truth in court （在法庭上）宣誓说实话，经宣誓

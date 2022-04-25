@@ -143,7 +143,8 @@ title:: 048 Martin Van Buren: OK
 	- In the election of 1840, Van Buren sought a second term as president. This time his opponents used Van Buren’s **political techniques** against him.
 		- 这一次，他的对手利用范布伦的政治技巧, 来对付他。
 	- Silbey says /the new opposition party, called the Whigs, used popular speeches and events /**to portray** Van Buren **as** a failed president.
-		- > ▶ portray (v.)描绘；描画；描写 / **~ sb/sth (as sb/sth)** to describe or show sb/sth in a particular way, especially when this does not give a complete or accurate impression of what they are like 将…描写成；给人以某种印象；表现
+		- id:: 62565ceb-5c9f-436e-b70c-1940965a5f88
+		  > ▶ portray (v.)描绘；描画；描写 / **~ sb/sth (as sb/sth)** to describe or show sb/sth in a particular way, especially when this does not give a complete or accurate impression of what they are like 将…描写成；给人以某种印象；表现
 	- Crowds shouted, “Mattie Van is a used-up man!” In other words, he no longer had any **power or effect** in government.
 		- > ▶ used-up adj. 疲惫不堪的，精疲力竭的
 			- 他在政府中不再有任何权力或影响。

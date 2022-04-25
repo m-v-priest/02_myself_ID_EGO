@@ -65,7 +65,9 @@
 	- High gas prices are feeding inflation, and Europeans are paying more for heating. The result is that households have less money to spend, and hopes for an economic recovery after the COVID-19 pandemic have decreased.
 	- Industries that use natural gas, like **fertilizer makers**, have to cut production. Farmers **are paying more** to run(v.) machinery and buy fertilizer. Germany’s economy **could be facing a recession** by the first three months of 2022.
 		- > ▶ fertilizer  [ CU ] a substance added to soil to make plants grow more successfully 肥料
-		- > ▶ recession 经济衰退；经济萎缩 / ( formal ) the movement backwards of sth from a previous position 退后；撤回
+		- id:: 62301d87-59d1-4a31-9fa4-ba8225a8b894
+		  > ▶ recession 经济衰退；经济萎缩 / ( formal ) the movement backwards of sth from a previous position 退后；撤回
+		  => re-回,向后 + -cess-行走 + -ion名词词尾
 	- ## Finding supplies to meet demand
 	- Companies around the world /are trying to find enough goods /to meet demand /as the COVID-19 pandemic eases. This has meant shortages, **shipping delays** and **higher prices**.
 	- Disruptions to Russian and Ukrainian industries /could delay any return(n.) to normal conditions.

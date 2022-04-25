@@ -105,7 +105,8 @@ title:: 068 William Taft: Heavy
 	- William Taft did not really want to be president. But Theodore Roosevelt and Nellie Taft /wanted him to be.
 	- During the election of 1908, Taft permitted Roosevelt to do most of the campaigning for him. He spent a lot of time golfing. Taft was the first president to be strongly linked – **so to speak** – to the sport of golfing. (Another word for **golf course** is "links.")
 		- > ▶  so to speak  可以说；可以这么说, 打个譬喻说
-		- > ▶ golf course 高尔夫球
+		- id:: 6260e5db-a0bf-47dc-bc57-d5dd5eac8422
+		  > ▶ golf course 高尔夫球
 		- > ▶ golf links : ( links ) a golf course , especially one by the sea （尤指海边的）高尔夫球场
 		  ![image.png](../assets/image_1650517564472_0.png)
 		- 1908年大选期间，塔夫脱允许罗斯福为他做大部分的竞选活动。他花了很多时间打高尔夫球。可以说，塔夫脱是第一位与高尔夫运动密切相关的总统。(golf course 的另一个词是golf links 。)

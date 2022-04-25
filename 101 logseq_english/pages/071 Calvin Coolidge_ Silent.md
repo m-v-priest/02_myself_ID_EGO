@@ -73,8 +73,12 @@ title:: 071 Calvin Coolidge: Silent
 		- > ▶ Art Deco : ( Art Deco ) [ U ] a popular style of decorative art /in the 1920s and 1930s /that has geometric shapes with clear outlines and bright strong colours 装饰派艺术（流行于20世纪20至30年代，呈几何图形，线条清晰，色彩鲜明）
 		  ![image.png](../assets/image_1650591080055_0.png) ![image.png](../assets/image_1650591101123_0.png)
 	- Calvin Coolidge is often given credit /for **helping** fuel the Roaring Twenties /**with** his pro-business economic policies.
-		- > ▶ credit ~ (for sth) : praise or approval /because you are responsible for sth good that has happened 赞扬；称赞；认可
+		- id:: 626205b5-6665-4379-98ed-e231f20edaa7
+		  > ▶ credit ~ (for sth) : **praise or approval** /because you are responsible for sth good that has happened 赞扬；称赞；认可
 		  -> We did all the work /and she gets all the credit! 工作都是我们干的，而功劳却都归了她！
+		  + /**~ A with B** :  to believe that sb/sth has a particular good quality or feature 认为…有（良好的品质或特点）
+		  + /**~ A (with B) | ~ B (to A)** : to add an amount of money to sb's bank account （给银行账户）存入金额；把…记入贷方；贷记（银行账户）
+			-
 		- 卡尔文·柯立芝经常因其亲商的经济政策, 推动了繁荣的20年代 , 而受到赞扬。
 	- But some historians **caution(v.) against** /**remembering**(v.) Coolidge's business freedom policies **too fondly**. They say /he helped create the conditions /for the severe economic depression /that followed his presidency.
 		- > ▶ caution  (v.) ~ (sb) against sth |~ sb about sth  : to warn sb about the possible dangers or problems of sth 警告；告诫；提醒

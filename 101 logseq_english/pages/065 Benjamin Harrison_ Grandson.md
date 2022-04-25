@@ -98,7 +98,8 @@ title:: 065 Benjamin Harrison: Grandson
 	- His administration also increased **the United States' global trade** – as well as the country's navy.
 		- 他的政府还增加了美国的全球贸易，以及该国的海军。
 	- But, for the most part, **the most pressing issues** of the day /were economic. The federal government /at that time /had an unusually large surplus. Some argued that /the surplus was hurting business. In answer, Harrison's government /**placed** a high protective tariff /**on** imported goods. The legislation was known as /the McKinley Tariff of 1890.
-		- > ▶ surplus (n.) an amount /that is extra or more than you need 过剩；剩余；过剩量；剩余额 
+		- id:: 6260b123-a67a-4a08-907c-4c629b36394c
+		  > ▶ surplus (n.)(a.) an amount /that is extra or more than you need 过剩；剩余；过剩量；剩余额 
 		  /the amount /by which the amount of money received /is greater than the amount of money spent 盈余；顺差
 		  -> a trade surplus of ￡400 million 4亿英镑的贸易盈余
 		  **(a.) ~ (to sth)** more than is needed or used 过剩的；剩余的；多余的

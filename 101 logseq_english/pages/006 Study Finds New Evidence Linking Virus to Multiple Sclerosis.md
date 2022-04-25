@@ -37,7 +37,8 @@
 		- 长期以来，Epstein-Barr病毒, 一直被怀疑在多发性硬化症的发展过程中, 起到了一定的作用。但很难证明两者之间的联系，因为几乎所有人都会感染Epstein-Barr病毒，但很少有人会患上多发性硬化症。
 	- Last week, Harvard researchers reported(v.) **one of the largest studies** yet /to support(v.) **the possible link /between** the virus **and** MS. They studied(v.) a supply of **blood samples** /from **usual medical tests** /on more than 10 million members /of **the American military**. The samples cover(v.) a period /from 1993 to 2013. The scientists ==searched== the samples ==for== antibodies /后定 signaling(v.) **viral infection**.
 		- > ▶ medical test 体检, 医学检验
-		- > ▶ military (a.)(n.)the military [ sing.+sing./pl.v. ] soldiers; the armed forces 军人；军队；军方
+		- id:: 621d9f5d-aa5a-4957-9007-70008cbb8a0a
+		  > ▶ military (a.)(n.)the military [ sing.+sing./pl.v. ] soldiers; the armed forces 军人；军队；军方
 		- > ▶ signal (v.) ~ (to sb) to make a movement or sound to give sb a message, an order, etc. 发信号；发暗号；示意
 		- 上周，哈佛大学的研究人员, 报告了迄今为止支持这种病毒和多发性硬化症之间可能存在联系的, 规模最大的研究之一。他们研究了来自1000多万名美国军人的, 常规医学测试的血液样本。这些样本, 涵盖了1993年至2013年的时间段。科学家们在这些样本中, 寻找被病毒感染后所产生的, 作为提示信号的抗体。
 		-
