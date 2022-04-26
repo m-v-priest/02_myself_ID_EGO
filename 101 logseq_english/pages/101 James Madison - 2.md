@@ -1,0 +1,109 @@
+- ## 101 James Madison - 2
+- ## pure
+  collapsed:: true
+	- Two summers had gone by since the start of the American Civil War, and the north had not yet won a major battle in Virginia. The army of the Potomac -- the strongest of the Union armies -- had tried to seize Richmond, the Confederate capital.
+	- General George McClellan moved the army up to the very gates of the city. But then, General Robert E. Lee led his southern forces in a furious attack that smashed McClellan's army and drove him away from Richmond.
+	- VOICE TWO:
+	- President Abraham Lincoln and his new chief General, Henry Halleck, put together a new northern force. They called it the Army of Virginia. They gave command of it to General John Pope, a successful fighter in the west.
+	- Pope began to move south toward Richmond. Halleck ordered McClellan to bring his army up to join Pope. Together, they could smash through the Confederate defenses around Richmond.
+	- Lee decided to hit Pope before McClellan could join him. He left a few thousand troops to guard Richmond, then took the rest north. Lee moved up to the Rappahannock River, across from Pope's army.
+	- VOICE ONE:
+	- Lee sent Stonewall Jackson, with twenty-four-thousand men, on a quick march around the western end of Pope's lines. Jackson and his men marched more than eighty kilometers in two days. They got behind Pope and seized a huge northern supply center at Manassas.
+	- Pope moved to smash them. They burned the captured supplies. Then they moved a few kilometers away to a long, low hill just northwest of the Bull Run battleground, where southern forces defeated a northern army a year before.
+	- Jackson hid his troops in woods along the hill and waited for General Lee to arrive with the rest of the southern army.
+	- VOICE TWO:
+	  But before Lee could get there, Union troops -- thousands of them --marched down the road below Jackson. Jackson decided to attack, to hold them there until Lee arrived with help.
+	- The fighting was furious. Neither side broke. The fighting died down at the end of the day, and Jackson's men moved back to their positions on higher ground. They made their lines along a partly-built railroad on the side of the hill.
+	- VOICE ONE:
+	- From his headquarters on the hill, Jackson watched the northern forces prepare for battle. Many thousands of the enemy were marching into position. Pope brought up all his soldiers, and others were on the way from bases near Washington. Several thousand of McClellan's troops, commanded by General Porter, were arriving from the south.
+	- It was a mighty force, much larger than Jackson's army. Jackson was worried. He sent an officer back to find General Lee. He sent a message: Lee must hurry. Jackson faced a big army.
+	- VOICE TWO:
+	- Pope's army was large. But it was poorly organized. The men had been rushed into position. The order to attack was given before all the troops were ready.
+	- So, the attack began slowly. And jackson was able to fight it off. But then, more and more northern soldiers joined the fight. The two sides struggled for hours in the hot summer sun. Jackson's men almost broke. Men prayed for the long day to end. The sun seemed to stand still.
+	- VOICE ONE:
+	- Finally, the sun went down, and the battlefield became dark. Jackson's men had held, but they paid a terrible price. Thousands were killed or wounded. Northern losses were even greater.
+	- Most of the Union troops had fought bravely. They had hit the Confederate lines time after time. But one large group of soldiers did not get into the battle at all that day. This was the group from McClellan's army of the Potomac, led by Fitz John Porter.
+	- Pope had ordered Porter to strike at the right end of Jackson's lines. Porter took his troops several kilometers past Jackson's right...and stopped them. His soldiers remained there all day, out of the battle. Porter said later he believed the Confederate forces were too strong for his men.
+	- VOICE TWO:
+	- Other groups of McClellan's men were arriving in Alexandria, thirty kilometers to the east. Pope asked that they be sent to help him. McClellan was ordered to send them immediately. But he refused to do so. He said they were not in condition to fight, and he would not send them.
+	- General Pope still thought he was facing only Jackson's army. He refused to believe reports that Lee had arrived on the battlefield with thirty-thousand more southern soldiers. Pope thought Lee was still far to the west of Manassas.
+	- VOICE ONE:
+	- Pope knew that Jackson's army had taken a terrible beating in the two days of bloody fighting. nd he was sure that Jackson would try to withdraw the next day, to retreat to the west.
+	- Pope divided his forces that night. He left thousands in place in front of Jackson's lines. The others were moved back. They were ordered to get ready for a march west to block Jackson's retreat.
+	- Pope made a terrible mistake. Jackson was not planning to retreat. He was waiting with Lee to smash the northern army. And that is what happened the next day.
+	- VOICE TWO:
+	- Northern troops attacked Jackson's lines. The fighting was bitter. Pope's forces almost smashed through. But then Lee ordered his men to move forward to help Jackson. Confederate artillery broke up the northern attack. When the northern troops began to retreat, Lee and Jackson attacked with all their might.
+	- Many of Pope's men were not prepared for battle. They were standing together in groups, ready for marching. They could not stop the southern attack. The Confederates pushed Pope's army back across the Old Bull Run battlefield.
+	- VOICE ONE:
+	- Near the end of the day, northern forces succeeded in organizing a stronger defensive line. The southern attack slowed down, then stopped. Lee sent Jackson around the north end of Pope's line to try to stop the northern retreat. Lee did not want the defeated Union army to escape. He wanted to destroy it.
+	- But heavy rain held up Jackson's troops. They were discovered and attacked by a strong northern force. Jackson could move no farther. He could not stop Pope's retreat to Centreville and Washington. The northern army escaped.
+	- VOICE TWO:
+	- But it left behind thousands and thousands of dead and wounded. Confederate doctors treated their own men, then tried to help the wounded soldiers of the other side. General Lee permitted northern medical wagons to return to the battlefield. And they began to carry the wounded back to Centreville.
+	- Groups of McClellan's army, arriving from Alexandria, met Pope's men in Centreville. They laughed and shouted at the tired, beaten soldiers. Many said they were glad that Pope had lost.
+	- One of McClellan's Generals, Samuel Sturgis, greeted Pope at Centreville: "I always told you, Pope, that if they gave you enough rope, you would hang yourself."
+	- VOICE ONE:
+	  What happened at Bull Run created bitter anger among the people of the north -- anger against their military leaders. People felt that a year had been wasted...that thousands had died for no real purpose. The year before, southern troops sent a northern army fleeing from Bull Run. Now, it was happening again. The Army of the Potomac was back where it started.
+	- As the facts of the battle became known, cries of anger became even louder. The people demanded answers. Why did McClellan and his men move so slowly. Why did they refuse to go to Pope's aid. Why did Pope let Jackson get behind him. Why were fourteen-thousand soldiers lost.
+	- VOICE TWO:
+	- Most members of Lincoln's cabinet believed McClellan was responsible.
+	- Treasury Secretary Salmon Chase said McClellan should be shot. War Secretary Edwin Stanton said he should be dismissed immediately. He and three other cabinet members signed a note demanding that Lincoln remove McClellan as Commander of the Army of the Potomac.
+	- Lincoln agreed that what McClellan had done was shocking. He said it was clear that McClellan wanted Pope to fail. But Lincoln said he would not remove McClellan. He said he knew that McClellan was not an aggressive general. But he said McClellan was a good organizer who could build the defeated army into a strong force.
+	- VOICE ONE:
+	- General Robert E. Lee, however, would not wait while McClellan rebuilt the army. He decided to carry the war to the north.
+	- (MUSIC)
+	- VOICE TWO:
+	- You have been listening to the Special English program, THE MAKING OF A NATION. Your narrators were Jack Moyles and Maurice Joyce. Our program was written by Frank Beardsley. THE MAKING OF A NATION can be heard Thursdays.
+- ---
+- ## def
+	- Two summers had gone by since the start of the American Civil War, and the north had not yet won a major battle in Virginia. The army of the Potomac -- the strongest of the Union armies -- had tried to seize Richmond, the Confederate capital.
+	- General George McClellan moved the army up to the very gates of the city. But then, General Robert E. Lee led his southern forces in a furious attack that smashed McClellan's army and drove him away from Richmond.
+	- VOICE TWO:
+	- President Abraham Lincoln and his new chief General, Henry Halleck, put together a new northern force. They called it the Army of Virginia. They gave command of it to General John Pope, a successful fighter in the west.
+	- Pope began to move south toward Richmond. Halleck ordered McClellan to bring his army up to join Pope. Together, they could smash through the Confederate defenses around Richmond.
+	- Lee decided to hit Pope before McClellan could join him. He left a few thousand troops to guard Richmond, then took the rest north. Lee moved up to the Rappahannock River, across from Pope's army.
+	- VOICE ONE:
+	- Lee sent Stonewall Jackson, with twenty-four-thousand men, on a quick march around the western end of Pope's lines. Jackson and his men marched more than eighty kilometers in two days. They got behind Pope and seized a huge northern supply center at Manassas.
+	- Pope moved to smash them. They burned the captured supplies. Then they moved a few kilometers away to a long, low hill just northwest of the Bull Run battleground, where southern forces defeated a northern army a year before.
+	- Jackson hid his troops in woods along the hill and waited for General Lee to arrive with the rest of the southern army.
+	- VOICE TWO:
+	  But before Lee could get there, Union troops -- thousands of them --marched down the road below Jackson. Jackson decided to attack, to hold them there until Lee arrived with help.
+	- The fighting was furious. Neither side broke. The fighting died down at the end of the day, and Jackson's men moved back to their positions on higher ground. They made their lines along a partly-built railroad on the side of the hill.
+	- VOICE ONE:
+	- From his headquarters on the hill, Jackson watched the northern forces prepare for battle. Many thousands of the enemy were marching into position. Pope brought up all his soldiers, and others were on the way from bases near Washington. Several thousand of McClellan's troops, commanded by General Porter, were arriving from the south.
+	- It was a mighty force, much larger than Jackson's army. Jackson was worried. He sent an officer back to find General Lee. He sent a message: Lee must hurry. Jackson faced a big army.
+	- VOICE TWO:
+	- Pope's army was large. But it was poorly organized. The men had been rushed into position. The order to attack was given before all the troops were ready.
+	- So, the attack began slowly. And jackson was able to fight it off. But then, more and more northern soldiers joined the fight. The two sides struggled for hours in the hot summer sun. Jackson's men almost broke. Men prayed for the long day to end. The sun seemed to stand still.
+	- VOICE ONE:
+	- Finally, the sun went down, and the battlefield became dark. Jackson's men had held, but they paid a terrible price. Thousands were killed or wounded. Northern losses were even greater.
+	- Most of the Union troops had fought bravely. They had hit the Confederate lines time after time. But one large group of soldiers did not get into the battle at all that day. This was the group from McClellan's army of the Potomac, led by Fitz John Porter.
+	- Pope had ordered Porter to strike at the right end of Jackson's lines. Porter took his troops several kilometers past Jackson's right...and stopped them. His soldiers remained there all day, out of the battle. Porter said later he believed the Confederate forces were too strong for his men.
+	- VOICE TWO:
+	- Other groups of McClellan's men were arriving in Alexandria, thirty kilometers to the east. Pope asked that they be sent to help him. McClellan was ordered to send them immediately. But he refused to do so. He said they were not in condition to fight, and he would not send them.
+	- General Pope still thought he was facing only Jackson's army. He refused to believe reports that Lee had arrived on the battlefield with thirty-thousand more southern soldiers. Pope thought Lee was still far to the west of Manassas.
+	- VOICE ONE:
+	- Pope knew that Jackson's army had taken a terrible beating in the two days of bloody fighting. nd he was sure that Jackson would try to withdraw the next day, to retreat to the west.
+	- Pope divided his forces that night. He left thousands in place in front of Jackson's lines. The others were moved back. They were ordered to get ready for a march west to block Jackson's retreat.
+	- Pope made a terrible mistake. Jackson was not planning to retreat. He was waiting with Lee to smash the northern army. And that is what happened the next day.
+	- VOICE TWO:
+	- Northern troops attacked Jackson's lines. The fighting was bitter. Pope's forces almost smashed through. But then Lee ordered his men to move forward to help Jackson. Confederate artillery broke up the northern attack. When the northern troops began to retreat, Lee and Jackson attacked with all their might.
+	- Many of Pope's men were not prepared for battle. They were standing together in groups, ready for marching. They could not stop the southern attack. The Confederates pushed Pope's army back across the Old Bull Run battlefield.
+	- VOICE ONE:
+	- Near the end of the day, northern forces succeeded in organizing a stronger defensive line. The southern attack slowed down, then stopped. Lee sent Jackson around the north end of Pope's line to try to stop the northern retreat. Lee did not want the defeated Union army to escape. He wanted to destroy it.
+	- But heavy rain held up Jackson's troops. They were discovered and attacked by a strong northern force. Jackson could move no farther. He could not stop Pope's retreat to Centreville and Washington. The northern army escaped.
+	- VOICE TWO:
+	- But it left behind thousands and thousands of dead and wounded. Confederate doctors treated their own men, then tried to help the wounded soldiers of the other side. General Lee permitted northern medical wagons to return to the battlefield. And they began to carry the wounded back to Centreville.
+	- Groups of McClellan's army, arriving from Alexandria, met Pope's men in Centreville. They laughed and shouted at the tired, beaten soldiers. Many said they were glad that Pope had lost.
+	- One of McClellan's Generals, Samuel Sturgis, greeted Pope at Centreville: "I always told you, Pope, that if they gave you enough rope, you would hang yourself."
+	- VOICE ONE:
+	  What happened at Bull Run created bitter anger among the people of the north -- anger against their military leaders. People felt that a year had been wasted...that thousands had died for no real purpose. The year before, southern troops sent a northern army fleeing from Bull Run. Now, it was happening again. The Army of the Potomac was back where it started.
+	- As the facts of the battle became known, cries of anger became even louder. The people demanded answers. Why did McClellan and his men move so slowly. Why did they refuse to go to Pope's aid. Why did Pope let Jackson get behind him. Why were fourteen-thousand soldiers lost.
+	- VOICE TWO:
+	- Most members of Lincoln's cabinet believed McClellan was responsible.
+	- Treasury Secretary Salmon Chase said McClellan should be shot. War Secretary Edwin Stanton said he should be dismissed immediately. He and three other cabinet members signed a note demanding that Lincoln remove McClellan as Commander of the Army of the Potomac.
+	- Lincoln agreed that what McClellan had done was shocking. He said it was clear that McClellan wanted Pope to fail. But Lincoln said he would not remove McClellan. He said he knew that McClellan was not an aggressive general. But he said McClellan was a good organizer who could build the defeated army into a strong force.
+	- VOICE ONE:
+	- General Robert E. Lee, however, would not wait while McClellan rebuilt the army. He decided to carry the war to the north.
+	- (MUSIC)
+	- VOICE TWO:
+	- You have been listening to the Special English program, THE MAKING OF A NATION. Your narrators were Jack Moyles and Maurice Joyce. Our program was written by Frank Beardsley. THE MAKING OF A NATION can be heard Thursdays.

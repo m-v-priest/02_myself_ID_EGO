@@ -1,0 +1,101 @@
+- ## 101 James Madison - 1
+- ## pure
+  collapsed:: true
+	- (THEME)
+	- VOICE ONE:
+	  THE MAKING OF A NATION -- a program in Special English by the Voice of America.
+	- (THEME)
+	- James Madison of Virginia was elected president of the United States in Eighteen-Oh-Eight. He followed Thomas Jefferson in the office and served two terms.
+	- Madison's first four years were not easy. He had to deal with a foreign policy problem that Jefferson was unable to solve: increasingly tense relations with Britain. His second four years were worse. There was war. That is our story.
+	- VOICE TWO:
+	- James Madison was inaugurated in Washington on March Fourth, Eighteen-Oh-Nine. The people of the city were happy with the new president. But the nation was not yet sure what kind of leader he would be.
+	- The French minister to the United States did not think much of him. He said: "Mister Madison is an intelligent man, but weak. He will always see what should be done, but will not do it."
+	- VOICE ONE:
+	- Like the first three American presidents, Madison had a small cabinet. There would be a secretary of state and a secretary of the treasury. Madison decided to keep Albert Gallatin in the position of treasury secretary. Gallatin probably knew more about the nation's finances than anyone else. The choice for secretary of state was political. Madison named Robert Smith, the brother of a senator. The new president was not too concerned about Mister Smith's abilities, because he planned to make foreign policy himself.
+	- VOICE TWO:
+	- Jefferson's biggest foreign policy problem arose from a war between Britain and France. The two nations refused to honor America's neutrality. Each tried to prevent the United States from trading with the other. Both interfered with American shipping. And the British navy sometimes seized American sailors.
+	- President Jefferson ordered a ban on trade with Europe. But it failed to end the hostile acts against the United States.
+	- VOICE ONE:
+	- Britain and France were still at war when Madison was elected president. In place of the trade ban, Congress had approved a new law. It was called the Non-Intercourse Act. The law prevented trade with Britain and France. But it gave President Madison the power to re-open trade if either nation stopped interfering with American ships.
+	- Madison hoped the law would force Britain and France to honor American neutrality. He did not want war. But neither did he want to surrender America's rights as an independent nation.
+	- VOICE TWO:
+	- A month after Madison took office, the British minister in Washington, David Erskine, received new orders from his government. He said he had been given the power to settle all differences between the United States and Britain.
+	- Erskine said Britain would stop seizing American ships if the United States would end the Non-Intercourse law. He did not make clear that the British government demanded several conditions before an agreement could be reached.
+	- One condition was that the United States continue the law against trade with France. Another was that Britain be permitted to capture American ships that violated the law. Erskine called the conditions, "proposals." He did not force the United States to accept them.
+	- VOICE ONE:
+	  On April Nineteenth, President Madison announced that an agreement had been reached. He said the United States would re-open trade with Britain. The American people welcomed the agreement. It appeared that -- after less than two months as president -- Madison had been able to remove the threat of war.
+	- The United States began trading again with Britain on June Tenth, as agreed. Hundreds of ships left American ports. Relations with Britain seemed to have returned to normal.
+	- VOICE TWO:
+	- President Madison decided to spend the summer of Eighteen-Oh-Nine at his home in the hills of Virginia. Soon after he arrived, he received surprising news. The British government had rejected the agreement he had reached with Erskine.
+	- A British newspaper said the agreement was not what Britain wanted. It said Erskine had violated his orders and was being called back to London. A new minister, Francis James Jackson, would take his place.
+	- VOICE ONE:
+	- Madison returned to Washington in the autumn, about a month after the new British minister arrived. He learned that Secretary of State Smith had made no progress in talks with him. So the president decided to deal with him directly. He wanted to know exactly why Britain had rejected the agreement. Madison ordered that all communications between the two sides be written. There would be no more talks. Letters were exchanged. But the British minister failed to explain satisfactorily what had happened. And his letters seemed to charge that the United States had not negotiated honestly. Madison finally broke off all communications, and the British minister left Washington.
+	- VOICE TWO:
+	- America's policy of trade with Britain and France continued to be a serious issue. In the early days of Eighteen-Ten, Congress began to consider a new law to control such trade. After several weeks of debate, the two houses of Congress approved a compromise bill.
+	- The bill ended the Non-Intercourse Act against Britain and France. It permitted trade with any nation. But it gave the president the power to declare non-intercourse again with either Britain or France separately. President Madison signed the bill into law.
+	- VOICE ONE:
+	- Relations between the United States and Britain did not improve during the year. And President Madison once again declared non-intercourse against Britain. Trade between the two countries was stopped at the beginning of March, Eighteen-Eleven.
+	- Trade was not the only problem, however. A growing number of Americans believed that the British were helping some Native American Indians to fight the United States.
+	- VOICE TWO:
+	- As the people of the United States began to move to the northern and western territories, the government made treaties with the different Indian tribes. The treaties explained which land belonged to the Indians...and which land could be settled by the white men. The settlers did not always honor the treaties.
+	- A leader of the Shawnee Indian tribe, Tecumseh, decided to take action. He started a campaign to unite all Indians and to help them defend against the white men.
+	- Throughout the west, many Americans believed that the British in Canada were responsible for Tecumseh's efforts to unite the Indians. They demanded war with Britain to destroy the power of the tribes. VOICE ONE:
+	- In Washington, a new Congress was meeting. Some of the new members were very different from the men who had controlled Congress before. They were less willing to compromise...and more willing to go to war to defend America's interests. They soon got the name "War Hawks."
+	- The new Congress quickly approved several measures to prepare the United States for war. One bill increased the size of the army by twenty-five-thousand regular soldiers and fifty-thousand volunteers.
+	- VOICE TWO:
+	- At the same time, America had a new secretary of state. President Madison had not been pleased with the work of Robert Smith. Nor did he trust Smith. The president could not be sure of Smith's support for administration proposals.
+	- Madison wanted his close friend, James Monroe, to be secretary of state. Monroe was then governor of Virginia. He agreed to take the new job.
+	- VOICE ONE:
+	- What the United States did not have at that troubled time was a representative in Britain. hen Madison broke off communications with British minister Jackson in Washington, Jackson returned to London. And the American minister in London, William Pinkney, sailed home.
+	- There was no official in either capital to report what was happening. And the two countries were moving closer to war. That will be our story next week.
+	- (THEME)
+	- VOICE TWO:
+	- You have been listening to the Special English program, THE MAKING OF A NATION. Your narrators were Larry West and Leo Scully. Our program was written by Frank Beardsley.
+- ---
+- ## def
+	- James Madison of Virginia was elected president of the United States in Eighteen-Oh-Eight. He followed Thomas Jefferson in the office and served two terms.
+	- Madison's first four years were not easy. He had to deal with a foreign policy problem that Jefferson was unable to solve: increasingly tense relations with Britain. His second four years were worse. There was war. That is our story.
+	- VOICE TWO:
+	- James Madison was inaugurated in Washington on March Fourth, Eighteen-Oh-Nine. The people of the city were happy with the new president. But the nation was not yet sure what kind of leader he would be.
+	- The French minister to the United States did not think much of him. He said: "Mister Madison is an intelligent man, but weak. He will always see what should be done, but will not do it."
+	- VOICE ONE:
+	- Like the first three American presidents, Madison had a small cabinet. There would be a secretary of state and a secretary of the treasury. Madison decided to keep Albert Gallatin in the position of treasury secretary. Gallatin probably knew more about the nation's finances than anyone else. The choice for secretary of state was political. Madison named Robert Smith, the brother of a senator. The new president was not too concerned about Mister Smith's abilities, because he planned to make foreign policy himself.
+	- VOICE TWO:
+	- Jefferson's biggest foreign policy problem arose from a war between Britain and France. The two nations refused to honor America's neutrality. Each tried to prevent the United States from trading with the other. Both interfered with American shipping. And the British navy sometimes seized American sailors.
+	- President Jefferson ordered a ban on trade with Europe. But it failed to end the hostile acts against the United States.
+	- VOICE ONE:
+	- Britain and France were still at war when Madison was elected president. In place of the trade ban, Congress had approved a new law. It was called the Non-Intercourse Act. The law prevented trade with Britain and France. But it gave President Madison the power to re-open trade if either nation stopped interfering with American ships.
+	- Madison hoped the law would force Britain and France to honor American neutrality. He did not want war. But neither did he want to surrender America's rights as an independent nation.
+	- VOICE TWO:
+	- A month after Madison took office, the British minister in Washington, David Erskine, received new orders from his government. He said he had been given the power to settle all differences between the United States and Britain.
+	- Erskine said Britain would stop seizing American ships if the United States would end the Non-Intercourse law. He did not make clear that the British government demanded several conditions before an agreement could be reached.
+	- One condition was that the United States continue the law against trade with France. Another was that Britain be permitted to capture American ships that violated the law. Erskine called the conditions, "proposals." He did not force the United States to accept them.
+	- VOICE ONE:
+	  On April Nineteenth, President Madison announced that an agreement had been reached. He said the United States would re-open trade with Britain. The American people welcomed the agreement. It appeared that -- after less than two months as president -- Madison had been able to remove the threat of war.
+	- The United States began trading again with Britain on June Tenth, as agreed. Hundreds of ships left American ports. Relations with Britain seemed to have returned to normal.
+	- VOICE TWO:
+	- President Madison decided to spend the summer of Eighteen-Oh-Nine at his home in the hills of Virginia. Soon after he arrived, he received surprising news. The British government had rejected the agreement he had reached with Erskine.
+	- A British newspaper said the agreement was not what Britain wanted. It said Erskine had violated his orders and was being called back to London. A new minister, Francis James Jackson, would take his place.
+	- VOICE ONE:
+	- Madison returned to Washington in the autumn, about a month after the new British minister arrived. He learned that Secretary of State Smith had made no progress in talks with him. So the president decided to deal with him directly. He wanted to know exactly why Britain had rejected the agreement. Madison ordered that all communications between the two sides be written. There would be no more talks. Letters were exchanged. But the British minister failed to explain satisfactorily what had happened. And his letters seemed to charge that the United States had not negotiated honestly. Madison finally broke off all communications, and the British minister left Washington.
+	- VOICE TWO:
+	- America's policy of trade with Britain and France continued to be a serious issue. In the early days of Eighteen-Ten, Congress began to consider a new law to control such trade. After several weeks of debate, the two houses of Congress approved a compromise bill.
+	- The bill ended the Non-Intercourse Act against Britain and France. It permitted trade with any nation. But it gave the president the power to declare non-intercourse again with either Britain or France separately. President Madison signed the bill into law.
+	- VOICE ONE:
+	- Relations between the United States and Britain did not improve during the year. And President Madison once again declared non-intercourse against Britain. Trade between the two countries was stopped at the beginning of March, Eighteen-Eleven.
+	- Trade was not the only problem, however. A growing number of Americans believed that the British were helping some Native American Indians to fight the United States.
+	- VOICE TWO:
+	- As the people of the United States began to move to the northern and western territories, the government made treaties with the different Indian tribes. The treaties explained which land belonged to the Indians...and which land could be settled by the white men. The settlers did not always honor the treaties.
+	- A leader of the Shawnee Indian tribe, Tecumseh, decided to take action. He started a campaign to unite all Indians and to help them defend against the white men.
+	- Throughout the west, many Americans believed that the British in Canada were responsible for Tecumseh's efforts to unite the Indians. They demanded war with Britain to destroy the power of the tribes. VOICE ONE:
+	- In Washington, a new Congress was meeting. Some of the new members were very different from the men who had controlled Congress before. They were less willing to compromise...and more willing to go to war to defend America's interests. They soon got the name "War Hawks."
+	- The new Congress quickly approved several measures to prepare the United States for war. One bill increased the size of the army by twenty-five-thousand regular soldiers and fifty-thousand volunteers.
+	- VOICE TWO:
+	- At the same time, America had a new secretary of state. President Madison had not been pleased with the work of Robert Smith. Nor did he trust Smith. The president could not be sure of Smith's support for administration proposals.
+	- Madison wanted his close friend, James Monroe, to be secretary of state. Monroe was then governor of Virginia. He agreed to take the new job.
+	- VOICE ONE:
+	- What the United States did not have at that troubled time was a representative in Britain. hen Madison broke off communications with British minister Jackson in Washington, Jackson returned to London. And the American minister in London, William Pinkney, sailed home.
+	- There was no official in either capital to report what was happening. And the two countries were moving closer to war. That will be our story next week.
+	- (THEME)
+	- VOICE TWO:
+	- You have been listening to the Special English program, THE MAKING OF A NATION. Your narrators were Larry West and Leo Scully. Our program was written by Frank Beardsley.

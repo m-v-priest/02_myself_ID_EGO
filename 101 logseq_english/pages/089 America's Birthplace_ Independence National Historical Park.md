@@ -1,0 +1,63 @@
+title:: 089 America's Birthplace: Independence National Historical Park
+
+- ## America's Birthplace: Independence National Historical Park
+- ## pure
+  collapsed:: true
+	- This week, our U.S. National Parks journey takes us to the eastern city of Philadelphia, an important place in American history.
+	- Philadelphia sits along the Delaware River in the northeastern state of Pennsylvania. Philadelphia, often called "Philly," served as the nation's capital from 1790 to 1800. Earlier, it was the capital of the American colonies during the war for independence from Britain.
+	- Philadelphia became the central meeting place for the men who created the United States government. The buildings where the founders worked still stand in an area called the Old City.
+	- The National Park Service protects much of Philadelphia's Old City. In honor of the America's 240th Independence Day, we visit the birthplace of the United States: Independence National Historical Park.
+	- The national historical park is 22 hectares. It covers 20 city blocks of Philadelphia's historic area. Within these city blocks are some of the most important places in American history.
+	- The main site in the park is Independence Hall. It is here that colonial leaders declared independence from Britain. Later, they debated the creation of a government for the new country, and signed the U.S. Constitution.
+	- The building that is now Independence Hall was completed in 1753. It was originally the site of Pennsylvania's colonial government.
+	- But 22 years later, Independence Hall would become the site of something much bigger.
+	- The Pennsylvania legislature loaned its Assembly Room to those in the Second Continental Congress in May of 1775.
+	- The second Congress included delegates from the 13 colonies. The men gathered just weeks after gunshots fired in Massachusetts marked the start of the Revolutionary War.
+	- The Congress prepared for war. It also approved George Washington as the first Commander in Chief of the new army.
+	- And, the men worked to produce a statement of American independence from Britain. On July 2, 1776, they voted to approve the resolution for independence. On July 4, they approved a document written by five of the founders, including Thomas Jefferson, Benjamin Franklin and John Adams. That document was the Declaration of Independence.
+	- It includes these famous words:
+	- "We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness."
+	- During the summer of 1787, the Assembly Room had another important use. Delegates held a federal convention there and wrote the U.S. Constitution.
+	- Guided tours
+	- National Park Service guides will take visitors through the Assembly Room, where the two historical documents were signed. It is a popular place among tourists. Visitors must order entrance tickets ahead of their visit.
+	- The Assembly Room also held important relics of American history.
+	- The Liberty Bell
+	- The Liberty Bell arrived from England in the middle 1700s. It was to hang in what was then the Pennsylvania statehouse. But the bell cracked soon after it arrived. So in 1753, it was melted and reformed.
+	- The new bell was rung many times for public announcements, including the signing of the Declaration of Independence.
+	- In the 1830s, a group that was trying to ban slavery in the United States began calling it the Liberty Bell. On it are words from the Christian holy book, the Bible. They read, "Proclaim Liberty throughout the land unto all the inhabitants thereof."
+	- In 1846, the Liberty Bell cracked again. No one knows why. The Liberty Bell has not been rung since. It remains cracked and still served as an important national symbol.
+	- About 2 million people visit Independence National Historical Park each year. They come to view history, celebrate independence, and walk in the footsteps of the nation's founders.
+	- Reminders of these men can be found all over the park, from the statue of George Washington in front of Independence Hall, to the Benjamin Franklin Museum.
+	- Visitors can also search for the sign that marks where Abraham Lincoln once stood outside Independence Hall. He arrived there in February of 1861, as a president-elect on his way to Washington. Soon after, he took office as the 16th President of the United States.
+	- Lincoln gave a speech inside Independence Hall. It centered on freedom and liberty.
+	- He said that day, "I have never had a feeling politically that did not spring from the sentiments embodied in the Declaration of Independence."
+- ---
+- ## def
+	- This week, our U.S. National Parks journey takes us to the eastern city of Philadelphia, an important place in American history.
+	- Philadelphia sits along the Delaware River in the northeastern state of Pennsylvania. Philadelphia, often called "Philly," served as the nation's capital from 1790 to 1800. Earlier, it was the capital of the American colonies during the war for independence from Britain.
+	- Philadelphia became the central meeting place for the men who created the United States government. The buildings where the founders worked still stand in an area called the Old City.
+	- The National Park Service protects much of Philadelphia's Old City. In honor of the America's 240th Independence Day, we visit the birthplace of the United States: Independence National Historical Park.
+	- The national historical park is 22 hectares. It covers 20 city blocks of Philadelphia's historic area. Within these city blocks are some of the most important places in American history.
+	- The main site in the park is Independence Hall. It is here that colonial leaders declared independence from Britain. Later, they debated the creation of a government for the new country, and signed the U.S. Constitution.
+	- The building that is now Independence Hall was completed in 1753. It was originally the site of Pennsylvania's colonial government.
+	- But 22 years later, Independence Hall would become the site of something much bigger.
+	- The Pennsylvania legislature loaned its Assembly Room to those in the Second Continental Congress in May of 1775.
+	- The second Congress included delegates from the 13 colonies. The men gathered just weeks after gunshots fired in Massachusetts marked the start of the Revolutionary War.
+	- The Congress prepared for war. It also approved George Washington as the first Commander in Chief of the new army.
+	- And, the men worked to produce a statement of American independence from Britain. On July 2, 1776, they voted to approve the resolution for independence. On July 4, they approved a document written by five of the founders, including Thomas Jefferson, Benjamin Franklin and John Adams. That document was the Declaration of Independence.
+	- It includes these famous words:
+	- "We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness."
+	- During the summer of 1787, the Assembly Room had another important use. Delegates held a federal convention there and wrote the U.S. Constitution.
+	- Guided tours
+	- National Park Service guides will take visitors through the Assembly Room, where the two historical documents were signed. It is a popular place among tourists. Visitors must order entrance tickets ahead of their visit.
+	- The Assembly Room also held important relics of American history.
+	- The Liberty Bell
+	- The Liberty Bell arrived from England in the middle 1700s. It was to hang in what was then the Pennsylvania statehouse. But the bell cracked soon after it arrived. So in 1753, it was melted and reformed.
+	- The new bell was rung many times for public announcements, including the signing of the Declaration of Independence.
+	- In the 1830s, a group that was trying to ban slavery in the United States began calling it the Liberty Bell. On it are words from the Christian holy book, the Bible. They read, "Proclaim Liberty throughout the land unto all the inhabitants thereof."
+	- In 1846, the Liberty Bell cracked again. No one knows why. The Liberty Bell has not been rung since. It remains cracked and still served as an important national symbol.
+	- About 2 million people visit Independence National Historical Park each year. They come to view history, celebrate independence, and walk in the footsteps of the nation's founders.
+	- Reminders of these men can be found all over the park, from the statue of George Washington in front of Independence Hall, to the Benjamin Franklin Museum.
+	- Visitors can also search for the sign that marks where Abraham Lincoln once stood outside Independence Hall. He arrived there in February of 1861, as a president-elect on his way to Washington. Soon after, he took office as the 16th President of the United States.
+	- Lincoln gave a speech inside Independence Hall. It centered on freedom and liberty.
+	- He said that day, "I have never had a feeling politically that did not spring from the sentiments embodied in the Declaration of Independence."

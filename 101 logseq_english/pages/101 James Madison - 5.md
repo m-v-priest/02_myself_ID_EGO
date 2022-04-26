@@ -1,0 +1,77 @@
+- ## 101 James Madison - 5
+- ## pure
+  collapsed:: true
+	- As we reported last week, the United States and Britain opened peace talks at Ghent, in Belgium, in the summer of Eighteen-Fourteen. But Britain was in no hurry to agree on a peace treaty. British forces were planning several campaigns in the United States later in the year. Successful military campaigns could force the United States to accept the kind of treaty Britain wanted.
+	- British representatives to the talks demanded that the United States give control of its Northwest Territory to the Indians. They also asked that the United States give part of the state of Maine to Canada, and make other changes in the border.
+	- VOICE TWO:
+	- United States representatives were led by John Quincy Adams, son of former president John Adams. They made equally tough demands. The United States wanted payment for damages suffered during the war. It also demanded that Britain stop seizing American seamen for the British navy. And the United States wanted all of Canada.
+	- The British representatives said they could not even discuss the question of impressing Americans into the British navy.
+	- John Quincy Adams had little hope the talks would succeed. The Americans would surrender none of their territory. Old John Adams, the former president, told President James Madison: "I would continue this war forever before surrendering an acre of America."
+	- His son, John Quincy, did not believe the British would reduce any of their demands. But another of the Americans at Ghent, House Speaker Henry Clay, felt differently. Clay was right. After Britain received word that its military campaigns had failed at Baltimore and Plattsburgh, its representatives became easier to negotiate with. They dropped the demand that the United States give the Northwest Territory to the Indians.
+	- VOICE ONE:
+	- Britain still hoped for military successes in America. The British government asked the duke of Wellington to lead British forces in Canada. The duke had won important victories in the war against Napoleon. Perhaps he could do the same in America. The duke was offered the power to continue the war or to make peace.
+	- Wellington told the government he would go to America if requested. But he refused to promise any success. He said it was not a new general that Britain needed in America, but naval control of the Great Lakes that separated the United States from Canada.
+	- "The question is," Wellington said, "can we get this naval control? If we cannot, then I will do you no good in America. I think," said Wellington, "that you might as well sign a peace treaty with the United States now. I think you have no right to demand any territory from the United States. The failure of the British military campaigns in America gives you no right to make such demands."
+	- VOICE TWO:
+	- The British government accepted this advice from its top military expert. It ordered the British representatives at Ghent to drop the demands for American territory. The Americans then dropped their demands for Canadian territory.
+	- The things that led to the war no longer existed. Britain's war with France had caused the British and French to interfere with neutral American trade. And Britain had needed men for its navy. Now, the war with France was over. No longer was there any reason to interfere with the trade of any nation. And no longer was there any need to seize Americans for service in the British navy.
+	- On the day before Christmas, Eighteen-Fourteen, the United States and Britain signed a simple treaty. In it, each side agreed to stop fighting. They agreed to settle all their differences at future negotiations.
+	- VOICE ONE:
+	- The war had ended. But one more battle was to be fought before news of the peace treaty reached the United States.
+	- During the autumn of Eighteen-Fourteen, British soldiers at Jamaica began preparing for an attack against New Orleans, at the mouth of the Mississippi River. Late in November, this force of about seven-thousand five-hundred men sailed from Jamaica to New Orleans.
+	- The British soldiers were commanded by General Sir Edward Pakenham. The general did not take his men directly to the mouth of the Mississippi River. Instead, they sailed across a lake east of the city.
+	- Early during the afternoon of December Twenty-Third, General Andrew Jackson, the commander of American forces at New Orleans, learned the British force was near.
+	- VOICE TWO:
+	- General Jackson was a good soldier and a great leader of men. He fought in the Revolutionary War, then studied law. He moved west to Nashville, Tennessee. The general also served in both houses of the United States Congress.
+	- When war broke out in Eighteen-Twelve, he was elected general of a group of volunteer soldiers from Tennessee. Jackson was a rough man. His soldiers feared and respected him. They called him "Old Hickory", because he seemed as tough as hickory wood.
+	- Jackson was given responsibility for defending the gulf coast. Earlier in the year, he had attacked Pensacola, in east Florida, and forced out several hundred British marines. Jackson believed the British would attack Mobile before attacking New Orleans. He left part of his forces at Mobile and took the others to the mouth of the Mississippi.
+	- VOICE ONE:
+	- Jackson was a sick man when he got to New Orleans. And what he found made him feel no better. Little had been done to prepare for the expected British attack. Jackson declared martial law and began building the city's defenses.
+	- Most of the work on the defenses had been completed when Jackson got word that the British were only a few kilometers from New Orleans. "Gentlemen," Jackson told his officers, "the British are below. We must fight them tonight."
+	- The British soldiers rested. They believed it would be easy to capture the city the next day. But Jackson rushed up guns and men, and attacked the British by surprise just after dark. Then, the Americans retreated to a place about eight kilometers south of the city.
+	- VOICE TWO:
+	  Jackson had chosen this place carefully. On the right was the Mississippi River. On the left was a swamp -- mud and water that could not be crossed. In front of the American soldiers was an open field.
+	- For two weeks, the British soldiers waited. They tested the American defenses at several places, but found no weaknesses. Every day, Jackson had his men improve their positions. At night, small groups of Jackson's soldiers would slip across the field and silently attack British soldiers guarding the other side.
+	- Finally, on January Eighth, the British attacked. They expected the Americans to flee in the face of their strong attack. But the Americans stood firm.
+	- Jackson's artillery fired into the enemy. When the British got as close as one-hundred-fifty meters, the Americans began to fire their long rifles. The rain of bullets and shells was deadly. General Pakenham was wounded twice and then killed by a shell that exploded near him. Only one British soldier reached the top of the American defenses.
+	- VOICE ONE:
+	- The British finally retreated. They left behind more than two-thousand dead and wounded. Five-hundred other British soldiers had been captured. Thirteen Americans were killed. It was a great victory for the United States, but one that was not necessary. The war had ended, by treaty, two weeks earlier.
+	- At the same time that the battle of New Orleans was being fought, New England Federalists were meeting in a special convention at Hartford, Connecticut. The purpose of the meeting was to protest against the war, and plan for a convention to change the United States Constitution.
+- ---
+- ## def
+	- As we reported last week, the United States and Britain opened peace talks at Ghent, in Belgium, in the summer of Eighteen-Fourteen. But Britain was in no hurry to agree on a peace treaty. British forces were planning several campaigns in the United States later in the year. Successful military campaigns could force the United States to accept the kind of treaty Britain wanted.
+	- British representatives to the talks demanded that the United States give control of its Northwest Territory to the Indians. They also asked that the United States give part of the state of Maine to Canada, and make other changes in the border.
+	- VOICE TWO:
+	- United States representatives were led by John Quincy Adams, son of former president John Adams. They made equally tough demands. The United States wanted payment for damages suffered during the war. It also demanded that Britain stop seizing American seamen for the British navy. And the United States wanted all of Canada.
+	- The British representatives said they could not even discuss the question of impressing Americans into the British navy.
+	- John Quincy Adams had little hope the talks would succeed. The Americans would surrender none of their territory. Old John Adams, the former president, told President James Madison: "I would continue this war forever before surrendering an acre of America."
+	- His son, John Quincy, did not believe the British would reduce any of their demands. But another of the Americans at Ghent, House Speaker Henry Clay, felt differently. Clay was right. After Britain received word that its military campaigns had failed at Baltimore and Plattsburgh, its representatives became easier to negotiate with. They dropped the demand that the United States give the Northwest Territory to the Indians.
+	- VOICE ONE:
+	- Britain still hoped for military successes in America. The British government asked the duke of Wellington to lead British forces in Canada. The duke had won important victories in the war against Napoleon. Perhaps he could do the same in America. The duke was offered the power to continue the war or to make peace.
+	- Wellington told the government he would go to America if requested. But he refused to promise any success. He said it was not a new general that Britain needed in America, but naval control of the Great Lakes that separated the United States from Canada.
+	- "The question is," Wellington said, "can we get this naval control? If we cannot, then I will do you no good in America. I think," said Wellington, "that you might as well sign a peace treaty with the United States now. I think you have no right to demand any territory from the United States. The failure of the British military campaigns in America gives you no right to make such demands."
+	- VOICE TWO:
+	- The British government accepted this advice from its top military expert. It ordered the British representatives at Ghent to drop the demands for American territory. The Americans then dropped their demands for Canadian territory.
+	- The things that led to the war no longer existed. Britain's war with France had caused the British and French to interfere with neutral American trade. And Britain had needed men for its navy. Now, the war with France was over. No longer was there any reason to interfere with the trade of any nation. And no longer was there any need to seize Americans for service in the British navy.
+	- On the day before Christmas, Eighteen-Fourteen, the United States and Britain signed a simple treaty. In it, each side agreed to stop fighting. They agreed to settle all their differences at future negotiations.
+	- VOICE ONE:
+	- The war had ended. But one more battle was to be fought before news of the peace treaty reached the United States.
+	- During the autumn of Eighteen-Fourteen, British soldiers at Jamaica began preparing for an attack against New Orleans, at the mouth of the Mississippi River. Late in November, this force of about seven-thousand five-hundred men sailed from Jamaica to New Orleans.
+	- The British soldiers were commanded by General Sir Edward Pakenham. The general did not take his men directly to the mouth of the Mississippi River. Instead, they sailed across a lake east of the city.
+	- Early during the afternoon of December Twenty-Third, General Andrew Jackson, the commander of American forces at New Orleans, learned the British force was near.
+	- VOICE TWO:
+	- General Jackson was a good soldier and a great leader of men. He fought in the Revolutionary War, then studied law. He moved west to Nashville, Tennessee. The general also served in both houses of the United States Congress.
+	- When war broke out in Eighteen-Twelve, he was elected general of a group of volunteer soldiers from Tennessee. Jackson was a rough man. His soldiers feared and respected him. They called him "Old Hickory", because he seemed as tough as hickory wood.
+	- Jackson was given responsibility for defending the gulf coast. Earlier in the year, he had attacked Pensacola, in east Florida, and forced out several hundred British marines. Jackson believed the British would attack Mobile before attacking New Orleans. He left part of his forces at Mobile and took the others to the mouth of the Mississippi.
+	- VOICE ONE:
+	- Jackson was a sick man when he got to New Orleans. And what he found made him feel no better. Little had been done to prepare for the expected British attack. Jackson declared martial law and began building the city's defenses.
+	- Most of the work on the defenses had been completed when Jackson got word that the British were only a few kilometers from New Orleans. "Gentlemen," Jackson told his officers, "the British are below. We must fight them tonight."
+	- The British soldiers rested. They believed it would be easy to capture the city the next day. But Jackson rushed up guns and men, and attacked the British by surprise just after dark. Then, the Americans retreated to a place about eight kilometers south of the city.
+	- VOICE TWO:
+	  Jackson had chosen this place carefully. On the right was the Mississippi River. On the left was a swamp -- mud and water that could not be crossed. In front of the American soldiers was an open field.
+	- For two weeks, the British soldiers waited. They tested the American defenses at several places, but found no weaknesses. Every day, Jackson had his men improve their positions. At night, small groups of Jackson's soldiers would slip across the field and silently attack British soldiers guarding the other side.
+	- Finally, on January Eighth, the British attacked. They expected the Americans to flee in the face of their strong attack. But the Americans stood firm.
+	- Jackson's artillery fired into the enemy. When the British got as close as one-hundred-fifty meters, the Americans began to fire their long rifles. The rain of bullets and shells was deadly. General Pakenham was wounded twice and then killed by a shell that exploded near him. Only one British soldier reached the top of the American defenses.
+	- VOICE ONE:
+	- The British finally retreated. They left behind more than two-thousand dead and wounded. Five-hundred other British soldiers had been captured. Thirteen Americans were killed. It was a great victory for the United States, but one that was not necessary. The war had ended, by treaty, two weeks earlier.
+	- At the same time that the battle of New Orleans was being fought, New England Federalists were meeting in a special convention at Hartford, Connecticut. The purpose of the meeting was to protest against the war, and plan for a convention to change the United States Constitution.

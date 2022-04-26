@@ -55,6 +55,7 @@
 	- ---
 	- U.S. Congress
 	  heading:: true
+	  collapsed:: true
 		- [[028 What Is the US House of Representatives?]]
 		- [[029 What Is the US Senate?]]
 		- [[030 How Laws Are Made in the US]]
@@ -64,6 +65,7 @@
 	- ---
 	- U.S. Supreme Court
 	  heading:: true
+	  collapsed:: true
 		- [[034 The Rise of the US Supreme Court]]
 		- [[035 How the Supreme Court Makes Decisions]]
 		- [[036 What Happens If You Are Arrested in the US]]
@@ -73,6 +75,7 @@
 	- ---
 	- America's Presidents
 	  heading:: true
+	  collapsed:: true
 		- https://learningenglish.voanews.com/p/6353.html
 		- [[040 The Unique Invention of the American President]]
 		- [[041 George Washington: Reluctant]]
@@ -125,6 +128,19 @@
 		- [[084 George W. Bush: Wartime President]]
 		- [[085 Barack Obama: African-American]]
 		- [[086  Donald Trump: Unusual]]
+	- ---
+	- ## US HISTORY
+		- [[087 The U.S. Expands West]]
+		- [[088 A Visit with History: Gettysburg National Military Park]]
+		- [[089 America's Birthplace: Independence National Historical Park]]
+		-
+		- [[101 James Madison - 1]]
+		- [[101 James Madison - 2]]
+		- [[101 James Madison - 3]]
+		- [[101 James Madison - 4]]
+		- [[101 James Madison - 5]]
+		- [[101 James Madison - 6]]
+-
 -
 - ---
 - 美国学生世界历史

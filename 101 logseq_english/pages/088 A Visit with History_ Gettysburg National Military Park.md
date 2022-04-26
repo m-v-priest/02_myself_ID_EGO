@@ -1,0 +1,63 @@
+title:: 088 A Visit with History: Gettysburg National Military Park
+
+- ## 088 A Visit with History: Gettysburg National Military Park
+- ## pure
+  collapsed:: true
+	- This week, we visit a national park that marks one of the most important events in American history.
+	- We are exploring the Gettysburg National Military Park in the small town of Gettysburg, Pennsylvania.
+	- Much of the area around Gettysburg still looks like it did in the 1860s, during the Civil War. The town is in the middle of farm country. All around are fields of wheat, corn and other crops. Cows chew on grass under a warm morning sun.
+	- Roads that pass through Gettysburg lead to Baltimore, Washington and other big cities. But almost 153 years ago, they served another purpose. They brought two opposing armies to Gettysburg.
+	- One was the United States Army of the Potomac, commanded by General George Gordon Meade. The other was the Confederate Army of Northern Virginia led by General Robert E. Lee. His troops had moved north into Pennsylvania from Virginia. There, they had won a series of battles. Now, they were on the move to defeat Meade's army.
+	- Lee believed that a Southern victory on Northern land would force a negotiated settlement of the war. This would mean independence for the Confederate states that were attempting to leave the Union.
+	- The battle of Gettysburg began on July 1, 1863. More than 170,000 soldiers fought for three days. It was the largest battle ever fought in North America.
+	- When it ended on July 3, more than 50,000 soldiers were dead, wounded or missing. Many more would die later from their wounds. In the end, General Lee's army lost the battle. The Civil War, though, continued for two more years. But Confederate hopes for independence were never again as high as they had been at Gettysburg.
+	- Soon after the great battle, people began to visit Gettysburg to try to understand what happened there. One of those visitors, on November 19, 1863, was President Abraham Lincoln. He was invited to help dedicate a ceremony for Union soldiers killed in the battle.
+	- Lincoln spoke for just two minutes. His speech began this way: "Four score and seven years ago, our fathers brought forth on this continent a new nation, conceived in liberty and dedication to the proposition that all men are created equal."
+	- President Lincoln had never been satisfied with the reality of American life at that time. The Declaration of Independence in 1776 had declared all men equal. Yet in the South, and earlier in the North, as well, black men and women were held as slaves.
+	- In his address at Gettysburg, Lincoln described a new future for a nation that would be reunited.
+	- "It is for us the living, rather, to be dedicated here to the unfinished work for which they fought here have thus far so nobly advanced. It is rather for us to be here dedicated to the great task remaining before us – that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion – that we here highly resolve that these dead shall not have died in vain – that this nation, under God, shall have a new birth of freedom ..."
+	- Gettysburg National Military Park was established in 1895, 32 years after the deadly battle. Gettysburg is the most-visited of the Civil War battlefields. Every year, about 2 million people visit the park from around the country and the world.
+	- The battlefield covers more than 2,400 hectares. Visitors can find more than 1,300 outdoor sculptures around the battlefield. These are monuments and memorials placed by soldiers' groups and state militias in areas where their troops fought. Volunteer guides explain to visitors what happened in each area of the huge battlefield. Visitors can also tour the battlefields on their own – by foot, by car, or by bicycle.
+	- Many visitors start their visit to Gettysburg at the Gettysburg Museum of the Civil War. The museum has the world's largest collection of Civil War objects. The museum has more than 1 million items, from soldiers' private notebooks and uniforms to original maps of the battlefield.
+	- The museum also houses the Gettysburg cyclorama painting. This kind of artwork surrounds the people looking at it.
+	- The painting shows the final attack in the Battle of Gettysburg: Pickett's Charge. George Pickett was a Confederate general. On July 3, 1863, he led a charge against stronger Union forces. It was a disaster for the Confederate soldiers.
+	- French artist Paul Phillippoteaux and a team of 20 artists created the painting in the 1880s. Phillippoteaux and his team visited the battlefield. It took more than one year for the huge painting to be complete.
+	- The cyclorama is 114 meters long and almost 13 meters tall. It has long been one of the most popular parts of the Gettysburg experience. But by the 1990s, the painting was in poor condition. Experts warned that if the Cyclorama was not repaired, the painting could be lost.
+	- A restoration project began in 2003. The painting was cleaned and separated into its 14 parts, and later moved into the new center. There, the original canvas was sewn onto new cloth made in China. Park service officials say China was one of the few countries able to produce cloth in the sizes needed. Then each part was hung and sewn together.
+	- A team of cyclorama experts from Poland worked on the project in Gettysburg. The repair work of the Gettysburg Cyclorama marked one of the largest art conservation effort ever in North America.
+	- After the museum, tourists can visit the Soldiers' National Cemetery, where many of the Union soldiers who died during the Battle of Gettysburg are buried.
+	- The cemetery was dedicated on November 19, 1863, the same day President Lincoln gave his "Gettysburg Address."
+	- Since 1865, cemetery has been a burial ground for soldiers from all of America's wars.
+	- Gettysburg brings history to life during the summer and fall with its "living historians." These actors and experts show visitors what it was life was like for a soldier here, in one of the most historically important places in America.
+	- The words of America's 16th president from the Gettysburg battlefield have never been forgotten.
+	- Historians agree that Lincoln's Gettysburg Address defined Americans as a people who believed in freedom, democracy and equality.
+- ---
+- ## def
+	- This week, we visit a national park that marks one of the most important events in American history.
+	- We are exploring the Gettysburg National Military Park in the small town of Gettysburg, Pennsylvania.
+	- Much of the area around Gettysburg still looks like it did in the 1860s, during the Civil War. The town is in the middle of farm country. All around are fields of wheat, corn and other crops. Cows chew on grass under a warm morning sun.
+	- Roads that pass through Gettysburg lead to Baltimore, Washington and other big cities. But almost 153 years ago, they served another purpose. They brought two opposing armies to Gettysburg.
+	- One was the United States Army of the Potomac, commanded by General George Gordon Meade. The other was the Confederate Army of Northern Virginia led by General Robert E. Lee. His troops had moved north into Pennsylvania from Virginia. There, they had won a series of battles. Now, they were on the move to defeat Meade's army.
+	- Lee believed that a Southern victory on Northern land would force a negotiated settlement of the war. This would mean independence for the Confederate states that were attempting to leave the Union.
+	- The battle of Gettysburg began on July 1, 1863. More than 170,000 soldiers fought for three days. It was the largest battle ever fought in North America.
+	- When it ended on July 3, more than 50,000 soldiers were dead, wounded or missing. Many more would die later from their wounds. In the end, General Lee's army lost the battle. The Civil War, though, continued for two more years. But Confederate hopes for independence were never again as high as they had been at Gettysburg.
+	- Soon after the great battle, people began to visit Gettysburg to try to understand what happened there. One of those visitors, on November 19, 1863, was President Abraham Lincoln. He was invited to help dedicate a ceremony for Union soldiers killed in the battle.
+	- Lincoln spoke for just two minutes. His speech began this way: "Four score and seven years ago, our fathers brought forth on this continent a new nation, conceived in liberty and dedication to the proposition that all men are created equal."
+	- President Lincoln had never been satisfied with the reality of American life at that time. The Declaration of Independence in 1776 had declared all men equal. Yet in the South, and earlier in the North, as well, black men and women were held as slaves.
+	- In his address at Gettysburg, Lincoln described a new future for a nation that would be reunited.
+	- "It is for us the living, rather, to be dedicated here to the unfinished work for which they fought here have thus far so nobly advanced. It is rather for us to be here dedicated to the great task remaining before us – that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion – that we here highly resolve that these dead shall not have died in vain – that this nation, under God, shall have a new birth of freedom ..."
+	- Gettysburg National Military Park was established in 1895, 32 years after the deadly battle. Gettysburg is the most-visited of the Civil War battlefields. Every year, about 2 million people visit the park from around the country and the world.
+	- The battlefield covers more than 2,400 hectares. Visitors can find more than 1,300 outdoor sculptures around the battlefield. These are monuments and memorials placed by soldiers' groups and state militias in areas where their troops fought. Volunteer guides explain to visitors what happened in each area of the huge battlefield. Visitors can also tour the battlefields on their own – by foot, by car, or by bicycle.
+	- Many visitors start their visit to Gettysburg at the Gettysburg Museum of the Civil War. The museum has the world's largest collection of Civil War objects. The museum has more than 1 million items, from soldiers' private notebooks and uniforms to original maps of the battlefield.
+	- The museum also houses the Gettysburg cyclorama painting. This kind of artwork surrounds the people looking at it.
+	- The painting shows the final attack in the Battle of Gettysburg: Pickett's Charge. George Pickett was a Confederate general. On July 3, 1863, he led a charge against stronger Union forces. It was a disaster for the Confederate soldiers.
+	- French artist Paul Phillippoteaux and a team of 20 artists created the painting in the 1880s. Phillippoteaux and his team visited the battlefield. It took more than one year for the huge painting to be complete.
+	- The cyclorama is 114 meters long and almost 13 meters tall. It has long been one of the most popular parts of the Gettysburg experience. But by the 1990s, the painting was in poor condition. Experts warned that if the Cyclorama was not repaired, the painting could be lost.
+	- A restoration project began in 2003. The painting was cleaned and separated into its 14 parts, and later moved into the new center. There, the original canvas was sewn onto new cloth made in China. Park service officials say China was one of the few countries able to produce cloth in the sizes needed. Then each part was hung and sewn together.
+	- A team of cyclorama experts from Poland worked on the project in Gettysburg. The repair work of the Gettysburg Cyclorama marked one of the largest art conservation effort ever in North America.
+	- After the museum, tourists can visit the Soldiers' National Cemetery, where many of the Union soldiers who died during the Battle of Gettysburg are buried.
+	- The cemetery was dedicated on November 19, 1863, the same day President Lincoln gave his "Gettysburg Address."
+	- Since 1865, cemetery has been a burial ground for soldiers from all of America's wars.
+	- Gettysburg brings history to life during the summer and fall with its "living historians." These actors and experts show visitors what it was life was like for a soldier here, in one of the most historically important places in America.
+	- The words of America's 16th president from the Gettysburg battlefield have never been forgotten.
+	- Historians agree that Lincoln's Gettysburg Address defined Americans as a people who believed in freedom, democracy and equality.

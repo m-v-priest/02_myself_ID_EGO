@@ -1,0 +1,93 @@
+-
+- ## 101 James Madison - 4
+  template:: voa
+- ## pure
+  collapsed:: true
+	- As we reported in the last program, British forces attacked Washington in the summer of Eighteen-Fourteen. They burned the Capitol building, the White House, and other public buildings before withdrawing to their ships in the Chesapeake Bay.
+	- British General Robert Ross and Admiral Sir George Cockburn led the attack on Washington. They planned next to attack Baltimore. But the people of Baltimore expected the attack, and began to prepare for it. Fifty-thousand of them built defenses around the city.
+	- The port of Baltimore was protected by Fort McHenry. The guns and cannon of the fort could prevent British ships from reaching the city.
+	- VOICE TWO:
+	- The British began with a land attack against Baltimore. General Ross, Admiral Cockburn, and about four-thousand British soldiers landed at North Point, a finger of land reaching into the Chesapeake Bay.
+	- From North Point, it was a march of about twenty-two kilometers to Baltimore. The march began about seven in the morning. General Ross and Admiral Cockburn stopped their men after an hour. The two commanders and several of their officers rode to a nearby farmhouse and forced the family living there to give them breakfast.
+	- When the British officers had finished eating, the farmer asked General Ross where the British were going. "To Baltimore," answered Ross. The farmer told Ross that he might have some difficulty getting there, because of the city's strong defenses. "I will eat supper in Baltimore...or in hell," answered the British general.
+	- VOICE ONE:
+	- Ross and Cockburn moved far in front of the British forces. A group of several hundred Americans opened fire on the British officers. Ross was hit and died soon afterwards.
+	- The Americans retreated, but slowed the progress of the British soldiers. It was late the next day before the British force arrived to face the army of Americans near Baltimore. The Americans were on high ground and had about one-hundred cannon to fire down on the British. The British commander ordered his men to rest for the night. He sent a message to the British warships to attack the city with guns and mortars. Such an attack, he felt, might cause the Americans to fall back. But the British ships already had been firing since early morning at Fort McHenry. The British guns were more powerful than those of the fort. This let the ships fire from so far away that the American guns could not hit them.
+	- Shells and bombs from British mortars fell like rain over Fort McHenry. But few Americans in the fort were hurt or killed. Most of the rockets and shells exploded in the air or missed. Many of them failed to explode.
+	- VOICE TWO:
+	- On a tall staff from the center of the fort flew a large American flag. The flag could be seen by the soldiers defending the city and by the British warships. The flag also was seen by a young American. His name was Francis Scott Key.
+	- Key was a lawyer who once had thought of giving his life to religious work. He was a poet and writer. Key opposed war. But he loved his country and joined the army in Washington to help defend it.
+	- When the British withdrew from Washington, they took with them an American doctor, Wiliam Beanes. Key knew Beanes. And he asked President Madison to request the British commander to release the doctor. President Madison wrote such a request, and Key agreed to carry it to Admiral Cockburn. Key also carried letters from wounded British soldiers in American hospitals. In one of the letters, a British soldier told of the excellent medical care he was being given.
+	- Cockburn agreed to free the doctor after he read the reports of good medical care given his wounded men. But Cockburn would not permit Key, the doctor, or a man who came with Key to return to land until after the attack.
+	- VOICE ONE:
+	- Francis Scott Key watched as the shells and rockets began to fall on Fort McHenry.
+	- "I saw the flag of my country," Key said later,
+	  "waving over a city -- the strength and pride of my native state. I watched the enemy prepare for his assault. I heard the sound of battle. The noise of the conflict fell upon my listening ear. It told me that the `brave and the free' had met the invaders."
+	- All through the rainy day, the attack continued. Doctor Beanes, watching with Key, had difficulty seeing the flag. He kept asking Key if the "stars and stripes" still flew above the fort. Until dark, Key could still see it. After then, he could only hope.
+	- VOICE TWO:
+	- Britain tried to land another force of men near the fort. But the Americans heard the boats and fired at them. The landing failed. Shells and rockets continued to rain down on Fort McHenry. At times, the fort's cannon answered. And Key knew the Americans had not surrendered.
+	- The British land force east of Baltimore spent most of the night trying to keep dry. Commanders could not decide if they should attack or retreat. Finally, orders came from the admiral: "Withdraw to your ships." A land attack against Baltimore's defenses would not be attempted.
+	- At first light of morning, British shells were still bursting in the air over the fort. The flag had holes in it from the British shells. But it still flew. The British shelling stopped at seven o'clock. Key took an old letter from his pocket and wrote a poem about what he had seen.
+	- VOICE ONE:
+	- Oh, say can you see by the dawn's early light
+	- What so proudly we hailed at the twilight's last gleaming?
+	- Whose broad stripes and bright stars, through the perilous fight
+	- O'er the ramparts we watched were so gallantly streaming?
+	- And the rocket's red glare, the bombs bursting in air, Gave proof through the night that our flag was still there.
+	- Oh, say does that star-spangled banner yet wave
+	- O'er the land of the free and the home of the brave?
+	- For more than one-hundred years, Americans sang this song and remembered the attack at Fort McHenry. In Nineteen-Thirty-One, Congress made the "Star-Spangled Banner" the national anthem of the United States.
+	- VOICE TWO:
+	- The unsuccessful British attack on Baltimore was followed by news that Britain also had suffered a defeat to the north.
+	- British General Sir George Prevost led eleven-thousand soldiers south from Montreal to New York. At Plattsburgh, on the western shore of Lake Champlain, his army was opposed by less than four-thousand Americans. General Prevost believed he should get control of the lake before moving against the American defenders.
+	- He requested the support of four British ships and about ten gunboats. A group of American ships of about the same size also entered the lake. In a fierce battle, the American naval force sank the British ships. The large land army of Prevost decided not to attack without naval support. The eleven-thousand British soldiers turned around and marched back to Montreal.
+	- VOICE ONE:
+	- By the time these battles of Eighteen-Fourteen had been fought, the two sides already had agreed to discuss peace. The peace talks began in the summer at Ghent, in Belgium.
+	- The British at first were in no hurry to sign a peace treaty. They believed that their forces would be able to capture parts of the United States.
+	- Britain demanded as a condition for peace that the United States give large areas of its northwest to the Indians. It also said America must give Canada other areas along the border. And Britain would not promise to stop seizing American seamen and putting them in the British navy.
+	- But British policy at the peace talks changed after the battles of Baltimore and Plattsburgh. That will be our story next week.
+- ---
+- ## def
+	- As we reported in the last program, British forces attacked Washington in the summer of Eighteen-Fourteen. They burned the Capitol building, the White House, and other public buildings before withdrawing to their ships in the Chesapeake Bay.
+	- British General Robert Ross and Admiral Sir George Cockburn led the attack on Washington. They planned next to attack Baltimore. But the people of Baltimore expected the attack, and began to prepare for it. Fifty-thousand of them built defenses around the city.
+	- The port of Baltimore was protected by Fort McHenry. The guns and cannon of the fort could prevent British ships from reaching the city.
+	- VOICE TWO:
+	- The British began with a land attack against Baltimore. General Ross, Admiral Cockburn, and about four-thousand British soldiers landed at North Point, a finger of land reaching into the Chesapeake Bay.
+	- From North Point, it was a march of about twenty-two kilometers to Baltimore. The march began about seven in the morning. General Ross and Admiral Cockburn stopped their men after an hour. The two commanders and several of their officers rode to a nearby farmhouse and forced the family living there to give them breakfast.
+	- When the British officers had finished eating, the farmer asked General Ross where the British were going. "To Baltimore," answered Ross. The farmer told Ross that he might have some difficulty getting there, because of the city's strong defenses. "I will eat supper in Baltimore...or in hell," answered the British general.
+	- VOICE ONE:
+	- Ross and Cockburn moved far in front of the British forces. A group of several hundred Americans opened fire on the British officers. Ross was hit and died soon afterwards.
+	- The Americans retreated, but slowed the progress of the British soldiers. It was late the next day before the British force arrived to face the army of Americans near Baltimore. The Americans were on high ground and had about one-hundred cannon to fire down on the British. The British commander ordered his men to rest for the night. He sent a message to the British warships to attack the city with guns and mortars. Such an attack, he felt, might cause the Americans to fall back. But the British ships already had been firing since early morning at Fort McHenry. The British guns were more powerful than those of the fort. This let the ships fire from so far away that the American guns could not hit them.
+	- Shells and bombs from British mortars fell like rain over Fort McHenry. But few Americans in the fort were hurt or killed. Most of the rockets and shells exploded in the air or missed. Many of them failed to explode.
+	- VOICE TWO:
+	- On a tall staff from the center of the fort flew a large American flag. The flag could be seen by the soldiers defending the city and by the British warships. The flag also was seen by a young American. His name was Francis Scott Key.
+	- Key was a lawyer who once had thought of giving his life to religious work. He was a poet and writer. Key opposed war. But he loved his country and joined the army in Washington to help defend it.
+	- When the British withdrew from Washington, they took with them an American doctor, Wiliam Beanes. Key knew Beanes. And he asked President Madison to request the British commander to release the doctor. President Madison wrote such a request, and Key agreed to carry it to Admiral Cockburn. Key also carried letters from wounded British soldiers in American hospitals. In one of the letters, a British soldier told of the excellent medical care he was being given.
+	- Cockburn agreed to free the doctor after he read the reports of good medical care given his wounded men. But Cockburn would not permit Key, the doctor, or a man who came with Key to return to land until after the attack.
+	- VOICE ONE:
+	- Francis Scott Key watched as the shells and rockets began to fall on Fort McHenry.
+	- "I saw the flag of my country," Key said later,
+	  "waving over a city -- the strength and pride of my native state. I watched the enemy prepare for his assault. I heard the sound of battle. The noise of the conflict fell upon my listening ear. It told me that the `brave and the free' had met the invaders."
+	- All through the rainy day, the attack continued. Doctor Beanes, watching with Key, had difficulty seeing the flag. He kept asking Key if the "stars and stripes" still flew above the fort. Until dark, Key could still see it. After then, he could only hope.
+	- VOICE TWO:
+	- Britain tried to land another force of men near the fort. But the Americans heard the boats and fired at them. The landing failed. Shells and rockets continued to rain down on Fort McHenry. At times, the fort's cannon answered. And Key knew the Americans had not surrendered.
+	- The British land force east of Baltimore spent most of the night trying to keep dry. Commanders could not decide if they should attack or retreat. Finally, orders came from the admiral: "Withdraw to your ships." A land attack against Baltimore's defenses would not be attempted.
+	- At first light of morning, British shells were still bursting in the air over the fort. The flag had holes in it from the British shells. But it still flew. The British shelling stopped at seven o'clock. Key took an old letter from his pocket and wrote a poem about what he had seen.
+	- VOICE ONE:
+	- Oh, say can you see by the dawn's early light
+	- What so proudly we hailed at the twilight's last gleaming?
+	- Whose broad stripes and bright stars, through the perilous fight
+	- O'er the ramparts we watched were so gallantly streaming?
+	- And the rocket's red glare, the bombs bursting in air, Gave proof through the night that our flag was still there.
+	- Oh, say does that star-spangled banner yet wave
+	- O'er the land of the free and the home of the brave?
+	- For more than one-hundred years, Americans sang this song and remembered the attack at Fort McHenry. In Nineteen-Thirty-One, Congress made the "Star-Spangled Banner" the national anthem of the United States.
+	- VOICE TWO:
+	- The unsuccessful British attack on Baltimore was followed by news that Britain also had suffered a defeat to the north.
+	- British General Sir George Prevost led eleven-thousand soldiers south from Montreal to New York. At Plattsburgh, on the western shore of Lake Champlain, his army was opposed by less than four-thousand Americans. General Prevost believed he should get control of the lake before moving against the American defenders.
+	- He requested the support of four British ships and about ten gunboats. A group of American ships of about the same size also entered the lake. In a fierce battle, the American naval force sank the British ships. The large land army of Prevost decided not to attack without naval support. The eleven-thousand British soldiers turned around and marched back to Montreal.
+	- VOICE ONE:
+	- By the time these battles of Eighteen-Fourteen had been fought, the two sides already had agreed to discuss peace. The peace talks began in the summer at Ghent, in Belgium.
+	- The British at first were in no hurry to sign a peace treaty. They believed that their forces would be able to capture parts of the United States.
+	- Britain demanded as a condition for peace that the United States give large areas of its northwest to the Indians. It also said America must give Canada other areas along the border. And Britain would not promise to stop seizing American seamen and putting them in the British navy.
+	- But British policy at the peace talks changed after the battles of Baltimore and Plattsburgh. That will be our story next week.
