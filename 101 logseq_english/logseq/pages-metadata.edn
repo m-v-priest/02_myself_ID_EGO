@@ -316,10 +316,42 @@
  {:block/name "086  donald trump_ unusual",
   :block/created-at 1649814816654,
   :block/updated-at 1650873217823}
+ {:block/name "087 the u.s. expands west",
+  :block/created-at 1651020626598,
+  :block/updated-at 1651020626598}
+ {:block/name
+  "088 a visit with history_ gettysburg national military park",
+  :block/created-at 1651020627336,
+  :block/updated-at 1651020627336}
+ {:block/name
+  "089 america's birthplace_ independence national historical park",
+  :block/created-at 1651020627642,
+  :block/updated-at 1651020627642}
+ {:block/name "1",
+  :block/created-at 1651033276946,
+  :block/updated-at 1651033276946}
  {:block/name
   "1. 动作或事件, 从a时 延续到→ b时 → 并可能继续延续到未来. ⇒ (1). 谓语必须是_延续性动词_(而非_短暂动词_); (2). 句子要带_延续性时间状语_(since...​, for+时间段, 等)",
   :block/created-at 1645063193252,
   :block/updated-at 1645063218694}
+ {:block/name "101 james madison - 1",
+  :block/created-at 1651020627944,
+  :block/updated-at 1651020627944}
+ {:block/name "101 james madison - 2",
+  :block/created-at 1651020628227,
+  :block/updated-at 1651020628227}
+ {:block/name "101 james madison - 3",
+  :block/created-at 1651020628514,
+  :block/updated-at 1651020628514}
+ {:block/name "101 james madison - 4",
+  :block/created-at 1651020628763,
+  :block/updated-at 1651020628763}
+ {:block/name "101 james madison - 5",
+  :block/created-at 1651020629138,
+  :block/updated-at 1651020629138}
+ {:block/name "101 james madison - 6",
+  :block/created-at 1651020629564,
+  :block/updated-at 1651020629564}
  {:block/name "1a +暂时的adj. 客体, 2the +长久状态的adj. 客体",
   :block/created-at 1644392252852,
   :block/updated-at 1644394305138}
@@ -361,12 +393,18 @@
  {:block/name "1还没板上钉钉的事情, 或尚未存在的事情, 前面要用a. 2已经确认了的事情, 才能用the.",
   :block/created-at 1644394746645,
   :block/updated-at 1644395015260}
+ {:block/name "2",
+  :block/created-at 1651033276949,
+  :block/updated-at 1651033276949}
  {:block/name "2. 从a时间点, “重复(repeat)”到b时间点",
   :block/created-at 1645063355236,
   :block/updated-at 1645067705282}
  {:block/name "3. 过去时间点a已经结束的事件, 后果影响到了时间点b",
   :block/created-at 1645063517291,
   :block/updated-at 1645067712850}
+ {:block/name "3：the",
+  :block/created-at 1651033276954,
+  :block/updated-at 1651033276954}
  {:block/name "_ ▶",
   :block/created-at 1650783018725,
   :block/updated-at 1650783018725}
@@ -424,6 +462,9 @@
  {:block/name "apr 25th, 2022",
   :block/created-at 1650848000519,
   :block/updated-at 1650848000519}
+ {:block/name "apr 27th, 2022",
+  :block/created-at 1651020625337,
+  :block/updated-at 1651020625337}
  {:block/name "apr 8th, 2022",
   :block/created-at 1649377698587,
   :block/updated-at 1649377698587}
@@ -528,6 +569,9 @@
   "it was the+序数词(first, second...​)或最高级......that had done... ",
   :block/created-at 1647074951603,
   :block/updated-at 1647074951603}
+ {:block/name "justice_ what's the right thing to do_ 01",
+  :block/created-at 1651033276976,
+  :block/updated-at 1651046638859}
  {:block/name "later",
   :block/created-at 1647074951600,
   :block/updated-at 1647074951600}
