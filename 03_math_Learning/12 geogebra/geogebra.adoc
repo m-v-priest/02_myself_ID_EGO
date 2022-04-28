@@ -1,6 +1,8 @@
 
 = geogebra
 :toc:
+:toclevels: 3
+:sectnums:
 
 ---
 
@@ -791,6 +793,72 @@ image:img_geogebra/geogebra_23.png[]
 
 
 ---
+
+==== 自定义"向量的起点坐标"
+
+Vector( <Start Point>, <End Point> )
+
+image:img_geogebra/geogebra_62.png[]
+
+
+
+
+
+
+---
+
+== 矩阵
+
+说明文档
+https://wiki.geogebra.org/s/zh/index.php?title=%E7%9F%A9%E9%99%A3&variant=zh-hans
+
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|在"代数区"中输入矩阵
+|....
+用 {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}} 表示一个 3x3 矩阵
+....
+
+image:img_geogebra/geogebra_58.png[]
+
+|在"绘图区"中输入矩阵
+|在指令列输入:
+....
+FormulaText({{1, 2, 3}, {4, 5, 6}, {7, 8, 9}})
+....
+会产生一个 LaTeX 格式的矩阵。 +
+
+或从代数区, 拖曳一个矩阵物件, 放到绘图区。
+
+image:img_geogebra/geogebra_57.png[]
+
+|两个矩阵相加
+|sum1 = m1 + m2
+
+image:img_geogebra/geogebra_59.png[]
+
+
+
+|两个矩阵相乘
+
+(注意: Matrix1 的行数, 与 Matrix2 的列数必须相等，才能进行矩阵乘法运算。)
+|product_1 = m1 * m2
+
+image:img_geogebra/geogebra_60.png[]
+
+|将矩阵 Matrix 的每一个元素乘上 Number
+|Matrix * Number
+
+image:img_geogebra/geogebra_61.png[]
+
+|===
+
+
+
+
+
 
 == ----- -----
 
