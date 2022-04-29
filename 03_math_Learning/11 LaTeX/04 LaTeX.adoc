@@ -1290,6 +1290,7 @@ K^ {3^ {3^ {\cdot^ {\cdot^ {\cdot^3}}}}}
 |\begin{align}
 \underline{x+y}
 \end{align}
+
 |===
 
 
@@ -1305,6 +1306,10 @@ K^ {3^ {3^ {\cdot^ {\cdot^ {\cdot^3}}}}}
 |\begin{align}
 \widehat{AB}
 \end{align}
+
+
+|\overset{\frown}{AB}
+|stem:[ \overset{\frown}{AB}]
 |===
 
 ---
