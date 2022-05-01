@@ -1,0 +1,135 @@
+title:: 080 Jimmy Carter: Outsider
+
+- ## 080 Jimmy Carter: Outsider
+- ## pure
+  collapsed:: true
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about Jimmy Carter. His given name was James, but he liked to be called Jimmy.
+	- Carter was elected president in 1976. Until he campaigned for the office, few Americans knew who he was.
+	- But Carter said his lack of experience with the federal government made him the best candidate. After witnessing years of problems in the White House, many voters appeared to agree with him.
+	- However, Carter's inexperience also became a problem. Some of the issues he faced were complex and, at times, they seemed overwhelming.
+	- After only one term, Carter failed to get re-elected.
+	- But in time, his public image improved. His years after leaving the White House are generally considered more successful than his time in office.
+	- ## Early life
+	- Jimmy Carter was born in the southern state of Georgia. He was the oldest of four children. His father was a businessman. His mother was a nurse. The family owned a store, as well as a peanut farm and warehouse.
+	- Although the businesses did well, Jimmy Carter grew up very modestly. His family's house did not have electricity or running water.
+	- But he was hardworking and wanted to be successful. As a boy, he saved enough money to buy four houses. He earned more money by renting them to other people.
+	- He also decided to attend college at the United States Naval Academy. And in time, he did so.
+	- Carter was an excellent student. And he became a fine Naval officer. As a midshipman, Carter worked on one of the country's first nuclear submarines. He later taught nuclear engineering to other crewmembers.
+	- But Carter's promising career in the Navy ended after only seven years.
+	- His father was dying. And the family farm was in trouble.
+	- Carter, his wife, Rosalynn, and their three sons, decided to return to Georgia and try to save it.
+	- The first years back on the farm were difficult. But in time, the business became successful again.
+	- Carter began to turn his attention to other issues. He became involved in his church, local school, hospitals and libraries. When he had a chance to compete for a position in the state senate, he took it.
+	- As a politician, Carter developed an image as an independent thinker who tried to save the government money. He also acted and spoke strongly against racial discrimination.
+	- In Georgia at the time, many voters did not agree with Carter's support of racial equality. In 1966, even his own Democratic Party did not choose him to be its candidate to represent Georgia in the U.S. Senate.
+	- So Carter began campaigning for the office of state governor instead. In 1970, he was elected. As Georgia's governor, Carter was known as a social and political reformer.
+	- However, historian Robert Strong notes that Carter did not always work well with others in his party.
+	- Strong teaches at Washington and Lee University in Lexington, Virginia. He writes that some Georgia lawmakers believed Carter was "arrogant." He could appear to think he was morally right, and they were morally wrong.
+	- Carter's difficulty in getting along with other officials proved to be one of the problems he would later face.
+	- But in the presidential election of 1976, many Americans seemed to like this quality. The little-known governor from Georgia defeated the sitting president, Gerald Ford.
+	- Carter won, in part, by saying that he was different than other politicians. He was, he said, a Washington outsider.
+	- Then suddenly, Carter was the biggest insider of all: the American president.
+	- ## Presidency
+	- One of the things Carter wanted to do was change the image of the president.
+	- Earlier leaders, such as Richard Nixon and Lyndon Johnson, had increased the power of the presidency. Nixon had also been shown to be dishonest, and resigned from office.
+	- Carter promised never to lie to the American people. And on the day of his swearing-in as president, he purposefully tried to keep things simple. He walked to the White House from the U.S. Capitol building instead of riding in the back of an automobile.
+	- His wife, Rosalynn, wore clothes that she had worn in public before. The National First Ladies' Library notes that her choice of clothing sent a message of "an old American value of thrift – or respecting money, and not spending it needlessly."
+	- What she wore was meaningful because the country was going through difficult economic times. The Carters wanted to show that the new government would work to cut costs. They also wanted to show that they were there to help the American people, not enjoy the powers of the White House.
+	- But in the end, the Carter administration received poor ratings in surveys of public opinion.
+	- President Carter had trouble dealing with U.S. lawmakers, even when his party was in control of Congress. One result was that Carter could not advance many of his ideas for legislation. He appeared ineffective.
+	  Many historians point out that, in fact, Carter had a number of successes. He helped reduce the country's dependence on foreign oil. He took steps to make the federal government more efficient, and to improve the environment. He appointed a number of women and racial minorities to top government jobs -- an important move at a time when many were pressing for women's rights and civil rights. And, in many cases, Carter supported human rights causes, both in the United States and around the world.
+	- But the public generally did not see Carter for his successes. Instead, many Americans blamed him for the country's economic problems.
+	- Some also disliked the way he spoke to them. In one speech, Carter blamed the country's troubles on what he called a crisis of confidence. Some listeners were offended.
+	- He also decided that the U.S. would not attend the 1980 Olympic Games in Moscow. The move was meant to punish the Soviet Union for its involvement in Afghanistan. But many Americans believed the move mostly hurt young American Olympians.
+	- The administration also faced other problems. The president was never accused of wrongdoing. But other high-level officials were. So was the president's brother, Billy. As a result, Jimmy Carter's public image for honesty suffered.
+	- Then came the Iran hostage crisis.
+	- ## Iran hostage crisis
+	- The conflict between the United States and Iran had a long history. One part involved the Shah of Iran. The U.S. government had supported his rise to power, partly because American interests wanted to control Iran's oil.
+	- But the Shah severely abused his power. Many Iranians resisted. Some wanted a leader who would more closely obey Islamic teachings.
+	- In 1979, under pressure from those Iranians and others, the Shah fled the country. By now, he was suffering from cancer.
+	- So, as a humanitarian act, President Carter permitted the Shah to come to the United States for medical treatment.
+	- The move made many Iranians angry. In protest, a group of students seized the U.S. embassy in Tehran, the capital of Iran. They took 90 people, including 66 Americans, hostage.
+	- Carter worked hard to get the hostages released. He tried diplomatic negotiations and economic restrictions.
+	- But his efforts did not work.
+	- Finally, he tried a secret military operation. He sent eight helicopters and a team of special forces to enter the embassy and rescue the hostages.
+	- But that operation failed, too. The weather was bad. Three of the helicopters crashed. Eight Americans were killed.
+	- And the public's approval of Jimmy Carter dropped even more.
+	- After 444 days, the remaining hostages were released. In exchange, the U.S. government agreed to end some of its economic sanctions against Iran and promised not to interfere in the country's affairs.
+	- None of the hostages had been seriously hurt. But the crisis was the final blow to Carter's presidency. A few months before they were released, his effort to seek re-election failed.
+	- ## Legacy
+	- As president, Carter did not meet the high expectations he had set for himself. And he faced some unusually difficult situations. His presidency also suffered from his problems communicating effectively with Congress, the media, and the American people.
+	- But his four years as president did leave several marks on the office. For one, he showed that the U.S. president could help other nations and sides resolve their disputes.
+	- Carter's best-known success as president was his help negotiating the Camp David Accords.
+	- The accords were a peace agreement between Egypt and Israel. Carter led the talks at Camp David in Maryland.
+	- Carter's efforts to protect human rights overseas also influenced the foreign policy of later presidents.
+	- In time, his work as a defender of human rights has become his most important legacy.
+	- Several years after leaving the presidency, he founded the Carter Presidential Center at Emory University in Atlanta, Georgia. The center "seeks to prevent and resolve conflicts, enhance freedom and democracy, and improve health."
+	- In addition to his work there, Carter has helped build houses for people who need them, written books, and negotiated with world leaders to take steps toward peace.
+	- In 2002, Carter received the Nobel Peace Prize for his efforts.
+- ---
+- ## def
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about Jimmy Carter. His given name was James, but he liked to be called Jimmy.
+	- Carter was elected president in 1976. Until he campaigned for the office, few Americans knew who he was.
+	- But Carter said his lack of experience with the federal government made him the best candidate. After witnessing years of problems in the White House, many voters appeared to agree with him.
+	- However, Carter's inexperience also became a problem. Some of the issues he faced were complex and, at times, they seemed overwhelming.
+	- After only one term, Carter failed to get re-elected.
+	- But in time, his public image improved. His years after leaving the White House are generally considered more successful than his time in office.
+	- ## Early life
+	- Jimmy Carter was born in the southern state of Georgia. He was the oldest of four children. His father was a businessman. His mother was a nurse. The family owned a store, as well as a peanut farm and warehouse.
+	- Although the businesses did well, Jimmy Carter grew up very modestly. His family's house did not have electricity or running water.
+	- But he was hardworking and wanted to be successful. As a boy, he saved enough money to buy four houses. He earned more money by renting them to other people.
+	- He also decided to attend college at the United States Naval Academy. And in time, he did so.
+	- Carter was an excellent student. And he became a fine Naval officer. As a midshipman, Carter worked on one of the country's first nuclear submarines. He later taught nuclear engineering to other crewmembers.
+	- But Carter's promising career in the Navy ended after only seven years.
+	- His father was dying. And the family farm was in trouble.
+	- Carter, his wife, Rosalynn, and their three sons, decided to return to Georgia and try to save it.
+	- The first years back on the farm were difficult. But in time, the business became successful again.
+	- Carter began to turn his attention to other issues. He became involved in his church, local school, hospitals and libraries. When he had a chance to compete for a position in the state senate, he took it.
+	- As a politician, Carter developed an image as an independent thinker who tried to save the government money. He also acted and spoke strongly against racial discrimination.
+	- In Georgia at the time, many voters did not agree with Carter's support of racial equality. In 1966, even his own Democratic Party did not choose him to be its candidate to represent Georgia in the U.S. Senate.
+	- So Carter began campaigning for the office of state governor instead. In 1970, he was elected. As Georgia's governor, Carter was known as a social and political reformer.
+	- However, historian Robert Strong notes that Carter did not always work well with others in his party.
+	- Strong teaches at Washington and Lee University in Lexington, Virginia. He writes that some Georgia lawmakers believed Carter was "arrogant." He could appear to think he was morally right, and they were morally wrong.
+	- Carter's difficulty in getting along with other officials proved to be one of the problems he would later face.
+	- But in the presidential election of 1976, many Americans seemed to like this quality. The little-known governor from Georgia defeated the sitting president, Gerald Ford.
+	- Carter won, in part, by saying that he was different than other politicians. He was, he said, a Washington outsider.
+	- Then suddenly, Carter was the biggest insider of all: the American president.
+	- ## Presidency
+	- One of the things Carter wanted to do was change the image of the president.
+	- Earlier leaders, such as Richard Nixon and Lyndon Johnson, had increased the power of the presidency. Nixon had also been shown to be dishonest, and resigned from office.
+	- Carter promised never to lie to the American people. And on the day of his swearing-in as president, he purposefully tried to keep things simple. He walked to the White House from the U.S. Capitol building instead of riding in the back of an automobile.
+	- His wife, Rosalynn, wore clothes that she had worn in public before. The National First Ladies' Library notes that her choice of clothing sent a message of "an old American value of thrift – or respecting money, and not spending it needlessly."
+	- What she wore was meaningful because the country was going through difficult economic times. The Carters wanted to show that the new government would work to cut costs. They also wanted to show that they were there to help the American people, not enjoy the powers of the White House.
+	- But in the end, the Carter administration received poor ratings in surveys of public opinion.
+	- President Carter had trouble dealing with U.S. lawmakers, even when his party was in control of Congress. One result was that Carter could not advance many of his ideas for legislation. He appeared ineffective.
+	  Many historians point out that, in fact, Carter had a number of successes. He helped reduce the country's dependence on foreign oil. He took steps to make the federal government more efficient, and to improve the environment. He appointed a number of women and racial minorities to top government jobs -- an important move at a time when many were pressing for women's rights and civil rights. And, in many cases, Carter supported human rights causes, both in the United States and around the world.
+	- But the public generally did not see Carter for his successes. Instead, many Americans blamed him for the country's economic problems.
+	- Some also disliked the way he spoke to them. In one speech, Carter blamed the country's troubles on what he called a crisis of confidence. Some listeners were offended.
+	- He also decided that the U.S. would not attend the 1980 Olympic Games in Moscow. The move was meant to punish the Soviet Union for its involvement in Afghanistan. But many Americans believed the move mostly hurt young American Olympians.
+	- The administration also faced other problems. The president was never accused of wrongdoing. But other high-level officials were. So was the president's brother, Billy. As a result, Jimmy Carter's public image for honesty suffered.
+	- Then came the Iran hostage crisis.
+	- ## Iran hostage crisis
+	- The conflict between the United States and Iran had a long history. One part involved the Shah of Iran. The U.S. government had supported his rise to power, partly because American interests wanted to control Iran's oil.
+	- But the Shah severely abused his power. Many Iranians resisted. Some wanted a leader who would more closely obey Islamic teachings.
+	- In 1979, under pressure from those Iranians and others, the Shah fled the country. By now, he was suffering from cancer.
+	- So, as a humanitarian act, President Carter permitted the Shah to come to the United States for medical treatment.
+	- The move made many Iranians angry. In protest, a group of students seized the U.S. embassy in Tehran, the capital of Iran. They took 90 people, including 66 Americans, hostage.
+	- Carter worked hard to get the hostages released. He tried diplomatic negotiations and economic restrictions.
+	- But his efforts did not work.
+	- Finally, he tried a secret military operation. He sent eight helicopters and a team of special forces to enter the embassy and rescue the hostages.
+	- But that operation failed, too. The weather was bad. Three of the helicopters crashed. Eight Americans were killed.
+	- And the public's approval of Jimmy Carter dropped even more.
+	- After 444 days, the remaining hostages were released. In exchange, the U.S. government agreed to end some of its economic sanctions against Iran and promised not to interfere in the country's affairs.
+	- None of the hostages had been seriously hurt. But the crisis was the final blow to Carter's presidency. A few months before they were released, his effort to seek re-election failed.
+	- ## Legacy
+	- As president, Carter did not meet the high expectations he had set for himself. And he faced some unusually difficult situations. His presidency also suffered from his problems communicating effectively with Congress, the media, and the American people.
+	- But his four years as president did leave several marks on the office. For one, he showed that the U.S. president could help other nations and sides resolve their disputes.
+	- Carter's best-known success as president was his help negotiating the Camp David Accords.
+	- The accords were a peace agreement between Egypt and Israel. Carter led the talks at Camp David in Maryland.
+	- Carter's efforts to protect human rights overseas also influenced the foreign policy of later presidents.
+	- In time, his work as a defender of human rights has become his most important legacy.
+	- Several years after leaving the presidency, he founded the Carter Presidential Center at Emory University in Atlanta, Georgia. The center "seeks to prevent and resolve conflicts, enhance freedom and democracy, and improve health."
+	- In addition to his work there, Carter has helped build houses for people who need them, written books, and negotiated with world leaders to take steps toward peace.
+	- In 2002, Carter received the Nobel Peace Prize for his efforts.

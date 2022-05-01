@@ -1,0 +1,101 @@
+title:: 063 Chester A. Arthur: Surprisingly Good
+
+- ## Chester A. Arthur: Surprisingly Good
+- ## pure
+  collapsed:: true
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about Chester A. Arthur. (The letter "A" is for Alan, his middle name.)
+	- Arthur took office because because of an unexpected event. He was sworn in as Vice President in March 1881 under James Garfield.
+	- But only 100 days into Garfield's term, the president was shot. He suffered for months.
+	- Arthur was not close to Garfield. The two men belonged to the same party, but they had different ideas on the issues of the day. They publicly disagreed on a number of subjects.
+	- If Garfield lived, Arthur would probably not have much power in his administration.
+	- But Garfield eventually died.
+	- By this time, it was well-established that if the president of the United States dies in office, the vice president becomes the president.
+	- So, in September 1881, Arthur became the country's chief executive. He served the remaining three and a half years of Garfield's term.
+	- Historians say that, for the most part, Arthur performed ably and well.
+	- ## Early life
+	- Chester Arthur was raised in the northeastern states of Vermont and New York. He was one of eight children in his family. Their father was a religious leader and anti-slavery activist.
+	- Arthur attended college in New York, then taught school and studied law. But he never wanted to stay in a small town and live modestly. He wanted to live in New York City, work as a lawyer and public official, become wealthy, and enjoy the lifestyle of a gentleman.
+	- And that is what he did.
+	- Arthur advanced from an entry-level job in a law office, to a leadership position in the military during the Civil War. After the fighting stopped, he worked in a good-paying job as a lawyer, and then accepted a top position in the government.
+	- For seven years, Arthur served as the collector of the port of New York. His job involved supervising 1,300 people. They collected large amounts of money that came from taxes on imported goods.
+	- The job had a political element, too. It was under the control of a U.S. senator from New York, Roscoe Conkling. Conkling was known as a Republican Party chief, who traded political support for financial and other benefits.
+	- Arthur was never found guilty of accepting money or gifts in exchange for the help of his office. But he was closely linked to Conkling's political machine.
+	- When Rutherford B. Hayes became president in 1878, he tried to fight corruption in government jobs. He targeted Conkling and Arthur.
+	- ## Election of 1880
+	- Arthur's position as the collector of the port of New York was one of the issues in the election of 1880.
+	- President Hayes had suspended Arthur from the job. To get it back, Arthur and Conkling supported an effort to re-elect former president Ulysses S. Grant.
+	- But another candidate won the Republican Party's presidential nomination: James Garfield.
+	- Garfield and Arthur were not natural allies. Although they were both Republicans, they represented different points of view.
+	- Political leaders hoped to unite the party. So, when Garfield was chosen as the presidential candidate, they added Arthur as the vice presidential nominee.
+	- The effort to unite the party worked well enough to win the election. But relations between the two men were uneasy.
+	- One of Garfield's first acts was to appoint someone for Arthur's old job in New York. The new president wanted someone who was not loyal to Conkling. So he gave the position to one of his supporters, instead.
+	- In protest, Conkling resigned from the Senate.
+	- But then events took an unexpected turn. Garfield was shot by a mentally unbalanced man who believed the president owed him a government job.
+	- And Chester A. Arthur became president.
+	- ## Presidency
+	- When Arthur took office, he had the public image of being an experienced political operator. Most people believed he cared only about supporting the aims of a small part of the Republican Party.
+	- Instead, President Arthur took an independent position on several issues. In opposition to most of his party, Arthur supported legislation to reform the country's civil service. It aimed to clean up corruption in government and took away some of the ability of politicians to give government jobs to their supporters.
+	- (To be fair, in the short term, the act helped Arthur's party.)
+	- Arthur also broke with the Republican Party leadership to support a reduction in tariffs. And he strongly argued to limit spending federal money on projects that helped only a few areas or businesses. Instead, he wanted to cut taxes so more people would profit from the government's surplus.
+	- Finally, Arthur vetoed an anti-immigration act from Congress. The measure proposed banning Chinese immigrants for 20 years.
+	- Arthur argued that the Chinese had improved the American economy by helping build a railroad across the country. He also did not want to hurt potential trade with China.
+	- However, when Congress offered to ban Chinese immigrants for only 10 years, Arthur agreed. In addition, his administration banned immigrants who were considered poor, criminal, or mentally insane.
+	- Perhaps Arthur's most memorable act as president, however, was to re-decorate the White House. He did not like its appearance inside. So he asked one of New York's top designers, Louis Tiffany, to make the home brighter and more stylish.
+	- In the newly remodeled rooms, Arthur held parties, with fine food and drink, for elite guests. He was known as "The Gentleman Boss."
+	- ## Legacy
+	- Observers then and now say that Arthur served well as president. He was a solid leader after the difficult years of the Civil War and Reconstruction.
+	- But Arthur did not live much beyond his presidency. Shortly into his term, he learned he had a serious kidney disease that would likely kill him.
+	- As a result, he did not try hard to get re-elected.
+	- Instead, after finishing his term he returned to his home in New York. Arthur tried to work as a lawyer, but he soon became too sick.
+	- His wife had died of malaria before he became president. And he liked to spend his free time fishing or with friends instead of with his children. But, in his last months, he could not enjoy those activities either.
+	- He died at home at the age of 57.
+- ---
+- ## def
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about Chester A. Arthur. (The letter "A" is for Alan, his middle name.)
+	- Arthur took office because because of an unexpected event. He was sworn in as Vice President in March 1881 under James Garfield.
+	- But only 100 days into Garfield's term, the president was shot. He suffered for months.
+	- Arthur was not close to Garfield. The two men belonged to the same party, but they had different ideas on the issues of the day. They publicly disagreed on a number of subjects.
+	- If Garfield lived, Arthur would probably not have much power in his administration.
+	- But Garfield eventually died.
+	- By this time, it was well-established that if the president of the United States dies in office, the vice president becomes the president.
+	- So, in September 1881, Arthur became the country's chief executive. He served the remaining three and a half years of Garfield's term.
+	- Historians say that, for the most part, Arthur performed ably and well.
+	- ## Early life
+	- Chester Arthur was raised in the northeastern states of Vermont and New York. He was one of eight children in his family. Their father was a religious leader and anti-slavery activist.
+	- Arthur attended college in New York, then taught school and studied law. But he never wanted to stay in a small town and live modestly. He wanted to live in New York City, work as a lawyer and public official, become wealthy, and enjoy the lifestyle of a gentleman.
+	- And that is what he did.
+	- Arthur advanced from an entry-level job in a law office, to a leadership position in the military during the Civil War. After the fighting stopped, he worked in a good-paying job as a lawyer, and then accepted a top position in the government.
+	- For seven years, Arthur served as the collector of the port of New York. His job involved supervising 1,300 people. They collected large amounts of money that came from taxes on imported goods.
+	- The job had a political element, too. It was under the control of a U.S. senator from New York, Roscoe Conkling. Conkling was known as a Republican Party chief, who traded political support for financial and other benefits.
+	- Arthur was never found guilty of accepting money or gifts in exchange for the help of his office. But he was closely linked to Conkling's political machine.
+	- When Rutherford B. Hayes became president in 1878, he tried to fight corruption in government jobs. He targeted Conkling and Arthur.
+	- ## Election of 1880
+	- Arthur's position as the collector of the port of New York was one of the issues in the election of 1880.
+	- President Hayes had suspended Arthur from the job. To get it back, Arthur and Conkling supported an effort to re-elect former president Ulysses S. Grant.
+	- But another candidate won the Republican Party's presidential nomination: James Garfield.
+	- Garfield and Arthur were not natural allies. Although they were both Republicans, they represented different points of view.
+	- Political leaders hoped to unite the party. So, when Garfield was chosen as the presidential candidate, they added Arthur as the vice presidential nominee.
+	- The effort to unite the party worked well enough to win the election. But relations between the two men were uneasy.
+	- One of Garfield's first acts was to appoint someone for Arthur's old job in New York. The new president wanted someone who was not loyal to Conkling. So he gave the position to one of his supporters, instead.
+	- In protest, Conkling resigned from the Senate.
+	- But then events took an unexpected turn. Garfield was shot by a mentally unbalanced man who believed the president owed him a government job.
+	- And Chester A. Arthur became president.
+	- ## Presidency
+	- When Arthur took office, he had the public image of being an experienced political operator. Most people believed he cared only about supporting the aims of a small part of the Republican Party.
+	- Instead, President Arthur took an independent position on several issues. In opposition to most of his party, Arthur supported legislation to reform the country's civil service. It aimed to clean up corruption in government and took away some of the ability of politicians to give government jobs to their supporters.
+	- (To be fair, in the short term, the act helped Arthur's party.)
+	- Arthur also broke with the Republican Party leadership to support a reduction in tariffs. And he strongly argued to limit spending federal money on projects that helped only a few areas or businesses. Instead, he wanted to cut taxes so more people would profit from the government's surplus.
+	- Finally, Arthur vetoed an anti-immigration act from Congress. The measure proposed banning Chinese immigrants for 20 years.
+	- Arthur argued that the Chinese had improved the American economy by helping build a railroad across the country. He also did not want to hurt potential trade with China.
+	- However, when Congress offered to ban Chinese immigrants for only 10 years, Arthur agreed. In addition, his administration banned immigrants who were considered poor, criminal, or mentally insane.
+	- Perhaps Arthur's most memorable act as president, however, was to re-decorate the White House. He did not like its appearance inside. So he asked one of New York's top designers, Louis Tiffany, to make the home brighter and more stylish.
+	- In the newly remodeled rooms, Arthur held parties, with fine food and drink, for elite guests. He was known as "The Gentleman Boss."
+	- ## Legacy
+	- Observers then and now say that Arthur served well as president. He was a solid leader after the difficult years of the Civil War and Reconstruction.
+	- But Arthur did not live much beyond his presidency. Shortly into his term, he learned he had a serious kidney disease that would likely kill him.
+	- As a result, he did not try hard to get re-elected.
+	- Instead, after finishing his term he returned to his home in New York. Arthur tried to work as a lawyer, but he soon became too sick.
+	- His wife had died of malaria before he became president. And he liked to spend his free time fishing or with friends instead of with his children. But, in his last months, he could not enjoy those activities either.
+	- He died at home at the age of 57.

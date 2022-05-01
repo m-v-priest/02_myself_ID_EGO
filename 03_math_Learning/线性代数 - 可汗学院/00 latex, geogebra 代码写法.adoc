@@ -1,0 +1,38 @@
+
+= latex, geogebra 代码写法
+:toc:
+:toclevels: 3
+:sectnums:
+
+---
+
+
+== 常用latex公式:
+....
+向量(xl) : \vec{x}
+向量正方向(xlz) : \overrightarrow{AB}
+向量反方向(xlf) : \overleftarrow{AB}
+矩阵的左右中括号(zkh) : \begin{bmatrix}  a & b \\  c & d \\  \end{bmatrix}
+联立方程的大括号(fc) : \begin{cases}   x+y  \\  a+b \end{cases}
+空格 : \quad
+正下方小字(zxf) : \underset{我的说明}{abcdefg}
+....
+
+---
+
+
+== 在GeoGebra中输入数学元素:
+....
+向量方向线条 : x = Vector((0,0),(2,4))
+单位阵 :  I = Identity[维度数]
+逆矩阵 : Invert[某矩阵] //用小括号也行
+
+....
+
+---
+
+
+
+
+https://www.bilibili.com/video/BV1Wt411z7Gi?p=8
+

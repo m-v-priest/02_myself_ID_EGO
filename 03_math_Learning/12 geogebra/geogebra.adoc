@@ -861,7 +861,35 @@ image:img_geogebra/geogebra_61.png[]
 |===
 
 
+---
 
+==== 单位矩阵 : Identity[维数]
+
+命令:  +
+I = Identity[4]
+
+image:img_geogebra/geogebra_64.png[]
+
+
+---
+
+==== 逆矩阵 : Invert[某矩阵]
+
+官方文档说明  https://wiki.geogebra.org/en/Invert_Command
+
+命令: +
+A矩阵的逆矩阵 = Invert[A矩阵]  //中括号改成小括号也行
+
+image:img_geogebra/geogebra_65.png[]
+
+
+---
+
+==== 获取矩阵中的"某行某列"的元素 -> matrix(i, j)（ i 和 j 为整数）, 会取出矩阵第 i 列第 j 行的元素。
+
+matrix(1, 1) 取出第一列第一行的元素
+
+image:img_geogebra/geogebra_66.png[]
 
 
 

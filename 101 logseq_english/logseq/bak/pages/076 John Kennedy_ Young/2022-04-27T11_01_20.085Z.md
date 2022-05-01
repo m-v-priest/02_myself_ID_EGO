@@ -1,0 +1,115 @@
+title:: 076 John Kennedy: Young
+
+- ## 076 John Kennedy: Young
+- ## pure
+  collapsed:: true
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about John Fitzgerald Kennedy. He was also known as Jack Kennedy, or by the letters JFK.
+	- When he took office in 1961, Kennedy was 43 years old. He was the youngest elected president in United States' history.
+	- Kennedy was also the first Catholic to be elected U.S. president.
+	- Kennedy's youth and religion raised questions in the minds of some Americans that Kennedy could lead the country. They wondered if he would always follow the policies of the Roman Catholic Church.
+	- But Kennedy became well-known as a statesman, and popular with people around the world. He was intelligent, funny and good-looking. For many, Kennedy was a sign of new energy and hope.
+	- The public was shocked, then, when the president's term was violently cut short.
+	- ## Early life
+	- John F. Kennedy was born in 1917 near Boston, Massachusetts. He was the second of nine children.
+	- Both his parents were Catholic, with ancestors from Ireland. Many years ago, Irish Catholics often faced discrimination in the United States. But the Kennedy family was also politically powerful and wealthy.
+	- As a result, young Jack Kennedy grew up in big, beautiful houses and received a top quality education. His family did not suffer during the Great Depression, as many Americans had. Instead, the Kennedy children swam, sailed boats and played sports.
+	- Jack also enjoyed reading books and following the news. His older brother Joe wanted to enter politics, but Jack said he might become a teacher or writer. When he was a college student at Harvard, Jack wrote a long paper about Britain in the years leading up to World War II. A version of it was published in 1940 as a book.
+	- The war changed Jack's thinking about his future plans. During World War II, both Jack and his older brother joined the U.S. Navy. In the Pacific, Jack became a hero. He won medals for leading some of his troops to safety after a Japanese warship struck a boat they were on.
+	- But Joe was killed. In 1944, his airplane exploded over Europe.
+	- When the war ended, Jack's father urged him to follow his brother's dream of succeeding in politics. Jack agreed, and he set his sights on becoming the country's first Catholic president.
+	- ## Presidency
+	- Kennedy was nominated as the Democratic Party's candidate, and he was elected in 1960.
+	- He easily defeated Vice President Richard Nixon, the Republican candidate, in the Electoral College. But Kennedy won only narrowly in the popular vote.
+	- Though he was young, Kennedy brought experience to the job. In addition to being a naval officer, Kennedy had been a member of the U.S. House of Representatives as well as a senator from Massachusetts.
+	- He also published a Pulitzer Prize-winning book called "Profiles in Courage."
+	- And he had become a husband and father. He married a wealthy, well-educated woman who had been working as a newspaper photographer. Her name was Jacqueline Bouvier, but she was sometimes called Jackie.
+	- She became pregnant five times, but only two of her children would survive: a daughter named Caroline, and a son, John F. Kennedy, Junior.
+	- The family of four moved into the White House in January 1961. On the day he was sworn-in, Kennedy gave a speech that many people still remember today. It celebrated the "new generation of Americans," and promised to "pay any price" for liberty.
+	- Supporters of the new president loved his energy and sense of hope. In his most famous line, Kennedy said, "Ask not what your country can do for you – ask what you can do for your country."
+	- Many young people remembered that line when they volunteered for a program Kennedy created in 1961: the Peace Corps.
+	- Other Americans remembered the line when they watched two Apollo 11 astronauts walk on the moon in 1969. Kennedy strongly supported the country's space program. He promised that Americans would land on the moon by the end of the 1960s, and they did.
+	- Kennedy also supported efforts to improve civil rights across the U.S., although his administration moved slowly. Calls to end legalized racism were growing stronger during Kennedy's time in office, particularly because of the leadership of Martin Luther King, Junior.
+	- In June of 1963, King spoke to hundreds of thousands of people at a civil rights protest called the March on Washington. He told the crowd that he dreamed "my four little children will one day live in a nation where they will not be judged by the color of their skin, but by the content of their character."
+	- The March on Washington, among other events, showed the power of the civil rights movement. In late 1963, President Kennedy sent a civil rights bill to Congress and spoke to Americans about the injustice that remained in the country.
+	- The Peace Corps, the Space Race, and civil rights are all part of Kennedy's legacy.
+	- Kennedy is also remembered for several troubling international events. In one, known as the Bay of Pigs, Americans supported Cuban refugees in an effort to oust the government of Fidel Castro. Not only did the refugees fail, but Kennedy's government was found to be lying about their support of the effort.
+	- And Kennedy faced off with the leader of the Soviet Union, Nikita Khrushchev. In 1962, American leaders learned that the Soviets had hidden nuclear weapons in Cuba. The missiles would be able to reach the U.S. mainland easily.
+	- Kennedy ordered a blockade of Cuba. People around the world held their breath as they waited to see if the U.S. and the Soviet Union would launch a nuclear war. They did not. After several very tense weeks, Kennedy and Khrushchev reached an agreement that ended the crisis.
+	- Kennedy went on to reach an agreement with the Soviet Union and Britain to limit nuclear weapons testing. He said the agreement was one of the presidential acts of which he was most satisfied.
+	- Historians still debate Kennedy's actions, and what else might have happened during his presidency. They wonder especially what he would have done about the increasing conflict in Vietnam.
+	- But Kennedy did not live to finish his first term.
+	- ## Death
+	- By November 22, 1963, Kennedy had been president for just under three years. The next election was still a year away, but it was time to start campaigning again.
+	- So the president and his wife went to Dallas, Texas to connect with voters. They were riding in a car with other official vehicles that drove slowly through the center of the city. Jack, Jackie, and the Texas governor and his wife sat in a convertible – an automobile without protection over the seats.
+	- The president was waving at the crowd. Suddenly, several gunshots were fired. The president was struck twice.
+	- The governor was also hit and injured.
+	- Kennedy was hurried to a hospital, but doctors were unable to help him. News reporters announced his death to a stunned public.
+	- Hours later, Jackie Kennedy appeared next to the former vice president – now president – Lyndon Johnson. She still wore the clothes with her husband's blood on them.
+	- The events remain intense in the minds of many Americans who were alive at the time. The images remain easily recognizable parts of American history. The pictures of Kennedy's family at his funeral are especially memorable. In one, three-year-old John holds up his arm and salutes his father's casket.
+	- Attention quickly turned to the gunman. It was reportedly a 24-year-old man named Lee Harvey Oswald. Shortly after the president and the governor were shot, Oswald shot a policeman who questioned him.
+	- Oswald was eventually detained. Officials planned to bring him to court for the death of the president and the policeman. But on the way from the police station to the jail, a local night-club owner shot and killed Oswald.
+	- As a result, the case never came to trial. Many Americans believe the reason for the attack has yet to be clarified.
+	- ## Legacy
+	- Historians have a mixed reaction to Kennedy's years as a president, although their opinions are generally positive.
+	- His image with the public suffered some years after his death because of reports that he had romantic relationships with women other than Jackie throughout his marriage.
+	- In time, the public also learned about Kennedy's health problems. He suffered from severe back pain and Addison's disease. He often used strong medicine to help control the conditions. The health problems are at odds with Kennedy's image of health and love of sports.
+	- Yet even with these new details, Kennedy is still one of the country's best-remembered leaders. He was a charismatic man whose career influenced many other Americans to enter public service.
+	- Americans also remember his stylish, cultured wife. Jackie Kennedy compared the Kennedy years at the White House to Camelot, the legendary court of King Arthur.
+	- Their remains, along with those of two of their children, are buried at Arlington National Cemetery, across the Potomac River from Washington. They are honored there with an eternal flame – one designed so the fire will never go out.
+- ---
+- ## def
+	- VOA Learning English presents America's Presidents.
+	- Today we are talking about John Fitzgerald Kennedy. He was also known as Jack Kennedy, or by the letters JFK.
+	- When he took office in 1961, Kennedy was 43 years old. He was the youngest elected president in United States' history.
+	- Kennedy was also the first Catholic to be elected U.S. president.
+	- Kennedy's youth and religion raised questions in the minds of some Americans that Kennedy could lead the country. They wondered if he would always follow the policies of the Roman Catholic Church.
+	- But Kennedy became well-known as a statesman, and popular with people around the world. He was intelligent, funny and good-looking. For many, Kennedy was a sign of new energy and hope.
+	- The public was shocked, then, when the president's term was violently cut short.
+	- ## Early life
+	- John F. Kennedy was born in 1917 near Boston, Massachusetts. He was the second of nine children.
+	- Both his parents were Catholic, with ancestors from Ireland. Many years ago, Irish Catholics often faced discrimination in the United States. But the Kennedy family was also politically powerful and wealthy.
+	- As a result, young Jack Kennedy grew up in big, beautiful houses and received a top quality education. His family did not suffer during the Great Depression, as many Americans had. Instead, the Kennedy children swam, sailed boats and played sports.
+	- Jack also enjoyed reading books and following the news. His older brother Joe wanted to enter politics, but Jack said he might become a teacher or writer. When he was a college student at Harvard, Jack wrote a long paper about Britain in the years leading up to World War II. A version of it was published in 1940 as a book.
+	- The war changed Jack's thinking about his future plans. During World War II, both Jack and his older brother joined the U.S. Navy. In the Pacific, Jack became a hero. He won medals for leading some of his troops to safety after a Japanese warship struck a boat they were on.
+	- But Joe was killed. In 1944, his airplane exploded over Europe.
+	- When the war ended, Jack's father urged him to follow his brother's dream of succeeding in politics. Jack agreed, and he set his sights on becoming the country's first Catholic president.
+	- ## Presidency
+	- Kennedy was nominated as the Democratic Party's candidate, and he was elected in 1960.
+	- He easily defeated Vice President Richard Nixon, the Republican candidate, in the Electoral College. But Kennedy won only narrowly in the popular vote.
+	- Though he was young, Kennedy brought experience to the job. In addition to being a naval officer, Kennedy had been a member of the U.S. House of Representatives as well as a senator from Massachusetts.
+	- He also published a Pulitzer Prize-winning book called "Profiles in Courage."
+	- And he had become a husband and father. He married a wealthy, well-educated woman who had been working as a newspaper photographer. Her name was Jacqueline Bouvier, but she was sometimes called Jackie.
+	- She became pregnant five times, but only two of her children would survive: a daughter named Caroline, and a son, John F. Kennedy, Junior.
+	- The family of four moved into the White House in January 1961. On the day he was sworn-in, Kennedy gave a speech that many people still remember today. It celebrated the "new generation of Americans," and promised to "pay any price" for liberty.
+	- Supporters of the new president loved his energy and sense of hope. In his most famous line, Kennedy said, "Ask not what your country can do for you – ask what you can do for your country."
+	- Many young people remembered that line when they volunteered for a program Kennedy created in 1961: the Peace Corps.
+	- Other Americans remembered the line when they watched two Apollo 11 astronauts walk on the moon in 1969. Kennedy strongly supported the country's space program. He promised that Americans would land on the moon by the end of the 1960s, and they did.
+	- Kennedy also supported efforts to improve civil rights across the U.S., although his administration moved slowly. Calls to end legalized racism were growing stronger during Kennedy's time in office, particularly because of the leadership of Martin Luther King, Junior.
+	- In June of 1963, King spoke to hundreds of thousands of people at a civil rights protest called the March on Washington. He told the crowd that he dreamed "my four little children will one day live in a nation where they will not be judged by the color of their skin, but by the content of their character."
+	- The March on Washington, among other events, showed the power of the civil rights movement. In late 1963, President Kennedy sent a civil rights bill to Congress and spoke to Americans about the injustice that remained in the country.
+	- The Peace Corps, the Space Race, and civil rights are all part of Kennedy's legacy.
+	- Kennedy is also remembered for several troubling international events. In one, known as the Bay of Pigs, Americans supported Cuban refugees in an effort to oust the government of Fidel Castro. Not only did the refugees fail, but Kennedy's government was found to be lying about their support of the effort.
+	- And Kennedy faced off with the leader of the Soviet Union, Nikita Khrushchev. In 1962, American leaders learned that the Soviets had hidden nuclear weapons in Cuba. The missiles would be able to reach the U.S. mainland easily.
+	- Kennedy ordered a blockade of Cuba. People around the world held their breath as they waited to see if the U.S. and the Soviet Union would launch a nuclear war. They did not. After several very tense weeks, Kennedy and Khrushchev reached an agreement that ended the crisis.
+	- Kennedy went on to reach an agreement with the Soviet Union and Britain to limit nuclear weapons testing. He said the agreement was one of the presidential acts of which he was most satisfied.
+	- Historians still debate Kennedy's actions, and what else might have happened during his presidency. They wonder especially what he would have done about the increasing conflict in Vietnam.
+	- But Kennedy did not live to finish his first term.
+	- ## Death
+	- By November 22, 1963, Kennedy had been president for just under three years. The next election was still a year away, but it was time to start campaigning again.
+	- So the president and his wife went to Dallas, Texas to connect with voters. They were riding in a car with other official vehicles that drove slowly through the center of the city. Jack, Jackie, and the Texas governor and his wife sat in a convertible – an automobile without protection over the seats.
+	- The president was waving at the crowd. Suddenly, several gunshots were fired. The president was struck twice.
+	- The governor was also hit and injured.
+	- Kennedy was hurried to a hospital, but doctors were unable to help him. News reporters announced his death to a stunned public.
+	- Hours later, Jackie Kennedy appeared next to the former vice president – now president – Lyndon Johnson. She still wore the clothes with her husband's blood on them.
+	- The events remain intense in the minds of many Americans who were alive at the time. The images remain easily recognizable parts of American history. The pictures of Kennedy's family at his funeral are especially memorable. In one, three-year-old John holds up his arm and salutes his father's casket.
+	- Attention quickly turned to the gunman. It was reportedly a 24-year-old man named Lee Harvey Oswald. Shortly after the president and the governor were shot, Oswald shot a policeman who questioned him.
+	- Oswald was eventually detained. Officials planned to bring him to court for the death of the president and the policeman. But on the way from the police station to the jail, a local night-club owner shot and killed Oswald.
+	- As a result, the case never came to trial. Many Americans believe the reason for the attack has yet to be clarified.
+	- ## Legacy
+	- Historians have a mixed reaction to Kennedy's years as a president, although their opinions are generally positive.
+	- His image with the public suffered some years after his death because of reports that he had romantic relationships with women other than Jackie throughout his marriage.
+	- In time, the public also learned about Kennedy's health problems. He suffered from severe back pain and Addison's disease. He often used strong medicine to help control the conditions. The health problems are at odds with Kennedy's image of health and love of sports.
+	- Yet even with these new details, Kennedy is still one of the country's best-remembered leaders. He was a charismatic man whose career influenced many other Americans to enter public service.
+	- Americans also remember his stylish, cultured wife. Jackie Kennedy compared the Kennedy years at the White House to Camelot, the legendary court of King Arthur.
+	- Their remains, along with those of two of their children, are buried at Arlington National Cemetery, across the Potomac River from Washington. They are honored there with an eternal flame – one designed so the fire will never go out.
