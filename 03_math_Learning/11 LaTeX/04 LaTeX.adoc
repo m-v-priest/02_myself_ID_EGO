@@ -2,7 +2,8 @@
 
 =  TeX Live
 :toc:
-
+:toclevels: 3
+:sectnums:
 
 ---
 
@@ -530,7 +531,7 @@ B
 
 ---
 
-==== asciidoc中, 输入 latex公式
+==== #asciidoc中, 输入 latex公式#
 
 - 行内公式, 单行公式的写法:
 ....
@@ -588,7 +589,7 @@ image:/img_LaTeX/LaTeX_20.png[]
 
 ---
 
-==== 给公式手动编号 -> \tag{你的编号}
+==== #给公式手动编号 -> \tag{你的编号}#
 
 ....
 \begin{align}
@@ -643,6 +644,22 @@ image:/img_LaTeX/LaTeX_36.png[]
 |\not{a} <- 只对第一个字符生效
 |===
 
+---
+
+==== #加粗 -> 用 \pmb{} 包起来#
+
+对于像集合, 向量, 矩阵这些"容积型"变量, 必须用加粗来表示.
+....
+非加粗(\pmb{加粗}) \\
+normalTxt(\pmb{boldTxt}) \\
+....
+
+效果
+
+\begin{align*}
+非加粗(\pmb{加粗}) \\
+normalTxt(\pmb{boldTxt}) \\
+\end{align*}
 
 ---
 
@@ -652,7 +669,7 @@ image:/img_LaTeX/LaTeX_36.png[]
 
 == 数学公式 : 括号类
 
-==== 让括号自动调整大小 -> 用\left 和 \right 括起来.
+==== #让括号自动调整大小 -> 用\left 和 \right 括起来.#
 
 比较下面 在使用了\left左括号, 和 \right右括号, 后的显示效果.
 
@@ -1260,7 +1277,7 @@ K^ {3^ {3^ {\cdot^ {\cdot^ {\cdot^3}}}}}
 
 ---
 
-==== 水平大括号 -> 下方 \underbrace{a,b,c..., n}_{n个数}; 上方 \overbrace{...}
+==== #水平大括号 -> 下方 \underbrace{a,b,c..., n}_{n个数}; 上方 \overbrace{...}#
 
 [options="autowidth"]
 |===
@@ -1566,6 +1583,15 @@ A \cdot B
 \end{align}
 |\left 竖线 x \right 竖线
 
+
+|\begin{align*}
+\Vert x \Vert
+\end{align*}
+|双竖线:
+\Vert
+
+注意: Vert 的首字母必须大写! 不能小写, 否则就不是双竖线了, 会变成单竖线. +
+但该代码, 无法在行内stem:[]模式中生效.
 |===
 
 
@@ -1604,6 +1630,14 @@ A \cdot B
 \le
 \end{align}
 |\le
+
+|\begin{align*}
+\leftrightarrow \\
+\Leftrightarrow
+\end{align*}
+|双箭头 +
+\leftrightarrow +
+\Leftrightarrow
 |===
 
 ---

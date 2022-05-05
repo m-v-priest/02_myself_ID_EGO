@@ -1,0 +1,9 @@
+
+= 用你导入的图片制作pdf时, 不压缩图片
+
+acrobat pro 中, 按 ctrl+k , 首选项 -> 转换为PDF
+
+由于ipad截图是png格式, 所以将 png 中的两个压缩, 质量设为最高
+
+image:img/001.png[]
+

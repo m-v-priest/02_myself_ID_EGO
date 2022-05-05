@@ -16,6 +16,12 @@
 联立方程的大括号(fc) : \begin{cases}   x+y  \\  a+b \end{cases}
 空格 : \quad
 正下方小字(zxf) : \underset{我的说明}{abcdefg}
+加粗 : \pmb{加粗}
+点号乘法 : \cdot
+双竖线 : \Vert
+小于等于 : \le (less than or equal)
+大于等于 : \ge (greater than or equal)
+双箭头 : \Leftrightarrow
 ....
 
 ---
@@ -32,7 +38,4 @@
 ---
 
 
-
-
-https://www.bilibili.com/video/BV1Wt411z7Gi?p=8
 
