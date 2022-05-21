@@ -1,0 +1,108 @@
+
+:toc:
+
+==== 上三角行列式 upper triangular determinant (主对角线, 下坡)
+
+\begin{align}
+\left| \begin{matrix}
+	a_{11}&		\cdots&		&		a_{1n}\\
+	&		a_{22}&		&		\\
+	&		&		\ddots&		\vdots\\
+	&		&		&		a_{nn}\\
+\end{matrix} \right|
+\end{align}
+
+"上三角行列式"的值 = 主对角线元素的乘积
+
+---
+
+
+==== 下三角行列式
+
+\begin{align}
+\left| \begin{matrix}
+	a_{11}&		&		&		\\
+	a_{21}&		a_{22}&		&		\\
+	\vdots&		&		\ddots&		\\
+	a_{n1}&		\cdots&		&		a_{nn}\\
+\end{matrix} \right|
+\end{align}
+
+值 = 主对角线元素的乘积
+\begin{align}
+\boxed{
+|D|=a_{11}a_{22}...a_{nn}
+}
+\end{align}
+
+---
+
+
+==== 对角行列式
+
+即只有"主对角线上"元素有值.
+
+\begin{align}
+\left| \begin{matrix}
+	a_{11}&		&		&		\\
+	&		a_{22}&		&		\\
+	&		&		\ddots&		\\
+	&		&		&		a_{nn}\\
+\end{matrix} \right|
+\end{align}
+
+值 = 主对角线元素的乘积
+
+---
+
+==== 伪上三角行列式 (次对角线, 上坡)
+
+该行列式的值 = 次对角线上元素的乘积,前面再加一个正负号.
+
+\begin{align}
+|D| &= \left( -1 \right) ^{n\left( n\cdot n-1\cdot ...\cdot 1 \right)}\cdot a_{1n}a_{2n-1}...a_{n1} \\
+&
+\boxed{
+=\left( -1 \right) ^{\frac{n\left( n-1 \right)}{2}}\cdot a_{1n}a_{2n-1}...a_{n1}
+}
+\end{align}
+
+==== 伪下三角行列式
+
+==== 伪对角行列式
+
+\begin{align}
+\left| \begin{matrix}
+	&		&		&		a_{1n}\\
+	&		&		a_{2n-1}&		\\
+	&		&		&		\\
+	a_{n1}&		&		&		\\
+\end{matrix} \right|
+\end{align}
+
+---
+
+==== 总结:
+
+**三角行列式的应用非常广泛，因为它提供了一种计算"行列式值"的简便方法**：即将一个复杂的行列式, 通过初等变换，将之化为"上三角"或"下三角"行列式，然后根据公式, 即可快速求得行列式的值。
+
+[options="autowidth"]
+|===
+|Header 1 |行列式的值
+
+|主对角线(下坡) +
+- 上三角 +
+- 下三角 +
+- 对角
+|该行列式的值  = "主对角线"元素的乘积 +
+stem:[ \|D\|=a_{11}a_{22}...a_{n n}]
+
+|次对角线(上坡) +
+- 反上三角 +
+- 反下三角 +
+- 反对角
+|该行列式的值 = "次对角线"元素的乘积,前面再加一个正负号. +
+stem:[ \|D\| =\left( -1 \right) ^{\frac{n\left( n-1 \right)}{2}}\cdot a_{1n}a_{2n-1}...a_{n1} ]
+|===
+
+---

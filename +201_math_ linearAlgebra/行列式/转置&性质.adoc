@@ -1,0 +1,36 @@
+
+:toc:
+:sectnums:
+
+== 行列式的转置 transposed determinant
+
+所谓"转置", 就是把"行"变"列".
+
+\begin{align}
+D=\left| \begin{matrix}
+	1&		2&		3\\
+	1&		1&		1\\
+	8&		8&		8\\
+\end{matrix} \right|,\ \overset{\text{转置}}{\rightarrow}\ D^T=\underset{\text{行变列了}}{\underbrace{\left| \begin{matrix}
+	1&		1&		8\\
+	2&		1&		8\\
+	3&		1&		8\\
+\end{matrix} \right|}}
+\end{align}
+
+
+---
+
+
+== 性质
+
+==== stem:[ D^T = D]
+
+即: 转置后的行列式的值, 与转置前相同. 值不变.
+
+
+
+
+
+
+

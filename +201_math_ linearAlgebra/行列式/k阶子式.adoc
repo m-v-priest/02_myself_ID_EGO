@@ -1,0 +1,50 @@
+
+:toc:
+
+== k阶子式
+
+就是取出行列式中的一部分区域的子集
+
+如, 对一个4阶行列式:
+
+\begin{align}
+\left( \begin{matrix}
+	\underline{1}&		\underline{2}&		2&		3\\
+	\underline{1}&		\underline{1}&		2&		5\\
+	1&		1&		0&		8\\
+	9&		9&		9&		10\\
+\end{matrix} \right) _{4\times 4}
+\end{align}
+
+我们取出它一个2阶子式 (即2*2区域的子集). 比如, 就取第1,2行,和第1,2列 交叉点, 所组成的子式, 即:
+
+\begin{align}
+\left| \begin{matrix}
+	1&		2\\
+	1&		1\\
+\end{matrix} \right|
+\end{align}
+
+它的余子式 =
+\begin{align}
+\left| \begin{matrix}
+	0&		8\\
+	9&		10\\
+\end{matrix} \right|
+\end{align}
+
+它的"代数余子式"=
+\begin{align}
+(-1)^{(1+2)(1+2)}\left| \begin{matrix}
+	0&		8\\
+	9&		10\\
+\end{matrix} \right|
+\end{align}
+
+注意: 上面 -1 的指数, 两个括号的意思是:
+
+\begin{align}
+(-1)^{\overset{所取2行的行号相加. }{\overbrace{(1+2)}}\overset{2列的列号相加}{\overbrace{(1+2)}}}
+\end{align}
+
+---

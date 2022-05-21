@@ -1,0 +1,131 @@
+
+:toc:
+:sectnums:
+
+== 行列式中的两行(或两列)互换位置, 行列式的值 要变号 (改变正负号)
+
+如:  +
+\begin{align}
+D=\left| \begin{array}{c}
+	line1\\
+	line2\\
+	line3\\
+	line4\\
+\end{array} \right|\rightarrow \left| \begin{array}{c}
+	line3\\
+	...\\
+	line1\\
+	...\\
+\end{array} \right|=-D
+\end{align}
+
+两行互换位置后, 行列式的值, 就要改变正负号.
+
+
+---
+
+== 能得出 stem:[|D| = 0] 的情况
+
+==== 行列式中某一行全为0, 则 |D| = 0
+
+因为0行的公因子是0, 提出去, 就变成 stem:[= 0*D], 结果就是0了.
+
+
+---
+
+====  行列式中的两行, 若相等, 则 |D| = 0
+
+比如: +
+\begin{align}
+& D=\underset{1,3\text{行相同}}{\underbrace{\left| \begin{matrix}
+	1&		2&		3\\
+	0&		0&		0\\
+	1&		2&		3\\
+	4&		5&		6\\
+\end{matrix} \right|}}\rightarrow \underset{\text{交换1,3行, 依然相同}}{\underbrace{\left| \begin{matrix}
+	1&		2&		3\\
+	&		&		\\
+	1&		2&		3\\
+	&		&		\\
+\end{matrix} \right|}}=-D \\
+& D = -D \\
+& 2D = 0 \\
+& D =0 <- 证毕
+\end{align}
+
+
+---
+
+==== 若行列式中的 两行(或两列) 成比例, 则 |D| = 0
+
+如: +
+\begin{align}
+\underset{\text{行2和行3,成比例}}{\underbrace{\left| \begin{matrix}
+	1&		2&		3\\
+	1&		1&		1\\
+\hline
+	8&		8&		8\\
+\hline
+\end{matrix} \right|}}=\ 8\times \underset{\text{第3行,提取公因子8出去. 这样, 2,3两行相等, 则D=0}}{\underbrace{\left| \begin{matrix}
+	1&		2&		3\\
+	1&		1&		1\\
+	1&		1&		1\\
+\hline
+\end{matrix} \right|}}\ =\ 8\times 0=0
+\end{align}
+
+---
+
+==== 总结: 上面3种情况, 可以推出 stem:[D=0], 但是, 反过来 stem:[D=0] 是倒推不出上面这3种情况的.
+
+\begin{align}
+\left. \begin{array}{r}
+	\text{某一行元素全为}0\\
+	\text{两行相等}\\
+	\text{两行对应成比例}\\
+\end{array} \right\} \overset{\text{可推出}}{\Rightarrow}\ |D|=0
+\end{align}
+
+已知左边, 可以推出右边. 但反过来, 已知右边, 是倒推不出左边情况的.
+
+
+---
+
+== 若行列式中的某一行, 可拆分成"两数之和", 则行列式可拆分成"两数单独的行列式"之和
+
+如: +
+\begin{align}
+\left| \begin{matrix}
+	1&		2&		3\\
+	7+8&		2+3&		9+10\\
+	8&		8&		9\\
+\end{matrix} \right|=\underset{\text{其他行照抄即可}}{\underbrace{\left| \begin{matrix}
+	. &		.&		.\\
+	7&		2&		9\\
+	.&		.&		.\\
+\end{matrix} \right|}}+\left| \begin{matrix}
+	.&		.&		.\\
+	8&		3&		10\\
+	.&		.&		.\\
+\end{matrix} \right|
+\end{align}
+
+例2: +
+\begin{align}
+\underset{\text{来拆第2行}}{\underbrace{\left| \begin{matrix}
+	b+c&		c+a&		a+b\\
+	a+b&		b+c&		c+a\\
+	c+a&		a+b&		b+c\\
+\end{matrix} \right|}}=\underset{\text{第1,3行照抄}}{\underbrace{\left| \begin{matrix}
+	b+c&		c+a&		a+b\\
+	a&		b&		c\\
+	c+a&		a+b&		b+c\\
+\end{matrix} \right|}}+\left| \begin{matrix}
+	b+c&		c+a&		a+b\\
+	b&		c&		a\\
+	c+a&		a+b&		b+c\\
+\end{matrix} \right|
+\end{align}
+
+
+

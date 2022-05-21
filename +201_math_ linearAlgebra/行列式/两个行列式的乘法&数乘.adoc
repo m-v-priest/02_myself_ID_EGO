@@ -1,0 +1,78 @@
+
+:toc:
+
+
+== 数乘
+
+==== 行列式的"数乘"
+
+\begin{align}
+\boxed{
+某一行 * k = k * 该行列式
+}
+\end{align}
+
+即: 就是某一行的元素, 如果有公因子k, 则k可以提取到行列式外面.  +
+注意: **一行只能提一次. 如果三行中有同一个公因子k, 往外提就是提3次.**
+
+如: +
+\begin{align}
+\left| \begin{matrix}
+	1&		2&		3\\
+	4k&		5k&		6k\\
+	7&		8&		9\\
+\end{matrix} \right|\ =\ k\underset{\text{一行只能提1次公因子}}{\underbrace{\left| \begin{matrix}
+	1&		2&		3\\
+	4&		5&		6\\
+	7&		8&		9\\
+\end{matrix} \right|}}
+\end{align}
+
+如: +
+\begin{align}
+\left| \begin{matrix}
+	1k&		2k&		3k\\
+	4k&		5k&		6k\\
+	7k&		8k&		9k\\
+\end{matrix} \right|\ =\ k^3\underset{\text{三行提3次}}{\underbrace{\left| \begin{matrix}
+	1&		2&		3\\
+	4&		5&		6\\
+	7&		8&		9\\
+\end{matrix} \right|}}
+\end{align}
+
+即: n阶行列式中, 所有元素都有某公因子k的话, k就提n次 (因为行数是n行).
+
+
+---
+
+== 相乘
+
+==== 两个"同阶"行列式 相乘
+
+做法: 前行 * 后列
+
+\begin{align}
+\underset{\text{按行看}}{\underbrace{\left| \begin{matrix}
+	a_{11}&		a_{12}&		a_{13}\\
+	a_{21}&		a_{22}&		a_{23}\\
+	a_{31}&		a_{32}&		a_{33}\\
+\end{matrix} \right|}}\times \underset{\text{按列看}}{\underbrace{\left| \begin{matrix}
+	b_{11}&		b_{12}&		b_{13}\\
+	b_{21}&		b_{22}&		b_{23}\\
+	b_{31}&		b_{32}&		b_{33}\\
+\end{matrix} \right|}}\,\,=\,\,\left| \begin{matrix}
+	a_{11}b_{11}+a_{12}b_{12}+a_{13}b_{13}&		a行1\times b列2&		a行1\times b列3\\
+	a行2\times b列1&		a行2\times b列2&		a行2\times b列3\\
+	a行2\times b列3&		a行3\times b列2&		a行3\times b列3\\
+\end{matrix} \right|
+\end{align}
+
+
+---
+
+==== 两个"不同阶"行列式 相乘
+
+那就只能先算出各自行列式的值, 再来相乘了.
+
+---

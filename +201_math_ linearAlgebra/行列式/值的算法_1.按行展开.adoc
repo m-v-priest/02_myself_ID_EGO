@@ -1,0 +1,74 @@
+
+:toc:
+
+==== 2阶行列式的值
+
+上坡 / <- 是"次对角线" +
+下坡 \ <- 是"主对角线"
+
+\begin{align}
+\begin{vmatrix}
+ a & b\\
+ c & d
+\end{vmatrix}
+= ad - bc <- 即: 下坡 - 上坡
+\end{align}
+
+---
+
+==== n阶行列式的值, 算法 : 按行展开
+
+知道了"代数余子式", 就能用公式来求 任意n阶行列式 的值了:
+
+
+按"某一行"展开 : +
+\begin{align}
+& \boxed{
+D = a_{i1}A_{i1} + a_{i2}A_{i2} + ... + a_{in}A_{in}
+} \\
+& 其中, 比如 a_{i1} 是指某一行的元素, A_{i1}是指该元素的"代数余子式"
+\end{align}
+
+同样, 可以按"某一列"展开 : +
+\begin{align}
+& \boxed{
+D = a_{1j}A_{1j} + a_{2j}A_{2j} + ... + a_{nj}A_{nj}
+}
+\end{align}
+
+
+例: 下面的行列式, 我们来按第一行展开:
+
+即: |D| = (第一行第1个元素*它的代数余子式) + (第一行第2个元素*它的代数余子式) + (第一行第3个元素*它的代数余子式)
+
+
+
+\begin{align}
+D=\left| \begin{matrix}
+	1&		1&		2\\
+	0&		1&		0\\
+	2&		3&		5\\
+\end{matrix} \right|\ =\ \left( 1\times \underset{\text{第一行第1个元素的代数余子式}}{\underbrace{\left( -1 \right) ^{1+1}\left| \begin{matrix}
+	1&		0\\
+	3&		5\\
+\end{matrix} \right|}} \right) \ +\left( 1\times \left( -1 \right) ^{1+2}\left| \begin{matrix}
+	0&		0\\
+	2&		5\\
+\end{matrix} \right| \right) +\left( 2\times \left( -1 \right) ^{1+3}\left| \begin{matrix}
+	0&		1\\
+	2&		3\\
+\end{matrix} \right| \right) \
+\end{align}
+
+用这个公式来做, 你会发现: **代数余子式, 能让我们把"高阶"的行列式, "降维"成"低一阶"的行列式来算了.** 如本例中, 把3维的行列式, 降低成2维的行列式来算.
+
+
+但你仔细审视上面的做法, 会发现, 如果用第2行来展开, 能少算两个0元素的部分! 更方便. 所以, **我们要选 0 多的那一行(或列), 来展开做.**
+
+即改成, 用第2行展开: \begin{align}
+|D| = 0 + a_{22}A_{22} + 0
+\end{align}
+
+
+
+---

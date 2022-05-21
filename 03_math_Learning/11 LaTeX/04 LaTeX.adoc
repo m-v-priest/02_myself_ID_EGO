@@ -1090,6 +1090,45 @@ a & b & c & d & e \\
 
 |===
 
+---
+
+==== #★ 在下括号文字说明中, 换行#
+
+\begin{align}
+\underbrace{....}_{\begin{subarray}{l}\text{Some  long text that}\\
+    \text{should be multiline}\end{subarray}}
+\end{align}
+
+
+代码也可这样断行
+
+....
+\begin{align}
+\underbrace{....}_
+{\begin{subarray}{l}\text{Some  long text that}\\
+    \text{should be multiline}\end{subarray}}
+\end{align}
+....
+
+效果
+
+\begin{align}
+\underbrace{....}_
+{\begin{subarray}{l}\text{Some  long text that}\\
+    \text{should be multiline}\end{subarray}}
+\end{align}
+
+注意代码区别: 新内容是插在哪里的?
+
+[options="autowidth"]
+|===
+|Header 1 |Header 2
+
+|image:/img_LaTeX/LaTeX_62.jpg[]
+|image:/img_LaTeX/LaTeX_63.jpg[]
+|===
+
+
 
 
 ---
