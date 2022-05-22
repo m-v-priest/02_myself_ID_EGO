@@ -1,0 +1,162 @@
+
+:toc:
+:toclevels: 3
+
+== 矩阵的加法
+
+注意: 只有"同型矩阵"才能相加减.
+
+矩阵的加法: 把两个矩阵对应的元素相加减即可. 即:
+
+\begin{align*}
+\left[ \begin{matrix}
+	a&		b&		c\\
+	d&		e&		f\\
+\end{matrix} \right] +\left[ \begin{matrix}
+	g&		h&		i\\
+	j&		k&		l\\
+\end{matrix} \right] =\left[ \begin{matrix}
+	a+g&		b+h&		c+i\\
+	d+j&		e+k&		f+l\\
+\end{matrix} \right]
+\end{align*}
+
+
+---
+
+=== 加法的性质
+
+A+B = B+A +
+(A+B) + C = A + (B+C) +
+A + 0 = A <- 注意, 零矩阵与A, 应该是"同性"的才能相加. (同时, 两个零矩阵, 也未必是同型的. 如 stem:[0_{3 \times 5} \ne 0_{4 \times 7}] ) +
+A + (-A) = 0 +
+A + B = C <--> A = C - B
+
+---
+
+== 矩阵的 数乘
+
+\begin{align*}
+k\left[ \begin{matrix}
+	1&		2&		3\\
+	4&		5&		6\\
+	7&		8&		9\\
+\end{matrix} \right] =\left[ \begin{matrix}
+	1k&		2k&		3k\\
+	4k&		5k&		6k\\
+	7k&		8k&		9k\\
+\end{matrix} \right]
+\end{align*}
+
+就是把数字k, 乘给矩阵中每一个元素身上.
+
+反过来说, 就是: **若矩阵中的所有元素, 都有同一个公因子, 则该公因子提到矩阵外, 只需提一次.** +
+(注意: 行列式中的公因子, 是每行提一次的.)
+
+
+---
+
+=== 数乘的性质
+
+k(A+B) = kA + kB +
+(k+l)A = kA + lA +
+k(lA) = (kl)A <- 两个数可以先结合, 再去乘以矩阵A
+
+---
+
+
+== 矩阵的 乘法
+
+\begin{align*}
+\left[ \begin{matrix}
+	a&		b\\
+\hline
+	c&		d\\
+\end{matrix} \right] \cdot \left[ \begin{array}{c|cc}
+	e&		f\\
+	g&		h\\
+\end{array} \right] =\left[ \begin{matrix}
+	ae+bg&		A行1*B列2\\
+	A行2*B列1&		A行2*B列2\\
+\end{matrix} \right]
+\end{align*}
+
+---
+
+=== 乘法的性质
+
+AE = A +
+EB = B +
+
+(AB)C=A(BC) +
+(A+B)C=AC+BC +
+C(A+B)=CA+CB +
+k(AB）=(kA)B=A(kB) <- 即, 1. k可以随意与某个矩阵先结合. 2.无论k在哪里, AB的左右顺序永远不变.
+
+
+---
+
+==== 若 AB=0, 是推不出 A=0 或 B=0 的.
+
+证明过程, 如:
+
+\begin{align*}
+& A = \begin{bmatrix}  2 & 0 \\ -1 & 0 \\ \end{bmatrix},
+B = \begin{bmatrix}  0 & 0 \\ 1 & 3 \\ \end{bmatrix} \\
+& AB = \begin{bmatrix}  0 & 0 \\  0 & 0  \end{bmatrix} \\
+& 但显然, A \ne 0, B \ne 0
+\end{align*}
+
+---
+
+==== 若 stem:[AB=AC, A \ne 0], 是推不出 B=C 的
+
+证明过程, 如:
+
+\begin{align*}
+& A = \begin{bmatrix}  2 & 0 \\ -1 & 0 \\ \end{bmatrix},
+B = \begin{bmatrix}  0 & 0 \\ 1 & 3 \\ \end{bmatrix},
+C = \begin{bmatrix}  0 & 0 \\ 2 & 4 \\ \end{bmatrix} \\
+& AB = 0, AC=0 \\
+& 但显然, B \ne C
+\end{align*}
+
+---
+
+==== A0 = 0 , 但注意, 新的"零阵"的行列数会变
+
+在可相乘的前提下, 任何矩阵 * 零阵 = 新的零阵. 但注意: 新的零阵的行列数会变.
+
+如:
+\begin{align*}
+A_{4*3} * 0_{3*2} = 0_{4*2}
+\end{align*}
+
+
+---
+
+== 幂
+
+只有方阵, 才能酸幂.
+
+\begin{align*}
+& A^k=\underset{共k个}{\underbrace{AA\cdots A}} \\
+& (AB)^k \ne A^k B^k \\
+\\
+& A^0 = E 单位阵 \\
+& A^{k_1} A^{k_2} = A^{k_1 + k_2} \\
+& (A^{k_1} )^{k_2} = A^{k_1 k_2} \\
+\\
+& (A+B)^2 \ne A^2 +2AB + B^2 <- 一般是不相等的. \\
+& (A-B)^2 \ne A^2 -2AB + B^2 \\
+& (A+E)^2 = A^2 +2AE + E^2 <- 这个是对的.
+\end{align*}
+
+关于 stem:[(AB)^k \ne A^k B^k] 的证明过程: +
+如:
+
+image:../img/0011.svg[]
+
+
+---
+

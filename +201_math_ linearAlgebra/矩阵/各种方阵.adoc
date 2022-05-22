@@ -1,0 +1,24 @@
+
+:toc:
+:toclevels: 3
+
+== 数量矩阵 scalar matrix
+
+\begin{align*}
+\left[ \begin{matrix}
+	k&		&		&		\\
+	&		k&		&		\\
+	&		&		\ddots&		\\
+	&		&		&		k\\
+\end{matrix} \right] =kE
+\end{align*}
+
+即: 主对角线上的元素都相同，其余都是0.
+
+---
+
+==== 数量矩阵 性质
+
+
+
+
