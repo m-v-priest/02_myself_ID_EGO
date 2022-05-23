@@ -1,0 +1,70 @@
+
+:toc:
+
+== 对角矩阵 diagonal matrix
+
+即: 主对角线元素无要求, 但之外的所有元素都为0.
+
+\begin{align}
+A\ =\left[ \begin{matrix}
+	\lambda _1&		&		&		\\
+	&		\lambda _2&		&		\\
+	&		&		\ddots&		\\
+	&		&		&		\lambda _n\\
+\end{matrix} \right]
+\end{align}
+
+可记为: stem:[A = diag(\lambda_1, \lambda2, ..., \lambda_n) ]
+
+---
+
+==== diag *  B -> 对角阵元素在哪一行上, 就乘到B的相同行上去
+
+\begin{align}
+\left[ \begin{matrix}
+	k_1&		&		\\
+\hline
+	&		k_2&		\\
+\hline
+	&		&		k_3\\
+\end{matrix} \right] \left[ \begin{matrix}
+	1&		2&		3\\
+\hline
+	2&		2&		2\\
+\hline
+	8&		8&		8\\
+\end{matrix} \right] =\left[ \begin{matrix}
+	1k_1&		2k_1&		3k_1\\
+\hline
+	2k_2&		2k_2&		2k_2\\
+\hline
+	8k_3&		8k_3&		8k_3\\
+\end{matrix} \right]
+\end{align}
+
+即: diag 在前, 就乘到后者的"行"上去. (前行,后列)
+
+---
+
+==== B * diag -> 对角阵元素在哪一列上, 就乘到B的相同列上去
+
+\begin{align}
+\left[ \begin{array}{c|c|c}
+	1&		2&		3\\
+	2&		2&		2\\
+	8&		8&		8\\
+\end{array} \right] \left[ \begin{array}{c|c|c}
+	k_1&		&		\\
+	&		k_2&		\\
+	&		&		k_3\\
+\end{array} \right] =\left[ \begin{array}{c|c|c}
+	1k_1&		2k_2&		3k_3\\
+	2k_1&		2k_2&		2k_3\\
+	8k_1&		8k_2&		8k_3\\
+\end{array} \right]
+\end{align}
+
+即: diag 在后, 就乘到前者的"列"上去. (前行,后列)
+
+
+---

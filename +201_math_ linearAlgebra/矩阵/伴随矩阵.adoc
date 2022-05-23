@@ -1,0 +1,93 @@
+
+:toc:
+
+== 伴随矩阵 Adjugate matrix
+
+只有方阵, 才有伴随矩阵. 并且任何方阵, 都有伴随矩阵.
+
+如:  +
+\begin{align}
+A=\left[ \begin{matrix}
+	1&		1&		1\\
+\hline
+	2&		1&		3\\
+\hline
+	1&		1&		4\\
+\end{matrix} \right] \end{align}
+
+它的伴随矩阵 stem:[ A^\ast] 是什么?
+
+第1步: 先求出每个元素的"代数余子式": +
+\begin{align}
+A_{ij}=\left[ \begin{matrix}
+	A_{11}=1&		A_{12}=-5&		A_{13}=1\\
+	A_{21}=-3&		A_{22}=3&		A_{23}=0\\
+	A_{31}=2&		A_{32}=-1&		A_{33}=-1\\
+\end{matrix} \right]
+\end{align}
+
+第2步: 把 stem:[ A_{ij}] 做转置, 就能得到A的伴随矩阵 stem:[ A^\ast] : +
+\begin{align}
+A^*=\left[ \begin{array}{c|c|c}
+	1&		-3&		2\\
+	-5&		3&		-1\\
+	1&		0&		-1\\
+\end{array} \right]
+\end{align}
+
+
+---
+
+== 伴随矩阵 性质
+
+==== stem:[ A * A^{\ast} = A^{\ast} * A = |A|E ]
+
+==== stem:[|A * A^{\ast}| = |A|^n * |E|  ]
+
+==== stem:[| A^{\ast} | = |A|^{n-1} ]
+
+==== stem:[ (kA)^{\ast} = k^{n-1} A^{\ast} ]
+
+==== stem:[ ( A^T \right) ^{\ast} =( A^{\ast} ) ^T]
+
+==== stem:[ (AB)^{\ast} = B^{\ast} A^{\ast} ]
+
+==== stem:[ (A^{-1})^{\ast} = (A^{\ast})^{-1} ]
+
+==== #stem:[ A^{\ast} = |A| A^{-1} ]#
+
+这个公式, 能让我们得到求"A逆"的又一种公式方法: +
+\begin{align}
+& \because A^{\ast} = |A| A^{-1} \\
+& \therefore \frac{A^{\ast}}{|A| } = A^{-1} \\
+&
+\boxed{
+A^{-1}  =  \frac{1}{|A| } A^{\ast}
+}
+\end{align}
+
+不过, 实际中, 该求逆方法很少用, 因为计算量太大.
+
+==== #stem:[A^{-1}  =  \frac{1}{|A| } A^{\ast} ]#
+
+==== stem:[ (A^{\ast})^{-1} =  \frac{1}{|A| } A ]
+
+
+---
+
+例: 只有一个元素组成的方阵 stem:[ A=\[5\] ], 其 stem:[ A^{\ast}] 是什么 ?
+
+根据性质: +
+image:../img/0012.svg[]
+
+即, stem:[ A^{\ast} = \[1\] ]
+
+---
+
+
+
+
+
+
+
+

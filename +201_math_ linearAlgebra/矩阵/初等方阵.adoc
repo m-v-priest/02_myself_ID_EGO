@@ -1,0 +1,137 @@
+
+:toc:
+
+== 初等方阵
+
+对单位阵E 做一次"初等变换"得到的矩阵, 就是"初等方阵".
+
+既然是做"初等变换", 就是3种了:
+
+[options="autowidth"]
+|===
+|Header 1 |Header 2
+
+|(1)交换两行:
+|\begin{align}
+\left[ \begin{matrix}
+	1&		&		&		\\
+\hline
+	&		1&		&		\\
+	&		&		1&		\\
+\hline
+	&		&		&		1\\
+\end{matrix} \right] \overset{交换1,3行}{\rightarrow}\left[ \begin{matrix}
+	&		&		1&		\\
+\hline
+	&		1&		&		\\
+	1&		&		&		\\
+\hline
+	&		&		&		1\\
+\end{matrix} \right]
+\end{align}
+
+记为: stem:[ E(i,j)] , 即交换"第i行"和"第j行"后, 所得到的矩阵.
+
+|(2)用k 乘上某一行/列
+|
+\begin{align}
+\left[ \begin{matrix}
+	1&		&		&		\\
+	&		1&		&		\\
+	&		&		1&		\\
+	&		&		&		1\\
+\end{matrix} \right] \overset{new③\ =\ 5*③}{\rightarrow}\left[ \begin{matrix}
+	1&		&		&		\\
+	&		1&		&		\\
+	&		&		5&		\\
+	&		&		&		1\\
+\end{matrix} \right]
+\end{align}
+
+记为: stem:[ E(i(k))] , 即把第i行,变为k倍. stem:[ k \ne 0].
+
+|(3)某行的k倍, 加到另一行上去
+|
+\begin{align}
+\left[ \begin{matrix}
+	1&		&		&		\\
+	&		1&		&		\\
+	&		&		1&		\\
+	&		&		&		1\\
+\end{matrix} \right] \overset{new①\ =\ (5*③)+①}{\rightarrow}\left[ \begin{matrix}
+	1&		&		5&		\\
+	&		1&		&		\\
+	&		&		1&		\\
+	&		&		&		1\\
+\end{matrix} \right]
+\end{align}
+
+记为: stem:[ E(i, j(k))] , 即把 "j行的k倍", 加到"第i行"上去.
+|===
+
+可以看出, 三种不同的变换方式, 所得到的初等方阵, 其行列式值, 是不同的.
+
+[options="autowidth"]
+|===
+|Header 1 |行列式的值 |其逆阵
+
+|
+第(1)种: +
+\begin{align}
+\left[ \begin{matrix}
+	&		&		1&		\\
+	&		1&		&		\\
+	1&		&		&		\\
+	&		&		&		1\\
+\end{matrix} \right] =-1
+\end{align}
+
+|即: stem:[ \|E(i,j)\| = -1]
+|stem:[ E^{-1}(i,j) = E(i,j)]
+
+|第(2)种: +
+\begin{align}
+\left[ \begin{matrix}
+	1&		&		&		\\
+	&		1&		&		\\
+	&		&		5&		\\
+	&		&		&		1\\
+\end{matrix} \right] =5
+\end{align}
+|即: stem:[ \|E(i(k))\| = k, (k \ne 0)]
+| stem:[E^{-1}(i(k)) = E(i(\frac{1}{k}))]
+
+
+|第(3)种: +
+\begin{align}
+\left[ \begin{matrix}
+	1&		&		5&		\\
+	&		1&		&		\\
+	&		&		1&		\\
+	&		&		&		1\\
+\end{matrix} \right] =1
+\end{align}
+|即: stem:[ \|E(i, j(k))\| = 1]
+| stem:[ E^{-1}(i, j(k)) = E(i,j(-k))]
+|===
+
+
+注意区别:
+
+[options="autowidth"]
+|===
+|Header 1 |Header 2 |Header 3
+
+|初等变换 (v.)
+|-> 是动词
+|是对矩阵做"变换"的一种过程
+
+|初等方阵(n.)
+|-> 是名词
+|它就是一个方阵.
+|===
+
+
+---
+
+==
