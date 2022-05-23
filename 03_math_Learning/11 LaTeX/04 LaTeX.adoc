@@ -9,6 +9,21 @@
 
 == 官方文档 与 latex 安装
 
+== 踩过的坑
+
+==== latex中, *星号 一定要用转义的代码!
+
+不要直接打*号, 因为它很可能会造成代码无法渲染识别.
+
+比如, × 就用: \times +
+* 就用:  \cdot  +
+
+其他符号代码见 +
+https://www.latexlive.com/
+
+
+---
+
 ==== TeX Live 官网
 
 https://tug.org/texlive/

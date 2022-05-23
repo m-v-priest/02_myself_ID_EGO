@@ -135,3 +135,75 @@
 ---
 
 ==
+
+例: +
+\begin{align*}
+有\ A=\left[ \begin{matrix}
+	1&		2&		3\\
+	4&		5&		6\\
+	7&		8&		9\\
+\end{matrix} \right] ,\ \overset{即\ 3\ \times \ line2}{\overbrace{E\left( 2\left( 3 \right) \right) }}=\left[ \begin{matrix}
+	1&		&		\\
+	&		3&		\\
+	&		&		1\\
+\end{matrix} \right] ,\ \overset{1,3行交换}{\overbrace{E(1,3)}}=\left[ \begin{matrix}
+	&		&		1\\
+	&		1&		\\
+	1&		&		\\
+\end{matrix} \right]
+\end{align*}
+
+这两个单位阵E, 做了一次"初等变换"后, 就已经是"初等方阵"了. 那么**用"初等方阵"左乘"一个普通矩阵, 和"右乘"一个普通矩阵, 顺序不同, 运算规则也是不一样的**:
+
+(1)用"初等方阵"左乘" A矩阵 (即初等方阵在A左边)
+
+\begin{align*}
+E\left( 2\left( 3 \right) \right) \ \cdot \ A\ =\ \left[ \begin{matrix}
+	1&		&		\\
+	&		3&		\\
+\hline
+	&		&		1\\
+\end{matrix} \right] \left[ \begin{matrix}
+	1&		2&		3\\
+	4&		5&		6\\
+\hline
+	7&		8&		9\\
+\end{matrix} \right] =\left[ \begin{matrix}
+	1&		2&		3\\
+	12&		15&		18\\
+\hline
+	7&		8&		9\\
+\end{matrix} \right]
+\end{align*}
+
+E在左边, 即: **用第i种初等方阵 "左乘"A, 效果就相当于对 A 实施了同种的 第i种"初等行变换".** (左行,右列) +
+比如本例, 对E做了 "对第2行, 乘上3倍" 的操作, 就相当于对A做了 "对第2行, 乘上3倍" 的操作.
+
+
+(2)用"初等方阵"右乘" A矩阵 (即初等方阵在A右边)
+
+\begin{align*}
+A\cdot \underset{交换1,3行}{\underbrace{E\left( 1,3 \right) }}\,\,=\left[ \begin{matrix}
+	1&		2&		3\\
+	4&		5&		6\\
+	7&		8&		9\\
+\end{matrix} \right] \left[ \begin{matrix}
+	&		&		1\\
+\hline
+	&		1&		\\
+\hline
+	1&		&		\\
+\end{matrix} \right] =\underset{就相当于对A交换了1,3列}{\underbrace{\left[ \begin{array}{c|c|c}
+	3&		2&		1\\
+	6&		5&		4\\
+	9&		8&		7\\
+\end{array} \right] }}
+\end{align*}
+
+E在右边, 即: **用第i种初等方阵 "右乘"A, 效果就相当于对 A 实施了同种的 第i种"初等列变换".** (左行,右列)
+
+这就好像是古代的扎小人巫术, 对初等方阵E(人偶)做扎针, 就相当于对A(真人对象)做同等扎针.
+
+---
+
+
