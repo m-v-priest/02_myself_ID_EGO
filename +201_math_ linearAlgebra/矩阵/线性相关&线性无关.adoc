@@ -6,6 +6,45 @@
 对于若干个向量stem:[ \vec{v_1},  \vec{v_2}, ...  \vec{v_n}], 若存在一组 k (系数, 倍数)不全为0, 使得 stem:[ k_1  \vec{v_1} + k_2  \vec{v_2} + ... + k_n  \vec{v_n} = 0], 则称 stem:[ \vec{v_1},  \vec{v_2}, ...  \vec{v_n}] 是"线性相关"的.
 
 
+.标题
+====
+例如： 下面这三个向量, 是否线性相关? +
+\begin{align}
+ \left| \begin{array}{l}
+	1\\
+	0\\
+\end{array} \right|,\ \left| \begin{array}{l}
+	0\\
+	1\\
+\end{array} \right|,\ \left| \begin{array}{l}
+	2\\
+	3\\
+\end{array} \right|
+\end{align}
+
+那么就看下面这个式子, 是否能存在非零的系数 (只要有一个k是不为零的, 就满足了我们的条件)
+
+\begin{align}
+k_1\left| \begin{array}{l}
+	1\\
+	0\\
+\end{array} \right|+k_2\left| \begin{array}{l}
+	0\\
+	1\\
+\end{array} \right|+k_3\left| \begin{array}{l}
+	2\\
+	3\\
+\end{array} \right|=0
+\end{align}
+
+那么显然, 当stem:[ k_1]取2, stem:[k_2]取3, stem:[k_3]取1时, 该式子能成立. 即, 的确存在一组非零的k. +
+ 这就说明, 这三个向量, 是"线性相关"的.
+
+====
+
+
+
+
 若只能是 k全为0时, 该等式才成立, 那么这些向量 stem:[ \vec{v_1},  \vec{v_2}, ...  \vec{v_n}] 就是"线性无关"的 (linearly independent).
 
 **"线性无关"就表示, 这组向量中的任何一个, 都无法表示成其他向量的"线性组合". 即, 它们中每一个向量, 都是"独当一面"的, 无法被其他向量所替代.**
@@ -62,6 +101,10 @@
 
 
 ---
+
+== 性质
+
+==== 向量组中, 若其中有两个向量成比例, -> 则该向量组中的所有成员, 就都"线性相关".
 
 
 
