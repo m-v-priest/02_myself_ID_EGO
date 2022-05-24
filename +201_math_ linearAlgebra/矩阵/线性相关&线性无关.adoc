@@ -102,11 +102,170 @@ k_1\left| \begin{array}{l}
 
 ---
 
-== 性质
+== 性质/定理 : linearly dependent 线性相关
 
 ==== 向量组中, 若其中有两个向量成比例, -> 则该向量组中的所有成员, 就都"线性相关".
 
+如: +
+\begin{align*}
+\underset{注意:\ 这两个向量成比例}{\underbrace{(-1)\left| \begin{array}{l}
+	1\\
+	2\\
+\end{array} \right|+(-\frac{1}{2})\left| \begin{array}{l}
+	2\\
+	3\\
+\end{array} \right|}}+0\left| \begin{array}{l}
+	5\\
+	19\\
+\end{array} \right|+0\left| \begin{array}{l}
+	-1\\
+	99\\
+\end{array} \right|=0
+\end{align*}
+
+---
+
+==== 含有0向量的任一向量组, 必"线性相关".
+
+如: +
+\begin{align*}
+0\vec{v}_1+0\vec{v}_2+0\vec{v}_3+\underset{随便取值}{\underbrace{k}}\cdot \underset{零向量}{\underbrace{\vec{0}}}=0
+\end{align*}
+
+该向量组, 最后含有一个零向量, 该零向量前的k可以随便取值, 都不影响stem:[k\vec{v}=\vec{0}]. 既然k可以随便取值, 那我们就有了一组不全为0的系数(stem:[k_1, k_2, ...k_n]) , 所以这些v向量, 就是"线性相关"的关系了.
+
+---
+
+==== 一个向量stem:[\vec{v}] , 线性相关的 充要条件是: 它本身就是零向量, 即 stem:[\vec{v}=0]
+
+如: stem:[k\vec{v}=\vec{0}].  +
+k可以随便取值, 我们就有了一组不全为0的系数(stem:[k_1, k_2, ...k_n]) , 所以这些v向量, 就是"线性相关"的关系了.
 
 
+---
 
+==== 只有一个零向量, 则它必"线性相关".
+
+如: stem:[k\vec{0}=\vec{0}]  +
+k可以随便取值, 都不妨碍 stem:[k \cdot \vec{0}= \vec{0}]. 既然k可以随便取值, 那我们就有了一组不全为0的系数(stem:[k_1, k_2, ...k_n]) , 所以这些v向量(本例中只有一个向量), 就是"线性相关"的关系了.
+
+---
+
+
+==== 若 stem:[\vec{v_1}, ... \vec{v_r}] 这组向量是"线性相关"的, 则给它们添加一些新的向量, 它们整体( stem:[\vec{v_1}, ... \vec{v_r}, \vec{v_{r+1}}, ... \vec{v_s}] ) 依然是"线性相关"的.
+
+证明过程, 如: +
+已知 stem:[\vec{v_1}, \vec{v_2}, \vec{v_3}] 是"线性相关"的, 即: +
+stem:[k_1\vec{v}_1+k_2\vec{v}_2+k_3\vec{v}_3=0 ]
+
+把它扩充一下, 就有:
+stem:[(k_1\vec{v}_1+k_2\vec{v}_2+k_3\vec{v}_3\) +(0\vec{v}_4+0\vec{v}_5)=0]
+
+这5个系数k, 就是: stem:[k_1, k_2, k_3, 0, 0], 不全为0! 说明这组向量 stem:[\vec{v_1}, ... \vec{v_5}] 是"线性相关"的. 证毕.
+
+即: 一个向量组中, 只要其中一部分向量是"线性相关"的, 则就可知道: 整个向量组中的全部向量, 都是"线性相关"的.
+
+这里的本质就是: **比如一个队伍, 有1个女的, n个男的. 它满足"有女"性质. 之后无论往队伍里添加多少人, 它依然满足"有女"性质. 因为这个性质, 在最早的队伍中, 就已经被满足了.**
+
+
+即:  +
+\begin{align*}
+部分'线性相关'\overset{能推导出}{\rightarrow}整体'线性相关' \\
+整体'线性无关'\overset{能推导出}{\rightarrow}部分'线性无关' \\
+\end{align*}
+
+同样就是说: **整体"无女"的话, 则其中的子集部分也"无女".**
+
+---
+
+== 性质/定理 : linearly independent 线性无关
+
+
+---
+
+==== 任意一个非零向量, 它必"线性无关".
+
+如: stem:[k\vec{v}]. 因为 stem:[\vec{v} \ne \vec{0}], 则只能系数 k=0, 这样本例中, 我们就找不到一组不全为0的k, 那么这一向量必"线性无关".
+
+---
+
+==== (1)"线性无关"的向量组, 把每个向量的内部的维度, 往后接长, 则新的向量组, 依然是"线性无关"的. (2)"线性相关"的向量组, 把每个向量的内部的维度, 截短后, 则新的向量组, 依然是"线性相关"的.
+
+如: 有 +
+\begin{align*}
+\vec{\alpha}_1=\left| \begin{array}{l}
+	1\\
+	3\\
+	5\\
+\end{array} \right|,\ \vec{\alpha}_2=\left| \begin{array}{l}
+	6\\
+	-1\\
+	8\\
+\end{array} \right|,\ \vec{\alpha}_3=\left| \begin{array}{l}
+	-3\\
+	3\\
+	9\\
+\end{array} \right|
+\end{align*}
+
+及它们的"增维"向量: +
+\begin{align*}
+\vec{\beta}_1=\left| \begin{array}{l}
+	1\\
+	3\\
+	5\\ 1 \\6 \\
+\end{array} \right|,\ \vec{\beta}_2=\left| \begin{array}{l}
+	6\\
+	-1\\
+	8\\ 3\\ 3 \\
+\end{array} \right|,\ \vec{\beta}_3=\left| \begin{array}{l}
+	-3\\
+	3\\
+	9\\ 10 \\ 8 \\
+\end{array} \right|
+\end{align*}
+
+注意这些  stem:[\vec{\beta}] 向量, 每一个的维度中的前3个值, 与 stem:[\vec{\alpha}] 中的完全相同, 后3个值, 是增添的新的.
+
+对于三个stem:[\vec{\alpha}] 向量(是3维的), 从 stem:[k_1 \vec{\alpha_1} + k_2 \vec{\alpha_2} + k_3 \vec{\alpha_3} =0] 中, 可以知道, 该等式若想成立, 只能是 stem:[k_1 =k_2 =k_3 =0] 才行. 即取不到
+不全为0的 stem:[k_1, k_2, k_3] . 这说明这三个stem:[\vec{\alpha}] 向量 是"线性无关"的.
+
+再来看三个stem:[\vec{\beta}] 向量 (是6维的),  可以证明, 它们也是"线性无关"的.
+
+
+---
+
+==== n个n维向量( 即,此处是"向量的个数"="每个向量自己的维数")所构成的行列式, 若 stem:[|D| \ne 0], 则这些向量就是"线性无关"的.
+
+即:  +
+stem:[|D| \ne 0] <- -> 线性无关. 每个向量彼此"独当一面", 各自成为一个轴基. +
+stem:[|D| = 0] <- -> 线性相关 +
+
+如: 这三个向量是"线性相关"还是"无关"的? +
+\begin{align*}
+\left| \begin{array}{l}
+	1\\
+	0\\
+	3\\
+\end{array} \right|,\ \left| \begin{array}{l}
+	2\\
+	1\\
+	1\\
+\end{array} \right|,\ \left| \begin{array}{l}
+	1\\
+	1\\
+	0\\
+\end{array} \right|
+\end{align*}
+
+那么我们就来算算它们作为一个整体的行列式的值, 是否=0?
+\begin{align*}
+\left| \begin{matrix}
+	1&		2&		1\\
+	0&		1&		1\\
+	3&		1&		0\\
+\end{matrix} \right| = ?
+\end{align*}
+
+---
 
