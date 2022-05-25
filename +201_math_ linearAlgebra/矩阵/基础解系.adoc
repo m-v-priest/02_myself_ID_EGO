@@ -1,0 +1,287 @@
+
+:toc:
+
+== 基础解系 fundamental system/set of solutions
+
+一个方程组, **对于有"无穷多解"的情况, 我们能否用尽可能少的"解", 来表示出所有这些解呢? -- 这些尽可能少的"解", 就叫做"基础解系".**
+
+即: 基础解系, 就是指方程组的解集的"极大线性无关组".
+
+---
+
+== "基础解系"的求法
+
+步骤:
+
+1.先把增广矩阵, 化为"简化阶梯形".
+
+2.数一数自由变量:
+
+[options="autowidth"]
+|===
+|Header 1 |Header 2
+
+|若"自由变量"的数量, 只有1个
+|就给这组"自由变量"赋值: +
+\begin{align}
+E=[1]
+\end{align}
+
+|若"自由变量"的数量, 有2个
+|就给这组"自由变量"赋值 [1,0] 和[0,1] , 即2阶单位阵中的每列: +
+\begin{align}
+\left[ \begin{array}{c\|c}
+	1&		\\
+	&		1\\
+\end{array} \right]
+\end{align}
+
+|若"自由变量"的数量, 只有3个
+|就给这组"自由变量"赋值 [1,0,0] ,[0,1,0] 和 [0,0,1] , 即3阶单位阵中的每列: +
+\begin{align}
+\left[ \begin{array}{c\|c\|c}
+	1&		&		\\
+	&		1&		\\
+	&		&		1\\
+\end{array} \right]
+\end{align}
+
+|自由变量有n个
+|取n阶单位阵 中的每一列, 来赋值. 即, 最终会有n个"基础解系". 但"通解"只有一个.
+|===
+
+.标题
+====
+仅一个自由变量的 举例：
+
+\begin{align}
+A\overset{化为简化阶梯行}{\overbrace{\rightarrow }}\left[ \begin{array}{ccc|c}
+	1&		1&		0 & 0\\
+	&		-1&		1 & 0\\
+	&		&		0 & 0\\
+\end{array} \right]
+\end{align}
+
+能看出, 只有stem:[ x_3] 是 自由变量. 可以任意赋值. 那么就给它赋值 1. 就能算出 stem:[ x_1, x_2] 的值了.
+
+这样, 我们就能得到: +
+\begin{align}
+\eta =\left| \begin{array}{l}
+	x_1\\
+	x_2\\
+	x_3\\
+\end{array} \right|=\left| \begin{array}{l}
+	-1\\
+	1\\
+	1\\
+\end{array} \right|
+\end{align}
+
+这个 stem:[ \eta] 就是"基础解系".
+
+另外, 通解就是:  +
+\begin{align}
+k\left| \begin{array}{l}
+	-1\\
+	1\\
+	1\\
+\end{array} \right|, 其中, k为任意常数.
+\end{align}
+====
+
+.标题
+====
+有2个自由变量的 举例： +
+\begin{align}
+A\overset{化为阶梯行}{\overbrace{\rightarrow }}\left[ \begin{array}{ccccc|c}
+	1&		1&		0&		-3&		-1&		0\\
+	&		-2&		2&		2&		1&		0\\
+	&		&		&		3&		-1&		0\\
+	&		&		&		&		&		0\\
+\end{array} \right]
+\end{align}
+
+可知: 本例有两个自由变量: stem:[ x_3, x_5],
+就给给它们赋值两组值, 来算:
+
+\begin{align}
+\eta _1=\left| \begin{array}{l}
+	x_3\\
+	x_5\\
+\end{array} \right|=\left| \begin{array}{l}
+	1\\
+	0\\
+\end{array} \right| ,
+\eta _2=\left| \begin{array}{l}
+	x_3\\
+	x_5\\
+\end{array} \right|=\left| \begin{array}{l}
+	0\\
+	1\\
+\end{array} \right|
+\end{align}
+
+然后把其他三个x, 即stem:[ x_2, x_4, x_5] 也算出来:
+
+\begin{align}
+& \eta _1=\left| \begin{array}{l}
+	x_1\\
+	x_2\\
+	x_3\\
+	x_4\\
+	x_5\\
+\end{array} \right|=\left| \begin{array}{l}
+	-1\\
+	1\\
+	1\\
+	0\\
+	0\\
+\end{array} \right| \\
+& \eta_2=\left| \begin{array}{l}
+	x_1\\
+	x_2\\
+	x_3\\
+	x_4\\
+	x_5\\
+\end{array} \right|=\left| \begin{array}{l}
+	\frac{7}{6}\\
+	\frac{5}{6}\\
+	0\\
+	\frac{1}{3}\\
+	1\\
+\end{array} \right|, 我们把它乘以6, 去掉分数形式 =
+\left| \begin{array}{l}
+	7\\
+	5\\
+	0\\
+	2\\
+	6\\
+\end{array} \right|
+\end{align}
+
+这两个就是本例矩阵的基础解系.
+
+把两个 stem:[ \eta] 连起来, 就是通解:
+
+\begin{align}
+& k_1 \eta_1 + k_2 \eta_2 \\
+& 即: k_1\left| \begin{array}{l}
+	-1\\
+	1\\
+	1\\
+	0\\
+	0\\
+\end{array} \right|+k_2\left| \begin{array}{l}
+	7\\
+	5\\
+	0\\
+	2\\
+	6\\
+\end{array} \right|, 其中 k_1, k_2 为任意常数.
+\end{align}
+====
+
+
+.标题
+====
+例如： 求A的 基础解系:
+
+先把A化成"简化阶梯行": +
+\begin{align}
+A\overset{简化阶梯行}{\overbrace{\rightarrow }}\left[ \begin{matrix}
+	1&		0&		-\frac{9}{4}&		-\frac{3}{4}&		\frac{1}{4}\\
+	0&		1&		\frac{3}{4}&		-\frac{7}{4}&		\frac{5}{4}\\
+	0&		&		&		&		0\\
+\end{matrix} \right]
+\end{align}
+
+该"系数矩阵"有5列, 分别对应的就是stem:[x_1, ... x_5 ]的系数.
+
+主元有2个, 即 stem:[ x_1, x_2] 是主元. 我们把主元x 放在等号左边, 其余的x 挪到等号右边去: +
+\begin{align}
+\left\{ \begin{array}{l}
+	x_1=\ \frac{9}{4}x_3+\frac{3}{4}x_4-\frac{1}{4}x_5\\
+	x_2=\underset{等号右边,\ 是自由变量}{\underbrace{-\frac{3}{4}x_3+\frac{7}{4}x_4-\frac{5}{4}x_5}}\\
+\end{array} \right.
+\end{align}
+
+这样,  stem:[ x_3, x_4, x_5] 就是自由变量. 它们可以随便取值, 只要它们满足"线性无关"就行了. 因为这里有3个自由变量, 就要赋3组值, 即:
+
+\begin{align}
+\eta _1=\left| \begin{array}{l}
+	x_3\\
+	x_4\\
+	x_5\\
+\end{array} \right|=\left| \begin{array}{l}
+	1\\
+	0\\
+	0\\
+\end{array} \right| ,
+\eta _2=\left| \begin{array}{l}
+	x_3\\
+	x_4\\
+	x_5\\
+\end{array} \right|=\left| \begin{array}{l}
+	0\\
+	1\\
+	0\\
+\end{array} \right| ,
+\eta _3=\left| \begin{array}{l}
+	x_3\\
+	x_4\\
+	x_5\\
+\end{array} \right|=\left| \begin{array}{l}
+	0\\
+	0\\
+	1\\
+\end{array} \right|
+\end{align}
+
+然后把其他的x也算出来, 即有:
+
+\begin{align}
+\eta _1=\left| \begin{array}{l}
+	x_1\\
+	x_2\\
+	x_3\\
+	x_4\\
+	x_5\\
+\end{array} \right|=\left| \begin{array}{l}
+	\frac{9}{4}\\
+	-\frac{3}{4}\\
+	1\\
+	0\\
+	0\\
+\end{array} \right|,\ \eta _2=\left| \begin{array}{l}
+	x_1\\
+	x_2\\
+	x_3\\
+	x_4\\
+	x_5\\
+\end{array} \right|=\left| \begin{array}{l}
+	\frac{3}{4}\\
+	\frac{7}{4}\\
+	0\\
+	1\\
+	0\\
+\end{array} \right|,\ \eta _3=\left| \begin{array}{l}
+	x_1\\
+	x_2\\
+	x_3\\
+	x_4\\
+	x_5\\
+\end{array} \right|=\left| \begin{array}{l}
+	-\frac{1}{4}\\
+	-\frac{5}{4}\\
+	0\\
+	0\\
+	1\\
+\end{array} \right|
+\end{align}
+
+这三个stem:[ \eta], 就是本例矩阵的"基础解系". 它们一定是"线性无关"的.
+
+通解是就是: stem:[ k_1\eta_1 + k_2\eta_2 + k_3\eta_3] <- 即, 本矩阵的所有的解, 都可以表示为这个式子. (k为任意常数.)
+====
+
+---

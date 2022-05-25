@@ -1,5 +1,6 @@
 
 :toc:
+:sectnums:
 
 == 秩 rank
 
@@ -34,26 +35,6 @@ A=\left[ \begin{matrix}
 
 因此, **所谓 rank, 就是: "行列式值是非零的子式"的最高阶数.**
 
----
-
-
-== rank 的求法 -> r(A) = 阶梯形"非零行"的行数
-
-**把矩阵化为"简化阶梯行"后, 主元有几个, 该矩阵的rank 就是几.** 因为"初等行(或列)变换", 不会改变矩阵的 rank 数.
-
-如: +
-\begin{align}
-A=\left[ \begin{matrix}
-	1&		&		&		4\\
-	&		1&		&		5\\
-	&		&		1&		4\\
-	&		&		&		\\
-\end{matrix} \right]
-\end{align}
-
-该简化阶梯行, 有3个主元, r(A)=3.
-
-**其实, 也不需要化简到"简化阶梯形", 只要化到"阶梯形", 就能直接数一数非零行的行数, 就是该矩阵的"秩数"了.**
 
 
 ---
@@ -94,7 +75,116 @@ A=\left[ \begin{matrix}
 
 一句话: 一个线性方程组, 去掉没用的冗余方程后, 最后剩下的方程个数, 就是秩。
 
+---
 
+==== rank数, 能告诉我们, 方程组是否有解
+
+下面, 我们用 stem:[\overline{A} ]来表示 矩阵A的"增广系数矩阵". n代表方程组中"未知元"的数量.
+
+则有:
+
+- 当 stem:[ rank(A) = rank(\overline{A})] 时, 方程组有解. +
+-> 若 stem:[ rank(A) = rank(\overline{A}) = n] 时, 有唯一解. +
+-> 若 stem:[ rank(A) = rank(\overline{A}) < n] 时, 有无穷多解. +
+
+- 当 stem:[ rank(A) \ne rank(\overline{A})] 时, 无解.
+
+.标题
+====
+例如： +
+\begin{align}
+\overline{A}=\left[ \begin{array}{cccc|c}
+	1&		-1&		2&		-1&		3\\
+	&		&		-5&		2&		-6\\
+	&		&		&		&		4\\
+\end{array} \right]
+\end{align}
+
+竖线左边, 是矩阵A, 其秩, r(A) =2 +
+整体, 是增广系数矩阵, stem:[ rank(\overline{A}) = 3 ]
+
+stem:[ r(A) \ne  r(\overline{A}) ], 说明该方程组无解.
+====
+
+
+
+.标题
+====
+又如： +
+\begin{align}
+\overline{A}=\left[ \begin{array}{ccc|c}
+	1&		3&		-7&		-8\\
+	&		1&		-5&		-7\\
+	&		&		1&		1\\
+	&		&		&		0\\
+\end{array} \right]
+\end{align}
+
+竖线左边, 是矩阵A, 其秩, r(A) =3 +
+整体, 是增广系数矩阵, stem:[ rank(\overline{A}) = 3 ]
+
+stem:[ r(A) =  r(\overline{A}) = n =  3 ], 说明有解, 且唯一. +
+(n是未知元个数.)
+====
+
+
+
+
+
+
+
+
+---
+
+
+== rank 的求法
+
+==== r(A) = 阶梯形"非零行"的行数
+
+**把矩阵化为"简化阶梯行"后, 主元有几个, 该矩阵的rank 就是几.** 因为"初等行(或列)变换", 不会改变矩阵的 rank 数.
+
+如: +
+\begin{align}
+A=\left[ \begin{matrix}
+	1&		&		&		4\\
+	&		1&		&		5\\
+	&		&		1&		4\\
+	&		&		&		\\
+\end{matrix} \right]
+\end{align}
+
+该简化阶梯行, 有3个主元, r(A)=3.
+
+**其实, 也不需要化简到"简化阶梯形", 只要化到"阶梯形", 就能直接数一数非零行的行数, 就是该矩阵的"秩数"了.**
+
+
+.标题
+====
+例如：
+求A的 rank数
+
+\begin{align}
+A=\left[ \begin{matrix}
+	3&		3&		3\\
+	2&		-1&		5\\
+	-5&		3&		-13\\
+	4&		-3&		11\\
+\end{matrix} \right] \underset{化为行阶梯形}{\underbrace{\rightarrow }}\underset{非零行有两行}{\underbrace{\left[ \begin{matrix}
+	1&		1&		1\\
+	&		-3&		3\\
+	&		&		\\
+	&		&		\\
+\end{matrix} \right] }}
+\end{align}
+
+所以, rank(A)=2 = A的行秩 = A的列秩
+====
+
+
+
+---
+
+==== 向量组的rank = "极大线性无关组"中所含向量的个数
 
 ---
 
@@ -167,7 +257,24 @@ r\left( A \right) =\underset{p左乘于A}{\underbrace{r\left( PA \right) }}=\und
 
 ---
 
+==== 矩阵A的行秩 = 列秩 = rank(A)
 
+把矩阵的每一行, 看做一个向量, 就是"行向量". 由这些"行向量"组成的向量组, 这个向量组的rank, 就是"行秩".
+
+同理, 把矩阵的每一列, 看做一个向量, 就是"列向量". 由这些"列向量"组成的向量组, 这个向量组的rank, 就是"列秩".
+
+可以证明: 一个矩阵的行秩 = 列秩 = 该矩阵的秩
+
+---
+
+==== stem:[ r(AB) <= min{(r(A),r(B)}]
+
+两个矩阵相乘后的整体的rank数, 是小于等于"其中 rank数 最小的那个矩阵"的.
+
+同理, 推广到多个矩阵的情况，即  stem:[ r(A_1 A_2 ... A_m) <= min{(r(A_1),r(A_2),...,r(A_m)}]
+
+
+---
 
 
 

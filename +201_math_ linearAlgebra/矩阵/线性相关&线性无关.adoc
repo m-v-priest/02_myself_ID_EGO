@@ -1,5 +1,7 @@
 
 :toc:
+:sectnums:
+
 
 == 线性相关 Linearly correlation
 
@@ -98,6 +100,24 @@ k_1\left| \begin{array}{l}
 说明存在自由变量, "自由未知元". 即它不只有零解(k不全为0).  因此, stem:[ \vec{u},  \vec{v}] 是"线性相关"的.
 
 ====
+
+
+
+
+---
+
+
+== 极大线性无关组 maximal linearly independent system
+
+比如, 有一个向量组: stem:[\vec{\alpha_1}, \vec{\alpha_2}, ... \vec{\alpha_5} ]. 其中的子集, 如 stem:[\vec{\alpha_1}, \vec{\alpha_2}], 如果是"线性无关"的, 且该向量组中的每个 stem:[\vec{\alpha} ], 均可由stem:[\vec{\alpha_1}, \vec{\alpha_2}] 来线性表示出来. 那么 stem:[\vec{\alpha_1}, \vec{\alpha_2}] 就是这个向量组的"极大线性无关组".
+
+换句话说, "极大线性无关组", 是在线性空间中, 拥有向量个数最多的"线性无关向量组". +
+因此, 一个"线性无关向量组"的极大无关组, 就是其本身了.
+
+不过,  "极大线性无关组"并不唯一. 但任意两个"极大线性无关组"所含向量的个数, 则是相同的.
+
+
+
 
 
 ---
