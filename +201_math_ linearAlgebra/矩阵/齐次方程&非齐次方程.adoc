@@ -1,5 +1,7 @@
 
 :toc:
+:sectnums:
+:toclevels: 3
 
 == 齐次线性方程 homogeneous linear equations
 
@@ -46,11 +48,176 @@ image:../img/0007.svg[]
 0 ], 只有"零解"
 |===
 
+---
+
+== ----- -----
 
 ---
 
 == 非齐次方程 non-homogeneous equation
 
 形如 stem:[A\vec{x}=\vec{b}] 的形式. 即: 常数项不全为零.
+
+---
+
+=== 性质
+
+==== 若 stem:[ \alpha_1, \alpha_2 ] 是 stem:[ A\vec{x}=\vec{b}] 的解, 则  stem:[ \alpha_1 - \alpha_2 ] 也是 stem:[ A\vec{x}=\vec{0}] 的解.
+
+---
+
+==== 若 stem:[ \alpha_0 ] 是 stem:[ A\vec{x}=\vec{b}] 的解; stem:[ \eta]  是 stem:[ A\vec{x}=\vec{0}] 的解  . 则能证明:   stem:[ \alpha_0 + \eta ] 是 stem:[ A\vec{x}=\vec{b}] 的解.
+
+证明过程: 我们用反证法来证, 既然结论是说 stem:[ \alpha_0 + \eta ] 是 stem:[ A\vec{x}=\vec{b}] 的解, 我们就把 stem:[ \alpha_0 + \eta ] 代入进去看看, 它能否得出b ?
+
+\begin{align}
+& A(\alpha_0 + \eta)  = ? \\
+& = A\alpha_0 + A\eta  \\
+& = b + A\eta <- 题目已告诉我们: \alpha_0 是 A\vec{x}=\vec{b} 的解, 所以  A\alpha_0 =b \\
+& = b + 0 <- 题目也已告诉我们:  \eta  是 A\vec{x}=\vec{0} 的解, 所以 A\eta=0 \\
+& = b <- 的确能得出b. 证毕.
+\end{align}
+
+---
+
+=== 非齐次方程的"解"的结构
+
+如果有:  +
+[options="autowidth"]
+|===
+|Header 1 |Header 2
+
+|-> stem:[ \alpha_0]
+| 是 stem:[ Ax=b] 的一个解 (叫"特解". 注意,这里的"特"字并无特殊含义, 其实任何一个解都行.)
+
+|-> stem:[ \eta]
+|是  stem:[ Ax=0] 的通解 ("通解"是能用"基础解系"表示出来的解). 即:
+
+\begin{align}
+通解 \eta = C_1\eta_1 + C_2\eta_2 + ... + C_{n-r}\eta_{n-r}
+\end{align}
+
+其中的 stem:[ \eta_1, eta_2, ... eta_{n-r} ] 就是 stem:[ Ax=0] 的基础解系.
+|===
+
+则: stem:[ Ax=b] 的全部的解(或叫"通解"), 就能用下面的公式来表示: +
+stem:[ \underset{Ax=b的特解}{\underbrace{\alpha _0}} + \underset{Ax=0的通解}{\underbrace{C_1\eta _1+C_2\eta _2+...+C_{n-r}\eta _{n-r}}}
+]
+
+(注意顺序: **b在前, 0在后**)
+
+**即: stem:[ Ax=b] 的全部的解, 可以用 stem:[ Ax=b] 的一个特解(stem:[ \alpha_0]), 加上 stem:[ Ax=0] 的基础解系(stem:[ \eta]) 的线性组合(即"通解"), 来表示.**
+
+总结: 要求出 stem:[ Ax=b] 的所有的解, 就需要先知道两件事了: +
+① 知道 stem:[ Ax=b] 的"特解"(即任何一个解)是什么. +
+② 知道 stem:[ Ax=0] 的"通解"是什么. +
+③ **stem:[ Ax=b] 的全部的解 = ① + ②**
+
+
+.标题
+====
+例如：求下面这个非齐次的 Ax=b 的全部的解.
+
+其增广矩阵是: +
+\begin{align}
+增广矩阵 \overline{A}\ =\ \left[ \begin{array}{cccc|c}
+	1&		5&		-1&		1&		-1\\
+	1&		-2&		1&		3&		3\\
+	3&		8&		-1&		1&		1\\
+	1&		-9&		3&		7&		7\\
+\end{array} \right]
+\end{align}
+
+先把它化为"简化阶梯形": +
+\begin{align}
+\overline{A}\ =\left[ \begin{array}{cccc|c}
+	1&		0&		\frac{3}{7}&		\frac{13}{7}&		\frac{13}{7}\\
+	&		1&		-\frac{2}{7}&		-\frac{4}{7}&		-\frac{4}{7}\\
+	&		&		&		&		0\\
+	&		&		&		&		0\\
+\end{array} \right]
+\end{align}
+
+可以看出, stem:[ x_1, x_2] 是主元, stem:[ x_3, x_4] 是自由变量. 即: +
+\begin{align}
+\left\{ \begin{array}{l}
+	x_1=\frac{13}{7}-\frac{3}{7}x_3-\frac{13}{7}x_4\\
+	x_2=-\frac{4}{7} +\frac{2}{7}x_3 +\frac{4}{7}x_4\\
+\end{array} \right.
+\end{align}
+
+第①步: 先求出 Ax=b 的一个特解::
+对自由变量, 任赋一个值进去即可. 比如, 我们就取 stem:[ x_3=0, x_4=0] 代入进去, 来算出 stem:[x_1 和 x_2 ].
+
+就能得到Ax=b 的一个特解, 为 : +
+\begin{align}
+特解= \alpha _0=\left| \begin{array}{l}
+	\frac{13}{7}\ ←\ x_1\\
+	-\frac{4}{7}\ ←\ x_2\\
+	0\ ←\ x_3\\\
+	0\ ←\ x_4\\
+\end{array} \right|
+\end{align}
+
+第②步: 求出 Ax=0 的基础解系, 和通解::
+因为本例有两个自由变量, 就要赋两组值它们. 即: +
+\begin{align}
+令\left| \begin{array}{l}
+	x_3\\
+	x_4\\
+\end{array} \right|\ 依次取值:\ \left| \begin{array}{l}
+	1\\
+	0\\
+\end{array} \right|\ 和\ \left| \begin{array}{l}
+	0\\
+	1\\
+\end{array} \right|
+\end{align}
+
+就能得到两个"基础解系": +
+\begin{align}
+\eta _1=\left| \begin{array}{l}
+	-\frac{3}{7}\\
+	\frac{2}{7}\\
+	1\\
+	0\\
+\end{array} \right|,\ \eta_2=\left| \begin{array}{l}
+	-\frac{13}{7}\ ←\ x_1\\
+	\frac{4}{7}\ ←\ x_2\\
+	0\ ←\ x_3\\
+	1\ ←\ x_4\\
+\end{array} \right|
+\end{align}
+
+
+其通解就是: +
+\begin{align}
+通解 = C_1 \eta_1 + C_2 \eta_2
+\end{align}
+
+第③步: "Ax=b" 的全部的解 = 特解 + 通解::
+即: +
+\begin{align}
+全部的解 = \alpha_0 + (C_1 \eta_1 + C_2 \eta_2 )
+\end{align}
+====
+
+总结: 非齐次线性方程组 Ax=b, 其"全部的解"的解法::
+1. 先写成"增广系数矩阵", 将其化为"简化阶梯行".
+2. 给自由变量赋值0, 来得到 Ax=b 的一个特解 stem:[ \alpha_0].
+3. 求出 Ax=0 的自由变量. 先求出它的"基础解系". 比如, 有n个自由变量, 就将一个n阶单位阵E, 按列拆开(就得到n个列向量), 依次赋值给自由变量 (前后一共就是赋 n组 x值了). 即: 赋值 [1,0,0 ...], [0,1,0,...], [0,0,1,...],.... 每次赋值, 都能得到一个"基础解系"stem:[ \eta]. 那么一共有多少个 stem:[ \eta] 呢? 基础解系的数量, 和"自由变量"的数量相同. 比如, 如果自由变量只有3个, 那么"基础解系"也有3个.
+4. 有了基础解系, 就能得到"通解" : stem:[ C_1 \eta_1 + C_2 \eta_2 + ... ]
+5. 把 Ax=b 的特解, 和 Ax=0的通解, 合起来, 就是Ax=b的所有的解. 即: 所有的解 stem:[= \alpha_0 + (C_1 \eta_1 + C_2 \eta_2 + ...)]
+
+
+
+---
+
+
+
+
+
+
+
 
 

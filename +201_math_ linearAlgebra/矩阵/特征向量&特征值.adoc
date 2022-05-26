@@ -1,0 +1,27 @@
+
+:toc:
+:toclevels: 3
+:sectnums:
+
+== 特征向量 Eigenvector & 特征值 Eigen value
+
+可以用这个公式, 来同时表达出这两者的关系: +
+\begin{align}
+\boxed{
+A\vec{x} = \lambda\vec{x}
+}
+\end{align}
+
+即, 对一个非零的列向量 stem:[\vec{x}], 应用一个A矩阵变换, 变换后的结果, 就相等于只是对这个  stem:[\vec{x}] 向量做了一次同方向上的伸缩变换(即变成原来的 stem:[ \lambda]倍). 则: +
+-> λ : 就称为 矩阵A 的一个特征值（characteristic value), 或本征值（eigenvalue). +
+-> stem:[\vec{x}] : 就是对应于 "特征值λ"  的"特征向量".
+
+
+
+
+
+
+
+
+
+
