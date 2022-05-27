@@ -1,6 +1,37 @@
 
 :toc:
 
+
+== "逆"的几何意义
+
+逆阵, 就相当于 ctrl + z 操作.
+
+image:../img/0034.svg[]
+
+-> 如果从"原像"变到"异像", 应用的是 A(新基矩阵) 变换规则; +
+-> 则从"异像"变回"原像", 可以用 stem:[ A^{-1}] 变换规则来实现.
+
+即: 如果 A 是"顺时针旋转90度"的变换; 则  stem:[ A^{-1}] 就是"逆时针旋转90度"的变换, 即它能对A 做 ctrl + z 操作, 抵消掉A的影响.
+
+\begin{align}
+\underset{撤销掉A变换.}{\underbrace{A^{-1}}}\underset{做A变换}{\underbrace{A}}\overrightarrow{x}\ =\ \overrightarrow{x}
+\end{align}
+
+所以, 对于 stem:[ Ax=b], 为了求出"原像x", 只要把等号左边的A撤销掉 (直接给它乘上一个A的逆), 就能暴露出x了, 即直接就能得到"解".
+
+\begin{align}
+& A\vec{x} = \vec{b} \\
+& A^{-1} \cdot A \cdot \vec{x} = A^{-1} \cdot \vec{b} <- 两边等式乘上A的逆\\
+& \vec{x} = A^{-1}  \vec{b} <- 直接就能得到原像\vec{x}, 即方程组的解
+\end{align}
+
+换言之, **我们只要找到了A的逆阵, 就能利用它来计算出方程组的解. 这就是"逆阵"带给我们的作用之一. **
+
+
+
+
+---
+
 == 逆矩阵 inverse matrix
 
 有方阵 stem:[ A_{n \times n}], 若存在一个stem:[ A_{n \times n}^{-1}], 使得 stem:[ A * A^{-1} = A^{-1} * A = E] (类似于 stem:[ 2* \frac{1}{2} =  \frac{1}{2} * 2 ]), 则称 A可逆, 且 stem:[A^{-1} ] 就是A的逆矩阵.

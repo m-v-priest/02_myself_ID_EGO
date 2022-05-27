@@ -1,0 +1,67 @@
+
+:toc:
+:toclevels: 3
+:sectnums:
+
+
+== 列空间
+
+
+新基矩阵 = stem:[ \[ \hat{i} | \hat{j} \] ]
+
+新基矩阵中的列向量(即"新基坐标系"中的每个轴) 张成的空间, 就是"列空间"  column space.
+
+如, 假设"新基矩阵A"是: +
+\begin{align}
+A=\left[ \begin{array}{c|c|c}
+	1&		0&		0\\
+	0&		1&		0\\
+\end{array} \right]
+\end{align}
+
+则A的"列空间"就是: +
+\begin{align}
+a\left| \begin{array}{l}
+	1\\
+	0\\
+\end{array} \right|+b\left| \begin{array}{l}
+	0\\
+	1\\
+\end{array} \right|+c\left| \begin{array}{l}
+	0\\
+	0\\
+\end{array} \right|=\left| \begin{array}{l}
+	a\\
+	b\\
+\end{array} \right|
+\end{align}
+
+即, 也就是"新基矩阵A" 的 "列向量" 的所有"线性组合"的集合, 构成一个子空间，称为矩阵A的"列空间"(column space), 或"列张成"(column span)，用符号 Col(A) 表示。
+
+所以, 更精确的 rank 的定义, 就是: 列空间的维度数.
+
+当 rank 达到最大时, 就意味着 "rank" 与 "列数"相等. 我们就称之为"满秩".
+
+注意: 零向量一定会包围在"列空间"中.
+
+---
+
+== 零空间 Null space
+
+image:../img/0036.gif[]
+
+将一个二维物体, 变换降维成一条直线, 则该物体一定会有一列(即一整条直线的部分), 被压缩到原点(0,0)上. +
+变换后落在原点的原向量的集合, 就称为新基矩阵A 的"零空间" 或 "核" kernel.
+
+**变换后, 会有一些向量落在原点上, 而"零空间", 正是这些向量所构成的空间.**
+
+image:../img/0037.png[]
+
+**对于 stem:[ A\vec{x} = \vec{0}] 来说, A的零空间, 即线性方程组 stem:[ A\vec{x} = \vec{0}]  的所有解 (即原像 stem:[ \vec{x}]) 的集合。**
+
+---
+
+
+
+
+
