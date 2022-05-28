@@ -56,6 +56,51 @@ image:../img/0034.png[]
 
 image:../img/0035.png[]
 
+对于3*3的矩阵, rank为2, 就意味着空间被压缩了.
+
+[options="autowidth"]
+|===
+|Header 1 |Header 2
+
+|
+\begin{align*}
+\left[ \begin{array}{c \|c}
+	3&		1\\
+	4&		1\\
+	5&		9\\
+\end{array} \right]
+\end{align*}
+|<- 该"新基矩阵", 它有两列, 说明是两个轴(有两个基向量)(比如stem:[\hat{i}, \hat{j}]). 但每个轴由三个数字表示, 即是处在三维空间的. 就说明它其实是把二维平面, 映射到了三维空间中.
+
+|
+\begin{align*}
+\left[ \begin{array}{c\|c\|c}
+	3&		1&		4\\
+	1&		5&		9\\
+\end{array} \right]
+\end{align*}
+|<- 有3列, 表明"原始空间"中有3个基向量(即"原始空间"是三维的). 每个基向量, 由两个数字表示坐标, 表明这3个基向量, 在变换后, 都仅用两个坐标轴来表示. 所以原像一定落在二维平面中. 被降维了.
+
+image:../img/0041.png[]
+
+image:../img/0042.svg[]
+
+|
+\begin{align*}
+\left[ \begin{array}{l}
+	2\\
+	7\\
+\end{array} \right] \rightarrow L(\vec{v})\rightarrow \left[ \begin{matrix}
+	1.8\\
+\end{matrix} \right]
+\end{align*}
+|<- 输入二维, 输出一维
+
+image:../img/0043.png[]
+
+|===
+
+
 
 ---
 

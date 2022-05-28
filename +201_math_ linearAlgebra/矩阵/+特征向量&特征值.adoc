@@ -12,9 +12,194 @@ A\vec{x} = \lambda\vec{x}
 }
 \end{align}
 
-即, 对一个非零的列向量 stem:[\vec{x}], 应用一个A矩阵变换, 变换后的结果, 就相等于只是对这个  stem:[\vec{x}] 向量做了一次同方向上的伸缩变换(即变成原来的 stem:[ \lambda]倍). 则: +
+**即, 对一个非零的列向量 stem:[\vec{x}], 应用一个A矩阵变换, 变换后的结果, 就相等于只是对这个  stem:[\vec{x}] 向量做了一次同方向上的伸缩变换(即变成原来的 stem:[ \lambda]倍).** 则: +
 -> λ : 就称为 矩阵A 的一个特征值（characteristic value), 或本征值（eigenvalue). +
 -> stem:[\vec{x}] : 就是对应于 "特征值λ"  的"特征向量".
+
+---
+
+== Eigenvector 和 Eigen value 的几何意义
+
+==== 特征向量 -> 线性变换后, 依然留在原"张成空间"上的那个向量.
+
+特征向量::
+变换后, 向量一般都会偏离原来的位置. **但如果有向量, 依然保留在原来的位置上, 就意味着该"变换"的作用, 仅仅是对该向量原地拉伸或压缩而已, 就如同一个标量所起的效果(即"数乘"效果). 则, 这种特殊的向量, 就被称为"特征向量".**
+
+image:../img/0057.gif[]
+
+又如, i基向量, 被拉伸为原来的3倍, 但它依然留在原位置处 (留在原来的张成空间中), 所有 i就是 "特征向量".
+
+image:../img/0058.png[300,300]
+
+---
+
+==== 特征值 -> 即"特征向量"倍伸缩的倍数
+
+特征值::
+每个"特征向量", 都有一个所属的值, 叫**"特征值". 它用来衡量"特征向量"在变换后, 被伸缩了几倍?** 如, 上例中, 基向量i 被拉伸了3倍, 则"特征值" = 3.
+
+---
+
+== "特征向量"到底是什么东西, 它的用处是什么?
+
+==== 特征向量, 是旋转轴
+
+如果一个物体在三维空间中旋转, 那么它的"特征向量" 就是该物体的"旋转轴" axis of rotation. 因为它不随旋转而偏离原来的张成空间.
+
+image:../img/0059.png[300,300]
+
+
+在这种情况下, 该旋转轴(即"特征向量") 的"特征值"为 1. 因为它不随旋转而被缩放.
+
+---
+
+==== 理解"线性变换"的关键, 依赖于"特征向量"和"特征值"
+
+事实上, 理解"线性变换"的关键, 较少依赖于你的特定坐标系, 更好的方法是求出它的 Eigenvector 和 Eigen value.
+
+核心公式是: +
+\begin{align}
+\boxed{
+\underset{新基矩阵.}{\underbrace{A}}\underset{要求的解}{\underbrace{\vec{v}}}=\underset{特征值.}{\underbrace{\lambda }}\underset{特征向量}{\underbrace{\vec{v}}}
+}
+\end{align}
+
+- A: 是新基矩阵, 表示某种"变换规则".
+- stem:[\vec{v}] : 就是"特征向量".
+- λ : 是一个数(系数), 就是 特征向量 stem:[\vec{v}] 所对应的"特征值".
+
+该等式的意思就是: 新基矩阵A, 作用于某个"特征向量 stem:[\vec{v}]"后, 所起的作用, 就相当于是 用一个系数λ (即"特征值"), 伸缩了该"特征向量 stem:[\vec{v}]" 的长度.
+
+该等式可以进一步变化为一个"齐次方程": +
+\begin{align*}
+& A \vec{v} = λ \vec{v} \\
+& A \vec{v} = λ E \vec{v} \\
+& A \vec{v} - λ E \vec{v} = 0 \\
+& \underset{把它整体看做一个新基矩阵}{\underbrace{\left( A-\lambda E \right) }}\cdot \vec{v}=0
+ <- 即类似于 Ax=0 的形式. \\
+\end{align*}
+
+把 stem:[(A - λ E)] 整体看做是一个"新基矩阵", 它应用到 stem:[\vec{v}] 身上, 把它降维, 变换成了 stem:[\vec{0}].
+
+其实是, **原坐标系空间, 被压缩成了零维. 就意味着该"新基矩阵"的行列式值 (面积), 为0. 即: stem:[|A - λ E|=0]**
+
+我们就能求出 λ了.
+
+.标题
+====
+例如： 求出下面坐标系空间中的"特征值 λ"
+
+image:../img/0060.png[]
+
+即: +
+\begin{align*}
+& A = \left[ \begin{array}{c|c}
+	3&		1\\
+	0&		2\\
+\end{array} \right]
+\end{align*}
+
+
+根据公式:   +
+\begin{align*}
+& |A - λ E|=0 \\
+& \left| \left[ \begin{matrix}
+	3&		1\\
+	0&		2\\
+\end{matrix} \right] -\left[ \begin{matrix}
+	\lambda&		\\
+	&		\lambda\\
+\end{matrix} \right] \right|=\ 0 \\
+& \left| \begin{matrix}
+	3-\lambda&		1\\
+	&		2-\lambda\\
+\end{matrix} \right|=0 \\
+& (3-λ)(2-λ) = 0 \\
+& λ=3 \quad 或 \quad λ=2
+\end{align*}
+
+现在, 特征值 λ 有了, 把它代回 stem:[(A-λE) \vec{v}=0] 公式中, 来算出 特征向量 stem:[\vec{v}] :
+
+\begin{align*}
+& (A-λE) \vec{v}=0 \\
+& \left| \begin{matrix}
+	3-\lambda&		1\\
+	&		2-\lambda\\
+\end{matrix} \right|\left| \begin{array}{l}
+	x\\
+	y\\
+\end{array} \right|=0
+\end{align*}
+====
+
+---
+
+==== 所有的基向量, 都是"特征向量"
+
+image:../img/0061.gif[]
+
+如同 单位矩阵E中, 每一列就是"正常坐标系"中的"基向量" 一样.
+对于一个"对角矩阵", 如:
+\begin{align*}
+\left[ \begin{array}{c|c|c|c}
+	-5&		&		&		\\
+	&		-2&		&		\\
+	&		&		-4&		\\
+	&		&		&		4\\
+\end{array} \right]
+\end{align*}
+
+它所有的基向量(即每一列), 都是"特征向量". all the basis vectors are eigenvectors.  +
+矩阵对角线上元素的值, 就是它们所属的"特征值 λ". with the diagonal entries of the matrix /being their eigenvaluse.
+
+.标题
+====
+又如：
+
+image:../img/0062.png[]
+
+\begin{align*}
+& 新基矩阵 A = \left[ \begin{array}{c|c}
+	2&		0\\
+	0&		3\\
+\end{array} \right]  \\
+& 它的新基\hat{i}的值, 其实是这样来的: \\
+& \hat{i} = A \cdot i = \left[ \begin{matrix}
+	2&		0\\
+	0&		3\\
+\end{matrix} \right] \left| \begin{array}{l}
+	1\\
+	0\\
+\end{array} \right|=\left| \begin{array}{l}
+	2\\
+	0\\
+\end{array} \right|=2\underset{即\ i}{\underbrace{\left| \begin{array}{l}
+	1\\
+	0\\
+\end{array} \right|}}  \\
+& 头尾就是:  Ai = 2i <- 这个就是 A\vec{v} = \lambda \vec{v} 的形式\\
+& 即: i 是特征向量, 2 是特征值.\\
+\end{align*}
+
+换言之, 基向量, 本身就是"特征向量". 新基矩阵中, 列上值, 就是该"列"对应的"新基向量"的"特征值".
+====
+
+
+
+
+
+一组基向量 (同样也是"特征向量") 构成的集合, 称为一组"特征基". 假设你要计算这个矩阵的100次幂, 一种更容易的做法是: 先把它变换到"特征基"下, 在那个坐标系中, 来做100次幂, 更容易计算. 然后再把结果转换回你当前的坐标系中.
+
+不过, 不是所有变换都能进行这一过程. 比如说"斜切(剪切)"变换, 它的特征向量不够多, 并不能张成全空间.
+
+
+---
+
+
+
+
+
+
 
 
 

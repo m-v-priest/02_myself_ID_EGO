@@ -53,6 +53,25 @@ image:../img/0034.svg[]
 
 因为行列式的值, 就是它们向量所组成的"平行四边形"的面积. 若 面积=0 了, 说明原坐标系空间被"变换"成零维了, 被降维压缩了. 高维信息全部丢失. 而"逆矩阵"是实现 ctrl + z 作用的, 显然零维物体就无法还原成高维物体了. 所以 ctrl + z 就不可做了. 即不存在你操作, 不存在 stem:[ A^{-1}].
 
+即: **当行列式值=0 时, 就说明新基矩阵A 将坐标轴空间, 变换压缩到了更低的维度上(比如一条直线上). 此时就没有"逆变换", 因为你不能将一条线"解压缩"为一个平面. 至少这不是一个函数能做到的. 如果你硬要还原, 这会导致多重映射的问题. 但是函数(包括反函数)只能将一个输入变换为一个输出.** -- that would require transforming(v.) each individual vectors /into a whole line full of vectors. but functions can only take a single input /to a single output.
+
+image:../img/0038.gif[]
+
+类似的, 对于三个方程和三个未知数, 如果变换是将三维空间, 压缩为一个平面, 甚至是一条直线, 或一个点, 那么它也没有逆变换.
+
+image:../img/0039.gif[]
+
+它们都对应"行列式值为零"的情况, 因为此时, 所有区域都被压缩到零体积.
+
+但即便不存在逆变换, "解"仍然可能存在. it's still possible that a solution exists /even when there is no inverse. +
+比如说, 一个变换, 将"原坐标系空间"压缩为一条直线, 如果"原像stem:[\vec{x}]" 恰好就处在这条直线上, 那降维后, 你仍然没有失去它. 即, 解(即 stem:[\vec{x}]) 依然存在. 但如果"原像"是处在这条直线外面的, 那降维后, 你就失去它了.
+
+image:../img/0040.gif[]
+
+
+
+
+
 ---
 
 ==== 当有 stem:[ AB=E 或 BA=E] 时, B 就是A的逆阵.

@@ -34,6 +34,31 @@ image:../img/0021.png[]
 所谓的 求解出 stem:[ \vec{x}], 就好比黑洞A 扭曲了空间, 我们要从被扭曲后的"异像stem:[ \vec{b}]", 倒推来找回扭曲前的它的"原像stem:[ \vec{x}]".
 
 
+==== 满足什么条件, 才是"线性的变换"?
+
+满足以下两条性质的变换, 就是"线性"的:
+
+[options="autowidth"]
+|===
+|Header 1 |Header 2
+
+|1.可加性:  +
+stem:[L(\vec{v} + \vec{w}) = L(\vec{v}) + L(\vec{w})]
+|即: 和的变换, 效果 = 变换的和
+
+|2.成比例: +
+stem:[L(c \vec{v}) = c L(\vec{v})]
+|即: 先伸缩,后变换 = 先变换, 后伸缩
+|===
+
+微积分中的求导, 同样具有"可加性" 和 "成比例性":
+
+① stem:[\quad \frac{d}{dx} (x^3 + x^2)= \frac{d}{dx} (x^3) + \frac{d}{dx} ( x^2)]
+
+② stem:[\quad \frac{d}{dx} (4 x^3)= 4 \cdot \frac{d}{dx} (x^3) ]
+
+
+
 ---
 
 == 变换有"线性"的, 就有"非线性的"
