@@ -57,6 +57,12 @@ image:../img/0059.png[300,300]
 
 事实上, 理解"线性变换"的关键, 较少依赖于你的特定坐标系, 更好的方法是求出它的 Eigenvector 和 Eigen value.
 
+线性变换的"特征向量"量（本征向量）, 其方向在该变换下不变。该向量在此变换下缩放的比例, 称为其"特征值"（本征值）。**一个线性变换, 通常可以由其"特征值"和"特征向量"完全描述。**
+
+“特征”一词来自德语的 eigen。eigen一词可翻译为”自身的”、“特定于……的”、“有特征的”、或者“个体的”.
+
+
+
 核心公式是: +
 \begin{align}
 \boxed{
@@ -196,14 +202,123 @@ image:../img/0062.png[]
 ---
 
 
+== Eigenvector 和 Eigen value 的性质
+
+==== stem:[A] 和 stem:[A^T] 有相同的"特征值", 但它们的"特征向量"不一定相同.
+
+---
+
+==== 若矩阵A 的n个"特征值"是 stem:[\lambda_1, \lambda_2, ...  \lambda_n], 则有:
+
+[options="autowidth"]
+|===
+|Header 1 |Header 2
+
+|1.所有的"特征值"之和, 等于矩阵A 的对角线元素 之和.
+|即: +
+\begin{align*}
+\sum_{i=1}^n{\lambda_i} = \sum_{i=1}^n{a_{ij}}
+\end{align*}
+
+把主对角线元素都相加, 有一个术语来称它, 叫做"迹" tr(A).
+
+|2.所有的stem:[\lambda] 相乘, 等于矩阵A的行列式值.
+|即: +
+\begin{align*}
+\lambda_1 \lambda_1 ... \lambda_n = \|A\|
+\end{align*}
+
+那么等号左边, 其中只要有一个"特征值" stem:[\lambda=0], 则 stem:[\|A\|=0]. 矩阵A 就不可逆. 所有, 对于该矩阵A, 要想它可逆, 就要保证 所有的stem:[\lambda] 都不能是0.
+|===
 
 
+---
+
+==== n阶方阵A, 互不相同的"特征值"stem:[\lambda_1, \lambda_2, ... \lambda_n] 对应的特征向量 stem:[\vec{v_1}, \vec{v_2},...\vec{v_m}] 线性无关.
+
+---
+
+==== kA 的特征值, 是 stem:[k\lambda]
+
+\begin{align*}
+根据核心公式: \quad & A\vec{x} = \lambda \vec{x} \\
+两边同时乘上3, 就是: \quad   & 3A\vec{x} = 3\lambda \vec{x} \\
+&  (3A)\vec{x} = (3\lambda) \vec{x} \\
+& 即: kA的的特征值, 就是 k \lambda.
+\end{align*}
+
+---
+
+==== stem:[A^2] 的特征值, 是 stem:[\lambda^2]
+
+\begin{align*}
+根据核心公式: \quad & A\vec{x} = \lambda \vec{x} \\
+两边同时左乘A : \quad & AA\vec{x} = A\lambda \vec{x} \\
+& A^2\vec{x} =\lambda(A \vec{x}) <- 核心公式已经告诉我们, 其实 A\vec{x} 就= \lambda \vec{x}\\
+&  A^2\vec{x} =\lambda  \lambda \vec{x} \\
+& A^2\vec{x} =\lambda^2 \vec{x} \\
+& 即: A^2 的特征值, 是 \lambda^2
+\end{align*}
+
+即 stem:[\lambda] 与 stem:[A] 的指数次数相同. +
+同理: stem:[\lambda^3] 是 stem:[A^3] 的特征值. +
+stem:[\lambda^k] 是 stem:[A^k] 的特征值.
+
+.标题
+====
+例如： 已知 A 的特征值是2, 问 stem:[A^5 + 6A^2 + A + 3E] 的特征值 = ?
+
+根据 stem:[ \lambda]  与 "A 的指数次数"相同. 就有:
+
+[options="autowidth"]
+|===
+|Header 1 |根据"核心公式"(stem:[A \vec{x} = \lambda \vec{x}]), 就有:
+|stem:[A^5 ] 特征值是 stem:[2^5].
+|stem:[A^5 \vec{x} = 2^5 \vec{x}]
+
+|stem:[A^2 ] 特征值是 stem:[2^2].
+|stem:[6 A^2 \vec{x} = 6 \cdot 2^2 \vec{x}]
+
+|已知 A 的特征值是2
+|stem:[A \vec{x} = 2 \vec{x}]
+
+|E 的特征值: 单位矩阵的特征值皆为 1
+|stem:[3 E\vec{x} = 3\vec{x}]
+
+|所以,  stem:[(A^5 + 6A^2 + A + 3E)\vec{x}]
+|stem:[= (2^5  +  6 \cdot 2^2  + 2 + 3)\vec{x} ]
+|===
+
+即: +
+\begin{align*}
+\underset{A}{\underbrace{\left( A^5 +6A^2 +A +3E \right) }}\vec{x} = \underset{特征值\ \lambda}{\underbrace{\left( 2^5+6\cdot 2^2 +2 +3 \right) }}\underset{特征向量}{\underbrace{\vec{x}}}
+\end{align*}
+
+所有,  stem:[A^5 + 6A^2 + A + 3E] 的特征值 stem:[= 2^5+6\cdot 2^2 +2 +3]
+
+其实, 更快的技巧只需这样做: +
+stem:[A^5 + 6A^2 + A + 3E], <- 把所有的A, 都替换成它们的"特征值", 把 E 替换成 1 (因为单位阵的特征值=1). 就能直接有: +
+stem:[2^5 +6\cdot 2^2 +2 +3 \cdot 1]
+====
 
 
+---
 
+==== stem:[A^{-1}] 的 特征值, 是 stem:[\frac{1} {\lambda}]
 
+\begin{align*}
+根据核心公式: \quad & A\vec{x} = \lambda \vec{x} \\
+等号左右交换下: \quad & \lambda \vec{x} =  A\vec{x} \\
+两边同时左乘 A^{-1} :\quad  & A^{-1}  \lambda \vec{x} = A^{-1}  A\vec{x} \\
+& \lambda A^{-1} \vec{x} = \vec{x} \\
+&  A^{-1} \vec{x} = \frac{1} {\lambda } \vec{x} <- 即:  A^{-1} 的特征值, 是 \frac{1} {\lambda } \\
+\end{align*}
 
+---
 
+==== stem:[A^{\ast}] 的 特征值, 是 stem:[\frac{1} {\lambda} |A|]
+
+---
 
 
 
