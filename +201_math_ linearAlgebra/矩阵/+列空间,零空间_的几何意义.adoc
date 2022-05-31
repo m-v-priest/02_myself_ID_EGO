@@ -4,7 +4,37 @@
 :sectnums:
 
 
+== 向量空间
+
+运算封闭:: 从某个非空数集中, 任选两个元素（同一元素可重复选出），选出的这两个元素通过某种（或几种）运算后的得数, 若仍是该数集中的元素，那么，就说该集合对于这种（或几种）运算是"封闭"的。
+
+向量空间，就必须满足空间"对线性运算（"相加"和"数乘"）封闭"这一原则。
+
+[options="autowidth"]
+|===
+|Header 1 |Header 2
+
+|Column 1, row 1
+|Column 2, row 1
+|===
+
+在向量空间中任取一部分，得到的结果可能不是向量空间::
+如果我们把二维坐标平面上的第一象限, 单独拿出来，这个区域仍然是"向量空间"吗？不是的，因为该空间无法满足“线性组合仍在空间中”的要求，比如做数乘运算时，随便取个负数, 得到的向量就会位于第三象限. 也就是说，在向量空间中任取一部分，得到的结果可能不是向量空间。
+
+那么两个向量空间的并集，其结果可以构成子空间吗？答案是否定的.::
+假设我们有一条过原点的直线, 和一个过原点的平面（直线不在平面上），二者均可以视作向量空间，而两者的并集, 并不能满足"线性运算封闭". 因为在直线上任取一向量，在平面上任取一向量，两向量的和, 会位于直线与平面之间，脱离了两空间并集的范围。
+
+那么两个向量空间的交集，其结果可以构成子空间吗？答案是肯定的.::
+直线和平面的交集是零向量，零向量依然为向量空间。
+
+
+
+
+
+---
+
 == 子空间 subspaces
+
 
 子空间 : 就是向量空间内的一些向量, 它们属于母空间, 但自身又构成向量空间. that's a spaces -- that's some vectors inside the given space inside R three that still make up  a vector space fo their own. 即, "子空间"是向量空间内的向量空间. it's a vector space inside a vector space.
 
@@ -19,46 +49,105 @@
 
 == 列空间
 
+==== MIT 的讲解 -- 列空间
 
-新基矩阵 = stem:[ \[ \hat{i} | \hat{j} \] ]
+列空间: 是指由矩阵的"列向量"所构造出的空间。
 
-新基矩阵中的列向量(即"新基坐标系"中的每个轴) 张成的空间, 就是"列空间"  column space.
-
-如, 假设"新基矩阵A"是: +
+例如:
 \begin{align}
-A=\left[ \begin{array}{c|c|c}
-	1&		0&		0\\
-	0&		1&		0\\
+A=\left[ \begin{matrix}
+	1&		1&		2\\
+	2&		1&		3\\
+	3&		1&		4\\
+	4&		1&		5\\
+\end{matrix} \right]
+\end{align}
+
+这个矩阵A 的列向量, 均是空间中的四维向量，所以可以说A的"列空间", 是stem:[ R^4] 的子空间。
+
+在这个列空间中，除了包含这给出的三个列向量外，还包含了它们的各种线性组合，也就是说，A的列空间是由:
+\begin{align}
+\left[ \begin{array}{l}
+	1\\
+	2\\
+	3\\
+	4\\
+\end{array} \right],
+\left[ \begin{array}{l}
+	1\\
+	1\\
+	1\\
+	1\\
+\end{array} \right],
+\left[ \begin{array}{l}
+	2\\
+	3\\
+	4\\
+	5\\
 \end{array} \right]
 \end{align}
 
-则A的"列空间"就是: +
+这三个向量所张成的子空间。
+
+那么这个空间有多大呢？这就需要用 stem:[ A\vec{x} = \vec{b}] 来解释了。
+
+比如, 这个方程 stem:[ A\vec{x} = \vec{b}] 如下：
+
+
 \begin{align}
-a\left| \begin{array}{l}
-	1\\
-	0\\
-\end{array} \right|+b\left| \begin{array}{l}
-	0\\
-	1\\
-\end{array} \right|+c\left| \begin{array}{l}
-	0\\
-	0\\
+A\overrightarrow{x} = \left[ \begin{matrix}
+	1&		1&		2\\
+	2&		1&		3\\
+	3&		1&		4\\
+	4&		1&		5\\
+\end{matrix} \right] \left| \begin{array}{l}
+	x_1\\
+	x_2\\
+	x_3\\
 \end{array} \right|=\left| \begin{array}{l}
-	a\\
-	b\\
+	b_1\\
+	b_2\\
+	b_3\\
+	b_4\\
 \end{array} \right|
 \end{align}
 
-即, 也就是"新基矩阵A" 的 "列向量" 的所有"线性组合"的集合, 构成一个子空间，称为矩阵A的"列空间"(column space), 或"列张成"(column span)，用符号 Col(A) 表示。
+该方程其实可以改写成如下形式:
 
-所以, 更精确的 rank 的定义, 就是: 列空间的维度数.
+\begin{align}
+Ax\ =\ x_{1\}\left| \begin{array}{l}
+	1\\
+	2\\
+	3\\
+	4\\
+\end{array} \right|\ +\ x_{2\}\left| \begin{array}{l}
+	1\\
+	1\\
+	1\\
+	1\\
+\end{array} \right|\ +\ x_{3\}\left| \begin{array}{l}
+	2\\
+	3\\
+	4\\
+	5\\
+\end{array} \right|
+\end{align}
 
-当 rank 达到最大时, 就意味着 "rank" 与 "列数"相等. 我们就称之为"满秩".
+可以看出: stem:[ A\vec{x}] 的本质 就是对 A的列向量, 进行线性组合. 即:  stem:[ A\vec{x}] 就代表着的"列空间"。
 
-注意: 零向量一定会包围在"列空间"中.
+**显然, 对于一个四维空间, 是无法用三个"基"(三个未知元,代表三个轴)来撑满的.  因此, 由这三个"基轴"张成的空间, 也只能是 stem:[ R^4] 空间中的部分子空间.**
+
+因此, 在四维空间中任意取一个向量(是四维坐标的), 大概率会身处在 stem:[ Ax] 代表的子空间之外.
+
+那么, 对于这个 stem:[ A \vec{x} = \vec{b}] 来说, b 是一个四维的向量, 什么样的 stem:[ \vec{b}], 才能在四维空间中, 能找到它的原像 stem:[ \vec{x}] 存在呢? 而不是身处在 stem:[ A\vec{x}] 的子空间之外.
+
+image:../img/0077.svg[600,600]
+
+既然 stem:[ A\vec{x}] 只是把一个三维物体, 放在四维空间中 (只是用四个坐标轴来表示三维物体的位置罢了), **那么 stem:[ \vec{b }] 只要也位于 矩阵A的 "列空间"中, 就可以找到一种由 A 的"列向量"通过"线性组合"而构成的向量 stem:[ \vec{b}], 我们也就能倒推回去, 找到 stem:[ \vec{b}] 的原像 stem:[ \vec{x}]了**, 即能找到stem:[ Ax=b] 的解。
 
 
-例如:
+详细 :
+
 \begin{align}
 A = \left[ \begin{array}{c|c|c}
 	1&		1&		2\\
@@ -130,11 +219,56 @@ A = \left[ \begin{array}{c|c|c}
 因此, 这里A的列空间, 其实就是 stem:[ R^4] 中的二维子空间.
 
 
+---
+
+==== 列空间 的定义
+
+新基矩阵 = stem:[ \[ \hat{i} | \hat{j} \] ]
+
+新基矩阵中的列向量(即"新基坐标系"中的每个轴) 张成的空间, 就是"列空间"  column space.
+
+如, 假设"新基矩阵A"是: +
+\begin{align}
+A=\left[ \begin{array}{c|c|c}
+	1&		0&		0\\
+	0&		1&		0\\
+\end{array} \right]
+\end{align}
+
+则A的"列空间"就是: +
+\begin{align}
+a\left| \begin{array}{l}
+	1\\
+	0\\
+\end{array} \right|+b\left| \begin{array}{l}
+	0\\
+	1\\
+\end{array} \right|+c\left| \begin{array}{l}
+	0\\
+	0\\
+\end{array} \right|=\left| \begin{array}{l}
+	a\\
+	b\\
+\end{array} \right|
+\end{align}
+
+即, 也就是"新基矩阵A" 的 "列向量" 的所有"线性组合"的集合, 构成一个子空间，称为矩阵A的"列空间"(column space), 或"列张成"(column span)，用符号 Col(A) 表示。
+
+所以, 更精确的 rank 的定义, 就是: 列空间的维度数.
+
+当 rank 达到最大时, 就意味着 "rank" 与 "列数"相等. 我们就称之为"满秩".
+
+注意: 零向量一定会包围在"列空间"中.
+
+
+
 
 ---
 
 
 == 零空间 Null space
+
+==== 3Blue1Brown 的几何解释
 
 image:../img/0036.gif[]
 
@@ -149,9 +283,71 @@ image:../img/0037.png[]
 
 矩阵A 的零空间, 记为: stem:[ N(A)]
 
+---
+
+==== MIT 的讲解 -- 零空间
+
+**什么是"零空间"? 就是 stem:[ A \vec{x} = \vec{0}] 的所有的原像stem:[ \vec{x}], 所构成的一个空间.**
+
+如:
+
+\begin{align}
+A = \left[ \begin{array}{c|c|c}
+	1&		1&		2\\
+	2&		1&		3\\
+	3&		1&		4\\
+	4&		1&		5\\
+\end{array} \right]
+\end{align}
+
+其 stem:[ Ax=0] 就是:
+
+\begin{align}
+\underset{A}{\underbrace{\left[ \begin{matrix}
+	1&		1&		2\\
+	2&		1&		3\\
+	3&		1&		4\\
+	4&		1&		5\\
+\end{matrix} \right] }}\underset{\overrightarrow{x}}{\underbrace{\left| \begin{array}{l}
+	x_1\\
+	x_2\\
+	x_3\\
+\end{array} \right|}}=\underset{\overrightarrow{0}}{\underbrace{\left| \begin{array}{l}
+	0\\
+	0\\
+	0\\
+	0\\
+\end{array} \right|}}
+\end{align}
+
+零空间就是原像stem:[ \vec{x}] 所构成的空间. 本例中, x有三个分量, 所以其"零空间"是 stem:[ R^3] 中的子空间。
+
+**注意比较: 对于一个 stem:[ m \times n] 的矩阵来说**:
+
+- **其"列空间", 是 stem:[ R^m] 的子空间. <- 即是 A矩阵 所投射到的"新维度空间"的子空间.**
+- **其"零空间", 是 stem:[ R^n] 的子空间. <- 即是原像stem:[ \vec{x}] "自己所属维度"的子空间.**
+
+也可以说: stem:[ fnA(x)=b] : +
+-> 原像x的维度, 就是"零空间"的母空间.  +
+-> 输出值b的维度, 是"列空间"的母空间.
+
+image:../img/0078.svg[600,600]
 
 
-例如:
+
+
+
+
+
+
+
+
+
+
+
+
+
+详细:
 
 \begin{align}
 A\overrightarrow{x}=\overrightarrow{b}\ \rightarrow \underset{A}{\underbrace{\left[ \begin{matrix}
