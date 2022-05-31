@@ -1,5 +1,34 @@
 
 :toc:
+:toclevels: 3
+:sectnums:
+
+== 解 solution of equation
+
+stem:[A\vec{x} = \vec{b}] 或 stem:[A\vec{x} = \vec{0}]
+
+- 解: 就是满足每一个方程的 一组未知数的取值. 即: stem:[S_1, S_2, ... S_n]. **换言之, 就是在已知新基矩阵A 和"新像" stem:[\vec{b} 或 \vec{0}]的情况下, 来倒推回去, 求"原像stem:[\vec{x}] 的过程.**
+- 解集 solution set : 就是所有的解, 即"解的全体"组成的集合. 记作: S
+- 同解: 指两个方程组, 解集相同的情况. 则它们有"同解".
+
+
+---
+
+== 解的存在性, 唯一性问题
+
+"解集"只有三种情况: 有唯一解, 有无穷多解, 无解.
+
+image:../img/0079.png[]
+
+
+
+
+
+
+
+
+
+---
 
 == 基础解系 fundamental system/set of solutions
 

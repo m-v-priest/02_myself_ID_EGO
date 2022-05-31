@@ -3,6 +3,22 @@
 :sectnums:
 :toclevels: 3
 
+
+[options="autowidth"]
+|===
+|Header 1 |对应
+
+|齐次 stem:[A \vec{x} = \vec{0}]
+|系数矩阵 [A]
+
+|非齐次 stem:[A \vec{x} = \vec{b}]
+|增广矩阵 [A\|b]
+|===
+
+
+
+---
+
 == 齐次线性方程 homogeneous linear equations
 
 形如 stem:[A\vec{x}=0] 的形式.  +
