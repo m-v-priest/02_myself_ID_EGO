@@ -41,6 +41,19 @@ A=\left[ \begin{matrix}
 
 ==== rank: 是已化为"阶梯形"的矩阵A中, 非零行的行数. = A的主元位置的个数 = A的主元列数
 
+[options="autowidth"]
+|===
+|Header 1 |Header 2
+
+|stem:[A = 0]
+|零矩阵, 其 rank(A) = 0
+
+|
+|
+|===
+
+
+
 
 ---
 

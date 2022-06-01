@@ -40,21 +40,48 @@ A^*=\left[ \begin{array}{c|c|c}
 
 == 伴随矩阵 性质
 
-==== stem:[ A * A^{\ast} = A^{\ast} * A = |A|E ]
+==== ★ stem:[ A * A^{\ast} = A^{\ast} * A = ‖A‖E ]
 
-==== stem:[|A * A^{\ast}| = |A|^n * |E|  ]
 
-==== stem:[| A^{\ast} | = |A|^{n-1} ]
+
+
+
+
+例: 只有一个元素组成的方阵 stem:[ A=\[5\] ], 其 stem:[ A^{\ast}] 是什么 ?
+
+根据性质: +
+image:../img/0012.svg[]
+
+即, stem:[ A^{\ast} = \[1\] ]
+
+
+---
+
+==== stem:[‖A * A^{\ast}‖ = ‖A‖^n * ‖E‖  ]
+
+---
+
+==== stem:[‖ A^{\ast} ‖ = ‖A‖^{n-1} ]
+
+---
 
 ==== stem:[ (kA)^{\ast} = k^{n-1} A^{\ast} ]
 
+---
+
 ==== stem:[ ( A^T \right) ^{\ast} =( A^{\ast} ) ^T]
+
+---
 
 ==== stem:[ (AB)^{\ast} = B^{\ast} A^{\ast} ]
 
+---
+
 ==== stem:[ (A^{-1})^{\ast} = (A^{\ast})^{-1} ]
 
-==== #stem:[ A^{\ast} = |A| A^{-1} ]#
+---
+
+==== ★ stem:[ A^{\ast} = ‖A‖ A^{-1} ]
 
 这个公式, 能让我们得到求"A逆"的又一种公式方法: +
 \begin{align}
@@ -68,21 +95,19 @@ A^{-1}  =  \frac{1}{|A| } A^{\ast}
 
 不过, 实际中, 该求逆方法很少用, 因为计算量太大.
 
-==== #stem:[A^{-1}  =  \frac{1}{|A| } A^{\ast} ]#
+---
 
-==== stem:[ (A^{\ast})^{-1} =  \frac{1}{|A| } A ]
+==== stem:[A^{-1}  =  \frac{1}{‖A‖ } A^{\ast} ]
+
+---
+
+==== stem:[ (A^{\ast})^{-1} =  \frac{1}{‖A‖ } A ]
+
+A可逆时, stem:[A^{\ast}] 也可逆.
 
 
 ---
 
-例: 只有一个元素组成的方阵 stem:[ A=\[5\] ], 其 stem:[ A^{\ast}] 是什么 ?
-
-根据性质: +
-image:../img/0012.svg[]
-
-即, stem:[ A^{\ast} = \[1\] ]
-
----
 
 
 
