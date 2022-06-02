@@ -21,6 +21,20 @@ stem:[A\vec{x} = \vec{b}] 或 stem:[A\vec{x} = \vec{0}]
 image:../img/0079.png[]
 
 
+[options="autowidth"]
+|===
+|对于  |什么时候有解(能找到原像stem:[ \vec{x}])?
+
+| stem:[ A \vec{x} =\vec{b}]
+|仅当 stem:[ \vec{b}] 属于 A 的"列空间"时, 能找到 stem:[ \vec{x}].
+
+|
+|
+|===
+
+
+
+
 
 
 
