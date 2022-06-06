@@ -232,6 +232,11 @@ A\overrightarrow{x} = \left[ \begin{matrix}
 
 ---
 
+==== Col(A) 的正交补, 是"左零空间". 即: stem:[ (C(A))^⊥ = N(A^T)]
+
+
+---
+
 === #Row(A) 行空间# -> stem:[ R(A) = C(A^T)]
 
 一般, 我们把矩阵A 转置一下, 就能使用"列空间"技巧来处理"行空间"了. 即: stem:[ Col(A^T)]
@@ -248,6 +253,15 @@ A\overrightarrow{x} = \left[ \begin{matrix}
 ---
 
 ==== Row(A) 的 basis 基
+
+
+---
+
+
+==== Row(A) 的正交补, 是零空间. 即: stem:[ (R(A))^⊥ = N(A)]
+
+
+
 
 
 ---
@@ -399,7 +413,19 @@ image:../img/0086.svg[650,650]
 
 === #左零空间# -> stem:[ N(A^T)]
 
-A转置后的零空间: stem:[ N(A^T)] <- 也叫"左零空间" the left null space of A
+A转置后的零空间: stem:[ N(A^T)] <- 也叫"左零空间" the left null space of A.
+
+
+stem:[ A^T\vec{x} = \vec{0}] 的原像stem:[ \vec{x}]集合, 就是构成"左零空间".
+
+\begin{align}
+A^T\vec{x} & = \vec{0} \\
+左右两边取转置 : (A^T x)^T & = 0^T \\
+x^T A & = 0 ← 你发现原像x在矩阵A的左边, 所以x就构成A的"左零空间".\\
+\end{align}
+
+
+
 
 ---
 
