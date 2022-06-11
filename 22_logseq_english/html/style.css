@@ -1,0 +1,25 @@
+
+li {
+line-height: 1.4em;
+padding: 0.2em
+}
+
+blockquote {
+  background: #eeeeee;
+  line-height: 1.4em;
+  border-left: 3px solid #ccc; /*应用块前竖线的粗细*/
+  margin: 0.1em; /*上－右－下－左*/
+  padding: 0.5em 10px;
+}
+blockquote:before {
+  color: #ccc;
+  /*content: open-quote;*/
+  /*font-size: 4em;*/
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+
+blockquote p {
+  display: inline;
+}
