@@ -279,6 +279,109 @@ title:: main_Matplotlib
 	  
 	  plt.show()
 	  ```
--
--
+- 向量箭头的画法
+  background-color:: #264c9b
+	- 二维平面的向量 -> 只画一个向量 -> ax.quiver(起点的x坐标,起点的y坐标, 终点的x坐标, 终点的y坐标)
+	  collapsed:: true
+		- ```python
+		  import numpy as np
+		  import matplotlib.pyplot as plt
+		  
+		  ax = plt.axes()
+		  
+		  # 只画一个向量的话, 只用前4个参数来定位, 前两个参数是向量箭头"出发点"的坐标, 后两个参数是"箭头终点"的坐标
+		  # angle='xy',scale_units='xy',scale=1,这三个参数, 保证了箭头尺寸与图中坐标相匹配。
+		  ax.quiver(0,0,3,7,angles='xy', scale_units='xy', scale=1)
+		  
+		  ax.grid()
+		  
+		  ax.set_xlabel('X')
+		  ax.set_ylabel('Y')
+		  ax.set_xlim(-10, 10)
+		  ax.set_ylim(-10, 10)
+		  
+		  plt.show()
+		  ```
+		- ![image.png](../assets/image_1655105468611_0.png)
+		-
+	- 二维平面的向量 -> 一次性同时画多个向量 -> ax.quiver()
+	  collapsed:: true
+		- 一次性画多个向量, 就要用列表传参, 来表示这n个向量的坐标值了.
+		- quiver([X, Y], U, V, [C], **kw)
+		  X, Y define **the arrow locations**, U, V define **the arrow directions**, and C optionally sets the color.
+		- 我们来同时画三个向量, 坐标分别是:
+		  -> 向量1:  起点坐标0,0 -> 终点坐标 5,3
+		  -> 向量2:  起点坐标5,3 -> 终点坐标 7,9
+		  -> 向量3:  起点坐标2,4 -> 终点坐标 -2,6
+		- 那么对于quiver(), 我们要传4个参数进去, 都是list:
+		  -> 第1个list中存放着: 三个向量的**起点**的x坐标值, 即 [0,5,2]
+		  -> 第2个list中存放着: 三个向量的起点的y坐标值, 即 [0,3,4]
+		- -> 第3个list中存放着: 三个向量的**终点**的x坐标值, 即 [5,7,-2]
+		  -> 第4个list中存放着: 三个向量的终点的y坐标值, 即 [3,9,6]
+		- ```python
+		  import numpy as np
+		  import matplotlib.pyplot as plt
+		  
+		  ax = plt.axes()
+		  
+		  # 一次性同时画多个向量的话, 要用列表来表示
+		  ax.quiver([0,5,2],[0,3,4],[5,7,-2],[3,9,6],angles='xy', scale_units='xy', scale=1)
+		  
+		  ax.grid()
+		  
+		  ax.set_xlabel('X')
+		  ax.set_ylabel('Y')
+		  ax.set_xlim(-10, 15)
+		  ax.set_ylim(-10, 15)
+		  
+		  plt.show()
+		  ```
+		- ![image.png](../assets/image_1655106551946_0.png)
+		-
+	- 三维空间中的向量
+	  collapsed:: true
+		- 我们来同时画三个向量, 坐标分别是:
+		  -> 向量1:  起点坐标0,0,0 -> 终点坐标 5,3,7
+		  -> 向量2:  起点坐标5,3,7 -> 终点坐标 7,9,-3
+		  -> 向量3:  起点坐标2,4,8 -> 终点坐标 -8,6,-3
+		- 那么对于quiver(), 我们要传6个参数进去, 都是list:
+		  -> 第1个list中存放着: 三个向量的**起点**的x坐标值, 即 [0,5,2]
+		  -> 第2个list中存放着: 三个向量的起点的y坐标值, 即 [0,3,4]
+		  -> 第3个list中存放着: 三个向量的起点的z坐标值, 即 [0,7,8]
+		- -> 第4个list中存放着: 三个向量的**终点**的x坐标值, 即 [5,7,-8]
+		  -> 第5个list中存放着: 三个向量的终点的y坐标值, 即 [3,9,6]
+		  -> 第6个list中存放着: 三个向量的终点的z坐标值, 即 [7,-3,-3]
+		- ```python
+		  import my_module  # 导入你自己编辑的模块, 里面有你写的函数
+		  
+		  import numpy as np
+		  from matplotlib import pyplot as plt
+		  from mpl_toolkits.mplot3d.axes3d import Axes3D # 要画3d图, 先导入此模块
+		  
+		  
+		  my_module.fn_图画显示令支持中文()
+		  # my_module.fn_设定坐标轴数值范围(-2, 20, -2, 2)
+		  # my_module.fn_改成四象限坐标系()
+		  
+		  fig = plt.figure() # 创建一个绘图对象,即构建一个画布, 赋值给 fig变量
+		  ax = Axes3D(fig) # 将画布变为3维的
+		  
+		  plt.gca().set_box_aspect((1, 1, 1)) # 设置x,y,z轴等比例显示
+		  
+		  ax.quiver([0,5,2],[0,3,4],[0,7,8],[5,7,-8],[3,9,6],[7,-3,-3])
+		  
+		  ax.set_xlabel('X')
+		  ax.set_ylabel('Y')
+		  ax.set_zlabel('Z')
+		  
+		  # 设置轴范围的时候用set_xlim3d，而非set_xlim。
+		  ax.set_xlim3d(-10, 15)
+		  ax.set_ylim3d(-10, 15)
+		  ax.set_zlim3d(-10, 15)
+		  
+		  ax.grid()
+		  # plt.plot(x, y)
+		  plt.show()
+		  ```
+		- ![image.png](../assets/image_1655108445873_0.png)
 -

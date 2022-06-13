@@ -2,25 +2,29 @@ import my_module  # 导入你自己编辑的模块, 里面有你写的函数
 
 import numpy as np
 from matplotlib import pyplot as plt
+from mpl_toolkits.mplot3d.axes3d import Axes3D # 要画3d图, 先导入此模块
+
 
 my_module.fn_图画显示令支持中文()
-my_module.fn_设定坐标轴数值范围(-2, 20, -2, 2)
-my_module.fn_改成四象限坐标系()
+# my_module.fn_设定坐标轴数值范围(-2, 20, -2, 2)
+# my_module.fn_改成四象限坐标系()
 
-# 本例, 我们先构造一条sin曲线
-x = np.arange(0, 101)
-y = np.sin(x)
+fig = plt.figure() # 创建一个绘图对象,即构建一个画布, 赋值给 fig变量
+ax = Axes3D(fig) # 将画布变为3维的
 
-# 在sin曲线上, 标出一个点来
-point1_x = 7
-point1_y = np.sin(point1_x)
-plt.scatter(point1_x, point1_y, s=100, c='r')  # 画出这个点. plt.scatter()函数用于生成一个scatter散点图。
-# 其中, s参数, 指定点的显示大小 size, 默认20.
-# c参数, 表示点的色彩 color, 默认为蓝色’b’.
+plt.gca().set_box_aspect((1, 1, 1)) # 设置x,y,z轴等比例显示
 
-# 下面来画从上面这个点, 到x轴的垂直虚线.
+ax.quiver([0,5,2],[0,3,4],[0,7,8],[5,7,-8],[3,9,6],[7,-3,-3])
 
-my_module.fn_做标注(point1_x,point1_y,注释文本的坐标值偏移量x=1,注释文本的坐标值偏移量y=1.5)
+ax.set_xlabel('X')
+ax.set_ylabel('Y')
+ax.set_zlabel('Z')
 
-plt.plot(x, y)
+# 设置轴范围的时候用set_xlim3d，而非set_xlim。
+ax.set_xlim3d(-10, 15)
+ax.set_ylim3d(-10, 15)
+ax.set_zlim3d(-10, 15)
+
+ax.grid()
+# plt.plot(x, y)
 plt.show()
