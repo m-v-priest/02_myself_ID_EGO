@@ -39,6 +39,21 @@ title:: main_Matplotlib
 	  ```
 	- ![image.png](../assets/image_1654999381702_0.png)
 	-
+- 用 plt.plot()画图时, x轴可以省略, 默认就是无限长. 你只需传递y轴即可.
+  collapsed:: true
+	- ```python
+	  import numpy as np
+	  import matplotlib.pyplot as plt
+	  
+	  
+	  y = np.arange(50,100)
+	  
+	  # 用 plt.plot()画图时, x轴可以省略, 默认就是无限长. 你只需传递y轴即可.
+	  plt.plot(y)
+	  
+	  plt.show()
+	  ```
+	- ![image.png](../assets/image_1655182839276_0.png)
 - 线条的样式自定义
 	- 线条显示为虚线 -> plot(x, y, '虚线类型指定')
 	  collapsed:: true
@@ -279,6 +294,273 @@ title:: main_Matplotlib
 	  
 	  plt.show()
 	  ```
+-
+- figure就是一个画布，axes表示画布上的一个画图区域，一个画布上可以分割成多个画图区域 axes. 但每个axes的位置, 需要你用相对于figure的百分比来赋值.
+  collapsed:: true
+	- 我们作画, 可以在 axes 上作画,  即 ax.plot()
+	- 也可以在 plt 上作画, 即 **plt会指向你最后创建的那个 ax上,来作画.**  plt.plot()
+	- 但不能在 figure上作画!  如 figure.plot() 是错的, 会报错!
+	- ```python
+	  import numpy as np
+	  import matplotlib.pyplot as plt
+	  
+	  # 创建画布 figure对象, 但注意, 我们画图不是直接画在figure上的, 而是画在figure上的子空间 -- axes上的.
+	  fig = plt.figure() # figure画布, 只是一张空白的背景而已. 上面还没有坐标轴.
+	  
+	  # 在画布上, 加上第一个坐标轴区域
+	  ax1 = fig.add_axes([0,0,0.5,0.5]) # fig.add_axes()接收一个列表 [left, bottom, width, heigh], 即, 坐标轴区域的左下角坐标(x,y),以及该区域的宽度和高度, 占整个画布的百分比. 比如, 本例我们设置为0.5, 就是让这个坐标轴子区域, 占画布的50%宽高.
+	  ax2 = fig.add_axes([0.5,0.5,0.5,0.5]) # 再创建一个坐标轴区域, 在画布的右上角
+	  
+	  # 注意, 在添加了 axes后, 如果你不显式指定图像是画在哪个 ax上, 图像就画在你最后创建的那个 ax上. 即, 你用 plt.plot()画的话, 就是画在你最后创建的那个 ax上.
+	  ax1.plot([2,5,6],[5,3,9]) # 显式指定只在ax1区域上画画.
+	  plt.plot([5,3,5],[9,2,4]) # 没有显式指定ax区域, 这样, 由于你最后创建的axes是 ax2, 本句代码就画在了 ax2上.
+	  
+	  #下面, 我们把plt所指向的当前的ax到底是哪一个, 打印出来看看
+	  ax_current = plt.gca() # 获取当前的axis区域 get current axis 
+	  print(ax_current) # Axes(0.5,0.5;0.5x0.5) <- 果然是 ax2. 所以 plt.plot()就是画在 ax2 上的.
+	  ```
+	- ![image.png](../assets/image_1655180585257_0.png)
+	-
+	- ```python
+	  import numpy as np
+	  import matplotlib.pyplot as plt
+	  
+	  '''
+	  plt.gcf(),plt.sca(),plt.gca()的区别?
+	  figure就是一个图，axes表示图上的一个画图区域，一个图上可以有多个画图区域，意思就是说，一个图上可以有多个子图。
+	  
+	  用函数gcf(）与gca()分别得到当前的figure与axes。（get current figure, get current axes).
+	  
+	  利用sca()函数实现把一个axes对象作为当前的axes，axes对象为figure对象的一个属性，当切换了axes,figure肯定也切换了。
+	  '''
+	  
+	  ax1 = plt.gca() #  保存当前的axes 为 ax1
+	  plt.sca(ax1) #将当前axes 指定为 ax1
+	  #  在ax1上画图
+	  plt.plot([2,3],[4,5])
+	  
+	  
+	  ax2 = plt.gca() #  保存当前的axes 为 ax2
+	  plt.sca(ax2) #将当前axes 指定为 ax2
+	  #  在ax2上画图
+	  plt.plot([6,4],[8,9])
+	  plt.plot([7,5],[4,1])
+	  
+	  ax1 = plt.gca() #  保存当前的axes 为 ax1
+	  plt.sca(ax1) #将当前axes 指定为 ax1
+	  #  在ax1上画图
+	  plt.plot([12,13],[14,15])
+	  
+	  plt.show()
+	  ```
+- 要自动均等的分割画布, 就用 subplot(切出几行, 切出几列, 第几个位置)函数
+  collapsed:: true
+	- 比如 subplot(2,3,4) 就是指: 把画布分隔成 2行3列的, 共2*3=6个字块. 本subplot指向第4个子块区域.
+	- ```python
+	  import numpy as np
+	  import matplotlib.pyplot as plt
+	  
+	  ax1 = plt.subplot(2, 2, 1, title='pic1')  # 把画布分成2行2列共4个子区域, 将ax1指向第1个区域
+	  ax1.plot([2, 5], [5, 2])
+	  
+	  ax3 = plt.subplot(2, 2, 3, title='pic3')  # 将ax2指向第3个区域
+	  ax3.plot([-8, 5], [3, 7])
+	  
+	  plt.tight_layout()  # 自动调整子图参数. 这句代码能防止子图过于靠近, 而让文字重叠在一起
+	  plt.show()
+	  ```
+	- ![image.png](../assets/image_1655183999790_0.png)
+- 一次性切出所有的subplot子区域 -> plt.subplots(切出几行, 切出几列)
+  background-color:: #264c9b
+  collapsed:: true
+	- ```python
+	  import numpy as np
+	  import matplotlib.pyplot as plt
+	  
+	  '''
+	  plt.subplots() 函数, 注意是复数s形式的, 能直接创建一个包含子图区域的画布, 它返回两个值(打包在一个tuple中): 一个是 figure对象, 另一个是 所有切割出来的axis对象. 即:
+	  obj_fig, 二维list_ax = plt.subplots(行数,列数) # 把画布分隔成几行几列的区域.
+	  即, 所有的 ax, 都存在了 二维数组中. 你要取哪一个ax, 就用 ax[行index][列index]的形式.
+	  '''
+	  
+	  fig, list2D_ax = plt.subplots(2, 2)  # 把画布切割成2行2列, 共4块子区域.
+	  ax1 = list2D_ax[0][0]  # 第一个子区域, 在 行index=0, 列index=0处
+	  ax1.set_title('ax1 name')  # 给子区域的图画上添上标题名
+	  
+	  ax2 = list2D_ax[0][1]  # 第2个子区域, 在 行index=0, 列index=1处
+	  ax2.set_title('ax2 name')
+	  
+	  ax3 = list2D_ax[1][0]  # 第3个子区域
+	  ax3.set_title('ax3 name')
+	  
+	  ax4 = list2D_ax[1][1]  # 第4个子区域
+	  ax4.set_title('ax4 name')
+	  
+	  plt.tight_layout()  # 自动调整子图参数. 这句代码能防止子图过于靠近, 而令文字重叠在一起
+	  plt.show()
+	  ```
+	- ![image.png](../assets/image_1655184806905_0.png)
+- 3维空间画图的透视角度 -> ax.view_init(elev=0, azim=0)  # elevation 仰角, azimuth 方位角
+  background-color:: #264c9b
+  collapsed:: true
+	- ```python
+	  from matplotlib import pyplot as plt
+	  from mpl_toolkits.mplot3d.axes3d import Axes3D  # 要画3d图, 先导入此模块
+	  
+	  fig = plt.figure()  # 创建一个3d画布
+	  
+	  ax = Axes3D(fig, auto_add_to_figure=False)  # 将画布变为3维的
+	  fig.add_axes(ax)  # 这句代码一定要跟上一句一起写!
+	  
+	  plt.gca().set_box_aspect((1, 1, 1))  # 设置x,y,z轴等比例显示
+	  
+	  
+	  # 函数区-------------------------
+	  
+	  def fn_创建3d向量(list_n个向量的起点x坐标, list_n个向量的起点y坐标, list_n个向量的起点z坐标, list_n个向量的终点x坐标, list_n个向量的终点y坐标, list_n个向量的终点z坐标,
+	                list_xyzLim3d=None):
+	      ax.quiver(list_n个向量的起点x坐标, list_n个向量的起点y坐标, list_n个向量的起点z坐标, list_n个向量的终点x坐标, list_n个向量的终点y坐标, list_n个向量的终点z坐标)
+	  
+	      ax.set_xlabel('X')
+	      ax.set_ylabel('Y')
+	      ax.set_zlabel('Z')
+	  
+	      # 设置轴范围的时候用set_xlim3d，而非set_xlim。
+	      if list_xyzLim3d == None:
+	          ax.set_xlim3d(-100, 100)
+	          ax.set_ylim3d(-100, 100)
+	          ax.set_zlim3d(-100, 100)
+	      else:
+	          ax.set_xlim3d(list_xyzLim3d[0], list_xyzLim3d[1])
+	          ax.set_ylim3d(list_xyzLim3d[2], list_xyzLim3d[3])
+	          ax.set_zlim3d(list_xyzLim3d[4], list_xyzLim3d[5])
+	  
+	      # ax.grid()
+	  
+	  
+	  # 代码区-------------------------
+	  
+	  
+	  fn_创建3d向量([0, 5, 2], [0, 3, 4], [0, 7, 8], [5, 7, -8], [3, 9, 6], [7, -3, -3])
+	  
+	  # 当前的坐标系子区域为 ax, 你可以在 ax区域上画图
+	  ax.plot([2, 3, 5], [5, 2, 1])
+	  
+	  # 设置图像的观察角度 (即眼睛看到的3维空间的透视角度)
+	  ax.view_init(elev=0, azim=0)  # elevation 仰角, azimuth 方位角
+	  
+	  plt.show()
+	  
+	  ```
+	- 当  ax.view_init(elev=0, azim=0)  # elevation 仰角, azimuth 方位角
+	  collapsed:: true
+		- ![image.png](../assets/image_1655191863731_0.png)
+	- elev=20 仰角设为20°时
+	  collapsed:: true
+		- ![image.png](../assets/image_1655191952714_0.png)
+		-
+	- azim=45 方位角45°时, (仰角=0时)
+	  collapsed:: true
+		- ![image.png](../assets/image_1655192033590_0.png)
+	- elev=20, azim=90  仰角20°, 方位角90°时
+	  collapsed:: true
+		- ![image.png](../assets/image_1655192110110_0.png)
+		-
+	-
+- 3维空间, 让它动画起来 -> anim = FuncAnimation(fig, func=fn_update, frames=360, interval=100)
+  collapsed:: true
+	- ```python
+	  from matplotlib import pyplot as plt
+	  from mpl_toolkits.mplot3d.axes3d import Axes3D  # 要画3d图, 先导入此模块
+	  from matplotlib.animation import FuncAnimation  # FuncAnimation 通过周期性地调用函数func来制作动画
+	  
+	  fig = plt.figure()  # 创建一个3d画布
+	  
+	  ax = Axes3D(fig, auto_add_to_figure=False)  # 将画布变为3维的
+	  fig.add_axes(ax)  # 这句代码一定要跟上一句一起写!
+	  
+	  plt.gca().set_box_aspect((1, 1, 1))  # 设置x,y,z轴等比例显示
+	  
+	  
+	  # 函数区-------------------------
+	  
+	  def fn_创建3d向量(list_n个向量的起点x坐标, list_n个向量的起点y坐标, list_n个向量的起点z坐标, list_n个向量的终点x坐标, list_n个向量的终点y坐标, list_n个向量的终点z坐标,
+	                list_xyzLim3d=None):
+	      ax.quiver(list_n个向量的起点x坐标, list_n个向量的起点y坐标, list_n个向量的起点z坐标, list_n个向量的终点x坐标, list_n个向量的终点y坐标, list_n个向量的终点z坐标)
+	  
+	      ax.set_xlabel('X')
+	      ax.set_ylabel('Y')
+	      ax.set_zlabel('Z')
+	  
+	      # 设置轴范围的时候用set_xlim3d，而非set_xlim。
+	      if list_xyzLim3d == None:
+	          ax.set_xlim3d(-100, 100)
+	          ax.set_ylim3d(-100, 100)
+	          ax.set_zlim3d(-100, 100)
+	      else:
+	          ax.set_xlim3d(list_xyzLim3d[0], list_xyzLim3d[1])
+	          ax.set_ylim3d(list_xyzLim3d[2], list_xyzLim3d[3])
+	          ax.set_zlim3d(list_xyzLim3d[4], list_xyzLim3d[5])
+	  
+	      # ax.grid()
+	  
+	  
+	  # 代码区-------------------------
+	  
+	  
+	  fn_创建3d向量([0, 5, 2], [0, 3, 4], [0, 7, 8], [5, 7, -8], [3, 9, 6], [7, -3, -3], [-10, 15, -10, 15, -10, 15])
+	  
+	  # 当前的坐标系子区域为 ax, 你可以在 ax区域上画图
+	  ax.plot([2, 3, 5], [5, 2, 1])
+	  
+	  
+	  def fn_update(frame):
+	      # 设置图像的观察角度 (即眼睛看到的3维空间的透视角度)
+	      ax.view_init(elev=20, azim=frame)  # elevation 仰角, azimuth 方位角
+	  
+	  
+	  # 开始动画
+	  anim = FuncAnimation(fig, func=fn_update, frames=360, interval=100)
+	  '''
+	  fig: 为你对哪个画布上的图画,执行动画, 指定画布名称
+	  func : 指定你要不断更新哪个函数, 以让它来实现动画效果. 我们会让它指向你自定义的fn_update(frame)函数.
+	  frames :一次动画循环, 包含的帧数. 该 帧数值, 会传递给你自定义的fn_update(frame)函数.
+	  interval : 每一帧的运行时间，以ms计
+	  '''
+	  
+	  anim.save('move1.gif', writer='ffmpeg', fps=10) # 但存储出来的gif图容量太大
+	  plt.show()
+	  
+	  ```
+- 保存图片 -> plt.savefig(保存路径)
+  background-color:: #264c9b
+  collapsed:: true
+	- pyplot.savefig(保存路径, 
+	  dpi=None,  输出图像的分辨率
+	  quality=95, 仅对'jpg'或'jpeg'文件生效。
+	  facecolor='w', 
+	  edgecolor='w', 
+	  format=None, 输出格式。字符串，支持的格式为eps, jpeg, jpg, pdf, pgf, png, ps, raw, rgba, svg, svgz, tif, tiff。默认值为None。
+	  transparent=False)
+	- ```python
+	  import numpy as np
+	  import matplotlib.pyplot as plt
+	  
+	  '''
+	  plt.subplots() 函数, 注意是复数s形式的, 能直接创建一个包含子图区域的画布, 它返回两个值(打包在一个tuple中): 一个是 figure对象, 另一个是 所有切割出来的axis对象. 即:
+	  obj_fig, 二维list_ax = plt.subplots(行数,列数) # 把画布分隔成几行几列的区域.
+	  即, 所有的 ax, 都存在了 二维数组中. 你要取哪一个ax, 就用 ax[行index][列index]的形式.
+	  '''
+	  
+	  fig, list2D_ax = plt.subplots(2, 2)  # 把画布切割成2行2列, 共4块子区域.
+	  ax1 = list2D_ax[0][0]  # 第一个子区域, 在 行index=0, 列index=0处
+	  ax1.set_title('ax1 name')  # 给子区域的图画上添上标题名
+	  
+	  # 注意: 保存文件的代码, 必须写在plt.show()之前! 否则保存出的图片, 会是空白.
+	  plt.savefig('img.png')  # 保存到与本py文件相同的目录下.
+	  plt.show()
+	  ```
+- ---
 - 向量箭头的画法
   background-color:: #264c9b
 	- 二维平面的向量 -> 只画一个向量 -> ax.quiver(起点的x坐标,起点的y坐标, 终点的x坐标, 终点的y坐标)
