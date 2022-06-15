@@ -1,0 +1,112 @@
+
+:toc:
+:toclevels: 3
+:sectnums:
+
+---
+
+== 基础预备
+
+f:D -> 实数域R  +
+表示从D 到 R 的映射.
+
+f(X自变量) = y因变量. +
+- f: 是函数规则 +
+- f(x) : 就是某个特定的具体的函数值了, 即 y值.
+
+
+==== [x] <- 表示不超过 x 的最大整数. 如:
+
+- [3.1] = 3
+- [5] = 5 <- 后面的5 没有超过前面的5, 它们是相等关系
+- [0] = 0
+- [-1.6] = -2
+
+---
+
+==== 存在 ∃, 任意 ∀
+
+∀ (Arbitrary, Any) +
+∃ (Exist)
+
+---
+
+==== 反函数
+
+- "原函数f", 是从定义域x 向 值域y 映射. 即, 输入x值, 输出y值. +
+- 而"反函数stem:[ f^{-1}]", 是倒过来, 从值域y, 向 定义域x 映射. **即, 输入y值, 输出x值. 相当于时间倒流, 把原函数的功能倒过来.** 很像线性代数中的"逆矩阵"变换功能.
+
+f 和 stem:[ f^{-1}] 的图像, 关于 y=x 轴对称
+
+image:img/001.webp[]
+
+---
+
+==== 两个函数的运算
+
+\begin{align}
+(f \pm g)(x) &= f(x) \pm f(g) \\
+(f \cdot g)(x) &= f(x) \cdot g(x) \\
+\frac{f}{g} (x) &= \frac{f(x)} { g(x)} , \quad g(x) \ne 0
+\end{align}
+
+---
+
+==== 初等函数
+
+[options="autowidth"]
+|===
+|Header 1 |例如
+
+|stem:[ y = x^a] +
+power function. 幂函数
+|\begin{align}
+y &= x^2 \\
+y &= x^{-1} = \frac{1}{x}, 此时 x \ne 0
+\end{align}
+
+|stem:[y=a^x ] (a>0 且 a≠1) +
+exponential function 指数函数
+|自变量 x 在指数上. 如: +
+\begin{align}
+y = 2^x
+\end{align}
+
+|stem:[y= \log_ax \quad(a>0 and a≠1)] +
+Logarithmic Function 对数函数
+|\begin{align}
+\log_{10} Y &= \lg Y => X <- 即从底数a和幂Y, 来倒推出原底数X. 即原式为: 10^X = Y\\
+\log_e Y &= \ln Y => X <- 即原式为: e^X = Y \\
+\end{align}
+
+意思就是: 如果有 stem:[ a^X = Y], 则有 stem:[ X = \log_aY ] +
+-> a是底数 +
+-> X是指数 +
+-> Y是幂（power）: 是指数运算的结果 +
+
+|三角函数
+|
+|===
+
+---
+
+== 极限
+
+"极限"的定义是: 对于一个数列 x, 假设它的数值不断缩小, 趋近于某个极限a.  在数轴上, 如果存在一个任意小的数ξ, 则随着数列x里的item项的增加, 一定会有一个item, 即stem:[x_n], 它与极限a 的距离, 一定会小于 ξ与极限a 的距离.   +
+换言之, 无论ξ离极限a 的距离有多近, 数列 x 一定会有 第item 项 能比 ξ与a 的关系更密切! 更接近a.
+
+image:img/002.svg[]
+
+
+
+
+
+
+
+
+
+
+
+
+
+

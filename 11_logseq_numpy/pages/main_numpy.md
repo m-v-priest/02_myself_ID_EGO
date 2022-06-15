@@ -33,6 +33,31 @@ title:: main_numpy
 	  from fractions import Fraction
 	  np.set_printoptions(formatter={'all':lambda x: str(Fraction(x).limit_denominator())})
 	  ```
+	- 又如:
+	- ```python
+	  from fractions import Fraction # 要让numpy输出分数形式, 要载入该模块. Fraction类具有一个内置方法limit_denominator(), 能将小数, 转换为分数显示
+	  import numpy as np
+	  import matplotlib.pyplot as plt
+	  
+	  # 设置矩阵元素输出用分数表示
+	  np.set_printoptions(formatter={'all':lambda x: str(Fraction(x).limit_denominator())})
+	  '''
+	  set_printoptions() ——控制输出方式
+	  formatter ——通用格式化输出
+	  Fraction(x).limit_denominator(y) ——返回一个分母不大于y且最接近x的分数
+	  '''
+	  
+	  a = np.array([[0,1],[0,0]])# <- 这是按行向量来写的矩阵, 第一个list代表第一行, 第二个list代表第二行
+	  e_value, e_vec = np.linalg.eig(a) # 该方法获取矩阵的特征值, 和特征向量
+	  print(e_value) # 特征值 -> [0 0] 说明有两个特征向量, 都是0
+	  print(e_vec) # 特征向量, 要竖着看, 终点是 (1,0) 和(-1,0). 它们共线, 其实就只有一根特征向量
+	  '''
+	  [[1 -1]
+	   [0 0]]
+	   '''
+	  ```
+	- 特征向量其实只有一个, 因为他们是共线的.
+	- ![image.png](../assets/image_1655255911267_0.png)
 -
 - ---
 - 轴
@@ -1430,6 +1455,12 @@ title:: main_numpy
 			- 特征向量 x, 和 特征值λ, 满足这个式子: $A \vec{x} = λ \vec{x}$ . 就称λ 是矩阵A 的 "特征值".
 			- np.linalg.eig(某矩阵)  : Compute the eigenvalues and right eigenvectors of a square array.
 			- 官方文档: https://numpy.org/doc/stable/reference/generated/numpy.linalg.eig.html
+			- 该函数的返回值有两个: 分别为w和v。
+			- w: 代表特征值
+			  返回值w是一个一维的array，w的长度和方阵的维度是相同的，对于一个m x m的方阵，其特征值的个数也为m，另外**注意特征值不一定是有序排列。**
+			- v: 代表特征向量
+			  返回值v是一个array类型的数据，其维度和方阵的维度是相同的，对于一个m x m的方阵，v的维度也为m x m，v中包含m个特征向量，每个特征向量的长度为m.
+			- **v[:,i]对应特征值为w[i]的特征向量，**特征向量是进行单位化（除以所有元素的平方和的开方）的形式。
 			- ```python
 			  import numpy as np
 			  

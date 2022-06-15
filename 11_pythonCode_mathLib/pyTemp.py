@@ -1,28 +1,17 @@
+from fractions import Fraction # 要让numpy输出分数形式, 要载入该模块. Fraction类具有一个内置方法limit_denominator(), 能将小数, 转换为分数显示
 import numpy as np
 import matplotlib.pyplot as plt
-from matplotlib.animation import FuncAnimation
 
-fig = plt.figure()  # 创建figure对象
-ax = fig.gca(projection='polar')  # 极坐标系
-ax.set_axis_off()  # 取消坐标轴的显示
-ln, = ax.plot([], [])
+# 设置矩阵元素输出用分数表示
+np.set_printoptions(formatter={'all':lambda x: str(Fraction(x).limit_denominator())})
+'''
+set_printoptions() ——控制输出方式
+formatter ——通用格式化输出
+Fraction(x).limit_denominator(y) ——返回一个分母不大于y且最接近x的分数
+'''
 
-# 图像初始化
-def init():
-    ax.set_xlim(0, 2*np.pi)       # 设定x值范围
-    ax.set_ylim(-1, 1)            # 设定y值范围
-    xdata = [1,2,3,4]
-    ydata = [0, 0, 0, 0]
-    ln.set_data(xdata, ydata)
-    return ln,
+a = np.array([[3,2,4],[2,0,2],[4,2,3]])
+e_value, e_vec = np.linalg.eig(a) # 该方法获取矩阵的特征值, 和特征向量
+print(e_value)
+print(e_vec)
 
-# 图像更新
-def update(frame):
-    xdata = [1*frame, 2*frame, 3*frame, 4*frame]
-    ydata = [0,0,0,0]
-    ln.set_data(xdata, ydata)
-    return ln,
-
-ani = FuncAnimation(fig, update, frames=np.linspace(0, 2*np.pi, 128),
-                    init_func=init, blit=True, interval=1)
-plt.show()
