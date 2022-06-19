@@ -1,0 +1,12 @@
+
+:toc:
+:toclevels: 3
+:sectnums:
+
+---
+
+== 求极限
+
+要在CAS Calculator 中 输入： Limit(函数, x趋向的值)
+
+image:img_geogebra/094.png[]

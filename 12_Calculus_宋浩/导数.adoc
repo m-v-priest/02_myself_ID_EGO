@@ -1,0 +1,47 @@
+
+:toc:
+:toclevels: 3
+:sectnums:
+
+---
+
+== 导数 Derivative /dɪˈrɪvətɪv/ stem:[f'(x_0) = \lim_{Δx \to 0} \frac{Δy} {Δx}]
+
+```
+derivative /dɪˈrɪvətɪv/
+n. a word or thing that has been developed or produced from another word or thing 派生词； 衍生字 ；派生物；衍生物
+• ‘Happiness’ is a derivative of ‘happy’. happiness是happy的派生词。
+•Crack is a highly potent and addictive derivative of cocaine. 强效纯可卡因是一种药效极强、容易使人上瘾的可卡因制剂。
+```
+
+导数, 就是一个"极限值", 比如, y 在 点 stem:[x_0]处的导数, 就是 \begin{align*}
+& f'(x_0) = \lim_{Δx \to 0} \frac{Δy} {Δx}
+\end{align*}
+
+image:img/037.gif[]
+
+stem:[x_0]点处的导数, 其实可以有下面4种写法来表示: +
+image:img/038.png[]
+
+
+---
+
+
+
+
+
+
+
+
+
+https://www.bilibili.com/video/BV1Eb411u7Fw?p=17&spm_id_from=pageDriver&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
+
+
+
+
+
+
+
+
+
+
