@@ -1,5 +1,5 @@
 
-:toc:
+:toc: left
 :toclevels: 3
 :sectnums:
 
@@ -352,15 +352,41 @@ image:img/066.png[]
 image:img/067.png[700,700]
 ====
 
-
-
-
-https://www.bilibili.com/video/BV1Eb411u7Fw?p=23&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
-
-21.22
-
 ---
 
+=== ★ 重要的公式: stem:[ a^b = e^{b \cdot \ln a} ] <- 把指数, 化为以e为底的表达式子.
+
+image:img/069.png[800,800]
+
+记忆法: +
+image:img/084.png[200,200]
 
 
+
+.标题
+====
+例如： +
+image:img/070.png[800,800]
+====
+
+
+.标题
+====
+例如： +
+image:img/068.png[]
+
+
+其实本例, 还有另一种做法: +
+
+image:img/071.png[500,500]
+====
+
+
+.标题
+====
+例如： +
+image:img/072.png[750,750]
+====
+
+---
 

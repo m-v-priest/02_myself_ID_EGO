@@ -1,0 +1,84 @@
+
+:toc: left
+:toclevels: 3
+:sectnums:
+
+---
+
+== 隐函数
+
+所谓"隐函数", 是和"显函数"相对而言的.
+
+- 显函数: 能清晰的写成 y= ...x 的形式.
+- 而隐函数: 虽然 x和y之间有关系, 但无法写成清晰的 stem:[ y=f(x)] 的形式.
+
+---
+
+== 对"隐函数"求导
+
+.标题
+====
+例如： +
+image:img/080.png[550,550]
+====
+
+
+.标题
+====
+例如： +
+image:img/081.png[700,700]
+====
+
+
+.标题
+====
+例如： +
+image:img/082.png[250,250]
+====
+
+
+.标题
+====
+例如： +
+image:img/083.png[500,500]
+
+总结: +
+遇到 stem:[ y = u^v] 形式, 就转成 stem:[ = e^{\ln u^v} = e^{v \ln u}] 的形式来做. +
+上面的转成以e为底的式子, 使用的是这个重要公式: stem:[ a^b = e^{b \cdot \ln a} ]
+
+记忆法: +
+image:img/084.png[200,200]
+====
+
+
+.标题
+====
+例如： +
+\begin{align}
+	y=\sqrt[]{\frac{\left( x-1 \right) \left( x-2 \right)}{\text{(}x-3\text{)}\left( x-4 \right)}},\ \text{求}y'
+\end{align}
+
+首先,必须要保证根号内的值 >0, 其次,分母上的值 ≠ 0. +
+即,我们要保证 stem:[(x-1) (x-2) (x-3) (x-4) >0 ]
+
+这是解高次不等式了, 使用"数轴穿根法"来做. 可知: +
+image:img/089.png[] +
+不等式大于0的情况, 只在 x>4, 或 2<x<3, 或 x<1 时发生.
+
+那么 x 就有这三种情况了, 所以我们求 y',也要根据 x 的这三种定义域, 分别来计算y':
+
+① 当 x>4 的情况时: +
+先两边取ln, 再求导 +
+\begin{align}
+& \ln y=\ln \sqrt[]{\frac{\left( x-1 \right) \left( x-2 \right)}{\left( x-3 \right) \left( x-4 \right)}}\\
+&=\ln \left[ \frac{\left( x-1 \right) \left( x-2 \right)}{\left( x-3 \right) \left( x-4 \right)} \right] ^{\frac{1}{2}}\\
+& =\frac{1}{2}\left[ \ln \left( x-1 \right) +\ln \left( x-2 \right) -\ln \left( x-3 \right) -\ln \left( x-4 \right) \right]\\
+\end{align}
+
+然后再求导: +
+
+====
+
+https://www.bilibili.com/video/BV1Eb411u7Fw?p=27&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
+
+21.49
