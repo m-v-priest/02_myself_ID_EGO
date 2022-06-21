@@ -67,18 +67,21 @@ image:img/089.png[] +
 
 那么 x 就有这三种情况了, 所以我们求 y',也要根据 x 的这三种定义域, 分别来计算y':
 
-① 当 x>4 的情况时: +
-先两边取ln, 再求导 +
-\begin{align}
-& \ln y=\ln \sqrt[]{\frac{\left( x-1 \right) \left( x-2 \right)}{\left( x-3 \right) \left( x-4 \right)}}\\
-&=\ln \left[ \frac{\left( x-1 \right) \left( x-2 \right)}{\left( x-3 \right) \left( x-4 \right)} \right] ^{\frac{1}{2}}\\
-& =\frac{1}{2}\left[ \ln \left( x-1 \right) +\ln \left( x-2 \right) -\ln \left( x-3 \right) -\ln \left( x-4 \right) \right]\\
-\end{align}
-
-然后再求导: +
-
+image:img/090.png[500,500]
 ====
 
-https://www.bilibili.com/video/BV1Eb411u7Fw?p=27&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
 
-21.49
+.标题
+====
+例如： +
+image:img/091.png[650,650]
+====
+
+
+.标题
+====
+例如： +
+image:img/092.png[650,650]
+====
+
+
