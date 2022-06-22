@@ -28,9 +28,13 @@ image:img/100.webp[400,400]
 
 image:img/103.png[]
 
-**上图, y的变化量 Δy = 红色的线段(即 stem:[ A Δx]) + 灰色的线段(即 stem:[ ο(ΔX)])**
+**上图**:
 
-灰色线段stem:[ ο(ΔX)], 是比红色线段高阶的无穷小, 即, 它是比无穷小 趋近于0的速度更快. 即, 当 Δx -> 0 时, 灰色线段,比红色线段趋近于0的速度更快. 所以灰色线段这部分, 可以忽略不计. +
+- **y的变化量 Δy = 红色的线段(即 stem:[ A Δx]) + 灰色的线段(即 stem:[ ο(ΔX)])**
+
+- **点p处的导数, 就是点p处切线的斜率, 就 stem:[=\frac{A Δx} {Δx} = A], 所以A 就是点P处的导数, 即 stem:[A= f'(x_0)].**
+
+- 灰色线段stem:[ ο(ΔX)], 是比红色线段高阶的无穷小, 即, 它是比无穷小 趋近于0的速度更快. 即, 当 Δx -> 0 时, 灰色线段,比红色线段趋近于0的速度更快. 所以灰色线段这部分, 可以忽略不计. +
 image:img/104.png[]
 
 这时, **我们将 Δx, 称作自变量的"微分", 记作 dx.** +
@@ -104,10 +108,35 @@ image:img/111.png[650,650]
 ====
 
 
+.标题
+====
+例如： +
+image:img/112.png[450,450]
+====
 
-https://www.bilibili.com/video/BV1Eb411u7Fw?p=30&spm_id_from=pageDriver&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
+---
 
-10.21
+== 微分的几何意义
+
+image:img/113.png[]
+
+---
+
+== 微分在"近似计算"中的运用
+
+- y的变化量的 "精确值"是 stem:[Δy = f(x_0 + Δx) - f(x_0)]
+- y的变化量的 "近似值"是 stem:[dy = f'(x_0) \cdot Δx]
+- 即, dy ≈ Δy, 所以, 变化后的y总长值, 即 stem:[ f(x_0 + Δx) ≈ f(x_0) +dy  =  f(x_0)  + f'(x_0) \cdot Δx]
+
+image:img/114.png[]
+
+
+
+
+https://www.bilibili.com/video/BV1Eb411u7Fw?p=32&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
+
+1.37
+
 
 ---
 
