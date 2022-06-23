@@ -5,7 +5,7 @@
 ---
 
 
-== 微分  Differential  -> stem:[ dy = f'(x) \cdot dx]
+== 微分  Differential  ->  y的变化量的 近似值 stem:[ dy = f'(x) \cdot dx]  <- 别忘了: dx = Δx
 
 image:img/098.png[]
 
@@ -97,7 +97,7 @@ image:img/109.png[750,750]
 
 ---
 
-== 复合函数的微分
+== 复合函数的微分 -> f(g(x))的微分dy = f对g求导 * g对x求导 * dx
 
 image:img/110.png[650,650]
 
@@ -116,13 +116,13 @@ image:img/112.png[450,450]
 
 ---
 
-== 微分的几何意义
+== 微分的几何意义 -> 某x点处的微分dy = 该点处的切线的斜率(即导数) * Δx
 
 image:img/113.png[]
 
 ---
 
-== 微分在"近似计算"中的运用
+== 微分在"近似计算"中的运用 -> 变化后的y总长值, 即 stem:[ f(x_0 + Δx) = f(x_0) + Δy ≈ f(x_0) +dy  =  f(x_0)  + f'(x_0) \cdot Δx]
 
 - y的变化量的 "精确值"是 stem:[Δy = f(x_0 + Δx) - f(x_0)]
 - y的变化量的 "近似值"是 stem:[dy = f'(x_0) \cdot Δx]
@@ -131,14 +131,78 @@ image:img/113.png[]
 image:img/114.png[]
 
 
+.标题
+====
+例如： +
+image:img/115.png[700,700]
+====
 
 
-https://www.bilibili.com/video/BV1Eb411u7Fw?p=32&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
+.标题
+====
+例如： +
+image:img/116.png[]
 
-1.37
+但注意, 使用此方法时, Δx 必须越小越好!
+
+image:img/117.png[]
+====
+
+---
+
+== "可以求出近似值"的公式
+
+=== 当 x -> 0 时,  stem:[ (1+x)^α ≈ 1+ αx]
+
+image:img/118.gif[]
+
+
+.标题
+====
+例如： +
+image:img/123.png[400,400]
+====
+
+
+.标题
+====
+例如： +
+image:img/124.png[400,400]
+====
+
+---
+
+===  当 x -> 0 时,  stem:[ \sin x ≈ x]
+
+image:img/119.png[]
+
+---
+
+
+===  当 x -> 0 时,  stem:[ \tan x ≈ x]
+
+image:img/120.png[]
 
 
 ---
+
+===  当 x -> 0 时,  stem:[ e^x ≈ 1+x]
+
+image:img/121.png[]
+
+
+---
+
+===  当 x -> 0 时,  stem:[ ln(1+x) ≈ x]
+
+image:img/122.png[]
+
+
+上面这些快捷计算公式, 其意义就是: 能帮助我们用(等号右边目的) x 的多项式, 来近似计算(等号左边的)复杂的函数.
+
+
+---
+
 
 
 
