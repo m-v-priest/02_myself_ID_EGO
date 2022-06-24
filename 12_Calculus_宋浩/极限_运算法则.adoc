@@ -5,6 +5,12 @@
 
 ---
 
+== 极限公式
+
+image:img/137.png[]
+
+---
+
 == 若有 stem:[ \lim f(x) = A,  \lim g(x) = B], 则有:
 
 === stem:[ \lim \[f(x) \pm g(x)\] = \lim f(x) \pm \lim g(x) = A \pm B]
