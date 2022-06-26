@@ -192,6 +192,18 @@ image:img/211.png[]
 
 
 
+
+
+---
+
+== 马克劳林公式 Maclaurin's series
+
+泰勒公式, 我们一般在 stem:[x_0=0] 处展开, 就变成麦克劳林公式（Maclaurin's series）, 它是泰勒公式的一种特殊形式。
+
+
+
+
+
 ---
 
 
