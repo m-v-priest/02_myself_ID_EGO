@@ -81,6 +81,17 @@ image:img/221.png[700,700]
 
 image:img/222.png[700,700]
 
+---
+
+=== 三种组合函数 : ①stem:[\frac{d} {dx} (\sin x + x^2) ], ② stem:[\frac{d} {dx}  (sin x \cdot x^2) ], ③ stem:[\frac{d} {dx} (\sin (x^2)) ]
+
+有三种"组合函数"的基本方法, 就是:
+
+1. 函数相加: stem:[\frac{d} {dx} (\sin x + x^2) ]
+
+2. 函数相乘:  stem:[\frac{d} {dx}  (sin x \cdot x^2) ]
+
+3. 函数嵌套(即复合函数): stem:[\frac{d} {dx} (\sin (x^2)) ]
 
 
 
