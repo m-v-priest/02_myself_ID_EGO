@@ -20,3 +20,14 @@ image:img_geogebra/094.png[]
 - 1次导, 就输入  f'
 - 2次导, 就输入  f''
 - 3次导, 就输入  f'''
+
+---
+
+== 用Σ累加
+
+image:img_geogebra/095.png[]
+
+官网文档 +
+https://wiki.geogebra.org/en/Sum_Command
+
+---

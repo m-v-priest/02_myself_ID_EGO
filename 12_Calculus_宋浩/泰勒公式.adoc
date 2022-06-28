@@ -194,18 +194,96 @@ image:img/211.png[]
 
 
 
+
+
+
 ---
 
-== 马克劳林公式 Maclaurin's series
+== 麦克劳林公式 Maclaurin's series -> \begin{align} f\left( x \right) =f\left( 0 \right) +\frac{f'\left( 0 \right)}{1!}x + \frac{f''\left( 0 \right)}{2!}x^2 + \cdots +\frac{f^{\left( n \right)}\left( 0 \right)}{n!}x^n + \frac{f^{\left( n+1 \right)}\left( \theta x \right)}{\text{(}n+1\text{)!}}x^{n+1} \end{align}
+
 
 泰勒公式, 我们一般在 stem:[x_0=0] 处展开, 就变成麦克劳林公式（Maclaurin's series）, 它是泰勒公式的一种特殊形式。
 
+image:img/223.png[]
+
+麦克劳林公式, 比泰勒公式更常用. 即, 我们一般只在 stem:[x_0=0] 处展开泰勒公式.
+
+Maclaurin's series:  +
+image:img/225.jpg[500,500]
+
+image:img/224.gif[700,700]
+
+
+.标题
+====
+例如： +
+image:img/226.png[]
+====
+
+
+.标题
+====
+例如： +
+image:img/231.png[700,700]
+====
+
+
+.标题
+====
+例如： +
+
+
+如果使用"洛必达法则"来做, 就是: +
+
+====
 
 
 
 
 ---
 
+== 在 geogebra 中使用 "泰勒公式展开".
+
+命令是:
+....
+g(x)=TaylorPolynomial(f,7,1)
+....
+
+先自己定义个想要进行泰勒展开的函数 f； +
+第二参数 7， 表示在x=7的位置进行泰勒展开； +
+第三个参数 1，表示该展开为一阶展开. 不过一般都写 n, 即n阶展开
+
+.标题
+====
+先定义一个原函数, stem:[y=e^x],
+
+我们再定义它的"麦克劳林公式", 来拟合它 +
+g(x) = TaylorPolynomial(f, 0, n)
+
+image:img/227.gif[]
+
+
+
+对 y= sin x 函数的拟合 : +
+image:img/228.gif[]
+
+
+对 y= ln(1+x) 函数的拟合 : +
+image:img/229.gif[]
+
+
+对 1/(1+x) 函数的拟合 : +
+image:img/230.gif[]
+====
+
+
+
+
+
+---
+
+
+`
 
 
 
