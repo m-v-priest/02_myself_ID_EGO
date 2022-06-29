@@ -17,6 +17,12 @@ http://www.dstang.com/books_dstang/geogebra_commands.html
 
 ---
 
+== 修改 x y 坐标轴的比例
+
+将光标定位到坐标轴，点击左键的同时按shift，然后移动鼠标, 就可以改变坐标轴比例.
+
+--
+
 
 == 指令的提示 -> shift
 
