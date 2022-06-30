@@ -1,0 +1,84 @@
+
+:toc:
+:toclevels: 3
+:sectnums:
+
+---
+
+== 换元积分法 Integration By Substitution (核心思想就是"凑")
+
+换元积分法（Integration By Substitution）是求积分的一种方法，主要通过引进"中间变量"作变量替换, 来使原式简易，从而来求较复杂的不定积分。它是由链式法则, 和微积分基本定理推导而来的。
+
+\begin{align}
+& \int 1 dx = x+C \\
+& \int 1 du = u+C \\
+& \int 1 d(x^2 -3) = x^2 -3 +C = x^2 +C \\
+& \int 1 d F(u) = F(u) +C \\
+& \int 1 d[F(φ(x))] = F(φ(x)) +C \\
+\end{align}
+
+image:img/268.png[500,500]
+
+image:img/269.png[]
+
+凑, 就是把 d 前面的某一部分, 先求出其原函数, 再拿到 d 的里面(后面)去. 但是到底是拿"哪一部分"呢? 就要靠猜测了. 即最终都要向"积分公式"里面的形式靠齐, 才能作为一个"整体"来应用积分公式.
+
+.标题
+====
+例如： +
+image:img/270.png[]
+====
+
+
+.标题
+====
+例如： +
+image:img/271.png[]
+====
+
+
+.标题
+====
+例如： +
+image:img/272.png[500,500]
+====
+
+
+.标题
+====
+例如： +
+image:img/273.png[700,700]
+====
+
+
+.标题
+====
+例如： +
+image:img/274.png[]
+====
+
+
+.标题
+====
+例如： +
+image:img/275.png[800,800]
+====
+
+
+.标题
+====
+例如： +
+image:img/276.png[700,700]
+====
+
+
+.标题
+====
+例如： +
+
+====
+
+
+https://www.bilibili.com/video/BV1Eb411u7Fw?p=45&spm_id_from=pageDriver&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
+
+28.26

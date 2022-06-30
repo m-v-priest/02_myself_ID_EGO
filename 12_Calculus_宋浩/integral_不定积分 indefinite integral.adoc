@@ -70,6 +70,16 @@ image:img/256.png[]
 |image:img/258.png[700,700]
 |===
 
+所以:
+
+\begin{align}
+& \int 1 dx = x+C \\
+& \int 1 du = u+C \\
+& \int 1 d(x^2 -3) = x^2 -3 +C = x^2 +C \\
+& \int 1 d F(u) = F(u) +C \\
+\end{align}
+
+
 
 |image:img/259.webp[]
 
@@ -201,10 +211,9 @@ image:img/264.png[]
 .标题
 ====
 例如： +
-
+image:img/267.png[700,700]
 ====
 
 
-https://www.bilibili.com/video/BV1Eb411u7Fw?p=44&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
+---
 
-26.10
