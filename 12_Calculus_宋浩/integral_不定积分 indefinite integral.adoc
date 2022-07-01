@@ -59,6 +59,34 @@ image:img/256.png[]
 
 符号 stem:[ \int] 是英文 sum 的 首字母s 变形.
 
+stem:[ \int] 和 Σ 的区别是:
+
+[options="autowidth"]
+|===
+|Header 1 |Header 2
+
+|stem:[ \int]
+|-> 是对"无穷个"连续的"无穷小量"的求和
+
+|stem:[ Σ]
+|-> 通常是对"有限个, 或者离散的量"求和。
+|===
+
+类似的:
+
+[options="autowidth"]
+|===
+|Header 1 |Header 2
+
+|stem:[ dx]
+|-> 表示"无穷小"变量. 有"极限"的概念在里面.
+
+|stem:[ Δ]
+|-> 表示"有限小"的变量.
+|===
+
+
+
 [options="autowidth"]
 |===
 |Header 1 |Header 2

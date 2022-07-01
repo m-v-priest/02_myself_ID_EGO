@@ -1,11 +1,110 @@
 
-:toc:
+:toc: left
 :toclevels: 3
 :sectnums:
 
 ---
 
-== 换元积分法 Integration By Substitution (核心思想就是"凑")
+
+
+=== ★ 别忘了: *dx 这部分的意思, 就是对x做"微分". 同样, "d□", 就是对"□"做微分.*
+
+image:img/290.png[450,450]
+
+微分公式表如下:
+
+image:img/288.gif[]
+
+image:img/289.jpg[400,400]
+
+---
+
+== 能使用"凑微分法"的前提条件:
+
+image:img/291.png[]
+
+
+---
+
+
+== 凑微分法 (即"第一类换元积分法") Integration By Substitution (核心思想就是"凑")
+
+image:img/286.png[700,700]
+
+
+.标题
+====
+例如： +
+image:img/287.png[]
+====
+
+
+.标题
+====
+例如： +
+image:img/292.png[]
+====
+
+
+.标题
+====
+例如： +
+image:img/293.png[]
+====
+
+---
+
+== stem:[\int f(□) g(x) dx ] 这种题型的做法
+
+image:img/294.png[]
+
+
+.标题
+====
+例如： +
+image:img/295.png[]
+====
+
+
+.标题
+====
+例如： +
+image:img/296.png[]
+====
+
+
+.标题
+====
+例如： +
+image:img/297.png[]
+====
+
+
+.标题
+====
+例如： +
+image:img/298.png[700,700]
+====
+
+
+
+.标题
+====
+例如： +
+image:img/299.png[700,700]
+====
+
+
+.标题
+====
+例如： +
+image:img/300.png[]
+====
+
+
+---
+
+== 各种例题: 用"凑微分法", 来求"不定积分"(即原函数)
 
 换元积分法（Integration By Substitution）是求积分的一种方法，主要通过引进"中间变量"作变量替换, 来使原式简易，从而来求较复杂的不定积分。它是由链式法则, 和微积分基本定理推导而来的。
 
@@ -79,6 +178,11 @@ image:img/285.png[]
 ====
 
 
+.标题
+====
+例如： +
+image:img/302.png[800,800]
+====
 
 
 
@@ -86,4 +190,6 @@ image:img/285.png[]
 
 https://www.bilibili.com/video/BV1Eb411u7Fw?p=45&spm_id_from=pageDriver&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
 
-32.35
+34.10
+
+
