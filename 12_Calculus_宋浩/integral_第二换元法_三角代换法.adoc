@@ -1,0 +1,32 @@
+
+:toc: left
+:toclevels: 3
+:sectnums:
+
+---
+
+如, 三角函数中有:
+\begin{align*}
+& sin^2 x + cos^2 x=1 \\
+& 1 + tan^2 x= sec^2 x \\
+& 1 + cot^2 x= csc^2 x \\
+\end{align*}
+
+.标题
+====
+例如： +
+
+image:img/305.png[600,600]
+
+image:img/304.png[]
+====
+
+
+
+
+
+
+
+
+
+

@@ -29,6 +29,12 @@ image:img/291.png[]
 
 == 凑微分法 (即"第一类换元积分法") Integration By Substitution (核心思想就是"凑")
 
+口诀:  +
+一看 : 看哪个部分能作为"整体block", +
+二凑 : 将d后的内容, 强制改成和"整体block"一样, +
+三比较 : 将"原式"和 "修改了d的内容后的值", 相比较, 并做微调, 来维持住"原式"的值不变.
+
+
 image:img/286.png[700,700]
 
 
@@ -186,10 +192,18 @@ image:img/302.png[800,800]
 
 
 
+.标题
+====
+例如： +
+image:img/306.png[600,600]
+====
+
+
+
 
 
 https://www.bilibili.com/video/BV1Eb411u7Fw?p=45&spm_id_from=pageDriver&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
 
-34.10
+38.55
 
 
