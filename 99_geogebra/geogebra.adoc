@@ -1,6 +1,6 @@
 
 = geogebra
-:toc:
+:toc: left
 :toclevels: 3
 :sectnums:
 
@@ -17,11 +17,20 @@ http://www.dstang.com/books_dstang/geogebra_commands.html
 
 ---
 
+== 画图时, #将默认会显示的label标签, 关掉, 让其默认不显示.#
+
+image:img_geogebra/096.png[]
+
+
+
+
+---
+
 == 修改 x y 坐标轴的比例
 
 将光标定位到坐标轴，点击左键的同时按shift，然后移动鼠标, 就可以改变坐标轴比例.
 
---
+---
 
 
 == 指令的提示 -> shift
