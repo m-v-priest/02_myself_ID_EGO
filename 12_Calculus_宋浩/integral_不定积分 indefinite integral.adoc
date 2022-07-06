@@ -112,6 +112,11 @@ stem:[ \int] 和 Σ 的区别是:
 |image:img/259.webp[]
 
 
+---
+
+=== 公式表
+
+image:img/318.webp[]
 
 
 ---
@@ -146,6 +151,10 @@ image:img/255.png[170,170]
 
 ---
 
+=== stem:[\int x dx = \frac{1} {2} x^2 + C]
+
+---
+
 
 === stem:[ \int (e^x) dx = e^x + C]
 
@@ -168,6 +177,25 @@ image:img/255.png[170,170]
 ---
 
 === stem:[ \int (\cos x) dx = \sin x + C]
+
+---
+
+
+=== stem:[ \int (\tan x) dx = -\ln \|cos x\| + C]
+
+
+---
+
+=== stem:[ \int (\cot x) dx = \ln \|sin x\| + C]
+
+---
+
+=== stem:[ \int (\sec x) dx = \ln \|sec x + tan x\| + C]
+
+---
+
+=== stem:[ \int (\csc x) dx = \ln \|csc x - cot x\| + C]
+
 
 ---
 
