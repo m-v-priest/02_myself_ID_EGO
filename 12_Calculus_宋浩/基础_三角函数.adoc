@@ -5,7 +5,7 @@
 
 ---
 
-image:img/320.jpg[350,350]
+image:img/320.jpg[600,600]
 
 - sec是 与角度"相邻近"的左右两条边相比, 斜边在分子上. 即"斜边"比上"邻边".
 - csc是 "斜边"比上"较远处的对边".
@@ -14,9 +14,9 @@ image:img/320.jpg[350,350]
 
 ==== stem:[sin^2 x + cos^2 x = 1]
 
-image:img/323.png[350,350]
+image:img/323.png[600,600]
 
-image:img/324.png[350,350]
+image:img/324.png[600,600]
 
 
 

@@ -8,12 +8,12 @@
 
 == 欧拉公式 Euler's formula -> stem:[e^(ix)= (cos x +i sin x) ],  e是自然对数的底，i是虚数单位。
 
-image:img/348.png[350,350]
+image:img/348.png[600,600]
 
 
 从欧拉公式  stem:[e^(ix)= (cos x +i sin x) ] 可以知道,  stem:[ cos x +i sin x] 这部分, 不就是复数的 stem:[ Z= a+bi] 的形式吗 ! 说明 stem:[ e^(ix)]是个复数.
 
-image:img/349.png[350,350]
+image:img/349.png[600,600]
 
 欧拉公式, 把"复指数函数"与"三角函数"联系起来了. 它将指数函数的定义域, 扩大到复数.
 
@@ -35,7 +35,7 @@ image:img/349.png[350,350]
 == 欧拉公式的用处
 
 
-image:img/350.png[350,350]
+image:img/350.png[600,600]
 
 
 === 用处1: 所有的"三角函数"公式, 都可以用"欧拉公式"来证明
@@ -43,7 +43,7 @@ image:img/350.png[350,350]
 .标题
 ====
 例如： +
-image:img/351.png[350,350]
+image:img/351.png[600,600]
 ====
 
 ---
