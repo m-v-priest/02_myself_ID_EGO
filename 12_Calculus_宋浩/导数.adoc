@@ -18,10 +18,10 @@ n. a word or thing that has been developed or produced from another word or thin
 & f'(x_0) = \lim_{Δx \to 0} \frac{Δy} {Δx}
 \end{align*}
 
-image:img/037.gif[]
+image:img/037.gif[350,350]
 
 stem:[x_0]点处的导数, 其实可以有下面4种写法来表示: +
-image:img/038.png[]
+image:img/038.png[350,350]
 
 
 ---
@@ -33,7 +33,7 @@ image:img/038.png[]
 
 导数, 可以理解为速度的变化率, 即"加速度".  常数, 是一条水平线, 就是说"速度永远保持不变"的, 它自然也就没有"加速度"存在了. 所以导数就=0, 所以常数的导数就=0.
 
-image:img/128.png[]
+image:img/128.png[350,350]
 
 ---
 
@@ -47,7 +47,7 @@ image:img/128.png[]
 & 即: n>1时, (x^n)' = n x^{n-1}
 \end{align}
 
-image:img/039.png[]
+image:img/039.png[350,350]
 
 
 例如:
@@ -106,7 +106,7 @@ image:img/039.png[]
 
 === stem:[  (e^x)' = e^x \ln e = e^x]
 
-image:img/040.png[]
+image:img/040.png[350,350]
 
 ---
 
@@ -132,17 +132,17 @@ image:img/040.png[]
 |写作: stem:[ f_-^' (x_0) = \lim_{h \to 0^-} \frac{f(x_0 +h) - f(x_0)} {h} ]
 
 也可写作: +
-image:img/041.png[]
+image:img/041.png[350,350]
 
 |右导数
 |写作: stem:[ f_+^' (x_0) = \lim_{h \to 0^+} \frac{f(x_0 +h) - f(x_0)} {h} ]
 
 也可写作: +
-image:img/042.png[]
+image:img/042.png[350,350]
 |===
 
 如: stem:[ y = |x|] 在 x=0 点处的导数, 左导数和右导数, 就不一样. +
-image:img/043.png[]
+image:img/043.png[350,350]
 
 **如果某x点处, 它的左右导数不相等, 则改点处"不可导".** +
 换言之, **某点出"可导"的充要条件是 <--> 它的左,右导数均存在, 且相等.**
@@ -154,14 +154,14 @@ image:img/043.png[]
 **可导, 就意味着图像很"光滑". 即图像没有"尖角"存在 (因为尖角处的左右导数不相等). 并且还要满足: 切线不能垂直于x轴.** 如果切线是垂直于x轴的, 它的斜率就会是 +∞ 或 -∞了.
 
 某点处的"导数", 就是该点处"切线的斜率". +
-image:img/044.png[]
+image:img/044.png[350,350]
 
 ---
 
 === 法线 normal line: 和切线垂直的线, 就叫"法线".
 
-image:img/045.jpg[]
-image:img/046.webp[]
+image:img/045.jpg[350,350]
+image:img/046.webp[350,350]
 
 法线与切线垂直, 两者的斜率乘积 = -1. +
 所以, 既然切线的斜率是 stem:[ f'(x_0)], 所以法线的斜率就是 stem:[ -\frac{1} {f'(x_0)}]
@@ -172,7 +172,7 @@ image:img/046.webp[]
 - 法线的方程: stem:[ y- y_0 = -\frac{1} {f'(x_0)} \cdot (x - x_0)]
 
 
-image:img/047.webp[500,500]
+image:img/047.webp[350,350]
 
 ---
 
@@ -181,13 +181,13 @@ image:img/047.webp[500,500]
 === stem:[  (a+b)' = a'+b']
 
 如: +
-image:img/048.png[]
+image:img/048.png[350,350]
 
 ---
 
 === stem:[  (a+b+c)' = a'+b'+c']
 
-image:img/052.png[]
+image:img/052.png[350,350]
 
 
 
@@ -201,10 +201,10 @@ image:img/052.png[]
 === stem:[  (ab)' = a'b + ab']
 
 如: +
-image:img/049.png[]
+image:img/049.png[350,350]
 
 例: +
-image:img/053.png[500,500]
+image:img/053.png[350,350]
 
 
 ---
@@ -217,14 +217,14 @@ image:img/053.png[500,500]
 === C是常数, 则 stem:[(C a)' = C \cdot a' ] <- 直接把常数提出去就行了
 
 如: +
-image:img/050.png[]
+image:img/050.png[350,350]
 
 ---
 
 === stem:[(\frac{a} {b})' = \frac{a'b - ab'} {b^2}]
 
 如: +
-image:img/051.png[600,600]
+image:img/051.png[350,350]
 
 ---
 
@@ -232,7 +232,7 @@ image:img/051.png[600,600]
 
 总结表
 
-image:img/056.png[500,500]
+image:img/056.png[350,350]
 
 
 ---
@@ -247,7 +247,7 @@ image:img/056.png[500,500]
 
 === stem:[ (\tan x)' = \sec^2 x]
 
-image:img/054.png[450,450]
+image:img/054.png[350,350]
 
 ---
 
@@ -257,7 +257,7 @@ image:img/054.png[450,450]
 
 === stem:[ (\sec x)' = \tan x \cdot \sec x]
 
-image:img/055.png[450,450]
+image:img/055.png[350,350]
 
 ---
 
@@ -277,17 +277,17 @@ image:img/055.png[450,450]
 换言之, 就是 关于 y=x 对称的 两条曲线上的镜像点, 它们的斜率之积 = 1.  "函数"与其"反函数"的图像, 就是关于 y=x 对称的. +
 即如下图, 绿线与蓝线, 关于 y=x对称, 它们上面的镜像点 A 和 A' 点, 它们的斜率, 即两条红线的斜率, 相乘 = 1.
 
-image:img/057.png[]
+image:img/057.png[350,350]
 
 ---
 
 === stem:[(\arcsin x)' = \frac{1} {\sqrt{1-x^2}} ]
 
 证明过程: +
-image:img/058.png[450,450]
+image:img/058.png[350,350]
 
 为什么 stem:[ cos y = \sqrt{1 - x^2}] ? 因为: +
-image:img/059.png[]
+image:img/059.png[350,350]
 
 ---
 
@@ -307,89 +307,89 @@ image:img/059.png[]
 
 == 复合函数的求导 (链式法则)
 
-image:img/059.svg[400,400]
+image:img/059.svg[350,350]
 
 又例: +
-image:img/060.png[]
+image:img/060.png[350,350]
 
 .标题
 ====
 例如： +
-image:img/061.png[400,400]
+image:img/061.png[350,350]
 ====
 
 
 更好的方法, 是从外层向内层, 一层层求导进去就行了.
 
-image:img/063.png[]
+image:img/063.png[350,350]
 
 
 .标题
 ====
 例如： +
-image:img/062.png[600,600]
+image:img/062.png[350,350]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/064.png[650,650]
+image:img/064.png[350,350]
 ====
 
 .标题
 ====
 例如： +
-image:img/065.png[600,600]
+image:img/065.png[350,350]
 ====
 
 .标题
 ====
 例如： +
-image:img/066.png[]
+image:img/066.png[350,350]
 ====
 ---
 
 .标题
 ====
 例如： +
-image:img/067.png[700,700]
+image:img/067.png[350,350]
 ====
 
 ---
 
 === ★ 重要的公式: stem:[ a^b = e^{b \cdot \ln a} ] <- 把指数, 化为以e为底的表达式子.
 
-image:img/069.png[800,800]
+image:img/069.png[350,350]
 
 记忆法: +
-image:img/084.png[200,200]
+image:img/084.png[350,350]
 
 
 
 .标题
 ====
 例如： +
-image:img/070.png[800,800]
+image:img/070.png[350,350]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/068.png[]
+image:img/068.png[350,350]
 
 
 其实本例, 还有另一种做法: +
 
-image:img/071.png[500,500]
+image:img/071.png[350,350]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/072.png[750,750]
+image:img/072.png[350,350]
 ====
 
 ---

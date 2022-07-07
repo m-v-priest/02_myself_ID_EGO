@@ -13,7 +13,7 @@
 
 - 驻点 Stationary Point : 是函数的"一阶导数=0"处的x点. 驻点处的切线平行于x轴。驻点不一定是这个函数的极值点.
 
-image:img/238.webp[400,400]
+image:img/238.webp[350,350]
 
 ---
 
@@ -25,7 +25,7 @@ image:img/238.webp[400,400]
 -> 若 stem:[  f(x_0)''  <0 ], 表明一阶导的切线斜率趋势一直在下降(越来越疲软), 则说明 stem:[x_0 ] 是极大值. +
 -> 若 stem:[  f(x_0)''  >0 ], 表明一阶导的切线斜率趋势一直在上降(越来越强劲), 则说明 stem:[x_0 ] 是极大值.
 
-image:img/239.png[]
+image:img/239.png[350,350]
 
 如果 发现 stem:[  f(x_0)'' = 0] 呢? 此时, 就无法判断 stem:[ x_0] 点到底是"极大值"还是"极小值", 只能回到查看该stem:[ x_0]点左右两侧的一阶导数, 是>0 还是<0, 即: 左右两侧的曲线图像是单调增, 还是单调减, 才能来判断该  stem:[ x_0] 点 是极大值, 还是极小值了.
 
@@ -33,9 +33,9 @@ image:img/239.png[]
 .标题
 ====
 例如： +
-image:img/240.png[]
+image:img/240.png[350,350]
 
-image:img/241.png[]
+image:img/241.png[350,350]
 ====
 
 
@@ -50,9 +50,9 @@ image:img/241.png[]
 .标题
 ====
 例如： +
-image:img/232.png[500,500]
+image:img/232.png[350,350]
 
-image:img/233.png[]
+image:img/233.png[350,350]
 ====
 
 
@@ -64,21 +64,21 @@ image:img/233.png[]
 .标题
 ====
 例如：  +
-image:img/234.png[600,600]
+image:img/234.png[350,350]
 
 其实"驻点处"(那一个点处)的函数图像, 属于"增函数"还是"减函数"部分, 随你来定. 比如, 本例, 我们就可以写成: +
 当 1 ≤ x ≤ 2 时, 函数为"单调减".
 
-image:img/235.png[]
+image:img/235.png[350,350]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/236.png[]
+image:img/236.png[350,350]
 
-image:img/237.png[]
+image:img/237.png[350,350]
 ====
 
 
@@ -122,11 +122,11 @@ image:img/237.png[]
 - 垂直渐近线
 - 斜渐近线 Oblique Asymptote
 
-|image:img/243.webp[]
+|image:img/243.webp[350,350]
 
-image:img/244.jpg[400,400]
+image:img/244.jpg[350,350]
 
-image:img/245.jpg[]
+image:img/245.jpg[350,350]
 
 - 斜渐近线 Oblique Asymptote : 若当x趋向于无穷时，函数 stem:[ y=f(x)] 无限接近一条固定直线 stem:[ y=Ax+B]（函数y=f(x)与直线y=Ax+B的垂直距离PN无限小，且 stem:[ \lim PN=0]），当然也即 stem:[ PM=f(x)-(Ax+B)] 的极限为零，则称y=Ax+B为函数y=f(x)的斜渐近线。
 
@@ -142,7 +142,7 @@ image:img/245.jpg[]
 ====
 例如：
 
-image:img/242.png[]
+image:img/242.png[350,350]
 
 4.再找渐近线, 本例的函数为: +
 x-> -∞ 时, y-> -∞ +
@@ -153,7 +153,7 @@ x-> +∞ 时, y-> +∞ +
 
 7.就能画图了.
 
-image:img/246.png[]
+image:img/246.png[350,350]
 
 ====
 
@@ -162,22 +162,22 @@ image:img/246.png[]
 .标题
 ====
 例如： +
-image:img/248.png[]
+image:img/248.png[350,350]
 
-image:img/247.png[]
+image:img/247.png[350,350]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/250.png[700,700]
+image:img/250.png[350,350]
 
-image:img/249.png[]
+image:img/249.png[350,350]
 
-image:img/251.png[]
+image:img/251.png[350,350]
 
-image:img/252.png[]
+image:img/252.png[350,350]
 ====
 
 

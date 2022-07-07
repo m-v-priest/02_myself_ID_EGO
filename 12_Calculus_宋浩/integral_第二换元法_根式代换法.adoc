@@ -12,14 +12,14 @@
 .标题
 ====
 例如： +
-image:img/301.png[800,800]
+image:img/301.png[350,350]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/303.png[800,800]
+image:img/303.png[350,350]
 ====
 
 
@@ -42,17 +42,17 @@ image:img/303.png[800,800]
 |是把d里面的东西, 朝外拿,  +
 即: 对于dx,  将 stem:[x=φ(t)] 朝外拿, 这个过程相当于对 φ(t) 求导. 即变成 stem:[φ'(t)dt] ← 这个其实就是做微分. 这不也是第一换元法这个"凑微分法"的过程之一么?
 
-image:img/315.png[]
+image:img/315.png[350,350]
 |===
 
 
-image:img/316.png[]
+image:img/316.png[350,350]
 
 
 .标题
 ====
 例如： +
-image:img/322.png[]
+image:img/322.png[350,350]
 ====
 
 ---
@@ -63,7 +63,7 @@ image:img/322.png[]
 .标题
 ====
 例如： +
-image:img/317.png[]
+image:img/317.png[350,350]
 ====
 
 ---
@@ -74,7 +74,7 @@ image:img/317.png[]
 .标题
 ====
 例如： +
-image:img/319.png[]
+image:img/319.png[350,350]
 ====
 
 ---
@@ -85,7 +85,7 @@ image:img/319.png[]
 .标题
 ====
 例如： +
-image:img/321.png[]
+image:img/321.png[350,350]
 ====
 
 

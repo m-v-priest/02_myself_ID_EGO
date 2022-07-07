@@ -7,7 +7,7 @@
 
 == 复数 complex number  -> z=a+bi
 
-image:img/325.png[]
+image:img/325.png[350,350]
 
 ---
 
@@ -24,7 +24,7 @@ image:img/325.png[]
 .标题
 ====
 例如： +
-image:img/334.png[500,500]
+image:img/334.png[350,350]
 ====
 
 
@@ -34,7 +34,7 @@ image:img/334.png[500,500]
 
 两个不同"复数"间, 是可以比大小的. 怎么比较呢? 就是看它们与"原点"间的距离(即"线性代数"中的"模长"的概念).
 
-image:img/326.png[]
+image:img/326.png[350,350]
 
 
 即: 和"线性代数"中的"向量"相似,  复数 stem:[Z=a+bi] 的模长 stem:[|Z|= \sqrt{a^2 + b^2} ]
@@ -44,7 +44,7 @@ image:img/326.png[]
 .标题
 ====
 例如： +
-image:img/327.png[650,650]
+image:img/327.png[350,350]
 ====
 
 ---
@@ -56,12 +56,12 @@ image:img/327.png[650,650]
 .标题
 ====
 例如： +
-image:img/328.png[400,400]
+image:img/328.png[350,350]
 ====
 
 "复数"的加减法, 和"向量"的加减法一模一样, 符合平行四边形法则:
 
-image:img/329.webp[500,500]
+image:img/329.webp[350,350]
 
 ---
 
@@ -72,7 +72,7 @@ image:img/329.webp[500,500]
 .标题
 ====
 例如： +
-image:img/330.png[300,300]
+image:img/330.png[350,350]
 ====
 
 ---
@@ -86,28 +86,28 @@ image:img/330.png[300,300]
 .标题
 ====
 例如： +
-image:img/331.png[800,800]
+image:img/331.png[350,350]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/332.png[600,600]
+image:img/332.png[350,350]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/333.png[200,200]
+image:img/333.png[350,350]
 ====
 
 ---
 
 == 复数的 三角函数表示 ->  复数 stem:[ Z= r(cos θ + i sin θ)] , r是模长, θ是幅角主值.
 
-image:img/335.png[]
+image:img/335.png[350,350]
 
 如上图(是个复平面):
 
@@ -122,32 +122,32 @@ image:img/335.png[]
 |在复平面上，复数所对应的向量, 与x轴正方向的夹角, 称为复数的"辐角". 显然一个复数的辐角有无穷多个，它们相差 2π 的整数倍. 但是在区间（0，2π] 内的只有一个，这个辐角就是该向量的"辐角主值"，也称"主辐角 principal argument angle"，记为argZ.
 |===
 
-image:img/336.png[]
+image:img/336.png[350,350]
 
 
 .标题
 ====
 例如： +
-image:img/337.png[500,500]
+image:img/337.png[350,350]
 
-image:img/338.png[]
+image:img/338.png[350,350]
 ====
 
 .标题
 ====
 例如： +
-image:img/339.png[600,600]
+image:img/339.png[350,350]
 
-image:img/340.png[]
+image:img/340.png[350,350]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/341.png[]
+image:img/341.png[350,350]
 
-image:img/342.png[600,600]
+image:img/342.png[350,350]
 ====
 
 
@@ -155,9 +155,9 @@ image:img/342.png[600,600]
 .标题
 ====
 例如： +
-image:img/343.png[800,800]
+image:img/343.png[350,350]
 
-image:img/344.png[600,600]
+image:img/344.png[350,350]
 ====
 
 ---
@@ -166,7 +166,7 @@ image:img/344.png[600,600]
 
 === 两个复数"相乘"的结果 :  stem:[ Z_1 Z_2 = r_1 r_2 \[ cos(θ_1 + θ_2) + i sin(θ_1 + θ_2) \]]
 
-image:img/345.png[]
+image:img/345.png[350,350]
 
 即: 两个复数α, β 相乘的结果, 是个新复数 γ.  而 γ依然可以用"三角表示": +
 -> γ的 模长r, 就等于α和β的模长的"乘积". 即: stem:[ r_γ = r_α r_β] +
@@ -177,7 +177,7 @@ image:img/345.png[]
 === 两个复数"相除"的结果 :  stem:[ \frac{Z_1} {Z_2}  = \frac{r_1} {r_2}   \[ cos(θ_1 - θ_2) + i sin(θ_1 - θ_2) \]]
 
 
-image:img/346.png[450,450]
+image:img/346.png[350,350]
 
 
 即: 两个复数α, β "相除"的结果, 是个新复数 γ.  而 γ依然可以用"三角表示": +
@@ -187,7 +187,7 @@ image:img/346.png[450,450]
 .标题
 ====
 例如： +
-image:img/347.png[800,800]
+image:img/347.png[350,350]
 ====
 
 ---

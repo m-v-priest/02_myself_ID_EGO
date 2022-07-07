@@ -1,4 +1,4 @@
-
+= 不定积分
 :toc: left
 :toclevels: 3
 :sectnums:
@@ -45,7 +45,7 @@ adj.
 \end{align}
 
 
-image:img/256.png[]
+image:img/256.png[350,350]
 
 
 原函数什么时候会存在呢? -> 连续(即能一笔画)的导函数, 一定有"原函数".
@@ -92,10 +92,10 @@ stem:[ \int] 和 Σ 的区别是:
 |Header 1 |Header 2
 
 |Column 1, row 1
-|image:img/257.png[700,700]
+|image:img/257.png[350,350]
 
 |
-|image:img/258.png[700,700]
+|image:img/258.png[350,350]
 |===
 
 所以:
@@ -109,14 +109,14 @@ stem:[ \int] 和 Σ 的区别是:
 
 
 
-|image:img/259.webp[]
+|image:img/259.webp[350,350]
 
 
 ---
 
 === 公式表
 
-image:img/318.webp[]
+image:img/318.webp[350,350]
 
 
 ---
@@ -135,14 +135,14 @@ image:img/318.webp[]
 .标题
 ====
 例如： +
-image:img/254.png[170,170]
+image:img/254.png[150,150]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/255.png[170,170]
+image:img/255.png[150,150]
 ====
 
 ---
@@ -239,35 +239,35 @@ image:img/260.png[350,350]
 .标题
 ====
 例如： +
-image:img/261.png[]
+image:img/261.png[350,350]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/262.png[500,500]
+image:img/262.png[350,350]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/263.png[700,700]
+image:img/263.png[350,350]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/264.png[]
+image:img/264.png[350,350]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/267.png[700,700]
+image:img/267.png[350,350]
 ====
 
 

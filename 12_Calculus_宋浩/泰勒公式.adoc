@@ -7,137 +7,137 @@
 
 == 泰勒函数的思想: 用多项式, 来逼近某函数
 
-image:img/156.png[]
+image:img/156.png[350,350]
 
 每项的系数的不同, 就能拟合不同的曲线:
 
-image:img/157.png[]
+image:img/157.png[350,350]
 
-image:img/158.png[]
+image:img/158.png[350,350]
 
-image:img/159.png[]
+image:img/159.png[350,350]
 
-image:img/160.png[500,500]
+image:img/160.png[350,350]
 
-image:img/161.png[]
+image:img/161.png[350,350]
 
-image:img/162.png[]
+image:img/162.png[350,350]
 
-image:img/163.png[]
+image:img/163.png[350,350]
 
-image:img/164.png[]
+image:img/164.png[350,350]
 
-image:img/165.png[]
+image:img/165.png[350,350]
 
-image:img/166.png[]
+image:img/166.png[350,350]
 
 ---
 
 === 多项式部分
 
-image:img/167.png[]
+image:img/167.png[350,350]
 
 多项式, 用于逼近"光滑的函数曲线". 项数越多, 多项式越靠近光滑函数.
 
-image:img/168.gif[]
+image:img/168.gif[350,350]
 
-image:img/169.png[]
+image:img/169.png[350,350]
 
 参数a, 代表了泰勒公式的展开位置.
 
-image:img/170.png[]
+image:img/170.png[350,350]
 
-image:img/171.png[]
+image:img/171.png[350,350]
 
-image:img/172.png[]
+image:img/172.png[350,350]
 
-image:img/173.png[]
+image:img/173.png[350,350]
 
 本处, 我们以0点展开为例, 讲解多项式是如何逼近光滑函数的.
 
-image:img/174.png[]
+image:img/174.png[350,350]
 
 忽略系数后, 可以看到, 多项式最基础的部分, 就是幂函数:
 
-image:img/175.png[]
+image:img/175.png[350,350]
 
 幂函数分为两种, 一种是"偶函数", 图像的开口方向相同:
 
-image:img/176.png[]
+image:img/176.png[350,350]
 
 另一种, 为"奇函数", 图像的开口方向相反:
 
-image:img/177.png[]
+image:img/177.png[350,350]
 
-image:img/178.png[]
+image:img/178.png[350,350]
 
-image:img/179.png[]
+image:img/179.png[350,350]
 
 比如下图, 我们要逼近蓝色曲线. 多项式的第一项, 我们取x的1次方, 此时, 它能拟合蓝色曲线在原点处的一小部分:
 
-image:img/180.png[]
+image:img/180.png[350,350]
 
-image:img/181.png[]
+image:img/181.png[350,350]
 
-image:img/182.png[]
+image:img/182.png[350,350]
 
-image:img/183.png[]
+image:img/183.png[350,350]
 
-image:img/184.png[]
+image:img/184.png[350,350]
 
-image:img/185.png[]
+image:img/185.png[350,350]
 
 相加后, 多项式变为了 stem:[ x - x^3]
 
-image:img/186.png[]
+image:img/186.png[350,350]
 
-image:img/187.png[]
+image:img/187.png[350,350]
 
-image:img/188.png[]
+image:img/188.png[350,350]
 
 可以给 stem:[ -x^3] 一个系数
 
-image:img/189.gif[]
+image:img/189.gif[350,350]
 
 此时, 多项式图形的左边, 需要继续向下弯, 右边需要继续向上弯. 弯的方向不一致, 需要的还是奇函数.
 
-image:img/190.png[]
+image:img/190.png[350,350]
 
-image:img/191.gif[]
+image:img/191.gif[350,350]
 
 再说一遍:
 
 下图中, 蓝色的是光滑曲线, 多项式的第一项是常数1
 
-image:img/192.png[]
+image:img/192.png[350,350]
 
-image:img/193.png[]
+image:img/193.png[350,350]
 
 两头弯的方向不一致, 可知第二项就要用"奇函数".
 
-image:img/194.png[]
+image:img/194.png[350,350]
 
-image:img/195.png[]
+image:img/195.png[350,350]
 
 完全方向相同, 那么要添加的第三项, 就应该是"偶函数".
 
-image:img/196.png[]
+image:img/196.png[350,350]
 
-image:img/197.gif[]
+image:img/197.gif[350,350]
 
 到这里, 我们还没有讨论: "系数"是如何产生的? 以及"余项"怎么确定?
 
-image:img/198.png[]
+image:img/198.png[350,350]
 
 ---
 
 === 余数部分
 
-image:img/199.png[]
+image:img/199.png[350,350]
 
 因为系数是我们要求的, 是未知的, 所以用 stem:[ a_0, a_1, ... a_n] 来表示. 这样, 我们要求的就是每个系数, 及最后的余数 stem:[ R_n(x)]
 
-image:img/200.png[]
+image:img/200.png[350,350]
 
 我们将根据多项式不断逼近光滑函数的思想, 对 stem:[ R_n(x)] 做出假设. 再根据假设, 来推导出各个系数的值.
 
@@ -145,50 +145,50 @@ image:img/200.png[]
 
 首先, 画出函数 f(X), 展开点位 stem:[ x_0] :
 
-image:img/201.png[]
+image:img/201.png[350,350]
 
-image:img/202.png[]
+image:img/202.png[350,350]
 
 一次展开, 为一条斜着的直线, 此时, 余项为 d1 :
 
-image:img/203.png[]
+image:img/203.png[350,350]
 
 多项式二次展开后, 为一条曲线, 此时, 余项为 d2 :
 
-image:img/204.png[]
+image:img/204.png[350,350]
 
 如此反复, n次展开后的余项, 为dn:
 
-image:img/205.png[]
+image:img/205.png[350,350]
 
 可以看到, 随着展开次数的增加, 余项在不断缩小. 也就是 d0 > d1 > d2 > ... > dn
 
-image:img/206.gif[]
+image:img/206.gif[350,350]
 
 下面, 我们根据这个规律, 用数学符号来表示出"余项" :
 
 还是从0次展开开始,
 
-image:img/207.png[]
+image:img/207.png[350,350]
 
 可以看到, Δx 不断缩小时, d0 也在不断缩小. 由此可以假设, d0 是关于 Δx 的无穷小, 用 stem:[ α(Δx)] 表示.
 
-image:img/208.gif[]
+image:img/208.gif[350,350]
 
 一次展开后, 多项式为一条斜着的直线. 根据 stem:[ d1 < α(Δx)   ], 可以假设 d1 为 Δx 的高阶无穷小
 
 完整的泰勒公式展开: (黄色标出的为各项的系数)
 
-image:img/209.png[]
+image:img/209.png[350,350]
 
 泰勒公式更精简的写法:
 
-image:img/210.png[]
+image:img/210.png[350,350]
 
 
 其中 "余项"的表达式, 如下:
 
-image:img/211.png[]
+image:img/211.png[350,350]
 
 
 
@@ -204,27 +204,27 @@ image:img/211.png[]
 
 泰勒公式, 我们一般在 stem:[x_0=0] 处展开, 就变成麦克劳林公式（Maclaurin's series）, 它是泰勒公式的一种特殊形式。
 
-image:img/223.png[]
+image:img/223.png[350,350]
 
 麦克劳林公式, 比泰勒公式更常用. 即, 我们一般只在 stem:[x_0=0] 处展开泰勒公式.
 
 Maclaurin's series:  +
-image:img/225.jpg[500,500]
+image:img/225.jpg[350,350]
 
-image:img/224.gif[700,700]
-
-
-.标题
-====
-例如： +
-image:img/226.png[]
-====
+image:img/224.gif[350,350]
 
 
 .标题
 ====
 例如： +
-image:img/231.png[700,700]
+image:img/226.png[350,350]
+====
+
+
+.标题
+====
+例如： +
+image:img/231.png[350,350]
 ====
 
 
@@ -260,20 +260,20 @@ g(x)=TaylorPolynomial(f,7,1)
 我们再定义它的"麦克劳林公式", 来拟合它 +
 g(x) = TaylorPolynomial(f, 0, n)
 
-image:img/227.gif[]
+image:img/227.gif[350,350]
 
 
 
 对 y= sin x 函数的拟合 : +
-image:img/228.gif[]
+image:img/228.gif[350,350]
 
 
 对 y= ln(1+x) 函数的拟合 : +
-image:img/229.gif[]
+image:img/229.gif[350,350]
 
 
 对 1/(1+x) 函数的拟合 : +
-image:img/230.gif[]
+image:img/230.gif[350,350]
 ====
 
 
