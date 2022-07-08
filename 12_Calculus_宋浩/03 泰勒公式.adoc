@@ -1,0 +1,305 @@
+= 泰勒公式
+:toc: left
+:toclevels: 3
+:sectnums:
+
+---
+
+== 泰勒函数的思想: 用多项式, 来逼近某函数
+
+image:img/156.png[,400]
+
+每项的系数的不同, 就能拟合不同的曲线:
+
+image:img/157.png[,400]
+
+image:img/158.png[,400]
+
+image:img/159.png[,400]
+
+image:img/160.png[,400]
+
+image:img/161.png[,400]
+
+image:img/162.png[,400]
+
+image:img/163.png[,400]
+
+image:img/164.png[,400]
+
+image:img/165.png[,400]
+
+image:img/166.png[,400]
+
+---
+
+=== 多项式部分
+
+image:img/167.png[,250]
+
+多项式, 用于逼近"光滑的函数曲线". 项数越多, 多项式越靠近光滑函数.
+
+image:img/168.gif[,400]
+
+image:img/169.png[,250]
+
+参数a, 代表了泰勒公式的展开位置.
+
+image:img/170.png[,300]
+
+image:img/171.png[,300]
+
+image:img/172.png[,300]
+
+image:img/173.png[,300]
+
+本处, 我们以0点展开为例, 讲解多项式是如何逼近光滑函数的.
+
+image:img/174.png[,300]
+
+忽略系数后, 可以看到, 多项式最基础的部分, 就是幂函数:
+
+image:img/175.png[,400]
+
+幂函数分为两种, 一种是"偶函数", 图像的开口方向相同:
+
+image:img/176.png[,300]
+
+另一种, 为"奇函数", 图像的开口方向相反:
+
+image:img/177.png[,300]
+
+image:img/178.png[,300]
+
+image:img/179.png[,300]
+
+比如下图, 我们要逼近蓝色曲线. 多项式的第一项, 我们取x的1次方, 此时, 它能拟合蓝色曲线在原点处的一小部分:
+
+image:img/180.png[,400]
+
+image:img/181.png[,400]
+
+image:img/182.png[,400]
+
+image:img/183.png[,400]
+
+image:img/184.png[,400]
+
+image:img/185.png[,400]
+
+相加后, 多项式变为了 stem:[ x - x^3]
+
+image:img/186.png[,400]
+
+image:img/187.png[,400]
+
+image:img/188.png[,400]
+
+可以给 stem:[ -x^3] 一个系数
+
+image:img/189.gif[,400]
+
+此时, 多项式图形的左边, 需要继续向下弯, 右边需要继续向上弯. 弯的方向不一致, 需要的还是奇函数.
+
+image:img/190.png[,400]
+
+image:img/191.gif[,400]
+
+再说一遍:
+
+下图中, 蓝色的是光滑曲线, 多项式的第一项是常数1
+
+image:img/192.png[,250]
+
+image:img/193.png[,400]
+
+两头弯的方向不一致, 可知第二项就要用"奇函数".
+
+image:img/194.png[,300]
+
+image:img/195.png[,300]
+
+完全方向相同, 那么要添加的第三项, 就应该是"偶函数".
+
+image:img/196.png[,300]
+
+image:img/197.gif[,400]
+
+到这里, 我们还没有讨论: "系数"是如何产生的? 以及"余项"怎么确定?
+
+image:img/198.png[,300]
+
+---
+
+=== 余数部分
+
+image:img/199.png[,500]
+
+因为系数是我们要求的, 是未知的, 所以用 stem:[ a_0, a_1, ... a_n] 来表示. 这样, 我们要求的就是每个系数, 及最后的余数 stem:[ R_n(x)]
+
+image:img/200.png[,450]
+
+我们将根据多项式不断逼近光滑函数的思想, 对 stem:[ R_n(x)] 做出假设. 再根据假设, 来推导出各个系数的值.
+
+下面, 我们将 stem:[ R_n(x)], 用 dn 来表示.
+
+首先, 画出函数 f(X), 展开点位 stem:[ x_0] :
+
+image:img/201.png[,500]
+
+image:img/202.png[,500]
+
+一次展开, 为一条斜着的直线, 此时, 余项为 d1 :
+
+image:img/203.png[,500]
+
+多项式二次展开后, 为一条曲线, 此时, 余项为 d2 :
+
+image:img/204.png[,500]
+
+如此反复, n次展开后的余项, 为dn:
+
+image:img/205.png[,500]
+
+可以看到, 随着展开次数的增加, 余项在不断缩小. 也就是 d0 > d1 > d2 > ... > dn
+
+image:img/206.gif[,500]
+
+下面, 我们根据这个规律, 用数学符号来表示出"余项" :
+
+还是从0次展开开始,
+
+image:img/207.png[,500]
+
+可以看到, Δx 不断缩小时, d0 也在不断缩小. 由此可以假设, d0 是关于 Δx 的无穷小, 用 stem:[ α(Δx)] 表示.
+
+image:img/208.gif[,500]
+
+一次展开后, 多项式为一条斜着的直线. 根据 stem:[ d1 < α(Δx)   ], 可以假设 d1 为 Δx 的高阶无穷小
+
+完整的泰勒公式展开: (黄色标出的为各项的系数)
+
+image:img/209.png[,500]
+
+泰勒公式更精简的写法:
+
+image:img/210.png[,300]
+
+
+其中 "余项"的表达式, 如下:
+
+image:img/211.png[,350]
+
+
+
+
+
+
+
+
+---
+
+== 麦克劳林公式 Maclaurin's series -> \begin{align} f\left( x \right) =f\left( 0 \right) +\frac{f'\left( 0 \right)}{1!}x + \frac{f''\left( 0 \right)}{2!}x^2 + \cdots +\frac{f^{\left( n \right)}\left( 0 \right)}{n!}x^n + \frac{f^{\left( n+1 \right)}\left( \theta x \right)}{\text{(}n+1\text{)!}}x^{n+1} \end{align}
+
+
+泰勒公式, 我们一般在 stem:[x_0=0] 处展开, 就变成麦克劳林公式（Maclaurin's series）, 它是泰勒公式的一种特殊形式。
+
+image:img/223.png[,700]
+
+麦克劳林公式, 比泰勒公式更常用. 即, 我们一般只在 stem:[x_0=0] 处展开泰勒公式.
+
+Maclaurin's series:  +
+image:img/225.jpg[,350]
+
+image:img/224.gif[,450]
+
+
+.标题
+====
+例如： +
+image:img/226.png[,650]
+====
+
+
+.标题
+====
+例如： +
+image:img/231.png[,500]
+====
+
+
+.标题
+====
+例如： +
+
+
+如果使用"洛必达法则"来做, 就是: +
+
+====
+
+
+
+
+---
+
+== 在 geogebra 中使用 "泰勒公式展开".
+
+命令是:
+....
+g(x)=TaylorPolynomial(f,7,1)
+....
+
+先自己定义个想要进行泰勒展开的函数 f； +
+第二参数 7， 表示在x=7的位置进行泰勒展开； +
+第三个参数 1，表示该展开为一阶展开. 不过一般都写 n, 即n阶展开
+
+.标题
+====
+先定义一个原函数, stem:[y=e^x],
+
+我们再定义它的"麦克劳林公式", 来拟合它 +
+g(x) = TaylorPolynomial(f, 0, n)
+
+image:img/227.gif[,400]
+
+
+
+对 y= sin x 函数的拟合 : +
+image:img/228.gif[,500]
+
+
+对 y= ln(1+x) 函数的拟合 : +
+image:img/229.gif[,400]
+
+
+对 1/(1+x) 函数的拟合 : +
+image:img/230.gif[,400]
+====
+
+
+
+
+
+---
+
+
+`
+
+
+
+https://www.bilibili.com/video/BV1Eb411u7Fw?p=36&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
+
+16.35
+
+
+
+
+
+
+
+
+
+
+
+
+
