@@ -1,0 +1,53 @@
+
+= 基础_一元二次方程的"配方法 Completing the square"
+:toc: left
+:toclevels: 3
+:sectnums:
+
+---
+
+
+== 配方法 Completing the square
+
+配方法: 是一种用来把"二次多项式"化为一个"一次多项式的平方 与一个常数的和"的方法。
+
+image:img/356.png[,250]
+
+image:img/357.png[,550]
+
+
+知道了上面的规律后, 我们就能来进行"配方"了:
+
+.标题
+====
+例如： +
+image:img/358.png[,520]
+====
+
+
+.标题
+====
+例如： +
+image:img/359.png[,420]
+====
+
+.标题
+====
+例如： +
+image:img/360.png[,520]
+====
+
+---
+
+== 配方公式 -> stem:[ a x^2 + bx + c = a(x + \frac{b}{2a})^2 + c - a (\frac{b}{2a})^2]
+
+
+image:img/361.png[,320]
+
+.标题
+====
+例如： +
+image:img/362.png[,600]
+====
+
+---

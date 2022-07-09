@@ -172,6 +172,40 @@ image:img/255.png[,120]
 
 ---
 
+=== stem:[ \int \frac{1} {x^2 + a^2} dx = \frac{1} {a} \cdot arctan \frac{x} {a} + C]
+
+---
+
+=== stem:[ \int \frac{1} {x^2 - a^2} dx = \frac{1} {2a} \cdot ln \|\frac{x-a} {x+a} \| + C]
+
+---
+
+=== stem:[ \int \frac{1} {\sqrt{x^2 + a^2}} dx = ln \| x + \sqrt{x^2 +a^2}\|+C]
+
+.标题
+====
+例如： +
+image:img/355.png[,600]
+====
+
+
+---
+
+=== stem:[\int \frac{1} {\sqrt{x^2 - a^2}}dx  =\ln \| x+\sqrt{x^2-a^2}\|+C ]
+
+---
+
+=== stem:[\int \frac{1} {\sqrt{a^2 - x^2}}dx = arcsin \frac{x} {a}  +C ]
+
+.标题
+====
+例如： +
+image:img/363.png[,850]
+====
+
+
+---
+
 === stem:[ \int (\sin x) dx = - \cos x + C]
 
 ---
@@ -196,6 +230,9 @@ image:img/255.png[,120]
 
 === stem:[ \int (\csc x) dx = \ln \|csc x - cot x\| + C]
 
+---
+
+=== stem:[ \int (\ln x) dx = x \ln x - x + C]
 
 ---
 
