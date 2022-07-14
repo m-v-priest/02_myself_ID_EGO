@@ -9,11 +9,14 @@
 == 第二换元法 之"根式代换法"
 
 
+
+====  stem:[ \int \frac{x} {\sqrt{2x+1}} dx]
 .标题
 ====
 例如： +
 image:img/301.png[,600]
 ====
+
 
 
 .标题
@@ -60,9 +63,11 @@ image:img/322.png[,480]
 
 ---
 
-=== 对于 stem:[\sqrt{a^2 - x^2}], 其中的x, 用 stem:[x= a \cdot \sin t] 来替换.
+=== #对于 stem:[\sqrt{a^2 - x^2}], 其中的x, 用 stem:[x= a \cdot \sin t] 来替换.#
 
 
+
+====  stem:[ \int \sqrt{a^2 - x^2} dx]
 .标题
 ====
 例如： +
@@ -70,6 +75,9 @@ image:img/317.png[600,600]
 ====
 
 
+
+
+====  stem:[ \int \frac{\sqrt{a^2 - x^2}} {x^4} dx]
 .标题
 ====
 例如： +
@@ -88,9 +96,11 @@ image:img/354.png[,650]
 
 ---
 
-=== 对于 stem:[\sqrt{x^2 + a^2}], 其中的x, 用 stem:[x= a \cdot \tan t] 来替换.
+=== #对于 stem:[\sqrt{x^2 + a^2}], 其中的x, 用 stem:[x= a \cdot \tan t] 来替换.#
 
 
+
+====  stem:[ \int \frac{1} {\sqrt{x^2 + a^2}} dx]
 .标题
 ====
 例如： +
@@ -99,9 +109,11 @@ image:img/319.png[,650]
 
 ---
 
-=== 对于 stem:[\sqrt{x^2 - a^2}], 其中的x, 用 stem:[x= a \cdot \sec t] 来替换.
+
+=== #对于 stem:[\sqrt{x^2 - a^2}], 其中的x, 用 stem:[x= a \cdot \sec t] 来替换.#
 
 
+====  stem:[ \int \frac{1} {\sqrt{x^2 - a^2}} dx]
 .标题
 ====
 例如： +

@@ -90,8 +90,12 @@ image:img/393.png[,800]
 ====
 例如： +
 image:img/394.png[]
+
+image:img/401.png[,800]
 ====
 
+
+https://www.bilibili.com/video/BV1JE41137TV/?spm_id_from=trigger_reload&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
 
 
 
@@ -110,20 +114,19 @@ image:img/394.png[]
 
 上面所说的"待定系数法", 是万能方法, 但不一定是最快的方法. 所以有些类型的题, 会有更适合自己的专门解法.
 
-=== stem:[\int \frac{1} {1- x^4} dx]
 
+==== stem:[\int \frac{1} {1- x^4} dx]
 .标题
 ====
 例如： +
 image:img/395.png[]
 ====
 
----
 
-=== stem:[\int \frac{1} {x^8 (1+ x^2)} dx] <- 用"倒代换"法, 令 stem:[x = 1/t]
 
+
+==== stem:[\int \frac{1} {x^8 (1+ x^2)} dx] <- 用"倒代换"法, 令 stem:[x = 1/t]
 "倒代换 sub back"法: 是通过变量代换: stem:[x= 1/t], 使原来以 x为自变量的问题, 变成以t为自变量的问题, 从而达到降低问题难度, 或化简解题过程, 的一种数学解题方法。
-
 
 .标题
 ====
@@ -131,31 +134,27 @@ image:img/395.png[]
 image:img/396.png[,800]
 ====
 
----
 
-=== stem:[\int \frac{1+ x^4} {1+ x^6} dx]
 
+==== stem:[\int \frac{1+ x^4} {1+ x^6} dx]
 .标题
 ====
 例如： +
 image:img/397.png[]
 ====
 
----
 
-=== stem:[\int \frac{1} {x(x^3 + 27)} dx]
 
+==== stem:[\int \frac{1} {x(x^3 + 27)} dx]
 .标题
 ====
 例如： +
 image:img/398.png[,700]
 ====
 
----
-
-=== stem:[\int \frac{1+ x^2} {1+ x^4} dx]   ← 即, 形如 stem:[\int \frac{1 \pm x^2} {1+ kx^2 + x^4} dx] 类型的题目. 解法: 分子分母同时除以 stem:[x^2]
 
 
+==== stem:[\int \frac{1+ x^2} {1+ x^4} dx]   ← 即, 形如 stem:[\int \frac{1 \pm x^2} {1+ kx^2 + x^4} dx] 类型的题目. 解法: 分子分母同时除以 stem:[x^2]
 .标题
 ====
 例如： +
@@ -163,6 +162,8 @@ image:img/399.png[]
 ====
 
 
+
+====  stem:[ \int \frac{1- x^2} {1+ x^4} dx]
 .标题
 ====
 例如： +
@@ -171,19 +172,50 @@ image:img/400.png[,800]
 
 
 
+====  stem:[ \int \frac{1} {1+ x^4} dx]
+.标题
+====
+例如： +
+image:img/402.png[,280]
+====
 
 
 
+====  stem:[ \int \frac{1} {1+ x^6} dx]
+.标题
+====
+例如： +
+image:img/403.png[,900]
+====
 
 
 
+====  stem:[ \int \frac{e^{3x} + e^x} {e^{4x} - e^{2x} + 1} dx]
+.标题
+====
+例如： +
+image:img/404.png[,580]
+====
 
 
 
+====  stem:[ \int \frac{1} {\sqrt{tan x}} dx]
+.标题
+====
+例如： +
+image:img/405.png[,700]
+====
 
-https://www.bilibili.com/video/BV1JE41137TV/?spm_id_from=trigger_reload&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
 
-2.09.55
+
+====  stem:[ \int \sqrt{tan x} \ dx]
+.标题
+====
+例如： +
+image:img/406.png[,640]
+====
+
+
 
 ---
 
@@ -238,10 +270,13 @@ https://www.bilibili.com/video/BV1JE41137TV/?spm_id_from=trigger_reload&vd_sourc
 
 ---
 
-=== 类型1: stem:[\int \frac{A_k} {(x-a)^k} dx]
+=== #类型1: stem:[\int \frac{A_k} {(x-a)^k} dx]#
 
 该类题, 做法的核心要点就是"化归", 就是把你陌生的形式, 往你学过的形式上面靠.
 
+
+
+====  stem:[ \int \frac{1} {(a^2 + x^2)^2} dx]
 .标题
 ====
 例如： +
@@ -254,8 +289,10 @@ image:img/385.png[,830]
 
 ---
 
-=== 类型2: stem:[\int \frac{B_k x + C_k} {(x^2 + px + q)^1} dx]
+=== #类型2: stem:[\int \frac{B_k x + C_k} {(x^2 + px + q)^1} dx]#
 
+
+====  stem:[ \int \frac{x+3} {x^2 + 2x + 4} dx]
 .标题
 ====
 例如： +
@@ -270,6 +307,9 @@ image:img/381.png[,880]
 3. 第二个积分, 配方后, 再套用积分公式: stem:[\int \frac{1}{a^2 + x^2} dx = \frac{1}{a} \arctan \frac{x}{a} +C]
 
 
+
+
+==== stem:[ \int \frac{2x + 3} {(x^2 + 4x + 6)^2} dx]
 .标题
 ====
 例如： +
@@ -279,12 +319,16 @@ image:img/382.png[]
 
 ---
 
-=== 类型3: stem:[ \int \frac{B_k x + C_k} {(x^2 + px + q)^2} dx ]
+=== #类型3: stem:[ \int \frac{B_k x + C_k} {(x^2 + px + q)^2} dx ]#
 
 
 下面的例题, 可以用两种方法来做: ① 三角换元法, ② 分部积分法. 推荐用"分部积分法"来做.
 
 
+
+
+
+==== stem:[ \int \frac{x^2} {(a^2 + x^2)^2} dx]
 .标题
 ====
 例如： +
@@ -307,6 +351,9 @@ image:img/384.png[]
 3. 第二个积分, 对分母进行配方, 换元, -> 归结为变成计算stem:[\int \frac{1} {(a^2 + t^2)^2} dt] 的形式.
 
 
+
+
+==== stem:[ \int \frac{x+2} {( x^2 + 2x + 10)^2} dx]
 .标题
 ====
 例如： +
@@ -340,6 +387,9 @@ https://www.bilibili.com/video/BV1f54y1G7gv?spm_id_from=333.999.0.0&vd_source=52
 
 image:img/376.png[,700]
 
+
+
+==== stem:[ \int \frac{1} {2x+1} dx]
 .标题
 ====
 例如： +
@@ -347,6 +397,8 @@ image:img/377.png[,600]
 ====
 
 
+
+==== stem:[ \int \frac{1} {x^2 - 3x +2} dx]
 .标题
 ====
 例如： +
@@ -355,6 +407,7 @@ image:img/378.png[,600]
 
 
 
+==== stem:[ \int \frac{1} {x^2 - 2x +4} dx]
 .标题
 ====
 例如： +
@@ -362,11 +415,14 @@ image:img/379.png[,650]
 ====
 
 
+
+==== stem:[ \int \frac{1} {x^2 - 2x -3} dx]
 .标题
 ====
 例如： +
 image:img/380.png[,630]
 ====
+
 
 
 
