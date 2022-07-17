@@ -76,6 +76,8 @@ image:img/391.png[,750]
 ====
 例如： +
 image:img/392.png[]
+
+image:img/422.png[,200]
 ====
 
 
@@ -83,6 +85,8 @@ image:img/392.png[]
 ====
 例如： +
 image:img/393.png[,800]
+
+image:img/423.png[,200]
 ====
 
 
@@ -120,6 +124,8 @@ https://www.bilibili.com/video/BV1JE41137TV/?spm_id_from=trigger_reload&vd_sourc
 ====
 例如： +
 image:img/395.png[]
+
+image:img/424.png[,200]
 ====
 
 
@@ -132,6 +138,8 @@ image:img/395.png[]
 ====
 例如： +
 image:img/396.png[,800]
+
+image:img/425.png[,200]
 ====
 
 
@@ -141,6 +149,8 @@ image:img/396.png[,800]
 ====
 例如： +
 image:img/397.png[]
+
+image:img/426.png[,200]
 ====
 
 
@@ -150,6 +160,8 @@ image:img/397.png[]
 ====
 例如： +
 image:img/398.png[,700]
+
+image:img/427.png[,200]
 ====
 
 
@@ -159,6 +171,8 @@ image:img/398.png[,700]
 ====
 例如： +
 image:img/399.png[]
+
+image:img/428.svg[,200]
 ====
 
 
@@ -168,6 +182,8 @@ image:img/399.png[]
 ====
 例如： +
 image:img/400.png[,800]
+
+image:img/429.svg[,200]
 ====
 
 
@@ -177,6 +193,8 @@ image:img/400.png[,800]
 ====
 例如： +
 image:img/402.png[,280]
+
+image:img/430.svg[,200]
 ====
 
 
@@ -186,6 +204,8 @@ image:img/402.png[,280]
 ====
 例如： +
 image:img/403.png[,900]
+
+image:img/431.svg[,200]
 ====
 
 
@@ -195,6 +215,8 @@ image:img/403.png[,900]
 ====
 例如： +
 image:img/404.png[,580]
+
+image:img/432.svg[,200]
 ====
 
 
@@ -204,6 +226,8 @@ image:img/404.png[,580]
 ====
 例如： +
 image:img/405.png[,700]
+
+image:img/433.svg[,200]
 ====
 
 
@@ -297,6 +321,8 @@ image:img/385.png[,830]
 ====
 例如： +
 image:img/381.png[,880]
+
+image:img/434.svg[,280]
 ====
 
 
@@ -314,6 +340,8 @@ image:img/381.png[,880]
 ====
 例如： +
 image:img/382.png[]
+
+image:img/435.svg[,200]
 ====
 
 
@@ -358,6 +386,8 @@ image:img/384.png[]
 ====
 例如： +
 image:img/386.png[]
+
+image:img/447.svg[,200]
 ====
 
 ---
@@ -388,12 +418,15 @@ https://www.bilibili.com/video/BV1f54y1G7gv?spm_id_from=333.999.0.0&vd_source=52
 image:img/376.png[,700]
 
 
+=== 类型1 :  stem:[\frac{一次, 常数} {二次}]
 
 ==== stem:[ \int \frac{1} {2x+1} dx]
 .标题
 ====
 例如： +
 image:img/377.png[,600]
+
+image:img/446.svg[,200]
 ====
 
 
@@ -403,6 +436,8 @@ image:img/377.png[,600]
 ====
 例如： +
 image:img/378.png[,600]
+
+image:img/445.svg[,200]
 ====
 
 
@@ -411,7 +446,9 @@ image:img/378.png[,600]
 .标题
 ====
 例如： +
-image:img/379.png[,650]
+image:img/379.png[,550]
+
+image:img/444.svg[,200]
 ====
 
 
@@ -420,18 +457,91 @@ image:img/379.png[,650]
 .标题
 ====
 例如： +
-image:img/380.png[,630]
+image:img/380.png[,550]
+
+image:img/443.svg[,200]
+====
+
+
+
+==== stem:[ \int \frac{x} {x^2 + 2x +2} dx]
+.标题
+====
+例如： +
+image:img/441.png[,750]
+
+image:img/442.svg[,200]
+====
+
+---
+
+=== 类型2: 分母是高次的, 则分母必须要能因式分解, 才能做出来 -> 待定系数法
+
+=== #★ 裂项, 并设"待定系数" 的方法#
+
+image:img/451.png[,700]
+
+
+
+
+==== stem:[ \int \frac{1} {(1+2x)(1+ x^2)} dx]
+.标题
+====
+例如： +
+image:img/448.png[]
+
+image:img/449.svg[,200]
 ====
 
 
 
 
+==== stem:[ \int \frac{x^2 +1} {(x+2)(x +1)^2} dx]
+.标题
+====
+例如： +
+image:img/452.png[,700]
 
+image:img/453.svg[,200]
+====
+
+---
+
+=== 类型3: 乍看不是"有理分式", 但可化为"有理分式"的题
+
+==== stem:[ \int \frac{\sqrt{x-1}} {x} dx]
+.标题
+====
+例如： +
+image:img/454.png[,600]
+
+image:img/455.svg[,200]
+====
+
+
+
+==== stem:[ \int \frac{1} {1+ (x+2)^{1/3}} dx]
+.标题
+====
+例如： +
+image:img/456.png[,700]
+
+image:img/457.svg[,200]
+====
+
+
+==== stem:[ \int \frac{1} {(1+ x^{1/3})+ \sqrt{x}} dx]
+.标题
+====
+例如： +
+image:img/458.png[,700]
+
+image:img/459.svg[,200]
+====
 
 
 
 ---
 
-https://www.bilibili.com/video/BV1Eb411u7Fw?p=48&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
 
-13.20
+

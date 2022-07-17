@@ -34,6 +34,8 @@ image:img/407.png[,900]
 ====
 例如： +
 image:img/408.png[,520]
+
+image:img/421.png[,200]
 ====
 
 
@@ -44,6 +46,8 @@ image:img/408.png[,520]
 ====
 例如： +
 image:img/409.png[,520]
+
+image:img/416.png[,200]
 ====
 
 注意: *对于"三角函数的积分", 如果"被积函数"中的 sin x 和 cos x 的次方太高(比如达到 3次 及以上), 则不建议使用"万能公式"的 stem:[tan \frac{x} {2}=t], 因为你将会得到一个次方更高的"有理函数积分".*
@@ -55,6 +59,8 @@ image:img/409.png[,520]
 ---
 
 == 特殊解法
+
+(三角有理函数积分, 如果你自己单纯自学, 会花非常多的时间, 而且很多技巧可能也只有朦胧的感觉. 所以, 必须要有好的老师帮你总结好, 直接赋予精华提炼.)
 
 灵活使用三角函数的各种"恒等变形", 及"凑微分法"技巧, 可以达到快速求解的目的.
 
@@ -75,22 +81,130 @@ image:img/409.png[,520]
 
 当然, "缩分母"还可以用其他方式, 比如, 利用二倍角公式: stem:[1+cosx = 2 cos^2(\frac{x} {2})], 也能将两项合二为一.
 
-|Column 1, row 2
-|Column 2, row 2
+|2.
+|*若"被积函数"满足这个条件 : stem:[R(sinx, -cosx)= -R(sinx, cosx)], 即,如果给cos添加个负号, 效果就等于在整个"被积函数"前面添加个负号的话*,  则你就可以想办法, 将cosx 拿到d里面, 变成 d(sinx). 然后, 将d里面的 sinx 看做是一个整体, 比如令 stem:[sinx=t], 这样后, 整个被积函数, 就化为了关于 t 的"有理函数积分".
 |===
 
+---
+
+== 套路1: 缩分母 -> 分子分母同时乘以"共轭表达式",
+
+==== stem:[\int \frac{1} {1+ cos x} dx ]
+.标题
+====
+例如： +
+image:img/t1001.png[,800]
+
+image:img/415.png[,200]
+====
 
 
-==== stem:[\int \frac{1} {1+ cosx} dx]
+
+
+==== stem:[\int \frac{sin x} {1+ sin x} dx ]
+.标题
+====
+例如： +
+image:img/t1002.png[,780]
+
+image:img/414.png[,200]
+====
 
 
 
+==== stem:[\int \frac{1} { sin x + cos x} dx ]
+.标题
+====
+例如： +
+image:img/410.png[,780]
+
+image:img/413.png[,200]
+
+====
+
+
+
+==== stem:[\int \frac{cos x} { sin x + cos x} dx ]
+.标题
+====
+例如： +
+image:img/411.png[,550]
+
+image:img/412.png[,200]
+====
 
 
 ---
+
+== 套路2: *若"被积函数"满足这个条件 : stem:[R(sinx, -cosx)= -R(sinx, cosx)], 即,如果给cos添加个负号, 效果就等于在整个"被积函数"前面添加个负号的话*,  则你就可以想办法, 将cosx 拿到d里面, 变成 d(sinx). 然后, 将d里面的 sinx 看做是一个整体, 比如令 stem:[sinx=t], 这样后, 整个被积函数, 就化为了关于 t 的"有理函数积分".
+
+
+==== stem:[\int \frac{1} {sin^2 x cosx} dx]
+.标题
+====
+例如： +
+image:img/417.png[,700]
+
+image:img/418.png[,200]
+====
+
+
+
+
+
+==== stem:[\int \frac{cos^3 x - 2 cosx} {1+ sin^2 x + sin^4 x} dx]
+.标题
+====
+例如： +
+image:img/419.png[,700]
+
+image:img/420.png[,200]
+====
+
+
+
+
+==== stem:[\int sec^3 x dx]
+.标题
+====
+例如： +
+image:img/436.png[,900]
+
+image:img/437.svg[,200]
+====
+
+
+
+==== stem:[\int \sqrt{1+ x^2} dx]
+.标题
+====
+例如： +
+image:img/438.png[]
+
+image:img/439.svg[,200]
+====
+
+
+
+==== stem:[\int sec^n x dx]
+.标题
+====
+例如： +
+image:img/440.png[,850]
+
+---
+
+image:img/450.png[]
+====
+
+
+
+
 
 
 
 https://www.bilibili.com/video/BV1MN411Z7EH/?spm_id_from=333.788&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
 
-25.06
+1.36.33
+
+

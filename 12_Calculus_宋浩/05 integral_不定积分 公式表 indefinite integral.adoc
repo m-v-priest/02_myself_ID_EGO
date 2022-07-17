@@ -180,7 +180,7 @@ image:img/255.png[,120]
 
 ---
 
-=== stem:[ \int \frac{1} {\sqrt{x^2 + a^2}} dx = ln \| x + \sqrt{x^2 +a^2}\|+C]
+=== stem:[ \int \frac{1} {\sqrt{x^2 + a^2}} dx = ln \| x + \sqrt{x^2 + a^2}\|+C]
 
 .标题
 ====
