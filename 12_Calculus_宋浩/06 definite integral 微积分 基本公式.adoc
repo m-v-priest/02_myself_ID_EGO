@@ -24,9 +24,40 @@ image:img/469.png[,150] +
 
 ---
 
-== 积分上限函数 的定理
 
-=== 对"积分上限函数"求导 : stem:[φ'(x) = \frac{d} {dx} \[\int_a^x f(t) dt \] = f(x)]
+
+== 对"积分上限函数"求导
+
+=== "自变量"在"上限"上
+
+stem:[φ'(x) = \frac{d} {dx} \[\int_a^x f(t) dt \] = f(x)]
+
+image:img/479.png[,750]
+
+.标题
+====
+例如： +
+image:img/480.png[,650]
+====
+
+---
+
+=== "自变量"在"下限"上
+
+.标题
+====
+例如： +
+image:img/481.png[,700]
+====
+
+
+---
+
+=== "含有自变量的一个函数"在"上限"上
+
+https://www.bilibili.com/video/BV16r4y1U7xp?spm_id_from=333.337.search-card.all.click&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
+
+8.00
 
 ---
 
