@@ -32,11 +32,10 @@ image:img/469.png[,150] +
 
 stem:[φ'(x) = \frac{d} {dx} \[\int_a^x f(t) dt \] = f(x)]
 
-image:img/479.png[,750]
+image:img/479.png[,700]
 
 .标题
 ====
-例如： +
 image:img/480.png[,650]
 ====
 
@@ -46,8 +45,7 @@ image:img/480.png[,650]
 
 .标题
 ====
-例如： +
-image:img/481.png[,700]
+image:img/481.png[,650]
 ====
 
 
@@ -55,9 +53,42 @@ image:img/481.png[,700]
 
 === "含有自变量的一个函数"在"上限"上
 
-https://www.bilibili.com/video/BV16r4y1U7xp?spm_id_from=333.337.search-card.all.click&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
+.标题
+====
+image:img/482.png[,600]
+====
 
-8.00
+---
+
+=== "上下限", 各是"含有自变量的一个函数"
+
+.标题
+====
+image:img/483.png[,750]
+====
+
+
+---
+
+
+=== "被积函数"中, 含有 "非积分变量"的情况的话
+
+.标题
+====
+image:img/484.png[,750]
+====
+
+
+---
+
+=== "被积函数"中, 含有 "非积分变量", 且不可被拆分的情况 -> 用"换元法".
+
+.标题
+====
+image:img/485.png[,750]
+====
+
+
 
 ---
 
@@ -113,6 +144,21 @@ image:img/478.png[,280]
 
 
 
+.标题
+====
+例如： +
+image:img/486.png[,850]
+====
+
+
+
+
+.标题
+====
+例如： +
+image:img/487.png[,650]
+====
+
 
 
 
@@ -120,10 +166,6 @@ image:img/478.png[,280]
 ---
 
 
-https://www.bilibili.com/video/BV1Eb411u7Fw?p=51&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
-
-42.00
-
-
 
 https://www.bilibili.com/video/BV1jJ411y7dY?spm_id_from=333.337.search-card.all.click&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
+
