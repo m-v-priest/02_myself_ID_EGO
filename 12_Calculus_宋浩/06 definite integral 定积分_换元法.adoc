@@ -26,6 +26,9 @@ image:img/489.png[,770]
 注意: 这道题, 如果你不用"换元法", 而是用之前"不定积分"的思路直接来求出"原函数", 再代入"上限 减去 下限" 来算的话, 这里就有个陷阱错误了:
 
 image:img/490.png[,850]
+
+image:img/515.svg[,350]
+
 ====
 
 
@@ -48,6 +51,8 @@ image:img/500.svg[,300]
 ====
 例如： +
 image:img/497.png[,800]
+
+image:img/514.svg[,350]
 ====
 
 ---
@@ -150,12 +155,5 @@ image:img/513.svg[,350]
 
 
 
-
----
-
-https://www.bilibili.com/video/BV1Eb411u7Fw?p=52&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
-
-
-1.31.31
 
 
