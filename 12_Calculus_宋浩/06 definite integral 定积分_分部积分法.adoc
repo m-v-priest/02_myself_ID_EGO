@@ -32,13 +32,27 @@ image:img/516.png[]
 ====
 
 
+==== stem:[\int_0^1 e^(\sqrt{x}) \ dx]
+.标题
+====
+例如： +
+image:img/517.png[,550]
+
+image:img/518.svg[,250]
+====
 
 
 
+==== stem:[\int_0^1 e^x sinx \ dx]
+.标题
+====
+例如： +
+image:img/519.png[,750]
+====
 
-https://www.bilibili.com/video/BV1Eb411u7Fw?p=53&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
 
-10.36
+---
+
 
 
 
