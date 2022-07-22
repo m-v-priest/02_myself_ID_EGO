@@ -8,6 +8,10 @@
 
 == 分部积分法 Integration by parts -> 公式: stem:[ \int u \cdot dv = uv - \int v \cdot du]
 
+image:img/524.webp[,350]
+
+
+
 "分部积分法"的目的, 是将不易直接求结果的"积分形式"，转化为等价的容易求出结果的"积分形式"的。
 
 

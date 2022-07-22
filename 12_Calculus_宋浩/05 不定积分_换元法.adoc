@@ -1,0 +1,18 @@
+
+= 不定积分 换元法
+:toc: left
+:toclevels: 3
+:sectnums:
+
+---
+
+== 换元法
+
+==== stem:[ \int e^(-pt) dt]
+.标题
+====
+例如： +
+image:img/527.png[,450]
+====
+
+

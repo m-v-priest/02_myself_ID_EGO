@@ -1,0 +1,73 @@
+
+= 定积分 definite integral 的应用
+:toc: left
+:toclevels: 3
+:sectnums:
+
+---
+
+== 定积分的元素法
+
+
+---
+
+== 求平面图形的面积 -> stem:[ A = \int_a^b f(x) dx]
+
+[options="autowidth"]
+|===
+|Header 1 |Header 2
+
+|X型区域 (竖着切两刀)
+|image:img/542.png[,200]
+
+如上图, 要求两个函数夹角的面积, 就是=上面函数的面积 - 下面函数的面积.
+
+假设上面的函数是 f, 下面的函数是 g, 即: +
+\begin{align}
+& \int_a^b f(x) \ dx - \int_a^b g(x) \ dx \\
+& = \int_a^b [f(x) - g(x)] \ dx
+\end{align}
+
+|Y型区域 (水平切两刀)
+|image:img/545.png[,200]
+
+*注意: 这里的函数, 输入的参数是y, 而不是x.* 所以, 你做题时, 比如原题给的函数是 y=3x (这里函数的输入参数就是x, 输出是y), 你必须先把它x与y的关系颠倒一下, 相当于求反函数后 (这样, 输入参数就是y了, 输出的就是x了), 再来做下去.
+
+面积= 用右边的函数 - 左边的函数
+
+如: +
+image:img/546.png[,700]
+
+image:img/547.png[,250]
+|===
+
+
+.标题
+====
+例如： +
+image:img/543.png[,750]
+
+image:img/544.svg[,250]
+====
+
+
+
+.标题
+====
+例如： +
+image:img/548.png[,750]
+
+image:img/549.png[,250]
+====
+
+
+
+
+
+
+
+
+
+https://www.bilibili.com/video/BV1Eb411u7Fw?p=57&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
+
+20.57
