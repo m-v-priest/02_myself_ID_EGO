@@ -90,9 +90,9 @@ image:img/551.png[,350]
 .标题
 ====
 例如： +
-image:img/543.png[,750]
-
 image:img/544.svg[,250]
+
+image:img/543.png[,750]
 ====
 
 
@@ -106,6 +106,45 @@ image:img/549.png[,250]
 ====
 
 
+====
+例如： +
+image:img/552.svg[,250]
+
+image:img/553.png[,600]
+====
+
+
+
+
+---
+
+=== 用"参数方程"来解定积分
+
+
+
+.标题
+====
+例如： +
+image:img/554.svg[,250]
+
+如上图, 我们把求椭圆中的绿色面积, 转化成了求 橙色函数曲线中的面积.
+
+image:img/555.png[,900]
+
+---
+
+image:img/556.png[,900]
+
+image:img/557.svg[,250]
+====
+
+
+---
+
+== 求极坐标面积
+
+
+
 
 
 
@@ -116,3 +155,14 @@ image:img/549.png[,250]
 https://www.bilibili.com/video/BV1Eb411u7Fw?p=58&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
 
 33.19
+
+
+---
+
+== 物理中
+
+https://www.bilibili.com/video/BV1Eb411u7Fw?p=63&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
+
+
+
+
