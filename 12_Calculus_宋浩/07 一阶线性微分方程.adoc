@@ -1,10 +1,50 @@
 
-= 一阶线性微分方程
+= 一阶线性微分方程 First order linear differential equation
 :toc: left
 :toclevels: 3
 :sectnums:
 
 ---
 
+== 一阶线性微分方程 First order linear differential equation
 
-https://www.bilibili.com/video/BV1Eb411u7Fw?p=67&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
+形如 stem:[ y'+P(x)y=Q(x)] 的微分方程, 称为"一阶线性微分方程". +
+
+- Q(x)称为自由项。
+- 一阶，指的是方程中, 关于Y的导数是一阶导数。
+- 线性，指的是方程简化后的每一项关于y、y'的指数为1。
+- 这里假设 P(x), Q(x) 是x的连续函数。
+
+[options="autowidth"]
+|===
+|Header 1 |通解
+
+|一阶/ 齐次/ 线性/ 微分方程 +
+stem:[ y' + P(x) \cdot y=0]
+|stem:[ y= C \cdot e^(-\int P(x) dx)]
+
+|一阶/ 非齐次/ 线性/ 微分方程 +
+stem:[ y' + P(x) \cdot y= Q(x)]
+|stem:[ y= e^(-\int P(x) dx) \[ \int Q(x) \cdot e^(\int P(x) dx) dx + C \]]
+|===
+
+
+
+
+image:img/583.png[,900]
+
+.标题
+====
+例如： +
+image:img/584.png[,640]
+====
+
+
+
+.标题
+====
+例如： +
+image:img/585.png[,700]
+====
+
+---
