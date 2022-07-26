@@ -1,5 +1,5 @@
 
-:toc:
+:toc: left
 :toclevels: 3
 :sectnums:
 
@@ -50,3 +50,6 @@ image:img_geogebra/095.png[]
 https://wiki.geogebra.org/en/Sum_Command
 
 ---
+
+== 斜率场 slope field -> SlopeField( <f(x,y)> )
+
