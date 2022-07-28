@@ -1,0 +1,34 @@
+
+= 多元函数 function of several variables
+:toc: left
+:toclevels: 3
+:sectnums:
+
+---
+
+
+== 多元函数  function of several variables
+
+- 单变量函数, 是形如f(x)=y 这类的, 即 只有一个输入变量, 然后也只输出一个值.
+- 而多元函数, 是输入多个变量的. 我们在学习时, 一般只考虑两个变量, 如写作: f(x,y)=... . 这两个变量(x和y)同时影响到函数的输出. *我们把这多个输入量, 当成n维空间中的一个点的坐标.* +
+*多元函数的输出值, 也可以输出多个数. 当有多个量被输出的时候, 我们一般把它认为是一个向量.* (就类似于python 编程里的, 把输出的多个数, 封装在一个 list 或 tuple中.)
+
+\begin{align}
+如:  f(x,y)= \left[ \begin{matrix}
+x	\\
+y	\\
+\end{matrix} \right]  ← 某多元函数, 输出一个向量
+\end{align}
+
+当有二维输入的时候, 比如 stem:[ f(x,y)], 该多元函数的图像, 是三维的.
+
+image:img10/10_054.png[,500]
+
+
+
+https://www.bilibili.com/video/BV1cJ411C7SC/?spm_id_from=333.788&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
+
+
+---
+
+== 多元函数的极限
