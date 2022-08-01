@@ -1,13 +1,14 @@
 
-= 偏导
+= 偏导数 Partial derivative
 :toc: left
 :toclevels: 3
 :sectnums:
 
 ---
 
+== 偏导数 几何意义
 
-== 偏导
+=== 偏导
 
 stem:[ f(x,y) = x^2 y +sin(y)]  ← 该多元函数, 只输出一个一维的数. 问:这个函数的导数是什么?
 
@@ -63,7 +64,7 @@ to reach or make sth reach a particular level （使）达到，接近
 
 ---
 
-== 偏导和函数图切片
+=== 偏导和函数图切片
 
 .标题
 ====
@@ -113,7 +114,7 @@ image:img10/10_115.png[,250]
 
 ---
 
-== 偏导的正式定义
+=== 偏导的正式定义
 
 
 image:img10/10_117.png[,300]
@@ -122,7 +123,7 @@ image:img10/10_116.png[,700]
 
 ---
 
-== 二阶偏导 second partial derivatives
+=== 二阶偏导 second partial derivatives
 
 image:img10/10_118.png[]
 
@@ -130,6 +131,88 @@ image:img10/10_118.png[]
 ---
 
 
+== 偏导数 Partial derivative
+
+对于二元输入函数 stem:[ z = f(x,y)]来说, 它接收两个参数x,y, 所以每个参数都有一个"偏导数".
 
 
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|对 x 的偏导数:
+|*就是把 y 固定在 stem:[ y_0]处, 只剩 x 一个变量来变化.* 即, x在stem:[ x_0]处有一个增量 Δx,  则该函数对 x 的导数就是: stem:[ lim_{Δx -> 0} \frac{ f(x_0+ Δx, y_0) - f(x_0, y_0)} {Δx}]  ← 现在变化的只有 stem:[ x_0], 而 stem:[ y_0] 是固定住的.
+
+对 x 的偏导数, 可以有下面几种写法:
+
+- stem:[ \frac{∂z} {∂x} \|_{x= x_0, \ y=y_0}]
+- stem:[ z_x^' \|_{x= x_0, \ y=y_0}]
+- stem:[f_x^' (x_0, y_0) ]
+
+|对 y 的偏导数:
+|*就是把 x 固定在 stem:[ x_0]处, 只剩 y 一个变量来变化.* 即, y在stem:[ y_0]处有一个增量 Δy,  则该函数对 y 的导数就是: stem:[ lim_{Δy -> 0} \frac{ f(x_0, \ y_0+Δy) - f(x_0, y_0)} {Δy}]  ← 现在变化的只有 stem:[ y_0], 而 stem:[ x_0] 是固定住的.
+
+对 y 的偏导数, 可以有下面几种写法:
+
+- stem:[ \frac{∂z} {∂y} \|_{x= x_0, \ y=y_0}]
+- stem:[ z_y^' \|_{x= x_0, \ y=y_0}]
+- stem:[f_y^' (x_0, y_0) ]
+|===
+
+
+---
+
+== ① 如何求对 x 的偏导? -> 把 y 视为常数, 直接对 x 求导就行. ② 如何求对 y 的偏导? -> 把 x 视为常数, 直接对 y 求导就行.
+
+.标题
+====
+例如： +
+image:img/630.png[,470]
+====
+
+
+
+.标题
+====
+例如： +
+image:img/631.png[,670]
+====
+
+
+
+.标题
+====
+例如： +
+image:img/632.png[,600]
+====
+
+
+.标题
+====
+例如： +
+image:img/633.png[,630]
+====
+
+
+---
+
+== 偏导数的几何意义
+
+image:img/635.png[,600]
+
+image:img/634.webp[]
+
+
+.标题
+====
+例如： +
+image:img/636.png[,670]
+====
+
+
+
+
+
+
+---
 
