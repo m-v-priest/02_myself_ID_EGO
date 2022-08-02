@@ -47,18 +47,26 @@ image:img/662.png[,580]
 
 上面这个求导公式, 太复杂, 对于实际的题目, 我们都是直接做的, 而不去套用上面的公式.
 
-
-
-
-
+.标题
+====
+例如： +
+image:img/663.png[,850]
+====
 
 ---
 
+==== Cramer's Rule 克莱姆法则:
 
+用克莱姆法则, 来解方程组:
 
-https://www.bilibili.com/video/BV1Eb411u7Fw?p=96&spm_id_from=pageDriver&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
+image:img/664.png[,500]
 
-12.15
+image:img/665.jpg[,500]
+
+但是, 对于多于两个或三个方程的系统，"克莱姆的规则"在计算上就非常低效, 计算量太大.
+
+---
+
 
 
 
