@@ -1,15 +1,87 @@
 
-= 一元向量值函数 及其导数
+= 一元向量值函数 及其导数 Vector-valued function
 :toc: left
 :toclevels: 3
 :sectnums:
 
 ---
 
-== 一元向量值函数
+== 一元向量值函数 Vector-valued function
+
+image:img/666.png[,700]
+
+即 stem:[ f: D -> R^n] +
+f 是个"一元向量值函数." 向量值函数, 也就是说, 它的输出值, 是一个向量.  +
+它的"输入空间"是 stem:[ D \in R], 即自变量参数是一个实数(就是一维的). +
+它的"输出空间"是 stem:[ R^n], *即函数 f 是接收一个一元的东西, 把它映射到n维空间中.*
+
+stem:[ f(t)=f_1(t) \cdot i + f_2(t) \cdot j + f_3(t) \cdot k] +
+*其中的 stem:[f_1(t) , f_2(t)  , f_3(t) ] 就是输出向量的三个分量(即坐标).*
+
+即, 输出的向量, 就是 stem:[ \[f_1(t) , f_2(t)  , f_3(t)\]^T ]
+
+
+image:img/667.png[]
+
+向量值函数的举例 :
+
+image:img/668.png[]
+
+---
+
+
+== 向量值函数的 极限
+
+image:img/677.png[]
+
+
+.标题
+====
+例如： +
+image:img/676.png[,400]
+====
+
+
+---
+
+== 向量值函数的 导数
+
+image:img/669.png[]
+
+
+.标题
+====
+例如： +
+image:img/679.png[,500]
+====
+
+
+---
+
+== 向量值函数的 微分法则
+
+
+image:img/671.png[]
+
+---
+
+image:img/670.png[]
+
+image:img/672.png[,500]
+
+image:img/673.png[,500]
+
+image:img/674.png[,500]
+
+
+---
+
+== 几何意义
+
+image:img/675.png[,900]
+
+image:img/678.png[,200]
 
 
 
-
-https://www.bilibili.com/video/BV1Eb411u7Fw?p=98&spm_id_from=pageDriver&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
-
+---
