@@ -13,7 +13,7 @@ image:img/684.png[,300]
 
 
 
-
+https://www.bilibili.com/video/BV1EQ4y1M7ir?spm_id_from=333.337.search-card.all.click&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
 
 
 
@@ -25,6 +25,15 @@ image:img/684.png[,300]
 法线 normal line : 与"切线"垂直的, 就是"法线". 但在3维空间里, 与一条切线垂直的, 就不仅仅是一条法线了, 而是有无数条法线. 它们就构成一个平面 -- 法平面 Normal plane.
 
 image:img/680.webp[]
+
+
+.标题
+====
+例如： +
+image:img/701.png[]
+====
+
+
 
 
 
