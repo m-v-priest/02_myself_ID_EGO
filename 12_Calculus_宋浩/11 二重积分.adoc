@@ -296,12 +296,17 @@ image:img/713.png[,150]
 
 
 
+
+
 ---
 
-== 极坐标下, 求二重积分的体积 ->  stem:[ x= ρ cos θ, \ y = ρ sin θ]
+== 极坐标下 (stem:[ x= ρ cos θ, \ y = ρ sin θ]), 求二重积分的体积 ->  stem:[ \int \int f(x,y) dσ = \int \int \[ f(ρ \cdot cosθ, ρ \cdot sinθ) \cdot ρ \cdot dρ  \] \ dθ]
 
 image:img/742.png[,250]
 
+image:img/743.png[,450]
+
+image:img/744.png[,700]
 
 
 
@@ -316,4 +321,4 @@ image:img/742.png[,250]
 
 https://www.bilibili.com/video/BV1Eb411u7Fw?p=116&spm_id_from=pageDriver&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
 
-5.16
+15.36
