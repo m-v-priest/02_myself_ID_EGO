@@ -272,9 +272,18 @@ image:img/714.png[,400]
 
 image:img/715.png[,400]
 
+image:img/716.png[,800]
 ====
 
 
+
+.标题
+====
+例如： +
+image:img/717.png[,300]
+
+image:img/718.png[,700]
+====
 
 
 ---
@@ -287,9 +296,24 @@ image:img/713.png[,150]
 
 
 
+---
+
+== 极坐标下, 求二重积分的体积 ->  stem:[ x= ρ cos θ, \ y = ρ sin θ]
+
+image:img/742.png[,250]
 
 
 
-https://www.bilibili.com/video/BV1Eb411u7Fw?p=113&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
 
-1.13.42
+
+
+
+
+
+
+
+
+
+https://www.bilibili.com/video/BV1Eb411u7Fw?p=116&spm_id_from=pageDriver&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
+
+5.16

@@ -469,6 +469,15 @@ image:img_geogebra/geogebra_56.png[]
 image:img_geogebra/geogebra_33.png[]
 
 
+
+==== #角度的方向# -> Angle( <Point>, <Point>, <Point>, <Direction> )
+
+
+image:img_geogebra/098.png[]
+
+官方文档: +
+https://wiki.geogebra.org/en/Angle_Command
+
 ---
 
 == 弧度

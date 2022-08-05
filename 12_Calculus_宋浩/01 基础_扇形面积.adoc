@@ -1,0 +1,54 @@
+
+= 扇形面积
+:toc: left
+:toclevels: 3
+:sectnums:
+
+---
+
+== 扇形面积 -> stem:[ S_扇= \frac{1} {2} ("弧长"L \cdot "半径"r)]
+
+image:img10/10_198.webp[,300]
+
+扇形的弧长, 而我们用 L (arc length) 表示.
+
+image:img10/10_199.png[,450]
+
+---
+
+== 扇形面积 -> stem:[S_扇= \frac{1} {2} r^2 \cdot dθ ]
+
+image:img10/10_200.png[,600]
+
+
+
+---
+
+== 扇形面积 (极坐标表示) -> stem:[ dA = \frac{1} {2} \cdot "ρ曲线函数"^2 \cdot dθ]
+
+[options="autowidth"]
+|===
+|Header 1 |Header 2
+
+|image:img10/10_203.png[,350]
+|image:img10/10_201.png[,500]
+
+image:img10/10_202.png[,550]
+|===
+
+
+.标题
+====
+例如： +
+image:img10/10_205.png[,250]
+
+image:img10/10_204.png[,650]
+====
+
+
+
+
+
+---
+
+
