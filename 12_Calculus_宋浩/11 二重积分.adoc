@@ -309,16 +309,75 @@ image:img/743.png[,450]
 image:img/744.png[,700]
 
 
+.标题
+====
+例如： +
+image:img/745.svg[,250]
+
+image:img/747.png[,650]
+====
+
+
+
+.标题
+====
+例如： +
+image:img/746.svg[,250]
+
+image:img/748.png[,600]
+====
+
+
+
+.标题
+====
+例如： +
+image:img/752.png[,200]
+
+一定要画射线! 才能知道 ρ 这条"半径" 的扫过区域 (下限及上限).
+
+image:img/753.png[,600]
+====
+
+**从上面几列的"极坐标"二重积分中, 我们可以看出: 要先对ρ做积分(dρ), 再对θ做积分(dθ)**
+
+
+.标题
+====
+例如： +
+image:img/755.png[,150]
+
+image:img/754.png[,850]
+====
+
+
+
+.标题
+====
+例如： +
+image:img/756.png[,150]
+
+image:img/757.png[,850]
+
+image:img/758.png[,700]
+====
 
 
 
 
 
+---
 
+== 高数叔 讲解
 
+image:img/749.jpg[,350]
+
+image:img/750.jpg[,350]
+
+image:img/751.jpg[,350]
 
 
 
 https://www.bilibili.com/video/BV1Eb411u7Fw?p=116&spm_id_from=pageDriver&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
 
-15.36
+41.00
