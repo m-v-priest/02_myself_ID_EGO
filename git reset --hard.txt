@@ -1,0 +1,4 @@
+
+不保留本地的修改，直接覆盖
+git reset --hard
+git pull origin master
