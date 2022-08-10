@@ -69,10 +69,68 @@ image:img/788.png[,]
 
 ---
 
-== 柱面坐标
+== 柱面坐标系
+
+二重积分里, 不同的坐标系有: 直角坐标系, 极坐标系 +
+三重积分里, 也有不同的坐标系, 如: 柱面坐标
+
+柱面坐标系, 就是: x, y轴 换成"极坐标"来表示, 但 z轴 依然用z来表示. 即:
+\begin{align}
+三个轴是: \begin{cases}
+& x= ρ cosθ\\
+&  y=ρ sinθ \\
+&  z=z \\
+\end{cases}
+\ <- 其中各参数的取值范围是:
+\begin{cases}
+& 0 \leq θ \leq 2π \\
+& 0 \leq ρ \leq +∞ \\
+& -∞ < z < +∞ \\
+\end{cases}
+\end{align}
+
+image:img/793.webp[,400]
+
+
+
+那么, 我们什么时候会选用"柱面坐标"来做呢? 当 x,y轴 比较适合用"极坐标"来表示时. 即, 在xoy 底面上, 是个圆的物体
+
+同时, stem:[ dv= dx \ dy \ dz = ρ \ dρ \ dθ \ dz]
+
+image:img/790.png[,250]
+
+
+
+.标题
+====
+例如： +
+image:img/792.png[,200]
+
+image:img/791.png[,800]
+====
+
+
+.标题
+====
+image:img/795.png[,150]
+
+image:img/794.png[,800]
+====
+
+
+.标题
+====
+例如： +
+image:img/796.png[,400]
+====
+
+---
+
+== 球面坐标系
 
 
 
 
 
-https://www.bilibili.com/video/BV1Eb411u7Fw?p=123&spm_id_from=pageDriver&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
+
+https://www.bilibili.com/video/BV1Eb411u7Fw?p=124&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
