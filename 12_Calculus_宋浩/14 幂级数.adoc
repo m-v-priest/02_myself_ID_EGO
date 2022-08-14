@@ -1,0 +1,76 @@
+
+= 幂级数 Power series
+:toc: left
+:toclevels: 3
+:sectnums:
+
+---
+
+== 幂级数 Power series
+
+image:img/832.png[,670]
+
+
+image:img/833.png[,650]
+
+.标题
+====
+例如： +
+image:img/834.png[,500]
+====
+
+---
+
+=== 定理: (阿贝尔定理)
+
+image:img/835.png[,650]
+
+image:img/836.png[,800]
+
+R : 就是"收敛半径" (R > 0) +
+(-R, R) : 就是"收敛区间"  <- 注意: 收敛区间, 一定是开区间  +
+(-R, R) + 收敛的端点 : 就是"收敛域".  <- "收敛域", 包含了"收敛区间", 还包扩闭区间. +
+
+---
+
+=== 定理:
+
+image:img/837.png[,800]
+
+.标题
+====
+例如： +
+image:img/838.png[,800]
+====
+
+
+
+
+
+---
+
+
+https://www.bilibili.com/video/BV1Eb411u7Fw?p=146
+
+20.39
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+https://www.bilibili.com/video/BV1Eb411u7Fw?p=146
+
+
+
+
+https://blog.csdn.net/hpdlzu80100/article/details/106455008

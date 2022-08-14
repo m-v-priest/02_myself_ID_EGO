@@ -89,12 +89,15 @@ image:img/812.svg[,450]
 ====
 
 
-所以, 我们比较的对象, 经常是"调和级数"或"p级数". 通过和它们的对比, 来判断出你原式级数的敛散性.
+所以, 我们比较的对象, 经常是 "等比级数" stem:[\sum a q^{n-1}], "调和级数" stem:[\sum 1/n] , 或"p级数" stem:[\sum 1/n^p]. 通过和它们的对比, 来判断出你原式级数的敛散性.
 
+.标题
+====
+例如： +
+image:img/814.png[,650]
 
-
-
-
+image:img/813.svg[,450]
+====
 
 https://www.bilibili.com/video/BV1Qx411m7vf?spm_id_from=333.337.search-card.all.click&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
 
@@ -102,6 +105,61 @@ https://www.bilibili.com/video/BV1Qx411m7vf?spm_id_from=333.337.search-card.all.
 
 ---
 
-https://www.bilibili.com/video/BV1Eb411u7Fw?p=142&spm_id_from=pageDriver&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
+=== 定理4: 比值审敛法 (比值判别法) ← 其实就是看看它是"增函数", 还是"减函数"
 
-24.55
+image:img/815.png[,600]
+
+.标题
+====
+例如： +
+image:img/817.png[,800]
+====
+
+image:img/816.webp[,400]
+
+
+
+.标题
+====
+例如： +
+image:img/818.png[,550]
+
+image:img/819.png[,350]
+====
+
+---
+
+=== 定理5: 根值审敛法 (柯西判别法)
+
+image:img/820.png[,600]
+
+image:img/821.webp[,400]
+
+
+什么时候, 我们就使用这"根值审敛法"呢? 就是当我们要判断的数, 本身是n次方时, 那么再给它套个根号n, 就能把原式中的n次消掉了, 就降低了判断的难度. 即: stem:[ \[ ()^n \]^(1/n) ]
+
+
+
+
+.标题
+====
+例如： +
+image:img/822.png[,700]
+====
+
+
+
+
+.标题
+====
+例如： +
+image:img/823.png[,500]
+====
+
+
+
+
+
+---
+
+
