@@ -86,12 +86,27 @@ image:img/842.png[,650]
 
 == 幂级数的运算
 
+=== 性质2: 幂级数的积分 = 每一项先求积分, 再求和
+
+image:img/843.png[,650]
+
+---
+
+=== 性质3: 幂级数的导数 = 每一项先导数, 再求和
+
+image:img/844.png[,450]
+
+.标题
+====
+例如： +
+image:img/845.png[,700]
+====
 
 
 
+总结见下面的连接
 
-
-https://www.bilibili.com/video/BV1Eb411u7Fw?p=147&spm_id_from=pageDriver&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
+https://v.youku.com/v_show/id_XMjc2NzEzNDc1Ng==.html?spm=a2h0c.8166622.PhoneSokuUgc_2.dtitle
 
 
 ---
