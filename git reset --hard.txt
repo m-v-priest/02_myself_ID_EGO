@@ -2,3 +2,18 @@
 不保留本地的修改，直接覆盖
 git reset --hard
 git pull origin master
+
+
+
+----
+
+== 报错 error: The following untracked working tree files would be overwritten by merge
+
+解决:
+git clean -d -fx
+git pull origin master
+
+
+---
+
+
