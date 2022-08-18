@@ -178,6 +178,27 @@ image:img/0007.png[,450]
 image:img/0013.png[,450]
 
 
+古典概率模型的性质:
+
+[options="autowidth"]
+|===
+|Header 1 |Header 2
+
+|性质1: 非负数性
+|stem:[ 0 <= P(A) <= 1]
+
+|性质2: 非负数性
+|stem:[ P(Ω)=1, \quad  P(Φ)=0]
+
+|性质3: 有限可加
+|stem:[ A_1, A_2, ... A_n] 是互不相容的.
+
+stem:[ P(A_1 +A_2 + ...+ A_n)= P(A_1) +  P(A_2)  + P(A_n) ]
+|===
+
+*古典概率模型: +
+其优点是: 可以直接套公式来算. +
+但其缺点是: ①其结果必须是"有限个"的结果 (如, 掷骰子, 结果就是6个基本事件, 而不是无限个事件.) ②其结果, 必须是"等可能性".*
 
 
 ---
@@ -272,10 +293,19 @@ image:img/0016.png[,700]
 
 
 
+.标题
+====
+例如： +
+image:img/0017.png[,550]
+====
 
 
 
-
+.标题
+====
+例如： +
+image:img/0018.png[,750]
+====
 
 
 ---
@@ -283,14 +313,7 @@ image:img/0016.png[,700]
 
 
 
-
-
-
-
 https://www.bilibili.com/video/BV1D741147G5?p=7&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
 
 46.59
-
-
-https://www.bilibili.com/video/BV1ot411y7mU?p=6&spm_id_from=pageDriver&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
 

@@ -1,0 +1,44 @@
+
+= 几何概型 geometric models of probability
+:toc: left
+:toclevels: 3
+:sectnums:
+
+---
+
+== 几何概型 geometric models of probability
+
+即, 这类概率问题, 能够转换成用"几何问题"来求解.
+
+.标题
+====
+例如： +
+image:img/0019.png[,800]
+
+image:img/0020.png[,300]
+====
+
+
+
+
+.标题
+====
+例如： +
+
+
+image:img/0021.svg[,400]
+
+image:img/0022.svg[,600]
+====
+
+
+
+
+
+
+---
+
+
+https://www.bilibili.com/video/BV1ot411y7mU?p=7&spm_id_from=pageDriver&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
+
+24.00
