@@ -25,20 +25,35 @@ image:img/0020.png[,300]
 ====
 例如： +
 
+image:img/0023.png[,]
 
 image:img/0021.svg[,400]
 
-image:img/0022.svg[,600]
+image:img/0022.svg[,800]
+
+image:img/0024.png[,550]
+
 ====
 
 
+[options="autowidth"]
+|===
+|古典概率模型 ↓|几何概率模型↓
+
+|有限可加性（finite additivity）: 是指"有限个"两两互不相容事件的"和事件"的概率，等于每个事件概率的和。
+
+ stem:[ P(∪_(i=1)^n A_i) = \sum_(i=1)^n P(A_i)]
+
+|完全可加性: stem:[ P(∪_(i=1)^∞ A_i) = \sum_(i=1)^∞ P(A_i)] +
+即, 先求和, 再求概率, 等于 先求每个事件概率, 再求和.
+|===
+
+注意两者的区别: 一个是"有限(到n)"的加,  一个是"无限(到∞)"的加.
+
+image:img/0025.png[,550]
 
 
 
 
 ---
 
-
-https://www.bilibili.com/video/BV1ot411y7mU?p=7&spm_id_from=pageDriver&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
-
-24.00
