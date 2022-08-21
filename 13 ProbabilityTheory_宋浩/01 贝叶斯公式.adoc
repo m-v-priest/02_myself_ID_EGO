@@ -8,9 +8,35 @@
 
 == 贝叶斯公式 Bayes Rule
 
+全概率公式, 是从"原因"来推"结果的可能性是多少".
+
+
+贝叶斯公式, 是从"结果"来推其"某种原因的可能性是多少". 即 stem:[P("原因"_i|"某结果")]
+
+.标题
+====
+例如： +
+image:img/0057.png[,850]
+====
+
+
+
+---
+
+== 定理
+
+===
+
+image:img/0058.png[,]
+
+image:img/0059.png[,550]
+
+
 
 
 ---
 
 
 https://www.bilibili.com/video/BV1ot411y7mU?p=14&spm_id_from=pageDriver&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
+
+13.00
