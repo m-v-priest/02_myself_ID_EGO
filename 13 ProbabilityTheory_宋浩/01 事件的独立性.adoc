@@ -57,7 +57,35 @@
 stem:[ P(A)>0, \quad P(B)>0], "独立"与"互不相容"不会同时成立.
 
 - 若 A,B 是互相独立事件, 则 stem:[ P(AB)=P(A) \cdot P(B) > 0]
-- 若stem:[ AB=Φ], 则
+
+
+.标题
+====
+例如： +
+image:img/0062.png[,700]
+====
+
+---
+
+== 多个事件彼此独立
+
+若 A,B,C 互相独立, 则有:
+
+- stem:[ P(AB) = P(A) \cdot P(B)]
+- stem:[ P(BC) = P(B) \cdot P(C)]
+- stem:[ P(AC) = P(A) \cdot P(C)]
+- stem:[P(ABC) =P(A) \cdot P(B) \cdot P(C) ]
+
+---
+
+== 什么时候能使用 "独立事件"来做概率题目? -- 比如, 前后投篮, 前后射击问题.
+
+
+.标题
+====
+例如： +
+image:img/0063.png[,650]
+====
 
 
 
@@ -66,6 +94,8 @@ stem:[ P(A)>0, \quad P(B)>0], "独立"与"互不相容"不会同时成立.
 
 
 
-https://www.bilibili.com/video/BV1ot411y7mU?p=16&spm_id_from=pageDriver&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
 
-25.25
+
+
+
+https://www.bilibili.com/video/BV1ot411y7mU?p=17&spm_id_from=pageDriver&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
