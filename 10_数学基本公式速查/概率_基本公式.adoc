@@ -93,7 +93,7 @@ stem:[ P(A-B) = P(A) - P(AB)]
 
 == 事件之间, 是"互不相容"的
 
-=== "古典概型", 和"完备事件组"中的事件, 就属于"互不相容的"
+=== 互不相容事件 + 古典概率
 
 [options="autowidth"]
 |===
@@ -111,8 +111,16 @@ image:img/058.png[,450]
 |"几何概率模型" 具有 "完全可加性" (加到 ∞):  +
 先求和, 再求概率, 等于 先求每个事件概率, 再求和.
 |stem:[ P(∪_(i=1)^∞ A_i) = \sum_(i=1)^∞ P(A_i)]
-
 |===
+
+---
+
+=== 互不相容 + 完备事件组
+
+
+
+
+
 
 
 
@@ -140,7 +148,24 @@ image:img/058.png[,450]
  = \frac{P(AB)} {P(B)}
 \end{align}
 
-|
-|
+image:../13 ProbabilityTheory_宋浩/img/0042.svg[,400]
+
+|条件概率下的"互不相容"事件:
+|若 stem:[ A_1, A_2, ... A_n, ...] 是"互不相容"的事件,  则有: +
+stem:[ P(\sum_{i=1}^∞ A_i \| B) = \sum_{i=1}^∞ P(A_i \| B)]
+
+|乘法公式
+| stem:[ P(前后)=P(后) \cdot P(前 \|后) = P(前) \cdot P(后 \|前)]   +
+规律就是"前后前后"这样交错, 或反过来交错.
+
+image:../13 ProbabilityTheory_宋浩/img/0043.png[,500]
+
+image:../13 ProbabilityTheory_宋浩/img/0044.svg[,600]
+
+
+image:../13 ProbabilityTheory_宋浩/img/0045.png[,]
+
 
 |===
+
+
