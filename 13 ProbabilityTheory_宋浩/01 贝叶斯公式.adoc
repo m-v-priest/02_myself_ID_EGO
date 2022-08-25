@@ -23,7 +23,7 @@ image:img/0057.png[,850]
 
 ---
 
-== 定理: 从"果", 来推是某"因"的可能性大小: 贝叶斯公式: stem:[ P(A_k | B) = \frac{P(A_k) \ cdot P(B | A_k)} {\sum_{i=1}^n \[P(A_i) \cdot P(B | A_i)\]} = \frac{P(A_k B)} {P(B)} ]
+== 定理: 从"果", 来推是某"因"的可能性大小: 贝叶斯公式: stem:[ P(A_k | B) = \frac{P(A_k) \cdot P(B | A_k)} {\sum_{i=1}^n \[P(A_i) \cdot P(B | A_i)\]} = \frac{P(A_k B)} {P(B)} ]
 
 
 image:img/0058.png[,]
