@@ -35,9 +35,33 @@ stem:[ {Z≤1500}] 表示该生物的寿命不超过1500小时这一随机事件
 
 比如, 随机变量X,  其=a的话, 我们就把这个事件, 记作 stem:[ {X=a}],  其概率就是 stem:[ P{X=a}], 或写作 stem:[P(X=a)].
 
+
+
+
+
 ---
 
-== 离散型随机变量, 及其概率分布
+== 离散型随机变量, 及其概率分布 -- 分布函数
+
+=== 分布函数
+
+分布函数, 就是:  +
+\begin{align*}
+F(x) = P\{随机变量X \leq 随机变量的取值x\}  ,\quad x \in (-∞, +∞)
+\end{align*}
+
+我们就称: F(x) 为 随机变量X 的 "分布函数". +
+F(x) 是 关于小x 的函数. 即, 小x 是自变量.
+
+注意: 随机变量X 是一个取值的范围, 如下图, 它从(-∞, x).  当然, stem:[x \in (-∞, +∞)]
+
+image:img/0070.png[]
+
+---
+
+=== 分布函数的充要条件:
+
+image:img/0071.png[,750]
 
 
 
@@ -51,13 +75,13 @@ stem:[ {Z≤1500}] 表示该生物的寿命不超过1500小时这一随机事件
 
 https://www.bilibili.com/video/BV1ot411y7mU?p=19&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
 
-
 15.31
 
 
 
 https://www.bilibili.com/video/BV1tg4y1q7yJ?spm_id_from=333.337.search-card.all.click&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
 
+21.58
 
 
 
