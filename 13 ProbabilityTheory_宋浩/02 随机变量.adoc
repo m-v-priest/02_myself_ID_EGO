@@ -57,6 +57,18 @@ F(x) 是 关于小x 的函数. 即, 小x 是自变量.
 
 image:img/0070.png[]
 
+
+.标题
+====
+例如： +
+image:img/0072.png[,750]
+
+然后, 我们画出概率分布表:
+
+image:img/0073.png[,350]
+====
+
+
 ---
 
 === 分布函数的充要条件:
@@ -64,18 +76,22 @@ image:img/0070.png[]
 image:img/0071.png[,750]
 
 
-
-
-
-
 ---
 
+== 连续性随机变量, 及其"概率密度函数"
+
+注意区别:
+
+- "离散型"的随机变量, 其函数叫"分布函数"
+- "连续性"的随机变量, 其函数叫"概率密度函数"
 
 
 
-https://www.bilibili.com/video/BV1ot411y7mU?p=19&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
 
-15.31
+
+
+
+
 
 
 
@@ -87,7 +103,9 @@ https://www.bilibili.com/video/BV1tg4y1q7yJ?spm_id_from=333.337.search-card.all.
 
 
 
+https://www.bilibili.com/video/BV1ot411y7mU?p=21&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
 
+9.28
 
 
 
