@@ -87,6 +87,72 @@ image:img/0071.png[,750]
 
 image:img/0074.png[,750]
 
+image:img/0075.png[,330]
+
+
+概率密度函数（Probability Density Functions，简称PDF）
+
+定义：设X 为一随机变量，若存在"非负""可积"的"实函数" stem:[f(x) \ge 0]，使对任意实数 stem:[a < b]，有：
+
+stem:[P\{ a \le x < b\} = \int_a^b f(x)dx]
+
+则称 X 为"连续随机变量"，f(x) 称为 X 的"概率密度函数"，简称"概率密度"或"密度函数".
+
+
+概率密度函数具有如下性质：
+
+[options="autowidth"]
+|===
+|Header 1 |Header 2
+
+|1.非负性：
+|stem:[f(x) \ge 0]
+
+|2.规范性：
+|stem:[\int_{ - \infty }^{ + \infty } f(x)dx = 1]
+
+image:img/0076.webp[,300]
+
+|3.连续型随机变量, 取"个别值"的概率, 为0.
+|比如, 在一段区间上, 投掷质点(无面积, 0维), 该质点砸中任何一个数值的概率, 就是为0.
+
+你可以倒过来想: 如果"该质点能砸中某个数值"的概率, 是可以给出的, 比如是 0.000001%, 那"一段区间"上是有无穷多的点的, 0.000001% 乘以无穷多, 一定是会超过 100%的, 这就违反了概率不能超过1 的定义. 所以, "质点投中任何位置处"的概率, 都无法给出, 是0.
+|===
+
+对于"连续型随机变量", 有没有两端的端点, 无所谓, 不影响概率值(因为它在任何一个"确定点"的概率都是0嘛). 即: +
+\begin{align*}
+& P \{ a \leq X \leq b \} \\
+& = P \{ a < X \leq b \} <- 即, 两端是否有"等于号", 无所谓. \\
+& = P \{ a \leq X < b \}  \\
+& = P \{ a < X < b \}
+\end{align*}
+
+
+同样, +
+\begin{align*}
+& P\{X<a\} = P \{X \leq a \} <- 有没有"等于号"无所谓 \\
+& P\{X > a\} = P \{X \geq a \} \\
+\end{align*}
+
+注意: 概率为0 的事件, 未必是"不可能事件". (如, 扔质子) +
+概率为1 的事件, 未必是"必然事件".
+
+
+.标题
+====
+例如： +
+image:img/0077.png[,700]
+
+image:img/0078.svg[,350]
+====
+
+---
+
+=== 连续性概率函数, 在"x=某一点处"的概率求法 -> 要用"极限"的概念来求.
+
+image:img/0079.png[,600]
+
+---
 
 
 
@@ -94,18 +160,6 @@ image:img/0074.png[,750]
 
 
 
-
-https://www.bilibili.com/video/BV1tg4y1q7yJ?spm_id_from=333.337.search-card.all.click&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
-
-21.58
-
-
-
-
-
-https://www.bilibili.com/video/BV1ot411y7mU?p=21&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
-
-27.00
 
 
 

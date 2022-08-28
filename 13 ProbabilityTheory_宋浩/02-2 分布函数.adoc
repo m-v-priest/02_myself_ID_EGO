@@ -1,0 +1,110 @@
+
+
+= 分布函数
+:toc: left
+:toclevels: 3
+:sectnums:
+
+---
+
+
+== 分布函数 <- 离散型, 和连续型 随机变量, 都有"分布函数".
+
+注意: 以下的性质, 对离散型, 和连续型, 都成立!
+
+image:img/0080.png[,900]
+
+
+[options="autowidth"]
+|===
+|Header 1 |Header 2
+
+|右连续
+|所谓"右连续", 就是"函数从x在某点的右侧, 逼近该点"的极限值, 就等于"该点处的y值", 即: stem:[\lim_{x -> a^+} F(x) = F(a)]
+
+|左连续
+|同理, "左连续"就是: stem:[\lim_{x -> a^-} F(x) = F(a)]
+
+|连续
+|同时满足"左连续"和"右连续"的函数, 就称为是"连续"的. 即stem:[\lim_{x -> a} F(x) = F(a)].
+|===
+
+---
+
+== 分布函数的公式 (对离散型, 和连续型, 都成立)
+
+
+image:img/0081.png[,600]
+
+下面用配图来说明, 即:
+
+[options="autowidth"]
+|===
+|分布函数 stem:[F(x)=P{X \leq x}] 的公式有: |图中, stem:[蓝-绿=橙]
+
+|① stem:[P{X \leq a} = F(a)]
+|
+
+|② stem:[P{X < a} = F(a-0)]
+|
+
+|③ stem:[P{X > a} = 1- P{X \leq a} = 1- F(a)]
+|
+
+|④ stem:[P{X \geq a} = 1- F(a-0)]
+|image:img/0086.svg[,300]
+
+|⑤ stem:[P{X=a} = F(a) - F(a-0)]
+|image:img/0083.svg[,300]
+
+|⑥ stem:[P{a < X \leq b} = P(X \leq b) - P(X \leq a)]
+|image:img/0082.svg[,300]
+
+|⑦ stem:[P{a \leq X \leq b} = F(b) - F(a-0)]
+|image:img/0084.svg[,300]
+|===
+
+
+.标题
+====
+例如： +
+image:img/0087.png[,800]
+====
+
+
+
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+https://www.bilibili.com/video/BV1tg4y1q7yJ?spm_id_from=333.337.search-card.all.click&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
+
+21.58
+
+
+
+
+宋浩
+https://www.bilibili.com/video/BV1ot411y7mU?p=23&spm_id_from=pageDriver&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
+
+
+10.58
