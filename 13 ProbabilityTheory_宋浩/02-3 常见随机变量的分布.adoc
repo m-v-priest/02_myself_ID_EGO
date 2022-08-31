@@ -52,6 +52,55 @@ image:img/0113.png[,600]
 
 === 二项分布 binomial distribution
 
+本质上，"二项事件"是一系列相同的"伯努利事件"。
+
+我们用字母“B”来表示二项分布， 即: stem:[ B("试验次数"n, "每项试验成功的概率"p)].
+
+比如, 我们将 stem:[ X ~ B(10, 0.6)] 读作: 变量“X”遵循10次试验中, 每项试验成功的可能性为0.6的 二项分布。  +
+Variable “X” follows a Binomial distribution with 10 trials /and a likelihood of success of 0.6 /on each individual trial.
+
+此外，我们可以通过一次试验, 将"伯努利分布", 表示为"二项分布"。
+
+image:img/0126.png[,500]
+
+假设, 你的教授给全班同学来了一个惊喜的突击测验，考试是10个判断题. 你对某一道题的猜测, 这就是属于"伯努利事件" a Binomial Event  (只有两种选择, "对"或"错"). 而整个测验, 是属于一个"二项事件"。 the entire quiz is a Binomial Event.
+
+
+其中，"伯努利分布"的期望值, 表明我们对单个试验的预期结果。 +
+the expected value of the Bernoulli distribution /suggests(v.) which outcome we expect for a single trial.
+
+现在，"二项分布"的期望值, 是我们期望获得特定结果的次数。 +
+the expected value of the Binomial distribution /would suggest(v.) the number of times we expect to get a specific outcome.
+
+image:img/0127.png[,500]
+
+*二项分布表示, 在特定的次数内, 能达到我们期望结果的可能性。* +
+the graph of the binomial distribution /represents(v.) the likelihood of /attaining(v.) our desired outcome /a specific number of times.
+
+例如， 我们来投掷一个正反面重量不平衡的硬币。如果我们投掷两次, 就需要三种不同的结果: 0个,1个, 或2个正面. 所以, 如果我们进行n次测试, 我们的图表将需要由“n+1”栏组成.
+
+image:img/0128.png[,500]
+
+如果我们希望在n次试验过程中, 精确地找到获得给定结果的相关可能性，就需要引入"二项分布的概率函数" stem:[ p(y)]. the probability function of the Binomial distribution.
+
+首先，每个单独的试验, 都是伯努利测试.
+
+- 我们把得到期望结果的概率, 表示为“p”,
+- 其他结果的可能性, 表示为"1-p".
+- 为了在n次试验中, 获得y次我们喜欢的结果
+- 我们就会有多次(“n-y”次), 得到另一个不喜欢的结果。 或者, 我们会估计"至少y次获得预期结果"的可能性。
+
+\begin{align}
+二项分布的概率函数
+\end{align}
+
+https://www.bilibili.com/video/BV1Wu411k7wq?spm_id_from=333.999.0.0&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
+
+3.59
+
+---
+
+
 某事件A发生的概率是P, 我们在做了n次试验后, 得到该事件A, 发生了k次, 则:
 
 image:img/0114.png[,470]
@@ -76,6 +125,159 @@ image:img/0117.png[,]
 ====
 
 
+.标题
+====
+例如：
+
+image:img/0118.png[,]
+
+[source, python]
+----
+from scipy.special import comb, perm
+
+'''
+# print(perm(3, 2))
+# print(comb(3, 2))
+pow(a, 1.0/2)，等价于a开2次根号
+pow(a, 2)，等于a的2次方
+'''
+
+n=80 # n代表总的机器台数
+p=0.01 # p代表每台机器会出故障的概率
+
+def fn_概率二项分布(k): # k代表坏了的台数, 即有多少台数机器出了故障
+    res= comb(n,k) * pow(p,k) * pow((1-p), n-k)
+    return res
+
+resAll = 1-fn_概率二项分布(0)-fn_概率二项分布(1)-fn_概率二项分布(2)-fn_概率二项分布(3)
+print(resAll) # 0.008659188892861415
+----
+====
+
+
+---
+
+=== 泊pō松分布 poisson distribution
+
+[options="autowidth"  cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|满足"泊松分布"的模型:
+|- 一件事在一定时间内发生的次数, 是随机的
+- 每次事件的发生, 相互独立
+- 该事件要么发生，要么不发生
+- 一段时间内, 该事件发生的概率已知
+
+|即, "泊松分布"是为了解决这样的问题的：
+|**单位时间内, 随机事件发生的次数. 即: 一件事发生的概率P已知，但它的发生与否是随机的，想要求它发生k次（至少发生k次/至多发生k次等问题）的概率。 **
+
+*当一个随机事件, 以固定的"平均瞬时速率λ"（或称"密度"）随机且独立地出现时，那么这个事件在"单位时间（面积或体积）"内出现的次数或个数, 就近似地服从"泊松分布P(λ)".*
+
+例如:
+
+- 某一服务设施在一定时间内到达的人数
+- 来到某公共汽车站的乘客
+- 某电话交换台收到的呼叫次数
+- 机器出现的故障数，
+- 一块产品上的缺陷数
+- 自然灾害发生的次数，
+- 某放射性物质发射出的粒子
+- 显微镜下某区域中的白血球
+
+|λ
+|泊松分布的**参数λ, 是单位时间(或单位面积)内, 随机事件的平均发生次数. ** +
+"泊松分布" 的期望和方差, 均为λ.
+
+|用 "泊松分布", 来作为"二项分布"的近似.
+|*当"二项分布"的n很大(比如 stem:[ n >= 100] ), 而p很小时，即 stem:[ n \cdot p<=10] 的话, 就适合用 "泊松分布", 来作为"二项分布"的近似.  其中λ为np.* +
+通常当n≧20, p≦0.05时，就可以用"泊松公式"近似得计算.
+
+事实上，"泊松分布"正是由"二项分布"推导而来的.
+
+泊松逼近定理：在n重伯努利试验中，事件A在每次试验中发生的概率为p，出现A的总次数K, 服从"二项分布" B（n,p），当n很大p很小，λ=np大小适中时，"二项分布"可用参数为 λ=np 的"泊松分布"来近似。
+
+
+|geogebra 关于 "泊松分布"的命令
+|https://wiki.geogebra.org/en/Poisson_Command
+|===
+
+
+image:img/0119.png[,400]
+
+即: 我们用 Po(λ) 来表示"泊松分布". λ是一个参数. 比如, 我们将 stem:[ Y ~ Po(4)] 读作: "变量Y" 遵循 "λ等于4" 的泊松分布.
+
+泊松分布, 涉及特定时间间隔内, 事件发生的"频率", 而不是事件发生的概率. 泊松分布, 需要知道它在特定时间段, 或距离内, 发生的"频率"。  +
+The Poisson Distribution deals with the frequency with which an event occurs in a specific interval. Instead of the probability of an event, the Poisson Distribution requires knowing how often it occurs for a specific period of time or distance.
+
+例如，已知一只萤火虫可能在10秒内, 平均点亮3次. 如果我们想确定它在20秒内点亮8次的可能性, 我们就应该使用泊松分布来预测: stem:[ Y ~ Po(3)]
+
+泊松分布图, 描绘了实例的数量. *事件发生在一个标准的时间间隔内，每个时间间隔的概率, 都是相同的。* 因为任何事件的发生次数, 不可能为负, 因此，我们的图表总是从0开始. **但在一段时间间隔内, 可能发生的次数却是没有上限的。
+**
+
+image:img/0122.png[,500]
+
+
+.标题
+====
+例如, 假设你创建了一个关于概率的在线课程。通常，你的学生每天问你大约4个问题，但昨天他们问了7个。你想知道他们问了7个问题的可能性有多大, 即 stem:[P(y=7)=?]
+
+在这个例子里:
+
+[options="autowidth"]
+|===
+|Header 1 |Header 2
+
+|单位时间里, 平均的发生次数: λ
+|你预期的**平均**问题是4个，所以，λ等于4 (因为** λ 表示单位时间(或单位面积)内, 随机事件的"平均"发生次数**).
+
+|你感兴趣的发生次数: y 或 k 表示
+|*你感兴趣的某发生次数, 用y表示.* 即 y=7
+
+|单位时间
+|时间间隔为一整个工作日.
+|===
+
+image:img/0123.png[,500]
+
+P(Y)的公式就是: +
+image:img/0124.png[,500]
+
+将具体的变量值代入上面的公式中, 即: +
+image:img/0125.png[,500]
+
+因此，收到7个问题的几率, 只有6%。
+
+
+知道了概率函数 stem:[ P("你感兴趣的发生次数"y)]，我们就能计算出"期望值 the expected value" stem:[ E(y)].
+
+根据定义，Y的期望值，等于样本空间中所有"不同值"及其"概率"的乘积之和。 +
+the expected value of Y, equals the sum of all the products of a distinct value in the sample space and its probability.
+
+\begin{align}
+期望值 E(y) & = y_0 \cdot P(y_0) + y_1 \cdot P(y_1) + ...  \\
+& = y_0 \frac{λ^{y_0} e^{-λ}}  {y_0 !} + y_1 \frac{λ^{y_1} e^{-λ}}  {y_1 !} + ... \\
+& = λ
+\end{align}
+
+同样, 其方差 the variance, 最终也等于λ。
+====
+
+
+.标题
+====
+例如： +
+image:img/0120.png[,550]
+
+image:img/0121.png[,550]
+====
+
+
+
+
+
+
+---
 
 https://www.bilibili.com/video/BV1ot411y7mU?p=27&spm_id_from=pageDriver&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
 

@@ -21,3 +21,15 @@
 == Matplotlib -> 2d绘图, 数据可视化
 
 ---
+
+
+== 用 python 计算 排列组合
+
+from scipy.special import comb, perm
+
+perm(3, 2)
+
+comb(3, 2)
+
+---
+
