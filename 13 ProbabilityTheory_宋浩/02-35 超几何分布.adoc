@@ -1,0 +1,43 @@
+
+= 常见"随机变量"的分布 : 超几何分布
+:toc: left
+:toclevels: 3
+:sectnums:
+
+---
+
+== 超几何分布 Hypergeometric Distribution
+
+image:img/0136.png[,400]
+
+image:img/0137.png[,550]
+
+超几何分布, 是统计学上一种离散概率分布。它描述了: 从有限N个物件（其中包含M个"指定种类的物件"）中抽出n个物件(不放回)，这n个物件中, 含有k个"指定种类的物件"的概率。
+
+*简单记忆就是: 从总数N个人中(其中包括了总数M个女人, 则男人数量就是 N-M), 抽出n人, 能取到k个女人的概率.*
+
+image:img/0139.svg[,300]
+
+
+.标题
+====
+例如： +
+image:img/0138.png[,700]
+====
+
+.标题
+====
+例如： +
+image:img/0140.png[,700]
+====
+
+
+image:img/0141.png[,700]
+
+
+
+
+
+https://www.bilibili.com/video/BV1ot411y7mU?p=29&spm_id_from=pageDriver&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
+
+15.03
