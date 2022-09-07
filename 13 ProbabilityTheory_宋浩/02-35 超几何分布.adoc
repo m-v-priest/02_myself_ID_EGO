@@ -36,8 +36,22 @@ image:img/0141.png[,700]
 
 
 
+.标题
+====
+例如： +
+image:img/0142.png[,]
+====
+
+总结:
+
+- 对于"超几何分布", 当总数N很大, 而 stem:[\frac{"所选的n"} {"总数N"}]很小时, 我们就能用"二项分布", 来近似该"超几何分布".
+- 对于"二项分布", 当所选出的数量n很大, 而概率P很小时, 就能用"泊松分布"来近似该"二项分布".
 
 
-https://www.bilibili.com/video/BV1ot411y7mU?p=29&spm_id_from=pageDriver&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
 
-15.03
+
+
+
+
+---
+

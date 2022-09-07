@@ -1,0 +1,36 @@
+
+= 连续概率分布
+:toc: left
+:toclevels: 3
+:sectnums:
+
+---
+
+== 连续概率分布（continuous probability distribution）
+
+
+=== 均匀分布
+
+即:
+
+\begin{align}
+f(x)=\begin{cases}
+ \dfrac{1} {b-a}   \quad &  a \leq x \leq b  \\
+  0  &  else    \\
+\end{cases}
+\end{align}
+
+
+
+
+
+---
+
+https://www.bilibili.com/video/BV1ot411y7mU?p=30&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
+
+
+
+01.03
+
+
+
