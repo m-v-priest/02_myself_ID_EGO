@@ -234,7 +234,7 @@ image:img/0165.jpg[,600]
 
 ---
 
-== 正态分布的"概率密度函数" stem:[ Φ(x)= \frac{1} {\sqrt{2π} \cdot σ} \cdot e^{-\frac{(x-μ)^2} {2σ^2}}]
+== 正态分布的"概率密度函数" (用小写的 φ 表示) ->  stem:[ φ(x)= \frac{1} {\sqrt{2π} \cdot σ} \cdot e^{-\frac{(x-μ)^2} {2σ^2}}]
 
 正态分布的"概率密度函数" Probability Density Function :
 
@@ -252,7 +252,9 @@ image:img/0171.webp[,400]
 
 *对正态分布的"概率密度函数"求积分, 即其面积=1.*  其证明过程如下:
 
+---
 
+== 正态分布的"概率分布函数"(用大写的 Φ 表示) -> stem:[Φ]
 
 
 
@@ -264,3 +266,4 @@ image:img/0171.webp[,400]
 
 
 https://www.bilibili.com/video/BV1ot411y7mU/?p=32&spm_id_from=pageDriver&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
+8.30
