@@ -28,3 +28,6 @@ git pull origin master
 
 ---
 
+== 强制 push
+
+git push -u origin master -f
