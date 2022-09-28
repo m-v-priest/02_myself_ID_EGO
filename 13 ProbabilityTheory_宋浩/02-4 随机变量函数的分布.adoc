@@ -108,7 +108,26 @@
 
 ==  "连续型" 随机变量函数的分布
 
+记住这两个公式: +
+-> 随机变量X, 它取x时, 其"累加函数"是: stem:[F_X (x)=P{X \leq x}]
+
+-> 由随机变量X, 构造出的一个新 Y (比如 Y="多少倍的X, 再加上某个数"之类), 这个Y 的"累加函数", 是: stem:[F_Y(x)=P{Y \leq x}]  <- 等号左边的 stem:[F_Y(x)] 意思是: Y是从X构造出来的.  累加函数(用F表示), 所以 stem:[F_Y(x)] 就是指 "由X构造出来的新的Y"的累加函数.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
 https://www.bilibili.com/video/BV1ot411y7mU/?p=34&spm_id_from=pageDriver&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
+
+7.21
