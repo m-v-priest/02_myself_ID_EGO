@@ -113,9 +113,38 @@
 
 -> 由随机变量X, 构造出的一个新 Y (比如 Y="多少倍的X, 再加上某个数"之类), 这个Y 的"累加函数", 是: stem:[F_Y(x)=P{Y \leq x}]  <- 等号左边的 stem:[F_Y(x)] 意思是: Y是从X构造出来的.  累加函数(用F表示), 所以 stem:[F_Y(x)] 就是指 "由X构造出来的新的Y"的累加函数.
 
+.标题
+====
+例如： +
+image:img/0202.png[,]
+====
+
+若 X 服从 [a,b] 均匀分布, 则 Y=kX+c (k ≠0) 也服从"相应区间"上的均匀分布. 这个"相应区间"是什么? 即把X代入Y的表达式中得到的结果. 即: +
+当 k>0时, 这个"相应区间"就是 [ka+c, kb+c] +
+当 k<0时, 这个"相应区间"就是顺序倒过来的 [kb+c, ka+c] +
+
+即有: +
+\begin{align}
+k>0时, 即 f_Y(x)=\begin{cases}
+\dfrac{1} {kb-ka}  & ka+c \leq x \leq kb+c \\
+0  & else \\
+\end{cases}
+\\
+k<0时, 即 f_Y(x)=\begin{cases}
+\dfrac{1} {ka-kb}  & kb+c \leq x \leq ka+c \\
+0  & else \\
+\end{cases}
+\end{align}
 
 
 
+
+
+
+
+
+
+---
 
 
 
@@ -130,4 +159,4 @@
 
 https://www.bilibili.com/video/BV1ot411y7mU/?p=34&spm_id_from=pageDriver&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
 
-7.21
+456.08

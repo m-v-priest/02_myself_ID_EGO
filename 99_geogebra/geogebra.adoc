@@ -667,7 +667,7 @@ f(x) = sin(x - 3), (x>0 && x<2)
 
 ---
 
-== 分段函数
+== #分段函数#
 
 
 
@@ -685,6 +685,21 @@ if(x<0, x, x>=0&&x<2, x^2, x>2, sinx)
 ....
 
 image:img_geogebra/geogebra_03.png[]
+
+
+[options="autowidth"]
+|===
+|Header 1 |Header 2
+
+|f=If(x<0,x^2+1,x+1)  //如果x<0，那么f的值为x^2+1，否则为x+1.
+|image:img_geogebra/102.png[,180]
+
+|如果分多层，那么在<Else>中再次嵌套使用上述指令即可。
+|image:img_geogebra/103.png[,180]
+|===
+
+
+
 
 
 ---
