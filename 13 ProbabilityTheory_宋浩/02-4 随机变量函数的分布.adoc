@@ -137,6 +137,37 @@ k<0时, 即 f_Y(x)=\begin{cases}
 \end{align}
 
 
+.标题
+====
+例如： +
+image:img/0203.png[,]
+====
+
+---
+
+== 定理: Y=kX+b 的"概率函数" 是: stem:[f_Y(x)=\frac{1} {|k|} f_X(\frac{x-b} {k})]
+
+X的"概率函数"(即概率密度函数), 若为 stem:[ f_X(x)], 则, 由X构造出的新的 Y=kX+b (k≠0), Y的"概率函数"(即概率密度函数), 就是: stem:[f_Y(x)=\frac{1} {|k|} f_X(\frac{x-b} {k})]
+
+这个定理, 我们来证明一遍:
+
+.标题
+====
+例如： +
+image:img/0204.png[,]
+====
+
+
+
+
+.标题
+====
+例如： +
+image:img/0205.png[,]
+
+image:img/0206.svg[,400]
+====
+
 
 
 
@@ -159,4 +190,4 @@ k<0时, 即 f_Y(x)=\begin{cases}
 
 https://www.bilibili.com/video/BV1ot411y7mU/?p=34&spm_id_from=pageDriver&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
 
-456.08
+1.07.21
