@@ -1,0 +1,209 @@
+
+= 二维随机变量, 及其"累加函数"(即"分布函数")
+:sectnums:
+:toclevels: 3
+:toc: left
+
+---
+
+
+== 二维随机变量 Two-dimensional Random Variable
+
+X,Y 是来自于"同一个样本空间Ω" 中的两个变量.  "二维随机变量"就写成 (X,Y), 它也可以称为"二维随机向量".
+
+二维随机变量的"累加函数", 就写成: stem:[F(x,y)=P{X \leq x, Y \leq y}], 叫做 X,Y的"联合累加函数" (即"联合分布函数"). 所谓"联合",  是因为其概率, 是由多个变量共同决定的.
+
+对于"一维随机变量"来说: +
+image:img/0208.png[,500]
+
+
+对于"二维随机变量"来说: +
+image:img/0209.png[,500]
+
+类似下图的意思:
+
+image:img/0210.jpg[,300]
+
+---
+
+== 性质 (以下性质, 对"离散型数据" 和"连续性数据"都成立)
+
+=== 把y固定的前提下, 若 stem:[x_1 < x_2], 则 stem:[F(x_1, y) \leq F(x_2, y)]
+
+---
+
+=== stem:[F(-∞, y)=0]
+
+\begin{align*}
+& F(-∞, y) \\
+& = P\{X \leq -∞, \quad Y \leq y\}\\
+& = 0
+\end{align*}
+
+image:img/0211.svg[,600]
+
+---
+
+=== stem:[F(x, -∞)=0]
+
+\begin{align*}
+& F(x, -∞) \\
+& = P\{X \leq x, \quad Y \leq -∞\}\\
+& = 0
+\end{align*}
+
+---
+
+=== stem:[F(-∞, -∞)=0]
+
+\begin{align*}
+& F(-∞, -∞) \\
+& = P\{X \leq -∞, \quad Y \leq -∞\}\\
+& = 0
+\end{align*}
+
+image:img/0212.svg[,600]
+
+---
+
+=== stem:[F(+∞, +∞)=1]
+
+\begin{align*}
+& F(+∞, +∞) \\
+& = P\{X \leq +∞, \quad Y \leq +∞\} \\
+& = 1
+\end{align*}
+
+image:img/0213.svg[,600]
+
+---
+
+=== F(x,y) 是分别关于 x 和 y "右连续"
+
+---
+
+=== stem:[P{x_1 < X ≤ x_2, \quad y_1 < Y ≤ y_2} = F(x_2, y_2) - F(x_2, y_1) - F(x_1, y_2) + F(x_1, y_1)]
+
+image:img/0214.svg[,400]
+
+---
+
+== 边缘"累加函数", 即 x 和 y 的"边缘分布"
+
+image:img/0215.png[,350]
+
+image:img/0216.png[,550]
+
+---
+
+== ----- -----
+
+---
+
+== 二维"离散型数据" 的"联合概率分布" 和"边缘概率分布"
+
+image:img/0217.png[,550]
+
+有: +
+[options="autowidth"]
+|===
+|Header 1 |Header 2
+
+|stem:[P_{ij} ≥0]
+|由X 和Y 的每个特定值, 共同构成的结果, 的概率是大于等于0的
+
+|stem:[ΣΣP_{ij} =1]
+|image:img/0218.png[,300]
+|===
+
+---
+
+=== 二维"离散型数据" 的"累加函数" stem:[F(x,y)= P{X≤x, Y≤y } = \sum_{x_i ≤ x} \sum_{y_j ≤ y} P_{ij}]
+
+image:img/0219.png[,200]
+
+image:img/0226.png[,300]
+
+
+[options="autowidth"]
+|===
+|根据上表的例题 |Header 2
+
+|stem:[F(-1,-2)=P{X ≤ -1,  \quad Y ≤ -2}=0]
+|<- 因为根据上表, X 和 Y的最小值都是从1开始的, 比1还小的话, 概率就只能是0了.
+
+|image:img/0220.png[,800]
+|image:img/0221.png[,200]
+
+|image:img/0222.png[,800]
+|image:img/0225.png[,300]
+
+
+|image:img/0223.png[,800]
+|image:img/0224.png[,250]
+|===
+
+image:img/0227.png[,300]
+
+---
+
+=== 二维"离散型数据" 的"边缘分布"
+
+image:img/0228.png[,600]
+
+image:img/0229.png[,250]
+
+即 : 对于"X放在行上, Y放在列上"的表:  +
+-> 对"行"求和, 就得到"X的边缘分布" +
+-> 对"列"求和, 就得到"Y的边缘分布" +
+
+
+image:img/0230.png[,150]
+
+
+有了"联合分布"的表格数据, 就可以唯一确定 其 X, Y "边缘分布"的值. (即, 知道单个元素的值后, 就能知道它们的"和")
+
+但反过来, 只知道"边缘分布"的值的话, 是不能从中倒推出"联合分布"的表格数据的. (即, 只知道一堆数据的总和的话, 是无法知道组成它的每个元素, 具体是什么值的.)
+
+image:img/0231.png[,350]
+
+
+---
+
+== ---------- ----------
+
+---
+
+==   二维"连续型数据" 的"概率函数" (即"概率密度函数) 和 "边缘密度函数"
+
+image:img/0232.png[,650]
+
+image:img/0233.png[,350]
+
+
+
+
+
+
+
+
+https://www.bilibili.com/video/BV1ot411y7mU?p=37&spm_id_from=pageDriver&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
+
+05.20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.bilibili.com/video/BV1ot411y7mU/?p=35&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
+
+22.24
