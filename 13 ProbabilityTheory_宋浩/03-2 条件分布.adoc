@@ -1,0 +1,64 @@
+
+= 条件分布 conditional distribution
+:sectnums:
+:toclevels: 3
+:toc: left
+
+---
+
+== 一维变量的 条件分布 conditional distribution
+
+我们已经知道: stem:[ F(x) = P{X ≤ x}]
+
+"条件分布"就是: 在一个事件A已经发生的条件下, x 的分布. 即: stem:[ F(x|A) = P {(X ≤x) | A}]
+
+
+
+.标题
+====
+例如： +
+image:img/0258.png[,800]
+
+image:img/0259.png[,800]
+====
+
+---
+
+== 离散型数据的"条件分布"
+
+.标题
+====
+例如： +
+image:img/0260.png[,400]
+
+image:img/0261.png[,600]
+
+image:img/0262.png[,600]
+
+image:img/0263.png[,600]
+====
+
+
+---
+
+
+== 连续型数据的"条件分布"
+
+image:img/0264.png[,850]
+
+.标题
+====
+例如： +
+image:img/0265.png[,]
+====
+
+
+
+
+
+
+
+
+https://www.bilibili.com/video/BV1ot411y7mU?p=41&spm_id_from=pageDriver&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
+
+11.13
