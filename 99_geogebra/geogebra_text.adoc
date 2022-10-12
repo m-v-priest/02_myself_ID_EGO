@@ -11,6 +11,16 @@ https://wiki.geogebra.org/en/Text_Commands
 
 == ★ 重要
 
+==== 修改小数点显示的精度位数
+
+image:img_geogebra/104.png[]
+
+
+
+---
+
+
+
 ==== #将小数显示成"分数"形式 -> FractionText( <Number> )#
 
 ....
