@@ -178,6 +178,45 @@ image:img/0291.png[,]
 
 
 
+.标题
+====
+例如： +
+image:img/0293.png[,]
+
+image:img/0292.svg[,500]
+====
+
+---
+
+== 二维变量, 构成的新函数 的数学期望
+
+由二维随机变量 (X,Y) 构造的新函数 Z=g(X,Y), 该Z 的数学期望:
+
+
+[options="autowidth"]
+|===
+|二维随机变量 (X,Y) 构造的新函数 Z=g(X,Y) |Z 的数学期望
+
+|(X,Y)是"离散型"二维随机变量的话
+|stem:[E(Z)=\sum_i \sum_j g(x_i, y_i) P_{ij}]
+
+连续两个Σ是什么意思? +
+比如这个式子: stem:[\sum_{i=1}^{n-1} \sum_{j=i+1}^n 1]
+
+image:img/0294.png[,]
+
+
+|(X,Y)是"连续型"二维随机变量的话
+|stem:[E(Z)=E\[g(X,Y)\]=\int_{-∞}^{+∞} \int_{-∞}^{+∞} g(x,y) f(x,y) dxdy]
+|===
+
+
+.标题
+====
+例如： +
+image:img/0295.png[,]
+====
+
 
 
 
@@ -185,4 +224,4 @@ image:img/0291.png[,]
 
 https://www.bilibili.com/video/BV1ot411y7mU?p=48&spm_id_from=pageDriver&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
 
-14.50
+37.47
