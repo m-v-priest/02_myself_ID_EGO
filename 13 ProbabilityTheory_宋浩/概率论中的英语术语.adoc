@@ -1,0 +1,248 @@
+
+概率论与数理统计常用英文词汇对照
+
+Probability Theory 概率论
+
+Trial 试验
+
+intersection 交
+
+union 并
+
+frequency 频率
+
+difference 差
+
+additivity 可加性
+
+complementation 对立
+
+contain 包含
+
+equivalent 等价
+
+mean 均值
+
+convolution [,kɔnvə'lu:ʃən] 卷积
+
+variance 方差
+
+covariance 协方差
+
+correlated 相关
+
+standard deviation 标准差
+
+Random experiment 随机试验
+
+random event 随机事件
+
+certain event 必然事件
+
+impossible event 不可能事件
+
+elementary/fundamental event 基本事件
+
+the probability of event A 事件的概率
+
+sample point 样本点
+
+sample space 样本空间
+
+Classical probability 古典概型
+
+geometric probability 几何概型
+
+conditional probability 条件概型
+
+total probability 全概率
+
+formula of multiplication 乘法公式
+
+pair wise independence 两两相互独立
+
+Distribution function 分布函数
+
+discrete random variable 离散型随机变量
+
+two-point distribution （0-1）分布
+
+binomial distribution 二次分布
+
+Poisson distribution 泊松分布
+
+hyper geometric distribution 超几何分布
+
+Continuous random variable 连续型随机变量
+
+probability density function 概率密度函数
+
+uniform distribution 均匀分布
+
+Exponential distribution 指数分布
+
+standard normal distribution 标准正态分布
+
+Cauchy distribution 柯西分布
+
+n-dimensional random vector n维随机变量
+
+bivariate random variable [bai'vεəriət] 二维随机变量
+
+joint distribution function 联合分布函数
+
+bivariate discrete random variable 二维离散型随机变量
+
+joint distribution law 联合分布律
+
+bivariate continuous random variable 二维连续型随机变量
+
+joint probability density function 联合概率密度函数
+
+bivariate normal distribution 二维正态分布
+
+marginal distribution function 边缘分布函数
+
+marginal distribution law 边缘分布律
+
+marginal probability density function 边缘概率密度函数
+
+conditional distribution function 条件分布函数
+
+conditional probability density function 条件概率密度函数
+
+mathematical expectation 数学期望
+
+standard random variable 标准随机变量
+
+moment generating function 矩母函数
+
+characteristic function 特征函数
+
+positive correlated 正相关
+
+mixed moment 混合矩
+
+negative correlated 负相关
+
+mixed central moment 混合中心矩
+
+moment of order k about the origin 阶原点矩
+
+central moment of order k 阶中心矩
+
+covariance matrix 协方差矩阵
+
+convergence in probability 依概率收敛
+
+Bernouli large numbers law 伯努力大数定律
+
+Mathematical statistics数理统计
+
+individuality 个体
+
+population 总体
+
+sample size 样本大小
+
+simple random sample 随机样本
+
+efficiency有效
+
+statistic 统计量
+
+sample mean 样本均值
+
+sample variance样本方差
+
+sample standard deviation 样本标准差
+
+sample central moment of order k样本的阶中心矩
+
+skewness ['skju:nis] 偏度
+
+coefficient of variation 变异系数
+
+order statistics 次序统计量
+
+degrees or freedom 自由度
+
+sampling distribution 抽样分布
+
+parameter estimation 参数估计
+
+point estimation 点估计
+
+estimator 估计量
+
+estimate 估计值
+
+likelihood function 似然函数
+
+method of moment 矩估计法
+
+unbiased estimator 无偏估计量
+
+maximum likelihood estimate 最大似然估计
+
+system of likelihood equations似然方程组
+
+consistent estimator 一致估计量
+
+confidence level 置信水平
+
+confidence interval 置信区间
+
+upper confidence limit 置信上限
+parametric hypothesis 参数估计
+
+
+non-parametric hypothesis 非参数估计
+
+alternative hypothesis 备择假设
+
+null hypothesis 零假设
+
+Significance level 显著性水平
+
+rejection region 拒绝域
+
+acceptance region 接受域
+
+test for goodness of fit 拟和优度检验
+
+contingency table 列连表
+
+regression function 回归函数
+
+regression equation 回归方程
+
+linear regression model 线形回归模型
+
+regression coefficient 回归系数
+
+normal linear model 正态线形模型
+
+least squares estimate 最小二乘估计
+
+method of least squares 最小二乘法
+
+sum of squares of residual 残差平方和
+
+sum of squares of regression 回归平方和
+
+sum of residual 剩余平方和
+
+total sum of squares of deviations 总变差平方和
+
+coefficient of determination 判定系数
+
+point interval 点预测
+
+prediction interval 预测区间
+
+one-way analysis variance 单因素方差分析
+
+two-way analysis of variance 双因素方差分析
+
+interaction effect 交互效应
