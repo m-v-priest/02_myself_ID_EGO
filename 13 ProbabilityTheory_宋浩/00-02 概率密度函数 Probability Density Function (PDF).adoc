@@ -6,9 +6,51 @@
 
 ---
 
+== 介绍
+
+
+image:img/0299.png[,600]
+
+[options="autowidth"]
+|===
+|Header 1 |"概率函数" 和 "累加函数"
+
+|离散型数据的
+|下图, 左边是"概率函数", 右边是"累加函数" +
+image:img/0300.png[,600]
+
+....
+- cumulative (a.) :
+having a result that increases in strength or importance each time more of sth is added （在力量或重要性方面）聚积的，积累的，渐增的
+
+including all the amounts that have been added previously 累计的；累积的
+the monthly sales figures and the cumulative total for the past six months 每月的销售数字和过去六个月的累计总数
+....
+
+image:img/0301.png[,600]
+
+image:img/0302.png[,600]
+
+image:img/0303.png[,600]
+
+|连续型数据的
+|image:img/0304.png[,600]
+
+|===
+
+image:img/0305.png[,600]
+
+
+
+
+
+
+---
+
 == 概率函数 <- 一次只能表示"一个取值的概率"
 
 === 概率质量函数(PMF) <- 是"离散型数据"的概率分布
+
 
 "离散型数据"的概率分布, 称为"概率质量函数"（PMF）. +
 典型的"离散概率分布"包括: 伯努利分布，二项分布，几何分布，泊松分布等.
@@ -59,6 +101,7 @@ image:img/0173.jpg[,]
 ---
 
 == 概率分布函数,或叫"累积分布函数" Cumulative Distribution Function (CDF) <- 是对"概率函数"值的累加结果 . 具体说就是: 是对"概率质量函数"的累加, 或对"概率密度函数"的积分
+
 
 image:img/0174.jpg[,]
 

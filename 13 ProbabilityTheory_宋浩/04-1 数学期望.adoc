@@ -157,7 +157,7 @@ image:img/0288.png[,]
 |stem:[  E(X)= \int_{-∞}^∞ \[x f(x)\] dx ]
 
 |由 "连续型随机变量X" 构造出的新函数 Y=g(X)
-|stem:[  E(Y)= \int_{-∞}^∞ \[=g(x) f(x)\] dx ]
+|stem:[  E(Y)= \int_{-∞}^∞ \[g(x) f(x)\] dx ]
 |===
 
 
@@ -227,9 +227,84 @@ image:img/0296.png[,800]
 
 
 
+.标题
+====
+例如： +
+image:img/0297.png[,800]
+
+image:img/0298.png[,]
+
+====
+
+---
+
+== "数学期望"的性质
+
+=== E\(C)= C  ← 即: 常数的期望值, 就等于常数本身
+
+因为期望值是个"均值"的概念, 常数的均值,肯定就是常数自己了.
+
+---
+
+=== E(X+常数C) = E(X)+常数C
+
+"每个人的身高(E(X))加上砖头高度(C)"的平均值 (即 E(X+C)), 就等于"每个人的平均身高E(X)"再加上踩着的砖头C高度.
+
+"随机变量X与常量C之和"的数学期望, 等于"x的期望"与"这个常量c"的和.
+
+
+---
+
+=== stem:[E(C \cdot X)=C \cdot E(X)]
+
+"把每个人的身高X乘以C倍"的平均值, 即 stem:[E(C \cdot X)], 就等于"每个人的平均身高 E(X) "乘以C倍.
+
+"常量C与随机变量X的乘积"的期望, 等于这个常量C与"此随机变量X的期望"的乘积.
+
+---
+
+=== stem:[E(kX+b)=k \cdot E(X) +b]
+
+"随机变量X的线性函数(即 kX+b)"的数学期望, 等于这个"随机变量期望"的同一线性函数.
+
+---
+
+=== stem:[E(X \pm Y) = E(X) \pm E(Y)]  ← 任何时候都成立
+
+"两个随机变量之和"的数学期望, 等于"这两个随机变量数学期望"之和.
+
+
+---
+
+==== 推论: stem:[E(\sum (C_i X_i))= \sum (C_i \cdot E(X_i))]
+
+如: stem:[E(2X_1 - 3X_2 + 4X_3)=2E(X_1)-3E(X_2)+4E(X_3)]
+
+---
+
+
+==== 推论: stem:[E(\frac{1} {n} \sum(X_i))= \frac{1} {n} \sum (E(X_i))]
+
+---
+
+
+=== X,Y 相互独立时, stem:[E(X \cdot Y)=E(X) \cdot E(Y)]
+
+"两个相互独立随机变量乘积"的数学期望, 等于"它们数学期望"的乘积.
+
+.标题
+====
+例如： +
+image:img/0306.png[,800]
+====
 
 
 
-https://www.bilibili.com/video/BV1ot411y7mU?p=48&spm_id_from=pageDriver&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
 
-37.47
+
+
+
+
+https://www.bilibili.com/video/BV1ot411y7mU/?p=49&spm_id_from=pageDriver&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
+
+23.52
