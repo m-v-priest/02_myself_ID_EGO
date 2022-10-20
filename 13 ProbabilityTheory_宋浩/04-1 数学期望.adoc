@@ -319,26 +319,38 @@ image:img/0308.png[,800]
 
 == 条件期望
 
-条件变量就是说: 在一个变量取了某个值的前提下, 另一个变量的期望
-
-[options="autowidth"]
-|===
-|Header 1 |Header 2
-
-|离散型数据
-|Column 2, row 1
-|===
+条件变量就是说: 在一个变量取了某个值的前提下, 另一个变量的期望.
 
 
+离散型数据 的条件期望:
+
+- stem:[ E(X\| Y=y_j) = \sum (x_i \cdot P(X=x_i \| Y=y_j)) ]  ← 即在Y取了某个值的前提下, X的期望
+- stem:[ E(Y\| X=x_i) = \sum (y_j \cdot P(Y=y_j \| X=x_i)) ]
+
+
+连续型数据 的条件期望:
+
+- stem:[ E(X \|Y=y) = \int_{-∞}^{+∞} \[x \cdot f(x\|y)\] dx ]
+- stem:[ E(Y \| X=x) = \int_{-∞}^{+∞} \[y \cdot f(y\|x)\] dy ]
+
+
+
+.标题
+====
+例如： +
+image:img/0309.png[,]
+
+即: +
+image:img/0310.png[,600]
+====
+
+
+---
 
 
 
 
 
-
-https://www.bilibili.com/video/BV1ot411y7mU/?p=49&spm_id_from=pageDriver&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
-
-37.15
 
 
 
