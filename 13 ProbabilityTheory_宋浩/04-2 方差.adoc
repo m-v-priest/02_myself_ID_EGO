@@ -99,11 +99,15 @@ image:img/0313.png[,700]
 
 == 总结:
 
+image:img/0351.webp[,]
+
+从上图可知, 方差D(X)的量纲, 都是平方. 你能发现方差的公式里面有很多"二次方"存在.
 
 
+image:img/0352.png[,]
 
 
+image:img/0353.png[,]
 
-https://www.bilibili.com/video/BV1ot411y7mU?p=52&spm_id_from=pageDriver&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
 
-12.42
+---
