@@ -107,12 +107,23 @@ image:img/0355.png[,800]
 ====
 
 
+.标题
+====
+例如： +
+image:img/0418.png[,900]
+====
 
 
+---
 
+== 协方差的性质
+
+=== stem:[Cov(X,Y) = Col(Y,X)]
+
+===
 
 
 
 https://www.bilibili.com/video/BV1ot411y7mU?p=56&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
 
-10.08
+16.24
