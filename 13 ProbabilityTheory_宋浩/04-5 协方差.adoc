@@ -120,10 +120,28 @@ image:img/0418.png[,900]
 
 === stem:[Cov(X,Y) = Col(Y,X)]
 
-===
+=== stem:[ Cov(aX, bY) = ab \cdot Cov(X,Y)]
+
+=== stem:[Cov(X_1 + X_2, Y) = Cov(X_1, Y) + Cov(X_2, Y)]
+
+=== stem:[ Cov("常数"C, X)=0]
+
+=== 若X,Y是独立关系, 则 stem:[ Cov(X,Y)=0]
+
+---
+
+== 标准化
 
 
+协方差的取值, 受两个变量各自的"量纲"影响，数字的意义并不明显. 所以我们要先对"协方差"进行无量纲化的修正 -- 采用的方法, 就是对变量进行"标准化"处理.
 
-https://www.bilibili.com/video/BV1ot411y7mU?p=56&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
+"标准化"处理, 就是对原随机变量X, 减去其期望E(X), 再除上其方差的根号 stem:[ \sqrt{D(X)}].
 
-16.24
+
+image:img/0419.png[,700]
+
+"标准化"的目的, 就是消除"量纲"上的差异。
+
+
+---
+
