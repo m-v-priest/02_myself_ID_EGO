@@ -87,6 +87,161 @@ image:img/0507.png[,700]
 
 image:img/0508.png[,700]
 
+image:img/0526.png[,700]
+
+image:img/0527.png[,700]
+
+image:img/0528.png[,700]
+
+
+---
+
+== 单边 t 检验 的问题
+
+image:img/0529.png[,700]
+
+image:img/0531.png[,700]
+
+image:img/0530.png[,700]
+
+---
+
+
+== 单样本t检验的 "自由度"
+
+比如点菜, 只能点4个菜, 总价必须是20, 则, 其实你能自由点的菜数, 只有3个, 因为前3个决定后, 总价20元, 也就决定了你剩下的第4个菜, 只能选"=20元-3个菜的总价"的.
+
+
+image:img/0532.png[,700]
+
+image:img/0533.png[,700]
+
+image:img/0534.png[,700]
+
+image:img/0535.png[,700]
+
+image:img/0536.png[,700]
+
+image:img/0537.png[,700]
+
+image:img/0538.png[,700]
+
+image:img/0539.png[,700]
+
+image:img/0540.png[,700]
+
+在概率论和统计学中，**t-分布（t-distribution）用于"根据小样本, 来估计呈"正态分布"且"方差未知"的 总体的均值"。**如果总体"方差"已知（例如在样本数量足够多时），则应该用"正态分布"来估计总体均值。
+
+**t分布曲线的形态, 与n（确切地说与"自由度df"）大小有关。**
+
+与"标准正态分布"曲线相比 : +
+-> *自由度df 越小，t分布曲线愈平坦，曲线中间愈低，曲线双侧尾部翘得愈高；* +
+-> *自由度df 愈大，t分布曲线愈接近"正态分布"曲线* +
+-> *当自由度df=∞时，t分布曲线, 就为"标准正态分布"曲线。*
+
+
+在样本数量大（超过120等）时，可以应用"Z检定"，但"Z检定"用在小的样本时, 会产生很大的误差. 因此, *在样本很小的情况下, 可以改用"学生t检定"。*"t检定"改进了"Z检定"（en:Z-test），*不论样本数量大或小, 皆可应用。*
+
+*当母群体的"标准差σ"未知, 但又需要估计时(对呈正态分布的"总体的均值"进行估计)，我们可以运用"学生t-分布"。*
+
+学生t-分布, 可简称为"t分布".
+
+由于**在实际工作中，往往"标准差σ"是未知的，所以常用"方差s"来作为"标准差σ"的估计值.** 为了与"u变换"相区别，就称为"t变换". 统计量t 值的分布, 称为"t分布"。
+
+---
+
+==  t值表 临界值
+
+image:img/0541.png[,700]
+
+image:img/0542.png[,700]
+
+image:img/0543.png[,700]
+
+image:img/0544.png[,700]
+
+image:img/0545.png[,700]
+
+image:img/0546.png[,700]
+
+https://www.statdistributions.com/t/
+
+image:img/0547.png[,700]
+
+image:img/0548.png[,700]
+
+image:img/0549.png[,700]
+
+image:img/0550.png[,700]
+
+image:img/0551.png[,700]
+
+image:img/0552.png[,700]
+
+image:img/0553.png[,700]
+
+image:img/0554.png[,700]
+
+image:img/0556.png[,700]
+
+image:img/0557.png[,700]
+
+image:img/0558.png[,700]
+
+image:img/0559.png[,700]
+
+image:img/0560.png[,700]
+
+image:img/0561.png[,700]
+
+image:img/0562.png[,700]
+
+临界值表, 现在已经很少用了, 现在都直接用电脑程序了. 其实通过p值, 可以直接判断是否拒绝stem:[ H_0]原假设.
+
+image:img/0563.png[,700]
+
+image:img/0564.png[,700]
+
+
+---
+
+
+==  p值的含义 p value
+
+image:img/0565.png[,700]
+
+image:img/0566.png[,700]
+
+image:img/0567.png[,700]
+
+image:img/0568.png[,700]
+
+image:img/0569.png[,700]
+
+image:img/0570.png[,700]
+
+image:img/0571.png[,700]
+
+image:img/0572.png[,700]
+
+image:img/0573.png[,700]
+
+
+
+
+https://www.bilibili.com/video/BV13S4y1U75Y/?spm_id_from=333.788&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
+
+
+11.10
+
+
+
+
+
+
+
+
+
 
 
 

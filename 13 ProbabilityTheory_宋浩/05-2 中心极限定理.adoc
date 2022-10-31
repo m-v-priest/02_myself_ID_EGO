@@ -6,6 +6,62 @@
 
 ---
 
+image:img/0523.png[,500]
+
+image:img/0524.png[,500]
+
+image:img/0525.png[,500]
+
+
+
+
+---
+
+== 中心极限定理, 预备
+
+image:img/0511.png[,500]
+
+image:img/0512.png[,500]
+
+image:img/0513.png[,500]
+
+image:img/0514.png[,500]
+
+image:img/0515.png[,500]
+
+image:img/0516.png[,500]
+
+同样, 如果"规范后的和 stem:[ Z_n]" 是服从"标准正态分布"的, 则 它在规范前的"和" stem:[ Y_n], 就是服从"正态分布"的.
+
+image:img/0517.png[,500]
+
+分布函数 F(x)（英文 Cumulative Distribution Function, 简称CDF）, 即"累加函数".
+
+**上图的意思是: 如果当n趋向于∞时,  "规范和stem:[ Z_n]" 的"累加函数" 的图像, 是等价于 "标准正态分布"的"累加函数"的形状的话, 那么 就称 "规范和 stem:[ Z_n]" 的组成部分 X_n 这些序列, 服从"中心极限定理".**
+
+image:img/0518.png[,500]
+
+上图的意思是说, 既然"规范后"的"和", 服从"标准正态分布"; 那么它"规范化动作"前的"和", 也就是服从普通的"正态分布"了.
+
+image:img/0519.png[,500]
+
+上图中说的"序列", 是有很多随机变量X 构成的, 每个X都有一个自己的累加函数.
+
+image:img/0520.png[,500]
+
+image:img/0521.png[,500]
+
+上图的意思是, 如果 随机变量序列的"规范和 stem:[ Z_n]", 随着n的增大, 趋近于 一个固定随机变量X的"标准状态分布 N(0,1)"的话, 就意味着 "规范前"的"和" stem:[Y_n] 是服从于普通的"正态分布"的.
+
+
+
+
+
+
+
+
+
+---
 
 == 中心极限定理 central limit theorem
 
@@ -100,21 +156,27 @@ image:img/0464.png[,700]
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 image:img/0448.png[,750]
+
+
+
+.标题
+====
+例如： +
+image:img/0509.png[,850]
+====
+
+
+
+.标题
+====
+例如： +
+image:img/0510.png[,800]
+====
+
+
+
+
 
 
 https://www.bilibili.com/video/BV1ot411y7mU?p=60&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
@@ -129,6 +191,14 @@ https://www.bilibili.com/video/BV1ot411y7mU?p=60&vd_source=52c6cb2c1143f8e222795
 image:img/0437.png[,700]
 
 换言之,
+
+
+image:img/0522.png[,450]
+
+隶莫佛-拉普拉斯定理, 给出了"二项分布"的近似计算公式。
+
+
+
 
 ---
 
