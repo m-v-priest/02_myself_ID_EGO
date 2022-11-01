@@ -77,6 +77,12 @@ image:img/0502.png[,700]
 
 image:img/0503.png[,700]
 
+
+显著性水平 significance level : 是估计总体参数落在某一区间内，可能犯错误的概率，用α表示。
+
+
+
+
 image:img/0504.png[,700]
 
 image:img/0505.png[,700]
@@ -226,6 +232,40 @@ image:img/0572.png[,700]
 
 image:img/0573.png[,700]
 
+image:img/0574.png[,700]
+
+image:img/0575.png[,700]
+
+image:img/0576.png[,700]
+
+image:img/0577.png[,700]
+
+image:img/0578.png[,700]
+
+image:img/0579.png[,700]
+
+image:img/0580.png[,700]
+
+image:img/0581.png[,700]
+
+从抽样得到的t值, 往极端方向的阴影面积, 就是p值.
+
+image:img/0582.png[,700]
+
+image:img/0583.png[,700]
+
+image:img/0584.png[,700]
+
+image:img/0585.png[,700]
+
+
+---
+
+== 第1类错误 Type I error (False Positive "假阳性") vs 第2类错误 Type II error
+
+
+
+
 
 
 
@@ -233,6 +273,9 @@ https://www.bilibili.com/video/BV13S4y1U75Y/?spm_id_from=333.788&vd_source=52c6c
 
 
 11.10
+
+
+
 
 
 
