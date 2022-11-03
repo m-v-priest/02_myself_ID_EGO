@@ -1,8 +1,8 @@
 
 = 累积分布函数 cumulative distribution function (简称 CDF )
-:toc:
-:sectnums: 3
-:toclevels: left
+:sectnums:
+:toclevels: 3
+:toc: left
 
 ---
 
