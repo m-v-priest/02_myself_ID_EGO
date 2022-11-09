@@ -1,6 +1,6 @@
 -
-- https://www.bilibili.com/video/BV1QV411k7Wc/?spm_id_from=333.999.0.0&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
-- 14.46
+- [https://www.bilibili.com/video/BV1QV411k7Wc/?spm_id_from=333.999.0.0&vd_source=52c6cb2c1143f8e222795afbab2ab1b5](https://www.bilibili.com/video/BV1QV411k7Wc/?p=2&spm_id_from=pageDriver&vd_source=52c6cb2c1143f8e222795afbab2ab1b5)
+- 12.52
 - ---
 - 帮助文档
   collapsed:: true
@@ -20,9 +20,6 @@
 	  3. 列表, 或定义域, 值域等范围, 用大括号 {} 括起来
 	  4. 要让软件自动计算时, 按 shift+enter
 		-
-- //表示在将 // 后面的函数, 作用在前面的自变量身上. 可以在后面连续写多个函数, 相当于管道运算, 如:
-	- ![image.png](../assets/image_1667971212814_0.png)
-	- ![image.png](../assets/image_1667971349929_0.png)
 - ---
 - 变量
 	- 清除所有变量中的值:  Clear["Global`*"]
@@ -77,6 +74,10 @@
 	  background-color:: blue
 	  collapsed:: true
 		- ![image.png](../assets/image_1667973214723_0.png)
+	- 反向排列 列表中的元素: Reverse函数
+	  collapsed:: true
+		- ![image.png](../assets/image_1667992394121_0.png)
+		-
 	-
 - ---
 - 函数
@@ -86,6 +87,24 @@
 		- 注意: 在自定义函数时, 参数变量名, 必须后面加个下划线_
 		- ![image.png](../assets/image_1667958216731_0.png)
 		- ![image.png](../assets/image_1667958445139_0.png)
+	- 将两个列表中的元素, 依次作为某函数的两个参数, 传入该函数中 : Outer 函数
+	  collapsed:: true
+		- ![image.png](../assets/image_1667993977084_0.png)
+	- @ :  ←  这个其实就是给函数传参的另一种写法
+	  background-color:: blue
+	  collapsed:: true
+		-
+		- ![image.png](../assets/image_1667994342683_0.png)
+		- ![image.png](../assets/image_1667994464626_0.png)
+	- //表示在将 // 后面的函数, 作用在前面的自变量身上. 可以在后面连续写多个函数, 相当于管道运算, 如:
+	  background-color:: blue
+	  collapsed:: true
+		- ![image.png](../assets/image_1667971212814_0.png)
+		- ![image.png](../assets/image_1667971349929_0.png)
+	- 给函数传入一个多维参数, 即把一个列表作为打包参数, 传给函数, 并将列表中的元素解包, 赋值给函数中的多个参数上:  @@
+	  background-color:: blue
+	  collapsed:: true
+		- ![image.png](../assets/image_1667995067061_0.png)
 	-
 - ---
 - 输入分数 : 用 CTRL+ /键, 来输入分数
@@ -194,7 +213,15 @@
 - 把一个数字, 按个十百千位等, 拆成单个数字, 放在一个列表中 : IntegerDigits 函数
 	- ![image.png](../assets/image_1667982992252_0.png)
 	- ![image.png](../assets/image_1667983084683_0.png)
-	-
+-
+- ---
+- 乘法 :  Times 函数
+  collapsed:: true
+	- Outer函数的作用, 是将第一个list中的每个元素, 依次去乘第二个list中的每个元素.
+	- ![image.png](../assets/image_1667993067049_0.png){:height 147, :width 427}
+- 求和: Sum 函数
+	- ![image.png](../assets/image_1667997633575_0.png)
+	- ![image.png](../assets/image_1667997804841_0.png)
 - ---
 - 字体
   collapsed:: true
