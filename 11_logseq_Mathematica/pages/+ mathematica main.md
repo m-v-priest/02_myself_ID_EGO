@@ -189,6 +189,12 @@
 		- ![image.png](../assets/image_1667956808687_0.png)
 		-
 		-
+-
+- ---
+- 把一个数字, 按个十百千位等, 拆成单个数字, 放在一个列表中 : IntegerDigits 函数
+	- ![image.png](../assets/image_1667982992252_0.png)
+	- ![image.png](../assets/image_1667983084683_0.png)
+	-
 - ---
 - 字体
   collapsed:: true
