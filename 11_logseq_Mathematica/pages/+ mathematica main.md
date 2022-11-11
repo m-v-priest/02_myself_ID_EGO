@@ -2,7 +2,7 @@
 - ### 相关
 	- ### 学习进度
 		- https://www.bilibili.com/video/BV1Ua4y1v7AU/?spm_id_from=333.788&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
-		- 4.16
+		- 5.22
 		-
 		- https://www.bilibili.com/video/BV17U4y1s7EV?p=3&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
 		- 1.17.46
@@ -199,13 +199,54 @@
 	  collapsed:: true
 		- ![image.png](../assets/image_1668153087445_0.png)
 	-
+	- PDF 概率函数
+	  collapsed:: true
+		- ![image.png](../assets/image_1668169480052_0.png)
+	- CDF 累积分布函数
+	  collapsed:: true
+		- 语法:
+			- ![image.png](../assets/image_1668169569724_0.png)
+		- 例
+		  collapsed:: true
+			- ![image.png](../assets/image_1668170457332_0.png)
+			- ![image.png](../assets/image_1668170492903_0.png)
+			- ![image.png](../assets/image_1668170563504_0.png)
+		-
+		-
+	-
+	-
 	- ### 分布
 	- 标准正态分布: Probability[x <= 某个值, x \[Distributed] NormalDistribution[]]
 	  collapsed:: true
 		- ![image.png](../assets/image_1668145879750_0.png)
 		- ![image.png](../assets/image_1668145916145_0.png)
 		-
-	-
+	- 二项分布
+	  collapsed:: true
+		- 解释:
+		  collapsed:: true
+			- 若每次试验中: 只有两种可能的结果, 
+			  这两种结果发生与否, 互相对立. 
+			  并且相互独立，与其它各次试验结果无关. 
+			  事件发生与否的概率在每一次独立试验中都保持不变，
+			  则这一系列试验总称为n重伯努利实验，当试验次数为1时，二项分布服从0-1分布。
+			-
+			- **n次试验中, 正好得到k次成功的概率**, 由概率质量函数 f(x)给出:
+			- ![de72eee084dc44d8fa3cb44d7eb406bb.svg](../assets/de72eee084dc44d8fa3cb44d7eb406bb_1668164894035_0.svg)
+			- **即: 我们希望有k次成功(p), 和n−k次失败(1 −p)。**
+			- 你可以发现: 实际上，**当n = 1时，二项分布就是伯努利分布**
+			-
+		- 语法: BinomialDistribution[n,p] 
+		  represents a binomial distribution **with n trials and success probability p.**
+		-
+		- 例 1
+		  collapsed:: true
+			- ![image.png](../assets/image_1668167326859_0.png)
+			- ![image.png](../assets/image_1668167358108_0.png)
+			- ![image.png](../assets/image_1668167392003_0.png)
+		-
+	- 超几何分布
+		-
 -
 -
 - ---
