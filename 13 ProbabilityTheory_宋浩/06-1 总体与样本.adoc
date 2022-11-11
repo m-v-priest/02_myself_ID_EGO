@@ -203,6 +203,22 @@ image:img/0668.png[,720]
 ---
 
 
+image:img/0669.png[,]
+
+"相关关系"是一种"非确定性"的关系，*"相关系数"是研究变量之间"线性相关"程度的量。*
+
+"样本"相关系数, 用r表示, +
+"总体"相关系数, 用ρ表示. +
+
+相关系数r 的取值范围为[-1,1]. +
+-> ｜r｜值越大，误差Q越小，变量之间的"线性相关"程度越高； +
+-> ｜r｜值越接近0，Q越大，变量之间的"线性相关"程度越低。
+
+
+
+
+
+
 == "正态分布的总体"的两个抽样分布定理
 
 
@@ -222,12 +238,6 @@ https://www.bilibili.com/video/BV1xZ4y1s7Va/?spm_id_from=333.788.recommend_more_
 image:img/0664.webp[,500]
 
 
+https://www.bilibili.com/video/BV1ot411y7mU?p=63&spm_id_from=pageDriver&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
 
-
-
-
-
-https://www.bilibili.com/video/BV1ot411y7mU?p=61&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
-
-
-7.46
+5.33
