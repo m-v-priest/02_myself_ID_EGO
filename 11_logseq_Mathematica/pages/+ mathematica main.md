@@ -4,6 +4,9 @@
 		- https://www.bilibili.com/video/BV1Ua4y1v7AU/?spm_id_from=333.788&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
 		- 5.22
 		-
+		- 阮一峰
+		- https://www.ruanyifeng.com/blog/algorithm/
+		-
 		- https://www.bilibili.com/video/BV17U4y1s7EV?p=3&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
 		- 1.17.46
 		-
@@ -207,7 +210,6 @@
 		- 语法:
 			- ![image.png](../assets/image_1668169569724_0.png)
 		- 例
-		  collapsed:: true
 			- ![image.png](../assets/image_1668170457332_0.png)
 			- ![image.png](../assets/image_1668170492903_0.png)
 			- ![image.png](../assets/image_1668170563504_0.png)
@@ -215,12 +217,7 @@
 		-
 	-
 	-
-	- ### 分布
-	- 标准正态分布: Probability[x <= 某个值, x \[Distributed] NormalDistribution[]]
-	  collapsed:: true
-		- ![image.png](../assets/image_1668145879750_0.png)
-		- ![image.png](../assets/image_1668145916145_0.png)
-		-
+	- ### 离散数据的分布
 	- 二项分布
 	  collapsed:: true
 		- 解释:
@@ -240,13 +237,67 @@
 		  represents a binomial distribution **with n trials and success probability p.**
 		-
 		- 例 1
-		  collapsed:: true
 			- ![image.png](../assets/image_1668167326859_0.png)
 			- ![image.png](../assets/image_1668167358108_0.png)
 			- ![image.png](../assets/image_1668167392003_0.png)
 		-
 	- 超几何分布
+	  collapsed:: true
+		- 定义:
+			- 超几何分布是统计学上一种离散概率分布。它描述了从有限N个物件（其中包含M个指定种类的物件）中抽出n个物件，成功抽出该指定种类的物件的次数（不放回）。称为超几何分布，是因为其形式与“超几何函数”的级数展式的系数有关。
+			- N个民女中, 含有M个美女, 皇帝选美, 抽n个人(不放回), 成功抽出美女的次数, 就称为超几何分布. Hypergeometric Distribution
+			- 超几何分布中的参数是N(总数),n(抽n次),M()，超几何分布记作X~H(N,n,M)。
+		- 语法
+			- ![image.png](../assets/image_1668241193409_0.png){:height 176, :width 475}
+			-
+		- 例:
+		  collapsed:: true
+			- ![image.png](../assets/image_1668243347922_0.png)
+			- ![image.png](../assets/image_1668243483790_0.png){:height 246, :width 475}
+			- ![image.png](../assets/image_1668244077364_0.png)
+			-
+	- 泊松分布
+	  collapsed:: true
+		- ![image.png](../assets/image_1668248079022_0.png)
+		- 例: 50年一遇的大雨.  你就以50年为时间段 (即平均会发生一次这种大雨), 在这50年中, 你遇到0次, 1次, 2次, ... 这种大雨的真实概率, 是多少?
+		- ![image.png](../assets/image_1668248667485_0.png)
+		- ![image.png](../assets/image_1668248701094_0.png)
 		-
+		-
+	-
+	- ### 连续数据的分布
+	- 标准正态分布: Probability[x <= 某个值, x \[Distributed] NormalDistribution[]]
+	  collapsed:: true
+		- ![image.png](../assets/image_1668145879750_0.png)
+		- ![image.png](../assets/image_1668145916145_0.png)
+		-
+	- 均匀分布, 或矩形分布
+	  collapsed:: true
+		- 定义 :
+		  collapsed:: true
+			- Uniform Distribution 均匀分布 在相同长度间隔的分布概率, 是等可能的。 均匀分布由两个参数a和b定义，它们是数轴上的最小值和最大值，通常缩写为U（a，b）。
+			- 均匀分布的概率函数为：
+			  ![image.png](../assets/image_1668250727141_0.png)
+		- 语法:
+		  collapsed:: true
+			- ![image.png](../assets/image_1668251390277_0.png)
+			  id:: 636f7ef5-3c78-4262-ba69-f08730e981e4
+		- 例:
+			- ![image.png](../assets/image_1668252452832_0.png){:height 416, :width 475}
+			-
+		-
+	- 指数分布
+	  collapsed:: true
+		- 定义:
+			-
+		- 语法:
+			- ![image.png](../assets/image_1668253146405_0.png)
+			- 参数λ : 是每单位时间内, 发生某事件的次数。
+		- 例:
+			- ![image.png](../assets/image_1668256640010_0.png)
+			- ![image.png](../assets/image_1668255461880_0.png)
+			- ![image.png](../assets/image_1668256370774_0.png)
+	-
 -
 -
 - ---
@@ -402,4 +453,6 @@
 	  collapsed:: true
 		- ![image.png](../assets/image_1668141950225_0.png)
 		  id:: 636dd363-bdcd-45f9-99eb-3fa83abbaaa8
+-
+-
 -
