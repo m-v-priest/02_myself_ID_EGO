@@ -1,6 +1,8 @@
 
 = 参数方程
-:toc:
+:toc: left
+:toclevels: 3
+:sectnums:
 
 ---
 
@@ -35,7 +37,7 @@ y = t
 \quad (t \ge 0)
 \end{align}
 
-image:img_thomas_calculus/calculus_039.png[]
+image:img_thomas_calculus/calculus_039.png[,600]
 
 ====
 
@@ -44,7 +46,7 @@ image:img_thomas_calculus/calculus_039.png[]
 
 ---
 
-== 变化率和极限
+== 变化率
 
 .标题
 ====
@@ -57,7 +59,7 @@ image:img_thomas_calculus/calculus_039.png[]
 = 32 英尺/秒
 \end{align}
 
-image:img_thomas_calculus/calculus_040.png[]
+image:img_thomas_calculus/calculus_040.png[,350]
 
 ====
 
@@ -75,19 +77,34 @@ image:img_thomas_calculus/calculus_040.png[]
 从下图中, 可以注意到: f 在 stem:[\[x_1, x_2 \]] 的变化率, 就是通过点 stem:[ P(x_1, f(x_1)) ] 和 stem:[ Q(x_2, f(x_2)) ] 的直线的"斜率".  +
 几何上, *连接曲线上两点的直线, 就是该曲线的"割线". 因此, f 从 stem:[ x_1] 到 stem:[x_2 ] 的平均变化率, 就是割线PQ的斜率.*
 
-image:img_thomas_calculus/calculus_041.png[400,400]
+image:img_thomas_calculus/calculus_041.png[,350]
 
-瞬时变化率:: 我们把"瞬时变化率", 作为"平均变化率"的极限.
-
-
-
-
-
-
-
-
+瞬时变化率:: 我们把"瞬时变化率", 作为"平均变化率"的极限. 比如, 岩石下落到瞬时 t=2秒处的速度变化率.
 
 
 ---
 
+== 极限
 
+在有些情况下, 重要的是要理解当x变得非常大时(在x → ∞ 和 -∞ 处), 一个函数的行为如何. (换言之, 即预测该函数的未来情况)
+
+---
+
+=== "函数在某点处没有极限"的情况
+
+image:img_thomas_calculus/0042.png[,]
+
+
+---
+
+=== 三明治定理(夹逼定理)
+
+
+
+普林斯顿
+43
+
+
+
+托马斯
+112
