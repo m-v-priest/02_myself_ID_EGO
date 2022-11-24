@@ -9,6 +9,10 @@
 
 == log
 
+- 底数 Base Number
+- 指数 Exponent
+- 幂 Power
+
 stem:[ 底^指=幂]  -> -> ->   stem:[ log_底 幂=指]
 
 image:img/857.webp[,300]
