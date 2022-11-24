@@ -43,6 +43,18 @@ That means you can include raw HTML, like this embedded Gist:
 
 <script src="http://gist.github.com/mojavelinux/5333524.js">
 </script>
+
+<script>
+function displayDate(){
+	document.getElementById("demo").innerHTML=Date();
+}
+</script>
+
+<h1>我的第一个 JavaScript 程序</h1>
+<p id="demo">这是一个段落</p>
+
+<button type="button" onclick="displayDate()">显示日期</button>
+
 ++++
 
 
