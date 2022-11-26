@@ -1,0 +1,90 @@
+
+= 涵数
+:toc: left
+:toclevels: 3
+:sectnums:
+
+---
+
+== 反函数
+
+[options="autowidth"]
+|===
+|Header 1 |Header 2
+
+|函数f 是: 输入x, 输出y.
+|f(X自变量) = y因变量.
+
+|反函数stem:[f^{-1}]是: 输入y, 输出x.
+|相当于时间倒流, 把原函数的功能倒过来. 就像线性代数中的"逆矩阵"变换功能.
+|===
+
+"反函数"和"原函数", 图象关于直线 y=x 对称.
+
+
+
+.标题
+====
+例如：有函数 y = 3x+5, 即输入x, 输出y. 它可以变为:
+\begin{align*}
+& 3x = y-5 \\
+& x = \frac{y-5} {3} <- 这样, 就是输入y, 输出x 的形式了, 即就变成了"反函数".
+\end{align*}
+
+但一般我们习惯于将输入值, 用x表示; 输出值 , 用y值表示, 所以上面的反函数, 就索性写成 stem:[ y = \frac{x-5} {3} ], 但你不要混淆这里的x和y的意义. 这里的x是原y值, 这里的y是原x值.
+====
+
+---
+
+== 初等函数
+
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |如
+
+|stem:[ y = x^{exp}] +
+power function. 幂函数
+|stem:[y=x^2]
+
+|stem:[y=base^x ] (base>0 且 base≠1) +
+exponential function 指数函数
+|- stem:[y=100(1+0.1)^x] +
+- "投资回报率"终值计算公式 : stem:[F=P(1+i)^n]
+
+|stem:[y= \log_{base}x \quad(base>0 and base≠1)] +
+Logarithmic Function 对数函数
+|
+
+|三角函数
+|
+|===
+
+三角函数
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |原函数 & 反函数
+|sin & arcSin
+|image:/img/0010.png[,]
+
+*为什么 arcSin 的曲线, 只有一小段? 因为如果把 arcSin 的曲线画全的话, 就会出现这种情况: 一个x输入值, 会对应多个 y输出值*.  +
+所以, 为了把"反三角函数"限制为"单值函数"(即一个x输入值, 只有唯一一个y输出值)，所以我们将 arcSin 的y值, 限定在 stem:[-π/2 ≤ y ≤ π/2] 区间上.
+
+所以, arcSin 的定义域是 [-1, 1] ，值域是 [-π/2, π/2]
+
+|cos &  arcCos
+|image:/img/0011.png[,]
+
+|tan & arcTan
+|image:/img/0012.png[,]
+
+|cot & arcCot
+|image:/img/0013.png[,]
+
+|sec & arcSec
+|image:/img/0014.png[,]
+
+|csc & arcCsc
+|image:/img/0015.png[,]
+|===
+
+---

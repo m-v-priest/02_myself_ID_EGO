@@ -9,3 +9,12 @@ table {
     border-collapse: collapse;
     width: auto;
 }
+
+h2 {
+    color : rgb(182, 30, 30);
+}
+
+image {
+    display: block;   /* img标签默认是行内元素.  本代码将"行内元素", 转换为"块元素" */
+}
+

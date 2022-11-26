@@ -83,6 +83,7 @@
 -
 - ### 计算
   background-color:: red
+  collapsed:: true
 	- 化简: Simplify 和 FullSimplify 函数
 	  collapsed:: true
 		- ![image.png](../assets/image_1668301564099_0.png)
@@ -141,6 +142,7 @@
 	-
 - ---
 - ### 三角函数
+  collapsed:: true
 	- ![image.png](../assets/image_1668303863021_0.png)
 	  collapsed:: true
 		- ![image.png](../assets/image_1668303939383_0.png)
@@ -398,15 +400,21 @@
 			- 输入等号后, 再使用 graph函数, 软件会将代码转成标准的 Mathematica语言.  并计算发送到网络上的服务器上, 再帮我们返回结果.
 			- ![image.png](../assets/image_1667960765127_0.png)
 			- ![image.png](../assets/image_1667910997450_0.png)
+	- 给曲线, 加上它是属于哪一个函数的说明, 即添加上函数名
+	  background-color:: red
+	  collapsed:: true
+		- ```
+		  Plot[{Sin[x], Cos[x]}, {x, 0, 2 Pi}, PlotLabels -> "Expressions"]
+		  ```
+		- ![image.png](../assets/image_1669463729741_0.png)
 	-
 	- ### 将多个函数曲线, 画在一张图上 :
 	  background-color:: blue
+	  collapsed:: true
 		- 方法1: Plot函数中用 and
-		  collapsed:: true
 			- ![image.png](../assets/image_1667961557838_0.png)
 			- ![image.png](../assets/image_1667961166111_0.png)
 		- 方法2: 用 Show 函数
-		  collapsed:: true
 			- ![image.png](../assets/image_1667962069230_0.png)
 			- ![image.png](../assets/image_1668131488762_0.png)
 			- ![image.png](../assets/image_1668130982577_0.png)
@@ -429,9 +437,32 @@
 		- ![image.png](../assets/image_1667963096519_0.png)
 -
 	- ### 画图: 改样式
+		- x,y坐标轴以1:1的比例来画图
+		  background-color:: red
+		  collapsed:: true
+			- ```
+			  AspectRatio -> Automatic
+			  ```
+			- ![image.png](../assets/image_1669465516486_0.png)
+		- x,y坐标轴, 改为 pi 单位
+		  background-color:: red
+		  collapsed:: true
+			- ```
+			  Ticks -> {Automatic, Range[-Pi/2, Pi/2]}
+			  ```
+			- ![image.png](../assets/image_1669465936590_0.png)
 		- 给曲线下方的面积, 填充颜色:  Filling->Axis
 		  collapsed:: true
+		  background-color:: red
 			- ![image.png](../assets/image_1667962344337_0.png)
+		- 在两条曲线之间, 填色
+		  background-color:: red
+		  collapsed:: true
+			- ```
+			  Plot[{Sin[x] + x/2, Sin[x] + x}, {x, 0, 10}, Filling -> {1 -> {2}}]
+			  ```
+			- ![image.png](../assets/image_1669463826888_0.png)
+		- 其他填色, 见官方说明
 		- 鼠标指在哪个曲线上, 就显示出函数名:   Tooltip[]
 		  background-color:: blue
 		  collapsed:: true
