@@ -83,12 +83,12 @@
 -
 - ### 计算
   background-color:: red
-  collapsed:: true
 	- 化简: Simplify 和 FullSimplify 函数
 	  collapsed:: true
 		- ![image.png](../assets/image_1668301564099_0.png)
 		- ![image.png](../assets/image_1668301627879_0.png)
 	- 解方程:  Solve函数
+	  collapsed:: true
 		- Solve[expr,vars]
 		  attempts to solve the system expr of equations or inequalities for the variables vars. 尝试求解变量为vars的方程组或不等式的方程组expr。
 		- Solve[expr,vars,dom]
@@ -136,7 +136,6 @@
 	  collapsed:: true
 		- ![image.png](../assets/image_1668303451596_0.png)
 	- ![image.png](../assets/image_1668303296833_0.png)
-	  collapsed:: true
 		- ![image.png](../assets/image_1668303419705_0.png)
 	- ![image.png](../assets/image_1668304210203_0.png)
 	-
@@ -162,6 +161,14 @@
 	  collapsed:: true
 		- ![image.png](../assets/image_1668064457372_0.png)
 		- ![image.png](../assets/image_1668584160666_0.png)
+	- 对数: ln函数的写法
+	  background-color:: red
+	  collapsed:: true
+		- ```
+		  Log[E,幂]=指数
+		  ```
+		- ![image.png](../assets/image_1669544106432_0.png)
+		- ![image.png](../assets/image_1669544179575_0.png)
 	- 泰勒展开
 	  collapsed:: true
 		- ![image.png](../assets/image_1668056370590_0.png)
@@ -359,6 +366,10 @@
 -
 - ---
 - ### 点图, 数据图
+	- 画出某个数列公式的前n位具体数值 : Table[]函数
+	  background-color:: red
+	  collapsed:: true
+		- ![image.png](../assets/image_1669512904879_0.png)
 	- 绘制点图:  ListPlot 函数
 	  collapsed:: true
 		- ListPlot绘制的是什么?
@@ -446,7 +457,6 @@
 			- ![image.png](../assets/image_1669465516486_0.png)
 		- x,y坐标轴, 改为 pi 单位
 		  background-color:: red
-		  collapsed:: true
 			- ```
 			  Ticks -> {Automatic, Range[-Pi/2, Pi/2]}
 			  ```

@@ -8,3 +8,132 @@
 
 == 极限
 
+image:/img/0016.svg[,600]
+
+即: 给定①任意一个极小值ε, ②一个确定的极限值L, ③一个数列stem:[x_i](里面的元素值不断变小). → 则随着数列 stem:[x_i] 中item的增长, 必定会有一个 item项(比如第n项), 该"item项的值 stem:[x_n]"与"极限值L"的距离, 必定会小于 "极小值ε"与"极限值L"之间的距离 (这个距离其实就是ε本身).
+
+
+.标题
+====
+例如： +
+image:/img/0017.png[,500]
+====
+
+
+.标题
+====
+例如： +
+image:/img/0018.png[,500]
+====
+
+
+---
+
+== 函数的极限
+
+.标题
+====
+例如： +
+image:/img/0019.svg[,350]
+
+image:/img/0020.png[,600]
+====
+
+---
+
+== ★ 极限的运算法则
+
+stem:[lim(x \pm y) = lim x \pm lim y]  +
+stem:[lim(x \cdot y) = lim x \cdot lim y] +
+stem:[lim(x/y) = \frac{lim x} {lim y}] +
+
+stem:[lim("常数C" \cdot y)= "常数C" \cdot lim y] +
+stem:[lim y^n = (lim y)^n] +
+stem:[lim y^{1/n} = (lim y)^{1/n}] +
+
+---
+
+== 几个重要的极限
+
+==== stem:[\lim_{x \to 0} \frac{sinx} {x} = 1 ]
+
+image:/img/0021.png[,]
+
+其实, 它的骨架本质, 是这种形式的: stem:[\lim_{□→0} \frac{sin□} {□}]
+
+该公式在实际应用中, 有很多披了马甲的形式, 你一定要火眼金睛能看出它的"本像".
+
+.标题
+====
+马甲1: 没给出 sin, 但给出 cos, tan, arcSin, arcTan 等 的形式. +
+例如： +
+image:/img/0022.png[,500]
+
+image:/img/0023.png[,]
+====
+
+
+---
+
+==== stem:[\lim_{x \to ∞} (1+ \frac{1} {x})^x = e]
+
+image:/img/0024.png[,]
+
+这个公式其实就是"复利"的终值计算公式: stem:[\lim_{n \to ∞} (1+ \frac{1} {n})^n = e ≈ 2.71828]
+
+
+*注意: 该公式的本质是: stem:[\lim_{n \to ∞} (1+ \frac{1} {□})^□ = e].  ← 即两个"方框□"处的数字必须完全相同!*
+
+注意: 使用该极限公式时, 中间必须是加号+. 如果题目给出的不是加号, 你也要把它先变换成加号.
+
+即: +
+image:img/0029.svg[,300]
+
+
+
+.标题
+====
+例如： +
+image:/img/0025.png[,450]
+
+image:/img/0026.png[,]
+====
+
+
+.标题
+====
+例如： +
+image:/img/0027.png[,370]
+
+image:/img/0028.png[,]
+====
+
+
+
+.标题
+====
+例如： +
+image:/img/0030.png[,400]
+
+image:/img/0031.png[,]
+====
+
+
+.标题
+====
+例如：  +
+image:/img/0032.png[,280]
+
+image:/img/0033.png[,]
+====
+
+
+
+---
+
+==== stem:[\lim_{x \to 0} (1+x)^{\frac{1} {x}} =e]
+
+image:/img/0034.png[,]
+
+
+---

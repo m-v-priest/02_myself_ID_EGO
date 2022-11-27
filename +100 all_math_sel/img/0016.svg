@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 341.8 212.04">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        font-family: MicrosoftYaHei, 'Microsoft YaHei';
+        font-size: 7px;
+      }
+
+      .cls-1, .cls-7 {
+        fill: #c30d23;
+      }
+
+      .cls-8 {
+        stroke: #601986;
+        stroke-width: 2px;
+      }
+
+      .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13 {
+        fill: none;
+      }
+
+      .cls-8, .cls-9, .cls-10, .cls-12, .cls-14, .cls-15, .cls-13 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-9 {
+        stroke: #094;
+        stroke-width: .75px;
+      }
+
+      .cls-16, .cls-17 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-2, .cls-18 {
+        fill: #231815;
+      }
+
+      .cls-17, .cls-19, .cls-3, .cls-20, .cls-15 {
+        fill: #094;
+      }
+
+      .cls-21 {
+        letter-spacing: 0em;
+      }
+
+      .cls-10, .cls-12, .cls-14, .cls-15, .cls-13 {
+        stroke-width: .5px;
+      }
+
+      .cls-10, .cls-13 {
+        stroke: #c30d23;
+      }
+
+      .cls-4, .cls-22, .cls-14 {
+        fill: #e60012;
+      }
+
+      .cls-20 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-12, .cls-14, .cls-15 {
+        stroke: #231815;
+      }
+
+      .cls-23 {
+        fill: #fff100;
+      }
+
+      .cls-24, .cls-6 {
+        fill: #920783;
+      }
+
+      .cls-13 {
+        stroke-dasharray: 0 0 1.98 1.98;
+      }
+    </style>
+  </defs>
+  <g id="_图层_1-2" data-name="图层 1">
+    <rect class="cls-23" x="27.82" y="49.05" width="11.4" height="132.24"/>
+    <rect class="cls-23" x="119.05" y="111.11" width="11.4" height="45.96"/>
+    <rect class="cls-23" x="90.3" y="111.11" width="11.4" height="45.96"/>
+    <g>
+      <line class="cls-9" x1="32.18" y1="78.09" x2="32.18" y2="177.23"/>
+      <polygon class="cls-19" points="32.18 72.79 29.13 80.25 32.18 78.48 35.22 80.25 32.18 72.79"/>
+    </g>
+    <g>
+      <line class="cls-12" x1="226.29" y1="139.62" x2="226.29" y2="151.47"/>
+      <polygon class="cls-18" points="226.29 136.09 224.25 141.06 226.29 139.88 228.32 141.06 226.29 136.09"/>
+    </g>
+    <g>
+      <line class="cls-12" x1="286.58" y1="125.01" x2="3.74" y2="125.01"/>
+      <polygon class="cls-18" points="290.11 125.01 285.14 122.98 286.32 125.01 285.14 127.04 290.11 125.01"/>
+    </g>
+    <line class="cls-8" x1="124.75" y1="117.1" x2="124.75" y2="132.92"/>
+    <text class="cls-6" transform="translate(121.96 142.96)"><tspan x="0" y="0">任意小的数</tspan><tspan x="0" y="8.4">ξ</tspan></text>
+    <text class="cls-2" transform="translate(62.17 187.17)"><tspan x="0" y="0">ξ离”极限</tspan><tspan class="cls-16" x="31.39" y="0">L</tspan><tspan x="34.55" y="0">”</tspan><tspan x="0" y="8.4">之间的距离是:</tspan><tspan x="0" y="16.8">=ξ-L</tspan></text>
+    <text class="cls-2" transform="translate(55.1 82.43)"><tspan x="0" y="0">x</tspan></text>
+    <text class="cls-2" transform="translate(58.65 84.76) scale(.58)"><tspan x="0" y="0">n</tspan></text>
+    <text class="cls-2" transform="translate(61.16 82.43)"><tspan x="0" y="0">离”极限</tspan><tspan class="cls-16" x="28" y="0">L</tspan><tspan x="31.16" y="0">”</tspan><tspan x="-6.06" y="8.4">之间的距离是:</tspan><tspan x="-6.06" y="16.8">=x</tspan></text>
+    <text class="cls-2" transform="translate(63.84 101.56) scale(.58)"><tspan x="0" y="0">n</tspan></text>
+    <text class="cls-2" transform="translate(66.36 99.23)"><tspan x="0" y="0">-L</tspan></text>
+    <text class="cls-2" transform="translate(152.49 15.33)"><tspan x="0" y="0">x</tspan></text>
+    <text class="cls-2" transform="translate(156.03 17.66) scale(.58)"><tspan x="0" y="0">i </tspan></text>
+    <text class="cls-5" transform="translate(158.33 15.33)"><tspan class="cls-18" x="0" y="0">数列, 随着其项数 itme 的增加, </tspan><tspan class="cls-18" x="-5.84" y="10">它终有一个第n项的值, 即 </tspan><tspan class="cls-7" x="74.3" y="10">x</tspan></text>
+    <text class="cls-1" transform="translate(236.18 27.66) scale(.58)"><tspan x="0" y="0">n</tspan></text>
+    <text class="cls-5" transform="translate(238.69 25.33)"><tspan class="cls-18" x="0" y="0" xml:space="preserve"> 离”</tspan><tspan class="cls-19" x="16.07" y="0">极限值</tspan><tspan class="cls-17" x="37.07" y="0">L</tspan><tspan class="cls-18" x="40.23" y="0">” 的距离, </tspan><tspan class="cls-18" x="-86.2" y="10">一定会小于 “</tspan><tspan class="cls-24" x="-42.13" y="10">一个任意小的数ξ</tspan><tspan class="cls-18" x="10.26" y="10">”与”</tspan><tspan class="cls-19" x="31.26" y="10">极限值</tspan><tspan class="cls-20" x="52.26" y="10">L</tspan><tspan class="cls-18" x="55.42" y="10">”之间的距离.</tspan><tspan class="cls-18" x="-86.2" y="20" xml:space="preserve">即: 红线段的长度,  小于绿线段的长度.</tspan></text>
+    <text class="cls-4" transform="translate(161.93 79.94)"><tspan x="0" y="0">注意方向:</tspan><tspan x="0" y="8.4">x</tspan></text>
+    <text class="cls-4" transform="translate(165.48 90.68) scale(.58)"><tspan x="0" y="0">i </tspan></text>
+    <text class="cls-4" transform="translate(167.78 88.34)"><tspan x="0" y="0">数列中, 随着i</tspan><tspan class="cls-21" x="40.62" y="0">t</tspan><tspan x="43.17" y="0">em项的增加,</tspan><tspan x="-5.84" y="8.4">其值不断缩小</tspan></text>
+    <text class="cls-3" transform="translate(21.74 66.25)"><tspan x="0" y="0">极限L</tspan></text>
+    <circle class="cls-18" cx="172.48" cy="125.01" r="3.16"/>
+    <circle class="cls-22" cx="96" cy="125.01" r="3.16"/>
+    <circle class="cls-18" cx="199.38" cy="125.01" r="3.16"/>
+    <circle class="cls-18" cx="226.29" cy="125.01" r="3.16"/>
+    <text class="cls-2" transform="translate(218.81 162.87)"><tspan x="0" y="0">数列x</tspan></text>
+    <text class="cls-2" transform="translate(236.36 165.2) scale(.58)"><tspan x="0" y="0">i</tspan></text>
+    <text class="cls-4" transform="translate(86.24 140.63)"><tspan x="0" y="0">数列x</tspan></text>
+    <text class="cls-4" transform="translate(103.79 142.96) scale(.58)"><tspan x="0" y="0">n</tspan></text>
+    <path class="cls-15" d="M124.75,165.18l-3.65,2.55c-1.58,1.11-3.46,1.7-5.39,1.7h-28.97c-2.49,0-4.89,.99-6.65,2.75l-1.1,1.5-1.1-1.5c-1.76-1.76-4.15-2.75-6.65-2.75h-28.97c-1.93,0-3.81-.59-5.39-1.7l-3.65-2.55"/>
+    <path class="cls-14" d="M33.23,116.07l2.5-2.68c1.08-1.16,2.38-1.79,3.7-1.79h19.87c1.71,0,3.35-1.04,4.56-2.9l.75-1.57,.75,1.57c1.21,1.85,2.85,2.9,4.56,2.9h19.87c1.32,0,2.61,.62,3.7,1.79l2.5,2.68"/>
+    <g>
+      <line class="cls-10" x1="244.22" y1="107.13" x2="243.22" y2="107.13"/>
+      <line class="cls-13" x1="241.24" y1="107.13" x2="166.94" y2="107.13"/>
+      <line class="cls-10" x1="165.95" y1="107.13" x2="164.95" y2="107.13"/>
+      <path class="cls-7" d="M161.93,107.13c1.42-.53,3.18-1.43,4.27-2.38l-.86,2.38,.86,2.38c-1.09-.95-2.85-1.85-4.27-2.38Z"/>
+    </g>
+    <g>
+      <path class="cls-12" d="M147.16,49.05c-7.79,6.41-17.66,15.87-26.9,29.01-9.28,13.2-14.91,25.84-18.38,35.69"/>
+      <polygon class="cls-18" points="100.75 117.1 100.52 111.73 102.03 113.53 104.34 113.1 100.75 117.1"/>
+    </g>
+    <rect class="cls-11" width="341.8" height="212.04"/>
+  </g>
+</svg>
