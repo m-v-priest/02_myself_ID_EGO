@@ -48,195 +48,202 @@ image:img/0064.png[,250]
 
 ---
 
-== ---------- ----------
+== 导数公式
 
----
+=== 常用的导数
 
-== 常用的导数
 
-===  stem:[ ("常数"C)'=0]
+[options="autowidth"]
+|===
+|Header 1 |Header 2
 
-常数不会变化, 自然没有"瞬时变化率"存在, 所以常数的导数就=0.
+| stem:[ ("常数"C)'=0]
+|常数不会变化, 自然没有"瞬时变化率"存在, 所以常数的导数就=0.
 
----
-
-=== stem:[ (x^n)'] → ①当指数n=1时, 其导数=1. ②当n>1时, 其导数是 stem:[ (x^n)' = n x^{n-1}]
-
-.标题
-====
-例如： +
-stem:[ (x^3)' = 3x^2]
+|stem:[ (x^n)'] →  +
+①当指数n=1时, 其导数=1.  +
+②当n>1时, 其导数是 stem:[ (x^n)' = n x^{n-1}]
+|stem:[ (x^3)' = 3x^2]
 
 image:img/0056.png[,]
-====
 
-
-.标题
-====
-例如： +
 stem:[ (x^{-3})' = -3 x^{-4}]
 
 image:img/0057.png[,]
-====
 
-
-.标题
-====
-例如： +
 image:img/0058.png[,500]
-====
 
----
 
-=== stem:[ (a^x)' = a^x \ln a]  ← 即直接后面跟个尾巴: ln a
-
-.标题
-====
-例如： +
-stem:[(2^x)' = 2^x \ln 2]
+| stem:[ (a^x)' = a^x \ln a]   +
+← 即直接后面跟个尾巴: ln a
+|stem:[(2^x)' = 2^x \ln 2]
 
 image:img/0059.png[,]
-====
 
----
+|stem:[  (e^x)' = e^x \ln e = e^x]
+|image:img/0060.svg[,300]
 
-=== stem:[  (e^x)' = e^x \ln e = e^x]
+|stem:[ (\log_a x)' = \frac{1} {x \ln a}]  +
+← 即把 x 提到前面去, 把log 变成 ln, 整体再放在分母上. 分子为1.
+|image:img/0061.png[,]
 
-image:img/0060.png[,]
-
----
-
-=== stem:[ (\log_a x)' = \frac{1} {x \ln a}] ← 即把 x 提到前面去, 把log 变成 ln, 整体再放在分母上. 分子为1.
-
-image:img/0061.png[,]
-
----
-
-=== stem:[ (\ln x)' = \frac{1} {x}]
-
-image:img/0063.png[,380]
+| stem:[ (\ln x)' = \frac{1} {x}]
+|image:img/0063.png[,380]
 
 image:img/0062.png[,]
+|===
 
 ---
 
-== ---------- ----------
+=== 三角函数的导数
+
+[options="autowidth"]
+|===
+|Header 1 |Header 2
+
+|stem:[ (\sin x)' = \cos x]
+|image:img/0065.png[,]
+
+| stem:[ (\cos x)' = -\sin x]
+|image:img/0066.png[,]
+
+|stem:[ (\tan x)' = \sec^2 x]
+|image:img/0067.png[,]
+
+|stem:[ (\cot x)' = -\csc^2 x]
+|image:img/0068.png[,]
+
+|stem:[ (\sec x)' = \sec x  \cdot \tan x]
+|image:img/0069.png[,]
+
+|stem:[ (\csc x)' = - \csc x \cdot \cot x ]
+|image:img/0070.png[,]
+|===
 
 ---
 
-== 三角函数的导数
-
-=== stem:[ (\sin x)' = \cos x]
-
-.标题
-====
-例如： +
-image:img/0065.png[,]
-====
-
-
----
-
-===  stem:[ (\cos x)' = -\sin x]
-
-image:img/0066.png[,]
-
-
----
-
-=== stem:[ (\tan x)' = \sec^2 x]
-
-image:img/0067.png[,]
-
-
----
-
-=== stem:[ (\cot x)' = -\csc^2 x]
-
-image:img/0068.png[,]
-
-
----
-
-=== stem:[ (\sec x)' = \sec x  \cdot \tan x]
-
-image:img/0069.png[,]
-
----
-
-=== stem:[ (\csc x)' = - \csc x \cdot \cot x ]
-
-image:img/0070.png[,]
-
-
----
-
-== ---------- ----------
-
----
-
-== 求导法则 : 和差积商
-
-=== stem:[  (a+b)' = a'+b']
-
-.标题
-====
-例如： +
-stem:[\left( x^2+\sin x \right) '=\left( x^2 \right) '+\left( \sin x \right) '=2x +\cos x]
-====
-
----
-
-==== stem:[  (a+b+c)' = a'+b'+c']
-
----
-
-=== stem:[  (a-b)' = a' - b']
-
----
-
-=== stem:[  (ab)' = a'b + ab']
-
-.标题
-====
-例如： +
-stem:[(x^3 e^x)'=(x^3)' e^x + x^3 (e^x)' = 3x^2 e^x + x_3 e^x]
-====
-
----
-
-==== stem:[  (abc)' = a'bc + ab'c + abc']
-
----
-
-=== stem:[("常数C" \cdot a)' = C \cdot a' ] <- 直接把常数提到外面去就行了
-
-.标题
-====
-例如： +
-stem:[(5 sinx)'=5(sinx)'=5 cosx]
-====
-
----
-
-=== stem:[(\frac{a} {b})' = \frac{a'b - ab'} {b^2}]
-
-即: stem:[(上/下)'=\frac{"上'" \cdot 下-上 \cdot "下'"} {下^2}]
-
-
----
-
-== ---------- ----------
-
----
-
-== stem:["反函数的导数" \[f^{-1}(y)\]' = \frac{1} {"原函数的导数" f'(x)}]
+=== stem:["反函数的导数" \[f^{-1}(y)\]' = \frac{1} {"原函数的导数" f'(x)}]
 
 反函数的导数, 和其原函数的导数, 呈"倒数关系". +
 原函数是 y=f(x), 其反函数是 x=f(y), 则, 反函数的导数, 就是"原函数导数"的倒数. 即:
 
 stem:["反函数的导数" \[f^{-1}(y)\]' = \frac{1} {"原函数的导数" f'(x)}]
 
-换言之, 原函数的导数是 stem:[ \frac{Δy} {Δx}], 则其反函数的导数就是 stem:[ \frac{1} {\frac{Δx} {Δy}}]
+换言之, 原函数的导数是 stem:[ \frac{Δy} {Δx}], 则其反函数的导数就是 stem:[ \frac{1} {\frac{Δx} {Δy}}] .  "原函数"和"反函数", 它们"导数"的乘积 =1.
 
 "原函数"与其"反函数"的图像, 是关于 y=x 对称的.
+
+---
+
+=== 反三角函数的导数
+
+[options="autowidth"]
+|===
+|Header 1 |Header 2
+
+|stem:[(\arcsin x)' = \frac{1} {\sqrt{1-x^2}} ]
+|image:img/0071.png[,]
+
+|stem:[(\arccos x)' = - \frac{1} {\sqrt{1-x^2}} ]
+|image:img/0072.svg[,400]
+
+| stem:[(\arctan x)' =  \frac{1} {1 + x^2}]
+|image:img/0073.svg[,400]
+
+| stem:[(\arc cot x)' = - \frac{1} {1 + x^2}]
+|image:img/0074.svg[,400]
+|===
+
+---
+
+== 求导的方法论
+
+=== ★ 求导法则 : 和差积商
+
+[options="autowidth"]
+|===
+|Header 1 |Header 2
+
+|stem:[  (a+b)' = a'+b']
+|stem:[\left( x^2+\sin x \right) '=\left( x^2 \right) '+\left( \sin x \right) '=2x +\cos x]
+
+|stem:[  (a+b+c)' = a'+b'+c']
+|
+
+|stem:[  (a-b)' = a' - b']
+|
+
+|stem:[  (ab)' = a'b + ab']
+|stem:[(x^3 e^x)'=(x^3)' e^x + x^3 (e^x)' = 3x^2 e^x + x_3 e^x]
+
+|stem:[  (abc)' = a'bc + ab'c + abc']
+|
+
+|stem:[("常数C" \cdot a)' = C \cdot a' ] <- 直接把常数提到外面去就行了
+|stem:[(5 sinx)'=5(sinx)'=5 cosx]
+
+|stem:[(\frac{a} {b})' = \frac{a'b - ab'} {b^2}]
+|即: stem:[(上/下)'=\frac{"上'" \cdot 下-上 \cdot "下'"} {下^2}]
+|===
+
+
+---
+
+=== 复合函数的求导 (链式法则)
+
+image:img/0075.png[,270]
+
+.标题
+====
+例如： +
+image:img/0076.png[,300]
+
+image:img/0077.png[,]
+====
+
+
+.标题
+====
+例如： +
+image:img/0079.png[,480]
+====
+
+即"剥洋葱法": +
+image:img/0078.png[,150]
+
+.标题
+====
+例如： +
+image:img/0080.png[,550]
+====
+
+
+.标题
+====
+例如： +
+image:img/0081.png[,500]
+====
+
+---
+
+=== ★ 重要的公式: stem:[ a^b = e^{b \cdot \ln a} ] <- 把指数, 化为以e为底的表达式子.
+
+[options="autowidth"]
+|===
+|Header 1 |Header 2
+
+|证明过程:
+|我们倒过来做:
+
+image:img/0082.png[,500]
+
+|记忆法:
+|image:img/0083.png[,150]
+|===
+
+
+.标题
+====
+例如： +
+|image:img/0084.png[,500]
+====
