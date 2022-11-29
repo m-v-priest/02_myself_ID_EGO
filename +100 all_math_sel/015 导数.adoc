@@ -226,6 +226,15 @@ image:img/0081.png[,500]
 
 ---
 
+=== 参数方程求导
+
+image:img/0091.png[,550]
+
+
+
+
+---
+
 === ★ 重要的公式: stem:[ a^b = e^{b \cdot \ln a} ] <- 把指数, 化为以e为底的表达式子.
 
 [options="autowidth"]
@@ -247,3 +256,4 @@ image:img/0082.png[,500]
 例如： +
 |image:img/0084.png[,500]
 ====
+

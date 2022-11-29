@@ -131,7 +131,6 @@
 		-
 		-
 	- 合并同类项 Collect[eq, x或y或{x,y}]
-	  collapsed:: true
 		- ![image.png](../assets/image_1668301919405_0.png)
 		- ![image.png](../assets/image_1668302018402_0.png)
 		- ![image.png](../assets/image_1668302094719_0.png)
