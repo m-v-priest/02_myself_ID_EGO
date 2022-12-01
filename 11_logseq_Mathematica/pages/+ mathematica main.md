@@ -1,3 +1,11 @@
+- 清除所有变量
+  background-color:: red
+  collapsed:: true
+	- ```
+	  Clear["Global`*"]  (*Clear all variables*)
+	  ```
+	-
+-
 - 最常用快捷键
 	- 上标 Ctrl+6 , 下标 Ctrl+ -
 	- 分数 ctrl+/
@@ -183,7 +191,6 @@
 		-
 	-
 	- 泰勒展开
-	  collapsed:: true
 		- ![image.png](../assets/image_1668056370590_0.png)
 		- ![image.png](../assets/image_1668056339457_0.png)
 	-
@@ -430,6 +437,12 @@
 		  Plot[{Sin[x], Cos[x]}, {x, 0, 2 Pi}, PlotLabels -> "Expressions"]
 		  ```
 		- ![image.png](../assets/image_1669463729741_0.png)
+	- "隐函数"画图
+	  background-color:: red
+		- ```
+		  f[x_, y_] := x^2 - y^2 - 1
+		  ContourPlot[f[x, y] == 0, {x, -3, 3}, {y, -3, 3}]
+		  ```
 	-
 	- ### 将多个函数曲线, 画在一张图上 :
 	  background-color:: blue

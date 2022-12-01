@@ -6,6 +6,34 @@
 ---
 
 
+== 微分的概念
+
+什么是"微分"? 简单地说，用来近似"局部曲线"的直线, 就称为微分。比如下图，若直线能近似点x0附近的曲线
+
+image:img/867.png[,400]
+
+不过显然, 不可能每条直线都能用来近似曲线，它应该满足一定条件. 什么条件呢?
+
+image:img/868.png[,400]
+
+image:img/869.png[,400]
+
+
+
+
+
+
+
+
+
+
+https://www.bilibili.com/video/BV13r4y157cB/?spm_id_from=333.337.search-card.all.click&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
+
+
+
+
+---
+
 == 微分  Differential  ->  y的变化量的 近似值 stem:[ dy = f'(x) \cdot dx]  <- 别忘了: dx = Δx
 
 image:img/098.png[,280]
