@@ -77,7 +77,9 @@ image:img/391.png[,750]
 例如： +
 image:img/392.png[]
 
-image:img/422.png[,200]
+image:img/422.png[,400]
+
+image:img/889.png[]
 ====
 
 
@@ -87,6 +89,8 @@ image:img/422.png[,200]
 image:img/393.png[,800]
 
 image:img/423.png[,200]
+
+image:img/890.png[,]
 ====
 
 
@@ -126,6 +130,8 @@ https://www.bilibili.com/video/BV1JE41137TV/?spm_id_from=trigger_reload&vd_sourc
 image:img/395.png[]
 
 image:img/424.png[,200]
+
+image:img/891.png[,]
 ====
 
 
@@ -139,7 +145,9 @@ image:img/424.png[,200]
 例如： +
 image:img/396.png[,800]
 
-image:img/425.png[,200]
+image:img/425.png[,500]
+
+image:img/892.png[,]
 ====
 
 
@@ -151,6 +159,7 @@ image:img/425.png[,200]
 image:img/397.png[]
 
 image:img/426.png[,200]
+
 ====
 
 
@@ -361,6 +370,10 @@ image:img/435.svg[,200]
 ====
 例如： +
 image:img/383.png[,850]
+
+image:img/893.png[,]
+
+image:img/894.png[,]
 ====
 
 下面, 我们用"分部积分法", 来做上面这道题, 速度更快.
@@ -388,6 +401,8 @@ image:img/384.png[]
 image:img/386.png[]
 
 image:img/447.svg[,200]
+
+image:img/895.png[,]
 ====
 
 ---

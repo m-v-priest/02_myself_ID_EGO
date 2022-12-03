@@ -1,4 +1,11 @@
-- 清除所有变量
+- 基本格式
+	- ```
+	  Plot[Log[E, x], {x, -10, 10}, PlotLabels -> "Expressions", 
+	   AspectRatio -> Automatic, 
+	   Ticks -> {Range[-2 Pi, 2 Pi, Pi/2], Automatic}]
+	  ```
+-
+- 清除所有变量 #重要
   background-color:: red
   collapsed:: true
 	- ```
@@ -7,8 +14,12 @@
 	-
 -
 - 最常用快捷键
+	- [mathematica中的快捷键 | ZYMIN](https://zymin.cn/arcticle/mathematica-kuaijiejian)
+	- 注释 alt+L
 	- 上标 Ctrl+6 , 下标 Ctrl+ -
 	- 分数 ctrl+/
+	- 在头上输入文字  ctrl+7
+		- ![image.png](../assets/image_1670056300644_0.png)
 -
 -
 - ### 相关
@@ -46,7 +57,7 @@
 			- ![image.png](../assets/image_1667967405697_0.png)
 		- 添加注释语句: alt+ /
 		  background-color:: blue
-		- 上标 Ctrl+6 , 下标 Ctrl+ -
+		- 上标 Ctrl+6 , 下标 Ctrl+ -   #重要
 		  background-color:: red
 		- 显示所有计算过程
 		  collapsed:: true
@@ -139,12 +150,12 @@
 		-
 		-
 	- 合并同类项 Collect[eq, x或y或{x,y}]
+	  collapsed:: true
 		- ![image.png](../assets/image_1668301919405_0.png)
 		- ![image.png](../assets/image_1668302018402_0.png)
 		- ![image.png](../assets/image_1668302094719_0.png)
 		-
 	- 通分: 把几个异分母分数（式）化成与原来分数（式）相等的同分母的分数（式）的过程，叫做通分
-	  collapsed:: true
 		- ![image.png](../assets/image_1668303203475_0.png)
 		- ![image.png](../assets/image_1668303226675_0.png)
 		-
@@ -156,6 +167,10 @@
 	- ![image.png](../assets/image_1668304210203_0.png)
 	-
 - ---
+- ### 分段函数 : Piecewise函数
+	- ![image.png](../assets/image_1670056654341_0.png)
+	- ![image.png](../assets/image_1670056553785_0.png)
+-
 - ### 三角函数
   collapsed:: true
 	- ![image.png](../assets/image_1668303863021_0.png)
@@ -185,34 +200,50 @@
 		  ```
 		- ![image.png](../assets/image_1669544106432_0.png)
 		- ![image.png](../assets/image_1669544179575_0.png)
-	- 反函数: InverseFunction[Sin][x]
+	- 反函数: InverseFunction[Sin][x] #重要
+	  collapsed:: true
 		- ![image.png](../assets/image_1669643228170_0.png)
 		- ![image.png](../assets/image_1669643248117_0.png)
 		-
 	-
 	- 泰勒展开
+	  collapsed:: true
 		- ![image.png](../assets/image_1668056370590_0.png)
 		- ![image.png](../assets/image_1668056339457_0.png)
 	-
 	- 求导数: D函数
 	  background-color:: blue
+	  collapsed:: true
 		- ![image.png](../assets/image_1668055969985_0.png)
 		- ![image.png](../assets/image_1668584369180_0.png)
 		- ![image.png](../assets/image_1668584978943_0.png)
 		- ![image.png](../assets/image_1668584999237_0.png)
 		-
-	- 不定积分:  Integrate 函数
+	- 不定积分:  Integrate 函数 #重要
+	  background-color:: red
 	  collapsed:: true
 		- 如 Integrate [1/(1 - x^3), x]
 		- ![image.png](../assets/image_1668084934898_0.png)
 		- ![image.png](../assets/image_1668085242983_0.png)
-	- 定积分: NIntegrate 函数
+	- 对符号分段函数求积分
+	  collapsed:: true
+		- ```
+		  如何表示分段函数
+		  f = Piecewise[{{x - 1, x < 0}, {x^2, 0 < x < 2}, {Sin[3 x], x > 2}}]
+		  Plot[%, {x, -2, 10}]
+		  
+		  如何对符号分段函数求积分
+		  Integrate[f, {t, a, b}, Assumptions -> {a,b} \[Element] Reals]
+		  ```
+		- ![image.png](../assets/image_1670056816470_0.png)
+	- 定积分: NIntegrate 函数 #重要
+	  background-color:: red
 	  collapsed:: true
 		- ![image.png](../assets/image_1668069558450_0.png)
 		- ![image.png](../assets/image_1668069647250_0.png){:height 222, :width 409}
 	-
 	- ### 对数据进行函数拟合
-		- 线性拟合 : Fit[列表, {1, x}, x]
+		- 线性拟合 : Fit[列表, {1, x}, x] #重要
 		  collapsed:: true
 			- ![image.png](../assets/image_1667969752092_0.png)
 - ---
@@ -421,8 +452,15 @@
 	-
 - ### 函数图
 	- plot函数 : 画函数图, 包括多元函数的3d图, 用 Plot 函数
-	  collapsed:: true
 		- ![image.png](../assets/image_1667913150420_0.png)
+		-
+	- plot 画图, 设置纵坐标范围, 以免曲线函数名的文字显示不全 #重要
+	  background-color:: red
+	  collapsed:: true
+		- ```
+		  PlotRange -> {-0.5, 0.5}
+		  ```
+		- ![image.png](../assets/image_1670054542881_0.png)
 		-
 	- graph 函数
 	  collapsed:: true
