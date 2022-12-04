@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 157.89 107.44">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-dasharray: 0 0 2.04 2.04;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-8, .cls-9 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-9 {
+        stroke-width: .25px;
+      }
+
+      .cls-1, .cls-3, .cls-4 {
+        stroke: #9fa0a0;
+      }
+
+      .cls-2, .cls-9 {
+        stroke: #c30d23;
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-13 {
+        font-family: MicrosoftYaHei, 'Microsoft YaHei';
+      }
+
+      .cls-10, .cls-12, .cls-14 {
+        fill: #231815;
+      }
+
+      .cls-10, .cls-13 {
+        font-size: 5px;
+      }
+
+      .cls-11, .cls-12 {
+        font-size: 6px;
+      }
+
+      .cls-11, .cls-13, .cls-15 {
+        fill: #c30d23;
+      }
+
+      .cls-4 {
+        stroke-dasharray: 0 0 2 2;
+      }
+
+      .cls-5, .cls-8 {
+        stroke: #231815;
+      }
+
+      .cls-16 {
+        fill: #094;
+      }
+
+      .cls-6 {
+        stroke: #094;
+      }
+
+      .cls-8 {
+        stroke-width: .5px;
+      }
+
+      .cls-9 {
+        stroke-dasharray: 0 0 2.02 2.02;
+      }
+    </style>
+  </defs>
+  <g id="_图层_1-2" data-name="图层 1">
+    <g>
+      <line class="cls-8" x1="3.33" y1="66" x2="147.69" y2="66"/>
+      <polygon class="cls-14" points="151.22 66 146.25 68.03 147.43 66 146.25 63.97 151.22 66"/>
+    </g>
+    <g>
+      <line class="cls-8" x1="22.33" y1="101.67" x2="22.33" y2="11.53"/>
+      <polygon class="cls-14" points="22.33 8 24.37 12.97 22.33 11.79 20.3 12.97 22.33 8"/>
+    </g>
+    <path class="cls-8" d="M31.33,52.63c3.01,.49,20.72,3.15,36.6-6.57,20.28-12.42,18.79-33.55,18.67-34.89"/>
+    <path class="cls-8" d="M145.67,52.63c-3.01,.49-20.72,3.15-36.6-6.57-20.28-12.42-18.79-33.55-18.67-34.89"/>
+    <g>
+      <line class="cls-3" x1="88.67" y1="9" x2="88.67" y2="10"/>
+      <line class="cls-1" x1="88.67" y1="12.04" x2="88.67" y2="63.98"/>
+      <line class="cls-3" x1="88.67" y1="65" x2="88.67" y2="66"/>
+    </g>
+    <g>
+      <line class="cls-2" x1="80.67" y1="33.7" x2="80.67" y2="34.7"/>
+      <line class="cls-9" x1="80.67" y1="36.72" x2="80.67" y2="63.99"/>
+      <line class="cls-2" x1="80.67" y1="65" x2="80.67" y2="66"/>
+    </g>
+    <g>
+      <line class="cls-2" x1="96.82" y1="33.7" x2="96.82" y2="34.7"/>
+      <line class="cls-9" x1="96.82" y1="36.72" x2="96.82" y2="63.99"/>
+      <line class="cls-2" x1="96.82" y1="65" x2="96.82" y2="66"/>
+    </g>
+    <line class="cls-4" x1="39.67" y1="53.33" x2="39.67" y2="66"/>
+    <line class="cls-4" x1="120.72" y1="53.33" x2="120.72" y2="66"/>
+    <text class="cls-12" transform="translate(38 74.67)"><tspan x="0" y="0">a</tspan></text>
+    <text class="cls-11" transform="translate(87.81 74.67)"><tspan x="0" y="0">c</tspan></text>
+    <text class="cls-12" transform="translate(118 74.67)"><tspan x="0" y="0">b</tspan></text>
+    <text class="cls-12" transform="translate(74.03 74.67)"><tspan x="0" y="0">c-ε</tspan></text>
+    <text class="cls-12" transform="translate(95.3 74.67)"><tspan x="0" y="0">c+ε</tspan></text>
+    <text class="cls-12" transform="translate(83.35 62.38)"><tspan x="0" y="0">ε</tspan></text>
+    <text class="cls-12" transform="translate(91.9 62.38)"><tspan x="0" y="0">ε</tspan></text>
+    <g>
+      <path class="cls-5" d="M80.97,65.03h0c0-.4,.33-.73,.73-.73h2.16c.19,0,.37-.07,.5-.21l.29-.29"/>
+      <path class="cls-5" d="M88.32,65.03h0c0-.4-.33-.73-.73-.73h-2.16c-.19,0-.37-.07-.5-.21l-.29-.29"/>
+    </g>
+    <g>
+      <path class="cls-5" d="M89.07,65.03h0c0-.4,.33-.73,.73-.73h2.16c.19,0,.37-.07,.5-.21l.29-.29"/>
+      <path class="cls-5" d="M96.42,65.03h0c0-.4-.33-.73-.73-.73h-2.16c-.19,0-.37-.07-.5-.21l-.29-.29"/>
+    </g>
+    <text class="cls-10" transform="translate(81.96 94.19)"><tspan x="0" y="0">破裂点</tspan></text>
+    <g>
+      <line class="cls-5" x1="39.67" y1="80.43" x2="39.67" y2="87.11"/>
+      <polygon class="cls-14" points="39.67 78.67 38.65 81.15 39.67 80.56 40.68 81.15 39.67 78.67"/>
+    </g>
+    <g>
+      <line class="cls-2" x1="87.1" y1="40.67" x2="80.42" y2="40.67"/>
+      <polygon class="cls-15" points="88.87 40.67 86.38 39.65 86.97 40.67 86.38 41.68 88.87 40.67"/>
+    </g>
+    <g>
+      <line class="cls-2" x1="96.97" y1="44.89" x2="90.29" y2="44.89"/>
+      <polygon class="cls-15" points="88.52 44.89 91.01 43.87 90.42 44.89 91.01 45.91 88.52 44.89"/>
+    </g>
+    <g>
+      <line class="cls-5" x1="90.33" y1="80.43" x2="90.33" y2="87.11"/>
+      <polygon class="cls-14" points="90.33 78.67 89.32 81.15 90.33 80.56 91.35 81.15 90.33 78.67"/>
+    </g>
+    <rect class="cls-7" width="157.89" height="107.44"/>
+    <text class="cls-13" transform="translate(55.5 23.65)"><tspan x="0" y="0">向右推进, </tspan><tspan x="0" y="7">趋近于c</tspan></text>
+    <text class="cls-13" transform="translate(102.17 23.65)"><tspan x="0" y="0">向左推进, </tspan><tspan x="0" y="7">趋近于c</tspan></text>
+    <g>
+      <path class="cls-6" d="M78.33,27.89c.48,.09,3.98,.84,5.78,4.22,.9,1.69,1,3.35,.91,4.51"/>
+      <path class="cls-16" d="M84.78,38.11c-.16-.74-.48-1.68-.88-2.28l1.12,.59,1.24-.26c-.55,.47-1.12,1.28-1.48,1.95Z"/>
+    </g>
+    <g>
+      <path class="cls-6" d="M100.8,31.74c-.61,.09-5.12,.84-7.43,4.22-1.16,1.7-1.29,3.36-1.17,4.53"/>
+      <path class="cls-16" d="M92.51,41.96c-.4-.64-1.01-1.42-1.59-1.86l1.25,.19,1.08-.66c-.36,.63-.63,1.58-.75,2.33Z"/>
+    </g>
+  </g>
+</svg>
