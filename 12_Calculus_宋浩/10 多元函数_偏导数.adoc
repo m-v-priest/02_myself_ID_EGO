@@ -40,6 +40,8 @@ image:img10/10_105.png[,250]
 比如： stem:[ f(x,y) = x^2 y + sin y], 在 stem:[\[1,2\]^T] 点的导数是什么?
 
 image:img10/10_106.png[,700]
+
+image:img/899.png[,]
 ====
 
 *你可以想象成, 这是由输入中某一个方向(dx)的微小移动, 引起的函数值改变. 然后是另一个方向(dy)的输入的微小移动, 而影响的函数值改变. you're just moving in one direction for the input /and you're seeing how that influences(v.) things. And then, you might move in one direction for another input /and see how that influences(v.) things.*

@@ -213,7 +213,6 @@
 	-
 	- 求导数: D函数
 	  background-color:: blue
-	  collapsed:: true
 		- ![image.png](../assets/image_1668055969985_0.png)
 		- ![image.png](../assets/image_1668584369180_0.png)
 		- ![image.png](../assets/image_1668584978943_0.png)
