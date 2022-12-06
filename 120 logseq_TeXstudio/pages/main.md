@@ -10,7 +10,6 @@
 		- ![image.png](../assets/image_1670242188310_0.png)
 		-
 	- 安装:
-	  collapsed:: true
 		- 将下载的iso文件, 解压
 		- ![image.png](../assets/image_1670242445666_0.png)
 		- 安装路径, 一定要是英文的. 安装需要半小时
@@ -39,7 +38,6 @@
 - ---
 - TeXstudio软件
 	- 界面转中文语言
-	  collapsed:: true
 		- ![image.png](../assets/image_1670241812746_0.png)
 		- ![image.png](../assets/image_1670241791430_0.png)
 		-
@@ -53,7 +51,7 @@
 		- ```
 		  \documentclass[UTF8]{ctexart}
 		  \usepackage{picinpar, graphicx} % 导入这个库后,就能支持插入表格
-		  \usepackage{algorithm, algorithmic} % 支持数学公式输入
+		  \usepackage{algorithm, algorithmic,amsmath} % 支持数学公式输入
 		  
 		  \title{你的标题写在这里}
 		  \author{作者名字}
@@ -100,8 +98,66 @@
 		  	\int_a^b f(x) dx
 		  \end{equation}
 		  
-		  
+		  	\begin{align}
+		  		& 3\sqrt{x} - 2 \sqrt[3]{x} +4 \\
+		  		& = 3x^{1/2} - 2 x^{1/3} +4 \\
+		  		& when \ \mbox{当} x → ∞时, (3x^{1/2} - 2 x^{1/3} +4 ) ~ 3x^{1/2} \\
+		  		& \text{显示中文}
+		  	\end{align}
 		  
 		  \end{document}
 		  ```
+	-
+	- 支持数学公式
+	  collapsed:: true
+		- ```
+		  要想使用\begin{align} 来输入数学公式的话，
+		  需要在 \begin{document} 之前插入\usepackage{amsmath}
+		  ```
+	- ★ 在数学公式中, 支持中文字体
+	  background-color:: red
+	  collapsed:: true
+		- 将中文, 输在 \mbox{ } 或 \text{} 里面.
+	- 字体加粗  \\textbf{...}
+	  background-color:: red
+	  collapsed:: true
+		- 要引入这个包, 才能使用字体加粗效果
+		- ```
+		  \usepackage{ctex} % 支持字体加粗效果, 代码为 \textbf{加粗}
+		  ```
+		- ![image.png](../assets/image_1670297453561_0.png)
+	- 插入图像
+		-
+	-
+	- 生成toc目录
+	  collapsed:: true
+		- ```
+		  \tableofcontents % 生成目录  ←该语句写在 \begin{document} 里面
+		  ```
+		- ![image.png](../assets/image_1670300953304_0.png)
+		-
+	- 分页
+	  collapsed:: true
+		- ```
+		  \newpage  %分页
+		  ```
+	- 单引号和双引号
+	  collapsed:: true
+		- ```
+		  	'hel'lo -- "你好" \\  % 单引号和双引号, 不能这样写
+		  	`hel'lo -- ``你好"  % 因为latex中, 左引号要用`, 右引号才是'
+		  ```
+		- ![image.png](../assets/image_1670301331204_0.png)
+	- 连字符, 有三种写法
+	  collapsed:: true
+		- ```
+		  	abc - def \\
+		  	abc -- def \\
+		  	abc --- def   % 这种效果最好
+		  ```
+		- ![image.png](../assets/image_1670301467374_0.png)
+		-
+	-
+-
+-
 -

@@ -47,3 +47,14 @@ image:img/940.png[,]
 
 
 
+\begin{align}
+\frac{a+\overset{\begin{matrix}{l}
+	up\ somthing\\
+	one...\\
+	tow...\\
+\end{matrix}}{\overbrace{b+c}}+x}{d+\underset{\begin{matrix}{l}
+	down\ sth\\
+	one...\\
+	two...\\
+\end{matrix}}{\underbrace{e}}+y}
+\end{align}
