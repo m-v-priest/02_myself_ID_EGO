@@ -1,8 +1,8 @@
 \documentclass[UTF8]{ctexart}
 \usepackage{picinpar, graphicx} % 导入这个库后,就能支持插入表格
-\graphicspath {{img/}} %图片目录在当前目录的 img文件夹下
+\graphicspath {{img/},{img2/}} %图片目录在当前目录的 img 和 img2文件夹下
 
-\usepackage{algorithm, algorithmic,amsmath, bm} % 支持数学公式输入
+\usepackage{algorithm, algorithmic,amsmath, amssymb,bm} % 支持数学公式输入
 \usepackage{ctex} % 支持字体加粗效果, 代码为 \textbf{加粗}
 
 \title{你的标题写在这里}
@@ -13,7 +13,16 @@
 	\tableofcontents % 生成目录
 	\maketitle  %这行代码, 让你前面的 title, author, date生效
 	
-	
+	\begin{equation}
+		d(x)=
+		\begin{cases}
+			\text{若}x=1, \text{则}= ... \\
+			\text{若}x=200, \text{则} y= ... 
+		\end{cases}
+	\end{equation}
 
-	
+
+
+
+
 \end{document}
