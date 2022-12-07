@@ -1,9 +1,16 @@
 \documentclass[UTF8]{ctexart}
+
 \usepackage{picinpar, graphicx} % 导入这个库后,就能支持插入表格
 \graphicspath {{img/},{img2/}} %图片目录在当前目录的 img 和 img2文件夹下
 
 \usepackage{algorithm, algorithmic,amsmath, amssymb,bm} % 支持数学公式输入
 \usepackage{ctex} % 支持字体加粗效果, 代码为 \textbf{加粗}
+
+\usepackage{multicol} %用于实现在同一页中实现不同的分栏
+\usepackage{wrapfig} %用于实现图文混排
+%\setlength{\parindent}{0pt} % 放在段首，之后的所有段落都将取消首行缩进
+
+
 
 \title{你的标题写在这里}
 \author{作者名字}
@@ -12,17 +19,9 @@
 \begin{document}
 	\tableofcontents % 生成目录
 	\maketitle  %这行代码, 让你前面的 title, author, date生效
-	
-	\begin{equation}
-		d(x)=
-		\begin{cases}
-			\text{若}x=1, \text{则}= ... \\
-			\text{若}x=200, \text{则} y= ... 
-		\end{cases}
-	\end{equation}
 
-
-
+白日\underline{依山尽}
 
 
 \end{document}
+

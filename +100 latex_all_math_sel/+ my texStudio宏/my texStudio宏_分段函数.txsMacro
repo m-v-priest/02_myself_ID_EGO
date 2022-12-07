@@ -1,0 +1,18 @@
+{
+    "abbrev": "\\myPiecewiseFunction",
+    "description": [
+        ""
+    ],
+    "formatVersion": 1,
+    "menu": "",
+    "name": "分段函数",
+    "shortcut": "",
+    "tag": [
+        "d(x)=",
+        "\\begin{cases}",
+        "\tline1 \\\\",
+        "\tline2",
+        "\\end{cases}"
+    ],
+    "trigger": ""
+}

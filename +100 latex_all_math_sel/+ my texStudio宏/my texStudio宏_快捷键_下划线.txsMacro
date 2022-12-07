@@ -1,0 +1,17 @@
+{
+    "abbrev": "\\myUnderline",
+    "description": [
+        ""
+    ],
+    "formatVersion": 1,
+    "menu": "",
+    "name": "下划线",
+    "shortcut": "Ctrl+M,Ctrl+U",
+    "tag": [
+        "%SCRIPT",
+        "txt = cursor.selectedText()",
+        "editor.write(\"\\\\underline{\"+txt+\"}\")",
+        "cursor.clearSelection()"
+    ],
+    "trigger": ""
+}

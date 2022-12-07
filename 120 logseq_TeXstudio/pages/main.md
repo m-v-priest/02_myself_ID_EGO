@@ -59,11 +59,16 @@
 	  collapsed:: true
 		- ```
 		  \documentclass[UTF8]{ctexart}
+		  
 		  \usepackage{picinpar, graphicx} % 导入这个库后,就能支持插入表格
 		  \graphicspath {{img/},{img2/}} %图片目录在当前目录的 img 和 img2文件夹下
 		  
 		  \usepackage{algorithm, algorithmic,amsmath, amssymb,bm} % 支持数学公式输入
 		  \usepackage{ctex} % 支持字体加粗效果, 代码为 \textbf{加粗}
+		  
+		  \usepackage{multicol} %用于实现在同一页中实现不同的分栏
+		  \usepackage{wrapfig} %用于实现图文混排
+		  %\setlength{\parindent}{0pt} % 放在段首，之后的所有段落都将取消首行缩进
 		  
 		  \title{你的标题写在这里}
 		  \author{作者名字}
@@ -119,6 +124,25 @@
 		  
 		  \end{document}
 		  ```
+	- ### ★自定义代码片段
+	  background-color:: red
+	  collapsed:: true
+		- ![image.png](../assets/image_1670379036392_0.png)
+		- ![image.png](../assets/image_1670379069458_0.png)
+		- 然后, 你就可以输入 `\你自定义的缩写` 来输入该代码片段了
+	- ### 自定义快捷键
+	  background-color:: red
+	  collapsed:: true
+		- 将 ctrl+u, 作为给选中的文本添加"下划线"的快捷键. 注意, 使用时, 要先按 ctrl+m后, 再接着按 ctrl+u 才能生效
+			- 在宏里面编辑脚本
+			- ```
+			  %SCRIPT
+			  txt = cursor.selectedText()
+			  editor.write("\\underline{"+txt+"}")
+			  cursor.clearSelection()
+			  ```
+		- ![image.png](../assets/image_1670382934918_0.png)
+	-
 	-
 	-
 	- 注释掉某行   按 ctrl+t (temp)
@@ -161,7 +185,8 @@
 		  \usepackage{ctex} % 支持字体加粗效果, 代码为 \textbf{加粗}
 		  ```
 		- ![image.png](../assets/image_1670297453561_0.png)
-	-
+	- 下划线 `\underline{...}`
+	  background-color:: red
 	-
 	- ### 数学公式
 		- 行内公式 , 有三种写法:
@@ -211,6 +236,8 @@
 		- 让数学公式, 带编号
 		  background-color:: red
 		  collapsed:: true
+			- 单独成行的行间公式在LaTeX里由equation环境包裹。更多情况的是，我们需要罗列一系列公式，并令其按照等号对齐。目前最常用的是align环境，它将公式用 & 分隔为两部分并对齐。
+			- 与equation环境相似的，可以用equation*环境生成不带编号的行间公式。与之相似的还有最常用的无编号行间公式环境 `\[...\]`，以及现在基本被淘汰的 `$$...$$` 环境。当然，还有完全等价的displaymath环境。
 			- ```
 			  	如果想让公式有编号, 就写在 equation 环境中
 			  
@@ -289,6 +316,14 @@
 			  	\end{align*}
 			  ```
 			- ![image.png](../assets/image_1670330045084_0.png)
+		- gather 和 align 环境的区别
+		  collapsed:: true
+			- 公式对齐用到的两个环境：align（对齐）和gather（居中）。
+			  align环境主要是进行分隔符（&）指定的公式某个位置对齐，gather则是公式居中（没有分隔符），两者皆有自动的公式编号功能，另外还有少些用到的对齐环境aligned（对齐不编号）。我们利用这些环境来进行对多行公式进行编号。
+			- gather和align是单独使用的，每行公式都有一个编号，某一行不添加编号，则在该行公式末加一句 `\notag`。align 和gather 有对应的不带编号的版本align* 和gather*
+			  gathered和aligned是在 equation 环境中用的，是把几行公式组合为一个整体编号。
+			- 参考《The LaTeX Mathematics Companion》的 2.11 一节。
+			  或者《Ishort》4.4节。
 		- 将多行公式, 只做一个编号 :  在equation环境中, 用 split环境
 		  background-color:: red
 		  collapsed:: true
@@ -367,6 +402,10 @@
 			  ---
 			  \includegraphics[scale=0.3]{j1.jpg} % 插入图片. 这张图是在 img目录下的. 因为上面已经声明了图片目录的路径, 所以这里就不需要引用图片路径了, 可以直接引用图片名字.
 			  \includegraphics[width=3cm]{j3.jpg} % 插入图片. 这张图是在 img2 目录下的
+			  
+			  %也可以使用绝对路径
+			  \includegraphics[width=0.4\textwidth]{D:/Users/czm/Desktop/神经网络论文/1.jpg}    % 注意要使用/
+			  
 			  ```
 			- ![image.png](../assets/image_1670318949946_0.png)
 			-
@@ -457,7 +496,68 @@
 			  | H | 将浮动精确的放置在Latex代码中的位置，需要导入float包，与`h!`等价 | Places the float at precisely the location in the LATEX code. Requires the float package. This is somewhat equivalent to h! |
 		-
 	-
+	- ---
+	- ### 分栏
+		- ★ 图文混排 wrapfigure环境
+		  background-color:: red
+		  collapsed:: true
+			- ```
+			  \usepackage{wrapfig} %用于实现图文混排
+			  
+			  -----------
+			  
+			  \begin{wrapfigure}[5]{r}[0em]{0.2\textwidth} % 靠文字内容的左侧
+			  	\includegraphics[width=0.2\textwidth]{j1.jpg}	
+			  \end{wrapfigure}
+			  
+			  111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 111... 
+			  ```
+			- ![image.png](../assets/image_1670376661892_0.png)
+			- ![image.png](../assets/image_1670376895254_0.png)
+			- `\begin{wrapfigure}[行数]{位置}[超出长度]{宽度}<图形>\end{wrapfigure}`
+			- 这其中的5个参数, 分别是:
+				- 1.注意，行数两边是方括号，不是花括号！是指图形高度所占的文本行的数目，如果不给出此选项， wrapfig 会自动计算。
+				- 2.位置
+				  是指图形相对于文本的位置，须给定下面四项的一个。
+				  r,R 表示图形位于文本的左边。
+				  l,L 表示图形位于文本的右边。
+				  i,R 表示图形位于页面靠里的一边（用在双面格式里）。
+				  o,O 表示图形位于页面靠外的一边。
+				- 3.超出长度
+				  是指图形超出文本边界的长度，缺省为 0pt。
+				- 4.宽度
+				  指图形的宽度。 wrapfig 会自动计算 图形的高度。不过，我们也可设定图形的高度，具体可见 wrapfig.sty 内 的说明。
+			- 注意事项
+			  collapsed:: true
+				- 在 wrapfigure 后必须紧接着输入段落文字，否则会出错。
+				- 不能在任何列表环境中使用 wrapfigure，也不能在 列表环境前后使用，除非两者之间有一空行或分段指令 \par。
+				- 如果将 wrapfigure 放在 \parbox 或小页环境 等分组中，文本折行必须在这些分组前结束。
+				- 在双栏页版式中不能使用 wrapfigure。
+				- 如果在 wrapfigure 中使用 figure 等 浮动对象，它的编号有可能不正确。
+				- 如果在 wrapfigure 中使用 table 等浮动对象， 它上下方的横线可能被忽略，必须自己再加入。
+				- 在折行的文本中， \linewidth 并没有改变。
+			-
+			-
+			-
+			-
+		- 局部左右分栏(但无法控制哪个内容只在左栏, 哪个只在右栏)
+		  collapsed:: true
+			- ```
+			  \usepackage{multicol} %用于实现在同一页中实现不同的分栏
+			  ---
+			  \begin{document}
+			  
+			      \columnseprule=1pt         % 实现插入分隔线, 就是分栏中, 中间的竖线
+			  
+			      \begin{multicols}{2}       % 分两栏 若花括号中为3则是分三列
+			      你的内容写在这里... 会分成两栏显示
+			      \end{multicols}
+			  
+			  \end{document}
+			  ```
+			- ![image.png](../assets/image_1670374059501_0.png)
 	-
+	- ---
 	- 生成toc目录
 	  collapsed:: true
 		- ```
@@ -466,10 +566,22 @@
 		- ![image.png](../assets/image_1670300953304_0.png)
 		-
 	- 分页
-	  collapsed:: true
 		- ```
 		  \newpage  %分页
 		  ```
+	- 取消段首缩进 (全局生效)
+	  background-color:: red
+	  collapsed:: true
+		- ```
+		  \setlength{\parindent}{0pt} % 放在段首，之后的所有段落都将取消首行缩进
+		  ```
+		- ![image.png](../assets/image_1670377790727_0.png)
+	- 取消段首缩进 (指定某行生效)
+	  collapsed:: true
+		- ```
+		  \noindent %只取消该段的首行缩进
+		  ```
+		- ![image.png](../assets/image_1670377869177_0.png)
 	- 加空行 :
 	  background-color:: red
 	  collapsed:: true
