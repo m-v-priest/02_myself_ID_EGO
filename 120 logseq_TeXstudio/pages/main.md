@@ -1,4 +1,6 @@
 -
+-
+- ---
 - 安装 latex
 	- 官网 https://www.tug.org/texlive/
 	- 下载流程
@@ -56,7 +58,6 @@
 		-
 	- 初次代码测试
 	  background-color:: red
-	  collapsed:: true
 		- ```
 		  \documentclass[UTF8]{ctexart}
 		  
@@ -68,11 +69,21 @@
 		  
 		  \usepackage{multicol} %用于实现在同一页中实现不同的分栏
 		  \usepackage{wrapfig} %用于实现图文混排
-		  %\setlength{\parindent}{0pt} % 放在段首，之后的所有段落都将取消首行缩进
+		  \setlength{\parindent}{0pt} % 放在段首，之后的所有段落都将取消首行缩进
+		  
+		  % 页面边距设置
+		  \usepackage{geometry} %导入版面设置的宏包
+		  \geometry{left=1.5cm, right=1.5cm, top=2cm, bottom=2cm} % 使用命令：\geometry{left=左边距,right=右边距,top=上边距,bottom=下边距}
+		  
+		  \usepackage[skins]{tcolorbox} % 导入该包, 才能支持彩色文本框效果.  必须标注skin，才能使用shadow命令显示阴影
+		  
 		  
 		  \title{你的标题写在这里}
-		  \author{作者名字}
-		  \date{\today}
+		  % \author{作者名字}
+		  % \date{\today}
+		  
+		  
+		  
 		  
 		  \begin{document}
 		  	\maketitle  %这行代码, 让你前面的 title, author, date生效
@@ -167,6 +178,25 @@
 -
 - ---
 - latex 语法
+	- 符号大全
+	  collapsed:: true
+		- https://www.cnblogs.com/kz16/p/15520637.html
+	- 页面边距
+	  collapsed:: true
+		- ```
+		  % 页面边距设置
+		  \usepackage{geometry} %导入版面设置的宏包
+		  \geometry{left=1.5cm, right=1.5cm, top=2cm, bottom=2cm} % 使用命令：\geometry{left=左边距,right=右边距,top=上边距,bottom=下边距}
+		  ```
+		- ![image.png](../assets/image_1670386392108_0.png)
+	- 纸张大小的设置
+	  collapsed:: true
+		- ```
+		  %导入版面设置的宏包
+		  \usepackage{geometry}
+		  \geometry{papersize={20cm, 15cm}} % 使用命令：\geometry{papersize={宽, 高}}
+		  ```
+	-
 	- 支持数学公式
 	  collapsed:: true
 		- ```
@@ -187,6 +217,12 @@
 		- ![image.png](../assets/image_1670297453561_0.png)
 	- 下划线 `\underline{...}`
 	  background-color:: red
+	- 大于号 >：`\textgreater`
+	- 小于号 <： `\textless`
+	- 大于等于 ≥：`\geq`
+	- 小于等于 ≤：`\leq`
+	- 方块 □:  `\Box 或 \square`
+	-
 	-
 	- ### 数学公式
 		- 行内公式 , 有三种写法:
@@ -397,6 +433,7 @@
 		- 插入图像  `\includegraphics[width=2.5cm]{j1.jpg}`
 		  background-color:: red
 		  collapsed:: true
+			- 注意: `\includegraphics` 是支持 `png, eps, pdf` 的，不支持 `svg`
 			- ```
 			  \graphicspath {{img/},{img2/}} %图片目录在当前目录的 img 和 img2文件夹下
 			  ---
@@ -448,6 +485,14 @@
 			  [!h]只是试图放在当前位置。如果页面剩下的部分放不下，还是会跑到下一页的。一般而言，用[!h]选项通常会出现不能正确放置的问题，所以常用[ht]、[htbp]等。
 			  这里加感叹号的意思是 忽略 “美学” 标准。
 			  ```
+		- latex 插入 矢量图,   将 svg 转成 pdf 即可
+		  collapsed:: true
+			- 方法:
+			  1. 将svg拖到 chrome浏览器里面, 按 ctrl+p 打印成 PDF
+			  2. 然后将PDF拖到 acrobat pro 里面, 进行裁剪, 剪掉白边即可, 然后保存
+			  3. 就能在 latex里, 直接插入这个pdf 矢量图片了
+			- ![image.png](../assets/image_1670407004599_0.png)
+			-
 		-
 	-
 	- ### 表格
@@ -557,6 +602,271 @@
 			  ```
 			- ![image.png](../assets/image_1670374059501_0.png)
 	-
+	- ### 目录结构
+	  collapsed:: true
+		- LaTeX 中有七级标题
+		- part、chapter、section、subsection、subsubsection、paragraph、subparagraph。
+		- ctexart 类没有 chapter 结构。
+		- 每级结构都有一个带星号的版本。如：`\section*{}`。
+		- 使用 `\tebleofcontents`命令自动生成目录。
+		- ![image.png](../assets/image_1670385664506_0.png)
+	-
+	- ### 彩色文本框, 可做引用
+	  background-color:: red
+	  collapsed:: true
+		- 我常用的两种样式
+			- ```
+			  \usepackage[skins]{tcolorbox} % 导入该包, 才能支持彩色文本框效果.  必须标注skin，才能使用shadow命令显示阴影
+			  
+			  --------------
+			  
+			  % 下面的参数是:
+			  %colframe={color}	即color of frame，设置边框的颜色。
+			  %colback={color}	即color of background，设置背景的颜色。
+			  %coltitle={color}	color of title text，设置标题的字体颜色。
+			  %colbacktitle={color}	即color of title background，标题的背景颜色。
+			  %boxrule={length}	设置边框的厚度
+			  
+			  \begin{tcolorbox}[title = {你的标题内容},boxrule={0.1em},colframe={black!10}, colback={white},colbacktitle={black!10},coltitle={black}]
+			  	上
+			  	\tcblower
+			  	下
+			  \end{tcolorbox}
+			  
+			  
+			  
+			  \begin{tcolorbox}[title = {你的标题内容},boxrule={0.1em},colframe={black!10}, colback={black!3},colbacktitle={black!10},coltitle={black}]
+			  	上
+			  	\tcblower
+			  	下
+			  \end{tcolorbox}
+			  ```
+			- ![image.png](../assets/image_1670401233830_0.png)
+		- 例子1:
+		  collapsed:: true
+			- ```
+			  % 下面的参数是:
+			  %colframe={color}	即color of frame，设置边框的颜色。
+			  %colback={color}	即color of background，设置背景的颜色。
+			  %coltitle={color}	color of title text，设置标题的字体颜色。
+			  %colbacktitle={color}	即color of title background，标题的背景颜色。
+			  %boxrule={length}	设置边框的厚度
+			  
+			  \begin{tcolorbox}[title = {你的标题内容},boxrule={0.1em},colback={white},colbacktitle={black!10},coltitle={black}]
+			  	上
+			  	\tcblower
+			  	下
+			  \end{tcolorbox}
+			  
+			  
+			  \begin{tcolorbox}[title = {你的标题内容},boxrule={0.1em},colback={white},colbacktitle={black!50},coltitle={black}]
+			  	上
+			  	\tcblower
+			  	下
+			  \end{tcolorbox}
+			  
+			  
+			  \begin{tcolorbox}[title = {你的标题内容},boxrule={0.1em},colback={white},colbacktitle={black!100},coltitle={black}]
+			  	上
+			  	\tcblower
+			  	下
+			  \end{tcolorbox}
+			  ```
+			- ![image.png](../assets/image_1670400661964_0.png)
+		- 自定义颜色
+			- ```
+			  \definecolor{my-blue}{cmyk}{0.80, 0.13, 0.14, 0.04, 1.00} %自定义颜色, 赋予一个新变量my-blue
+			  ----------
+			  \begin{tcolorbox}[title = {你的标题内容},boxrule={0.1em},colback={white},colbacktitle={my-blue},coltitle={black}]
+			  	上
+			  	\tcblower
+			  	下
+			  \end{tcolorbox}
+			  ```
+			- ![image.png](../assets/image_1670400829738_0.png)
+		- 例子2
+		  collapsed:: true
+			- ```
+			  \usepackage[skins]{tcolorbox} % 导入该包, 才能支持彩色文本框效果.  必须标注skin，才能使用shadow命令显示阴影
+			  -------
+			  1.
+			  % 在默认情况下，tcolorbox 输出了一个深灰色圆角边框、浅灰底色的文本框。
+			  \begin{tcolorbox}
+			  	朝辞白帝彩云间 \textbf{千里江陵一日还}.
+			  \end{tcolorbox}
+			  
+			  
+			  2. % 增加了一条虚线。这条虚线由 \tcblower 控制，它将 tcolorbox 中的内容分成了上下两部分。
+			  \begin{tcolorbox}
+			  	朝辞白帝彩云间 \textbf{千里江陵一日还}.
+			  	\tcblower % 虚线
+			  	你的文本内容2
+			  \end{tcolorbox}
+			  
+			  
+			  3. % 这里，我们给 tcolorbox 环境传入了一个名为 title 的参数，它的值是 I Love Sophia。顾名思义，这给 tcolorbox 输出的文本框起了一个名字。默认情况下，这个名字会显示在文本框的头部。
+			  \begin{tcolorbox}[title = {你的标题内容}]
+			  	朝辞白帝彩云间 \textbf{tcolorbox} 千里江陵一日还.
+			  	\tcblower
+			  	两岸猿声啼不住
+			  \end{tcolorbox}
+			  
+			  
+			  4.
+			  朝辞白帝彩云间 \tcbox[tcbox raise base]{千里江陵一日还}
+			  ```
+			- ![image.png](../assets/image_1670397934873_0.png)
+		- 例子3
+		  collapsed:: true
+			- ```
+			  % 下面的参数是:
+			  %colframe={color}	即color of frame，设置边框的颜色。
+			  %colback={color}	即color of background，设置背景的颜色。
+			  %coltitle={color}	color of title text，设置标题的字体颜色。
+			  %boxrule={length}	设置边框的厚度
+			  
+			  \begin{tcolorbox}[title = {你的标题内容},colframe={gray},colback={yellow},coltitle={red},boxrule={0.1em}]
+			  	朝辞白帝彩云间 \textbf{tcolorbox} 千里江陵一日还.
+			  	\tcblower
+			  	两岸猿声啼不住
+			  \end{tcolorbox}
+			  ```
+			- ![image.png](../assets/image_1670399568196_0.png)
+		- 详细说明文档
+		  collapsed:: true
+			- ## 基本环境
+			- tcolorbox：是tcolorbox宏包所提供的最主要的环境。
+			- ## 基本命令
+			  
+			  tcolorbox宏包提供的命令，多以“tcb”开头，为“***TC***olor***B***ox”的缩写。
+			  
+			  | 命令 | 说明 |
+			  | \tcblower | 指示开始tcolorbox的下半部分 |
+			  | \tcbset{options} | 为此命令之后的所有顶层tcolorbox设置options。（不包括包含在tcolorbox内部的tcolorbox。） |
+			  | \tcbsetforeverylayer{options} | tcbset for every layer，为此命令之后的所有的tcolorbox设置options。 |
+			  | \tcbox{content} | 根据content的宽度建立一个无下半部分的、不可分页的tcolorbox。 |
+			  | \newtcolorbox{name}{options} | 建立一个以name作为环境名的，预设options的tcolorbox。（类比于\newenvironment） |
+			  | \renewtcolorbox{name}{options} | 更新以name作为环境名的tcolorbox，类比于\renewenvironment |
+			  | \newtcbox{name}{options} | 建立一个以name作为环境名的，预设options、无下半部分、不可分页tcolorbox。（类比于\newcommand） |
+			  | \renewtcbox{name}{options} | 更新以name作为环境名的，预设options、无下半部分、不可分页tcolorbox。（类比于\renewcommand） |
+			  | \tcolorboxenviroment{name}{options} | 基于已有的name环境，建立一个预设options的tcolorbox。 |
+			- ## tcolorbox基本的可设置参数
+			  
+			  tcolorbox的可设置参数庞杂繁复，主要分为以下几类：
+			- 标题相关的，包括：
+			  
+			  | 标题相关的设置 | 说明 |
+			  | title={title} | 设置tcolorbox的标题 |
+			  | notitle | 去除tcolorbox的标题行 |
+			  | adjusted title={text} | 配合adjusted title使用，将tcolorbox的标题行的高度设置为adjusted title的高度。 |
+			  | adjusted text={text} | 配合adjusted title使用，为tcolorbox标题行设置高度。 |
+			  | squeezed title={title} | 将过长的标题压缩到一行 |
+			  | titlebox={mode} | 指定标题行内容的处理方式，mode的可选值包括visible和invisible。 |
+			  | detach title | 将tcolorbox的标题行内容脱离预定位置，并存储在 \tcbtitletext 中。格式化的标题可通过 \tcbtitle 读取。 |
+			  | attach title | 将标题行的内容恢复到原来的位置 |
+			  | attach title to upper={text} | 将text插入到格式化的标题和tcolorbox内容之间。 |
+			  | subtitle style={options} | 设置副标题的格式 |
+			- 上、下部分相关的，tcolorbox可以通过\tcblower被分为上下两部分：
+			  
+			  | 上下部分相关参数 | 说明 |
+			  | upperbox={mode} | 上半部分内容的处理方式。（类似于titlebox、lowerbox），mode的可选值包括visible和invisible。 |
+			  | lowerbox={mode} | 下半部分内容的处理方式。（类似于titlebox、upperbox），mode的可选值包括visible和invisible。 |
+			  | saveto={filename} | 将tcolorbox的内容（也包括下半部分）保存至filename中 |
+			  | savelowerto={filename} | 将下半部分的内容保存至filename中。 |
+			  | lower separated={true|false} | 是否显示上下部分的分割线。 |
+			- 字体相关的
+			  
+			  | 字体相关设置 | 说明 |
+			  | fonttitle={content} | 设置在标题前的内容，可包括格式化命令 |
+			  | fontupper={content} | 设置在上半部分前的内容，可包括格式化命令 |
+			  | fontlower={content} | 设置在下半部分前的内容，可包括格式化命令 |
+			- 颜色相关的
+			  
+			  | 颜色相关设置 | 说明 |
+			  | colframe={color} | 即color of frame，设置边框的颜色。 |
+			  | colback={color} | 即color of background，设置背景的颜色。 |
+			  | title filled={true|false} | 可理解为是否填充标题， |
+			  | colbacktitle={color} | 即color of title background，标题的背景颜色。 |
+			  | colupper={color} | color of upper text，上半部分字体颜色 |
+			  | collower={color} | color of lower text，下半部分字体颜色 |
+			  | coltext={color} | 同时设置上下部分的字体颜色。 |
+			  | coltitle={color} | color of title text，设置标题的字体颜色。 |
+			- 文本排列相关的，依然分为标题、上半部分、下半部分（除了表中提到的方式，还有一些快捷设置文本排列的参数，此表省略）：
+			  
+			  | 文本排列相关设置 | 说明 |
+			  | halign={alignment} | horizontal alignment，即文本的水平对齐方式（仅包括上半部分）。可选值包括justify、left、flush left、right、flush right、center和flush center。 |
+			  | halign upper={alignment} | 同halign={alignment} |
+			  | halign lower={alignment} | 设置下半部分文本的对齐方式。 |
+			  | halign title={alignment} | 设置标题的对齐方式。 |
+			  | valign={alignment} | vertical alignment，上半部分垂直对齐方式。可选值包括top、center、bottom、scale（即拉伸或压缩文本以符合tcolorbox的高度）以及scale*（受限的scale）。 |
+			- tcolorbox大小、形状相关的：
+			  
+			  | 形状设置参数 | 说明 |
+			  | width={length} | 设置tcolorbox的宽度。 |
+			  | text width={length} | 设置上半部分文本的宽度。 |
+			  | add to width={length} | 在现有的宽度上加上length。 |
+			  | height={length} | 设置高度。 |
+			  | text height={length} | 设置上半部分文本的高度。 |
+			  |  | 设置上边框的厚度 |
+			  | toprule={length} | 设置下边框的厚度 |
+			  | bottomrule={length} | 设置左边框的厚度 |
+			  | leftrule={length} | 设置右边框的厚度 |
+			  | rightrule={length} | 设置标题下边框的厚度 |
+			  | boxrule={length} | 设置边框的厚度 |
+			  | 弧度相关设置 | 说明 |
+			  | arc={length} | 设置四个角的内半径。 |
+			  | circular arc | 将arc设置为内部文本的一半。 |
+			  | bean arc | 将arc设置tcolorbox高度和宽度中较小值的一半。 |
+			  | octogon arc | 嗯，一般何少用到吧，可以看看tcolorbox的说明。 |
+			  | outer arc={length} | 设置四角的外边的半径 |
+			  | 角落设置 | 说明 |
+			  | sharp corners={position} | 将指定的角落设置为直角。可选值包括：northwest、northeast、southwest、southeast、north、south、east、west、downhill、uphill和all。 |
+			  | rounded corners={position} | 将指定角落设置为弧形，可选值同shrap cornes。 |
+			- 间距相关设置：显然间距的设置又可分为上、下、左、右，标题和文本。
+			  
+			  | 间距相关设置 | 说明 |
+			  | boxsep={length} | 该值将会加到设置的上下左右间隔上。 |
+			  | left={length} |  |
+			  | lefttitle={length} |  |
+			  | leftupper={length} |  |
+			  | leftlower={length} |  |
+			  | right={length} |  |
+			  | righttitle={length} |  |
+			  | rightupper={length} |  |
+			  | rightlower={length} |  |
+			  | top={length} |  |
+			  | toptitle={length} |  |
+			  | bottom={length} |  |
+			  | bottomtitle={length} |  |
+			  | middle={length} | 设置上下部分文本与上下分割线之间的距离。 |
+			- 透明设置，以小数的形式设置透明比例。
+			  
+			  | 透明设置 | 说明 |
+			  | opacityframe={fraction} | 边框的透明程度 |
+			  | opacityback={fraction} | 上下部分背景的透明程度 |
+			  | opacitybacktitle={fraction} | 标题背景的透明程度 |
+			  | opacityfill={fraction} |  |
+			  | opacityupper={fraction} | 上半部分文本的透明程度 |
+			  | opacitylower={fraction} | 下半部分文本的透明程度 |
+			  | opacitytext={fraction} | 同时设置上下部分文本的透明程度 |
+			  | opacitytitle={fraction} | 标题文本的透明程度 |
+			- ## 其他设置
+			  
+			  除了上述的常用设置外，tcolorbox还包括一些可以实现某些特效的设置，包括：
+			- 类似 before title、after title 等的在文本前后加入其他内容的设置，
+			- 以tabulars、tabularx为代表的绘制表格相关的设置，
+			- 类似tikz upper、tikz lower等的绘图设置，
+			- 以overlay为代表的叠层设置，
+			- 在跨页时（overlay broken等）的操作等设置，
+			- 包括skip的可用来设置tcolorbox与周围段落间隔的设置，
+			- 设置tcolorbox与其他文本对齐方式的设置，包括tcbox raise、on line等，
+			- Bounding Box相关的设置，
+			- 以spread inwards、spread outwards为代表的扩展到页面边缘的设置，
+			- 包括extrude等的突出设置，
+			- …………
+			- ## 结语
+			  
+			  善用tcolorbox，可以做出非常酷炫的效果。然而由于tcolorbox的设置参数过于繁杂（毕竟tcolorbox自带一份长达500多页的说明书），大多数时候我们只会使用其一小部分功能，并不能完整的真是其真正的实力。另外，由于tcolorbox很多功能基于tikz，掌握tcolorbox的高端功能，必然需要对tikz有一定的认知。
 	- ---
 	- 生成toc目录
 	  collapsed:: true
@@ -588,6 +898,30 @@
 		- ```
 		  ~\\       % 加空行
 		  ```
+	- 分割线 横线  `\hrule`
+	  background-color:: red
+	  collapsed:: true
+		- ```
+		  ~\\
+		  \hrule
+		  ~\\
+		  ```
+		- ![image.png](../assets/image_1670385933172_0.png)
+	- ### 高亮  hight light
+	  background-color:: yellow
+	  collapsed:: true
+		- ```
+		  % 头部先导入包
+		  \usepackage{soul} % 支持高亮
+		  \usepackage{xcolor} 
+		  
+		  --------
+		  
+		  \hl{This will be highlight.}  % 注意! 此方法不支持高亮汉字, 只能高亮英文和公式
+		  
+		  \protect\hl{This will be highlight.}
+		  ```
+		- ![image.png](../assets/image_1670417605627_0.png)
 	-
 	- 单引号和双引号
 	  collapsed:: true

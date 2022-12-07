@@ -1,0 +1,13 @@
+\contentsline {part}{第一部分\hspace {1em}数列的极限}{2}{}%
+\contentsline {part}{第二部分\hspace {1em}函数的极限}{3}{}%
+\contentsline {part}{第三部分\hspace {1em}极限运算法则}{4}{}%
+\contentsline {section}{\numberline {1}若 $ f(x) \textgreater g(x) $, 则 $ \qopname \relax m{lim}f(x) \geq \qopname \relax m{lim}g(x)$ ← 注意: 是大于等于 ≥ !}{4}{}%
+\contentsline {part}{第四部分\hspace {1em}极限的规律}{4}{}%
+\contentsline {section}{\numberline {2}分子上``项的最高次数" \textgreater 分母上``项的最高次数", 则 该分式的极限= ∞. 反之, 则极限=0}{5}{}%
+\contentsline {subsection}{\numberline {2.1}对于 $ \genfrac {}{}{}0{a \cdot x^m}{b \cdot x^n} $, 若 m \textgreater n, 即: 分子的值 \textgreater 分母的值. 则函数极限值 = ∞}{5}{}%
+\contentsline {subsection}{\numberline {2.2}对于 $ \genfrac {}{}{}0{a \cdot x^m}{b \cdot x^n} $, 若 m=n, 则函数极限值 = $ \genfrac {}{}{}0{a} {b}$}{5}{}%
+\contentsline {subsection}{\numberline {2.3}对于 $ \genfrac {}{}{}0{a \cdot x^m}{b \cdot x^n} $, 若 n \textgreater m, 即: 分子的值 \textless 分母的值. 则函数极限值=0}{5}{}%
+\contentsline {part}{第五部分\hspace {1em}几个重要的极限}{6}{}%
+\contentsline {section}{\numberline {3}$ \qopname \relax m{lim}_{x \to 0} \genfrac {}{}{}0{\qopname \relax o{sin}x} {x} = 1 $}{6}{}%
+\contentsline {section}{\numberline {4}$ \qopname \relax m{lim}_{x \to \infty } (1+ \genfrac {}{}{}0{1} {x})^x = e $}{6}{}%
+\contentsline {section}{\numberline {5}$\qopname \relax m{lim}_{x \to 0} (1+x)^{\frac {1} {x}} =e $}{6}{}%

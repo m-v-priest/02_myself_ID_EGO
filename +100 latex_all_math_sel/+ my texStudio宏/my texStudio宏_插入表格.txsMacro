@@ -8,11 +8,11 @@
     "name": "插入表格",
     "shortcut": "",
     "tag": [
-        "\\begin{tabular}{r| c| l}",
+        "\\begin{tabular}{|l| l| }",
         "\t\\hline",
-        "\t\t&  & \\\\",
+        "\t&  \\\\",
         "\t\\hline",
-        "\t\t&  & \\\\",
+        "\t&  \\\\",
         "\t\\hline",
         "\\end{tabular}"
     ],

@@ -1,0 +1,120 @@
+\documentclass[UTF8]{ctexart}
+
+\usepackage{picinpar, graphicx} % 导入这个库后,就能支持插入表格
+\graphicspath {{img_math/},{img2/}} %图片目录在当前目录的 img 和 img2文件夹下
+
+\usepackage{algorithm, algorithmic,amsmath, amssymb,bm} % 支持数学公式输入
+\usepackage{ctex} % 支持字体加粗效果, 代码为 \textbf{加粗}
+
+\usepackage{multicol} %用于实现在同一页中实现不同的分栏
+\usepackage{wrapfig} %用于实现图文混排
+\setlength{\parindent}{0pt} % 放在段首，之后的所有段落都将取消首行缩进
+
+% 页面边距设置
+\usepackage{geometry} %导入版面设置的宏包
+\geometry{left=1.5cm, right=1.5cm, top=2cm, bottom=2cm} % 使用命令：\geometry{left=左边距,right=右边距,top=上边距,bottom=下边距}
+
+\usepackage[skins]{tcolorbox} % 导入该包, 才能支持彩色文本框效果.  必须标注skin，才能使用shadow命令显示阴影
+
+
+\title{函数}
+
+
+\begin{document}
+	\tableofcontents % 生成目录
+	\maketitle  %这行代码, 让你前面的 title, author, date生效
+
+\part{反函数}
+
+
+
+\begin{tabular}{|l| l| }
+	\hline
+	函数f 是: 输入x, 输出y.
+	 &  f(x自变量) = y因变量. \\	 
+	\hline	
+	
+	反函数 $f^{-1}$ 是: 输入y, 输出x. 
+	&  相当于时间倒流, 把原函数的功能倒过来. 就像线性代数中的"逆矩阵"变换功能.\\
+	\hline
+\end{tabular}
+\\
+
+``反函数"和``原函数", 图象关于直线 y=x 对称. \\
+
+
+\begin{tcolorbox}[title = {例},boxrule={0.1em},colframe={black!10}, colback={black!3},colbacktitle={black!10},coltitle={black}]
+有函数 y = 3x+5, 即输入x, 输出y. 它可以变为: 
+	\begin{align*}
+		& 3x = y-5 \\
+		& x = \frac{y-5} {3} 
+	\end{align*}
+	
+	这样, 就是输入y, 输出x 的形式了, 即就变成了``反函数".
+	
+	但一般我们习惯于将输入值, 用x表示; 输出值 , 用y值表示, 所以上面的反函数, 就索性写成  $ y = \dfrac{x-5} {3} $, 但你不要混淆这里的x和y的意义. 这里的x是原y值, 这里的y是原x值.
+\end{tcolorbox}
+
+
+~\\
+\hrule
+~\\
+
+
+\part{初等函数}
+
+\section{power function 幂函数:  $ y = x^{exp} $}
+
+变量x 作为``底"的, 就是幂函数. 形如 $ y=x^2 $ , 格式是 $ y = x^{exp} $
+
+
+~\\
+\hrule
+~\\
+
+
+\section{exponential function 指数函数:  $ y=base^x $}
+
+变量x 在肩膀上做为次方来用的, 就是``指数函数". 形如 $ y=100(1+0.1)^x $. 格式是   $ y=base^x $. 其中, base \textgreater 0 并且 base≠1.
+
+其实, ``投资回报率"终值计算公式 $ F=P(1+i)^n $, 就是指数函数. 如: $ y=100(1+0.1)^x $ 
+
+
+~\\
+\hrule
+~\\
+
+
+\section{trigonometric function 三角函数:  $ y=base^x $}
+
+\subsection{sin \& arcSin}
+
+
+
+
+
+\subsection{cos \& arcCos}
+
+
+
+\subsection{tan \& arcTan}
+
+
+
+
+\subsection{cot \& arcCot}
+
+
+
+
+\subsection{sec \& arcSec}
+
+
+
+
+\subsection{csc \& arcCsc}
+
+
+
+\end{document}
+
