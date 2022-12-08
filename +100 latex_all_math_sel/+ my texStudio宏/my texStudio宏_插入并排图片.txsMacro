@@ -1,0 +1,17 @@
+{
+    "abbrev": "",
+    "description": [
+        ""
+    ],
+    "formatVersion": 1,
+    "menu": "",
+    "name": "插入并排图片",
+    "shortcut": "",
+    "tag": [
+        "\\begin{figure}[htbp]%调节图片位置，h：浮动；t：顶部；b:底部；p：当前位置",
+        "\\includegraphics[width=0.25\\textwidth]{/0023.png}",
+        "\\includegraphics[width=0.25\\textwidth]{/0024.png}",
+        "\\end{figure}"
+    ],
+    "trigger": ""
+}

@@ -78,12 +78,15 @@
 		-
 	- 初次代码测试
 	  background-color:: red
+	  collapsed:: true
 		- ```
 		  \documentclass[UTF8]{ctexart}
 		  
 		  
 		  \usepackage{picinpar, graphicx} % 导入这个库后,就能支持插入表格
 		  \graphicspath {{img_math/},{img2/}} %图片目录在当前目录的 img 和 img2文件夹下
+		  \usepackage{float} 
+		  \usepackage{subfigure}
 		  
 		  \usepackage{algorithm, algorithmic, amsmath, amssymb,bm} % 支持数学公式输入
 		  % \usepackage[fleqn]{amsmath} % 公式左对齐
@@ -265,6 +268,7 @@
 	- 小于等于 ≤：`\leq`
 	- 方块 □:  `\Box 或 \square`
 	- 等价 ~ : `\sim`
+	- latex无法直接输入 arccot 的问题: 改输入 `\operatorname{arccot} `
 	-
 	-
 	-
@@ -540,6 +544,19 @@
 			  
 			  [!h]只是试图放在当前位置。如果页面剩下的部分放不下，还是会跑到下一页的。一般而言，用[!h]选项通常会出现不能正确放置的问题，所以常用[ht]、[htbp]等。
 			  这里加感叹号的意思是 忽略 “美学” 标准。
+			  ```
+		- 让图片在一行上并排排列
+		  collapsed:: true
+			- ```
+			  \usepackage{float} 
+			  \usepackage{subfigure}
+			  
+			  ---
+			  
+			  \begin{figure}[htbp]%调节图片位置，h：浮动；t：顶部；b:底部；p：当前位置
+			  \includegraphics[width=0.25\textwidth]{/0023.png}
+			  \includegraphics[width=0.25\textwidth]{/0024.png}
+			  \end{figure}
 			  ```
 		- latex 插入 矢量图,   将 svg 转成 pdf 即可
 		  collapsed:: true
