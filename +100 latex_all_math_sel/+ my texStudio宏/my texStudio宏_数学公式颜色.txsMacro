@@ -1,0 +1,17 @@
+{
+    "abbrev": "",
+    "description": [
+        ""
+    ],
+    "formatVersion": 1,
+    "menu": "",
+    "name": "数学公式颜色",
+    "shortcut": "Ctrl+M,Ctrl+C",
+    "tag": [
+        "%SCRIPT",
+        "txt = cursor.selectedText()",
+        "editor.write(\"{\\\\color{red}\"+txt+\"}\")",
+        "cursor.clearSelection()"
+    ],
+    "trigger": ""
+}

@@ -1,4 +1,24 @@
+- 我latex踩过的坑
+	- 希腊字母, 不能直接显示. 必须用latex的转义
+	- ### 若要支持直接能打字希腊字母, 就要在头部引入:
+	  background-color:: red
+	  collapsed:: true
+		- ```
+		  % 支持直接打字希腊字母
+		  \usepackage{fontspec}
+		  \setmainfont{NotoSerif-Regular.ttf}[
+		  BoldFont=NotoSerif-Bold.ttf,
+		  ItalicFont=NotoSerif-Italic.ttf,
+		  BoldItalicFont=NotoSerif-BoldItalic.ttf,
+		  ]
+		  ```
+	-
+	- ①② 这些符号, 也不能显示.
+	-
 -
+-
+- emf 转 svg
+	- https://convertio.co/zh/emf-svg/
 -
 - ---
 - 安装 latex
@@ -61,11 +81,15 @@
 		- ```
 		  \documentclass[UTF8]{ctexart}
 		  
-		  \usepackage{picinpar, graphicx} % 导入这个库后,就能支持插入表格
-		  \graphicspath {{img/},{img2/}} %图片目录在当前目录的 img 和 img2文件夹下
 		  
-		  \usepackage{algorithm, algorithmic,amsmath, amssymb,bm} % 支持数学公式输入
+		  \usepackage{picinpar, graphicx} % 导入这个库后,就能支持插入表格
+		  \graphicspath {{img_math/},{img2/}} %图片目录在当前目录的 img 和 img2文件夹下
+		  
+		  \usepackage{algorithm, algorithmic, amsmath, amssymb,bm} % 支持数学公式输入
+		  % \usepackage[fleqn]{amsmath} % 公式左对齐
+		  
 		  \usepackage{ctex} % 支持字体加粗效果, 代码为 \textbf{加粗}
+		  
 		  
 		  \usepackage{multicol} %用于实现在同一页中实现不同的分栏
 		  \usepackage{wrapfig} %用于实现图文混排
@@ -76,6 +100,24 @@
 		  \geometry{left=1.5cm, right=1.5cm, top=2cm, bottom=2cm} % 使用命令：\geometry{left=左边距,right=右边距,top=上边距,bottom=下边距}
 		  
 		  \usepackage[skins]{tcolorbox} % 导入该包, 才能支持彩色文本框效果.  必须标注skin，才能使用shadow命令显示阴影
+		  
+		  \usepackage{soul} % 支持英文高亮
+		  \usepackage{xcolor} 
+		  \newcommand{\mathcolorbox}[2]{\colorbox{#1}{$\displaystyle #2$}}
+		  
+		  
+		  
+		  % 支持直接打字希腊字母 (但注意: 会导致另一些字符不可见, 比如 ∞ 等)
+		  % \usepackage{fontspec}
+		  % \setmainfont{NotoSerif-Regular.ttf}[
+		  % BoldFont=NotoSerif-Bold.ttf,
+		  % ItalicFont=NotoSerif-Italic.ttf,
+		  % BoldItalicFont=NotoSerif-BoldItalic.ttf,
+		  % ]
+		  
+		  %支持修改公式中字体的颜色
+		  \usepackage{xcolor}
+		  
 		  
 		  
 		  \title{你的标题写在这里}
@@ -222,9 +264,23 @@
 	- 大于等于 ≥：`\geq`
 	- 小于等于 ≤：`\leq`
 	- 方块 □:  `\Box 或 \square`
+	- 等价 ~ : `\sim`
+	-
 	-
 	-
 	- ### 数学公式
+		- 修改数学公式中的颜色
+		  background-color:: red
+		  collapsed:: true
+			- ```
+			  %支持修改公式中字体的颜色
+			  \usepackage{xcolor}
+			  
+			  --------
+			  在数学公式中, 使用下面的语句
+			  {\color{red}123}  % 将123变成红色
+			  ```
+		-
 		- 行内公式 , 有三种写法:
 		  collapsed:: true
 			- ```
@@ -898,15 +954,32 @@
 		- ```
 		  ~\\       % 加空行
 		  ```
-	- 分割线 横线  `\hrule`
-	  background-color:: red
-	  collapsed:: true
-		- ```
-		  ~\\
-		  \hrule
-		  ~\\
-		  ```
-		- ![image.png](../assets/image_1670385933172_0.png)
+	-
+	- ### 分割线
+		- 分割线 实线横线  `\hrule` 或 `\hrulefill`
+		  background-color:: red
+		  collapsed:: true
+			- ```
+			  ~\\
+			  \hrule
+			  ~\\
+			  ```
+			- ![image.png](../assets/image_1670385933172_0.png)
+		- 分割线, 虚线 `\dotfill`
+		  collapsed:: true
+			- ![image.png](../assets/image_1670465589288_0.png)
+			-
+		- 分割线, 完全空白
+		  collapsed:: true
+			- ```
+			  1 \\
+			  \hfill \\
+			  3
+			  ```
+			- ![image.png](../assets/image_1670465679126_0.png)
+			-
+		- \hspace{长度} ： 插入指定距离的水平空白间隔。
+		- `\hphantom{文本}`：插入指定“文本”宽度的水平空白。
 	- ### 高亮  hight light
 	  background-color:: yellow
 	  collapsed:: true

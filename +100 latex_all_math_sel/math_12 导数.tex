@@ -1,0 +1,85 @@
+\documentclass[UTF8]{ctexart}
+
+
+\usepackage{tipa}% 这里用于支持音标显示。此包必须在ctex宏包之前，否则会报错。
+
+
+\usepackage{picinpar, graphicx} % 导入这个库后,就能支持插入表格
+\graphicspath {{img_math/},{img2/}} %图片目录在当前目录的 img 和 img2文件夹下
+
+\usepackage{algorithm, algorithmic, amsmath, amssymb,bm} % 支持数学公式输入
+% \usepackage[fleqn]{amsmath} % 公式左对齐
+
+\usepackage{ctex} % 支持字体加粗效果, 代码为 \textbf{加粗}
+
+
+\usepackage{multicol} %用于实现在同一页中实现不同的分栏
+\usepackage{wrapfig} %用于实现图文混排
+\setlength{\parindent}{0pt} % 放在段首，之后的所有段落都将取消首行缩进
+
+% 页面边距设置
+\usepackage{geometry} %导入版面设置的宏包
+\geometry{left=1.5cm, right=1.5cm, top=2cm, bottom=2cm} % 使用命令：\geometry{left=左边距,right=右边距,top=上边距,bottom=下边距}
+
+\usepackage[skins]{tcolorbox} % 导入该包, 才能支持彩色文本框效果.  必须标注skin，才能使用shadow命令显示阴影
+
+\usepackage{soul} % 支持英文高亮
+\usepackage{xcolor} 
+\newcommand{\mathcolorbox}[2]{\colorbox{#1}{$\displaystyle #2$}}
+
+%支持修改公式中字体的颜色
+\usepackage{xcolor}
+
+% 支持直接打字希腊字母
+%\usepackage{fontspec}
+%\setmainfont{CMU Serif}
+
+
+\title{导数 Derivative /dɪˈrɪvətɪv/}
+
+
+
+
+%------------------------------------------------------------
+
+
+
+\begin{document}
+	\tableofcontents % 生成目录
+	\maketitle  %这行代码, 让你前面的 title, author, date生效
+
+
+
+
+\part{什么是导数?}
+
+某点处的``导数", 就是该点处``切线的斜率".
+
+导数, 就是一个``极限值", 比如, y 在 点$x_0$ 处的导数, 就是:  $f'(x_0) = \lim_{\Delta x \to 0} \dfrac{\Delta y} {\Delta x} $
+
+
+
+
+可导, 就意味着图像很"光滑". 即图像没有"尖角"存在 (因为尖角处的左右导数不相等).
+
+并且, 切线不能垂直于x轴. 如果切线是垂直于x轴的, 它的斜率就会是 +∞ 或 -∞了.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}
+
