@@ -1,0 +1,18 @@
+{
+    "abbrev": "",
+    "description": [
+        ""
+    ],
+    "formatVersion": 1,
+    "menu": "",
+    "name": "引用块(用自定义环境来实现)",
+    "shortcut": "",
+    "tag": [
+        "\\begin{myEnvSample}",
+        "\t\\begin{align*}",
+        "\t\t122",
+        "\t\\end{align*}",
+        "\\end{myEnvSample}"
+    ],
+    "trigger": ""
+}
