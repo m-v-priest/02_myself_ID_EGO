@@ -353,9 +353,24 @@ $\left( \log _ex \right) '=\dfrac{1}{x\underset{=\log _ee=1}{\underbrace{\ln e}}
 \end{myEnvSample}
 
 
-
-
-
+\begin{myEnvSample}
+	\begin{align*}
+		&y=e^xx^2\ln x\tan x\ \gets \text{先两边取}\ln\text{,转成对数}\\
+	&\ln y=\ln \left( e^xx^2\ln x\tan x \right) \ \gets \text{根据公式}\ln \left( ab \right) =\ln a+\ln b\\
+	&\ln y=\ln e^x+\ln x^2+\ln \left( \ln x \right) +\ln \left( \tan x \right) \ \gets \text{再两边求导}\\
+	&\left( \ln y \right) '\cdot y'=\underset{\begin{matrix}
+			=\left( x\ln e \right) '\\
+			=\left( x\cdot 1 \right) '\\
+			=1\\
+	&\end{matrix}}{\underbrace{\left( \ln e^x \right) '}}+\underset{\begin{matrix}
+			=\frac{1}{x^2}2x\\
+			=\frac{2}{x}\\
+	&\end{matrix}}{\underbrace{\left( \ln x^2 \right) '}}+\underset{=\frac{1}{\ln x}\frac{1}{x}}{\underbrace{\left( \ln \left( \ln x \right) \right) '}}+\underset{\frac{1}{\tan x}\sec ^2x}{\underbrace{\left( \ln \left( \tan x \right) \right) '}}\\
+	&\frac{1}{y}y'=\frac{2}{x}+\frac{1}{x\ln x}+\frac{\sec ^2x}{\tan x}\\
+	&y'=\left( \frac{2}{x}+\frac{1}{x\ln x}+\frac{\sec ^2x}{\tan x} \right) y\ \gets \text{然后把}y\text{的具体值}=e^x\cdot x^2\cdot \ln x\cdot \tan x\text{代入进去}\\
+	&y'=\left( \frac{2}{x}+\frac{1}{x\ln x}+\frac{\sec ^2x}{\tan x} \right) \left( e^x\cdot x^2\cdot \ln x\cdot \tan x \right)	
+	\end{align*}
+\end{myEnvSample}
 
 
 
