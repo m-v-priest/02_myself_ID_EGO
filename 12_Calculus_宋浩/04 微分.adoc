@@ -154,7 +154,7 @@ image:img/105.png[,400]
 
 "可微"的充分必要条件, 就是"可导". 即: 可微必可导, 可导必可微.
 
-image:img/102.png[,450]
+image:img/102.png[,]
 
 
 即有:
@@ -168,50 +168,50 @@ dy = f'(x) \cdot dx
 .标题
 ====
 例如： +
-image:img/106.png[,480]
+image:img/106.png[,]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/107.png[,300]
+image:img/107.png[,]
 ====
 
 ---
 
-== 基本微分方式与法则
+== 基本微分公式与法则
 
 基本微分公式的核心, 依然是基于这个公式 stem:[ dy = f'(x) dx]
 
-image:img/108.png[,300]
+image:img/108.png[,]
 
-image:img/109.png[,400]
+image:img/109.png[,]
 
 ---
 
 == 复合函数的微分 -> f(g(x))的微分dy = f对g求导 * g对x求导 * dx
 
-image:img/110.png[,300]
+image:img/110.png[,]
 
 .标题
 ====
 例如： +
-image:img/111.png[,380]
+image:img/111.png[,]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/112.png[,250]
+image:img/112.png[,]
 ====
 
 ---
 
 == 微分的几何意义 -> 某x点处的微分dy = 该点处的切线的斜率(即导数) * Δx
 
-image:img/113.png[,350]
+image:img/113.png[,]
 
 ---
 
@@ -221,24 +221,24 @@ image:img/113.png[,350]
 - y的变化量的 "近似值"是 stem:[dy = f'(x_0) \cdot Δx]
 - 即, dy ≈ Δy, 所以, 变化后的y总长值, 即 stem:[ f(x_0 + Δx) ≈ f(x_0) +dy  =  f(x_0)  + f'(x_0) \cdot Δx]
 
-image:img/114.png[,400]
+image:img/114.png[,]
 
 
 .标题
 ====
 例如： +
-image:img/115.png[,400]
+image:img/115.png[,]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/116.png[,600]
+image:img/116.png[,]
 
 但注意, 使用此方法时, Δx 必须越小越好!
 
-image:img/117.png[,200]
+image:img/117.png[,]
 ====
 
 ---
@@ -291,7 +291,7 @@ image:img/121.png[,400]
 image:img/122.png[,400]
 
 
-上面这些快捷计算公式, 其意义就是: 能帮助我们用(等号右边目的) x 的多项式, 来近似计算(等号左边的)复杂的函数.
+上面这些快捷计算公式, 其意义就是: 能帮助我们用(等号右边的) x 的多项式, 来近似计算(等号左边的)复杂的函数.
 
 
 ---

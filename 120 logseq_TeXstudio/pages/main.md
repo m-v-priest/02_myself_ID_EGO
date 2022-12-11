@@ -1,11 +1,11 @@
 - 我latex踩过的坑
+  collapsed:: true
 	- 希腊字母, 不能直接显示. 必须用latex的转义
-	- 像下面这种有大括号"说明"的, 尽量少用纯代码拷入, 会有莫名其妙的报错.  
-	  collapsed:: true
-	  用 axmath 导出emf, 
-	  然后在  https://convertio.co/zh/emf-svg/ 这里变成 svg, 
-	  再拖到chrome里面, ctrl+p 打印成 pdf, 
-	  再用 acrobat pdf 打开, 剪裁. 再插入 latex里面.
+	- 像下面这种有大括号"说明"的,  1. 尽量少用在上下标这样的指数的说明上, 会有莫名其妙的报错.  2. 不要写成两行, 否则字体大小会变成大号的, 不会自动缩小.
+		- 对于复杂的公式, 直接拷代码容易出错的, 就用 axmath 导出emf, 
+		  然后在 https://cloudconvert.com/emf-to-svg 或  https://convertio.co/zh/emf-svg/ 这里变成 svg, 
+		  再拖到chrome里面, ctrl+p 打印成 pdf, 
+		  再用 acrobat pdf 打开, 剪裁. 再插入 latex里面.
 		- ![image.png](../assets/image_1670565747497_0.png)
 	- ### 若要支持直接能打字希腊字母, 就要在头部引入:
 	  background-color:: red
@@ -20,7 +20,7 @@
 		  ]
 		  ```
 	-
-	- ①② 这些符号, 也不能显示.
+	-
 	-
 -
 -
@@ -435,7 +435,6 @@
 		  ```
 		- ![image.png](../assets/image_1670386392108_0.png)
 	- 纸张大小的设置
-	  collapsed:: true
 		- ```
 		  %导入版面设置的宏包
 		  \usepackage{geometry}
@@ -469,7 +468,8 @@
 	- 方块 □:  `\Box 或 \square`
 	- 等价 ~ : `\sim`
 	- latex无法直接输入 arccot 的问题: 改输入 `\operatorname{arccot} `
-	-
+	- 输入带圈的数字 ① ② 这些: `\textcircled{1}`
+	- 角度中的 度° : `^\circ`
 	-
 	-
 	- ### 数学公式

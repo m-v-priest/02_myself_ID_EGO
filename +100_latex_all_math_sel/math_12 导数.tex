@@ -1,53 +1,10 @@
 \documentclass[UTF8]{ctexart}
 
+\usepackage{subfiles}  
 
-\usepackage{tipa}% 这里用于支持音标显示。此包必须在ctex宏包之前，否则会报错。
-
-
-\usepackage{picinpar, graphicx} % 导入这个库后,就能支持插入表格
-\graphicspath {{img_math/},{img2/}} %图片目录在当前目录的 img 和 img2文件夹下
-\usepackage{float} 
-\usepackage{subfigure}
-
-\usepackage{algorithm, algorithmic, amsmath, amssymb,bm} % 支持数学公式输入
-% \usepackage[fleqn]{amsmath} % 公式左对齐
-
-\usepackage{ctex} % 支持字体加粗效果, 代码为 \textbf{加粗}
-
-
-\usepackage{multicol} %用于实现在同一页中实现不同的分栏
-\usepackage{wrapfig} %用于实现图文混排
-\setlength{\parindent}{0pt} % 放在段首，之后的所有段落都将取消首行缩进
-
-% 页面边距设置
-\usepackage{geometry} %导入版面设置的宏包
-\geometry{left=1.5cm, right=1.5cm, top=2cm, bottom=2cm} % 使用命令：\geometry{left=左边距,right=右边距,top=上边距,bottom=下边距}
-
-\usepackage[skins]{tcolorbox} % 导入该包, 才能支持彩色文本框效果.  必须标注skin，才能使用shadow命令显示阴影
-
-\usepackage{soul} % 支持英文高亮
-\usepackage{xcolor} 
-\newcommand{\mathcolorbox}[2]{\colorbox{#1}{$\displaystyle #2$}}
-
-%支持修改公式中字体的颜色
-\usepackage{xcolor}
-
-% 支持直接打字希腊字母
-%\usepackage{fontspec}
-%\setmainfont{CMU Serif}
-
-
-% 我自定义的环境, 用来输入案例, 例子
-\newenvironment{myEnvSample}
-{ 
-	\begin{tcolorbox}[title = {例},boxrule={0.1em},colframe={black!10}, colback={black!3},colbacktitle={black!10},coltitle={black}]
-		%		\begin{align*}  % 注意, 加上这句代码, 似乎通不过, 不加则能通过.
-		}
-		{		
-			%		\end{align*}
-	\end{tcolorbox}
-}
-
+%下面的语句, 引入你的头部设置文件
+\usepackage{C:/phpStorm_proj/02_myself_ID_EGO/+100_latex_all_math_sel/myPreamble} 
+%必须是绝对路径，才能让各个tex在单独编译时使用到
 
 \title{导数 Derivative}
 
@@ -60,6 +17,7 @@
 
 \begin{document}
 	\tableofcontents % 生成目录
+	\date{} % 若不写这句, 则默认也会渲染出日期, 所以我们要手动赋空值	
 	\maketitle  %这行代码, 让你前面的 title, author, date生效
 
 
@@ -159,7 +117,7 @@ $x_0$ 点处的导数, 其实可以有下面4种写法来表示:
 
 \subsection{$(e^x)' = e^x \ln e = e^x$}
 
-\includegraphics[width=0.4\textwidth]{/0025.pdf}
+\includegraphics[width=0.5\textwidth]{/0025.pdf}
 
 
 
@@ -168,7 +126,7 @@ $x_0$ 点处的导数, 其实可以有下面4种写法来表示:
 
 即把 x 提到前面去, 把log 变成 ln, 整体再放在分母上. 分子为1. \\
 
-\includegraphics[width=0.4\textwidth]{/0026.pdf}
+\includegraphics[width=0.5\textwidth]{/0026.pdf}
 
 
 
@@ -178,7 +136,7 @@ $x_0$ 点处的导数, 其实可以有下面4种写法来表示:
 $\left( \log _ex \right) '=\dfrac{1}{x\underset{=\log _ee=1}{\underbrace{\ln e}}}=\dfrac{1}{x}$ \\
 
 
-\underline{对``对数函数"求导, 有一种技巧: 换底成ln后再来做. 因为转成ln后, 操作会变得简单.} \\
+\textbf{对``对数函数"求导, 有一种技巧: 换底成ln后再来做. 因为转成ln后, 操作会变得简单.} \\
 
 \begin{myEnvSample}
 	\begin{align*}
@@ -207,7 +165,7 @@ $\left( \log _ex \right) '=\dfrac{1}{x\underset{=\log _ee=1}{\underbrace{\ln e}}
 
 换言之, 原函数的导数是 $\dfrac{\varDelta y}{\varDelta x} $, , 则其反函数的导数就是  $\dfrac{1}{\frac{\varDelta y}{\varDelta x}}$.
 
-\underline{``原函数"和``反函数", 它们``导数"的乘积 =1.}
+\textbf{``原函数"和``反函数", 它们``导数"的乘积 =1.}
 
 ``原函数"与其``反函数"的图像, 是关于 y=x 对称的.
 
@@ -336,7 +294,7 @@ $\left( \log _ex \right) '=\dfrac{1}{x\underset{=\log _ee=1}{\underbrace{\ln e}}
 
 - 而隐函数: 虽然 x和y之间有关系, 但无法写成清晰的 $ y=f(x)$ 的形式. 即无法变换成``能把y单独提取出来, 放在等号左边"的这种形式. \\
 
-\underline{对``隐函数"求导的方法是: 等号两边同时对 x 求导.} \\
+\textbf{对``隐函数"求导的方法是: 等号两边同时对 x 求导.} \\
 
 \begin{myEnvSample}
 	\begin{align*}
@@ -350,7 +308,8 @@ $\left( \log _ex \right) '=\dfrac{1}{x\underset{=\log _ee=1}{\underbrace{\ln e}}
 	\end{align*} 
 
 因为是隐函数, y 无法写成 ...x的形式, 所以我们就会发现, y'的结果里面, 也无法只有纯粹的x, 会带着y.
-\end{myEnvSample}
+\end{myEnvSample} 
+
 
 
 \begin{myEnvSample}

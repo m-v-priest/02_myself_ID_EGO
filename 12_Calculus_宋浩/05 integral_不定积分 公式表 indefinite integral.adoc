@@ -92,10 +92,10 @@ stem:[ \int] 和 Σ 的区别是:
 |Header 1 |Header 2
 
 |Column 1, row 1
-|image:img/257.png[,400]
+|image:img/257.png[,]
 
 |
-|image:img/258.png[,400]
+|image:img/258.png[,]
 |===
 
 所以:

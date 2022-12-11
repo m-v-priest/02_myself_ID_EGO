@@ -14,6 +14,10 @@
 
 
 \begin{document}
+\tableofcontents % 生成目录
+\date{} % 若不写这句, 则默认也会渲染出日期, 所以我们要手动赋空值
+\maketitle  %这行代码, 让你前面的 title, author, date生效
+
 
 
 \part{泰勒公式  Taylor Formula}
@@ -28,11 +32,11 @@ $f\left( x \right) =a_0+a_1x+a_2x^2+a_3x^3+...$ \\
 
 幂函数分为两种, 一种是"偶函数", 图像的开口方向同向: \\
 
-\includegraphics[width=0.4\textwidth]{/0036.pdf}
+\includegraphics[width=0.5\textwidth]{/0036.pdf}
 
 另一种, 为"奇函数", 图像的开口方向相反: \\
 
-\includegraphics[width=0.4\textwidth]{/0037.pdf}
+\includegraphics[width=0.5\textwidth]{/0037.pdf}
 
 偶函数和奇函数组合在一起, 就能产生让曲线拉伸的效果.
 
@@ -92,6 +96,46 @@ $f\left( x \right) =a_0+a_1x+a_2x^2+a_3x^3+...$ \\
 	e^x & \approx e^0+\frac{\left( e^0 \right) '}{1!}x+\frac{\left( e^0 \right) ''}{2!}x^2+...+\frac{\left( e^0 \right) ^{\left( n \right) \text{次导数}}}{n!}x^n\\
 	& \approx 1+x+\frac{1}{2!}x^2+...+\frac{1}{n!}x^n  
 \end{align*}
+
+
+
+\begin{myEnvSample}
+	又例如, 我们用 马克劳林公式, 来拟合 $ f(x) = \sin x$.
+	
+	即, 把 sin x 的各次导数, 代入马克劳林公式的每个分子上. \\ 
+	
+	$\left( \sin x \right) '=\cos x$ ← 因为公式是在 x=0 处展开, 即把 x=0 代进去, 即 $\left( \sin 0 \right) '=\cos 0=1$
+	
+	$\left( \sin x \right) ''=-\sin x\ \ \ \gets \left( \sin 0 \right) ''=-\sin 0=0$
+	
+	$\left( \sin x \right) ^{\left( 3 \right)}=-\cos x\ \ \ \gets \left( \sin 0 \right) ^{\left( 3 \right)}=-\cos 0=-1$
+	
+	$\left( \sin x \right) ^{\left( 4 \right)}=\sin x\ \ \ \gets \left( \sin 0 \right) ^{\left( 4 \right)}=\sin 0=0$ \\
+	
+	我们可以发现 sin x 的高阶导数的规律:  
+	
+	→ 其偶数阶导数 = 0
+	
+	→ 当 x=0 时, 其高阶导数的导数值, 以 1, 0, -1, 0 循环 \\
+	
+	下面, 就把 sin 这些各次的导数值, 代入马克劳林公式中.
+	
+	马克劳林公式是: 
+	
+	$ f\left( x \right) =f\left( 0 \right) +\frac{f'\left( 0 \right)}{1!}\left( x-0 \right) +\frac{f''\left( 0 \right)}{2!}\left( x-0 \right) ^2+\cdots +\frac{f^{\left( n \right)}\left( 0 \right)}{n!}\left( x-0 \right) ^n+\underset{\text{余项}}{\underbrace{\frac{f^{\left( n+1 \right)}\left( \theta x \right)}{\left( n+1 \right) !}\left( x-0 \right) ^{n+1}}}	$
+	
+	\includegraphics[width=1\textwidth]{/0039.pdf}
+	
+	所以 sin x 展开后, 就是: \\
+	
+	$\sin x=x-\frac{x^3}{3!}+\frac{x^5}{5!}-\frac{x^7}{7!}+...+\left( -1 \right) ^n\frac{x^{2n+1}}{\left( 2n+1 \right) !}+o\left( x^{2n+2} \right) =\sum_{k=0}^{\infty}{\frac{\left( -1 \right) ^k}{\left( 2k+1 \right) !}x^{2k+1}}
+	 $ \\
+	
+	所以, 如果只取第一项, 就有 $ \sin x \sim x$ \\
+	
+	\includegraphics[width=0.6\textwidth]{/0040.pdf}
+	
+\end{myEnvSample}
 
 
 
