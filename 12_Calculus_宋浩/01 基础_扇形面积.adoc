@@ -8,17 +8,17 @@
 
 == 扇形面积 -> stem:[ S_扇= \frac{1} {2} ("弧长"L \cdot "半径"r)]
 
-image:img10/10_198.webp[,300]
+image:img10/10_198.webp[,]
 
 扇形的弧长, 而我们用 L (arc length) 表示.
 
-image:img10/10_199.png[,450]
+image:img10/10_199.png[,]
 
 ---
 
 == 扇形面积 -> stem:[S_扇= \frac{1} {2} r^2 \cdot dθ ]
 
-image:img10/10_200.png[,600]
+image:img10/10_200.png[,]
 
 
 
@@ -30,19 +30,19 @@ image:img10/10_200.png[,600]
 |===
 |Header 1 |Header 2
 
-|image:img10/10_203.png[,350]
-|image:img10/10_201.png[,500]
+|image:img10/10_203.png[,]
+|image:img10/10_201.png[,]
 
-image:img10/10_202.png[,550]
+image:img10/10_202.png[,]
 |===
 
 
 .标题
 ====
 例如： +
-image:img10/10_205.png[,250]
+image:img10/10_205.png[,]
 
-image:img10/10_204.png[,650]
+image:img10/10_204.png[,]
 ====
 
 

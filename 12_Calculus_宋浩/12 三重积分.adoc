@@ -18,9 +18,9 @@
 当积分函数不为1时，说明密度分布不均匀。
 
 
-image:img/782.png[,650]
+image:img/782.png[,]
 
-image:img/781.png[,550]
+image:img/781.png[,]
 
 如果"被积函数" stem:[ f(x,y,z)] 表示"密度", 则三重积分的结果, 就是物体的"质量".
 
@@ -39,19 +39,19 @@ image:img/783.jpg[,]
 
 == 三重积分的计算 (直角坐标系下)
 
-image:img/785.png[,200]
+image:img/785.png[,]
 
 我们怎么来确定这个三维物体的高度? 就是在其下方(投影处), 用一直激光笔, 朝上方(即三维物体上)射, 就能知道该物体的高度下限, 和高度上限.
 
 
-image:img/784.png[,700]
+image:img/784.png[,]
 
 
 
 .标题
 ====
 例如： +
-image:img/787.png[,300]
+image:img/787.png[,]
 
 image:img/786.png[,]
 ====
@@ -61,7 +61,7 @@ image:img/786.png[,]
 .标题
 ====
 例如： +
-image:img/789.png[,350]
+image:img/789.png[,]
 
 image:img/788.png[,]
 ====
@@ -89,7 +89,7 @@ image:img/788.png[,]
 \end{cases}
 \end{align}
 
-image:img/793.webp[,400]
+image:img/793.webp[,]
 
 
 
@@ -97,31 +97,31 @@ image:img/793.webp[,400]
 
 同时, stem:[ dv= dx \ dy \ dz = ρ \ dρ \ dθ \ dz]
 
-image:img/790.png[,250]
+image:img/790.png[,]
 
 
 
 .标题
 ====
 例如： +
-image:img/792.png[,200]
+image:img/792.png[,]
 
-image:img/791.png[,800]
+image:img/791.png[,]
 ====
 
 
 .标题
 ====
-image:img/795.png[,150]
+image:img/795.png[,]
 
-image:img/794.png[,800]
+image:img/794.png[,]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/796.png[,400]
+image:img/796.png[,]
 ====
 
 ---

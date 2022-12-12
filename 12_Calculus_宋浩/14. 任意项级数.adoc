@@ -12,7 +12,7 @@
 
 任意项级数, 也就是其中每一项的正负号, 不知道.
 
-image:img/827.png[,700]
+image:img/827.png[,]
 
 
 即 :  +
@@ -34,20 +34,20 @@ image:img/827.png[,700]
 
 === 定理: stem:[\lim |(u_(n+1))/(u_n)|=L], 若 ① L<1, 则收敛; ② L>1, 则发散; ③ L=1, 则无法判断收敛性.
 
-image:img/828.png[,500]
+image:img/828.png[,]
 
 
 .标题
 ====
 例如： +
-image:img/829.png[,600]
+image:img/829.png[,]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/830.png[,650]
+image:img/830.png[,]
 ====
 
 
@@ -55,7 +55,7 @@ image:img/830.png[,650]
 .标题
 ====
 例如： +
-image:img/831.png[,700]
+image:img/831.png[,]
 ====
 
 

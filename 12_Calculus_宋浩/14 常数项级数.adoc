@@ -12,21 +12,21 @@
 
 无穷级数, 其实就是无穷项的"求和".
 
-image:img/797.png[,550]
+image:img/797.png[,]
 
-image:img/798.png[,850]
-
-.标题
-====
-例如： +
-image:img/799.png[,700]
-====
-
+image:img/798.png[,]
 
 .标题
 ====
 例如： +
-image:img/800.png[,600]
+image:img/799.png[,]
+====
+
+
+.标题
+====
+例如： +
+image:img/800.png[,]
 ====
 
 
@@ -53,7 +53,7 @@ image:img/800.png[,600]
 
 === 性质3: 去掉, 加上, 或改变"有限项", 该级数的"敛散性"不变.
 
-image:img/801.png[,400]
+image:img/801.png[,]
 
 ---
 

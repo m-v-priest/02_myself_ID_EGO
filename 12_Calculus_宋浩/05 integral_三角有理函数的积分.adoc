@@ -24,7 +24,7 @@
 
 == "三角有理函数积分"的通用解法(万能方法) -- 换元法, 即令 stem:[tan\frac{x} {2}=t]
 
-image:img/407.png[,900]
+image:img/407.png[,]
 
 
 
@@ -33,9 +33,9 @@ image:img/407.png[,900]
 .标题
 ====
 例如： +
-image:img/408.png[,520]
+image:img/408.png[,]
 
-image:img/421.png[,200]
+image:img/421.png[,]
 ====
 
 
@@ -45,9 +45,9 @@ image:img/421.png[,200]
 .标题
 ====
 例如： +
-image:img/409.png[,520]
+image:img/409.png[,]
 
-image:img/416.png[,200]
+image:img/416.png[,]
 ====
 
 注意: *对于"三角函数的积分", 如果"被积函数"中的 sin x 和 cos x 的次方太高(比如达到 3次 及以上), 则不建议使用"万能公式"的 stem:[tan \frac{x} {2}=t], 因为你将会得到一个次方更高的"有理函数积分".*
@@ -93,9 +93,9 @@ image:img/416.png[,200]
 .标题
 ====
 例如： +
-image:img/t1001.png[,800]
+image:img/t1001.png[,]
 
-image:img/415.png[,200]
+image:img/415.png[,]
 ====
 
 
@@ -105,9 +105,9 @@ image:img/415.png[,200]
 .标题
 ====
 例如： +
-image:img/t1002.png[,780]
+image:img/t1002.png[,]
 
-image:img/414.png[,200]
+image:img/414.png[,]
 ====
 
 
@@ -116,9 +116,9 @@ image:img/414.png[,200]
 .标题
 ====
 例如： +
-image:img/410.png[,780]
+image:img/410.png[,]
 
-image:img/413.png[,200]
+image:img/413.png[,]
 
 ====
 
@@ -128,9 +128,9 @@ image:img/413.png[,200]
 .标题
 ====
 例如： +
-image:img/411.png[,550]
+image:img/411.png[,]
 
-image:img/412.png[,200]
+image:img/412.png[,]
 ====
 
 
@@ -143,9 +143,9 @@ image:img/412.png[,200]
 .标题
 ====
 例如： +
-image:img/417.png[,700]
+image:img/417.png[,]
 
-image:img/418.png[,200]
+image:img/418.png[,]
 ====
 
 
@@ -156,9 +156,9 @@ image:img/418.png[,200]
 .标题
 ====
 例如： +
-image:img/419.png[,700]
+image:img/419.png[,]
 
-image:img/420.png[,200]
+image:img/420.png[,]
 ====
 
 
@@ -168,9 +168,9 @@ image:img/420.png[,200]
 .标题
 ====
 例如： +
-image:img/436.png[,900]
+image:img/436.png[,]
 
-image:img/437.svg[,200]
+image:img/437.svg[,]
 ====
 
 
@@ -181,7 +181,7 @@ image:img/437.svg[,200]
 例如： +
 image:img/438.png[]
 
-image:img/439.svg[,200]
+image:img/439.svg[,]
 ====
 
 
@@ -190,7 +190,7 @@ image:img/439.svg[,200]
 .标题
 ====
 例如： +
-image:img/440.png[,850]
+image:img/440.png[,]
 
 ---
 

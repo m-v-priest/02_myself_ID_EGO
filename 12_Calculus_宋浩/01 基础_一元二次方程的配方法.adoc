@@ -11,9 +11,9 @@
 
 配方法: 是一种用来把"二次多项式"化为一个"一次多项式的平方 与一个常数的和"的方法。
 
-image:img/356.png[,250]
+image:img/356.png[,]
 
-image:img/357.png[,550]
+image:img/357.png[,]
 
 
 知道了上面的规律后, 我们就能来进行"配方"了:
@@ -21,20 +21,20 @@ image:img/357.png[,550]
 .标题
 ====
 例如： +
-image:img/358.png[,520]
+image:img/358.png[,]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/359.png[,420]
+image:img/359.png[,]
 ====
 
 .标题
 ====
 例如： +
-image:img/360.png[,520]
+image:img/360.png[,]
 ====
 
 ---
@@ -42,12 +42,12 @@ image:img/360.png[,520]
 == 配方公式 -> stem:[ a x^2 + bx + c = a(x + \frac{b}{2a})^2 + c - a (\frac{b}{2a})^2]
 
 
-image:img/361.png[,320]
+image:img/361.png[,]
 
 .标题
 ====
 例如： +
-image:img/362.png[,600]
+image:img/362.png[,]
 ====
 
 ---

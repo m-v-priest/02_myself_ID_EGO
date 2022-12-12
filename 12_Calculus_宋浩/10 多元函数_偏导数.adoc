@@ -14,13 +14,13 @@ stem:[ f(x,y) = x^2 y +sin(y)]  ← 该多元函数, 只输出一个一维的数
 
 我们先思考一下普通导数的定义: 它表示着"由微小的输入引起的微小输出的改变比例" the resulting change in the output /after you make that initial little nudge. 所以, df 就是改变的结果. 所以, 当你从这种函数图去考虑 stem:[ (df)/(dx)]的时候, 它就是"斜率"
 
-image:img10/10_103.png[,200]
+image:img10/10_103.png[,]
 
 如你如果仔细思考一下, 我们也不一定要从这种函数图去考虑导数. **你可以这样想象: 输入空间是一条一维度的线, 输出空间也是一条一维度的线. 然后, 第一条线上的数, 以某种方式映射到第二条线上. 在这种情况下 你的微小改变 dx, 会变成第一条数轴的微小移动. 然后我们想知道: 这个微小改变, 会如何影响函数的输出? **
 
 也许**"输出"的改变, 会是"输入"改变的4倍, 这就意味着: 你在那个点的导数是4.**
 
-image:img10/10_104.png[,200]
+image:img10/10_104.png[,]
 
 即, 我们在"多元函数的导数问题"中, 也可以这样考虑:  输入空间在x方向上有了一个微小的改变, 是如何影响输出的? how does a tiny change in the input in the x direction influence(v.) a output?
 
@@ -31,7 +31,7 @@ image:img10/10_104.png[,200]
 & \frac{df} {dy}(1,2)  <- 是问: 在[1,2]^T 点处, dy代表的y方向的微小变化, 是如何影响函数输出值的? \\
 \end{align}
 
-image:img10/10_105.png[,250]
+image:img10/10_105.png[,]
 
 不过, 在"偏导"中, 我们不再用 stem:[ (df)/(dx)] 这种方式去写它们, 而是采用了一个新符号: stem:[ (∂f)/(∂x)], 它用来提醒人们: 这个导数算子涉及到的是"多元函数".  ∂ 是 delta, 不过一般读做 partial.
 
@@ -39,7 +39,7 @@ image:img10/10_105.png[,250]
 ====
 比如： stem:[ f(x,y) = x^2 y + sin y], 在 stem:[\[1,2\]^T] 点的导数是什么?
 
-image:img10/10_106.png[,700]
+image:img10/10_106.png[,]
 
 image:img/899.png[,]
 ====
@@ -71,39 +71,39 @@ to reach or make sth reach a particular level （使）达到，接近
 .标题
 ====
 例如： +
-image:img10/10_107.png[,500]
+image:img10/10_107.png[,]
 
-image:img10/10_108.gif[,500]
+image:img10/10_108.gif[,]
 
-image:img10/10_108.png[,300]
+image:img10/10_108.png[,]
 
 或许你在想: 这是不是在x方向轻微移动后, 在f产生的效果? 这对于函数图像又是代表着什么呢?
 
 首先, 你把y视为一个常数的话, 基本上意味着可以以"y=那个常数值"的平面, 来切割函数图,
 
-image:img10/10_109.png[,500]
+image:img10/10_109.png[,]
 
-image:img10/10_110.png[,500]
+image:img10/10_110.png[,]
 
 *这个切片, 上的所有的点, x坐标值全部相同, 只有y坐标和z坐标值是不同的, 变化的.*
 
-image:img10/10_111.png[,500]
+image:img10/10_111.png[,]
 
 我们实际上已经可以将"偏导"解释成"斜率"了.
 
-image:img10/10_112.png[,500]
+image:img10/10_112.png[,]
 
 我们发现这条切线的斜率是 -2, 正好对应了我们的导数值.
 
 下面,我们再对 x=常数= -1, 做切片
 
-image:img10/10_113.png[,500]
+image:img10/10_113.png[,]
 
-image:img10/10_114.png[,500]
+image:img10/10_114.png[,]
 
 即, 上面的切片平面, 只有yz两个维度.  现在我们取"偏导"的话, 就能将其解释为是这条割曲线的斜率.
 
-image:img10/10_115.png[,250]
+image:img10/10_115.png[,]
 
 我们继续计算一下 stem:[ \frac{∂f} {∂y}] ← ∂f 就是 ∂z, 也证明了这个平面, 只有yz两个维度.
 ====
@@ -119,9 +119,9 @@ image:img10/10_115.png[,250]
 === 偏导的正式定义
 
 
-image:img10/10_117.png[,300]
+image:img10/10_117.png[,]
 
-image:img10/10_116.png[,700]
+image:img10/10_116.png[,]
 
 ---
 
@@ -169,7 +169,7 @@ image:img10/10_118.png[]
 .标题
 ====
 例如： +
-image:img/630.png[,470]
+image:img/630.png[,]
 ====
 
 
@@ -177,7 +177,7 @@ image:img/630.png[,470]
 .标题
 ====
 例如： +
-image:img/631.png[,670]
+image:img/631.png[,]
 ====
 
 
@@ -185,14 +185,14 @@ image:img/631.png[,670]
 .标题
 ====
 例如： +
-image:img/632.png[,600]
+image:img/632.png[,]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/633.png[,630]
+image:img/633.png[,]
 ====
 
 
@@ -200,7 +200,7 @@ image:img/633.png[,630]
 
 == 偏导数的几何意义
 
-image:img/635.png[,600]
+image:img/635.png[,]
 
 image:img/634.webp[]
 
@@ -208,7 +208,7 @@ image:img/634.webp[]
 .标题
 ====
 例如： +
-image:img/636.png[,670]
+image:img/636.png[,]
 ====
 
 

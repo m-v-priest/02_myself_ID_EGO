@@ -12,7 +12,7 @@
 .标题
 ====
 例如： +
-image:img/488.png[,900]
+image:img/488.png[,]
 ====
 
 
@@ -21,13 +21,13 @@ image:img/488.png[,900]
 .标题
 ====
 例如： +
-image:img/489.png[,770]
+image:img/489.png[,]
 
 注意: 这道题, 如果你不用"换元法", 而是用之前"不定积分"的思路直接来求出"原函数", 再代入"上限 减去 下限" 来算的话, 这里就有个陷阱错误了:
 
-image:img/490.png[,850]
+image:img/490.png[,]
 
-image:img/515.svg[,350]
+image:img/515.svg[,]
 
 ====
 
@@ -38,9 +38,9 @@ image:img/515.svg[,350]
 .标题
 ====
 例如： +
-image:img/496.png[,850]
+image:img/496.png[,]
 
-image:img/500.svg[,300]
+image:img/500.svg[,]
 ====
 
 
@@ -50,9 +50,9 @@ image:img/500.svg[,300]
 .标题
 ====
 例如： +
-image:img/497.png[,800]
+image:img/497.png[,]
 
-image:img/514.svg[,350]
+image:img/514.svg[,]
 ====
 
 ---
@@ -60,9 +60,9 @@ image:img/514.svg[,350]
 
 == ★ 一个重要结论: ① f(x)是"偶函数"的话, 则: stem:[\int_{-a}^a f(x) dx = 2 \int_0^a f(x) dx]. ② f(x)是"奇函数"的话, 则: stem:[\int_{-a}^a f(x) dx = 0]
 
-image:img/498.png[,650]
+image:img/498.png[,]
 
-image:img/499.png[,350]
+image:img/499.png[,]
 
 
 ---
@@ -71,7 +71,7 @@ image:img/499.png[,350]
 .标题
 ====
 例如： +
-image:img/501.png[,750]
+image:img/501.png[,]
 ====
 
 
@@ -81,7 +81,7 @@ image:img/501.png[,750]
 .标题
 ====
 例如： +
-image:img/502.png[,750]
+image:img/502.png[,]
 ====
 
 
@@ -90,7 +90,7 @@ image:img/502.png[,750]
 .标题
 ====
 例如： +
-image:img/503.png[,650]
+image:img/503.png[,]
 ====
 
 ---
@@ -99,7 +99,7 @@ image:img/503.png[,650]
 
 这个结论, 在几何上很直观:
 
-image:img/504.png[,350]
+image:img/504.png[,]
 
 
 ---
@@ -114,9 +114,9 @@ image:img/504.png[,350]
 .标题
 ====
 例如： +
-image:img/506.png[,800]
+image:img/506.png[,]
 
-image:img/505.svg[,350]
+image:img/505.svg[,]
 ====
 
 
@@ -127,11 +127,11 @@ image:img/505.svg[,350]
 例如： +
 image:img/507.png[]
 
-image:img/508.svg[,350]
+image:img/508.svg[,]
 
-image:img/509.svg[,350]
+image:img/509.svg[,]
 
-image:img/510.svg[,350]
+image:img/510.svg[,]
 ====
 
 
@@ -141,11 +141,11 @@ image:img/510.svg[,350]
 .标题
 ====
 例如： +
-image:img/511.png[,800]
+image:img/511.png[,]
 
-image:img/512.svg[,350]
+image:img/512.svg[,]
 
-image:img/513.svg[,350]
+image:img/513.svg[,]
 ====
 
 

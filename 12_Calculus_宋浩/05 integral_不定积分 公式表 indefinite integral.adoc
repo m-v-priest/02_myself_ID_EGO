@@ -45,7 +45,7 @@ adj.
 \end{align}
 
 
-image:img/256.png[,200]
+image:img/256.png[,]
 
 
 原函数什么时候会存在呢? -> 连续(即能一笔画)的导函数, 一定有"原函数".
@@ -109,14 +109,14 @@ stem:[ \int] 和 Σ 的区别是:
 
 
 
-|image:img/259.webp[,550]
+|image:img/259.webp[,]
 
 
 ---
 
 === 公式表
 
-image:img/318.webp[,500]
+image:img/318.webp[,]
 
 
 ---
@@ -135,14 +135,14 @@ image:img/318.webp[,500]
 .标题
 ====
 例如： +
-image:img/254.png[,110]
+image:img/254.png[,]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/255.png[,120]
+image:img/255.png[,]
 ====
 
 ---
@@ -185,7 +185,7 @@ image:img/255.png[,120]
 .标题
 ====
 例如： +
-image:img/355.png[,600]
+image:img/355.png[,]
 ====
 
 
@@ -200,7 +200,7 @@ image:img/355.png[,600]
 .标题
 ====
 例如： +
-image:img/363.png[,850]
+image:img/363.png[,]
 
 mathematica 中的操作:
 
@@ -273,7 +273,7 @@ image:img/882.png[,]
 .标题
 ====
 例如： +
-image:img/260.png[,230]
+image:img/260.png[,]
 
 image:img/883.png[,]
 ====
@@ -282,7 +282,7 @@ image:img/883.png[,]
 .标题
 ====
 例如： +
-image:img/261.png[,700]
+image:img/261.png[,]
 
 image:img/884.png[,]
 ====
@@ -291,7 +291,7 @@ image:img/884.png[,]
 .标题
 ====
 例如： +
-image:img/262.png[,330]
+image:img/262.png[,]
 
 image:img/885.png[,]
 ====
@@ -300,7 +300,7 @@ image:img/885.png[,]
 .标题
 ====
 例如： +
-image:img/263.png[,450]
+image:img/263.png[,]
 
 image:img/886.png[,]
 ====
@@ -309,7 +309,7 @@ image:img/886.png[,]
 .标题
 ====
 例如： +
-image:img/264.png[,600]
+image:img/264.png[,]
 
 image:img/887.png[,]
 ====
@@ -318,7 +318,7 @@ image:img/887.png[,]
 .标题
 ====
 例如： +
-image:img/267.png[,450]
+image:img/267.png[,]
 
 image:img/888.png[,]
 ====

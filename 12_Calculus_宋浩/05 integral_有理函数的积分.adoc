@@ -12,12 +12,12 @@
 
 有理函数(有理分式): 是指由两个多项式函数的商, 所表示的函数，其一般形式为
 
-image:img/375.svg[,400]
+image:img/375.svg[,]
 
 其中 n, m 为非负整数，stem:[α, β]为系数(常数).
 
 
-image:img/387.png[,470]
+image:img/387.png[,]
 
 有理函数的分子和分母上, 只能是"幂函数", 或"多项式函数". 不能出现三角函数, e函数等.
 
@@ -46,18 +46,18 @@ image:img/387.png[,470]
 -> 所以"假分式"就是 "分子的最高项次数", 大于等于 "分母的最高项次数".
 
 2+|
-image:img/388.png[,500]
+image:img/388.png[,]
 
-image:img/389.png[,500]
+image:img/389.png[,]
 |===
 
 
-image:img/390.png[,800]
+image:img/390.png[,]
 
 .标题
 ====
 例如： +
-image:img/391.png[,750]
+image:img/391.png[,]
 ====
 
 
@@ -77,7 +77,7 @@ image:img/391.png[,750]
 例如： +
 image:img/392.png[]
 
-image:img/422.png[,400]
+image:img/422.png[,]
 
 image:img/889.png[]
 ====
@@ -86,9 +86,9 @@ image:img/889.png[]
 .标题
 ====
 例如： +
-image:img/393.png[,800]
+image:img/393.png[,]
 
-image:img/423.png[,200]
+image:img/423.png[,]
 
 image:img/890.png[,]
 ====
@@ -99,7 +99,7 @@ image:img/890.png[,]
 例如： +
 image:img/394.png[]
 
-image:img/401.png[,800]
+image:img/401.png[,]
 ====
 
 
@@ -129,7 +129,7 @@ https://www.bilibili.com/video/BV1JE41137TV/?spm_id_from=trigger_reload&vd_sourc
 例如： +
 image:img/395.png[]
 
-image:img/424.png[,200]
+image:img/424.png[,]
 
 image:img/891.png[,]
 ====
@@ -143,9 +143,9 @@ image:img/891.png[,]
 .标题
 ====
 例如： +
-image:img/396.png[,800]
+image:img/396.png[,]
 
-image:img/425.png[,500]
+image:img/425.png[,]
 
 image:img/892.png[,]
 ====
@@ -158,7 +158,7 @@ image:img/892.png[,]
 例如： +
 image:img/397.png[]
 
-image:img/426.png[,200]
+image:img/426.png[,]
 
 ====
 
@@ -168,9 +168,9 @@ image:img/426.png[,200]
 .标题
 ====
 例如： +
-image:img/398.png[,700]
+image:img/398.png[,]
 
-image:img/427.png[,200]
+image:img/427.png[,]
 ====
 
 
@@ -181,7 +181,7 @@ image:img/427.png[,200]
 例如： +
 image:img/399.png[]
 
-image:img/428.svg[,200]
+image:img/428.svg[,]
 ====
 
 
@@ -190,9 +190,9 @@ image:img/428.svg[,200]
 .标题
 ====
 例如： +
-image:img/400.png[,800]
+image:img/400.png[,]
 
-image:img/429.svg[,200]
+image:img/429.svg[,]
 ====
 
 
@@ -201,9 +201,9 @@ image:img/429.svg[,200]
 .标题
 ====
 例如： +
-image:img/402.png[,280]
+image:img/402.png[,]
 
-image:img/430.svg[,200]
+image:img/430.svg[,]
 ====
 
 
@@ -212,9 +212,9 @@ image:img/430.svg[,200]
 .标题
 ====
 例如： +
-image:img/403.png[,900]
+image:img/403.png[,]
 
-image:img/431.svg[,200]
+image:img/431.svg[,]
 ====
 
 
@@ -223,9 +223,9 @@ image:img/431.svg[,200]
 .标题
 ====
 例如： +
-image:img/404.png[,580]
+image:img/404.png[,]
 
-image:img/432.svg[,200]
+image:img/432.svg[,]
 ====
 
 
@@ -234,9 +234,9 @@ image:img/432.svg[,200]
 .标题
 ====
 例如： +
-image:img/405.png[,700]
+image:img/405.png[,]
 
-image:img/433.svg[,200]
+image:img/433.svg[,]
 ====
 
 
@@ -245,7 +245,7 @@ image:img/433.svg[,200]
 .标题
 ====
 例如： +
-image:img/406.png[,640]
+image:img/406.png[,]
 ====
 
 
@@ -313,7 +313,7 @@ image:img/406.png[,640]
 .标题
 ====
 例如： +
-image:img/385.png[,830]
+image:img/385.png[,]
 ====
 
 
@@ -329,9 +329,9 @@ image:img/385.png[,830]
 .标题
 ====
 例如： +
-image:img/381.png[,880]
+image:img/381.png[,]
 
-image:img/434.svg[,280]
+image:img/434.svg[,]
 ====
 
 
@@ -350,7 +350,7 @@ image:img/434.svg[,280]
 例如： +
 image:img/382.png[]
 
-image:img/435.svg[,200]
+image:img/435.svg[,]
 ====
 
 
@@ -369,7 +369,7 @@ image:img/435.svg[,200]
 .标题
 ====
 例如： +
-image:img/383.png[,850]
+image:img/383.png[,]
 
 image:img/893.png[,]
 
@@ -400,7 +400,7 @@ image:img/384.png[]
 例如： +
 image:img/386.png[]
 
-image:img/447.svg[,200]
+image:img/447.svg[,]
 
 image:img/895.png[,]
 ====
@@ -430,7 +430,7 @@ https://www.bilibili.com/video/BV1f54y1G7gv?spm_id_from=333.999.0.0&vd_source=52
 
 == 例题
 
-image:img/376.png[,700]
+image:img/376.png[,]
 
 
 === 类型1 :  stem:[\frac{一次, 常数} {二次}]
@@ -439,9 +439,9 @@ image:img/376.png[,700]
 .标题
 ====
 例如： +
-image:img/377.png[,600]
+image:img/377.png[,]
 
-image:img/446.svg[,200]
+image:img/446.svg[,]
 ====
 
 
@@ -450,9 +450,9 @@ image:img/446.svg[,200]
 .标题
 ====
 例如： +
-image:img/378.png[,600]
+image:img/378.png[,]
 
-image:img/445.svg[,200]
+image:img/445.svg[,]
 ====
 
 
@@ -461,9 +461,9 @@ image:img/445.svg[,200]
 .标题
 ====
 例如： +
-image:img/379.png[,550]
+image:img/379.png[,]
 
-image:img/444.svg[,200]
+image:img/444.svg[,]
 ====
 
 
@@ -472,9 +472,9 @@ image:img/444.svg[,200]
 .标题
 ====
 例如： +
-image:img/380.png[,550]
+image:img/380.png[,]
 
-image:img/443.svg[,200]
+image:img/443.svg[,]
 ====
 
 
@@ -483,9 +483,9 @@ image:img/443.svg[,200]
 .标题
 ====
 例如： +
-image:img/441.png[,750]
+image:img/441.png[,]
 
-image:img/442.svg[,200]
+image:img/442.svg[,]
 ====
 
 ---
@@ -494,7 +494,7 @@ image:img/442.svg[,200]
 
 === #★ 裂项, 并设"待定系数" 的方法#
 
-image:img/451.png[,700]
+image:img/451.png[,]
 
 
 
@@ -505,7 +505,7 @@ image:img/451.png[,700]
 例如： +
 image:img/448.png[]
 
-image:img/449.svg[,200]
+image:img/449.svg[,]
 ====
 
 
@@ -515,9 +515,9 @@ image:img/449.svg[,200]
 .标题
 ====
 例如： +
-image:img/452.png[,700]
+image:img/452.png[,]
 
-image:img/453.svg[,200]
+image:img/453.svg[,]
 ====
 
 ---
@@ -528,9 +528,9 @@ image:img/453.svg[,200]
 .标题
 ====
 例如： +
-image:img/454.png[,600]
+image:img/454.png[,]
 
-image:img/455.svg[,200]
+image:img/455.svg[,]
 ====
 
 
@@ -539,9 +539,9 @@ image:img/455.svg[,200]
 .标题
 ====
 例如： +
-image:img/456.png[,700]
+image:img/456.png[,]
 
-image:img/457.svg[,200]
+image:img/457.svg[,]
 ====
 
 
@@ -549,9 +549,9 @@ image:img/457.svg[,200]
 .标题
 ====
 例如： +
-image:img/458.png[,700]
+image:img/458.png[,]
 
-image:img/459.svg[,200]
+image:img/459.svg[,]
 ====
 
 

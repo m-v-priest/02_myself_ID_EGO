@@ -8,24 +8,24 @@
 
 == 幂级数 Power series
 
-image:img/832.png[,670]
+image:img/832.png[,]
 
 
-image:img/833.png[,650]
+image:img/833.png[,]
 
 .标题
 ====
 例如： +
-image:img/834.png[,500]
+image:img/834.png[,]
 ====
 
 ---
 
 === 定理: (阿贝尔定理)
 
-image:img/835.png[,650]
+image:img/835.png[,]
 
-image:img/836.png[,800]
+image:img/836.png[,]
 
 R : 就是"收敛半径" (R > 0) +
 (-R, R) : 就是"收敛区间"  <- 注意: 收敛区间, 一定是开区间  +
@@ -35,12 +35,12 @@ R : 就是"收敛半径" (R > 0) +
 
 === 定理:
 
-image:img/837.png[,800]
+image:img/837.png[,]
 
 .标题
 ====
 例如： +
-image:img/838.png[,800]
+image:img/838.png[,]
 
 本例继续, 所以, 它的"收敛区间"就是 (-1,1) +
 
@@ -56,7 +56,7 @@ image:img/838.png[,800]
 .标题
 ====
 例如： +
-image:img/839.png[,700]
+image:img/839.png[,]
 ====
 
 
@@ -64,7 +64,7 @@ image:img/839.png[,700]
 .标题
 ====
 例如： +
-image:img/840.png[,570]
+image:img/840.png[,]
 ====
 
 
@@ -72,14 +72,14 @@ image:img/840.png[,570]
 .标题
 ====
 例如： +
-image:img/841.png[,800]
+image:img/841.png[,]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/842.png[,650]
+image:img/842.png[,]
 ====
 
 ---
@@ -88,18 +88,18 @@ image:img/842.png[,650]
 
 === 性质2: 幂级数的积分 = 每一项先求积分, 再求和
 
-image:img/843.png[,650]
+image:img/843.png[,]
 
 ---
 
 === 性质3: 幂级数的导数 = 每一项先导数, 再求和
 
-image:img/844.png[,450]
+image:img/844.png[,]
 
 .标题
 ====
 例如： +
-image:img/845.png[,700]
+image:img/845.png[,]
 ====
 
 

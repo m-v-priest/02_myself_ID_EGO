@@ -18,7 +18,7 @@ p级数, 就是这个样子的: stem:[ \sum_{n=1}^∞ \frac{1} {n^p}]
 → 当 stem:[ p>1] 时，p级数"收敛". 它的收敛值, 用 stem:[ζ(p) ] 来表示. +
 → 当 stem:[ p<=1] 时，p级数"发散"
 
-image:img/804.png[,800]
+image:img/804.png[,]
 
 
 

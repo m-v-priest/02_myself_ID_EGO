@@ -12,17 +12,17 @@
 .标题
 ====
 例如： +
-image:img/0420.png[,750]
+image:img/0420.png[,]
 ====
 
 
 |ρ|=1 的充要条件是: X,与Y 以概率P=1 成"线性关系". 即: stem:[ P(Y=aX+b)=1]
 
-image:img/0421.png[,550]
+image:img/0421.png[,]
 
-image:img/0424.png[,700]
+image:img/0424.png[,]
 
-image:img/0425.png[,600]
+image:img/0425.png[,]
 
 
 
@@ -45,12 +45,12 @@ image:img/0425.png[,600]
 不相关：没有线性关系. +
 没有任何关系, 就一定也没有线性关系.  但是反过来, 没有"线性关系", 则不一定没有"其他的关系"。
 
-image:img/0423.svg[,400]
+image:img/0423.svg[,]
 
 
 如下图, X和Y肯定不是独立的（Y＝X^２,即Y完全由X确定），但经过计算X与Y线性无关.
 
-image:img/0422.webp[,500]
+image:img/0422.webp[,]
 
 ---
 

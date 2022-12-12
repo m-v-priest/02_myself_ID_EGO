@@ -8,7 +8,7 @@
 
 == 分部积分法 Integration by parts -> 公式: stem:[ \int u \cdot dv = uv - \int v \cdot du]
 
-image:img/524.webp[,350]
+image:img/524.webp[,]
 
 
 
@@ -16,7 +16,7 @@ image:img/524.webp[,350]
 
 
 
-image:img/364.png[,550]
+image:img/364.png[,]
 
 
 把前面的什么东西, 朝d里面拿? 优先级顺序是: ① stem:[e^x], ② stem:[sin x, cos x], ③stem:[x^n]
@@ -25,14 +25,14 @@ image:img/364.png[,550]
 .标题
 ====
 例如： +
-image:img/365.png[,550]
+image:img/365.png[,]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/366.png[,650]
+image:img/366.png[,]
 ====
 
 
@@ -41,7 +41,7 @@ image:img/366.png[,650]
 .标题
 ====
 例如： +
-image:img/367.png[,800]
+image:img/367.png[,]
 ====
 
 
@@ -50,49 +50,49 @@ image:img/367.png[,800]
 .标题
 ====
 例如： +
-image:img/368.png[,750]
+image:img/368.png[,]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/369.png[,570]
+image:img/369.png[,]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/370.png[,640]
+image:img/370.png[,]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/371.png[,850]
+image:img/371.png[,]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/372.png[,700]
+image:img/372.png[,]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/373.png[,800]
+image:img/373.png[,]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/374.png[,600]
+image:img/374.png[,]
 ====
 
 ---

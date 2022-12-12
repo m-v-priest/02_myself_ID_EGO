@@ -15,7 +15,7 @@
 
 stem:[ 底^指=幂]  -> -> ->   stem:[ log_底 幂=指]
 
-image:img/857.webp[,300]
+image:img/857.webp[,]
 
 image:img/858.png[,]
 
@@ -30,24 +30,24 @@ stem:[ log_{e} 幂 = ln 幂]
 
 显然, 就有:
 
-image:img/859.png[,800]
+image:img/859.png[,]
 
-image:img/863.png[,700]
-
-
-
-.标题
-====
-例如： +
-image:img/862.png[,450]
-====
+image:img/863.png[,]
 
 
 
 .标题
 ====
 例如： +
-image:img/864.png[,500]
+image:img/862.png[,]
+====
+
+
+
+.标题
+====
+例如： +
+image:img/864.png[,]
 ====
 
 
@@ -75,14 +75,14 @@ image:img/864.png[,500]
 .标题
 ====
 例如： +
-image:img/860.png[,600]
+image:img/860.png[,]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/861.png[,600]
+image:img/861.png[,]
 ====
 
 

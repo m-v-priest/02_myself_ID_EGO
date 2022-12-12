@@ -21,7 +21,7 @@
 
 image:img/530.png[]
 
-image:img/533.png[,250]
+image:img/533.png[,]
 
 |第2种情况: 左侧无界
 |如下图: a点处是无界的, 那么我们可以在a点的右侧一点点, 取一个t点, 这样, [t-b]这段区间, 就是有界函数了. 然后, 我们让t点趋向于a点 (方向是从a的右侧, 来趋向于a). 如果这个极限存在, 则积分就是收敛的. 否则积分就是发散的.
@@ -40,9 +40,9 @@ image:img/532.png[]
 .标题
 ====
 例如： +
-image:img/535.svg[,200]
+image:img/535.svg[,]
 
-image:img/534.png[,550]
+image:img/534.png[,]
 ====
 
 
@@ -51,9 +51,9 @@ image:img/534.png[,550]
 .标题
 ====
 例如： +
-image:img/537.svg[,200]
+image:img/537.svg[,]
 
-image:img/536.png[,600]
+image:img/536.png[,]
 ====
 
 
@@ -62,9 +62,9 @@ image:img/536.png[,600]
 .标题
 ====
 例如： +
-image:img/540.svg[,200]
+image:img/540.svg[,]
 
-image:img/539.png[,830]
+image:img/539.png[,]
 ====
 
 
@@ -76,9 +76,9 @@ image:img/539.png[,830]
 .标题
 ====
 例如： +
-image:img/537.svg[,200]
+image:img/537.svg[,]
 
-image:img/538.png[,730]
+image:img/538.png[,]
 ====
 
 

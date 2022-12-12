@@ -18,7 +18,7 @@
 |Header 1 |Header 2
 
 |X型区域 (竖着切两刀)
-|image:img/542.png[,200]
+|image:img/542.png[,]
 
 如上图, 要求两个函数夹角的面积, 就是=上面函数的面积 - 下面函数的面积.
 
@@ -29,21 +29,21 @@
 \end{align}
 
 |Y型区域 (水平切两刀)
-|image:img/545.png[,200]
+|image:img/545.png[,]
 
 *注意: 这里的函数, 输入的参数是y, 而不是x.* 所以, 你做题时, 比如原题给的函数是 y=3x (这里函数的输入参数就是x, 输出是y), 你必须先把它x与y的关系颠倒一下, 相当于求反函数后 (这样, 输入参数就是y了, 输出的就是x了), 再来做下去.
 
 面积= 用右边的函数 - 左边的函数
 
 如: +
-image:img/546.png[,700]
+image:img/546.png[,]
 
-image:img/547.png[,250]
+image:img/547.png[,]
 |===
 
 
 
-image:img/550.svg[,250]
+image:img/550.svg[,]
 
 上图, 你既可以按 x型区域 (垂直切)去做, 也可以按y型区域(水平切) 去做.
 
@@ -76,7 +76,7 @@ image:img/550.svg[,250]
 -> 如果面积的边框, 有"水平线", 就按"水平切" (即y型)来做. +
 -> 如果面积的边框, 只有斜着的直线边缘, 或者完全没有直线边缘, 那你就拿只笔, "从左到右"(垂直切), 也"从上到下"(水平切)来划过, 看哪一个只需更少的步骤(即更少个数的积分之和) 就能求出面积. 你就用哪一种切法.
 
-image:img/551.png[,350]
+image:img/551.png[,]
 
 
 
@@ -90,9 +90,9 @@ image:img/551.png[,350]
 .标题
 ====
 例如： +
-image:img/544.svg[,250]
+image:img/544.svg[,]
 
-image:img/543.png[,750]
+image:img/543.png[,]
 ====
 
 
@@ -100,17 +100,17 @@ image:img/543.png[,750]
 .标题
 ====
 例如： +
-image:img/548.png[,750]
+image:img/548.png[,]
 
-image:img/549.png[,250]
+image:img/549.png[,]
 ====
 
 
 ====
 例如： +
-image:img/552.svg[,250]
+image:img/552.svg[,]
 
-image:img/553.png[,600]
+image:img/553.png[,]
 ====
 
 
@@ -125,17 +125,17 @@ image:img/553.png[,600]
 .标题
 ====
 例如： +
-image:img/554.svg[,250]
+image:img/554.svg[,]
 
 如上图, 我们把求椭圆中的绿色面积, 转化成了求 橙色函数曲线中的面积.
 
-image:img/555.png[,900]
+image:img/555.png[,]
 
 ---
 
-image:img/556.png[,900]
+image:img/556.png[,]
 
-image:img/557.svg[,250]
+image:img/557.svg[,]
 ====
 
 

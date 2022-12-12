@@ -5,7 +5,7 @@
 
 ---
 
-image:img/320.jpg[,480]
+image:img/320.jpg[,]
 
 - sec是 与角度"相邻近"的左右两条边相比, 斜边在分子上. 即"斜边"比上"邻边".
 - csc是 "斜边"比上"较远处的对边".
@@ -14,9 +14,9 @@ image:img/320.jpg[,480]
 
 ==== stem:[sin^2 x + cos^2 x = 1]
 
-image:img/323.png[,200]
+image:img/323.png[,]
 
-image:img/324.png[,630]
+image:img/324.png[,]
 
 
 
@@ -65,10 +65,10 @@ image:img/t1004.png[]
 |
 
 |stem:[tan^2 x + 1^2 =  sec^2 x]
-|image:img/t1005.png[,300]
+|image:img/t1005.png[,]
 
 |stem:[1^2 + cot^2 x =  csc^2 x]
-|image:img/t1006.png[,300]
+|image:img/t1006.png[,]
 |===
 
 ---
@@ -82,7 +82,7 @@ image:img/t1004.png[]
 |中则下二
 |*"中", 就是指六边形中间的两个元素, 即 tanx 和 cotx, 它们的"导数"就是其各自"下面"的元素, 乘"两次".* 如:
 
-image:img/t1007.png[,300]
+image:img/t1007.png[,]
 
 
 - tan x 下面的元素, 是 sec x,  把 sec x 乘两次, 就是 tan x 的导数. +
@@ -93,25 +93,25 @@ image:img/t1007.png[,300]
 
 求积分亦然. *tanx 和 cotx, 它们的"求积分"就是其各自"下面"的元素, 相加"两次".* 如:
 
-image:img/t1008.png[,550]
+image:img/t1008.png[,]
 
 
 |下则中下
 |*"下"就是六边形最下面的两个元素: secx 和 cscx. 对它们的求导或积分, 就是取它们各自"上面"(即六边形中间)和"其自身"(即六边形下面)元素的组合.*
 
-image:img/t1009.png[,300]
+image:img/t1009.png[,]
 
 
 如: 六边形"下面"的元素 secx, 其导数, 就是其一侧的六边形"中间"的元素 tanx, 和六边形"下面"的元素(即secx自身)的组合.  这就是"下则中下"的意思.
 
-image:img/t1010.png[,350]
+image:img/t1010.png[,]
 
 
 |导相乘
 |如果你求的是导数, 就把你组合中的两个元素, 相乘就行了.
 
 如: +
-image:img/t1011.png[,400]
+image:img/t1011.png[,]
 
 
 |对对和
@@ -120,23 +120,23 @@ image:img/t1011.png[,400]
 第二个"对": 是取"绝对值"的意思. +
 "和": 就是取加号
 
-image:img/t1012.png[,250]
+image:img/t1012.png[,]
 
 
 |===
 
-image:img/t1013.png[,800]
+image:img/t1013.png[,]
 
 ---
 
 ==== stem:[ sec^3 x 和 csc^3 x] 的积分公式
 
-image:img/t1014.png[,380]
+image:img/t1014.png[,]
 
 
 ---
 
-image:img/t1015.png[,600]
+image:img/t1015.png[,]
 
 
 ---

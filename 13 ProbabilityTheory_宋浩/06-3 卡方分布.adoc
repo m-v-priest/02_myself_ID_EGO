@@ -11,17 +11,17 @@
 
 === 解释1
 
-image:img/221114_001.png[,600]
+image:img/221114_001.png[,]
 
-image:img/221114_002.png[,600]
+image:img/221114_002.png[,]
 
 image:img/221114_003.png[,]
 
 image:img/221114_004.png[,]
 
-image:img/221114_005.png[,600]
+image:img/221114_005.png[,]
 
-image:img/221114_006.png[,600]
+image:img/221114_006.png[,]
 
 
 记住: 下面, *样本的方差, 用 stem:[ S^2] 表示.* +
@@ -78,20 +78,20 @@ image:img/0811.png[,]
 
 == 定理:
 
-image:img/221114_010.png[,750]
+image:img/221114_010.png[,]
 
 ---
 
 == 上α分位数
 
-image:img/221114_011.png[,400]
+image:img/221114_011.png[,]
 
 [options="autowidth"]
 |===
 |Header 1 |Header 2
 
 |例1
-|image:img/221114_012.png[,400]
+|image:img/221114_012.png[,]
 image:img/221114_013.png[,]
 image:img/221114_016.png[,]
 
@@ -105,7 +105,7 @@ image:img/221114_015.png[,]
 .标题
 ====
 例如： +
-image:img/221114_017.png[,600]
+image:img/221114_017.png[,]
 
 image:img/221114_019.png[,]
 
@@ -116,7 +116,7 @@ image:img/221114_018.png[,]
 .标题
 ====
 例如： +
-image:img/221114_020.png[,600]
+image:img/221114_020.png[,]
 
 image:img/221114_021.png[,]
 ====

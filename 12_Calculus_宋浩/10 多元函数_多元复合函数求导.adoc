@@ -12,11 +12,11 @@
 
 (z-> t) = (z -> u -> t) + (z -> v -> t)
 
-image:img/639.png[,600]
+image:img/639.png[,]
 
-image:img/640.png[,300]
+image:img/640.png[,]
 
-image:img/644.png[,750]
+image:img/644.png[,]
 
 *上面的"变量路线图"中, 向右的分支, 只有一个分支存在的话, 就是"求导". +
 向右的分支, 有2个或2个以上的分支存在, 就是"求偏导".*
@@ -27,9 +27,9 @@ image:img/644.png[,750]
 
 (z-> x) =  (z -> u -> x) + (z -> v -> x)
 
-image:img/641.png[,250]
+image:img/641.png[,]
 
-image:img/642.svg[,300]
+image:img/642.svg[,]
 
 即, 对于 stem:[ \frac{∂z} {∂x}], 起点是z, 终点是x, 中间路过的变量要遍历. +
 对于 stem:[ \frac{∂z} {∂y}], 起点是z, 终点是y, 中间路过的变量要遍历.
@@ -41,43 +41,43 @@ image:img/642.svg[,300]
 (z-> x) =  (z -> u -> x) + (z -> v -> x) + (z -> w -> x)
 
 
-image:img/642.png[,500]
+image:img/642.png[,]
 
-image:img/643.svg[,300]
+image:img/643.svg[,]
 
 ---
 
 ==== z= f(u,v),  u=φ(x,y), v= φ(y) <- "z对x与y 的导数"
 
-image:img/643.png[,750]
+image:img/643.png[,]
 
 ---
 
 ==== z= f(u,x,y),  u=φ(x,y)  <- "z对 x与y 的导数"
 
 
-image:img/645.png[,500]
+image:img/645.png[,]
 
 上面的公式中, stem:[ \frac{∂z} {∂x}] 与 stem:[ \frac{∂f} {∂x}] 有什么区别? +
 这里是: +
 -> **把 z 看做了 (x,y)的函数. 因为z是个复合函数, 最终只有x和y两个变量. 而u只不过是个中间函数而已, u不是最终变量. **  +
 -> *把 f 看做了(u,x,y)的函数, 因为 f 函数的参数本来就是 f(u,x,y).*
 
-image:img/646.png[,700]
+image:img/646.png[,]
 
 .标题
 ====
 例如： +
-image:img/647.png[,700]
+image:img/647.png[,]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/648.png[,700]
+image:img/648.png[,]
 
-image:img/649.png[,600]
+image:img/649.png[,]
 ====
 
 
@@ -89,9 +89,9 @@ image:img/649.png[,600]
 .标题
 ====
 例如：
-image:img/650.png[,600]
+image:img/650.png[,]
 
-image:img/651.png[,130]
+image:img/651.png[,]
 ====
 
 
@@ -101,18 +101,18 @@ image:img/651.png[,130]
 .标题
 ====
 例如： +
-image:img/652.png[,650]
+image:img/652.png[,]
 
-image:img/653.png[,150]
+image:img/653.png[,]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/654.png[,650]
+image:img/654.png[,]
 
-image:img/655.png[,100]
+image:img/655.png[,]
 ====
 
 

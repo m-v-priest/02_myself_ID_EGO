@@ -97,7 +97,7 @@ image:img/0653.png[,]
 
 对总体X进行一次抽样, 并观察后，得到样本  stem:[ X_1, X_2, ... X_n] 的确切数值 stem:[ x_1, x_2, ... x_n],称为"样本观测值"(简称"样本值").
 
-image:img/0654.png[,400]
+image:img/0654.png[,]
 |===
 
 
@@ -140,23 +140,23 @@ n元函数：image:img/0656.svg[,]
 样本  stem:[ X_1, X_2, ... X_n]  的分布, 与总体X的分布, 会有怎样的关系呢?
 
 
-image:img/0655.png[,500]
+image:img/0655.png[,]
 
-image:img/0660.png[,500]
+image:img/0660.png[,]
 
-image:img/0661.png[,500]
-
-.标题
-====
-例如： +
-image:img/0662.png[,500]
-====
-
+image:img/0661.png[,]
 
 .标题
 ====
 例如： +
-image:img/0663.png[,500]
+image:img/0662.png[,]
+====
+
+
+.标题
+====
+例如： +
+image:img/0663.png[,]
 ====
 
 
@@ -174,7 +174,7 @@ image:img/0663.png[,500]
 |统计量 (←它就是一个函数!)
 |如果"样本函数" stem:[ g( X_1, X_2, ... X_n)]中, 不含任何未知参数, 那么这个样本函数, 就可以称为"统计量".
 
-image:img/0665.png[,500]
+image:img/0665.png[,]
 
 常见的三大统计量是: 样本均值, 样本方差, 次序统计量.
 
@@ -187,17 +187,17 @@ image:img/0665.png[,500]
 
 
 
-image:img/0666.webp[,600]
+image:img/0666.webp[,]
 
 ---
 
-image:img/0667.png[,500]
+image:img/0667.png[,]
 
 
 
 ---
 
-image:img/0668.png[,720]
+image:img/0668.png[,]
 
 
 ---
@@ -235,7 +235,7 @@ https://www.bilibili.com/video/BV1xZ4y1s7Va/?spm_id_from=333.788.recommend_more_
 
 == 样本函数, 及其概率分布
 
-image:img/0664.webp[,500]
+image:img/0664.webp[,]
 
 
 https://www.bilibili.com/video/BV1ot411y7mU?p=63&spm_id_from=pageDriver&vd_source=52c6cb2c1143f8e222795afbab2ab1b5

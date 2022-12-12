@@ -39,7 +39,7 @@ stem:[X={x \| a \leq x \leq b}, -∞ < a < b < ∞ ] +
 
 概率(质量)函数, 即用函数的形式来描述概率，比如，掷骰子不同点朝上的概率为： +
 
-image:img/0096.png[,400]
+image:img/0096.png[,]
 
 在这个函数里:
 
@@ -58,7 +58,7 @@ image:img/0096.png[,400]
 
 "概率分布", 即概率的分布，将可能的取, 值和对应的概率, 全都陈列出来。同样还是掷骰子为例：
 
-image:img/0097.png[,400]
+image:img/0097.png[,]
 
 上面这样的列表, 被叫做"离散型随机变量"的“概率分布”。严格来说，它应该叫“离散型随机变量的'值分布', 和'值的概率分布' 列表”. 因为这个列表，上面是"值"; 下面是这个取值, 相应取到的"概率". 而且这个列表, 把所有可能出现的情况全部都列出来了！
 
@@ -78,14 +78,14 @@ image:img/0098.png[,]
 
 *所以, 概率分布函数 F(x)的值, 就是"概率函数"取值的累加结果. 所以它又叫"累积概率函数".*
 
-image:img/0175.svg[,500]
+image:img/0175.svg[,]
 
 
-image:img/0099.png[,350]
+image:img/0099.png[,]
 
-image:img/0094.png[,500]
+image:img/0094.png[,]
 
-image:img/0093.png[,300]
+image:img/0093.png[,]
 
 
 
@@ -130,7 +130,7 @@ h 这么长的区间 (x, x+h) 内，每个单位的长度, 所占有的概率). 
 
 ====
 
-image:img/0100.png[,450]
+image:img/0100.png[,]
 
 *上图, 右边是"概率函数", 左边是"累加函数". 右图上的曲线段下的阴影面积 stem:[ \int f(x)], 不就是这段曲线的积分嘛! 而左图的"累加函数 F(x)", 不正是"概率函数f(x)" 在一段区间上的累加吗(即 Σ(y))! 所以, 右图的"概率函数f(x)"的积分, 不正是等于左图的"累加函数F(x)"吗! 所以, stem:[ \int 概f(x) dx = 加F(x)].    反过来, "累加函数F(x)"的导数, 就是"概率函数f(x)"!*
 
@@ -177,7 +177,7 @@ A: 其实 概率密度函数值 即为 概率在该点的变化率.
 
 注意: 以下的性质, 对离散型, 和连续型, 都成立!
 
-image:img/0080.png[,900]
+image:img/0080.png[,]
 
 
 [options="autowidth"]
@@ -199,7 +199,7 @@ image:img/0080.png[,900]
 == 分布函数 Distribution Function 的公式 (对离散型, 和连续型, 都成立)
 
 
-image:img/0081.png[,600]
+image:img/0081.png[,]
 
 下面用配图来说明, 即:
 
@@ -217,23 +217,23 @@ image:img/0081.png[,600]
 |
 
 |④ stem:[P{X \geq a} = 1- F(a-0)]
-|image:img/0086.svg[,300]
+|image:img/0086.svg[,]
 
 |⑤ stem:[P{X=a} = F(a) - F(a-0)]
-|image:img/0083.svg[,300]
+|image:img/0083.svg[,]
 
 |⑥ stem:[P{a < X \leq b} = P(X \leq b) - P(X \leq a)]
-|image:img/0082.svg[,300]
+|image:img/0082.svg[,]
 
 |⑦ stem:[P{a \leq X \leq b} = F(b) - F(a-0)]
-|image:img/0084.svg[,300]
+|image:img/0084.svg[,]
 |===
 
 
 .标题
 ====
 例如： +
-image:img/0087.png[,800]
+image:img/0087.png[,]
 ====
 
 
@@ -242,9 +242,9 @@ image:img/0087.png[,800]
 .标题
 ====
 例如： +
-image:img/0088.png[,750]
+image:img/0088.png[,]
 
-image:img/0089.png[,450]
+image:img/0089.png[,]
 
 image:img/0090.png[,]
 
@@ -256,30 +256,15 @@ image:img/0090.png[,]
 
 == "连续型随机变量"的"分布函数"
 
-image:img/0101.png[,400]
+image:img/0101.png[,]
 
 .标题
 ====
 例如： +
-image:img/0102.png[,800]
+image:img/0102.png[,]
 
-image:img/0103.svg[,550]
+image:img/0103.svg[,]
 ====
-
-
-
-
-.标题
-====
-例如： +
-image:img/0104.png[,650]
-
-image:img/0105.png[,170]
-
-image:img/0106.svg[,700]
-====
-
-
 
 
 
@@ -287,9 +272,24 @@ image:img/0106.svg[,700]
 .标题
 ====
 例如： +
-image:img/0108.png[,750]
+image:img/0104.png[,]
 
-image:img/0107.svg[,700]
+image:img/0105.png[,]
+
+image:img/0106.svg[,]
+====
+
+
+
+
+
+
+.标题
+====
+例如： +
+image:img/0108.png[,]
+
+image:img/0107.svg[,]
 ====
 
 

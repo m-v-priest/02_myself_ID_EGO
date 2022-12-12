@@ -13,9 +13,9 @@
 .标题
 ====
 例如： +
-image:img/0019.png[,800]
+image:img/0019.png[,]
 
-image:img/0020.png[,300]
+image:img/0020.png[,]
 ====
 
 
@@ -27,11 +27,11 @@ image:img/0020.png[,300]
 
 image:img/0023.png[,]
 
-image:img/0021.svg[,400]
+image:img/0021.svg[,]
 
-image:img/0022.svg[,800]
+image:img/0022.svg[,]
 
-image:img/0024.png[,550]
+image:img/0024.png[,]
 
 ====
 
@@ -50,7 +50,7 @@ image:img/0024.png[,550]
 
 注意两者的区别: 一个是"有限(到n)"的加,  一个是"无限(到∞)"的加.
 
-image:img/0025.png[,550]
+image:img/0025.png[,]
 
 
 

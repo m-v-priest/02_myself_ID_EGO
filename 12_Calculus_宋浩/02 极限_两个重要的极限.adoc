@@ -9,12 +9,12 @@
 
 ==== stem:[\lim_{x \to 0} \frac{sinx} {x} = 1 ]
 
-image:img/019.png[,400]
+image:img/019.png[,]
 
 不严谨的理解方法, 可以这样来记: 当 x 趋向于0时, 显然, 分子 sinx 也趋近于0, 分母x也趋近于0, 所以 stem:[\lim_{x \to 0} \frac{sinx} {x}  ] 就相当于 是 stem:[0/0], 就=1 了.
 
 其实, 它的骨架是这种形式的: +
-image:img/020.png[,100]
+image:img/020.png[,]
 
 
 该公式在实际应用中, 有很多披了马甲的形式, 你一定要火眼金睛能看出它的"本像".
@@ -100,7 +100,7 @@ image:img/020.png[,100]
 ====
 
 总结规律: +
-image:img/021.png[,300]
+image:img/021.png[,]
 
 如图, 既然在 x->0 点处, sin x, 反sin x, tan x, 都是一样大的, 所以这三个中, 任意取两个, 分别放在分子和分母上, (在 x->0 点处时,)它们的比值都=1.
 
@@ -111,7 +111,7 @@ image:img/021.png[,300]
 
 还可以用 geogebra 来求极限. 方法是 : Limit(函数, x趋向的值)
 
-image:img/022.png[,250]
+image:img/022.png[,]
 
 
 .标题
@@ -146,14 +146,14 @@ image:img/022.png[,250]
 & \lim_{x \to ∞} (1+ \frac{1} {n})^n = e
 \end{align*}
 
-image:img/023.png[,600]
+image:img/023.png[,]
 
 **注意: 使用该极限公式时, 中间必须是加号 +. 如果题目给出的不是加号, 你也要把它先变换成加号.** 如:
 
 .标题
 ====
 
-image:img/028.svg[,200]
+image:img/028.svg[,]
 
 如：
 \begin{align*}
@@ -162,15 +162,15 @@ image:img/028.svg[,200]
 =e^{-1}
 \end{align*}
 
-image:img/025.png[,450]
+image:img/025.png[,]
 ====
 
-image:img/026.png[,150]
+image:img/026.png[,]
 
 .标题
 ====
 
-image:img/029.svg[,200]
+image:img/029.svg[,]
 
 
 例：
@@ -185,7 +185,7 @@ image:img/029.svg[,200]
 .标题
 ====
 
-image:img/030.svg[,200]
+image:img/030.svg[,]
 
 
 例：
@@ -196,13 +196,13 @@ image:img/030.svg[,200]
 &= e^5
 \end{align*}
 
-image:img/027.png[,500]
+image:img/027.png[,]
 ====
 
 
 .标题
 ====
-image:img/031.svg[,200]
+image:img/031.svg[,]
 
 例:
 
@@ -216,14 +216,14 @@ image:img/031.svg[,200]
 
 但这里, stem:[2^x] 的极限是什么, 就不确定了. 因为 x-> ∞时, x既可以是"正无穷大", 也可以是"负无穷大".
 
-image:img/032.png[,600]
+image:img/032.png[,]
 ====
 
 ---
 
 ==== stem:[\lim_{x \to 0} (1+x)^{\frac{1} {x}} =e]
 
-image:img/033.png[,350]
+image:img/033.png[,]
 
 .标题
 ====
@@ -235,7 +235,7 @@ image:img/033.png[,350]
 =e^{-1}
 \end{align*}
 
-image:img/034.png[,300]
+image:img/034.png[,]
 ====
 
 ---

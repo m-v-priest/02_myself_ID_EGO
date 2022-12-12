@@ -44,7 +44,7 @@ image:img/0671.svg[,]
 1. X,Y 正相关
 2. X,Y 负相关
 3. X,Y 无相关关系
-|image:img/0356.png[,500]
+|image:img/0356.png[,]
 
 image:img/0357.png[,]
 
@@ -52,10 +52,10 @@ image:img/0357.png[,]
 |image:img/0358.png[,]
 
 |将"身高,体重表"中, 第一个样本点(第一行上的数据), 用 stem:[ (x_1, y_1)] 表示, 均值用 stem:[ (\overline(x), \overline(y))] 表示.  则, 第一个区域的面积, 就 stem:[= (x_1 - \overline(x)) \cdot  (y_1 - \overline(y)) ]
-|image:img/0359.png[,700]
+|image:img/0359.png[,]
 
 |同理, 把其他的面积也加上去
-|image:img/0360.png[,700]
+|image:img/0360.png[,]
 
 image:img/0361.png[,]
 
@@ -64,7 +64,7 @@ image:img/0361.png[,]
 image:img/0362.png[,]
 
 将上面这个式子, 用连加符号 Σ 改写成如下图, 则通过其的结果值, 就能知道 X,Y 两个数据点, 到底是何种相关关系了 : +
-image:img/0363.png[,300]
+image:img/0363.png[,]
 
 
 image:img/0364.png[,]
@@ -128,14 +128,14 @@ image:img/0354.png[,]
 .标题
 ====
 例如： +
-image:img/0355.png[,800]
+image:img/0355.png[,]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/0418.png[,900]
+image:img/0418.png[,]
 ====
 
 
@@ -173,7 +173,7 @@ image:img/0418.png[,900]
 "标准化"处理, 就是对原随机变量X, 减去其期望E(X), 再除上其方差的根号 stem:[ \sqrt{D(X)}].
 
 
-image:img/0419.png[,700]
+image:img/0419.png[,]
 
 *"标准化"的目的, 就是消除"量纲"上的差异。*
 

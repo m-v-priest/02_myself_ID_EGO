@@ -15,9 +15,9 @@
 .标题
 ====
 例如： +
-image:img/591.png[,650]
+image:img/591.png[,]
 
-image:img/592.svg[,250]
+image:img/592.svg[,]
 ====
 
 
@@ -26,13 +26,13 @@ image:img/592.svg[,250]
 == stem:[ y^((2)) = f(x, y')] 类型的式子 ← 即, 它含有 y'', 也含有 y', 也含有x, 但它里面不含有 y.
 
 
-image:img/593.png[,700]
+image:img/593.png[,]
 
 
 .标题
 ====
 例如： +
-image:img/594.png[,500]
+image:img/594.png[,]
 ====
 
 
@@ -40,13 +40,13 @@ image:img/594.png[,500]
 
 == stem:[ y^((2)) = f(y, y') ] 类型的式子 ← 即: y方面的都有, 有y, y', y'', 但就是没有x
 
-image:img/595.png[,600]
+image:img/595.png[,]
 
 
 .标题
 ====
 例如： +
-image:img/596.png[,550]
+image:img/596.png[,]
 ====
 
 

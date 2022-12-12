@@ -15,21 +15,21 @@
 .标题
 ====
 例如： +
-image:img/608.png[,600]
+image:img/608.png[,]
 ====
 
 ---
 
 == 向量的模长 : stem:[ = \sqrt{x^2 + y^2 + z^2}]
 
-image:img/609.png[,250]
+image:img/609.png[,]
 
 绿线是一个直角三角形的条斜边, 绿色斜边的长度 stem:[ = \sqrt{x^2 + y^2}]
 +
-image:img/611.png[,250]
+image:img/611.png[,]
 
 如下图: 红线就是向量的模长. 它和绿色, 蓝色线段, 构成一个直角三角形. 红色是斜边. 所以 stem:[ 蓝^2 + 绿^2 = 红^2].  即: 红色向量的模长 stem:[ = \sqrt{(x^2 + y^2) + z^2}]  +
-image:img/610.png[,250]
+image:img/610.png[,]
 
 ---
 
@@ -41,7 +41,7 @@ image:img/610.png[,250]
 
 image:img/613.gif[]
 
-image:img/614.png[,850]
+image:img/614.png[,]
 
 一个向量的三个"方向余弦", 分别是: 这向量与三个坐标轴之间的角度的余弦。 +
 两个向量之间的"方向余弦", 指的是这两个向量之间的角度的余弦。
@@ -49,7 +49,7 @@ image:img/614.png[,850]
 *向量r 的方向余弦, 就是与r同方向的"单位向量".*
 
 
-image:img/615.png[,850]
+image:img/615.png[,]
 
 
 
@@ -60,22 +60,22 @@ image:img/615.png[,850]
 
 == 向量在轴上的投影
 
-image:img/616.gif[,450]
+image:img/616.gif[,]
 
-image:img/617.png[,750]
+image:img/617.png[,]
 
 [options="autowidth"]
 |===
 |Header 1 |Header 2
 
 |λ是"正数"时,就表示"投影"(红线段部分) 和"轴"(如, 本例为x轴) 是处在"同一方向"的.
-|image:img/618.png[,150]
+|image:img/618.png[,]
 
 |λ是"负数"时,就表示"投影"和"轴"(如, 本例为x轴) 是处在"相反方向"的.
-|image:img/619.png[,150]
+|image:img/619.png[,]
 
 |λ=0 时,就表示"投影"和"轴"(如, 本例为x轴) 是处在"垂直方向"的.
-|image:img/620.png[,150]
+|image:img/620.png[,]
 |===
 
 λ是"负数"时,就表示"投影"和"轴"(如, 本例为x轴)是处在"相反方向"的.
@@ -86,17 +86,17 @@ image:img/617.png[,750]
 
 一个向量OM (下面用r表示), 在u轴 (*u轴就是用来指代任何一个轴的.* 比如x轴)上的投影的长度, 就等于"该OM向量的模长"乘以"该OM向量与x轴夹角的余弦". 即: stem:[ Prj_u r= |r| \cdot cosθ]
 
-image:img/621.png[,150]
+image:img/621.png[,]
 
 如上图, OM向量 在x轴上的投影是 OM'. 则:
 
-image:img/622.png[,270]
+image:img/622.png[,]
 
 ---
 
 ==== stem:[ Prj_u (a+b) = Prj_u a + Prj_u b]
 
-image:img/623.svg[,400]
+image:img/623.svg[,]
 
 上图, a向量在x轴上的投影长度, 是=JK, 也=MN +
 b向量在x轴上的投影长度, 是=OM +
@@ -106,7 +106,7 @@ a向量投影 + b向量投影 = MN + OM = ON  ← 而 ON正是 "向量a+向量b"
 
 ==== stem:[ Prj_u (λa) = λ \cdot Prj_u (a)]
 
-image:img/624.png[,150]
+image:img/624.png[,]
 
 "λ倍的 a向量"的投影长度, 就等于 "a向量投影长度"乘以 λ倍.
 
@@ -115,9 +115,9 @@ image:img/624.png[,150]
 
 == 数量积 (内积) ->  stem:[ a \cdot b = |a||b| cosθ ]
 
-image:img/625.png[,150]
+image:img/625.png[,]
 
-image:img/626.png[,500]
+image:img/626.png[,]
 
 *注意: 两个向量的"数量积", 是一个"数量"! 而不是一个"向量".*
 

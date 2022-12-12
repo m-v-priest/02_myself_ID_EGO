@@ -40,7 +40,7 @@ image:img/0788.png[,]
 |最小方差无偏估计
 |同时满足上面两个条件的 stem:[\hat{θ} ], 该 stem:[ \hat{θ}] 就称为"最佳无偏估计".
 
-image:img/0789.png[,700]
+image:img/0789.png[,]
 
 |相合性
 |
@@ -48,9 +48,9 @@ image:img/0789.png[,700]
 
 == ① 无偏性. → 即要满足: stem:[ E(\hat{θ})=θ]
 
-image:img/0790.png[,900]
+image:img/0790.png[,]
 
-image:img/0791.png[,550]
+image:img/0791.png[,]
 
 ---
 
@@ -64,7 +64,7 @@ image:img/0791.png[,550]
 样本取得越大, 它的参数估计值, 肯定就越接近总体的真实值.  +
 即: 当样本容量n充分大时，"估计量"可以以任意的精确程度, 逼近被估计参数的"真值"。
 
-image:img/0792.png[,600]
+image:img/0792.png[,]
 
 
 

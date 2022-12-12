@@ -8,7 +8,7 @@
 
 == F分布 F-distribution
 
-image:img/221114_040.png[,700]
+image:img/221114_040.png[,]
 
 image:img/221114_041.png[,]
 
@@ -30,7 +30,7 @@ image:img/221114_044.png[,]
 
 F分布的 PDF 概率(密度)函数如下. 可以看出, 该函数只与两个自由度v1, v2有关.
 
-image:img/0745.png[,500]
+image:img/0745.png[,]
 
 F分布有什么用呢? 主要用在两个目的上: +
 1.双样本方差检验 +
@@ -41,12 +41,12 @@ image:img/0746.png[,]
 
 F分布, 有两个参数. stem:[ F(n_1, n_2)]
 
-image:img/0752.png[,500]
+image:img/0752.png[,]
 
 .标题
 ====
 例如： +
-image:img/0753.png[,800]
+image:img/0753.png[,]
 ====
 
 
@@ -58,14 +58,14 @@ image:img/0749.png[,]
 
 image:img/0751.png[,]
 
-image:img/0754.png[,500]
+image:img/0754.png[,]
 
-image:img/0755.png[,500]
+image:img/0755.png[,]
 
 .标题
 ====
 例如： +
-image:img/0757.png[,600]
+image:img/0757.png[,]
 
 image:img/0756.png[,]
 
@@ -79,9 +79,9 @@ image:img/0758.png[,]
 
 == 双样本方差 F检验
 
-image:img/0747.png[,700]
+image:img/0747.png[,]
 
-image:img/0748.png[,700]
+image:img/0748.png[,]
 
 
 ---

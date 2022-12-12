@@ -30,7 +30,7 @@ stem:[\int 前 \ d(后) = 前 \cdot 后 - \int 后 \ d(前)]
 例如： +
 image:img/516.png[]
 
-image:img/897.svg[,300]
+image:img/897.svg[,]
 ====
 
 
@@ -38,9 +38,9 @@ image:img/897.svg[,300]
 .标题
 ====
 例如： +
-image:img/517.png[,550]
+image:img/517.png[,]
 
-image:img/518.svg[,250]
+image:img/518.svg[,]
 ====
 
 
@@ -49,9 +49,9 @@ image:img/518.svg[,250]
 .标题
 ====
 例如： +
-image:img/519.png[,750]
+image:img/519.png[,]
 
-image:img/898.png[,300]
+image:img/898.png[,]
 ====
 
 

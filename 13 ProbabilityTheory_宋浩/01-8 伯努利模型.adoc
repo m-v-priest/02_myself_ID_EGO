@@ -59,19 +59,19 @@ n重"伯努利试验"中, 事件A恰好发生k次的概率就是:
 
 什么是二项式? stem:[ (a+b)^n] 展开, 就是二项式.
 
-image:img/0067.png[,400]
+image:img/0067.png[,]
 
 .标题
 ====
 例如： +
-image:img/0068.png[,850]
+image:img/0068.png[,]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/0069.png[,800]
+image:img/0069.png[,]
 ====
 
 

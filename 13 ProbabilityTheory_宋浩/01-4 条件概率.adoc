@@ -38,14 +38,14 @@ P(A | 条件B) = \dfrac{\dfrac{n_{AB}} {n}} {\dfrac{n_{B}} {n}} = \frac{P(AB)} {
 image:img/0038.png[]
 
 
-image:img/0042.svg[,400]
+image:img/0042.svg[,]
 
 
 
 .标题
 ====
 例如： +
-image:img/0039.png[,450]
+image:img/0039.png[,]
 ====
 
 ---
@@ -60,14 +60,14 @@ image:img/0039.png[,450]
 
 === 性质2: stem:[ P(Ω \| "条件B") = 1]
 
-image:img/0040.png[,150]
+image:img/0040.png[,]
 
 
 ---
 
 ===  性质3: 可列可加性:  若 stem:[ A_1, A_2, ... A_n, ...] 是"互不相容"的事件, 则有: stem:[ P(\sum_{i=1}^∞ A_i | B) = \sum_{i=1}^∞ P(A_i | B)]
 
-image:img/0041.webp[,400]
+image:img/0041.webp[,]
 
 ---
 
@@ -75,9 +75,9 @@ image:img/0041.webp[,400]
 == 乘法公式 : stem:[ P(前后)=P(后) \cdot P(前|后) = P(前) \cdot P(后|前)]  ← 规律就是"前后前后"这样交错, 或反过来交错.
 
 
-image:img/0043.png[,500]
+image:img/0043.png[,]
 
-image:img/0044.svg[,600]
+image:img/0044.svg[,]
 
 
 image:img/0045.png[,]
@@ -86,14 +86,14 @@ image:img/0045.png[,]
 .标题
 ====
 例如： +
-image:img/0046.png[,550]
+image:img/0046.png[,]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/0047.png[,500]
+image:img/0047.png[,]
 ====
 
 
@@ -101,7 +101,7 @@ image:img/0047.png[,500]
 .标题
 ====
 例如： +
-image:img/0048.png[,700]
+image:img/0048.png[,]
 ====
 
 ---

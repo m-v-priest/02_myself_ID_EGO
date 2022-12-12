@@ -18,7 +18,7 @@
 5. 把所有这些Δ小区间的"长方形细条面积", 全加起来, 就是该曲线到x轴间的面积的近似值. stem:[ = \sum_{i=1}^n Delta x_i\cdot f(\xi _i) ]
 6. 我们令其中 x轴宽度最大的那个Δx小区间 (假设起名为λ, 即 stem:[ λ= max{Δx_1, ..., Δx_n}]), 我们让这个λ, 极限趋向于0. 这样, 既然最大的 Δx小区间 都趋近于0了, 其他比它更小的 Δx小区间, 就都统统被约束, 也都趋向于0了. 这样, 它们的"长方形细条的面积之和", 就能精确的等于"函数曲线到x轴之间的面积"了, 而不仅仅是"近似"了. 即: +
 
-image:img/460.png[,300]
+image:img/460.png[,]
 
 其中:
 [options="autowidth"]
@@ -40,7 +40,7 @@ image:img/460.png[,300]
 |b
 |积分上限
 
-image:img/462.png[,150]
+image:img/462.png[,]
 
 |[a, b]
 |积分区间
@@ -48,7 +48,7 @@ image:img/462.png[,150]
 
 image:img/461.gif[]
 
-image:img/463.svg[,600]
+image:img/463.svg[,]
 
 
 ---
@@ -82,14 +82,14 @@ image:img/463.svg[,600]
 
 ==== 若 stem:[ a < b < c], 则: stem:[ \int_a^b f(x) dx = \int_a^c f(x) dx - \int_c^b f(x) dx]
 
-image:img/464.png[,150]
+image:img/464.png[,]
 
 
 ---
 
 ==== 若 f(x) 恒等于1 , 即该函数是条"水平直线", 它与x轴之间就形成一个矩形了. 则 stem:[  \int_a^b 1 dx = 1 \cdot (b-a) = b-a]
 
-image:img/465.png[,400]
+image:img/465.png[,]
 
 ---
 
@@ -107,7 +107,7 @@ image:img/465.png[,400]
 
 ====  若 stem:[ f(x) <= g(x)], 则 stem:[ \int_a^b f(x) dx  <=  \int_a^b g(x) dx  ]
 
-image:img/466.png[,150]
+image:img/466.png[,]
 
 ---
 
@@ -126,7 +126,7 @@ image:img/466.png[,150]
 
 曲线的定积分,这个面积大小, 肯定是夹在上面两个矩形的面积之间的.
 
-image:img/467.png[,150]
+image:img/467.png[,]
 
 使用该方法, 可以对曲线的定积分值, 进行估计.
 
@@ -136,7 +136,7 @@ image:img/467.png[,150]
 
 "定积分中值定理 Mean value theorems for definite integrals" 的意思就是说: 在函数曲线的 [a,b]区间上, 一定能找到一个点 ξ, 该ξ点的 y值高度(即 f(ξ)), 乘上 "b-a 这个宽度", 所形成的的矩形面积, 能恰好等于 函数曲线的定积分值.  你找吧, 一定能找到这个点 ξ 存在.
 
-image:img/468.webp[,300]
+image:img/468.webp[,]
 
 换言之, y= f(ξ), 就是原来的函数曲线的"平均高度值", 即平均y值.
 

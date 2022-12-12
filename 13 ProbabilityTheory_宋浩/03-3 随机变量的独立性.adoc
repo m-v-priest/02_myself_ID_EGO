@@ -9,7 +9,7 @@
 == 随机变量的独立性
 
 
-image:img/0271.png[,700]
+image:img/0271.png[,]
 
 ---
 
@@ -30,7 +30,7 @@ image:img/0272.png[,]
 -> 但反过来则很严格, 要证明 X 和 Y 是"独立"关系的, 必须它们的所有单元格都满足这个条件 (即 X的边缘概率 × Y的边缘概率 = X和Y的联合概率), 才行.
 
 
-image:img/0273.png[,600]
+image:img/0273.png[,]
 
 
 ---
@@ -41,9 +41,9 @@ image:img/0273.png[,600]
 .标题
 ====
 例如： +
-image:img/0274.png[,600]
+image:img/0274.png[,]
 
-image:img/0275.png[,500]
+image:img/0275.png[,]
 ====
 
 

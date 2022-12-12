@@ -10,17 +10,17 @@
 
 === 解释1: 如何计算曲顶柱体的体积?
 
-image:img10/10_153.png[,300]
+image:img10/10_153.png[,]
 
 方法是: 先把底面, 切割成很多小矩形, 将每一块小矩形的"长(dx)" 和 "宽(dy)", 越来越小化, 取无穷小的极限:
 
-image:img10/10_154.png[,300]
+image:img10/10_154.png[,]
 
-image:img10/10_155.png[,300]
+image:img10/10_155.png[,]
 
 其中, 每一小块就会形成一个柱体:
 
-image:img10/10_156.png[,300]
+image:img10/10_156.png[,]
 
 那么, *每一小块的底面积, 我们用 stem:[ dσ]来表示, 就是 stem:[ = dx \cdot dy]*
 
@@ -30,11 +30,11 @@ image:img10/10_156.png[,300]
 
 所以整个"曲顶柱体"的体积, 就是把所有这些"小柱体"的体积, 加起来, 就是stem:[ =  \sum (dx \cdot dy) \cdot f(x,y)]
 
-image:img10/10_157.png[,700]
+image:img10/10_157.png[,]
 
-image:img10/10_158.png[,700]
+image:img10/10_158.png[,]
 
-image:img10/10_159.png[,250]
+image:img10/10_159.png[,]
 
 ---
 
@@ -42,100 +42,100 @@ image:img10/10_159.png[,250]
 
 ==== "直角坐标系"下, 物体的体积计算公式
 
-image:img10/10_160.png[,500]
+image:img10/10_160.png[,]
 
-image:img10/10_161.png[,500]
+image:img10/10_161.png[,]
 
-image:img10/10_162.png[,500]
+image:img10/10_162.png[,]
 
 上图, stem:[ \int z \ dx], 这个积分的值,  即 z曲线下方的阴影面积.
 
-image:img10/10_163.png[,500]
+image:img10/10_163.png[,]
 
-image:img10/10_164.png[,500]
+image:img10/10_164.png[,]
 
-image:img10/10_165.png[,500]
+image:img10/10_165.png[,]
 
-image:img10/10_166.png[,500]
+image:img10/10_166.png[,]
 
-image:img10/10_167.png[,500]
+image:img10/10_167.png[,]
 
-image:img10/10_168.png[,500]
+image:img10/10_168.png[,]
 
-image:img10/10_169.png[,500]
+image:img10/10_169.png[,]
 
 
-image:img10/10_197.svg[,700]
+image:img10/10_197.svg[,]
 
 
 ---
 
 ==== "极坐标系"下, 物体的体积计算公式
 
-image:img10/10_170.png[,500]
+image:img10/10_170.png[,]
 
-image:img10/10_171.png[,500]
+image:img10/10_171.png[,]
 
-image:img10/10_172.png[,500]
+image:img10/10_172.png[,]
 
-image:img10/10_173.png[,500]
+image:img10/10_173.png[,]
 
-image:img10/10_174.png[,500]
+image:img10/10_174.png[,]
 
 但是, 由于是扇形切割, 所以 越靠近圆心,厚度越趋向于0; 越远离圆心, 厚度越宽.
 
-image:img10/10_175.png[,500]
+image:img10/10_175.png[,]
 
-image:img10/10_176.png[,500]
+image:img10/10_176.png[,]
 
-image:img10/10_177.png[,500]
+image:img10/10_177.png[,]
 
-image:img10/10_178.png[,500]
+image:img10/10_178.png[,]
 
-image:img10/10_179.png[,500]
+image:img10/10_179.png[,]
 
-image:img10/10_180.png[,500]
+image:img10/10_180.png[,]
 
-image:img10/10_181.png[,100]
-image:img10/10_182.png[,100]
-image:img10/10_183.png[,100]
+image:img10/10_181.png[,]
+image:img10/10_182.png[,]
+image:img10/10_183.png[,]
 
-image:img10/10_184.png[,500]
+image:img10/10_184.png[,]
 
-image:img10/10_185.png[,500]
+image:img10/10_185.png[,]
 
-image:img10/10_186.png[,500]
+image:img10/10_186.png[,]
 
 极坐标系下, 物体的总体积, 就是把每一个扇形切片的体积, 加总起来:
 
-image:img10/10_187.png[,500]
+image:img10/10_187.png[,]
 
-image:img10/10_188.png[,500]
+image:img10/10_188.png[,]
 
-image:img10/10_189.png[,500]
-
----
-
-image:img10/10_195.png[,500]
-
-image:img10/10_196.png[,500]
-
-
-
+image:img10/10_189.png[,]
 
 ---
 
-image:img10/10_190.png[,500]
+image:img10/10_195.png[,]
+
+image:img10/10_196.png[,]
+
+
+
+
+---
+
+image:img10/10_190.png[,]
 
 整个环的体积, 是每个小扇块体积的总和:
 
-image:img10/10_191.png[,500]
+image:img10/10_191.png[,]
 
-image:img10/10_192.png[,500]
+image:img10/10_192.png[,]
 
-image:img10/10_193.png[,500]
+image:img10/10_193.png[,]
 
-image:img10/10_194.png[,500]
+image:img10/10_194.png[,]
 
 同样能得到和之前第一种体积计算方法, 相同的体积公式.
 
@@ -145,9 +145,9 @@ image:img10/10_194.png[,500]
 ---
 
 
-image:img/685.jpg[,400]
+image:img/685.jpg[,]
 
-image:img/686.webp[,300]
+image:img/686.webp[,]
 
 image:img/687.png[]
 
@@ -170,7 +170,7 @@ image:img/687.png[]
 |它的图, 是处在xy平面的上方. 它的二重积分, 就是表示该"被积函数"所代表的物体的"体积"的相反数, 即前面加个负号.
 |===
 
-image:img/688.png[,300]
+image:img/688.png[,]
 
 
 
@@ -187,7 +187,7 @@ image:img/688.png[,300]
 
 二重积分, 就是用来求"体积"的.
 
-image:img/702.png[,600]
+image:img/702.png[,]
 
 image:img/703.svg[]
 
@@ -197,7 +197,7 @@ image:img/703.svg[]
 所谓的X型: 就是"外层积分"是对 X 积分， +
 Y型: 就是"外层积分"是对 Y 积分.
 
-image:img/704.png[,500]
+image:img/704.png[,]
 
 
 何时用 x型 来做, 何时用 y型 来做?
@@ -227,10 +227,10 @@ image:img/704.png[,500]
 例如： +
 
 x型(垂直切) 来做: +
-image:img/703.png[,200]
+image:img/703.png[,]
 
 y型(水平切) 来做: +
-image:img/706.png[,400]
+image:img/706.png[,]
 
 
 image:img/705.png[]
@@ -241,7 +241,7 @@ image:img/705.png[]
 .标题
 ====
 例如： +
-image:img/708.png[,150]
+image:img/708.png[,]
 
 image:img/709.png[]
 
@@ -249,9 +249,9 @@ image:img/707.svg[]
 
 下面用 y型(水平切) 来做:
 
-image:img/710.png[,300]
+image:img/710.png[,]
 
-image:img/711.png[,600]
+image:img/711.png[,]
 ====
 
 
@@ -262,7 +262,7 @@ image:img/711.png[,600]
 -> 位于左边的曲线, 永远是 绿色的那个函数 +
 -> 位于右边的曲线, 永远是 蓝色的那个函数 +
 
-image:img/714.png[,400]
+image:img/714.png[,]
 
 
 
@@ -270,9 +270,9 @@ image:img/714.png[,400]
 -> 在 stem:[x=1]竖线 的左边, 上面的函数曲线是橙色的 stem:[y= \sqrt{x}]; 下面的函数曲线是红色的 stem:[y= - \sqrt{x}] +
 -> 在 stem:[x=1]竖线 的右边, 上面的函数曲线是绿色的 stem:[y= \sqrt{x}]; 下面的函数曲线是蓝色的 stem:[y= x-2]
 
-image:img/715.png[,400]
+image:img/715.png[,]
 
-image:img/716.png[,800]
+image:img/716.png[,]
 ====
 
 
@@ -280,9 +280,9 @@ image:img/716.png[,800]
 .标题
 ====
 例如： +
-image:img/717.png[,300]
+image:img/717.png[,]
 
-image:img/718.png[,700]
+image:img/718.png[,]
 ====
 
 
@@ -290,9 +290,9 @@ image:img/718.png[,700]
 
 == 二重积分(直角坐标系)求体积, 总结
 
-image:img/712.png[,600]
+image:img/712.png[,]
 
-image:img/713.png[,150]
+image:img/713.png[,]
 
 
 
@@ -302,42 +302,42 @@ image:img/713.png[,150]
 
 == 极坐标下 (stem:[ x= ρ cos θ, \ y = ρ sin θ]), 求二重积分的体积 ->  stem:[ \int \int f(x,y) dσ = \int \int \[ f(ρ \cdot cosθ, ρ \cdot sinθ) \cdot ρ \cdot dρ  \] \ dθ]
 
-image:img/742.png[,250]
+image:img/742.png[,]
 
-image:img/743.png[,450]
+image:img/743.png[,]
 
-image:img/744.png[,700]
-
-
-.标题
-====
-例如： +
-image:img/745.svg[,250]
-
-image:img/747.png[,650]
-====
-
-
+image:img/744.png[,]
 
 
 .标题
 ====
 例如： +
-image:img/746.svg[,250]
+image:img/745.svg[,]
 
-image:img/748.png[,600]
+image:img/747.png[,]
 ====
+
 
 
 
 .标题
 ====
 例如： +
-image:img/752.png[,200]
+image:img/746.svg[,]
+
+image:img/748.png[,]
+====
+
+
+
+.标题
+====
+例如： +
+image:img/752.png[,]
 
 一定要画射线! 才能知道 ρ 这条"半径" 的扫过区域 (下限及上限).
 
-image:img/753.png[,600]
+image:img/753.png[,]
 ====
 
 **从上面几列的"极坐标"二重积分中, 我们可以看出: 要先对ρ做积分(dρ), 再对θ做积分(dθ)**
@@ -346,9 +346,9 @@ image:img/753.png[,600]
 .标题
 ====
 例如： +
-image:img/755.png[,150]
+image:img/755.png[,]
 
-image:img/754.png[,850]
+image:img/754.png[,]
 ====
 
 
@@ -356,11 +356,11 @@ image:img/754.png[,850]
 .标题
 ====
 例如： +
-image:img/756.png[,150]
+image:img/756.png[,]
 
-image:img/757.png[,850]
+image:img/757.png[,]
 
-image:img/758.png[,700]
+image:img/758.png[,]
 ====
 
 
@@ -369,7 +369,7 @@ image:img/758.png[,700]
 == 一个物体的高度是1, 你会发现它的"体积"就等于"面积". 所以, 我们可以用二重积分, 来求面积. 只要把高度(z轴)定位1就行了.
 
 
-image:img/763.png[,200]
+image:img/763.png[,]
 
 
 .标题
@@ -377,9 +377,9 @@ image:img/763.png[,200]
 例如： +
 要求下面作图中, 三角形这个面积, 虽然可以用一重积分来做, 但也可以用二重积分来求面积. 方法是: 把该三角形, 放在三维空间的底面上, 抬高1个单位. 这样, 该三角柱体的体积, 就是以"底面上的三角形"为积分区域 D, 对"高度1"来求积分.
 
-image:img/759.png[,400]
+image:img/759.png[,]
 
-image:img/760.png[,750]
+image:img/760.png[,]
 ====
 
 
@@ -388,9 +388,9 @@ image:img/760.png[,750]
 .标题
 ====
 例如： +
-image:img/762.png[,400]
+image:img/762.png[,]
 
-image:img/761.png[,750]
+image:img/761.png[,]
 ====
 
 
@@ -399,7 +399,7 @@ image:img/761.png[,750]
 .标题
 ====
 例如： +
-image:img/765.png[,400]
+image:img/765.png[,]
 
 image:img/764.png[]
 ====
@@ -409,9 +409,9 @@ image:img/764.png[]
 .标题
 ====
 例如： +
-image:img/767.png[,150]
+image:img/767.png[,]
 
-image:img/766.png[,750]
+image:img/766.png[,]
 ====
 
 
@@ -419,7 +419,7 @@ image:img/766.png[,750]
 .标题
 ====
 例如： +
-image:img/769.png[,150]
+image:img/769.png[,]
 
 image:img/768.png[,]
 ====
@@ -443,11 +443,11 @@ image:img/768.png[,]
 
 == 高数叔 讲解
 
-image:img/749.jpg[,350]
+image:img/749.jpg[,]
 
-image:img/750.jpg[,350]
+image:img/750.jpg[,]
 
-image:img/751.jpg[,350]
+image:img/751.jpg[,]
 
 
 

@@ -6,11 +6,11 @@
 
 ---
 
-image:img/0523.png[,500]
+image:img/0523.png[,]
 
-image:img/0524.png[,500]
+image:img/0524.png[,]
 
-image:img/0525.png[,500]
+image:img/0525.png[,]
 
 
 
@@ -19,37 +19,37 @@ image:img/0525.png[,500]
 
 == 中心极限定理, 预备
 
-image:img/0511.png[,500]
+image:img/0511.png[,]
 
-image:img/0512.png[,500]
+image:img/0512.png[,]
 
-image:img/0513.png[,500]
+image:img/0513.png[,]
 
-image:img/0514.png[,500]
+image:img/0514.png[,]
 
-image:img/0515.png[,500]
+image:img/0515.png[,]
 
-image:img/0516.png[,500]
+image:img/0516.png[,]
 
 同样, 如果"规范后的和 stem:[ Z_n]" 是服从"标准正态分布"的, 则 它在规范前的"和" stem:[ Y_n], 就是服从"正态分布"的.
 
-image:img/0517.png[,500]
+image:img/0517.png[,]
 
 分布函数 F(x)（英文 Cumulative Distribution Function, 简称CDF）, 即"累加函数".
 
 **上图的意思是: 如果当n趋向于∞时,  "规范和stem:[ Z_n]" 的"累加函数" 的图像, 是等价于 "标准正态分布"的"累加函数"的形状的话, 那么 就称 "规范和 stem:[ Z_n]" 的组成部分 X_n 这些序列, 服从"中心极限定理".**
 
-image:img/0518.png[,500]
+image:img/0518.png[,]
 
 上图的意思是说, 既然"规范后"的"和", 服从"标准正态分布"; 那么它"规范化动作"前的"和", 也就是服从普通的"正态分布"了.
 
-image:img/0519.png[,500]
+image:img/0519.png[,]
 
 上图中说的"序列", 是有很多随机变量X 构成的, 每个X都有一个自己的累加函数.
 
-image:img/0520.png[,500]
+image:img/0520.png[,]
 
-image:img/0521.png[,500]
+image:img/0521.png[,]
 
 上图的意思是, 如果 随机变量序列的"规范和 stem:[ Z_n]", 随着n的增大, 趋近于 一个固定随机变量X的"标准状态分布 N(0,1)"的话, 就意味着 "规范前"的"和" stem:[Y_n] 是服从于普通的"正态分布"的.
 
@@ -97,7 +97,7 @@ image:img/0521.png[,500]
 
 举个例子，你现在要调查你们整个学校学生的政治成绩，要计算学生政治的平均成绩。你要是去收集每个学生的成绩，然后加总，再除以学生总数，整个工作力度很大，成本也很高。这时候中心极限定理就派上用场了，你先从校园中随机的抽取50个人，然后计算这50个人的平均成绩，记为x1,然后再随机的抽取的50个人，计算平均成绩，记为x2，一直这样随机的抽取，到最后进行了m次，记为xm；中心极限定理说的是x1,x2,x3……xm,它们的分布是正态分布，它们的均值就是该校学生政治的平均成绩。
 
-image:img/0465.webp[,300]
+image:img/0465.webp[,]
 
 样本平均值的均值计算公式
 
@@ -115,55 +115,55 @@ image:img/0465.webp[,300]
 
 首先, 我们每次抽样5个学生的成绩, 计算出平均数, 标识在坐标轴上.  共进行1000次抽样.
 
-image:img/0449.png[,700]
+image:img/0449.png[,]
 
-image:img/0450.png[,700]
+image:img/0450.png[,]
 
 下面, 我们把每次抽样的样本容量, 改成20人. 再来进行1000次抽样.
 
-image:img/0451.png[,700]
+image:img/0451.png[,]
 
-image:img/0452.png[,700]
+image:img/0452.png[,]
 
 可以看出, 我们两次试验, 得到"正态分布"曲线的"对称轴"所在位置, 正是总体5000人的平均分数!
 
-image:img/0453.png[,700]
+image:img/0453.png[,]
 
-image:img/0454.png[,700]
+image:img/0454.png[,]
 
-image:img/0455.png[,700]
+image:img/0455.png[,]
 
-image:img/0456.png[,700]
+image:img/0456.png[,]
 
-image:img/0457.png[,700]
+image:img/0457.png[,]
 
-image:img/0458.png[,700]
+image:img/0458.png[,]
 
-image:img/0459.png[,700]
+image:img/0459.png[,]
 
-image:img/0460.png[,700]
+image:img/0460.png[,]
 
-image:img/0461.png[,700]
+image:img/0461.png[,]
 
 如果我们无法多次抽样, 只能抽样1次, 该怎么处理呢?
 
-image:img/0462.png[,700]
+image:img/0462.png[,]
 
-image:img/0463.png[,700]
+image:img/0463.png[,]
 
-image:img/0464.png[,700]
+image:img/0464.png[,]
 ====
 
 
 
-image:img/0448.png[,750]
+image:img/0448.png[,]
 
 
 
 .标题
 ====
 例如： +
-image:img/0509.png[,850]
+image:img/0509.png[,]
 ====
 
 
@@ -171,7 +171,7 @@ image:img/0509.png[,850]
 .标题
 ====
 例如： +
-image:img/0510.png[,800]
+image:img/0510.png[,]
 ====
 
 
@@ -182,12 +182,12 @@ image:img/0510.png[,800]
 
 == 棣莫佛－拉普拉斯定理 De Moivre-Laplace
 
-image:img/0437.png[,700]
+image:img/0437.png[,]
 
 换言之,
 
 
-image:img/0522.png[,450]
+image:img/0522.png[,]
 
 隶莫佛-拉普拉斯定理, 给出了"二项分布"的近似计算公式。
 
@@ -197,7 +197,7 @@ image:img/0522.png[,450]
 .标题
 ====
 例如： +
-image:img/0595.png[,650]
+image:img/0595.png[,]
 ====
 
 
@@ -205,7 +205,7 @@ image:img/0595.png[,650]
 .标题
 ====
 例如： +
-image:img/0596.png[,620]
+image:img/0596.png[,]
 ====
 
 
@@ -218,6 +218,6 @@ image:img/0596.png[,620]
 
 == 林德贝尔格定理 De Moivre-Laplace
 
-image:img/0438.png[,700]
+image:img/0438.png[,]
 
 

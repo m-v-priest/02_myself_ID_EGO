@@ -8,7 +8,7 @@
 
 == 极坐标 Polar Coordinate System -> stem:[ x= ρ cos θ, \ y = ρ sin θ]
 
-image:img/719.webp[,400]
+image:img/719.webp[,]
 
 
 == ρ 扫过的是"边线"
@@ -17,17 +17,17 @@ image:img/719.webp[,400]
 |===
 |Header 1 |Header 2 |
 
-|image:img/719.png[,100]
+|image:img/719.png[,]
 
 stem:[ ρ = r]
 
-|image:img/720.png[,100]
+|image:img/720.png[,]
 
 \begin{align}
  ρ = r,  \\ 0 \leq θ \leq π
 \end{align}
 
-|image:img/721.png[,100]
+|image:img/721.png[,]
 
 \begin{align}
  ρ = r,  \\
@@ -35,14 +35,14 @@ stem:[ ρ = r]
 \end{align}
 
 
-|image:img/722.png[,150]
+|image:img/722.png[,]
 
 注意, 这里, 圆心不在原点了. ρ就会是变化的了. +
-image:img/723.png[,220]
+image:img/723.png[,]
 
-|image:img/724.png[,150]
+|image:img/724.png[,]
 
-image:img/725.png[,220]
+image:img/725.png[,]
 
 |
 |===
@@ -55,7 +55,7 @@ image:img/725.png[,220]
 == ρ 扫过的是"整个面积", 圆心在原点上.
 
 
-image:img/726.png[,600] +
+image:img/726.png[,] +
 
 为什么 ρ会贯穿"0到r"的全部范围? 因为这里, 是指向的"整个一大片面积区域", 都要扫过, 而不是圆周长的边线.
 
@@ -72,14 +72,14 @@ image:img/726.png[,600] +
 |===
 |Header 1 |Header 2
 
-|image:img/727.png[,200]
+|image:img/727.png[,]
 
 \begin{align}
 0 \leq θ \leq \frac{π} {2} \\
 0 \leq ρ \leq 2r \cdot cosθ
 \end{align}
 
-|image:img/728.png[,200]
+|image:img/728.png[,]
 
 \begin{align}
 0 \leq θ \leq \frac{π} {2} \\
@@ -96,9 +96,9 @@ image:img/726.png[,600] +
 .标题
 ====
 例如： +
-image:img/729.png[,150]
+image:img/729.png[,]
 
-image:img/730.png[,200]
+image:img/730.png[,]
 ====
 
 
@@ -106,7 +106,7 @@ image:img/730.png[,200]
 .标题
 ====
 例如： +
-image:img/731.png[,200]
+image:img/731.png[,]
 
 \begin{align}
 & 0 \leq θ < \frac{π} {2} \\
@@ -118,7 +118,7 @@ image:img/731.png[,200]
 .标题
 ====
 例如： +
-image:img/732.png[,170]
+image:img/732.png[,]
 
 红线段这个, 就是: +
 \begin{align}
@@ -132,7 +132,7 @@ image:img/732.png[,170]
 .标题
 ====
 例如： +
-image:img/733.png[,170]
+image:img/733.png[,]
 
 无限延伸的红线这个, 就是: +
 \begin{align}
@@ -147,9 +147,9 @@ image:img/733.png[,170]
 .标题
 ====
 例如： +
-image:img/734.svg[,400]
+image:img/734.svg[,]
 
-image:img/735.png[,400]
+image:img/735.png[,]
 
 其实, 套用"极坐标公式" (stem:[ x= ρ cos θ, \ y = ρ sin θ]), 能更快速的解出答案: +
 
@@ -167,9 +167,9 @@ image:img/735.png[,400]
 .标题
 ====
 例如： +
-image:img/736.svg[,500]
+image:img/736.svg[,]
 
-image:img/737.png[,450]
+image:img/737.png[,]
 
 下面, 我们套用"极坐标公式" (stem:[ x= ρ cos θ, \ y = ρ sin θ]) 来做:
 
@@ -191,18 +191,18 @@ image:img/737.png[,450]
 .标题
 ====
 例如： +
-image:img/738.svg[,400]
+image:img/738.svg[,]
 
-image:img/739.png[,650]
+image:img/739.png[,]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/740.svg[,170]
+image:img/740.svg[,]
 
-image:img/741.png[,450]
+image:img/741.png[,]
 ====
 
 

@@ -13,7 +13,7 @@
 ====
 例如： 案例1 :
 
-image:img/0485.png[,700]
+image:img/0485.png[,]
 ====
 
 .标题
@@ -22,60 +22,60 @@ image:img/0485.png[,700]
 
 食堂A, 抽样分布如下, 我们将左右各2.5%的概率区间, 定义为拒绝域.
 
-image:img/0486.png[,700]
+image:img/0486.png[,]
 
 我们对食堂B, 抽样一次:
 
-image:img/0487.png[,700]
+image:img/0487.png[,]
 ====
 
 比较上面两个案例, 虽然它们的正态分布曲线, 看起来很相似, 但是:
 
-image:img/0488.png[,700]
+image:img/0488.png[,]
 
-image:img/0489.png[,700]
+image:img/0489.png[,]
 
 我们可以把不同的正态分布曲线, 抽象处理成一个能共通使用的模板公式:
 
 先对 案例1中的那个最全数据表, 进行操作:
 
-image:img/0490.png[,700]
+image:img/0490.png[,]
 
 再对案例2中的那个最全数据表, 进行同样操作:
 
-image:img/0491.png[,700]
+image:img/0491.png[,]
 
-image:img/0492.png[,700]
+image:img/0492.png[,]
 
-image:img/0493.png[,700]
+image:img/0493.png[,]
 
-image:img/0494.png[,700]
+image:img/0494.png[,]
 
 现在, 虽然这两个案例的抽样分布 (符合正态分布), 对称轴都是y轴了, 但它们的单位还是处在不同的单位. 一个是"分数值", 一个是"只(包子)". 所以还需要进一步抽象.
 
-image:img/0495.png[,700]
+image:img/0495.png[,]
 
-image:img/0496.png[,700]
+image:img/0496.png[,]
 
 那么对于本例的两个案例, 要除以什么东西, 才能把单位约掉呢?
 
-image:img/0497.png[,700]
+image:img/0497.png[,]
 
-image:img/0498.png[,700]
+image:img/0498.png[,]
 
-image:img/0499.png[,700]
+image:img/0499.png[,]
 
-image:img/0500.png[,700]
-
-
+image:img/0500.png[,]
 
 
 
-image:img/0501.png[,700]
 
-image:img/0502.png[,700]
 
-image:img/0503.png[,700]
+image:img/0501.png[,]
+
+image:img/0502.png[,]
+
+image:img/0503.png[,]
 
 
 显著性水平 significance level : 是估计总体参数落在某一区间内，可能犯错误的概率，用α表示。
@@ -83,32 +83,32 @@ image:img/0503.png[,700]
 
 
 
-image:img/0504.png[,700]
+image:img/0504.png[,]
 
-image:img/0505.png[,700]
+image:img/0505.png[,]
 
-image:img/0506.png[,700]
+image:img/0506.png[,]
 
-image:img/0507.png[,700]
+image:img/0507.png[,]
 
-image:img/0508.png[,700]
+image:img/0508.png[,]
 
-image:img/0526.png[,700]
+image:img/0526.png[,]
 
-image:img/0527.png[,700]
+image:img/0527.png[,]
 
-image:img/0528.png[,700]
+image:img/0528.png[,]
 
 
 ---
 
 == 单边 t 检验 的问题
 
-image:img/0529.png[,700]
+image:img/0529.png[,]
 
-image:img/0531.png[,700]
+image:img/0531.png[,]
 
-image:img/0530.png[,700]
+image:img/0530.png[,]
 
 ---
 
@@ -118,23 +118,23 @@ image:img/0530.png[,700]
 比如点菜, 只能点4个菜, 总价必须是20, 则, 其实你能自由点的菜数, 只有3个, 因为前3个决定后, 总价20元, 也就决定了你剩下的第4个菜, 只能选"=20元-3个菜的总价"的.
 
 
-image:img/0532.png[,700]
+image:img/0532.png[,]
 
-image:img/0533.png[,700]
+image:img/0533.png[,]
 
-image:img/0534.png[,700]
+image:img/0534.png[,]
 
-image:img/0535.png[,700]
+image:img/0535.png[,]
 
-image:img/0536.png[,700]
+image:img/0536.png[,]
 
-image:img/0537.png[,700]
+image:img/0537.png[,]
 
-image:img/0538.png[,700]
+image:img/0538.png[,]
 
-image:img/0539.png[,700]
+image:img/0539.png[,]
 
-image:img/0540.png[,700]
+image:img/0540.png[,]
 
 在概率论和统计学中，**t-分布（t-distribution）用于"根据小样本, 来估计呈"正态分布"且"方差未知"的 总体的均值"。**如果总体"方差"已知（例如在样本数量足够多时），则应该用"正态分布"来估计总体均值。
 
@@ -158,55 +158,55 @@ image:img/0540.png[,700]
 
 ==  t值表 临界值
 
-image:img/0541.png[,700]
+image:img/0541.png[,]
 
-image:img/0542.png[,700]
+image:img/0542.png[,]
 
-image:img/0543.png[,700]
+image:img/0543.png[,]
 
-image:img/0544.png[,700]
+image:img/0544.png[,]
 
-image:img/0545.png[,700]
+image:img/0545.png[,]
 
-image:img/0546.png[,700]
+image:img/0546.png[,]
 
 https://www.statdistributions.com/t/
 
-image:img/0547.png[,700]
+image:img/0547.png[,]
 
-image:img/0548.png[,700]
+image:img/0548.png[,]
 
-image:img/0549.png[,700]
+image:img/0549.png[,]
 
-image:img/0550.png[,700]
+image:img/0550.png[,]
 
-image:img/0551.png[,700]
+image:img/0551.png[,]
 
-image:img/0552.png[,700]
+image:img/0552.png[,]
 
-image:img/0553.png[,700]
+image:img/0553.png[,]
 
-image:img/0554.png[,700]
+image:img/0554.png[,]
 
-image:img/0556.png[,700]
+image:img/0556.png[,]
 
-image:img/0557.png[,700]
+image:img/0557.png[,]
 
-image:img/0558.png[,700]
+image:img/0558.png[,]
 
-image:img/0559.png[,700]
+image:img/0559.png[,]
 
-image:img/0560.png[,700]
+image:img/0560.png[,]
 
-image:img/0561.png[,700]
+image:img/0561.png[,]
 
-image:img/0562.png[,700]
+image:img/0562.png[,]
 
 临界值表, 现在已经很少用了, 现在都直接用电脑程序了. 其实通过p值, 可以直接判断是否拒绝stem:[ H_0]原假设.
 
-image:img/0563.png[,700]
+image:img/0563.png[,]
 
-image:img/0564.png[,700]
+image:img/0564.png[,]
 
 
 ---
@@ -214,49 +214,49 @@ image:img/0564.png[,700]
 
 ==  p值的含义 p value
 
-image:img/0565.png[,700]
+image:img/0565.png[,]
 
-image:img/0566.png[,700]
+image:img/0566.png[,]
 
-image:img/0567.png[,700]
+image:img/0567.png[,]
 
-image:img/0568.png[,700]
+image:img/0568.png[,]
 
-image:img/0569.png[,700]
+image:img/0569.png[,]
 
-image:img/0570.png[,700]
+image:img/0570.png[,]
 
-image:img/0571.png[,700]
+image:img/0571.png[,]
 
-image:img/0572.png[,700]
+image:img/0572.png[,]
 
-image:img/0573.png[,700]
+image:img/0573.png[,]
 
-image:img/0574.png[,700]
+image:img/0574.png[,]
 
-image:img/0575.png[,700]
+image:img/0575.png[,]
 
-image:img/0576.png[,700]
+image:img/0576.png[,]
 
-image:img/0577.png[,700]
+image:img/0577.png[,]
 
-image:img/0578.png[,700]
+image:img/0578.png[,]
 
-image:img/0579.png[,700]
+image:img/0579.png[,]
 
-image:img/0580.png[,700]
+image:img/0580.png[,]
 
-image:img/0581.png[,700]
+image:img/0581.png[,]
 
 从抽样得到的t值, 往极端方向的阴影面积, 就是p值.
 
-image:img/0582.png[,700]
+image:img/0582.png[,]
 
-image:img/0583.png[,700]
+image:img/0583.png[,]
 
-image:img/0584.png[,700]
+image:img/0584.png[,]
 
-image:img/0585.png[,700]
+image:img/0585.png[,]
 
 
 ---

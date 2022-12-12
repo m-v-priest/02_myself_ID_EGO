@@ -70,10 +70,10 @@ image:img/0442.png[,]
 |"一维随机变量X" 的"累加函数" F(X) (即分布函数)
 |函数 stem:[ F(X) = P{X≤x}], 就称为 X 的"累加函数".
 
-image:img/0443.png[,400]
+image:img/0443.png[,]
 
 |二维随机变量(X,Y)
-|image:img/0444.png[,400]
+|image:img/0444.png[,]
 
 |边缘概率(密度)函数
 |
@@ -94,7 +94,7 @@ https://www.bilibili.com/video/BV1DW4y1r71v/?spm_id_from=333.337.search-card.all
 
 
 
-image:img/0299.png[,600]
+image:img/0299.png[,]
 
 [options="autowidth"]
 |===
@@ -102,7 +102,7 @@ image:img/0299.png[,600]
 
 |离散型数据的
 |下图, 左边是"概率函数", 右边是"累加函数" +
-image:img/0300.png[,600]
+image:img/0300.png[,]
 
 ....
 - cumulative (a.) :
@@ -112,18 +112,18 @@ including all the amounts that have been added previously 累计的；累积的
 the monthly sales figures and the cumulative total for the past six months 每月的销售数字和过去六个月的累计总数
 ....
 
-image:img/0301.png[,600]
+image:img/0301.png[,]
 
-image:img/0302.png[,600]
+image:img/0302.png[,]
 
-image:img/0303.png[,600]
+image:img/0303.png[,]
 
 |连续型数据的
-|image:img/0304.png[,600]
+|image:img/0304.png[,]
 
 |===
 
-image:img/0305.png[,600]
+image:img/0305.png[,]
 
 
 
@@ -141,13 +141,13 @@ image:img/0305.png[,600]
 典型的"离散概率分布"包括: 伯努利分布，二项分布，几何分布，泊松分布等.
 
 
-image:img/0172.jpg[,200]
+image:img/0172.jpg[,]
 
 .标题
 ====
 例如：
 比如，掷骰子不同点朝上的概率为： +
-image:img/0096.png[,400]
+image:img/0096.png[,]
 
 在这个函数里:
 
@@ -191,7 +191,7 @@ image:img/0173.jpg[,]
 image:img/0174.jpg[,]
 
 
-image:img/0175.svg[,500]
+image:img/0175.svg[,]
 
 
 对于随机变量, 我们通常关心的, 并不是它取某个值的概率(即我们并不关心它的分布律), 而是更关心它落在某个区间内的概率. 比如, 某考试, 我们关心的是不及格的人数, 和分数 ≥80分的人数. 这个区间段所占的概率值, 就是用"累加函数(又叫"分布函数")"来表示的, 即:
@@ -199,7 +199,7 @@ image:img/0175.svg[,500]
 **P{随机变量X ≤ 自变量x} = F(x) ← 它表示随机变量X 落在 (-∞, x] 这段区间上的概率.** +
 既然F(x)是个概率值, 所以它的取值范围, 就是 0-1. 即 stem:[0 \leq F(x) \leq 1].
 
-image:img/0199.png[,300]
+image:img/0199.png[,]
 
 \begin{align*}
 & 对于P\{x_1 < X \leq x_2\}, 即随机变量X 在 (x_1, x_2] 这段区间上的概率, 它的值, 就等于 \\
@@ -207,7 +207,7 @@ image:img/0199.png[,300]
 & = P\{X \leq x_2\} - P\{X \leq x_1\}
 \end{align*}
 
-image:img/0200.svg[,400]
+image:img/0200.svg[,]
 
 ---
 
@@ -224,7 +224,7 @@ image:img/0200.svg[,400]
 & F(+∞)= \lim_{x -> +∞} F(x)=1 <- 称之为"必然事件"\\
 \end{align*}
 
-image:img/0201.svg[,400]
+image:img/0201.svg[,]
 
 ---
 

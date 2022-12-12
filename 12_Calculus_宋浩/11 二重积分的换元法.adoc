@@ -13,33 +13,33 @@ image:img/778.png[]
 == 二重积分的换元法
 
 
-image:img/771.jpg[,400]
+image:img/771.jpg[,]
 
-image:img/772.png[,400]
+image:img/772.png[,]
 
 其实这种变换操作, 就类似于"线性变换":
 
-image:img/773.jpg[,400]
+image:img/773.jpg[,]
 
-image:img/770.png[,900]
-
-
-.标题
-====
-例如： +
-image:img/775.png[,300]
-
-image:img/774.png[,800]
-====
-
-
-
+image:img/770.png[,]
 
 
 .标题
 ====
 例如： +
-image:img/777.png[,400]
+image:img/775.png[,]
+
+image:img/774.png[,]
+====
+
+
+
+
+
+.标题
+====
+例如： +
+image:img/777.png[,]
 
 image:img/776.png[]
 ====
@@ -59,7 +59,7 @@ image:img/776.png[]
 .标题
 ====
 例如： +
-image:img/780.png[,300]
+image:img/780.png[,]
 
 image:img/779.png[]
 ====

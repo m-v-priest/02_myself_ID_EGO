@@ -10,18 +10,18 @@
 
 ==== 隐函数 F(x,y)=0,  则其"导数"是: stem:[ \frac{dy} {dx} = - \frac{F_x^'} {F_y^'}]
 
-image:img/656.png[,500]
+image:img/656.png[,]
 
 *注意: 要使用"隐函数求导公式"之前, 必须先保证函数等号右边=0.*
 
-image:img/657.png[,400]
+image:img/657.png[,]
 
 
 
 .标题
 ====
 例如： +
-image:img/658.png[,800]
+image:img/658.png[,]
 ====
 
 
@@ -29,28 +29,28 @@ image:img/658.png[,800]
 
 ==== 隐函数 stem:[ F(x,y,z)=0], 则其"偏导数"是 stem:[ (\frac{∂z} {∂x} = - \frac{F_x^'} {F_z^'})] 和 stem:[ (\frac{∂z} {∂y} = - \frac{F_y^'} {F_z^'})]
 
-image:img/659.png[,750]
+image:img/659.png[,]
 
-image:img/660.png[,300]
+image:img/660.png[,]
 
 .标题
 ====
 例如： +
-image:img/661.png[,750]
+image:img/661.png[,]
 ====
 
 ---
 
 == 隐函数求导: 方程组的情形
 
-image:img/662.png[,580]
+image:img/662.png[,]
 
 上面这个求导公式, 太复杂, 对于实际的题目, 我们都是直接做的, 而不去套用上面的公式.
 
 .标题
 ====
 例如： +
-image:img/663.png[,850]
+image:img/663.png[,]
 ====
 
 ---
@@ -59,9 +59,9 @@ image:img/663.png[,850]
 
 用克莱姆法则, 来解方程组:
 
-image:img/664.png[,500]
+image:img/664.png[,]
 
-image:img/665.jpg[,500]
+image:img/665.jpg[,]
 
 但是, 对于多于两个或三个方程的系统，"克莱姆的规则"在计算上就非常低效, 计算量太大.
 

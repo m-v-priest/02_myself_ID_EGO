@@ -13,16 +13,16 @@
 
 并非所有的函数, 都能表示成幂级数.
 
-image:img/846.png[,600]
+image:img/846.png[,]
 
 
 
 .标题
 ====
 例如： +
-image:img/847.png[,550]
+image:img/847.png[,]
 
-image:img/848.gif[,550]
+image:img/848.gif[,]
 ====
 
 
@@ -58,13 +58,13 @@ x 取值范围是 stem:[ (-1<x<=1)]
 |image:img/854.svg[]
 |===
 
-image:img/856.png[,550]
+image:img/856.png[,]
 
 
 .标题
 ====
 例如： +
-image:img/855.png[,550]
+image:img/855.png[,]
 ====
 
 

@@ -25,15 +25,15 @@ stem:[ \lim_{x→a} \frac{f(x)} {g(x)}=1] +
 .标题
 ====
 例如： +
-image:img/922.png[,350]
+image:img/922.png[,]
 
-image:img/926.svg[,400]
+image:img/926.svg[,]
 
-image:img/923.svg[,400]
+image:img/923.svg[,]
 
-image:img/924.svg[,400]
+image:img/924.svg[,]
 
-image:img/925.svg[,400]
+image:img/925.svg[,]
 ====
 
 
@@ -51,12 +51,12 @@ stem:[ sin^3(x) ~ x^3],  ← 即两者同时做3次方 +
 |→ 乘除运算
 |y=tan(x) 和 y=sin(x) 在 x→0时, y值都→0, 所以, 把这两个函数相乘, 在x→0处 依然是y→0. 所以就能有: stem:[ tan(x) sin(x) ~ x^2]
 
-image:img/927.svg[,400]
+image:img/927.svg[,]
 
 |→ *注意: 加减运算不行!*
 |如, 虽然 当x→0时, sin(x) ~ x,  tan(x)~x, 但 tan(x)-sin(x) 却不"渐进等价" 于x.
 
-image:img/928.svg[,400]
+image:img/928.svg[,]
 
 为什么不能得到 tan(x)-sin(x) ~ x-x ?  因为这就意味着 stem:[ \lim_{x→a} \frac{tan(x)-sin(x)} {x-x} =  \lim_{x→a} \frac{f(x)} {0}=1 ] +
 哪一个值 和 0 相比, 会等于1呢? 不存在. 所以这个极限没有任何意义.
@@ -78,13 +78,13 @@ image:img/928.svg[,400]
 ====
 例如： +
 
-image:img/930.png[,700]
+image:img/930.png[,]
 
-image:img/929.svg[,400]
+image:img/929.svg[,]
 
 打个比喻, 就如同:
 
-image:img/931.svg[,300]
+image:img/931.svg[,]
 ====
 
 ---

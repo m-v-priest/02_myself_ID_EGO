@@ -73,27 +73,19 @@ image:img/0766.png[,]
 |*一般, 用A代表"原点矩", B代表"中心距"*
 |image:img/0769.webp[,]
 
-image:img/0770.webp[,500]
+image:img/0770.webp[,]
 
 如上图, 所以 B2是"样本二阶中心矩"，A2是"样本二阶原点矩"
 |===
 
 
 
-image:img/0767.png[,650]
+image:img/0767.png[,]
 
 .标题
 ====
 例如： +
-image:img/0768.png[,650]
-====
-
-
-
-.标题
-====
-例如： +
-image:img/0771.png[,650]
+image:img/0768.png[,]
 ====
 
 
@@ -101,7 +93,15 @@ image:img/0771.png[,650]
 .标题
 ====
 例如： +
-image:img/0772.png[,600]
+image:img/0771.png[,]
+====
+
+
+
+.标题
+====
+例如： +
+image:img/0772.png[,]
 ====
 
 

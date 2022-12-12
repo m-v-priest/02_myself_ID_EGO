@@ -70,9 +70,9 @@ image:img/0626.png[,]
 |Header 1 |Header 2
 
 |1. 随着我们把"时间单位"拉长, 我们会发现: "泊松分布"的曲线越来越像"正态分布".
-|image:img/0627.png[,500]
+|image:img/0627.png[,]
 
-image:img/0628.png[,500]
+image:img/0628.png[,]
 
 |2. 泊松分布中, 事件对两次发生的时间间隔, 是无"记忆性"的.
 |即 : 后一次事件不会记得"距离它前一次发生, 时间隔了多久". 换言之, 事件之间是相互"独立"的关系.
@@ -112,13 +112,13 @@ image:img/0628.png[,500]
 二项分布的"期望值", 是stem:[ E(X)=np=λ], 所以也就是泊松分布中, λ=np
 
 
-image:img/0129.png[,500]
+image:img/0129.png[,]
 
 
 .标题
 ====
 例如： +
-image:img/0131.png[,600]
+image:img/0131.png[,]
 
 
 其中, 你想要的在单位时间内, 事件发生的次数, 一般用λ表示, 也可用 mean 表示.  +
@@ -144,7 +144,7 @@ image:img/0130.png[,]
 .标题
 ====
 例如： +
-image:img/0132.png[,700]
+image:img/0132.png[,]
 ====
 
 
@@ -152,14 +152,14 @@ image:img/0132.png[,700]
 .标题
 ====
 例如： +
-image:img/0133.png[,650]
+image:img/0133.png[,]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/0134.png[,780]
+image:img/0134.png[,]
 ====
 
 
@@ -214,7 +214,7 @@ https://www.bilibili.com/video/BV1NE41117c2?spm_id_from=333.337.search-card.all.
 |===
 
 
-image:img/0119.png[,400]
+image:img/0119.png[,]
 
 即: 我们用 Po(λ) 来表示"泊松分布". λ是一个参数. 比如, 我们将 stem:[ Y ~ Po(4)] 读作: "变量Y" 遵循 "λ等于4" 的泊松分布.
 
@@ -226,7 +226,7 @@ The Poisson Distribution deals with the frequency with which an event occurs in 
 泊松分布图, 描绘了实例的数量. *事件发生在一个标准的时间间隔内，每个时间间隔的概率, 都是相同的。* 因为任何事件的发生次数, 不可能为负, 因此，我们的图表总是从0开始. **但在一段时间间隔内, 可能发生的次数却是没有上限的。
 **
 
-image:img/0122.png[,500]
+image:img/0122.png[,]
 
 
 .标题
@@ -249,13 +249,13 @@ image:img/0122.png[,500]
 |时间间隔为一整个工作日.
 |===
 
-image:img/0123.png[,500]
+image:img/0123.png[,]
 
 P(Y)的公式就是: +
-image:img/0124.png[,500]
+image:img/0124.png[,]
 
 将具体的变量值代入上面的公式中, 即: +
-image:img/0125.png[,500]
+image:img/0125.png[,]
 
 因此，收到7个问题的几率, 只有6%。
 
@@ -278,9 +278,9 @@ the expected value of Y, equals the sum of all the products of a distinct value 
 .标题
 ====
 例如： +
-image:img/0120.png[,550]
+image:img/0120.png[,]
 
-image:img/0121.png[,550]
+image:img/0121.png[,]
 ====
 
 
@@ -288,7 +288,7 @@ image:img/0121.png[,550]
 .标题
 ====
 例如： +
-image:img/0135.png[,750]
+image:img/0135.png[,]
 ====
 
 

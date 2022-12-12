@@ -11,24 +11,24 @@
 
 两个无穷小之比 stem:[0/0 ], 或两个无穷大之比stem:[ ∞/∞] 的极限可能存在，也可能不存在。因此，求这类极限时, 往往需要适当的变形，转化成可利用"极限运算法则"或"重要极限的形式", 进行计算. 洛必达法则, 便是应用于这类极限计算的通用方法.
 
-image:img/133.png[,600]
+image:img/133.png[,]
 
 
 .标题
 ====
 例如： +
-image:img/134.png[,250]
+image:img/134.png[,]
 
 从下图就可以看出, 当 x-> 0时, stem:[ y=\frac{\sin ax} {\sin bx}]的极限值, 就等于 stem:[y= a/b]
 
-image:img/135.gif[,400]
+image:img/135.gif[,]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/136.png[,600]
+image:img/136.png[,]
 ====
 
 
@@ -47,12 +47,12 @@ image:img/136.png[,600]
 .标题
 ====
 例如： +
-image:img/138.png[,500]
+image:img/138.png[,]
 ====
 
 极限公式为:
 
-image:img/137.png[,500]
+image:img/137.png[,]
 
 
 ---
@@ -62,43 +62,43 @@ image:img/137.png[,500]
 .标题
 ====
 例如： +
-image:img/139.png[,500]
+image:img/139.png[,]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/140.png[,450]
+image:img/140.png[,]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/141.png[,700]
+image:img/141.png[,]
 
-image:img/142.gif[,400]
+image:img/142.gif[,]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/146.png[,500]
+image:img/146.png[,]
 
-image:img/145.png[,300]
+image:img/145.png[,]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/149.png[,550]
+image:img/149.png[,]
 
-image:img/147.png[,300]
+image:img/147.png[,]
 
-image:img/148.png[,300]
+image:img/148.png[,]
 
 ====
 
@@ -106,13 +106,13 @@ image:img/148.png[,300]
 .标题
 ====
 例如：
-image:img/150.png[,300]
+image:img/150.png[,]
 
 虽然stem:[0^0] 无意义, 但我们可以求它附近的极限处的值.
 
-image:img/151.png[,500]
+image:img/151.png[,]
 
-image:img/152.png[,300]
+image:img/152.png[,]
 ====
 
 ---
@@ -125,16 +125,16 @@ image:img/152.png[,300]
 
 
 例如： +
-image:img/153.png[,500]
+image:img/153.png[,]
 
-image:img/154.png[,300]
+image:img/154.png[,]
 ====
 
 ---
 
 ==== 技巧2: 趋近于"常数"的那些项, 就向外挪出去, 而不要一并进入求导环节
 
-image:img/155.png[,600]
+image:img/155.png[,]
 
 
 ---

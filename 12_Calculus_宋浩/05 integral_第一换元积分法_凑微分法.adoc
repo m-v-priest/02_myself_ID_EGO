@@ -10,13 +10,13 @@
 
 === ★ 别忘了: *dx 这部分的意思, 就是对x做"微分". 同样, "d□", 就是对"□"做微分.*
 
-image:img/290.png[,300]
+image:img/290.png[,]
 
 微分公式表如下:
 
-image:img/288.gif[,500]
+image:img/288.gif[,]
 
-image:img/289.jpg[,300]
+image:img/289.jpg[,]
 
 ---
 
@@ -36,7 +36,7 @@ image:img/291.png[600,600]
 三比较 : 将"原式"和 "修改了d的内容后的值", 相比较, 并做微调, 来维持住"原式"的值不变.
 
 
-image:img/286.png[,550]
+image:img/286.png[,]
 
 
 
@@ -55,7 +55,7 @@ image:img/287.png[600,600]
 .标题
 ====
 例如： +
-image:img/292.png[,550]
+image:img/292.png[,]
 ====
 
 
@@ -80,7 +80,7 @@ image:img/294.png[600,600]
 .标题
 ====
 例如： +
-image:img/295.png[,580]
+image:img/295.png[,]
 ====
 
 
@@ -107,7 +107,7 @@ image:img/297.png[600,600]
 .标题
 ====
 例如： +
-image:img/298.png[,500]
+image:img/298.png[,]
 ====
 
 
@@ -117,7 +117,7 @@ image:img/298.png[,500]
 .标题
 ====
 例如： +
-image:img/299.png[,450]
+image:img/299.png[,]
 ====
 
 
@@ -126,7 +126,7 @@ image:img/299.png[,450]
 .标题
 ====
 例如： +
-image:img/300.png[,550]
+image:img/300.png[,]
 ====
 
 
@@ -144,9 +144,9 @@ image:img/300.png[,550]
 & \int 1 d[F(φ(x))] = F(φ(x)) +C \\
 \end{align}
 
-image:img/268.png[,300]
+image:img/268.png[,]
 
-image:img/269.png[,600]
+image:img/269.png[,]
 
 凑, 就是把 d 前面的某一部分, 先求出其原函数, 再拿到 d 的里面(后面)去. 但是到底是拿"哪一部分"呢? 就要靠猜测了. 即最终都要向"积分公式"里面的形式靠齐, 才能作为一个"整体"来应用积分公式.
 
@@ -174,7 +174,7 @@ image:img/271.png[600,600]
 .标题
 ====
 例如： +
-image:img/272.png[,380]
+image:img/272.png[,]
 ====
 
 
@@ -184,7 +184,7 @@ image:img/272.png[,380]
 .标题
 ====
 例如： +
-image:img/273.png[,500]
+image:img/273.png[,]
 ====
 
 
@@ -193,7 +193,7 @@ image:img/273.png[,500]
 .标题
 ====
 例如： +
-image:img/274.png[,700]
+image:img/274.png[,]
 ====
 
 
@@ -202,7 +202,7 @@ image:img/274.png[,700]
 .标题
 ====
 例如： +
-image:img/275.png[,550]
+image:img/275.png[,]
 ====
 
 
@@ -212,7 +212,7 @@ image:img/275.png[,550]
 .标题
 ====
 例如： +
-image:img/276.png[,550]
+image:img/276.png[,]
 ====
 
 
@@ -232,7 +232,7 @@ image:img/285.png[600,600]
 .标题
 ====
 例如： +
-image:img/302.png[,550]
+image:img/302.png[,]
 ====
 
 
@@ -242,7 +242,7 @@ image:img/302.png[,550]
 .标题
 ====
 例如： +
-image:img/306.png[,360]
+image:img/306.png[,]
 ====
 
 
@@ -251,7 +251,7 @@ image:img/306.png[,360]
 .标题
 ====
 例如： +
-image:img/307.png[,480]
+image:img/307.png[,]
 ====
 
 
@@ -261,7 +261,7 @@ image:img/307.png[,480]
 .标题
 ====
 例如： +
-image:img/308.png[,400]
+image:img/308.png[,]
 ====
 
 
@@ -271,7 +271,7 @@ image:img/308.png[,400]
 .标题
 ====
 例如： +
-image:img/309.png[,400]
+image:img/309.png[,]
 ====
 
 
@@ -281,7 +281,7 @@ image:img/309.png[,400]
 .标题
 ====
 例如： +
-image:img/310.png[,400]
+image:img/310.png[,]
 ====
 
 
@@ -292,7 +292,7 @@ image:img/310.png[,400]
 .标题
 ====
 例如： +
-image:img/311.png[,600]
+image:img/311.png[,]
 ====
 
 
@@ -301,7 +301,7 @@ image:img/311.png[,600]
 .标题
 ====
 例如： +
-image:img/312.png[,450]
+image:img/312.png[,]
 ====
 
 
@@ -310,7 +310,7 @@ image:img/312.png[,450]
 .标题
 ====
 例如： +
-image:img/313.png[,410]
+image:img/313.png[,]
 ====
 
 
@@ -319,7 +319,7 @@ image:img/313.png[,410]
 .标题
 ====
 例如： +
-image:img/314.png[,400]
+image:img/314.png[,]
 ====
 
 

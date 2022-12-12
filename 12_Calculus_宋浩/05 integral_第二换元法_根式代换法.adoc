@@ -14,7 +14,7 @@
 .标题
 ====
 例如： +
-image:img/301.png[,600]
+image:img/301.png[,]
 
 image:img/896.png[,]
 ====
@@ -24,7 +24,7 @@ image:img/896.png[,]
 .标题
 ====
 例如： +
-image:img/303.png[,600]
+image:img/303.png[,]
 ====
 
 
@@ -35,7 +35,7 @@ image:img/303.png[,600]
 == 第二类换元积分法
 
 
-image:img/352.png[,550]
+image:img/352.png[,]
 
 [options="autowidth"]
 |===
@@ -50,17 +50,17 @@ image:img/352.png[,550]
 |是把d里面的东西, 朝外拿,  +
 即: 对于dx,  将 stem:[x=φ(t)] 朝外拿, 这个过程相当于对 φ(t) 求导. 即变成 stem:[φ'(t)dt] ← 这个其实就是做微分. 这不也是第一换元法这个"凑微分法"的过程之一么?
 
-image:img/315.png[,250]
+image:img/315.png[,]
 |===
 
 
-image:img/316.png[,580]
+image:img/316.png[,]
 
 
 .标题
 ====
 例如： +
-image:img/322.png[,480]
+image:img/322.png[,]
 ====
 
 ---
@@ -83,7 +83,7 @@ image:img/317.png[600,600]
 .标题
 ====
 例如： +
-image:img/353.png[,800]
+image:img/353.png[,]
 ====
 
 上面的题目, 我们用另一种方法来做:
@@ -91,7 +91,7 @@ image:img/353.png[,800]
 .标题
 ====
 例如： +
-image:img/354.png[,650]
+image:img/354.png[,]
 ====
 
 
@@ -106,7 +106,7 @@ image:img/354.png[,650]
 .标题
 ====
 例如： +
-image:img/319.png[,650]
+image:img/319.png[,]
 ====
 
 ---

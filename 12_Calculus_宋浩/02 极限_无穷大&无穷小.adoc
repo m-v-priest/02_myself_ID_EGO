@@ -9,7 +9,7 @@
 
 有规律: stem:[ \lim_{x \to ∞} \ln x < \lim_{x \to ∞}  x^n < \lim_{x \to ∞} e^x]
 
-image:img/144.gif[,400]
+image:img/144.gif[,]
 
 
 
@@ -67,7 +67,7 @@ image:img/144.gif[,400]
 - 当x趋近于0时, 后面的x就是无穷小了.
 - 从下图可以看出, 它们的乘积, 的确趋近于0, 是无穷小.
 
-image:img/010.png[,350]
+image:img/010.png[,]
 
 ---
 
@@ -135,7 +135,7 @@ image:img/010.png[,350]
 }
 \end{align*}
 
-image:img/035.png[,200]
+image:img/035.png[,]
 
 例如:
 \begin{align*}
@@ -177,7 +177,7 @@ image:img/035.png[,200]
 
 ==== 分子或分母, 可拆成若干因子的乘积时, 就可对其中的一个或几个因子, 做等价替换.
 
-image:img/036.png[,300]
+image:img/036.png[,]
 
 注意: 必须是"乘积"才行, 如果只能拆成若干因子的"相加减", 则不能用"等价替换"的方法.
 

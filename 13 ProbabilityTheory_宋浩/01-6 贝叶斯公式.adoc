@@ -35,15 +35,15 @@ Rationality is not about knowing facts, It's about recognizing which facts are r
 
 那么在总共300人中, 他们的比例就如下图:
 
-image:img/0633.webp[,600]
+image:img/0633.webp[,]
 
 假如你听到"彬彬有礼"这类描述, 你的直觉是: 40%的图书馆管理员符合这个描述,而只有10%的农民符合这个描述. 如果这是你的估计, 那就意味着你的样本中, 会有大约 stem:[10 \cdot 40% = 4]个图书馆管理员, 和大约 stem:[200 \cdot 10% = 20] 个农民, 符合这个描述.
 
-image:img/0634.webp[,600]
+image:img/0634.webp[,]
 
 所以, 从满足这个描述的人群中, 随便抽出一个人. 是图书管理员的概率就是 :
 
-image:img/0635.png[,600]
+image:img/0635.png[,]
 
 所以, 即使你认为"符合这个描述的人是一个图书馆管理员的可能性, 是一个农民的4倍", 也抵不过农民的数量很多.
 ====
@@ -64,9 +64,9 @@ image:img/0635.png[,600]
 
 根据美国1992年发布的数据推算: 每10万个被家暴的妇女中, 有43个会被谋杀。其中40个是被丈夫谋杀, 其他3个是被丈夫以外的人谋杀. 那么, 条件概率就是:
 
-image:img/0636.png[,600]
+image:img/0636.png[,]
 
-image:img/0637.svg[,500]
+image:img/0637.svg[,]
 
 即:
 
@@ -164,7 +164,7 @@ image:img/0651.png[,]
 .标题
 ====
 例如： +
-image:img/0652.png[,700]
+image:img/0652.png[,]
 ====
 
 
@@ -202,13 +202,13 @@ image:img/0652.png[,700]
 
 先发生的事情(步骤), 用A表示. 后发生的事情(步骤), 用B表示.
 
-image:img/0638.png[,600]
+image:img/0638.png[,]
 
 其他路径的概率, 也是同理
 
-image:img/0639.png[,600]
+image:img/0639.png[,]
 
-image:img/0640.png[,600]
+image:img/0640.png[,]
 
 - 到第二步的, 其实就是"全概率公式"
 
@@ -230,20 +230,20 @@ P(A \|条件B) = \frac{P(AB)} {P(条件B)}
 
 其中, stem:[ P(AB)] 也可写作 stem:[P(A∩B)]
 
-image:img/0642.png[,600]
+image:img/0642.png[,]
 
 .标题
 ====
-image:img/0643.png[,700]
+image:img/0643.png[,]
 
-image:img/0644.png[,200]
+image:img/0644.png[,]
 ====
 
 
 
 ==== 全概率公式
 
-image:img/0645.svg[,500]
+image:img/0645.svg[,]
 
 上图, 粗线部分围起来的整块, 就是B.  +
 B的概率, 就等于= 每一个彩色块的概率, 加总起来.
@@ -257,7 +257,7 @@ image:img/0646.png[,]
 
 如下图:
 
-image:img/0647.svg[,600]
+image:img/0647.svg[,]
 
 
 
@@ -268,7 +268,7 @@ image:img/0648.png[,]
 .标题
 ====
 例如： +
-image:img/0649.png[,650]
+image:img/0649.png[,]
 ====
 
 
@@ -284,7 +284,7 @@ image:img/0649.png[,650]
 .标题
 ====
 例如： +
-image:img/0057.png[,850]
+image:img/0057.png[,]
 ====
 
 
@@ -296,7 +296,7 @@ image:img/0057.png[,850]
 
 image:img/0058.png[,]
 
-image:img/0059.png[,550]
+image:img/0059.png[,]
 
 
 .标题
@@ -304,7 +304,7 @@ image:img/0059.png[,550]
 例如： +
 image:img/0060.png[,]
 
-image:img/0061.png[,200]
+image:img/0061.png[,]
 ====
 
 

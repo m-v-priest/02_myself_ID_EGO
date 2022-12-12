@@ -19,7 +19,7 @@
 
 上面, *我们用一个新的函数 φ(x) 来表示: 积分出来的结果, 是与x有关系的. 即"是个关于x的函数".*
 
-image:img/469.png[,150] +
+image:img/469.png[,] +
 上图, 请把 上限x, 理解为可以任意左右拖动位置的手柄.
 
 ---
@@ -32,11 +32,11 @@ image:img/469.png[,150] +
 
 stem:[φ'(x) = \frac{d} {dx} \[\int_a^x f(t) dt \] = f(x)]
 
-image:img/479.png[,700]
+image:img/479.png[,]
 
 .标题
 ====
-image:img/480.png[,650]
+image:img/480.png[,]
 ====
 
 ---
@@ -45,7 +45,7 @@ image:img/480.png[,650]
 
 .标题
 ====
-image:img/481.png[,650]
+image:img/481.png[,]
 ====
 
 
@@ -55,7 +55,7 @@ image:img/481.png[,650]
 
 .标题
 ====
-image:img/482.png[,600]
+image:img/482.png[,]
 ====
 
 ---
@@ -64,7 +64,7 @@ image:img/482.png[,600]
 
 .标题
 ====
-image:img/483.png[,750]
+image:img/483.png[,]
 ====
 
 
@@ -75,7 +75,7 @@ image:img/483.png[,750]
 
 .标题
 ====
-image:img/484.png[,750]
+image:img/484.png[,]
 ====
 
 
@@ -85,7 +85,7 @@ image:img/484.png[,750]
 
 .标题
 ====
-image:img/485.png[,750]
+image:img/485.png[,]
 ====
 
 
@@ -94,11 +94,11 @@ image:img/485.png[,750]
 
 === stem:[φ(x) =\int_a^x f(t) dt ] 是 f(x) 的一个"原函数".
 
-image:img/470.png[,250]
+image:img/470.png[,]
 
-image:img/471.png[,700]
+image:img/471.png[,]
 
-image:img/472.png[,320]
+image:img/472.png[,]
 
 
 ---
@@ -109,37 +109,37 @@ image:img/472.png[,320]
 
 因为他们发现了求"定积分" 原来和"求原函数"有关系. 即: 只要知道被积函数的"原函数"，总可以求出"定积分"的精确值, 或一定精度的近似值。
 
-image:img/473.png[,320]
+image:img/473.png[,]
 
 牛顿-莱布尼茨公式, 是联系"微分学"与"积分学"的桥梁，它是微积分中最基本的公式之一。
 
-image:img/474.png[,320]
+image:img/474.png[,]
 
 .标题
 ====
 例如： +
-image:img/475.png[,350]
-====
-
-
-.标题
-====
-例如： +
-image:img/476.png[,350]
+image:img/475.png[,]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/477.png[,370]
+image:img/476.png[,]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/478.png[,280]
+image:img/477.png[,]
+====
+
+
+.标题
+====
+例如： +
+image:img/478.png[,]
 ====
 
 
@@ -147,7 +147,7 @@ image:img/478.png[,280]
 .标题
 ====
 例如： +
-image:img/486.png[,850]
+image:img/486.png[,]
 ====
 
 
@@ -156,7 +156,7 @@ image:img/486.png[,850]
 .标题
 ====
 例如： +
-image:img/487.png[,650]
+image:img/487.png[,]
 ====
 
 

@@ -8,7 +8,7 @@
 
 == 一元向量值函数 Vector-valued function
 
-image:img/666.png[,700]
+image:img/666.png[,]
 
 即 stem:[ f: D -> R^n] +
 f 是个"一元向量值函数." 向量值函数, 也就是说, 它的输出值, 是一个向量.  +
@@ -38,7 +38,7 @@ image:img/677.png[]
 .标题
 ====
 例如： +
-image:img/676.png[,400]
+image:img/676.png[,]
 ====
 
 
@@ -52,7 +52,7 @@ image:img/669.png[]
 .标题
 ====
 例如： +
-image:img/679.png[,500]
+image:img/679.png[,]
 ====
 
 
@@ -67,20 +67,20 @@ image:img/671.png[]
 
 image:img/670.png[]
 
-image:img/672.png[,500]
+image:img/672.png[,]
 
-image:img/673.png[,500]
+image:img/673.png[,]
 
-image:img/674.png[,500]
+image:img/674.png[,]
 
 
 ---
 
 == 几何意义
 
-image:img/675.png[,900]
+image:img/675.png[,]
 
-image:img/678.png[,200]
+image:img/678.png[,]
 
 
 

@@ -10,55 +10,55 @@
 
 ==== 性质1 : "总体积"拆成多块"子体积", 总体积的值依然不变
 
-image:img/689.png[,550]
+image:img/689.png[,]
 
-image:img/693.png[,200]
+image:img/693.png[,]
 
 
 ---
 
 ==== 性质2:  "底面积"拆分成多块, 它们的总体积不变
 
-image:img/690.png[,650]
+image:img/690.png[,]
 
 ---
 
 ==== 性质3: 高度固定为1, 则"体积"就等于"底面积"的值了.
 
-image:img/691.png[,550]
+image:img/691.png[,]
 
-image:img/694.png[,200]
+image:img/694.png[,]
 
 
 ---
 
 ==== 性质4:  高度小的, 体积也小;  高度大的, 体积也大.
 
-image:img/692.png[,450]
+image:img/692.png[,]
 
-image:img/695.png[,250]
+image:img/695.png[,]
 
 ---
 
 ==== 性质5: 如果一个不规则的顶面扭曲的物体, 高度上有正有负, 则体积上, 会受到正负抵消掉一部分的影响. 而当把高度变成绝对值后, 原先负的高度也变成正的了, 体积就永远都是最大的.
 
-image:img/696.png[,850]
+image:img/696.png[,]
 
 ---
 
 === 性质6: 该物体的体积, 显然是夹在它在"z轴最高点算出的体积", 和它在"z轴最低点算出的体积"之间.
 
-image:img/697.png[,850]
+image:img/697.png[,]
 
-image:img/698.png[,350]
+image:img/698.png[,]
 
 
 ---
 
 === 性质7 : 我们在底面上, 一定能找到这样一个点: 它在z轴上的高度, 能代表整个物体的平均z轴高度.
 
-image:img/699.png[,750]
+image:img/699.png[,]
 
-image:img/700.png[,250]
+image:img/700.png[,]
 
 ---

@@ -6,7 +6,7 @@
 
 ---
 
-image:img/597.png[,300]
+image:img/597.png[,]
 
 ---
 
@@ -23,45 +23,45 @@ image:img/597.png[,300]
 - p，q是实常数。
 - 其中, 若等号右边为0, 那它就是"齐次"的.
 
-image:img/598.png[,700]
+image:img/598.png[,]
 
-image:img/599.jpg[,300]
+image:img/599.jpg[,]
 
-image:img/600.jpg[,300]
-image:img/601.jpg[,300]
-image:img/602.jpg[,300]
-
-
-image:img/607.jpg[,300]
+image:img/600.jpg[,]
+image:img/601.jpg[,]
+image:img/602.jpg[,]
 
 
-
-.标题
-====
-例如： +
-image:img/603.png[,550]
-====
-
-
-.标题
-====
-例如： +
-image:img/604.png[,550]
-====
+image:img/607.jpg[,]
 
 
 
 .标题
 ====
 例如： +
-image:img/605.png[,750]
+image:img/603.png[,]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/606.jpg[,400]
+image:img/604.png[,]
+====
+
+
+
+.标题
+====
+例如： +
+image:img/605.png[,]
+====
+
+
+.标题
+====
+例如： +
+image:img/606.jpg[,]
 ====
 
 
