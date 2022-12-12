@@ -32,3 +32,4 @@
 \contentsline {part}{第三部分\hspace {1em}求不定积分的方法}{4}{}%
 \contentsline {section}{\numberline {3}凑微分法}{4}{}%
 \contentsline {section}{\numberline {4}分部积分法 : $\rightarrow \DOTSI \intop \ilimits@ _{}^{}{\text {前\ }d\text {(后)}}=\text {前}\cdot \text {后}-\DOTSI \intop \ilimits@ _{}^{}{\text {后}}\ d\text {(前)}$}{5}{}%
+\contentsline {section}{\numberline {5}换元法}{6}{}%

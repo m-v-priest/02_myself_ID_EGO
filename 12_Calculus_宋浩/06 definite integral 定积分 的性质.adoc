@@ -71,7 +71,7 @@ image:img/463.svg[,]
 
 ---
 
-====  stem:[ \int_a^b (α \cdot f(x) + β \codt g(x)) dx = α \int_a^b  f(x) dx + β \int_a^b  g(x) dx] ← 即, 积分可以拆开, 常数可以提到外面去
+====  stem:[ \int_a^b (α \cdot f(x) + β \cdot g(x)) dx = α \int_a^b  f(x) dx + β \int_a^b  g(x) dx] ← 即, 积分可以拆开, 常数可以提到外面去
 
 ---
 
