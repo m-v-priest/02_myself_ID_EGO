@@ -59,18 +59,80 @@
 	\subsection{ 若 $ a < c < b$, 则 $ \int_a^b f(x) dx = \int_a^c f(x) dx + \int_c^b f(x) dx $ ← 其实就是原先的一步走, 分成两步走而已.}
 	
 	
-	\subsection{ 若 $ a < b < c$, 则: $ \int_a^b f(x) dx = \int_a^c f(x) dx - \int_c^b f(x) dx$}
+	\subsection{ 若 $ a < b < c$, 则: $ \int_a^b f(x) dx = \int_a^c f(x) dx - \int_c^b f(x) dx$} 
+	
+	\includegraphics[width=0.4\textwidth]{/0061.pdf}
 	
 	
 	
+	\subsection{若 f(x) 恒等于1, 即该函数是条``水平直线", 它与x轴之间就形成一个矩形了. 则 $ \int_a^b 1 dx = \text{高}1 \cdot \text{宽}(b-a) = b-a$}
+	
+	\includegraphics[width=0.4\textwidth]{/0062.pdf}	
+	
+	
+	\subsection{$\int_a^b k dx = k  \int_a^b 1 dx =  k(b-a) $ ← k 是常数, 可以提到积分外面}
+	
+	\subsection{若 $ f(x) >= 0$, 即``函数曲线"都在x轴上方.  则$ \int_a^b f(x) dx >= 0$}
+	
+	\subsection{若$ f(x) <= 0$, 即``函数曲线"都在x轴下方.  则  $\int_a^b f(x) dx <= 0$}
+	
+	\subsection{若 $ f(x) <= g(x)$, 则 $ \int_a^b f(x) dx  <=  \int_a^b g(x) dx$ }
+	
+	\includegraphics[width=0.4\textwidth]{/0063.pdf}
+	
+	
+	\subsection{$|\int_a^b f(x) dx | <= \int_a^b |f(x)| dx$} 
+	
+	因为``函数曲线"的定积分(面积), 在x轴上方是正面积的, 在x轴下方是负面积的, 如果一个曲线既有正y值的部分, 又有负y值的部分, 那它的总面积, 肯定会有"正负相互抵消掉"的一部分.
+	
+	而先把``函数曲线"取绝对值, 它的y值就都在x轴上方了, 面积就不存在负数的一块, 就不会抵消掉总面积. \\
+	
+	\includegraphics[width=0.4\textwidth]{/0064.pdf}	
 	
 	
 	
+	\subsection{一个曲线, 在[a,b]区间上, 若 m是它的最小y值高度, M是它的最大y值高度, 则有: $ m(b-a) \leq \int_a^b f(x) dx  \leq M(b-a)$}
+	
+	如下图, ``高m" 乘以 ``宽(b-a)", 就是 abm 这个小矩形的面积.
+	
+	`高M" 乘以 `宽(b-a)", 就是 abM 这个大矩形的面积.
+	
+	曲线mM 的定积分, 这个面积大小, 肯定是夹在上面两个矩形的面积之间的. \\
+	
+	\includegraphics[width=0.4\textwidth]{/0065.pdf}
+	
+	使用该方法, 就可以让我们来对曲线的定积分值, 进行估计.
 	
 	
 	
+	\subsection{定积分``中值定理" : \\
+		如果 f(x) 是连续的, $ \exists \xi  \in [a,b], \text{则必然有}\int_a^b{f(x)dx=f(\xi)(b-a)}$}
+	
+	定积分中值定理 Mean value theorems for definite integrals 的意思就是说: 在函数曲线的 [a,b]区间上, 一定能找到一个点 $\xi$, 该$\xi$点的 y值高度(即 f($\xi$)), 乘上 ``b-a 这个宽度", 所形成的的矩形面积, 能恰好等于 函数曲线的定积分值.  你找吧, 一定能找到这个点$\xi$ 存在. \\
+	
+	\includegraphics[width=0.5\textwidth]{/0066.png}
 	
 	
+	~\\
+	\hrule
+	~\\
+	
+	\part{求定积分的方法}
+	
+	
+	\section{分部积分法}
+	
+	比较一下: 
+	
+	``不定积分"的``分部积分法"公式是: $\boxed{\int_{}^{}{\text{前}\cdot d(\text{后})}=\text{前}\cdot \text{后}-\int_{}^{}{\text{后}}\ d(\text{前})}	$
+	
+	`定积分"的``分部积分法"公式是: $\boxed{\int_a^b{\text{前}\cdot d(\text{后})}=\left( \text{前}\cdot \text{后} \right) \mid_{a}^{b}-\int_a^b{\text{后}}\ d(\text{前})}	$
+	
+	\begin{myEnvSample}
+	\includegraphics[width=1\textwidth]{/0067.pdf}
+	\end{myEnvSample}
+	
+
 	
 	
 	
