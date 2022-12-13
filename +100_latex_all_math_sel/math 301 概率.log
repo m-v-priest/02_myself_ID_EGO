@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.5)  13 DEC 2022 19:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.5)  13 DEC 2022 20:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**"math_16 定积分.tex"
-(./math_16 定积分.tex
+**"math 301 概率.tex"
+(./math 301 概率.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24>
 (c:/texlive/2022/texmf-dist/tex/latex/ctex/ctexart.cls
@@ -862,8 +862,8 @@ File: UTF8.enc 2021/10/16 4.8.5
 (c:/texlive/2022/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
 File: UTF8.chr 2021/10/16 4.8.5
 )
-(./math_16 定积分.aux)
-\openout1 = `"math_16 定积分.aux"'.
+(./math 301 概率.aux)
+\openout1 = `"math 301 概率.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
@@ -1011,19 +1011,9 @@ LaTeX Font Info:    Trying to load font information for C70+rm on input line 16
 .
 (c:/texlive/2022/texmf-dist/tex/latex/ctex/fd/c70rm.fd
 File: c70rm.fd 2021/12/12 v2.5.8 Chinese font definition (CTEX)
-)
-(./math_16 定积分.toc
-LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
- (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
- (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
+) (./math 301 概率.toc)
 \tf@toc=\write4
-\openout4 = `"math_16 定积分.toc"'.
-
+\openout4 = `"math 301 概率.toc"'.
 
 (c:/texlive/2022/texmf-dist/tex/generic/ctex/zhmap/ctex-zhmap-windows.tex
 File: ctex-zhmap-windows.tex 2021/12/12 v2.5.8 Windows font map loader for pdfT
@@ -1032,159 +1022,59 @@ eX and DVIPDFMx (CTEX)
 e.sfd}) [1
 
 ]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 18.
+
+ (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 18.
+
+
+(c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
 
 LaTeX Warning: No \author given.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--36
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--39
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
 
  []
 
-<img_math///0060.png, id=120, 431.6125pt x 312.16624pt>
-File: img_math///0060.png Graphic file (type png)
-<use img_math///0060.png>
-Package pdftex.def Info: img_math///0060.png  used on input line 45.
-(pdftex.def)             Requested size: 213.39568pt x 154.33937pt.
-<img_math///0061.pdf, id=122, 207.73007pt x 125.58519pt>
-File: img_math///0061.pdf Graphic file (type pdf)
-<use img_math///0061.pdf>
-Package pdftex.def Info: img_math///0061.pdf  used on input line 64.
-(pdftex.def)             Requested size: 170.71393pt x 103.21046pt.
-[2 <./img_math///0060.png>]
-<img_math///0062.pdf, id=141, 207.73007pt x 117.24803pt>
-File: img_math///0062.pdf Graphic file (type pdf)
-<use img_math///0062.pdf>
-Package pdftex.def Info: img_math///0062.pdf  used on input line 70.
-(pdftex.def)             Requested size: 170.71393pt x 96.35869pt.
-<img_math///0063.pdf, id=142, 207.73007pt x 126.88103pt>
-File: img_math///0063.pdf Graphic file (type pdf)
-<use img_math///0063.pdf>
-Package pdftex.def Info: img_math///0063.pdf  used on input line 81.
-(pdftex.def)             Requested size: 170.71393pt x 104.27542pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 88--89
-
- []
-
-[3 <./img_math///0061.pdf> <./img_math///0062.pdf> <./img_math///0063.pdf>]
-<img_math///0064.pdf, id=211, 208.07436pt x 117.24803pt>
-File: img_math///0064.pdf Graphic file (type pdf)
-<use img_math///0064.pdf>
-Package pdftex.def Info: img_math///0064.pdf  used on input line 90.
-(pdftex.def)             Requested size: 170.71393pt x 96.19946pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 100--101
-
- []
-
-<img_math///0065.pdf, id=212, 183.8067pt x 117.48994pt>
-File: img_math///0065.pdf Graphic file (type pdf)
-<use img_math///0065.pdf>
-Package pdftex.def Info: img_math///0065.pdf  used on input line 102.
-(pdftex.def)             Requested size: 170.71393pt x 109.12645pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 111--112
-
- []
-
-<img_math///0066.png, id=213, 910.40125pt x 518.93875pt>
-File: img_math///0066.png Graphic file (type png)
-<use img_math///0066.png>
-Package pdftex.def Info: img_math///0066.png  used on input line 113.
-(pdftex.def)             Requested size: 213.39568pt x 121.63388pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 118--119
-
- []
-
-[4 <./img_math///0064.pdf> <./img_math///0065.pdf> <./img_math///0066.png>]
-<img_math///0067.pdf, id=246, 365.43637pt x 425.2166pt>
-File: img_math///0067.pdf Graphic file (type pdf)
-<use img_math///0067.pdf>
-Package pdftex.def Info: img_math///0067.pdf  used on input line 132.
-(pdftex.def)             Requested size: 396.23065pt x 461.08272pt.
-<img_math///0068.pdf, id=247, 368.37625pt x 216.81pt>
-File: img_math///0068.pdf Graphic file (type pdf)
-<use img_math///0068.pdf>
-Package pdftex.def Info: img_math///0068.pdf  used on input line 152.
-(pdftex.def)             Requested size: 356.60516pt x 209.88197pt.
-
-[5 <./img_math///0067.pdf>] [6 <./img_math///0068.pdf>]
-(./math_16 定积分.aux) ) 
+[2] (./math 301 概率.aux) ) 
 Here is how much of TeX's memory you used:
- 23940 strings out of 478268
- 486836 string characters out of 5850345
- 768032 words of memory out of 5000000
- 41357 multiletter control sequences out of 15000+600000
- 544522 words of font info for 301 fonts, out of 8000000 for 9000
+ 23032 strings out of 478268
+ 472017 string characters out of 5850345
+ 749028 words of memory out of 5000000
+ 40691 multiletter control sequences out of 15000+600000
+ 491978 words of font info for 107 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,23n,105p,704b,483s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsu
-n.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fon
-ts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Win
-dows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf
-><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/si
-mhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/
-Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/
-Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.
-ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts
-/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windo
-ws/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><
-c:/Windows/Fonts/simhei.ttf>{c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-supe
-r/cm-super-ts1.enc}<c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c
+ 102i,6n,105p,702b,350s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/sim
+sun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/F
+onts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/W
+indows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.t
+tc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/
+simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Window
+s/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c
 :/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsu
 n.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fon
 ts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Win
 dows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc
 ><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/si
 msun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/
-Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/
-Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.
-ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts
-/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windo
-ws/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><
-c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/sims
-un.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fo
-nts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Wi
-ndows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.tt
-c><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/s
-imsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows
-/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:
-/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun
-.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Font
-s/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Wind
-ows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf>
-<c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/sim
-hei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/F
-onts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/W
-indows/Fonts/simsun.ttc><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmbx10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx1
-2.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:
-/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/
-2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2022/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2022/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-r7.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb><c
-:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive
-/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2022/texm
-f-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2022/texmf-dist/fon
-ts/type1/public/cm-super/sfrm1000.pfb>
-Output written on "math_16 定积分.pdf" (6 pages, 1760987 bytes).
+Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/
+Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/texlive/2022/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on "math 301 概率.pdf" (2 pages, 184066 bytes).
 PDF statistics:
- 635 PDF objects out of 1000 (max. 8388607)
- 415 compressed objects within 5 object streams
+ 211 PDF objects out of 1000 (max. 8388607)
+ 129 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 266 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 153 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -120,7 +120,7 @@
 	\part{求定积分的方法}
 	
 	
-	\section{分部积分法}
+	\section{定积分的``分部积分法": $\int_a^b{\text{前}\cdot d(\text{后})}=\left( \text{前}\cdot \text{后} \right) \mid_{a}^{b}-\int_a^b{\text{后}}\ d(\text{前})$}
 	
 	比较一下: 
 	
@@ -133,6 +133,24 @@
 	\end{myEnvSample}
 	
 
+\begin{myEnvSample}
+	$\int_0^1{e^{\sqrt{x}}}\ dx$ 
+	
+	我们用换元法, 令$\sqrt{x}=t$, 则$x=t^2$. 于是, $dx=\underset{\text{求微分}}{\underbrace{d\left( t^2 \right) }}=\left( t^2 \right) 'dt=2t\ dt$
+	
+	→ 原上限是 x=1, 换成t来表示上限, 就是 $x=t^2=1$, 即 t=1, 这个就是换元成t后的 t的新上限.
+	
+	→ 原下限是x=0, 换成t来表示上限, 就是 $x=t^2=0$, 即 t=0. 这个是t的下限.
+	
+	所以原式就变换成了: 
+	\begin{align*}
+		&=\int_0^1{e^t}\ 2t\ dt=2\int_0^1{e^t}\ t\ dt\ \gets \text{把导函数}t,\text{拿到微分}d\text{后面,\ 变成原函数}.\\
+	&=2\int_0^1{\underset{\text{前}}{\underbrace{t}}}\ d\underset{\text{后}}{\underbrace{\left( e^t \right) }}\ \gets \text{使用定积分的``分部积分法"}\\
+	&=2\left[ t\cdot e^t\mid_{0}^{1}-\int_0^1{e^t\ d\left( t \right)} \right] =2\left[ 1\cdot e-e^t\mid_{0}^{1} \right] =2\left[ e-\left( e^1-e^0 \right) \right] =2
+	\end{align*}
+
+	\includegraphics[width=0.9\textwidth]{/0068.pdf}
+\end{myEnvSample}
 	
 	
 	

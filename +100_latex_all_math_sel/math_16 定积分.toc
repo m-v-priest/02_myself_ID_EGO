@@ -15,4 +15,4 @@
 \contentsline {subsection}{\numberline {2.12}一个曲线, 在[a,b]区间上, 若 m是它的最小y值高度, M是它的最大y值高度, 则有: $ m(b-a) \leq \DOTSI \intop \ilimits@ _a^b f(x) dx \leq M(b-a)$}{4}{}%
 \contentsline {subsection}{\numberline {2.13}定积分``中值定理" : \\ 如果 f(x) 是连续的, $ \exists \xi \in [a,b], \text {则必然有}\DOTSI \intop \ilimits@ _a^b{f(x)dx=f(\xi )(b-a)}$}{4}{}%
 \contentsline {part}{第二部分\hspace {1em}求定积分的方法}{4}{}%
-\contentsline {section}{\numberline {3}分部积分法}{4}{}%
+\contentsline {section}{\numberline {3}定积分的``分部积分法": $\DOTSI \intop \ilimits@ _a^b{\text {前}\cdot d(\text {后})}=\left ( \text {前}\cdot \text {后} \right ) \mid _{a}^{b}-\DOTSI \intop \ilimits@ _a^b{\text {后}}\ d(\text {前})$}{5}{}%
