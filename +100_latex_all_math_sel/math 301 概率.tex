@@ -17,28 +17,328 @@
 	\date{} % 若不写这句, 则默认也会渲染出日期, 所以我们要手动赋空值
 	\maketitle  %这行代码, 让你前面的 title, author, date生效
 	
+	\part{基本概念}
 	
-	- 事件 : 即每种结果, 就叫一个``事件".
 	
-	- 基本事件 : 不能再分解的结果, 就称为``基本事件".
+	\section{排列 and 组合}
 	
-	- 复合事件 : 由``基本事件"复合而成. \\
+	\subsection{加法原理, 乘法原理}
 	
-	- 样本全集, 或样本空间, 即所有``基本事件"的集合. 用 Ω 表示.  
+	- 一件事, 只需``一步"就能完成. 但这一步中有几种不同的方案可供选择, 就用``加法"原理.
 	
-	如: 扔两个硬币, 其结果``样本空间"就是: Ω={(正,正), (正, 反), (反,正), (反,反)}
-	
-	- 样本空集, 用 Φ 表示 \\
-	
-	- 样本点 : 就是``样本空间"中的元素, 即"基本事件". 用 ω 表示
-	
-	- 无限可列个 : 意思就是: 能按某种规律, 排成一个序列. 如:
+	- 一件事, 要分成``几步骤"才能完成. 每一步, 又有几种不同的选择方案. 就用``乘法"原理.
 	
 	
 	
+	\subsection{不重复排列 : $\text{P}_{\text{总数n}}^{\text{选出的数量m}}=\dfrac{\text{总数!}}{\text{(总数}-\text{选数)!}}		$}
+	
+	不重复排列: 就是从n个不同的元素中, 取出m个来排列, 排过的元素不放回, 没有下次排列资格了. 
+	
+	则, 所有可能的排列(Permutation)方案, 就是:	
+	
+	$
+		\boxed{		\text{P}_{\text{总数n}}^{\text{选出的数量m}}=\text{n(n}-1\text{)(n}-2\text{)...(n}-\text{m}+1\text{)}=\dfrac{\text{n!}}{\text{(n}-\text{m)!}}=\dfrac{\text{总数!}}{\text{(总数}-\text{选数)!}} 
+		}
+	$
+	
+	\begin{myEnvSample}
+		10人选5人上岸, 共有多少种选择?
+		
+		$
+		\text{P}_{\text{总}10}^{\text{取}5}=\frac{\text{总!}}{\text{(总}-\text{选)!}}=\frac{10!}{\text{(}10-5\text{)!}}=30240
+		$
+	\end{myEnvSample}
 	
 	
 	
 	
+	
+	\subsection{全排列 : $\text{P}_{\text{总数n}}^{\text{n}}=\text{n!}	$ }
+	
+	全排列, 就是从n个里面, 取出全部n个来排列, 即所有的元素都参与了排列.
+	
+	$ \boxed{
+	\text{P}_{\text{总数n}}^{\text{n}}=\text{n(n}-1\text{)(n}-2\text{)}...3\cdot 2\cdot 1=\text{n!}
+	}
+	$ \\
+	
+	例如:
+	
+	- $	\text{P}_{2}^{2}=2!=2	$
+	
+	- $ \text{P}_{1}^{1}=1!=1$ \\
+	
+		\begin{myEnvSample}
+		一套书,共5本, 排在一起. 问: 自左向右, 或自右向左, 是按着1,2,3,4,5编号顺序的概率是?
+		
+		即 =$
+		\dfrac{\text{顺序排是1种情况}+\text{倒序排是1种情况}}{\text{P}_{\text{总}5}^{\text{选}5}}=\dfrac{2}{\text{P}_{5}^{5}}=\dfrac{1}{60}=0.0166667
+		$
+	\end{myEnvSample} 
+
+
+	
+	- $0!=1$.  因为: 
+	
+	(1) 解释1: $\text{m!}=\text{m(m}-1\text{)!}$, 如 $10! =10 \cdot 9!$. 所以 $1! = 1 \cdot 0!$, 即得到 $0!=1$
+	
+	(2) 解释2: $P_{0}^{0}$ 就是从0个元素里面, 取出0个元素来排列. 这只有一种情况: 即 ``不选". 因为不存在任何元素, 所以没法选. 所以 $P_0^0=0!=1$ \\
+	
+	- $5^0 =1$ ← 因为 $5^0=5^{1-1}=\frac{5^1}{5^1}=1$
+	
+	- $0^0$ 无意义. ← 因为 $0^0=0^{1-1}=\frac{0^1}{0^1}$, 而分母不能为0, 所以该式子无意义.
+	
+	
+	
+	\subsection{重复排列}
+	
+	即: 排过队的元素, 可以拿回去, 重复参加后面的排队.  (但同一元素的位置交换 不能认为是不同排列。)
+	
+	重复排列: $\underset{\text{共取了m次的n}}{\underbrace{\text{n}\cdot \text{n}\cdot ...\cdot \text{n}}}=\text{n}^{\text{m}}	$ \\
+	
+		
+	\subsection{``送利益"模型}
+	
+	将$n_{benefit}$种利益, 随机投送给$N_{man}$个人 ($N_{man}\ge n_{benefit}$). 问: 每个人中, 最多只拿到1种利益的概率?
+	
+	→ 先看样本空间: 第1种利益, 有$N_{man}$个人的去向可供选择; 第2种利益, 同样如此, ... 所以, 根据``分步骤"法, 全部$n_{benefit}$种利益, 它们的所有去向, 就共有: $\underset{\text{共}n_{benefit}\text{个}}{\underbrace{N_{man}\cdot N_{man}\cdot ...\cdot N_{man}}}=N^n	$ 个.
+	
+	→ 再来看``每个人中, 最多只拿到1种利益": 第1个人,
+	
+	\begin{align*}  % 支持每行编号. 若不需要编号, 就用 align*环境
+3
+	\end{align*}
+	
+	
+	
+
+	
+	
+	
+	\section{交集 $\cap$ , 与 并集 $\cup$}
+	
+	A, B, C 是 试验E 的随机事件. 则表示法是:
+	
+	- A发生 : $A$ \\
+	
+	下面, 加法即表示``或" :
+	
+	- A, B, C 恰有一个发生 : $A\overline{B}\overline{C}+\overline{A}B\overline{C}+\overline{A}\overline{B}C$
+	
+	- A, B, C 至少一个发生(即 >=1) : A+B+C 或 $A{\cup}B{\cup}C$ ← 即3选1, 还有两个发不发生, 不用管, 随意, 都行.
+	
+	- A, B, C 至多一个发生(即 <=1) : $\underset{3\text{选}1}{\underbrace{A\overline{B}\overline{C}+\overline{A}B\overline{C}+\overline{A}\overline{B}C}}+\underset{3\text{选}0}{\underbrace{\overline{A}\overline{B}\overline{C}}}		$
+		
+	- 恰有两个发生: $AB \overline{C} + A \overline{B} C + \overline{A} BC $
+	
+	- 至少两个发生(即,>=2 ) : $\underset{3\text{选}2}{\underbrace{AB\overline{C}+A\overline{B}C+\overline{A}BC}}+\underset{3\text{选}3}{\underbrace{ABC}}+\underset{3\text{选2,\ 还有一个发不发生不用管,随意}}{\underbrace{AB+BC+AC}}	$	\\
+		
+		
+
+	下面, 乘法即表示``同时" :	
+	
+	- 只有A发生 : $A\overline{B}\overline{C}$	
+
+	- A, B, C 同时发生 : ABC  \\
+	
+\begin{myEnvSample}
+	一次射击试验, 整个流程是打三枪, 用 $A_i, (i=1,2,3)$ 来表示``在第i次时击中了目标".
+	
+	记住: 加法(+) 代表``或,并 $\cup$"; 乘法代表``交$\cap$".
+	
+	- $A_1+A_2$ : 表示第一次击中了, 或第二次击中了. 即前两次至少击中一次.
+	
+	- $	\overline{A_2}	$ : 表示第二次没击中.
+	
+	- $	A_1+A_2+A_3	$ : 表示仅第一次击中, 或仅第二次击中, 或仅第三次击中.
+	
+	- $	A_1A_2A_3	$ : 表示三次全中.
+	
+	- $	A_2\overline{A_3} = A_2 - A_3	$ : 表示第二次击中, 并且第三次失败.
+	
+	- $	\overline{A_1}\cap \overline{A_3}=\overline{A_1+A_3}$ : 表示第一次没中, 并且第三次也没中.
+	
+	- $	\overline{A_1}+\overline{A_3}	$ : 表示第一次没中, 或第三次没中.
+
+
+\end{myEnvSample}
+
+
+
+\section{频率}
+
+做n次试验, A事件发生了m次, 我们就把 $\dfrac{A\text{事件发生的次数}m}{\text{共}n\text{次试验}}$ 叫做``频率". 记作$\omega _n\left( A \right) $.
+
+比如丢硬币, 丢10次, 丢100次, 丢1000次, 每次的``频率"可能都不一样, 比如结果是 $\frac{7}{10},\frac{55}{100},\frac{508}{1000} $. 所以这就是``频率"和``概率"的区别.
+
+但你可以发现, 随着试验次数n的增大, A事件的``频率"的值, 会接近与``概率"的值. 即: $ \lim_{n→0}\omega _n\left( A \right)  \to P $
+
+
+\section{频率的性质:}
+
+规范性: 
+
+- $\omega _n\left( \varOmega \right) =1$ ← 做n次试验, 里面``必然事件"发生的频率, 是1.  
+既然是``必然事件Ω", 它肯定会发生, 所以频率肯定是1.
+
+
+- $\omega _n\left( \varPhi \right) =0$ ← 做n次试验, 里面``不可能事件"发生的频率, 是0. \\
+
+
+
+可加性: 
+
+
+比如做1000次试验, 即$ \varOmega_{1000}$, 则有: 
+
+$\omega _{1000}\left( A_1+A_2 \right) =\underset{1000\text{次试验中,}A1\text{事件发生的频率}}{\underbrace{\omega _{1000}\left( A_1 \right) }}+\underset{1000\text{次试验中,}A2\text{事件发生的频率}}{\underbrace{\omega _{1000}\left( A_2 \right) }}$ \\
+
+即: ``和的频率", 就等于``频率的和".
+
+$
+\boxed{
+\underset{\text{做}n\text{次试验,里面有}m\text{个事件发生了的频率}}{\underbrace{\underset{\text{做}n\text{次试验}}{\underbrace{\omega _n}}\underset{\text{里面有}m\text{个事件}}{\underbrace{\left( A_1+A_2+...+A_m \right) }}}}=\omega _n\left( A_1 \right) +\omega _n\left( A_2 \right) +...+\omega _n\left( A_m \right) 
+}
+$
+
+
+
+	
+\section{公理化}
+	
+	\subsection{$P(A) + P(\overline{A}) = 1$}
+	
+	\subsection{对于``完备事件组"中的所有事件来说: $P(A_1) + P(A_2) + ... +  P(A_n) =  P(\Omega) = 1$}
+	
+	完备事件组 collectively exhaustive events 就是: 如果事件 B1, B2, B3, ...  Bn 满足:
+	
+	1. 它们两两互不相容(即两两的交集=空集),
+	
+	2. 其``和"为全集 Ω. 	
+	
+	换言之, 若n个事件两两互斥, 且这n个事件的``并"是 Ω，则称这n个事件为``完备事件组". \\
+	
+	\includegraphics[width=0.6\textwidth]{/0069.png}
+	
+	
+	\begin{myEnvSample}
+\includegraphics[width=0.9\textwidth]{/0076.pdf} \\
+
+\includegraphics[width=0.5\textwidth]{/0077.pdf}
+	\end{myEnvSample}
+	
+	
+	\begin{myEnvSample}
+	\includegraphics[width=0.65\textwidth]{/0079.pdf} \\
+		
+\includegraphics[width=0.6\textwidth]{/0078.pdf} 
+	\end{myEnvSample}
+	
+	
+	
+	\subsection{$P(A-B) = P(A) - P(AB)$}	
+		\includegraphics[width=0.2\textwidth]{/0070.pdf}
+		
+	
+	\subsection{若A包含着B, 则有: $ P(A-B) = P(A) - P(B)$, 且 $P(A) >= P(B) $}
+	
+	
+	\subsection{加法公式: $ P(A+B) = P(A) + P(B) - P(AB)$}	
+	\includegraphics[width=0.4\textwidth]{/0071.pdf} \\
+	
+	\begin{myEnvSample}
+		A事件的概率是0.4, 即 P(A)=0.4; 
+		
+		P(B)=0.3; 
+		
+		且P(A+B)=0.6, ← 说明A与B有交集部分存在. 否则, 如果A与B是不相容的话, 它们和的概率, 应该是 0.4+0.3=0.7.
+		
+		所以它们的交集 P(AB) 就是=0.1 : 
+		
+		$
+		\underset{0.6}{\underbrace{P\left( A+B \right) }}=\underset{0.4}{\underbrace{P\left( A \right) }}-\underset{0.3}{\underbrace{P\left( B \right) }}-\underset{=0.1}{\underbrace{P\left( AB \right) }}
+		$ \\
+		
+		求$P\left( A\overline{B} \right)$, 即求$A \cap B\text{逆}$ 的概率: 
+		
+$
+P\left( A\cap \overline{B} \right) =P\left( A-B \right) =\underset{=0.4}{\underbrace{P\left( A \right) }}-\underset{=0.1}{\underbrace{P\left( AB \right) }}=0.3
+$ \\
+
+	\includegraphics[width=0.35\textwidth]{/0073.pdf}
+	
+		\end{myEnvSample}
+	
+	
+	
+	
+	
+	\subsection{加法公式: $ P(A+B+C) = P(A) + P(B)  +  P(C) - P(AB) - P(AC) -  P(BC) +  P(ABC)$}
+	\includegraphics[width=0.3\textwidth]{/0072.pdf}	
+	
+	说明: 
+	\begin{align*}  % 支持每行编号. 若不需要编号, 就用 align*环境
+	& P\left( A+B+C \right) \\
+&=\underset{\text{这里,}ABC\text{交集部分,被加了3次}}{\underbrace{P\left( A \right) +P\left( B \right) +P\left( C \right) }}\underset{\text{这里,}ABC\text{交集部分,又减了3次}}{\underbrace{-P\left( AB \right) -P\left( AC \right) -P\left( BC \right) }}+\underset{\text{所以最后,我们还要把镂空的}ABC\text{交集部分,加上一份上去}}{\underbrace{P\left( ABC \right) }}
+	\end{align*}
+
+	
+	\begin{myEnvSample}
+\includegraphics[width=1\textwidth]{/0074.pdf}
+	\end{myEnvSample} 
+	
+	\begin{myEnvSample}
+	\includegraphics[width=0.82\textwidth]{/0075.pdf}
+\end{myEnvSample}
+
+
+
+
+
+\section{古典概型 : $\text{P(A)}=\dfrac{\text{A中包含的``基本事件"有多少个}}{\text{S中``基本事件"的总数}}$}
+
+
+满足这些条件的, 就属于``古典概率  classical models of probability 模型":
+
+- 样本点是有限的
+
+- 所有样本点出现的可能性, 是相同的. 即``等可能性". \\
+
+
+古典概型模型:
+
+事件$\text{A}=\{\text{e}_{\text{i}_1},\text{e}_{\text{i}_2},...,\text{e}_{\text{i}_{\text{k}}}\}$ 发生的概率为:
+
+$
+\text{P(A)}=\dfrac{\text{k}}{\text{n}}=\dfrac{\text{A中包含的``基本事件"有多少个}}{\text{S中``基本事件"的总数}}
+$ \\
+
+
+古典概率模型的性质:
+
+- $0 <= P(A) <= 1$
+
+- $P(\Omega)=1, \quad  P(\Phi)=0$
+
+- 有限可加 : $ A_1, A_2, ... A_n$ 是互不相容的. 即 $P(A_1 +A_2 + ...+ A_n)= P(A_1) +  P(A_2)  + P(A_n)$ \\
+
+古典概率模型: 
+
+- 其优点是: 可以直接套公式来算. 
+
+- 但其缺点是: 
+
+(1) 其结果必须是``有限个"的结果 (如, 掷骰子, 结果就是6个基本事件, 而不是无限个事件.) 
+
+(2)其结果, 必须是``等可能性".
+
+
+
+
+
+
+
+
+
 	
 \end{document}

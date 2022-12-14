@@ -22,7 +22,8 @@
 	-
 	-
 	-
--
+- 在axmath中, 完美例题的跨度, 可以在latex中,不用缩放图片, 字体大小也适中.
+	- ![image.png](../assets/image_1670988188978_0.png)
 -
 - emf 转 svg
 	- https://convertio.co/zh/emf-svg/

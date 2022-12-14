@@ -121,7 +121,7 @@ A, B, C 是 试验E 的随机事件.
 | A
 
 |只有A发生
-|stem:[ A, \overline(B),  \overline(C)]
+|stem:[ A\overline{B}\overline{C}]
 
 |A, B, C 恰有一个发生
 |stem:[ A \overline(B) \overline(C) + \overline(A) B \overline(C) + \overline(A) \overline(B) C]
@@ -130,7 +130,7 @@ A, B, C 是 试验E 的随机事件.
 | ABC
 
 |A, B, C 至少一个发生
-| A+B+C
+| A+B+C 或 A∪B∪C
 
 |A, B, C 至多一个发生(那就说明"可以都不发生")
 |stem:[ A \overline(B) \overline(C) + \overline(A) B \overline(C) + \overline(A) \overline(B) C +  \overline(A)  \overline(B)  \overline(C) ]
