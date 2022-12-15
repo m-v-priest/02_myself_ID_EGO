@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.5)  15 DEC 2022 19:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.5)  15 DEC 2022 19:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**"math 301 Ê¶ÇÁéá.tex"
-(./math 301 Ê¶ÇÁéá.tex
+**"math 302 Êù°‰ª∂Ê¶ÇÁéá.tex"
+(./math 302 Êù°‰ª∂Ê¶ÇÁéá.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24>
 (c:/texlive/2022/texmf-dist/tex/latex/ctex/ctexart.cls
@@ -862,8 +862,8 @@ File: UTF8.enc 2021/10/16 4.8.5
 (c:/texlive/2022/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
 File: UTF8.chr 2021/10/16 4.8.5
 )
-(./math 301 Ê¶ÇÁéá.aux)
-\openout1 = `"math 301 Ê¶ÇÁéá.aux"'.
+(./math 302 Êù°‰ª∂Ê¶ÇÁéá.aux)
+\openout1 = `"math 302 Êù°‰ª∂Ê¶ÇÁéá.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
@@ -946,7 +946,8 @@ LaTeX Font Info:    ... okay on input line 15.
 LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 15.
 LaTeX Font Info:    Trying to load font information for T3+cmr on input line 15
 .
- (c:/texlive/2022/texmf-dist/tex/latex/tipa/t3cmr.fd
+
+(c:/texlive/2022/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
 LaTeX Font Info:    ... okay on input line 15.
@@ -1011,19 +1012,10 @@ LaTeX Font Info:    Trying to load font information for C70+rm on input line 16
 .
 (c:/texlive/2022/texmf-dist/tex/latex/ctex/fd/c70rm.fd
 File: c70rm.fd 2021/12/12 v2.5.8 Chinese font definition (CTEX)
-) (./math 301 Ê¶ÇÁéá.toc
-LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
-
-(c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
-
-(c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
+(./math 302 Êù°‰ª∂Ê¶ÇÁéá.toc)
 \tf@toc=\write4
-\openout4 = `"math 301 Ê¶ÇÁéá.toc"'.
+\openout4 = `"math 302 Êù°‰ª∂Ê¶ÇÁéá.toc"'.
 
 
 (c:/texlive/2022/texmf-dist/tex/generic/ctex/zhmap/ctex-zhmap-windows.tex
@@ -1033,507 +1025,41 @@ eX and DVIPDFMx (CTEX)
 e.sfd}) [1
 
 ]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 18.
+
+ (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 18.
+
+
+(c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
 
 LaTeX Warning: No \author given.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 59--63
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 66--68
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 83--84
-
- []
-
-[2]
-Package CJKpunct Info: use punctuation spaces for family 'rm' with punctstyle (
-quanjiao) on input line 92.
-
-Underfull \hbox (badness 10000) in paragraph at lines 94--95
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 132--133
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 134--135
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 142--145
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 146--148
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 149--152
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 157--158
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 159--162
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 171--175
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 176--180
-
- []
-
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 204--205
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 216--217
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 224--225
-
- []
-
-[4]
-Overfull \hbox (0.97081pt too wide) in paragraph at lines 254--255
-[]\C70/rm/m/n/10.53937/6b ‘ \C70/rm/m/n/10.53937/59 Ç \C70/rm/m/n/10.53937/4e "
- \C70/rm/m/n/10.53937/78 l \C70/rm/m/n/10.53937/5e ^^A\OT1/cmr/m/n/10.53937 , \
-C70/rm/m/n/10.53937/4e "\OT1/cmr/m/n/10.53937 10\C70/rm/m/n/10.53937/6b !\OT1/c
-mr/m/n/10.53937 , \C70/rm/m/n/10.53937/4e "\OT1/cmr/m/n/10.53937 100\C70/rm/m/n
-/10.53937/6b !\OT1/cmr/m/n/10.53937 , \C70/rm/m/n/10.53937/4e "\OT1/cmr/m/n/10.
-53937 1000\C70/rm/m/n/10.53937/6b !\OT1/cmr/m/n/10.53937 , \C70/rm/m/n/10.53937
-/6b œ ! \C70/rm/m/n/10.53937/76 Ñ\OT1/cmr/m/n/10.53937 ``\C70/rm/m/n/10.53937/9
-8 ë \C70/rm/m/n/10.53937/73 á\OT1/cmr/m/n/10.53937 "\C70/rm/m/n/10.53937/53 Ô \
-C70/rm/m/n/10.53937/80 ˝ \C70/rm/m/n/10.53937/90 ˝ \C70/rm/m/n/10.53937/4e ^^M 
-^^@ \C70/rm/m/n/10.53937/68 7\OT1/cmr/m/n/10.53937 , \C70/rm/m/n/10.53937/6b ‘ 
-\C70/rm/m/n/10.53937/59 Ç \C70/rm/m/n/10.53937/7e ” \C70/rm/m/n/10.53937/67 ú \
-C70/rm/m/n/10.53937/66 / $[]\OML/cmm/m/it/10.53937 ; []; []$\OT1/cmr/m/n/10.539
-37 .
- []
-
-
-LaTeX Warning: Command \textrightarrow invalid in math mode on input line 256.
-
-
-LaTeX Warning: Command \textrightarrow invalid in math mode on input line 256.
-
-
-Overfull \hbox (38.66599pt too wide) in paragraph at lines 256--257
-[]\C70/rm/m/n/10.53937/4f F ` \C70/rm/m/n/10.53937/53 Ô \C70/rm/m/n/10.53937/4e
- Â \C70/rm/m/n/10.53937/53 — \C70/rm/m/n/10.53937/73 ∞\OT1/cmr/m/n/10.53937 , \
-C70/rm/m/n/10.53937/96 è \C70/rm/m/n/10.53937/77 @ \C70/rm/m/n/10.53937/8b ’ \C
-70/rm/m/n/10.53937/9a å \C70/rm/m/n/10.53937/6b ! \C70/rm/m/n/10.53937/65 p\OT1
-/cmr/m/n/10.53937 n\C70/rm/m/n/10.53937/76 Ñ \C70/rm/m/n/10.53937/58 û \C70/rm/
-m/n/10.53937/59 '\OT1/cmr/m/n/10.53937 , A\C70/rm/m/n/10.53937/4e ã ˆ \C70/rm/m
-/n/10.53937/76 Ñ\OT1/cmr/m/n/10.53937 ``\C70/rm/m/n/10.53937/98 ë \C70/rm/m/n/1
-0.53937/73 á\OT1/cmr/m/n/10.53937 "\C70/rm/m/n/10.53937/76 Ñ \C70/rm/m/n/10.539
-37/50 <\OT1/cmr/m/n/10.53937 , \C70/rm/m/n/10.53937/4f ^^Z \C70/rm/m/n/10.53937
-/63 • \C70/rm/m/n/10.53937/8f — \C70/rm/m/n/10.53937/4e ^^N\OT1/cmr/m/n/10.5393
-7 ``\C70/rm/m/n/10.53937/69 Ç \C70/rm/m/n/10.53937/73 á\OT1/cmr/m/n/10.53937 "\
-C70/rm/m/n/10.53937/76 Ñ \C70/rm/m/n/10.53937/50 <\OT1/cmr/m/n/10.53937 . \C70/
-rm/m/n/10.53937/53 s\OT1/cmr/m/n/10.53937 : $[][] \OML/cmm/m/it/10.53937 ![] []
- \OMS/cmsy/m/n/10.53937 !
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 267--268
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 276--277
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 286--287
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 288--289
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 303--304
-
- []
-
-[5]
-<img_math///0069.png, id=208, 441.14813pt x 300.3722pt>
-File: img_math///0069.png Graphic file (type png)
-<use img_math///0069.png>
-Package pdftex.def Info: img_math///0069.png  used on input line 305.
-(pdftex.def)             Requested size: 256.07741pt x 174.36723pt.
-<img_math///0076.pdf, id=209, 343.77164pt x 159.5792pt>
-File: img_math///0076.pdf Graphic file (type pdf)
-<use img_math///0076.pdf>
-Package pdftex.def Info: img_math///0076.pdf  used on input line 309.
-(pdftex.def)             Requested size: 356.60516pt x 165.5445pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 309--310
-
- []
-
-<img_math///0077.pdf, id=210, 183.87296pt x 90.5241pt>
-File: img_math///0077.pdf Graphic file (type pdf)
-<use img_math///0077.pdf>
-Package pdftex.def Info: img_math///0077.pdf  used on input line 311.
-(pdftex.def)             Requested size: 198.11533pt x 97.54216pt.
-<img_math///0079.pdf, id=211, 256.43925pt x 170.69472pt>
-File: img_math///0079.pdf Graphic file (type pdf)
-<use img_math///0079.pdf>
-Package pdftex.def Info: img_math///0079.pdf  used on input line 316.
-(pdftex.def)             Requested size: 257.5475pt x 171.43138pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 316--317
-
- []
-
-<img_math///0078.pdf, id=212, 219.13066pt x 105.01735pt>
-File: img_math///0078.pdf Graphic file (type pdf)
-<use img_math///0078.pdf>
-Package pdftex.def Info: img_math///0078.pdf  used on input line 318.
-(pdftex.def)             Requested size: 237.7408pt x 113.93782pt.
-[6 <./img_math///0069.png (PNG copy)> <./img_math///0076.pdf> <./img_math///007
-7.pdf>]
-<img_math///0070.pdf, id=247, 304.84921pt x 264.11472pt>
-File: img_math///0070.pdf Graphic file (type pdf)
-<use img_math///0070.pdf>
-Package pdftex.def Info: img_math///0070.pdf  used on input line 324.
-(pdftex.def)             Requested size: 85.35696pt x 73.9516pt.
-<img_math///0071.pdf, id=248, 340.00082pt x 146.8406pt>
-File: img_math///0071.pdf Graphic file (type pdf)
-<use img_math///0071.pdf>
-Package pdftex.def Info: img_math///0071.pdf  used on input line 331.
-(pdftex.def)             Requested size: 170.71393pt x 73.73155pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 331--332
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 342--345
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 348--351
-
- []
-
-<img_math///0073.pdf, id=249, 379.74823pt x 268.05746pt>
-File: img_math///0073.pdf Graphic file (type pdf)
-<use img_math///0073.pdf>
-Package pdftex.def Info: img_math///0073.pdf  used on input line 352.
-(pdftex.def)             Requested size: 138.68314pt x 97.89537pt.
-[7 <./img_math///0079.pdf> <./img_math///0078.pdf> <./img_math///0070.pdf> <./i
-mg_math///0071.pdf>]
-<img_math///0072.pdf, id=298, 318.50331pt x 352.88637pt>
-File: img_math///0072.pdf Graphic file (type pdf)
-<use img_math///0072.pdf>
-Package pdftex.def Info: img_math///0072.pdf  used on input line 361.
-(pdftex.def)             Requested size: 128.0387pt x 141.85742pt.
-
-Overfull \hbox (20.26245pt too wide) detected at line 367
-[]
- []
-
-<img_math///0074.pdf, id=299, 372.35231pt x 202.45137pt>
-File: img_math///0074.pdf Graphic file (type pdf)
-<use img_math///0074.pdf>
-Package pdftex.def Info: img_math///0074.pdf  used on input line 371.
-(pdftex.def)             Requested size: 396.23065pt x 215.43767pt.
-[8 <./img_math///0073.pdf> <./img_math///0072.pdf>]
-<img_math///0075.pdf, id=327, 304.07523pt x 130.99841pt>
-File: img_math///0075.pdf Graphic file (type pdf)
-<use img_math///0075.pdf>
-Package pdftex.def Info: img_math///0075.pdf  used on input line 375.
-(pdftex.def)             Requested size: 324.91203pt x 139.979pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 379--380
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 381--382
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 391--392
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 398--401
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 409--410
-
- []
-
-
-Overfull \vbox (3.56145pt too high) has occurred while \output is active []
-
-
-[9 <./img_math///0074.pdf> <./img_math///0075.pdf>]
-Underfull \hbox (badness 1715) in paragraph at lines 425--426
-[]\C70/rm/m/n/10.53937/67 	 \OT1/cmr/m/n/10.53937 a\C70/rm/m/n/10.53937/4e * \C
-70/rm/m/n/10.53937/76 }\OT1/cmr/m/n/10.53937 , b\C70/rm/m/n/10.53937/4e * \C70/
-rm/m/n/10.53937/9e —\OT1/cmr/m/n/10.53937 , \C70/rm/m/n/10.53937/95 Ó\OT1/cmr/m
-/n/10.53937 : \C70/rm/m/n/10.53937/4e Œ - \C70/rm/m/n/10.53937/8f ﬁ \C70/rm/m/n
-/10.53937/7e Ì \C70/rm/m/n/10.53937/53 ÷ \C70/rm/m/n/10.53937/51 ˙ \OT1/cmr/m/n
-/10.53937 m\C70/rm/m/n/10.53937/4e * \C70/rm/m/n/10.53937/74 ^^C \OT1/cmr/m/n/1
-0.53937 (\C70/rm/m/n/10.53937/8f ﬁ \C70/rm/m/n/10.53937/7e Ì \C70/rm/m/n/10.539
-37/53 ÷\OT1/cmr/m/n/10.53937 , \C70/rm/m/n/10.53937/5c 1 \C70/rm/m/n/10.53937/6
-6 / \C70/rm/m/n/10.53937/4e ^^M \C70/rm/m/n/10.53937/65 > \C70/rm/m/n/10.53937/
-56 ﬁ \C70/rm/m/n/10.53937/76 Ñ \C70/rm/m/n/10.53937/61 ^^O \C70/rm/m/n/10.53937
-/60 ^^] \C70/rm/m/n/10.53937/4e Ü\OT1/cmr/m/n/10.53937 )
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 425--426
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 429--431
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 432--434
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 438--441
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 438--441
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 442--443
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 451--452
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 453--454
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 466--467
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 470--473
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 474--477
-
- []
-
-<img_math///0083.pdf, id=354, 368.37625pt x 278.03876pt>
-File: img_math///0083.pdf Graphic file (type pdf)
-<use img_math///0083.pdf>
-Package pdftex.def Info: img_math///0083.pdf  used on input line 479.
-(pdftex.def)             Requested size: 356.60516pt x 269.15422pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 478--480
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 481--482
-
- []
-
-[10] [11 <./img_math///0083.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 493--495
-
- []
-
-<img_math///0086.pdf, id=367, 227.45578pt x 91.27058pt>
-File: img_math///0086.pdf Graphic file (type pdf)
-<use img_math///0086.pdf>
-Package pdftex.def Info: img_math///0086.pdf  used on input line 496.
-(pdftex.def)             Requested size: 237.7408pt x 95.39822pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 496--497
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 500--504
-
- []
-
-<img_math///0084.pdf, id=368, 281.05031pt x 68.27809pt>
-File: img_math///0084.pdf Graphic file (type pdf)
-<use img_math///0084.pdf>
-Package pdftex.def Info: img_math///0084.pdf  used on input line 506.
-(pdftex.def)             Requested size: 341.43437pt x 82.9522pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 505--507
-
- []
-
-<img_math///0085.pdf, id=370, 349.32837pt x 400.93388pt>
-File: img_math///0085.pdf Graphic file (type pdf)
-<use img_math///0085.pdf>
-Package pdftex.def Info: img_math///0085.pdf  used on input line 510.
-(pdftex.def)             Requested size: 413.98813pt x 475.16568pt.
-[12 <./img_math///0086.pdf> <./img_math///0084.pdf>]
-<img_math///0087.pdf, id=397, 136.95265pt x 95.35715pt>
-File: img_math///0087.pdf Graphic file (type pdf)
-<use img_math///0087.pdf>
-Package pdftex.def Info: img_math///0087.pdf  used on input line 512.
-(pdftex.def)             Requested size: 341.43437pt x 237.75786pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 519--525
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 519--525
-
- []
-
-[13 <./img_math///0085.pdf> <./img_math///0087.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 526--531
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 536--537
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 538--539
-
- []
-
-[14] (./math 301 Ê¶ÇÁéá.aux) ) 
+[2] (./math 302 Êù°‰ª∂Ê¶ÇÁéá.aux) ) 
 Here is how much of TeX's memory you used:
- 24895 strings out of 478268
- 503428 string characters out of 5850345
- 776030 words of memory out of 5000000
- 42146 multiletter control sequences out of 15000+600000
- 580631 words of font info for 435 fonts, out of 8000000 for 9000
+ 22837 strings out of 478268
+ 469605 string characters out of 5850345
+ 745043 words of memory out of 5000000
+ 40539 multiletter control sequences out of 15000+600000
+ 487118 words of font info for 89 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,27n,105p,702b,486s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/si
-msun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/
-Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/
-Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.
-ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts
-/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windo
-ws/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><
-c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/sims
-un.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fo
-nts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Wi
-ndows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.tt
-c><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/s
-imsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows
-/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:
-/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun
-.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Font
-s/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc>{c:/texl
-ive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/Windows/Fonts
-/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windo
-ws/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><
-c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/sims
-un.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fo
-nts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Wi
-ndows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.tt
-c><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/s
-imsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows
-/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:
-/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun
-.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Font
-s/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Wind
-ows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc>
-<c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/sim
-sun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/F
-onts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/W
-indows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.t
-tf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/
-simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Window
-s/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c
-:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsu
-n.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fon
-ts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Win
-dows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc
-><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/si
+ 102i,6n,105p,708b,350s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/Windows/Fonts/simsun.ttc><c:/Windows/Fon
+ts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Win
+dows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf
+><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/si
 mhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/
-Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/
-Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.
-ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts
-/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/texlive/2022/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmbx8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.
-pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/t
-exlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/20
-22/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><c:/texlive/2022/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2022/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.
-pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/tex
-live/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb><c:/texlive/2022/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmsy8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/
-sfrm1000.pfb>
-Output written on "math 301 Ê¶ÇÁéá.pdf" (14 pages, 1862012 bytes).
+Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/texlive/2022/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmr10.pfb>
+Output written on "math 302 Êù°‰ª∂Ê¶ÇÁéá.pdf" (2 pages, 58458 bytes).
 PDF statistics:
- 877 PDF objects out of 1000 (max. 8388607)
- 574 compressed objects within 6 object streams
+ 91 PDF objects out of 1000 (max. 8388607)
+ 57 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 377 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 57 words of extra memory for PDF output out of 10000 (max. 10000000)
 

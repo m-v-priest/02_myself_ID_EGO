@@ -283,7 +283,9 @@ $
 }
 $
 
-
+~\\
+\hrule
+~\\
 
 	
 \section{公理化}
@@ -374,7 +376,9 @@ $ \\
 \end{myEnvSample}
 
 
-
+~\\
+\hrule
+~\\
 
 
 \section{古典概型 : $\text{P(A)}=\dfrac{\text{A中包含的``基本事件"有多少个}}{\text{S中``基本事件"的总数}}$}
@@ -444,7 +448,9 @@ $ \\
 \end{myEnvSample}
 
 
-
+~\\
+\hrule
+~\\
 
 
 \section{几何概型}
@@ -477,24 +483,24 @@ $ \\
 	即: $
 	\text{P}\left( \text{A} \right) =\frac{60\cdot 60-\overset{\text{上面的``边长为45"的三角形的面积}}{\overbrace{\frac{45\cdot 45}{2}}}-\overset{\text{下面的``边长为45"的三角形的面积}}{\overbrace{\frac{45\cdot 45}{2}}}}{\underset{\text{即``边长为60分钟"的矩形}}{\underbrace{60\cdot 60}}}=0.4375
 	$
-\end{myEnvSample}
+\end{myEnvSample} 
 
 
 
-
+\newpage
 
 \begin{myEnvSample}
 	(法国)布丰(1707-1788) 投针 Buffon's needle problem. \\
-	说: 有两条平行的直线, 相聚为 D(distance), 距离单位不重要. 你哪一个针 (长度为 L (length), $L<D$), 随机地投向针. 问: 针与那两条平行直线 相交的概率是? \\
-			
-	\includegraphics[width=0.7\textwidth]{/0086.pdf} \\
-	
-	
+说: 有两条平行的直线, 相聚为 D(distance), 距离单位不重要. 你哪一个针 (长度为 L (length), $L<D$), 随机地投向针. 问: 针与那两条平行直线 相交的概率是? \\
+
+\includegraphics[width=0.6\textwidth]{/0086.pdf} \\
+\end{myEnvSample} 
+
+
 	思路: 针投上去后的位置状态, 是由两个参数决定的: \\
-	(1) 针的中点, 距离``最近那根直线"的最短距离. ← 该距离用变量 mDis (midpoint distance)来表示. \\
-	(2) 针倾斜的位置, 与直线的夹角. ← 我们用变量 $\theta$ 来表示. \\	
-	
-	用上面这两个变量, 我们能分别作为 x轴(表示 $\theta$ 变量) 和 y轴(表示 mDis变量), 来画出函数图像. \\
+(1) 针的中点, 距离``最近那根直线"的最短距离. ← 该距离用变量 mDis (midpoint distance)来表示. \\
+(2) 针倾斜的位置, 与直线的夹角. ← 我们用变量 $\theta$ 来表示.  \\
+用上面这两个变量, 我们能分别作为 x轴(表示 $\theta$ 变量) 和 y轴(表示 mDis变量), 来画出函数图像. \\
 		
 	针投出后, 所有可能的状态, 其全集就是: \\
 \includegraphics[width=0.8\textwidth]{/0084.pdf} \\
@@ -502,9 +508,28 @@ $ \\
 	那么, 什么状态下, ``针"就与``直线"相交了呢? -- 当``从针的中点(沿着针的身体走)到直线"的距离 (下面用变量 keyDis (key distance) 来表示这个距离) $\leq$ 针的一半长度时. 它们就相交了. 否则, 它们就不想交. \\
 	即, 就有: \\	
 \includegraphics[width=0.97\textwidth]{/0085.pdf}
-		
-\end{myEnvSample}
 
+\includegraphics[width=0.8\textwidth]{/0087.pdf}
+
+
+
+
+\subsection{``古典概率模型"和``几何概率模型"的区别}
+
+- 古典概率模型 : \\
+具有 ``有限可加性" (finite additivity): 是指``有限个"两两互不相容事件的``和事件"的概率, 等于``每个事件概率"的和. \\
+即: $
+\underset{\text{的概率}}{\underbrace{\text{P}\underset{\text{和}}{\underbrace{\left( \text{∪}_{\text{i}=1}^{\text{n}}\text{A}_{\text{i}} \right) }}}}=\underset{\text{的和}}{\underbrace{\sum_{\text{i}=1}^{\text{n}}{\underset{\text{概率}}{\underbrace{\text{P}\left( \text{A}_{\text{i}} \right) }}}}}
+$ \\
+\\
+
+- 几何概率模型 : \\
+具有``完全可加性":  即先求和, 再求概率, 等于 先求每个事件概率, 再求和. \\
+即: $
+\underset{\text{的概率}}{\underbrace{\text{P}\underset{\text{和}}{\underbrace{\left( \text{∪}_{\text{i}=1}^{\infty}\text{A}_{\text{i}} \right) }}}}=\underset{\text{的和}}{\underbrace{\sum_{\text{i}=1}^{\infty}{\underset{\text{概率}}{\underbrace{\text{P}\left( \text{A}_{\text{i}} \right) }}}}}
+$ \\
+
+注意两者的区别: 一个是``有限(到n)"的加,  一个是``无限(到∞)"的加.
 
 
 	
