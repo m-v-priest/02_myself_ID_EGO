@@ -4,15 +4,17 @@
 \contentsline {subsection}{\numberline {1.2}不重复排列 : $\text {P}_{\text {总数n}}^{\text {选出的数量m}}=\genfrac {}{}{}0{\text {总数!}}{\text {(总数}-\text {选数)!}} $}{2}{}%
 \contentsline {subsection}{\numberline {1.3}全排列 : $\text {P}_{\text {总数n}}^{\text {n}}=\text {n!} $ }{2}{}%
 \contentsline {subsection}{\numberline {1.4}重复排列}{3}{}%
-\contentsline {subsection}{\numberline {1.5}``送利益"模型}{3}{}%
-\contentsline {section}{\numberline {2}交集 $\cap $ , 与 并集 $\cup $}{3}{}%
-\contentsline {section}{\numberline {3}频率}{4}{}%
-\contentsline {section}{\numberline {4}频率的性质:}{4}{}%
-\contentsline {section}{\numberline {5}公理化}{4}{}%
-\contentsline {subsection}{\numberline {5.1}$P(A) + P(\overline {A}) = 1$}{4}{}%
-\contentsline {subsection}{\numberline {5.2}对于``完备事件组"中的所有事件来说: $P(A_1) + P(A_2) + ... + P(A_n) = P(\Omega ) = 1$}{4}{}%
-\contentsline {subsection}{\numberline {5.3}$P(A-B) = P(A) - P(AB)$}{5}{}%
-\contentsline {subsection}{\numberline {5.4}若A包含着B, 则有: $ P(A-B) = P(A) - P(B)$, 且 $P(A) >= P(B) $}{6}{}%
-\contentsline {subsection}{\numberline {5.5}加法公式: $ P(A+B) = P(A) + P(B) - P(AB)$}{6}{}%
-\contentsline {subsection}{\numberline {5.6}加法公式: $ P(A+B+C) = P(A) + P(B) + P(C) - P(AB) - P(AC) - P(BC) + P(ABC)$}{6}{}%
-\contentsline {section}{\numberline {6}古典概型 : $\text {P(A)}=\genfrac {}{}{}0{\text {A中包含的``基本事件"有多少个}}{\text {S中``基本事件"的总数}}$}{7}{}%
+\contentsline {subsection}{\numberline {1.5}``送利益"模型 (放球模型)}{3}{}%
+\contentsline {subsection}{\numberline {1.6}组合 combination : $ \text {C}_{\text {总}}^{\text {选}}=\frac {\text {总!}}{\text {选!}\left ( \text {总}-\text {选!} \right )} = C_{\text {总}}^{\text {总}-\text {选}} $}{3}{}%
+\contentsline {section}{\numberline {2}交集 $\cap $ , 与 并集 $\cup $}{4}{}%
+\contentsline {section}{\numberline {3}频率}{5}{}%
+\contentsline {section}{\numberline {4}频率的性质:}{5}{}%
+\contentsline {section}{\numberline {5}公理化}{5}{}%
+\contentsline {subsection}{\numberline {5.1}$P(A) + P(\overline {A}) = 1$}{5}{}%
+\contentsline {subsection}{\numberline {5.2}对于``完备事件组"中的所有事件来说: $P(A_1) + P(A_2) + ... + P(A_n) = P(\Omega ) = 1$}{5}{}%
+\contentsline {subsection}{\numberline {5.3}$P(A-B) = P(A) - P(AB)$}{7}{}%
+\contentsline {subsection}{\numberline {5.4}若A包含着B, 则有: $ P(A-B) = P(A) - P(B)$, 且 $P(A) >= P(B) $}{7}{}%
+\contentsline {subsection}{\numberline {5.5}加法公式: $ P(A+B) = P(A) + P(B) - P(AB)$}{7}{}%
+\contentsline {subsection}{\numberline {5.6}加法公式: $ P(A+B+C) = P(A) + P(B) + P(C) - P(AB) - P(AC) - P(BC) + P(ABC)$}{8}{}%
+\contentsline {section}{\numberline {6}古典概型 : $\text {P(A)}=\genfrac {}{}{}0{\text {A中包含的``基本事件"有多少个}}{\text {S中``基本事件"的总数}}$}{9}{}%
+\contentsline {section}{\numberline {7}几何概型}{10}{}%

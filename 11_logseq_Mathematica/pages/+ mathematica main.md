@@ -14,6 +14,7 @@
 	-
 -
 - 最常用快捷键
+  collapsed:: true
 	- [mathematica中的快捷键 | ZYMIN](https://zymin.cn/arcticle/mathematica-kuaijiejian)
 	- 注释 alt+L
 	- 上标 Ctrl+6 , 下标 Ctrl+ -
@@ -450,6 +451,7 @@
 	-
 	-
 - ### 函数图
+  collapsed:: true
 	- plot函数 : 画函数图, 包括多元函数的3d图, 用 Plot 函数
 		- ![image.png](../assets/image_1667913150420_0.png)
 		-
@@ -504,6 +506,14 @@
 	  collapsed:: true
 		- ![image.png](../assets/image_1667963466961_0.png)
 -
+- ### 画不等式
+	- ```
+	  RegionPlot[{y - x <= 15, x - y <= 15}, {x, -10, 70}, {y, -10, 70}, 
+	   AspectRatio -> Automatic]
+	  ```
+	- ![image.png](../assets/image_1671075507432_0.png)
+-
+	-
 	- ### 互动模型: Manipulate函数
 	  collapsed:: true
 		- ![image.png](../assets/image_1667962939733_0.png)

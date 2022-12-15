@@ -24,8 +24,7 @@
 	
 	\subsection{加法原理, 乘法原理}
 	
-	- 一件事, 只需``一步"就能完成. 但这一步中有几种不同的方案可供选择, 就用``加法"原理.
-	
+	- 一件事, 只需``一步"就能完成. 但这一步中有几种不同的方案可供选择, 就用``加法"原理. \\	
 	- 一件事, 要分成``几步骤"才能完成. 每一步, 又有几种不同的选择方案. 就用``乘法"原理.
 	
 	
@@ -64,8 +63,7 @@
 	
 	例如:
 	
-	- $	\text{P}_{2}^{2}=2!=2	$
-	
+	- $	\text{P}_{2}^{2}=2!=2	$ \\	
 	- $ \text{P}_{1}^{1}=1!=1$ \\
 	
 		\begin{myEnvSample}
@@ -84,8 +82,7 @@
 	
 	(2) 解释2: $P_{0}^{0}$ 就是从0个元素里面, 取出0个元素来排列. 这只有一种情况: 即 ``不选". 因为不存在任何元素, 所以没法选. 所以 $P_0^0=0!=1$ \\
 	
-	- $5^0 =1$ ← 因为 $5^0=5^{1-1}=\frac{5^1}{5^1}=1$
-	
+	- $5^0 =1$ ← 因为 $5^0=5^{1-1}=\frac{5^1}{5^1}=1$ \\	
 	- $0^0$ 无意义. ← 因为 $0^0=0^{1-1}=\frac{0^1}{0^1}$, 而分母不能为0, 所以该式子无意义.
 	
 	
@@ -97,7 +94,7 @@
 	重复排列: $\underset{\text{共取了m次的n}}{\underbrace{\text{n}\cdot \text{n}\cdot ...\cdot \text{n}}}=\text{n}^{\text{m}}	$ \\
 	
 		
-	\subsection{``送利益"模型}
+	\subsection{``送利益"模型 (放球模型)}
 	
 	将$n_{benefit}$种利益, 随机投送给$N_{man}$个人 ($N_{man}\ge n_{benefit}$). 问: 每个人中, 最多只拿到1种利益的概率?
 	
@@ -105,15 +102,100 @@
 	
 	→ 再来看``每个人中, 最多只拿到1种利益": 第1个人,
 	
-	\begin{align*}  % 支持每行编号. 若不需要编号, 就用 align*环境
-3
-	\end{align*}
+	未完待续... 这里没看懂
+	
+	
+	
+%	\begin{myEnvSample}
+%		假设每个人的生日, 在一年365天中的任何一天都是``等可能性"的, 即可能性均是 1/365. 问: \\
+%		
+%		(1) 随机取 n个人 ($n \leq 365$), 他们的生日各不相同 的概率是?
+%		
+%		那么第1个人, 可选的范围概率就是:  最自由, 在 365天里随便选1天. 即: $$
+%		
+%		
+%		(2) n个人中, 至少两人生日相同的概率是?
+%		
+%		
+%
+%	\end{myEnvSample}
+%	
+	
+	
 	
 	
 	
 
+	\subsection{组合 combination : $
+		\text{C}_{\text{总}}^{\text{选}}=\frac{\text{总!}}{\text{选!}\left( \text{总}-\text{选!} \right)}	= C_{\text{总}}^{\text{总}-\text{选}}	$}
+	
+	组合: 是从n个不同元素中, 每次取出m个不同元素 ($0 \leq m \leq n$) , 合成一组, 而不需要管排队顺序, 就称为: 从n个元素中不重复地选取m个元素的一个组合. \\
+	
+	即: 有顺序, 就用排列; 无顺序, 就用组合. \\
+	
+	组合的公式是: 
+	
+$\boxed{
+		\text{C}_{\text{总数}}^{\text{选数}}=\frac{\text{P}_{\text{总}}^{\text{选}}}{\text{选!}}=\frac{\text{总!}}{\text{选!}\left( \text{总}-\text{选!} \right)}	
+}$
+
+$\boxed{
+		\text{C}_{\text{总}}^{\text{选}}=\text{C}_{\text{总}}^{\text{总}-\text{选}}	
+}$ \\
+
+上面第二个公式的意思是: 比如你有100人, 选其中10人上岸, 就相当于是选90人不上岸. 即: $\text{C}_{100}^{10}=\text{C}_{100}^{100-10}=\text{C}_{100}^{90}
+$ \\
+
+同理, 有 : $
+\boxed{\text{C}_{\text{总}}^{0}=\text{C}_{\text{总}}^{\text{总}-0}=\text{C}_{\text{总}}^{\text{总}}
+}$ \\
 	
 	
+	\begin{myEnvSample}
+		有共N人, 其中有w个女, 你任抽n人, 其中恰好有x个女人 ($x \leq w$) (记为事件A) 的概率是? 
+		
+		我们用``分步骤法"来做: 第一步, 先取x个女人. 第二步, 再取男人(数量就是= n-x). \\
+
+$
+\text{P(A)}=\dfrac{\text{取到x女}}{\text{从总N人中取n人}}=\dfrac{\overset{\text{第一步:先从全部女人里面,取x个女人}}{\overbrace{\text{C}_{\text{总w女}}^{\text{取x女}}}}\cdot \overset{\text{第二步:再从总男人里,取剩下的男人数量}}{\overbrace{\text{C}_{\text{总N人}-\text{总w女}=\text{总男人数}}^{\text{总取n人}-\text{x女}}}}}{\text{C}_{\text{总N人}}^{\text{取n人}}}
+$ \\
+
+上面这个公式, 其实就是``古典概型"里面的``超几何分布".
+	\end{myEnvSample}
+	
+	
+	
+	\begin{myEnvSample}
+		有共9球, 5白, 4黑. 任取3球, 问:
+		
+		(1) 是 2白1黑 的概率: 		
+		$
+		\text{P(2白1黑)}=\frac{\overset{\text{第一步:5白取}2}{\overbrace{\text{C}_{5}^{2}}}\cdot \overset{\text{第二步:4黑取}1}{\overbrace{\text{C}_{4}^{1}}}}{\underset{\text{总9取}3}{\underbrace{\text{C}_{9}^{3}}}}=0.47619
+		$ \\
+		
+		(2) 取到的3球中, 无黑球 :		
+		$
+		\text{P(3白)}=\frac{\overset{5\text{白取}3}{\overbrace{\text{C}_{5}^{3}}}}{\underset{\text{总9取}3}{\underbrace{\text{C}_{9}^{3}}}}=0.119048
+		$ \\
+		
+		(3) 取到的3球中, 颜色相同 : 		
+		$
+		\text{P(3球同色)}=\frac{\overset{5\text{白取}3}{\overbrace{\text{C}_{5}^{3}}}\overset{\text{或}}{\overbrace{+}}\overset{4\text{黑取}3}{\overbrace{\text{C}_{4}^{3}}}}{\underset{\text{总9取}3}{\underbrace{\text{C}_{9}^{3}}}}=0.166667
+		$
+		
+		或, 也可用第二种思路来解:  		
+		\begin{align*}  % 支持每行编号. 若不需要编号, 就用 align*环境
+	&\text{P(3球同色)}=1-\text{P(3球存在不同色)}\\
+&=1-\frac{1\text{白2黑,\ 或2白1黑}}{9\text{取}3}\\
+&=1-\frac{\overset{5\text{白取}1; }{\overbrace{\text{C}_{5}^{1}}}\overset{4\text{黑取}2}{\overbrace{\text{C}_{4}^{2}}}\overset{\text{或}}{\overbrace{+}}\overset{5\text{白取}2; }{\overbrace{\text{C}_{5}^{2}}}\overset{4\text{黑取}1}{\overbrace{\text{C}_{4}^{1}}}}{\text{C}_{9}^{3}}\\
+&=0.166667
+		\end{align*}
+
+	\end{myEnvSample}
+	
+	
+	
+
 	
 	\section{交集 $\cap$ , 与 并集 $\cup$}
 	
@@ -333,10 +415,95 @@ $ \\
 (2)其结果, 必须是``等可能性".
 
 
+	
+
+\begin{myEnvSample}
+	有 a个白, b个黑, 问: 从中连续取出 m个球 (连续取, 就是不放回的意思了) ($1 \leq m \leq a+b$), 第m个 是白球的概率= ? \\
+	
+	思路1 : 其实我们只要考虑 第 m 个位置的这一个球的情况就行了, 其他位置的球,随便它们什么颜色, 我们不用考虑的.
+	
+	$\text{P}\left( \text{第m位置是白球} \right) =\frac{\text{在第m个位置上,\ 从a个白球里取1个放上去.\ 剩下数量的其他位置上,\ 依然做全排列}}{\text{所有球的全排列}}
+	$ \\
+	
+	即 $	\text{P}\left( \text{第m位置是白球} \right) =\frac{\overset{\text{第一步,\ 先取1个白球,占位放在第m个位置上.}}{\overbrace{\text{C}_{\text{总a白}}^{\text{取}1}}}\cdot \overset{\text{第二步:剩下的所有球,\ 依然做全排列}}{\overbrace{\text{C}_{\text{总a白}+\text{总b黑}-1}^{\text{总a白}+\text{总b黑}-1}}}}{\text{P}_{\text{总a白}+\text{总b黑}}^{\text{总a白}+\text{总b黑}}}
+	$ \\
+	
+	
+	思路2 : 或者我们也只需考虑前m个数量的球就行了, 后面其他的球, 爱怎样颜色怎样颜色, 不用我们考虑.
+	
+	$	\text{P}\left( \text{第m位置是白球} \right) =\frac{\overset{\text{第一步,\ 先取1个白球,占位放在第m个位置上}}{\overbrace{\text{C}_{\text{总a白}}^{\text{取}1}}}\cdot \overset{\text{第二步:m个数中的剩下的所有球,\ 依然做全排列}}{\overbrace{\text{C}_{\text{总a白}+\text{总b黑}-1}^{\text{m}-1}}}}{\underset{\text{m个球的全排列}}{\underbrace{\text{P}_{\text{总a白}+\text{总b黑}}^{\text{m}}}}}
+	$ \\
+	\\
+	
+	其实你有没有发现? ``在第m个位置上出现白球" 这个``m索引位置", 其实是个障眼法. 白球出现在任何其他位置, 它出现在第1个位置, 第10个位置, 最后一个位置, 对我们的计算结果没有任何影响.  因为不管白球出现在第几个位置上, 它出现的概率都是相同的, 因为是古典概率嘛! 所以, ``位置为几"其实不重要. \\
+	
+	所以, 我们就有了第三种思路: 我们就把这个白球, 让它直接出现在第1个位置就好了:
+	
+	$	\text{P}\left( \text{第1个位置是白球} \right) =\frac{\overset{\text{(在第1个位置上,)\ 从白球里,\ 取1个\ 的取法数量}}{\overbrace{\text{C}_{\text{总a白}}^{1}}}}{\underset{\text{(在第1个位置上,)\ 从总数里,\ 取1个\ 的取法数量}}{\underbrace{\text{C}_{\text{总a白}+\text{总b黑}}^{1}}}}=\frac{\text{a}}{\text{a}+\text{b}}
+	$		
+\end{myEnvSample}
 
 
 
 
+
+\section{几何概型}
+
+
+几何概型 geometric models of probability, 即这类概率问题, 能够转换成用``几何问题"来求解.
+
+\begin{myEnvSample}
+	有甲乙两人, 相约在 6-7点见面 (其实这个具体的时间点也是个障眼法, 只要在1个小时的区间就行). 先到者, 最多等对方15分钟, 然后就离开了.
+	
+	甲乙两人, 在这1小时内的任意时刻, 都可能到达.
+	
+	问, 他们能相见的概率是多少? \\
+	
+	我们令 
+	
+	- 事件A : 表示两人见到了面 \\
+	- x : 表示甲到达的时间点 \\
+	- y : 表示乙到达的时间点 \\
+	
+	他们要能见到面, 即 $|y-x| \leq 15$分钟. 那么这就有两种可能性: \\
+	-  甲先到. 即 $x \leq y$ (甲来到的时间点x, 比乙来到的时间点y 要小 (早)), 即 $ y-x \leq 15$ \\
+	-  乙先到. 即 $y \leq x$, 即 $ x-y \leq 15$ \\	
+	
+	这两组不等式, 能用函数图形来表示出来, 如下图. x和y轴上的60, 分别代表两人的1小时区间(60分钟) . 中间的交集区域, 就是两人可以见到面的时间段. \\
+	\includegraphics[width=0.9\textwidth]{/0083.pdf} \\
+	
+	显然, 这就是求几何面积的问题. \\
+	
+	即: $
+	\text{P}\left( \text{A} \right) =\frac{60\cdot 60-\overset{\text{上面的``边长为45"的三角形的面积}}{\overbrace{\frac{45\cdot 45}{2}}}-\overset{\text{下面的``边长为45"的三角形的面积}}{\overbrace{\frac{45\cdot 45}{2}}}}{\underset{\text{即``边长为60分钟"的矩形}}{\underbrace{60\cdot 60}}}=0.4375
+	$
+\end{myEnvSample}
+
+
+
+
+
+\begin{myEnvSample}
+	(法国)布丰(1707-1788) 投针 Buffon's needle problem. \\
+	说: 有两条平行的直线, 相聚为 D(distance), 距离单位不重要. 你哪一个针 (长度为 L (length), $L<D$), 随机地投向针. 问: 针与那两条平行直线 相交的概率是? \\
+			
+	\includegraphics[width=0.7\textwidth]{/0086.pdf} \\
+	
+	
+	思路: 针投上去后的位置状态, 是由两个参数决定的: \\
+	(1) 针的中点, 距离``最近那根直线"的最短距离. ← 该距离用变量 mDis (midpoint distance)来表示. \\
+	(2) 针倾斜的位置, 与直线的夹角. ← 我们用变量 $\theta$ 来表示. \\	
+	
+	用上面这两个变量, 我们能分别作为 x轴(表示 $\theta$ 变量) 和 y轴(表示 mDis变量), 来画出函数图像. \\
+		
+	针投出后, 所有可能的状态, 其全集就是: \\
+\includegraphics[width=0.8\textwidth]{/0084.pdf} \\
+			
+	那么, 什么状态下, ``针"就与``直线"相交了呢? -- 当``从针的中点(沿着针的身体走)到直线"的距离 (下面用变量 keyDis (key distance) 来表示这个距离) $\leq$ 针的一半长度时. 它们就相交了. 否则, 它们就不想交. \\
+	即, 就有: \\	
+\includegraphics[width=0.97\textwidth]{/0085.pdf}
+		
+\end{myEnvSample}
 
 
 

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.6)  14 DEC 2022 16:41
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.6)  15 DEC 2022 16:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1056,27 +1056,22 @@ able
 LaTeX Warning: No \author given.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--64
+Underfull \hbox (badness 10000) in paragraph at lines 59--63
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--70
+Underfull \hbox (badness 10000) in paragraph at lines 66--68
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 85--86
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 97--98
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 120--121
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
 
  []
 
@@ -1086,22 +1081,77 @@ Underfull \hbox (badness 10000) in paragraph at lines 132--133
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--141
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--145
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--148
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--152
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
+
+ []
+
+
+Overfull \hbox (12.02043pt too wide) in paragraph at lines 159--162
+[]$[] \OT1/cmr/m/n/10.53937 = [] = []$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--162
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--175
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--180
 
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 183--184
+Underfull \hbox (badness 10000) in paragraph at lines 204--205
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 192--193
+Underfull \hbox (badness 10000) in paragraph at lines 216--217
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 217--218
+Underfull \hbox (badness 10000) in paragraph at lines 224--225
+
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 267--268
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--277
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--302
 
  []
 
@@ -1110,68 +1160,99 @@ File: img_math///0069.png Graphic file (type bmp)
 File: img_math///0076.pdf Graphic file (type pdf)
 <use img_math///0076.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 223--224
+Underfull \hbox (badness 10000) in paragraph at lines 307--308
 
  []
 
 File: img_math///0077.pdf Graphic file (type pdf)
 <use img_math///0077.pdf>
-[4]
+[5]
 File: img_math///0079.pdf Graphic file (type pdf)
 <use img_math///0079.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 230--231
+Underfull \hbox (badness 10000) in paragraph at lines 314--315
 
  []
 
 File: img_math///0078.pdf Graphic file (type pdf)
 <use img_math///0078.pdf>
+[6]
 File: img_math///0070.pdf Graphic file (type pdf)
 <use img_math///0070.pdf>
 File: img_math///0071.pdf Graphic file (type pdf)
 <use img_math///0071.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 245--246
+Underfull \hbox (badness 10000) in paragraph at lines 329--330
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 256--259
+Underfull \hbox (badness 10000) in paragraph at lines 340--343
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 262--265
+Underfull \hbox (badness 10000) in paragraph at lines 346--349
 
  []
 
 File: img_math///0073.pdf Graphic file (type pdf)
 <use img_math///0073.pdf>
-[5]
+[7]
 File: img_math///0072.pdf Graphic file (type pdf)
 <use img_math///0072.pdf>
 
-Overfull \hbox (25.83063pt too wide) detected at line 281
+Overfull \hbox (25.83063pt too wide) detected at line 365
 []
  []
 
 File: img_math///0074.pdf Graphic file (type pdf)
 <use img_math///0074.pdf>
-[6]
+[8]
 File: img_math///0075.pdf Graphic file (type pdf)
 <use img_math///0075.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 303--304
+Underfull \hbox (badness 10000) in paragraph at lines 387--388
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 310--313
+Underfull \hbox (badness 10000) in paragraph at lines 394--397
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 321--322
+Underfull \hbox (badness 10000) in paragraph at lines 405--406
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 421--422
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 425--427
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 428--430
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 434--437
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 434--437
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 438--439
 
  []
 
@@ -1179,7 +1260,69 @@ Underfull \hbox (badness 10000) in paragraph at lines 321--322
 Overfull \vbox (3.85788pt too high) has occurred while \output is active []
 
 
-[7] (./math 301 概率.aux)
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 460--461
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 464--467
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 468--471
+
+ []
+
+File: img_math///0083.pdf Graphic file (type pdf)
+<use img_math///0083.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 472--474
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 475--476
+
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 487--489
+
+ []
+
+File: img_math///0086.pdf Graphic file (type pdf)
+<use img_math///0086.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 490--491
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 493--496
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 497--498
+
+ []
+
+File: img_math///0084.pdf Graphic file (type pdf)
+<use img_math///0084.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 499--501
+
+ []
+
+File: img_math///0085.pdf Graphic file (type pdf)
+<use img_math///0085.pdf>
+[11]
+Overfull \vbox (179.95473pt too high) has occurred while \output is active []
+
+
+[12] (./math 301 概率.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.41063pt have occurred.
@@ -1189,12 +1332,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 24825 strings out of 476179
- 574906 string characters out of 5813072
- 912973 words of memory out of 5000000
- 45069 multiletter control sequences out of 15000+600000
+ 24869 strings out of 476179
+ 575894 string characters out of 5813072
+ 919975 words of memory out of 5000000
+ 45109 multiletter control sequences out of 15000+600000
  490046 words of font info for 153 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  102i,24n,122p,436b,456s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on math 301 概率.pdf (7 pages).
+Output written on math 301 概率.pdf (12 pages).

@@ -1,5 +1,4 @@
 - 我latex踩过的坑
-  collapsed:: true
 	- 希腊字母, 不能直接显示. 必须用latex的转义
 	- 像下面这种有大括号"说明"的,  1. 尽量少用在上下标这样的指数的说明上, 会有莫名其妙的报错.  2. 不要写成两行, 否则字体大小会变成大号的, 不会自动缩小.
 		- 对于复杂的公式, 直接拷代码容易出错的, 就用 axmath 导出emf, 
@@ -19,10 +18,11 @@
 		  BoldItalicFont=NotoSerif-BoldItalic.ttf,
 		  ]
 		  ```
-	-
+	- boxed边框里面, 不能用 `\\`换行
 	-
 	-
 - 在axmath中, 完美例题的跨度, 可以在latex中,不用缩放图片, 字体大小也适中.
+  collapsed:: true
 	- ![image.png](../assets/image_1670988188978_0.png)
 -
 - emf 转 svg
