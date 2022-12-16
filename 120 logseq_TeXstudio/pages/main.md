@@ -2,7 +2,7 @@
 	- 希腊字母, 不能直接显示. 必须用latex的转义
 	- 像下面这种有大括号"说明"的,  1. 尽量少用在上下标这样的指数的说明上, 会有莫名其妙的报错.  2. 不要写成两行, 否则字体大小会变成大号的, 不会自动缩小.
 		- 对于复杂的公式, 直接拷代码容易出错的, 就用 axmath 导出emf, 
-		  然后在 https://cloudconvert.com/emf-to-svg 或  https://convertio.co/zh/emf-svg/ 这里变成 svg, 
+		  然后在 https://cloudconvert.com/emf-to-svg 或  https://convertio.co/zh/svg-pdf/ 或 https://convertio.co/zh/emf-svg/ 这里变成 svg, 
 		  再拖到chrome里面, ctrl+p 打印成 pdf, 
 		  再用 acrobat pdf 打开, 剪裁. 再插入 latex里面.
 		- ![image.png](../assets/image_1670565747497_0.png)
