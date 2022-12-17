@@ -223,5 +223,77 @@
 
 
 
+	有红球a个, 黑球b个. 你从中取出一个球, 看到其颜色后, 把它放回, 并同时再放入c个与你看到的颜色相同的球. 	问:  连续3次都是取出红球的概率? \\
+	先设定事件: \\
+	- $A_1$ : 表示你第1次, 取出的是红球 \\
+	- $A_2$ : 表示你第1次, 取出的是红球 \\	
+	- $A_3$ : 表示你第3次, 取出的是红球 \\	
+	
+	\includegraphics[width=0.85\textwidth]{/0094.pdf} \\
+	
+	上面可以看出: \\
+	- 当 c红= 0 时, 就是正常的``放回抽样". \\
+	- 当 c红= -1 时, 就是``不放回抽样". 即把之前步骤中取到的球, 拿走了, 不放回总体中. \\
+	- 当 c红>0 时, 就是本例的``传染病模型".	
+
+
+
+	
+~\\
+\hrule
+~\\
+
+
+	
+	\section{全概率公式}
+	
+	全概率公式 Total Probability Theorem: \\	
+	如果 $A_1, A_2, ..., A_n$ 构成一个``完备事件组", 即: (1) 这些事件两两互不相容,  (2)其``和"(或``并集")为全集 $\Omega$, (3) $P(A_i)>0$. \\
+		
+	则有:
+$\boxed{
+\sum_{\text{i}=1}^{\text{n}}{\ \left[ \text{P}\left( \text{A}_{\text{i}} \right) \cdot \text{P}\left( \text{B|A}_{\text{i}} \right) \right]}=\text{P}\left( \text{B} \right) 
+}
+$ \\
+
+即有: $
+\text{P}\left( \text{B} \right) =\underbrace{\text{P}\left( \text{A}_1 \right) \cdot \text{P}\left( \text{B|A}_1 \right) }+\underbrace{\text{P}\left( \text{A}_2 \right) \cdot \text{P}\left( \text{B|A}_2 \right) }+...+\underbrace{\text{P}\left( \text{A}_{\text{n}} \right) \cdot \text{P}\left( \text{B|A}_{\text{n}} \right) }
+$ \\
+
+	\includegraphics[width=1\textwidth]{/0095.pdf}
+	
+	
+	\begin{myEnvSample}
+		一个工厂, 有4条生产线, 情况如下: \\	
+		\begin{tabular}{|l| l| l| l| l|}
+			\hline
+		 	&  生产线1  & 生产线2  &  生产线3 & 生产线4 \\
+			\hline
+			产量 &  15\% & 20\% & 30\% & 35\% \\
+			\hline
+			不合格率 &  0.05 & 0.04 & 0.03 & 0.02 \\
+			\hline
+		\end{tabular} \\
+	
+	问: 从该工厂的产品中, 任取一件, 是``不合格品"的概率? \\
+	
+	我们先设定事件: \\
+	- $A_1$ : 表示是 生产线1 中的产品 \\
+	- $A_2$ : 表示是 生产线2 中的产品 \\
+	- $A_3$ : 表示是 生产线3 中的产品 \\
+	- $A_4$ : 表示是 生产线4 中的产品 \\
+	- $B$ : 表示是次品 \\
+	
+	那么, 你任取一件为不合格的概率, 不就是整个工厂总的不合格概率么?! 即 =P(B) \\		
+		\begin{align*}
+\text{P}\left( \text{B} \right) 
+	&=\underset{\text{第1条生产线中(的条件下),\ 不合格品的概率}}{\underbrace{\overset{\text{产品属于生产线1的概率}}{\overbrace{\text{P}\left( \text{A}_1 \right) }}\cdot \overset{\text{生产线1中的次品率}}{\overbrace{\text{P}\left( \text{B|A}_1 \right) }}}}+\text{P}\left( \text{A}_2 \right) \cdot \text{P}\left( \text{B|A}_2 \right)  \\
+	& +\text{P}\left( \text{A}_3 \right) \cdot \text{P}\left( \text{B|A}_3 \right) +\text{P}\left( \text{A}_4 \right) \cdot \text{P}\left( \text{B|A}_4 \right)\\
+	&=\text{(15\%}\cdot 0.05\text{)}+\text{(20\%}\cdot 0.04\text{)}+\text{(30\%}\cdot 0.03\text{)}+\text{(35\%}\cdot 0.02\text{)}\\
+	&=0.0315
+		\end{align*}
+	\end{myEnvSample}
+	
+	
 	
 \end{document}

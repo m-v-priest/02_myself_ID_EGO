@@ -217,6 +217,11 @@
 			  cursor.clearSelection()
 			  ```
 		- ![image.png](../assets/image_1670382934918_0.png)
+	- 更改texstudio的默认快捷键, 向 phpstorm看齐
+	  collapsed:: true
+		- phpstorm 的快捷键表
+			- https://blog.csdn.net/qq_48046065/article/details/127145912
+		- ![image.png](../assets/image_1671264420518_0.png)
 	- ### ★自定义环境
 	  background-color:: red
 	  collapsed:: true
