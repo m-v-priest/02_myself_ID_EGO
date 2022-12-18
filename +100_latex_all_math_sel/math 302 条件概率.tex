@@ -294,23 +294,24 @@ $ \\
 	
 	首先, 我们定义事件:  \\
 	- $B_{00}$ : B(bad),  表示前两次取, 都是次品(用0表示) \\
-	- $B_{10}$ : 表示前两次取, 是 一正(用1表示), 一次(用0表示) \\
+	- $B_{10}$ : 表示前两次取, 是 一正(用1表示), 一次(用0表示). 至于顺序是``正,次" 还是``次,正", 都行 \\
 	- $B_{11}$ : 表示前两次取, 都是正品 \\
 	- $G_{xx3}$ : G(good),  表示第三次取, 是正品 \\
 	
 	那么, 第3次取到正品 $P(G_{xx3})$ 的情况, 就有这3种可能性: \\
-	\begin{tabular}{|l|l|l|l|}
-		\hline
-		& 第1次取到           & 第2次取到 & 第3次取到  \\
-		\hline
-		情况1 : & 次 & 次     & 正      \\
-		\hline
-		情况2 : & 次               & 正     & 正      \\
-		\hline
-		情况3 : & 正               & 正     & 正       \\
-		\hline
-	\end{tabular}
-
+	- (第1次取到)次, (第2次取到)次, (第4次取到)正.  \\
+	即 → $=
+	\underset{\text{前两次取到次品}}{\underbrace{\text{P}\left( \text{B}_{00} \right) }}\cdot \underset{\text{在前两次取到次品的条件下,\ 第3次取到正品}}{\underbrace{\text{P}\left( \text{G}_{\text{xx}3}\ |\text{B}_{00} \right) }}
+	$ \\
+	- 次,正,正.  即 → $=
+	\text{P}\left( \text{B}_{10} \right) \cdot \text{P}\left( \text{G}_{\text{xx}3}\ |\text{B}_{10} \right) 
+	$ \\
+	- 正,正,正. 即 →  $=
+	\text{P}\left( \text{B}_{11} \right) \cdot \text{P}\left( \text{G}_{\text{xx}3}\ |\text{B}_{11} \right) 
+	$\\
+	
+	上面这三种可能性并存, 就是``和"(并集)的概念. 用加法: \\
+	
 	
 	
 
