@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.5)  15 DEC 2022 19:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.5)  17 DEC 2022 19:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -852,7 +852,30 @@ Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
 \SOUL@ttwidth=\dimen292
 \SOUL@uldp=\dimen293
 \SOUL@ulht=\dimen294
+)
+(c:/texlive/2022/texmf-dist/tex/latex/tcolorbox/tcbbreakable.code.tex
+Library (tcolorbox): 'tcbbreakable.code.tex' version '5.0.2'
+(c:/texlive/2022/texmf-dist/tex/generic/oberdiek/pdfcol.sty
+Package: pdfcol 2019/12/29 v1.6 Handle new color stacks for pdfTeX (HO)
+
+(c:/texlive/2022/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(c:/texlive/2022/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 ))
+Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
+\tcb@testbox=\box136
+\tcb@totalupperbox=\box137
+\tcb@totallowerbox=\box138
+)
+(c:/texlive/2022/texmf-dist/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count342
+\l__lipsum_a_int=\count343
+\l__lipsum_b_int=\count344
+
+(c:/texlive/2022/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)))
 (c:/texlive/2022/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg
 File: UTF8.bdg 2021/10/16 4.8.5
 )
@@ -953,16 +976,16 @@ LaTeX Font Info:    ... okay on input line 15.
 
 (c:/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count342
+\scratchcounter=\count345
 \scratchdimen=\dimen295
-\scratchbox=\box136
-\nofMPsegments=\count343
-\nofMParguments=\count344
+\scratchbox=\box139
+\nofMPsegments=\count346
+\nofMParguments=\count347
 \everyMPshowfont=\toks53
-\MPscratchCnt=\count345
+\MPscratchCnt=\count348
 \MPscratchDim=\dimen296
-\MPnumerator=\count346
-\makeMPintoPDFobject=\count347
+\MPnumerator=\count349
+\makeMPintoPDFobject=\count350
 \everyMPtoPDFconversion=\toks54
 ) (c:/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -1171,142 +1194,126 @@ Underfull \hbox (badness 10000) in paragraph at lines 276--277
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 286--287
+Underfull \hbox (badness 10000) in paragraph at lines 301--302
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 288--289
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 303--304
-
- []
-
-[5]
-<img_math///0069.png, id=208, 441.14813pt x 300.3722pt>
+<img_math///0069.png, id=193, 441.14813pt x 300.3722pt>
 File: img_math///0069.png Graphic file (type png)
 <use img_math///0069.png>
-Package pdftex.def Info: img_math///0069.png  used on input line 305.
+Package pdftex.def Info: img_math///0069.png  used on input line 303.
 (pdftex.def)             Requested size: 256.07741pt x 174.36723pt.
-<img_math///0076.pdf, id=209, 343.77164pt x 159.5792pt>
+<img_math///0076.pdf, id=194, 343.77164pt x 159.5792pt>
 File: img_math///0076.pdf Graphic file (type pdf)
 <use img_math///0076.pdf>
-Package pdftex.def Info: img_math///0076.pdf  used on input line 309.
+Package pdftex.def Info: img_math///0076.pdf  used on input line 307.
 (pdftex.def)             Requested size: 356.60516pt x 165.5445pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 309--310
+Underfull \hbox (badness 10000) in paragraph at lines 307--308
 
  []
 
-<img_math///0077.pdf, id=210, 183.87296pt x 90.5241pt>
+<img_math///0077.pdf, id=195, 183.87296pt x 90.5241pt>
 File: img_math///0077.pdf Graphic file (type pdf)
 <use img_math///0077.pdf>
-Package pdftex.def Info: img_math///0077.pdf  used on input line 311.
+Package pdftex.def Info: img_math///0077.pdf  used on input line 309.
 (pdftex.def)             Requested size: 198.11533pt x 97.54216pt.
-<img_math///0079.pdf, id=211, 256.43925pt x 170.69472pt>
+[5]
+<img_math///0079.pdf, id=213, 256.43925pt x 170.69472pt>
 File: img_math///0079.pdf Graphic file (type pdf)
 <use img_math///0079.pdf>
-Package pdftex.def Info: img_math///0079.pdf  used on input line 316.
+Package pdftex.def Info: img_math///0079.pdf  used on input line 314.
 (pdftex.def)             Requested size: 257.5475pt x 171.43138pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 316--317
+Underfull \hbox (badness 10000) in paragraph at lines 314--315
 
  []
 
-<img_math///0078.pdf, id=212, 219.13066pt x 105.01735pt>
+<img_math///0078.pdf, id=214, 219.13066pt x 105.01735pt>
 File: img_math///0078.pdf Graphic file (type pdf)
 <use img_math///0078.pdf>
-Package pdftex.def Info: img_math///0078.pdf  used on input line 318.
+Package pdftex.def Info: img_math///0078.pdf  used on input line 316.
 (pdftex.def)             Requested size: 237.7408pt x 113.93782pt.
 [6 <./img_math///0069.png (PNG copy)> <./img_math///0076.pdf> <./img_math///007
-7.pdf>]
-<img_math///0070.pdf, id=247, 304.84921pt x 264.11472pt>
+7.pdf> <./img_math///0079.pdf>]
+<img_math///0070.pdf, id=252, 304.84921pt x 264.11472pt>
 File: img_math///0070.pdf Graphic file (type pdf)
 <use img_math///0070.pdf>
-Package pdftex.def Info: img_math///0070.pdf  used on input line 324.
+Package pdftex.def Info: img_math///0070.pdf  used on input line 322.
 (pdftex.def)             Requested size: 85.35696pt x 73.9516pt.
-<img_math///0071.pdf, id=248, 340.00082pt x 146.8406pt>
+<img_math///0071.pdf, id=253, 340.00082pt x 146.8406pt>
 File: img_math///0071.pdf Graphic file (type pdf)
 <use img_math///0071.pdf>
-Package pdftex.def Info: img_math///0071.pdf  used on input line 331.
+Package pdftex.def Info: img_math///0071.pdf  used on input line 329.
 (pdftex.def)             Requested size: 170.71393pt x 73.73155pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 331--332
+Underfull \hbox (badness 10000) in paragraph at lines 329--330
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 342--345
+Underfull \hbox (badness 10000) in paragraph at lines 340--343
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 348--351
+Underfull \hbox (badness 10000) in paragraph at lines 346--349
 
  []
 
-<img_math///0073.pdf, id=249, 379.74823pt x 268.05746pt>
+<img_math///0073.pdf, id=254, 379.74823pt x 268.05746pt>
 File: img_math///0073.pdf Graphic file (type pdf)
 <use img_math///0073.pdf>
-Package pdftex.def Info: img_math///0073.pdf  used on input line 352.
+Package pdftex.def Info: img_math///0073.pdf  used on input line 350.
 (pdftex.def)             Requested size: 138.68314pt x 97.89537pt.
-[7 <./img_math///0079.pdf> <./img_math///0078.pdf> <./img_math///0070.pdf> <./i
-mg_math///0071.pdf>]
-<img_math///0072.pdf, id=298, 318.50331pt x 352.88637pt>
+<img_math///0072.pdf, id=255, 318.50331pt x 352.88637pt>
 File: img_math///0072.pdf Graphic file (type pdf)
 <use img_math///0072.pdf>
-Package pdftex.def Info: img_math///0072.pdf  used on input line 361.
+Package pdftex.def Info: img_math///0072.pdf  used on input line 359.
 (pdftex.def)             Requested size: 128.0387pt x 141.85742pt.
-
-Overfull \hbox (20.26245pt too wide) detected at line 367
+[7 <./img_math///0078.pdf> <./img_math///0070.pdf> <./img_math///0071.pdf> <./i
+mg_math///0073.pdf>]
+Overfull \hbox (20.26245pt too wide) detected at line 365
 []
  []
 
-<img_math///0074.pdf, id=299, 372.35231pt x 202.45137pt>
+<img_math///0074.pdf, id=311, 372.35231pt x 202.45137pt>
 File: img_math///0074.pdf Graphic file (type pdf)
 <use img_math///0074.pdf>
-Package pdftex.def Info: img_math///0074.pdf  used on input line 371.
+Package pdftex.def Info: img_math///0074.pdf  used on input line 369.
 (pdftex.def)             Requested size: 396.23065pt x 215.43767pt.
-[8 <./img_math///0073.pdf> <./img_math///0072.pdf>]
-<img_math///0075.pdf, id=327, 304.07523pt x 130.99841pt>
+<img_math///0075.pdf, id=312, 304.07523pt x 130.99841pt>
 File: img_math///0075.pdf Graphic file (type pdf)
 <use img_math///0075.pdf>
-Package pdftex.def Info: img_math///0075.pdf  used on input line 375.
+Package pdftex.def Info: img_math///0075.pdf  used on input line 373.
 (pdftex.def)             Requested size: 324.91203pt x 139.979pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 377--378
+
+ []
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 379--380
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 381--382
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 391--392
+[8 <./img_math///0072.pdf> <./img_math///0074.pdf> <./img_math///0075.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 389--390
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 398--401
+Underfull \hbox (badness 10000) in paragraph at lines 396--399
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 409--410
+Underfull \hbox (badness 10000) in paragraph at lines 407--408
 
  []
 
 
-Overfull \vbox (3.56145pt too high) has occurred while \output is active []
-
-
-[9 <./img_math///0074.pdf> <./img_math///0075.pdf>]
-Underfull \hbox (badness 1715) in paragraph at lines 425--426
+Underfull \hbox (badness 1715) in paragraph at lines 423--424
 []\C70/rm/m/n/10.53937/67 	 \OT1/cmr/m/n/10.53937 a\C70/rm/m/n/10.53937/4e * \C
 70/rm/m/n/10.53937/76 }\OT1/cmr/m/n/10.53937 , b\C70/rm/m/n/10.53937/4e * \C70/
 rm/m/n/10.53937/9e Ñ\OT1/cmr/m/n/10.53937 , \C70/rm/m/n/10.53937/95 î\OT1/cmr/m
@@ -1321,32 +1328,41 @@ rm/m/n/10.53937/9e Ñ\OT1/cmr/m/n/10.53937 , \C70/rm/m/n/10.53937/95 î\OT1/cmr/m
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 425--426
+Underfull \hbox (badness 10000) in paragraph at lines 423--424
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--431
+Underfull \hbox (badness 10000) in paragraph at lines 427--429
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 432--434
+Underfull \hbox (badness 10000) in paragraph at lines 430--432
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--441
+Underfull \hbox (badness 10000) in paragraph at lines 436--439
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--441
+Underfull \hbox (badness 10000) in paragraph at lines 436--439
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 442--443
+Underfull \hbox (badness 10000) in paragraph at lines 440--441
+
+ []
+
+
+Overfull \vbox (3.56145pt too high) has occurred while \output is active []
+
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 449--450
 
  []
 
@@ -1356,115 +1372,100 @@ Underfull \hbox (badness 10000) in paragraph at lines 451--452
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 453--454
+Underfull \hbox (badness 10000) in paragraph at lines 464--465
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--467
+Underfull \hbox (badness 10000) in paragraph at lines 468--471
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 470--473
+Underfull \hbox (badness 10000) in paragraph at lines 472--475
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 474--477
-
- []
-
-<img_math///0083.pdf, id=354, 368.37625pt x 278.03876pt>
+<img_math///0083.pdf, id=356, 368.37625pt x 278.03876pt>
 File: img_math///0083.pdf Graphic file (type pdf)
 <use img_math///0083.pdf>
-Package pdftex.def Info: img_math///0083.pdf  used on input line 479.
+Package pdftex.def Info: img_math///0083.pdf  used on input line 477.
 (pdftex.def)             Requested size: 356.60516pt x 269.15422pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 478--480
+Underfull \hbox (badness 10000) in paragraph at lines 476--478
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 481--482
+Underfull \hbox (badness 10000) in paragraph at lines 479--480
 
  []
 
-[10] [11 <./img_math///0083.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 493--495
+[10 <./img_math///0083.pdf>] [11]
+Underfull \hbox (badness 10000) in paragraph at lines 491--493
 
  []
 
 <img_math///0086.pdf, id=367, 227.45578pt x 91.27058pt>
 File: img_math///0086.pdf Graphic file (type pdf)
 <use img_math///0086.pdf>
-Package pdftex.def Info: img_math///0086.pdf  used on input line 496.
+Package pdftex.def Info: img_math///0086.pdf  used on input line 494.
 (pdftex.def)             Requested size: 237.7408pt x 95.39822pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 496--497
+Underfull \hbox (badness 10000) in paragraph at lines 494--495
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 500--504
+Underfull \hbox (badness 10000) in paragraph at lines 498--502
 
  []
 
 <img_math///0084.pdf, id=368, 281.05031pt x 68.27809pt>
 File: img_math///0084.pdf Graphic file (type pdf)
 <use img_math///0084.pdf>
-Package pdftex.def Info: img_math///0084.pdf  used on input line 506.
+Package pdftex.def Info: img_math///0084.pdf  used on input line 504.
 (pdftex.def)             Requested size: 341.43437pt x 82.9522pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 505--507
+Underfull \hbox (badness 10000) in paragraph at lines 503--505
 
  []
 
 <img_math///0085.pdf, id=370, 349.32837pt x 400.93388pt>
 File: img_math///0085.pdf Graphic file (type pdf)
 <use img_math///0085.pdf>
-Package pdftex.def Info: img_math///0085.pdf  used on input line 510.
+Package pdftex.def Info: img_math///0085.pdf  used on input line 508.
 (pdftex.def)             Requested size: 413.98813pt x 475.16568pt.
 [12 <./img_math///0086.pdf> <./img_math///0084.pdf>]
 <img_math///0087.pdf, id=397, 136.95265pt x 95.35715pt>
 File: img_math///0087.pdf Graphic file (type pdf)
 <use img_math///0087.pdf>
-Package pdftex.def Info: img_math///0087.pdf  used on input line 512.
+Package pdftex.def Info: img_math///0087.pdf  used on input line 510.
 (pdftex.def)             Requested size: 341.43437pt x 237.75786pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 519--525
+Underfull \hbox (badness 10000) in paragraph at lines 517--523
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 519--525
+Underfull \hbox (badness 10000) in paragraph at lines 517--523
 
  []
 
 [13 <./img_math///0085.pdf> <./img_math///0087.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 526--531
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 536--537
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 538--539
+Underfull \hbox (badness 10000) in paragraph at lines 524--529
 
  []
 
 [14] (./math 301 æ¦‚çŽ‡.aux) ) 
 Here is how much of TeX's memory you used:
- 24895 strings out of 478268
- 503428 string characters out of 5850345
- 776030 words of memory out of 5000000
- 42146 multiletter control sequences out of 15000+600000
+ 25826 strings out of 478268
+ 525253 string characters out of 5850345
+ 884958 words of memory out of 5000000
+ 43051 multiletter control sequences out of 15000+600000
  580631 words of font info for 435 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,27n,105p,702b,486s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,27n,105p,702b,1036s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/si
 msun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/
 Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/
@@ -1530,9 +1531,9 @@ exmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb><c:/texlive/2022/texmf-dist
 pe1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmsy8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/
 sfrm1000.pfb>
-Output written on "math 301 æ¦‚çŽ‡.pdf" (14 pages, 1862012 bytes).
+Output written on "math 301 æ¦‚çŽ‡.pdf" (14 pages, 1860991 bytes).
 PDF statistics:
- 877 PDF objects out of 1000 (max. 8388607)
+ 875 PDF objects out of 1000 (max. 8388607)
  574 compressed objects within 6 object streams
  0 named destinations out of 1000 (max. 500000)
  377 words of extra memory for PDF output out of 10000 (max. 10000000)

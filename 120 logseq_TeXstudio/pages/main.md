@@ -20,6 +20,57 @@
 		  ```
 	- boxed边框里面, 不能用 `\\`换行
 	-
+- 在线latex表格 : https://www.latex-tables.com/#
+  background-color:: blue
+  collapsed:: true
+	- ### **在线生成LaTex表格网站**
+	- `https://www.latex-tables.com/#`
+	- ###   效果展示
+	  
+	  ![在这里插入图片描述](https://img-blog.csdnimg.cn/52b96ac80bd4448b850dd782e30ad5af.png#pic_center)
+	- ###   教程细节
+	- ####  第一步：在Excel中画好自己的表格
+	  
+	  例如我想得到上面的效果展示图，很明显有各种单元格的合并和对齐。那么我首先就要在Excel中做好这些。Excel表中的原始数据如下图所示
+	  
+	  ![在这里插入图片描述](https://img-blog.csdnimg.cn/d30b3e47ce3847ef9e2c6482ac3a4673.png#pic_center)
+	- ####  第二步：打开在线网站，将Excel数据上传导入
+	  
+	  如下操作图所示
+	  ![在这里插入图片描述](https://img-blog.csdnimg.cn/44123c003bca4608bd09d9b59ccb6a6e.png#pic_center)
+	  
+	  然后我们就会得到下面所示的上传之后的初始图
+	  
+	  ![在这里插入图片描述](https://img-blog.csdnimg.cn/d9b626d663cb471c944984ff1b7de815.png#pic_center)
+	- ####  第三步：调整格式
+	  
+	  > 
+	  
+	  我们看到初始图对齐方式不对，而且没有边框。所以我们需要对上传之后的原始图调整格式。这个过程也是特别简单，只需要使用控件进行控制。具体操作如下所示
+	- #####  首先调整对齐方式
+	- 选中所有，然后点击`Align Center`，就可以让全部居中，然后第一列，也就是`Models`这一列应该是左对齐，做法是类似的。
+	  
+	  ![在这里插入图片描述](https://img-blog.csdnimg.cn/265fd02c8a664271812eaef3716033bb.png#pic_center)
+	  
+	  将`Models`[左对齐](https://so.csdn.net/so/search?q=%E5%B7%A6%E5%AF%B9%E9%BD%90&spm=1001.2101.3001.7020)之后并且可以在上面加上这个`Table`的`caption`得到的效果图如下。
+	  
+	  ![在这里插入图片描述](https://img-blog.csdnimg.cn/40ffa1f7d22d41f8a3afae5c6d0f3fb4.png#pic_center)
+	- #####  然后调整边框
+	- 这一步也很方便，直接用鼠标点击画笔进行描线即可，如下图所示。
+	- 按照自己的需求画边框即可，
+	  
+	  ![在这里插入图片描述](https://img-blog.csdnimg.cn/3358b52a8a6b4c2c8cee2f43c4cf6110.png#pic_center)
+	- 在线表格最终效果如下图
+	  
+	  ![在这里插入图片描述](https://img-blog.csdnimg.cn/aa572288460543d3806da27cf21cee3e.png#pic_center)
+	- #####  最后生成LaTeX公式
+	  
+	  > 
+	  
+	  画好边框之后，我们就得到了最终的效果图。然后只需要生成LaTeX公式即可
+	- 直接点击`Generate`按钮，然后就得到了表格对应的LaTeX代码。我们将其复制并写入自己的Tex源文件中，完结撒花！o(*￣▽￣*)ブ
+	  
+	  ![在这里插入图片描述](https://img-blog.csdnimg.cn/d24b3baad62c45e5b55fe1d74274fcf9.png#pic_center)
 	-
 - 在axmath中, 完美例题的跨度, 可以在latex中,不用缩放图片, 字体大小也适中.
   collapsed:: true
@@ -207,7 +258,6 @@
 		- 然后, 你就可以输入 `\你自定义的缩写` 来输入该代码片段了
 	- ### 自定义快捷键
 	  background-color:: red
-	  collapsed:: true
 		- 将 ctrl+u, 作为给选中的文本添加"下划线"的快捷键. 注意, 使用时, 要先按 ctrl+m后, 再接着按 ctrl+u 才能生效
 			- 在宏里面编辑脚本
 			- ```
@@ -218,7 +268,6 @@
 			  ```
 		- ![image.png](../assets/image_1670382934918_0.png)
 	- 更改texstudio的默认快捷键, 向 phpstorm看齐
-	  collapsed:: true
 		- phpstorm 的快捷键表
 			- https://blog.csdn.net/qq_48046065/article/details/127145912
 		- ![image.png](../assets/image_1671264420518_0.png)
@@ -894,8 +943,11 @@
 	-
 	- ### 彩色文本框, 可做引用
 	  background-color:: red
+	  collapsed:: true
 		- 我常用的两种样式
 			- ```
+			  \tcbuselibrary{breakable} % 让下面的 tcolorbox 支持跨页
+			  \tcbuselibrary{skins} % 让tcolorbox的跨页, 能去掉跨页中间的上下黑线
 			  \usepackage[skins]{tcolorbox} % 导入该包, 才能支持彩色文本框效果.  必须标注skin，才能使用shadow命令显示阴影
 			  
 			  --------------
@@ -907,7 +959,7 @@
 			  %colbacktitle={color}	即color of title background，标题的背景颜色。
 			  %boxrule={length}	设置边框的厚度
 			  
-			  \begin{tcolorbox}[title = {你的标题内容},boxrule={0.1em},colframe={black!10}, colback={white},colbacktitle={black!10},coltitle={black}]
+			  \begin{tcolorbox}[title = {你的标题内容},boxrule={0.1em},colframe={black!10}, colback={white},colbacktitle={black!10},coltitle={black},breakable,enhanced jigsaw]
 			  	上
 			  	\tcblower
 			  	下
@@ -915,7 +967,7 @@
 			  
 			  
 			  
-			  \begin{tcolorbox}[title = {你的标题内容},boxrule={0.1em},colframe={black!10}, colback={black!3},colbacktitle={black!10},coltitle={black}]
+			  \begin{tcolorbox}[title = {你的标题内容},boxrule={0.1em},colframe={black!10}, colback={black!3},colbacktitle={black!10},coltitle={black},breakable,enhanced jigsaw]
 			  	上
 			  	\tcblower
 			  	下
@@ -1240,6 +1292,13 @@
 		-
 	-
 	-
--
+- 乱数假文
+	- ```
+	  \usepackage{lipsum} % 该包能让你能输入乱数假文段落
+	  
+	  -----------
+	   \lipsum[1-5]  % 这一行用以生成一段以“Lorem ipsum”开头的无意义文字的第一至第五自然段
+	  
+	  ```
 -
 -

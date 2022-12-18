@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.5)  10 DEC 2022 16:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.5)  17 DEC 2022 19:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -852,7 +852,30 @@ Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
 \SOUL@ttwidth=\dimen292
 \SOUL@uldp=\dimen293
 \SOUL@ulht=\dimen294
+)
+(c:/texlive/2022/texmf-dist/tex/latex/tcolorbox/tcbbreakable.code.tex
+Library (tcolorbox): 'tcbbreakable.code.tex' version '5.0.2'
+(c:/texlive/2022/texmf-dist/tex/generic/oberdiek/pdfcol.sty
+Package: pdfcol 2019/12/29 v1.6 Handle new color stacks for pdfTeX (HO)
+
+(c:/texlive/2022/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(c:/texlive/2022/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 ))
+Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
+\tcb@testbox=\box136
+\tcb@totalupperbox=\box137
+\tcb@totallowerbox=\box138
+)
+(c:/texlive/2022/texmf-dist/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count342
+\l__lipsum_a_int=\count343
+\l__lipsum_b_int=\count344
+
+(c:/texlive/2022/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)))
 (c:/texlive/2022/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg
 File: UTF8.bdg 2021/10/16 4.8.5
 )
@@ -954,16 +977,16 @@ LaTeX Font Info:    ... okay on input line 16.
 
 (c:/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count342
+\scratchcounter=\count345
 \scratchdimen=\dimen295
-\scratchbox=\box136
-\nofMPsegments=\count343
-\nofMParguments=\count344
+\scratchbox=\box139
+\nofMPsegments=\count346
+\nofMParguments=\count347
 \everyMPshowfont=\toks53
-\MPscratchCnt=\count345
+\MPscratchCnt=\count348
 \MPscratchDim=\dimen296
-\MPnumerator=\count346
-\makeMPintoPDFobject=\count347
+\MPnumerator=\count349
+\makeMPintoPDFobject=\count350
 \everyMPtoPDFconversion=\toks54
 ) (c:/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -1077,52 +1100,46 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--44
 Package CJKpunct Info: use punctuation spaces for family 'rm' with punctstyle (
 quanjiao) on input line 47.
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--51
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 52--53
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 58--59
-
- []
-
+<img_math///0038.pdf, id=70, 370.96944pt x 161.1089pt>
+File: img_math///0038.pdf Graphic file (type pdf)
+<use img_math///0038.pdf>
+Package pdftex.def Info: img_math///0038.pdf  used on input line 58.
+(pdftex.def)             Requested size: 426.79135pt x 185.3672pt.
 [2 <./img_math///0036.pdf> <./img_math///0037.pdf
 
 pdfTeX warning: pdflatex.exe (file ./img_math///0037.pdf): PDF inclusion: multi
 ple pdfs with page group included in a single page
 >]
-<img_math///0038.pdf, id=162, 370.96944pt x 161.1089pt>
-File: img_math///0038.pdf Graphic file (type pdf)
-<use img_math///0038.pdf>
-Package pdftex.def Info: img_math///0038.pdf  used on input line 60.
-(pdftex.def)             Requested size: 426.79135pt x 185.3672pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 65--66
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
 
  []
 
 
-Overfull \hbox (29.72707pt too wide) in paragraph at lines 75--76
+Overfull \hbox (29.72707pt too wide) in paragraph at lines 73--74
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--76
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 83--84
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
 
  []
 
@@ -1132,60 +1149,55 @@ Underfull \hbox (badness 10000) in paragraph at lines 89--90
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--92
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--106
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--114
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 119--120
-
- []
-
-<img_math///0039.pdf, id=174, 357.50464pt x 98.42973pt>
+<img_math///0039.pdf, id=176, 357.50464pt x 98.42973pt>
 File: img_math///0039.pdf Graphic file (type pdf)
 <use img_math///0039.pdf>
-Package pdftex.def Info: img_math///0039.pdf  used on input line 127.
+Package pdftex.def Info: img_math///0039.pdf  used on input line 125.
 (pdftex.def)             Requested size: 396.23065pt x 109.09306pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--130
+Underfull \hbox (badness 10000) in paragraph at lines 127--128
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 131--133
+Underfull \hbox (badness 10000) in paragraph at lines 129--131
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--135
+Underfull \hbox (badness 10000) in paragraph at lines 132--133
 
  []
 
-<img_math///0040.pdf, id=175, 433.62pt x 150.5625pt>
+<img_math///0040.pdf, id=177, 433.62pt x 150.5625pt>
 File: img_math///0040.pdf Graphic file (type pdf)
 <use img_math///0040.pdf>
-Package pdftex.def Info: img_math///0040.pdf  used on input line 136.
+Package pdftex.def Info: img_math///0040.pdf  used on input line 134.
 (pdftex.def)             Requested size: 237.7408pt x 82.55002pt.
 [3 <./img_math///0038.pdf>] [4 <./img_math///0039.pdf> <./img_math///0040.pdf>]
 (./math_13 泰勒公式.aux) ) 
 Here is how much of TeX's memory you used:
- 23894 strings out of 478268
- 487608 string characters out of 5850345
- 772059 words of memory out of 5000000
- 41400 multiletter control sequences out of 15000+600000
+ 24824 strings out of 478268
+ 509447 string characters out of 5850345
+ 878476 words of memory out of 5000000
+ 42307 multiletter control sequences out of 15000+600000
  521871 words of font info for 218 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,16n,105p,707b,483s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,15n,105p,707b,1034s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/si
 msun.ttc>{c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}
 <c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/sim
@@ -1232,7 +1244,7 @@ blic/amsfonts/cm/cmr7.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cms
 y5.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:
 /texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on "math_13 泰勒公式.pdf" (4 pages, 837631 bytes).
+Output written on "math_13 泰勒公式.pdf" (4 pages, 837982 bytes).
 PDF statistics:
  579 PDF objects out of 1000 (max. 8388607)
  374 compressed objects within 4 object streams

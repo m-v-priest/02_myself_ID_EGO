@@ -89,10 +89,7 @@
 	\end{myEnvSample}
 	
 	
-	~\\
-	\hrule
-	~\\
-	
+
 	
 	\section{条件概率的性质}
 	
@@ -108,17 +105,16 @@
 	
 	\subsection{性质: $	\text{P}\left( \text{A\ |B} \right) =1-\text{P}\left( \overline{\text{A}}\ |\text{B} \right) 	$}
 	
-	\subsection{性质: 可列可加性:  若$ A_1, A_2, ... A_n, ...$ 是``互不相容"的事件, 则有: $ P(\sum_{i=1}^\infty A_i | B) = \sum_{i=1}^ \infty P(A_i | B)$ ← 即: ``和的概率", 等于``概率的和"}
+	\subsection{性质: 可列可加性:  若$ A_1, A_2, ... A_n, ...$ 是``互不相容"的事件, 则有: $ P(\sum_{i=1}^\infty A_i | B) = \sum_{i=1}^ \infty P(A_i | B)$ ← 即: ``和的概率", 等于``概率的和"} 
 	
 	
 	
 	
-	~\\
-	\hrule
-	~\\
 	
 	
-	\section{``条件概率"的乘法公式 : $ P(\text{前后})=P(\text{后}) \cdot P(\text{前}|\text{\text{后}}) = P(\text{\text{前}}) \cdot P(\text{后}|\text{前})$}
+	
+	\section{``条件概率"的乘法公式 : $ \boxed{			
+		P(\text{前后})=P(\text{后}) \cdot P(\text{前}|\text{\text{后}}) = P(\text{\text{前}}) \cdot P(\text{后}|\text{前})}$}
 
 	推导过程: \\
 	\includegraphics[width=0.8\textwidth]{/0090.pdf} \\
@@ -214,15 +210,12 @@
 
 
 
-~\\
-\hrule
-~\\
 
 
 \section{传染病模型}
 
 
-
+\begin{myEnvSample}
 	有红球a个, 黑球b个. 你从中取出一个球, 看到其颜色后, 把它放回, 并同时再放入c个与你看到的颜色相同的球. 	问:  连续3次都是取出红球的概率? \\
 	先设定事件: \\
 	- $A_1$ : 表示你第1次, 取出的是红球 \\
@@ -235,14 +228,13 @@
 	- 当 c红= 0 时, 就是正常的``放回抽样". \\
 	- 当 c红= -1 时, 就是``不放回抽样". 即把之前步骤中取到的球, 拿走了, 不放回总体中. \\
 	- 当 c红>0 时, 就是本例的``传染病模型".	
+\end{myEnvSample}
 
 
 
-	
 ~\\
 \hrule
 ~\\
-
 
 	
 	\section{全概率公式}
@@ -293,6 +285,51 @@ $ \\
 	&=0.0315
 		\end{align*}
 	\end{myEnvSample}
+
+
+
+\begin{myEnvSample}
+	有10台机器人, 3台是次品. 已经卖出去了2台(是正品还是次品未知). \\
+	问: 再取1台, 是正品的概率? \\
+	
+	首先, 我们定义事件:  \\
+	- $B_{00}$ : B(bad),  表示前两次取, 都是次品(用0表示) \\
+	- $B_{10}$ : 表示前两次取, 是 一正(用1表示), 一次(用0表示) \\
+	- $B_{11}$ : 表示前两次取, 都是正品 \\
+	- $G_{xx3}$ : G(good),  表示第三次取, 是正品 \\
+	
+	那么, 第3次取到正品 $P(G_{xx3})$ 的情况, 就有这3种可能性: \\
+	\begin{tabular}{|l|l|l|l|}
+		\hline
+		& 第1次取到           & 第2次取到 & 第3次取到  \\
+		\hline
+		情况1 : & 次 & 次     & 正      \\
+		\hline
+		情况2 : & 次               & 正     & 正      \\
+		\hline
+		情况3 : & 正               & 正     & 正       \\
+		\hline
+	\end{tabular}
+
+	
+	
+
+
+\end{myEnvSample}
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
 	
 	
 	

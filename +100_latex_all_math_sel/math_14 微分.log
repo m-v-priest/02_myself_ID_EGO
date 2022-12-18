@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.5)  11 DEC 2022 19:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.5)  17 DEC 2022 19:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -852,7 +852,30 @@ Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
 \SOUL@ttwidth=\dimen292
 \SOUL@uldp=\dimen293
 \SOUL@ulht=\dimen294
+)
+(c:/texlive/2022/texmf-dist/tex/latex/tcolorbox/tcbbreakable.code.tex
+Library (tcolorbox): 'tcbbreakable.code.tex' version '5.0.2'
+(c:/texlive/2022/texmf-dist/tex/generic/oberdiek/pdfcol.sty
+Package: pdfcol 2019/12/29 v1.6 Handle new color stacks for pdfTeX (HO)
+
+(c:/texlive/2022/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(c:/texlive/2022/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 ))
+Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
+\tcb@testbox=\box136
+\tcb@totalupperbox=\box137
+\tcb@totallowerbox=\box138
+)
+(c:/texlive/2022/texmf-dist/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count342
+\l__lipsum_a_int=\count343
+\l__lipsum_b_int=\count344
+
+(c:/texlive/2022/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)))
 (c:/texlive/2022/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg
 File: UTF8.bdg 2021/10/16 4.8.5
 )
@@ -953,16 +976,16 @@ LaTeX Font Info:    ... okay on input line 15.
 
 (c:/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count342
+\scratchcounter=\count345
 \scratchdimen=\dimen295
-\scratchbox=\box136
-\nofMPsegments=\count343
-\nofMParguments=\count344
+\scratchbox=\box139
+\nofMPsegments=\count346
+\nofMParguments=\count347
 \everyMPshowfont=\toks53
-\MPscratchCnt=\count345
+\MPscratchCnt=\count348
 \MPscratchDim=\dimen296
-\MPnumerator=\count346
-\makeMPintoPDFobject=\count347
+\MPnumerator=\count349
+\makeMPintoPDFobject=\count350
 \everyMPtoPDFconversion=\toks54
 ) (c:/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -1293,13 +1316,13 @@ Package pdftex.def Info: img_math///0054.pdf  used on input line 290.
 (pdftex.def)             Requested size: 170.71393pt x 109.28319pt.
 [8 <./img_math///0053.pdf> <./img_math///0054.pdf>] (./math_14 微分.aux) ) 
 Here is how much of TeX's memory you used:
- 24649 strings out of 478268
- 499734 string characters out of 5850345
- 770026 words of memory out of 5000000
- 41946 multiletter control sequences out of 15000+600000
+ 25574 strings out of 478268
+ 521450 string characters out of 5850345
+ 880897 words of memory out of 5000000
+ 42848 multiletter control sequences out of 15000+600000
  564267 words of font info for 375 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,31n,105p,701b,483s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,30n,105p,701b,1034s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:
 /Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun
 .ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Font
@@ -1366,7 +1389,7 @@ exlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/20
 22/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb><c:/texlive/2022/texmf-d
 ist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2022/texmf-dist/fonts/
 type1/public/cm-super/sfrm1000.pfb>
-Output written on "math_14 微分.pdf" (8 pages, 1507637 bytes).
+Output written on "math_14 微分.pdf" (8 pages, 1508199 bytes).
 PDF statistics:
  898 PDF objects out of 1000 (max. 8388607)
  586 compressed objects within 6 object streams
