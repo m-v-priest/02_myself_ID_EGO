@@ -26,11 +26,11 @@
 	条件概率是: 有A, B 两个事件, 和样本空间 Ω. 其中 $P(B) >0$, 则, 在B已经发生的条件下, A发生的概率, 就叫做A对B 的``条件概率". 记作:  P(A| 条件B), 读作``在B发生的条件下, A发生的概率”. \\
 	
 	即, 条件概率公式是: $
-	\text{P}\left( \text{A|\ 条件B} \right) =\dfrac{\overset{\text{这个分子即:\ AB同时发生了}}{\overbrace{\text{在B发生条件下,A发生的样本点数}}}}{\text{B里面有多少个样本点}}=\dfrac{\text{n}_{\text{AB}}}{\text{n}_{\text{B}}}
+	P(A \ | condition B) =\dfrac{\overset{\text{这个分子即:\ AB同时发生了}}{\overbrace{\text{在B发生条件下,A发生的样本点数}}}}{\text{B里面有多少个样本点}}=\dfrac{\text{n}_{\text{AB}}}{\text{n}_{\text{B}}}
 	$ \\
 	
 	还可写成:  $
-	\text{P}\left( \text{A|\ 条件B} \right) 
+	P(A \ | condition B) 
 	=\dfrac{\text{P}\left( \text{A}\cap \text{B} \right)}{\text{P}\left( \text{B} \right)}
 	=\dfrac{\frac{\text{n}_{\text{AB}}}{\text{n}}}{\dfrac{\text{n}_{\text{B}}}{\text{n}}}=\dfrac{\text{n}_{\text{AB}}}{\text{n}_{\text{B}}}
 		$ \\
@@ -46,20 +46,14 @@
 	
 	
 	注意: ``条件概率", 和``分步骤法"的区别: \\
-	- 分步骤法: 前后每一步骤的事件是相互独立的, 彼此没有条件关系.  \\
+	- 分步骤法 (用乘法): 前后每一步骤的事件是相互独立的, 彼此没有条件关系.  \\
 	比如, 第一步你结婚, 第二步我结婚. 我们这两件事发生的概率互不影响. \\
 	
-	- 条件概率: 前面的事件, 有可能会(但并不一定)影响到后面事件的发生概率. 即前后事件之间并不互相独立.  \\
+	- 条件概率 (里面也有用到乘法): 前面的事件, 有可能会(但并不一定)影响到后面事件的发生概率. 即前后事件之间并不互相独立.  \\
 	会影响的例子: 比如一共有100个上岸机会, 则第一步你上岸的成功概率, 会影响到第二步我上岸的成功概率. (你若成功, 留给我的名额数量就会更少.) \\
 	彼此独立的例子: 比如在你回国的条件下, 我出门的概率. 两者发生的概率毫无关系. 你回不回国, 跟我会出不出门没半毛钱关系.
-	
-	
-	
-	
-	
-	
-	
-	
+
+		
 	
 	
 	\begin{myEnvSample}
@@ -131,6 +125,8 @@
 	↑ 上面``从右往左"看, 就是按$A_1, A_2, ... , A_n$的顺序 \\
 	
 	
+	
+	
 	\begin{myEnvSample}
 		有100件产品, 次品率=10\%, 即有10件次品. 做不放回抽样, 问: 第3次才取到合格品的概率是? \\
 		我们先令: \\
@@ -185,7 +181,7 @@
 	
 	(2) 甲乙都抽到``成功"的概率?  
 \begin{align*}  % 支持每行编号. 若不需要编号, 就用 align*环境
-	&\text{P}\left( \text{AB} \right) =\underset{\text{第1步:甲先成功}}{\underbrace{\text{P}\left( \text{A} \right) }}\cdot \underset{\text{第2步:在甲成功的前提下,\ 乙再成功}}{\underbrace{\text{P}\left( \text{B\ |A} \right) }}\\
+	&\text{P}\left( \text{AB} \right) =\underset{\text{第1步:甲先成功}}{\underbrace{\text{P}\left( \text{A} \right) }}\cdot \underset{\text{第2步:在甲成功的前提下,\ 乙再成功}}{\underbrace{P(B|A) }}\\
 &=\frac{\overset{\text{甲先抽掉一张好签}}{\overbrace{\text{C}_{4\text{好签}}^{1}}}}{\text{C}_{10\text{签}}^{1}}\cdot \frac{\overset{\text{乙就只能从剩下的3张好签中来抽了}}{\overbrace{\text{C}_{4\text{好签}-1}^{1}}}}{\text{C}_{10\text{签}-1}^{1}}
 =\frac{4}{10}\cdot \frac{3}{9}=0.133333
 \end{align*}
@@ -193,19 +189,43 @@
 
 (3) 甲失败, 乙成功 的概率? 
 \begin{align*}  % 支持每行编号. 若不需要编号, 就用 align*环境
-	&\text{P}\left( \overline{\text{A}}\text{B} \right) =\underset{\text{第1步:甲先失败}}{\underbrace{\text{P}\left( \overline{\text{A}} \right) }}\cdot \underset{\text{第2步:在甲失败的前提下,\ 乙再成功}}{\underbrace{\text{P}\left( \text{B\ |}\overline{\text{A}} \right) }}\\
-&=\frac{\overset{\text{甲先从共6张坏签中取}1}{\overbrace{\text{C}_{6\text{坏签}}^{1}}}}{\text{C}_{10\text{签}}^{1}}\cdot \frac{\overset{\text{乙从共4张好签中取}1}{\overbrace{\text{C}_{4\text{好签}}^{1}}}}{\text{C}_{10\text{签}-1}^{1}}
-=\frac{6}{10}\cdot \frac{4}{9}=0.266667
+&P\left( \overline{A}B \right) =\underset{\text{第1步:甲先失败}}{\underbrace{P\left( \overline{A} \right) }}\cdot \underset{\text{第2步:在甲失败的前提下,\,\,乙再成功}}{\underbrace{P\left( B\,\,|\overline{A} \right) }} \\
+&=\frac{\overset{\text{甲先从共6张坏签中取}1}{\overbrace{\text{C}_{6\text{坏签}}^{1}}}}{\text{C}_{10\text{签}}^{1}}\cdot \frac{\overset{\text{乙从共4张好签中取}1}{\overbrace{\text{C}_{4\text{好签}}^{1}}}}{\text{C}_{10\text{签}-1}^{1}}=\frac{6}{10}\cdot \frac{4}{9}=0.266667
 \end{align*}
 
 
 
 (4) 甲乙丙都抽到``成功"的概率? 
 \begin{align*}  % 支持每行编号. 若不需要编号, 就用 align*环境
-	&\text{P}\left( \text{ABC} \right) =\underset{\text{第1步:甲先成功}}{\underbrace{\text{P}\left( \text{A} \right) }}\cdot \underset{\text{第2步:在甲成功的前提下,\ 乙再成功}}{\underbrace{\text{P}\left( \text{B\ |A} \right) }}\\
-&=\frac{\text{C}_{4\text{好签}}^{1}}{\text{C}_{10\text{签}}^{1}}\cdot \frac{\text{C}_{\text{还剩3好签}}^{1}}{\text{C}_{\text{还剩9签}}^{1}}\cdot \frac{\text{C}_{\text{还剩2好签}}^{1}}{\text{C}_{\text{还剩8签}}^{1}}=\frac{4}{10}\cdot \frac{3}{9}\cdot \frac{2}{8}=0.0333333
+	&P\left( ABC \right) =\underset{\text{第1步:甲先成功}}{\underbrace{P\left( A \right) }}\cdot \underset{\text{第2步:在甲成功的前提下,\,\,乙再成功}}{\underbrace{P\left( B\,\,|A \right) }}\cdot \underset{\text{第3步:在甲乙都成功的前提下,丙再成功}}{\underbrace{P\left( C|BA \right) }}\\
+&=\frac{\text{C}_{4\text{好签}}^{1}}{\text{C}_{10\text{签}}^{1}}\cdot \frac{\text{C}_{\text{还剩3好签}}^{1}}{\text{C}_{\text{还剩9签}}^{1}}\cdot \frac{\text{C}_{\text{还剩2好签}}^{1}}{\text{C}_{\text{还剩8签}}^{1}}\\
+&=\frac{4}{10}\cdot \frac{3}{9}\cdot \frac{2}{8}=0.0333333
 \end{align*}
 \end{myEnvSample}
+
+
+
+	
+
+\begin{myEnvSample}
+	你的新邻居, 是个 is very shy and withdrawn, invariably helpful but with very little interest in people or in the world of reality. A meek and tidy soul, he has a need for order and structure, ant a passion for detail. \\
+	你觉得他更可能是 -- 图书管理员, 还是农民? \\
+	大多数人会认为他是图书馆管理员. 其实, 这种判断是"非理性"的. 问题的关键在于 -- 你没有把这两种职业的"人数比例"考虑进去. \\
+	
+	\includegraphics[width=1\textwidth]{/0099.pdf}
+	
+	所以, 即使你认为``符合这个描述的人是一个图书馆管理员的可能性, 是一个农民的4倍", 也抵不过农民的数量很多.
+\end{myEnvSample}
+
+
+
+
+\begin{myEnvSample}
+	辛普森杀妻案, 
+\end{myEnvSample}
+
+
+
 
 
 
@@ -237,19 +257,22 @@
 ~\\
 
 	
-	\section{全概率公式}
+	\section{全概率公式 : $
+		P\left( B \right) =\underbrace{P\left( A_1 \right) \cdot P\left( B|A_1 \right) }+\underbrace{P\left( A_2 \right) \cdot P\left( B|A_2 \right) }+...+\underbrace{P\left( A_n \right) \cdot P\left( B|A_n \right) }
+		$}
 	
 	全概率公式 Total Probability Theorem: \\	
 	如果 $A_1, A_2, ..., A_n$ 构成一个``完备事件组", 即: (1) 这些事件两两互不相容,  (2)其``和"(或``并集")为全集 $\Omega$, (3) $P(A_i)>0$. \\
 		
 	则有:
 $\boxed{
-\sum_{\text{i}=1}^{\text{n}}{\ \left[ \text{P}\left( \text{A}_{\text{i}} \right) \cdot \text{P}\left( \text{B|A}_{\text{i}} \right) \right]}=\text{P}\left( \text{B} \right) 
+\sum_{i=1}^n{\,\,\left[ P\left( A_i \right) \cdot P\left( B|A_i \right) \right]}=P\left( B \right) 
 }
 $ \\
 
+
 即有: $
-\text{P}\left( \text{B} \right) =\underbrace{\text{P}\left( \text{A}_1 \right) \cdot \text{P}\left( \text{B|A}_1 \right) }+\underbrace{\text{P}\left( \text{A}_2 \right) \cdot \text{P}\left( \text{B|A}_2 \right) }+...+\underbrace{\text{P}\left( \text{A}_{\text{n}} \right) \cdot \text{P}\left( \text{B|A}_{\text{n}} \right) }
+P\left( B \right) =\underbrace{P\left( A_1 \right) \cdot P\left( B|A_1 \right) }+\underbrace{P\left( A_2 \right) \cdot P\left( B|A_2 \right) }+...+\underbrace{P\left( A_n \right) \cdot P\left( B|A_n \right) }
 $ \\
 
 	\includegraphics[width=1\textwidth]{/0095.pdf}
@@ -278,11 +301,10 @@ $ \\
 	
 	那么, 你任取一件为不合格的概率, 不就是整个工厂总的不合格概率么?! 即 =P(B) \\		
 		\begin{align*}
-\text{P}\left( \text{B} \right) 
-	&=\underset{\text{第1条生产线中(的条件下),\ 不合格品的概率}}{\underbrace{\overset{\text{产品属于生产线1的概率}}{\overbrace{\text{P}\left( \text{A}_1 \right) }}\cdot \overset{\text{生产线1中的次品率}}{\overbrace{\text{P}\left( \text{B|A}_1 \right) }}}}+\text{P}\left( \text{A}_2 \right) \cdot \text{P}\left( \text{B|A}_2 \right)  \\
-	& +\text{P}\left( \text{A}_3 \right) \cdot \text{P}\left( \text{B|A}_3 \right) +\text{P}\left( \text{A}_4 \right) \cdot \text{P}\left( \text{B|A}_4 \right)\\
-	&=\text{(15\%}\cdot 0.05\text{)}+\text{(20\%}\cdot 0.04\text{)}+\text{(30\%}\cdot 0.03\text{)}+\text{(35\%}\cdot 0.02\text{)}\\
-	&=0.0315
+	&P\left( B \right)\\
+&=\underset{\text{第1条生产线中}\left( \text{的条件下} \right) ,\,\,\text{不合格品的概率}}{\underbrace{\overset{\text{产品属于生产线1的概率}}{\overbrace{P\left( A_1 \right) }}\cdot \overset{\text{生产线1中的次品率}}{\overbrace{P\left( B|A_1 \right) }}}}+P\left( A_2 \right) \cdot P\left( B|A_2 \right) +P\left( A_3 \right) \cdot P\left( B|A_3 \right) +P\left( A_4 \right) \cdot P\left( B|A_4 \right)\\
+&=(15\%\cdot 0.05)+(20\%\cdot 0.04)+(30\%\cdot 0.03)+(35\%\cdot 0.02)\\
+&=0.0315
 		\end{align*}
 	\end{myEnvSample}
 
@@ -312,25 +334,115 @@ $ \\
 	
 	上面这三种可能性并存, 就是``和"(并集)的概念. 用加法: \\
 	
+	\includegraphics[width=1\textwidth]{/0096.pdf}
 	
-	
-
-
+	\includegraphics[width=0.7\textwidth]{/0097.pdf}
 \end{myEnvSample}
 
 
 
 
 
+\begin{myEnvSample}
+	有10件产品, 其中次品的数量, 有三种可能性: 0件 /1件 /2件, 即这三种可能性中的每一种, 发生的概率是1/3.  \\
+	同时, 检验时也存在``误检"情况 : \\
+\begin{tabular}{|l|l|l|l|}
+	\hline
+	& →被检验成→ &    & 的概率是   \\
+	\hline
+	正品 &        & 次品 & 0.02    \\
+	\hline
+	正品 &    →    & 正品 & 0.98    \\
+	\hline
+	次品 &   →     & 正品 & 0.05    \\
+	\hline
+	次品 &        & 次品 & 0.96  \\
+	\hline
+\end{tabular}\\
 
-
-
-
-
-
-
-
+	问: 这批产品能通过检验(即事件$S_2$)的可能性是多少? 即本题要求 P($S_2$)=? \\
+	这要分两种情况来讨论 (``和"的概念, 用加法): \\
+	- 1. 正品被误检(成``假")时的情况 \\
+	- 2. 次品被误检(成``真")时的情况 \\
 	
+	我们先定义各种事件: \\
+	- $B_0$ : B(bad). 表示总的10件产品中, 存在0件次品. 该事件的概率, 题目已经告诉我们: $\text{P}\left( \text{B}_0 \right) =\frac{1}{3}$
+	\\
+	- $B_1$ : 表示总的10件产品中, 存在1件次品. $\text{P}\left( \text{B}_1 \right) =\frac{1}{3}$
+	\\
+	- $B_2$ : 表示总的10件产品中, 存在2件次品. $\text{P}\left( \text{B}_2 \right) =\frac{1}{3}$
+	\\
+	- $S_1$ : S(sample. (v.) 抽样检验；取样；采样) 表示任意抽检一次, 抽到了正品. (但这里还有个问题不清晰, 就是说这个正品, 到底是它本身就是``正品"; 还是说只是抽验认为它是``正品"?) \\
+	- $\overline{S_1}$ : 表示任意抽检一次, 抽到了次品. \\
+	- $S_2$ : 表示再次检验, 并``通过验证" (注意: 有误检率存在. 所以通过检验的, 未必是``正品"; 反之亦然). \\
+	
+	
+	本题要求的 P($S_2$), 实际上就是: ``无论第一次抽, 认为是正是次; 在第二次检验时, 都认为是正品"的东西. 即: $
+	\text{P}\left( \text{S}_2 \right) =\underset{\text{第一次抽为正品,第二次检验为正}}{\underbrace{\text{P}\left( \text{S}_1 \right) \cdot \text{P}\left( \text{S}_2\ |\text{S}_1 \right) }}+\underset{\text{第一次抽为次品,第二次检验为正}}{\underbrace{\text{P}\left( \overline{\text{S}_1} \right) \cdot \text{P}\left( \text{S}_2\ |\overline{\text{S}_1} \right) }}
+	$ \\
+	
+	那么我们先考算 $	\text{P}\left( \text{S}_1 \right) 	$ 和	$	\text{P}\left( \overline{\text{S}_1} \right) 	$. \\
+	
+	→ $	\text{P}\left( \text{S}_1 \right) 	$ : 是在具体``次品"数量未知的情况下, 抽1次就得到``正品"的概率. \\
+	\begin{align*}  % 支持每行编号. 若不需要编号, 就用 align*环境
+&	\text{P}\left( \text{S}_1 \right) =\underset{\text{在总数中有0次品的条件下,\ 抽1次得到正品的概率}}{\underbrace{\overset{\text{总数中有0次品}}{\overbrace{\text{P}\left( \text{B}_0 \right) }}\cdot \text{P}\left( \overset{\text{第1次抽得到正品}}{\overbrace{\text{S}_1}}|\text{B}_0 \right) }}+\underset{\text{总数中含有1次品,\ 抽1次取到正}}{\underbrace{\text{P}\left( \text{B}_1 \right) \cdot \text{P}\left( \text{S}_1|\text{B}_1 \right) }}+\underset{\text{总数中含有2次品,\ 抽1次取到正}}{\underbrace{\text{P}\left( \text{B}_2 \right) \cdot \text{P}\left( \text{S}_1|\text{B}_2 \right) }}\\
+&=\underset{\text{总10中含有0次品}}{\underbrace{\frac{1}{3}\cdot \frac{\text{C}_{\text{总10正}}^{1}}{\text{C}_{\text{总}10}^{1}}}}+\underset{\text{总10中含有1次品}}{\underbrace{\frac{1}{3}\cdot \frac{\text{C}_{\text{总9正}}^{1}}{\text{C}_{\text{总}10}^{1}}}}+\underset{\text{总10中含有2次品}}{\underbrace{\frac{1}{3}\cdot \frac{\text{C}_{\text{总8正}}^{1}}{\text{C}_{\text{总}10}^{1}}}}\\
+&=0.9  
+	\end{align*} 	
+
+	所以 : $
+	\text{P}\left( \overline{\text{S}_1} \right) =1-\text{P}\left( \text{S}_1 \right) =1-0.9=0.1
+	$ \\
+	
+	于是, 我们就能得到 : \\
+	\begin{align*}  % 支持每行编号. 若不需要编号, 就用 align*环境
+	&\text{P}\left( \text{S}_2 \right) =\underset{\text{第一次抽为正品,第二次检验为正}}{\underbrace{\overset{=0.9}{\overbrace{\text{P}\left( \text{S}_1 \right) }}\cdot \overset{\text{从上面的表格中可知,\ 正品被检验为正品,概率为}0.98}{\overbrace{\text{P}\left( \text{S}_2\ |\text{S}_1 \right) }}}}+\underset{\text{第一次抽为次品,第二次检验为正}}{\underbrace{\overset{=0.1}{\overbrace{\text{P}\left( \overline{\text{S}_1} \right) }}\cdot \overset{\text{次品被检验为正品,\ 概率是}0.05}{\overbrace{\text{P}\left( \text{S}_2\ |\overline{\text{S}_1} \right) }}}}\\
+&=\left( 0.9\cdot 0.98 \right) +\left( 0.1\cdot 0.05 \right) =0.887\\
+	\end{align*}
+
+\includegraphics[width=1\textwidth]{/0098.pdf}
+\end{myEnvSample}
+
+
+~\\
+\hrule
+~\\
+
+
+
+\section{贝叶斯公式}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	
 	
 	
