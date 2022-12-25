@@ -1,4 +1,5 @@
 - 我latex踩过的坑
+  collapsed:: true
 	- 希腊字母, 不能直接显示. 必须用latex的转义
 	- 像下面这种有大括号"说明"的,  1. 尽量少用在上下标这样的指数的说明上, 会有莫名其妙的报错.  2. 不要写成两行, 否则字体大小会变成大号的, 不会自动缩小.
 		- 对于复杂的公式, 直接拷代码容易出错的, 就用 axmath 导出emf, 
@@ -258,6 +259,7 @@
 		- 然后, 你就可以输入 `\你自定义的缩写` 来输入该代码片段了
 	- ### 自定义快捷键
 	  background-color:: red
+	  collapsed:: true
 		- 将 ctrl+u, 作为给选中的文本添加"下划线"的快捷键. 注意, 使用时, 要先按 ctrl+m后, 再接着按 ctrl+u 才能生效
 			- 在宏里面编辑脚本
 			- ```
@@ -268,6 +270,7 @@
 			  ```
 		- ![image.png](../assets/image_1670382934918_0.png)
 	- 更改texstudio的默认快捷键, 向 phpstorm看齐
+	  collapsed:: true
 		- phpstorm 的快捷键表
 			- https://blog.csdn.net/qq_48046065/article/details/127145912
 		- ![image.png](../assets/image_1671264420518_0.png)
@@ -869,7 +872,23 @@
 			  | p | 只为浮动设置一个特殊页面 | Put on a special page for floats only. |
 			  | ! | 覆盖LaTex用于确认“良好”浮动的内部参数 | Override internal parameters LaTeX uses for determining “good” float positions. |
 			  | H | 将浮动精确的放置在Latex代码中的位置，需要导入float包，与`h!`等价 | Places the float at precisely the location in the LATEX code. Requires the float package. This is somewhat equivalent to h! |
-		-
+		- 表格中的列, 自定义宽度百分比
+		  background-color:: red
+		  collapsed:: true
+			- ```
+			  \begin{tabular}{|p{0.6\textwidth}|p{0.4\textwidth}|}
+			  	\hline
+			  先验概率 : 是指根据以往经验和分析得到的概率，它往往作为``由因求果"问题中的``因"出现. 	
+			  &  ``先验概率"的计算比较简单，没有使用``贝叶斯公式".\\
+			  	\hline
+			  后验概率: 是基于新的信息，修正原来的``先验概率"后, 所获得的更接近实际情况的概率估计.	
+			  & ``后验概率''的计算，要使用``贝叶斯公式".
+			  	  \\
+			  	\hline
+			  \end{tabular}
+			  ```
+			- ![image.png](../assets/image_1671934487022_0.png)
+			- ![image.png](../assets/image_1671934501461_0.png)
 	-
 	- ---
 	- ### 分栏
@@ -1301,4 +1320,8 @@
 	  
 	  ```
 -
+- (不推荐使用!! 会导致 空行失效 )让段落中的文字, 左对齐, 而非默认的两段对齐: 添加下面的包即可
+	- ```
+	  \usepackage[document]{ragged2e}  % 副作用是, 会导致空行失效
+	  ```
 -

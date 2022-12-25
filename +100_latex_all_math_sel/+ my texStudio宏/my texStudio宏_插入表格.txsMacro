@@ -5,10 +5,10 @@
     ],
     "formatVersion": 1,
     "menu": "",
-    "name": "插入表格",
+    "name": "11. 插入表格",
     "shortcut": "",
     "tag": [
-        "\\begin{tabular}{|l| l| }",
+        "\\begin{tabular}{|p{0.6\\textwidth}|p{0.4\\textwidth}|}",
         "\t\\hline",
         "\t&  \\\\",
         "\t\\hline",
