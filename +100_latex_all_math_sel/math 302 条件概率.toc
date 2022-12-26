@@ -11,3 +11,4 @@
 \contentsline {section}{\numberline {5}全概率公式 : $ P\left ( B \right ) =\underbrace {P\left ( A_1 \right ) \cdot P\left ( B|A_1 \right ) }+\underbrace {P\left ( A_2 \right ) \cdot P\left ( B|A_2 \right ) }+...+\underbrace {P\left ( A_n \right ) \cdot P\left ( B|A_n \right ) } $}{9}{}%
 \contentsline {section}{\numberline {6}贝叶斯公式 Bayes' theorem}{13}{}%
 \contentsline {subsection}{\numberline {6.1}先验概率 (从经验来推后果) \& 后验概率(更新迭代经验)}{13}{}%
+\contentsline {subsection}{\numberline {6.2}贝叶斯公式}{13}{}%
