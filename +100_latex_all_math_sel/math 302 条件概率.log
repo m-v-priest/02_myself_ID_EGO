@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.6)  27 DEC 2022 16:23
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.6)  28 DEC 2022 16:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1060,11 +1060,11 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 (./math 302 条件概率.toc
-LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 1.
  (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 1.
 
 (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1095,51 +1095,66 @@ able
 LaTeX Warning: No \author given.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--27
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--31
+Underfull \hbox (badness 10000) in paragraph at lines 30--33
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 32--37
+Underfull \hbox (badness 10000) in paragraph at lines 34--39
 
  []
 
 File: img_math///0088.pdf Graphic file (type pdf)
 <use img_math///0088.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 38--39
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 40--41
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--45
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--51
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--62
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 60--65
+Underfull \hbox (badness 10000) in paragraph at lines 67--72
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--99
+
+ []
+
+File: img_math///0103.pdf Graphic file (type pdf)
+<use img_math///0103.pdf>
+File: img_math///0104.pdf Graphic file (type pdf)
+<use img_math///0104.pdf>
+[3]
 File: img_math///0089.pdf Graphic file (type pdf)
 <use img_math///0089.pdf>
 
-Overfull \hbox (41.16292pt too wide) in paragraph at lines 102--102
+Overfull \hbox (41.16292pt too wide) in paragraph at lines 126--126
 []\TU/SimSun(0)/b/n/12.045 性 质\TU/lmr/bx/n/12.045 : \TU/SimSun(0)/b/n/12.045 可 
 列 可 加 性\TU/lmr/bx/n/12.045 : \TU/SimSun(0)/b/n/12.045 若 $\OML/cmm/m/it/12.045 A
 []; A[]; :::A[]; :::$ \TU/SimSun(0)/b/n/12.045 是 \TU/lmr/bx/n/12.045 “\TU/SimSu
@@ -1154,56 +1169,56 @@ File: img_math///0090.pdf Graphic file (type pdf)
 File: img_math///0091.pdf Graphic file (type pdf)
 <use img_math///0091.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--116
+Underfull \hbox (badness 10000) in paragraph at lines 137--140
 
  []
 
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 117--123
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--147
 
  []
 
 File: img_math///0092.pdf Graphic file (type pdf)
 <use img_math///0092.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--126
+Underfull \hbox (badness 10000) in paragraph at lines 148--150
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 131--136
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 155--160
 
  []
 
 File: img_math///0093.pdf Graphic file (type pdf)
 <use img_math///0093.pdf>
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 145--148
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--172
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--154
+Underfull \hbox (badness 10000) in paragraph at lines 173--178
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 155--159
+Underfull \hbox (badness 10000) in paragraph at lines 179--183
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 171--176
+Underfull \hbox (badness 10000) in paragraph at lines 195--200
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 177--181
+Underfull \hbox (badness 10000) in paragraph at lines 201--205
 
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 211--214
+Underfull \hbox (badness 10000) in paragraph at lines 235--238
 
  []
 
@@ -1213,7 +1228,7 @@ File: img_math///0099.pdf Graphic file (type pdf)
 Missing character: There is no ∩ (U+2229) in font [lmroman10-regular]:mapping=t
 ex-text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 224--226
+Underfull \hbox (badness 10000) in paragraph at lines 248--250
 
  []
 
@@ -1222,108 +1237,147 @@ ex-text;!
 Missing character: There is no ∩ (U+2229) in font [lmroman10-regular]:mapping=t
 ex-text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--228
+Underfull \hbox (badness 10000) in paragraph at lines 251--252
 
  []
 
 File: img_math///0100.pdf Graphic file (type pdf)
 <use img_math///0100.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--233
+Underfull \hbox (badness 10000) in paragraph at lines 253--257
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 235--242
+Underfull \hbox (badness 10000) in paragraph at lines 259--266
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 243--246
+Underfull \hbox (badness 10000) in paragraph at lines 267--270
 
  []
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 264--269
+Underfull \hbox (badness 10000) in paragraph at lines 288--293
 
  []
 
 File: img_math///0094.pdf Graphic file (type pdf)
 <use img_math///0094.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 270--271
+Underfull \hbox (badness 10000) in paragraph at lines 294--295
 
  []
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 280--281
+Underfull \hbox (badness 10000) in paragraph at lines 304--305
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 282--283
+Underfull \hbox (badness 10000) in paragraph at lines 306--307
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 289--291
+Underfull \hbox (badness 10000) in paragraph at lines 313--315
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 292--297
+Underfull \hbox (badness 10000) in paragraph at lines 316--321
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--302
+Underfull \hbox (badness 10000) in paragraph at lines 323--326
 
  []
 
 File: img_math///0095.pdf Graphic file (type pdf)
 <use img_math///0095.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 307--317
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 318--319
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 320--326
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 327--328
 
  []
 
+File: img_math///0105.pdf Graphic file (type pdf)
+<use img_math///0105.pdf>
 
-Overfull \hbox (49.45866pt too wide) detected at line 333
-[]
+Underfull \hbox (badness 10000) in paragraph at lines 329--330
+
  []
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 339--341
+Underfull \hbox (badness 10000) in paragraph at lines 331--333
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 342--347
+Underfull \hbox (badness 10000) in paragraph at lines 334--336
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 348--359
+Underfull \hbox (badness 10000) in paragraph at lines 345--348
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 360--361
+Underfull \hbox (badness 10000) in paragraph at lines 349--350
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 351--354
+
+ []
+
+File: img_math///0106.pdf Graphic file (type pdf)
+<use img_math///0106.pdf>
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 381--391
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 392--393
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 394--400
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 401--402
+
+ []
+
+
+Overfull \hbox (49.45866pt too wide) detected at line 407
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 414--416
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 417--422
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--434
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--436
 
  []
 
@@ -1331,96 +1385,148 @@ File: img_math///0096.pdf Graphic file (type pdf)
 <use img_math///0096.pdf>
 File: img_math///0097.pdf Graphic file (type pdf)
 <use img_math///0097.pdf>
-[10]
-Underfull \hbox (badness 10000) in paragraph at lines 372--387
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 447--462
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 388--392
+Underfull \hbox (badness 10000) in paragraph at lines 463--467
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 393--403
+Underfull \hbox (badness 10000) in paragraph at lines 468--478
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 405--408
+Underfull \hbox (badness 10000) in paragraph at lines 480--483
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 409--410
+Underfull \hbox (badness 10000) in paragraph at lines 484--485
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 411--412
+Underfull \hbox (badness 10000) in paragraph at lines 486--487
 
  []
 
 
-Overfull \hbox (50.16783pt too wide) detected at line 416
+Overfull \hbox (50.16783pt too wide) detected at line 491
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 418--421
+Underfull \hbox (badness 10000) in paragraph at lines 493--496
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 422--423
+Underfull \hbox (badness 10000) in paragraph at lines 497--498
 
  []
 
 File: img_math///0098.pdf Graphic file (type pdf)
 <use img_math///0098.pdf>
-[11] [12]
-Underfull \hbox (badness 10000) in paragraph at lines 432--433
+[12] [13]
+Underfull \hbox (badness 10000) in paragraph at lines 507--508
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 434--435
+Underfull \hbox (badness 10000) in paragraph at lines 509--510
 
  []
 
 
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 442--453
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 519--530
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 459--460
+Underfull \hbox (badness 10000) in paragraph at lines 536--537
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 461--462
+Underfull \hbox (badness 10000) in paragraph at lines 538--539
 
  []
 
 File: img_math///0101.pdf Graphic file (type pdf)
 <use img_math///0101.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--464
-
- []
-
-[13]
-Underfull \hbox (badness 10000) in paragraph at lines 465--466
+Underfull \hbox (badness 10000) in paragraph at lines 540--542
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 469--472
+Overfull \hbox (1.29446pt too wide) has occurred while \output is active
+\TU/lmr/m/sl/10.53937 6 \TU/SimSun(0)/m/it/10.53937 贝 叶 斯 公 式 \TU/lmr/m/sl/10.5
+3937 BAYES’ THEOREM : $[]$ \TU/lmr/m/n/10.53937 14
+ []
+
+
+Overfull \vbox (6.43448pt too high) has occurred while \output is active []
+
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 543--544
 
  []
 
-[14] (./math 302 条件概率.aux)
+
+Underfull \hbox (badness 10000) in paragraph at lines 547--548
+
+ []
+
+File: img_math///0102.pdf Graphic file (type pdf)
+<use img_math///0102.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 554--556
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 557--564
+
+ []
+
+
+Overfull \hbox (1.29446pt too wide) has occurred while \output is active
+\TU/lmr/m/sl/10.53937 6 \TU/SimSun(0)/m/it/10.53937 贝 叶 斯 公 式 \TU/lmr/m/sl/10.5
+3937 BAYES’ THEOREM : $[]$ \TU/lmr/m/n/10.53937 15
+ []
+
+
+Overfull \vbox (6.43448pt too high) has occurred while \output is active []
+
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 565--569
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 581--584
+
+ []
+
+
+Overfull \hbox (1.29446pt too wide) has occurred while \output is active
+\TU/lmr/m/sl/10.53937 6 \TU/SimSun(0)/m/it/10.53937 贝 叶 斯 公 式 \TU/lmr/m/sl/10.5
+3937 BAYES’ THEOREM : $[]$ \TU/lmr/m/n/10.53937 16
+ []
+
+
+Overfull \vbox (6.43448pt too high) has occurred while \output is active []
+
+
+[16] (./math 302 条件概率.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.41063pt have occurred.
@@ -1430,12 +1536,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 25844 strings out of 476179
- 601601 string characters out of 5813072
- 1024962 words of memory out of 5000000
- 46063 multiletter control sequences out of 15000+600000
+ 25894 strings out of 476179
+ 602786 string characters out of 5813072
+ 1028675 words of memory out of 5000000
+ 46108 multiletter control sequences out of 15000+600000
  490046 words of font info for 153 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  102i,33n,122p,553b,1007s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on math 302 条件概率.pdf (14 pages).
+Output written on math 302 条件概率.pdf (16 pages).

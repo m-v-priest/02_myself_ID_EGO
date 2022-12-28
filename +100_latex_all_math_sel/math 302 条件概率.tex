@@ -19,7 +19,9 @@
 	
 	
 	
-	\part{条件概率}
+	\part{条件概率 : $
+		P(A|\text{条件}B)=\frac{P(A\cap B)}{P(\text{条件}B)}=\frac{\text{事件}A,B\text{同时发生的概率}}{\text{事件}B\text{发生的概率}}
+		$}
 	
 	\section{``条件概率"的意思}
 	
@@ -39,10 +41,15 @@
 	
 	如上图所示, 注意: 概率是个比值, 所以你光有分子那块的交集值, 是没用的, 它还需要与另一个数(分母)去比. \\
 	
-	上面公式中, P(AB) 的计算公式是什么呢? \\
+	上面公式中, P(AB) (← 也可写作 $P(A \cap B)$) 的计算公式是什么呢? \\
 	- 如果事件A, 和事件B 是相互独立的, 则 $P(AB) = P(A) \cdot P(B)$ \\
-	- 如果事件A, 和事件B 不相互独立, 则只能用``条件概率"公式, 来求P(AB), 即: $P(AB) = P(A |B) \cdot P(B) = P(B |A) \cdot P(A) $   \\
-	
+	- 如果事件A, 和事件B 不相互独立, 则只能用``条件概率"公式, 来求P(AB), 即: 
+	\begin{align*}  % 支持每行编号. 若不需要编号, 就用 align*环境
+\boxed{
+	P(AB) =   P(B) \cdot P(A |B) = P(A)  \cdot P(B |A)
+}
+	\end{align*}
+\\
 	
 	
 	注意: ``条件概率", 和``分步骤法"的区别: \\
@@ -51,7 +58,7 @@
 	
 	- 条件概率 (里面也有用到乘法): 前面的事件, 有可能会(但并不一定)影响到后面事件的发生概率. 即前后事件之间并不互相独立.  \\
 	会影响的例子: 比如一共有100个上岸机会, 则第一步你上岸的成功概率, 会影响到第二步我上岸的成功概率. (你若成功, 留给我的名额数量就会更少.) \\
-	彼此独立的例子: 比如在你回国的条件下, 我出门的概率. 两者发生的概率毫无关系. 你回不回国, 跟我会出不出门没半毛钱关系.
+	彼此独立的例子: 比如在你回国的条件下, 我出门的概率. 两者发生的概率毫无关系. 你回不回国, 跟我会出不出门没半毛钱关系. \\
 
 		
 	
@@ -81,6 +88,23 @@
 		$
 			
 	\end{myEnvSample}
+	
+	
+	
+	
+	\begin{myEnvSample}
+		某地10万人, 其中平均有40人患甲病; 有34人患乙病; 两种病都患的有32人. 		则, 我们设: \\
+		→ 事件A : 是一个人得甲病 \\
+		→ 事件B : 是一个人得乙病 \\
+		
+		即有: \\
+		$		P(A)=\frac{40}{100000}=0.0004		$ \\
+		$		P(B)=\frac{34}{100000}=0.00034		$ \\
+		$		P(AB)=\frac{32}{100000}=0.00032		$ \\
+		\includegraphics[width=0.7\textwidth]{/0103.pdf} \\
+		\includegraphics[width=0.3\textwidth]{/0104.pdf} 	
+	\end{myEnvSample}
+	
 	
 	
 
@@ -300,7 +324,57 @@ $ \\
 P\left( B \right) =\underbrace{P\left( A_1 \right) \cdot P\left( B|A_1 \right) }+\underbrace{P\left( A_2 \right) \cdot P\left( B|A_2 \right) }+...+\underbrace{P\left( A_n \right) \cdot P\left( B|A_n \right) }
 $ \\
 
-	\includegraphics[width=1\textwidth]{/0095.pdf}
+	\includegraphics[width=1\textwidth]{/0095.pdf} \\
+	
+	\includegraphics[width=0.6\textwidth]{/0105.pdf} \\
+	
+	上图, 粗线部分围起来的整块有彩色区域, 就是B.  \\
+	B的概率, 就等于= 每一个彩色块的概率, 加总起来. \\
+	
+	比如第1块, 橙色的概率, 就是 A1 和 B 的交集, 即 $ = P(A_1 \cap B)$ \\
+	P(B) = 所有5块彩色的概率 加起来. 即得到下图中的``全概率公式". \\
+	
+	全概率公式 : 
+	\begin{align*}  % 支持每行编号. 若不需要编号, 就用 align*环境
+	P\left( B \right) &=\text{第1块的概率}+\text{第2块的概率}+...+\text{第}n\text{块的概率}\\
+&=P\left( A_1B \right) +P\left( A_2B \right) +...+P\left( A_nB \right)\\
+&=P\left( A_1 \right) \cdot P\left( B|A_1 \right) +P\left( A_2 \right) \cdot P\left( B|A_2 \right) +...+P\left( A_n \right) \cdot P\left( B|A_n \right)\\
+&=\sum_{i=1}^n{\left[ P\left( A_i \right) \cdot P\left( B|A_i \right) \right]} 
+	\end{align*}
+	
+	并有: $
+	P\left( B \right) =\underset{A\text{中,}B\text{的概率的具体值}}{\underbrace{P\left( A \right) \cdot P\left( B|A \right) }}+\underset{}{\underbrace{P\left( \overline{A} \right) \cdot P\left( B|\overline{A} \right) }}
+	$ \\
+	
+	注意: 上式中,  P(B|A) 这块只是个比例而已. 即 B在A中的比例. 即 $\frac{B} {A}$. 但单纯的比例是没用的. 比如, alice说她的收入只有 bob 的 1/10, 但 1/10 依然没有告诉你 alice的收入到底是多少? 所以, 比例值还需要乘上一个基数. 这个``基数"就是 bob 本身的收入, 比如是 10000元, 你才能知道 alice的收入是 $10000 \cdot \frac{1} {10} = 1000$元. \\
+	
+	同理, 本处的公式, P(B|A) 这个比例, 还要乘上``P(A) 本身的值"作为基数, 我们才能最终知道 P(AB)的具体值到底是多少. \\
+	事实上, P(B|A) 就是 B占A的比例. 即 $\frac{B} {A}$. \\
+	而 $P(A) \cdot  P(B|A)$ 就是 AB 的交集面积 占整个全集$\varOmega $ 的比例, 即$	\frac{A\cap B}{\varOmega}	$ \\
+	
+	如果我们把 全集分为 两部分: A 和 $ \overline{A}$, 则, B的部分, 就是: 
+	\begin{align*}  % 支持每行编号. 若不需要编号, 就用 align*环境
+\boxed{
+	P(B)= P(A) \cdot P(B |A) +  P( \overline{A}) \cdot P(B | \overline{A})
+}  
+	\end{align*}
+
+	如下图: \\
+	\includegraphics[width=0.5\textwidth]{/0106.pdf}
+	
+	比如, 全集 Ω (亚欧板块)被分成两部分: 一块是A(亚洲), 另一块是$\overline{A}$ (欧洲). 全集中有子集B(俄罗斯), 被A 和$\overline{A}$各自分割了一部分土地. 那么: 
+	\begin{align*}  % 支持每行编号. 若不需要编号, 就用 align*环境
+\begin{matrix}
+	\underset{\text{俄罗斯占亚欧板块的面积比例}}{\underbrace{P\left( B \right) }}
+	&=\underset{\text{亚洲占亚欧板块的比例}}{\underbrace{P\left( A \right) }}\cdot \underset{\text{亚洲中的俄罗斯部分,占亚洲的比例}}{\underbrace{P\left( B|A \right) }}\\
+	& +\underset{\text{欧洲占亚欧板块的比例}}{\underbrace{P\left( \overline{A} \right) }}\cdot \underset{\text{欧洲中的俄罗斯部分,占欧洲的比例}}{\underbrace{P\left( B|\overline{A} \right) }}\\
+\end{matrix}
+	\end{align*}
+	
+	
+	
+	
+	
 	
 	
 	\begin{myEnvSample}
@@ -332,6 +406,7 @@ $ \\
 &=0.0315
 		\end{align*}
 	\end{myEnvSample}
+
 
 
 
@@ -435,7 +510,9 @@ $ \\
 
 
 
-\section{贝叶斯公式 Bayes' theorem}
+\section{贝叶斯公式 Bayes' theorem : $ \boxed{
+	P\left( A_k|B \right) =\dfrac{P\left( A_k \right) \cdot P\left( B|A_k \right)}{\sum_{i=1}^n{\text{[}}P\left( A_i \right) \cdot P\left( B|A_i \right) \text{]}}=\dfrac{P\left( A_kB \right)}{P\left( B \right)}
+}	$}
 
 \subsection{先验概率 (从经验来推后果) \& 后验概率(更新迭代经验)}
 
@@ -460,9 +537,44 @@ $ \\
 
 通常, ``事件A, 在事件B(发生)的条件下的概率"，与``事件B, 在事件A的条件下的概率", 是不一样的. 然而, 这两者是有确定的关系, ``贝叶斯法则"就是对这种关系的陈述。 \\
 
+推导1 : \\
 \includegraphics[width=0.9\textwidth]{/0101.pdf} \\
 
 上面``贝叶斯公式"的意思就是说: ``在现象B出现的条件下, 事件A发生的概率" (即 P(A|B)), 就等于``事件A发生的概率 (即 P(A))", 乘以 ``事件A发生条件下, 事件B出现的概率" (即 P(B|A)), 再除以``事件B出现的概率" (即 P(B)). \\
+
+
+
+推导2 : \\
+
+
+
+
+
+
+推导3 : \\
+\includegraphics[width=1\textwidth]{/0102.pdf} \\
+
+→ 到第一步的, 其实就是``贝叶斯公式". 即 已知第二步的结果B, 我们来倒推推测它到底是从哪条路径走过来的 (即在第一步中是从哪个路口过来的). 比如, 如果从第$ A_1$ 节点过来, 那么其概率就是:$
+P\left( A_1|B \right) =\dfrac{\text{路径1的概率}}{\text{路径1的概率}+\text{路径2的概率}+..+\text{路径}n\text{的概率}}
+$ \\
+即: \\
+$
+P\left( A_i|B \right) =\dfrac{P(A_i)\cdot P(B|A_i)}{\sum_{j=1}^n{\left[ P(A_j)\cdot P(B|A_j) \right]}}=\dfrac{\overset{\text{第}i\text{条路径的概率}}{\overbrace{P(A_i)\cdot P(B|A_i)}}}{\underset{\text{分母上是把所有的路径概率,都加起来}=P(B)=\text{全概率公式}}{\underbrace{P(A_1)\cdot P(B|A_1)+...+P(A_n)\cdot P(B|A_n)}}}
+$ \\
+
+→ 到第二步的, 其实就是``全概率公式", 即: \\
+$
+P(B)=\underset{\text{整条路径1的概率}}{\underbrace{P(A_1)\cdot P(B|A_1)}}+\underset{\text{整条路径2的概率}}{\underbrace{P(A_2)\cdot P(B|A_2)}+}...\underset{\text{整条路径}n\text{的概率}}{\underbrace{+P(A_n)\cdot P(B|A_n)}}
+$ \\
+
+
+
+
+
+
+
+
+
 
 
 
