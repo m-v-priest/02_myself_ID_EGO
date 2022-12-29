@@ -831,6 +831,7 @@
 	- ### 表格
 		- 插入表格
 		  collapsed:: true
+			- 注意: 表头的 对齐 {l c c r}, 一定要加上这些 l, c等标识, 否则会出错.
 			- ```
 			  	\begin{tabular}{l c c r}  % 表格中的列, 用{l c c r}来表示, 其中l(left)表示该列左对齐, c(center)代表该列中对齐, r(right)代表该列右对齐
 			  		name & age & sex &  info \\
@@ -859,6 +860,23 @@
 			  	\end{tabular}
 			  ```
 			- ![image.png](../assets/image_1670320082996_0.png)
+		- 在表格单元格内手动换行
+		  background-color:: red
+		  collapsed:: true
+			- ```
+			  \usepackage{makecell}
+			  --------
+			  在表格内, 用 \makecell{上一行写在这里 \\ 下一行写在这里}
+			  
+			  如: 
+			  \begin{tabular}{|p{0.6\textwidth}|p{0.4\textwidth}|}
+			  	\hline
+			  	\makecell{上一行 \\ 下一行} &  \\
+			  	\hline
+			  	&  \\
+			  	\hline
+			  \end{tabular}
+			  ```
 		- Table和Tabular的区别
 		  collapsed:: true
 			- ![image.png](../assets/image_1670320718436_0.png)
@@ -1245,9 +1263,11 @@
 		- ![image.png](../assets/image_1670377869177_0.png)
 	- 加空行 :
 	  background-color:: red
-	  collapsed:: true
 		- ```
-		  ~\\       % 加空行
+		  \vspace{1em}  % 推荐!! 1em，就是你当前字符大小的一个距离。
+		  
+		  
+		  ~\\       % 加空行. 不推荐, 会变成空两行
 		  ```
 	-
 	- ### 分割线

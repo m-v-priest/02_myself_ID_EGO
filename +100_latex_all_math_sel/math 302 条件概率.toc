@@ -11,4 +11,9 @@
 \contentsline {section}{\numberline {5}全概率公式 : $ P\left ( B \right ) =\underbrace {P\left ( A_1 \right ) \cdot P\left ( B|A_1 \right ) }+\underbrace {P\left ( A_2 \right ) \cdot P\left ( B|A_2 \right ) }+...+\underbrace {P\left ( A_n \right ) \cdot P\left ( B|A_n \right ) } $}{9}{}%
 \contentsline {section}{\numberline {6}贝叶斯公式 Bayes' theorem : $ \fbox {\mathsurround \z@ $\displaystyle P\left ( A_k|B \right ) =\genfrac {}{}{}0{P\left ( A_k \right ) \cdot P\left ( B|A_k \right )}{\DOTSB \sum@ \slimits@ _{i=1}^n{\text {[}}P\left ( A_i \right ) \cdot P\left ( B|A_i \right ) \text {]}}=\genfrac {}{}{}0{P\left ( A_kB \right )}{P\left ( B \right )} $} $}{14}{}%
 \contentsline {subsection}{\numberline {6.1}先验概率 (从经验来推后果) \& 后验概率(更新迭代经验)}{14}{}%
-\contentsline {subsection}{\numberline {6.2}贝叶斯公式}{14}{}%
+\contentsline {subsection}{\numberline {6.2}贝叶斯公式: 从``果", 来推是``某因"的可能性大小}{14}{}%
+\contentsline {section}{\numberline {7} 事件的独立性}{20}{}%
+\contentsline {subsection}{\numberline {7.1}``独立"与``互不相容(互斥)"的区别}{20}{}%
+\contentsline {subsection}{\numberline {7.2}A,B 是两个相互独立的事件, 则有: $P(AB)= P(A) \cdot P(B)$}{22}{}%
+\contentsline {subsection}{\numberline {7.3}若A,B是互相独立的事件, 则有: (1) A与$ \overline {B}$ 独立; (2) $ \overline {A}$ 与B独立; (3) $ \overline {A}$ 与 $ \overline {B}$ 独立}{22}{}%
+\contentsline {subsection}{\numberline {7.4}若 $P(A)=0$ 或 $P(A)=1$, 则 A与``任意事件"都互相独立.}{22}{}%

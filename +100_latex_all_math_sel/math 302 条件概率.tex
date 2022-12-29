@@ -88,7 +88,7 @@
 		$
 			
 	\end{myEnvSample}
-	
+	\vspace{1em} 
 	
 	
 	
@@ -161,7 +161,7 @@
 		那么第3次才取到合格品, 就是:  \\
 		\includegraphics[width=0.8\textwidth]{/0093.pdf} 		
 	\end{myEnvSample}
-	
+\vspace{1em}
 	
 
 
@@ -186,7 +186,7 @@
     \text{P}\left( \overline{\text{J}}\text{Q} \right) =\underset{=0.4}{\underbrace{\text{P}\left( \overline{\text{J}} \right) }}\cdot \underset{\text{乙条件下的合格率}=0.8}{\underbrace{\text{P}\left(Q \ | \overline{\text{J}} \right) }}=0.32
     $      
 \end{myEnvSample}
-
+\vspace{1em} 
 
 
 
@@ -226,7 +226,7 @@
 &=\frac{4}{10}\cdot \frac{3}{9}\cdot \frac{2}{8}=0.0333333
 \end{align*}
 \end{myEnvSample}
-
+\vspace{1em} 
 
 
 	
@@ -240,7 +240,7 @@
 	
 	所以, 即使你认为``符合这个描述的人是一个图书馆管理员的可能性, 是一个农民的4倍", 也抵不过农民的数量很多.
 \end{myEnvSample}
-
+\vspace{1em} 
 
 
 
@@ -406,7 +406,7 @@ $ \\
 &=0.0315
 		\end{align*}
 	\end{myEnvSample}
-
+\vspace{1em} 
 
 
 
@@ -438,7 +438,7 @@ $ \\
 	
 	\includegraphics[width=0.7\textwidth]{/0097.pdf}
 \end{myEnvSample}
-
+\vspace{1em} 
 
 
 
@@ -531,7 +531,7 @@ $ \\
 
 
 
-\subsection{贝叶斯公式}
+\subsection{贝叶斯公式: 从``果", 来推是``某因"的可能性大小}
 
 根据新信息, 不断调整对一个随机事件发生概率的判断, 这就是``贝叶斯推理"。 即反复迭代, 不断逼近真相 (即人工智能的原理). \\
 
@@ -565,20 +565,120 @@ $ \\
 $
 P(B)=\underset{\text{整条路径1的概率}}{\underbrace{P(A_1)\cdot P(B|A_1)}}+\underset{\text{整条路径2的概率}}{\underbrace{P(A_2)\cdot P(B|A_2)}+}...\underset{\text{整条路径}n\text{的概率}}{\underbrace{+P(A_n)\cdot P(B|A_n)}}
 $ \\
+~\\
+
+
+
+宋浩的上课 : \\
+有事件 $A_1, A_2, ... A_n$ 组成``完备事件组" (它们作为``原因事件"), $P(A_i) > 0$ \\
+有一个事件B (作为``结果事件"), $P(B) > 0$ \\
+
+则: 从B结果, 来倒推推断``它是由第$A_k$个原因造成的"的可能性占多大的概率, 就由这个公式(贝叶斯公式)给出: \\
+\begin{align*}  % 支持每行编号. 若不需要编号, 就用 align*环境
+	P(\text{原因}A_k\ |\text{结果}B)\\
+&=\frac{P(\text{原因}A_k\ \cap \ \text{结果}B)}{P(\text{结果}B)}\\
+&=\frac{P\left( \text{原因}A_k \right) \cdot P\left( \text{结果}B\ |\text{原因}A_k \right)}{\sum_{i=1}^n{\left[ P\left( \text{原因}A_i \right) \cdot P\left( \text{结果}B\ |\text{原因}A_i \right) \right]}}\\
+&=\frac{A_k\text{这个人,他的责任量}}{\text{所有相关的人}(\text{所有的}A),\text{责任加起来的总和量}} 
+\end{align*}
+\\
+
+
 
 
 \begin{myEnvSample}
-	普通人得某病(设为事件A)的概率, 为P(A)=0.0004. \\
-	普通人在医院检测, 成功检测出问题, 设为事件B. 若有误检, 即设为
-	某人身体不适, 去医院检查 : \\
-	→ 若他真的有病, 则能成功检测出的概率为 0.95 ← 即 P()
+得某病 ← 事件A \\
+医院检查出有病 ← 事件B \\
+\includegraphics[width=0.6\textwidth]{/0108.pdf}
+
+在某人检测出有病(B)的前提下, 问``其是真实患病(A)"的概率是多少? (即走的是上面红色路径的概率). 即求: $P(A|B) = ?$ 
+
+
+\begin{align*}  % 支持每行编号. 若不需要编号, 就用 align*环境
+	P(A|B)&=\frac{P(AB)}{P(B)}\\
+&=\text{或用贝叶斯公式}\frac{P(A_k)\cdot P(B|A_k)}{\sum_{i=1}^n{\left[ P(A_i)\cdot P(B|A_i) \right]}}\\
+&=\frac{P(A)\cdot P(B|A)}{P(A)\cdot P(B|A)+P(\overline{A})\cdot P(B|\overline{A})}\\
+&=\frac{0.0004\cdot 0.95}{\left( 0.0004\cdot 0.95 \right) +\left( 0.9996\cdot 0.9 \right)}=0.000422213
+\end{align*}
 \end{myEnvSample}
 
+所以, 你可以看出: \\
+- 全概率公式, 是从``原因"来推``结果的可能性是多少". \\
+- 贝叶斯公式, 是从``结果"来倒推其``是从哪一种原因得来的"的可能性. 即 $P(\text{原因}_i\ |\text{结果})$ \\
 
 
 
 
 
+\begin{myEnvSample}
+\includegraphics[width=1\textwidth]{/0109.pdf} \\
+
+一个工厂, 有4条生产线, 情况如下: \\
+	\begin{tabular}{lllll}
+		\hline
+		& 生产线1 & 生产线2 & 生产线3 & 生产线4 \\
+		\hline
+		产量   & 15\% & 20\% & 30\% & 35\% \\
+		\hline
+		不合格率 & 0.05 & 0.04 & 0.03 & 0.02  \\
+		\hline
+	\end{tabular} \\
+
+我们设 : \\
+- $A_1$ : 代表生产线1的产品 \\
+- $A_2$ : 代表生产线2的产品 \\
+- $A_3$ : 代表生产线3的产品 \\
+- $A_4$ : 代表生产线4的产品 \\
+- B (bad) : 代表不合格品. \\
+
+则, 这个工厂的总的不合格率 : 
+\begin{align*}  % 支持每行编号. 若不需要编号, 就用 align*环境
+P(B)
+&=\overset{\text{即}\text{全概率公式}}{\overbrace{\underset{\text{第1条生产线的产量占比,乘以第1条生产线的不合格率}}{\underbrace{P(A_1)\cdot P(B|A_1)}}+...+P(A_4)\cdot P(B|A_4)}}\\
+&=\left( 0.15\cdot 0.05 \right) +\left( 0.2\cdot 0.04 \right) +\left( 0.3\cdot 0.03 \right) +\left( 0.35\cdot 0.02 \right) =0.0315
+\end{align*}
+
+\includegraphics[width=0.75\textwidth]{/0110.png}
+
+现在问: 在发生了B结果的前提下, 它是由 $A_1$ 原因(路径)引起的可能性, 是多少? ← 这就是要用``贝叶斯公式"了. 从``结果",来问``某原因"导致的可能性是多少. \\
+$
+P(A_1|B)=\dfrac{P\left( A_1B \right)}{P\left( B \right)}=\dfrac{\overset{A_1\text{生产线产量占}0.15}{\overbrace{P\left( A_1 \right) }}\cdot \overset{A_1\text{生产线的不合格率}=0.05}{\overbrace{P(B|A_1)}}}{\underset{\text{这个工厂总的不合格率}=0.0315}{\underbrace{P\left( B \right) }}}=\dfrac{0.15\cdot 0.05}{0.0315}=0.238095
+$ \\
+
+同理, 其他原因(其他生产线带来的次品)的可能性是: \\
+$P(A_2|B)=\dfrac{P\left( A_2B \right)}{P\left( B \right)}=\dfrac{P\left( A_2 \right) \cdot P(B|A_2)}{P\left( B \right)}=\frac{0.2\cdot 0.04}{0.0315}=0.253968$ \\
+$P(A_3|B)=\dfrac{P\left( A_3B \right)}{P\left( B \right)}=\dfrac{P\left( A_3 \right) \cdot P(B|A_3)}{P\left( B \right)}=\frac{0.3\cdot 0.03}{0.0315}=0.285714 $ \\
+$P(A_4|B)=\dfrac{P\left( A_4B \right)}{P\left( B \right)}=\dfrac{P\left( A_4 \right) \cdot P(B|A_4)}{P\left( B \right)}=\frac{0.35\cdot 0.02}{0.0315}=0.222222 $ \\
+
+所以, 是第3条生产线造成的原因的可能性最大, 因为其概率值最高.
+\end{myEnvSample} 
+\vspace{1em} 
+
+
+
+
+\begin{myEnvSample}
+某病, 发病率是 0.0004. 有种检测方法, 但存在误诊情况. \\
+我们先设定事件: \\
+- 事件A: 表示某人真有病,即阳性 \\
+- 事件 $\overline{A}$: 表示某人无病, 阴性 
+- 事件B : 表示检测认为该人阳性. \\
+
+该检测方法, 准确度如下: \\
+\includegraphics[width=1\textwidth]{/0111.pdf} \\
+
+问: 一个人被检测为``阳", 那么他真的是``得病"的概率是? 即问: $P(\text{阳人}A \ |\text{阳性}B=?)$ 
+
+\begin{align*}  % 支持每行编号. 若不需要编号, 就用 align*环境
+	P(A|B) &=\frac{\overset{P(\text{前后})=P(\text{前})\cdot P(\text{后|前})}{\overbrace{P\left( AB \right) }}}{\underset{\text{任何一个人被检测为阳的概率}}{\underbrace{P\left( B \right) }}}=\frac{P\left( A \right) \cdot P\left( B|A \right)}{P\left( B \right)}\\
+&=\frac{\overset{=0.0004}{\overbrace{P\left( A \right) }}\cdot \overset{=0.99}{\overbrace{P\left( B|A \right) }}}{\underset{\text{无误诊,将患者}(A)\text{确认为阳性}(B)}{\underbrace{P\left( A \right) \cdot P\left( B|A \right) }}+\underset{\text{有误诊,将阴人}(\overline{A})\text{误诊为阳性}}{\underbrace{\overset{=0.9996}{\overbrace{P\left( \overline{A} \right) }}\cdot \overset{=0.001}{\overbrace{P\left( B|\overline{A} \right) }}}}}\\
+&=\frac{0.0004\cdot 0.99}{0.0004\cdot 0.99+0.9996\cdot 0.001}=0.283749
+\end{align*}
+
+
+\includegraphics[width=0.3\textwidth]{/0112.png}
+
+\end{myEnvSample}
+\vspace{1em} 
 
 
 
@@ -589,6 +689,85 @@ $ \\
 但行为经济学家发现，人们在决策过程中, 往往并不遵循``贝叶斯规律"，而是给予最近发生的事件和最新的经验, 以更多的权重值，更看重近期的事件。面对复杂问题，人们往往会走捷径，依据可能性, 而非概率来做决策. 这种对经典模型的系统性偏离, 称为``偏差". 因此, 投资者在决策判断时, 并非绝对理性.  \\
 但长期以来，由于缺乏有力的``能结合人类决策中的理性和感性因素"的替代工具, 经济学家不得不在分析中坚持``贝叶斯法则".
 
+~\\
+\hrule
+~\\
+
+
+	
+\section{ 事件的独立性}
+
+	
+
+\subsection{``独立"与``互不相容(互斥)"的区别}	
+
+
+\begin{tabular}{|l|l|}
+	\hline
+	独立 &   $P(A \cap B)=P(A) \cdot P(B)$ \\	
+	\hline
+	互斥, 矛盾对立 &  $P(A \cap B)=0$, 并且 $P(A \cup B)=P(A) + P(B)$ \\	
+	\hline
+\end{tabular} \\
+
+
+(1)独立: \\
+- 是指 一个事件(A)的发生概率, 不受另一个事件(B)发生与否的影响. \\
+- 即: $ P(A|B)=P(A)$.  ← 意思就是: 即使B发生的条件下, 来看A发生的情况, 其发生概率和A单独自己发生, 没有任何区别. 换言之, 有没有B先发生, 对A的发生概率毫无影响.\\
+- 若 A,B 是互相独立事件, 则:$ P(AB)=P(A) \cdot P(B) > 0$ \\
+
+- 多个事件彼此独立 : 若 A,B,C 互相独立, 则有: 
+\begin{align*}  % 支持每行编号. 若不需要编号, 就用 align*环境
+	& P(AB)=P(A)\cdot P(B)\\
+& P(BC)=P(B)\cdot P(C)\\
+& P(AC)=P(A)\cdot P(C)\\
+& P(ABC)=P(A)\cdot P(B)\cdot P(C) 
+\end{align*}
+
+
+(2)互斥(互不相容), 彼此矛盾对立: \\
+- \textbf{它指的是: 两个事件不可能同时发生} (至多只有一个发生. 它们可能都不发生, 但不会同时发生). \\
+-  是指两个事件没有交集. \\
+- 从集合的角度看, 几个事件彼此``互斥", 就是指各个事件所含的基本事件组成的集合, 彼此互不相交. \\
+- \textbf{即 $ AB=\varPhi $ 空集.  有你没我, 有我没你.} \\
+- 比如，一个人的性别不是男就是女, 不可能同时既是男又是女. \\
+
+
+\includegraphics[width=0.7\textwidth]{/0113.pdf} \\
+
+
+``独立"与``互斥"不会同时成立. \\
+
+
+
+	
+注意区别:	\\
+→ 事件A的``条件概率" $P(A|B)$ :  \\
+ 事件B的发生, 改变了事件A发生的概率, 也即事件B对事件A有某种``影响”. \\
+ 
+→ 事件A的``无前提条件的概率" $P(A)$ : 这里, 事件B的发生, 对事件A的发生毫无影响，即$ P(A|B)=P(A)$.  \\
+由此又可推出 $ P(B|A)=P(B)$, 即事件A发生对B也无影响. 可见独立性是相互的.  \\
+
+
+\begin{myEnvSample}
+已知: $P(A \cup B)=0.9, P(A)=0.4$, 问: \\
+
+- 当A, B 互斥时, P(B)=? \\
+A, B互斥, 即说明 AB的交集=Φ,  即 P(AB)=0. \\
+因为 $\underset{=0.9}{\underbrace{P(A+B)}}=\underset{=0.4}{\underbrace{P(A)}}+P(B)-\underset{=0}{\underbrace{P(AB)}}$ \\
+所以 $P(B)=0.9-0.4-0=0.5$ \\
+
+
+
+- 当A, B 独立时, P(B)=? \\
+两个事件彼此独立, 则有公式: $P(AB) = P(A) \cdot P(B)$ \\
+但注意: 这里的 P(AB) 不能直接搬用上面的值0. 因为这里的A,B是独立事件, 而非上面的互斥事件.  
+\begin{align*}  % 支持每行编号. 若不需要编号, 就用 align*环境
+	&\underset{=0.9}{\underbrace{P(A+B)}}=\underset{=0.4}{\underbrace{P(A)}}+P(B)-\underset{=P(A)\cdot P(B)}{\underbrace{P(AB)}}\\
+&\text{即:\ }0.9=0.4+P(B)-0.4\cdot P(B)\\
+&0.9-0.4=(1-0.4)\cdot P(B)\\
+&P(B)=\frac{0.5}{0.6}=\frac{5}{6}=0.833333
+\end{align*}
 
 
 
@@ -596,8 +775,32 @@ $ \\
 
 
 
+\end{myEnvSample}
 
 
+
+
+\subsection{A,B 是两个相互独立的事件, 则有: $P(AB)= P(A) \cdot P(B)$}
+
+	即, 事件相互独立: 就是指一个事件发生，不会影响另一个事件的发生或不发生. 两个事件没有相关性，相关系数为0. \\
+	从数学上定义, 就是$ P(AB)=P(A) \cdot P(B)$ \\
+	即: 两个相互独立的事件A和B 都发生的概率, 等于每个事件发生的概率的积. (即等于``分步骤法".) \\
+	
+	另外:  ``Φ 和 Ω" 与``任意事件A" 都独立.
+	
+	
+	
+
+\subsection{若A,B是互相独立的事件, 则有: (1) A与$ \overline{B}$ 独立; (2) $ \overline{A}$ 与B独立; (3) $ \overline{A}$ 与 $ \overline{B}$ 独立}
+	
+	既然A,B 是相互独立的事件了, 彼此发生或不发生, 对另一方毫无影响. 所以, 我上不上岸 (A 或 $\overline{A}$), 和你结不结婚(B 或 $\overline{B}$)毫无影响. 
+	
+	
+	
+\subsection{若 $P(A)=0$ 或 $P(A)=1$, 则 A与``任意事件"都互相独立.}	
+
+	
+	
 
 
 
