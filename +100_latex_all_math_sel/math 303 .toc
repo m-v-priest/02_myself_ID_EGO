@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1} 事件的独立性}{2}{}%
+\contentsline {subsection}{\numberline {1.1}(1)独立事件, (2)互斥(互不相容)事件, (3)对立事件 的区别 }{2}{}%
+\contentsline {subsubsection}{\numberline {1.1.1}独立事件 (一方对另一方的发生概率, 毫无影响) : $P(A)×P(B)=P(A \cap B)$}{2}{}%
+\contentsline {subsubsection}{\numberline {1.1.2}互斥事件 (曹操,刘备,是``互拆"事件关系. 但它们的并集不构成天下的Ω全集, 还有其他竞争诸侯存在) : $P(A)+P(B)=P(A \cup B)$}{3}{}%
+\contentsline {subsubsection}{\numberline {1.1.3}对立事件 (平分天下的刘邦,项羽, 是``对立"事件关系) : P(A+B)=P(A)+P(B)=1=Ω }{5}{}%
+\contentsline {subsection}{\numberline {1.2}A,B 是两个相互独立的事件, 则有: $P(AB)= P(A) \cdot P(B)$}{5}{}%
+\contentsline {subsection}{\numberline {1.3}若A,B是互相独立的事件, 则有: (1) A与$ \overline {B}$ 独立; (2) $ \overline {A}$ 与B独立; (3) $ \overline {A}$ 与 $ \overline {B}$ 独立}{7}{}%
+\contentsline {subsection}{\numberline {1.4}若 $P(A)=0$ 或 $P(A)=1$, 则 A与``任意事件"都互相独立.}{7}{}%
+\contentsline {section}{\numberline {2}伯努利模型 bernoulli model}{7}{}%
+\contentsline {subsection}{\numberline {2.1}伯努利试验 : 其试验结果只有两种: 成功, 失败}{7}{}%
+\contentsline {subsection}{\numberline {2.2} n重伯努利试验 : 事件A恰好发生k次的概率,就是= }{8}{}%
