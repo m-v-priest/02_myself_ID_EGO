@@ -5,10 +5,10 @@
     ],
     "formatVersion": 1,
     "menu": "",
-    "name": "表格内换行",
+    "name": "①",
     "shortcut": "",
     "tag": [
-        "\\makecell[l]{ 1 \\\\ 2 }"
+        "\\textcircled{1}"
     ],
     "trigger": ""
 }
