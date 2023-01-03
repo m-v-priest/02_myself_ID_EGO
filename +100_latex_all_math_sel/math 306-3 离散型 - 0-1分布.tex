@@ -1,0 +1,69 @@
+\documentclass[UTF8]{ctexart}
+
+\usepackage{subfiles}  
+
+%下面的语句, 引入你的头部设置文件
+\usepackage{C:/phpStorm_proj/02_myself_ID_EGO/+100_latex_all_math_sel/myPreamble} 
+%必须是绝对路径，才能让各个tex在单独编译时使用到
+
+\title{文件名}
+
+
+%---------------------------------
+
+
+\begin{document}
+	\tableofcontents % 生成目录
+	\date{} % 若不写这句, 则默认也会渲染出日期, 所以我们要手动赋空值
+	\maketitle  %这行代码, 让你前面的 title, author, date生效
+	
+	
+	\section{离散型 : 0-1分布 (0-1 distribution) :  $ P\left\{ X=k \right\} =P^k\cdot \left( 1-P \right) ^{1-k}\ \ \ k=0,1 $}
+	
+		
+	
+	``0-1分布", 只是``二项分布"的一种特例而已. \\
+	
+		0-1分布, 即随机变量X, 只能取 1 和 0.  即:只有两种试验结果. 而且试验只做一次. \\		
+		- 当 X=1 时, 其概率 P=P \\
+		- 当 X=0 时, 其概率 P=1-P \\
+		
+		\begin{tabular}{|c|c|c|}
+			\hline
+			X= & 1 & 0 \\
+			\hline
+			P= & P & 1-P \\
+			\hline
+		\end{tabular} \\
+	
+		``0-1分布"的公式是: \\
+		$ \boxed{
+		P\left\{ X=k \right\} =P^k\cdot \left( 1-P \right) ^{1-k}\ \ \ k=0,1
+		}	$ 	← 这个公式, 其实是``二项分布"的一种特例. \\
+	
+	即: $ \left\{ \begin{array}{l}
+			\text{当}k=0\text{时,\ }P^k\cdot \left( 1-P \right) ^{1-k}=P^0\cdot \left( 1-P \right) ^{1-0}=1-P\\
+			\text{当}k=1\text{时,\ }P^k\cdot \left( 1-P \right) ^{1-k}=P^1\cdot \underset{1}{\underbrace{\left( 1-P \right) ^{1-1}}}=P\\
+		\end{array} \right. $ \\
+	\vspace{1em} 
+	
+	\begin{myEnvSample}
+		有一批产品, 次品率是10\%. 从中抽1个来检验(即只做一次实验). 我们令: \\
+		$
+		\text{随机变量}X=\left\{ \begin{array}{l}
+			1\ :\text{表示抽到}``\text{合格品}"\\
+			0\ :\text{表示抽到}``\text{次品}"\\
+		\end{array} \right. 
+		$ \\
+		所以: 
+		$
+		\left\{ \begin{array}{l}
+			P\left\{ X=0 \right\} =0.1\ \gets \text{次品率}\\
+			P\left\{ X=1 \right\} =1-0.1=0.9\\
+		\end{array} \right. 
+		$
+	\end{myEnvSample}
+
+	
+	
+\end{document}

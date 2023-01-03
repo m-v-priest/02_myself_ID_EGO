@@ -7,7 +7,7 @@
 \contentsline {subsection}{\numberline {5.1}泊松分布的意义 --- 为我们开启了``统计推断"的大门}{15}{}%
 \contentsline {subsection}{\numberline {5.2}泊松分布, 其实就是``二项分布"的一种特殊情况. 当二项分布中的 n → ∞; p→ 0 时, 我们就能用``泊松分布", 来近似该``二项分布".}{16}{}%
 \contentsline {subsection}{\numberline {5.3}性质 : 单位时间段越长, ``泊松分布"会向``正态分布"看齐 }{17}{}%
-\contentsline {subsection}{\numberline {5.4}性质 : 前后两次事件的``发生时间间隔", 无``记忆性"}{17}{}%
+\contentsline {subsection}{\numberline {5.4}性质 : 前后两次事件的``发生时间间隔", 无``记忆性"}{18}{}%
 \contentsline {part}{第二部分\hspace {1em}``连续型数据"(PDF) 的分布}{18}{}%
-\contentsline {section}{\numberline {6}正态分布}{18}{}%
-\contentsline {section}{\numberline {7}指数分布}{18}{}%
+\contentsline {section}{\numberline {6}正态分布}{19}{}%
+\contentsline {section}{\numberline {7}指数分布}{19}{}%
