@@ -1,0 +1,286 @@
+\documentclass[UTF8]{ctexart}
+
+\usepackage{subfiles}  
+
+%下面的语句, 引入你的头部设置文件
+\usepackage{C:/phpStorm_proj/02_myself_ID_EGO/+100_latex_all_math_sel/myPreamble} 
+%必须是绝对路径，才能让各个tex在单独编译时使用到
+
+\title{文件名}
+
+
+%---------------------------------
+
+
+\begin{document}
+	\tableofcontents % 生成目录
+	\date{} % 若不写这句, 则默认也会渲染出日期, 所以我们要手动赋空值
+	\maketitle  %这行代码, 让你前面的 title, author, date生效
+	
+	
+	
+	
+	\part{条件概率}
+	
+	\section{``条件概率" :  $ \boxed{	P(A|\text{条件}B)=\dfrac{P(A\cap B)}{P(\text{条件}B)}=\dfrac{\text{事件}A,B\text{同时发生的概率}}{\text{事件}B\text{发生的概率}}		}$}
+	
+	条件概率是: 有A, B 两个事件, 和样本空间 Ω. 其中 $P(B) >0$, 则, 在B已经发生的条件下, A发生的概率, 就叫做A对B 的``条件概率". 记作:  P(A| 条件B), 读作``在B发生的条件下, A发生的概率”. \\
+	
+	即, 条件概率公式是: $
+	P(A \ | condition B) =\dfrac{\overset{\text{这个分子即:\ AB同时发生了}}{\overbrace{\text{在B发生条件下,A发生的样本点数}}}}{\text{B里面有多少个样本点}}=\dfrac{\text{n}_{\text{AB}}}{\text{n}_{\text{B}}}
+	$ \\
+	
+	还可写成:  $
+	P(A \ | condition B) 
+	=\dfrac{\text{P}\left( \text{A}\cap \text{B} \right)}{\text{P}\left( \text{B} \right)}
+	=\dfrac{\frac{\text{n}_{\text{AB}}}{\text{n}}}{\dfrac{\text{n}_{\text{B}}}{\text{n}}}=\dfrac{\text{n}_{\text{AB}}}{\text{n}_{\text{B}}}
+	$ \\
+	
+	\includegraphics[width=0.5\textwidth]{/0088.pdf} \\
+	
+	如上图所示, 注意: 概率是个比值, 所以你光有分子那块的交集值, 是没用的, 它还需要与另一个数(分母)去比. \\
+	
+	上面公式中, P(AB) (← 也可写作 $P(A \cap B)$) 的计算公式是什么呢? \\
+	- 如果事件A, 和事件B 是相互独立的, 则 $P(AB) = P(A) \cdot P(B)$ \\
+	- 如果事件A, 和事件B 不相互独立, 则只能用``条件概率"公式, 来求P(AB), 即: 
+	\begin{align*}  % 支持每行编号. 若不需要编号, 就用 align*环境
+		\boxed{
+			P(AB) =   P(B) \cdot P(A |B) = P(A)  \cdot P(B |A)
+		}
+	\end{align*}
+	\\
+	
+	
+	注意: ``条件概率", 和``分步骤法"的区别: \\
+	- 分步骤法 (用乘法): 前后每一步骤的事件是相互独立的, 彼此没有条件关系.  \\
+	比如, 第一步你结婚, 第二步我结婚. 我们这两件事发生的概率互不影响. \\
+	
+	- 条件概率 (里面也有用到乘法): 前面的事件, 有可能会(但并不一定)影响到后面事件的发生概率. 即前后事件之间并不互相独立.  \\
+	会影响的例子: 比如一共有100个上岸机会, 则第一步你上岸的成功概率, 会影响到第二步我上岸的成功概率. (你若成功, 留给我的名额数量就会更少.) \\
+	彼此独立的例子: 比如在你回国的条件下, 我出门的概率. 两者发生的概率毫无关系. 你回不回国, 跟我会出不出门没半毛钱关系. \\
+	
+	
+	
+	
+	\begin{myEnvSample}
+		有6个球, 各有编号.  我们先定义下这些事件: \\
+		- B: 取到偶数编号的球 \\
+		- $A_1$: 取到1号球 \\
+		- $A_2$: 取到2号球 \\
+		- $A_5$: 取到大于4号的球 \\
+		
+		则: \\
+		- $
+		\overset{\text{取到1号球的概率}}{\overbrace{\text{P(A}_1\text{)}}}=\frac{\overset{1\text{号球选}1}{\overbrace{\text{C}_{1}^{1}}}}{\underset{\text{全6选}1}{\underbrace{\text{C}_{6}^{1}}}}=\frac{1}{6}=0.166667
+		$
+		
+		- $
+		\text{P}\left( \text{A}_1|\text{B} \right) =\frac{\text{在B条件里面,取到A}_1\text{(即1号球)}}{\text{B:\ 取到偶数编号的球}}=\frac{\overset{\text{偶数编号的球里面,\ 取不到奇数编号的球}}{\overbrace{0}}}{\underset{3\text{个偶数球里面取1个}}{\underbrace{\text{C}_{3}^{1}}}}=0
+		$
+		
+		- $
+		\text{P}\left( \text{A}_2|\text{B} \right) =\frac{\overset{1\text{个编号2的球里面,取1个}}{\overbrace{\text{C}_{1}^{1}}}}{\underset{3\text{个偶数球里面取1个}}{\underbrace{\text{C}_{6}^{3}}}}=\frac{1}{3}
+		$
+		
+		- $
+		\text{P}\left( \text{A}_5|\text{B} \right) =\frac{\text{在B条件里面,取到大于4号的球}}{\text{B:\ 取到偶数编号的球}}=\frac{\overset{5,6\text{号与偶数的交集,\ 只有6号一个球}}{\overbrace{1}}}{3}
+		$
+		
+	\end{myEnvSample}
+	\vspace{1em} 
+	
+	
+	
+	\begin{myEnvSample}
+		某地10万人, 其中平均有40人患甲病; 有34人患乙病; 两种病都患的有32人. 		则, 我们设: \\
+		→ 事件A : 是一个人得甲病 \\
+		→ 事件B : 是一个人得乙病 \\
+		
+		即有: \\
+		$		P(A)=\frac{40}{100000}=0.0004		$ \\
+		$		P(B)=\frac{34}{100000}=0.00034		$ \\
+		$		P(AB)=\frac{32}{100000}=0.00032		$ \\
+		\includegraphics[width=0.7\textwidth]{/0103.pdf} \\
+		\includegraphics[width=0.3\textwidth]{/0104.pdf} 	
+	\end{myEnvSample}
+	
+	
+	~\\
+	\hrule
+	~\\
+	
+	
+	\section{条件概率的性质}
+	
+	\subsection{性质: $ P(A | \text{条件}B) >= 0$}
+	
+	
+	\subsection{性质: $ P(\Omega | \text{条件}B) = 1$}
+	
+	\includegraphics[width=0.25\textwidth]{/0089.pdf}
+	
+	
+	\subsection{性质: $ \text{P}\left( \text{A}_1\cup \text{A}_2\ |\text{B} \right) =\text{P}\left( \text{A}_1\ |\text{B} \right) +\text{P}\left( \text{A}_2\ |\text{B} \right) -\text{P}\left( \text{A}_1\text{A}_2\ |\text{B} \right) 		$}
+	
+	\subsection{性质: $	\text{P}\left( \text{A\ |B} \right) =1-\text{P}\left( \overline{\text{A}}\ |\text{B} \right) 	$}
+	
+	\subsection{性质: 可列可加性:  若$ A_1, A_2, ... A_n, ...$ 是``互不相容"的事件, 则有: $ P(\sum_{i=1}^\infty A_i | B) = \sum_{i=1}^ \infty P(A_i | B)$ ← 即: ``和的概率", 等于``概率的和"} 
+	
+	
+	
+	~\\
+	\hrule
+	~\\
+	
+	
+	
+	\section{``条件概率"的乘法公式 : $ \boxed{			
+			P(\text{前后})=P(\text{后}) \cdot P(\text{前}|\text{\text{后}}) = P(\text{\text{前}}) \cdot P(\text{后}|\text{前})}$}
+	
+	推导过程: \\
+	\includegraphics[width=0.8\textwidth]{/0090.pdf} \\
+	\includegraphics[width=0.8\textwidth]{/0091.pdf} \\
+	
+	同理, 多个事件的乘法公式就是:  \\
+	→ $ \boxed{
+		\text{P(ABC)}=\underbrace{\text{P(A)}}\cdot \underbrace{\text{P(B|A)}}\cdot \underbrace{\text{P(C|BA)}} 	
+	}
+	$ \\
+	↑ 上面``从右往左"看, 就是按 A,B,C 的顺序 \\
+	
+	→ \includegraphics[width=0.95\textwidth]{/0092.pdf} \\
+	↑ 上面``从右往左"看, 就是按$A_1, A_2, ... , A_n$的顺序 \\
+	
+	
+	
+	
+	\begin{myEnvSample}
+		有100件产品, 次品率=10\%, 即有10件次品. 做不放回抽样, 问: 第3次才取到合格品的概率是? \\
+		我们先令: \\
+		- $A_1$ 表示第1次取, 就取到了合格品 \\
+		- $A_2$ 表示第2次取, 取到了合格品 \\
+		- $A_3$ 表示第3次取, 取到了合格品 \\
+		
+		那么第3次才取到合格品, 就是:  \\
+		\includegraphics[width=0.8\textwidth]{/0093.pdf} 		
+	\end{myEnvSample}
+	\vspace{1em}
+	
+	
+	
+	\begin{myEnvSample}
+		某产品:  \\
+		- 甲公司占60\%市场份额, 且其产品合格率是 90\% \\
+		- 乙公司占40\%市场份额, 且其产品合格率是 80\% \\
+		
+		我们先定义下这些事件: \\
+		- J: 表示产品是甲的 \\
+		- $\overline{\text{J}}$: 表示产品是乙的 \\
+		- Q (qualified) : 表示产品是``合格"的 \\
+		- $\overline{\text{Q}}$ : 表示产品是``不合格"的 \\
+		
+		问, 你买一个产品, 是甲公司的, 并且是合格的概率是? \\
+		$
+		\text{P}\left( \text{JQ} \right) =\underset{=0.6}{\underbrace{\text{P}\left( \text{J} \right) }}\cdot \underset{\text{甲的合格率}=0.9}{\underbrace{\text{P}\left( Q \ | J \right) }}=0.54
+		$ \\
+		
+		问, 你买一个产品, 是乙公司的, 并且是合格的概率是? \\
+		$
+		\text{P}\left( \overline{\text{J}}\text{Q} \right) =\underset{=0.4}{\underbrace{\text{P}\left( \overline{\text{J}} \right) }}\cdot \underset{\text{乙条件下的合格率}=0.8}{\underbrace{\text{P}\left(Q \ | \overline{\text{J}} \right) }}=0.32
+		$      
+	\end{myEnvSample}
+	\vspace{1em} 
+	
+	
+	
+	
+	\begin{myEnvSample}
+		抽签, 共10签, 其中有4个为``成功上岸"的好签. 甲乙丙三人, 按顺序依次去抽, 不放回. \\
+		我们先设定事件:  \\
+		- A: 表示甲 抽到``成功" \\
+		- B: 表示乙 抽到``成功" \\
+		- C: 表示丙 抽到``成功" \\
+		
+		问, (1) 甲抽到``成功"的概率? 
+		$
+		\text{P}\left( \text{A} \right) =\dfrac{\text{C}_{4\text{好签}}^{1}}{\text{C}_{10\text{签}}^{1}}=\frac{4}{10}=0.4
+		$ \\
+		
+		(2) 甲乙都抽到``成功"的概率?  
+		\begin{align*}  % 支持每行编号. 若不需要编号, 就用 align*环境
+			&\text{P}\left( \text{AB} \right) =\underset{\text{第1步:甲先成功}}{\underbrace{\text{P}\left( \text{A} \right) }}\cdot \underset{\text{第2步:在甲成功的前提下,\ 乙再成功}}{\underbrace{P(B|A) }}\\
+			&=\frac{\overset{\text{甲先抽掉一张好签}}{\overbrace{\text{C}_{4\text{好签}}^{1}}}}{\text{C}_{10\text{签}}^{1}}\cdot \frac{\overset{\text{乙就只能从剩下的3张好签中来抽了}}{\overbrace{\text{C}_{4\text{好签}-1}^{1}}}}{\text{C}_{10\text{签}-1}^{1}}
+			=\frac{4}{10}\cdot \frac{3}{9}=0.133333
+		\end{align*}
+		
+		
+		(3) 甲失败, 乙成功 的概率? 
+		\begin{align*}  % 支持每行编号. 若不需要编号, 就用 align*环境
+			&P\left( \overline{A}B \right) =\underset{\text{第1步:甲先失败}}{\underbrace{P\left( \overline{A} \right) }}\cdot \underset{\text{第2步:在甲失败的前提下,\,\,乙再成功}}{\underbrace{P\left( B\,\,|\overline{A} \right) }} \\
+			&=\frac{\overset{\text{甲先从共6张坏签中取}1}{\overbrace{\text{C}_{6\text{坏签}}^{1}}}}{\text{C}_{10\text{签}}^{1}}\cdot \frac{\overset{\text{乙从共4张好签中取}1}{\overbrace{\text{C}_{4\text{好签}}^{1}}}}{\text{C}_{10\text{签}-1}^{1}}=\frac{6}{10}\cdot \frac{4}{9}=0.266667
+		\end{align*}
+		
+		
+		
+		(4) 甲乙丙都抽到``成功"的概率? 
+		\begin{align*}  % 支持每行编号. 若不需要编号, 就用 align*环境
+			&P\left( ABC \right) =\underset{\text{第1步:甲先成功}}{\underbrace{P\left( A \right) }}\cdot \underset{\text{第2步:在甲成功的前提下,\,\,乙再成功}}{\underbrace{P\left( B\,\,|A \right) }}\cdot \underset{\text{第3步:在甲乙都成功的前提下,丙再成功}}{\underbrace{P\left( C|BA \right) }}\\
+			&=\frac{\text{C}_{4\text{好签}}^{1}}{\text{C}_{10\text{签}}^{1}}\cdot \frac{\text{C}_{\text{还剩3好签}}^{1}}{\text{C}_{\text{还剩9签}}^{1}}\cdot \frac{\text{C}_{\text{还剩2好签}}^{1}}{\text{C}_{\text{还剩8签}}^{1}}\\
+			&=\frac{4}{10}\cdot \frac{3}{9}\cdot \frac{2}{8}=0.0333333
+		\end{align*}
+	\end{myEnvSample}
+	\vspace{1em} 
+	
+	
+	
+	
+	\begin{myEnvSample}
+		你的新邻居, 是个 is very shy and withdrawn, invariably helpful but with very little interest in people or in the world of reality. A meek and tidy soul, he has a need for order and structure, ant a passion for detail. \\
+		你觉得他更可能是 -- 图书管理员, 还是农民? \\
+		大多数人会认为他是图书馆管理员. 其实, 这种判断是"非理性"的. 问题的关键在于 -- 你没有把这两种职业的"人数比例"考虑进去. \\
+		
+		\includegraphics[width=1\textwidth]{/0099.pdf}
+		
+		所以, 即使你认为``符合这个描述的人是一个图书馆管理员的可能性, 是一个农民的4倍", 也抵不过农民的数量很多.
+	\end{myEnvSample}
+	\vspace{1em} 
+	
+	
+	
+	\begin{myEnvSample}
+		辛普森杀妻案, 原告证明辛普森常常家暴前妻. 他们认为, 长期家暴说明辛普森有杀妻的动机. 被告律师则举出数据反驳说, 美国有400万被家暴的妻子, 但只有1432名被丈夫杀害, 这个概率只有$ \frac{1432} {400\text{万}}$ = 比1/2500还低. 所以家暴证明不了辛普森谋杀. \\	
+		被告想表达的是: 在``家暴"这个事件前提条件下, 丈夫谋杀妻子的概率不高. 即 P(丈夫家暴∩丈夫杀妻) = 概率值很低.  \\
+		
+		你怎么看? 事实上, 被告举出的概率, 不适用于这个案子上. 因为本案的妻子已经死亡, ``妻子已死"也变成了一个已经存在的前提条件. 所以现在我们要看的概率就是:  P(丈夫家暴∩妻子已死亡∩是丈夫杀妻)=?  即: 在``被家暴"且``死亡"的妻子数量里面 (这里就有两个前提条件了, 而不是仅一个前提条件), 有多少是被丈夫杀害的?  \\
+		
+		\includegraphics[width=0.6\textwidth]{/0100.pdf} \\
+		即: \\
+		- 辛普森律师一方 的概率公式是: $ \dfrac{\text{红色}} {Violence} < \frac{1} {2500}$ \\
+		- 妻子一方律师 的概率公式是: $ \dfrac{\text{红色}} {\text{红色+黄色}}=93\% $ \\
+		
+		
+		根据美国1992年发布的数据推算: 每10万个被家暴的妇女中, 有43个会被谋杀. 其中40个是被丈夫谋杀, 其他3个是被丈夫以外的人谋杀. 那么, 条件概率就是: \\
+		$
+		P\left( A\ |B \right) =\frac{P\left( AB \right)}{P\left( B \right)}
+		$ \\
+		$
+		P\left( \text{丈夫杀\ |家暴}\cap \text{妻死} \right) =\dfrac{P\left( \text{家暴}\cap \text{妻死}\cap \text{丈夫杀} \right)}{P\left( \text{家暴}\cap \text{妻死} \right)}=\dfrac{\dfrac{40}{100000}}{\dfrac{43}{100000}}=0.930233
+		$\\
+		
+		你仔细体会一下两者的不同: \\
+		- 辛普森方, 是说: 在所有``之后活着和死去"的被家暴的妻子里, 被丈夫杀了的可能性是多大. 即 $\dfrac{\text{丈夫杀害}} {\text{条件: 1.被家暴}}$ \\
+		- 妻子方, 是说: 在所有``死去"的被家暴的妻子里, 被丈夫杀了的可能性是多大? 即$ \dfrac{\text{\text{丈夫杀害}}} {\text{条件: 1.被家暴 \& 2.死亡}}$ \\
+		
+		不过, 即使概率高达93\%，也不能绝对证明辛普森杀了妻子. 因为\textbf{``条件概率"只表示统计意义上的``相关性", 并不代表``因果关系".} 即只说明: 家暴和谋杀妻子之间有很强的相关性。
+		
+		
+	\end{myEnvSample}
+	
+	
+	
+	
+	
+	
+	
+	
+\end{document}

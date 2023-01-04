@@ -1,0 +1,249 @@
+\documentclass[UTF8]{ctexart}
+
+\usepackage{subfiles}  
+
+%下面的语句, 引入你的头部设置文件
+\usepackage{C:/phpStorm_proj/02_myself_ID_EGO/+100_latex_all_math_sel/myPreamble} 
+%必须是绝对路径，才能让各个tex在单独编译时使用到
+
+\title{文件名}
+
+
+%---------------------------------
+
+
+\begin{document}
+	\tableofcontents % 生成目录
+	\date{} % 若不写这句, 则默认也会渲染出日期, 所以我们要手动赋空值
+	\maketitle  %这行代码, 让你前面的 title, author, date生效
+	
+	
+	
+	\part{排列 and 组合}
+	
+	\section{加法原理, 乘法原理}
+	
+	- 一件事, 只需``一步"就能完成. 但这一步中有几种不同的方案可供选择, 就用``加法"原理. \\	
+	- 一件事, 要分成``几步骤"才能完成. 每一步, 又有几种不同的选择方案. 就用``乘法"原理. \\
+	
+	
+	\begin{myEnvSample}
+		上海汽车摇号, 成功率是 5\%. \\
+		有灰产称: 能帮你将中签率从5\% 提高到 50\%, 只要三次就能保证你中签. \\
+		→ 若成功 : 你车20的话, 他们就收你 10\% (即2万.) \\
+		→ 若失败: 代理费全部返还你, 并再陪你 800元. \\
+		问: 1.他们真的有内部资源吗? 2. 他们会亏还是赚? \\
+		
+		正常人, 摇号三次, 每月一次. 即三个月后中签的概率是多少呢? \\
+		→ 错误的算法: $	0.05^3=0.000125	$. ← 这算的是``连续3个月, 每个月都能中奖的概率"! \\
+		→ 正确的算法: 先算连续三个月, 每个月都没中奖的概率 ($=0.95^3=0.857375	$), 然后再1减去这个概率值 ($1-0.95^3=0.142625$). 这个结果, 就是``至少有一个月能中奖的概率", 即 14.2\%. \\
+		
+		现在, 我们就用 正常人三个月中的中一次奖的概率 14.2 \%, 来算算灰产的收益. \\
+		灰产找来100人, 三个月后: \\
+		→ 其中会有平均14\%个人中签. 每人收2万, 就是总收入 14×2=28万. \\
+		→ 还有平均86个人没中签, 每人赔偿800元, 灰产支出 = 86×800 =68800元. \\
+		→ 即灰产的总收入 = 收入28万 - 支出 6.88万 = 21.12万. \\
+		显然, 灰产根本不需要什么内部资源, 直接普通人的中签概率, 就能在100人中, 净赚21.12万元. \\
+		
+		那么, 我们继续来算一下, 对于没中签的客户, 灰产要陪他们每人多少钱, 灰产才能不赚不亏呢?  即灰产能赚到的钱, 要全部赔出去. \\
+		即: 
+		\begin{align*}  % 支持每行编号. 若不需要编号, 就用 align*环境
+			&	280000\text{元总收入}=86\text{人}\cdot x\text{元}\\
+			& x=\frac{280000}{86}=3255.81\text{元/人}
+		\end{align*} 
+		
+		所以如果你是客户, 要让灰产赔 3255元/人, 如果他们能够接受, 你才能相信他们的确可能有内部资源.
+		
+		
+		
+		
+		
+		
+	\end{myEnvSample}
+	
+	
+	
+	
+	
+	
+	\section{排列 permutation}
+	
+	
+	
+	
+	
+	\subsection{不重复排列 : $ \boxed{
+		\text{P}_{\text{总数n}}^{\text{选出的数量m}}=\dfrac{\text{总数!}}{\text{(总数}-\text{选数)!}}		}$}
+	
+	不重复排列: 就是从n个不同的元素中, 取出m个来排列, 排过的元素不放回, 没有下次排列资格了. 
+	
+	则, 所有可能的排列(Permutation)方案, 就是:	
+	
+	$
+	\boxed{		\text{P}_{\text{总数n}}^{\text{选出的数量m}}=\text{n(n}-1\text{)(n}-2\text{)...(n}-\text{m}+1\text{)}=\dfrac{\text{n!}}{\text{(n}-\text{m)!}}=\dfrac{\text{总数!}}{\text{(总数}-\text{选数)!}} 
+	}
+	$
+	
+	\begin{myEnvSample}
+		10人选5人上岸, 共有多少种选择?
+		
+		$
+		\text{P}_{\text{总}10}^{\text{取}5}=\frac{\text{总!}}{\text{(总}-\text{选)!}}=\frac{10!}{\text{(}10-5\text{)!}}=30240
+		$
+	\end{myEnvSample}
+	
+	
+	
+	
+	
+	\subsection{全排列 : $\boxed{
+		\text{P}_{\text{总数n}}^{\text{n}}=\text{n!}	}$ }
+	
+	全排列, 就是从n个里面, 取出全部n个来排列, 即所有的元素都参与了排列.
+	
+	$ \boxed{
+		\text{P}_{\text{总数n}}^{\text{n}}=\text{n(n}-1\text{)(n}-2\text{)}...3\cdot 2\cdot 1=\text{n!}
+	}
+	$ \\
+	
+	例如:
+	
+	- $	\text{P}_{2}^{2}=2!=2	$ \\	
+	- $ \text{P}_{1}^{1}=1!=1$ \\
+	
+	\begin{myEnvSample}
+		一套书,共5本, 排在一起. 问: 自左向右, 或自右向左, 是按着1,2,3,4,5编号顺序的概率是?
+		
+		即 =$
+		\dfrac{\text{顺序排是1种情况}+\text{倒序排是1种情况}}{\text{P}_{\text{总}5}^{\text{选}5}}=\dfrac{2}{\text{P}_{5}^{5}}=\dfrac{1}{60}=0.0166667
+		$
+	\end{myEnvSample} 
+	
+	
+	
+	- $0!=1$.  因为: 
+	
+	(1) 解释1: $\text{m!}=\text{m(m}-1\text{)!}$, 如 $10! =10 \cdot 9!$. 所以 $1! = 1 \cdot 0!$, 即得到 $0!=1$
+	
+	(2) 解释2: $P_{0}^{0}$ 就是从0个元素里面, 取出0个元素来排列. 这只有一种情况: 即 ``不选". 因为不存在任何元素, 所以没法选. 所以 $P_0^0=0!=1$ \\
+	
+	- $5^0 =1$ ← 因为 $5^0=5^{1-1}=\frac{5^1}{5^1}=1$ \\	
+	- $0^0$ 无意义. ← 因为 $0^0=0^{1-1}=\frac{0^1}{0^1}$, 而分母不能为0, 所以该式子无意义.
+	
+	
+	
+	\subsection{重复排列}
+	
+	即: 排过队的元素, 可以拿回去, 重复参加后面的排队.  (但同一元素的位置交换 不能认为是不同排列。)
+	
+	重复排列: $\underset{\text{共取了m次的n}}{\underbrace{\text{n}\cdot \text{n}\cdot ...\cdot \text{n}}}=\text{n}^{\text{m}}	$ \\
+	
+	
+	\subsection{``送利益"模型 (放球模型)}
+	
+	将$n_{benefit}$种利益, 随机投送给$N_{man}$个人 ($N_{man}\ge n_{benefit}$). 问: 每个人中, 最多只拿到1种利益的概率?
+	
+	→ 先看样本空间: 第1种利益, 有$N_{man}$个人的去向可供选择; 第2种利益, 同样如此, ... 所以, 根据``分步骤"法, 全部$n_{benefit}$种利益, 它们的所有去向, 就共有: $\underset{\text{共}n_{benefit}\text{个}}{\underbrace{N_{man}\cdot N_{man}\cdot ...\cdot N_{man}}}=N^n	$ 个.
+	
+	→ 再来看``每个人中, 最多只拿到1种利益": 第1个人,
+	
+	未完待续... 这里没看懂
+	
+	
+	
+	%	\begin{myEnvSample}
+		%		假设每个人的生日, 在一年365天中的任何一天都是``等可能性"的, 即可能性均是 1/365. 问: \\
+		%		
+		%		(1) 随机取 n个人 ($n \leq 365$), 他们的生日各不相同 的概率是?
+		%		
+		%		那么第1个人, 可选的范围概率就是:  最自由, 在 365天里随便选1天. 即: $$
+		%		
+		%		
+		%		(2) n个人中, 至少两人生日相同的概率是?
+		%		
+		%		
+		%
+		%	\end{myEnvSample}
+	%	
+	
+	
+	
+	
+	
+	
+	\section{组合 combination : $ \boxed{
+		\text{C}_{\text{总}}^{\text{选}}=\frac{\text{总!}}{\text{选!}\left( \text{总}-\text{选!} \right)}	= C_{\text{总}}^{\text{总}-\text{选}}	}$}
+	
+	组合: 是从n个不同元素中, 每次取出m个不同元素 ($0 \leq m \leq n$) , 合成一组, 而不需要管排队顺序, 就称为: 从n个元素中不重复地选取m个元素的一个组合. \\
+	
+	即: 有顺序, 就用排列; 无顺序, 就用组合. \\
+	
+	组合的公式是: 
+	
+	$\boxed{
+		\text{C}_{\text{总数}}^{\text{选数}}=\frac{\text{P}_{\text{总}}^{\text{选}}}{\text{选!}}=\frac{\text{总!}}{\text{选!}\left( \text{总}-\text{选!} \right)}	
+	}$
+	
+	$\boxed{
+		\text{C}_{\text{总}}^{\text{选}}=\text{C}_{\text{总}}^{\text{总}-\text{选}}	
+	}$ \\
+	
+	上面第二个公式的意思是: 比如你有100人, 选其中10人上岸, 就相当于是选90人不上岸. 即: $\text{C}_{100}^{10}=\text{C}_{100}^{100-10}=\text{C}_{100}^{90}
+	$ \\
+	
+	同理, 有 : $
+	\boxed{\text{C}_{\text{总}}^{0}=\text{C}_{\text{总}}^{\text{总}-0}=\text{C}_{\text{总}}^{\text{总}}
+	}$ \\
+	
+	
+	\begin{myEnvSample}
+		有共N人, 其中有w个女, 你任抽n人, 其中恰好有x个女人 ($x \leq w$) (记为事件A) 的概率是? 
+		
+		我们用``分步骤法"来做: 第一步, 先取x个女人. 第二步, 再取男人(数量就是= n-x). \\
+		
+		$
+		\text{P(A)}=\dfrac{\text{取到x女}}{\text{从总N人中取n人}}=\dfrac{\overset{\text{第一步:先从全部女人里面,取x个女人}}{\overbrace{\text{C}_{\text{总w女}}^{\text{取x女}}}}\cdot \overset{\text{第二步:再从总男人里,取剩下的男人数量}}{\overbrace{\text{C}_{\text{总N人}-\text{总w女}=\text{总男人数}}^{\text{总取n人}-\text{x女}}}}}{\text{C}_{\text{总N人}}^{\text{取n人}}}
+		$ \\
+		
+		上面这个公式, 其实就是``古典概型"里面的``超几何分布".
+	\end{myEnvSample}
+	\vspace{1em} 
+	
+	
+	
+	\begin{myEnvSample}
+		有共9球, 5白, 4黑. 任取3球, 问:
+		
+		(1) 是 2白1黑 的概率: 		
+		$
+		\text{P(2白1黑)}=\frac{\overset{\text{第一步:5白取}2}{\overbrace{\text{C}_{5}^{2}}}\cdot \overset{\text{第二步:4黑取}1}{\overbrace{\text{C}_{4}^{1}}}}{\underset{\text{总9取}3}{\underbrace{\text{C}_{9}^{3}}}}=0.47619
+		$ \\
+		
+		(2) 取到的3球中, 无黑球 :		
+		$
+		\text{P(3白)}=\frac{\overset{5\text{白取}3}{\overbrace{\text{C}_{5}^{3}}}}{\underset{\text{总9取}3}{\underbrace{\text{C}_{9}^{3}}}}=0.119048
+		$ \\
+		
+		(3) 取到的3球中, 颜色相同 : 		
+		$
+		\text{P(3球同色)}=\frac{\overset{5\text{白取}3}{\overbrace{\text{C}_{5}^{3}}}\overset{\text{或}}{\overbrace{+}}\overset{4\text{黑取}3}{\overbrace{\text{C}_{4}^{3}}}}{\underset{\text{总9取}3}{\underbrace{\text{C}_{9}^{3}}}}=0.166667
+		$
+		
+		或, 也可用第二种思路来解:  		
+		\begin{align*}  % 支持每行编号. 若不需要编号, 就用 align*环境
+			&\text{P(3球同色)}=1-\text{P(3球存在不同色)}\\
+			&=1-\frac{1\text{白2黑,\ 或2白1黑}}{9\text{取}3}\\
+			&=1-\frac{\overset{5\text{白取}1; }{\overbrace{\text{C}_{5}^{1}}}\overset{4\text{黑取}2}{\overbrace{\text{C}_{4}^{2}}}\overset{\text{或}}{\overbrace{+}}\overset{5\text{白取}2; }{\overbrace{\text{C}_{5}^{2}}}\overset{4\text{黑取}1}{\overbrace{\text{C}_{4}^{1}}}}{\text{C}_{9}^{3}}\\
+			&=0.166667
+		\end{align*}
+		
+	\end{myEnvSample}
+	
+	
+	
+	
+	
+	
+	
+	
+\end{document}

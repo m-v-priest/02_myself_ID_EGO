@@ -1,0 +1,62 @@
+\documentclass[UTF8]{ctexart}
+
+\usepackage{subfiles}  
+
+%下面的语句, 引入你的头部设置文件
+\usepackage{C:/phpStorm_proj/02_myself_ID_EGO/+100_latex_all_math_sel/myPreamble} 
+%必须是绝对路径，才能让各个tex在单独编译时使用到
+
+\title{概率}
+
+
+%---------------------------------
+
+
+\begin{document}
+	\tableofcontents % 生成目录
+	\date{} % 若不写这句, 则默认也会渲染出日期, 所以我们要手动赋空值
+	\maketitle  %这行代码, 让你前面的 title, author, date生效
+	
+	
+
+\part{频率}
+
+做n次试验, A事件发生了m次, 我们就把 $\dfrac{A\text{事件发生的次数}m}{\text{共}n\text{次试验}}$ 叫做``频率". 记作$\omega _n\left( A \right) $.
+
+比如丢硬币, 丢10次, 丢100次, 丢1000次, 每次的``频率"可能都不一样, 比如结果是 $\frac{7}{10},\frac{55}{100},\frac{508}{1000} $. 所以这就是``频率"和``概率"的区别.
+
+但你可以发现, 随着试验次数n的增大, A事件的``频率"的值, 会接近与``概率"的值. 即: $ \lim_{n→0}\omega _n\left( A \right)  \to P $
+
+
+\section{频率的性质:}
+
+规范性: 
+
+- $\omega _n\left( \varOmega \right) =1$ ← 做n次试验, 里面``必然事件"发生的频率, 是1.  
+既然是``必然事件Ω", 它肯定会发生, 所以频率肯定是1.
+
+
+- $\omega _n\left( \varPhi \right) =0$ ← 做n次试验, 里面``不可能事件"发生的频率, 是0. \\
+
+
+
+可加性: 
+
+
+比如做1000次试验, 即$ \varOmega_{1000}$, 则有: 
+
+$\omega _{1000}\left( A_1+A_2 \right) =\underset{1000\text{次试验中,}A1\text{事件发生的频率}}{\underbrace{\omega _{1000}\left( A_1 \right) }}+\underset{1000\text{次试验中,}A2\text{事件发生的频率}}{\underbrace{\omega _{1000}\left( A_2 \right) }}$ \\
+
+即: ``和的频率", 就等于``频率的和".
+
+$
+\boxed{
+\underset{\text{做}n\text{次试验,里面有}m\text{个事件发生了的频率}}{\underbrace{\underset{\text{做}n\text{次试验}}{\underbrace{\omega _n}}\underset{\text{里面有}m\text{个事件}}{\underbrace{\left( A_1+A_2+...+A_m \right) }}}}=\omega _n\left( A_1 \right) +\omega _n\left( A_2 \right) +...+\omega _n\left( A_m \right) 
+}
+$
+
+
+
+
+	
+\end{document}

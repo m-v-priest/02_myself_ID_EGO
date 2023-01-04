@@ -1,0 +1,96 @@
+\documentclass[UTF8]{ctexart}
+
+\usepackage{subfiles}  
+
+%下面的语句, 引入你的头部设置文件
+\usepackage{C:/phpStorm_proj/02_myself_ID_EGO/+100_latex_all_math_sel/myPreamble} 
+%必须是绝对路径，才能让各个tex在单独编译时使用到
+
+\title{文件名}
+
+
+%---------------------------------
+
+
+\begin{document}
+	\tableofcontents % 生成目录
+	\date{} % 若不写这句, 则默认也会渲染出日期, 所以我们要手动赋空值
+	\maketitle  %这行代码, 让你前面的 title, author, date生效
+	
+	
+	
+	
+	\part{古典概型 : $\boxed{
+		\text{P(A)}=\dfrac{\text{A中包含的``基本事件"有多少个}}{\text{S中``基本事件"的总数}}}$}
+	
+	
+	满足这些条件的, 就属于``古典概率  classical models of probability 模型":
+	
+	- 样本点是有限的
+	
+	- 所有样本点出现的可能性, 是相同的. 即``等可能性". \\
+	
+	
+	古典概型模型:
+	
+	事件$\text{A}=\{\text{e}_{\text{i}_1},\text{e}_{\text{i}_2},...,\text{e}_{\text{i}_{\text{k}}}\}$ 发生的概率为:
+	
+	$
+	\text{P(A)}=\dfrac{\text{k}}{\text{n}}=\dfrac{\text{A中包含的``基本事件"有多少个}}{\text{S中``基本事件"的总数}}
+	$ \\
+	
+	
+	古典概率模型的性质:
+	
+	- $0 <= P(A) <= 1$
+	
+	- $P(\Omega)=1, \quad  P(\Phi)=0$
+	
+	- 有限可加 : $ A_1, A_2, ... A_n$ 是互不相容的. 即 $P(A_1 +A_2 + ...+ A_n)= P(A_1) +  P(A_2)  + P(A_n)$ \\
+	
+	古典概率模型: 
+	
+	- 其优点是: 可以直接套公式来算. 
+	
+	- 但其缺点是: 
+	
+	(1) 其结果必须是``有限个"的结果 (如, 掷骰子, 结果就是6个基本事件, 而不是无限个事件.) 
+	
+	(2)其结果, 必须是``等可能性". \\
+	
+	
+	
+	
+	\begin{myEnvSample}
+		有 a个白, b个黑, 问: 从中连续取出 m个球 (连续取, 就是不放回的意思了) ($1 \leq m \leq a+b$), 第m个 是白球的概率= ? \\
+		
+		思路1 : 其实我们只要考虑 第 m 个位置的这一个球的情况就行了, 其他位置的球,随便它们什么颜色, 我们不用考虑的.
+		
+		$\text{P}\left( \text{第m位置是白球} \right) =\frac{\text{在第m个位置上,\ 从a个白球里取1个放上去.\ 剩下数量的其他位置上,\ 依然做全排列}}{\text{所有球的全排列}}
+		$ \\
+		
+		即 $	\text{P}\left( \text{第m位置是白球} \right) =\frac{\overset{\text{第一步,\ 先取1个白球,占位放在第m个位置上.}}{\overbrace{\text{C}_{\text{总a白}}^{\text{取}1}}}\cdot \overset{\text{第二步:剩下的所有球,\ 依然做全排列}}{\overbrace{\text{C}_{\text{总a白}+\text{总b黑}-1}^{\text{总a白}+\text{总b黑}-1}}}}{\text{P}_{\text{总a白}+\text{总b黑}}^{\text{总a白}+\text{总b黑}}}
+		$ \\
+		
+		
+		思路2 : 或者我们也只需考虑前m个数量的球就行了, 后面其他的球, 爱怎样颜色怎样颜色, 不用我们考虑.
+		
+		$	\text{P}\left( \text{第m位置是白球} \right) =\frac{\overset{\text{第一步,\ 先取1个白球,占位放在第m个位置上}}{\overbrace{\text{C}_{\text{总a白}}^{\text{取}1}}}\cdot \overset{\text{第二步:m个数中的剩下的所有球,\ 依然做全排列}}{\overbrace{\text{C}_{\text{总a白}+\text{总b黑}-1}^{\text{m}-1}}}}{\underset{\text{m个球的全排列}}{\underbrace{\text{P}_{\text{总a白}+\text{总b黑}}^{\text{m}}}}}
+		$ \\
+		\\
+		
+		其实你有没有发现? ``在第m个位置上出现白球" 这个``m索引位置", 其实是个障眼法. 白球出现在任何其他位置, 它出现在第1个位置, 第10个位置, 最后一个位置, 对我们的计算结果没有任何影响.  因为不管白球出现在第几个位置上, 它出现的概率都是相同的, 因为是古典概率嘛! 所以, ``位置为几"其实不重要. \\
+		
+		所以, 我们就有了第三种思路: 我们就把这个白球, 让它直接出现在第1个位置就好了:
+		
+		$	\text{P}\left( \text{第1个位置是白球} \right) =\frac{\overset{\text{(在第1个位置上,)\ 从白球里,\ 取1个\ 的取法数量}}{\overbrace{\text{C}_{\text{总a白}}^{1}}}}{\underset{\text{(在第1个位置上,)\ 从总数里,\ 取1个\ 的取法数量}}{\underbrace{\text{C}_{\text{总a白}+\text{总b黑}}^{1}}}}=\frac{\text{a}}{\text{a}+\text{b}}
+		$		
+	\end{myEnvSample}
+	
+	
+	
+	
+	
+	
+	
+\end{document}
