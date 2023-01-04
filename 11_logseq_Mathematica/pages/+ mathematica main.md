@@ -23,8 +23,13 @@
 		- ![image.png](../assets/image_1670056300644_0.png)
 -
 -
+-
+-
 - ### 相关
 	- ### 学习进度
+		- 官方中文文档 https://reference.wolfram.com/language/howto/ExportToPDF.html
+		-
+		-
 		- https://zhuanlan.zhihu.com/p/556683687
 		- https://wuli.wiki/online/Mma.html
 		- https://www.bilibili.com/video/BV1Ua4y1v7AU/?spm_id_from=333.788&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
@@ -157,6 +162,7 @@
 		- ![image.png](../assets/image_1668302094719_0.png)
 		-
 	- 通分: 把几个异分母分数（式）化成与原来分数（式）相等的同分母的分数（式）的过程，叫做通分
+	  collapsed:: true
 		- ![image.png](../assets/image_1668303203475_0.png)
 		- ![image.png](../assets/image_1668303226675_0.png)
 		-
@@ -412,9 +418,21 @@
 			- ![image.png](../assets/image_1668255461880_0.png)
 			- ![image.png](../assets/image_1668256370774_0.png)
 	-
--
+- 插入水平线
+	- ![image.png](../assets/image_1672808361616_0.png)
 -
 - ---
+-
+- ### 概率图
+	- 要让直方图, 上方显示每条的数据, 就加上参数 `LabelingFunction -> Above`
+	- ```
+	  barChart[{1, 2, 3}, LabelingFunction -> Above]
+	  ```
+	- ![image.png](../assets/image_1672807864067_0.png)
+	-
+-
+-
+-
 - ### 点图, 数据图
 	- 画出某个数列公式的前n位具体数值 : Table[]函数
 	  background-color:: red
