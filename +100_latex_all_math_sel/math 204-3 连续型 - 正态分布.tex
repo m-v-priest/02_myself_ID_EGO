@@ -135,7 +135,7 @@ $ \\
 即: 
  $\boxed{
 	\phi _0(x)=f\left( x \right) =\frac{1}{\sqrt[]{2\pi}}e^{-\frac{x^2}{2}}		
-}$}
+}$
 
 
 \vspace{1em} 
@@ -242,11 +242,76 @@ $ \\
 有 $X \sim N(1,4)$, 即 $\mu=1, \ \sigma^2=4,\ \sigma=2$ \\
 到注意: 这只是一个普通的正态分布, 我们必须先把它转成``标准正态分布"再来做. \\
 
+→ 求 $P\{0<X<1.6\} =\varPhi (1.6)-\varPhi (0)$ \\
+先把这个累加函数$\Phi (x)$ (正态分布的), 转成$\Phi_0 (x)$ (标准正态分布的). 套用转化公式, 就有: \\
+$	\varPhi (1.6)=\varPhi _0\left( \frac{x-\mu}{\sigma} \right) =\varPhi _0\left( \frac{1.6-1}{2} \right) =\varPhi _0(0.3)$ \\
+$	\varPhi (0)=\varPhi _0\left( \frac{x-\mu}{\sigma} \right) =\varPhi _0\left( \frac{0-1}{2} \right) =\varPhi _0(-0.5)$ \\
 
+所以回到原题, $
+\varPhi (1.6)-\varPhi (0)=\varPhi _0(0.3)-\underset{=1-\varPhi _0(0.5)}{\underbrace{\varPhi _0(-0.5)}}
+$ \\
+
+→ 求 $P\left\{ |X|\leq 2 \right\} $ \\
+方法1: 
+\begin{align*}  % 支持每行编号. 若不需要编号, 就用 align*环境
+	P\left\{ |X|\leq 2 \right\} &=P\left\{ -2\leq X\leq 2 \right\}\\
+&=\varPhi \left( 2 \right) -\varPhi \left( -2 \right) \ \gets \text{转成} \text{``标准正态分布"}\text{的累加函数}\\
+&=\varPhi _0\left( \frac{2-\overset{\mu}{\overbrace{1}}}{\underset{\sigma}{\underbrace{1}}} \right) -\varPhi _0\left( \frac{-2-1}{1} \right)\\
+&=\varPhi _0\left( 0.5 \right) -\varPhi _0\left( -1.5 \right)\\
+&=\varPhi _0\left( 0.5 \right) -\left[ 1-\varPhi _0\left( 1.5 \right) \right]
+\end{align*} 
+
+方法2: 
+\begin{align*}  % 支持每行编号. 若不需要编号, 就用 align*环境
+	P\left\{ |X|\leq 2 \right\}
+&=P\left\{ -2\leq X\leq 2 \right\}\\
+&=P\left\{ \left( -2-1 \right) \leq \left( X-1 \right) \leq \left( 2-1 \right) \right\} \ \gets \text{对}X\text{左中右,同时减去}\mu \text{值}1\\
+&=P\left\{ \frac{-2-1}{2}\leq \frac{X-\overset{\mu}{\overbrace{1}}}{\underset{\sigma}{\underbrace{2}}}\leq \frac{2-1}{2} \right\} \ \gets \text{对}X\text{左中右,同时除以}\sigma \text{值}2\\
+&\text{注意,现在中间的}\frac{X-1}{2},\text{就已经被我们转化成了``标准正态分布"的x形式了},\\
+&\text{即从}x\text{转成了}\frac{x-\mu}{\sigma}\\
+&=P\left\{ -1.5\leq \frac{X-1}{2}\leq 0.5 \right\}\\
+&=\varPhi _0\left( 0.5 \right) -\varPhi _0\left( -1.5 \right)
+\end{align*}
 
 \end{myEnvSample}
+\vspace{1em} 
 
 
+
+
+\begin{myEnvSample}
+飞船零件, 尺寸符合``正态分布" $X\sim N\left( \underset{\mu}{\underbrace{50}},\underset{\sigma ^2}{\underbrace{1}} \right) $, 即 $\sigma=1$ \\
+其尺寸只有在 $50 \pm 1$ 时, 才是合格的. \\
+
+那么问:  \\
+→ 生产出的单个飞船零件, 合格概率是? 
+\begin{align*}  % 支持每行编号. 若不需要编号, 就用 align*环境
+	P\left\{ 49\leq X\leq 51 \right\} 
+&=\varPhi \left( 51 \right) -\varPhi \left( 49 \right)\\
+&=\varPhi _0\left( \frac{51-\overset{\mu}{\overbrace{50}}}{\underset{\sigma}{\underbrace{1}}} \right) -\varPhi _0\left( \frac{49-50}{1} \right)\\
+&=\varPhi _0\left( 1 \right) -\varPhi _0\left( -1 \right)\\
+&=\varPhi _0\left( 1 \right) -\left( 1-\varPhi _0\left( 1 \right) \right) =0.68269 
+\end{align*}
+
+\includegraphics[width=0.5\textwidth]{/0195.png} \\
+
+
+
+→ 重复抽检3次, 至少有1个零件是合格的概率?
+\begin{align*}  % 支持每行编号. 若不需要编号, 就用 align*环境
+	P\underset{\text{我们令}Y\text{表示合格品的数量}}{\underbrace{\left\{ Y\ge 1 \right\} }}
+	&=1-\underset{\text{所抽的3件都不合格\ 的概率}}{\underbrace{P\left\{ Y=0 \right\} }}\\
+&=1-\left( 1-\underset{\text{单个产品的合格率}}{\underbrace{0.6827}} \right) ^3=0.968054
+\end{align*}
+\end{myEnvSample}
+\vspace{1em} 
+
+
+
+
+\begin{myEnvSample}
+
+\end{myEnvSample}
 
 
 
