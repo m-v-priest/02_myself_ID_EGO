@@ -1,1 +1,6 @@
-\contentsline {section}{\numberline {1}指数分布}{2}{}%
+\contentsline {part}{第一部分\hspace {1em}指数分布 Exponential distribution}{2}{}%
+\contentsline {section}{\numberline {1}指数分布 : 若一段时间内, 随机事件\underline {发生的次数, 呈``泊松分布"}. 那么，这些随机事件\underline {发生的时间间隔, 便呈``指数分布"}.}{2}{}%
+\contentsline {section}{\numberline {2}指数分布的``概率函数": $\fbox {\mathsurround \z@ $\displaystyle f\left ( x;\lambda \right ) =\lambda \cdot e^{-\lambda x}\ (x>0) $}$}{3}{}%
+\contentsline {section}{\numberline {3}指数分布的``累加函数": $\fbox {\mathsurround \z@ $\displaystyle F(x)=1-e^{-\lambda x}\ (x>0)$}$}{4}{}%
+\contentsline {section}{\numberline {4}指数分布, 具有``无记忆" }{6}{}%
+\contentsline {section}{\numberline {5}指数分布的 : 期望$E=\genfrac {}{}{}0{1} {\lambda }$, 方差$\sigma ^2=(\genfrac {}{}{}0{1} {\lambda })^2$}{7}{}%

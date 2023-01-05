@@ -16,537 +16,239 @@
 	\tableofcontents % 生成目录
 	\date{} % 若不写这句, 则默认也会渲染出日期, 所以我们要手动赋空值
 	\maketitle  %这行代码, 让你前面的 title, author, date生效
-	
-	
-	\part{``离散型数据"(PMF) 的分布}
-	
-		
-	
-	\section{伯努利分布}
-	
-	
-	
-	~\\
-	\hrule
-	~\\
-	
-	
-	\section{二项分布 (binomial distribution) : B(试验次数n, 每项试验成功的概率p)}
-	
-	\textbf{二项, 代表``有两个结果". 比如, 一个为``成功", 另一个为``失败".} \\	
-	
-	- 如: 投硬币10次(而不是只做一次实验)，让X 代表``正面向上的次数”. 那么X 就是一个服从``二项分布"的随机变量 --- 每投一次硬币只有两种结果: 要么是"正面朝上", 要么是"反面朝上". \\
-	- 你的教授给来了一个惊喜的突击测验，考试是10个判断题. 你对某一道题的猜测, 就属于``伯努利事件 a Binomial Event"  (因为它只有两种选择, "对"或"错"). 而整个测验(连续做n次伯努利事件), 是属于一个``二项事件" the entire quiz is a Binomial Event. \\
-	
-	所以\textbf{本质上，``二项事件"是一系列相同的``伯努利事件".} \\
-	
-	我们用字母``B”来表示二项分布， 即: $\boxed{B(\text{试验次数}n, \text{每项试验成功的概率}p)}$. \\
-	
-	\begin{myEnvSample}
-		如: 我们将 $X \sim B(10, 0.6)$ 读作: 变量X 遵循10次试验中, 每项试验成功的可能性为0.6的 二项分布. \\
-		Variable “X” follows a Binomial distribution with 10 trials /and a likelihood of success of 0.6 /on each individual trial. 
-	\end{myEnvSample}
 
-	\textbf{二项分布表示, 在特定的次数内, 能达到我们``期望结果"的可能性.} the graph of the binomial distribution /represents(v.) the likelihood of /attaining(v.) our desired outcome /a specific number of times. \\
+	\part{正态分布 and 标准正态分布}
+	
+	\section{正态分布, normal distribution}
+	
+	正态分布, normal distribution, 直译过来就是``最常态下的分布", ``一般最常见的分布". \\
+	正态分布, 是概率分布中最重要的分布. 在数学家眼里,它是远远高于其他分布的. 有很多其他的分布，比如对数正态分布、T分布、F分布, 都是直接由``正态分布"推导出来的. \\
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 
-
-某事件A发生的概率是P, 我们在做了n次试验后, 得到``该事件A 发生了k次", 则: 
-\begin{align*}  % 支持每行编号. 若不需要编号, 就用 align*环境
-	&P\left( X=k \right) =\underset{\text{总}n\text{中取}k}{\underbrace{C_{n}^{k}}}\cdot \underset{k\text{次成功}}{\underbrace{P^k}}\cdot \underset{n-k\text{次失败}}{\underbrace{\left( 1-P \right) ^{n-k}}}\ \ \ k=0,1,2,...,n.\\
-&\text{记作:}X \sim B\left( \underset{\text{一共做了}n\text{次实验}}{\underbrace{n}},\underset{\text{事件}A\text{发生的概率}}{\underbrace{p}} \right)
-\end{align*}
+\subsection{正态分布 - 概率密度函数 : $\boxed{
+	\varphi (x)=\frac{1}{\sqrt[]{2\pi}\cdot \sigma}e^{-\frac{(x-\mu )^2}{2\sigma ^2}}
+}$ }
+	
+	概率密度函数. 用小写的 $\varphi$ 表示. \\
+	``正态分布" $N(\underset{\text{平均值}.}{\underbrace{\mu }},\underset{\sigma \text{是标准差.\ }\sigma ^2\text{是方差}}{\underbrace{\sigma ^2}})	$ 的概率函数是: 
+	 $\boxed{
+		\varphi (x)=\frac{1}{\sqrt[]{2\pi}\cdot \sigma}e^{-\frac{(x-\mu )^2}{2\sigma ^2}} \ (-\infty <x<+\infty )
+	}$  \\
 \vspace{1em} 
 
-\includegraphics[width=0.65\textwidth]{/0145.pdf} \\
-
-
-
-\begin{myEnvSample}
-某药物, 临床有效率为0.95. 今有10人服用, 问``至少有8人能治愈"的概率是多少? (即做10次实验, 8次成功) \\
-代入``二项分布"公式:
-\begin{align*}  % 支持每行编号. 若不需要编号, 就用 align*环境
-	P\left( X\ge 8 \right) 
-&=\underset{}{\underbrace{P\left( X=8 \right) }}+\underset{}{\underbrace{P\left( X=9 \right) }}+\underset{}{\underbrace{P\left( X=10 \right) }}\\
-&=\underset{P\left( X=8 \right)}{\underbrace{C_{10}^{8}\cdot 0.95^8\cdot \left( 1-0.95 \right) ^2}}+\underset{P\left( X=9 \right)}{\underbrace{C_{10}^{9}\cdot 0.95^9\cdot \left( 1-0.95 \right) ^1}}+\underset{P\left( X=10 \right)}{\underbrace{C_{10}^{10}\cdot 0.95^{10}\cdot \left( 1-0.95 \right) ^0}}\\
-&=0.0746348+0.315125+0.598737 \\
-&=0.988496
-\end{align*}
-
-所以, 10人中有8人以上被治愈的概率, 为0.98. \\
-
-- geogebra 中的用法: \\
-\includegraphics[width=0.7\textwidth]{/0138.png} \\
-
-上表中, P(X=8)=0.0746 的意思, 就是 (对于单次实验是0.95的成功率的事件,) ``做10次实验, 里面会成功8次" 的概率=7.46\%. \\
-同理, P(X=9) 的意思, 是``做10次实验, 里面会成功9次" 的概率. \\
-
-- mathematica 中的用法: \\
-\includegraphics[width=0.8\textwidth]{/0139.png} \\
-
-\textbf{即: 我们只要知道单次的成功概率, 就能计算n次成功中, 会成功k次的概率. }
-\end{myEnvSample}
-\vspace{1em} 
-
-
-
-\begin{myEnvSample}
-	某报警器, 在发生危险时, 成功报警的概率是0.8. 问: 要将报警成功率提高到99\%, 至少要安装多少台才行? \\
-	我们令: \\
-	- n: 表示总共安装的台数. \\
-	- X: 表示成功报警的台数. \\	
-	则, 安装的总n台中, 只要至少有一台能报警 (即 $P(X \geq 1)$), 就成功了. \\
+	记作: $\boxed{X \sim N(\mu ,\sigma ^2)}$   ← 称为: X服从``参数为$\mu$, $\sigma$的正态分布(或高斯分布)". \\	
+	- 这里的 N, 就是正态分布 (Normal distribution) 的英文首字母.\\
+	- $\mu$ 是 ``平均值" \\
+	- $\sigma$ 是 ``标准差" \\
+	- 注意: 概率函数公式里, 这第二个参数写的是$\sigma ^2$, 而不是$\sigma$! 所以, 比如对于N(1, 100)来说, 其 $\mu=1$,  $\sigma ^2=100$, 即$\sigma=10$. \\
 	
-	本例即: $X \sim B (\text{一共做n次实验},\text{单次实验的成功概率}0.8)$ 	
+	\includegraphics[width=0.4\textwidth]{/0186.png} 
+	
+	
+	
+	
+	\subsection{正态分布 - 累加函数 : $\boxed{
+			F(x)=\frac{1}{\sqrt[]{2\pi}\cdot \sigma}\int_{-\infty}^x{\left[ e^{-\frac{(x-\mu )^2}{2\sigma ^2}} \right]}dx
+		}$ }
+	
+	对``概率函数 f(x)"求积分, 其曲线下的阴影面积就是``累加函数 F(x)". 其面积=1. \\
+	
+	
 	\begin{align*}  % 支持每行编号. 若不需要编号, 就用 align*环境
-	&\text{即:\ }\underset{\text{至少1台报警\ 的概率}}{\underbrace{P\left( X\ge 1 \right) }}\ge 0.99\\
-&\underset{\text{全都没报警\ 的概率}}{\underbrace{1-P\left( X=0 \right) }}\ge 0.99\\
-&1-\underset{\text{总}n\text{台里面,只有0台报警}}{\underbrace{C_{n}^{0}\cdot \underset{0\text{台报警\ 的概率}}{\underbrace{0.8^0}}\cdot \underset{n\text{台没报警\ 的概率}}{\underbrace{0.2^n}}}\ge 0.99}\\
-&1-0.2^n\ge 0.99\\
-&1-0.99\ge 0.2^n\\
-&\ln 0.01\ge \ln 0.2^n\ \gets \text{两边取}\ln\\
-&\ln 0.01\ge n\ln 0.2\\
-&n\leq \frac{\ln 0.01}{\ln 0.2}\\
-&n\leq \frac{-4.60517}{-1.60944}\\
-&n\geq 2.86135
+	&\underset{\text{累加函数}}{\underbrace{F(x)}}=\int_{}^{}{\underset{\text{概率函数}}{\underbrace{f(x)}}}dx\\
+&=\int_{-\infty}^x{\left[ \frac{1}{\sqrt[]{2\pi}\cdot \sigma}e^{-\frac{(x-\mu )^2}{2\sigma ^2}} \right]}dx\\
+&=\frac{1}{\sqrt[]{2\pi}\cdot \sigma}\int_{-\infty}^x{\left[ e^{-\frac{(x-\mu )^2}{2\sigma ^2}} \right]}dx
 	\end{align*}
-	
-	\includegraphics[width=0.6\textwidth]{/0140.png} \\
-	
-	\includegraphics[width=0.6\textwidth]{/0141.png} \\
-	
-	\includegraphics[width=0.6\textwidth]{/0142.png} \\
-	
 
-\end{myEnvSample}
+
+
 \vspace{1em} 
+\subsection{正态分布(钟形曲线)的``概率函数"的性质}
+
+
+\subsubsection{以 ``x=均值$\mu$" 为对称轴}
+
+正态分布的``概率函数"曲线, 以 ``x=均值$\mu$" 为对称轴. 在此处, 函数的y值达到最大. 即此时 $y=\dfrac{1}{\sqrt[]{2\pi}\cdot \sigma}$ \\
+
+\includegraphics[width=0.35\textwidth]{/0187.png} \\
+
+所以, 对称轴$\mu$, 能控制图像的``左右平移". \\
 
 
 
 
-
-\begin{myEnvSample}
-	每台机器(机床), 会坏的概率是0.01. (即一台机器只有两种结果: 要么处在``正常工作"的状态, 要么处在``损坏"的状态.) 问: \\
-	
-	→ 若1个人(维修工)要看护20台机器. 他无法及时维修的概率是多少? 那么对1个人来说, 什么叫做``他无法及时维修"? 就是同时有 ≥ 2台机器处在``损坏"状态. \\
-	我们令: \\
-	- n: 代表总机器数. 本处 n=20. \\
-	- 随机变量X: 表示``机器处在损坏状态"的台数. 即本处要求的就是 $P(X \geq 2)$ 的概率. 	
-	\begin{align*}  % 支持每行编号. 若不需要编号, 就用 align*环境		
-	&P\left( X\ge 2 \right) =1-P\left( X<2 \right)\\
-&=1-\left[ \underset{\text{坏0台的概率}}{\underbrace{P\left( X=0 \right) }}+\underset{\text{坏1台的概率}}{\underbrace{P\left( X=1 \right) }} \right]\\
-&=1-\left[ \left( \underset{0\text{台坏了,即全没坏}}{\underbrace{C_{20}^{0}}}\cdot \underset{\text{每台坏的概率}}{\underbrace{0.01}}^0\cdot \underset{\text{每台没坏的概率}}{\underbrace{0.99}}^{20-0} \right) +\left( \underset{20\text{台中坏了1台}}{\underbrace{C_{20}^{1}}}\cdot 0.01^1\cdot 0.99^{20-1} \right) \right]\\
-&=0.0169
-	\end{align*} 
-
-\includegraphics[width=0.65\textwidth]{/0143.png} \\
+\subsubsection{以x轴为渐近线}
+就是说, 曲线的两端, 无限接近于 y=0, 而不会掉落到 -y 领域上去.
 
 
-→ 若3个人看护80台机器, 问他们无法及时维修的概率?  那就是说, 同时有 ≥ 4台机器处在``损坏"状态. 即我们要求的是  $P(X \geq 4)$ 的概率. 
-\begin{align*}  % 支持每行编号. 若不需要编号, 就用 align*环境
-	&P\left( X\ge 4 \right) =1-P\left( X<4 \right)\\
-&=1-\left[ \underset{\text{坏0台的概率}}{\underbrace{P\left( X=0 \right) }}+\underset{\text{坏1台的概率}}{\underbrace{P\left( X=1 \right) }}+\underset{\text{坏2台的概率}}{\underbrace{P\left( X=2 \right) }}+\underset{\text{坏3台的概率}}{\underbrace{P\left( X=3 \right) }} \right]\\
-&=1-\left[ \left( C_{80}^{0}\cdot 0.01^0\cdot 0.99^{80} \right) +\left( C_{80}^{1}\cdot 0.01^1\cdot 0.99^{80-1} \right) +...+\left( C_{80}^{3}\cdot 0.01^3\cdot 0.99^{80-3} \right) \right]\\
-&=0.0087
-\end{align*}
 
-\includegraphics[width=0.65\textwidth]{/0144.png} 
-\end{myEnvSample}
-\vspace{1em} 
+\subsubsection{在 $x=\mu \pm \sigma $ 处有``拐点"}
+\includegraphics[width=0.7\textwidth]{/0188.png} 
 
 
-	
-	\begin{tabular}{|p{0.4\textwidth}|p{0.6\textwidth}|}
-		\hline
-		 ``伯努利分布"(投1次硬币)的``期望值" E(Bernoulli event) &  就\textbf{表明我们对单个试验的预期结果.} the expected value of the Bernoulli distribution /suggests(v.) which outcome we expect for a single trial.\\
-		\hline
-		``二项分布"(投n次硬币)的``期望值" E(Binomial Event) &  是\textbf{我们期望获得特定结果的次数.} the expected value of the Binomial distribution /would suggest(v.) the number of times we expect to get a specific outcome. \\
-		\hline
-	\end{tabular}
 
-	
-	
-	
-	
-	
-	~\\
-	\hrule
-	~\\
-	
-	
-	
-	\section{0-1分布 (0-1 distribution) : $ P\left\{ X=k \right\} =P^k\cdot \left( 1-P \right) ^{1-k}\ \ \ k=0,1 $}
-	
-	``0-1分布", 只是``二项分布"的一种特例而已. \\
-	
-		0-1分布, 即随机变量X, 只能取 1 和 0.  即:只有两种试验结果. 而且试验只做一次. \\		
-		- 当 X=1 时, 其概率 P=P \\
-		- 当 X=0 时, 其概率 P=1-P \\
-		
-		\begin{tabular}{|c|c|c|}
-			\hline
-			X= & 1 & 0 \\
-			\hline
-			P= & P & 1-P \\
-			\hline
-		\end{tabular} \\
-	
-		``0-1分布"的公式是: \\
-		$ \boxed{
-		P\left\{ X=k \right\} =P^k\cdot \left( 1-P \right) ^{1-k}\ \ \ k=0,1
-		}	$ 	← 这个公式, 其实是``二项分布"的一种特例. \\
-	
-	即: $ \left\{ \begin{array}{l}
-			\text{当}k=0\text{时,\ }P^k\cdot \left( 1-P \right) ^{1-k}=P^0\cdot \left( 1-P \right) ^{1-0}=1-P\\
-			\text{当}k=1\text{时,\ }P^k\cdot \left( 1-P \right) ^{1-k}=P^1\cdot \underset{1}{\underbrace{\left( 1-P \right) ^{1-1}}}=P\\
-		\end{array} \right. $ \\
-	\vspace{1em} 
-	
-	\begin{myEnvSample}
-		有一批产品, 次品率是10\%. 从中抽1个来检验(即只做一次实验). 我们令: \\
-		$
-		\text{随机变量}X=\left\{ \begin{array}{l}
-			1\ :\text{表示抽到}``\text{合格品}"\\
-			0\ :\text{表示抽到}``\text{次品}"\\
-		\end{array} \right. 
-		$ \\
-		所以: 
-		$
-		\left\{ \begin{array}{l}
-			P\left\{ X=0 \right\} =0.1\ \gets \text{次品率}\\
-			P\left\{ X=1 \right\} =1-0.1=0.9\\
-		\end{array} \right. 
-		$
-	\end{myEnvSample}
+\subsubsection{``$\sigma$ 标准差"参数, 控制图像的``矮胖"或``高瘦"}
+
+→ 若$\sigma$ 变小: 因为 在x=μ处, y有最大值是 $ \dfrac{1} {\sqrt{2π} \cdot \sigma}$. 所以 当$\sigma$ 变小时, 分母变小, 则分数值就变大, 即y值变大, 所以图像会拉高, 变瘦高. \\
+→ 若$\sigma$ 变大: 则最高点的y值变小, 图像会压低, 变矮胖. \\
+
+但注意, 无论是变瘦高, 还是变矮胖, 曲线下的阴影面积, 始终是=1, 不变的! \\
+
+\includegraphics[width=0.65\textwidth]{/0189.png} 
+
+
+
 
 ~\\
 \hrule
 ~\\
 
-	
-	\section{几何分布 (Geometric distribution) : $	P\left( X=k \right) =\left( 1-P \right) ^{k-1}\cdot P$}
-	
-	某事件A, 发生的概率是P,  即$ P(A)=P$.  我们把试验重复做很多遍, 使得该事件A, 在第k次试验时首次发生了. 即前面的 k-1 次试验中, 都没发生事件A. 则: \\
-	
-	$	\boxed{
-	P\left( X=k \right) =\underset{\text{在前}k-1\text{次试验中,事件}A\text{没发生}\text{的概率}}{\underbrace{\left( 1-P \right) ^{k-1}}}\cdot \underset{(\text{在第}k\text{次试验时})\text{事件}A\text{发生的概率}}{\underbrace{P}} , \quad k=1,2,...
-	}$ \\
 
-	\textbf{上面的整体, 就是: 在n次伯努利试验中, ``试验k次后, 才得到第一次成功"的机率. 即：``前k-1次皆失败，第k次才成功"的概率.} \\
-	上面这个就是``几何分布"的公式. 记作$X \sim G(P)$. \\
-	
-	\includegraphics[width=0.4	\textwidth]{/0146.pdf} \\
-	
-	
-	
-	所以, 只要看到``首次发生"这个关键词, 我们就要想到使用``几何分布"来做. \\
-	
-	\begin{myEnvSample}
-		射击, 命中率是0.6. \\
-		则我们令 随机变量X表示``直到首次命中时, 所射击的次数" (即第一次成功时, 是第几次射击). 
-		
-		就有: $
-		P\left( X=k \right) =\left( 1-P \right) ^{k-1}\cdot P=\left( 1-0.6 \right) ^{k-1}\cdot 0.6,\ k=1,2,3...
-		$ \\
-		
-		\includegraphics[width=0.7\textwidth]{/0147.pdf} \\
-		
-		\includegraphics[width=0.9\textwidth]{/0148.png} \\
-	\end{myEnvSample}
-	
-	
-	
-	
-	几何分布 Geometric distribution 是``离散型数据"的概率分布. \\
-	``几何分布"是``帕斯卡分布"当 r=1 时的特例. \\
-	 (帕斯卡分布 Pascal distribution 是: 进行多次重复、独立的伯努利试验, 直到出现r次某事件成功为止. 即: 随机变量X表示所需的试验次数. 用 P(X=k)来表示``帕斯卡分布". 即: $P\left( X=k \right) =C_{k-1}^{r-1}\cdot P^r\cdot \left( 1-P \right) ^{k-r},\ \ k=r,r+1,...$) \\
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	~\\
-	\hrule
-	~\\
-	
-	\section{泊松分布 (poisson distribution) : $	P\left( \text{事}X=\text{想} \right) =\frac{\text{均}^{\text{想}}\cdot e^{-\text{均}}}{\text{想!}}	$}
-	
-	\textbf{``泊松分布"研究的是 : 在``单位时间(或空间)"内, ``随机事件发生任意次数"的概率.} \\
-	
-	即, ``泊松分布"是为了解决这样的问题的：单位时间内, 随机事件发生的次数, 即: 一件事发生的概率P是已知的, 但它的发生与否是随机的. 我们想要求它(即该随机事件)发生k次(或 $\geq k \text{次}, \leq k \text{次}$  等问题）的概率. \\
-	
-	当一个随机事件, 以固定的``平均瞬时速率$\lambda$"（或称``密度"）随机且独立地出现时，那么这个事件在``单位时间(面积或体积)"内出现的次数或个数, 就近似地服从``泊松分布". \\
-	\textbf{泊松分布的参数$\lambda$ : 是单位时间(或单位面积)内, 随机事件的平均发生次数.} \\
-	
-	\includegraphics[width=0.55\textwidth]{/0156.pdf} \\
-	
-	``泊松分布" 的期望和方差, 均为$\lambda$. \\
-	
-	
-	
-	\includegraphics[width=0.8\textwidth]{/0149.pdf} \\
-	上面的公式中:  \\
-	- $\lambda$ : 是单位时间内, 随机事件A的\textbf{平均发生次数}. \\
-	- k : 是\textbf{你希望的, 想要的} 随机事件A 发生的次数. \\
-	
-	
-	所以, 泊松分布的``概率函数"就是: $\boxed{
-		P\left(X=\text{你想要发生的次数} \right) =\frac{\text{均}^{\text{想}}\cdot e^{-\text{均}}}{\text{想!}}
-	}$ \\
 
-	记作 : $\boxed{	X \sim P(\lambda)}$	← 	即: 我们用 $Po(\lambda)$ 来表示``泊松分布". 比如, 我们将$ Y \sim Po(4)$ 读作: ``变量Y" 遵循 ``$\lambda$等于4" 的泊松分布. \\
+\section{标准正态分布 ← 即当 均值$\mu=0$, 标准差 $\sigma=1$ 时的``正态分布"}
 
+
+\subsection{标准正态分布 - 概率函数 : $\boxed{
+		\phi _0(x)=f\left( x \right) =\frac{1}{\sqrt[]{2\pi}}e^{-\frac{x^2}{2}}		
+	}$}
+
+
+我们把$\mu=0, \sigma=1$, 代入正态分布的 PDF 和 CDF 函数中, 就得到: \\
+
+``标准正态分布"的``概率函数 PDF" (专门记作$\phi _0(x)$) :\\
+$
+\phi _0(x)=f\left( x \right) =\dfrac{1}{\sqrt[]{2\pi}\cdot \underset{=1}{\underbrace{\sigma }}}e^{-\frac{(x-\overset{=0}{\overbrace{\mu }})^2}{2\sigma ^2}}
+=\dfrac{1}{\sqrt[]{2\pi}\cdot 1}e^{-\frac{(x-0)^2}{2\cdot 1^2}}
+=\dfrac{1}{\sqrt[]{2\pi}}e^{-\frac{x^2}{2}}
+$ \\
+
+即: 
+ $\boxed{
+	\phi _0(x)=f\left( x \right) =\frac{1}{\sqrt[]{2\pi}}e^{-\frac{x^2}{2}}		
+}$}
+
+
+\vspace{1em} 
+\subsection{标准正态分布 - 累加函数 :  $\boxed{
+		\varPhi _0(x)=F\left( x \right) =\frac{1}{\sqrt[]{2\pi}}\int_{-\infty}^x{\left[ e^{-\frac{x}{2}} \right]}dx
+	}$}
 	
-	
-	\begin{myEnvSample}
-		``50年一遇"的大雨, 结果三年中下了两场, 这是怎么回事? \\
-		其实``50年一遇"是个数学语言, 它是指: ``长期来看", 这样的大暴雨是平均50年发生一次. 注意关键词``长期". 长期是多长? 在数学中, 是指``很长很长"的时间段. \\
-		所以对``长期"的理解不到位, 就是概率问题的结果``反直觉"的原因. \\
-		
-		平均50年发生一次, 可以是:  前4年, 每年都发生一次; 之后的196年一次都没发生. 200除以4，还是50年一次. \\
-		
-		所以, 我们更想知道的是: 在任何一段具体的、有限的时间内, 比如5年之内，发生1次大暴雨的概率是多少? 发生2次大暴雨的概率是多少? \\
-		
-		即: 当我们知道了一个随机事件A发生的概率，也知道A发生的概率符合``正态分布"之后, 那么在某一段时间或者空间间隔内,这个随机事件``发生的次数"的概率分布, 是怎样的呢? 这个问题, 就能用``泊松分布"来解决. \\
-		
-		泊松分布的公式是: 	$ \boxed{
-		P(X=\text{你希望发生k次})=\dfrac{\lambda^k} {k!} e^{-\lambda}}$	 \\
-		其中, \\
-		→ \textbf{k : 为你希望``随机事件"发生的次数.} \\
-		→ \textbf{$\lambda$ : 为单位时间内, 随机事件的平均发生次数.} 比如, 50年一遇的大雨 : \\
-		- 如果以50年为``单位时间"的话, 发生次数就是: 1次.  ( 进一步, 我们可以算出即 : 每年发生$\frac{1} {50}$ 次).  \\
-		- 如果以100年为单位的话, 发生次数就是 : 100年 ×  每年$\frac{1} {50}$次 = 2次  \\
-		- 如果以5年为单位的话, 发生次数就是 :  5年 ×  每年$\frac{1} {50}$次 = 1/10次. \\ 
-		
-		那么套用``泊松分布公式", 来算一下, 50年中, 一次上面的大雨也不发生的概率: 即 k=0次 : \\
-		
-		\includegraphics[width=0.75\textwidth]{/0150.png} \\
-		
-		再算一下 K=2, 就是接下来的``50年为单位"的话, 其中发生2次大暴雨的概率, 答案是18\%. (下图) \\
-		
-		\includegraphics[width=0.75\textwidth]{/0151.png} \\	
-		
-		上图的右表中, 表示的就是 :  50年一遇的大雨. 你就以50年为``单位时间段" (即平均会发生一次这种大雨, 即 $\mu$ 或 $\lambda$ =1), 在这50年中, 你遇到0次, 1次, 2次, ...​ 这种大雨的真实概率, 是多少? \\
-		
-		50年中, 发生2次和2次以上 的概率是: 用1 减去发生0次和发生1次的概率. = 1 - (0.3679 × 2) = 26\%, 说明这并不是很小的概率事件. \\
-		
-		\includegraphics[width=0.75\textwidth]{/0152.png} 
-	\end{myEnvSample}
-	\vspace{1em} 
-	
-	
-	
-	
-	\begin{myEnvSample}
-		某收费站, 平均每分钟通过的车辆为3辆. 问: 1分钟内, 恰有2辆车经过的概率, 是多少? \\
-		即: \\
-		- 随机事件A : 收费站有车经过. \\
-		- $\lambda$ (单位时间内, 随机事件平均发生的次数. 一般用 $\lambda$ 或 mean 来表示.) : 本例, 单位时间就是``每分钟", 随机事件A 发生3次. \\
-		- k (你希望随机事件发生的次数. 一般用 k 或 x 来表示.) : 本例, 就是 2. (收费站有车经过, 发生2次) 
+
+``标准正态分布"的``累加函数 CDF" (专门记作$\varPhi _0(x)$) :
 \begin{align*}  % 支持每行编号. 若不需要编号, 就用 align*环境
-	&P\{X=k\}=\frac{\lambda ^k\cdot e^{-\lambda}}{k!}\\
-&P\{X=\text{想\}}=\frac{\text{均}^{\text{想}}\cdot e^{-\text{均}}}{\text{想!}}=\frac{3^2e^{-3}}{2!}=0.224042
+	\varPhi _0(x) &=F\left( x \right)\\
+&=\frac{1}{\sqrt[]{2\pi}\cdot \underset{=1}{\underbrace{\sigma }}}\int_{-\infty}^x{\left[ e^{-\frac{(x-\overset{=0}{\overbrace{\mu }})^2}{2\sigma ^2}} \right]}dx\\
+&=\frac{1}{\sqrt[]{2\pi}\cdot 1}\int_{-\infty}^x{\left[ e^{-\frac{(x-0)^2}{2\cdot 1^2}} \right]}dx\\
+&=\frac{1}{\sqrt[]{2\pi}}\int_{-\infty}^x{\left[ e^{-\frac{x}{2}} \right]}dx  
 \end{align*}
 
-	\includegraphics[width=0.5\textwidth]{/0155.png} 	
-	\end{myEnvSample}
-	\vspace{1em} 
-	
-	
-	
-	
-	\begin{myEnvSample}
-		你创建了一个关于概率的在线课程. 通常，你的学生每天问你大约4个问题, 但昨天他们问了7个. 你想知道昨天这件事, 事实上发生的可能性算多大? \\
-		即 : \\
-		- 随机事件A : 是学生提问. \\
-		- $\lambda$ : 表示在单位时间内, 随机事件发生的平均次数. 本例就是 =4 (单位时间1天里面, 平均上, 学生提问会发生4次). \\
-		- k : 你感兴趣的``随机事件发生次数". 本例就是 k=7. 
-		
-		即: 
-		\begin{align*}  % 支持每行编号. 若不需要编号, 就用 align*环境
-	&P\{X=\text{想\}}=\frac{\text{均}^{\text{想}}\cdot e^{-\text{均}}}{\text{想!}}\\
-&P\{X=7\}=\frac{4^7\cdot e^{-4}}{7!}=0.0595404
-		\end{align*}
-	
-	因此, 你收到7个问题的几率, 只有6\%. \\
-	
-	\includegraphics[width=0.55\textwidth]{/0159.png} 
-	\end{myEnvSample}
-	\vspace{1em} 
-	
-	
-	
-	
-	
-	\begin{myEnvSample}
-		某航空公司, 发生事故(即随机事件A) 的平均值为: 每月 0.05次. \\
-		问: \\
-		→ 1年内, 发生``0事故"的概率是? \\
-		随机事件, 平均每月发生0.05次, 这里的``单位时间"是以``月"为时间段的. 而问题问的是``1年内", 是以``年"为``单位时间段"的. 所以我们要统一两者的``单位时间"段. 把``月"换算成``年"来做. \\
-		即: 事故的``月概率"是 0.05次, 则事故的``年概率"= 0.05 × 12 =0.6. 		
-		\begin{align*}  % 支持每行编号. 若不需要编号, 就用 align*环境
-	&P\{X=\text{{\color{red}想}\}}=\frac{\text{均}^{\text{{\color{red}想}}}\cdot e^{-\text{均}}}{\text{{\color{red}想}!}}\\
-&P\{X=\underset{\text{随机事件在单位时间内,发生0次}}{\underbrace{{\color{red}0}}}\}=\frac{\underset{\text{事故的年概率}}{\underbrace{0.6}}^{\color{red}0}\cdot e^{-0.6}}{{\color{red}0}!}=0.548812  
-		\end{align*}
-	
-	
-		
-		→ 1年内, 发生了``1次事故"的概率是? \\
-		$P\{X={\color{red}1}\}=\dfrac{0.6^{\color{red}1}\cdot e^{-0.6}}{{\color{red}1}!}=0.329287$ \\
-		
-		
-		
-		→ 1年内, 发生事故 $\geq 1$次 的概率是? 
-		\begin{align*}  % 支持每行编号. 若不需要编号, 就用 align*环境
-	&=P\{X=2\}+P\{X=3\}+...\\
-&=1-\left[ P\{X=0\}+P\{X=1\} \right]\\
-& \text{把随机事件发生0次和1次的情况, 扣除掉后, 剩下的就是超过1次的所有情况了.}\\
-&=1-\frac{0.6^0\cdot e^{-0.6}}{0!}-\frac{0.6^1\cdot e^{-0.6}}{1!}=0.121901
-		\end{align*}
-	
-	\includegraphics[width=0.55\textwidth]{/0157.png} 
-	
-	\end{myEnvSample}
+即: $\boxed{
+	\varPhi _0(x)=F\left( x \right) =\frac{1}{\sqrt[]{2\pi}}\int_{-\infty}^x{\left[ e^{-\frac{x}{2}} \right]}dx
+}$
+
+
+
+
+
 \vspace{1em} 
+\subsection{标准正态分布 的性质}
+
+\subsubsection{因为它的 $\mu=0$, 所以它的函数曲线, 关于 x=0 对称, 即y轴是对称轴.}
+
+所以它就是个偶函数.  有: \\
+- 概率函数 $ \varphi_0(x) = \varphi_0(-x) $   ← 我们在下标处加个0, 来表示它是``标准"的正态分布函数的 ``概率函数"或``累加函数". \\
+
+- 其``累加函数"有: $\boxed{\varPhi _0(-x)=1-\varPhi _0(x)}$ ← 这个公式很重要! \\
+比如 : $\varPhi _0(-4)=1-\varPhi _0(4)$ \\
+
+\includegraphics[width=0.5\textwidth]{/0190.pdf} \\
+	
+	
+\begin{myEnvSample}
+	\begin{align*}  % 支持每行编号. 若不需要编号, 就用 align*环境
+	\text{求} \ P\{|x|\leq 1.96\} &=P\{-1.96\leq X\leq 1.96\}\\
+&=\varPhi _0(1.96)-\underset{=1-\varPhi _0(1.96)}{\underbrace{\varPhi _0(-1.96)}}\\
+&=\varPhi _0(1.96)-1+\varPhi _0(1.96)\\
+&=2\varPhi _0(1.96)-1
+	\end{align*}
+
+\includegraphics[width=0.5\textwidth]{/0191.pdf} 
+\end{myEnvSample}	
+
+
+
+
+
+
+\subsubsection{对于 $ x \geq 5$ 的y值, 已经非常靠近y=0了}
+
+正态分布的值, 怎么算? --- 查表. \\
+一般, 书上给出的都是``标准正态分布"的表. 所以如果你是普通的``正态分布", 必须先把它转成``标准正态分布", 再来查表. \\
+
+并且, 表的范围, 只给出了 $ 0 \leq x < 5$  的值. \textbf{因为对于$ x \geq 5$ 的值, 此时的曲线高度, 即y值, 已经非常靠近y=0了. 所以我们就可以认为: 对于$ x \geq 5$ 的 标准正态分布的``概率函数 $ \varphi_0(x)$"的y值, 都=0.} \\
+
+
+同样, 来看累加函数 CDF: \\
+对于 $ x \geq 5$ 时, 其位置已经非常靠近整个曲线的右端末尾了, 而整个函数曲线下的面积也就=1, 所以, 在 $ x \geq 5$  处的``累加函数$ \Phi_0(x)$", 其值我们就可以认为是1. \\
+
+\includegraphics[width=0.45\textwidth]{/0192.pdf}  \\
+
+即: \\
+\begin{tabular}{|l|l|l|}
+	\hline
+	标准正态分布 & 概率函数 $\varphi _0(x)$  & 累加函数 $\Phi _0(x)$ \\
+	\hline
+	当 $x \leq -5$ 时 & $y \approx 0$ & $y \approx 0$\\
+	\hline
+	当 $x \geq 5$ 时 & $y \approx 0$ & $y \approx 1$\\
+	\hline
+\end{tabular} \\
+
+
+
+
+
+
+
+
+\section{普通的``正态分布", 怎样转化成``标准正态分布"?}
+
+\subsection{``概率函数"的转化公式是: $\boxed{
+	\varphi (x)=\frac{1}{\sigma}\cdot \varphi _0(\frac{x-\mu}{\sigma})
+	}$}
+
+\includegraphics[width=0.6\textwidth]{/0193.pdf} \\
+
+
+
+
+\subsection{``累加函数"的转化公式是: $\boxed{\varPhi (x)=\varPhi _0(\frac{x-\mu}{\sigma})	}$}
+
+\includegraphics[width=0.6\textwidth]{/0194.pdf} \\
 
 
 
 \begin{myEnvSample}
-	某客服工作, 每分钟收到客户来电的次数, 满足 $	X\sim P\left( \underset{\text{即}\lambda}{\underbrace{3}} \right) 	$ \\
-	问: 你``每分钟收到来电不超过5次"的概率. \\
-	
-	即: \\
-	- 随机事件A : 你收到客户来电. \\
-	- $\lambda$ : 表示在单位时间(本例是1分钟)内, 随机事件发生的平均次数. 本例就是 =3. \\
-	- k : 你感兴趣的``随机事件发生次数". 本例就是 $k \leq 5$.  	
-	\begin{align*}  % 支持每行编号. 若不需要编号, 就用 align*环境
-	&P\{X=\text{想\}}=\frac{\text{均}^{\text{想}}\cdot e^{-\text{均}}}{\text{想!}}\\
-&P\{X=k\leq 5\}=\sum_{k=0}^5{\left[ P\left\{ X=k \right\} \right]}\\
-&=\frac{3^0}{0!}e^{-3}+\frac{3^1}{1!}e^{-3}+...+\frac{3^5}{5!}e^{-3}=0.916
-	\end{align*}
-	
-	\includegraphics[width=0.55\textwidth]{/0160.png} 
-	
-	
+有 $X \sim N(1,4)$, 即 $\mu=1, \ \sigma^2=4,\ \sigma=2$ \\
+到注意: 这只是一个普通的正态分布, 我们必须先把它转成``标准正态分布"再来做. \\
+
+
+
 \end{myEnvSample}
 
 
 
-	
-	\subsection{泊松分布的意义 ---  为我们开启了``统计推断"的大门} 
-	
-	连续2年下大暴雨, 这个现象是否正常? 这个问题的困难在哪儿呢? --- 数据太少. 我们没有1000年的降雨资料. 即便有，在长期、无限面前也是个渣渣, 还是太少. \\
-	
-	同样，物理学家要研究放射性物质的半衰期, 可绝大多数物质, 衰变期极长, 长到我们没法直接测量. 连一个完整的衰变周期都观测不到, 那怎么办呢? 用``泊松分布"解决. \\
-	找一堆铋209原子，统计一下在几个确定的时间间隔中，这堆原子中有多少个发生了衰变? 只要这个数字服从``泊松分布", 反过来就证明铋209原子的衰变, 也服从``正态分布". 就可以用``正态分布"来直接计算. \\
-	
-	在这些问题的解决中, 统计数据, 和概率论的``概率分布 f(x)", 就被连在了一起.   \\
-	而\textbf{在``泊松分布"之前, 概率和统计是两个不同的学科. ``概率"研究``未发生"的随机事件; ``统计"描述``已发生"的现实. 那会儿只有描述统计, 没有推断统计. 泊松分布开启了``推断统计"的大门, 第一次把概率和统计连接在一起.} \\
-	
-	
-	
-	
-	
-	\subsection{泊松分布, 其实就是``二项分布"的一种特殊情况. 当二项分布中的  n → ∞;   p→ 0 时, 我们就能用``泊松分布", 来近似该``二项分布".}
-	
-	当``二项分布"的n很大, 而p很小时, 我们就适合用 ``泊松分布", 来作为``二项分布"的近似.  其中λ为np. \\
-	通常当$n \geq20, \ p \leq 0.05$时，就可以用``泊松公式"近似的计算. \\
-	
-	
-	
-	
-	即: 当二项分布中的  n → ∞;   p→ 0 时, 我们就能用``泊松分布", 来近似该``二项分布". \\
-	二项分布的``期望值", 是 $ E(X)=np=\lambda$, 所以也就是泊松分布中, $\lambda=np$. \\
 
-	
-	
-	
-	\begin{myEnvSample}
-		某保险公司统计, 其单位时间 (1年)内, 随机事件(每位投保人发生意外死亡)的平均发生概率是 0.002. \\
-		现从投保者中抽出1000人 (即 单位时间(1年)内, 这1000人里面, 会平均死亡 : 1000人 × 0.002的概率/人 = 2人 ). \\
-		问: 下一年度, 会有1人死亡(而获理赔)的概率? \\
-		
-		这是一个二项分布 (用来描述 ``n次试验中, 事件A恰好发生k次"的概率. 即 $P\{X=k\}=C_{n}^{k}p^k(1-p)^{n-k}$). 本例中, n=1000, p=0.002. 即:\\
-		$
-		P\{X=\underset{\text{成功发生死亡事件\ 1人}}{\underbrace{1}}\}=C_{1000}^{1}\cdot 0.002^1\cdot (1-0.002)^{1000-1}=0.27067
-		$ \\
-		
-		但, 由于 n很大, p很小, $np=1000×0.002=2=\lambda$, np的值适中, 我们就能用``泊松分布", 来近似``二项分布". \\
-		即:
-		\begin{align*}  % 支持每行编号. 若不需要编号, 就用 align*环境
-			&P\{X=\text{想\}}=\frac{\text{均}^{\text{想}}\cdot e^{-\text{均}}}{\text{想!}}\\
-			&P\{X=1\}=\frac{\underset{\text{均值是2人死亡}}{\underbrace{2}}^1\cdot e^{-2}}{\underset{\text{你想发生1人死亡}}{\underbrace{1}}!}=0.270671
-		\end{align*}
-		
-		\includegraphics[width=0.55\textwidth]{/0158.png} 
-	\end{myEnvSample}
-	\vspace{1em} 
-	
-	
-	
-	
-	\begin{myEnvSample}
-		某病(非传染病), 发病率是 $\frac{1} {1000}$, 某地区有5000人, 问至少2人得病的概率? \\
-		即: \\
-		- 随机事件A : 有人得病. \\
-		- $\lambda$ : 表示在单位空间(本例是某地区)内, 随机事件发生的平均次数. 本例就是 = 5000人 × 1/1000 = 5人. \\
-		- k : 你感兴趣的``随机事件发生次数". 本例就是 ≥2人(得病).  		
-		\begin{align*}  % 支持每行编号. 若不需要编号, 就用 align*环境
-	&P\{X=\text{想\}}=\frac{\text{均}^{\text{想}}\cdot e^{-\text{均}}}{\text{想!}}\\
-&P\{X=k\ge 2\}=1-\left[ P\left( X=0 \right) +P\left( X=1 \right) \right]\\
-&=1-\frac{5^0}{0!}e^{-5}-\frac{5^1}{1!}e^{-5}=0.959572
-		\end{align*}
-	
-	\includegraphics[width=0.6\textwidth]{/0161.png}
-		
-	\end{myEnvSample}
-	
-	
-	
-	
-	
-	\subsection{性质 : 单位时间段越长, ``泊松分布"会向``正态分布"看齐 }
-	
-	随着我们把``时间单位"拉长, 我们会发现: ``泊松分布"的曲线越来越像``正态分布". \\
-	
-		\includegraphics[width=0.6\textwidth]{/0153.png} \\	
-		\includegraphics[width=0.6\textwidth]{/0154.png} \\	
-	
-	
-	
-	\subsection{性质 : 前后两次事件的``发生时间间隔", 无``记忆性"}
-	
-	泊松分布中, 事件对两次发生的时间间隔, 是无"记忆性"的. \\
-	即 : 后一次事件不会记得``距离它前一次发生, 时间隔了多久". 换言之, 事件之间是相互``独立"的关系. \\
-	正因此, 就一定存在一些``短间隔"和``长间隔"，而很难有``一长一短、一长一短"这样有规律的出现. 否则就不叫"无记忆"了. 
-	
-	
-	
-	
-	
-	
-	
-	~\\
-	\hrule
-	~\\
-	
-	\part{``连续型数据"(PDF) 的分布}
-	
-	\section{正态分布}
-	
-	
-	
-	~\\
-	\hrule
-	~\\
-	
-	\section{指数分布}
-	
-	
-	
-	
-	
+
+
 \end{document}

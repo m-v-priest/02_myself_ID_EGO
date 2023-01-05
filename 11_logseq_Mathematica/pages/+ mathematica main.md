@@ -220,6 +220,7 @@
 	-
 	- 求导数: D函数
 	  background-color:: blue
+	  collapsed:: true
 		- ![image.png](../assets/image_1668055969985_0.png)
 		- ![image.png](../assets/image_1668584369180_0.png)
 		- ![image.png](../assets/image_1668584978943_0.png)
@@ -244,7 +245,6 @@
 		- ![image.png](../assets/image_1670056816470_0.png)
 	- 定积分: NIntegrate 函数 #重要
 	  background-color:: red
-	  collapsed:: true
 		- ![image.png](../assets/image_1668069558450_0.png)
 		- ![image.png](../assets/image_1668069647250_0.png){:height 222, :width 409}
 	-

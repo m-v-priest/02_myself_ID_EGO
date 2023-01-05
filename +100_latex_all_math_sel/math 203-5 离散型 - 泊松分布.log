@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.6)  5 JAN 2023 12:22
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.6)  5 JAN 2023 12:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**"math 204-2 连续型 - 指数分布.tex"
-(./math 204-2 连续型 - 指数分布.tex
+**"math 203-5 离散型 - 泊松分布.tex"
+(./math 203-5 离散型 - 泊松分布.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24>
 (c:/texlive/2022/texmf-dist/tex/latex/ctex/ctexart.cls
@@ -1000,8 +1000,8 @@ File: ppxetex.def 2022/01/29 v0.5u Pdfpages driver for XeTeX (AM)
 \c@AM@survey=\count370
 \AM@templatesizebox=\box142
 )
-(./math 204-2 连续型 - 指数分布.aux)
-\openout1 = `"math 204-2 连续型 - 指数分布.aux"'.
+(./math 203-5 离散型 - 泊松分布.aux)
+\openout1 = `"math 203-5 离散型 - 泊松分布.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
@@ -1125,19 +1125,19 @@ Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 ))
-(./math 204-2 连续型 - 指数分布.toc
-LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
+(./math 203-5 离散型 - 泊松分布.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 1.
 
 (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 1.
 
 (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ))
 \tf@toc=\write4
-\openout4 = `"math 204-2 连续型 - 指数分布.toc"'.
+\openout4 = `"math 203-5 离散型 - 泊松分布.toc"'.
 
 LaTeX Font Info:    Font shape `TU/SimSun(0)/m/sl' in size <10.53937> not avail
 able
@@ -1150,17 +1150,34 @@ able
 LaTeX Warning: No \author given.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--29
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
+File: img_math///0185.pdf Graphic file (type pdf)
+<use img_math///0185.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--32
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--30
 
  []
 
 File: img_math///0156.pdf Graphic file (type pdf)
 <use img_math///0156.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+
+ []
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 33--34
 
@@ -1169,157 +1186,173 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--34
 File: img_math///0149.pdf Graphic file (type pdf)
 <use img_math///0149.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--43
+Underfull \hbox (badness 10000) in paragraph at lines 38--42
 
  []
 
 
-Overfull \hbox (12.8694pt too wide) in paragraph at lines 44--51
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 44--51
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 52--57
+Underfull \hbox (badness 10000) in paragraph at lines 44--47
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 69--70
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--89
-
- []
-
-File: img_math///0179.png Graphic file (type bmp)
-<img_math///0179.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 91--93
+Underfull \hbox (badness 10000) in paragraph at lines 59--62
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 94--100
-
- []
-
-File: img_math///0178.png Graphic file (type bmp)
-<img_math///0178.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 101--102
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
 
  []
 
 
-Overfull \vbox (0.61272pt too high) has occurred while \output is active []
-
-
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 104--105
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
 
  []
 
-Missing character: There is no λ ("3BB) in font cmmi7!
-Missing character: There is no μ (U+03BC) in font [lmroman10-regular]:mapping=t
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--77
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+
+ []
+
+File: img_math///0150.png Graphic file (type bmp)
+<img_math///0150.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
+
+ []
+
+File: img_math///0151.png Graphic file (type bmp)
+<img_math///0151.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
+
+ []
+
+Missing character: There is no ​ (U+200B) in font [lmroman10-regular]:mapping=t
 ex-text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--130
-
- []
-
-File: img_math///0180.png Graphic file (type bmp)
-<img_math///0180.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 131--132
-
- []
-
-File: img_math///0181.pdf Graphic file (type pdf)
-<use img_math///0181.pdf>
-
-Overfull \vbox (0.61272pt too high) has occurred while \output is active []
-
-
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 141--148
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--151
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
 
  []
 
+File: img_math///0152.png Graphic file (type bmp)
+<img_math///0152.png>
+[3] [4]
+File: img_math///0155.png Graphic file (type bmp)
+<img_math///0155.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 152--153
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 154--158
-
- []
-
-File: img_math///0182.png Graphic file (type bmp)
-<img_math///0182.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 159--160
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 161--165
-
- []
-
-
-Overfull \vbox (0.61272pt too high) has occurred while \output is active []
-
-
+File: img_math///0159.png Graphic file (type bmp)
+<img_math///0159.png>
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 177--178
+Underfull \hbox (badness 10000) in paragraph at lines 151--153
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 179--181
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 182--183
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 184--185
-
- []
-
+File: img_math///0157.png Graphic file (type bmp)
+<img_math///0157.png>
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 187--191
+Underfull \hbox (badness 10000) in paragraph at lines 172--174
+
+ []
+
+File: img_math///0160.png Graphic file (type bmp)
+<img_math///0160.png>
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 195--196
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 192--193
+Underfull \hbox (badness 10000) in paragraph at lines 197--199
 
  []
 
-File: img_math///0183.pdf Graphic file (type pdf)
-<use img_math///0183.pdf>
 
-Overfull \vbox (1.92198pt too high) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 200--202
+
+ []
+
+Missing character: There is no λ (U+03BB) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--211
+
+ []
 
 
-[7] (./math 204-2 连续型 - 指数分布.aux)
+Underfull \hbox (badness 10000) in paragraph at lines 215--217
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--225
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--230
+
+ []
+
+File: img_math///0158.png Graphic file (type bmp)
+<img_math///0158.png>
+[8]
+Missing character: There is no ≥ (U+2265) in font [lmroman10-regular]:mapping=t
+ex-text;!
+File: img_math///0161.png Graphic file (type bmp)
+<img_math///0161.png>
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 269--273
+
+ []
+
+File: img_math///0184.png Graphic file (type bmp)
+<img_math///0184.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 281--282
+
+ []
+
+File: img_math///0153.png Graphic file (type bmp)
+<img_math///0153.png>
+File: img_math///0154.png Graphic file (type bmp)
+<img_math///0154.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--285
+
+ []
+
+[10] [11] (./math 203-5 离散型 - 泊松分布.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.41063pt have occurred.
@@ -1329,12 +1362,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 26807 strings out of 476179
- 617867 string characters out of 5813072
- 1029237 words of memory out of 5000000
- 47021 multiletter control sequences out of 15000+600000
- 489934 words of font info for 139 fonts, out of 8000000 for 9000
+ 26868 strings out of 476179
+ 617319 string characters out of 5813072
+ 1034239 words of memory out of 5000000
+ 47061 multiletter control sequences out of 15000+600000
+ 490014 words of font info for 149 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 102i,16n,122p,446b,1007s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,20n,122p,446b,1004s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on math 204-2 连续型 - 指数分布.pdf (7 pages).
+Output written on math 203-5 离散型 - 泊松分布.pdf (11 pages).
