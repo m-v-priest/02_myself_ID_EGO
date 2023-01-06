@@ -287,7 +287,6 @@
 			-
 	-
 	- 平均值: Mean[列表]
-	  collapsed:: true
 		- ![image.png](../assets/image_1668149524707_0.png)
 	- 中位数: Median[列表]
 	  collapsed:: true
@@ -298,7 +297,6 @@
 		- ![image.png](../assets/image_1668149608090_0.png)
 	- 标准差: StandardDeviation[列表]
 	  background-color:: blue
-	  collapsed:: true
 		- ![image.png](../assets/image_1668149766229_0.png)
 	- k阶中心距:  CentralMoment[列表, 第k阶]
 	  collapsed:: true
@@ -387,7 +385,6 @@
 	-
 	- ### 连续数据的分布
 	- 标准正态分布: Probability[x <= 某个值, x \[Distributed] NormalDistribution[]]
-	  collapsed:: true
 		- ![image.png](../assets/image_1668145879750_0.png)
 		- ![image.png](../assets/image_1668145916145_0.png)
 		-

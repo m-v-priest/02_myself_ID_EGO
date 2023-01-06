@@ -1,18 +1,21 @@
 \contentsline {part}{第一部分\hspace {1em}正态分布 and 标准正态分布}{2}{}%
 \contentsline {section}{\numberline {1}正态分布, normal distribution}{2}{}%
 \contentsline {subsection}{\numberline {1.1}正态分布 - 概率密度函数 : $\fbox {\mathsurround \z@ $\displaystyle \varphi (x)=\frac {1}{\sqrt []{2\pi }\cdot \sigma }e^{-\frac {(x-\mu )^2}{2\sigma ^2}} $}$ }{2}{}%
-\contentsline {subsection}{\numberline {1.2}正态分布 - 累加函数 : $\fbox {\mathsurround \z@ $\displaystyle F(x)=\frac {1}{\sqrt []{2\pi }\cdot \sigma }\DOTSI \intop \ilimits@ _{-\infty }^x{\left [ e^{-\frac {(x-\mu )^2}{2\sigma ^2}} \right ]}dx $}$ }{2}{}%
+\contentsline {subsection}{\numberline {1.2}正态分布 - 累加函数 : $\fbox {\mathsurround \z@ $\displaystyle F(x)=\frac {1}{\sqrt []{2\pi }\cdot \sigma }\DOTSI \intop \ilimits@ _{-\infty }^x{\left [ e^{-\frac {(x-\mu )^2}{2\sigma ^2}} \right ]}dx $}$ }{3}{}%
 \contentsline {subsection}{\numberline {1.3}正态分布(钟形曲线)的``概率函数"的性质}{3}{}%
 \contentsline {subsubsection}{\numberline {1.3.1}以 ``x=均值$\mu $" 为对称轴}{3}{}%
-\contentsline {subsubsection}{\numberline {1.3.2}以x轴为渐近线}{3}{}%
-\contentsline {subsubsection}{\numberline {1.3.3}在 $x=\mu \pm \sigma $ 处有``拐点"}{3}{}%
-\contentsline {subsubsection}{\numberline {1.3.4}``$\sigma $ 标准差"参数, 控制图像的``矮胖"或``高瘦"}{3}{}%
-\contentsline {section}{\numberline {2}标准正态分布 ← 即当 均值$\mu =0$, 标准差 $\sigma =1$ 时的``正态分布"}{4}{}%
-\contentsline {subsection}{\numberline {2.1}标准正态分布 - 概率函数 : $\fbox {\mathsurround \z@ $\displaystyle \phi _0(x)=f\left ( x \right ) =\frac {1}{\sqrt []{2\pi }}e^{-\frac {x^2}{2}} $}$}{4}{}%
-\contentsline {subsection}{\numberline {2.2}标准正态分布 - 累加函数 : $\fbox {\mathsurround \z@ $\displaystyle \varPhi _0(x)=F\left ( x \right ) =\frac {1}{\sqrt []{2\pi }}\DOTSI \intop \ilimits@ _{-\infty }^x{\left [ e^{-\frac {x}{2}} \right ]}dx $}$}{4}{}%
-\contentsline {subsection}{\numberline {2.3}标准正态分布 的性质}{5}{}%
-\contentsline {subsubsection}{\numberline {2.3.1}因为它的 $\mu =0$, 所以它的函数曲线, 关于 x=0 对称, 即y轴是对称轴.}{5}{}%
-\contentsline {subsubsection}{\numberline {2.3.2}对于 $ x \geq 5$ 的y值, 已经非常靠近y=0了}{5}{}%
-\contentsline {section}{\numberline {3}普通的``正态分布", 怎样转化成``标准正态分布"?}{7}{}%
-\contentsline {subsection}{\numberline {3.1}``概率函数"的转化公式是: $\fbox {\mathsurround \z@ $\displaystyle \varphi (x)=\frac {1}{\sigma }\cdot \varphi _0(\frac {x-\mu }{\sigma }) $}$}{7}{}%
-\contentsline {subsection}{\numberline {3.2}``累加函数"的转化公式是: $\fbox {\mathsurround \z@ $\displaystyle \varPhi (x)=\varPhi _0(\frac {x-\mu }{\sigma }) $}$}{8}{}%
+\contentsline {subsubsection}{\numberline {1.3.2}极端值很少. 且``极端值"对``均值"的影响很小}{3}{}%
+\contentsline {subsubsection}{\numberline {1.3.3}以x轴为渐近线}{4}{}%
+\contentsline {subsubsection}{\numberline {1.3.4}在 $x=\mu \pm \sigma $ 处有``拐点"}{4}{}%
+\contentsline {subsubsection}{\numberline {1.3.5}``$\sigma $ 标准差"参数, 控制图像的``矮胖"或``高瘦"}{4}{}%
+\contentsline {subsubsection}{\numberline {1.3.6}对不同的``正态分布"曲线, 进行比较}{4}{}%
+\contentsline {section}{\numberline {2}标准正态分布 ← 即当 均值$\mu =0$, 标准差 $\sigma =1$ 时的``正态分布"}{5}{}%
+\contentsline {subsection}{\numberline {2.1}标准正态分布 - 概率函数 : $\fbox {\mathsurround \z@ $\displaystyle \phi _0(x)=f\left ( x \right ) =\frac {1}{\sqrt []{2\pi }}e^{-\frac {x^2}{2}} $}$}{5}{}%
+\contentsline {subsection}{\numberline {2.2}标准正态分布 - 累加函数 : $\fbox {\mathsurround \z@ $\displaystyle \varPhi _0(x)=F\left ( x \right ) =\frac {1}{\sqrt []{2\pi }}\DOTSI \intop \ilimits@ _{-\infty }^x{\left [ e^{-\frac {x}{2}} \right ]}dx $}$}{6}{}%
+\contentsline {subsection}{\numberline {2.3}标准正态分布 的性质}{6}{}%
+\contentsline {subsubsection}{\numberline {2.3.1}因为它的 $\mu =0$, 所以它的函数曲线, 关于 x=0 对称, 即y轴是对称轴.}{6}{}%
+\contentsline {subsubsection}{\numberline {2.3.2}对于 $ x \geq 5$ 的y值, 已经非常靠近y=0了}{7}{}%
+\contentsline {section}{\numberline {3}普通的``正态分布", 怎样转化成``标准正态分布"?}{8}{}%
+\contentsline {subsection}{\numberline {3.1}``概率函数"的转化公式是: $\fbox {\mathsurround \z@ $\displaystyle \varphi (x)=\frac {1}{\sigma }\cdot \varphi _0(\frac {x-\mu }{\sigma }) $}$}{8}{}%
+\contentsline {subsection}{\numberline {3.2}``累加函数"的转化公式是: $\fbox {\mathsurround \z@ $\displaystyle \varPhi (x)=\varPhi _0(\frac {x-\mu }{\sigma }) $}$}{9}{}%
+\contentsline {section}{\numberline {4}$3\sigma $ 准则 (pauta criterion)}{12}{}%
