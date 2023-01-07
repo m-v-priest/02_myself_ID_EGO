@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.6)  7 JAN 2023 10:53
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.6)  7 JAN 2023 16:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**"math 204-3 连续型 - 正态分布.tex"
-(./math 204-3 连续型 - 正态分布.tex
+**"math 204-4 幂律分布.tex"
+(./math 204-4 幂律分布.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24>
 (c:/texlive/2022/texmf-dist/tex/latex/ctex/ctexart.cls
@@ -1000,8 +1000,8 @@ File: ppxetex.def 2022/01/29 v0.5u Pdfpages driver for XeTeX (AM)
 \c@AM@survey=\count370
 \AM@templatesizebox=\box142
 )
-(./math 204-3 连续型 - 正态分布.aux)
-\openout1 = `"math 204-3 连续型 - 正态分布.aux"'.
+(./math 204-4 幂律分布.aux)
+\openout1 = `"math 204-4 幂律分布.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
@@ -1125,19 +1125,18 @@ Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 ))
-(./math 204-3 连续型 - 正态分布.toc
-LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
-
-(c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
+(./math 204-4 幂律分布.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
+ (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
 
 (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ))
 \tf@toc=\write4
-\openout4 = `"math 204-3 连续型 - 正态分布.toc"'.
+\openout4 = `"math 204-4 幂律分布.toc"'.
 
 LaTeX Font Info:    Font shape `TU/SimSun(0)/m/sl' in size <10.53937> not avail
 able
@@ -1150,388 +1149,99 @@ able
 LaTeX Warning: No \author given.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 24--26
+Underfull \hbox (badness 10000) in paragraph at lines 24--27
 
  []
 
-File: img_math///0212.png Graphic file (type bmp)
-<img_math///0212.png>
+File: img_math///0229.pdf Graphic file (type pdf)
+<use img_math///0229.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+
+ []
+
+
+Overfull \hbox (25.19998pt too wide) in paragraph at lines 32--40
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--40
+
+ []
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 42--43
 
  []
 
+File: img_math///0228.png Graphic file (type bmp)
+<img_math///0228.png>
 
-Overfull \hbox (9.95844pt too wide) in paragraph at lines 45--51
-\TU/lmr/m/n/10.53937 “\TU/SimSun(0)/m/n/10.53937 正 态 分 布\TU/lmr/m/n/10.53937 ” 
-$\OML/cmm/m/it/10.53937 N\OT1/cmr/m/n/10.53937 ([]\OML/cmm/m/it/10.53937 ; []\O
-T1/cmr/m/n/10.53937 )$ \TU/SimSun(0)/m/n/10.53937 的 概 率 函 数 是\TU/lmr/m/n/10.539
-37 : $[]$ 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 52--58
-
- []
-
-File: img_math///0186.png Graphic file (type bmp)
-<img_math///0186.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 59--60
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 62--66
+Underfull \hbox (badness 10000) in paragraph at lines 55--57
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--81
+Underfull \hbox (badness 10000) in paragraph at lines 64--66
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--99
-
- []
-
-File: img_math///0187.png Graphic file (type bmp)
-<img_math///0187.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 100--101
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--103
+Underfull \hbox (badness 10000) in paragraph at lines 90--92
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--106
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+
+ []
+
+File: img_math///0230.png Graphic file (type bmp)
+<img_math///0230.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
 
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 113--114
+Underfull \hbox (badness 10000) in paragraph at lines 97--100
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 115--118
-
- []
-
-File: img_math///0188.png Graphic file (type bmp)
-<img_math///0188.png>
-Missing character: There is no μ (U+03BC) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no π ("3C0) in font cmmi10!
-
-Underfull \hbox (badness 10000) in paragraph at lines 136--138
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--141
+Underfull \hbox (badness 10000) in paragraph at lines 110--114
 
  []
 
+File: img_math///0231.png Graphic file (type bmp)
+<img_math///0231.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--144
-
- []
-
-File: img_math///0189.png Graphic file (type bmp)
-<img_math///0189.png>
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 152--153
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 154--156
-
- []
-
-File: img_math///0198.png Graphic file (type bmp)
-<img_math///0198.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 163--165
-
- []
-
-[5]
-Underfull \hbox (badness 10000) in paragraph at lines 181--182
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 183--184
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 195--196
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 197--203
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 237--239
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 240--242
-
- []
-
-File: img_math///0190.pdf Graphic file (type pdf)
-<use img_math///0190.pdf>
-
-Underfull \hbox (badness 10000) in paragraph at lines 243--244
-
- []
-
-[6]
-File: img_math///0191.pdf Graphic file (type pdf)
-<use img_math///0191.pdf>
-
-Underfull \hbox (badness 10000) in paragraph at lines 264--266
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 267--268
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 270--272
-
- []
-
-File: img_math///0192.pdf Graphic file (type pdf)
-<use img_math///0192.pdf>
-
-Underfull \hbox (badness 10000) in paragraph at lines 273--274
-
- []
-
-[7]
-Underfull \hbox (badness 10000) in paragraph at lines 275--285
-
- []
-
-File: img_math///0193.pdf Graphic file (type pdf)
-<use img_math///0193.pdf>
-
-Underfull \hbox (badness 10000) in paragraph at lines 299--300
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 305--307
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 309--312
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 314--316
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 317--324
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 325--326
-
- []
-
-File: img_math///0210.png Graphic file (type bmp)
-<img_math///0210.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 327--329
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 331--332
-
- []
-
-File: img_math///0211.png Graphic file (type bmp)
-<img_math///0211.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 333--335
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 336--338
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 339--341
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 348--349
-
- []
-
-File: img_math///0209.png Graphic file (type bmp)
-<img_math///0209.png>
-[8] [9]
-File: img_math///0194.pdf Graphic file (type pdf)
-<use img_math///0194.pdf>
-
-Underfull \hbox (badness 10000) in paragraph at lines 360--361
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 366--368
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 369--373
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 374--377
-
- []
-
-Missing character: There is no ^^94 (U+0094) in font [lmroman10-regular]:mappin
-g=tex-text;!
-Missing character: There is no ^^94 (U+0094) in font [lmroman10-regular]:mappin
-g=tex-text;!
-
-Overfull \hbox (17.30771pt too wide) detected at line 398
-[]
- []
-
-[10] [11]
-Underfull \hbox (badness 10000) in paragraph at lines 407--409
-
- []
-
-File: img_math///0195.png Graphic file (type bmp)
-<img_math///0195.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 420--421
-
- []
-
-[12]
-Underfull \hbox (badness 10000) in paragraph at lines 449--451
-
- []
-
-Missing character: There is no σ (U+03C3) in font [lmroman10-regular]:mapping=t
-ex-text;!
-
-Underfull \hbox (badness 10000) in paragraph at lines 457--458
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 459--460
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 465--470
-
- []
-
-[13]
-File: img_math///0213.png Graphic file (type bmp)
-<img_math///0213.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 471--476
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 477--478
-
- []
-
-File: img_math///0196.png Graphic file (type bmp)
-<img_math///0196.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 479--481
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 482--483
-
- []
-
-Missing character: There is no σ ("3C3) in font cmmi10!
-Missing character: There is no σ ("3C3) in font cmmi10!
-
-Underfull \hbox (badness 10000) in paragraph at lines 487--489
-
- []
-
-File: img_math///0197.png Graphic file (type bmp)
-<img_math///0197.png>
-[14]
-Underfull \hbox (badness 10000) in paragraph at lines 493--494
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 497--500
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 501--504
-
- []
-
-File: img_math///0214.png Graphic file (type bmp)
-<img_math///0214.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 505--506
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--509
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 510--514
-
- []
-
-File: img_math///0215.png Graphic file (type bmp)
-<img_math///0215.png>
-[15] [16] (./math 204-3 连续型 - 正态分布.aux)
+[4] (./math 204-4 幂律分布.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.41063pt have occurred.
@@ -1541,12 +1251,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 26864 strings out of 476179
- 616132 string characters out of 5813072
- 1040239 words of memory out of 5000000
- 47066 multiletter control sequences out of 15000+600000
- 489934 words of font info for 139 fonts, out of 8000000 for 9000
+ 26680 strings out of 476179
+ 615554 string characters out of 5813072
+ 1033231 words of memory out of 5000000
+ 46899 multiletter control sequences out of 15000+600000
+ 485027 words of font info for 124 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 102i,22n,122p,446b,1008s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,13n,122p,440b,330s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on math 204-3 连续型 - 正态分布.pdf (16 pages).
+Output written on math 204-4 幂律分布.pdf (4 pages).

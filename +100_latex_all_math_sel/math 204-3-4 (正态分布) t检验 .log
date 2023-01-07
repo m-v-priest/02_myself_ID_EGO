@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.6)  6 JAN 2023 15:55
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.6)  7 JAN 2023 15:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**"math 204-4 (与正态分布相关的) 中心极限定理 .tex"
-(./math 204-4 (与正态分布相关的) 中心极限定理 .tex
+**"math 204-3-4 (正态分布) t检验 .tex"
+(./math 204-3-4 (正态分布) t检验 .tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24>
 (c:/texlive/2022/texmf-dist/tex/latex/ctex/ctexart.cls
@@ -1000,8 +1000,8 @@ File: ppxetex.def 2022/01/29 v0.5u Pdfpages driver for XeTeX (AM)
 \c@AM@survey=\count370
 \AM@templatesizebox=\box142
 )
-(./math 204-4 (与正态分布相关的) 中心极限定理 .aux)
-\openout1 = `"math 204-4 (与正态分布相关的) 中心极限定理 .aux"'.
+(./math 204-3-4 (正态分布) t检验 .aux)
+\openout1 = `"math 204-3-4 (正态分布) t检验 .aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
@@ -1125,9 +1125,19 @@ Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 ))
-(./math 204-4 (与正态分布相关的) 中心极限定理 .toc)
+(./math 204-3-4 (正态分布) t检验 .toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
+
+(c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
+
+(c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
 \tf@toc=\write4
-\openout4 = `"math 204-4 (与正态分布相关的) 中心极限定理 .toc"'.
+\openout4 = `"math 204-3-4 (正态分布) t检验 .toc"'.
 
 LaTeX Font Info:    Font shape `TU/SimSun(0)/m/sl' in size <10.53937> not avail
 able
@@ -1136,36 +1146,26 @@ able
  [1
 
 ]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 18.
-
-
-(c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 18.
-
-
-(c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
 
 LaTeX Warning: No \author given.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--26
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 27--28
+Underfull \hbox (badness 10000) in paragraph at lines 28--30
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--32
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
 
  []
 
+File: img_math///0222.png Graphic file (type bmp)
+<img_math///0222.png>
 
 Underfull \hbox (badness 10000) in paragraph at lines 33--34
 
@@ -1176,149 +1176,97 @@ Underfull \hbox (badness 10000) in paragraph at lines 35--37
 
  []
 
+File: img_math///0223.png Graphic file (type bmp)
+<img_math///0223.png>
 
 Underfull \hbox (badness 10000) in paragraph at lines 38--39
 
  []
 
+File: img_math///0224.png Graphic file (type bmp)
+<img_math///0224.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--51
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 52--53
-
- []
-
-File: img_math///0199.png Graphic file (type bmp)
-<img_math///0199.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 54--55
+Underfull \hbox (badness 10000) in paragraph at lines 40--42
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--58
+Underfull \hbox (badness 10000) in paragraph at lines 43--45
 
  []
 
+File: img_math///0225.png Graphic file (type bmp)
+<img_math///0225.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--60
-
- []
-
-File: img_math///0200.png Graphic file (type bmp)
-<img_math///0200.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 61--62
+Underfull \hbox (badness 10000) in paragraph at lines 46--48
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 63--64
-
- []
-
+File: img_math///0226.png Graphic file (type bmp)
+<img_math///0226.png>
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 74--75
+Overfull \hbox (623.44319pt too wide) has occurred while \output is active
+\TU/lmr/m/sl/10.53937 1 \TU/SimSun(0)/m/it/10.53937 中 心 极 限 定 理\TU/lmr/m/sl/10.
+53937 : \TU/SimSun(0)/m/it/10.53937 对 一 个 总 体\TU/lmr/m/sl/10.53937 , \TU/SimSun
+(0)/m/it/10.53937 进 行 大 量 重 复 的 抽 样\TU/lmr/m/sl/10.53937 . \TU/SimSun(0)/m/it/1
+0.53937 将 每 次 抽 样 的 均 值\TU/lmr/m/sl/10.53937 , \TU/SimSun(0)/m/it/10.53937 在 横 
+坐 标 轴 上 从 小 到 大 排 开，|  并 用 柱 状 图 表 示 \TU/lmr/m/sl/10.53937 “\TU/SimSun(0)/m/it/
+10.53937 频 次\TU/lmr/m/sl/10.53937 ”. \TU/SimSun(0)/m/it/10.53937 最 终 得 到 的 柱 状 
+图 的 轮 廓\TU/lmr/m/sl/10.53937 , \TU/SimSun(0)/m/it/10.53937 是 一 个 \TU/lmr/m/sl/1
+0.53937 “\TU/SimSun(0)/m/it/10.53937 正 态 分 布\TU/lmr/m/sl/10.53937 ”. \TU/SimSun
+(0)/m/it/10.53937 而 且 \TU/lmr/m/sl/10.53937 “\TU/SimSun(0)/m/it/10.53937 对 称 轴\
+TU/lmr/m/sl/10.53937 ” \TU/SimSun(0)/m/it/10.53937 所 标 示 的 值，|  便 是 总 体 的 \TU/l
+mr/m/sl/10.53937 “\TU/SimSun(0)/m/it/10.53937 实 际 平 均 值 $\OML/cmm/m/it/10.53937
+ ^^V$\TU/lmr/m/sl/10.53937 ”. \TU/lmr/m/n/10.53937 3
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--68
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--75
+
+ []
+
+File: img_math///0227.png Graphic file (type bmp)
+<img_math///0227.png>
 
 Underfull \hbox (badness 10000) in paragraph at lines 76--77
 
  []
 
-File: img_math///0201.png Graphic file (type bmp)
-<img_math///0201.png>
 
 Underfull \hbox (badness 10000) in paragraph at lines 78--79
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--85
-
+Overfull \hbox (62.29436pt too wide) has occurred while \output is active
+\TU/lmr/m/sl/10.53937 2 (1) \TU/SimSun(0)/m/it/10.53937 原 假 设 $\OML/cmm/m/it/10
+.53937 H[]$ \TU/lmr/m/sl/10.53937 (NULL HYPOTHESIS), (2) \TU/SimSun(0)/m/it/10.
+53937 对 立 \TU/lmr/m/sl/10.53937 (\TU/SimSun(0)/m/it/10.53937 或 备 选\TU/lmr/m/sl/
+10.53937 ) \TU/SimSun(0)/m/it/10.53937 的 假 设 $\OML/cmm/m/it/10.53937 H[]$ \TU/l
+mr/m/sl/10.53937 (ALTERNATIVE HYPOTHESIS) \TU/lmr/m/n/10.53937 4
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 86--90
-
- []
-
-File: img_math///0204.png Graphic file (type bmp)
-<img_math///0204.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 91--92
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 93--95
-
- []
-
-File: img_math///0202.png Graphic file (type bmp)
-<img_math///0202.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 96--97
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 99--102
-
- []
-
-File: img_math///0203.png Graphic file (type bmp)
-<img_math///0203.png>
-[3] [4]
-Underfull \hbox (badness 10000) in paragraph at lines 113--115
-
- []
-
-File: img_math///0205.png Graphic file (type bmp)
-<img_math///0205.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
-
- []
-
-File: img_math///0206.png Graphic file (type bmp)
-<img_math///0206.png>
-[5]
-Underfull \hbox (badness 10000) in paragraph at lines 122--123
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 124--127
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 128--130
-
- []
-
-File: img_math///0208.png Graphic file (type bmp)
-<img_math///0208.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 146--149
-
- []
-
-[6]
-Overfull \hbox (79.21008pt too wide) has occurred while \output is active
-\TU/lmr/m/sl/10.53937 4 \TU/SimSun(0)/m/it/10.53937 当 我 们 不 知 道 某 个 随 机 事 件\TU/
-lmr/m/sl/10.53937 , \TU/SimSun(0)/m/it/10.53937 服 从 什 么 分 布 的 时 候\TU/lmr/m/sl/1
-0.53937 , \TU/SimSun(0)/m/it/10.53937 就 先 假 设 它 服 从 \TU/lmr/m/sl/10.53937 “\TU/
-SimSun(0)/m/it/10.53937 正 态 分 布\TU/lmr/m/sl/10.53937 ”, \TU/SimSun(0)/m/it/10.5
-3937 然 后 再 用 实 际 数 据 来 验 证\TU/lmr/m/sl/10.53937 . \TU/lmr/m/n/10.53937 7
- []
-
-[7] (./math 204-4 (与正态分布相关的) 中心极限定理 .aux)
+[4] [5] (./math 204-3-4 (正态分布) t检验 .aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.41063pt have occurred.
@@ -1328,12 +1276,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 26731 strings out of 476179
- 613907 string characters out of 5813072
- 1034245 words of memory out of 5000000
- 46953 multiletter control sequences out of 15000+600000
- 484979 words of font info for 118 fonts, out of 8000000 for 9000
+ 26715 strings out of 476179
+ 612897 string characters out of 5813072
+ 1030240 words of memory out of 5000000
+ 46933 multiletter control sequences out of 15000+600000
+ 489918 words of font info for 137 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 102i,6n,122p,454b,1019s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,6n,122p,449b,1013s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on math 204-4 (与正态分布相关的) 中心极限定理 .pdf (7 pages).
+Output written on math 204-3-4 (正态分布) t检验 .pdf (5 pages).

@@ -1,0 +1,4 @@
+\contentsline {part}{第一部分\hspace {1em}t 检验}{2}{}%
+\contentsline {section}{\numberline {1}中心极限定理 : 对一个总体, 进行大量重复的抽样. 将每次抽样的均值, 在横坐标轴上从小到大排开，并用柱状图表示``频次". 最终得到的柱状图的轮廓, 是一个``正态分布". 而且``对称轴"所标示的值，便是总体的``实际平均值$\mu $".}{2}{}%
+\contentsline {section}{\numberline {2}(1) 原假设$H_0$ (null hypothesis), (2) 对立(或备选)的假设 $H_1$ (alternative hypothesis)}{4}{}%
+\contentsline {section}{\numberline {3}t检验}{5}{}%
