@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.6)  9 JAN 2023 14:39
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.6)  9 JAN 2023 16:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**"math 204-4 幂律分布.tex"
-(./math 204-4 幂律分布.tex
+**"math 205-01 数学期望.tex"
+(./math 205-01 数学期望.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24>
 (c:/texlive/2022/texmf-dist/tex/latex/ctex/ctexart.cls
@@ -1000,8 +1000,8 @@ File: ppxetex.def 2022/01/29 v0.5u Pdfpages driver for XeTeX (AM)
 \c@AM@survey=\count370
 \AM@templatesizebox=\box142
 )
-(./math 204-4 幂律分布.aux)
-\openout1 = `"math 204-4 幂律分布.aux"'.
+(./math 205-01 数学期望.aux)
+\openout1 = `"math 205-01 数学期望.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
@@ -1125,18 +1125,17 @@ Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 ))
-(./math 204-4 幂律分布.toc
-LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
+(./math 205-01 数学期望.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
  (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
-
+LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
 (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ))
 \tf@toc=\write4
-\openout4 = `"math 204-4 幂律分布.toc"'.
+\openout4 = `"math 205-01 数学期望.toc"'.
 
 LaTeX Font Info:    Font shape `TU/SimSun(0)/m/sl' in size <10.53937> not avail
 able
@@ -1149,236 +1148,137 @@ able
 LaTeX Warning: No \author given.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 24--27
-
- []
-
-File: img_math///0229.pdf Graphic file (type pdf)
-<use img_math///0229.pdf>
-
-Underfull \hbox (badness 10000) in paragraph at lines 28--29
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 30--31
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
 
  []
 
 
-Overfull \hbox (25.19998pt too wide) in paragraph at lines 32--40
-[] 
+Overfull \hbox (26.78668pt too wide) in paragraph at lines 37--43
+\TU/SimSun(0)/m/n/10.53937 离 散 型 随 机 变 量 \TU/lmr/m/n/10.53937 X \TU/SimSun(0)/m
+/n/10.53937 的 取 值 为\TU/lmr/m/n/10.53937 : $\OML/cmm/m/it/10.53937 X[]; X[]; :::
+X[]$\TU/lmr/m/n/10.53937 , \TU/SimSun(0)/m/n/10.53937 其 每 个 \TU/lmr/m/n/10.5393
+7 X \TU/SimSun(0)/m/n/10.53937 的 取 值\TU/lmr/m/n/10.53937 , \TU/SimSun(0)/m/n/10
+.53937 对 应 的 概 率 为 $\OML/cmm/m/it/10.53937 p\OT1/cmr/m/n/10.53937 (\OML/cmm/m/i
+t/10.53937 X[]\OT1/cmr/m/n/10.53937 )\OML/cmm/m/it/10.53937 ; p\OT1/cmr/m/n/10.
+53937 (\OML/cmm/m/it/10.53937 X[]\OT1/cmr/m/n/10.53937 )\OML/cmm/m/it/10.53937 
+; :::; p\OT1/cmr/m/n/10.53937 (\OML/cmm/m/it/10.53937 X[]\OT1/cmr/m/n/10.53937 
+)$\TU/lmr/m/n/10.53937 .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 32--40
+Underfull \hbox (badness 10000) in paragraph at lines 37--43
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--43
+Underfull \hbox (badness 10000) in paragraph at lines 46--54
 
  []
 
-File: img_math///0228.png Graphic file (type bmp)
-<img_math///0228.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--45
+Underfull \hbox (badness 10000) in paragraph at lines 63--72
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--81
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--87
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--92
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 46--48
-
- []
-
-File: img_math///0239.png Graphic file (type bmp)
-<img_math///0239.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 52--53
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--56
+Underfull \hbox (badness 10000) in paragraph at lines 110--116
 
  []
 
+File: img_math///0240.pdf Graphic file (type pdf)
+<use img_math///0240.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 57--58
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 59--60
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 62--63
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 66--70
-
+Overfull \hbox (62.3753pt too wide) has occurred while \output is active
+\TU/lmr/m/sl/10.53937 3 “\TU/SimSun(0)/m/it/10.53937 连 续 型\TU/lmr/m/sl/10.53937
+ ” \TU/SimSun(0)/m/it/10.53937 随 机 变 量 的 \TU/lmr/m/sl/10.53937 “\TU/SimSun(0)/m
+/it/10.53937 数 学 期 望\TU/lmr/m/sl/10.53937 ” : $\OML/cmm/m/it/10.53937 E\OT1/cmr
+/m/n/10.53937 (\OML/cmm/m/it/10.53937 X\OT1/cmr/m/n/10.53937 ) = [][] []$ \TU/l
+mr/m/sl/10.53937 ← \TU/SimSun(0)/m/it/10.53937 其 中 的 \TU/lmr/m/sl/10.53937 F(X)
+ \TU/SimSun(0)/m/it/10.53937 是 \TU/lmr/m/sl/10.53937 “\TU/SimSun(0)/m/it/10.539
+37 概 率 \TU/lmr/m/sl/10.53937 (\TU/SimSun(0)/m/it/10.53937 密 度\TU/lmr/m/sl/10.53
+937 ) \TU/SimSun(0)/m/it/10.53937 函 数\TU/lmr/m/sl/10.53937 ”. \TU/lmr/m/n/10.53
+937 3
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 84--86
+Underfull \hbox (badness 10000) in paragraph at lines 133--139
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--88
+Underfull \hbox (badness 10000) in paragraph at lines 140--148
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--91
+Underfull \hbox (badness 10000) in paragraph at lines 149--158
+
+ []
+
+File: img_math///0241.png Graphic file (type bmp)
+<img_math///0241.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--170
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--101
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
 
+ []
+
+
+Overfull \hbox (62.3753pt too wide) has occurred while \output is active
+\TU/lmr/m/sl/10.53937 3 “\TU/SimSun(0)/m/it/10.53937 连 续 型\TU/lmr/m/sl/10.53937
+ ” \TU/SimSun(0)/m/it/10.53937 随 机 变 量 的 \TU/lmr/m/sl/10.53937 “\TU/SimSun(0)/m
+/it/10.53937 数 学 期 望\TU/lmr/m/sl/10.53937 ” : $\OML/cmm/m/it/10.53937 E\OT1/cmr
+/m/n/10.53937 (\OML/cmm/m/it/10.53937 X\OT1/cmr/m/n/10.53937 ) = [][] []$ \TU/l
+mr/m/sl/10.53937 ← \TU/SimSun(0)/m/it/10.53937 其 中 的 \TU/lmr/m/sl/10.53937 F(X)
+ \TU/SimSun(0)/m/it/10.53937 是 \TU/lmr/m/sl/10.53937 “\TU/SimSun(0)/m/it/10.539
+37 概 率 \TU/lmr/m/sl/10.53937 (\TU/SimSun(0)/m/it/10.53937 密 度\TU/lmr/m/sl/10.53
+937 ) \TU/SimSun(0)/m/it/10.53937 函 数\TU/lmr/m/sl/10.53937 ”. \TU/lmr/m/n/10.53
+937 4
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 123--124
-
+Overfull \hbox (62.3753pt too wide) has occurred while \output is active
+\TU/lmr/m/sl/10.53937 3 “\TU/SimSun(0)/m/it/10.53937 连 续 型\TU/lmr/m/sl/10.53937
+ ” \TU/SimSun(0)/m/it/10.53937 随 机 变 量 的 \TU/lmr/m/sl/10.53937 “\TU/SimSun(0)/m
+/it/10.53937 数 学 期 望\TU/lmr/m/sl/10.53937 ” : $\OML/cmm/m/it/10.53937 E\OT1/cmr
+/m/n/10.53937 (\OML/cmm/m/it/10.53937 X\OT1/cmr/m/n/10.53937 ) = [][] []$ \TU/l
+mr/m/sl/10.53937 ← \TU/SimSun(0)/m/it/10.53937 其 中 的 \TU/lmr/m/sl/10.53937 F(X)
+ \TU/SimSun(0)/m/it/10.53937 是 \TU/lmr/m/sl/10.53937 “\TU/SimSun(0)/m/it/10.539
+37 概 率 \TU/lmr/m/sl/10.53937 (\TU/SimSun(0)/m/it/10.53937 密 度\TU/lmr/m/sl/10.53
+937 ) \TU/SimSun(0)/m/it/10.53937 函 数\TU/lmr/m/sl/10.53937 ”. \TU/lmr/m/n/10.53
+937 5
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 125--128
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 130--131
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 137--138
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 139--141
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 142--143
-
- []
-
-File: img_math///0230.png Graphic file (type bmp)
-<img_math///0230.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 144--145
-
- []
-
-[5]
-Underfull \hbox (badness 10000) in paragraph at lines 156--158
-
- []
-
-File: img_math///0232.png Graphic file (type bmp)
-<img_math///0232.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 161--163
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 164--170
-
- []
-
-File: img_math///0233.pdf Graphic file (type pdf)
-<use img_math///0233.pdf>
-File: img_math///0235.png Graphic file (type bmp)
-<img_math///0235.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 178--182
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 184--185
-
- []
-
-File: img_math///0234.png Graphic file (type bmp)
-<img_math///0234.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 186--189
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 190--194
-
- []
-
-[6]
-File: img_math///0236.png Graphic file (type bmp)
-<img_math///0236.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 203--205
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 206--207
-
- []
-
-File: img_math///0237.pdf Graphic file (type pdf)
-<use img_math///0237.pdf>
-
-Underfull \hbox (badness 10000) in paragraph at lines 208--209
-
- []
-
-File: img_math///0238.pdf Graphic file (type pdf)
-<use img_math///0238.pdf>
-
-Underfull \hbox (badness 10000) in paragraph at lines 210--212
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 225--226
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 227--229
-
- []
-
-[7] [8]
-Underfull \hbox (badness 10000) in paragraph at lines 239--243
-
- []
-
-File: img_math///0231.png Graphic file (type bmp)
-<img_math///0231.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 244--245
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 250--252
-
- []
-
-[9] (./math 204-4 幂律分布.aux)
+[5] (./math 205-01 数学期望.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.41063pt have occurred.
@@ -1388,12 +1288,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 26949 strings out of 476179
- 626222 string characters out of 5813072
- 1038846 words of memory out of 5000000
- 47160 multiletter control sequences out of 15000+600000
- 485027 words of font info for 124 fonts, out of 8000000 for 9000
+ 26690 strings out of 476179
+ 612193 string characters out of 5813072
+ 1035232 words of memory out of 5000000
+ 46910 multiletter control sequences out of 15000+600000
+ 489934 words of font info for 139 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 102i,13n,122p,440b,1008s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,25n,122p,441b,1007s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on math 204-4 幂律分布.pdf (9 pages).
+Output written on math 205-01 数学期望.pdf (5 pages).

@@ -1,9 +1,12 @@
 \contentsline {part}{第一部分\hspace {1em}幂律分布 Power law distribution}{2}{}%
 \contentsline {section}{\numberline {1}幂律分布: 在随机变量中，越小的数值，出现的概率越大; 越大的数值，出现的概率则越小}{2}{}%
-\contentsline {section}{\numberline {2}性质}{3}{}%
-\contentsline {subsection}{\numberline {2.1}尖峰肥尾}{3}{}%
-\contentsline {subsection}{\numberline {2.2}无标度 -- 分形效果}{3}{}%
-\contentsline {subsection}{\numberline {2.3}幂律分布让``均值$\mu $"失去意义}{3}{}%
-\contentsline {subsection}{\numberline {2.4}幂律分布中的``波动性(方差$\sigma $)"失去意义}{3}{}%
-\contentsline {subsection}{\numberline {2.5}在``双对数坐标系"下，幂律分布表现为一条斜率为``幂指数的负数"的直线}{3}{}%
-\contentsline {subsubsection}{\numberline {2.5.1}真数 : 即 $\fbox {\mathsurround \z@ $\displaystyle \text {底}^{\text {指}(\text {真数})}=\text {幂}$}$中的``指数"}{4}{}%
+\contentsline {section}{\numberline {2}性质}{4}{}%
+\contentsline {subsection}{\numberline {2.1}尖峰肥尾}{4}{}%
+\contentsline {subsection}{\numberline {2.2}无标度 -- 分形效果}{4}{}%
+\contentsline {subsection}{\numberline {2.3}幂律分布让``均值$\mu $"失去意义}{4}{}%
+\contentsline {subsection}{\numberline {2.4}幂律分布中的``波动性(方差$\sigma $)"失去意义}{5}{}%
+\contentsline {subsection}{\numberline {2.5}符合``幂律分布"的事件, 其何时发生, 和发生的规模, 完全不可预测}{5}{}%
+\contentsline {subsection}{\numberline {2.6}在``双对数坐标系"下，幂律分布表现为一条斜率为``幂指数的负数"的直线}{5}{}%
+\contentsline {subsubsection}{\numberline {2.6.1}什么时候, 要使用到``对数"坐标系呢?}{6}{}%
+\contentsline {subsubsection}{\numberline {2.6.2}真数 : 即 $\fbox {\mathsurround \z@ $\displaystyle \text {底}^{\text {指}(\text {真数})}=\text {幂}$}$中的``指数"}{9}{}%
+\contentsline {subsection}{\numberline {2.7}幂律分布可是我们对抗``熵增"的中间经过状态}{9}{}%

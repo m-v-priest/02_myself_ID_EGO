@@ -1,0 +1,4 @@
+\contentsline {part}{第一部分\hspace {1em}数学期望 mathematic expectation}{2}{}%
+\contentsline {section}{\numberline {1}``期望" : 是对长期价值的数字化衡量.}{2}{}%
+\contentsline {section}{\numberline {2}``离散型"随机变量的``数学期望": $E(X)= \DOTSB \sum@ \slimits@ _{k=1}^{\infty } (x_k P_k)$}{2}{}%
+\contentsline {section}{\numberline {3}``连续型"随机变量 的``数学期望" : $E(X)=\DOTSI \intop \ilimits@ _{-\infty }^{\infty }{\left [ x\cdot f\left ( x \right ) \right ] dx} $ ← 其中的 f(x) 是``概率(密度)函数".}{3}{}%
