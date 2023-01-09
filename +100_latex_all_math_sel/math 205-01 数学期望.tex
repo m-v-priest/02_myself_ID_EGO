@@ -18,12 +18,58 @@
 	\maketitle  %这行代码, 让你前面的 title, author, date生效
 	
 	
+	
+	
 	\part{数学期望 mathematic expectation}
+	
+	
+	
+	
+	\section{加权平均数 : $		\overline{x}=\frac{\sum_{}^{}{\left( x\cdot \text{对应权重}w \right)}}{\sum_{}^{}{\left( \text{对应权重}w \right)}}		$}
+	
+	加权平均数, 和本章要讲的``数学期望", 没什么关系. 但两者的公式, 确有相似之处. 所以就把``加权平均数"也写在这里.\\
+	
+	若n个数$ x_1, x_2, ..., x_n$ 的``权重", 分别是 $ w_1, w_2, ..., w_n$ ，那么, 这n个数的``加权平均值"就是: \\
+	$	\overline{x}=\dfrac{x_1w_1+x_2w_2+...+x_nw_n}{w_1+w_2+...+w_n}	$. 
+	即: $		\overline{x}=\dfrac{\sum_{}^{}{\left( x\cdot \text{对应权重}w \right)}}{\sum_{}^{}{\left( \text{对应权重}w \right)}}		$ \\
+	
+	
+	\begin{myEnvSample}
+\begin{tabular}{|c|c|c|c|}
+	\hline
+	各考试 & 平时测验=得到了80分 & 期中考试=90分 & 期末考试=95分 \\
+	\hline
+	权重 & 0.2 & 0.3 & 0.5 \\
+	\hline
+\end{tabular} \\
+
+则, 你成绩的``加权平均值" : \\
+ $\overline{x}=\dfrac{\sum_{}^{}{\left( x\cdot \text{对应权重}w \right)}}{\sum_{}^{}{\left( \text{对应权重}w \right)}}=\dfrac{\left( 80\cdot 0.2 \right) +\left( 90\cdot 0.3 \right) +\left( 95\cdot 0.5 \right)}{0.2+0.3+0.5}=90.5$ 
+	\end{myEnvSample}
+	\vspace{1em} 
+	
+	
+	
+	
+	
+	
+	
 	
 	\section{``期望" : 是对长期价值的数字化衡量.}
 	
 	各个股票的价格有涨有跌, 那你怎么判断它们各自的价值, 到底几何? 方法就是 --- 数学期望.  \\
-	\textbf{``期望" 是对长期价值的数字化衡量.} \\
+	\textbf{``期望" 是对``长期价值"的数字化衡量. --- 即``长期中会得到的数学均值". 即在长期中(无数次试验)的状态下, 能取到的稳定结果(即均值)为何.} \\
+	
+	
+	``数学期望"之所以有效, 是因为``大数定律"在背后起作用. \\
+	- \textbf{大数定律把``随机变量x"在局部上的``随机性数值变化", 固定到``整体上的确定性"，也就是概率.} \\
+	- \textbf{而``数学期望", 又把``概率"代表的长期价值, 变成了一个具体的数字，方便我们比较.} \\
+	
+	几乎所有的金融产品的价值, 如基金, 股票, 都可以用``数学期望" 来衡量它们是否值得投资. 如果``赢的期望"超过``输的期望"，即\textbf{数学期望是正的, 它就值得长期投资.} \\	
+	对于游戏开发者来说, \textbf{如何保证游戏的平衡性?} 即不让某些游戏中的职业过强或过弱? \textbf{方法就是衡量每个角色职业能活下来的``数学期望". 然后调整参数, 达到``数学期望"上的平衡.} \\
+	
+	
+	不过注意: 数学期望, 有时也会有``主观价值判断"的涉入. 因为每个人, 对同一样事物赋予的``价值高低"的判断不同, 所以不同个体的数学期望, 也不一样. 比如, 俄罗斯轮盘赌, 那些把赢钱看得比自己生命更重的人, 他们赋予这个游戏的数学期望就更高. 
 	
 	
 	
@@ -40,6 +86,65 @@
 	X_1\cdot p(x_1)+X_2\cdot p(x_2)+...+X_n\cdot p(x_n)=\sum_{k=1}^n{(x_k \cdot p_k)}=\underset{\text{随机变量}X\text{的期望}}{\underbrace{E(X)}}
 	}$ \\
 	← 这个公式和``加权平均数"的公式很像, 只不过是把``权重"换成了``概率". \\
+	
+	
+	
+	
+\begin{myEnvSample}
+你在一游戏中, 要么会得到0元, 要么100元, 具体概率如下. 则你的期望为? \\
+\begin{tabular}{|c|c|c|}
+	\hline
+	X(元) & 0 & 100 \\
+	\hline
+	P(概率) & 3/4 & 1/4 \\
+	\hline
+\end{tabular} \\
+
+$E(X)=\sum_{k=1}^n{(x_k\cdot p_k)}=\left( 0\cdot \frac{3}{4}+100\cdot \frac{1}{4} \right) =25\text{元}$ 
+\end{myEnvSample}
+	\vspace{1em} 
+	
+	
+	
+	
+	\begin{myEnvSample}
+某股票, 现在价格50元. 它有40\%的概率涨到60块, 有30\%的概率保持不变， 还有30\%的概率跌到35块. 即: \\
+\begin{tabular}{|c|c|c|c|}
+	\hline
+	收益 X(元)=未来价格-现在价格(50元) & =60-50 & =50-50 & =35-50 \\
+	\hline
+	P & 0.4 & 0.3 & 0.3 \\
+	\hline
+\end{tabular} \\
+
+那么它未来涨跌收益 的``数学期望"就是:  \\
+$E(X) = (60-50) \cdot 0.4 + (50-50) \cdot 0.3 + (35-50) \cdot 0.3 = -0.5$  \\
+这个收益的期望, 是负数. 说明长期来看, 这只股票趋向于是亏钱的, 不值得买.
+	\end{myEnvSample}
+	\vspace{1em} 
+	
+	
+	
+	
+	\begin{myEnvSample}
+\begin{tabular}{|c|c|c|}
+	\hline
+	投篮得分X ↓ & ← 命中概率 & ← 数学期望 \\
+	\hline
+	近距离篮下投, 得2分 & 0.55 & 2×0.55=1.1分 \\
+	\hline
+	中距离投篮, 得2分 & 0.45 & 2×0.45=0.9分 \\
+	\hline
+	远距离投三分球, 得3分 & 0.35 & 3×0.35=1.05分 \\
+	\hline
+\end{tabular} \\
+
+\textbf{每种进攻方式的价值, 原本没办法比较，有了``数学期望"后, 就可以进行比较了.} 所以要多采用``近距离"和``远距离"投篮 (因为它们的数学期望值更高), 少投"中距离". 事实上, 在NBA 篮球联赛中, 不少球队就是照这个思路制定策略的.
+	\end{myEnvSample}
+	\vspace{1em} 
+	
+	
+	
 	
 	
 	\begin{myEnvSample}
@@ -122,7 +227,7 @@ $E(X)=\sum_{k=1}^n{(x_k\cdot p_k)}=(0\cdot 0.01)+(\underset{1\text{个孩子}}{\
 & =\frac{2}{3}x^3\mid_{0}^{1}=\frac{2}{3}
 	\end{align*}
 
-\includegraphics[width=0.6\textwidth]{/0240.pdf} 
+\includegraphics[width=0.5\textwidth]{/0240.pdf} 
 \end{myEnvSample}
 \vspace{1em} 
 
@@ -166,7 +271,8 @@ $ \\
 	概率P & 0.0952 & 0.0861 & 0.0779 & 0.7408 \\
 	\hline
 \end{tabular} \\
-\includegraphics[width=1\textwidth]{/0241.png} \\
+
+\includegraphics[width=0.7\textwidth]{/0241.png} \\
 
 所以, 该产品的价格期望值, 就是: \\
 \begin{align*}  % 支持每行编号. 若不需要编号, 就用 align*环境
