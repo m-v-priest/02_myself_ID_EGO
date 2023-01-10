@@ -53,7 +53,9 @@
 	
 	
 	
-	
+	~\\
+	\hrule
+	~\\
 	
 	\section{``期望" : 是对长期价值的数字化衡量.}
 	
@@ -283,6 +285,94 @@ $ \\
 & =2732.15 \text{元}
 \end{align*}
 \end{myEnvSample}
+	
+	
+	
+	~\\
+	\hrule
+	~\\
+	
+	
+\section{``随机变量函数"的``数学期望"}	
+即 用随机变量X, 构造出新的函数 Y=g(X), 来求这个``新函数Y"的数学期望. \\
+
+\subsection{由 ``离散型随机变量X" 构造出的新函数 Y=g(X) : 其数学期望是: \\ $E(Y)=E(g(X))=\sum_{i=1}^{}{\left[ g(x_i)\cdot P_i \right]}$ }
+
+\begin{tabular}{|c|c|}
+	\hline
+	& 数学期望 \\
+	\hline
+	``离散型"的随机变量 X & $E(X)=\sum_{}^{}{(X_iP_i)}$ \\
+	\hline
+	由``离散型随机变量X" 构造出的新函数 Y=g(X) &  $E(Y)=E(g(X))=\sum_{i=1}^{}{\left[ g(x_i)\cdot P_i \right]}$
+	\\
+	\hline
+\end{tabular} \\
+\vspace{1em} 
+
+
+\begin{myEnvSample}
+	有``离散型"随机变量X : \\
+	\begin{tabular}{|c|c|c|c|}
+		\hline
+		X & 0 & 1 & 2 \\
+		\hline
+		P & 0.1 & 0.6 & 0.3 \\
+		\hline
+	\end{tabular} \\
+
+由X构造出的新函数: Y=4X+1, 就有: \\
+	\begin{tabular}{|c|c|c|c|}
+	\hline
+	Y=4X+1 & $4×(0)+1={\color{red}1}$ & $4×(1)+1={\color{red}5}$ & $4×(2)+1={\color{red}9}$ \\
+	\hline
+	P & 0.1 & 0.6 & 0.3 \\
+	\hline
+\end{tabular} \\
+
+则, Y的期望就是:  \\
+$
+E(Y)=E(g(X))=\sum_{i=1}^{}{\left[ g(x_i)\cdot P_i \right]}=({\color{red}1}\cdot 0.1)+({\color{red}5}\cdot 0.6)+({\color{red}9}\cdot 0.3)=5.8
+$
+\end{myEnvSample}
+
+
+
+
+\subsection{由 ``连续型随机变量X" 构造出的新函数 Y=g(X) : 其数学期望是: \\ $
+	E\left( Y \right) =E(g(X))=\int_{-\infty}^{\infty}{\left[ g\left( x \right) f\left( x \right) \right]}dx	$}
+
+	\begin{tabular}{|c|c|}
+		\hline
+		& 数学期望 \\
+		\hline
+		``连续型"的随机变量 X &  $E(X)=\int_{-\infty}^{\infty}{[x\cdot f(x)]dx}$\\
+		\hline
+		由 ``连续型随机变量X" 构造出的新函数 Y=g(X) &  $E(X)=E(g(X))=\int_{-\infty}^{\infty}{[g(x)\cdot f(x)]dx}$\\
+		\hline
+	\end{tabular} \\
+	\vspace{1em} 
+	
+	
+	
+	\begin{myEnvSample}
+	有``连续性"随机变量X, 其概率函数是: $f\left( x \right) =\left\{ \begin{array}{l}
+		\dfrac{1}{2}\ \left( 0\leq X\leq 2 \right)\\
+		0\ \left( else \right)\\
+	\end{array} \right. $ \\
+
+由X构造出的新函数Y是: $Y=4X+1$ \\
+则: Y的数学期望就是: 
+\begin{align*}  % 支持每行编号. 若不需要编号, 就用 align*环境
+	E(Y) &=E\left( 4X+1 \right)\\
+&=\int_{-\infty}^{\infty}{[g(x)\cdot f(x)]dx}\\
+&=\int_0^2{[\underset{\text{即}g\left( x \right)}{\underbrace{\left( 4X+1 \right) }}\cdot \underset{\text{即}f\left( x \right)}{\underbrace{\frac{1}{2}}}]}dx =5
+\end{align*}
+	\end{myEnvSample}
+	
+	
+	
+	
 	
 	
 	
