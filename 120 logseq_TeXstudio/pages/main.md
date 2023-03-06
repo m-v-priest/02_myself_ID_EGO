@@ -253,7 +253,6 @@
 		  ```
 	- ### ★自定义代码片段
 	  background-color:: red
-	  collapsed:: true
 		- ![image.png](../assets/image_1670379036392_0.png)
 		- ![image.png](../assets/image_1670379069458_0.png)
 		- 然后, 你就可以输入 `\你自定义的缩写` 来输入该代码片段了
@@ -261,6 +260,7 @@
 	  background-color:: red
 	  collapsed:: true
 		- 将 ctrl+u, 作为给选中的文本添加"下划线"的快捷键. 注意, 使用时, 要先按 ctrl+m后, 再接着按 ctrl+u 才能生效
+		  collapsed:: true
 			- 在宏里面编辑脚本
 			- ```
 			  %SCRIPT
@@ -269,6 +269,17 @@
 			  cursor.clearSelection()
 			  ```
 		- ![image.png](../assets/image_1670382934918_0.png)
+	- 自定义快捷键: 给选中的文本, 添加上双引号
+		- %SCRIPT
+		  txt = cursor.selectedText()
+		  editor.write("``"+txt+"\"")
+		  cursor.clearSelection()
+		-
+		- 或者, 脚本为:
+		- %SCRIPT
+		  txt = cursor.selectedText() 
+		  editor.replaceSelectedText("``" + txt + "\"")
+		- ![image.png](../assets/image_1678081834134_0.png)
 	- 更改texstudio的默认快捷键, 向 phpstorm看齐
 	  collapsed:: true
 		- phpstorm 的快捷键表
