@@ -871,10 +871,76 @@ Specific Heat Capacity. 简写为C. 就是\textbf{用来衡量: 1单位质量的
 	
 	``欧姆定律"是电学的基本定律之一，应用非常广泛。实际电路虽然比较复杂, 但是往往可以简化为串联电路或并联电路, 再利用欧姆定律, 来解决问题。 \\
 	
+	电流: \\
+	→ 串联电路中, 电流处处相等 \\
+	→ 并联电路中, 干路中的电流, 等于各支路电流之和 \\
+	
+	电压: \\
+	→ 串联电路中, 两端的总电压, 等于各串联部分两端的电压之和 \\
+	→ 并联电路中, 各并联支路的电压相等 \\
+	
+	
+	\includegraphics[width=0.7\textwidth]{img/0057.png} \\
 	
 	
 	
-	88
+	\begin{tcolorbox}[title = {例},boxrule={0.1em},colframe={black!10}, colback={black!3},colbacktitle={black!10},coltitle={black}]
+	如图, 电源两端电压为6V, 电阻R1为 $10 \omega$, 开关S闭合后, 问: \\	
+	滑动变阻器R2(就是图中的R)的电阻为 $50 \omega$ 时, 通过电阻R1的电流I 是多少? 
+		\includegraphics[width=0.3\textwidth]{img/0056.png} \\	
+		串联电路中: \\
+		- 电阻R1两端的电压 U1 =I × R1 \\
+		- 电阻R2两端的电压 U2 =I × R2 \\
+		- 串联电路的电压 U =U1+U2 		
+		- 电流处处相等 \\
+		\begin{align*}
+			& U=U_1+U_2=IR_1+IR_2=I\left( R_1+R_2 \right)\\
+			& I=\frac{U}{R_1+R_2}=\frac{6V}{10\varOmega +50\varOmega}=0.1A\\
+		\end{align*}	
+	\end{tcolorbox}
+	
+	由上面的例题可以看出，\textbf{``串联电路"中, 通过某个电阻的电流, 或串联电路的``电流", 等于电源两端``电压"除以``各分电阻之和"}。 \\
+	另外, \textbf{当``串联电路"中的一个``电阻"改变时, 电路中的``电流"及另一个电阻两端的``电压", 都会随之改变。}很多实际电路都利用了``串联电路"的这一特点。\\
+	
+	
+	
+	\begin{tcolorbox}[title = {例},boxrule={0.1em},colframe={black!10}, colback={black!3},colbacktitle={black!10},coltitle={black}]		
+		\includegraphics[width=0.3\textwidth]{img/0058.png} \\	
+	并联电路中: 并联的支路电压相等
+	\begin{align}
+			& I_1=\frac{U}{R_1}=\frac{12V}{10\varOmega}=1.2A\\
+		& I_2=\frac{U}{R_2}=\frac{12V}{40\varOmega}=0.3A\\
+		& \text{总电流}I=I_1+\text{I}_2=1.2A+0.3\text{A}=1.5\text{A}		
+	\end{align}	
+	\end{tcolorbox}
+	
+	由上面的例题可以看出, \textbf{当``并联电路"中的一个支路的``电阻"改变时，这个支路的``电流"会变化、干路``电流"也会变化，但另一个支路的``电流"和``电压"都不变。} \\
+	家庭电路中，各用电器采用``并联"形式连接到电源上，就是利用了``并联电路"的这一特点。\\
+	
+\vspace{1em} 
+
+
+\subsection{电能 electric energy}
+
+电能的单位, 叫``千瓦时"(即"度"), 符号是 kW·h.  \\
+在物理学中，常用的能量单位是``焦耳"。\textbf{1千瓦时比1焦耳大得多。} 它们之间的关系是: 
+\begin{align}
+	\boxed{
+	1 kW·h = 1 \cdot 10^3 W \cdot 3600s = 3.6 \cdot 10^6 J	
+	}
+\end{align}
+
+用电器在一段时间内消耗的``电能"，可以通过``电能表"(也叫``电度表")计量出来。\\
+
+
+
+
+
+
+
+
+	
+	93
 	
 	
 	

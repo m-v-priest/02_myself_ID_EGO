@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.6)  7 MAR 2023 16:21
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.6)  8 MAR 2023 16:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1869,7 +1869,54 @@ Underfull \hbox (badness 10000) in paragraph at lines 869--871
 
  []
 
-[21] (./物理01.aux)
+
+Underfull \hbox (badness 10000) in paragraph at lines 872--873
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 874--877
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 878--881
+
+ []
+
+File: img/0057.png Graphic file (type bmp)
+<img/0057.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 883--884
+
+ []
+
+File: img/0056.png Graphic file (type bmp)
+<img/0056.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 888--896
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 902--904
+
+ []
+
+[21]
+File: img/0058.png Graphic file (type bmp)
+<img/0058.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 917--919
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 925--927
+
+ []
+
+[22] (./物理01.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.41063pt have occurred.
@@ -1879,12 +1926,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 27056 strings out of 476179
- 625123 string characters out of 5813072
- 1038219 words of memory out of 5000000
- 47233 multiletter control sequences out of 15000+600000
+ 27082 strings out of 476179
+ 625536 string characters out of 5813072
+ 1039219 words of memory out of 5000000
+ 47256 multiletter control sequences out of 15000+600000
  490014 words of font info for 149 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  102i,23n,122p,427b,460s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on 物理01.pdf (21 pages).
+Output written on 物理01.pdf (22 pages).
