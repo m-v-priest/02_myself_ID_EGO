@@ -846,11 +846,11 @@ Specific Heat Capacity. 简写为C. 就是\textbf{用来衡量: 1单位质量的
 	
 	【欧姆定律  Ohm law】: \\
 	\textbf{通过导体的``电流", 跟导体两端的``电压"成正比, 跟导体的``电阻"成反比。} 对大多数导体而言，这个规律是成立的. 即: 
-	\begin{align}
+	\begin{align*}
 		\boxed{
 		\underset{\text{电流,单位:安培}A}{\underbrace{I}}=\frac{\underset{\text{电压,单位:伏特}V}{\underbrace{U}}}{\underset{\text{电阻,单位:欧姆}\varOmega}{\underbrace{R}}}			
 		}
-	\end{align} 
+	\end{align*} 
 	
 	- 导体两端的 电压U, 单位是 V (伏特) \\
 	- 导体的 电阻R, 单位是 $\omega$ (欧姆) \\
@@ -907,11 +907,11 @@ Specific Heat Capacity. 简写为C. 就是\textbf{用来衡量: 1单位质量的
 	\begin{tcolorbox}[title = {例},boxrule={0.1em},colframe={black!10}, colback={black!3},colbacktitle={black!10},coltitle={black}]		
 		\includegraphics[width=0.3\textwidth]{img/0058.png} \\	
 	并联电路中: 并联的支路电压相等
-	\begin{align}
+	\begin{align*}
 			& I_1=\frac{U}{R_1}=\frac{12V}{10\varOmega}=1.2A\\
 		& I_2=\frac{U}{R_2}=\frac{12V}{40\varOmega}=0.3A\\
 		& \text{总电流}I=I_1+\text{I}_2=1.2A+0.3\text{A}=1.5\text{A}		
-	\end{align}	
+	\end{align*}	
 	\end{tcolorbox}
 	
 	由上面的例题可以看出, \textbf{当``并联电路"中的一个支路的``电阻"改变时，这个支路的``电流"会变化、干路``电流"也会变化，但另一个支路的``电流"和``电压"都不变。} \\
@@ -924,23 +924,199 @@ Specific Heat Capacity. 简写为C. 就是\textbf{用来衡量: 1单位质量的
 
 电能的单位, 叫``千瓦时"(即"度"), 符号是 kW·h.  \\
 在物理学中，常用的能量单位是``焦耳"。\textbf{1千瓦时比1焦耳大得多。} 它们之间的关系是: 
-\begin{align}
+\begin{align*}
 	\boxed{
 	1 kW·h = 1 \cdot 10^3 W \cdot 3600s = 3.6 \cdot 10^6 J	
 	}
-\end{align}
+\end{align*}
 
 用电器在一段时间内消耗的``电能"，可以通过``电能表"(也叫``电度表")计量出来。\\
 
+\includegraphics[width=1\textwidth]{img/0059.png} \\
+
+电能表上显示的数字, 是表从开始记数, 到读数为止用去的电能。即, 为了计量一段时间内消耗的电能, 必须记录这段时间起始和结束时,  电能表上计数器的示数。前后两次示数之差，就是这段时间内用电的度数。 \\
+例如，家中电能表, 在月初的示数是 3246.8 kW·h，月底的示数是 3265.4 kWh，这个月家里用电就是  $3265.4-3246.8= 18.6kW·h$ \\
+
+
+目前, 常用的电能表是IC卡式的。用户将IC卡充值后插入电能表，电能表自动读取卡中的金额。一旦金额用完，电能表会切断电路. 所以表中的金额将要用完时，需要到银行为C卡储值，并重新将卡插人电能表。\\
+
+\textbf{在实际生活中，为了计算电费方便, 读数时常常只读整数, 略去小数。}
+
+\vspace{1em} 
+
+
+
+\subsection{电功 : Work=U×I×time}
+
+电能可以转化成多种其他形式的能量。\textbf{电能转化为其他形式的能的过程, 也可以说是电流``做功"的过程，有多少电能发生了转化, 就说电流做了多少功，即``电功"(electric work）是多少。}\\
+例如: \\
+- 电动机工作时，我们可以说``电能"转化成了``机械能"，也可以说: 电流做功, 使电动机能够向外输出动能. \\
+- 电炉工作时，可以说``电能"转化成了``内能"，也可以说: 电流做功, 使电炉的内能增加. \\
+
+在日常生活中，\textbf{我们常说消耗了多少电能，而很少说``电流做了多少功". 其实，两种说法是一样的。} \\
+
+电流做功的多少, 跟电流的大小、电压的高低、通电时间的长短, 都有关系。\textbf{加在用电器上的电压越高、通过的电流越大、通电时间越长，电流做功越多。} \\
+研究表明，当电路两端的电压为U，电路中的电流为I，通电时间为t时，\textbf{电功W(或者说消耗的电能)}为: 
+\begin{align*}
+	\boxed{
+		\underset{\text{即消耗的电能}}{\underbrace{\text{电功}Work}}=\text{电压}U\cdot \text{电流}I\cdot \text{通电时间}t		
+	}
+\end{align*} \\
 
 
 
 
+\begin{tcolorbox}[title = {例},boxrule={0.1em},colframe={black!10}, colback={black!3},colbacktitle={black!10},coltitle={black}]
+例题有一只节能灯接在220 V的家庭电路中，通过它的电流为0.09 A, 计算这只灯使用5h, 会用电多少千瓦时?  \\
+$W=UIt=220V \cdot 0.09A \cdot 5h = 0.099 \ kW·h$
+\end{tcolorbox}
+
+
+\vspace{1em} 
+
+\subsection{$\text{电功率}Power=\frac{\text{电功}Work}{\text{完成这些电功所用的时间}time}=\frac{UIt}{t}=UI$}
+
+\textbf{电功率 electric power: 表示电流做功的快慢. 电功率用P表示，它的单位是瓦特 watt ，简称瓦. 符号是W.} \\
+不同的电器, 电功率各不相同。 比如有的电器是 24W的, 有的电器是 500W 的. \\
+
+【电功率的单位】: \\
+- 瓦: W \\
+- 千瓦 kW: $1kW = 10^3 W$ \\
+- 毫瓦 mW: $1W = 10^3 mW$ \\
+
+
+【电功率的公式】: 
+\begin{align*}
+	\boxed{
+	\text{电功率}Power=\frac{\text{电功}Work}{\text{完成这些电功所用的时间}time}=\frac{UIt}{t}=UI		
+	}
+\end{align*} \\
+从公式可以看出: \textbf{电功率Power, 其实就是单位时间的电功Work值.} \\
+
+我们变换一下公式, 就是: 
+\begin{align*}
+			\underset{\text{是}t\text{这段时间,\ 电流通过用电器所做的功.\ 即用电器消耗的电能}.}{\underbrace{\text{电功}Work<\text{焦耳}>}}=\underset{\text{电功率.即单位时间的电功值}}{\underbrace{Power<\text{瓦特}>}}\cdot \underset{\text{完成这些电功所用的时间}.}{\underbrace{time<\text{秒}>}}
+\end{align*} \\
+
+\textbf{如果把 Power 用千瓦为单位, time 用小时为单位, 那么它们相乘之后，就得到电能的另一个单位: 千瓦时(度)。 }
+\begin{align*}
+		\underset{\text{是}t\text{这段时间,\ 电流通过用电器所做的功.\ 即用电器消耗的电能}.}{\underbrace{\text{电功}Work<\text{千瓦时,即度}>}}=\underset{\text{电功率.即单位时间的电功值}}{\underbrace{Power<\text{千瓦}>}}\cdot \underset{\text{完成这些电功所用的时间}.}{\underbrace{time<\text{小时}>}}	
+\end{align*}
+\textbf{1千瓦时, 即电功率为1kW的用电器, 使用 1h 所消耗的电能。} \\
+
+
+
+\begin{tcolorbox}[title = {例},boxrule={0.1em},colframe={black!10}, colback={black!3},colbacktitle={black!10},coltitle={black}]
+一电视机的电功率是 150 W, 每天使用3h, 一个月用电多少千瓦时?(按30天计算) 
+\begin{align*}
+	& \text{电功}W=\text{电功率}P\cdot \text{用电时间}t \\
+	& =150W\cdot 30\text{天} \\
+	& =0.15\ kW\cdot 30\text{天}\cdot 3\text{小时}\\
+	& =13.5<kW\cdot h>
+\end{align*}
+\end{tcolorbox}
+
+
+
+
+【额定电压, 额定频率】:\\
+不同用电器的``电功率" 一般不相同。那么，同一个用电器工作在不同的电压下, 它的电功率总是一样的吗? \\
+
+实验: 取一个标有 36V, 25W 的灯泡。把它接在 36V 的电路中，它正常发光; 把它接在 24V 的电路中，它发光暗淡; 把它接 在40V 的电路中，它发光强烈. \\
+
+实验表明, \textbf{在不同的电压下, 同一个用电器的电功率不一样大 : 用电器实际的电功率, 随着它两端的电压而改变。} \\
+\textbf{既然如此，我们就不能泛泛地说一个用电器的``电功率"是多大，而要指明电压。}\\
+
+→ 用电器正常工作时的电压, 叫做``额定电压" rated voltage. \\
+→ 用电器在``额定电压"下工作时的``电功率", 叫做``额定功率" rated power. \\
+
+\includegraphics[width=0.3\textwidth]{img/0060.png} \\
+
+- 节能灯上标着 220V, 24w，表示``额定电压"是220 V，``额定功率"是24 W. \\
+- 电熨斗上标着 220V, 500w，表示``额定电压"是220 v，``额定功率"是500 W. \\
+
+\textbf{我们使用各种用电器时, 一定要注意它的``额定电压"，只有在``额定电压"下用电器, 才能正常工作}: \\
+→ 实际电压偏低，用电器的``电功率"低，就不能正常工作。 \\
+→ 反之, 实际电压偏高，有可能损坏用电器。 \\
+
+
+\vspace{1em} 
+
+
+\subsection{焦耳定律: 热量$Q = I^2 R t $}
+
+生活中，许多用电器接通电源后, 都伴有热现象产生。电流通过导体时, ``电能"转化成``内能", 这种现象叫做电流的``热效应"。 \\
+电炉丝通过导线接到电路里，电炉丝和导线通过的电流相同。那么为什么电炉丝热得发红，而导线却几乎不发热? 换句话说, \textbf{电流通过导体时, 产生热的多少, 跟什么因素有关?} \\
+
+实验表明: \\
+→ \textbf{在电流相同、通电时间相同的情况下，``电阻"越大，这个电阻产生的热量越多。} \\
+→ \textbf{在电阻相同、通电时间相同的情况下，通过一个电阻的``电流"越大,这个电阻产生的热量越多。} \\
+
+电流产生的``热量", 跟``电流"、``电阻"和``通电时间"的关系, 就由``焦耳定律" Joule 1aw 来总结: \\
+\textbf{电流通过导体产生的热量Q, 跟``电流I 的二次方"成正比, 跟``导体的电阻R"成正比, 跟``通电时间 t"成正比。这个规律叫做``焦耳定律".}
+\begin{align*}
+	\boxed{
+		\underset{\text{电流产生的热量}}{\underbrace{Q}}=\underset{\text{电流}}{\underbrace{I}}^2\cdot \underset{\text{电阻}}{\underbrace{R}}\cdot t
+			}
+\end{align*} 
+
+电流通过导体时, 如果``电能"全部转化为``内能", 而没有同时转化为其他形式的能量, 那么，电流产生的热量, 就等于消耗的电能W，即 Q =W =Ult. 再根据欧姆定律 U=IR，就得到: $\text{热量}Q=\text{电能}Work=\underset{=I\cdot R}{\underbrace{U}}\cdot I\cdot time=IRIt=I^2Rt$ \\
+
+所以, 上面电炉的例子, 为什么通电后, 导线不热, 电炉丝热, 就是因为两者的电阻不同. 导线的电阻很小, lm长的电线, 电阻不过百分之几欧姆. 而电炉丝的电阻可达几十欧姆到上百欧姆。所以, 当通过的电流相等时，电炉丝很热, 而导线却不热。 \\
+
+
+
+\begin{tcolorbox}[title = {例},boxrule={0.1em},colframe={black!10}, colback={black!3},colbacktitle={black!10},coltitle={black}]
+一根$60 \omega$ 的电阻丝, 接在 36V 的电源两端，在5 min内, 会共产生多少热量? 
+\begin{align*}
+	\text{热量}Q=\underset{=\frac{U}{R}}{\underbrace{I}}^2\cdot Rt=\left( \frac{36V}{60\varOmega} \right) ^2\cdot 60\varOmega \cdot \left( 5\text{分钟}\cdot 60\text{秒} \right) =6480\ J	
+\end{align*}
+\end{tcolorbox}
+
+
+\underline{}
+
+
+
+\section{家庭电路}
+
+我国家庭电路的电压是220 V. \\
+
+\includegraphics[width=1\textwidth]{img/0061.png} \\
+
+上图是比较简单的家庭电路示意图，由两根进户线、电能表、总开关、保险装置、用电器、导线等组成。 \\
+→ 输电线进户后, 首先接到``电能表"上，电能表用来显示所消耗的电能。 \\
+→ 接下来是全户用电的总开关。当家庭电路需要修理时, 必须断开总开关，这时室内全部电路与外面的输电线分离,可以保证施工人员的安全。 \\
+→ 总开关的后面是保险装置。熔丝(俗称``保险丝"）是简易保险装置, 装在保险盒内。电流过大时熔丝会熔化, 切断电路, 对用电器起到保护作用。 \\
+现在新建居民楼电路中的保险装置, 一般采用``空气开关"，空气开关安装在电能表后, 如图19.1-1所示。\textbf{当电路中的电流过大时，空气开关自动断开, 切断电路，俗称``跳闸"。在找出电流过大的原因, 并把问题解决之后, 重新闭合``空气开关"就可以了。} \\
+
+\includegraphics[width=0.3\textwidth]{img/0062.png} \\
+
+→ 在电能表、总开关、保险装置之后，可以连接``用电器"。电路中还可以安装插座, 许多家用电器可以接在插座上。
+
+
+
+【火线, 零线】: \\
+\textbf{进户的两条输电线中，一条叫做``端线", 俗称``火线"; 另一条叫做``零线"。 零线在入户之前已经和大地相连。} \\
+知道进户的两条线哪条是``火线"、哪条是``零线"非常重要。常用的方法是用``试电笔"来判断。 \\
+一种试电笔的构造如图19.1-2所示。氖管中充有稀薄的氖气, 两端是两个金属电极。\textbf{当电极间的电压达到一定值时, 氖气会导电。当电流从一个电极流到另一个电极时, 氖气会发出红光。} \\
+
+使用时, 手指按住笔卡，\textbf{用笔尖接融被测的导线(手指千万不能碰到笔尖)。} \\
+→ 如果被测导线是``火线", 电流经过笔尖、电阻、氖管、弹簧, 再经过人体、经过大地, 流到零线，与电源构成闭合电路,氖管就会发光。 \\
+→ 如果笔尖接触的是``零线",氖管中不会有电流，也就不会发光。 \\
+
+\textbf{试电笔中, ``电阻"的作用十分重要。氖管发光只需很小的电流, 所以要在试电笔的电路中, 串联一个很大的电阻, 约有一百万欧姆。由于电流很小，使用试电笔时尽管电流通过人体，也不会对人造成伤害。} \\
+
+另一种常见试电笔, 形状如螺丝刀(图19.1-3)，使用时, 要用指尖抵住上端的金属帽。 \\
+
+试电笔, 通常也用来检查电气设备的外壳是否带电。 \\
+
+通常情况下，\textbf{家庭电路中各个用电器的通断, 不应该影响其他用电器的通断，所以用电器应该``并联"后接在电路中。控制用电器的开关, 要连接在``火线"和``用电器"之间。}
 
 
 
 	
-	93
+104
 	
 	
 	

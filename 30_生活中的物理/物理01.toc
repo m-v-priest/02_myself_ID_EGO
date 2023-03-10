@@ -30,3 +30,7 @@
 \contentsline {subsection}{\numberline {9.5}电阻}{19}{}%
 \contentsline {subsection}{\numberline {9.6}欧姆定律: $\text {电流}I=\frac {\text {电压}U}{\text {电阻}R} $}{20}{}%
 \contentsline {subsection}{\numberline {9.7}电能 electric energy}{22}{}%
+\contentsline {subsection}{\numberline {9.8}电功 : Work=U×I×time}{23}{}%
+\contentsline {subsection}{\numberline {9.9}$\text {电功率}Power=\frac {\text {电功}Work}{\text {完成这些电功所用的时间}time}=\frac {UIt}{t}=UI$}{23}{}%
+\contentsline {subsection}{\numberline {9.10}焦耳定律: 热量$Q = I^2 R t $}{25}{}%
+\contentsline {section}{\numberline {10}家庭电路}{26}{}%

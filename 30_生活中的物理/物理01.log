@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.6)  8 MAR 2023 16:50
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.6)  10 MAR 2023 14:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1912,11 +1912,174 @@ Underfull \hbox (badness 10000) in paragraph at lines 917--919
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 925--927
+Underfull \hbox (badness 10000) in paragraph at lines 933--934
 
  []
 
-[22] (./物理01.aux)
+File: img/0059.png Graphic file (type bmp)
+<img/0059.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 935--936
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 937--939
+
+ []
+
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 941--942
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 951--955
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 956--957
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 964--965
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 979--981
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 982--986
+
+ []
+
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 993--995
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 999--1000
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1004--1006
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1022--1024
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1025--1026
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1027--1029
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1030--1032
+
+ []
+
+File: img/0060.png Graphic file (type bmp)
+<img/0060.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 1033--1034
+
+ []
+
+[24]
+Underfull \hbox (badness 10000) in paragraph at lines 1035--1037
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1038--1041
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1048--1050
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1051--1054
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1063--1064
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1065--1066
+
+ []
+
+[25]
+Underfull \hbox (badness 10000) in paragraph at lines 1083--1084
+
+ []
+
+File: img/0061.png Graphic file (type bmp)
+<img/0061.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 1085--1086
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1087--1092
+
+ []
+
+File: img/0062.png Graphic file (type bmp)
+<img/0062.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 1093--1094
+
+ []
+
+[26]
+Underfull \hbox (badness 10000) in paragraph at lines 1099--1103
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1104--1107
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1108--1109
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1110--1111
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1112--1113
+
+ []
+
+[27] (./物理01.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.41063pt have occurred.
@@ -1926,12 +2089,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 27082 strings out of 476179
- 625536 string characters out of 5813072
- 1039219 words of memory out of 5000000
- 47256 multiletter control sequences out of 15000+600000
+ 27130 strings out of 476179
+ 626890 string characters out of 5813072
+ 1043219 words of memory out of 5000000
+ 47300 multiletter control sequences out of 15000+600000
  490014 words of font info for 149 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  102i,23n,122p,427b,460s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on 物理01.pdf (22 pages).
+Output written on 物理01.pdf (27 pages).
