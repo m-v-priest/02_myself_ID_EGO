@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.6)  15 MAR 2023 16:44
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.6)  15 MAR 2023 15:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**物理02.tex
-(./物理02.tex
+**"math_线性代数 003_矩阵运算.tex"
+(./math_线性代数 003_矩阵运算.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24>
 (c:/texlive/2022/texmf-dist/tex/latex/ctex/ctexart.cls
@@ -999,8 +999,9 @@ File: ppxetex.def 2022/01/29 v0.5u Pdfpages driver for XeTeX (AM)
 \AM@toc@title=\toks54
 \c@AM@survey=\count370
 \AM@templatesizebox=\box142
-) (./物理02.aux)
-\openout1 = `物理02.aux'.
+)
+(./math_线性代数 003_矩阵运算.aux)
+\openout1 = `"math_线性代数 003_矩阵运算.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
@@ -1123,7 +1124,8 @@ Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
 (c:/texlive/2022/texmf-dist/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
-)) (./物理02.toc
+))
+(./math_线性代数 003_矩阵运算.toc
 LaTeX Font Info:    Trying to load font information for U+msa on input line 1.
 
 (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -1135,7 +1137,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 1.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ))
 \tf@toc=\write4
-\openout4 = `物理02.toc'.
+\openout4 = `"math_线性代数 003_矩阵运算.toc"'.
 
 LaTeX Font Info:    Font shape `TU/SimSun(0)/m/sl' in size <10.53937> not avail
 able
@@ -1147,219 +1149,11 @@ able
 
 LaTeX Warning: No \author given.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--28
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 34--35
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--37
-
- []
-
-File: img/0107.png Graphic file (type bmp)
-<img/0107.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--42
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 43--45
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 46--49
-
- []
-
 [2]
-File: img/0108.jpg Graphic file (type bmp)
-<img/0108.jpg>
+Overfull \vbox (4.48097pt too high) has occurred while \output is active []
 
-Underfull \hbox (badness 10000) in paragraph at lines 57--58
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 59--62
-
- []
-
-File: img/0108.png Graphic file (type bmp)
-<img/0108.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--71
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--77
-
- []
-
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 86--88
-
- []
-
-File: img/0110.pdf Graphic file (type pdf)
-<use img/0110.pdf>
-
-Underfull \hbox (badness 10000) in paragraph at lines 92--93
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 94--97
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 98--103
-
- []
-
-File: img/0111.png Graphic file (type bmp)
-<img/0111.png>
-File: img/0112.png Graphic file (type bmp)
-<img/0112.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 116--119
-
- []
-
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 132--133
-
- []
-
-File: img/0103.png Graphic file (type bmp)
-<img/0103.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 156--158
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 167--168
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 169--171
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 174--175
-
- []
-
-File: img/0104.png Graphic file (type bmp)
-<img/0104.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 176--177
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 178--179
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 180--182
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 183--185
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 186--188
-
- []
-
-[5]
-Underfull \hbox (badness 10000) in paragraph at lines 193--196
-
- []
-
-Missing character: There is no ^^92 (U+0092) in font [lmroman10-regular]:mappin
-g=tex-text;!
-Missing character: There is no ^^92 (U+0092) in font [lmroman10-regular]:mappin
-g=tex-text;!
-Missing character: There is no ^^92 (U+0092) in font [lmroman10-regular]:mappin
-g=tex-text;!
-Missing character: There is no ^^92 (U+0092) in font [lmroman10-regular]:mappin
-g=tex-text;!
-Missing character: There is no ^^92 (U+0092) in font [lmroman10-regular]:mappin
-g=tex-text;!
-Missing character: There is no ^^92 (U+0092) in font [lmroman10-regular]:mappin
-g=tex-text;!
-Missing character: There is no ^^92 (U+0092) in font [lmroman10-regular]:mappin
-g=tex-text;!
-Missing character: There is no ^^92 (U+0092) in font [lmroman10-regular]:mappin
-g=tex-text;!
-Missing character: There is no ^^92 (U+0092) in font [lmroman10-regular]:mappin
-g=tex-text;!
-Missing character: There is no ^^92 (U+0092) in font [lmroman10-regular]:mappin
-g=tex-text;!
-Missing character: There is no Δ ("394) in font cmmi10!
-
-Underfull \hbox (badness 10000) in paragraph at lines 209--211
-
- []
-
-[6]
-Underfull \hbox (badness 10000) in paragraph at lines 222--223
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 224--225
-
- []
-
-File: img/0105.png Graphic file (type bmp)
-<img/0105.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 226--227
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 228--229
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 230--233
-
- []
-
-File: img/0106.pdf Graphic file (type pdf)
-<use img/0106.pdf>
-[7]
-Underfull \hbox (badness 10000) in paragraph at lines 253--255
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 256--261
-
- []
-
-[8] (./物理02.aux)
+[3] (./math_线性代数 003_矩阵运算.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.41063pt have occurred.
@@ -1369,12 +1163,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 26888 strings out of 476179
- 622475 string characters out of 5813072
- 1038389 words of memory out of 5000000
- 47095 multiletter control sequences out of 15000+600000
- 485059 words of font info for 128 fonts, out of 8000000 for 9000
+ 26556 strings out of 476179
+ 607961 string characters out of 5813072
+ 1041235 words of memory out of 5000000
+ 46778 multiletter control sequences out of 15000+600000
+ 489966 words of font info for 143 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 102i,20n,122p,427b,999s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,8n,122p,472b,330s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on 物理02.pdf (8 pages).
+Output written on math_线性代数 003_矩阵运算.pdf (3 pages).

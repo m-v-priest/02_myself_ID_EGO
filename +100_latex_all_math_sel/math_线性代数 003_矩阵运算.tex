@@ -1,0 +1,117 @@
+\documentclass[UTF8]{ctexart}
+
+\usepackage{subfiles}  
+
+%下面的语句, 引入你的头部设置文件
+\usepackage{C:/phpStorm_proj/02_myself_ID_EGO/+100_latex_all_math_sel/myPreamble} 
+%必须是绝对路径，才能让各个tex在单独编译时使用到
+
+\title{矩阵运算}
+
+
+%---------------------------------
+
+
+\begin{document}
+	\tableofcontents % 生成目录
+	\date{} % 若不写这句, 则默认也会渲染出日期, 所以我们要手动赋空值
+	\maketitle  %这行代码, 让你前面的 title, author, date生效
+	
+	
+	\section{求$A^n$}
+	
+	
+	\section{$A^*$}
+	
+
+		\subsection{公式: $AA^*=A^*A=\left| A \right|E			$} 
+		
+
+		\subsection{公式: $\left| A^* \right|=\left| A \right|^{n-1}			$} 
+		
+
+		\subsection{公式: $\left( A^T \right) ^*=\left( A^* \right) ^T			$} 
+		
+
+		\subsection{公式: $\left( kA \right) ^*=k^{n-1}A^*,\ \left( -A \right) ^*=\left( -1 \right) ^{n-1}A^*			$} 
+		
+
+		\subsection{公式: $A^{-1}=\frac{1}{\left| A \right|}A^*,\ \text{即}A^*=\left| A \right|A^{-1}			$} 
+		
+
+		\subsection{公式: $\left( A^* \right) ^{-1}=\frac{1}{\left| A \right|}A=\left( A^{-1} \right) ^*			$} 
+		
+
+		\subsection{公式: $\left( A^* \right) ^*=\left| A \right|^{n-2}A			$} 
+		
+
+		\subsection{公式: $\left| \left( A^* \right) ^* \right|=\left| A \right|^{\left( n-1 \right) ^2}			$} 
+		
+
+		\subsection{公式: $\left( AB \right) ^*=B^*A^*$} 
+		
+
+	
+	
+	
+	
+	\section{$A^{-1}$}
+		\subsection{性质:$\left( A^{-1} \right) ^{-1}=A$}
+		
+		\subsection{性质:$\left( AB \right) ^{-1}=B^{-1}A^{-1}$}
+		
+		\subsection{性质:$k\ne 0\text{时,}\left( kA \right) ^{-1}=\frac{1}{k}A^{-1}$}
+		
+		\subsection{性质:$\left( A^T \right) ^{-1}=\left( A^{-1} \right) ^T$}
+		
+		\subsection{性质:$\left| A^{-1} \right|=\frac{1}{\left| A \right|}$}
+		
+		\subsection{求 $A^{-1}$ : 具体型: $A^{-1}=\frac{1}{\left| A \right|}A^*$}
+		
+		\subsection{求 $A^{-1}$ : 抽象型: 创造AB=E, 则 $A^{-1}=B$ }
+		
+		\subsection{求 $A^{-1}$ : 抽象型: 创造A=BC, 若B,C均可逆, 则 $A^{-1}=C^{-1}B^{-1}$ }
+		
+		\subsection{分块矩阵}
+	
+	
+	
+	
+	
+	\section{初等矩阵}
+	
+		\subsection{性质: $ \left| E_{ij} \right|=-1,\ \left| E_{ij}\left( k \right) \right|=1,\ \left| E_i\left( k \right) \right|=k	$}
+		
+	
+		\subsection{性质: $E_{ij}^{T}=E_{ij},\ E_{ij}^{T}\left( k \right) =E_{ij}\left( k \right) ,\ E_{i}^{T}\left( k \right) =E_i\left( k \right) $}		
+	
+		\subsection{性质: $E_{ij}^{-1}=E_{ij},\ E_{ij}^{-1}\left( k \right) =E_{ij}\left( -k \right) ,\ E_{i}^{-1}\left( k \right) =E_i\left( \frac{1}{k} \right) $}
+		
+		\subsection{性质: $E_{ij}^{*}=\left| E_{ij} \right|E_{ij}^{-1}=-E_{ij}$ \\
+			$E_{ij}^{*}\left( k \right) =\left| E_{ij}\left( k \right) \right|E_{ij}^{-1}\left( k \right) =E_{ij}\left( -k \right) 			$\\
+			$E_{i}^{*}\left( k \right) =\left| E_i\left( k \right) \right|E_{i}^{-1}\left( k \right) =kE_i\left( \frac{1}{k} \right) 	$
+		}
+	
+	
+	\subsection{``左行右列"定理}
+	
+	
+	
+	\section{矩阵方程}
+		
+		
+	
+	36
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+\end{document}

@@ -63,9 +63,9 @@
 \vspace{1em} 
 
 
-\subsection{匀变速直线运动 uniform variable rectilinear motion : 加速度不变.}	
+\subsection{匀变速直线运动 : $v = v_0 + at$.}	
 
-【匀变速直线运动】: \\
+【匀变速直线运动  uniform variable rectilinear motion】: \\
 即``加速度a" 不变的直线运动。意思是: 在任意相等的时间内, 速度的变化量 Δv 都相同. (加速度不变）. ``匀变速直线运动"的v-t图像, 是一条倾斜的直线。\\	
 \includegraphics[width=0.4\textwidth]{img/0108.png}	\\
 	
@@ -73,14 +73,76 @@
 【匀加速直线运动】:\\
 在``匀变速直线运动"中:\\
 - 如果物体的速度, 随时间均匀增加，则这种运动叫作``匀加速直线运动". \\
-- 如果物体的速度, 随时间均匀减小, 则这种运动叫作``匀减速直线运动"。\\
+- 如果物体的速度, 随时间均匀减小, 则这种运动叫作``匀减速直线运动". \\
+
+
+【匀变速直线运动, 其两个参数 velocity(速度) 和 time 的关系公式就是】:\\
+$	\text{加速度}a=\dfrac{\varDelta v}{\varDelta t}=\dfrac{\overset{\text{在}t\text{时刻的速度}}{\overbrace{v}}-\overset{\text{开始时刻的速度,即初速度}}{\overbrace{v_0}}}{\varDelta t}$ \\
+即:
+\begin{align*}
+	\boxed{
+		v=v_0+a\varDelta t
+	}
+\end{align*}
+上面公式是什么意思呢?  \textbf{由于加速度a, 在数值上等于``单位时间内,速度的变化量", 所以 a×Δt 就是``Δt时间内,速度的变化量". 再加上运动开始时物体的速度 $v_0$, 就得到 ``t时刻物体的速度v".} \\
 
 
 
-	
-	
-	45
-	
+\begin{myEnvSample}
+\includegraphics[width=1\textwidth]{img/0110.pdf}\\
+
+一辆汽车以 36 km/h 的速度匀速行驶。从某时刻起, 它以 $0.6 m/s^2$ 的加速度加速，10 s末因故突然紧急刹车，刹车时做匀减速运动的加速度大小是 $6 m/s^2$, 直到汽车停了下来。 问: \\
+(1)汽车在10s末的速度, 是多少? \\
+(2）汽车从刹车到停下来, 用了多长时间? \\
+
+汽车在加速和减速时, 都在做``匀变速直线运动"。所以, 根据公式: \\
+(1) : \\
+$
+\underset{10\text{秒时的速度}}{\underbrace{v}}=\underset{36\ km/h}{\underbrace{v_0}}+\underset{0.6\ m/s^2}{\underbrace{a}}\underset{10s}{\cdot \underbrace{\varDelta t}}=16\ m/s
+$ \\
+
+(2) :
+\begin{align*}
+		& v=v_0+a\varDelta t,\ \text{即}\varDelta t=\frac{v-v_0}{a}\\
+	& \underset{\text{从刹车到停下时的所用时间}}{\underbrace{\varDelta t}}=\frac{\overset{\text{停下时的速度}=0\ m/s}{\overbrace{v}}-\overset{\text{刹车时的速度}=16\ m/s}{\overbrace{v_0}}}{\underset{\text{加速度}=\ -6\ m/s^2}{\underbrace{a}}}=2.67\ s
+\end{align*}
+\end{myEnvSample}
+
+
+
+
+\subsection{匀变速直线运动的位移 : $\text{位移}x=v_0t+\frac{at^2}{2}$}
+
+做``匀变速直线运动"的物体, 其位移大小, 可以用下图中的梯形面积来表示 (其实就是``求积分"的概念). \\
+\includegraphics[width=0.3\textwidth]{img/0111.png} 
+\includegraphics[width=0.5\textwidth]{img/0112.png} \\
+
+所以, 位移x 就等于梯形的面积 = $\frac{1}{2}\left( v_0+v \right) t$\\
+将 $v=v_0 + at$代入上式, 就有: \\
+$
+x=\dfrac{1}{2}\left( v_0+\underset{v=v_0+at}{\underbrace{v}} \right) t=\dfrac{1}{2}\left( 2v_0+at \right) t=\dfrac{2v_0t+at^2}{2}=v_0t+\dfrac{at^2}{2}
+$ \\
+即: 
+\begin{align*}
+	\boxed{
+		\text{位移}x=v_0t+\frac{at^2}{2}
+	}
+\end{align*}
+
+如果初速度$v_0$为0，这个公式就可以简化为: $\text{位移}x=\dfrac{at^2}{2}$\\
+
+
+\begin{myEnvSample}
+
+\end{myEnvSample}
+
+
+
+
+
+
+
+	48
 	
 	
 	
