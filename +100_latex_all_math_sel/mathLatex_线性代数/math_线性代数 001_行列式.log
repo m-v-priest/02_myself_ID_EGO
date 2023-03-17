@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.6)  16 MAR 2023 12:55
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.6)  17 MAR 2023 16:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1137,7 +1137,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 LaTeX Font Info:    Font shape `TU/SimSun(0)/m/sl' in size <10.53937> not avail
 able
 (Font)              Font shape `TU/SimSun(0)/m/it' tried instead on input line 
-41.
+42.
  [1
 
 ])
@@ -1148,18 +1148,122 @@ able
 
 LaTeX Warning: No \author given.
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--44
+
+ []
+
 File: img/0001.pdf Graphic file (type pdf)
 <use img/0001.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--44
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--56
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--63
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--73
 
  []
 
 [3]
+Underfull \hbox (badness 10000) in paragraph at lines 74--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--87
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--97
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+
+ []
+
+[4]
+File: img/0002.pdf Graphic file (type pdf)
+<use img/0002.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--124
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--127
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
+
+ []
+
+File: img/0003.pdf Graphic file (type pdf)
+<use img/0003.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 143--146
+
+ []
+
+File: img/0004.pdf Graphic file (type pdf)
+<use img/0004.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+
+ []
+
+File: img/0005.pdf Graphic file (type pdf)
+<use img/0005.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--205
+
+ []
+
+[6] [7]
 Overfull \vbox (134.79582pt too high) has occurred while \output is active []
 
 
-[4] (./math_线性代数 001_行列式.aux)
+[8] (./math_线性代数 001_行列式.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.41063pt have occurred.
@@ -1169,12 +1273,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 26667 strings out of 476179
- 615144 string characters out of 5813072
- 1049233 words of memory out of 5000000
- 46889 multiletter control sequences out of 15000+600000
+ 26826 strings out of 476179
+ 620422 string characters out of 5813072
+ 1050312 words of memory out of 5000000
+ 47044 multiletter control sequences out of 15000+600000
  489934 words of font info for 139 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 102i,12n,122p,442b,330s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,19n,122p,442b,903s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on math_线性代数 001_行列式.pdf (4 pages).
+Output written on math_线性代数 001_行列式.pdf (8 pages).
