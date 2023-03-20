@@ -1,5 +1,6 @@
 \documentclass[UTF8]{ctexart}
 
+\usepackage{pifont}
 \usepackage{subfiles}  
 
 %下面的语句, 引入你的头部设置文件
@@ -31,7 +32,9 @@
 	\end{matrix} \right|=\underset{\text{主对角线}}{\underbrace{ad}}-\underset{\text{副对角线}}{\underbrace{bc}}
 	$
 	
-	
+
+	\hrule
+
 	
 		\subsection{三阶行列式}
 	$
@@ -46,7 +49,9 @@
 	\includegraphics[width=0.8\textwidth]{img/0001.pdf}\\
 	
 	
-	
+
+	\hrule
+
 	
 	\section{全排列和对换}
 	
@@ -100,7 +105,9 @@
 	定理: 在所有的n级排列中(一个``n级排列"的排列数 = n!), 奇排列和偶排列, 各占一半, 即$=\dfrac{n!}{2}$.\\
 	
 	
-	
+
+	\hrule
+
 	
 	\section{n 阶行列式}
 	
@@ -126,6 +133,11 @@
 	- 每一项, 就是从这个行列式的``不同行, 不同列"中, 取出3个元素, 来相乘.\\
 	
 	上面这个, 即``n阶行列式"的第一种定义方式. 也就是``按行展开".\\
+	
+	
+
+	\hrule
+
 	
 	
 	\subsection{n 阶行列式 -- 按行展开}
@@ -155,7 +167,10 @@ $
 $
 	\end{myEnvSample}
 	
-	
+
+
+\hrule
+
 	
 \subsubsection{下三角行列式 =主对角线上元素的乘积}
 
@@ -169,6 +184,8 @@ $
 $
 
 
+\hrule
+
 
 \subsubsection{上三角行列式 =主对角线上元素的乘积}
 
@@ -179,7 +196,11 @@ $
 			&		&		...&		...\\
 			0&		&		&		a_{nn}\\
 		\end{matrix} \right|}}=\underset{\text{即主对角线元素相乘}}{\underbrace{a_{11}\cdot a_{22}\cdot ...\cdot a_{nn}}}
-$
+$\\
+
+
+
+\hrule
 
 
 \subsubsection{对角形行列式 =主对角线上元素的乘积}
@@ -190,13 +211,17 @@ $
 			&		&		...&		\\
 			0&		&		&		a_{nn}\\
 		\end{matrix} \right|}}=\underset{\text{即主对角线元素相乘}}{\underbrace{a_{11}\cdot a_{22}\cdot ...\cdot a_{nn}}}
-$
+$\\
 
+\hrule
 
 \subsubsection{伪下三角行列式  $	=\left( -1 \right) ^{\frac{n\left( n-1 \right)}{2}}a_{1,n}\cdot a_{2,n-1}\cdot a_{n,1}	$}
 
 \includegraphics[width=0.6\textwidth]{img/0004.pdf}\\
 
+
+
+\hrule
 
 
 \subsubsection{伪上三角行列式 $	=\left( -1 \right) ^{\frac{n\left( n-1 \right)}{2}}a_{1,n}\cdot a_{2,n-1}\cdot a_{n,1}	$}
@@ -205,13 +230,230 @@ $
 
 
 
+\hrule
 
-https://www.bilibili.com/video/BV1aW411Q7x1?p=2&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
-31.58
+
+	\subsection{n 阶行列式 -- 按列展开} 
 	
+	【行列式, 按列展开】:\\
+	- ``列标"取自然排列 1,2,3,...,n.  \\
+	- ``行标"取n个数的``全排列"的所有排序可能. \\
+	- 从不同行, 不同列, 取n个元素来相乘, 就得到每一项. \\
+	- 每一项前的正负号, 由``行标排列"的``奇偶性"来决定. \\
+	
+	行列式``按列展开"的公式即: \\
+\includegraphics[width=1\textwidth]{img/0006.pdf}\\
+
+
+\hrule
+
 	
 	
 	\section{行列式的性质}
+	
+	【行列式的转置 transpose】:\\
+	转置, 就是, 行变列, 或列变行. 如:\\
+	\includegraphics[width=0.45\textwidth]{img/0007.pdf}\\
+	
+	
+	
+	\subsection{性质: $\left( D^T \right) ^T=D$	}
+	
+	
+	\hrule
+	
+	\subsection{性质: $D^T=D$ }
+	\textbf{行列式转置与否, 其值不变.} \\
+	\textbf{对``行"成立的性质, 对``列"也成立.} \\
+	
+\hrule
+	
+	\subsection{性质: 行列式中两行(两列也行)互换, 行列式的值, 就改变正负号 }
+	
+	\includegraphics[width=0.6\textwidth]{img/0008.pdf}\\
+	
+	\hrule
+	
+	\subsection{性质: 行列式, 若两行(或两列)的元素相等, 则该行列式的值=0}
+	
+	有这个行列式, 其第1,3行上的元素, 完全相同. \\
+	$
+	D=\left| \begin{matrix}
+		2&		3&		4&		5\\
+		1&		0&		0&		0\\
+		2&		3&		4&		5\\
+		8&		8&		8&		1\\
+	\end{matrix} \right|
+	$ \\
+	
+	我们对它的1,3行做交换, 得到的$D_1 = -D$ (因为交换两行, 行列式的值要变号). 而新的$D_1$的内容, 和老D依然是完全一样的. 于是我们就有: D=-D, 即2D=0, 即D=0. \\	
+	于是我们就得到了这个性质: 行列式, \textbf{若两行(或两列)的元素相等, 则该行列式的值=0.}\\
+	
+	\hrule
+	
+	\subsection{性质: 某一行都乘以k, 等于用k乘以这个行列式D }
+	即:\\
+	$
+	\left| \begin{matrix}
+		1&		2&		3\\
+		4k&		5k&		6k\\
+		7&		8&		9\\
+	\end{matrix} \right|=k\left| \begin{matrix}
+		1&		2&		3\\
+		4&		5&		6\\
+		7&		8&		9\\
+	\end{matrix} \right|
+	$\\
+	
+	换言之就是: \textbf{如果行列式中的某行, 有公因子k, 则k可以提到行列式外面去.} \\
+	
+	如果每行都有k, 则每行都要提一次k. 比如一共有3行, 就提3次k. \\
+	$
+	\left| \begin{matrix}
+		1k&		2k&		3k\\
+		4k&		5k&		6k\\
+		7k&		8k&		9k\\
+	\end{matrix} \right|=k^3\left| \begin{matrix}
+		1&		2&		3\\
+		4&		5&		6\\
+		7&		8&		9\\
+	\end{matrix} \right|
+	$ \\
+	
+	即: 如果一个n阶行列式的所有元素, 均有公因子k, 则k就向外提n次(因为有n行, 每行只需提一次, 就是提n行次). \\
+		
+	\hrule
+	
+	\subsection{性质: 行列式的两行(或两列)元素, 对应成比例, 则该行列式的值=0}
+
+\includegraphics[width=0.45\textwidth]{img/0009.pdf}\\
+	
+	\hrule
+	
+	
+	\subsection{性质: 某一行全为0, 则D=0 }
+	现在, 我们就有了: \\
+	
+	$
+	\left. \begin{array}{r}
+		\text{两行上的元素,对应成比例}\\
+		\text{某一行元素,全为}0\\
+		\text{两行相等}\\
+	\end{array} \right\} \ →\ \text{则\ }D=0
+	$\\
+	
+	上面, 左边可以推导出右边. 但反过来, 右边是无法推导出左边的. 即 D=0 的行列式, 未必是属于左边的三种情况之一. \\
+	
+	\hrule
+	
+	\subsection{性质: 某一行上的元素, 是两个元素的和的话, 则该行列式就可以拆成这两个行列式相加}
+	即:\\
+	$
+	\left| \begin{matrix}
+		1&		2&		3\\
+		7+8&		2+3&		9+10\\
+		8&		8&		9\\
+	\end{matrix} \right|=\ \left| \begin{matrix}
+		1&		2&		3\\
+		7&		2&		9\\
+		8&		8&		9\\
+	\end{matrix} \right|+\left| \begin{matrix}
+		1&		2&		3\\
+		8&		3&		10\\
+		8&		8&		9\\
+	\end{matrix} \right|
+	$\\
+	
+	注意: 拆分的时候, 只能拆``是和那一行", 其他行的元素要保持不变! 如:\\	
+	$
+	\left| \begin{matrix}
+		b+c&		c+a&		a+b\\
+		a+b&		b+c&		c+a\\
+		c+a&		a+b&		b+c\\
+	\end{matrix} \right|\ne \left| \begin{matrix}
+		b&		c&		a\\
+		a&		b&		c\\
+		c&		a&		b\\
+	\end{matrix} \right|+\left| \begin{matrix}
+		c&		a&		b\\
+		b&		c&		a\\
+		a&		b&		c\\
+	\end{matrix} \right|\ ←\text{这种拆分是错的!}
+	$\\
+	
+	
+	正确的拆分是如下 (比如拆第一行的话): \\	
+	$
+	\left| \begin{matrix}
+		b+c&		c+a&		a+b\\
+		a+b&		b+c&		c+a\\
+		c+a&		a+b&		b+c\\
+	\end{matrix} \right|\ne \left| \begin{matrix}
+		b&		c&		a\\
+		a+b&		b+c&		c+a\\
+		c+a&		a+b&		b+c\\
+	\end{matrix} \right|+\left| \begin{matrix}
+		c&		a&		b\\
+		a+b&		b+c&		c+a\\
+		c+a&		a+b&		b+c\\
+	\end{matrix} \right|
+	$ \\
+	
+	\hrule
+	
+	\subsection{ \ding{72} 性质:  某一行乘以一个数, 加到另一行上去, 行列式D的值不变}
+	
+	\begin{align*}
+			& D=\left| \begin{matrix}
+				1&		2&		3\\
+				1&		1&		0\\
+				9&		9&		10\\
+			\end{matrix} \right|\ ←\text{将第一行}×5,\text{加到第二行上去}\\
+			& =\left| \begin{matrix}
+				1&		2&		3\\
+				1+\left( 1\cdot 5 \right)&		1+\left( 2\cdot 5 \right)&		0+\left( 3\cdot 5 \right)\\
+				9&		9&		10\\
+			\end{matrix} \right|\\
+			& =\left| \begin{matrix}
+				1&		2&		3\\
+				1+5&		1+10&		0+15\\
+				9&		9&		10\\
+			\end{matrix} \right|\ ←\text{第二行的元素是两个数的和,\ 可以拆分成两个行列式}\\
+			& =\left| \begin{matrix}
+				1&		2&		3\\
+				1&		1&		0\\
+				9&		9&		10\\
+			\end{matrix} \right|+\underset{\text{第1,2行成比例,\ 这个行列式的值}=0}{\underbrace{\left| \begin{matrix}
+						1&		2&		3\\
+						5&		10&		15\\
+						9&		9&		10\\
+					\end{matrix} \right|}}\\
+			& =\left| \begin{matrix}
+				1&		2&		3\\
+				1&		1&		0\\
+				9&		9&		10\\
+			\end{matrix} \right|=D
+	\end{align*}
+	
+	
+	
+	\hrule
+	
+	
+	\section{行列式的计算 }
+	
+	方法论: 一般, 我们要把行列式, 化成``上三角行列式". 则该行列式的值, 就是``主对角线"上元素的乘积了. \\
+	
+	\includegraphics[width=0.75\textwidth]{img/0010.pdf}\\
+	
+	\includegraphics[width=0.75\textwidth]{img/0011.png}\\
+	
+	
+	
+	https://www.bilibili.com/video/BV1aW411Q7x1?p=3&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
+	
+	58.31
+	
 	
 	
 	\section{行列式按行（列）展开}
