@@ -1,7 +1,7 @@
 
 
 =  TeX Live
-:toc:
+:toc: left
 :toclevels: 3
 :sectnums:
 
@@ -1894,3 +1894,10 @@ f \circ  g
 然后用 `\ding{72}` 命令来生成实心五角星.
 
 
+==== 反斜杠 \
+
+....
+一是: $\backslash$
+二是: \verb|\|
+三是：$\setminus$
+....

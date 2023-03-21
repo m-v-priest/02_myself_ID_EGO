@@ -440,7 +440,9 @@ $\\
 	\hrule
 	
 	
-	\section{行列式的计算 }
+	\section{行列式值的计算 }
+	
+	\subsection{方法是: 把行列式, 先化成``上三角行列式"}
 	
 	方法论: 一般, 我们要把行列式, 化成``上三角行列式". 则该行列式的值, 就是``主对角线"上元素的乘积了. \\
 	
@@ -448,15 +450,302 @@ $\\
 	
 	\includegraphics[width=0.75\textwidth]{img/0011.png}\\
 	
+	总结:\\
+	1.先处理第1列, 再处理第2列, 再处理第3列. \\
+	2.第1列处理完后, 第1行就不再参与运算. \\
 	
 	
-	https://www.bilibili.com/video/BV1aW411Q7x1?p=3&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
-	
-	58.31
 	
 	
 	
+	
+
+	\hrule
+
+	
+	\subsection{如果某一行的首元素是1, 就把该行移到第一行上去} 
+	
+	比如: \\
+	$
+	\left| \begin{matrix}
+		8&		&		\\
+		1&		...&		\\
+		3&		&		\\
+	\end{matrix} \right|
+	$\\
+	
+	第二行的首元素是1, 就把这第二行, 移到第1行上去. 变成: \\	
+		$
+	\left| \begin{matrix}
+		1&		...&		\\
+		8&		&		\\
+		3&		&		\\
+	\end{matrix} \right|
+	$\\
+	
+	这样, 能更方便的用第一行元素乘以某个数, 来消去下面行上的数字, 以变成0. 化成``上三角行列式". \\
+	注意: 在交换两行时, 行列式的值要变号. \\
+
+
+\hrule
+
+		
 	\section{行列式按行（列）展开}
+	
+		\subsection{余子式 minor :  $M_{ij}$}
+		
+		你选定某个元素x, 把它所在的行去掉, 所在的列去掉, 将剩下的元素按原位置排好, 这个新的行列式, 就是x的``余子式". \\
+		
+		比如: \\
+		\includegraphics[width=0.4\textwidth]{img/0012.pdf}\\
+		
+		某个元素的余子式, 用 $M_{ij}$表示. 如, 上例中的2, 在 i=第3行, j=第2列, 所以它的``余子式"就是: \\
+		$
+		M_{32}=\left| \begin{matrix}
+			1&		0&		3\\
+			1&		1&		1\\
+			5&		6&		6\\
+		\end{matrix} \right|
+		$ \\
+		
+
+		\hrule
+
+		
+	\subsection{代数余子式 Algebraic cofactor : $	A_{ij}=\left( -1 \right) ^{i+j}M_{ij}$}
+		
+	在余子式的前面, 加一个负号, 即 $\left( -1 \right) ^{i+j}	$, 就是``代数余子式". \\
+	 某个元素x的``代数余子式", 用符号 $A_{ij}$ 来表示. i是x的行号, j是x的列号.\\
+	 
+	比如上例的``余子式"是: \\
+		$
+	M_{32}=\left| \begin{matrix}
+		1&		0&		3\\
+		1&		1&		1\\
+		5&		6&		6\\
+	\end{matrix} \right|
+	$ \\
+	
+	那么其``代数余子式"就是: \\
+	$
+	A_{32}=\left( -1 \right) ^{3+2}\left| \begin{matrix}
+		1&		0&		3\\
+		1&		1&		1\\
+		5&		6&		6\\
+	\end{matrix} \right|
+	$ \\
+	
+	
+
+	\hrule
+
+
+\subsection{按某一行（列）展开的展开公式: \\ $|A|=\sum_{i=1}^n{a_{ij}A_{ij}\ \left( j=1,2,...,n \right)}=\sum_{j=1}^n{a_{ij}A_{ij}\ \left( i=1,2,...,n \right)}$	}
+
+有定理: \textbf{行列式的值等于: 随便选一行, 把这行上所有的元素, 各自乘以它们的``代数余子式", 再求和, 所得到的结果, 就是这个行列式的值了.} 
+\begin{align*}
+	\boxed{
+		D=\underset{\text{某一行的元素}}{\underbrace{a_{i1}}}\cdot \underset{\text{该元素的}\text{代数余子式}}{\underbrace{A_{i1}}}+a_{i2}\cdot A_{i2}+...+a_{in}\cdot A_{in}		
+	}
+\end{align*}
+	
+	用列来做, 也是一样. \\
+	$
+	D=\underset{\text{某一列的元素}}{\underbrace{a_{1j}}}\cdot \underset{\text{该元素的}\text{代数余子式}}{\underbrace{A_{1j}}}+a_{2j}\cdot A_{2j}+...+a_{nj}\cdot A_{nj}
+	$	\\
+	
+	\begin{myEnvSample}
+\includegraphics[width=0.8\textwidth]{img/0013.pdf}
+	\end{myEnvSample}
+	
+	从上例, 你就能发现, ``行列式"按行或列展开后, 它的每一个元素的代数余子式, 都``降阶"了. 即 原行列式是3阶的, 现在展开后, 你只要计算 2阶的行列式(即代数余子式)了. 大大减轻了我们的计算负担. \\
+	
+	其实, 上面的这个例子, 我们按第二行展开更方便, 因为它有0元素存在啊, 0元素和其代数余子式相乘, 就是0. 根本就不需要我们去计算了. 所以, \textbf{我们要选0元素最多的那一行来展开} : \\
+	\begin{myEnvSample}
+	\begin{align*}
+	& \left| \begin{matrix}
+		1&		1&		2\\
+		0&		1&		0\\
+		2&		3&		5\\
+	\end{matrix} \right|\ ←\text{要选0元素最多的那一行来展开,本例即第二行}\\
+	& =0+\underset{a_{22}\text{元素}}{1}\cdot \underset{a_{22}\text{元素的代数余子式}}{\underbrace{\left( -1 \right) ^{2+2}\left| \begin{matrix}
+				1&		2\\
+				2&		5\\
+			\end{matrix} \right|}}+0
+\end{align*}
+	\end{myEnvSample}
+	
+
+	
+
+	\hrule
+
+	
+	\section{异乘变零定理}
+	
+	即: \textbf{某行上的元素, 与另一行(即别人的行)上对应元素的"代数余子式"相乘, 将所有的乘积值, 再全加起来, 其和 =0.} \\
+	
+	如: (1) \\
+	$
+	\begin{matrix}
+		\left| \begin{matrix}
+			1&		1&		2&		3\\
+			\hline
+			0&		0&		8&		9\\
+			2&		5&		5&		4\\
+			9&		9&		9&		10\\
+			\hline
+		\end{matrix} \right|\\
+	\end{matrix}
+	$\\
+	
+	用第4行, 与第1行元素的``代数余子式"相乘, 再把相乘后的值, 全加起来, 则:\\
+	$ D= a_{41}A_{11} + a_{42}A_{12} + a_{43}A_{13} + a_{44}A_{14} = 0$ \\
+	
+	``异乘变零定理"的证明过程: \\	
+	比如这个行列式(2): \\
+	
+	$
+	\begin{matrix}
+		\left| \begin{matrix}
+			9&		9&		9&		10\\
+			\hline
+			0&		0&		8&		9\\
+			2&		5&		5&		4\\
+			9&		9&		9&		10\\
+			\hline
+		\end{matrix} \right|\\
+	\end{matrix}
+	$ \\
+	
+	其中, 1,4行相同. 即两行相同, 则该行列式的值=0. \\
+	若用第1行展开, 你会发现, 展开的式子, 与上面的行列式(1), 完全相同. 既然这边的(2)是0, 那么上面的(1)也是0了. 证毕. \\
+	
+	
+	
+	
+	
+	
+		\hrule
+	
+	\section{拉普拉斯定理}
+	
+	\subsection{k阶子式}
+	
+	就是从一个n阶行列式中, 随便取k行, 取k列, 组成的新的行列式, 就是k阶子式. \\
+	比如:\\
+\includegraphics[width=0.35\textwidth]{img/0014.pdf} \\
+
+我们取出它一个2阶子式 (即2*2区域的子集). 比如, 就取第1,2行,和第1,2列 交叉点, 所组成的子式, 即:
+$
+\left| \begin{matrix}
+	1&		2\\
+	1&		1\\
+\end{matrix} \right|
+$
+	这个就是一个``二阶子式". \\
+	
+	那么这个二阶子式的``余子式", 就是:
+$
+\left| \begin{matrix}
+	0&		8\\
+	9&		10\\
+\end{matrix} \right|
+$	\\
+
+
+
+
+这个二阶子式的``代数余子式", 就是: \\
+$
+\left( -1 \right) ^{\overset{\text{行1,行}2}{\overbrace{\left( 1+2 \right) }}\overset{\text{列1,列}2}{\overbrace{\left( 1+2 \right) }}}\left| \begin{matrix}
+	0&		8\\
+	9&		10\\
+\end{matrix} \right|
+$ \\
+
+	
+
+	\hrule
+
+	\subsection{拉普拉斯展开定理}
+	
+	\textbf{拉普拉斯展开定理 Laplace expansion : 在n阶行列式中, 任意取定k行(而不仅仅是只取一行展开), 由k行元素组成的所有``k阶子式"与``代数余子式"的乘积之和, 就等于该行列式的值.} \\
+	
+	\begin{myEnvSample}
+	如: 下面这个5阶行列式 \\
+	
+	$
+		\left| \begin{matrix}
+			1&		2&		0&		0&		0\\
+			\hline
+			3&		4&		0&		0&		0\\
+			\hline
+			1&		2&		3&		4&		5\\
+			1&		1&		1&		1&		1\\
+			6&		6&		8&		3&		1\\
+		\end{matrix} \right|
+	$\\
+	
+	我们任取k=2行, 比如就取 第1, 2 行. 它的k阶子式, 就是二阶子式. 那么因为这个行列式有5列, 在其中取2列, 就有$C_{5}^{2}=10$种取法. 即有10个二阶子式存在. \\
+	即, \textbf{这个5阶行列式的值 D=  (第1个二阶子式的行列式值×其代数余子式) + (第2个二阶子式的行列式值×其代数余子式) + ... + (第10个二阶子式的行列式值×其代数余子式)} \\
+	
+	如果我们取到的是``列上都是0元素"的那些列的话, 那么这个二阶子式的行列式的值就是0了. 其``二阶子式"与``代数余子式"的乘积之和, 当然也是0了. \\
+	所以, 在全部10个二阶子式中,  唯一行列式值不为零的二阶子式, 就是取第1和第2列. 它的``二阶子式"值×其``代数余子式" = $
+	\underset{\text{二阶子式}}{\underbrace{\left| \begin{matrix}
+				1&		2\\
+				3&		4\\
+			\end{matrix} \right|}}\cdot \underset{\text{代数余子式}}{\underbrace{\left( -1 \right) ^{\left( 1+2 \right) +\left( 1+2 \right)}\left| \begin{matrix}
+				3&		4&		5\\
+				1&		1&		1\\
+				8&		3&		1\\
+			\end{matrix} \right|}}
+	$ \\
+	
+	即, 本例的这个5阶行列式的值 = $
+	\underset{\text{二阶子式}}{\underbrace{\left| \begin{matrix}
+				1&		2\\
+				3&		4\\
+			\end{matrix} \right|}}\cdot \underset{\text{代数余子式}}{\underbrace{\left( -1 \right) ^{\left( 1+2 \right) +\left( 1+2 \right)}\left| \begin{matrix}
+				3&		4&		5\\
+				1&		1&		1\\
+				8&		3&		1\\
+			\end{matrix} \right|}} + 0 + 0 + ...
+	$ \\
+	\end{myEnvSample}	
+	
+	
+
+	\hrule
+
+	\section{行列式相乘}
+	
+	\subsection{两个``同阶"行列式 相乘}
+	
+	两个同阶行列式, 相乘, 方法是:  \textbf{前行×后列} \\	
+\includegraphics[width=0.9\textwidth]{img/0015.pdf}
+
+
+\hrule
+
+
+	
+	\subsection{两个``不同阶"行列式 相乘}
+	
+那就只能先算出各自行列式的值, 再来相乘了.
+	
+	
+	\hrule
+	
+
+	
+	
+	
+	
+	
+	\begin{myEnvSample}
+
+	\end{myEnvSample}
 	
 	
 	

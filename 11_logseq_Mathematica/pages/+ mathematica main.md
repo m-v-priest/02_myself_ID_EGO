@@ -7,14 +7,12 @@
 -
 - 清除所有变量 #重要
   background-color:: red
-  collapsed:: true
 	- ```
 	  Clear["Global`*"]  (*Clear all variables*)
 	  ```
 	-
 -
 - 最常用快捷键
-  collapsed:: true
 	- [mathematica中的快捷键 | ZYMIN](https://zymin.cn/arcticle/mathematica-kuaijiejian)
 	- 注释 alt+L
 	- 上标 Ctrl+6 , 下标 Ctrl+ -
