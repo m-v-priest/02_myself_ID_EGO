@@ -1,72 +1,75 @@
 \contentsline {section}{\numberline {1}二阶与三阶行列式}{3}{}%
 \contentsline {subsection}{\numberline {1.1}二阶行列式}{3}{}%
 \contentsline {subsection}{\numberline {1.2}三阶行列式}{3}{}%
-\contentsline {section}{\numberline {2}全排列和对换}{3}{}%
-\contentsline {section}{\numberline {3}n 阶行列式}{4}{}%
-\contentsline {subsection}{\numberline {3.1}三阶行列式}{4}{}%
-\contentsline {subsection}{\numberline {3.2}n 阶行列式 -- 按行展开}{5}{}%
-\contentsline {subsubsection}{\numberline {3.2.1}下三角行列式 =主对角线上元素的乘积}{6}{}%
-\contentsline {subsubsection}{\numberline {3.2.2}上三角行列式 =主对角线上元素的乘积}{6}{}%
-\contentsline {subsubsection}{\numberline {3.2.3}对角形行列式 =主对角线上元素的乘积}{6}{}%
-\contentsline {subsubsection}{\numberline {3.2.4}伪下三角行列式 $ =\left ( -1 \right ) ^{\frac {n\left ( n-1 \right )}{2}}a_{1,n}\cdot a_{2,n-1}\cdot a_{n,1} $}{6}{}%
-\contentsline {subsubsection}{\numberline {3.2.5}伪上三角行列式 $ =\left ( -1 \right ) ^{\frac {n\left ( n-1 \right )}{2}}a_{1,n}\cdot a_{2,n-1}\cdot a_{n,1} $}{6}{}%
-\contentsline {subsection}{\numberline {3.3}n 阶行列式 -- 按列展开}{7}{}%
-\contentsline {section}{\numberline {4}行列式的性质}{7}{}%
-\contentsline {subsection}{\numberline {4.1}性质: $\left ( D^T \right ) ^T=D$ }{7}{}%
-\contentsline {subsection}{\numberline {4.2}性质: $D^T=D$ }{7}{}%
-\contentsline {subsection}{\numberline {4.3}性质: 行列式中两行(两列也行)互换, 行列式的值, 就改变正负号 }{7}{}%
-\contentsline {subsection}{\numberline {4.4}性质: 行列式, 若两行(或两列)的元素相等, 则该行列式的值=0}{8}{}%
-\contentsline {subsection}{\numberline {4.5}性质: 某一行都乘以k, 等于用k乘以这个行列式D }{8}{}%
-\contentsline {subsection}{\numberline {4.6}性质: 行列式的两行(或两列)元素, 对应成比例, 则该行列式的值=0}{8}{}%
-\contentsline {subsection}{\numberline {4.7}性质: 某一行全为0, 则D=0 }{8}{}%
-\contentsline {subsection}{\numberline {4.8}性质: 某一行上的元素, 是两个元素的和的话, 则该行列式就可以拆成这两个行列式相加}{9}{}%
-\contentsline {subsection}{\numberline {4.9} {\Pifont {pzd}\char 72} 性质: 某一行乘以一个数, 加到另一行上去, 行列式D的值不变}{9}{}%
-\contentsline {section}{\numberline {5}行列式值的计算 }{9}{}%
-\contentsline {subsection}{\numberline {5.1}方法是: 把行列式, 先化成``上三角行列式"}{9}{}%
-\contentsline {subsection}{\numberline {5.2}如果某一行的首元素是1, 就把该行移到第一行上去}{11}{}%
-\contentsline {section}{\numberline {6}行列式按行（列）展开}{11}{}%
-\contentsline {subsection}{\numberline {6.1}余子式 minor : $M_{ij}$}{11}{}%
-\contentsline {subsection}{\numberline {6.2}代数余子式 Algebraic cofactor : $ A_{ij}=\left ( -1 \right ) ^{i+j}M_{ij}$}{12}{}%
-\contentsline {subsection}{\numberline {6.3}按某一行（列）展开的展开公式: \\ $|A|=\DOTSB \sum@ \slimits@ _{i=1}^n{a_{ij}A_{ij}\ \left ( j=1,2,...,n \right )}=\DOTSB \sum@ \slimits@ _{j=1}^n{a_{ij}A_{ij}\ \left ( i=1,2,...,n \right )}$ }{12}{}%
-\contentsline {section}{\numberline {7}异乘变零定理}{13}{}%
-\contentsline {section}{\numberline {8}拉普拉斯定理}{13}{}%
-\contentsline {subsection}{\numberline {8.1}k阶子式}{13}{}%
-\contentsline {subsection}{\numberline {8.2}拉普拉斯展开定理}{14}{}%
-\contentsline {section}{\numberline {9}行列式相乘}{14}{}%
-\contentsline {subsection}{\numberline {9.1}两个``同阶"行列式 相乘}{14}{}%
-\contentsline {subsection}{\numberline {9.2}两个``不同阶"行列式 相乘}{14}{}%
-\contentsline {section}{\numberline {10}n阶行列式}{15}{}%
-\contentsline {section}{\numberline {11}行列式的性质}{15}{}%
-\contentsline {subsection}{\numberline {11.1}性质1: 行列互换, 其值不变. 即$|A|=\left | A^T \right |$}{15}{}%
-\contentsline {subsection}{\numberline {11.2}性质2: 某行（列）元素全为零, 则行列式为零}{15}{}%
-\contentsline {subsection}{\numberline {11.3}性质3: 两行（列）元素相等, 或对应成比例, 则行列式为零}{15}{}%
-\contentsline {subsection}{\numberline {11.4}性质4: 某行（列）元素均是两个元素之和, 则可拆成两个行列式之和}{15}{}%
-\contentsline {subsection}{\numberline {11.5}性质5: 两行（列）互换，行列式的值反号}{15}{}%
-\contentsline {subsection}{\numberline {11.6}性质6: 某行（列）元素有公因子$k\left ( k\ne 0 \right ) $, 则k可提到行列式外面去 }{15}{}%
-\contentsline {subsection}{\numberline {11.7}性质7: 某行（列）的b, 倍加到另一行（列）上去, 行列式的值不变 }{15}{}%
-\contentsline {section}{\numberline {12}行列式的展开定理}{15}{}%
-\contentsline {subsection}{\numberline {12.1}余子式 $M_{ij}$}{15}{}%
-\contentsline {subsection}{\numberline {12.2}代数余子式 $ A_{ij}=\left ( -1 \right ) ^{i+j}M_{ij}$}{15}{}%
-\contentsline {subsection}{\numberline {12.3}按某一行（列）展开的展开公式: \\ $|A|=\DOTSB \sum@ \slimits@ _{i=1}^n{a_{ij}A_{ij}\ \left ( j=1,2,...,n \right )}=\DOTSB \sum@ \slimits@ _{j=1}^n{a_{ij}A_{ij}\ \left ( i=1,2,...,n \right )}$ }{15}{}%
-\contentsline {section}{\numberline {13}具体型行列式的计算: $a_{ij}$ 已给出}{15}{}%
-\contentsline {subsection}{\numberline {13.1}化为``12+1"型行列式}{15}{}%
-\contentsline {subsubsection}{\numberline {13.1.1}主对角线行列式}{15}{}%
-\contentsline {subsubsection}{\numberline {13.1.2}副对角线行列式}{15}{}%
-\contentsline {subsubsection}{\numberline {13.1.3}拉普拉斯展开式}{15}{}%
-\contentsline {subsubsection}{\numberline {13.1.4}范德蒙德行列式}{15}{}%
-\contentsline {subsection}{\numberline {13.2}加边法}{15}{}%
-\contentsline {subsection}{\numberline {13.3}递推法 (高阶 → 低阶)}{15}{}%
-\contentsline {subsubsection}{\numberline {13.3.1}建立递推公式,即建立$D_n$ 与 $D_{n-1}$ 的关系}{15}{}%
-\contentsline {subsubsection}{\numberline {13.3.2}$D_n$ 与 $D_{n-1}$ 要有完全相同的元素分布规律, 只是$D_{n-1}$比$D_n$低了一阶 }{15}{}%
-\contentsline {subsection}{\numberline {13.4}数学归纳 (低阶 → 高阶)}{15}{}%
-\contentsline {subsubsection}{\numberline {13.4.1}第一数学归纳法}{15}{}%
-\contentsline {subsubsection}{\numberline {13.4.2}第二数学归纳法}{15}{}%
-\contentsline {section}{\numberline {14}抽象型行列式的计算: $a_{ij}$ 未给出 }{15}{}%
-\contentsline {subsection}{\numberline {14.1}用行列式性质}{15}{}%
-\contentsline {subsection}{\numberline {14.2}用矩阵知识}{15}{}%
-\contentsline {subsubsection}{\numberline {14.2.1}设 C=AB, A,B为同阶方阵, 则 $|C|=|AB|=|A||B|$}{15}{}%
-\contentsline {subsubsection}{\numberline {14.2.2}设 C=A+B, A,B为同阶方阵, 则 $|C|=|A+B|$,作恒等变形,转化为矩阵乘积的行列式 }{15}{}%
-\contentsline {subsubsection}{\numberline {14.2.3}设A 为n阶方阵, 则 $|A^*|=|A|^{n-1},\ |(A^*)^*|=\left | \left | A \right |^{n-2}A \right |=\left | A \right |^{\left ( n-1 \right ) ^2} $}{15}{}%
-\contentsline {subsection}{\numberline {14.3}用相似理论}{15}{}%
-\contentsline {subsubsection}{\numberline {14.3.1}$\left | A \right |=\DOTSB \prod@ \slimits@ _{i=1}^n{\lambda _i}$}{15}{}%
-\contentsline {subsubsection}{\numberline {14.3.2}若A相似于B, 则 |A|=|B|}{15}{}%
+\contentsline {section}{\numberline {2}行列式的几何意义}{3}{}%
+\contentsline {subsection}{\numberline {2.1}行列式的值, 表示的是``新基"的面积 ($ \hat {i} × \hat {j}$), 比原基的面积($ i × j$) 大多少倍}{3}{}%
+\contentsline {subsection}{\numberline {2.2}在三维空间中, 行列式的值, 表示的就是: 体积的缩放倍数.}{5}{}%
+\contentsline {section}{\numberline {3}全排列和对换}{5}{}%
+\contentsline {section}{\numberline {4}n 阶行列式}{7}{}%
+\contentsline {subsection}{\numberline {4.1}三阶行列式}{7}{}%
+\contentsline {subsection}{\numberline {4.2}n 阶行列式 -- 按行展开}{7}{}%
+\contentsline {subsubsection}{\numberline {4.2.1}下三角行列式 =主对角线上元素的乘积}{8}{}%
+\contentsline {subsubsection}{\numberline {4.2.2}上三角行列式 =主对角线上元素的乘积}{8}{}%
+\contentsline {subsubsection}{\numberline {4.2.3}对角形行列式 =主对角线上元素的乘积}{8}{}%
+\contentsline {subsubsection}{\numberline {4.2.4}伪下三角行列式 $ =\left ( -1 \right ) ^{\frac {n\left ( n-1 \right )}{2}}a_{1,n}\cdot a_{2,n-1}\cdot a_{n,1} $}{8}{}%
+\contentsline {subsubsection}{\numberline {4.2.5}伪上三角行列式 $ =\left ( -1 \right ) ^{\frac {n\left ( n-1 \right )}{2}}a_{1,n}\cdot a_{2,n-1}\cdot a_{n,1} $}{9}{}%
+\contentsline {subsection}{\numberline {4.3}n 阶行列式 -- 按列展开}{9}{}%
+\contentsline {section}{\numberline {5}行列式的性质}{9}{}%
+\contentsline {subsection}{\numberline {5.1}性质: $\left ( D^T \right ) ^T=D$ }{9}{}%
+\contentsline {subsection}{\numberline {5.2}性质: $D^T=D$ }{9}{}%
+\contentsline {subsection}{\numberline {5.3}性质: 行列式中两行(两列也行)互换, 行列式的值, 就改变正负号 }{10}{}%
+\contentsline {subsection}{\numberline {5.4}性质: 行列式, 若两行(或两列)的元素相等, 则该行列式的值=0}{10}{}%
+\contentsline {subsection}{\numberline {5.5}性质: 某一行都乘以k, 等于用k乘以这个行列式D }{10}{}%
+\contentsline {subsection}{\numberline {5.6}性质: 行列式的两行(或两列)元素, 对应成比例, 则该行列式的值=0}{10}{}%
+\contentsline {subsection}{\numberline {5.7}性质: 某一行全为0, 则D=0 }{10}{}%
+\contentsline {subsection}{\numberline {5.8}性质: 某一行上的元素, 是两个元素的和的话, 则该行列式就可以拆成这两个行列式相加}{11}{}%
+\contentsline {subsection}{\numberline {5.9} {\Pifont {pzd}\char 72} 性质: 某一行乘以一个数, 加到另一行上去, 行列式D的值不变}{11}{}%
+\contentsline {section}{\numberline {6}行列式值的计算 }{12}{}%
+\contentsline {subsection}{\numberline {6.1}方法是: 把行列式, 先化成``上三角行列式"}{12}{}%
+\contentsline {subsection}{\numberline {6.2}如果某一行的首元素是1, 就把该行移到第一行上去}{13}{}%
+\contentsline {section}{\numberline {7}行列式按行（列）展开}{13}{}%
+\contentsline {subsection}{\numberline {7.1}余子式 minor : $M_{ij}$}{13}{}%
+\contentsline {subsection}{\numberline {7.2}代数余子式 Algebraic cofactor : $ A_{ij}=\left ( -1 \right ) ^{i+j}M_{ij}$}{14}{}%
+\contentsline {subsection}{\numberline {7.3}按某一行（列）展开的展开公式: \\ $|A|=\DOTSB \sum@ \slimits@ _{i=1}^n{a_{ij}A_{ij}\ \left ( j=1,2,...,n \right )}=\DOTSB \sum@ \slimits@ _{j=1}^n{a_{ij}A_{ij}\ \left ( i=1,2,...,n \right )}$ }{14}{}%
+\contentsline {section}{\numberline {8}异乘变零定理}{15}{}%
+\contentsline {section}{\numberline {9}拉普拉斯定理}{15}{}%
+\contentsline {subsection}{\numberline {9.1}k阶子式}{15}{}%
+\contentsline {subsection}{\numberline {9.2}拉普拉斯展开定理}{16}{}%
+\contentsline {section}{\numberline {10}行列式相乘}{17}{}%
+\contentsline {subsection}{\numberline {10.1}两个``同阶"行列式 相乘}{17}{}%
+\contentsline {subsection}{\numberline {10.2}两个``不同阶"行列式 相乘}{17}{}%
+\contentsline {section}{\numberline {11}n阶行列式}{18}{}%
+\contentsline {section}{\numberline {12}行列式的性质}{18}{}%
+\contentsline {subsection}{\numberline {12.1}性质1: 行列互换, 其值不变. 即$|A|=\left | A^T \right |$}{18}{}%
+\contentsline {subsection}{\numberline {12.2}性质2: 某行（列）元素全为零, 则行列式为零}{18}{}%
+\contentsline {subsection}{\numberline {12.3}性质3: 两行（列）元素相等, 或对应成比例, 则行列式为零}{18}{}%
+\contentsline {subsection}{\numberline {12.4}性质4: 某行（列）元素均是两个元素之和, 则可拆成两个行列式之和}{18}{}%
+\contentsline {subsection}{\numberline {12.5}性质5: 两行（列）互换，行列式的值反号}{18}{}%
+\contentsline {subsection}{\numberline {12.6}性质6: 某行（列）元素有公因子$k\left ( k\ne 0 \right ) $, 则k可提到行列式外面去 }{18}{}%
+\contentsline {subsection}{\numberline {12.7}性质7: 某行（列）的b, 倍加到另一行（列）上去, 行列式的值不变 }{18}{}%
+\contentsline {section}{\numberline {13}行列式的展开定理}{18}{}%
+\contentsline {subsection}{\numberline {13.1}余子式 $M_{ij}$}{18}{}%
+\contentsline {subsection}{\numberline {13.2}代数余子式 $ A_{ij}=\left ( -1 \right ) ^{i+j}M_{ij}$}{18}{}%
+\contentsline {subsection}{\numberline {13.3}按某一行（列）展开的展开公式: \\ $|A|=\DOTSB \sum@ \slimits@ _{i=1}^n{a_{ij}A_{ij}\ \left ( j=1,2,...,n \right )}=\DOTSB \sum@ \slimits@ _{j=1}^n{a_{ij}A_{ij}\ \left ( i=1,2,...,n \right )}$ }{18}{}%
+\contentsline {section}{\numberline {14}具体型行列式的计算: $a_{ij}$ 已给出}{18}{}%
+\contentsline {subsection}{\numberline {14.1}化为``12+1"型行列式}{18}{}%
+\contentsline {subsubsection}{\numberline {14.1.1}主对角线行列式}{18}{}%
+\contentsline {subsubsection}{\numberline {14.1.2}副对角线行列式}{18}{}%
+\contentsline {subsubsection}{\numberline {14.1.3}拉普拉斯展开式}{18}{}%
+\contentsline {subsubsection}{\numberline {14.1.4}范德蒙德行列式}{18}{}%
+\contentsline {subsection}{\numberline {14.2}加边法}{18}{}%
+\contentsline {subsection}{\numberline {14.3}递推法 (高阶 → 低阶)}{18}{}%
+\contentsline {subsubsection}{\numberline {14.3.1}建立递推公式,即建立$D_n$ 与 $D_{n-1}$ 的关系}{18}{}%
+\contentsline {subsubsection}{\numberline {14.3.2}$D_n$ 与 $D_{n-1}$ 要有完全相同的元素分布规律, 只是$D_{n-1}$比$D_n$低了一阶 }{18}{}%
+\contentsline {subsection}{\numberline {14.4}数学归纳 (低阶 → 高阶)}{18}{}%
+\contentsline {subsubsection}{\numberline {14.4.1}第一数学归纳法}{18}{}%
+\contentsline {subsubsection}{\numberline {14.4.2}第二数学归纳法}{18}{}%
+\contentsline {section}{\numberline {15}抽象型行列式的计算: $a_{ij}$ 未给出 }{18}{}%
+\contentsline {subsection}{\numberline {15.1}用行列式性质}{18}{}%
+\contentsline {subsection}{\numberline {15.2}用矩阵知识}{18}{}%
+\contentsline {subsubsection}{\numberline {15.2.1}设 C=AB, A,B为同阶方阵, 则 $|C|=|AB|=|A||B|$}{18}{}%
+\contentsline {subsubsection}{\numberline {15.2.2}设 C=A+B, A,B为同阶方阵, 则 $|C|=|A+B|$,作恒等变形,转化为矩阵乘积的行列式 }{18}{}%
+\contentsline {subsubsection}{\numberline {15.2.3}设A 为n阶方阵, 则 $|A^*|=|A|^{n-1},\ |(A^*)^*|=\left | \left | A \right |^{n-2}A \right |=\left | A \right |^{\left ( n-1 \right ) ^2} $}{18}{}%
+\contentsline {subsection}{\numberline {15.3}用相似理论}{18}{}%
+\contentsline {subsubsection}{\numberline {15.3.1}$\left | A \right |=\DOTSB \prod@ \slimits@ _{i=1}^n{\lambda _i}$}{18}{}%
+\contentsline {subsubsection}{\numberline {15.3.2}若A相似于B, 则 |A|=|B|}{18}{}%

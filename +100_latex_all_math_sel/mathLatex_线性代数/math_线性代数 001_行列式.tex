@@ -32,7 +32,9 @@
 	$
 	
 
-	\hrule
+~\\
+\hrule
+~\\
 
 	
 		\subsection{三阶行列式}
@@ -45,11 +47,95 @@
 	$ \\
 	
 	即: \\
-	\includegraphics[width=0.8\textwidth]{img/0001.pdf}\\
+	\includegraphics[width=0.8\textwidth]{img/0001.pdf}
 	
 	
+~\\
+\hrule
+~\\
 
-	\hrule
+\section{行列式的几何意义}
+
+\subsection{行列式的值, 表示的是``新基"的面积 ($ \hat{i} × \hat{j}$), 比原基的面积($ i × j$) 大多少倍}
+
+即:
+$
+\boxed{
+	|D| = \frac{ \hat{i} × \hat{j}}{ i × j}
+	= \frac{\text{新基的面积}}{\text{原基的面积}}
+}$\\
+
+
+【原基矩阵"的行列式的值】: \\
+\begin{align*}
+\left| \begin{array}{c|c}
+	1&		0\\
+	\underset{i}{\underbrace{0}}&		\underset{j}{\underbrace{1}}\\
+\end{array} \right|=1*1\ -\ 0*0\ =\underset{=i*j}{\underbrace{1}}\	
+\end{align*}
+
+\includegraphics[width=0.2\textwidth]{img/0043.png}\\
+
+
+【新基矩阵"的行列式的值】: \\
+
+\begin{myEnvSample}
+如: 
+\begin{align*}
+	\left| \begin{array}{c|c}
+		3&		2\\
+		\underset{i}{\underbrace{0}}&		\underset{j}{\underbrace{2}}\\
+	\end{array} \right|=3*2\ -\ 2*0\ =\underset{=i*j}{\underbrace{6}}\
+\end{align*}
+
+即, 由``新基"中的两个基向量, 组成的平行四边形的面积 = 6.\\
+
+\includegraphics[width=0.6\textwidth]{img/0044.png}
+\end{myEnvSample}
+
+所以, 行列式的值, 其几何意义, 本质就是表示: 把原基($i \cdot j$) 这个单元面积, 缩放了多少倍.\\
+
+→ $| D |=3$ : 就意味着, 新基坐标系下, 它已将``原基"的面积 $ (i×j)$, 缩放为了原来的3倍. 即:  $\hat{i} \cdot \hat{j} = 3(i \cdot j) $. \\
+
+
+→ $| D |=0 $ : 新基矩阵A 里面, 存放的是新基的坐标. 只要 $|A| \ne 0$, 就说明原坐标系空间, 还没有被压缩降维. 那么它就存在 $ A^{-1}$. \\
+如果$| D |=0 $ 了, 就意味着, ``原基"已被压缩到一条直线上, 甚至一个点上. 被降维了.\\
+
+→ $|D|=负值 $ : 这意味着, 原坐标系已经被翻转了, 正反面翻转 (invert the orientation of space). 这就被称为``空间定向"发生了改变. 此时, 行列式的值, 就会变成负值.\\
+
+\includegraphics[width=0.35\textwidth]{img/0045.png}
+
+当 i 与 j 越来越靠近, 它们围成的平行四边形的面积, 就越来越小. 即坐标系空间, 被压缩得越来越严重. 当 i 与 j 完全重合时, 它们就共线了, |D| = 0.
+
+
+
+~\\
+\hrule
+~\\
+
+\subsection{在三维空间中, 行列式的值, 表示的就是: 体积的缩放倍数.}
+
+三维空间中, 原基的行列式的值 $= i \cdot j \cdot k = 1 \cdot 1 \cdot 1 = 1$ \\
+
+\includegraphics[width=0.2\textwidth]{img/0047.png}\\
+
+在做了变换后, $ |D| = \hat{i} \cdot \hat{j} \cdot \hat{k} $ 会从原立方体, 变为一个斜不拉几的立方体 (即``平行六面体"). after the  transformation, the cube might get wrapped into some kind of slanty cube.\\
+
+\includegraphics[width=0.6\textwidth]{img/0046.png}\\
+
+三维空间中 : \\
+→ $|D|=0$, 就意味着整个空间被压缩成 0体积的东西, 即一个平面, 或一条线, 甚至是一个点. 换言之, 此时的新基$ \hat{i}, \hat{j}, \hat{k}$ 线性相关了.\\
+→ 若 |D|是负值, 就意味着整个坐标系的``定向"发生了改变. \\
+
+你可以用``右手螺旋法则" 来确定坐标系的``定向"是否发生了改变.\\
+
+
+
+
+
+~\\
+\hrule
+~\\
 
 	
 	\section{全排列和对换}
@@ -618,14 +704,16 @@ $\\
 	$ \\
 	
 	其中, 1,4行相同. 即两行相同, 则该行列式的值=0. \\
-	若用第1行展开, 你会发现, 展开的式子, 与上面的行列式(1), 完全相同. 既然这边的(2)是0, 那么上面的(1)也是0了. 证毕. \\
+	若用第1行展开, 你会发现, 展开的式子, 与上面的行列式(1), 完全相同. 既然这边的(2)是0, 那么上面的(1)也是0了. 证毕. 
 	
 	
 	
 	
 	
 	
-		\hrule
+~\\
+\hrule
+~\\
 	
 	\section{拉普拉斯定理}
 	
@@ -663,9 +751,18 @@ $
 \end{matrix} \right|
 $ \\
 
+	注意: 上面 -1 的指数, 两个括号的意思是:
+	\begin{align*}
+		\left| \begin{matrix}
+			0&		8\\
+			9&		10\\
+		\end{matrix} \right|
+	\end{align*}
 	
 
+	~\\
 	\hrule
+	~\\
 
 	\subsection{拉普拉斯展开定理}
 	
@@ -725,19 +822,15 @@ $ \\
 \includegraphics[width=0.9\textwidth]{img/0015.pdf}
 
 
+~\\
 \hrule
+~\\
 
 
 	
 	\subsection{两个``不同阶"行列式 相乘}
 	
 那就只能先算出各自行列式的值, 再来相乘了.
-	
-	
-	\hrule
-	
-
-	
 	
 	
 	

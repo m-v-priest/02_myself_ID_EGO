@@ -1,6 +1,6 @@
 
 
-:toc:
+:toc: left
 :toclevels: 3
 :sectnums:
 
@@ -42,6 +42,10 @@ image:../img/0088.gif[]
 比如: 假设 stem:[\vec{v} \times \vec{w} = 2.5], 在三维空间中, 这两个向量构成一个平面(平行四边形). 它们的"叉积"构成一个新向量 stem:[\vec{p}=2.5], 它与"平行四边形"所在的面"垂直".
 
 image:../img/0050.png[600,600]
+
+再看看这个
+https://blog.csdn.net/GatyFly/article/details/123835146
+
 
 
 但垂直于一个平面的向量, 可以由正反两个方向, stem:[\vec{p}] 到底是朝哪个方向呢?

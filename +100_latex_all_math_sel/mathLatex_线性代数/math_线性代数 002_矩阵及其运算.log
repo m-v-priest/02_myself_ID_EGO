@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.6)  24 MAR 2023 15:20
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.6)  27 MAR 2023 15:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1156,11 +1156,11 @@ able
 44.
  [1
 
-])
+] [2])
 \tf@toc=\write4
 \openout4 = `"math_线性代数 002_矩阵及其运算.toc"'.
 
- [2]
+ [3]
 
 LaTeX Warning: No \author given.
 
@@ -1224,7 +1224,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 65--67
 
  []
 
-[3]
+[4]
 Underfull \hbox (badness 10000) in paragraph at lines 90--91
 
  []
@@ -1251,7 +1251,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 148--151
 
 File: img/0016.png Graphic file (type bmp)
 <img/0016.png>
-[4]
+[5]
 Underfull \hbox (badness 10000) in paragraph at lines 178--181
 
  []
@@ -1268,7 +1268,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 186--189
 
 File: img/0017.pdf Graphic file (type pdf)
 <use img/0017.pdf>
-[5]
+[6]
 Underfull \hbox (badness 10000) in paragraph at lines 224--227
 
  []
@@ -1315,7 +1315,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 296--297
 
 File: img/0018.pdf Graphic file (type pdf)
 <use img/0018.pdf>
-[6]
+[7]
 Underfull \hbox (badness 10000) in paragraph at lines 341--343
 
  []
@@ -1325,7 +1325,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 344--347
 
  []
 
-[7]
+[8]
 Underfull \hbox (badness 10000) in paragraph at lines 361--362
 
  []
@@ -1342,7 +1342,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 388--389
 
  []
 
-[8]
+[9]
 Underfull \hbox (badness 10000) in paragraph at lines 390--391
 
  []
@@ -1382,7 +1382,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 463--465
 
  []
 
-[9]
+[10]
 Underfull \hbox (badness 10000) in paragraph at lines 487--489
 
  []
@@ -1421,7 +1421,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 535--536
 
 File: img/0021.pdf Graphic file (type pdf)
 <use img/0021.pdf>
-[10]
+[11]
 File: img/0022.pdf Graphic file (type pdf)
 <use img/0022.pdf>
 
@@ -1451,7 +1451,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 597--598
 
  []
 
-[11]
+[12]
 Underfull \hbox (badness 10000) in paragraph at lines 607--622
 
  []
@@ -1488,7 +1488,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 665--672
 
  []
 
-[12]
+[13]
 Underfull \hbox (badness 10000) in paragraph at lines 673--681
 
  []
@@ -1507,7 +1507,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 691--693
 
 File: img/0029.pdf Graphic file (type pdf)
 <use img/0029.pdf>
-[13]
+[14]
 Underfull \hbox (badness 10000) in paragraph at lines 726--727
 
  []
@@ -1521,7 +1521,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 739--741
 
  []
 
-[14]
+[15]
 Underfull \hbox (badness 10000) in paragraph at lines 752--753
 
  []
@@ -1532,68 +1532,191 @@ Underfull \hbox (badness 10000) in paragraph at lines 754--755
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 759--760
+Underfull \hbox (badness 10000) in paragraph at lines 761--762
+
+ []
+
+File: img/0048.pdf Graphic file (type pdf)
+<use img/0048.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 763--764
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 765--766
+Underfull \hbox (badness 10000) in paragraph at lines 765--767
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 767--770
+Underfull \hbox (badness 10000) in paragraph at lines 768--769
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 771--772
-
- []
-
-[15]
-Underfull \hbox (badness 10000) in paragraph at lines 797--799
-
- []
-
-
-Overfull \hbox (9.62117pt too wide) detected at line 818
-[]
- []
-
+Missing character: There is no 即 (U+5373) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no 方 (U+65B9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no 程 (U+7A0B) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no 组 (U+7EC4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no 的 (U+7684) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no 解 (U+89E3) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no 即 (U+5373) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no 方 (U+65B9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no 程 (U+7A0B) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no 组 (U+7EC4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no 的 (U+7684) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no 解 (U+89E3) in font [lmroman10-regular]:mapping=t
+ex-text;!
 [16]
-Underfull \hbox (badness 10000) in paragraph at lines 843--844
+Underfull \hbox (badness 10000) in paragraph at lines 782--783
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 851--852
+Underfull \hbox (badness 10000) in paragraph at lines 784--785
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 853--854
+Underfull \hbox (badness 10000) in paragraph at lines 787--788
 
  []
 
-Missing character: There is no ^^93 (U+0093) in font [lmroman10-regular]:mappin
-g=tex-text;!
-Missing character: There is no ^^94 (U+0094) in font [lmroman10-regular]:mappin
-g=tex-text;!
-Missing character: There is no ^^93 (U+0093) in font [lmroman10-regular]:mappin
-g=tex-text;!
-Missing character: There is no ^^94 (U+0094) in font [lmroman10-regular]:mappin
-g=tex-text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 909--910
+Underfull \hbox (badness 10000) in paragraph at lines 789--790
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 795--796
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 798--799
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 800--803
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 804--805
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 824--825
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 826--827
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 832--835
 
  []
 
 [17]
-File: img/0028.pdf Graphic file (type pdf)
-<use img/0028.pdf>
+Underfull \hbox (badness 10000) in paragraph at lines 836--837
 
-Underfull \hbox (badness 10000) in paragraph at lines 918--919
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 838--839
+
+ []
+
+File: img/0049.png Graphic file (type bmp)
+<img/0049.png>
+File: img/0050.png Graphic file (type bmp)
+<img/0050.png>
+File: img/0051.png Graphic file (type bmp)
+<img/0051.png>
+File: img/0052.png Graphic file (type bmp)
+<img/0052.png>
+File: img/0053.png Graphic file (type bmp)
+<img/0053.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 840--845
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 847--848
+
+ []
+
+File: img/0054.png Graphic file (type bmp)
+<img/0054.png>
+File: img/0055.png Graphic file (type bmp)
+<img/0055.png>
+File: img/0056.png Graphic file (type bmp)
+<img/0056.png>
+File: img/0057.png Graphic file (type bmp)
+<img/0057.png>
+File: img/0058.png Graphic file (type bmp)
+<img/0058.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 849--854
+
+ []
+
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 855--856
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 857--859
+
+ []
+
+File: img/0059.png Graphic file (type bmp)
+<img/0059.png>
+File: img/0060.png Graphic file (type bmp)
+<img/0060.png>
+File: img/0061.png Graphic file (type bmp)
+<img/0061.png>
+File: img/0062.png Graphic file (type bmp)
+<img/0062.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 860--864
+
+ []
+
+
+Overfull \hbox (9.62117pt too wide) detected at line 889
+[]
+ []
+
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 897--898
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 899--900
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 915--916
 
  []
 
@@ -1603,67 +1726,105 @@ Underfull \hbox (badness 10000) in paragraph at lines 922--923
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 924--925
+Underfull \hbox (badness 10000) in paragraph at lines 925--928
+
+ []
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 954--955
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 930--941
+Underfull \hbox (badness 10000) in paragraph at lines 956--961
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 942--944
+Underfull \hbox (badness 10000) in paragraph at lines 964--976
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 945--953
-
- []
-
-[18]
-Underfull \hbox (badness 10000) in paragraph at lines 954--961
+Underfull \hbox (badness 10000) in paragraph at lines 981--982
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 962--970
+Underfull \hbox (badness 10000) in paragraph at lines 983--984
+
+ []
+
+Missing character: There is no ^^93 (U+0093) in font [lmroman10-regular]:mappin
+g=tex-text;!
+Missing character: There is no ^^94 (U+0094) in font [lmroman10-regular]:mappin
+g=tex-text;!
+Missing character: There is no ^^93 (U+0093) in font [lmroman10-regular]:mappin
+g=tex-text;!
+Missing character: There is no ^^94 (U+0094) in font [lmroman10-regular]:mappin
+g=tex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 998--999
+
+ []
+
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 1000--1001
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 971--978
+Underfull \hbox (badness 10000) in paragraph at lines 1019--1020
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 979--987
+Underfull \hbox (badness 10000) in paragraph at lines 1021--1022
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 989--996
+Underfull \hbox (badness 10000) in paragraph at lines 1025--1026
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 998--1014
+Underfull \hbox (badness 10000) in paragraph at lines 1027--1028
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1019--1031
+Underfull \hbox (badness 10000) in paragraph at lines 1039--1040
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1054--1068
+Underfull \hbox (badness 10000) in paragraph at lines 1041--1042
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1069--1070
+Underfull \hbox (badness 10000) in paragraph at lines 1047--1048
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1049--1050
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1061--1062
+
+ []
+
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 1063--1064
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1071
 
  []
 
@@ -1672,147 +1833,631 @@ Underfull \hbox (badness 10000) in paragraph at lines 1072--1073
 
  []
 
-[19]
-Underfull \hbox (badness 10000) in paragraph at lines 1109--1117
+
+Underfull \hbox (badness 10000) in paragraph at lines 1082--1083
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1123--1130
+Underfull \hbox (badness 10000) in paragraph at lines 1084--1085
+
+ []
+
+File: img/0028.pdf Graphic file (type pdf)
+<use img/0028.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 1090--1091
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1131--1138
+Underfull \hbox (badness 10000) in paragraph at lines 1094--1095
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1139--1146
+Underfull \hbox (badness 10000) in paragraph at lines 1096--1097
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1152--1153
+Underfull \hbox (badness 10000) in paragraph at lines 1102--1113
+
+ []
+
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 1114--1116
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1165--1178
+Underfull \hbox (badness 10000) in paragraph at lines 1117--1125
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1126--1133
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1134--1142
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1143--1150
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1151--1159
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1161--1168
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1170--1186
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1191--1203
+
+ []
+
+[24]
+Underfull \hbox (badness 10000) in paragraph at lines 1226--1240
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1241--1242
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1244--1245
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1281--1289
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1295--1302
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1303--1310
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1311--1318
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1324--1325
+
+ []
+
+[25]
+Underfull \hbox (badness 10000) in paragraph at lines 1337--1350
 
  []
 
 File: img/0033.png Graphic file (type bmp)
 <img/0033.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 1181--1182
+Underfull \hbox (badness 10000) in paragraph at lines 1353--1354
 
  []
 
 File: img/0032.pdf Graphic file (type pdf)
 <use img/0032.pdf>
-[20]
-Underfull \hbox (badness 10000) in paragraph at lines 1187--1188
+[26]
+Underfull \hbox (badness 10000) in paragraph at lines 1359--1360
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1189--1190
-
- []
-
-[21]
-Underfull \hbox (badness 10000) in paragraph at lines 1195--1196
+Underfull \hbox (badness 10000) in paragraph at lines 1361--1362
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1239--1240
+Underfull \hbox (badness 10000) in paragraph at lines 1367--1368
+
+ []
+
+[27]
+Underfull \hbox (badness 10000) in paragraph at lines 1411--1412
 
  []
 
 File: img/0035.pdf Graphic file (type pdf)
 <use img/0035.pdf>
-[22]
-Underfull \hbox (badness 10000) in paragraph at lines 1260--1261
+[28]
+Underfull \hbox (badness 10000) in paragraph at lines 1432--1433
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1262--1275
+Underfull \hbox (badness 10000) in paragraph at lines 1434--1447
 
  []
 
 File: img/0034.pdf Graphic file (type pdf)
 <use img/0034.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 1276--1277
+Underfull \hbox (badness 10000) in paragraph at lines 1448--1449
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1283--1284
+Underfull \hbox (badness 10000) in paragraph at lines 1455--1456
 
  []
 
-[23]
-Underfull \hbox (badness 10000) in paragraph at lines 1306--1307
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1325--1326
+[29]
+Underfull \hbox (badness 10000) in paragraph at lines 1478--1479
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1343--1344
+Underfull \hbox (badness 10000) in paragraph at lines 1497--1498
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1345--1346
+Underfull \hbox (badness 10000) in paragraph at lines 1515--1516
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1367--1375
+Underfull \hbox (badness 10000) in paragraph at lines 1517--1518
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1377--1378
+Underfull \hbox (badness 10000) in paragraph at lines 1539--1547
 
  []
 
-[24]
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1384
+
+Underfull \hbox (badness 10000) in paragraph at lines 1549--1550
+
+ []
+
+[30]
+Underfull \hbox (badness 10000) in paragraph at lines 1553--1556
 
  []
 
 File: img/0036.pdf Graphic file (type pdf)
 <use img/0036.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 1388--1389
+Underfull \hbox (badness 10000) in paragraph at lines 1560--1561
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1390--1391
+Underfull \hbox (badness 10000) in paragraph at lines 1562--1563
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1392--1395
+Underfull \hbox (badness 10000) in paragraph at lines 1564--1567
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1396--1398
+Underfull \hbox (badness 10000) in paragraph at lines 1568--1570
 
  []
 
-[25] (./math_线性代数 002_矩阵及其运算.aux)
+
+Underfull \hbox (badness 10000) in paragraph at lines 1574--1575
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1576--1577
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1578--1579
+
+ []
+
+
+Overfull \hbox (0.73825pt too wide) in paragraph at lines 1580--1580
+[]\TU/SimSun(0)/b/n/12.045 定 理\TU/lmr/bx/n/12.045 : \TU/SimSun(0)/b/n/12.045 对 
+于 任 意 一 个 矩 阵 \TU/lmr/bx/n/12.045 A, \TU/SimSun(0)/b/n/12.045 都 存 在 \TU/lmr/bx/
+n/12.045 “\TU/SimSun(0)/b/n/12.045 初 等 矩 阵\TU/lmr/bx/n/12.045 ” $\OML/cmm/m/it/
+12.045 P[]; P[]; :::; P[]; Q[]; Q[]; :::; Q[]$\TU/lmr/bx/n/12.045 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1582--1583
+
+ []
+
+File: img/0037.pdf Graphic file (type pdf)
+<use img/0037.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 1584--1585
+
+ []
+
+[31]
+Underfull \hbox (badness 10000) in paragraph at lines 1589--1590
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1591--1592
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1598--1599
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1600--1603
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1600--1603
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1604--1607
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1609--1612
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1613--1624
+
+ []
+
+[32]
+Underfull \hbox (badness 10000) in paragraph at lines 1642--1643
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1644--1645
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1653--1654
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1656--1661
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1662--1674
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1678--1681
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1685--1686
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1687--1688
+
+ []
+
+[33]
+Underfull \hbox (badness 10000) in paragraph at lines 1709--1710
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1736--1737
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1738--1739
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1743--1744
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1745--1746
+
+ []
+
+File: img/0038.png Graphic file (type bmp)
+<img/0038.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 1751--1753
+
+ []
+
+[34]
+File: img/0039.png Graphic file (type bmp)
+<img/0039.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 1754--1756
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1757--1758
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1761--1766
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1773--1777
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1778--1779
+
+ []
+
+File: img/0040.png Graphic file (type bmp)
+<img/0040.png>
+File: img/0041.pdf Graphic file (type pdf)
+<use img/0041.pdf>
+[35]
+Underfull \hbox (badness 10000) in paragraph at lines 1787--1793
+
+ []
+
+File: img/0042.png Graphic file (type bmp)
+<img/0042.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 1794--1796
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1799--1800
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1801--1802
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1808--1813
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1821--1826
+
+ []
+
+[36]
+Underfull \hbox (badness 10000) in paragraph at lines 1841--1842
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1843--1847
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1848--1849
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1852--1857
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1866--1872
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1880--1881
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1882--1883
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1887--1889
+
+ []
+
+[37]
+Underfull \hbox (badness 10000) in paragraph at lines 1890--1892
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1893--1894
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1903--1904
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1905--1906
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1914--1916
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1920--1921
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1922--1923
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1929--1930
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1931--1932
+
+ []
+
+[38]
+Underfull \hbox (badness 10000) in paragraph at lines 1955--1956
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1957--1958
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1966--1967
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1968--1969
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1977--1978
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1979--1980
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1983--1984
+
+ []
+
+File: img/0063.jpg Graphic file (type bmp)
+<img/0063.jpg>
+
+Underfull \hbox (badness 10000) in paragraph at lines 1985--1986
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1988--1996
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1997--1999
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2001--2002
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2003--2004
+
+ []
+
+File: img/0064.png Graphic file (type bmp)
+<img/0064.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 2008--2009
+
+ []
+
+[39]
+Underfull \hbox (badness 10000) in paragraph at lines 2010--2013
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2015--2017
+
+ []
+
+File: img/0065.png Graphic file (type bmp)
+<img/0065.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 2018--2019
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2023--2024
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2025--2026
+
+ []
+
+[40] (./math_线性代数 002_矩阵及其运算.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.41063pt have occurred.
@@ -1822,12 +2467,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 26923 strings out of 476179
- 616930 string characters out of 5813072
- 1053042 words of memory out of 5000000
- 47108 multiletter control sequences out of 15000+600000
+ 27139 strings out of 476179
+ 620401 string characters out of 5813072
+ 1063140 words of memory out of 5000000
+ 47299 multiletter control sequences out of 15000+600000
  491016 words of font info for 146 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 102i,20n,122p,445b,1003s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,24n,122p,445b,1012s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on math_线性代数 002_矩阵及其运算.pdf (25 pages).
+Output written on math_线性代数 002_矩阵及其运算.pdf (40 pages).
