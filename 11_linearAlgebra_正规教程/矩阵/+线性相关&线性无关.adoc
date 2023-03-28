@@ -1,11 +1,11 @@
 
-:toc:
+:toc: left
 :sectnums:
 
 
 == 线性相关 Linearly correlation
 
-对于若干个向量stem:[ \vec{v_1},  \vec{v_2}, ...  \vec{v_n}], 若存在一组 k (系数, 倍数)不全为0, 使得 stem:[ k_1  \vec{v_1} + k_2  \vec{v_2} + ... + k_n  \vec{v_n} = 0], 则称 stem:[ \vec{v_1},  \vec{v_2}, ...  \vec{v_n}] 是"线性相关"的.
+对于n个m维的向量stem:[ \vec{v_1},  \vec{v_2}, ...  \vec{v_n}], 若存在一组 k (系数, 倍数)不全为0, 使得 stem:[ k_1  \vec{v_1} + k_2  \vec{v_2} + ... + k_n  \vec{v_n} = 0], 则称 stem:[ \vec{v_1},  \vec{v_2}, ...  \vec{v_n}] 是"线性相关"的.
 
 
 .标题

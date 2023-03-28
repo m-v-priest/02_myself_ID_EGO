@@ -1,5 +1,5 @@
 
-:toc:
+:toc: left
 :toclevels: 3
 :sectnums:
 
@@ -113,7 +113,7 @@ image:../img/0093.png[]
 ---
 
 
-== 向量"点积 (内积) stem:[\cdot]"的几何意义 ->  stem:[\vec{v} \cdot \vec{w} = \vec{v} \cdot \vec{w'}], stem:[\vec{w'}] 是 stem:[\vec{w}] 在 stem:[\vec{v}] 上的投影长度.
+== 向量"点积 (内积) stem:[\cdot]"的几何意义 ->  stem:[\vec{v} \cdot \vec{w} = \vec{v} \cdot \vec{w'}], 其中, stem:[\vec{w'}] 是 stem:[\vec{w}] 在 stem:[\vec{v}] 上的投影长度.
 
 [cols="2a,4a"]
 |===
@@ -146,7 +146,7 @@ image:../img/0093.png[]
 
 stem:[ \vec{x} · \vec{x} >= 0]  <- 向量自己与自己的内积, 大于等于0
 
-若 stem:[ \vec{x} · \vec{x} = 0 +
+若 stem:[ \vec{x} · \vec{x} = 0] +
 则根据内积公式: +
 \begin{align}
 \left| \begin{array}{l}
