@@ -1901,3 +1901,24 @@ f \circ  g
 二是: \verb|\|
 三是：$\setminus$
 ....
+
+'''
+
+
+== 页面内超链接
+
+现在页面开头,引入包:
+....
+\usepackage{hyperref} % 支持超链接
+....
+
+然后在页面里输入:
+....
+aaa \hyperlink{超链接定位符}{``点我跳转到b处" }aaa
+...
+bbb \hypertarget{超链接定位符}{} bbb
+....
+
+image:/img_LaTeX/068.png[,]
+
+'''

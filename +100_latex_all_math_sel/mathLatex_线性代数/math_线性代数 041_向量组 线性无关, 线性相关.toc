@@ -1,0 +1,25 @@
+\contentsline {section}{\numberline {1}线性组合 linear combination}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}线性组合 : $\beta =k_1\alpha _1+k_2\alpha _2+...+k_n\alpha _n$ }{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}线性组合的性质}{2}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}性质: 0向量, 可由任意向量组来表示. 即: $0\text {向量}=\ 0\alpha _1+0\alpha _2+...+0\alpha _n$}{2}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}性质: 向量组A中, 任取出其中的一个向量$α_i$出来, 它可以由这个向量组A来表示. 如: $\alpha _3=0\alpha _1+0\alpha _2+1\alpha _3...+0\alpha _n$}{2}{subsubsection.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.3}任意一个向量组, 都可由这些个向量(即``n维单位向量")来表示: $\varepsilon _1=\left ( 1,0,...,0 \right ) ,\ \varepsilon _2=\left ( 0,1,...,0 \right ) ,\ ...\ ,\varepsilon _n=\left ( 0,0,...,1 \right ) $}{3}{subsubsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.3}线性相关 and 线性无关}{3}{subsection.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}线性相关 and 线性无关 的几何意义}{3}{subsubsection.1.3.1}%
+\contentsline {subsubsection}{\numberline {1.3.2}线性相关}{3}{subsubsection.1.3.2}%
+\contentsline {subsubsection}{\numberline {1.3.3}线性无关}{4}{subsubsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.4}线性相关的 性质, 定理}{4}{subsection.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1}向量组中, 若其中有两个向量成比例, → 则该向量组中的所有成员, 就都``线性相关".}{4}{subsubsection.1.4.1}%
+\contentsline {subsubsection}{\numberline {1.4.2}含有0向量的任一向量组, 必``线性相关".}{4}{subsubsection.1.4.2}%
+\contentsline {subsubsection}{\numberline {1.4.3}只有一个零向量, 则它必``线性相关".}{4}{subsubsection.1.4.3}%
+\contentsline {subsubsection}{\numberline {1.4.4}一个向量 $\vec {v}$ , 线性相关的 充要条件是: 它本身就是零向量, 即 $\vec {v}=0$}{4}{subsubsection.1.4.4}%
+\contentsline {subsubsection}{\numberline {1.4.5}$ \alpha _1,...,\alpha _s$ ``线性相关" 的充要条件是: 至少一个向量, 可以由其余向量来表示}{5}{subsubsection.1.4.5}%
+\contentsline {subsubsection}{\numberline {1.4.6}$\alpha _1,...,\alpha _s$ 是``线性无关"的, 如果给它们再加一个向量$\beta $ , 即 $ \alpha _1,...,\alpha _s, \beta $ 变成了是``线性相关"的话, 则可以证明: $\beta $ 可由 $ \alpha _1,...,\alpha _s$ 来唯一的线性表示. }{5}{subsubsection.1.4.6}%
+\contentsline {subsubsection}{\numberline {1.4.7}若 $\vec {v_1}, ... \vec {v_r}$ 这组向量是"线性相关"的, 则给它们添加一些新的向量, \\它们整体($\vec {v_1}, ... \vec {v_r}, \vec {v_{r+1}}, ... \vec {v_s}$ ) 依然是"线性相关"的.}{5}{subsubsection.1.4.7}%
+\contentsline {subsubsection}{\numberline {1.4.8}在一个n维空间中, 存在m个n维向量的话, 并且是$m>n的$话,则这个向量组(即含有m个向量的), 一定是``线性相关"的. 即: n+1个n维向量, 一定``线性相关".}{5}{subsubsection.1.4.8}%
+\contentsline {subsection}{\numberline {1.5}线性无关的 性质, 定理}{6}{subsection.1.5}%
+\contentsline {subsubsection}{\numberline {1.5.1}任意一个非零向量, 必``线性无关".}{6}{subsubsection.1.5.1}%
+\contentsline {subsubsection}{\numberline {1.5.2}(1)``线性无关"的向量组, 把每个向量的内部的维度, 往后接长, 则新的向量组, 依然是"线性无关"的. (2)``线性相关"的向量组, 把每个向量的内部的维度, 截短后, 则新的向量组, 依然是``线性相关"的.}{6}{subsubsection.1.5.2}%
+\contentsline {subsubsection}{\numberline {1.5.3}n个n维向量( 即,此处是``向量的个数"=``每个向量自己的维数")所构成的行列式, 则: (1) 若 $|D| \ne 0$, 则这些向量就是``线性无关"的. (2) 若 D=0, 则这些向量是``线性相关"的.}{6}{subsubsection.1.5.3}%
+\contentsline {subsubsection}{\numberline {1.5.4}n维的``单位向量"组 (单位向量, 显然就是``基轴"本身了), 是它们是``线性无关"的. }{7}{subsubsection.1.5.4}%
+\contentsline {subsubsection}{\numberline {1.5.5}替换定理:在线性空间中, 给出两个有限向量组: $a_1, a_2, ..., a_t$, 与 $b_1, b_2, ..., b_s$. 若向量组1是``线性无关''的，并且``向量组1"可由``向量组2"来线性表示的话，则: $t \leq s$. }{7}{subsubsection.1.5.5}%

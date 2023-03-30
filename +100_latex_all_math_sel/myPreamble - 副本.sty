@@ -4,6 +4,7 @@
 
 
 
+\usepackage{makecell} % 让表格内支持手动换行, 需使用代码 \makecell{ 上一行 \\ 下一行 }
 
 \usepackage{tipa}% 这里用于支持音标显示。此包必须在ctex宏包之前，否则会报错。
 
@@ -47,7 +48,8 @@
 %\usepackage{fontspec}
 %\setmainfont{CMU Serif}
 
-
+% 支持输入实心五角星 ★, 命令是 \ding{72}, 注意: 这个命令不需要用$$来括起来
+\usepackage{pifont}
 
 
 
@@ -70,9 +72,9 @@
 
 \usepackage{lipsum} %  支持输出 乱数假文 lorem段落. 比如用命令:   \lipsum[1-5] 来生成一段以“Lorem ipsum”开头的无意义文字的第一至第五自然段
 
+\usepackage{pdfpages} %支持导入pdf
 
 
-
-
+\usepackage{hyperref} % 支持超链接
 
 
