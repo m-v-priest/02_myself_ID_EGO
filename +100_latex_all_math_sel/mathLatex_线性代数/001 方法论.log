@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.6)  30 MAR 2023 16:31
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.6)  31 MAR 2023 14:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1337,28 +1337,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--42
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--47
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--49
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
 
  []
 
-[2]
-File: img/0111.png Graphic file (type bmp)
-<img/0111.png>
 
 Underfull \hbox (badness 10000) in paragraph at lines 50--51
 
  []
 
-
+[2]
 Underfull \hbox (badness 10000) in paragraph at lines 52--53
 
  []
 
+File: img/0111.png Graphic file (type bmp)
+<img/0111.png>
 
 Underfull \hbox (badness 10000) in paragraph at lines 54--55
 
@@ -1370,47 +1369,89 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--57
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--68
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--80
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--82
+Underfull \hbox (badness 10000) in paragraph at lines 70--72
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--88
+Underfull \hbox (badness 10000) in paragraph at lines 82--84
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--91
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--92
 
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 99--107
+Underfull \hbox (badness 10000) in paragraph at lines 93--95
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--110
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 111--130
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 153--155
+Underfull \hbox (badness 10000) in paragraph at lines 107--115
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--118
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--163
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
+
+ []
+
+File: img/0112.png Graphic file (type bmp)
+<img/0112.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
 
  []
 
@@ -1425,7 +1466,220 @@ mr/m/sl/10.53937 “\TU/SimSun(0)/m/it/10.53937 函 数\TU/lmr/m/sl/10.53937 ”
 mSun(0)/m/it/10.53937 的 作 用\TU/lmr/m/sl/10.53937 . \TU/lmr/m/n/10.53937 4
  []
 
-[4] (./001 方法论.aux)
+[4]
+Overfull \hbox (5.01047pt too wide) in paragraph at lines 175--176
+[]\TU/SimSun(0)/m/n/10.53937 把 这 个 二 维 直 线\TU/lmr/m/n/10.53937 , \TU/SimSun(0)/
+m/n/10.53937 放 到 三 维 空 间 中\TU/lmr/m/n/10.53937 , \TU/SimSun(0)/m/n/10.53937 其 函
+ 数 表 达 式\TU/lmr/m/n/10.53937 , \TU/SimSun(0)/m/n/10.53937 就 要 改 写 成\TU/lmr/m/n/
+10.53937 : $\OML/cmm/m/it/10.53937 f [] \OT1/cmr/m/n/10.53937 = \OML/cmm/m/it/1
+0.53937 k[]x[]$ \TU/SimSun(0)/m/n/10.53937 或 $\OML/cmm/m/it/10.53937 f [] \OT1/
+cmr/m/n/10.53937 =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
+
+ []
+
+File: img/0113.png Graphic file (type bmp)
+<img/0113.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--178
+
+ []
+
+File: img/0114.png Graphic file (type bmp)
+<img/0114.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
+
+ []
+
+
+Overfull \hbox (11.24307pt too wide) in paragraph at lines 181--182
+[]\TU/SimSun(0)/m/n/10.53937 既 然 在 三 维 空 间 中\TU/lmr/m/n/10.53937 , $\OML/cmm/m/
+it/10.53937 k[]x[]$ \TU/SimSun(0)/m/n/10.53937 是 一 个 平 面\TU/lmr/m/n/10.53937 , 
+\TU/SimSun(0)/m/n/10.53937 那 么 $\OML/cmm/m/it/10.53937 k[]x[] \OT1/cmr/m/n/10.5
+3937 + \OML/cmm/m/it/10.53937 k[]x[]$\TU/lmr/m/n/10.53937 , \TU/SimSun(0)/m/n/1
+0.53937 就 是 两 个 平 面 相 加 了\TU/lmr/m/n/10.53937 . \TU/SimSun(0)/m/n/10.53937 即 就 
+是 $\OML/cmm/m/it/10.53937 f [] \OT1/cmr/m/n/10.53937 =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--182
+
+ []
+
+File: img/0115.png Graphic file (type bmp)
+<img/0115.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--184
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--195
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--214
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--217
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 223--224
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--230
+
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+
+ []
+
+File: img/0116.png Graphic file (type bmp)
+<img/0116.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+
+ []
+
+File: img/0117.png Graphic file (type bmp)
+<img/0117.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--237
+
+ []
+
+File: img/0118.png Graphic file (type bmp)
+<img/0118.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--241
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--245
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--249
+
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 250--254
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 255--256
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 259--272
+
+ []
+
+File: img/0119.png Graphic file (type bmp)
+<img/0119.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--274
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--276
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--278
+
+ []
+
+File: img/0120.png Graphic file (type bmp)
+<img/0120.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 281--282
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--285
+
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 288--292
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 293--294
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 295--296
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--302
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--304
+
+ []
+
+File: img/0121.png Graphic file (type bmp)
+<img/0121.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--306
+
+ []
+
+[9] [10] (./001 方法论.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.41063pt have occurred.
@@ -1437,12 +1691,12 @@ Package rerunfilecheck Info: File `"001 方法论".out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
  ) 
 Here is how much of TeX's memory you used:
- 33015 strings out of 476179
- 712597 string characters out of 5813072
- 1137991 words of memory out of 5000000
- 53139 multiletter control sequences out of 15000+600000
+ 33217 strings out of 476179
+ 718503 string characters out of 5813072
+ 1141191 words of memory out of 5000000
+ 53331 multiletter control sequences out of 15000+600000
  486029 words of font info for 121 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 102i,13n,122p,531b,358s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,13n,122p,531b,1005s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on 001 方法论.pdf (4 pages).
+Output written on 001 方法论.pdf (10 pages).
