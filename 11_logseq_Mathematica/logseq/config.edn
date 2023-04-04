@@ -283,6 +283,7 @@
  ;; Ignore these files when syncing, regexp is supported.
  :file-sync/ignore-files [".DS_Store$"]
  :ui/show-brackets? false
+ :feature/enable-whiteboards? true
 
  ;; dwim (do what I mean) for Enter key when editing.
  ;; Context-awareness of Enter key makes editing more easily

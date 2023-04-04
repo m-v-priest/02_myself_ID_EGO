@@ -1,0 +1,12 @@
+
+
+
+
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid hsl(0, 0%, 40%);
+  padding: 0.2em;
+}
