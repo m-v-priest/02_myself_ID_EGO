@@ -1,0 +1,259 @@
+
+= 逆矩阵
+//:stylesheet: my-stylesheet.css
+:toc: left
+:toclevels: 3
+:sectnums:
+
+'''
+
+ 逆矩阵
+
+== "逆"的几何意义 → 相当于 ctrl + z 操作
+
+逆阵, 就相当于 ctrl + z 操作. +
+image:/img/0048.svg[,20%]
+
+
+→ 如果从"原像"变到"异像", 应用的是 A(新基矩阵) 变换规则; +
+→ 则从"异像"变回"原像", 可以用 stem:[A^{-1}] 变换规则来实现.
+
+即: 如果 A 是"顺时针旋转90度"的变换; 则  stem:[ A^{-1}] 就是"逆时针旋转90度"的变换, 即它能对A 做 ctrl + z 操作, 抵消掉A的影响.
+
+\begin{align*}
+	\underset{\text{撤销掉A变换.}}  {\underbrace{A^{-1}}}\underset{\text{做A变换}}{\underbrace{A}}\overrightarrow{x}\ =\ \overrightarrow{x}
+\end{align*}
+
+所以, 对于 stem:[ Ax=b], 为了求出"原像x", 只要把等号左边的A撤销掉 (直接给它乘上一个A的逆), 就能暴露出x了, 即直接就能得到"解".
+
+\begin{align*}
+	& A\vec{x} = \vec{b} \\
+	& A^{-1} \cdot A \cdot \vec{x} = A^{-1} \cdot \vec{b} \ ← \text{两边等式乘上A的逆}\\
+	& \vec{x} = A^{-1}  \vec{b} \ ← \text{直接就能得到原像}\vec{x}, 即方程组的解
+\end{align*}
+
+换言之, 我们只要找到了A的逆阵, 就能利用它来计算出方程组的解. 这就是"逆阵"带给我们的作用之一.
+
+要记住一句话: 线性代数中, *矩阵不能放在分母上!*
+
+'''
+
+== 可逆矩阵 : AB = BA = 单位阵E
+
+有方阵  stem:[A_{n \times n}], 若存在一个 stem:[ A_{n \times n}^{-1}], 使得  stem:[ A \cdot A^{-1} = A^{-1} \cdot A = E] (类似于 stem:[ 2 \cdot \frac{1}{2} =  \frac{1}{2} \cdot 2 ]), 则称 A可逆, 且 stem:[A^{-1} ] 就是A的逆矩阵. 
+
+.可逆矩阵 invertible matrix :  +
+A,B为 n阶方阵，若 AB = BA = 单位阵E, 则称 A为"可逆矩阵""(或"非奇异矩阵")，B为A的"逆矩阵"，记为 stem:[A^{-1}=B]. ← 意思即: A的逆矩阵, 是B.
+
+推论: A,B是n阶方阵, 只要我们知道一个条件: AB=E, 或BA=E, 我们就能得出结论: A可逆, 并且 stem:[A^{-1}=B]
+
+
+.注意:
+
+1. 并非所有方阵均可逆. +
+比如零矩阵, OA = AO = O, 它就不满足"可逆矩阵"的要求 AB = BA = E 了. 所以零矩阵不可逆. +
+2. 若A为"可逆矩阵"，则A的"逆矩阵"是唯一的.
+
+
+.标题
+====
+已知 A+B = AB , 验证:  A-E 是可逆的.
+\begin{align*}
+& \text{既然}A+B=AB\\
+& \text{则 }AB-A-B=O\text{零矩阵}\\
+& AB-A-B+E=O+E\ ←\text{两边同时加上单位阵}E\\
+& \underset{=(A-E)B}{\underbrace{AB-B}}-A+E=E\\
+& (A-E)B-\left( A-E \right) =E\ ←\text{等号左边, 提取}\left( A-E \right)\\
+& \left( A-E \right) \underset{\text{这个, 就是}\left( A-E \right) \text{的逆矩阵了}}{\underbrace{\left( B-E \right) }}=E\\
+& \text{即: }\left( A-E \right) ^{-1}=B-E
+\end{align*}
+====
+
+另外有:
+
+- 单位阵E是可逆的:  stem:[E^{-1} = E ]
+- 零矩阵不可逆, 因为其行列式=0了. 只有行列式不等于0的, 才有逆.
+
+
+'''
+
+=== 如何判断一个矩阵是否可逆? A可逆的充要条件是: stem:[|A| \ne 0]. 并且A的逆矩阵就是: stem:[	A^{-1}=\frac{1}{|A|}A^*]
+
+.如何判断一个矩阵是否可逆? 
+判断方法就是: *只要它的行列式 |A| 不等于0, 它就是可逆的.* +
+这种行列式的值不为0 的方阵, 也叫"非奇异 /非退化 /满秩"的.
+
+因为行列式的值, 就是它们向量所组成的"平行四边形"的面积. 若 面积=0 了, 说明原坐标系空间被"变换"成零维了, 被降维压缩了. 高维信息全部丢失. 而"逆矩阵"是实现 ctrl + z 作用的, 显然零维物体就无法还原成高维物体了. 所以 ctrl + z 就不可做了. 即不存在你操作, 不存在 stem:[A^{-1}].
+
+即: 当行列式值=0 时, 就说明新基矩阵A 将坐标轴空间, 变换压缩到了更低的维度上(比如一条直线上). 此时就没有"逆变换", 因为你不能将一条线"解压缩"为一个平面. 至少这不是一个函数能做到的. 如果你硬要还原, 这会导致多重映射的问题. 但是函数(包括反函数)只能将一个输入变换为一个输出. -- that would require transforming(v.) each individual vectors /into a whole line full of vectors. but functions can only take a single input /to a single output.
+
+image:/img/0049.png[,45%]
+image:/img/0050.png[,45%]
+image:/img/0051.png[,45%]
+image:/img/0052.png[,45%]
+image:/img/0053.png[,45%]
+
+它们都对应"行列式值为零"的情况, 因为此时, 所有区域都被压缩到零体积.
+
+但即便不存在逆变换, "解"仍然可能存在. it's still possible that a solution exists /even when there is no inverse. +
+比如说, 一个变换, 将"原坐标系空间"压缩为一条直线, 如果"原像 stem:[\vec{x}]" 恰好就处在这条直线上, 那降维后, 你仍然没有失去它. 即, 解(即 stem:[\vec{x}]) 依然存在. 但如果"原像"是处在这条直线外面的, 那降维后, 你就失去它了.
+
+image:/img/0059.png[,45%]
+image:/img/0060.png[,45%]
+image:/img/0061.png[,45%]
+image:/img/0062.png[,45%]
+
+'''
+
+== 求"逆矩阵"的方法
+
+==== 用"伴随矩阵法"(不推荐用), 来求逆矩阵 : 利用A的逆矩阵公式, 来求A的逆矩阵. 即: stem:[A^{-1} =\frac{1}{|A|}A^*]
+
+如果一个矩阵是可逆的, 它的逆矩阵是什么呢? 公式就是: 
+\begin{align*}
+	& \because A^{\ast} = |A| A^{-1} \\
+	& \therefore \frac{A^{\ast}}{|A| } = A^{-1} \\
+	&
+	\boxed{
+		A^{-1}  =  \frac{1}{|A| } A^{\ast}
+	}
+\end{align*}
+
+不过, 实际中, 该求逆方法很少用, 因为要先求 stem:[A^*], 计算量太大.
+
+'''
+
+
+==== 用"初等变换法", 来求逆矩阵 (常用):  stem:[	\[ A,E\] →\text{初等行变换} →\[E,A^{-1}\]	]
+
+比如, 要求A的逆阵, 可以先写这样一个矩阵: [A|E],  把它左边的A, 先变换成E, 则它右边原先的E, 就会变成A的逆阵了. 我们就能得到  stem:[A^{-1}] 了.
+
+即: 只做"初等行变换":
+\begin{align*}
+\left[ A,E \right] \underrightarrow{\text{初等行变换}}[E,A^{-1}]
+\end{align*}
+当"左边的A"变成"右边的E"时, "左边的E"也就能变成了"右边的 stem:[A^{-1}]". 我们就得到了 stem:[A^{-1}].
+
+.标题
+====
+例如：
+\begin{align*}
+& \text{已知} A=\left[ \begin{matrix}
+	1&		0&		1\\
+	2&		1&		0\\
+	-3&		2&		-5\\
+\end{matrix} \right]  \\
+& \text{把A和E拼在一起, 构成一个矩阵} \\
+& [A|E]=\left[ \begin{array}{ccc|ccc}
+	1&		0&		1&		1&		&		\\
+	2&		1&		0&		&		1&		\\
+	-3&		2&		-5&		&		&		1\\
+\end{array} \right] \\
+& \text{做初等行变换, 把竖线左边原先的A, 化成单位阵E:} \\
+& AE=\left[ \begin{array}{ccc|ccc}
+	1&		&		&		-\frac{5}{2}&		1&		-\frac{1}{2}\\
+	&		1&		&		5&		-1&		1\\
+	&		&		1&		\frac{7}{2}&		-1&		\frac{1}{2}\\
+\end{array} \right]
+\end{align*}
+现在, 竖线右边的部分, 就是 stem:[A^{-1}]了.
+====
+	
+做法总结:
+
+1. 先搞第1列, 再第2列, 第3列...
+2. "第1列"处理完后, "第1行"(注意是行!) 就不再主动参与后面的运算. 即不再用 line1 去消下面的行. 但能用下面的行, 去消 line1上的元素到0.
+3. 变换时, 矩阵与矩阵之间, 不能写等号, 要写箭头(→), 即: [] -> [] -> [].
+4. 只做"行变换", 而绝不做能"列变换".
+5. 如果最后发现 [A|E]的左边, 化不成单位阵E时, 就说明A不可逆.
+
+
+.标题
+====
+关于上面第5点, 比如, 对于这个矩阵:
+\begin{align*}
+A=\left[ \begin{matrix}
+		1&		2&		3\\
+		2&		4&		9\\
+		4&		8&		18\\
+	\end{matrix} \right]
+\end{align*}
+
+经过行变换, 你发现 [A|E]只能变成:
+\begin{align*}
+[A|E]=\left[ \begin{array}{ccc|ccc}
+		1&		2&		3&		1&		&		\\
+		0&		0&		3&		-2&		1&		\\
+		0&		0&		0&		&		-2&		1\\
+	\end{array} \right]
+\end{align*}
+你发现竖线左边, 化不成E, 就说明这个A不可逆. +
+其实, 你发现, 左边这个行列式的值 = 0. 即 |A|=0, 也说明了A不可逆.
+====
+
+
+
+'''
+
+== 逆矩阵的性质
+
+==== 若A可逆, 则 stem:[A^{-1}] 也可逆, 并且有 stem:[\left( A^{-1} \right) ^{-1}=A]
+
+证明过程:
+因为根据逆矩阵的定义: 只要AB=E, 则 stem:[A^{-1}=B]. 那么我们就反过来看看, 本定理所说的  stem:[A^{-1}A] 是否=E. 如果等于,则就证明了 stem:[A^{-1}=A]了. 显然, stem:[A^{-1}A] 肯定=E了.
+
+'''
+
+==== 若A,B 均可逆, 则有: AB也可逆, 并且有: stem:[\left( AB \right) ^{-1}=B^{-1}A^{-1}]
+
+证明过程:
+\begin{align*}
+	& \text{既然(AB)可逆, 就有:} \\
+	& (AB)(AB)^{-1} = E \\
+	& (AB)(B^{-1} A^{-1}) = E \ ← \text{这一步, 就已经证明了 AB 的逆阵是}  B^{-1} A^{-1}
+\end{align*}
+
+所以同样:  stem:[\left( ABCD \right) ^{-1} =D^{-1} C^{-1} B^{-1} A^{-1}]
+ ← 注意等号右边, 顺序是倒过来的. 这个和转置公式 stem:[\left( AB \right) ^T=B^TA^T] 很像.
+
+
+'''
+
+==== 若A可逆, 则 stem:[A^T] 也可逆. 并且有: stem:[\left( A^T \right) ^{-1}=\left( A^{-1} \right) ^T] ← 转置的逆 = 逆的转置
+
+'''
+
+==== stem:[k\ne 0,\ \text{则}\left( kA \right) ^{-1}=\frac{1}{k}A^{-1}]
+
+证明过程:
+\begin{align*}
+		& \text{只要来看看 } kA\cdot \frac{1}{k}A^{-1}\ \text{是否}=E\text{就行了,它们就互为逆矩阵}.\\
+	& kA\cdot \frac{1}{k}A^{-1}=k\frac{1}{k}\cdot AA^{-1}=1\cdot E=E\ ←\text{的确等于}E.
+\end{align*}
+
+你发现, stem:[\frac{1}{k} ] 这个数, 其实就是对k的变换, 能做 ctrl + z 的操作.
+
+
+'''
+
+==== 性质: stem:[|A^{-1}|=|A|^{-1}]
+
+若A可逆, 则 stem:[ |A^{-1}| = |A|^{-1}], 即: 逆的行列式 = 行列式的逆.
+
+'''
+
+==== 性质: 若A可逆, 则 stem:[A^{*}](即伴随矩阵)也可逆. 并且 stem:[(A^{*})^{-1} =  \frac{1}{|A| } A]
+
+证明过程:
+\begin{align*}
+		& A^* \text{有这个性质 }A A^* =|A|E\\
+	& \text{那么两边同时除以|}A|,\ \text{即: }\frac{1}{|A|}A A^* =\frac{1}{|A|}|A|E\\
+	& \text{即 }\left( \frac{1}{|A|}A \right) A^* =E\ ←\ \text{所以一看就知道,}A^* \text{的逆矩阵, 就是}\frac{1}{|A|}A
+\end{align*}
+
+'''
+
+==== 性质: stem:[\left( A^{-1} \right) ^*=\left( A^* \right) ^{-1}] ← 即 A可逆时, stem:[A^{*}] 也可逆.
+
+
+'''

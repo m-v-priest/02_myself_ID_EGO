@@ -1,0 +1,215 @@
+
+= 分块矩阵
+//:stylesheet: my-stylesheet.css
+:toc: left
+:toclevels: 3
+:sectnums:
+'''
+
+== 标准形
+
+标准形, 形如:
+\begin{align*}
+\left[ \begin{matrix}
+	1&		&		&		&		&		\\
+	&		\ddots&		&		&		&		\\
+	&		&		1&		&		&		\\
+	&		&		&		0&		&		\\
+	&		&		&		&		\ddots&		\\
+	&		&		&		&		&		0\\
+\end{matrix} \right]_{m×n}
+\end{align*}
+
+即: 从左上角开始的一串1, 不能断. 其余的地方全是0. +
+注意: 标准形, 不一定是方阵.
+
+如: +
+image:/img/0129.svg[,50%]
+
+对"标准形", 我们可以对它做分块.
+\begin{align*}
+\left[ \begin{array} {ccc|ccc}
+	1&		&		&		&		&		\\
+	&		\ddots&		&		&		&		\\
+	&		&		1&		&		&		\\
+	\hline
+	&		&		&		0&		&		\\
+	&		&		&		&		\ddots&		\\
+	&		&		&		&		&		0\\
+\end{array} \right] 
+=\left[ \begin{matrix}
+	E_r&		O_{r\cdot \left( n-r \right)}\\
+	O_{\left( m-r \right) \cdot r}&		O_{\left( m-r \right) \cdot \left( n-r \right)}\\
+\end{matrix} \right] 
+\end{align*}
+
+
+'''
+
+== 分块矩阵的 "加法"
+
+\begin{align*}
+\left[ \begin{matrix}
+	A_1&		A_2\\
+	A_3&		A_4\\
+\end{matrix} \right] +\left[ \begin{matrix}
+	B_1&		B_2\\
+	B_3&		B_4\\
+\end{matrix} \right] =\left[ \begin{matrix}
+	A_1+B_1&		A_2+B_2\\
+	A_3+B_3&		A_4+B_4\\
+\end{matrix} \right]
+\end{align*}
+
+能"相加"的前提是: 必须保证"对应子块"的行列数, 都相同.
+
+'''
+
+== 分块矩阵的 "数乘"
+
+\begin{align*}
+k\left[ \begin{matrix}
+	A_1&		A_2\\
+	A_3&		A_4\\
+\end{matrix} \right] =\left[ \begin{matrix}
+	kA_1&		kA_2\\
+	kA_3&		kA_4\\
+\end{matrix} \right]
+\end{align*}
+
+'''
+
+== 分块矩阵的 "乘法"
+
+\begin{align*}
+\left[ \begin{matrix}
+	A_1&		A_2\\
+	\hline
+	A_3&		A_4\\
+\end{matrix} \right] \left[ \begin{array}{c|c}
+	B_1&		B_2\\
+	B_3&		B_4\\
+\end{array} \right]
+=\left[ \begin{matrix}
+	A_1B_1+A_2B_3&		A_1B_2+A_2B_4\\
+	A_3B_1+A_4B_3&		A_3B_2+A_4B_4\\
+\end{matrix} \right]
+\end{align*}
+
+
+注意: 能相乘的前提是: 必须保证"对应子块"能相乘.
+
+.标题
+====
+有  stem:[A_{m×n}, B_{n×s}], 把B分块成 stem:[B=\left( B_1,B_2,...,B_t \right) ] (每块的列数, 不需要相同)  +
+则: stem:[AB=A\cdot \left( B_1,| B_2, | ...,| B_t \right) =AB_1,AB_2,...,AB_t]  ← 注意:这个不是分配率! 要把它们理解成两个矩阵相乘. 即正确的理解是这样的: 用矩阵A, 去乘上分块B的第一列(即B1); 再用矩阵A, 去乘上分块B的第二列(即B2), ... 
+====
+
+
+
+'''
+
+== "对角形分块矩阵"的加减和乘法
+
+有
+\begin{align*}
+A=\left[ \begin{matrix}
+	A_1&		&		&		\\
+	&		A_2&		&		\\
+	&		&		\ddots&		\\
+	&		&		&		A_n\\
+\end{matrix} \right] ,\ B=\left[ \begin{matrix}
+	B_1&		&		&		\\
+	&		B_2&		&		\\
+	&		&		\ddots&		\\
+	&		&		&		B_n\\
+\end{matrix} \right]
+\end{align*}
+
+则:
+\begin{align*}
+AB=\left[ \begin{matrix}
+	A_1B_1&		&		&		\\
+	&		A_2B_2&		&		\\
+	&		&		\ddots&		\\
+	&		&		&		A_nB_n\\
+\end{matrix} \right]
+\end{align*}
+
+\begin{align*}
+A+B=\left[ \begin{matrix}
+	A_1+B_1&		&		&		\\
+	&		A_2+B_2&		&		\\
+	&		&		\ddots&		\\
+	&		&		&		A_n+B_n\\
+\end{matrix} \right]
+\end{align*}
+
+'''
+
+== 分块矩阵的"转置"
+
+有分块矩阵
+\begin{align*}
+A=\left[ \begin{matrix}
+	A_1&		A_2&		A_3\\
+	\hline
+	A_4&		A_5&		A_6\\
+\end{matrix} \right]
+\end{align*}
+
+它的转置 stem:[A^T] 怎么求 ?
+
+第1步: 先把子块, 视做"元素", 做A整体的转置, 即变成 →
+\begin{align*}
+\left[ \begin{array}{c|c}
+	A_1&		A_4\\
+	A_2&		A_5\\
+	A_3&		A_6\\
+\end{array} \right]
+\end{align*}
+
+第2步: 再分别把每个子块, 做转置. 即变成 →
+\begin{align*}
+\left[ \begin{array}{c|c}
+	A_1^T&		A_4^T\\
+	A_2^T&		A_5^T\\
+	A_3^T&		A_6^T\\
+\end{array} \right]
+\end{align*}
+
+'''
+
+== 分块矩阵的"逆矩阵"
+
+公式是:
+\begin{align*}
+\left[ \begin{matrix}
+	A&		\\
+	&		B\\
+\end{matrix} \right] ^{-1}=\left[ \begin{matrix}
+	A^{-1}&		\\
+	&		B^{-1}\\
+\end{matrix} \right]
+\end{align*}
+
+\begin{align*}
+\left[ \begin{matrix}
+	A_1&		&		&		\\
+	&		A_2&		&		\\
+	&		&		\ddots&		\\
+	&		&		&		A_n\\
+\end{matrix} \right] ^{-1}=\left[ \begin{matrix}
+	A_1^{-1}&		&		&		\\
+	&		A_2^{-1}&		&		\\
+	&		&		\ddots&		\\
+	&		&		&		A_n^{-1}\\
+\end{matrix} \right]
+\end{align*}
+
+
+image:/img/0033.png[,15%]
+
+image:/img/0032.svg[,75%]
+
+'''
