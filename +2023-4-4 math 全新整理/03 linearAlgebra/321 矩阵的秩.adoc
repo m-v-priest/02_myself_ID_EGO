@@ -162,8 +162,159 @@ image:/img/0042.png[,60%]
 
 == rank 有什么用? 它能告诉我们什么?
 
+==== rank, 可以用来反映 matrix 结构的复杂性
+
+
+.标题
+====
+\begin{align*}
+A=\left[ \begin{matrix}
+	1&		1&		1\\
+	2&		2&		2\\
+	3&		3&		3\\
+\end{matrix} \right]
+\end{align*}
+
+该矩阵, 实际上只用第一行就能完全表示其他两行了, 因为它们是成比例的关系. 所以, 这说明该矩阵有"冗余"信息, 其中的两行完全没有存在的必要. 核心信息行只有一行. 所以该矩阵的 rank 是1. +
+记为 r(A)=1. ← r() 就是一个函数, 它的功能是: 输入一个矩阵, 输出该矩阵的 rank数.
+====
+
+
+.标题
+====
+\begin{align*}
+A=\left[ \begin{matrix}
+	1&		1&		1&		1\\
+	0&		2&		3&		4\\
+	0&		0&		0&		9\\
+\end{matrix} \right]
+\end{align*}
+
+该matrix, 三行缺一不可. 因为无法用其中一行来表示其他的行. 所以该矩阵的 rank=3.
+====
+
+r(0矩阵) = 0
+
+一句话: 一个线性方程组, 去掉没用的冗余方程后, 最后剩下的方程个数, 就是秩.
+
+'''
+
+==== rank数, 能告诉我们, 方程组是否有解
+
+
+下面, 我们用 stem:[ \overline{A} ]来表示 矩阵A的"增广系数矩阵". n代表方程组中"未知元"的数量.
+
+则有:
+
+- 当 stem:[ rank(A) = rank(\overline{A})] 时, 方程组有解.
+- 若 stem:[ rank(A) = rank(\overline{A}) = n] 时, 有唯一解.
+- 若 stem:[ rank(A) = rank(\overline{A}) < n] 时, 有无穷多解.
+
+- 当 stem:[ rank(A) \ne rank(\overline{A})] 时, 无解.
+
+
+.标题
+====
+\begin{align*}
+\overline{A}=\left[ \begin{array}{cccc|c}
+	1&		-1&		2&		-1&		3\\
+	&		&		-5&		2&		-6\\
+	&		&		&		&		4\\
+\end{array} \right]
+\end{align*}
+
+竖线左边, 是矩阵A, 其秩, r(A) =2  +
+整体, 是增广系数矩阵, stem:[ rank(\overline{A}) = 3 ] +
+stem:[ r(A) \ne  r(\overline{A}) ], 说明该方程组无解.
+====
 
 
 
+.标题
+====
+\begin{align*}
+\overline{A}=\left[ \begin{array}{ccc|c}
+	1&		3&		-7&		-8\\
+	&		1&		-5&		-7\\
+	&		&		1&		1\\
+	&		&		&		0\\
+\end{array} \right]
+\end{align*}
+
+竖线左边, 是矩阵A, 其秩, r(A) =3 +
+整体, 是增广系数矩阵, stem:[  rank(\overline{A}) = 3] +
+stem:[  r(A) =  r(\overline{A}) = n =  3 ], 说明有解, 且唯一. +
+(n是未知元个数.)
+====
+
+
+'''
+
+== 矩阵的 rank 数, 取值范围 : stem:[ 	0 \le r(A) \le min \{m,n\}]
+
+有矩阵: stem:[ A_{m \times n}],  则:  stem:[0 \le r(A) \le min \{m,n\} ]  ← 即: 矩阵的秩数, 要比该矩阵的"行数或列数的最小者"要小.
+
+- 若 stem:[  r(A)=m] : 说明其"非零(值)子式",能取到该 matrix 的所有的行. 一个不落. 即, 该矩阵是"行满秩"的.  +
+A是方阵, A"满秩"的充要条件是: A可逆, 即 stem:[  |A| \ne 0 ].
+- 若 stem:[  r(A)=n] : 说明其"非零(值)子式", 能取到该 matrix 的所有的列. 一个不落. 即, 该矩阵是"列满秩"的.
+- 若 stem:[ r(A) < min\{m,n\}] : 说明就不是"满秩"的了, 而叫"降秩".
+
+'''
+
+
+== 定理, 性质
+
+
+
+==== 矩阵A的行秩 = 列秩 = rank(A)
+
+把矩阵的每一行, 看做一个向量, 就是"行向量". 由这些"行向量"组成的向量组, 这个向量组的rank, 就是"行秩". +
+同理, 把矩阵的每一列, 看做一个向量, 就是"列向量". 由这些"列向量"组成的向量组, 这个向量组的rank, 就是"列秩".
+
+可以证明: 一个矩阵的行秩 = 列秩 = 该矩阵的秩
+
+'''
+
+==== stem:[ r(A) = r(A^T) ] ← 转置对秩数没有影响
+
+
+'''
+
+==== 只要某一"子阶阶数"的行列式值, 已经为0了, 则所有比它"更高阶数的子阶"的行列式值, 一定都=0.
+
+如, 假设有一个3阶子式, 已经行列式值不为0了, 则所有3阶以上的子式, 不管是4阶, 5阶, ..., 它们的行列式值, 一定都=0.
+
+.标题
+====
+有
+\begin{align*}
+	A=\left[ \begin{matrix}
+		k&		1&		1&		1\\
+		1&		k&		1&		1\\
+		1&		1&		k&		1\\
+		1&		1&		1&		k\\
+	\end{matrix} \right]
+\end{align*}
+并且已知 r(A)=3, 那么显然, 该矩阵所有高于3阶的子式 的行列式值, 都=0. 因此, 该4阶矩阵的行列式值, 也就等于0了. 即:  |A| = 0.
+====
+
+'''
+
+==== 任意矩阵 × 可逆矩阵A  → 所得到的新矩阵的秩数, 和A的秩数相同
+
+即, 有 可逆矩阵 stem:[ A_{m \times n}], 还有 P 和 Q 这两个可逆的n阶方阵. 则有:
+\begin{align*}
+r\left( A \right) =\underset{\text{p左乘于A}}{\underbrace{r\left( PA \right) }} =\underset{\text{Q右乘于A}}{\underbrace{r\left( AQ \right) }} =\underset{\text{P左乘, Q右乘于A}}{\underbrace{r\left( PAQ \right) }}
+\end{align*}
+
+
+
+
+'''
+
+==== r(AB) <= min{(r(A),r(B)}
+
+两个矩阵相乘后的整体的rank数, 是小于等于"其中 rank数 最小的那个矩阵"的.  +
+同理, 推广到多个矩阵的情况，即: stem:[  r(A_1 A_2 ... A_m) \leq min\{(r(A_1),r(A_2),...,r(A_m)\}].
 
 '''

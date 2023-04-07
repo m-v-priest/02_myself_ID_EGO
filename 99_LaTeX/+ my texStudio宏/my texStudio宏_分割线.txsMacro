@@ -1,0 +1,16 @@
+{
+    "abbrev": "\\myline",
+    "description": [
+        ""
+    ],
+    "formatVersion": 1,
+    "menu": "",
+    "name": "分割线 横线",
+    "shortcut": "",
+    "tag": [
+        "~\\\\",
+        "\\hrule",
+        "~\\\\"
+    ],
+    "trigger": ""
+}

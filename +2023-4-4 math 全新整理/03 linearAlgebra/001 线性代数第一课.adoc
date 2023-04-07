@@ -8,6 +8,112 @@
 
 '''
 
+
+== 交互式线性代数
+
+https://textbooks.math.gatech.edu/ila/index.html
+
+'''
+
+== 线性变换 = 函数
+
+线性变换中的"变换"二字, 其实是"函数"的另一种说法, 它们所起的作用其实是一样的. 即: 它把一种形式, 输出成另一种形式.
+
+linear transformation = function
+
+\begin{align}
+\underset{输入的向量}{\underbrace{|\vdots |}}\rightarrow \underset{函数}{\underbrace{L\left( \overrightarrow{v} \right) }}\rightarrow \underset{输出成新的向量}{\underbrace{|\vdots |}}
+\end{align}
+
+
+**L() 相当于一个函数, 括号里接收一个参数(类型是向量). 该函数返回一个做了"新基矩阵"变换后的新向量.** 即把原向量, 做了"扭曲变形, 旋转, 斜切, 拉伸"等操作. +
+即: stem:[ A\vec{x} =\vec{b}] 的本质, 可以用函数来表示: stem:[ fnA(\vec{x})= \vec{b}].  输入x向量, 输出另一个b向量.
+
+所谓的 求解出 stem:[ \vec{x}], 就好比黑洞A 扭曲了空间, 我们要从被扭曲后的"异像stem:[ \vec{b}]", 倒推来找回扭曲前的它的"原像stem:[ \vec{x}]".
+
+
+'''
+
+== 变换有"线性"的, 就有"非线性的"
+
+
+如果变换将原坐标轴, 扭曲成了曲线式的, 这就不属于"线性变换"了. 如: +
+image:/img/0133.png[,50%]
+
+即, "线性"类的变换, 必须符合这几个条件:
+
+1.直线在变换后, 依然为直线, 不能变弯曲. +
+image:/img/0134.png[,60%]
+image:/img/0135.png[,60%]
+image:/img/0136.png[,60%]
+
+2.坐标轴的原点, 必须保持在固定的原来原点位置, 即坐标轴整体不能平移. The origin must remain fixed in place.
+
+3."线性"类的变换, 不会改变网格间的"等距分布". 即: 变换前是等距的, 变换后依然是等距的. +
+
+<- 这能令我们得到一个重要的推论: **变换前, 向量v 是单位基 i 和 j 的一个特定的线性组合, 那变换后的向量v, 依然是新基 stem:[ \hat{i}] 和 stem:[ \hat{j}] 的同样的线性组合.**
+
+
+
+.标题
+====
+比如, 若一个向量v的终点是(-1,2), 它其实是: +
+\begin{align}
+\vec{v} & = -1i + 2j \\
+& = -1\left| \begin{array}{c}
+	1\\
+	0\\
+\end{array} \right|+2\left| \begin{array}{c}
+	0\\
+	1\\
+\end{array} \right| \\
+& = \left| \begin{array}{c}
+	-1\\
+	2\\
+\end{array} \right|
+\end{align}
+
+如果"新基坐标"变换成了 stem:[ \hat{i}] 和 stem:[ \hat{j}], 则在新基坐标轴下, 向量v的终点位置, 就会变换成: +
+\begin{align}
+& \boxed{
+新 \vec{v} = -1 \hat{i} + 2 \hat{j} } \\
+& 若 \hat{i} = \left| \begin{array}{c}
+	1\\
+	-2\\
+\end{array} \right|,
+\hat{j} = \left| \begin{array}{c}
+	3\\
+	0\\
+\end{array} \right| \\
+& 则 新的\vec{v} =
+-1\left| \begin{array}{c}
+	1\\
+	-2\\
+\end{array} \right|+2\left| \begin{array}{c}
+	3\\
+	0\\
+\end{array} \right|
+= \left| \begin{array}{c}
+	-1\\
+	2\\
+\end{array} \right| + \left| \begin{array}{c}
+	6\\
+	0\\
+\end{array} \right| =\left| \begin{array}{c}
+	5\\
+	2\\
+\end{array} \right|\
+\end{align}
+
+image:/img/0137.png[]
+
+**换言之, 我们只要知道了新基(stem:[\hat{i} 和 \hat{j} ])向量终点的坐标位置, 就能推算出任意原向量, 在变换后的新位置.** 而不用去管这个变换, 具体过程是怎样的 (旋转, 切线还是什么的)
+====
+
+
+
+---
+
 == 只有过原点的直线, 才满足"线性代数"中所指的"线性"含义
 
 函数 f(x)= kx+b (k,b 是不变量)，称为一元线性函数. 如果 b=0, 则这个函数的外观就变成 f(x)= k的形式了，这是一条过原点的直线.

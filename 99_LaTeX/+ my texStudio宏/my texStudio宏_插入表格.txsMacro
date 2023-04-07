@@ -1,0 +1,20 @@
+{
+    "abbrev": "\\mytable",
+    "description": [
+        ""
+    ],
+    "formatVersion": 1,
+    "menu": "",
+    "name": "11. 插入表格",
+    "shortcut": "",
+    "tag": [
+        "\\begin{tabular}{|p{0.6\\textwidth}|p{0.4\\textwidth}|}",
+        "\t\\hline",
+        "\t&  \\\\",
+        "\t\\hline",
+        "\t&  \\\\",
+        "\t\\hline",
+        "\\end{tabular}"
+    ],
+    "trigger": ""
+}

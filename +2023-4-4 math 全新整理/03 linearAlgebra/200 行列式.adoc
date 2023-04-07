@@ -7,6 +7,14 @@
 
 '''
 
+== 一阶行列式 的几何意义
+
+一阶行列式 stem:[ |a_1|=a], 就是数 stem:[ a_1], 或 向量 stem:[ a_1]本身.  这个数 stem:[ a_1] 是一维坐标轴上的"有向长度". +
+image:img/0143.png[,350px]
+
+
+
+'''
 
 == 二阶行列式
 
@@ -16,6 +24,26 @@
 		c&		d\\
 	\end{matrix} \right|=\underset{\text{主对角线}}{\underbrace{ad}}-\underset{\text{副对角线}}{\underbrace{bc}}
 \end{align*}
+
+'''
+
+==== 二阶行列式的几何意义
+
+二阶行列式
+latexmath:[\left| \begin{matrix}
+	a_x&		b_x\\
+	a_y&		b_y\\
+\end{matrix} \right|]
+的几何意义, 就是以向量a 和 b 为邻边的, 平行四边形的有向面积. 如下图: +
+
+image:img/0144.png[,350px]
+
+而两个向量的"叉积", 也是这个公式. 或者说, 向量a,b 的叉积是: 垂直于"α 和 b 展成的平面"的单位向量。 +
+因此，*二阶行列式的另一个意义, 就是两个行向量或列向量的"叉积"的数值。*
+
+
+
+
 
 '''
 
@@ -31,6 +59,22 @@
 
 即: +
 image:img/0001.png[,60%]
+
+
+'''
+
+==== 三阶行列式的几何意义
+
+*一个3×3阶的行列式, 是其"行向量"或"列向量"所张成的"平行六面体"的"有向体积"。*
+
+如下图 3-12: +
+→ 由两个向量a, b 张成的平行四边形为 0aPb. 即由向量a、b构成的行列式, 就是面积S. 就是向量 a,b 叉积的结果. 即 a×b +
+→ 那么沿着第三个向量c方向, 生长出无数个平行于原四边形的新的平行四边形来，直至到向量c的末端为止。显然，所有的这些平行四边形, 构成一个以向量a、b、c为棱的平行六面体，*这些四边形的面积叠加起来, 正是平行六面体的体积。 这个体积, 正是 向量 c 与 a,b 混合积的结果. 即 = stem:[ (a×b)\cdot c]*
+
+image:img/0147.png[,300px]
+
+
+
 
 
 '''
@@ -118,240 +162,6 @@ image:img/0046.png[,40%]
 转置, 就是, 行变列, 或列变行.
 
 '''
-
-== 行列式的性质
-
-注意: 对"行"成立的性质, 对"列"也成立.
-
-=== stem:[\left( D^T \right) ^T=D ]
-
-'''
-
-=== stem:[D^T=D] ← 行列式转置与否, 其值不变
-
-'''
-
-=== 行列式中两行(两列也行)互换, 行列式的值, 就改变正负号
-
-image:img/0008.svg[,45%]
-
-'''
-
-=== 某一行都乘以k, 等于用k乘以这个行列式D
-
-即:
-\begin{align*}
-	\left| \begin{matrix}
-		1&		2&		3\\
-		4k&		5k&		6k\\
-		7&		8&		9\\
-	\end{matrix} \right|=k\left| \begin{matrix}
-		1&		2&		3\\
-		4&		5&		6\\
-		7&		8&		9\\
-	\end{matrix} \right|
-\end{align*}
-
-换言之就是: 如果行列式中的某行, 有公因子k, 则k可以提到行列式外面去.
-
-如果每行都有k, 则每行都要提一次k. 比如一共有3行, 就提3次k.
-\begin{align*}
-	\left| \begin{matrix}
-		1k&		2k&		3k\\
-		4k&		5k&		6k\\
-		7k&		8k&		9k\\
-	\end{matrix} \right|=k^3\left| \begin{matrix}
-		1&		2&		3\\
-		4&		5&		6\\
-		7&		8&		9\\
-	\end{matrix} \right|
-\end{align*}
-
-即: 如果一个n阶行列式的所有元素, 均有公因子k, 则 k 就向外提 n次(因为有n行, 每行只需提一次, 就是提n行次).
-
-'''
-
-=== 行列式, 若两行(或两列)的元素相等, 则该行列式的值=0
-
-.标题
-====
-有这个行列式, 其第1,3行上的元素, 完全相同.
-\begin{align*}
-	D=\left| \begin{matrix}
-		2&		3&		4&		5\\
-		1&		0&		0&		0\\
-		2&		3&		4&		5\\
-		8&		8&		8&		1\\
-	\end{matrix} \right|
-\end{align*}
-
-我们对它的1,3行做交换, 得到的 stem:[ D_1 = -D] (因为交换两行, 行列式的值要变号). 而新的stem:[ D_1]的内容, 和老D依然是完全一样的. 于是我们就有: D=-D, 即2D=0, 即D=0. +
-于是我们就得到了这个性质: 行列式,  若两行(或两列)的元素相等, 则该行列式的值=0.
-====
-
-'''
-
-=== 行列式的两行(或两列)元素, 对应成比例, 则该行列式的值=0
-
-image:img/0009.svg[,40%]
-
-'''
-
-=== 某一行全为0, 则D=0
-
-现在, 我们就有了:
-\begin{align*}
-	\left. \begin{array}{r}
-		\text{两行上的元素,对应成比例}\\
-		\text{某一行元素,全为}0\\
-		\text{两行相等}\\
-	\end{array} \right\} \ →\ \text{则 }D=0
-\end{align*}
-
-上面, 左边可以推导出右边. 但反过来, 右边是无法推导出左边的. 即 D=0 的行列式, 未必是属于左边的三种情况之一.
-
-'''
-
-=== 某一行上的元素, 是两个元素的和的话, 则该行列式就可以拆成这两个行列式相加
-
-即:
-\begin{align*}
-	\left| \begin{matrix}
-		1&		2&		3\\
-		7+8&		2+3&		9+10\\
-		8&		8&		9\\
-	\end{matrix} \right|=\ \left| \begin{matrix}
-		1&		2&		3\\
-		7&		2&		9\\
-		8&		8&		9\\
-	\end{matrix} \right|+\left| \begin{matrix}
-		1&		2&		3\\
-		8&		3&		10\\
-		8&		8&		9\\
-	\end{matrix} \right|
-\end{align*}
-
-注意: 拆分的时候, 只能拆"是和那一行", 其他行的元素要保持不变! 如:
-\begin{align*}
-	\left| \begin{matrix}
-		b+c&		c+a&		a+b\\
-		a+b&		b+c&		c+a\\
-		c+a&		a+b&		b+c\\
-	\end{matrix} \right|\ne \left| \begin{matrix}
-		b&		c&		a\\
-		a&		b&		c\\
-		c&		a&		b\\
-	\end{matrix} \right|+\left| \begin{matrix}
-		c&		a&		b\\
-		b&		c&		a\\
-		a&		b&		c\\
-	\end{matrix} \right|\ ←\text{这种拆分是错的!}
-\end{align*}
-
-正确的拆分是如下 (比如拆第一行的话):
-\begin{align*}
-	\left| \begin{matrix}
-		b+c&		c+a&		a+b\\
-		a+b&		b+c&		c+a\\
-		c+a&		a+b&		b+c\\
-	\end{matrix} \right|\ne \left| \begin{matrix}
-		b&		c&		a\\
-		a+b&		b+c&		c+a\\
-		c+a&		a+b&		b+c\\
-	\end{matrix} \right|+\left| \begin{matrix}
-		c&		a&		b\\
-		a+b&		b+c&		c+a\\
-		c+a&		a+b&		b+c\\
-	\end{matrix} \right|
-\end{align*}
-
-'''
-
-=== ★ 某一行乘以一个数, 加到另一行上去, 行列式D的值不变
-
-\begin{align*}
-			& D=\left| \begin{matrix}
-				1&		2&		3\\
-				1&		1&		0\\
-				9&		9&		10\\
-			\end{matrix} \right|\ ←\text{将第一行}×5,\text{加到第二行上去}\\
-			& =\left| \begin{matrix}
-				1&		2&		3\\
-				1+\left( 1\cdot 5 \right)&		1+\left( 2\cdot 5 \right)&		0+\left( 3\cdot 5 \right)\\
-				9&		9&		10\\
-			\end{matrix} \right|\\
-			& =\left| \begin{matrix}
-				1&		2&		3\\
-				1+5&		1+10&		0+15\\
-				9&		9&		10\\
-			\end{matrix} \right|\ ←\text{第二行的元素是两个数的和,\ 可以拆分成两个行列式}\\
-			& =\left| \begin{matrix}
-				1&		2&		3\\
-				1&		1&		0\\
-				9&		9&		10\\
-			\end{matrix} \right|+\underset{\text{第1,2行成比例,\ 这个行列式的值}=0}{\underbrace{\left| \begin{matrix}
-						1&		2&		3\\
-						5&		10&		15\\
-						9&		9&		10\\
-					\end{matrix} \right|}}\\
-			& =\left| \begin{matrix}
-				1&		2&		3\\
-				1&		1&		0\\
-				9&		9&		10\\
-			\end{matrix} \right|=D
-\end{align*}
-
-
-'''
-
-=== 异乘变零定理
-
-异乘变零定理: 即, *某行上的元素, 与另一行(即别人的行)上对应元素的"代数余子式"相乘, 将所有的乘积值, 再全加起来, 其和 =0.*
-
-.标题
-====
-如:(1)
-\begin{align*}
-	\begin{matrix}
-		\left| \begin{matrix}
-			1&		1&		2&		3\\
-			\hline
-			0&		0&		8&		9\\
-			2&		5&		5&		4\\
-			9&		9&		9&		10\\
-			\hline
-		\end{matrix} \right|\\
-	\end{matrix}
-\end{align*}
-
-用第4行, 与第1行元素的"代数余子式"相乘, 再把相乘后的值, 全加起来, 则:
-\begin{align*}
-D= a_{41}A_{11} + a_{42}A_{12} + a_{43}A_{13} + a_{44}A_{14} = 0
-\end{align*}
-====
-
-"异乘变零定理"的证明过程:
-比如这个行列式(2):
-
-\begin{align*}
-		\left| \begin{matrix}
-			9&		9&		9&		10\\
-			\hline
-			0&		0&		8&		9\\
-			2&		5&		5&		4\\
-			9&		9&		9&		10\\
-			\hline
-		\end{matrix} \right|\\
-\end{align*}
-
-其中, 1,4行相同. 即两行相同, 则该行列式的值=0. +
-若用第1行展开, 你会发现, 展开的式子, 与上面的行列式(1), 完全相同. 既然这边的(2)是0, 那么上面的(1)也是0了. 证毕.
-
-
-
-
-'''
-
 
 == 行列式的值
 
