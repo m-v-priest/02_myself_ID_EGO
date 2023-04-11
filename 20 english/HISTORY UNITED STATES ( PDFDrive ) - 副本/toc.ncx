@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="80833362-15a4-429d-9325-c8b0b9b24921" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (4.15.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>HISTORY UNITED STATES \( PDFDrive.com \).epub</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uREtvx75qrDRTAxgevSWET5" playOrder="1">
+      <navLabel>
+        <text>CHAPTER I</text>
+      </navLabel>
+      <content src="index_split_003.html"/>
+    </navPoint>
+    <navPoint id="uiYSb5zylBjcvQqPQJcBjFA" playOrder="2">
+      <navLabel>
+        <text>CHAPTER II</text>
+      </navLabel>
+      <content src="index_split_004.html"/>
+    </navPoint>
+    <navPoint id="uolxzzJHCHRMwwVKIeYyjm7" playOrder="3">
+      <navLabel>
+        <text>CHAPTER V</text>
+      </navLabel>
+      <content src="index_split_005.html"/>
+    </navPoint>
+    <navPoint id="uV7R6vUUSfsm5hBP54Cz3u4" playOrder="4">
+      <navLabel>
+        <text>CHAPTER VI</text>
+      </navLabel>
+      <content src="index_split_006.html"/>
+    </navPoint>
+    <navPoint id="ugJeB5V8HrWICPYVtuym5KG" playOrder="5">
+      <navLabel>
+        <text>CHAPTER VII</text>
+      </navLabel>
+      <content src="index_split_007.html"/>
+    </navPoint>
+    <navPoint id="uf6lfsqM4vxK4ZHH4GQnFPA" playOrder="6">
+      <navLabel>
+        <text>CHAPTER VIII</text>
+      </navLabel>
+      <content src="index_split_008.html"/>
+    </navPoint>
+    <navPoint id="uB27DTuBvJYtyuMGglZp798" playOrder="7">
+      <navLabel>
+        <text>CHAPTER IX</text>
+      </navLabel>
+      <content src="index_split_009.html"/>
+    </navPoint>
+    <navPoint id="utGEykhPnCSPmoDU69y3HFF" playOrder="8">
+      <navLabel>
+        <text>CHAPTER X</text>
+      </navLabel>
+      <content src="index_split_010.html"/>
+    </navPoint>
+    <navPoint id="ujJkkLLXCEaHsktCnbqjvrE" playOrder="9">
+      <navLabel>
+        <text>CHAPTER XI</text>
+      </navLabel>
+      <content src="index_split_011.html"/>
+    </navPoint>
+    <navPoint id="ueFmJA249Ci65otwoGmf6jA" playOrder="10">
+      <navLabel>
+        <text>CHAPTER XII</text>
+      </navLabel>
+      <content src="index_split_012.html"/>
+    </navPoint>
+    <navPoint id="ujHx2TL6IH2fxAi3FotLXg4" playOrder="11">
+      <navLabel>
+        <text>CHAPTER XIII</text>
+      </navLabel>
+      <content src="index_split_013.html"/>
+    </navPoint>
+    <navPoint id="uOqYyYgriZ6gUkIgZMA4qMD" playOrder="12">
+      <navLabel>
+        <text>CHAPTER XIV</text>
+      </navLabel>
+      <content src="index_split_014.html"/>
+    </navPoint>
+    <navPoint id="ul4Uy2DySfBw6NNdSPtZaI9" playOrder="13">
+      <navLabel>
+        <text>CHAPTER XV</text>
+      </navLabel>
+      <content src="index_split_015.html"/>
+    </navPoint>
+    <navPoint id="uuwnxXEhXl7hG2wQqoOixHB" playOrder="14">
+      <navLabel>
+        <text>CHAPTER XVI</text>
+      </navLabel>
+      <content src="index_split_016.html"/>
+    </navPoint>
+    <navPoint id="umojJaa5lLeSGBacvg2UYK3" playOrder="15">
+      <navLabel>
+        <text>CHAPTER XVII</text>
+      </navLabel>
+      <content src="index_split_017.html"/>
+    </navPoint>
+    <navPoint id="uDCRrxNBsiZ4SLnbOPn7TS4" playOrder="16">
+      <navLabel>
+        <text>CHAPTER XVIII</text>
+      </navLabel>
+      <content src="index_split_018.html"/>
+    </navPoint>
+    <navPoint id="urHyblVtvNcRqZ4agMc9Oc2" playOrder="17">
+      <navLabel>
+        <text>CHAPTER XIX</text>
+      </navLabel>
+      <content src="index_split_019.html"/>
+    </navPoint>
+    <navPoint id="uRj7msMGcdgLCWqDvv5jZbF" playOrder="18">
+      <navLabel>
+        <text>CHAPTER XX</text>
+      </navLabel>
+      <content src="index_split_020.html"/>
+    </navPoint>
+    <navPoint id="umOv3pL9GQRxkylqqKZd7m9" playOrder="19">
+      <navLabel>
+        <text>CHAPTER XXI</text>
+      </navLabel>
+      <content src="index_split_021.html"/>
+    </navPoint>
+    <navPoint id="umkFNF5JNcfENWEffNSWqd3" playOrder="20">
+      <navLabel>
+        <text>CHAPTER XXII</text>
+      </navLabel>
+      <content src="index_split_022.html"/>
+    </navPoint>
+    <navPoint id="uQ6eXucwYCGSB87o6a5lhV8" playOrder="21">
+      <navLabel>
+        <text>CHAPTER XXIII</text>
+      </navLabel>
+      <content src="index_split_023.html"/>
+    </navPoint>
+    <navPoint id="umEK2gLuMtNjm7zwRLbAoX7" playOrder="22">
+      <navLabel>
+        <text>CHAPTER XXIV</text>
+      </navLabel>
+      <content src="index_split_024.html"/>
+    </navPoint>
+    <navPoint id="uhHZ9qOg3VuTgtayYbSAoDA" playOrder="23">
+      <navLabel>
+        <text>CHAPTER XXV</text>
+      </navLabel>
+      <content src="index_split_025.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
