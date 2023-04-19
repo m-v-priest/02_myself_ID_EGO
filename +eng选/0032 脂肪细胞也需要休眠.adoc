@@ -1,0 +1,45 @@
+
+= 0032 脂肪细胞也需要休眠
+:toc: left
+:toclevels: 3
+:sectnums:
+
+'''
+
+== 脂肪细胞也需要休眠
+
+Sleep is good for you. *Getting by on* 靠…过活 too little sleep /increases the risk for *heart disease*, stroke 中风, high blood pressure, diabetes 糖尿病 and other illnesses. It also makes it harder *to lose weight* / or *stay slim* 苗条的 because *sleep deprivation* 丧失 makes you hungrier(adj.) / and *less likely to be* active 有生气的 during the day.
+
+Now, research shows that /sleep also affects *fat cells* 脂肪细胞. Our fat cells play an important role in regulating 调节 **energy use and storage** 贮存, including *insulin 胰岛素 processing* 加工.
+
+For the study, young, healthy, slim subjects /spent four nights /getting eight and a half hours of sleep / and four nights /getting only four and a half hours of sleep. The difference in their fat cells was startling 令人吃惊的: after *sleep deprivation*, the cells became 30 percent less *receptive (adj.)对…有接受力的,(对治疗)反应良好的，能接纳的 to*   insulin 胰岛素 signals — a difference /that is as large as that between non-diabetic 非糖尿病的 and diabetic 糖尿病的 patients. The findings are in Annals 年鉴 of *Internal Medicine*.
+
+
+
+.标题
+====
+.receptive
+Someone who is receptive(adj.) to new ideas or suggestions(对新思想或建议)乐于接受的，能接纳的，善于听取的。 +
+someone (who is ill) is receptive to treatment, (对治疗)反应良好的，能接纳的 +
+
+- those patients who are not receptive(adj.) to treatment. 治疗未见效果的那些病人
+
+
+睡眠对人体有益。睡眠时间只有短短的几小时会大大增加心脏病，中风，高血压，糖尿病以及其他疾病的患病率。同时也让减肥，保持苗条身材变得更加困难，因为睡眠不足会让你第二天感到更加饥饿，更不愿意活动。
+
+现在，研究表明睡眠也会影响脂肪细胞。人类的脂肪细胞在调控能量的利用和储存方面起了重要作用，其中就包括胰岛素的生产。
+
+在研究中，让年轻、苗条的受试者每晚睡八个半小时，为期四天。接下来的四天里，让他们每晚只睡四个半小时。期间脂肪细胞的变化惊人：睡眠不足时，细胞接收的胰岛素信号少了30%，与糖尿病人和非糖尿病人之间的差异一样显著。这项研究结果刊登在《内科学年鉴》上。
+====
+
+'''
+
+== <pure> 脂肪细胞也需要休眠
+
+Sleep is good for you. Getting by on too little sleep /increases the risk for heart disease, stroke, high blood pressure, diabetes and other illnesses. It also makes it harder /to lose weight or stay slim /because sleep deprivation makes you hungrier /and less likely to be active during the day.
+
+Now, research shows that /sleep also affects fat cells. Our fat cells /play an important role in regulating energy use and storage, including insulin processing.
+
+For the study, young, healthy, slim subjects /spent four nights /getting eight and a half hours of sleep / and four nights /getting only four and a half hours of sleep. The difference in their fat cells /was startling: after sleep deprivation, the cells became 30 percent less receptive to insulin signals — a difference /that is as large as that between non-diabetic and diabetic patients. The findings are in Annals of Internal Medicine.
+
+'''
