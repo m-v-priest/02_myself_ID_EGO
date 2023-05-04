@@ -57,7 +57,7 @@ stem:[ \hat{x}  ] 即"最小二乘解".
 
 显然, **在 C(A) 中 与 b 距离最小的向量, 就是 b 在 C(A) 的"正交投影向量", 即: stem:[P_{col(A)}b ].**
 
-image:../img/0099.png[]
+image:../img/0099.png[,500]
 
 我们要找到x的近似值 stem:[ \hat{x}], 就是有这种关系:
 stem:[ A \hat{x} = P_{col(A)}b ]
@@ -95,7 +95,7 @@ stem:[ (C(A))^⊥ = N(A^T)]
 \end{align}
 
 
-image:../img/0100.png[]
+image:../img/0100.png[,500]
 
 .标题
 ====
@@ -192,7 +192,7 @@ value(放y轴上): 0, 1, 2, 5
 
 把观察所得数据, 代入抛物线方程. 来做.
 
-image:../img/0102.png[]
+image:../img/0102.png[,500]
 
 ====
 

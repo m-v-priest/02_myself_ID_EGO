@@ -1,0 +1,4 @@
+\contentsline {section}{\numberline {1}离散型数据 - 概率函数 (概率质量函数) : Probability mass function (PMF)}{2}{section.1}%
+\contentsline {section}{\numberline {2}连续型数据 - 概率函数 (概率密度函数) : Probability Density function (PDF)}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}连续型随机变量, 取任一``个别值"的概率, 都为0.}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}如何求 PDF在某一x点处的y值(概率)?}{4}{subsection.2.2}%

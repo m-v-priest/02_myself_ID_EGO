@@ -1,0 +1,18 @@
+\contentsline {part}{第一部分\hspace {1em}定积分 definite integral}{2}{part.1}%
+\contentsline {section}{\numberline {1}``定积分"的定义}{2}{section.1}%
+\contentsline {section}{\numberline {2}定积分的性质}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}若 b=a, 则 $ \DOTSI \intop \ilimits@ _a^a f(x) = 0$}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}$ \DOTSI \intop \ilimits@ _a^b f(x) = - \DOTSI \intop \ilimits@ _b^a f(x)$ ← 交换上下限, 定积分的值要变号}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}$\DOTSI \intop \ilimits@ _a^b (\alpha \cdot f(x) + \beta \cdot g(x)) dx = \alpha \DOTSI \intop \ilimits@ _a^b f(x) dx + \beta \DOTSI \intop \ilimits@ _a^b g(x) dx$ ← 即, 积分可以拆开, 常数可以提到外面去}{3}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4} 若 $ a < c < b$, 则 $ \DOTSI \intop \ilimits@ _a^b f(x) dx = \DOTSI \intop \ilimits@ _a^c f(x) dx + \DOTSI \intop \ilimits@ _c^b f(x) dx $ ← 其实就是原先的一步走, 分成两步走而已.}{3}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5} 若 $ a < b < c$, 则: $ \DOTSI \intop \ilimits@ _a^b f(x) dx = \DOTSI \intop \ilimits@ _a^c f(x) dx - \DOTSI \intop \ilimits@ _c^b f(x) dx$}{3}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}若 f(x) 恒等于1, 即该函数是条``水平直线", 它与x轴之间就形成一个矩形了. 则 $ \DOTSI \intop \ilimits@ _a^b 1 dx = \text {高}1 \cdot \text {宽}(b-a) = b-a$}{3}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}$\DOTSI \intop \ilimits@ _a^b k dx = k \DOTSI \intop \ilimits@ _a^b 1 dx = k(b-a) $ ← k 是常数, 可以提到积分外面}{3}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8}若 $ f(x) >= 0$, 即``函数曲线"都在x轴上方. 则$ \DOTSI \intop \ilimits@ _a^b f(x) dx >= 0$}{3}{subsection.2.8}%
+\contentsline {subsection}{\numberline {2.9}若$ f(x) <= 0$, 即``函数曲线"都在x轴下方. 则 $\DOTSI \intop \ilimits@ _a^b f(x) dx <= 0$}{3}{subsection.2.9}%
+\contentsline {subsection}{\numberline {2.10}若 $ f(x) <= g(x)$, 则 $ \DOTSI \intop \ilimits@ _a^b f(x) dx <= \DOTSI \intop \ilimits@ _a^b g(x) dx$ }{3}{subsection.2.10}%
+\contentsline {subsection}{\numberline {2.11}$|\DOTSI \intop \ilimits@ _a^b f(x) dx | <= \DOTSI \intop \ilimits@ _a^b |f(x)| dx$}{3}{subsection.2.11}%
+\contentsline {subsection}{\numberline {2.12}一个曲线, 在[a,b]区间上, 若 m是它的最小y值高度, M是它的最大y值高度, 则有: $ m(b-a) \leq \DOTSI \intop \ilimits@ _a^b f(x) dx \leq M(b-a)$}{4}{subsection.2.12}%
+\contentsline {subsection}{\numberline {2.13}定积分``中值定理" : \\ 如果 f(x) 是连续的, $ \exists \xi \in [a,b], \text {则必然有}\DOTSI \intop \ilimits@ _a^b{f(x)dx=f(\xi )(b-a)}$}{4}{subsection.2.13}%
+\contentsline {part}{第二部分\hspace {1em}求定积分的方法}{4}{part.2}%
+\contentsline {section}{\numberline {3}定积分的``分部积分法": $\DOTSI \intop \ilimits@ _a^b{\text {前}\cdot d(\text {后})}=\left ( \text {前}\cdot \text {后} \right ) \mid _{a}^{b}-\DOTSI \intop \ilimits@ _a^b{\text {后}}\ d(\text {前})$}{5}{section.3}%

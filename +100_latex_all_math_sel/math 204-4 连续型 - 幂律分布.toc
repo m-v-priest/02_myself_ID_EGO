@@ -1,0 +1,10 @@
+\contentsline {part}{第一部分\hspace {1em}幂律分布 Power law distribution}{2}{part.1}%
+\contentsline {section}{\numberline {1}幂律分布: 在随机变量中，越小的数值，出现的概率越大; 越大的数值，出现的概率则越小}{2}{section.1}%
+\contentsline {section}{\numberline {2}性质}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}尖峰肥尾}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}无标度 -- 分形效果}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}幂律分布让``均值$\mu $"失去意义}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}幂律分布中的``波动性(方差$\sigma $)"失去意义}{5}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}符合``幂律分布"的事件, 其何时发生, 和发生的规模, 完全不可预测}{5}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}在``双对数坐标系"下，幂律分布表现为一条斜率为``幂指数的负数"的直线}{5}{subsection.2.6}%
+\contentsline {subsubsection}{\numberline {2.6.1}什么时候, 要使用到``对数"坐标系呢?}{6}{subsubsection.2.6.1}%

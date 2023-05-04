@@ -1,0 +1,2 @@
+\contentsline {section}{\numberline {1}连续型 : 均匀分布 $f(x)=\frac {1}{b-a}\ (a\leq x\leq b) $ }{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}若 [c,d]区间 $\in $ [a,b]区间中, 则有: $ P\{c \leq x \leq d\} = \DOTSI \intop \ilimits@ _c^d \genfrac {}{}{}0{1} {b-a} dt = \genfrac {}{}{}0{d-c} {b-a}$}{3}{subsection.1.1}%

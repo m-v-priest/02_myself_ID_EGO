@@ -1,0 +1,20 @@
+\contentsline {part}{第一部分\hspace {1em}反函数}{2}{part.1}%
+\contentsline {part}{第二部分\hspace {1em}初等函数}{2}{part.2}%
+\contentsline {section}{\numberline {1}power function 幂函数: $ y = x^{exp} $}{2}{section.1}%
+\contentsline {section}{\numberline {2}exponential function 指数函数: $ y=base^x $}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}为什么 $base^0=1$ ?}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}重要公式 $ a^n=e^{n\cdot \qopname \relax o{ln}a}$}{2}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Logarithmic function 对数函数: $ \qopname \relax o{log}_{\text {底}}\text {幂}=\text {指} $}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}$\text {底}^{\qopname \relax o{log}_{\text {底}}\text {幂}}=\text {幂}$}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}$\qopname \relax o{log}_{\text {底}}\text {底}^{\text {指}}=\text {指}$}{3}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}$\qopname \relax o{log}_{\text {底}}\left ( \frac {\text {幂}1}{\text {幂}2} \right ) =\qopname \relax o{log}_{\text {底}}\text {幂}1-\qopname \relax o{log}_{\text {底}}\text {幂}2$}{4}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}$\qopname \relax o{log}_{\text {底}}\text {幂}1+\qopname \relax o{log}_{\text {底}}\text {幂}2=\qopname \relax o{log}_{\text {底}}\left ( \text {幂}1\cdot \text {幂}2 \right ) $}{4}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}$\qopname \relax o{log}_{\text {原底}}\text {幂}=\genfrac {}{}{}0{\qopname \relax o{log}_{\text {任意底}}\text {幂}}{\qopname \relax o{log}_{\text {任意底}}\text {原底}}$ ← 这个就是 ``换底公式"}{4}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}$\qopname \relax o{log}_{a^n}b^m=\frac {m}{n}\qopname \relax o{log}_ab $}{4}{subsection.3.6}%
+\contentsline {section}{\numberline {4}trigonometric function 三角函数: $ y=base^x $}{5}{section.4}%
+\contentsline {subsection}{\numberline {4.1}sin \& arcSin}{5}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}cos \& arcCos}{5}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}tan \& arcTan}{5}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}cot \& arcCot}{5}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}sec \& arcSec}{5}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}csc \& arcCsc}{5}{subsection.4.6}%

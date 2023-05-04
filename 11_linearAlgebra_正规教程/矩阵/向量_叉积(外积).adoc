@@ -34,7 +34,7 @@ image:../img/0049.png[500,500]
 
 其实, **真正的"叉积", 是通过两个三维向量, 来生成一个新的三维向量. 注意: 叉积的结果不是一个数, 而是一个向量!**
 
-image:../img/0088.gif[]
+image:../img/0088.gif[,500px]
 
 
 
@@ -63,13 +63,13 @@ image:../img/0051.png[600,600]
 ====  stem:[\vec{a} \times \vec{b} = \vec{c}]
 
 1.用右手, 伸展手指, 朝向 stem:[ \vec{a}] +
-image:../img/0052.png[]
+image:../img/0052.png[,200px]
 
 2.然后, 握拳, 手指收回, 朝向  stem:[ \vec{b}] 的方向. +
-image:../img/0053.png[]
+image:../img/0053.png[,200px]
 
 3.则, 大拇指朝向的方向, 就是 stem:[\vec{a} \times \vec{b} = \vec{c}] 中, stem:[ \vec{c}] 的朝向. +
-image:../img/0054.png[]
+image:../img/0054.png[,200px]
 
 
 ---
@@ -78,10 +78,10 @@ image:../img/0054.png[]
 ==== stem:[\vec{b} \times \vec{a} = \vec{c}]
 
 1.食指朝向 stem:[\vec{b}] 的方向. +
-image:../img/0055.png[]
+image:../img/0055.png[,200px]
 
 2.握拳, 食指等收回. 此时大拇指的方向, 就是 stem:[\vec{b} \times \vec{a} = \vec{c}] 中 stem:[ \vec{c}] 的朝向. +
-image:../img/0056.png[]
+image:../img/0056.png[,200px]
 
 ---
 
@@ -89,6 +89,6 @@ image:../img/0056.png[]
 
 image:../img/0089.png[300,300]
 
-image:../img/0090.png[]
+image:../img/0090.png[,500px]
 
 ---

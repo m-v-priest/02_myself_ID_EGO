@@ -1,0 +1,1 @@
+\contentsline {part}{第一部分\hspace {1em}全概率公式 : \\ $ P\left ( B \right ) =\underbrace {P\left ( A_1 \right ) \cdot P\left ( B|A_1 \right ) }+\underbrace {P\left ( A_2 \right ) \cdot P\left ( B|A_2 \right ) }+...+\underbrace {P\left ( A_n \right ) \cdot P\left ( B|A_n \right ) } $}{2}{part.1}%

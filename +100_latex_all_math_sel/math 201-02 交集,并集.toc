@@ -1,0 +1,9 @@
+\contentsline {part}{第一部分\hspace {1em}交集 $\cap $ , 与 并集 $\cup $}{2}{part.1}%
+\contentsline {section}{\numberline {1}表``或", 用加法(+); 表``同时", 用乘法(×)}{2}{section.1}%
+\contentsline {section}{\numberline {2}公理化}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}$P(A) + P(\overline {A}) = 1$}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}对于``完备事件组"中的所有事件来说: $P(A_1) + P(A_2) + ... + P(A_n) = P(\Omega ) = 1$}{2}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}$P(A-B) = P(A) - P(AB)$}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}若A包含着B, 则有: $ P(A-B) = P(A) - P(B)$, 且 $P(A) >= P(B) $}{4}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}加法公式: $ P(A+B) = P(A) + P(B) - P(AB)$}{4}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}加法公式: $ P(A+B+C) = P(A) + P(B) + P(C) - P(AB) - P(AC) - P(BC) + P(ABC)$}{5}{subsection.2.6}%

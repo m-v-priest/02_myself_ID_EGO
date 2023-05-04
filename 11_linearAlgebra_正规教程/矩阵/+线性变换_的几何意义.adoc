@@ -15,7 +15,7 @@ linear transformation = function
 
 **L() 相当于一个函数, 括号里接收一个参数(类型是向量). 该函数返回一个做了"新基矩阵"变换后的新向量.** 即把原向量, 做了"扭曲变形, 旋转, 斜切, 拉伸"等操作.
 
-image:../img/0021.png[]
+image:../img/0021.png[,500px]
 
 
 即: +
@@ -64,17 +64,17 @@ stem:[L(c \vec{v}) = c L(\vec{v})]
 == 变换有"线性"的, 就有"非线性的"
 
 如果变换将原坐标轴, 扭曲成了曲线式的, 这就不属于"线性变换"了. 如: +
-image:../img/0022.png[]
+image:../img/0022.png[,500px]
 
 即, "线性"类的变换, 必须符合这几个条件:
 
 1.直线在变换后, 依然为直线, 不能变弯曲.
 
-image:../img/0023.png[]
+image:../img/0023.png[,500px]
 
-image:../img/0024.png[]
+image:../img/0024.png[,500px]
 
-image:../img/0025.png[]
+image:../img/0025.png[,500px]
 
 
 2.坐标轴的原点, 必须保持在固定的原来原点位置, 即坐标轴整体不能平移. The origin must remain fixed in place.
@@ -131,7 +131,7 @@ image:../img/0025.png[]
 \end{array} \right|\
 \end{align}
 
-image:../img/0026.png[]
+image:../img/0026.png[,500px]
 
 **换言之, 我们只要知道了新基(stem:[\hat{i} 和 \hat{j} ])向量终点的坐标位置, 就能推算出任意原向量, 在变换后的新位置.** 而不用去管这个变换, 具体过程是怎样的 (旋转, 切线还是什么的)
 
@@ -190,7 +190,7 @@ image:../img/0026.png[]
 \end{matrix} \right]
 \end{align}
 
-image:../img/0027.png[]
+image:../img/0027.png[,500px]
 
 你发现, 新基的两个轴, 被变换到同一条直线上去了. 这就说明, "原基坐标系"的二维平面空间, 变换后, 变成了一维空间(本例准确说是二维空间中的一条直线上), 被压缩降维了.
 
@@ -202,7 +202,7 @@ stem:[ A \vec{x}= \vec{b}],  或 stem:[ A \vec{x}= \vec{0}]
 
 所以, **如果在 stem:[ \vec{x}] 前面, 有多个新基矩阵, 连乘存在, 就意味着这是对 stem:[ \vec{x}] 做了一系列分步骤进行的变换.**
 
-image:../img/0028.svg[]
+image:../img/0028.svg[,500px]
 
 其实, 这三步可以先合并起来, 即我们先把这三个矩阵先乘起来, 就得到复合后的"新基矩阵", 直接一次性作用于 stem:[ \vec{x}] 即可. 这就类似于"复合函数"的概念: stem:[ h(g(f(x)))].
 

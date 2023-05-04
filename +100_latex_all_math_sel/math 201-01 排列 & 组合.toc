@@ -1,0 +1,8 @@
+\contentsline {part}{第一部分\hspace {1em}排列 and 组合}{2}{part.1}%
+\contentsline {section}{\numberline {1}加法原理, 乘法原理}{2}{section.1}%
+\contentsline {section}{\numberline {2}排列 permutation}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}不重复排列 : $ \text {P}_{\text {总数n}}^{\text {选出的数量m}}=\genfrac {}{}{}0{\text {总数!}}{\text {(总数}-\text {选数)!}} $}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}全排列 : $ \text {P}_{\text {总数n}}^{\text {n}}=\text {n!}$ }{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}重复排列}{3}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}``送利益"模型 (放球模型)}{3}{subsection.2.4}%
+\contentsline {section}{\numberline {3}组合 combination : $ \text {C}_{\text {总}}^{\text {选}}=\frac {\text {总!}}{\text {选!}\left ( \text {总}-\text {选!} \right )} = C_{\text {总}}^{\text {总}-\text {选}} $}{4}{section.3}%

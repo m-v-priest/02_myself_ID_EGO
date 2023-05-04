@@ -56,7 +56,7 @@ A矩阵中的列, 并不一定都"线性无关".
 	8\\
 \end{array} \right|
 \end{align}
-image:../img/0084.png[]
+image:../img/0084.png[,500px]
 
 可以看出, 这组基, 相当的斜切, 坐标轴空间变形非常严重.
 
@@ -78,9 +78,9 @@ image:../img/0084.png[]
 
 == 四大子空间(是"线性代数"的核心)
 
-image:../img/0083.svg[500,500]
+image:../img/0083.svg[,500]
 
-image:../img/0080.svg[600,600]
+image:../img/0080.svg[,500]
 
 [options="autowidth"]
 |===
@@ -99,7 +99,7 @@ image:../img/0080.svg[600,600]
 |stem:[ N(A^T) \in R^m]  的子空间.
 |===
 
-image:../img/0081.png[600,600]
+image:../img/0081.png[,500]
 
 [options="autowidth" cols="1a,1a"]
 |===
@@ -112,7 +112,7 @@ image:../img/0081.png[600,600]
 |stem:[ N(A^T)]
 |===
 
-image:../img/0094.png[]
+image:../img/0094.png[,500px]
 
 
 
@@ -124,14 +124,14 @@ image:../img/0094.png[]
 维度::
 - 一组基中, 向量的个数, 即"维度".
 
-image:../img/0082.svg[300,300]
+image:../img/0082.svg[,300]
 
 - 矩阵的"秩" rank, 是"主元列"的数目. 它也是空间(子空间, 列空间等等)的"维数".
 
-image:../img/0085.svg[600,600]
+image:../img/0085.svg[,500]
 
 
-image:../img/0087.svg[700,700]
+image:../img/0087.svg[,500]
 
 
 ---
@@ -270,14 +270,14 @@ A\overrightarrow{x} = \left[ \begin{matrix}
 
 ==== 零空间的几何解释
 
-image:../img/0036.gif[]
+image:../img/0036.gif[,500px]
 
 将一个二维平面, 变换降维成一条直线, 则该物体一定会有一列(即一整条直线的部分), 被压缩到原点(0,0)上. +
 变换后落在原点的原向量的集合, 就称为新基矩阵A 的"零空间" 或 "核" kernel.
 
 **变换后, 会有一些向量落在原点上, 而"零空间", 正是这些向量所构成的空间.**
 
-image:../img/0037.png[]
+image:../img/0037.png[,500px]
 
 **对于 stem:[ A\vec{x} = \vec{0}] 来说, A的零空间, 即线性方程组 stem:[ A\vec{x} = \vec{0}]  的所有解 (即原像 stem:[ \vec{x}]) 的集合。**
 
@@ -319,7 +319,7 @@ A = \left[ \begin{array}{c|c|c}
 
 零空间就是原像stem:[ \vec{x}] 所构成的空间. 本例中, x有三个分量(即, x向量, 有三个值来定位住它的坐标值, 即x向量处在三维空间中), 所以A矩阵的"零空间"是 stem:[ R^3] 中的子空间。
 
-image:../img/0078.svg[600,600]
+image:../img/0078.svg[,500]
 
 
 **注意比较: 对于一个 stem:[ m \times n] 的矩阵来说**:
@@ -381,9 +381,9 @@ A\overrightarrow{x}=\overrightarrow{b}\ \rightarrow \underset{A}{\underbrace{\le
 
 所以, 本例的A矩阵, 其"零空间", 即原像 stem:[ \vec{x}]的集合, 是一条 stem:[ R^3]中的直线, 经过原点.
 
-image:../img/0072.png[]
+image:../img/0072.png[,500px]
 
-image:../img/0095.gif[]
+image:../img/0095.gif[,500px]
 
 |===
 
@@ -400,7 +400,7 @@ image:../img/0095.gif[]
 
 零空间的维度数 dimension = 矩阵中"自由变量"的数目 = (矩阵的列数n - 主元列数 rank)
 
-image:../img/0086.svg[650,650]
+image:../img/0086.svg[,500]
 
 ---
 
