@@ -7,7 +7,7 @@
 
 '''
 
- 逆矩阵
+逆矩阵
 
 == "逆"的几何意义 → 相当于 ctrl + z 操作
 
@@ -43,7 +43,7 @@ image:/img/0048.svg[,20%]
 有方阵  stem:[A_{n \times n}], 若存在一个 stem:[ A_{n \times n}^{-1}], 使得  stem:[ A \cdot A^{-1} = A^{-1} \cdot A = E] (类似于 stem:[ 2 \cdot \frac{1}{2} =  \frac{1}{2} \cdot 2 ]), 则称 A可逆, 且 stem:[A^{-1} ] 就是A的逆矩阵. 
 
 .可逆矩阵 invertible matrix :  +
-A,B为 n阶方阵，若 AB = BA = 单位阵E, 则称 A为"可逆矩阵""(或"非奇异矩阵")，B为A的"逆矩阵"，记为 stem:[A^{-1}=B]. ← 意思即: A的逆矩阵, 是B.
+A,B为 n阶方阵，若 AB = BA = 单位阵E, 则称 A为"可逆矩阵"(或"非奇异矩阵")，B为A的"逆矩阵"，记为 stem:[A^{-1}=B]. ← 意思即: A的逆矩阵, 是B.
 
 推论: A,B是n阶方阵, 只要我们知道一个条件: AB=E, 或BA=E, 我们就能得出结论: A可逆, 并且 stem:[A^{-1}=B]
 

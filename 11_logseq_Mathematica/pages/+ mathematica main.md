@@ -154,7 +154,6 @@
 		-
 		-
 	- 合并同类项 Collect[eq, x或y或{x,y}]
-	  collapsed:: true
 		- ![image.png](../assets/image_1668301919405_0.png)
 		- ![image.png](../assets/image_1668302018402_0.png)
 		- ![image.png](../assets/image_1668302094719_0.png)
@@ -244,7 +243,7 @@
 	- 定积分: NIntegrate 函数 #重要
 	  background-color:: red
 		- ![image.png](../assets/image_1668069558450_0.png)
-		- ![image.png](../assets/image_1668069647250_0.png){:height 222, :width 409}
+		- ![image.png](../assets/image_1668069647250_0.png){:height 202, :width 344}
 	-
 	- ### 对数据进行函数拟合
 		- 线性拟合 : Fit[列表, {1, x}, x] #重要

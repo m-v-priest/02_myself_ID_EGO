@@ -248,8 +248,8 @@ image:img/0028.svg[,80%]
 因为: 等号左边 stem:[ \left( AB \right) ^2=\ ABAB], 等号右边 stem:[ A^2 B^2= A A B B], 而一般 stem:[ ABAB \ne A A B B]. 因为虽然它们最左边都是A, 最右边都是B, 但是中间的两个矩阵相乘, BA一般就不等于AB了. 除非它们是可交换矩阵.
 
 其他的: +
-stem:[  A+B \right) ^2\ne A^2+2AB+B^2]  ← 这个, 一般也不相等 +
-stem:[ ( A-B \right) ^2\ne A^2-2AB+B^2]  ← 这个, 一般也不相等
+stem:[  (A+B ) ^2\ne A^2+2AB+B^2]  ← 这个, 一般也不相等 +
+stem:[ ( A-B ) ^2\ne A^2-2AB+B^2]  ← 这个, 一般也不相等
 
 .标题
 ====
