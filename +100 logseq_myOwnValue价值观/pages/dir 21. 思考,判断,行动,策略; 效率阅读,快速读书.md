@@ -80,6 +80,7 @@ title:: dir 21. 思考,判断,行动,策略; 效率阅读,快速读书
 	  background-color:: #793e3e
 		- 相关古人云
 		  background-color:: #264c9b
+		  collapsed:: true
 			- 胜兵先胜, 而后求战; 败兵先战, 而后求胜.
 			  有不输的把握和胜利的把握, 才开战。 #saying
 			- > 百战百胜，非善之善者也；/不战而屈人之兵，善之善者也。
