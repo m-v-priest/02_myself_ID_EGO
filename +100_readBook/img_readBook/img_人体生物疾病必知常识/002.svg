@@ -1,0 +1,23 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="172" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 172 172" width="172">
+    <defs/>
+    <g transform="translate(-386.50,-405.00)">
+        <g id="shape1" transform="translate(387.50,406.00)">
+            <path stroke="#323232" fill="#c2c2c2" fill-rule="nonzero" d="M170.0,170.0L170.0,.0L.0,.0L.0,170.0L170.0,170.0z"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="65.5" y="90.5">细胞质</tspan>
+            </text>
+        </g>
+        <g id="shape2" transform="translate(435.00,433.00)">
+            <path stroke="#323232" fill="#ebebeb" fill-rule="nonzero" d="M75.0,75.0L75.0,.0L.0,.0L.0,75.0L75.0,75.0z"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="18.0" y="43.0">细胞质</tspan>
+            </text>
+        </g>
+        <g id="shape3" transform="translate(412.50,525.85)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="34.0" y="26.1">外界溶液</tspan>
+            </text>
+        </g>
+        <path stroke="#323232" fill="#ebebeb" id="shape4" fill-rule="nonzero" d="M.0,14.4L25.4,14.4L25.4,.0L46.3,24.0L25.4,48.0L25.4,33.6L.0,33.6L.0,14.4z" transform="matrix(0.00,1.00,-1.00,0.00,496.5,488.9)"/>
+    </g>
+</svg>
