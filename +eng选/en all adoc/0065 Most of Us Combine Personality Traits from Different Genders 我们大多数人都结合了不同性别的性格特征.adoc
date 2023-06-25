@@ -45,7 +45,7 @@ These traits included *not only* the broad characteristics 特性，特征；特
 
 
 
-On every trait, there was *a substantial 大量的；价值巨大的；重大的 overlap* （范围方面的）重叠部分 between men and women. Yet at the tail 尾巴 ends —where people either strongly agreed or disagreed with the questions we asked them—larger differences emerged. For example, very low compassion was rare in both men and women, but the few people who identified as very uncompassionate were much more likely to be men. This result is consistent with the finding that antisocial personality disorder, which often involves a lack of remorse or empathy, is more common among men than women.
+On every trait, there was *a substantial 大量的；价值巨大的；重大的 overlap* （范围方面的）重叠部分 between men and women. Yet at the tail 尾巴 ends —where people *either* strongly agreed *or* disagreed with the questions we asked them —larger differences emerged. For example, very low compassion 同情；怜悯 was rare /in both men and women, but the few people who identified as very uncompassionate 冷酷无情的；无同情心的 /were *much more likely to be* men. This result is *consistent (a.)与…一致的；相符的,不矛盾的 with* the finding /that `主` antisocial 反社会的；危害社会的；令人讨厌的 personality disorder, which often involves a lack of remorse 懊悔；非常遗憾；自责 or empathy, `系`  is more common among men than women.
 
 .标题
 ====
@@ -53,7 +53,7 @@ On every trait, there was *a substantial 大量的；价值巨大的；重大的
 在每一个特征上，男性和女性之间都有很大的重叠。然而，在最后阶段——人们要么强烈同意，要么不同意我们提出的问题——出现了更大的分歧。例如，非常低的同情心在男性和女性中都很少见，但少数被认为非常没有同情心的人更有可能是男性。这一结果与以下发现一致，即反社会人格障碍通常涉及缺乏悔恨或同理心，男性比女性更常见。
 ====
 
-So is there a “man's personality” and a “woman's personality”? Fascinatingly, almost everyone in our study was a mix of “more often seen in men” and “more often seen in women” traits. For any given trait, an individual woman was closer to the overall average for women than the overall average for men just 61 percent of the time. And a man was closer to the average for men than the average for women only 57 percent of the time. Only about 1 percent of men and 1 percent of women had almost entirely “more often seen in men” or “more often seen in women” personality traits.
+So /is there a “man's personality” and a “woman's personality”? Fascinatingly 极有吸引力地；迷人地, almost everyone in our study /was a mix of “more often seen in men” and “more often seen in women” traits. For any given trait, an individual woman was closer to the overall average for women /than the overall average for men /just 61 percent of the time. And a man was closer to the average for men /than the average for women /only 57 percent of the time. Only about 1 percent of men and 1 percent of women /had almost entirely  全部地；完整地；完全地 “more often seen in men” or “more often seen in women” personality traits.
 
 .标题
 ====
@@ -62,41 +62,64 @@ So is there a “man's personality” and a “woman's personality”? Fascinati
 ====
 
 
-To test how accurately gender can be predicted from personality, we developed a simple machine-learning algorithm (a computer program that looked for patterns in data regarding which personality traits are associated with being a cis man or a cis woman). We trained our algorithm using results from past study participants, then presented the algorithm with the personality traits of new participants to see how well it could predict their gender. Using just the most predictive trait—being sex-focused—the algorithm could predict a person's gender correctly 69 percent of the time. This result may be impressive to some. But the prediction is far from perfect because some women are much more sex-focused than the average man.
+To test (v.) how accurately 精确地，准确地 gender *can be predicted from* personality, we developed a simple machine-learning algorithm (a computer program /that *looked for* patterns in data /regarding （尤指以某种方式）注视，凝视 which personality traits are *associated 有关联的；相关的 with* being a cis 同侧的，顺式的 man or a cis woman). We trained our algorithm /using results from past study participants 参加者，参与者, then presented 把…交给；颁发；授予 the algorithm with the personality traits of new participants /to see how well it could predict their gender. Using just the most predictive trait — being sex-focused —the algorithm could predict a person's gender correctly 69 percent of the time. This result may be impressive 令人赞叹的；令人敬佩的 to some. But the prediction is *far from* 远离,远远不是  perfect /because some women are much more sex-focused than the average man.
 
 .标题
 ====
 
-为了测试从性格中预测性别的准确程度，我们开发了一种简单的机器学习算法（一种计算机程序，用于在数据中寻找与顺式男性或顺式女性相关的人格特征模式）。我们使用过去研究参与者的结果来训练我们的算法，然后向算法展示新参与者的性格特征，看看它能多好地预测他们的性别。仅使用最具预测性的特征（以性别为中心），该算法就可以在 69% 的情况下正确预测一个人的性别。这个结果可能会让一些人印象深刻。但这一预测远非完美，因为有些女性比普通男性更注重性。
+为了测试"从性格中预测性别"的准确程度，我们开发了一种简单的机器学习算法（一种计算机程序，用于在数据中寻找与顺式男性或顺式女性相关的人格特征模式）。我们使用过去研究参与者的结果, 来训练我们的算法，然后向算法展示新参与者的性格特征，看看它能多好地预测他们的性别。仅使用"最具预测性的特征"（以性别为中心），该算法就可以在 69% 的情况下正确预测一个人的性别。这个结果可能会让一些人印象深刻。但这一预测远非完美，因为有些女性比普通男性更注重性。
 ====
 
 
 
-The algorithm's accuracy rose to 78 percent when we allowed it to incorporate all the personality differences at once. That's a big improvement—but for the other 22 percent of people, the algorithm was predicting incorrectly. When we released our quiz to the public, accuracy slipped a bit further to 74 percent. That's still much better than the average human, though: We gave another group of study participants sets of personality traits that, we explained, belonged to particular individuals. Then we asked the participants to predict the gender of those other people using the personality traits. They were correct only 58 percent of the time, hardly better than a coin flip. The quiz is called the Gender Continuum Test, and you can try it yourself on our Web site to see whether the algorithm predicts your gender. (https://programs.clearerthinking.org/gender_continuum_test.html)
+The algorithm's accuracy rose to 78 percent /when we allowed it to incorporate  将…包括在内；包含；吸收；使并入 all the personality differences at once. That's a big improvement —but for the other 22 percent of people, the algorithm was predicting incorrectly. When we *released* our quiz 小测验 *to* the public, accuracy slipped a bit further （空间距离）较远，更远 to 74 percent. That's still much better than the average human, though: We *gave* another group of study participants *sets of* personality traits that, we explained, belonged to particular individuals. Then we asked the participants to predict the gender of those other people /using the personality traits. They were correct only 58 percent of the time, hardly better than a coin flip. The quiz is called the Gender Continuum （相邻两者相似但起首与末尾截然不同的）连续体 Test, and you can try it yourself on our Web site /to see whether the algorithm predicts your gender. (https://programs.clearerthinking.org/gender_continuum_test.html)
 
 .标题
 ====
+.continuum
+a series of similar items /in which each is almost the same as the ones next to it /but the last is very different from the first （相邻两者相似但起首与末尾截然不同的）连续体 +
+SYN cline +
+• It is impossible to say at what point along the continuum a dialect becomes a separate language. 要说出同一语言的方言差异到什么程度就成为一种别的语言是不可能的。
+
+image:img/continuum.webp[,300px]
+
 
 当我们允许它同时包含所有性格差异时，该算法的准确率上升到 78%。这是一个很大的进步——但对于其他 22% 的人来说，算法预测不正确。当我们向公众发布测验时，准确率进一步下滑至 74%。不过，这仍然比普通人要好得多：我们向另一组研究参与者提供了一组人格特征，我们解释说，这些特征属于特定个体。然后我们要求参与者使用人格特征预测其他人的性别。他们只有 58% 的时间是正确的，几乎不比抛硬币好。该测验称为性别连续体测试，您可以在我们的网站上亲自尝试一下，看看该算法是否可以预测您的性别。
 ====
 
 
 
-We believe our results shed new light on the size of gender differences in personality. There are, however, some important caveats. First, all our study participants were from the U.S., and given that factors such as culture influence personality and gender, we would be hesitant to extend our conclusions to other communities. Second, our study cannot provide insight into the causes of personality differences—for instance, how much these differences can be explained by environment and culture as opposed to biology. Third, as we noted earlier, we do not have enough data to comment on transgender, intersex or nonbinary individuals. We hope that future research explores these and other dimensions of the personality, sex and gender debate.
+We believe /our results *shed new light on* 使（问题等）较容易理解 the size of gender differences in personality. There are, however, some important caveats (n.)警告；告诫.
+
+First, all our study participants were from the U.S., and given that factors /such as culture influence (v.) personality and gender, we would be hesitant (a.)犹豫的；踌躇的；不情愿的 *to extend* our conclusions *to* other communities 社区；团体，群体.
+
+Second, our study cannot provide insight into the causes of personality differences —for instance, how much these differences can be explained by environment and culture *as opposed to* （表示对比）而，相对于 biology.
+
+Third, as we noted earlier, we do not have enough data to comment (v.)议论；评论；解释 on transgender, intersex 雌雄间性；间性人 or nonbinary 非二元的,非二选一的 individuals. We hope that /future research explores (v.) these and other dimensions 维（构成空间的因素）；尺寸; 方面；侧面 of the personality, sex and gender debate.
+
+.标题
+====
+.AS OPPOSED TO +
+( formal ) used to make a contrast between two things （表示对比）而，相对于 +
+•200 attended, *as opposed to* 300 the previous year. 出席的有200人，而前一年是300人。 +
+•This exercise develops suppleness *as opposed to* (= rather than) strength. 这项锻炼不是增强力量，而是增强柔韧性的。
+
+.intersex
+(n.)( medical 医) the physical condition of being partly male and partly female 间性；雌雄间性；雌雄间体
+
+我们相信, 我们的结果为了解人格中性别差异的大小, 提供了新的线索。然而，有一些重要的警告。 +
+首先，我们所有的研究参与者都来自美国，考虑到文化等因素影响个性和性别，我们会犹豫是否将我们的结论推广到其他社区。 +
+其次，我们的研究无法深入了解性格差异的原因，例如，这些差异在多大程度上可以通过环境和文化而不是生物学来解释。 +
+第三，正如我们之前指出的，我们没有足够的数据来评论跨性别者、双性人或非二元个体。我们希望未来的研究能够探索人格、性别, 和社会性别争论的这些和其他方面。
+====
+
+
+Right now /our study is a reminder  引起回忆的事物；提醒人的事物 /that, on average, cisgender 顺性别的 men and women *do have* some *small to moderate 适度的；中等的 differences* in how they report their personality, but almost everyone is a mix of traits /seen more often in men /and seen more often in women. If you try to guess someone's personality from their gender, you'll very often be wrong.
 
 .标题
 ====
 
-我们相信我们的结果为了解人格中性别差异的大小提供了新的线索。然而，有一些重要的警告。首先，我们所有的研究参与者都来自美国，考虑到文化等因素影响个性和性别，我们会犹豫是否将我们的结论推广到其他社区。其次，我们的研究无法深入了解性格差异的原因，例如，这些差异在多大程度上可以通过环境和文化而不是生物学来解释。第三，正如我们之前指出的，我们没有足够的数据来评论跨性别者、双性人或非二元个体。我们希望未来的研究能够探索人格、性别和社会性别争论的这些和其他方面。
-====
-
-
-Right now our study is a reminder that, on average, cisgender men and women do have some small to moderate differences in how they report their personality, but almost everyone is a mix of traits seen more often in men and seen more often in women. If you try to guess someone's personality from their gender, you'll very often be wrong.
-
-.标题
-====
-
-目前，我们的研究提醒人们，平均而言，顺性别男性和女性在表达个性方面确实存在一些小到中度的差异，但几乎每个人都混合了男性更常见的特征和女性更常见的特征。如果你试图根据某人的性别来猜测他的性格，你通常会错。
+目前，我们的研究提醒人们，平均而言，顺性别男性和女性在表达个性方面. 确实存在一些小到中度的差异，但几乎每个人, 都混合了男性更常见的特征和女性更常见的特征。如果你试图根据某人的性别来猜测他的性格，你通常会错。
 ====
 
 
@@ -104,7 +127,7 @@ Right now our study is a reminder that, on average, cisgender men and women do h
 
 Here are your personality results!
 
-Keep in mind that these personality results were measured, for the sake of brevity, using just two questions per personality trait, and so are not a comprehensive assessment of each trait.
+Keep in mind that /these personality results were measured (v.), *for the sake 利益，好处；目的 of* 为了某人（或某事）起见；因某人（或某事）的缘故 brevity (n.)简洁；简炼, using just two questions /per personality trait, and so are not *a comprehensive assessment* 评定；核定；判定 of each trait.
 
 
 
@@ -112,21 +135,21 @@ Keep in mind that these personality results were measured, for the sake of brevi
 ====
 
 这是您的个性结果！ +
-请记住，为了简洁起见，这些性格结果是通过每个性格特征仅使用两个问题来衡量的，因此并不是对每个特征的全面评估。
+请记住，为了简洁起见，这些性格结果, 是通过每个性格特征仅使用两个问题来衡量的，因此并不是对每个特征的全面评估。
 ====
 
 
 
 
-Like MALES do on average, you reported yourself as being:
+Like MALES do /on average, you reported yourself as being:
 
-- Less Aesthetic - less likely to be moved by artistic beauty
-- Less Amicable - more likely to contradict the opinions of others
-- Less Compassionate - less concerned or sympathetic towards others
-- Less Forgiving - more desire for revenge on those who have wronged you
-- Less Peaceful - more likely to use violence to solve problems
-- Less Warm - less expression of happy feelings
-- Less Unselfish - less looking out for others before looking out for yourself
+- Less Aesthetic (a.)审美的；有审美观点的；美学的 - less likely to be moved by artistic beauty
+- Less Amicable 心平气和的；友善的 - more likely to contradict (v.)反驳；驳斥 the opinions of others
+- Less Compassionate 有同情心的；表示怜悯的 - less concerned 担心的；忧虑的;感兴趣的；关切的；关注的 or sympathetic towards others
+- Less Forgiving 宽宏大量的；宽容的 - more desire for *revenge (v.)报复；报仇 on* those who have wronged  不公正（或不诚实）对待 you
+- Less Peaceful 不诉诸战争（或暴力、争论）的；和平的 - more likely to use violence to solve problems
+- Less Warm 温情的；热心的；友好的 - less expression of happy feelings
+- Less Unselfish 无私的；忘我的；不谋私利的 - less *looking out for* 关注某人或某事，确保他们安全或避免危险 others before looking out for yourself
 - More Sex Focused - more likely to have frequent sexual thoughts
 - More Self Defending - less likely to blame yourself for problems
 
@@ -149,20 +172,23 @@ Like MALES do on average, you reported yourself as being:
 Like FEMALES do on average, you reported yourself as being:
 
 
-- More Emotionally Aware - having more awareness and understanding of emotional reactions
+- More *Emotionally Aware* 知道；意识到；明白 - having more awareness and understanding 理解；领悟；了解 of emotional reactions
 - More Honest - less likely to bend the truth
-- Less Unusual - less unusual or non-ordinary
-- Less At Ease - more likely to worry or be afraid
-- Less Complexity Seeking - less likely to take pleasure in complexity
-- Less Improvisational - less likely to be good at coming up with new things on the spot
-- Less Risk Taking - more avoidance of risky situation
-- Less Self Valuing - less likely to see yourself as superior to others
-- Less Thick Skinned - more likely to be hurt by what others say or do
+- Less Unusual 独特的；与众不同的；别致的 - less unusual or non-ordinary 不寻常的，不平凡的
+- Less *At Ease*  (n.)舒适；安逸；自在；无忧无虑 - more likely to worry or be afraid
+- Less Complexity 复杂性；难懂 Seeking - less likely to take pleasure 愉快；欣慰；满意 in complexity
+- Less Improvisational 即兴的 - less likely to be good at *coming up with* 提出，想出 new things *on the spot* 当场；当下;在现场
+- Less *Risk Taking* - more avoidance (n.)避免；防止；回避 of risky situation
+- Less *Self Valuing* (v.)评价；评估；价值判断 - less likely to see yourself as *superior (a.)（在品质上）更好的；占优势；更胜一筹 to* others
+- Less *Thick Skinned* 厚脸皮 - more likely to be hurt by what others say or do
 
 
 
 .标题
 ====
+.valuing
+v. 评价；评估；价值判断（value 的 ing 形式）
+
 就像女性的平均情况一样，您报告自己是：
 
 - 更情绪化 - 对情绪反应有更多的意识和理解
