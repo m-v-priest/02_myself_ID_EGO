@@ -1,5 +1,5 @@
 
-= How to Use the Air Quality Index
+= 0057 How to Use the Air Quality Index
 如何使用空气质量指数
 :toc: left
 :toclevels: 3
@@ -21,7 +21,7 @@ what do those *air quality alerts* mean (v.)? `主` The color-coded 间接表达
 
 https://www.airnow.gov/
 
-image:img/AQI_graphic_d.webp[,500]
+image:../img/AQI_graphic_d.webp[,500]
 ====
 
 The Air Quality Index considers (v.)考虑，认为 five measurements 测量；度量 of air pollution: *ground-level 底层 ozone* 地面臭氧, particle pollution, carbon monoxide  一氧化物, **sulfur 硫磺 dioxide**二氧化物 and *nitrogen 氮 dioxide* 二氧化物. These pollutants 污染物 have health impacts, typically involving irritation 刺激 and inflammation 炎症 of the respiratory 呼吸的 system, which can, in turn 依次，轮流, contribute to the development of conditions /such as asthma 哮喘，气喘 and heart disease.
