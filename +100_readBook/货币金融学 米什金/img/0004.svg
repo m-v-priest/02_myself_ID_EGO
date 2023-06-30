@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="170" width="431" viewBox="0 0 431 170" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs/>
+    <g transform="translate(-351.00,-222.50)">
+        <g id="shape1" transform="translate(352.00,232.00)">
+            <path d="M120.0,70.0L120.0,.0L.0,.0L.0,70.0L120.0,70.0z" fill-rule="nonzero" fill="#ffffff" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="31.0" x="40.5">大企业</tspan>
+                <tspan y="50.0" x="30.0">(比如微软)</tspan>
+            </text>
+        </g>
+        <g id="shape2" transform="translate(661.00,223.50)">
+            <path d="M120.0,88.5L120.0,.0L.0,.0L.0,88.5L120.0,88.5z" fill-rule="nonzero" fill="#ffffff" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt"/>
+        </g>
+        <g id="shape3" transform="translate(691.00,260.00)">
+            <path d="M60.0,35.0L60.0,.0L.0,.0L.0,35.0L60.0,35.0z" fill-rule="nonzero" fill="#ffffff" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="23.0" x="10.5">国库券</tspan>
+            </text>
+        </g>
+        <g id="shape4" transform="translate(701.50,232.00)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="18.5" x="6.5">银行</tspan>
+            </text>
+        </g>
+        <g id="shape5" transform="translate(472.00,267.00)">
+            <path d="M.0,.0L213.0,.0" fill="none" stroke="#191919"/>
+            <path d="M213.0,-3.0L219.0,.0L213.0,3.0L213.0,-3.0" fill="#191919" stroke-width="1" stroke-linecap="round" stroke="#191919"/>
+            <rect y="-28.5" height="19.0" fill="#ffffff" x="27.9" width="128.0"/>
+            <rect y="-9.5" height="19.0" fill="#ffffff" x="61.9" width="60.0"/>
+            <rect y="9.5" height="19.0" fill="#ffffff" x="8.4" width="167.0"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="-13.5" x="27.9">投资国库券100万美元</tspan>
+                <tspan y="5.5" x="61.9">(一周时间)</tspan>
+                <tspan y="24.5" x="8.4" style="fill:#c00000">相当于贷款100万美元给银行</tspan>
+            </text>
+        </g>
+        <g id="shape6" transform="translate(721.00,312.00)">
+            <path d="M.0,.0L.0,47.0L-309.0,47.0L-309.0,-4.0" fill="none" stroke="#191919"/>
+            <path d="M-312.0,-4.0L-309.0,-10.0L-306.0,-4.0L-312.0,-4.0" fill="#191919" stroke-width="1" stroke-linecap="round" stroke="#191919"/>
+            <rect y="18.5" height="19.0" fill="#ffffff" x="-232.0" width="168.0"/>
+            <rect y="37.5" height="19.0" fill="#ffffff" x="-214.5" width="133.0"/>
+            <rect y="56.5" height="19.0" fill="#ffffff" x="-213.0" width="130.0"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="33.5" x="-232.0">银行在一周后, 用105万美元, </tspan>
+                <tspan y="52.5" x="-214.5">从微软买回这些国库券.</tspan>
+                <tspan y="71.5" x="-213.0" style="fill:#c00000">相当于还本付息给微软</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
