@@ -22,7 +22,7 @@ image:img/349.png[,]
 
 === stem:[ e^{-ix}  =\cos x -i \sin x ]
 
-=== stem:[sin x  =\frac{e^{ix} -e^{-ix}}{2i} ]
+=== stem:[\sin x  =\frac{e^{ix} -e^{-ix}}{2i} ]
 
 
 === stem:[\cos x  =\frac{e^{ix} +e^{-ix}}{2}  ]
