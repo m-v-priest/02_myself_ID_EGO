@@ -17,7 +17,7 @@
 
 所以,"区间估计", 有两个重要的数据: 一个就是"区间的范围", 另一个就是"以多少概率, 落在这个区间范围里".
 
-image:img/0793.png[,]
+image:img/0793.png[,90%]
 
 
 “置信区间” confidence interval，也译为“可信区间”、“信赖区间”, 或“信心区间”。
@@ -30,9 +30,8 @@ image:img/0793.png[,]
 
 stem:[ P(θ_1≤ θ ≤θ_2) =1-α]
 
-image:img/0800.webp[,]
-
-image:img/0801.webp[,]
+image:img/0800.webp[,45%]
+image:img/0801.webp[,40%]
 
 区间 [ θ1,θ2 ] 就是要估计的区间，1-α就是置信度。为啥用1-α呢？因为后面α会用到。
 
@@ -50,10 +49,11 @@ image:img/0801.webp[,]
 
 既然是一个正态总体了，所以要进行区间估计的参数, 无非两个：均值和方差。首先，有下面的概况表：
 
-image:img/0802.png[,]
+image:img/0802.png[,80%]
 
 啥意思呢？*对于总体的均值和方差，无非有上图中的几种情况。针对不同情况，我们需要构造不同的枢轴变量，因此也服从了不同的分布。* 这些枢轴变量，它们的作用, 其实主要就是用在"区间估计".
 
+[.small]
 [options="autowidth"]
 |===
 |Header 1 |Header 2
@@ -61,7 +61,7 @@ image:img/0802.png[,]
 |（1）"总体方差"已知，估计"总体均值"
 |在这种情况下，我们构造的枢轴变量是：
 
-image:img/0803.svg[,]
+latexmath:[ \frac{\overline{X}-\mu}{\frac{\sigma}{\sqrt[\]{n}}}\sim N\left( 0,1 \right)]
 
 这个服从"标准正态分布"。为啥用这个函数作为枢轴变量呢？仔细看内容便知道，函数共有4个参数： +
 - 样本均值X（已知，可以用过样本求出来）， +
@@ -71,12 +71,12 @@ image:img/0803.svg[,]
 
 因此，只有总体均值μ未知。而波浪线右侧的分布是已知的，那我们就可以用右侧正态分布的特征, 来求出"总体均值"的区间：
 
-image:img/0804.svg[,]
+latexmath:[ P\left( -z_{\frac{\alpha}{2}}<z<z_{\frac{\alpha}{2}} \right) =1-\alpha]
 
 |（2）"总体方差"未知，估计"总体均值"
 |在这种情况下，我们构造的枢轴变量是：
 
-image:img/0805.svg[,]
+latexmath:[ \frac{\overline{X}-\mu}{\frac{S}{\sqrt[\]{n}}}\sim t\left( n-1 \right)]
 
 为啥构造这个枢轴变量呢？因为总体方差是未知的，而（1）中用到了总体方差，所以就出现了两个未知变量（总体方差和总体均值），所以就没法求了。
 
@@ -85,14 +85,14 @@ image:img/0805.svg[,]
 |（3）"总体均值 μ"已知，估计"总体方差 stem:[ σ^2]"
 |这种情况下构造的枢轴变量是：
 
-image:img/0806.png[,]
+latexmath:[ \frac{1}{\sigma ^2}\sum_{i=1}^n{\left( X_i-\mu \right) ^2}\sim X^2\left( n \right)]
 
 具体的区间估计范围也是参照黑板截图。
 
 |（4）"总体均值"未知，"估计总体"方差
 |这种情况，构造的枢轴变量是：
 
-image:img/0807.svg[,]
+latexmath:[ \frac{\left( n-1 \right) S^2}{\sigma ^2}\sim X^2\left( n-1 \right)]
 
 这里和（3）中的枢轴变量的唯一差别是: 括号中减的是"样本均值"还是"总体均值"。 +
 -> 如果是样本均值，则服从"自由度是n-1"的卡方分布； +
@@ -103,15 +103,15 @@ image:img/0807.svg[,]
 ---
 
 
-image:img/0794.png[,]
+image:img/0794.png[,60%]
 
-image:img/0795.png[,]
+image:img/0795.png[,60%]
 
-image:img/0796.png[,]
+image:img/0796.png[,60%]
 
 上面三种图, 中间部分的面积都是90%, 但我们为什么只用"左右对称"的那张图? *原因是, 我们要取的这 90% 的这个区间, 它横跨x轴的长度, 越小越好.*
 
-image:img/0797.png[,]
+image:img/0797.png[,40%]
 
 ---
 
@@ -119,9 +119,9 @@ image:img/0797.png[,]
 
 === 正态总体, stem:[ σ^2]已知, 求 "未知的μ" 的区间
 
-image:img/0799.png[,]
+image:img/0799.png[,80%]
 
-image:img/0798.png[,]
+image:img/0798.png[,20%]
 
 
 .标题
@@ -129,7 +129,7 @@ image:img/0798.png[,]
 例如： +
 image:img/0809.png[,]
 
-image:img/0808.png[,]
+image:img/0808.png[,45%]
 ====
 
 ---

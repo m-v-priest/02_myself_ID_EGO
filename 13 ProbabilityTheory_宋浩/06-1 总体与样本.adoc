@@ -21,6 +21,7 @@
 
 数理统计中, 推断的方法, 可分为两类:
 
+[.small]
 [options="autowidth"]
 |===
 |Header 1 |Header 2
@@ -37,9 +38,9 @@
 
 == 总体 & 样本
 
-image:img/0653.png[,]
+image:img/0653.png[,45%]
 
-
+[.small]
 [options="autowidth"]
 |===
 |Header 1 |Header 2
@@ -97,7 +98,7 @@ image:img/0653.png[,]
 
 对总体X进行一次抽样, 并观察后，得到样本  stem:[ X_1, X_2, ... X_n] 的确切数值 stem:[ x_1, x_2, ... x_n],称为"样本观测值"(简称"样本值").
 
-image:img/0654.png[,]
+image:img/0654.png[,40%]
 |===
 
 
@@ -107,6 +108,7 @@ image:img/0654.png[,]
 
 实际生活中, 一个随机现象, 常常需要同时用"几个随机变量"去描述. 我们称 n个 随机变量 stem:[ X_1, X_2, ... X_n] 的总体 stem:[ X=(X_1, X_2, …, X_n)] 为 "n维随机变量"(或n元随机变量)，或称"n维随机矢量"。
 
+[.small]
 [options="autowidth"]
 |===
 | |联合分布函数(又称: 多维分布函数)
@@ -119,19 +121,20 @@ stem:[ F(x,y)=P({X≤x ∩ Y≤y})=P(X≤x,Y≤y)]
 
 将二维随机变量（X，Y）看成是平面上随机点的坐标，分布函数 F（x，y）在（x，y）处的函数值, 就是随机点（X，Y） 落在如图以（x，y）为顶点而位于该点左下方的"无穷矩形区域"内的概率。
 
-image:img/0657.png[,]
+image:img/0657.png[,40%]
 
 
-同理, 随机点（X，Y）落在矩形区域 image:img/0658.svg[,] 的概率为:
+同理, 随机点（X，Y）落在矩形区域 latexmath:[ \left\{ \left( x,y \right) \ \|\ x_1\leq x\leq x_2,\ y_1\leq y\leq y_2 \right\}] 的概率为:
 
-image:img/0659.png[,]
+
+
+image:img/0659.png[,40%]
 
 
 
 |n维随机变量
-|n维随机矢量 stem:[ X=(X_1, X_2, …, X_n)]的联合分布函数, 是:
-
-n元函数：image:img/0656.svg[,]
+|n维随机矢量 stem:[ X=(X_1, X_2, …, X_n)]的联合分布函数, 是: +
+n元函数：latexmath:[ F\left( x_1,x_2,...,x_n \right) =P\left\{ X_1<x_1,\ X_2<x_2,\ ...,\ X_n<x_n \right\}]
 
 *它表示事件 stem:[ X1<x1, X2<x2, …, X_n<x_n] 同时出现的概率。*
 |===
@@ -140,23 +143,22 @@ n元函数：image:img/0656.svg[,]
 样本  stem:[ X_1, X_2, ... X_n]  的分布, 与总体X的分布, 会有怎样的关系呢?
 
 
-image:img/0655.png[,]
+image:img/0655.png[,45%]
+image:img/0660.png[,45%]
 
-image:img/0660.png[,]
-
-image:img/0661.png[,]
-
-.标题
-====
-例如： +
-image:img/0662.png[,]
-====
-
+image:img/0661.png[,45%]
 
 .标题
 ====
 例如： +
-image:img/0663.png[,]
+image:img/0662.png[,45%]
+====
+
+
+.标题
+====
+例如： +
+image:img/0663.png[,45%]
 ====
 
 
@@ -164,6 +166,7 @@ image:img/0663.png[,]
 
 == 统计量
 
+[.small]
 [options="autowidth"]
 |===
 |Header 1 |Header 2
@@ -174,7 +177,7 @@ image:img/0663.png[,]
 |统计量 (←它就是一个函数!)
 |如果"样本函数" stem:[ g( X_1, X_2, ... X_n)]中, 不含任何未知参数, 那么这个样本函数, 就可以称为"统计量".
 
-image:img/0665.png[,]
+image:img/0665.png[,55%]
 
 常见的三大统计量是: 样本均值, 样本方差, 次序统计量.
 
@@ -187,17 +190,17 @@ image:img/0665.png[,]
 
 
 
-image:img/0666.webp[,]
+image:img/0666.webp[,45%]
 
 ---
 
-image:img/0667.png[,]
+image:img/0667.png[,45%]
 
 
 
 ---
 
-image:img/0668.png[,]
+image:img/0668.png[,80%]
 
 
 ---
@@ -235,7 +238,7 @@ https://www.bilibili.com/video/BV1xZ4y1s7Va/?spm_id_from=333.788.recommend_more_
 
 == 样本函数, 及其概率分布
 
-image:img/0664.webp[,]
+image:img/0664.webp[,45%]
 
 
 https://www.bilibili.com/video/BV1ot411y7mU?p=63&spm_id_from=pageDriver&vd_source=52c6cb2c1143f8e222795afbab2ab1b5

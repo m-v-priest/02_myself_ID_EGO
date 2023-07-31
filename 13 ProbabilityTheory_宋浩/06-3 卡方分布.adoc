@@ -11,17 +11,14 @@
 
 === 解释1
 
-image:img/221114_001.png[,]
+image:img/221114_001.png[,45%]
+image:img/221114_002.png[,45%]
 
-image:img/221114_002.png[,]
+image:img/221114_003.png[,30%]
+image:img/221114_004.png[,45%]
 
-image:img/221114_003.png[,]
-
-image:img/221114_004.png[,]
-
-image:img/221114_005.png[,]
-
-image:img/221114_006.png[,]
+image:img/221114_005.png[,45%]
+image:img/221114_006.png[,45%]
 
 
 记住: 下面, *样本的方差, 用 stem:[ S^2] 表示.* +
@@ -38,6 +35,7 @@ image:img/221114_007.png[,]
 
 ==== "卡方分布"有什么用?
 
+[.small]
 [options="autowidth"]
 |===
 |Header 1 |Header 2
@@ -45,7 +43,7 @@ image:img/221114_007.png[,]
 |1.做单样本的方差检验
 |image:img/221114_008.png[,]
 
-image:img/221114_009.webp[,]
+image:img/221114_009.webp[,45%]
 
 |2.做离散型变量的独立性检验
 |
@@ -64,7 +62,7 @@ image:img/221114_009.webp[,]
 
 卡方分布的图像如下：
 
-image:img/0811.png[,]
+image:img/0811.png[,45%]
 
 - 当自由度是2的时候，比较特殊，刚好是"指数分布"。
 - 当自由度大于2的时候，卡方分布的曲线都是单峰曲线，*在 n-2 处取得峰值*。
@@ -78,47 +76,47 @@ image:img/0811.png[,]
 
 == 定理:
 
-image:img/221114_010.png[,]
+image:img/221114_010.png[,80%]
 
 ---
 
 == 上α分位数
 
-image:img/221114_011.png[,]
+image:img/221114_011.png[,40%]
 
 [options="autowidth"]
 |===
 |Header 1 |Header 2
 
 |例1
-|image:img/221114_012.png[,]
-image:img/221114_013.png[,]
-image:img/221114_016.png[,]
+|image:img/221114_012.png[,45%]
+image:img/221114_013.png[,35%]
+
+image:img/221114_016.png[,45%]
 
 
 |例2
-|image:img/221114_014.png[,]
-image:img/221114_015.png[,]
+|image:img/221114_014.png[,35%]
+image:img/221114_015.png[,45%]
 |===
 
 
 .标题
 ====
 例如： +
-image:img/221114_017.png[,]
+image:img/221114_017.png[,70%]
 
-image:img/221114_019.png[,]
-
-image:img/221114_018.png[,]
+image:img/221114_019.png[,45%]
+image:img/221114_018.png[,45%]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/221114_020.png[,]
+image:img/221114_020.png[,80%]
 
-image:img/221114_021.png[,]
+image:img/221114_021.png[,45%]
 ====
 
 ---

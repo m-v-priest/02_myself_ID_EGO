@@ -16,7 +16,7 @@
 期望值分别为E[X]与E[Y]的两个实随机变量X与Y, 之间的"协方差"Cov(X,Y), 定义为：
 
 
-image:img/0671.svg[,]
+image:img/0671.svg[,50%]
 
 协方差Cov(X,Y)的度量单位, 是X的协方差, 乘以Y的协方差。
 
@@ -34,7 +34,7 @@ image:img/0671.svg[,]
 
 
 
-
+[.small]
 [cols="1a,2a"]
 |===
 |Header 1 |Header 2
@@ -64,8 +64,14 @@ image:img/0361.png[,]
 image:img/0362.png[,]
 
 将上面这个式子, 用连加符号 Σ 改写成如下图, 则通过其的结果值, 就能知道 X,Y 两个数据点, 到底是何种相关关系了 : +
-image:img/0363.png[,]
 
+\begin{align*}
+\sum_{}^{}{\left( x_i-\overline{x} \right)}\left( y_i-\overline{y} \right) =\left\{ \begin{array}{l}
+	>0\ \text{正相关}\\
+	=0\ \text{不相关}\\
+	<0\ \text{负相关}\\
+\end{array} \right.
+\end{align*}
 
 image:img/0364.png[,]
 
@@ -82,7 +88,13 @@ image:img/0366.png[,]
 然后将坐标原点, 移动到"加权平均值"的位置.  +
 同时, 连加公式里的"均值", 也要替换成"加权平均值".
 
-image:img/0367.png[,]
+\begin{align*}
+\sum_{}^{}{\left( x_i-\overline{x} \right)}\left( y_i-\overline{y} \right) =\left\{ \begin{array}{l}
+	>0\ \text{正相关}\\
+	=0\ \text{不相关}\\
+	<0\ \text{负相关}\\
+\end{array} \right.
+\end{align*}
 
 image:img/0368.png[,]
 
@@ -119,7 +131,7 @@ N a measure of the association between two random variables, equal to the expect
 
 但是"协方差"也只能处理二维关系，如果有n个变量X1、X2、···Xn，那怎么表示这些变量之间的关系呢？解决办法就是把它们两两之间的协方差, 组成"协方差矩阵"（covariance matrix）。
 
-image:img/0354.png[,]
+image:img/0354.png[,50%]
 
 
 回到协方差, 它的定义是: stem:[ Cov(X,Y)=E\[ (X-EX)(Y-EY)\]=E(XY) - E(X) \cdot E(Y)]
@@ -159,12 +171,15 @@ image:img/0418.png[,]
 
 *"协方差"作为描述X和Y相关程度的量，在同一物理量纲之下有一定的作用，但同样的两个量采用不同的量纲, 使它们的协方差在数值上表现出很大的差异。为此就需要引入如下概念 -- 相关系数.*
 
+定义
+\begin{align*}
+\rho _{XY}=\frac{Cov\left( X,Y \right)}{\sqrt[]{D\left( X \right)}\sqrt[]{D\left( Y \right)}}
+\end{align*}
 
-定义 image:img/0672.svg[,] 称为随机变量 X 和 Y 的(Pearson)"相关系数"。
+称为随机变量 X 和 Y 的(Pearson)"相关系数"。
 
 若 stem:[ ρ_{XY}=0]，则称X与Y "不线性相关"。
 即 stem:[ ρ_{XY}=0] 的 充分必要条件是 Cov(X, Y)=0，*亦即"不相关"和"协方差为零"是等价的。*
-
 
 
 
@@ -173,7 +188,7 @@ image:img/0418.png[,]
 "标准化"处理, 就是对原随机变量X, 减去其期望E(X), 再除上其方差的根号 stem:[ \sqrt{D(X)}].
 
 
-image:img/0419.png[,]
+image:img/0419.png[,80%]
 
 *"标准化"的目的, 就是消除"量纲"上的差异。*
 
@@ -186,8 +201,9 @@ image:img/0419.png[,]
 
 .标题
 ====
-例如：+
-image:img/0670.png[,]
+例如：
+
+image:img/0670.png[,80%]
 ====
 
 
@@ -197,6 +213,7 @@ image:img/0670.png[,]
 
 "相关系数"的值, 永远介于1和-1之间。
 
+[.small]
 [options="autowidth"]
 |===
 |Header 1 |Header 2

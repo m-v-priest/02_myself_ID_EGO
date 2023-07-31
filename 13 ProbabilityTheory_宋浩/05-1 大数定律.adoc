@@ -69,7 +69,7 @@
 
 == 依概率收敛
 
-image:img/0432.png[,]
+image:img/0432.png[,80%]
 
 *记住: ε 是一个极小的正数 (无论它多么小). 相当于说, ε是一个无穷小的数.*
 
@@ -80,7 +80,7 @@ image:img/0432.png[,]
 
 == 伯努利大数定律
 
-image:img/0436.png[,]
+image:img/0436.png[,80%]
 
 所谓"频率", 是指: 在相同的条件下，进行了n次试验，在这n次试验中，事件A发生的次数m, 就称为事件A发生的频数。比值 stem:[ m/n] 称为事件A发生的频率。
 
@@ -106,7 +106,7 @@ image:img/0445.png[,]
 
 
 
-image:img/0427.svg[,]
+image:img/0427.svg[,50%]
 
 image:img/0428.png[,]
 
@@ -114,16 +114,16 @@ image:img/0428.png[,]
 .标题
 ====
 例如： +
-image:img/0429.png[,]
+image:img/0429.png[,80%]
 
-image:img/0430.svg[,]
+image:img/0430.svg[,50%]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/0431.png[,]
+image:img/0431.png[,90%]
 
 ====
 
@@ -135,9 +135,9 @@ image:img/0431.png[,]
 
 切比雪夫大数定律, 相比起一般我们听到的大数定律更一般，不仅能够解释"独立,同分布"随机变量的大数定律，也能够解释"独立,但不同分布"随机变量的大数定律。
 
-image:img/0433.png[,]
+image:img/0433.png[,80%]
 
-image:img/0434.png[,]
+image:img/0434.png[,80%]
 
 
 image:img/0446.png[,]
@@ -147,11 +147,11 @@ image:img/0446.png[,]
 
 == 辛钦大数定律
 
-image:img/0435.png[,]
+image:img/0435.png[,80%]
 
 "辛钦大数定律", 和"切比雪夫大数定律"的区别是, 前者没有提到 stem:[ σ^2].
 
-image:img/0447.png[,]
+image:img/0447.png[,50%]
 
 即, 这个定律告诉我们, 多次测求得的"平均数",可以逼近于"期望".
 

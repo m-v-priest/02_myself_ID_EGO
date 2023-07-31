@@ -12,6 +12,7 @@
 
 判断其好坏的常用标准, 有几条：
 
+[.small]
 [options="autowidth"]
 |===
 |Header 1 |Header 2
@@ -35,7 +36,7 @@ stem:[ D(\hat{θ}_2)=E(\hat{θ}_2 - θ)^2]
 
 完整的定义就是:
 
-image:img/0788.png[,]
+image:img/0788.png[,80%]
 
 |最小方差无偏估计
 |同时满足上面两个条件的 stem:[\hat{θ} ], 该 stem:[ \hat{θ}] 就称为"最佳无偏估计".
@@ -50,7 +51,13 @@ image:img/0789.png[,]
 
 image:img/0790.png[,]
 
-image:img/0791.png[,]
+
+*注意:若 latexmath:[ \widehat{\theta }] 是 θ 的无偏估计，则不一定能推出 latexmath:[ g\left( \widehat{\theta } \right) ] 也是 g(θ) 的无偏估计.* +
+比如: latexmath:[ S^2] 是latexmath:[ σ^2] 的无偏估计，但 latexmath:[ S ( =\sqrt[\]{S^2}  ) ] 不是 latexmath:[\sigma \ \left( =\sqrt[\]{\sigma ^2} \right)  ] 的无偏估计.
+
+
+
+
 
 ---
 
@@ -64,8 +71,11 @@ image:img/0791.png[,]
 样本取得越大, 它的参数估计值, 肯定就越接近总体的真实值.  +
 即: 当样本容量n充分大时，"估计量"可以以任意的精确程度, 逼近被估计参数的"真值"。
 
-image:img/0792.png[,]
+即:
+latexmath:[ \lim_{n\rightarrow +\infty}P\left( \left| \underset{\text{估计值}}{\underbrace{\widehat{\theta }}}-\underset{\text{总体中该参数的真值}}{\underbrace{\theta }} \right|<\underset{\text{任意小的数}}{\underbrace{\xi }} \right) =1]
 
+也就是说，当样本容量n趋近于无穷大时，从样本分析中得出的参数 θ 的估计值 latexmath:[\widehat{\theta } ], 就非常非常接近于总体中的“该参数θ”的“真值θ”了.
+“两者(latexmath:[ \widehat{\theta }] 和 θ)的距离，小于一个任意小的数ξ”的概率，就完全能达到100%了. 即两者其实就等于是同一个数.
 
 
 

@@ -62,12 +62,12 @@
 
 |对立事件
 |即非此即彼, 二选一. 换言之, A,B 互不相同, 且 stem:[ A∪B=Ω, \  AB=Φ, \ A+B=Ω] +
-记作: stem:[ A = \overline(B)] ← A 等于 B逆 +
-或 stem:[ B = \overline(A)]
+记作: stem:[ A = \overline{B}] ← A 等于 B逆 +
+或 stem:[ B = \overline{A}]
 
-stem:[ \overline(\overline(A))=A] ← 相当于负负得正,  "A逆"的逆, 就等于A自己
+stem:[ \overline{\overline{A})=A] ← 相当于负负得正,  "A逆"的逆, 就等于A自己
 
-stem:[ A-B =A - AB = A \overline(B)]
+stem:[ A-B =A - AB = A \overline{B}]
 
 image:img/0001.png[,]
 
@@ -97,14 +97,14 @@ image:img/0004.png[,]
 
 
 |对偶律
-|stem:[ \overline(A∪B) = \overline(A) ∩ \overline(B)]   ← A并B后的逆, 等于A逆 交 B逆 +
+|stem:[ \overline{A∪B} = \overline{A} ∩ \overline{B}]   ← A并B后的逆, 等于A逆 交 B逆 +
 image:img/0005.png[,]
 
-stem:[ \overline(A_1 ∪ A_2 ∪ ... ∪ A_n) = \overline(A_1) ∩ \overline(A_2) ∩ ... ∩ \overline(A_n)]
+stem:[ \overline{A_1 ∪ A_2 ∪ ... ∪ A_n} = \overline{A_1} ∩ \overline{A_2} ∩ ... ∩ \overline{A_n}]
 
-stem:[ \overline(A∩B) = \overline(A) ∪ \overline(B)]   ← 长线变短线, 里面的符号(交或并)要改变方向 (原∩变∪, 原∪变∩)
+stem:[ \overline{A∩B} = \overline{A} ∪ \overline{B}]   ← 长线变短线, 里面的符号(交或并)要改变方向 (原∩变∪, 原∪变∩)
 
-stem:[ \overline(A_1 ∩ A_2 ∩ ... ∩ A_n) = \overline(A_1) ∪ \overline(A_2) ∪ ... ∪ \overline(A_n)]
+stem:[ \overline{A_1 ∩ A_2 ∩ ... ∩ A_n} = \overline{A_1} ∪ \overline{A_2} ∪ ... ∪ \overline{A_n}]
 |===
 
 
@@ -124,7 +124,7 @@ A, B, C 是 试验E 的随机事件.
 |stem:[ A\overline{B}\overline{C}]
 
 |A, B, C 恰有一个发生
-|stem:[ A \overline(B) \overline(C) + \overline(A) B \overline(C) + \overline(A) \overline(B) C]
+|stem:[ A \overline{B} \overline{C} + \overline{A} B \overline{C} + \overline{A} \overline{B} C]
 
 |A, B, C 同时发生
 | ABC
@@ -133,13 +133,13 @@ A, B, C 是 试验E 的随机事件.
 | A+B+C 或 A∪B∪C
 
 |A, B, C 至多一个发生(那就说明"可以都不发生")
-|stem:[ A \overline(B) \overline(C) + \overline(A) B \overline(C) + \overline(A) \overline(B) C +  \overline(A)  \overline(B)  \overline(C) ]
+|stem:[ A \overline{B} \overline{C} + \overline{A} B \overline{C} + \overline{A} \overline{B} C +  \overline{A}  \overline{B}  \overline{C} ]
 
 |恰有两个发生
-|stem:[ AB \overline(C) + A \overline(B) C + \overline(A) BC  ]
+|stem:[ AB \overline{C} + A \overline{B} C + \overline{A} BC  ]
 
 |至少两个发生(即, 可以两个, 也可以三个)
-|stem:[ AB \overline(C) + A \overline(B) C + \overline(A) BC +ABC + AB(即 "C发不发生, 不用管") + BC + AC ]
+|stem:[ AB \overline{C} + A \overline{B} C + \overline{A} BC +ABC + AB(即 "C发不发生, 不用管") + BC + AC ]
 |===
 ====
 
@@ -206,7 +206,7 @@ image:img/0026.png[,]
 
 == 公理化
 
-==== stem:[ P(A) + P(\overline(A)) = 1]
+==== stem:[ P(A) + P(\overline{A}) = 1]
 
 ---
 

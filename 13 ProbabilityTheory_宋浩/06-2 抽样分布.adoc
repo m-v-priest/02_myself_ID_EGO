@@ -8,6 +8,7 @@
 
 == 卡方分布 chi-square distribution → stem:[χ^2]
 
+[.small]
 [options="autowidth" cols="1a,1a"]
 |===
 |Header 1 |Header 2
@@ -26,7 +27,7 @@
 |卡方分布的"概率函数f(x)" 图像
 |image:img/0696.webp[,]
 
-image:img/0695.png[,]
+image:img/0695.png[,45%]
 
 |卡方分布的 f(x)图像的规律
 |- 呈正偏态（右偏态）. 自由度n 越小，分布越偏斜。
@@ -38,8 +39,8 @@ image:img/0695.png[,]
 |
 
 |- *当自由度n=2时, 这个卡方分布 stem:[χ^2(2)], 就等于 λ=1/2 时的"指数分布".*
-|image:img/0697.png[,]
-image:img/0698.png[,]
+|image:img/0697.png[,45%]
+image:img/0698.png[,45%]
 
 
 |均值和方差
@@ -48,8 +49,8 @@ image:img/0698.png[,]
 
 |- 卡方分布, 其f(x)曲线的最高点, 即最高的y值, 在 n-2 处.
 |比如, +
-image:img/0699.png[,]
-image:img/0700.png[,]
+image:img/0699.png[,45%]
+image:img/0700.png[,45%]
 |===
 
 

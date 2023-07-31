@@ -12,9 +12,9 @@
 
 
 
-image:img/0680.png[,]
+image:img/0680.png[,50%]
 
-image:img/0681.png[,]
+image:img/0681.png[,70%]
 
 
 
@@ -41,6 +41,7 @@ image:img/0681.png[,]
 
 正态分布 有三个数学性质:
 
+[.small]
 [options="autowidth"]
 |===
 |Header 1 |Header 2
@@ -69,12 +70,14 @@ image:img/0681.png[,]
 
 一些软件, 告诉你开机时间多少秒, 打败了全国97%的用户, 这个是怎么算出来的? 就是利用了"正态分布模型". 只要随机抽取一部分用户的开机数据，算出"均值"和"标准差",就可以确定一条正态分布曲线。*在正态分布中，一个标准差, 覆盖68.26%的数据; 两个标准差, 覆盖95.44%的数据. 软件只需要比较你的开机时间和均值的差距，就能知道你距离均值多少个标准差，也就知道你的排名了。*
 
-image:img/0600.webp[,]
+image:img/0600.webp[,40%]
 
 **所以, 正态分布，为我们提供了一个估算个体在整体中位置的便捷方法。**像智商、身高、考试成绩，只要服从正态分布，我们就都能这样快速得到答案。
 
 
 不同的正态分布曲线, 也能比较:
+
+[.small]
 [options="autowidth"  cols="1a,1a"]
 |===
 |Header 1 |Header 2
@@ -86,7 +89,7 @@ image:img/0600.webp[,]
 |
 比如, 假若男女智商的正态分布曲线如下,
 
-image:img/0601.png[,]
+image:img/0601.png[,50%]
 
 能看出:
 
@@ -144,59 +147,59 @@ image:img/0602.png[,]
 
 == 抛硬币的例子
 
-image:img/0370.png[,]
+image:img/0370.png[,60%]
 
-image:img/0371.png[,]
+image:img/0371.png[,60%]
 
-image:img/0372.png[,]
+image:img/0372.png[,60%]
 
-image:img/0373.png[,]
+image:img/0373.png[,60%]
 
-image:img/0374.png[,]
+image:img/0374.png[,60%]
 
-image:img/0375.png[,]
+image:img/0375.png[,60%]
 
-image:img/0376.png[,]
+image:img/0376.png[,60%]
 
-image:img/0377.png[,]
+image:img/0377.png[,60%]
 
-image:img/0378.png[,]
+image:img/0378.png[,60%]
 
-image:img/0379.png[,]
+image:img/0379.png[,60%]
 
-image:img/0380.png[,]
+image:img/0380.png[,60%]
 
-image:img/0381.png[,]
+image:img/0381.png[,60%]
 
-image:img/0382.png[,]
+image:img/0382.png[,60%]
 
-image:img/0383.png[,]
+image:img/0383.png[,60%]
 
-image:img/0384.png[,]
+image:img/0384.png[,60%]
 
-image:img/0385.png[,]
+image:img/0385.png[,60%]
 
-image:img/0386.png[,]
+image:img/0386.png[,60%]
 
-image:img/0387.png[,]
+image:img/0387.png[,60%]
 
-image:img/0388.png[,]
+image:img/0388.png[,60%]
 
-image:img/0389.png[,]
+image:img/0389.png[,60%]
 
-image:img/0390.png[,]
+image:img/0390.png[,60%]
 
-image:img/0391.png[,]
+image:img/0391.png[,60%]
 
-image:img/0392.png[,]
+image:img/0392.png[,60%]
 
-image:img/0393.png[,]
+image:img/0393.png[,60%]
 
-image:img/0394.png[,]
+image:img/0394.png[,60%]
 
-image:img/0395.png[,]
+image:img/0395.png[,60%]
 
-image:img/0396.png[,]
+image:img/0396.png[,60%]
 
 
 
@@ -208,6 +211,7 @@ image:img/0396.png[,]
 
 == 正态分布 Normal distribution -> stem:[ X ~ N(μ, σ^2)]
 
+[.small]
 [options="autowidth" cols="1a,1a"]
 |===
 |Header 1 |Header 2
@@ -239,13 +243,13 @@ image:img/0396.png[,]
 
 下图中的三条曲线f (x)，就是概率密度函数，各种形式的概率就是相对应的曲线下面积。
 
-image:img/0157.jpg[,]
+image:img/0157.jpg[,80%]
 
-image:img/0168.jpg[,]
+image:img/0168.jpg[,80%]
 
-image:img/0167.jpg[,]
+image:img/0167.jpg[,80%]
 
-image:img/0169.jpg[,]
+image:img/0169.jpg[,80%]
 
 
 
@@ -254,7 +258,7 @@ image:img/0169.jpg[,]
 
 - *一旦"均值μ"和"标准差σ"确定，"正态分布曲线"也就确定.*
 
-image:img/0158.jpg[,]
+image:img/0158.jpg[,60%]
 
 
 ---
@@ -295,7 +299,7 @@ A和B的均值一样，但标准差不同，所以形状不同，根据我们的
 ====
 例如：
 
-
+[.small]
 [options="autowidth" cols="1a,1a"]
 |===
 |Header 1 |Header 2
@@ -330,7 +334,7 @@ A和B的均值一样，但标准差不同，所以形状不同，根据我们的
 
 *经过"标准化"后，原来的曲线的形状不会变化，即不会改变胖瘦，只是位置发生平移.*
 
-image:img/0159.jpg[,]
+image:img/0159.jpg[,80%]
 
 本例中, 经过"标准化"后, 均数μ 就从1010, 移到了0的位置.
 
@@ -371,7 +375,7 @@ image:img/0160.jpg[,]
 
 先看 Z≤0.54 的P值.  第一个小数是5, 就在表格的最左边那一列，找到0.5. 第二个小数是4，就定位到"顶行"的4那一列. 得到 0.7054.
 
-image:img/0161.jpg[,]
+image:img/0161.jpg[,70%]
 
 
 同样, 找到 Z≤-0.77 对应的P值, 是0.2206.
@@ -396,11 +400,10 @@ P(-0.77 ≤ Z ≤ 0.54)
 
 并且:
 
-image:img/0162.jpg[,]
+image:img/0162.jpg[,45%]
+image:img/0163.jpg[,45%]
 
-image:img/0163.jpg[,]
-
-image:img/0164.jpg[,]
+image:img/0164.jpg[,45%]
 
 虽然理论上, "正态随机变量"可以取无数个值，定义域是整个实数轴，但实际上, **在[-1，1]这个区间就包含了它可以取的68%的值，[-2，2]区间包含了95%的值，[-3，3]包含了它可能取的99.7%的值。** 这里的1，2，3分别代表一个、两个, 和三个标准差。
 
@@ -420,14 +423,14 @@ image:img/0164.jpg[,]
 - 这个学校有68%的学生, 身高在1.25到1.55 之间. 这首尾两个数值, 就是 "均值1.4" 加减 "标准差0.15" 得到的（均数加减一个标准差）.
 - 有95%的学生, 身高在1.1到1.7之间（"均数"加减两个"标准差"）
 
-image:img/0166.png[,]
+image:img/0166.png[,60%]
 
 
 
 
 反过来计算也行, 如果我们知道了某个变量的95%区间的取值（关于"均值"对称），我们就可以算出对应的"均数"和"标准差"，进而就能几乎知道一切。
 
-image:img/0165.jpg[,]
+image:img/0165.jpg[,80%]
 ====
 
 
@@ -438,9 +441,8 @@ image:img/0165.jpg[,]
 
 正态分布的"概率密度函数" Probability Density Function :
 
-image:img/0170.webp[,]
-
-image:img/0171.webp[,]
+image:img/0170.webp[,40%]
+image:img/0171.webp[,45%]
 
 
 记作: stem:[ X ~ N(μ, σ^2)]   ← 称为: X服从"参数为μ, σ的正态分布(或高斯分布)". +
@@ -462,9 +464,9 @@ image:img/0171.webp[,]
 
 #芬(累加函数) 岛(的导数) 盖(是概率函数),  即: stem:[ F'(x) = f(x)]#
 
-image:img/0100.png[,]
+image:img/0100.png[,70%]
 
-image:img/0177.png[,]
+image:img/0177.png[,45%]
 
 ---
 
@@ -473,12 +475,12 @@ image:img/0177.png[,]
 
 === 性质1: 其概率密度函数 y=φ(x) 的曲线图形, 以 "x=均值μ" 为对称轴. 所以"正态分布" 的函数图像, 形状是个"钟形曲线".
 
-image:img/0178.png[,]
+image:img/0178.png[,30%]
 
 所以, 在 x=μ 处时, 函数就达到 y值的最大点, 即此时 stem:[ y= \frac{1} {\sqrt{2π} \cdot σ} ] : +
-image:img/0179.png[,]
+image:img/0179.png[,80%]
 
-image:img/0180.png[,]
+image:img/0180.png[,30%]
 
 
 ---
@@ -491,7 +493,7 @@ image:img/0180.png[,]
 
 === 性质3: 其概率密度函数 y=φ(x), 在 stem:[ x= μ \pm σ] 处有"拐点"
 
-image:img/0181.png[,]
+image:img/0181.png[,60%]
 
 不过, "拐点"在概率论里面, 用的不多.
 
@@ -509,7 +511,7 @@ image:img/0181.png[,]
 
 但注意, 无论是变瘦高, 还是变矮胖, 曲线下的阴影面积, 始终是=1, 不变的!
 
-image:img/0191.png[,]
+image:img/0191.png[,50%]
 
 
 ---
@@ -521,10 +523,11 @@ image:img/0191.png[,]
 
 == 标准正态分布 standard normal distribution -> 即当 均值μ=0, 标准差σ=1 时 的"正态分布"
 
-image:img/0182.png[,]
+image:img/0182.png[,90%]
 
 即:
 
+[.small]
 [options="autowidth"]
 |===
 |标准正态分布 (对称轴μ=0, σ=1) |Header 2
@@ -547,14 +550,14 @@ image:img/0182.png[,]
 并且, 其"累加函数"有: *stem:[ Φ_0(-x) = 1-  Φ_0(x) ]*   ← 这个公式很重要! +
 比如: stem:[ Φ_0(-4) =1- Φ_0(4)]
 
-image:img/0183.png[,]
+image:img/0183.png[,60%]
 
 .标题
 ====
 例如： +
-image:img/0186.png[,]
+image:img/0186.png[,80%]
 
-image:img/0187.png[,]
+image:img/0187.png[,80%]
 ====
 
 
@@ -568,7 +571,7 @@ image:img/0187.png[,]
 
 并且, 表的范围, 只给出了 stem:[ 0 \leq x < 5] 的值. 对于 stem:[ x ≥ 5] 的值, 因为此时的曲线高度, 即y值, 已经非常靠近y=0了, 所以我们就都可以认为, 对于 x≥5 的 "概率密度函数 stem:[ φ_0(x)]"的y值, 都=0.
 
-image:img/0184.png[,]
+image:img/0184.png[,60%]
 
 同样, 对于 x≥5 时, 其位置已经非常靠近整个曲线的右端末尾了, 而整个函数曲线下的面积也就=1, 所以, 在x≥5 处的"累加函数stem:[ Φ_0(x)]", 其值我们就可以认为是1.
 
@@ -603,14 +606,14 @@ image:img/0188.png[,]
 例如： +
 image:img/0190.png[,]
 
-image:img/0189.png[,]
+image:img/0189.png[,60%]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/0192.png[,]
+image:img/0192.png[,80%]
 
 这个例题, 就引出了 "3σ准则".
 ====
@@ -619,7 +622,7 @@ image:img/0192.png[,]
 
 == 3σ准则
 
-image:img/0193.png[,]
+image:img/0193.png[,30%]
 
 ---
 
@@ -630,7 +633,7 @@ image:img/0193.png[,]
 
 *比如下图,  stem:[x_p] 就是"p分位数". 意思是: 在stem:[x_p]这个点处, 该点左侧的曲线下的面积值=p . 即 stem:[P{X \leq x_p} = p]*
 
-image:img/0194.png[,]
+image:img/0194.png[,40%]
 
 ---
 
@@ -638,7 +641,7 @@ image:img/0194.png[,]
 
 如果有一个 stem:[x_α]点 (0<α<1), 它的stem:[P{X \geq x_α}= "面积"α], 那么我们就称:  stem:[x_α] 为X的"上侧分位数".
 
-image:img/0195.png[,]
+image:img/0195.png[,40%]
 
 在数理统计教程中，会把"标准正态分布"的"上侧分位数", 记为：stem:[u_α]
 
@@ -651,13 +654,13 @@ image:img/0195.png[,]
 
 X 是个正态分布, 即 X~N(0,1).  给定 α是 (0<α<1), 你去找 stem:[u_α], 使得 stem:[P{X>u_α}=α], 则, 这个 stem:[U_α] 就叫"上α分位数".
 
-image:img/0196.png[,]
+image:img/0196.png[,80%]
 
-image:img/0197.png[,]
+image:img/0197.png[,80%]
 
 上α分位数, 它其实就是 x轴上的一个点, 变量名写作:  stem:[u_{"右侧曲线下的面积"}]
 
-image:img/0198.png[,]
+image:img/0198.png[,80%]
 
 
 ---
@@ -666,24 +669,25 @@ image:img/0198.png[,]
 
 *下面的规律都是基于"总体"服从"正态分布"的前提*，这里只需要总体是"正态分布"即可，不需要是"标准正态分布"。
 
-
+[.small]
 [options="autowidth"]
 |===
 |Header 1 |Header 2
 
 |关于"样本均值stem:[ \overline{X}]"的分布
 |样本均值经过以下"标准化"后，就服从"标准正态分布": +
-image:img/0812.svg[,]
+latexmath:[ \frac{\overline{X}-\mu}{\frac{\sigma}{\sqrt[\]{n}}}\sim N\left( 0,1 \right)]
 
 即样本均值的期望=总体期望，样本均值的方差=总体方差的n分之一。
 
 
 若将分母中的"总体标准差σ"改为"样本标准差S"，则服从"自由度为n-1的 t分布"： +
-image:img/0813.svg[,]
+latexmath:[
+\frac{\overline{X}-\mu}{\frac{S}{\sqrt[\]{n}}}\sim t\left( n-1 \right)]
 
 |关于"样本方差stem:[ S^2]"的分布
 |样本方差乘以系数后，服从自由度为 n-1的卡方分布： +
-image:img/0814.svg[,]
+latexmath:[ \frac{\left( n-1 \right) S^2}{\sigma ^2}\sim X^2\left( n-1 \right)]
 
 需要注意的是，这里的自由度是n-1，因为这里样本方差是用每个样本减去样本均值。如果改为减去总体均值，其他内容不变，则服从自由度为n的卡方分布。因为样本均值多了一个约束（均值公式），因此自由度少了一个。
 
@@ -692,13 +696,14 @@ image:img/0814.svg[,]
 
 |两个"正态总体"时，两样本的关系
 |上面讲到的几个都是在"单个正态总体"的情况下。当有"两个正态总体"时，两个样本的方差和两个总体方差, 有以下分布： +
-image:img/0815.svg[,]  +
+latexmath:[\frac{S_{1}^{2}/S_{2}^{2}}{\sigma _{1}^{2}/\sigma _{2}^{2}}\sim F\left( n_1-1,n_2-1 \right)  ]
+
 即处理后的分布服从F分布。
 
-另外，一种特殊情况下，当 image:img/0816.svg[,] 时， +
-image:img/0815.svg[,]
+另外，一种特殊情况下，当 latexmath:[ \sigma _{1}^{2}=\sigma _{2}^{2}=\sigma ^2]  时， +
+latexmath:[\frac{S_{1}^{2}/S_{2}^{2}}{\sigma _{1}^{2}/\sigma _{2}^{2}}\sim F\left( n_1-1,n_2-1 \right)  ]
 
-其中，image:img/0818.svg[,]
+其中， latexmath:[ S_{w}^{2}=\frac{\left( n_1-1 \right) S_{1}^{2}+\left( n_2-1 \right) S_{2}^{2}}{n_1+n_2-2},\ S_w=\sqrt[\]{S_{w}^{2}}]
 |===
 
 

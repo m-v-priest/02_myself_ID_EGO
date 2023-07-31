@@ -8,11 +8,10 @@
 
 == F分布 F-distribution
 
-image:img/221114_040.png[,]
+image:img/221114_040.png[,45%]
+image:img/221114_041.png[,35%]
 
-image:img/221114_041.png[,]
-
-image:img/221114_042.png[,]
+image:img/221114_042.png[,45%]
 
 所以, 两个独立"卡方分布"的随机变量, 各自除以其自由度v后, 它们的比值, 就是F分布. 即: "F分布是"两个"卡方分布"除以其"自由度"之后的比值.
 
@@ -30,7 +29,7 @@ image:img/221114_044.png[,]
 
 F分布的 PDF 概率(密度)函数如下. 可以看出, 该函数只与两个自由度v1, v2有关.
 
-image:img/0745.png[,]
+image:img/0745.png[,45%]
 
 F分布有什么用呢? 主要用在两个目的上: +
 1.双样本方差检验 +
@@ -41,12 +40,12 @@ image:img/0746.png[,]
 
 F分布, 有两个参数. stem:[ F(n_1, n_2)]
 
-image:img/0752.png[,]
+image:img/0752.png[,60%]
 
 .标题
 ====
 例如： +
-image:img/0753.png[,]
+image:img/0753.png[,90%]
 ====
 
 
@@ -54,22 +53,19 @@ image:img/0753.png[,]
 
 == F分布的"上, 下分位数"
 
-image:img/0749.png[,]
+image:img/0749.png[,45%]
+image:img/0751.png[,35%]
 
-image:img/0751.png[,]
-
-image:img/0754.png[,]
-
-image:img/0755.png[,]
+image:img/0754.png[,45%]
+image:img/0755.png[,45%]
 
 .标题
 ====
 例如： +
-image:img/0757.png[,]
+image:img/0757.png[,80%]
 
-image:img/0756.png[,]
-
-image:img/0758.png[,]
+image:img/0756.png[,45%]
+image:img/0758.png[,45%]
 ====
 
 
@@ -79,9 +75,8 @@ image:img/0758.png[,]
 
 == 双样本方差 F检验
 
-image:img/0747.png[,]
-
-image:img/0748.png[,]
+image:img/0747.png[,45%]
+image:img/0748.png[,45%]
 
 
 ---

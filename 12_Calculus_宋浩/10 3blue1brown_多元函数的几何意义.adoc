@@ -157,8 +157,7 @@ f(t,π) = \left[ \begin{matrix}
 3 sin(t) - sin(t) \\
 0\\
 \end{matrix} \right]
-=
-2\left[ \begin{matrix}
+=2\left[ \begin{matrix}
 cos(t)\\
 sin(t)\\
 0\\

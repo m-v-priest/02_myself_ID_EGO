@@ -29,7 +29,7 @@
 例如： +
 image:img/0258.png[,]
 
-image:img/0259.png[,]
+image:img/0259.png[,80%]
 ====
 
 ---
@@ -41,6 +41,7 @@ image:img/0259.png[,]
 例如： +
 如 设 (X,Y)的概率分布为:
 
+[.small]
 [options="autowidth"]
 |===
 | |Y= -1 |Y= 0 |Y= 2
@@ -56,7 +57,7 @@ image:img/0259.png[,]
 |0.1
 |===
 
-
+[.small]
 |===
 |Header 1 |Header 2
 
@@ -80,13 +81,13 @@ https://www.51wendang.com/doc/1b2e04bf8cd05590feb03c1a
 .标题
 ====
 例如： +
-image:img/0260.png[,]
+image:img/0260.png[,40%]
 
-image:img/0261.png[,]
+image:img/0261.png[,80%]
 
-image:img/0262.png[,]
+image:img/0262.png[,80%]
 
-image:img/0263.png[,]
+image:img/0263.png[,60%]
 ====
 
 
@@ -110,7 +111,7 @@ image:img/0265.png[,]
 例如： +
 image:img/0266.png[,]
 
-image:img/0267.png[,]
+image:img/0267.png[,25%]
 ====
 
 
@@ -118,8 +119,8 @@ image:img/0267.png[,]
 .标题
 ====
 例如：
-image:img/0268.png[,]
-image:img/0269.svg[,]
+image:img/0268.png[,40%]
+image:img/0269.svg[,40%]
 
 image:img/0270.png[,]
 ====
