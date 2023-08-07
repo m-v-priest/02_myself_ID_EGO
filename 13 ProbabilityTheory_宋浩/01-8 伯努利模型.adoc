@@ -8,6 +8,7 @@
 
 == 伯努利模型 bernoulli model
 
+[.small]
 [options="autowidth"]
 |===
 |Header 1 |Header 2
@@ -59,7 +60,9 @@ n重"伯努利试验"中, 事件A恰好发生k次的概率就是:
 
 什么是二项式? stem:[ (a+b)^n] 展开, 就是二项式.
 
-image:img/0067.png[,]
+
+
+image:img/0067.png[,45%]
 
 .标题
 ====

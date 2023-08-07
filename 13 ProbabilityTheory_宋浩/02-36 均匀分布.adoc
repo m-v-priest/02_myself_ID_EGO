@@ -17,16 +17,16 @@
 
 image:img/0144.png[,]
 
-
+[.small]
 [options="autowidth"]
 |===
 |Header 1 |Header 2
 
 |概率函数f(x)
-|image:img/0146.png[,]
+|image:img/0146.png[,35%]
 
 |分布函数F(x)
-|image:img/0145.png[,]
+|image:img/0145.png[,35%]
 |===
 
 
@@ -35,7 +35,7 @@ image:img/0144.png[,]
 
 也就是说, "均匀分布" 在[a,b]区间的概率值, 是一个矩形. 所以其里面的 [c,d]区间的概率, 也是一个小矩形. 这两个矩形的面积之比, 就是它们相应的"长或宽的长度"对比.
 
-image:img/0147.png[,]
+image:img/0147.png[,35%]
 
 
 .标题
@@ -43,7 +43,7 @@ image:img/0147.png[,]
 例如： +
 image:img/0148.png[,]
 
-image:img/0149.svg[,]
+image:img/0149.svg[,80%]
 
 
 用 mathematica 计算 :

@@ -11,6 +11,7 @@
 
 === 离散型随机变量 & 连续型随机变量
 
+[.small]
 [options="autowidth"]
 |===
 |Header 1 |Header 2
@@ -39,7 +40,7 @@ stem:[X={x \| a \leq x \leq b}, -∞ < a < b < ∞ ] +
 
 概率(质量)函数, 即用函数的形式来描述概率，比如，掷骰子不同点朝上的概率为： +
 
-image:img/0096.png[,]
+image:img/0096.png[,50%]
 
 在这个函数里:
 
@@ -58,7 +59,7 @@ image:img/0096.png[,]
 
 "概率分布", 即概率的分布，将可能的取, 值和对应的概率, 全都陈列出来。同样还是掷骰子为例：
 
-image:img/0097.png[,]
+image:img/0097.png[,60%]
 
 上面这样的列表, 被叫做"离散型随机变量"的“概率分布”。严格来说，它应该叫“离散型随机变量的'值分布', 和'值的概率分布' 列表”. 因为这个列表，上面是"值"; 下面是这个取值, 相应取到的"概率". 而且这个列表, 把所有可能出现的情况全部都列出来了！
 
@@ -78,14 +79,11 @@ image:img/0098.png[,]
 
 *所以, 概率分布函数 F(x)的值, 就是"概率函数"取值的累加结果. 所以它又叫"累积概率函数".*
 
-image:img/0175.svg[,]
+image:img/0175.svg[,45%]
+image:img/0099.png[,45%]
 
-
-image:img/0099.png[,]
-
-image:img/0094.png[,]
-
-image:img/0093.png[,]
+image:img/0094.png[,55%]
+image:img/0093.png[,35%]
 
 
 
@@ -130,12 +128,12 @@ h 这么长的区间 (x, x+h) 内，每个单位的长度, 所占有的概率). 
 
 ====
 
-image:img/0100.png[,]
+image:img/0100.png[,45%]
 
 *上图, 右边是"概率函数", 左边是"累加函数". 右图上的曲线段下的阴影面积 stem:[ \int f(x)], 不就是这段曲线的积分嘛! 而左图的"累加函数 F(x)", 不正是"概率函数f(x)" 在一段区间上的累加吗(即 Σ(y))! 所以, 右图的"概率函数f(x)"的积分, 不正是等于左图的"累加函数F(x)"吗! 所以, stem:[ \int 概f(x) dx = 加F(x)].    反过来, "累加函数F(x)"的导数, 就是"概率函数f(x)"!*
 
 
-image:img/0176.svg[;]
+image:img/0176.svg[,]
 
 上图左边是F(x) "连续型随机变量" "分布函数"画出的图形，右边是f(x) "连续型随机变量"的"概率密度函数"画出的图像，它们之间的关系就是: *概率密度函数, 是分布函数的"导函数".*
 
@@ -179,7 +177,7 @@ A: 其实 概率密度函数值 即为 概率在该点的变化率.
 
 image:img/0080.png[,]
 
-
+[.small]
 [options="autowidth"]
 |===
 |Header 1 |Header 2
@@ -199,10 +197,11 @@ image:img/0080.png[,]
 == 分布函数 Distribution Function 的公式 (对离散型, 和连续型, 都成立)
 
 
-image:img/0081.png[,]
+image:img/0081.png[,80%]
 
 下面用配图来说明, 即:
 
+[.small]
 [options="autowidth"]
 |===
 |分布函数 stem:[F(x)=P{X \leq x}] 的公式有: |图中, stem:[蓝-绿=橙]
@@ -244,9 +243,9 @@ image:img/0087.png[,]
 例如： +
 image:img/0088.png[,]
 
-image:img/0089.png[,]
+image:img/0089.png[,80%]
 
-image:img/0090.png[,]
+image:img/0090.png[,80%]
 
 注意: 使用上图中的快速解法时, 表中的X的值, 必须先要从小到大排好. 而不能顺序乱排.
 ====
@@ -256,14 +255,14 @@ image:img/0090.png[,]
 
 == "连续型随机变量"的"分布函数"
 
-image:img/0101.png[,]
+image:img/0101.png[,50%]
 
 .标题
 ====
 例如： +
 image:img/0102.png[,]
 
-image:img/0103.svg[,]
+image:img/0103.svg[,50%]
 ====
 
 
@@ -272,11 +271,10 @@ image:img/0103.svg[,]
 .标题
 ====
 例如： +
-image:img/0104.png[,]
+image:img/0104.png[,80%]
 
-image:img/0105.png[,]
-
-image:img/0106.svg[,]
+image:img/0105.png[,20%]
+image:img/0106.svg[,70%]
 ====
 
 
@@ -289,7 +287,7 @@ image:img/0106.svg[,]
 例如： +
 image:img/0108.png[,]
 
-image:img/0107.svg[,]
+image:img/0107.svg[,50%]
 ====
 
 

@@ -10,9 +10,9 @@
 == ★ Mathematica 和 Geogebra 中, "概率函数 PDF"的用法
 
 
-image:img/0682.png[,]
+image:img/0682.png[,80%]
 
-image:img/0683.png[,]
+image:img/0683.png[,45%]
 
 
 
@@ -43,15 +43,16 @@ image:img/0683.png[,]
 
 === 解释2
 
+[.small]
 [options="autowidth"]
 |===
 |Header 1 |Header 2
 
 |"频数"的分布直方图
-|image:img/0440.png[,]
+|image:img/0440.png[,60%]
 
 |"频率"的分布直方图
-|image:img/0441.png[,]
+|image:img/0441.png[,60%]
 
 上面"频率"的分布直方图, 我们可以发现: 其y轴是 stem:[ \frac{"频率"}{"组距"}]
 
@@ -63,14 +64,14 @@ image:img/0683.png[,]
 |"一维随机变量X" 的"概率(密度)函数" f(x)
 |对"频率"的分布直方图 , 我们把组距缩小, 缩到无穷小, 就能形成 "概率(密度)函数", 此时, y轴就成为了"概率".
 
-image:img/0442.png[,]
+image:img/0442.png[,60%]
 
 概率(密度)函数, 就是单位时间(长度/面积/空间, 即一维,二维,三维)内, 事件发生的概率.
 
 |"一维随机变量X" 的"累加函数" F(X) (即分布函数)
 |函数 stem:[ F(X) = P{X≤x}], 就称为 X 的"累加函数".
 
-image:img/0443.png[,]
+image:img/0443.png[,50%]
 
 |二维随机变量(X,Y)
 |image:img/0444.png[,]
@@ -94,15 +95,16 @@ https://www.bilibili.com/video/BV1DW4y1r71v/?spm_id_from=333.337.search-card.all
 
 
 
-image:img/0299.png[,]
+image:img/0299.png[,50%]
 
+[.small]
 [options="autowidth"]
 |===
 |Header 1 |"概率函数" 和 "累加函数"
 
 |离散型数据的
 |下图, 左边是"概率函数", 右边是"累加函数" +
-image:img/0300.png[,]
+image:img/0300.png[,50%]
 
 ....
 - cumulative (a.) :
@@ -112,18 +114,17 @@ including all the amounts that have been added previously 累计的；累积的
 the monthly sales figures and the cumulative total for the past six months 每月的销售数字和过去六个月的累计总数
 ....
 
-image:img/0301.png[,]
+image:img/0301.png[,45%]
+image:img/0302.png[,45%]
 
-image:img/0302.png[,]
-
-image:img/0303.png[,]
+image:img/0303.png[,45%]
 
 |连续型数据的
-|image:img/0304.png[,]
+|image:img/0304.png[,45%]
 
 |===
 
-image:img/0305.png[,]
+image:img/0305.png[,50%]
 
 
 
@@ -141,13 +142,13 @@ image:img/0305.png[,]
 典型的"离散概率分布"包括: 伯努利分布，二项分布，几何分布，泊松分布等.
 
 
-image:img/0172.jpg[,]
+image:img/0172.jpg[,20%]
 
 .标题
 ====
 例如：
 比如，掷骰子不同点朝上的概率为： +
-image:img/0096.png[,]
+image:img/0096.png[,50%]
 
 在这个函数里:
 
@@ -167,7 +168,7 @@ image:img/0096.png[,]
 "连续型数据"的概率分布, 称为"概率密度函数"（PDF）.  +
 典型的"连续概率分布"包括: 正态分布，指数分布等.
 
-image:img/0173.jpg[,]
+image:img/0173.jpg[,30%]
 
 
 
@@ -188,10 +189,8 @@ image:img/0173.jpg[,]
 == 概率分布函数,或叫"累积分布函数" Cumulative Distribution Function (CDF) <- 是对"概率函数"值的累加结果 . 具体说就是: 是对"概率质量函数"的累加, 或对"概率密度函数"的积分
 
 
-image:img/0174.jpg[,]
-
-
-image:img/0175.svg[,]
+image:img/0174.jpg[,30%]
+image:img/0175.svg[,50%]
 
 
 对于随机变量, 我们通常关心的, 并不是它取某个值的概率(即我们并不关心它的分布律), 而是更关心它落在某个区间内的概率. 比如, 某考试, 我们关心的是不及格的人数, 和分数 ≥80分的人数. 这个区间段所占的概率值, 就是用"累加函数(又叫"分布函数")"来表示的, 即:
@@ -199,15 +198,14 @@ image:img/0175.svg[,]
 **P{随机变量X ≤ 自变量x} = F(x) ← 它表示随机变量X 落在 (-∞, x] 这段区间上的概率.** +
 既然F(x)是个概率值, 所以它的取值范围, 就是 0-1. 即 stem:[0 \leq F(x) \leq 1].
 
-image:img/0199.png[,]
+image:img/0199.png[,30%]
 
-\begin{align*}
-& 对于P\{x_1 < X \leq x_2\}, 即随机变量X 在 (x_1, x_2] 这段区间上的概率, 它的值, 就等于 \\
-& =F(x_2)-F(x_1) \\
-& = P\{X \leq x_2\} - P\{X \leq x_1\}
-\end{align*}
+对于 latexmath:[ P\{x_1 < X \leq x_2\}] , 即随机变量X 在 (x_1, x_2] 这段区间上的概率, 它的值, 就等于 +
+latexmath:[  =F(x_2)-F(x_1) \\
+ = P\{X \leq x_2\} - P\{X \leq x_1\}]
 
-image:img/0200.svg[,]
+
+image:img/0200.svg[,40%]
 
 ---
 
@@ -219,12 +217,11 @@ image:img/0200.svg[,]
 
 === F(-∞)=0 , F(+∞)=1
 
-\begin{align*}
-& F(-∞)= \lim_{x -> -∞} F(x)=0  <- 称之为"不可能事件"\\
-& F(+∞)= \lim_{x -> +∞} F(x)=1 <- 称之为"必然事件"\\
-\end{align*}
+latexmath:[ F(-∞)= \lim_{x \to -∞} F(x)=0]  <- 称之为"不可能事件" +
+latexmath:[F(+∞)= \lim_{x \to +∞} F(x)=1  ] <- 称之为"必然事件"
 
-image:img/0201.svg[,]
+
+image:img/0201.svg[,40%]
 
 ---
 

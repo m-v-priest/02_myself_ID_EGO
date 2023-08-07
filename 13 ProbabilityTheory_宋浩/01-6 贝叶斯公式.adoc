@@ -35,15 +35,15 @@ Rationality is not about knowing facts, It's about recognizing which facts are r
 
 那么在总共300人中, 他们的比例就如下图:
 
-image:img/0633.webp[,]
+image:img/0633.webp[,45%]
 
 假如你听到"彬彬有礼"这类描述, 你的直觉是: 40%的图书馆管理员符合这个描述,而只有10%的农民符合这个描述. 如果这是你的估计, 那就意味着你的样本中, 会有大约 stem:[10 \cdot 40% = 4]个图书馆管理员, 和大约 stem:[200 \cdot 10% = 20] 个农民, 符合这个描述.
 
-image:img/0634.webp[,]
+image:img/0634.webp[,45%]
 
 所以, 从满足这个描述的人群中, 随便抽出一个人. 是图书管理员的概率就是 :
 
-image:img/0635.png[,]
+image:img/0635.png[,70%]
 
 所以, 即使你认为"符合这个描述的人是一个图书馆管理员的可能性, 是一个农民的4倍", 也抵不过农民的数量很多.
 ====
@@ -64,9 +64,9 @@ image:img/0635.png[,]
 
 根据美国1992年发布的数据推算: 每10万个被家暴的妇女中, 有43个会被谋杀。其中40个是被丈夫谋杀, 其他3个是被丈夫以外的人谋杀. 那么, 条件概率就是:
 
-image:img/0636.png[,]
+image:img/0636.png[,80%]
 
-image:img/0637.svg[,]
+image:img/0637.svg[,45%]
 
 即:
 
@@ -90,6 +90,7 @@ image:img/0637.svg[,]
 
 概率问题, 其实可以分成两种 :
 
+[.small]
 [options="autowidth"  cols="1a,1a"]
 |===
 |Header 1 |Header 2
@@ -111,6 +112,7 @@ image:img/0637.svg[,]
 
 ==== ①先验概率 , ②后验概率
 
+[.small]
 [options="autowidth"  cols="1a,1a"]
 |===
 |Header 1 |Header 2
@@ -164,7 +166,7 @@ image:img/0651.png[,]
 .标题
 ====
 例如： +
-image:img/0652.png[,]
+image:img/0652.png[,90%]
 ====
 
 
@@ -202,19 +204,18 @@ image:img/0652.png[,]
 
 先发生的事情(步骤), 用A表示. 后发生的事情(步骤), 用B表示.
 
-image:img/0638.png[,]
+image:img/0638.png[,45%]
 
 其他路径的概率, 也是同理
 
-image:img/0639.png[,]
-
-image:img/0640.png[,]
+image:img/0639.png[,45%]
+image:img/0640.png[,45%]
 
 - 到第二步的, 其实就是"全概率公式"
 
 - 到第一步的, 其实就是"贝叶斯公式". 即 已知第二步的结果B, 我们来倒推推测它到底是从哪条路径走过来的 (即在第一步中是从哪个路口过来的). 比如, 如果从第stem:[ A_1] 节点过来, 那么其概率就是: stem:[ P(A_1 |B) = \frac{"路径①的概率"} {"路径①的概率 + 路径②的概率 + ... 路径n的概率"}]
 
-image:img/0641.png[,]
+image:img/0641.png[,70%]
 
 
 ---
@@ -230,20 +231,19 @@ P(A \|条件B) = \frac{P(AB)} {P(条件B)}
 
 其中, stem:[ P(AB)] 也可写作 stem:[P(A∩B)]
 
-image:img/0642.png[,]
+image:img/0642.png[,45%]
 
 .标题
 ====
-image:img/0643.png[,]
-
-image:img/0644.png[,]
+image:img/0643.png[,80%]
+image:img/0644.png[,15%]
 ====
 
 
 
 ==== 全概率公式
 
-image:img/0645.svg[,]
+image:img/0645.svg[,45%]
 
 上图, 粗线部分围起来的整块, 就是B.  +
 B的概率, 就等于= 每一个彩色块的概率, 加总起来.
@@ -251,13 +251,13 @@ B的概率, 就等于= 每一个彩色块的概率, 加总起来.
 比如第1块, 橙色的概率, 就是 A1 和 B 的交集, 即 stem:[ = P(A_1 ∩ B)] +
 P(B) = 所有5块彩色的概率 加起来. 即得到下图中的"全概率公式".
 
-image:img/0646.png[,]
+image:img/0646.png[,90%]
 
 如果我们把 全集分为 两部分: A 和 stem:[ \overline{A}], 则, B的部分, 就是: stem:[ P(B)= P(A) \cdot P(B \|A) +  P( \overline{A}) \cdot P(B \| \overline{A})]
 
 如下图:
 
-image:img/0647.svg[,]
+image:img/0647.svg[,45%]
 
 
 
@@ -268,7 +268,7 @@ image:img/0648.png[,]
 .标题
 ====
 例如： +
-image:img/0649.png[,]
+image:img/0649.png[,80%]
 ====
 
 
@@ -296,7 +296,7 @@ image:img/0057.png[,]
 
 image:img/0058.png[,]
 
-image:img/0059.png[,]
+image:img/0059.png[,50%]
 
 
 .标题
@@ -304,7 +304,7 @@ image:img/0059.png[,]
 例如： +
 image:img/0060.png[,]
 
-image:img/0061.png[,]
+image:img/0061.png[,20%]
 ====
 
 

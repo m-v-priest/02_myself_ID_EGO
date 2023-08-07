@@ -10,11 +10,11 @@
 == ★ Mathematica 和 Geogebra 中, "二项分布"的用法
 
 
-image:img/0677.png[,]
+image:img/0677.png[,80%]
 
-image:img/0678.png[,]
+image:img/0678.png[,50%]
 
-image:img/0679.png[,]
+image:img/0679.png[,80%]
 
 
 
@@ -37,7 +37,7 @@ Variable “X” follows a Binomial distribution with 10 trials /and a likelihoo
 
 此外，我们可以通过一次试验, 将"伯努利分布", 表示为"二项分布"。
 
-image:img/0126.png[,]
+image:img/0126.png[,40%]
 
 假设, 你的教授给全班同学来了一个惊喜的突击测验，考试是10个判断题. 你对某一道题的猜测, 这就是属于"伯努利事件" a Binomial Event  (只有两种选择, "对"或"错"). 而整个测验, 是属于一个"二项事件"。 the entire quiz is a Binomial Event.
 
@@ -48,14 +48,14 @@ the expected value of the Bernoulli distribution /suggests(v.) which outcome we 
 现在，"二项分布"的期望值, 是我们期望获得特定结果的次数。 +
 the expected value of the Binomial distribution /would suggest(v.) the number of times we expect to get a specific outcome.
 
-image:img/0127.png[,]
+image:img/0127.png[,40%]
 
 *二项分布表示, 在特定的次数内, 能达到我们期望结果的可能性。* +
 the graph of the binomial distribution /represents(v.) the likelihood of /attaining(v.) our desired outcome /a specific number of times.
 
 例如， 我们来投掷一个正反面重量不平衡的硬币。如果我们投掷两次, 就需要三种不同的结果: 0个,1个, 或2个正面. 所以, 如果我们进行n次测试, 我们的图表将需要由“n+1”栏组成.
 
-image:img/0128.png[,]
+image:img/0128.png[,40%]
 
 如果我们希望在n次试验过程中, 精确地找到获得给定结果的相关可能性，就需要引入"二项分布的概率函数" stem:[ p(y)]. the probability function of the Binomial distribution.
 
@@ -79,7 +79,7 @@ https://www.bilibili.com/video/BV1Wu411k7wq?spm_id_from=333.999.0.0&vd_source=52
 
 某事件A发生的概率是P, 我们在做了n次试验后, 得到该事件A, 发生了k次, 则:
 
-image:img/0114.png[,]
+image:img/0114.png[,60%]
 
 之前说过的"0-1分布", 其实是本"二项分布"的一种特例而已.
 
@@ -88,7 +88,7 @@ image:img/0114.png[,]
 - 当 (n+1)p 为整数时, 满足最大值的k, 有两个: 即: ① stem:[ (n+1)p-1], 或 ② stem:[ (n+1)p]
 - 当 (n+1)p 不为整数时, 则k为这个区间内的唯一正整数. 即, 将 stem:[ (n+1)p] 取整, 即变成 stem:[ \[ (n+1)p \]] , 能达到最大值.
 
-image:img/0115.webp[,]
+image:img/0115.webp[,60%]
 
 image:img/0116.webp[,]
 

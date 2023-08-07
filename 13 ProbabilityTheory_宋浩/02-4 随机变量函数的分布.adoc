@@ -16,6 +16,7 @@
 例如： +
 比如, 有这个离散型的随机变量 X:
 
+[.small]
 [options="autowidth"]
 |===
 |X |7 |8 |9 |10 |
@@ -30,6 +31,7 @@
 
 我们用上面的X, 来构造出新的函数: Y=4X
 
+[.small]
 [options="autowidth"]
 |===
 |Y=4X |7*4=28 |8*4=32 |9*4=36 |10*4=40 |
@@ -44,6 +46,7 @@
 
 再用X 构造出这个新函数: stem:[Z=X^2]
 
+[.small]
 [options="autowidth"]
 |===
 |stem:[Z=X^2] |stem:[7^2=49] |stem:[8^2=64] |stem:[9^2=84] |stem:[10^2=100] |
@@ -63,6 +66,7 @@
 例如： +
 又比如: 有这个离散型的随机变量 X, 它每个结果的概率值如下表:
 
+[.small]
 [options="autowidth"]
 |===
 |X |-1 |0 |1 |2 |
@@ -77,6 +81,7 @@
 
 我们用这个X, 来构造出新的函数: stem:[Y=X^2]
 
+[.small]
 [options="autowidth"]
 |===
 |stem:[Y=X^2] |stem:[(-1)^2=1] |stem:[0^2=0] |stem:[1^2=1] |stem:[2^2=4] |
@@ -91,6 +96,7 @@
 
 注意, 上表中, 有两个 Y=1 的列, 即有重复的实验结果, 所以我们要把它们合并起来, 于是就有
 
+[.small]
 [options="autowidth"]
 |===
 |stem:[Y=X^2] |0 |1 |4  |
@@ -165,7 +171,7 @@ image:img/0204.png[,]
 例如： +
 image:img/0205.png[,]
 
-image:img/0206.svg[,]
+image:img/0206.svg[,50%]
 ====
 
 

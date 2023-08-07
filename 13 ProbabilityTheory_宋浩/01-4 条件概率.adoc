@@ -12,7 +12,9 @@
 
 条件概率是: 有样本空间Ω, 并且A, B 是两个事件. 其中 stem:[ P(B) >0], 则, 在B已经发生的条件下, A发生的概率, 就叫做A对B 的"条件概率". 记作: stem:[ P(A| "条件B")]，读作“在B发生的条件下, A发生的概率”.
 
-注意对比:  +
+注意对比:
+
+[.small]
 [options="autowidth"]
 |===
 ||样本空间是
@@ -35,17 +37,15 @@
 P(A | 条件B) = \dfrac{\dfrac{n_{AB}} {n}} {\dfrac{n_{B}} {n}} = \frac{P(AB)} {P(B)}
 \end{align}
 
-image:img/0038.png[]
-
-
-image:img/0042.svg[,]
+image:img/0038.png[,30%]
+image:img/0042.svg[,40%]
 
 
 
 .标题
 ====
 例如： +
-image:img/0039.png[,]
+image:img/0039.png[,65%]
 ====
 
 ---
@@ -60,14 +60,14 @@ image:img/0039.png[,]
 
 === 性质2: stem:[ P(Ω \| "条件B") = 1]
 
-image:img/0040.png[,]
+image:img/0040.png[,20%]
 
 
 ---
 
 ===  性质3: 可列可加性:  若 stem:[ A_1, A_2, ... A_n, ...] 是"互不相容"的事件, 则有: stem:[ P(\sum_{i=1}^∞ A_i | B) = \sum_{i=1}^∞ P(A_i | B)]
 
-image:img/0041.webp[,]
+image:img/0041.webp[,50%]
 
 ---
 
@@ -75,9 +75,9 @@ image:img/0041.webp[,]
 == 乘法公式 : stem:[ P(前后)=P(后) \cdot P(前|后) = P(前) \cdot P(后|前)]  ← 规律就是"前后前后"这样交错, 或反过来交错.
 
 
-image:img/0043.png[,]
+image:img/0043.png[,60%]
 
-image:img/0044.svg[,]
+image:img/0044.svg[,60%]
 
 
 image:img/0045.png[,]
@@ -86,14 +86,14 @@ image:img/0045.png[,]
 .标题
 ====
 例如： +
-image:img/0046.png[,]
+image:img/0046.png[,70%]
 ====
 
 
 .标题
 ====
 例如： +
-image:img/0047.png[,]
+image:img/0047.png[,65%]
 ====
 
 

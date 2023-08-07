@@ -11,12 +11,12 @@
 
 50年一遇的大雨.  你就以50年为时间段 (即平均会发生一次这种大雨, 即 μ=1), 在这50年中, 你遇到0次, 1次, 2次, ... 这种大雨的真实概率, 是多少?
 
-image:img/0687.png[,]
+image:img/0687.png[,50%]
 
 
 Mathematica中, 这个"均值"到底是"哪种时间长度"中的发生均值, 由你自己来确定. 比如, 本例就以 50年为时间段, 均值就是1.  如果拉长到100年为时间段, "50年一遇的大雨"在"100年时间段"中的发生均值, 就是2.
 
-image:img/0689.png[,]
+image:img/0689.png[,80%]
 
 image:img/0688.png[,]
 
@@ -52,27 +52,27 @@ k : 为随机事件发生次数. 比如,  +
 
 那么套用"泊松分布公式", 来算一下, 50年中, 一次上面的大雨也不发生的概率: 即 k=0次 :
 
-image:img/0624.png[,]
+image:img/0624.png[,60%]
 
 K=2，就是接下来的50年为单位的话, 在其中发生2次大暴雨的概率。代入公式一算，答案是18%。 如下图
 
-image:img/0625.png[,]
+image:img/0625.png[,60%]
 
 50年中, 发生2次和2次以上 的概率是: 用1 减去发生0次和发生1次的概率.= 1 - (0.3679*2) = 26%, 说明这并不是很小的概率事件.
 
-image:img/0626.png[,]
+image:img/0626.png[,60%]
 
 
 ==== 泊松分布的两个数学性质
 
+[.small]
 [options="autowidth"]
 |===
 |Header 1 |Header 2
 
 |1. 随着我们把"时间单位"拉长, 我们会发现: "泊松分布"的曲线越来越像"正态分布".
-|image:img/0627.png[,]
-
-image:img/0628.png[,]
+|image:img/0627.png[,40%]
+image:img/0628.png[,40%]
 
 |2. 泊松分布中, 事件对两次发生的时间间隔, 是无"记忆性"的.
 |即 : 后一次事件不会记得"距离它前一次发生, 时间隔了多久". 换言之, 事件之间是相互"独立"的关系.
@@ -112,13 +112,13 @@ image:img/0628.png[,]
 二项分布的"期望值", 是stem:[ E(X)=np=λ], 所以也就是泊松分布中, λ=np
 
 
-image:img/0129.png[,]
+image:img/0129.png[,60%]
 
 
 .标题
 ====
 例如： +
-image:img/0131.png[,]
+image:img/0131.png[,70%]
 
 
 其中, 你想要的在单位时间内, 事件发生的次数, 一般用λ表示, 也可用 mean 表示.  +
@@ -136,7 +136,7 @@ cumulative : 是否累积.   +
 -> 如果为FALSE，则使用"泊松概率密度函数"，即随机事件发生的次数恰好为x。
 ....
 
-image:img/0130.png[,]
+image:img/0130.png[,40%]
 ====
 
 
@@ -144,7 +144,7 @@ image:img/0130.png[,]
 .标题
 ====
 例如： +
-image:img/0132.png[,]
+image:img/0132.png[,90%]
 ====
 
 
@@ -152,7 +152,7 @@ image:img/0132.png[,]
 .标题
 ====
 例如： +
-image:img/0133.png[,]
+image:img/0133.png[,90%]
 ====
 
 
@@ -170,6 +170,7 @@ https://www.bilibili.com/video/BV1NE41117c2?spm_id_from=333.337.search-card.all.
 
 ---
 
+[.small]
 [options="autowidth"  cols="1a,1a"]
 |===
 |Header 1 |Header 2
@@ -214,7 +215,13 @@ https://www.bilibili.com/video/BV1NE41117c2?spm_id_from=333.337.search-card.all.
 |===
 
 
-image:img/0119.png[,]
+泊松分布 : latexmath:[ \boxed{ P\left\{ X=k \right\} =\frac{\lambda ^k}{k!}e^{-\lambda} }]
+latexmath:[ \left\{ \begin{array}{l}
+	\lambda >0\\
+	k=0,1,2,...\\
+\end{array} \right. ]
+记作 X ~ P(λ)
+
 
 即: 我们用 Po(λ) 来表示"泊松分布". λ是一个参数. 比如, 我们将 stem:[ Y ~ Po(4)] 读作: "变量Y" 遵循 "λ等于4" 的泊松分布.
 
@@ -226,7 +233,7 @@ The Poisson Distribution deals with the frequency with which an event occurs in 
 泊松分布图, 描绘了实例的数量. *事件发生在一个标准的时间间隔内，每个时间间隔的概率, 都是相同的。* 因为任何事件的发生次数, 不可能为负, 因此，我们的图表总是从0开始. **但在一段时间间隔内, 可能发生的次数却是没有上限的。
 **
 
-image:img/0122.png[,]
+image:img/0122.png[,45%]
 
 
 .标题
@@ -235,6 +242,7 @@ image:img/0122.png[,]
 
 在这个例子里:
 
+[.small]
 [options="autowidth"]
 |===
 |Header 1 |Header 2
@@ -249,13 +257,13 @@ image:img/0122.png[,]
 |时间间隔为一整个工作日.
 |===
 
-image:img/0123.png[,]
+image:img/0123.png[,45%]
 
 P(Y)的公式就是: +
-image:img/0124.png[,]
+image:img/0124.png[,45%]
 
 将具体的变量值代入上面的公式中, 即: +
-image:img/0125.png[,]
+image:img/0125.png[,45%]
 
 因此，收到7个问题的几率, 只有6%。
 
@@ -278,9 +286,9 @@ the expected value of Y, equals the sum of all the products of a distinct value 
 .标题
 ====
 例如： +
-image:img/0120.png[,]
+image:img/0120.png[,80%]
 
-image:img/0121.png[,]
+image:img/0121.png[,60%]
 ====
 
 

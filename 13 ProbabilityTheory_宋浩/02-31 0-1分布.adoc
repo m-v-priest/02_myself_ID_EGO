@@ -14,15 +14,24 @@
 - 当X=1时, 其概率P =P
 - 当X=0时, 其概率P =1-P
 
-image:img/0110.png[,]
+0-1 分布:
 
-image:img/0109.png[,]
+[options="autowidth"]
+|===
+|X → |1|0
+
+|P →
+|P
+|1-P
+|===
+
+image:img/0109.png[,75%]
 
 
 .标题
 ====
 例如： +
-image:img/0111.png[,]
+image:img/0111.png[,70%]
 ====
 
 

@@ -15,7 +15,7 @@
 例如： +
 image:img/0019.png[,]
 
-image:img/0020.png[,]
+image:img/0020.png[,35%]
 ====
 
 
@@ -27,15 +27,15 @@ image:img/0020.png[,]
 
 image:img/0023.png[,]
 
-image:img/0021.svg[,]
+image:img/0021.svg[,50%]
 
-image:img/0022.svg[,]
+image:img/0022.svg[,60%]
 
-image:img/0024.png[,]
+image:img/0024.png[,60%]
 
 ====
 
-
+[.small]
 [options="autowidth"]
 |===
 |古典概率模型 ↓|几何概率模型↓
@@ -50,7 +50,7 @@ image:img/0024.png[,]
 
 注意两者的区别: 一个是"有限(到n)"的加,  一个是"无限(到∞)"的加.
 
-image:img/0025.png[,]
+image:img/0025.png[,50%]
 
 
 
