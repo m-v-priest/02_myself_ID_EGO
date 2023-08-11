@@ -1,0 +1,80 @@
+<svg height="334" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="477" viewBox="0 0 477 334">
+    <defs/>
+    <g transform="translate(-287.00,-234.00)">
+        <g transform="translate(397.00,283.00)" id="shape1">
+            <path d="M.0,.0L75.0,.0L75.0,75.0L.0,75.0L.0,.0z" fill="#ffffff" fill-rule="nonzero" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="11.5" y="33.5">向你借入</tspan>
+                <tspan x="15.0" y="52.5">1000元</tspan>
+            </text>
+        </g>
+        <g transform="translate(412.00,235.00)" id="shape2">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="9.5" y="20.5">现在</tspan>
+            </text>
+        </g>
+        <g transform="translate(661.00,283.00)" id="shape3">
+            <path d="M.0,.0L75.0,.0L75.0,75.0L.0,75.0L.0,.0z" fill="#ffffff" fill-rule="nonzero" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="24.5" y="33.5">还你</tspan>
+                <tspan x="15.0" y="52.5">1100元</tspan>
+            </text>
+        </g>
+        <g transform="translate(676.00,235.00)" id="shape4">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="9.5" y="20.5">未来</tspan>
+            </text>
+        </g>
+        <g transform="matrix(0.97,-0.26,0.26,0.97,472.0,343.0)" id="shape5">
+            <path d="M.0,.0L195.5,.0L.0,.0L111.5,.0" fill="none" stroke="#191919"/>
+            <path d="M99.5,-6.0L111.5,.0L99.5,6.0" stroke-linecap="round" fill="none" stroke-width="1" stroke="#191919" stroke-linejoin="round"/>
+        </g>
+        <g transform="translate(506.50,246.00)" id="shape6">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="41.5" y="36.0">100元</tspan>
+                <tspan x="40.5" y="55.0">即利息</tspan>
+            </text>
+        </g>
+        <g transform="translate(313.50,299.00)" id="shape7">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="6.2" y="27.0">普通贷款</tspan>
+            </text>
+        </g>
+        <g transform="translate(382.00,417.50)" id="shape8">
+            <path d="M.0,.0L90.0,.0L90.0,92.0L.0,92.0L.0,.0z" fill="#ffffff" fill-rule="nonzero" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="19.0" y="32.5">向你借入</tspan>
+                <tspan x="21.0" y="51.5">1000元,</tspan>
+                <tspan x="7.0" y="70.5">但只收900元</tspan>
+            </text>
+        </g>
+        <g transform="translate(661.00,426.00)" id="shape9">
+            <path d="M.0,.0L75.0,.0L75.0,75.0L.0,75.0L.0,.0z" fill="#ffffff" fill-rule="nonzero" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="24.5" y="33.5">还你</tspan>
+                <tspan x="15.0" y="52.5">1000元</tspan>
+            </text>
+        </g>
+        <g transform="matrix(0.96,-0.28,0.28,0.96,472.0,491.1)" id="shape10">
+            <path d="M.0,.0L196.9,.0L.0,.0L112.2,.0" fill="none" stroke="#191919"/>
+            <path d="M100.2,-6.0L112.2,.0L100.2,6.0" stroke-linecap="round" fill="none" stroke-width="1" stroke="#191919" stroke-linejoin="round"/>
+        </g>
+        <g transform="translate(643.00,487.00)" id="shape11">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="15.5" y="36.0">多还你的100元</tspan>
+                <tspan x="14.5" y="55.0">即当做你的利息</tspan>
+            </text>
+        </g>
+        <g transform="translate(288.00,436.50)" id="shape12">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="6.0" y="32.5">贴现发行债券</tspan>
+            </text>
+        </g>
+        <g transform="translate(506.50,397.00)" id="shape13">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="27.5" y="36.0">中间不还息</tspan>
+                <tspan x="47.0" y="55.0">给你</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

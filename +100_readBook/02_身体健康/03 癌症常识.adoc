@@ -122,9 +122,9 @@ median effective dose, ED50 :  +
 
 这两个比值, 差异越大越好，化疗药物一般两者都高，各种垃圾保健品两者都低，因此都不理想。
 
-image:../../03_readBook/img_readBook/癌症常识/cancer_08.gif[]
+image:../img_readBook/癌症常识/cancer_08.gif[]
 
-image:../../03_readBook/img_readBook/癌症常识/cancer_03.gif[]
+image:../img_readBook/癌症常识/cancer_03.gif[]
 
 
 
@@ -238,7 +238,7 @@ image:../../03_readBook/img_readBook/癌症常识/cancer_03.gif[]
 2. 老年男性, 比女性得癌症概率高，主要原因是大量男性会得"前列腺癌"。
 3. 小孩也可能得癌症，但他们的癌症类型很特殊，和成人的完全不同。比如儿童可能得白血病.
 
-image:../../03_readBook/img_readBook/癌症常识/cancer_01.jpg[]
+image:../img_readBook/癌症常识/cancer_01.jpg[]
 
 - 为啥古人很少得癌症？因为他们平均寿命很短，还没来得及得癌症就已经死了。
 
@@ -498,7 +498,7 @@ image:../../03_readBook/img_readBook/癌症常识/cancer_01.jpg[]
 质子和重离子, 可以在到达肿瘤部位才释放出最大能量. 同时在经过肿瘤后, 几乎没有能量射出，这就是“布拉格峰”。 +
 因此，质子射线能够将放射能量精确分布在肿瘤上, 而对周围正常组织、器官大大减少照射。
 
-image:../../03_readBook/img_readBook/癌症常识/cancer_04.jpg[]
+image:../img_readBook/癌症常识/cancer_04.jpg[]
 
 
 所以"质子治疗"被推荐用于治疗周围有重要、敏感器官的肿瘤，或者更需要避免正常器官损伤的儿童癌症。
@@ -519,7 +519,7 @@ image:../../03_readBook/img_readBook/癌症常识/cancer_04.jpg[]
 
 *靶向药物就像钥匙一样，精确地锁住癌蛋白上的活性中心，从而抑制癌蛋白*，杀死癌细胞.
 
-image:../../03_readBook/img_readBook/癌症常识/cancer_07.jpg[]
+image:../img_readBook/癌症常识/cancer_07.jpg[]
 
 
 
@@ -648,7 +648,7 @@ image:../../03_readBook/img_readBook/癌症常识/cancer_07.jpg[]
 - 如果最终"激活机制"占了上风，通过"免疫检验点"这个关卡，免疫反应就被激活，开始活跃地进行各种清除病原体或者自身变异细胞的活动，以维持正常的机体健康。
 - 但是如果"抑制机制"占了上风，免疫反应就不会被激发。
 
-image:../../03_readBook/img_readBook/癌症常识/cancer_05.jpg[]
+image:../img_readBook/癌症常识/cancer_05.jpg[]
 
 **生物体的所有系统, 都是一个通过复杂"正反馈"和"负反馈"形成的平衡。很多"正信号"和"副信号"一起作用，来保证免疫系统处在理想的活性水平。**
 
@@ -678,7 +678,7 @@ image:../../03_readBook/img_readBook/癌症常识/cancer_05.jpg[]
 |“免疫检验点抑制剂”的种类
 |现在临床上患者使用的3种“免疫检验点抑制剂”, 分别是: PD1抑制剂、PD-L1抑制剂, 和CTLA4抑制剂。
 
-image:../../03_readBook/img_readBook/癌症常识/cancer_06.jpg[]
+image:../img_readBook/癌症常识/cancer_06.jpg[]
 
 |效果
 |从目前公布的临床实验结果来看，“免疫检验点抑制剂”对皮肤癌、肺癌、乳腺癌、肾癌，前列腺癌等展现了让人欣喜的结果.  +

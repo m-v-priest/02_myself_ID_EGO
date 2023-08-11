@@ -1,0 +1,117 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 884 271" width="884" height="271">
+    <defs/>
+    <g transform="translate(-118.56,-221.00)">
+        <g id="shape1" transform="translate(359.00,265.50)">
+            <path d="M.0,.0L95.0,.0L95.0,55.5L.0,55.5L.0,.0z" fill-rule="nonzero" stroke="#323232" fill="#ffffff"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="34.5" y="23.8">现在</tspan>
+                <tspan x="14.5" y="42.8">投资$1000</tspan>
+            </text>
+        </g>
+        <g id="shape2" transform="translate(505.75,265.50)">
+            <path d="M.0,.0L95.0,.0L95.0,55.5L.0,55.5L.0,.0z" fill-rule="nonzero" stroke="#323232" fill="#ffffff"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="34.5" y="24.0">回收</tspan>
+                <tspan x="31.5" y="43.0">$126</tspan>
+            </text>
+        </g>
+        <g id="shape3" transform="translate(524.86,222.00)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="11.4" y="24.4">第1年</tspan>
+            </text>
+        </g>
+        <g id="shape4" transform="translate(647.25,265.50)">
+            <path d="M.0,.0L95.0,.0L95.0,55.5L.0,55.5L.0,.0z" fill-rule="nonzero" stroke="#323232" fill="#ffffff"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="34.5" y="24.0">回收</tspan>
+                <tspan x="31.5" y="43.0">$126</tspan>
+            </text>
+        </g>
+        <g id="shape5" transform="translate(666.36,222.00)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="11.4" y="24.5">第2年</tspan>
+            </text>
+        </g>
+        <g id="shape6" transform="translate(907.00,265.50)">
+            <path d="M.0,.0L95.0,.0L95.0,55.5L.0,55.5L.0,.0z" fill-rule="nonzero" stroke="#323232" fill="#ffffff"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="34.5" y="24.0">回收</tspan>
+                <tspan x="31.5" y="43.0">$126</tspan>
+            </text>
+        </g>
+        <g id="shape7" transform="translate(926.11,222.00)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="7.4" y="24.5">第25年</tspan>
+            </text>
+        </g>
+        <g id="shape8" transform="translate(796.24,265.50)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="23.9" y="24.5">...</tspan>
+            </text>
+        </g>
+        <g id="shape9" transform="translate(378.11,359.15)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="15.4" y="24.5">现值</tspan>
+            </text>
+        </g>
+        <g id="shape10" transform="translate(553.25,321.00)">
+            <path d="M.0,.0L.0,57.0L-122.3,57.0" stroke="#191919" fill="none"/>
+            <path d="M-122.3,60.0L-128.3,57.0L-122.3,54.0L-122.3,60.0" stroke-linecap="round" stroke="#191919" fill="#191919" stroke-width="1"/>
+        </g>
+        <g id="shape11" transform="translate(378.11,406.00)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="15.4" y="24.5">现值</tspan>
+            </text>
+        </g>
+        <g id="shape12" transform="translate(694.75,321.00)">
+            <path d="M.0,.0L.0,104.0L-263.8,104.0" stroke="#191919" fill="none"/>
+            <path d="M-263.8,107.0L-269.8,104.0L-263.8,101.0L-263.8,107.0" stroke-linecap="round" stroke="#191919" fill="#191919" stroke-width="1"/>
+        </g>
+        <g id="shape13" transform="translate(378.11,453.07)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="15.4" y="24.5">现值</tspan>
+            </text>
+        </g>
+        <g id="shape14" transform="translate(954.50,321.00)">
+            <path d="M.0,.0L.0,151.0L-523.5,151.0" stroke="#191919" fill="none"/>
+            <path d="M-523.5,154.0L-529.5,151.0L-523.5,148.0L-523.5,154.0" stroke-linecap="round" stroke="#191919" fill="#191919" stroke-width="1"/>
+        </g>
+        <path d="M.0,.0L65.9,.0L65.9,131.9L.0,131.9L.0,.0z" stroke="#323232" id="shape15" fill="none" transform="translate(378.11,359.15)"/>
+        <path d="M13.0,.0C13.0,.0,6.4,2.6,6.4,10.0L6.4,49.4C6.4,49.4,5.6,52.6,4.1,55.2C2.6,57.8,.0,59.2,.0,59.2C.0,59.2,2.7,60.6,4.1,62.9C5.7,65.6,6.4,69.0,6.4,69.0L6.4,111.1C6.4,111.1,7.5,118.9,13.0,118.9" stroke="#323232" id="shape16" fill="none" transform="translate(356.00,365.00)"/>
+        <g id="shape17" transform="translate(227.00,387.75)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="25.9" y="32.7">所有25年的</tspan>
+                <tspan x="8.4" y="51.7">这些"现值"加起来</tspan>
+            </text>
+        </g>
+        <g id="shape18" transform="translate(302.00,397.00)">
+            <path d="M.0,.0L.0,-103.8L51.0,-103.8" stroke="#191919" fill="none"/>
+            <path d="M51.0,-106.8L57.0,-103.8L51.0,-100.8L51.0,-106.8" stroke-linecap="round" stroke="#191919" fill="#191919" stroke-width="1"/>
+        </g>
+        <g id="shape19" transform="translate(119.56,304.65)">
+            <text xml:space="preserve" style="fill:#c00000;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="9.4" y="23.2">即你的"未来总回报"的现值,</tspan>
+                <tspan x="7.9" y="42.2">是否大于你的"现在投资额"?</tspan>
+            </text>
+        </g>
+        <g id="shape20" transform="translate(382.11,379.93)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="23.4" y="24.5">+</tspan>
+            </text>
+        </g>
+        <g id="shape21" transform="translate(382.11,425.15)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="23.4" y="24.5">+</tspan>
+            </text>
+        </g>
+        <g id="shape22" transform="translate(822.00,307.00)">
+            <path d="M.0,.0L.0,137.0L-391.0,137.0" stroke="#191919" fill="none"/>
+            <path d="M-391.0,140.0L-397.0,137.0L-391.0,134.0L-391.0,140.0" stroke-linecap="round" stroke="#191919" fill="#191919" stroke-width="1"/>
+        </g>
+        <g id="shape23" transform="translate(290.11,321.50)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:22.00pt">
+                <tspan x="17.4" y="37.9">></tspan>
+            </text>
+        </g>
+    </g>
+</svg>
