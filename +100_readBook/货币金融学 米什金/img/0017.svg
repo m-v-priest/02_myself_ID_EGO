@@ -1,0 +1,30 @@
+<svg height="177" viewBox="0 0 456 177" width="456" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+    <defs/>
+    <g transform="translate(-320.00,-235.00)">
+        <g id="shape1" transform="matrix(0.71,0.71,-0.71,0.71,415.0,311.0)">
+            <path fill="none" d="M.0,.0L35.0,.0" stroke="#191919"/>
+            <path fill="#191919" stroke-linecap="round" stroke-width="1" d="M35.0,-3.0L41.0,.0L35.0,3.0L35.0,-3.0" stroke="#191919"/>
+        </g>
+        <g id="shape2" transform="matrix(-0.71,-0.71,0.71,-0.71,405.0,302.0)">
+            <path fill="none" d="M.0,.0L33.6,.0" stroke="#191919"/>
+            <path fill="#191919" stroke-linecap="round" stroke-width="1" d="M33.6,-3.0L39.6,.0L33.6,3.0L33.6,-3.0" stroke="#191919"/>
+        </g>
+        <path fill="none" id="shape3" d="M.0,.0L207.9,.0" transform="matrix(0.71,0.71,-0.71,0.71,325.0,236.0)" stroke="#191919"/>
+        <path fill="none" id="shape4" d="M.0,.0L207.9,.0" transform="matrix(0.71,0.71,-0.71,0.71,628.0,236.0)" stroke="#191919"/>
+        <path fill="none" id="shape5" d="M.0,.0L207.9,.0" transform="matrix(0.71,0.71,-0.71,0.71,548.0,236.0)" stroke="#191919"/>
+        <g id="shape6" transform="translate(643.00,312.00)">
+            <path fill="none" d="M.0,.0L36.0,.0" stroke="#191919"/>
+            <path fill="#191919" stroke-linecap="round" stroke-width="1" d="M36.0,-3.0L42.0,.0L36.0,3.0L36.0,-3.0" stroke="#191919"/>
+        </g>
+        <g id="shape7" transform="translate(321.00,382.35)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="21.0" y="20.0">沿着曲线移动</tspan>
+            </text>
+        </g>
+        <g id="shape8" transform="translate(611.00,382.35)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="21.0" y="20.0">曲线整体位移</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
