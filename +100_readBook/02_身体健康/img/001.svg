@@ -1,0 +1,65 @@
+<svg viewBox="0 0 469 230" width="469" height="230" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs/>
+    <g transform="translate(-269.00,-235.00)">
+        <g transform="translate(425.00,331.00)" id="shape1">
+            <path fill-rule="nonzero" fill="#ffffff" d="M.0,.0L147.0,.0L147.0,38.0L.0,38.0L.0,.0z" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="35.0" y="24.5">人 (天花病毒)</tspan>
+            </text>
+        </g>
+        <g transform="translate(439.00,236.00)" id="shape2">
+            <path fill-rule="nonzero" fill="#ffffff" d="M.0,.0L147.0,.0L147.0,38.0L.0,38.0L.0,.0z" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="47.5" y="24.5">牛痘疫苗</tspan>
+            </text>
+        </g>
+        <g transform="translate(513.00,274.00)" id="shape3">
+            <path fill="none" d="M.0,.0L.0,60.0" stroke="#191919"/>
+            <path fill="#191919" d="M3.0,60.0L.0,66.0L-3.0,60.0L3.0,60.0" stroke="#191919" stroke-width="1" stroke-linecap="round"/>
+            <rect fill="#ffffff" width="65.0" x="-31.5" height="19.0" y="21.0"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="-31.5" y="36.0">能杀死天花</tspan>
+            </text>
+        </g>
+        <g transform="translate(389.00,426.00)" id="shape4">
+            <path fill-rule="nonzero" fill="#ffffff" d="M.0,.0L91.0,.0L91.0,38.0L.0,38.0L.0,.0z" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="32.5" y="24.5">动物</tspan>
+            </text>
+        </g>
+        <g transform="translate(513.00,426.00)" id="shape5">
+            <path fill-rule="nonzero" fill="#ffffff" d="M.0,.0L147.0,.0L147.0,38.0L.0,38.0L.0,.0z" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="9.0" y="24.5">人 (基因变异后的天花)</tspan>
+            </text>
+        </g>
+        <g transform="translate(499.00,362.00)" id="shape6">
+            <path stroke-dasharray="2.5,2.5" fill="none" d="M.0,.0L-52.8,52.8" stroke="#191919"/>
+            <path fill="#191919" d="M-50.6,54.9L-57.0,57.0L-54.9,50.6L-50.6,54.9" stroke="#191919" stroke-width="1" stroke-linecap="round"/>
+        </g>
+        <g transform="translate(510.00,362.00)" id="shape7">
+            <path stroke-dasharray="2.5,2.5" fill="none" d="M.0,.0L52.8,52.8" stroke="#191919"/>
+            <path fill="#191919" d="M54.9,50.6L57.0,57.0L50.6,54.9L54.9,50.6" stroke="#191919" stroke-width="1" stroke-linecap="round"/>
+        </g>
+        <g transform="translate(270.00,372.85)" id="shape8">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:8.00pt" xml:space="preserve">
+                <tspan x="9.0" y="20.0">天花只能感染人，不能感染动物,</tspan>
+                <tspan x="89.0" y="36.0">无法跨物种逃窜</tspan>
+            </text>
+        </g>
+        <g transform="translate(567.00,372.85)" id="shape9">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:8.00pt" xml:space="preserve">
+                <tspan x="4.0" y="20.0">天花从发现到灭绝的过程中，</tspan>
+                <tspan x="4.0" y="36.0">没有出现明显的变异</tspan>
+            </text>
+        </g>
+        <g transform="translate(458.00,383.85)" id="group10">
+            <path fill-rule="nonzero" fill="#eb6d71" d="M.0,9.0C.0,4.0,4.0,.0,9.0,.0C14.0,.0,18.0,4.0,18.0,9.0C18.0,14.0,14.0,18.0,9.0,18.0C4.0,18.0,.0,14.0,.0,9.0z" stroke="#eb6d71" id="shape11"/>
+            <path fill-rule="nonzero" fill="#ffffff" d="M.3,.0L15.2,.0C15.3,.0,15.5,.1,15.5,.3L15.5,2.9C15.5,3.0,15.3,3.2,15.2,3.2L.3,3.2C.1,3.2,.0,3.0,.0,2.9L.0,.3C.0,.1,.1,.0,.3,.0z" transform="translate(1.26,7.42)" id="shape12"/>
+        </g>
+        <g transform="translate(529.00,383.85)" id="group13">
+            <path fill-rule="nonzero" fill="#eb6d71" d="M.0,9.0C.0,4.0,4.0,.0,9.0,.0C14.0,.0,18.0,4.0,18.0,9.0C18.0,14.0,14.0,18.0,9.0,18.0C4.0,18.0,.0,14.0,.0,9.0z" stroke="#eb6d71" id="shape14"/>
+            <path fill-rule="nonzero" fill="#ffffff" d="M.3,.0L15.2,.0C15.3,.0,15.5,.1,15.5,.3L15.5,2.9C15.5,3.0,15.3,3.2,15.2,3.2L.3,3.2C.1,3.2,.0,3.0,.0,2.9L.0,.3C.0,.1,.1,.0,.3,.0z" transform="translate(1.26,7.42)" id="shape15"/>
+        </g>
+    </g>
+</svg>
