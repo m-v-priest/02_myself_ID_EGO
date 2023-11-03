@@ -16,13 +16,12 @@ import random
 #         file.write(newI)
 
 
-txt读取的文件名 = '柯林斯版_新东方托福.txt.adoc'
+txt读取的文件名 = '词汇表_新东方托福.txt'
 
 
 with open(txt读取的文件名, 'r', encoding='utf-8') as f:
     listLines = f.readlines()
     random.shuffle(listLines) # 将list中的元素排列顺序, 先乱序化. 就是把单词表中的单词不要顺序排列, 乱序排列
     for i in listLines:
-        i = i.strip()
+        i = i.strip() # 取出每行头尾的空白字符
         print(i)
-
