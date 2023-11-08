@@ -4790,6 +4790,7 @@ image:img/sombre.jpg[,20%]
 
 ==== ▸ consult  [1281]   +
 な/kənˈsʌlt/   +
+--> con-, 强调。-sul, 带来，召集，词源同consul, 即召集到一起协商事务。 +
 
 【V-T/V-I】   If you _consult_ an expert or someone senior to you or _consult with_ them, you ask them for their opinion, advice, or permission. 咨询   +
 ⇒  Consult your doctor about how much exercise you should get.  咨询你的医生你应做多少运动。   +
@@ -4851,9 +4852,13 @@ image:img/sombre.jpg[,20%]
 
 ==== ▸ podium  [1285]   +
 な/ˈpəʊdɪəm/   +
+--> pod-,足，脚，-ium,表地点。即站脚的地方，引申词义讲台，讲坛。 +
 
 【N-COUNT】   A _podium_ is a small platform on which someone stands in order to give a lecture or conduct an orchestra. 讲台; (乐队) 指挥台   +
 ⇒  Unsteadily he mounted the podium, adjusted the microphone, coughed, and went completely blank.  他摇摇晃晃地走上讲台，调好麦克风，咳嗽了几声，接着脑子就一片空白。   +
+
+image:img/podium.jpg[,20%]
+
 
 ---
 
@@ -4909,6 +4914,7 @@ image:img/sombre.jpg[,20%]
 
 ==== ▸ lax  [1289]   +
 な/læks/   +
+--> 与词根-lax-(松弛,放松)同源 +
 
 【ADJ】   If you say that a person's behaviour or a system is _lax_, you mean they are not careful or strict about maintaining high standards. 松懈的; 不严格的   +
 ⇒  One of the problem areas is lax security for airport personnel.  其中一个问题是对机场人员的安全措施不严格。   +
@@ -4922,6 +4928,7 @@ image:img/sombre.jpg[,20%]
 
 ==== ▸ intrinsic  [1290]   +
 な/ɪnˈtrɪnsɪk/   +
+--> intrin-,内在的，来自internal,-sic,沿着的，词源同sequel,sequence.引申词义固有的，内在的。 +
 
 【ADJ】   If something has _intrinsic_ value or _intrinsic_ interest, it is valuable or interesting because of its basic nature or character, and not because of its connection with other things. 内在的; 本质的   +
 ⇒  Diamonds have little intrinsic value and their price depends almost entirely on their scarcity.  钻石没有多少内在价值，它们的价格几乎完全取决于其稀有程度。   +
@@ -4934,6 +4941,7 @@ image:img/sombre.jpg[,20%]
 
 ==== ▸ scarce  [1291]   +
 な/skɛəs/   +
+--> 来自通俗拉丁语*scarsus 减少的，缩小的，过去分 词形式于拉丁语 excerpere,拔出，来自 ex-,向外，-cerp,拔，割，词源同 excerpt,harvest. +
 
 【ADJ】   If something is _scarce_, there is not enough of it. 短缺的   +
 ⇒  Food was scarce and expensive.  食物匮乏而且昂贵。   +
@@ -4945,14 +4953,17 @@ image:img/sombre.jpg[,20%]
 ---
 
 
-==== ▸ vapor  [1292]   +
+==== ▸ vapor = vapour [1292]   +
 な/ˈveɪpə/   +
+(n.)( BrE ) ( NAmE vapor ) [ CU] a mass of very small drops of liquid in the air, for example steam 蒸气；潮气；雾气 +
+=> water vapour 水蒸气 +
 
 ---
 
 
 ==== ▸ melodic  [1293]   +
 な/mɪˈlɒdɪk/   +
+--> 来自 melody ,韵律，旋律。即有旋律的，引申词义悦耳的。 来自melos, 歌，可能来自PIE*mel,蜜，甜的，词源同molasses.oide,歌，颂歌，词源同ode.引申词义旋律，曲调。 +
 
 【ADJ】  _Melodic_ means relating to melody. 旋律的   +
 ⇒  ...Schubert's effortless gift for melodic invention.  ...舒伯特驾轻就熟的谱曲天分。   +
@@ -4965,6 +4976,8 @@ image:img/sombre.jpg[,20%]
 
 【ADV】  </div>   +
 ⇒  The leader has also learned to play more melodically.  这位指挥也学会了如何让演奏更加优美动听。   +
+
+image:img/melodic.jpg[,20%]
 
 ---
 
@@ -5007,12 +5020,15 @@ image:img/sombre.jpg[,20%]
 
 ==== ▸ magnitude  [1296]   +
 な/ˈmæɡnɪˌtjuːd/   +
+--> magni-,巨大的，-tude,名词后缀。即巨大之物，同时用于地震震级等多种科学术语。 +
 
 【N-UNCOUNT】   If you talk about the _magnitude_ of something, you are talking about its great size, scale, or importance. (尺寸、规模、重要性等) 大的程度   +
 ⇒  An operation of this magnitude is going to be difficult.  一个这么大的手术会很难的。   +
 
 【PHRASE】   You can use _order of magnitude_ when you are giving an approximate idea of the amount or importance of something. 重要级; 数量级   +
 ⇒  America and Russia do not face a problem of the same order of magnitude as Japan.  美俄两国没有面临与日本同样的重要级别的问题。   +
+
+image:img/magnitude.jpg[,20%]
 
 ---
 
@@ -5028,13 +5044,15 @@ image:img/sombre.jpg[,20%]
 
 ==== ▸ lope  [1298]   +
 な/ləʊp/   +
+--> 词源同leap,跑，跳，该词主要见于elope,跑掉，私奔。 +
 
-【V-I】   If a person or animal _lopes_ somewhere, they run in an easy and relaxed way, taking long steps. 轻快地奔跑   +
+【V-I】   If a person or animal _lopes_ somewhere, they run in an easy and relaxed way, taking long steps. 轻快地奔跑  / to run taking long relaxed steps 轻松地大步跑 +
 ⇒  He was loping across the sand toward Nancy.  他正穿过沙滩轻快地向南希跑去。   +
 ⇒  Matty saw him go loping off.  马蒂看着他大步跑远。   +
 
 【ADJ】  <span class="additional">[ADJ n]</span>   +
 ⇒  She turned and walked away with long, loping steps.  她转过身，大步走开。   +
+
 
 ---
 
@@ -5044,6 +5062,8 @@ image:img/sombre.jpg[,20%]
 
 【N-COUNT】   A _raft_ is a floating platform made from large pieces of wood or other materials tied together. 木排; 筏   +
 ⇒  ...a river trip on bamboo rafts through dense rainforest.  …一次乘着竹筏穿过茂密雨林的河上旅行。   +
+
+image:img/raft.jpg[,20%]
 
 【N-COUNT】   A _raft_ is a small rubber or plastic boat that you blow air into to make it float. (橡皮或塑料的) 小型充气船   +
 ⇒  The crew spent two days and nights in their raft.  船员们在他们的小充气船上度过了两天两夜。   +
@@ -5058,6 +5078,7 @@ image:img/sombre.jpg[,20%]
 
 ==== ▸ starch  [1300]   +
 な/stɑːtʃ/   +
+--> 来自古英语*stercan,使僵硬，使变硬，来自 PIE*ster, 僵的，硬的，固定的，词源同 stark,startle,sterile.因过去常用浆糊给布料糊浆使布料变硬，而 淀粉是制浆的重要原料，因而引申词义淀粉。 +
 
 【N-MASS】  _Starch_ is a substance that is found in foods such as bread, potatoes, pasta, and rice and gives you energy. 淀粉   +
 ⇒  She reorganized her eating so that she was taking more fruit and vegetables and less starch, salt, and fat.  她重新调整了自己的饮食，在多吃水果蔬菜，少食用淀粉、盐和脂肪。   +
@@ -5065,17 +5086,23 @@ image:img/sombre.jpg[,20%]
 【N-UNCOUNT】  _Starch_ is a substance that is used for making cloth stiffer, especially cotton and linen. (用于使布料挺直的) 浆粉   +
 ⇒  He never puts enough starch in my shirts.  他从不给我的衬衫上足够的浆粉。   +
 
+image:img/starch.jpg[,20%]
+
+
 ---
 
 
 ==== ▸ malleable  [1301]   +
 な/ˈmælɪəbəl/   +
+--> 来自拉丁语malleus,铁锤，来自PIE*锤打，使软化，软的，词源同 mill,melt.即可锤炼的，引申词义可塑的。 +
 
 【ADJ】   If you say that someone is _malleable_, you mean that they are easily influenced or controlled by other people. 易受别人影响的; 易被别人控制的   +
 ⇒  She was young enough to be malleable.  她当时年轻得足以轻易地被别人影响。   +
 
 【ADJ】   A substance that is _malleable_ is soft and can easily be made into different shapes. 延展性好的   +
 ⇒  Silver is the most malleable of all metals.  银是所有金属中延展性最好的。   +
+
+image:img/malleable.jpg[,20%]
 
 ---
 
@@ -5108,15 +5135,19 @@ image:img/sombre.jpg[,20%]
 
 ==== ▸ differential  [1303]   +
 な/ˌdɪfəˈrɛnʃəl/   +
+--> dif-分开 + -fer-携带,拿取 + -ent形容词词尾 + -ial形容词词尾 +
 
 【N-COUNT】   In mathematics and economics, a _differential_ is a difference between two values in a scale. (数学) 微分; (经济) 差价   +
 ⇒  ...the wage differential between blue-collar and white-collar workers.  …蓝领与白领工作人员之间的工资差别。   +
+
+image:img/differential.png[,30%]
 
 ---
 
 
 ==== ▸ hitherto  [1304]   +
 な/ˈhɪðəˈtuː/   +
+--> hither,这里，to,向。引申词义迄今。 +
 
 【ADV】   You use _hitherto_ to indicate that something was true up until the time you are talking about, although it may no longer be the case. 迄今   +
 ⇒  The ruling party is likely to be opened up to let in people hitherto excluded.  执政党可能会放开政策，吸纳迄今被排斥在外的人士。   +
@@ -5167,6 +5198,7 @@ image:img/sombre.jpg[,20%]
 
 ==== ▸ plight  [1307]   +
 な/plaɪt/   +
+--> pleat, plait和plight本质上是同一个词,来源于拉丁语动词plic.are(折叠,卷绕)过去分词的名词用法plicitum或plictum(折叠),经古法语pleit派生而来。 -plic-折叠 → plight 同源词：pleat, plait +
 
 【N-COUNT】   If you refer to someone's _plight_, you mean that they are in a difficult or distressing situation that is full of problems. 困境   +
 ⇒  The nation saw the plight of the farmers, whose crops had died.  该国看到了农民因庄稼死亡而陷入困境。   +
@@ -5181,6 +5213,7 @@ image:img/sombre.jpg[,20%]
 
 ==== ▸ evacuate  [1308]   +
 な/ɪˈvækjʊˌeɪt/   +
+-->  e-出,向外 + -vacu-空 + -ate动词词尾 +
 
 【V-T】   To _evacuate_ someone means to send them to a place of safety, away from a dangerous building, town, or area. 疏散; 使…撤离   +
 ⇒  They were planning to evacuate the seventy American officials still in the country.  他们当时在计划将仍在那个国家的70位美国官员撤离。   +
@@ -5200,6 +5233,7 @@ image:img/sombre.jpg[,20%]
 
 ==== ▸ perpetual  [1309]   +
 な/pəˈpɛtjʊəl/   +
+--> per-,完全的，-pet,寻求，追寻，词源同compete,petition.引申词义持续，坚持。 +
 
 【ADJ】   A _perpetual_ feeling, state, or quality is one that never ends or changes. 永恒的   +
 ⇒  ...the creation of a perpetual union.  …一个永久性工会的创立。   +
@@ -5218,6 +5252,7 @@ image:img/sombre.jpg[,20%]
 
 ==== ▸ haunt  [1310]   +
 な/hɔːnt/   +
+--> 来自Proto-Germanic*haimaz,家，住所，词源同home.该词原指死后回家的灵魂，引申词义鬼魂出没，萦绕。拼写比较lamp,lantern. +
 
 【V-T】   If something unpleasant _haunts_ you, you keep thinking or worrying about it over a long period of time. (令人不愉快的事) 萦绕在心头   +
 ⇒  He would always be haunted by that scene in Well Park.  他将不断回想起威尔公园的那一幕。   +
@@ -5267,6 +5302,7 @@ image:img/sombre.jpg[,20%]
 
 ==== ▸ courageous  [1313]   +
 な/kəˈreɪdʒəs/   +
+--> -cour-心(脏) + -age名词词尾 + -ous形容词词尾 +
 
 【ADJ】   Someone who is _courageous_ shows courage. 勇敢的   +
 ⇒  The children were very courageous.  孩子们都很勇敢。   +
@@ -5286,6 +5322,7 @@ image:img/sombre.jpg[,20%]
 
 ==== ▸ bond  [1315]   +
 な/bɒnd/   +
+--> 词源同bind, 绑。 +
 
 【N-COUNT】   A _bond between_ people is a strong feeling of friendship, love, or shared beliefs and experiences that unites them. (强烈的感情) 纽带   +
 ⇒  The experience created a very special bond between us.  这段经历构成了我们之间一条非常特殊的纽带。   +
@@ -5311,6 +5348,7 @@ image:img/sombre.jpg[,20%]
 
 ==== ▸ chilly  [1316]   +
 な/ˈtʃɪlɪ/   +
+--> 来自PIE*gel, 冷，词源同cold,glacier. +
 
 【ADJ】   Something that is _chilly_ is unpleasantly cold. 阴冷的   +
 ⇒  It was a chilly afternoon.  那是一个阴冷的下午。   +
@@ -5322,7 +5360,23 @@ image:img/sombre.jpg[,20%]
 
 
 ==== ▸ realization  [1317]   +
- 辞典中没找到  +
+
+(n.) +
+1.[ Using.] _~ (that...) / ~ (of sth)_ : the process of becoming aware of sth 认识；领会；领悟
+SYN awareness +
+=> the sudden realization of what she had done 突然意识到她自己究竟干了些什么 +
+=> There is a growing realization that changes must be made. 越来越多的人认识到改革势在必行。 +
+
+2.[ U] _~ (of sth)_ : the process of achieving a particular aim, etc. （目标等的）实现 +
+SYN achievement +
+=> It was the realization of his greatest ambition. 这就实现了他的宏伟抱负。 +
+
+3.[ U] _~ of your assets_ : ( formal ) the act of selling sth that you own, such as property, in order to get the money that you need for sth 变卖；兑换成现金 +
+
+4.[ UC] _~ (of sth)_ : ( formal ) the act of producing a sound, play, design, etc.; or the thing that is produced 发声；（戏剧）演出；设计成果 +
+
+---
+
 ==== ▸ mental  [1318]   +
 な/ˈmɛntəl/   +
 
@@ -5413,6 +5467,7 @@ image:img/sombre.jpg[,20%]
 
 ==== ▸ codify  [1322]   +
 な/ˈkəʊdɪˌfaɪ/   +
+--> 来自code, 法典。 +
 
 【V-T】   If you _codify_ a set of rules, you define them or present them in a clear and ordered way. 编篡(法规)   +
 ⇒  The latest draft of the agreement codifies the panel's decision.  该协议的最新草案将专家小组的决定编篡成了法规条款。   +
@@ -5433,6 +5488,7 @@ image:img/sombre.jpg[,20%]
 
 ==== ▸ scratch  [1324]   +
 な/skrætʃ/   +
+--> 可能来自中古英语 scratten,抓，挠，最终来自 PIE*sker,砍，切，削，刮，词源同 scar,scrape. +
 
 【V-T】   If you _scratch yourself_, you rub your fingernails against your skin because it is itching. 挠   +
 ⇒  He scratched himself under his arm.  他在自己腋下挠了挠。   +
@@ -5454,6 +5510,8 @@ image:img/sombre.jpg[,20%]
 
 
 ==== ▸ decrease  [1325]   +
+--> de-, 向下。-cre, 创造，增加，词源同create, crescent. +
+
 な【V-T/V-I】   When something _decreases_ or when you _decrease_ it, it becomes less in quantity, size, or intensity. 使降低; 降低   +
 ⇒  Population growth is decreasing by 1.4% each year.  人口增长每年下降1.4%。   +
 ⇒  The number of independent firms decreased from 198 to 96.  独立公司的数量从198家减到了96家。   +
@@ -5491,6 +5549,7 @@ image:img/sombre.jpg[,20%]
 
 ==== ▸ pernicious  [1328]   +
 な/pəˈnɪʃəs/   +
+--> per-,完全的，-nic,伤害，杀害，词源同 noxious, necrosis. 引申词义有害的。 +
 
 【ADJ】   If you describe something as _pernicious_, you mean that it is very harmful. 极为有害的   +
 ⇒  I did what I could, but her mother's influence was pernicious.  我已尽我所能，但她母亲造成的影响是很极为不利的。   +
@@ -5500,18 +5559,24 @@ image:img/sombre.jpg[,20%]
 
 ==== ▸ souvenir  [1329]   +
 な/ˌsuːvəˈnɪə/   +
+--> 来自古法语动词 souvenir,记忆，怀念，-ir,表动词，来自拉丁语 subvenire,记忆，重现，回想， 来自 sub-,向上，venire,来到，词源同 advent,venue.后动词作名词使用，引申词义纪念物，纪 念品。 +
 
 【N-COUNT】   A _souvenir_ is something which you buy or keep to remind you of a holiday, place, or event. 纪念品   +
 ⇒  ...a souvenir of the summer of 1992.  …一个1992年夏天的纪念品。   +
+
+image:img/souvenir.jpg[,20%]
 
 ---
 
 
 ==== ▸ vagrant  [1330]   +
 な/ˈveɪɡrənt/   +
+-->  vagr(-vag-)漫游 + -ant形容词词尾. 词源同 walk,拼写受拉丁语 vagus 影响。 +
 
 【N-COUNT】   A _vagrant_ is someone who moves a lot from place to place because they have no permanent home or job, and have to ask for or steal things in order to live. 流浪者   +
 ⇒  He lived on the street as a vagrant.  他作为一个流浪者露宿街头。   +
+
+image:img/vagrant.jpg[,20%]
 
 ---
 
@@ -5567,6 +5632,7 @@ image:img/sombre.jpg[,20%]
 
 ==== ▸ embryo  [1334]   +
 な/ˈɛmbrɪˌəʊ/   +
+--> em-, 进入，使。- bryo, 膨胀，发芽，词源可能同 breast, browse. +
 
 【N-COUNT】   An _embryo_ is an unborn animal or human being in the very early stages of development. 胚胎   +
 ⇒  There are 24,000 frozen embryos in clinics across the country.  全国各地的诊所里有24000个冷冻胚胎。   +
@@ -5574,14 +5640,19 @@ image:img/sombre.jpg[,20%]
 【ADJ】   An _embryo_ idea, system, or organization is in the very early stages of development, but is expected to grow stronger. 萌芽阶段的   +
 ⇒  They are an embryo party of government.  他们是一个处于萌芽阶段的政体。   +
 
+image:img/embryo.jpg[,20%]
+
 ---
 
 
 ==== ▸ devastate  [1335]   +
 な/ˈdɛvəˌsteɪt/   +
+--> de-, 强调，整个的。vast, 广阔的。即整个摧毁。 +
 
 【V-T】   If something _devastates_ an area or a place, it damages it very badly or destroys it totally. 严重破坏; 彻底摧毁   +
 ⇒  The tsunami devastated parts of Indonesia and other countries in the region.  这次海啸严重破坏了印度尼西亚和该区域其他国家的部分地区。   +
+
+image:img/devastate.jpg[,20%]
 
 ---
 
@@ -5624,9 +5695,17 @@ image:img/sombre.jpg[,20%]
 
 ==== ▸ aggregate  [1338]   +
 な/ˈægrɪgɪt/   +
+-->  ag-加强意义 + -greg-群,聚集 + -ate动词词尾 +
 
 【ADJ】   An _aggregate_ amount or score is made up of several smaller amounts or scores added together. 合计的   +
 ⇒  The rate of growth of GNP will depend upon the rate of growth of aggregate demand.  国民生产总值的增长率将依赖于总需求的增长率。   +
+
+(v.)[ VN] [ usually passive] ( technical 术语) /ˈæɡrɪɡeɪt/  _~ sth (with sth)_( formal ) to put together different items, amounts, etc. into a single group or total 总计；合计 +
+=> The scores were aggregated with the first round totals to decide the winner. 此次得分与第一轮所得总分合计决出胜者。 +
+
+(n.)[ UC] ( technical 术语) sand or broken stone that is used to make concrete or for building roads, etc. （可成混凝土或修路等用的）骨料，集料
+
+image:img/aggregate.jpg[,20%]
 
 ---
 
@@ -5640,17 +5719,22 @@ image:img/sombre.jpg[,20%]
 【N-UNCOUNT】  _Radiation_ is energy, especially heat, that comes from a particular source. 辐射能 (尤指热能)   +
 ⇒  The $617 million satellite will study energy radiation from the most violent stars in the universe.  这个价值6.17亿美元的人造卫星将研究宇宙中活动最剧烈的恒星所发出的辐射能。   +
 
+image:img/radiation.jpg[,20%]
+
 ---
 
 
 ==== ▸ realm  [1340]   +
 な/rɛlm/   +
+--> 拉丁语中动词regere(统治)派生的regimen(政府系统),嫁接了古法语reiel(王室的,国王的),而成为英语realm。 -reg-统治 同源词：regime, regimen, regiment +
 
 【N-COUNT】   You can use _realm_ to refer to any area of activity, interest, or thought. (活动、兴趣、思想的) 领域   +
 ⇒  ...the realm of politics.  …政治领域。   +
 
 【N-COUNT】   A _realm_ is a country that has a king or queen. 王国   +
 ⇒  Defence of the realm is crucial.  王国的防御是至关重要的。   +
+
+image:img/realm.jpg[,20%]
 
 ---
 
@@ -5667,11 +5751,14 @@ image:img/sombre.jpg[,20%]
 
 ==== ▸ groom  [1342]   +
 な/ɡruːm/   +
+--> 来自古英语grome, 男仆。词源同grow, crew. +
 
 【N-COUNT】   A _groom_ is the same as a . 新郎   +
 ⇒  ...the bride and groom.  …新娘和新郎。   +
 
 【N-COUNT】   A _groom_ is someone whose job is to look after the horses in a stable and to keep them clean. 马夫   +
+
+image:img/groom.jpg[,20%]
 
 【V-T】   If you _groom_ an animal, you clean its fur, usually by brushing it. 给 (动物) 梳毛刷洗   +
 ⇒  The horses were exercised and groomed with special care.  这些马受到特殊的训练和照料。   +
@@ -5679,11 +5766,13 @@ image:img/sombre.jpg[,20%]
 【V-T】   If you _are groomed for_ a special job, someone prepares you for it by teaching you the skills you will need. 培训   +
 ⇒  George was already being groomed for the top job.  乔治已经为担任该要职接受培训。   +
 
+
 ---
 
 
 ==== ▸ draft  [1343]   +
 な/drɑːft/   +
+--> draught的变体,来源于史前日耳曼语及古英语中的dragan。 同源词：draw, drag, dray, draught +
 
 【N-COUNT】   A _draft_ is an early version of a letter, book, or speech. 草稿; 初稿   +
 ⇒  I rewrote his rough draft, which was published under my name.  我改写了他那篇以我的名义发表了的初稿。   +
@@ -5691,6 +5780,8 @@ image:img/sombre.jpg[,20%]
 
 【N-COUNT】   A _draft_ is a written order for payment of money by a bank, especially from one bank to another. 汇票   +
 ⇒  Payments must be made in U.S. dollars by a bank draft drawn to the order of the United Nations Postal Administration.  付款必须用开给联合国邮政管理处的银行汇票，并以美元支付。   +
+
+image:img/draft.jpg[,20%]
 
 【N-COUNT】   A _draft_ is a current of air that comes into a place in an undesirable way. (钻进某处的) 风   +
 ⇒  Block drafts around doors and windows.  挡住门窗周围的风。   +
@@ -5712,6 +5803,7 @@ image:img/sombre.jpg[,20%]
 
 ==== ▸ tribal  [1344]   +
 な/ˈtraɪbəl/   +
+--> tri-是前缀“三”，be表“存在”。前缀tri-想必也不算陌生了，如triple（三倍的）。 +
 
 【ADJ】  _Tribal_ is used to describe things relating to or belonging to tribes and the way that they are organized. 部落的   +
 ⇒  ...tribal warfare.  …部落战争。   +
@@ -5752,6 +5844,8 @@ image:img/sombre.jpg[,20%]
 
 ==== ▸ slough  [1347]   +
 な/slʌf/   +
+--> 词源不详，可能来自辅音丛 sl-,砍，劈，分开，比较 slab,slip,slat,slit,slot.参照 skin,皮肤，剥 皮，来自 PIE*skei,砍，撕，分开。 +
+来自辅音丛 sl-,黏滑的，淤泥的，泥浆的，比较 slop,slosh,slough,sludge. +
 
 【V-T】   When a plant _sloughs_ its leaves, or an animal such as a snake _sloughs_ its skin, the leaves or skin come off naturally. 自然脱落   +
 ⇒  All reptiles have to slough their skin to grow.  所有爬行动物都必须自然脱皮才能成长   +
@@ -5772,6 +5866,7 @@ image:img/sombre.jpg[,20%]
 
 ==== ▸ alarm  [1348]   +
 な/əˈlɑːm/   +
+-->  al-朝向 + -arm-武器 → 原是拿起武器准备战斗的意思. 旧时意大利哨兵发现敌人来袭时常常呼喊all’arme，相当于英语to arms或to the weapon，意思是“准备战斗”。  +
 
 【N-UNCOUNT】  _Alarm_ is a feeling of fear or anxiety that something unpleasant or dangerous might happen. 惊恐   +
 ⇒  The news was greeted with alarm by senators.  参议员们听到这个消息后很惊恐。   +
@@ -5796,12 +5891,16 @@ image:img/sombre.jpg[,20%]
 
 ==== ▸ unravel  [1349]   +
 な/ʌnˈrævəl/   +
+--> 来自荷兰语 ravelen,解开，缠绕，来自 rafel,碎毛线，碎线。词义的矛盾性可能是来自碎毛线 一松开就缠绕在一起。常见于复合词 unravel,解开。 +
 
-【V-T/V-I】   If you _unravel_ something that is knotted, woven, or knitted, or if it _unravels_, it becomes one straight piece again or separates into its different threads. 解开; 拆散   +
+【V-T/V-I】   If you _unravel_ something that is knotted, woven 编织；交织, or knitted 编织；使紧密结合, or if it _unravels_, it becomes one straight piece again or separates into its different threads. 解开; 拆散   +
 ⇒  He could unravel a knot that others wouldn't even attempt.  他能解开其他人甚至不敢尝试的绳结。   +
 
 【V-T/V-I】   If you _unravel_ a mystery or puzzle, or it _unravels_, it gradually becomes clearer until you can work out the answer to it. 揭开   +
 ⇒  A young mother has flown to Iceland to unravel the mystery of her husband's disappearance.  一个年轻母亲已飞到冰岛，去揭开她丈夫失踪之谜。   +
+
+
+image:img/unravel.jpg[,20%]
 
 ---
 
@@ -5829,6 +5928,7 @@ image:img/sombre.jpg[,20%]
 
 ==== ▸ candid  [1351]   +
 な/ˈkændɪd/   +
+--> cand-"白"是个很有用的词根，能衍生出丰富的词义：“白”象征纯洁，纯净之人自然坦率真诚，于是有candid；点燃蜡烛，黑暗之中便会升起一团微弱的白色焰火，于是有candle（蜡烛）；古罗马参与选举之人，统一身着白色罩袍，于是有candidate（候选人）。 +
 
 【ADJ】   When you are _candid_ about something or with someone, you speak honestly. 直言不讳的; 坦率的   +
 ⇒  Natalie is candid about the problems she is having with Steve.  纳塔莉对她与史蒂夫的问题直言不讳。   +
@@ -5861,6 +5961,7 @@ image:img/sombre.jpg[,20%]
 
 ==== ▸ loathsome  [1353]   +
 な/ˈləʊðsəm/   +
+--> 来自古英语lath,厌恶，讨厌，来自PIE*leit,憎恶，词源同德语leiden,承受，忍受，伤心，来自其原始词义PIE*leit，向前，引导，前进，词源同lead,lode.并引申词义离别，伤心，最后到厌恶，讨厌。 +
 
 【ADJ】   If you describe someone or something as _loathsome_, you are indicating how much you dislike them or how much they disgust you. 讨厌的; 让人恶心的   +
 ⇒  ...the loathsome spectacle we were obliged to witness.  ...我们不得不目睹的令人恶心的场面。   +
@@ -5870,6 +5971,7 @@ image:img/sombre.jpg[,20%]
 
 ==== ▸ sober  [1354]   +
 な/ˈsəʊbə/   +
+--> so-是前缀se-的变体，指“离开”；-ober原指“醉酒的”，但再往上的词源就不清楚了。这里用联想：so-还是se-的变体，指“离开”，如seclude（隔离），segregate（分离）；ber形似单词beer（啤酒）；所以字面上，要保持清醒需要远离啤酒。 +
 
 【ADJ】   When you are _sober_, you are not drunk. 清醒的   +
 ⇒  He'd been drunk when I arrived. Now he was sober.  我到的时候他已经喝醉了。现在他清醒了。   +
@@ -5891,7 +5993,13 @@ image:img/sombre.jpg[,20%]
 
 
 ==== ▸ refraction  [1355]   +
- 辞典中没找到  +
+
+(n.)折射；折光
+
+image:img/refraction.jpg[,20%]
+
+---
+
 ==== ▸ comprise  [1356]   +
 な/kəmˈpraɪz/   +
 
@@ -5904,6 +6012,7 @@ image:img/sombre.jpg[,20%]
 
 ==== ▸ retreat  [1357]   +
 な/rɪˈtriːt/   +
+--> re-,向后，往回，treat,拉，处理，词源同 tract.即回拉，引申词义撤退，退离。 +
 
 【V-I】   If you _retreat_, you move away from something or someone. 退出; 离开   +
 ⇒  "I've already got a job," I said quickly, and retreated from the room.  “我已经有了工作，”我迅速说道，然后就从房间里退了出来。   +
@@ -5937,6 +6046,7 @@ image:img/sombre.jpg[,20%]
 
 ==== ▸ marvel  [1359]   +
 な/ˈmɑːvəl/   +
+--> 来自拉丁语mirari,感到惊讶和惊奇，词源同mirror,miracle,smile.  mar(-mir-)惊奇,敬佩 + v + -el名词词尾 +
 
 【V-I】   If you _marvel_ at something, you express your great surprise, wonder, or admiration. 大为赞叹   +
 ⇒  Her fellow members marvelled at her seemingly infinite energy.  她的同事们对她那似乎无尽的精力大为赞叹。   +
@@ -5945,11 +6055,14 @@ image:img/sombre.jpg[,20%]
 【N-COUNT】   You can describe something or someone as a _marvel_ to indicate that you think that they are wonderful. 奇迹   +
 ⇒  The whale, like the dolphin, has become a symbol of the marvels of creation.  鲸，和海豚一样，已经成为造物杰作的象征。   +
 
+image:img/marvel.jpg[,20%]
+
 ---
 
 
 ==== ▸ confession  [1360]   +
 な/kənˈfɛʃən/   +
+--> con-, 强调。-fess, 说，交谈，词源同phone, profess. +
 
 【N-COUNT】   A _confession_ is a signed statement by someone in which they admit that they have committed a particular crime. 供状   +
 ⇒  They forced him to sign a confession.  他们强迫他签了供状。   +
@@ -5964,6 +6077,8 @@ image:img/sombre.jpg[,20%]
 【N-VAR】   In the Catholic church and in some other churches, if you go to _confession_, you privately tell a priest about your sins and ask for forgiveness. (私下对神父的) 忏悔   +
 ⇒  He never went to Father Porter for confession again.  他再也没私下去向波特神父忏悔。   +
 
+image:img/confess.jpg[,20%]
+
 ---
 
 
@@ -5972,11 +6087,20 @@ image:img/sombre.jpg[,20%]
 
 【ADJ】   designating automatic muscular movements stimulated by ideas, as in absent-minded acts 观念运动的   +
 
+.案例
+====
+The *ideomotor phenomenon* is a psychological phenomenon wherein a subject makes motions unconsciously. Also called *ideomotor response* (or *ideomotor reflex*) and abbreviated to *IMR*, it is a concept in hypnosis and psychological research. It is derived from the terms "ideo" (idea, or mental representation) and "motor" (muscular action). The phrase is most commonly used in reference to the process whereby a thought or mental image brings about a seemingly "reflexive" or automatic muscular reaction, often of minuscule degree, and potentially outside of the awareness of the subject. As in responses to pain, the body sometimes reacts reflexively with an ideomotor effect to ideas alone without the person consciously deciding to take action.
+
+意念运动现象是主体无意识地做出运动的一种心理现象。也称为意念运动反应（或意念运动反射），缩写为 IMR，是催眠和心理学研究中的一个概念。它源自术语“ideo”（想法或心理表征）和“motor”（肌肉动作）。该短语最常用于指思想或心理图像带来看似“反射性”或自动肌肉反应的过程，通常程度很小，并且可能在主体的意识之外。正如对疼痛的反应一样，身体有时会仅对想法产生反射性反应，产生意念运动效应，而人却没有有意识地决定采取行动。
+
+====
+
 ---
 
 
 ==== ▸ mammal  [1362]   +
 な/ˈmæməl/   +
+--> 拉丁语mamma不但表“妈妈”，还有“乳房”的意思；由它产生拉丁语mammalis（乳房的） +
 
 【N-COUNT】  _Mammals_ are animals such as humans, dogs, lions, and whales. In general, female mammals give birth to babies rather than laying eggs, and feed their young with milk. 哺乳动物   +
 
@@ -5985,6 +6109,7 @@ image:img/sombre.jpg[,20%]
 
 ==== ▸ immediate  [1363]   +
 な/ɪˈmiːdɪət/   +
+--> im-,不，非，-med,中间，词源同middle,medial.即没有中间环节的，立即的，马上的。 +
 
 【ADJ】   An _immediate_ result, action, or reaction happens or is done without any delay. 立即的   +
 ⇒  These tragic incidents have had an immediate effect.  这些悲惨事件已经有了立杆见影的结果。   +
@@ -6024,6 +6149,7 @@ image:img/sombre.jpg[,20%]
 
 ==== ▸ inception  [1365]   +
 な/ɪnˈsɛpʃən/   +
+--> in-,进入，使，-cept,拿，带，开始，词源同accept,concept. +
 
 【N-UNCOUNT】   The _inception_ of an institution or activity is the start of it. 开始; 开端   +
 ⇒  Since its inception the company has produced 53 different aircraft designs.  该公司自成立以来已经设计出53种不同的飞行器。   +
@@ -6045,31 +6171,49 @@ image:img/sombre.jpg[,20%]
 
 ==== ▸ cafeteria  [1367]   +
 な/ˌkæfɪˈtɪərɪə/   +
+--> 词源同coffee. -teria, 地名后缀。原指兼卖咖啡的小餐馆。 +
 
 【N-COUNT】   A _cafeteria_ is a restaurant where you choose your food from a counter and take it to your table after paying for it. Cafeterias are usually found in public buildings such as hospitals, colleges, and offices. 自助餐厅   +
+
+image:img/cafeteria.jpg[,20%]
 
 ---
 
 
-==== ▸ gibe  [1368]   +
+==== ▸ gibe = jibe [1368]   +
 な/dʒaɪb/   +
+--> 来自gibe拼写变体，可能来自中古法语gaber,嘲笑，嘲讽，拟声词，词源同gab,jape. +
+
+1.N-COUNT A jibe is a rude or insulting remark about someone that is intended to make them look foolish. 嘲讽 +
+=>   ...*a cheap jibe* about his loss of hair.  …一个对他脱发的粗俗嘲讽。 +
+
+2.V-T To jibe means to say something rude or insulting that is intended to make another person look foolish. 嘲讽 +
+=>   "No doubt he'll give me the chance to fight him again," *he jibed*.  “毫无疑问，他会给我机会与他再打一次。”他嘲讽道。 +
+
+3.V-RECIP If numbers, statements, or events jibe, they are exactly the same as each other or they are consistent with each other. 相一致 +
+=>   *The numbers don't jibe*. 这些数字不一致。 +
 
 ---
 
 
 ==== ▸ cavern  [1369]   +
 な/ˈkævən/   +
+=> 来自cavus("hollow"). +
 
 【N-COUNT】   A _cavern_ is a large, deep cave. 巨穴   +
+
+image:img/cavern.jpg[,20%]
 
 ---
 
 
 ==== ▸ haven  [1370]   +
 な/ˈheɪvən/   +
+--> 来自古英语haefen,Proto-Germanic*hafno,港口，词源同Copenhagen,hafnium.可能来自PIE*kap,抓住，握住，词源同capable,have.引申词义保护，港口。 +
+注意区别: 天堂 heaven +
 
 【N-COUNT】   A _haven_ is a place where people or animals feel safe, secure, and happy. 安全处所   +
-⇒  ...Lake Baringo, a freshwater haven for a mixed variety of birds.  …百瑞高湖，一个适合各种鸟类的淡水栖息地。   +
+⇒  ...Lake Baringo, *a freshwater haven* for a mixed variety of birds.  …百瑞高湖，一个适合各种鸟类的淡水栖息地。   +
 
 ---
 
@@ -6078,16 +6222,16 @@ image:img/sombre.jpg[,20%]
 な/ˈɛlɪɡənt/   +
 
 【ADJ】   If you describe a person or thing as _elegant_, you mean that they are pleasing and graceful in appearance or style. 优雅的   +
-⇒  Patricia looked beautiful and elegant as always.  帕特丽夏看上去跟往常一样美丽优雅。   +
+⇒  *Patricia looked beautiful and elegant* as always.  帕特丽夏看上去跟往常一样美丽优雅。   +
 
 【N-UNCOUNT】   优雅   +
-⇒  The furniture managed to combine practicality with elegance.  这家具结合了实用与优雅。   +
+⇒  The furniture *managed to combine practicality with elegance*.  这家具结合了实用与优雅。   +
 
 【ADJ】   If you describe a piece of writing, an idea, or a plan as _elegant_, you mean that it is simple, clear, and clever. 精妙的   +
-⇒  The document impressed me with its elegant simplicity.  这份文件以其精妙的简约给我留下了深刻的印象。   +
+⇒  The document *impressed me with its elegant simplicity*.  这份文件以其精妙的简约给我留下了深刻的印象。   +
 
 【ADV】   精妙地   +
-⇒  ...an elegantly simple idea.  …一个精妙地简单的主意。   +
+⇒  ...*an elegantly simple idea*.  …一个精妙地简单的主意。   +
 
 ---
 
@@ -6096,35 +6240,36 @@ image:img/sombre.jpg[,20%]
 な/əˈfɛkʃən/   +
 
 【N-UNCOUNT】   If you regard someone or something with _affection_, you like them and are fond of them. 喜爱   +
-⇒  She thought of him with affection.  她怀着喜爱想起了他。   +
+⇒  *She thought of him with affection*.  她怀着喜爱想起了他。   +
 
 【N-PLURAL】   Your _affections_ are your feelings of love or fondness for someone. 感情   +
-⇒  Caroline is the object of his affections.  卡罗琳是他感情的归属。   +
+⇒  Caroline *is the object of his affections*.  卡罗琳是他感情的归属。   +
 
 ---
 
 
 ==== ▸ premature  [1373]   +
 な/ˌprɛməˈtjʊə/   +
+--> pre-前,先 + mature成熟的 +
 
 【ADJ】   Something that is _premature_ happens earlier than usual or earlier than people expect. 提早的   +
-⇒  Accidents are still the number one cause of premature death for Americans.  事故仍然是美国人非自然死亡的首要原因。   +
-⇒  His career was brought to a premature end by a succession of knee injuries.  他的职业生涯因连续的膝伤过早地结束了。   +
+⇒  Accidents are still *the number one cause* of *premature death* for Americans.  事故仍然是美国人**非自然死亡**的首要原因。   +
+⇒  *His career was brought to a premature end* by a succession of knee injuries.  他的职业生涯因连续的膝伤过早地结束了。   +
 
 【ADV】   提早地   +
-⇒  The war and the years in the harsh mountains had prematurely aged him.  战争和深山老林的岁月使他提早衰老了。   +
+⇒  The war and the years in the harsh mountains *had prematurely aged him*.  战争和深山老林的岁月使他提早衰老了。   +
 
 【ADJ】   You can say that something is _premature_ when it happens too early and is therefore inappropriate. 过早的   +
-⇒  It now seems their optimism was premature.  目前，他们的乐观好像还为时过早。   +
+⇒  *It now seems their optimism was premature*.  目前，他们的乐观好像还为时过早。   +
 
 【ADV】   过早地   +
-⇒  He was careful not to celebrate prematurely.  他很谨慎，没有过早地举行庆祝活动。   +
+⇒  He was careful *not to celebrate prematurely*.  他很谨慎，没有过早地举行庆祝活动。   +
 
 【ADJ】   A _premature_ baby is one that was born before the date when it was expected to be born. 早产的   +
-⇒  Even very young premature babies respond to their mother's presence.  即使很小的早产儿也会对母亲的在场有所反应。   +
+⇒  *Even very young premature babies* respond to their mother's presence.  即使很小的早产儿也会对母亲的在场有所反应。   +
 
 【ADV】   早产地   +
-⇒  Danny was born prematurely, weighing only 3lb 3oz.  丹尼是早产的，体重只有3磅3盎司。   +
+⇒  *Danny was born prematurely*, weighing only 3lb 3oz.  丹尼是早产的，体重只有3磅3盎司。   +
 
 ---
 
@@ -6143,14 +6288,30 @@ image:img/sombre.jpg[,20%]
 
 
 ==== ▸ constricted  [1375]   +
- 辞典中没找到  +
+
+adj. 收缩的；狭隘的；受限制的 +
+--> con-, 强调。-str, 拉长，拉紧，词源同strict,strain. +
+
+constrict +
+1.V-T/V-I If a part of your body, especially your throat, _is constricted_ or if it _constricts_, something causes it to become narrower. 使收缩; 收缩 +
+=>  Severe migraines 偏头痛 can be treated with a drug *that constricts the blood vessels*.
+ 严重偏头痛可以用一种收缩血管的药物来治疗。 +
+
+2.V-T If something constricts you, it limits your actions so that you cannot do what you want to do. 约束 +
+=> She *objects to* the constant testing *because it constricts her teaching style*. 她反对频繁地测试，因为这约束了她的教学风格。 +
+
+---
+
 ==== ▸ tangent  [1376]   +
 な/ˈtændʒənt/   +
+--> -tang-接触 + -ent名词词尾 +
 
 【N-COUNT】   A _tangent_ is a line that touches the edge of a curve or circle at one point, but does not cross it. 切线   +
 
 【PHRASE】   If someone _goes off on a tangent_, they start saying or doing something that is not directly connected with what they were saying or doing before. 突然离题   +
-⇒  The conversation went off on a tangent.  谈话突然偏离了正题。   +
+⇒  *The conversation went off on a tangent*.  谈话突然偏离了正题。   +
+
+image:img/tangent.jpg[,20%]
 
 ---
 
@@ -6214,21 +6375,25 @@ image:img/sombre.jpg[,20%]
 ⇒  ...her aging, infirm husband.  …她那年迈体弱的丈夫。   +
 
 【N-PLURAL】  _The infirm_ are people who are infirm. 体弱者   +
-⇒  We are here to protect and assist the weak and infirm.  我们来这里保护和帮助病弱者。   +
+⇒  We are here *to protect and assist the weak and infirm*.  我们来这里保护和帮助病弱者。   +
 
 ---
 
 
 ==== ▸ moth  [1381]   +
 な/mɒθ/   +
+--> 来自古英语mothe,蛾子，来自PIE*mu,蚊子，小昆虫，拟声词，模仿蚊子嗡嗡的声音，词源同moth,midge. +
 
 【N-COUNT】   A _moth_ is an insect like a butterfly which usually flies around at night. 蛾   +
+
+image:img/moth.jpg[,20%]
 
 ---
 
 
 ==== ▸ pertinent  [1382]   +
 な/ˈpɜːtɪnənt/   +
+--> per-贯穿 + -tin-握,持有 + -ent形容词词尾 +
 
 【ADJ】   Something that is _pertinent_ is relevant to a particular subject. 相关的   +
 ⇒  She had asked some pertinent questions.  她问了一些相关的问题。   +
@@ -6247,6 +6412,7 @@ image:img/sombre.jpg[,20%]
 
 ==== ▸ crumple  [1384]   +
 な/ˈkrʌmpəl/   +
+--> 词源同crisp, crimp, 卷的，脆的。 +
 
 【V-T/V-I】   If you _crumple_ something such as paper or cloth, or if it _crumples_, it is squashed and becomes full of untidy creases and folds. 弄皱; 起皱   +
 ⇒  She crumpled the paper in her hand.  她把手中的纸揉成了一团。   +
@@ -6262,6 +6428,7 @@ image:img/sombre.jpg[,20%]
 
 ==== ▸ religion  [1385]   +
 な/rɪˈlɪdʒən/   +
+--> 来自拉丁语 religare,绑定，来自 re-,表强调，-ligare,绑定，捆绑，词源同 ligature,oblige. +
 
 【N-UNCOUNT】  _Religion_ is belief in a god or gods and the activities that are connected with this belief, such as praying or worshipping in a building such as a church or temple. 宗教   +
 ⇒  ...his understanding of Indian philosophy and religion.  …他对于印度哲学和宗教的理解。   +
@@ -6320,6 +6487,7 @@ image:img/sombre.jpg[,20%]
 
 ==== ▸ resolute  [1389]   +
 な/ˈrɛzəˌluːt/   +
+-->  re-相反,反对 + -solut-解开,放松 + -e +
 
 【ADJ】   If you describe someone as _resolute_, you approve of them because they are very determined not to change their mind or not to give up a course of action. 坚定的   +
 ⇒  Voters perceive him as a decisive and resolute international leader.  选民认识到他是一位果断、坚定的国际领袖。   +
@@ -6342,7 +6510,11 @@ image:img/sombre.jpg[,20%]
 
 
 ==== ▸ homosexuality  [1391]   +
- 辞典中没找到  +
+
+(n.)同性恋
+
+---
+
 ==== ▸ carve  [1392]   +
 な/kɑːv/   +
 
@@ -6395,6 +6567,7 @@ image:img/sombre.jpg[,20%]
 
 ==== ▸ desegregate  [1395]   +
 な/diːˈsɛɡrɪˌɡeɪt/   +
+--> se-分离 + -greg-群,聚集 + -ate动词词尾 +
 
 【V-T】   To _desegregate_ something such as a place, institution, or service means to officially stop keeping the people who use it in separate groups, especially groups that are defined by race. 废除(对地方、机构或服务等实施的)种族隔离   +
 ⇒  The United States was working to desegregate the military, schools, and all public facilities.  美国当时正在着手废除对军队、学校和所有公共设施实施的种族隔离。   +
@@ -6406,8 +6579,9 @@ image:img/sombre.jpg[,20%]
 ---
 
 
-==== ▸ aluminum  [1396]   +
+==== ▸ aluminum = aluminium [1396]   +
 な/əˈluːmɪnəm/   +
+(n.) 铝
 
 ---
 
@@ -6426,6 +6600,7 @@ image:img/sombre.jpg[,20%]
 
 ==== ▸ etiquette  [1398]   +
 な/ˈɛtɪˌkɛt/   +
+--> 由estiquer（stick、attach）+ette（小），字面意思就是“可供粘贴的小纸条”。由于在古代这种小纸条、小告示上写的都是关于礼仪和行为举止要求方面的内容，所以衍生出表示“礼仪”的单词etiquette +
 
 【N-UNCOUNT】  _Etiquette_ is a set of customs and rules for polite behaviour, especially among a particular class of people or in a particular profession. (尤指特定阶层的) 礼仪; (尤指特定行业的) 规矩   +
 ⇒  This was such a great breach of etiquette, he hardly knew what to do.  这是一起规矩的严重违反，他几乎不知所措了。   +
@@ -6442,11 +6617,14 @@ image:img/sombre.jpg[,20%]
 【ADJ】   If you say that something moves or changes at a _glacial_ pace, you are emphasizing that it moves or changes very slowly. 非常缓慢的   +
 ⇒  Change occurs at a glacial pace.  变化来得极为缓慢。   +
 
+image:img/glacial.jpg[,20%]
+
 ---
 
 
 ==== ▸ circumference  [1400]   +
 な/səˈkʌmfərəns/   +
+--> circum-,圈，周围，-fer,带，携，词源同bring,conference.+
 
 【N-UNCOUNT】   The _circumference_ of a circle, place, or round object is the distance around its edge. 周长   +
 ⇒  ...a scientist calculating the Earth's circumference.  …一位正在计算地球周长的科学家。   +
@@ -6491,7 +6669,12 @@ image:img/sombre.jpg[,20%]
 
 
 ==== ▸ evaporation  [1404]   +
- 辞典中没找到  +
+
+(n.)蒸发 +
+=> evaporation rate 蒸发率；蒸发速度
+
+---
+
 ==== ▸ ethical  [1405]   +
 な/ˈɛθɪkəl/   +
 
@@ -6544,11 +6727,14 @@ image:img/sombre.jpg[,20%]
 ⇒  This autumn, 6000 residents will participate in the first phase of the project.  今年秋季，6000名居民将参与这项计划的第一阶段。   +
 ⇒  The crisis is entering a crucial, critical phase.  危机正进入一个至关重要的决定性阶段。   +
 
+image:img/phase.jpg[,20%]
+
 ---
 
 
 ==== ▸ mortgage  [1409]   +
 な/ˈmɔːɡɪdʒ/   +
+--> 来自古法语mort gage,死亡承诺，来自mort,死亡，词源同mortal,gage,承诺，词源同engage,wage.比喻用法，即直到死亡也会履行的承诺。用于指古代的抵押资产以换取借款的经济行为，即现代意义上的按揭。 +
 
 【N-COUNT】   A _mortgage_ is a loan of money which you get from a bank or savings and loan association in order to buy a house. 房屋抵押贷款   +
 ⇒  ...an increase in mortgage rates.  …房屋抵押贷款利率的上升。   +
@@ -6592,6 +6778,8 @@ image:img/sombre.jpg[,20%]
 【ADV】   刺眼地   +
 ⇒  The loading bay seemed dazzlingly bright.  这个进料台看起来亮得刺眼。   +
 
+image:img/dazzling.jpg[,20%]
+
 ---
 
 
@@ -6624,6 +6812,7 @@ image:img/sombre.jpg[,20%]
 
 ==== ▸ extravagant  [1415]   +
 な/ɪkˈstrævəɡənt/   +
+--> extra-, 外面的，超过的。-vag, 漫游，词源同vague, vagary. 即偏离正常范围，过度挥霍。 +
 
 【ADJ】   Someone who is _extravagant_ spends more money than they can afford or uses more of something than is reasonable. 奢侈的; 浪费的   +
 ⇒  We are not extravagant; restaurant meals are a luxury and designer clothes are out.  我们并不浪费；餐馆用餐是一种奢侈，品牌服装也与我们无缘。   +
@@ -6652,6 +6841,7 @@ image:img/sombre.jpg[,20%]
 
 ==== ▸ subdue  [1416]   +
 な/səbˈdjuː/   +
+--> 来自拉丁语 subducere,拉走，拉下，来自 sub-,在下，-duc,拉，引导，词源同 deduce,deduct. 引申诸相关比喻义。 +
 
 【V-T】   If soldiers or the police _subdue_ a group of people, they defeat them or bring them under control by using force. 制服   +
 ⇒  Senior government officials admit they have not been able to subdue the rebels.  高级政府官员们承认他们还没能制服反叛者们。   +
@@ -6694,6 +6884,8 @@ image:img/sombre.jpg[,20%]
 ⇒  Lightning flashed among the distant dark clouds.  远处的乌云中电光闪闪。   +
 ⇒  He lost his temper after a driver flashed her headlights as he overtook.  他因为在超车时一个女司机闪车头灯而大为光火。   +
 
+image:img/flash.jpg[,20%]
+
 【V-I】   If something _flashes_ past or by, it moves past you so fast that you cannot see it properly. 飞驰   +
 ⇒  It was a busy road, cars flashed by every few minutes.  这是条繁忙的公路，每隔几分钟就有一些汽车飞驰而过。   +
 
@@ -6727,15 +6919,19 @@ image:img/sombre.jpg[,20%]
 
 ==== ▸ sequoia  [1420]   +
 な/sɪˈkwɔɪə/   +
+--> 一种美洲大型红杉，命名来自 Sequoya,北美印第安民族 Cherokee 的一位语言学者，为该民 族发明了文字，后以其命名以表达对他的尊敬。-ia,表类属，如 gardenia,栀子花。 +
 
 【N-COUNT】   A _sequoia_ is a very tall tree which grows in California. There are several different types of sequoia. 红杉; (生长于加州的)巨杉   +
 ⇒  ...a grove of majestic sequoias.  ...一片高大的红杉树林。   +
+
+image:img/sequoia.jpg[,20%]
 
 ---
 
 
 ==== ▸ embark  [1421]   +
 な/ɛmˈbɑːk/   +
+--> em-, 进入，使。bark, 船，驳船，同barge。 当人们跳入船中时，也就是船开始航行之际，因此embark又引申出“开始，着手”的意思。 +
 
 【V-I】   If you _embark on_ something new, difficult, or exciting, you start doing it. 开始从事   +
 ⇒  He's embarking on a new career as a writer.  他正开始一个当作家的新生涯。   +
@@ -6757,6 +6953,7 @@ image:img/sombre.jpg[,20%]
 
 ==== ▸ bulletin  [1423]   +
 な/ˈbʊlɪtɪn/   +
+--> bull, 教皇文件，官方文件，见bill, 议案，bull, 教皇训谕。 +
 
 【N-COUNT】   A _bulletin_ is a short news report on the radio or television. (电台、电视台的) 新闻快报   +
 ⇒  ...the early morning news bulletin.  …早间新闻快报。   +
@@ -6765,6 +6962,9 @@ image:img/sombre.jpg[,20%]
 ⇒  At 3:30 p.m. a bulletin was released announcing that the president was out of immediate danger.  下午3:30发布了公告，宣布总统暂时脱离了危险。   +
 
 【N-COUNT】   A _bulletin_ is a regular newspaper or leaflet that is produced by an organization or group such as a school or church. (学校、教堂等机构发行的) 简报或小册子   +
+
+image:img/bulletin.jpg[,20%]
+
 
 ---
 
@@ -6789,6 +6989,8 @@ image:img/sombre.jpg[,20%]
 
 【N-UNCOUNT】   In physics, _fusion_ is the process in which atomic particles combine and produce a large amount of nuclear energy. 核聚变   +
 ⇒  ...research into nuclear fusion.  …对核聚变的研究。   +
+
+image:img/fusion.jpg[,20%]
 
 ---
 
@@ -6828,22 +7030,27 @@ image:img/sombre.jpg[,20%]
 ---
 
 
-==== ▸ gymnasium  [1428]   +
+==== ▸ gymnasium = gym [1428]   +
 な/dʒɪmˈneɪzɪəm/   +
 
-【N-COUNT】   A _gymnasium_ is the same as a . 健身房   +
+【N-COUNT】   A _gymnasium_ is the same as a . 健身房 / [ C] a room or hall with equipment for doing physical exercise, for example in a school 健身房；体育馆  +
+
+image:img/gymnasium.jpg[,20%]
 
 ---
 
 
 ==== ▸ ledge  [1429]   +
 な/lɛdʒ/   +
+--> 来自PIE*legh,放置，词源同lay,lager,插入字母d.引申词义放置的窗台，壁架。 +
 
 【N-COUNT】   A _ledge_ is a piece of rock on the side of a cliff or mountain, which is in the shape of a narrow shelf. 岩脊   +
 ⇒  ...like a wounded bird seeking refuge on a mountain ledge.  …就像一只受伤的鸟在山的岩脊上寻找藏身处一样。   +
 
 【N-COUNT】   A _ledge_ is a narrow shelf along the bottom edge of a window. 窗台   +
 ⇒  Dorothy had climbed onto the ledge outside his window.  多萝西已经爬到了他窗台外面。   +
+
+image:img/ledge.jpg[,20%]
 
 ---
 
@@ -6896,12 +7103,15 @@ image:img/sombre.jpg[,20%]
 
 ==== ▸ twine  [1433]   +
 な/twaɪn/   +
+--> 来自 twin 的对词，引申词义双股线，合股线，线，绳等。 +
 
 【N-UNCOUNT】  _Twine_ is strong string used especially in gardening and farming. (尤用于园艺和农事的)股线   +
 
 【V-T/V-I】   If you _twine_ one thing around another, or if one thing _twines_ around another, the first thing is twisted or wound around the second. 使...盘绕; 盘绕   +
 ⇒  He had twined his chubby arms around Vincent's neck.  他胖乎乎的双臂搂住文森特的脖子。   +
 ⇒  These strands of molecules twine around each other to form cable-like structures.  这些分子链盘绕在一起，构成了索状结构。   +
+
+image:img/twine.jpg[,20%]
 
 ---
 
@@ -6916,9 +7126,14 @@ image:img/sombre.jpg[,20%]
 
 
 ==== ▸ compressible  [1435]   +
- 辞典中没找到  +
+
+adj.可压缩的；可压榨的
+
+---
+
 ==== ▸ prominent  [1436]   +
 な/ˈprɒmɪnənt/   +
+--> pro-,向前，-min,伸出，词源同eminent,mountain.即突出来的，引申词义显著的，突出的。 +
 
 【ADJ】   Someone who is _prominent_ is important and well-known. 重要的; 著名的   +
 ⇒  ...the children of very prominent or successful parents.  …非常知名或成功的人士们的孩子们。   +
@@ -6933,7 +7148,11 @@ image:img/sombre.jpg[,20%]
 
 
 ==== ▸ patriarchic  [1437]   +
- 辞典中没找到  +
+adj.族长的；家长的 +
+=> patriarchic society 父权制社会
+
+---
+
 ==== ▸ transportation  [1438]   +
 な/ˌtrænspɔːˈteɪʃən/   +
 
@@ -7078,7 +7297,15 @@ image:img/sombre.jpg[,20%]
 
 
 ==== ▸ preeminent  [1445]   +
- 辞典中没找到  +
+
+1.ADJ If someone or something is preeminent in a group, they are more important, powerful, or capable than other people or things in the group. 杰出的 +
+=>  ...some of the preeminent names in baseball.  …棒球史上一些杰出的名字。 +
+
+2.N-UNCOUNT 杰出 +
+=> Europe was poised to reassert its traditional preeminence in Western art. 欧洲准备重新确立其在西方艺术上的传统卓越地位。 +
+
+---
+
 ==== ▸ chill  [1446]   +
 な/tʃɪl/   +
 
