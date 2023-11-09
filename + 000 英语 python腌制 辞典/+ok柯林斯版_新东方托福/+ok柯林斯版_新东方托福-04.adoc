@@ -42,6 +42,7 @@
 
 ==== ▸ allure  [1503]   +
 な/əˈljʊə/   +
+--> allure = al（=ad，去）+ lure（诱饵）→用诱饵引诱→引诱、诱惑 +
 
 【N-UNCOUNT】   The _allure_ of something or someone is the pleasing or exciting quality that they have. 魅力   +
 ⇒  It's a game that has really lost its allure.  这是一场已经真正失去其魅力的比赛。   +
@@ -51,6 +52,7 @@
 
 ==== ▸ auction  [1504]   +
 な/ˈɔːkʃən/   +
+--> auction = auc（增大）+tion（名词后缀）→价格逐渐增大的过程→拍卖  +
 
 【N-VAR】   An _auction_ is a public sale where items are sold to the person who offers the highest price. 拍卖   +
 ⇒  The painting is expected to fetch up to $400,000 at auction.  这幅画预计在拍卖会上能卖到40万美元。   +
@@ -63,6 +65,7 @@
 
 ==== ▸ premise  [1505]   +
 な/ˈprɛmɪs/   +
+--> 来自拉丁语premissa,前提，假设，在前面的论断，来自pre-,在前，早于，-miss,送出，提出，词源同mission,emit.在法律文件中意为前面陈述之事，描述物，通常指土地或房屋，因而引申该词义。 +
 
 【N-PLURAL】   The _premises_ of a business or an institution are all the buildings and land that it occupies in one place. 经营场所; 办公场所   +
 ⇒  There is a kitchen on the premises.  营业场所内有一个厨房。   +
@@ -95,22 +98,25 @@
 な/kənˈvɪns/   +
 
 【V-T】   If someone or something _convinces_ you _to_ do something, they persuade you to do it. 说服   +
-⇒  That weekend in Plattsburgh, he convinced her to go ahead and marry Bud.  在普拉茨堡的那个周末，他说服了她嫁给巴德。   +
+⇒  That weekend in Plattsburgh, *he convinced her to go ahead 着手做,进行* and marry Bud.  在普拉茨堡的那个周末，他说服了她嫁给巴德。   +
 
 【V-T】   If someone or something _convinces_ you _of_ something, they make you believe that it is true or that it exists. 使信服   +
-⇒  Although I soon convinced him of my innocence, I think he still has serious doubts about my sanity.  尽管我很快就使他相信我是清白的，但是他还是非常怀疑我精神是否正常。   +
+⇒  *Although I soon convinced him of my innocence*, I think he still has serious doubts about my sanity 精神健全；神志正常.  /尽管我很快就使他相信我是清白的，但是他还是非常怀疑我精神是否正常。   +
 
 ---
 
 
 ==== ▸ slope  [1509]   +
 な/sləʊp/   +
+--> 来自辅音丛 sl-,滑的，滑动的，词源同 slip,slide.引申比喻义斜坡，陡坡等。 +
 
 【N-COUNT】   A _slope_ is the side of a mountain, hill, or valley. (山丘或山谷的) 斜坡   +
 ⇒  Saint-Christo is perched on a mountain slope.  圣克里斯托坐落在山坡上。   +
 
 【N-COUNT】   A _slope_ is a surface that is at an angle, so that one end is higher than the other. 斜面   +
 ⇒  The street must have been on a slope.  那条街一定是一直在一个斜坡上。   +
+
+image:img/slope.jpg[,20%]
 
 【V-I】   If a surface _slopes_, it is at an angle, so that one end is higher than the other. 倾斜   +
 ⇒  The bank sloped down sharply to the river.  那座堤岸陡峭地朝着那条河倾斜下去。   +
@@ -129,6 +135,7 @@
 
 ==== ▸ overgraze  [1510]   +
 な/ˌəʊvəˈɡreɪz/   +
+-->  over-,超过，过度，graze,放牧，词源同grass. +
 
 【V】   to graze (land) beyond its capacity to sustain stock (土地)过度放牧   +
 
@@ -139,7 +146,9 @@
 な/ˈbeɪkən/   +
 
 【N-UNCOUNT】  _Bacon_ is salted or smoked meat which comes from the back or sides of a pig. 腌猪肉; 熏猪肉   +
-⇒  ...bacon and eggs.  …腌猪肉和鸡蛋。   +
+⇒  ...*bacon and eggs*.  …腌猪肉和鸡蛋。   +
+
+image:img/bacon.jpg[,20%]
 
 ---
 
@@ -165,6 +174,7 @@
 
 ==== ▸ ductile  [1513]   +
 な/ˈdʌktaɪl/   +
+--> 来自duct, 导管，管道。 +
 
 【ADJ】   (of a metal, such as gold or copper) able to be drawn out into wire (金、铜等金属)可延伸的   +
 
@@ -228,6 +238,8 @@
 
 【N-PLURAL】  _Braces_ are a pair of straps that pass over your shoulders and fasten to your trousers at the front and back in order to stop them from falling down. (裤子的) 背带   +
 
+image:img/brace.jpg[,20%]
+
 ---
 
 
@@ -235,13 +247,27 @@
 な/ˈvɛərɪd/   +
 
 【ADJ】   Something that is _varied_ consists of things of different types, sizes, or qualities. 各种各样的   +
-⇒  It is essential that your diet is varied and balanced.  重要的是你的饮食应当是多样而平衡的。   +
+⇒  It is essential that *your diet is varied and balanced*.  重要的是你的饮食应当是多样而平衡的。   +
 
 ---
 
 
-==== ▸ fiber  [1517]   +
+==== ▸ fiber = fibre [1517]   +
 な/ˈfaɪbə/   +
+1.[ U] the part of food that helps to keep a person healthy by keeping the bowels working and moving other food quickly through the body （食物中的）纤维素 +
+SYN roughage +
+=> *dietary fibre* 饮食纤维素 +
+=> Dried fruits *are especially high in fibre* . 干水果的纤维素含量尤其高。 +
+=> *a high-/low-fibre diet* 纤维素含量高╱低的饮食 +
+
+2.[ CU] a material such as cloth or rope that is made from a mass of natural or artificial threads （织物或绳等的）纤维制品 +
+=> nylon and other *man-made fibres* 尼龙和其他人造纤维制品 +
+
+3.[ C] one of the many thin threads that form body tissue , such as muscle, and natural materials, such as wood and cotton （人或动物身体组织及天然物质的）纤维 +
+=> *cotton/wood/nerve/muscle fibres* 棉╱木╱神经╱肌肉纤维 +
+
+( literary) +
+=> *She loved him with every fibre of her being*. 她一心一意地爱他。  +
 
 ---
 
@@ -250,43 +276,43 @@
 な/reɪz/   +
 
 【V-T】   If you _raise_ something, you move it so that it is in a higher position. 举起   +
-⇒  He raised his hand to wave.  他举起手来挥动。   +
-⇒  Milton raised the glass to his lips.  米尔顿举起杯子放到嘴唇边。   +
+⇒  *He raised his hand* to wave.  他举起手来挥动。   +
+⇒  Milton *raised the glass to his lips*.  米尔顿举起杯子放到嘴唇边。   +
 
 【V-T】   If you _raise_ a flag, you display it by moving it up a pole or into a high place where it can be seen. 升起   +
-⇒  They had raised the white flag in surrender.  他们已经升起白旗投降。   +
+⇒  *They had raised the white flag* in surrender.  他们已经升起白旗投降。   +
 
 【V-T】   If you _raise yourself_, you lift your body so that you are standing up straight, or so that you are no longer lying flat. 站立; 起身   +
-⇒  He raised himself into a sitting position.  他起身坐了起来。   +
+⇒  *He raised himself into a sitting position*.  他起身坐了起来。   +
 
 【V-T】   If you _raise_ the rate or level of something, you increase it. 增加   +
-⇒  The Federal Reserve Board is expected to raise interest rates.  联邦储备委员会预计将增加利率。   +
+⇒  The Federal Reserve Board *is expected to raise interest rates*.  联邦储备委员会预计将增加利率。   +
 
 【V-T】   To _raise_ the standard of something means to improve it. 提高 (水平)   +
-⇒  ...a new drive to raise standards of literacy in New York's schools.  …一场提高纽约各学校文化程度的新运动。   +
+⇒  ...a new drive *to raise standards of literacy* in New York's schools.  …一场提高纽约各学校文化程度的新运动。   +
 
 【V-T】   If you _raise_ your _voice_, you speak more loudly, usually because you are angry. (常指因生气) 提高 (嗓门)   +
-⇒  Don't you raise your voice to me!  别对我高声大气！   +
+⇒  *Don't you raise your voice to me*!  别对我高声大气！   +
 
 【N-COUNT】   A _raise_ is an increase in your wages or salary. 加薪   +
 
 【V-T】   If you _raise_ money _for_ a charity or an institution, you ask people for money which you collect on its behalf. 筹募 (资金)   +
-⇒  ...events held to raise money for flood victims.  …为水患灾民募捐而举行的活动。   +
+⇒  ...events *held to raise money for* flood victims.  …为水患灾民募捐而举行的活动。   +
 
 【V-T】   If a person or company _raises_ money that they need, they manage to get it, for example by selling their property or by borrowing. 筹措 (资金)   +
-⇒  They raised the money to buy the house and two hundred acres of land.  他们筹措了资金来购买房子和200英亩土地。   +
+⇒  *They raised the money* to buy the house and two hundred acres of land.  他们筹措了资金来购买房子和200英亩土地。   +
 
 【V-T】   If an event _raises_ a particular emotion or question, it makes people feel the emotion or consider the question. 唤起; 引发   +
-⇒  The agreement has raised hopes that the war may end soon.  合约唤起了战争也许很快会结束的希望。   +
+⇒  *The agreement has raised hopes that* the war may end soon.  合约唤起了战争也许很快会结束的希望。   +
 
 【V-T】   If you _raise_ a subject, an objection, or a question, you mention it or bring it to someone's attention. 提出   +
-⇒  He had been consulted and had raised no objections.  他已经被征询意见，并没有提出异议。   +
+⇒  He had been consulted and *had raised no objections*.  他已经被征询意见，并没有提出异议。   +
 
 【V-T】   Someone who _raises_ a child takes care of it until it is grown up. 抚养   +
-⇒  My mother was an amazing woman. She raised four of us kids virtually singlehandedly.  我母亲是个了不起的女人。她几乎是独自抚养大了我们4个孩子。   +
+⇒  My mother was an amazing woman. *She raised four of us kids virtually singlehandedly*.  我母亲是个了不起的女人。她几乎是独自抚养大了我们4个孩子。   +
 
 【V-T】   If someone _raises_ a particular type of animal or crop, they breed that type of animal or grow that type of crop. 饲养; 种植   +
-⇒  He raises 2,000 acres of wheat and hay.  他种植了2000英亩的小麦和饲料用草。   +
+⇒  *He raises 2,000 acres of* wheat and hay.  他种植了2000英亩的小麦和饲料用草。   +
 
 ---
 
@@ -329,6 +355,7 @@
 
 ==== ▸ delineate  [1520]   +
 な/dɪˈlɪnɪˌeɪt/   +
+--> de-, 向下，强调。line, 线，线条。即画线，描绘。 +
 
 【V-T】   If you _delineate_ something such as an idea or situation, you describe it or define it, often in a lot of detail. 描述   +
 ⇒  Biography must to some extent delineate characters.  在某种程度上，传记一定要描述人物。   +
@@ -341,8 +368,10 @@
 
 ==== ▸ simile  [1521]   +
 な/ˈsɪmɪlɪ/   +
+--> 来自 similis,相似的，词源同 similar.用于语言学 指明喻，直喻。 +
 
 【N-COUNT】   A _simile_ is an expression which describes a person or thing as being similar to someone or something else. For example, the sentences "She runs like a deer" and "He's as white as a sheet" contain similes. 明喻   +
+=> *simile and metaphor* 比喻明喻和暗喻 +
 
 ---
 
@@ -367,21 +396,25 @@
 
 ==== ▸ pamphlet  [1523]   +
 な/ˈpæmflɪt/   +
+--> pam-前缀“全”，-phl-即词根phil“爱”，如philosophy（哲学），本义为“为人人所爱”。 +
 
 【N-COUNT】   A _pamphlet_ is a very thin book with a paper cover that gives information about something. 小册子   +
 ⇒  ...a pamphlet about smoking.  …一本关于吸烟的小册子。   +
+
+image:img/pamphlet.jpg[,20%]
 
 ---
 
 
 ==== ▸ extinguish  [1524]   +
 な/ɪkˈstɪŋɡwɪʃ/   +
+-->  ex-出 + -stingu-(s略)扑灭 + -ish动词词尾 +
 
 【V-T】   If you _extinguish_ a fire or a light, you stop it from burning or shining. 使熄灭   +
-⇒  It took about 50 minutes to extinguish the fire.  扑灭那场大火花了约五十分钟。   +
+⇒  It took about 50 minutes *to extinguish the fire*.  扑灭那场大火花了约五十分钟。   +
 
 【V-T】   If something _extinguishes_ a feeling or idea, it destroys it. 使破灭; 消除   +
-⇒  The message extinguished her hopes of Richard's return.  这消息使她对理查德返回的希望破灭了。   +
+⇒  *The message extinguished her hopes of* Richard's return.  这消息使她对理查德返回的希望破灭了。   +
 
 ---
 
@@ -390,7 +423,7 @@
 な/pɑːˈtɪsɪpənt/   +
 
 【N-COUNT】   The _participants_ in an activity are the people who take part in it. 参加者   +
-⇒  40 of the course participants are offered employment with the company.  参加课程学习的人中有40名得到了在该公司工作的机会。   +
+⇒  *40 of the course participants* are offered  提供（东西或机会）；供应 employment with the company.  参加课程学习的人中有40名得到了在该公司工作的机会。   +
 
 ---
 
@@ -399,25 +432,30 @@
 な/ˈmɪnɪməl/   +
 
 【ADJ】   Something that is _minimal_ is very small in quantity, value, or degree. 尽可能少的; 最低限度的   +
-⇒  The cooperation between the two is minimal.  两者之间的合作是最低程度的。   +
+⇒  *The cooperation* between the two *is minimal*.  两者之间的合作是最低程度的。   +
 
 ---
 
 
 ==== ▸ piracy  [1527]   +
 な/ˈpaɪrəsɪ/   +
+--> 来自pirate,海盗，-acy,行为后缀。引申词义盗版，剽窃。 +
 
 【N-UNCOUNT】  _Piracy_ is robbery at sea carried out by pirates. 海盗行为   +
-⇒  Seven of the fishermen have been formally charged with piracy.  其中7名渔民已被正式指控犯有海盗罪。   +
+⇒  Seven of the fishermen *have been formally charged with piracy*.  其中7名渔民已被正式指控犯有海盗罪。   +
 
 【N-UNCOUNT】   You can refer to the illegal copying of things such as DVDs and computer programs as _piracy_. 盗版行为   +
-⇒  ...protection against piracy of books, films, and other intellectual property.  …对书籍、影片以及其他知识产权免遭侵权的保护。   +
+⇒  ...*protection against piracy of books*, films, and other intellectual property.  …对书籍、影片以及其他知识产权免遭侵权的保护。   +
 
 ---
 
 
 ==== ▸ plaudit  [1528]   +
- 辞典中没找到  +
+
+(n.)喝彩；赞美
+
+---
+
 ==== ▸ gem  [1529]   +
 な/dʒɛm/   +
 
@@ -447,27 +485,31 @@
 
 【N-COUNT】   A _falcon_ is a bird of prey that can be trained to hunt other birds and animals. 猎鹰   +
 
+image:img/falcon.jpg[,20%]
+
 ---
 
 
 ==== ▸ attorney  [1532]   +
 な/əˈtɜːnɪ/   +
+--> 前缀at-同ad-. -torn同turn, 转。转向顾客的，代表当事人利益的人。 +
 
 【N-COUNT】   In the United States, an _attorney_ or _attorney-at-law_ is a lawyer. 律师   +
-⇒  ...a prosecuting attorney.  …一位公诉律师。   +
-⇒  At the hearing, her attorney did not enter a plea.  在听证会上，她的律师没有提出申诉。   +
+⇒  ...*a prosecuting 起诉；控告；检举 attorney*.  …一位公诉律师。   +
+⇒  At the hearing, *her attorney did not enter a plea*.  在听证会上，她的律师没有提出申诉。   +
 
 ---
 
 
 ==== ▸ obliterate  [1533]   +
 な/əˈblɪtəˌreɪt/   +
+--> 来自oblino,涂抹，抹掉，-t,过去分词缀。来自ob-,相对，对着的，-lino,涂抹，词源同liniment,delete.拼写受letter,literal影响。 +
 
 【V-T】   If something _obliterates_ an object or place, it destroys it completely. 摧毁   +
-⇒  Their warheads are enough to obliterate the world several times over.  他们的弹头足以摧毁这个世界好几次。   +
+⇒  Their warheads *are enough to obliterate the world several times over*.  他们的弹头足以摧毁这个世界好几次。   +
 
 【N-UNCOUNT】   摧毁   +
-⇒  ...the obliteration of three isolated rainforests.  …3处孤立雨林的毁灭。   +
+⇒  ...*the obliteration of* three isolated rainforests.  …3处孤立雨林的毁灭。   +
 
 【V-T】   If you _obliterate_ something such as a memory, emotion, or thought, you remove it completely from your mind. (从头脑中) 抹掉   +
 ⇒  There was time enough to obliterate memories of how things once were for him.  有足够的时间来抹掉他对过去的记忆。   +
@@ -494,9 +536,10 @@
 
 ==== ▸ scruple  [1535]   +
 な/ˈskruːpəl/   +
+--> 鞋内的一粒小小石子都会让人觉得十分难受，在拉丁语中表示“小石子”的词是scrupulus. scrupulus一词就被古罗马著名演讲家、政治家和思想家西塞罗用来比喻“良心不安、顾虑”。 +
 
 【N-VAR】  _Scruples_ are moral principles or beliefs that make you unwilling to do something that seems wrong. 道德良知   +
-⇒  ...a man with no moral scruples.  …一个毫无道德良知的男人。   +
+⇒  ...a man *with no moral scruples*.  …一个毫无道德良知的男人。   +
 
 ---
 
@@ -505,7 +548,7 @@
 な/bɪˈnɛfɪsənt/   +
 
 【ADJ】   A _beneficent_ person or thing helps people or results in something good. 有益的   +
-⇒  ...optimism about the beneficent effects of new technology.  ...对新技术带来有益成效表示乐观。   +
+⇒  ...optimism about *the beneficent effects of new technology*.  ...对新技术带来有益成效表示乐观。   +
 
 ---
 
@@ -514,7 +557,7 @@
 な/ˈbrəʊʃjʊə/   +
 
 【N-COUNT】   A _brochure_ is a thin magazine with pictures that gives you information about a product or service. 小册子   +
-⇒  ...travel brochures.  …旅游小册子。   +
+⇒  ...*travel brochures*.  …旅游小册子。   +
 
 ---
 
@@ -524,7 +567,7 @@
 
 【N-VAR】   Your _personality_ is your whole character and nature. 性格; 品性   +
 ⇒  She has such a kind, friendly personality.  她有着如此友善的性格。   +
-⇒  The contest was as much about personalities as it was about politics.  这次竞赛既比政治策略，又比品质性格。   +
+⇒  The contest was *as much* about personalities *as* it was about politics.  这次竞赛既比政治策略，又比品质性格。   +
 
 【N-VAR】   If someone has _personality_ or is _a personality_, they have a strong and lively character. (坚强、活泼的) 个性   +
 ⇒  ...a woman of great personality.  …一个很有个性的女人。   +
@@ -563,6 +606,7 @@
 
 ==== ▸ igneous  [1540]   +
 な/ˈɪɡnɪəs/   +
+-->  -ign-火 + -eous形容词词尾 +
 
 【ADJ】   In geology, _igneous_ rocks are rocks that were once so hot that they were liquid. 火熔的; 火成的   +
 
@@ -595,6 +639,7 @@
 
 ==== ▸ utility  [1543]   +
 な/juːˈtɪlɪtɪ/   +
+-->  -util-用 + -ity名词词尾 +
 
 【N-COUNT】   A _utility_ is an important service such as water, electricity, or gas that is provided for everyone, and that everyone pays for. 公用事业   +
 ⇒  ...public utilities such as gas, electricity and phones.  …煤气、电和电话等公用事业。   +
@@ -610,6 +655,8 @@
 
 【N-COUNT】   A _shed_ is a large shelter or building, for example, at a train station, port, or factory. (车站、港口、工厂等的) 棚式建筑   +
 ⇒  ...a vast factory shed.  …一座巨大的厂房。   +
+
+image:img/shed.jpg[,20%]
 
 【V-T】   When a tree _sheds_ its leaves, its leaves fall off in the autumn. When an animal _sheds_ hair or skin, some of its hair or skin drops off. 落 (叶); 脱 (发); 蜕 (皮)   +
 ⇒  Some of the trees were already beginning to shed their leaves.  有些树已经开始落叶了。   +
@@ -637,6 +684,7 @@
 
 ==== ▸ parasite  [1546]   +
 な/ˈpærəˌsaɪt/   +
+--> 来自para-,在旁，在周围，sitos,食物 +
 
 【N-COUNT】   A _parasite_ is a small animal or plant that lives on or inside a larger animal or plant, and gets its food from it. 寄生虫; 寄生植物   +
 ⇒  Kangaroos harbour a vast range of parasites.  袋鼠身上有各种各样的寄生虫。   +
@@ -661,6 +709,7 @@
 
 ==== ▸ onslaught  [1548]   +
 な/ˈɒnˌslɔːt/   +
+--> on,在上，向上，-slaught,攻击，屠杀，词源同slay,slaughter. +
 
 【N-COUNT】   An _onslaught_ on someone or something is a very violent, forceful attack against them. 猛攻   +
 ⇒  The press launched another vicious onslaught on the president.  新闻界对这位总统进行了新一轮的恶毒抨击。   +
