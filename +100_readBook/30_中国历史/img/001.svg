@@ -1,0 +1,145 @@
+<svg height="399" width="631" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 631 399" xmlns="http://www.w3.org/2000/svg">
+    <defs/>
+    <g transform="translate(-277.43,-30.28)">
+        <g transform="translate(520.00,200.23)" id="shape1">
+            <path d="M.0,.0L104.0,.0L104.0,31.4L.0,31.4L.0,.0z" stroke="#323232" fill-rule="nonzero" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="10.5" y="21.2">巡抚 and 总督</tspan>
+            </text>
+        </g>
+        <g transform="translate(425.00,265.00)" id="shape2">
+            <path d="M.0,.0L66.0,.0L66.0,31.4L.0,31.4L.0,.0z" stroke="#323232" fill-rule="nonzero" fill="#f5cfcf"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="6.5" y="21.2">人事权 ×</tspan>
+            </text>
+        </g>
+        <g transform="translate(572.00,231.66)" id="shape3">
+            <path d="M.0,.0L.0,17.3L-114.0,17.3L-114.0,27.3" stroke="#191919" fill="none"/>
+            <path d="M-111.0,27.3L-114.0,33.3L-117.0,27.3L-111.0,27.3" stroke="#191919" stroke-linecap="round" fill="#191919" stroke-width="1"/>
+        </g>
+        <g transform="translate(391.94,31.28)" id="shape4">
+            <path d="M.0,.0L104.0,.0L104.0,31.4L.0,31.4L.0,.0z" stroke="#323232" fill-rule="nonzero" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="39.0" y="21.5">中央</tspan>
+            </text>
+        </g>
+        <g transform="translate(495.94,47.00)" id="shape5">
+            <path d="M.0,.0L76.1,.0L76.1,147.2" stroke="#191919" fill="none"/>
+            <path d="M79.1,147.2L76.1,153.2L73.1,147.2L79.1,147.2" stroke="#191919" stroke-linecap="round" fill="#191919" stroke-width="1"/>
+        </g>
+        <path d="M.0,.0L491.0,.0" stroke-dasharray="6,4" stroke="#191919" stroke-linecap="round" transform="translate(293.00,184.00)" fill="none" id="shape6"/>
+        <path d="M.0,.0L491.0,.0" stroke-dasharray="6,4" stroke="#191919" stroke-linecap="round" transform="translate(293.00,312.00)" fill="none" id="shape7"/>
+        <g transform="translate(278.43,246.00)" id="shape8">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="17.1" y="21.2">省</tspan>
+            </text>
+        </g>
+        <path d="M.0,.0L491.0,.0" stroke-dasharray="6,4" stroke="#191919" stroke-linecap="round" transform="translate(293.00,378.00)" fill="none" id="shape9"/>
+        <g transform="translate(278.43,324.14)" id="shape10">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="17.1" y="21.5">州</tspan>
+            </text>
+        </g>
+        <g transform="translate(278.43,397.00)" id="shape11">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="17.1" y="21.5">县</tspan>
+            </text>
+        </g>
+        <g transform="translate(391.94,327.57)" id="shape12">
+            <path d="M.0,.0L48.1,.0L48.1,31.4L.0,31.4L.0,.0z" stroke="#323232" fill-rule="nonzero" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="11.1" y="21.2">知州</tspan>
+            </text>
+        </g>
+        <g transform="translate(391.94,397.00)" id="shape13">
+            <path d="M.0,.0L48.1,.0L48.1,31.4L.0,31.4L.0,.0z" stroke="#323232" fill-rule="nonzero" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="11.1" y="21.2">县令</tspan>
+            </text>
+        </g>
+        <g transform="translate(341.94,138.57)" id="shape14">
+            <path d="M.0,.0L64.1,.0L64.1,31.4L.0,31.4L.0,.0z" stroke="#323232" fill-rule="nonzero" fill="#b0ddc1"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="6.0" y="21.5">人事权 √</tspan>
+            </text>
+        </g>
+        <g transform="translate(443.94,62.72)" id="shape15">
+            <path d="M.0,.0L.0,16.0L-70.0,16.0L-70.0,22.4" stroke="#191919" fill="none"/>
+            <path d="M-67.0,22.4L-70.0,28.4L-73.0,22.4L-67.0,22.4" stroke="#191919" stroke-linecap="round" fill="#191919" stroke-width="1"/>
+        </g>
+        <g transform="translate(373.97,170.00)" id="shape16">
+            <path d="M.0,.0L.0,211.0L42.0,211.0L42.0,221.0" stroke="#191919" fill="none"/>
+            <path d="M45.0,221.0L42.0,227.0L39.0,221.0L45.0,221.0" stroke="#191919" stroke-linecap="round" fill="#191919" stroke-width="1"/>
+        </g>
+        <g transform="translate(373.97,170.00)" id="shape17">
+            <path d="M.0,.0L.0,125.6L42.0,125.6L42.0,151.6" stroke="#191919" fill="none"/>
+            <path d="M45.0,151.6L42.0,157.6L39.0,151.6L45.0,151.6" stroke="#191919" stroke-linecap="round" fill="#191919" stroke-width="1"/>
+        </g>
+        <g transform="translate(341.94,91.14)" id="shape18">
+            <path d="M.0,.0L64.1,.0L64.1,31.4L.0,31.4L.0,.0z" stroke="#323232" fill-rule="nonzero" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="19.0" y="21.5">吏部</tspan>
+            </text>
+        </g>
+        <g transform="translate(373.97,122.57)" id="shape19">
+            <path d="M.0,.0L-0.0,10.0" stroke="#191919" fill="none"/>
+            <path d="M3.0,10.0L-0.0,16.0L-3.0,10.0L3.0,10.0" stroke="#191919" stroke-linecap="round" fill="#191919" stroke-width="1"/>
+        </g>
+        <g transform="translate(520.00,265.00)" id="shape20">
+            <path d="M.0,.0L64.1,.0L64.1,31.4L.0,31.4L.0,.0z" stroke="#323232" fill-rule="nonzero" fill="#b0ddc1"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="6.0" y="21.5">弹劾权 √</tspan>
+            </text>
+        </g>
+        <g transform="translate(572.00,231.66)" id="shape21">
+            <path d="M.0,.0L.0,17.3L-20.0,17.3L-20.0,27.3" stroke="#191919" fill="none"/>
+            <path d="M-17.0,27.3L-20.0,33.3L-23.0,27.3L-17.0,27.3" stroke="#191919" stroke-linecap="round" fill="#191919" stroke-width="1"/>
+        </g>
+        <g transform="translate(552.03,296.43)" id="shape22">
+            <path d="M.0,.0L.0,46.9L-106.0,46.9" stroke="#191919" fill="none"/>
+            <path d="M-106.0,49.9L-112.0,46.9L-106.0,43.9L-106.0,49.9" stroke="#191919" stroke-linecap="round" fill="#191919" stroke-width="1"/>
+        </g>
+        <g transform="translate(552.03,296.43)" id="shape23">
+            <path d="M.0,.0L.0,116.3L-106.0,116.3" stroke="#191919" fill="none"/>
+            <path d="M-106.0,119.3L-112.0,116.3L-106.0,113.3L-106.0,119.3" stroke="#191919" stroke-linecap="round" fill="#191919" stroke-width="1"/>
+        </g>
+        <g transform="translate(767.94,230.28)" id="shape24">
+            <path d="M.0,.0L64.1,.0L64.1,31.4L.0,31.4L.0,.0z" stroke="#323232" fill-rule="nonzero" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="12.5" y="21.2">按察使</tspan>
+            </text>
+        </g>
+        <g transform="translate(842.94,230.28)" id="shape25">
+            <path d="M.0,.0L64.1,.0L64.1,31.4L.0,31.4L.0,.0z" stroke="#323232" fill-rule="nonzero" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="12.5" y="21.5">布政使</tspan>
+            </text>
+        </g>
+        <g transform="translate(610.00,265.00)" id="shape26">
+            <path d="M.0,.0L66.0,.0L66.0,31.4L.0,31.4L.0,.0z" stroke="#323232" fill-rule="nonzero" fill="#f5cfcf"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="13.0" y="21.5">财权 ×</tspan>
+            </text>
+        </g>
+        <g transform="translate(572.00,231.66)" id="shape27">
+            <path d="M.0,.0L.0,17.3L71.0,17.3L71.0,27.3" stroke="#191919" fill="none"/>
+            <path d="M74.0,27.3L71.0,33.3L68.0,27.3L74.0,27.3" stroke="#191919" stroke-linecap="round" fill="#191919" stroke-width="1"/>
+        </g>
+        <g transform="translate(689.06,265.00)" id="shape28">
+            <path d="M.0,.0L66.0,.0L66.0,31.4L.0,31.4L.0,.0z" stroke="#323232" fill-rule="nonzero" fill="#f5cfcf"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="13.0" y="21.5">军权 ×</tspan>
+            </text>
+        </g>
+        <g transform="translate(572.00,231.66)" id="shape29">
+            <path d="M.0,.0L.0,17.3L150.1,17.3L150.1,27.3" stroke="#191919" fill="none"/>
+            <path d="M153.1,27.3L150.1,33.3L147.1,27.3L153.1,27.3" stroke="#191919" stroke-linecap="round" fill="#191919" stroke-width="1"/>
+        </g>
+        <g transform="translate(610.00,70.14)" id="shape30">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="9.8" y="32.7">太平天国前</tspan>
+                <tspan x="22.8" y="51.7">的清廷</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
