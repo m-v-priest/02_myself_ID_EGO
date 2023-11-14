@@ -1,0 +1,81 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 353 238" xmlns="http://www.w3.org/2000/svg" width="353" height="238">
+    <defs/>
+    <g transform="translate(-334.00,-141.00)">
+        <g transform="translate(472.00,265.00)" id="shape1">
+            <path stroke="#323232" d="M57.0,32.0L57.0,.0L.0,.0L.0,32.0L57.0,32.0z" fill-rule="nonzero" fill="#ffffff"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="21.5" x="15.5">企业</tspan>
+            </text>
+        </g>
+        <g transform="translate(335.00,240.00)" id="shape2">
+            <path stroke="#323232" d="M90.5,32.0L90.5,.0L.0,.0L.0,32.0L90.5,32.0z" fill-rule="nonzero" fill="#ffffff"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="21.5" x="6.3">生产原料输入</tspan>
+            </text>
+        </g>
+        <g transform="translate(335.00,283.00)" id="shape3">
+            <path stroke="#323232" d="M90.5,32.0L90.5,.0L.0,.0L.0,32.0L90.5,32.0z" fill-rule="nonzero" fill="#ffffff"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="21.5" x="19.3">信贷融资</tspan>
+            </text>
+        </g>
+        <g transform="translate(576.82,240.00)" id="shape4">
+            <path stroke="#323232" d="M109.1,32.0L109.1,.0L.0,.0L.0,32.0L109.1,32.0z" fill-rule="nonzero" fill="#ffffff"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="21.5" x="28.6">销售渠道</tspan>
+            </text>
+        </g>
+        <g transform="translate(576.82,283.00)" id="shape5">
+            <path stroke="#323232" d="M109.1,32.0L109.1,.0L.0,.0L.0,32.0L109.1,32.0z" fill-rule="nonzero" fill="#ffffff"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="21.5" x="12.6">收购方/消费者</tspan>
+            </text>
+        </g>
+        <g transform="translate(425.50,256.00)" id="shape6">
+            <path stroke="#191919" d="M.0,.0L14.5,.0L14.5,25.0L40.5,25.0" fill="none"/>
+            <path stroke="#191919" d="M40.5,22.0L46.5,25.0L40.5,28.0L40.5,22.0" stroke-width="1" stroke-linecap="round" fill="#191919"/>
+        </g>
+        <g transform="translate(425.50,299.00)" id="shape7">
+            <path stroke="#191919" d="M.0,.0L14.5,.0L14.5,-18.0L40.5,-18.0" fill="none"/>
+            <path stroke="#191919" d="M40.5,-21.0L46.5,-18.0L40.5,-15.0L40.5,-21.0" stroke-width="1" stroke-linecap="round" fill="#191919"/>
+        </g>
+        <g transform="translate(529.00,281.00)" id="shape8">
+            <path stroke="#191919" d="M.0,.0L15.8,.0L15.8,-25.0L41.8,-25.0" fill="none"/>
+            <path stroke="#191919" d="M41.8,-28.0L47.8,-25.0L41.8,-22.0L41.8,-28.0" stroke-width="1" stroke-linecap="round" fill="#191919"/>
+        </g>
+        <g transform="translate(529.00,281.00)" id="shape9">
+            <path stroke="#191919" d="M.0,.0L15.8,.0L15.8,18.0L41.8,18.0" fill="none"/>
+            <path stroke="#191919" d="M41.8,15.0L47.8,18.0L41.8,21.0L41.8,15.0" stroke-width="1" stroke-linecap="round" fill="#191919"/>
+        </g>
+        <g transform="translate(356.25,199.00)" id="shape10">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="21.5" x="11.0">上游</tspan>
+            </text>
+        </g>
+        <g transform="translate(607.38,199.00)" id="shape11">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="21.5" x="11.0">下游</tspan>
+            </text>
+        </g>
+        <g transform="translate(444.00,142.00)" id="shape12">
+            <path stroke="#323232" d="M113.0,32.0L113.0,.0L.0,.0L.0,32.0L113.0,32.0z" fill-rule="nonzero" fill="#ffffff"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="21.5" x="30.5">国家控制</tspan>
+            </text>
+        </g>
+        <g transform="translate(557.00,158.00)" id="shape13">
+            <path stroke="#191919" d="M.0,.0L76.0,.0L76.0,35.0" fill="none"/>
+            <path stroke="#191919" d="M79.0,35.0L76.0,41.0L73.0,35.0L79.0,35.0" stroke-width="1" stroke-linecap="round" fill="#191919"/>
+        </g>
+        <g transform="translate(444.00,158.00)" id="shape14">
+            <path stroke="#191919" d="M.0,.0L-61.0,.0L-61.0,35.0" fill="none"/>
+            <path stroke="#191919" d="M-58.0,35.0L-61.0,41.0L-64.0,35.0L-58.0,35.0" stroke-width="1" stroke-linecap="round" fill="#191919"/>
+        </g>
+        <g transform="translate(411.74,331.00)" id="shape15">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="19.5" x="9.3">企业的上下游都被掐住命脉,</tspan>
+                <tspan y="38.5" x="54.3"> 企业就死了</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
