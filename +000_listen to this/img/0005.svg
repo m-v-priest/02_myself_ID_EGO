@@ -1,0 +1,68 @@
+<svg width="364" height="267" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 364 267.25" xmlns="http://www.w3.org/2000/svg">
+    <defs/>
+    <g id="group1" transform="translate(1.00,1.00)">
+        <g id="shape2" transform="translate(219.50,79.25)">
+            <path fill="#ebebeb" fill-rule="nonzero" stroke="#323232" d="M142.0,73.0L142.0,.0L.0,.0L.0,73.0L142.0,73.0z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="23.0" x="7.5">Dr. Merrick Adelman</tspan>
+                <tspan y="42.0" x="8.5">( 纳粹对犹太人大屠杀</tspan>
+                <tspan y="61.0" x="34.5">中的幸存者 )</tspan>
+            </text>
+        </g>
+        <g id="shape3" transform="translate(0.00,88.00)">
+            <path fill="#ffffff" fill-rule="nonzero" stroke="#323232" d="M142.0,55.5L142.0,.0L.0,.0L.0,55.5L142.0,55.5z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="23.8" x="11.0">Shielding the Flame</tspan>
+                <tspan y="42.8" x="50.0">( 书名 )</tspan>
+            </text>
+        </g>
+        <g id="shape4">
+            <path fill="#ffffff" fill-rule="nonzero" stroke="#323232" d="M142.0,54.5L142.0,.0L.0,.0L.0,54.5L142.0,54.5z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="23.3" x="31.5">Hannah Kroll</tspan>
+                <tspan y="42.3" x="54.0">(作者)</tspan>
+            </text>
+        </g>
+        <g id="shape5" transform="translate(0.00,173.25)">
+            <path fill="#ffffff" fill-rule="nonzero" stroke="#323232" d="M142.0,55.5L142.0,.0L.0,.0L.0,55.5L142.0,55.5z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="23.8" x="7.0">Yohannes Toshimska</tspan>
+                <tspan y="42.8" x="22.5">(translator 译者)</tspan>
+            </text>
+        </g>
+        <g id="shape6" transform="translate(71.00,54.50)">
+            <path fill="none" stroke="#191919" d="M.0,.0L.0,27.5"/>
+            <path stroke-width="1" fill="#191919" stroke="#191919" stroke-linecap="round" d="M3.0,27.5L.0,33.5L-3.0,27.5L3.0,27.5"/>
+            <rect width="39.0" height="19.0" fill="#ffffff" y="6.1" x="-18.5"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="21.1" x="-18.5">写了书</tspan>
+            </text>
+        </g>
+        <g id="shape7" transform="translate(71.00,143.50)">
+            <path fill="none" stroke="#191919" d="M.0,.0L.0,23.8"/>
+            <path stroke-width="1" fill="#191919" stroke="#191919" stroke-linecap="round" d="M3.0,23.8L.0,29.8L-3.0,23.8L3.0,23.8"/>
+        </g>
+        <g id="shape8" transform="translate(142.00,115.75)">
+            <path fill="none" stroke="#191919" d="M.0,.0L71.5,.0"/>
+            <path stroke-width="1" fill="#191919" stroke="#191919" stroke-linecap="round" d="M71.5,-3.0L77.5,.0L71.5,3.0L71.5,-3.0"/>
+            <rect width="39.0" height="19.0" fill="#ffffff" y="-9.5" x="19.8"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="5.5" x="19.8">讲述了</tspan>
+            </text>
+        </g>
+        <g id="shape9" transform="translate(230.50,209.75)">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="23.8" x="6.5">犹太人被送上火车, </tspan>
+                <tspan y="42.8" x="27.5">到集中营去</tspan>
+            </text>
+        </g>
+        <g id="shape10" transform="translate(290.50,152.25)">
+            <path fill="none" stroke="#191919" d="M.0,.0L.0,51.5"/>
+            <path stroke-width="1" fill="#191919" stroke="#191919" stroke-linecap="round" d="M3.0,51.5L.0,57.5L-3.0,51.5L3.0,51.5"/>
+            <rect width="26.0" height="19.0" fill="#ffffff" y="14.7" x="-12.0"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="29.7" x="-12.0">看到</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,68 @@
+<svg width="408" height="248" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 408 248" xmlns="http://www.w3.org/2000/svg">
+    <defs/>
+    <g transform="translate(-1653.00,-112.00)">
+        <g id="shape1" transform="translate(1669.00,209.00)">
+            <path fill="#ffffff" fill-rule="nonzero" stroke="#323232" d="M158.0,54.0L158.0,.0L.0,.0L.0,54.0L158.0,54.0z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="23.0" x="26.0">Nicholas Daniloff</tspan>
+                <tspan y="42.0" x="12.0">( American journalist )</tspan>
+            </text>
+        </g>
+        <g id="shape2" transform="translate(1902.00,209.00)">
+            <path fill="#ffffff" fill-rule="nonzero" stroke="#323232" d="M158.0,54.0L158.0,.0L.0,.0L.0,54.0L158.0,54.0z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="23.0" x="23.0">Gennadi Zakharov</tspan>
+                <tspan y="42.0" x="39.5">( Soviet spy )</tspan>
+            </text>
+        </g>
+        <g id="shape3" transform="translate(1669.00,113.00)">
+            <path fill="#ffffff" fill-rule="nonzero" stroke="#323232" d="M158.0,54.0L158.0,.0L.0,.0L.0,54.0L158.0,54.0z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="23.0" x="56.5">Reagan</tspan>
+                <tspan y="42.0" x="42.5">( President )</tspan>
+            </text>
+        </g>
+        <g id="shape4" transform="translate(1748.00,167.00)">
+            <path fill="none" stroke="#191919" d="M.0,.0L.0,36.0"/>
+            <path stroke-width="1" fill="#191919" stroke="#191919" stroke-linecap="round" d="M3.0,36.0L.0,42.0L-3.0,36.0L3.0,36.0"/>
+        </g>
+        <g id="shape5" transform="translate(1902.00,113.00)">
+            <path fill="#ffffff" fill-rule="nonzero" stroke="#323232" d="M158.0,54.0L158.0,.0L.0,.0L.0,54.0L158.0,54.0z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="23.0" x="11.0">Gorbachev 戈尔巴乔夫</tspan>
+                <tspan y="42.0" x="31.5">( Soviet leader )</tspan>
+            </text>
+        </g>
+        <g id="shape6" transform="translate(1981.00,167.00)">
+            <path fill="none" stroke="#191919" d="M.0,.0L.0,36.0"/>
+            <path stroke-width="1" fill="#191919" stroke="#191919" stroke-linecap="round" d="M3.0,36.0L.0,42.0L-3.0,36.0L3.0,36.0"/>
+        </g>
+        <g id="shape7" transform="translate(1654.00,305.00)">
+            <path fill="#ffffff" fill-rule="nonzero" stroke="#323232" d="M91.0,54.0L91.0,.0L.0,.0L.0,54.0L91.0,54.0z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="23.0" x="20.0">Miranda</tspan>
+                <tspan y="42.0" x="9.5">( daughter )</tspan>
+            </text>
+        </g>
+        <g id="shape8" transform="translate(1757.00,305.00)">
+            <path fill="#ffffff" fill-rule="nonzero" stroke="#323232" d="M91.0,54.0L91.0,.0L.0,.0L.0,54.0L91.0,54.0z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="23.0" x="28.5">Caleb</tspan>
+                <tspan y="42.0" x="26.5">( son )</tspan>
+            </text>
+        </g>
+        <g id="shape9" transform="translate(1748.00,263.00)">
+            <path fill="none" stroke="#191919" d="M.0,.0L.0,26.0L-48.5,26.0L-48.5,36.0"/>
+            <path stroke-width="1" fill="#191919" stroke="#191919" stroke-linecap="round" d="M-45.5,36.0L-48.5,42.0L-51.5,36.0L-45.5,36.0"/>
+        </g>
+        <g id="shape10" transform="translate(1748.00,263.00)">
+            <path fill="none" stroke="#191919" d="M.0,.0L.0,26.0L54.5,26.0L54.5,36.0"/>
+            <path stroke-width="1" fill="#191919" stroke="#191919" stroke-linecap="round" d="M57.5,36.0L54.5,42.0L51.5,36.0L57.5,36.0"/>
+        </g>
+        <g id="shape11" transform="translate(1827.00,140.00)">
+            <path stroke-dasharray="2.5,2.5" fill="none" stroke="#191919" d="M8.0,.0L69.0,.0"/>
+            <path stroke-width="1" fill="#191919" stroke="#191919" stroke-linecap="round" d="M8.0,4.0L.0,.0L8.0,-4.0L8.0,4.0"/>
+            <path stroke-width="1" fill="#191919" stroke="#191919" stroke-linecap="round" d="M69.0,-3.0L75.0,.0L69.0,3.0L69.0,-3.0"/>
+        </g>
+    </g>
+</svg>
