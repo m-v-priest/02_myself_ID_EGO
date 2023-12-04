@@ -1,0 +1,56 @@
+<svg height="399" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 529 399" width="529">
+    <defs/>
+    <g transform="translate(-1709.00,-1775.00)">
+        <path fill="none" id="shape1" d="M312.0,330.0L312.0,.0L.0,.0L.0,330.0L312.0,330.0z" transform="translate(1710.00,1843.00)" stroke="#323232"/>
+        <g id="shape2" transform="translate(2079.00,1776.00)">
+            <path fill="#ffffff" fill-rule="nonzero" d="M158.0,54.0L158.0,.0L.0,.0L.0,54.0L158.0,54.0z" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="56.5" y="23.0">Reagan</tspan>
+                <tspan x="42.5" y="42.0">( President )</tspan>
+            </text>
+        </g>
+        <g id="shape3" transform="translate(1735.00,1966.90)">
+            <path fill="#ffffff" fill-rule="nonzero" d="M264.0,92.0L264.0,.0L.0,.0L.0,92.0L264.0,92.0z" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt;font-weight:bold">
+                <tspan x="80.0" y="23.0">David Jacobsen</tspan>
+                <tspan x="184.0" style="font-weight:normal"></tspan>
+                <tspan x="19.0" style="font-weight:normal" y="42.0">( Director of the American University </tspan>
+                <tspan x="75.5" style="font-weight:normal" y="61.0">Hospital in Beirut )</tspan>
+                <tspan x="98.5" style="font-weight:normal" y="80.0">( Hostage )</tspan>
+            </text>
+        </g>
+        <g id="shape4" transform="translate(1735.00,1890.00)">
+            <path fill="#ffffff" fill-rule="nonzero" d="M264.0,73.0L264.0,.0L.0,.0L.0,73.0L264.0,73.0z" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt;font-weight:bold">
+                <tspan x="80.5" y="23.0">Terry Anderson</tspan>
+                <tspan x="14.0" style="font-weight:normal" y="42.0">( the Associated Press correspondent )</tspan>
+                <tspan x="98.5" style="font-weight:normal" y="61.0">( Hostage )</tspan>
+            </text>
+        </g>
+        <g id="shape5" transform="translate(1735.00,2081.00)">
+            <path fill="#ffffff" fill-rule="nonzero" d="M151.0,73.0L151.0,.0L.0,.0L.0,73.0L151.0,73.0z" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt;font-weight:bold">
+                <tspan x="22.5" y="23.0">William Buckley</tspan>
+                <tspan x="128.5" style="font-weight:normal"></tspan>
+                <tspan x="9.5" style="font-weight:normal" y="42.0">( American diplomat )</tspan>
+                <tspan x="25.5" style="font-weight:normal" y="61.0">( Hostage, 已死 )</tspan>
+            </text>
+        </g>
+        <g id="shape6" transform="translate(1789.00,1780.60)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="9.5" y="45.5">the Islamic Jihad</tspan>
+            </text>
+        </g>
+        <g id="shape7" transform="translate(2022.00,2008.00)">
+            <path fill="none" d="M8.0,.0L126.0,.0" stroke="#191919"/>
+            <path fill="#191919" stroke-linecap="round" d="M8.0,4.0L.0,.0L8.0,-4.0L8.0,4.0" stroke-width="1" stroke="#191919"/>
+            <path fill="#191919" stroke-linecap="round" d="M126.0,-3.0L132.0,.0L126.0,3.0L126.0,-3.0" stroke-width="1" stroke="#191919"/>
+        </g>
+        <path fill="none" id="shape8" d="M.0,.0L287.0,.0" transform="matrix(0.00,1.00,-1.00,0.00,2158.0,1830.0)" stroke="#191919"/>
+        <g id="shape9" transform="translate(1789.00,1824.00)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="14.5" y="45.5">绑架的美国人质</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

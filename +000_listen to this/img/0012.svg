@@ -1,0 +1,54 @@
+<svg height="451" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 529 451" width="529">
+    <defs/>
+    <g transform="translate(-1709.00,-1775.00)">
+        <path fill="none" id="shape1" d="M312.0,382.0L312.0,.0L.0,.0L.0,382.0L312.0,382.0z" transform="translate(1710.00,1843.00)" stroke="#323232"/>
+        <g id="shape2" transform="translate(2079.00,1776.00)">
+            <path fill="#ffffff" fill-rule="nonzero" d="M158.0,54.0L158.0,.0L.0,.0L.0,54.0L158.0,54.0z" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="56.5" y="23.0">Reagan</tspan>
+                <tspan x="42.5" y="42.0">( President )</tspan>
+            </text>
+        </g>
+        <g id="shape3" transform="translate(1735.00,1901.00)">
+            <path fill="#ffffff" fill-rule="nonzero" d="M158.0,54.0L158.0,.0L.0,.0L.0,54.0L158.0,54.0z" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="31.5" y="23.0">David Jacobsen</tspan>
+                <tspan x="45.5" y="42.0">( Hostage )</tspan>
+            </text>
+        </g>
+        <g id="shape4" transform="translate(1735.00,1976.40)">
+            <path fill="#ffffff" fill-rule="nonzero" d="M264.0,73.0L264.0,.0L.0,.0L.0,73.0L264.0,73.0z" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="85.0" y="23.0">Terry Anderson</tspan>
+                <tspan x="14.0" y="42.0">( the Associated Press correspondent )</tspan>
+                <tspan x="98.5" y="61.0">( Hostage )</tspan>
+            </text>
+        </g>
+        <g id="shape5" transform="translate(1735.00,2070.80)">
+            <path fill="#ffffff" fill-rule="nonzero" d="M151.0,54.0L151.0,.0L.0,.0L.0,54.0L151.0,54.0z" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="16.0" y="23.0">Thomas Sutherland</tspan>
+                <tspan x="42.0" y="42.0">( Hostage )</tspan>
+            </text>
+        </g>
+        <g id="shape6" transform="translate(1735.00,2146.20)">
+            <path fill="#ffffff" fill-rule="nonzero" d="M151.0,54.0L151.0,.0L.0,.0L.0,54.0L151.0,54.0z" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="28.0" y="23.0">William Buckley</tspan>
+                <tspan x="25.5" y="42.0">( Hostage, 已死 )</tspan>
+            </text>
+        </g>
+        <g id="shape7" transform="translate(1720.00,1830.00)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="20.5" y="36.0">being held in </tspan>
+                <tspan x="33.5" y="55.0">Lebanon</tspan>
+            </text>
+        </g>
+        <g id="shape8" transform="translate(2022.00,2034.00)">
+            <path fill="none" d="M8.0,.0L126.0,.0" stroke="#191919"/>
+            <path fill="#191919" stroke-linecap="round" d="M8.0,4.0L.0,.0L8.0,-4.0L8.0,4.0" stroke-width="1" stroke="#191919"/>
+            <path fill="#191919" stroke-linecap="round" d="M126.0,-3.0L132.0,.0L126.0,3.0L126.0,-3.0" stroke-width="1" stroke="#191919"/>
+        </g>
+        <path fill="none" id="shape9" d="M.0,.0L287.0,.0" transform="matrix(0.00,1.00,-1.00,0.00,2158.0,1830.0)" stroke="#191919"/>
+    </g>
+</svg>
