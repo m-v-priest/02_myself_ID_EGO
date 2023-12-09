@@ -1,0 +1,56 @@
+<svg width="589" viewBox="0 0 589 307" xmlns="http://www.w3.org/2000/svg" height="307" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs/>
+    <g transform="translate(-2152.32,-2229.00)">
+        <g id="shape1" transform="translate(2384.36,2324.00)">
+            <path fill-rule="nonzero" d="M164.4,52.0L164.4,.0L.0,.0L.0,52.0L164.4,52.0z" fill="#ffffff" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="22.0" x="24.7">Robert Michaelson</tspan>
+                <tspan y="41.0" x="46.2">( producer )</tspan>
+            </text>
+        </g>
+        <g id="shape2" transform="translate(2460.90,2230.00)">
+            <path fill-rule="nonzero" d="M185.1,52.0L185.1,.0L.0,.0L.0,52.0L185.1,52.0z" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="22.0" x="51.6">Hard Choices</tspan>
+                <tspan y="41.0" x="30.1">( a low-budget film )</tspan>
+            </text>
+        </g>
+        <g id="shape3" transform="translate(2153.32,2324.00)">
+            <path fill-rule="nonzero" d="M164.4,52.0L164.4,.0L.0,.0L.0,52.0L164.4,52.0z" fill="#ffffff" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="22.0" x="39.2">Bob Mondello</tspan>
+                <tspan y="41.0" x="58.2">( Critic )</tspan>
+            </text>
+        </g>
+        <g id="shape4" transform="translate(2575.58,2324.00)">
+            <path fill-rule="nonzero" d="M164.4,52.0L164.4,.0L.0,.0L.0,52.0L164.4,52.0z" fill="#ffffff" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="22.0" x="36.7">Gary McCleary</tspan>
+                <tspan y="41.0" x="39.7">( 饰演 Bobby )</tspan>
+            </text>
+        </g>
+        <g id="shape5" transform="translate(2575.58,2393.00)">
+            <path fill-rule="nonzero" d="M164.4,52.0L164.4,.0L.0,.0L.0,52.0L164.4,52.0z" fill="#ffffff" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="22.0" x="34.7">Margaret Clenk</tspan>
+                <tspan y="41.0" x="42.2">( 饰演 Laura )</tspan>
+            </text>
+        </g>
+        <g id="shape6" transform="translate(2575.58,2462.00)">
+            <path fill-rule="nonzero" d="M164.4,73.0L164.4,.0L.0,.0L.0,73.0L164.4,73.0z" fill="#ffffff" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="23.0" x="50.2">John Sales</tspan>
+                <tspan y="42.0" x="26.2">( supporting cast )</tspan>
+                <tspan y="61.0" x="50.2">( director )</tspan>
+            </text>
+        </g>
+        <g id="shape7" transform="translate(2553.45,2282.00)">
+            <path d="M.0,.0L.0,26.0L-86.9,26.0L-86.9,36.0" fill="none" stroke="#191919"/>
+            <path d="M-83.9,36.0L-86.9,42.0L-89.9,36.0L-83.9,36.0" fill="#191919" stroke-width="1" stroke="#191919" stroke-linecap="round"/>
+        </g>
+        <g id="shape8" transform="translate(2553.45,2282.00)">
+            <path d="M.0,.0L.0,26.0L104.3,26.0L104.3,36.0" fill="none" stroke="#191919"/>
+            <path d="M107.3,36.0L104.3,42.0L101.3,36.0L107.3,36.0" fill="#191919" stroke-width="1" stroke="#191919" stroke-linecap="round"/>
+        </g>
+    </g>
+</svg>

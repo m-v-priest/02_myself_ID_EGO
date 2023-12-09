@@ -1,0 +1,11 @@
+<svg width="222" viewBox="0 0 222 74.5" xmlns="http://www.w3.org/2000/svg" height="75" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs/>
+    <g id="shape1" transform="translate(1.00,1.00)">
+        <path fill-rule="nonzero" d="M220.0,72.5L220.0,.0L.0,.0L.0,72.5L220.0,72.5z" fill="#ffffff" stroke="#323232"/>
+        <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+            <tspan y="23.0" x="63.5">Leonard Perutz</tspan>
+            <tspan y="42.0" x="67.5">( The head of </tspan>
+            <tspan y="61.0" x="7.0">the Defense Intelligence Agency )</tspan>
+        </text>
+    </g>
+</svg>

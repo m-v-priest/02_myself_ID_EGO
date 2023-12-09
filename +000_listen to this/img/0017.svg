@@ -1,0 +1,71 @@
+<svg width="568" viewBox="0 0 568 295" xmlns="http://www.w3.org/2000/svg" height="295" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs/>
+    <g transform="translate(-2428.67,-2172.00)">
+        <path fill-rule="nonzero" d="M.0,.0L128.0,.0L128.0,45.0L.0,45.0L.0,.0z" fill="#ebebeb" id="shape1" transform="translate(2783.89,2324.00)"/>
+        <g id="shape2" transform="translate(2429.67,2261.00)">
+            <path fill-rule="nonzero" d="M185.1,52.0L185.1,.0L.0,.0L.0,52.0L185.1,52.0z" fill="#ffffff" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="22.0" x="43.1">Corazon Aquion</tspan>
+                <tspan y="41.0" x="24.6">( Philippine President )</tspan>
+            </text>
+        </g>
+        <g id="shape3" transform="translate(2645.22,2176.50)">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="21.0" x="30.5">Philippine</tspan>
+            </text>
+        </g>
+        <g id="shape4" transform="translate(2645.22,2261.00)">
+            <path fill-rule="nonzero" d="M.0,.0L120.0,.0L120.0,54.0L.0,54.0L.0,.0z" fill="#ebebeb"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="23.0" x="30.0">Subic Bay</tspan>
+                <tspan y="42.0" x="10.5">( Naval Station )</tspan>
+            </text>
+        </g>
+        <g id="shape5" transform="translate(2783.89,2261.00)">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="23.0" x="29.5">Olongapo</tspan>
+                <tspan y="42.0" x="41.0">( city )</tspan>
+            </text>
+        </g>
+        <g id="shape6" transform="translate(2787.89,2319.00)">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="23.0" x="36.0">Pergasa</tspan>
+                <tspan y="42.0" x="7.5">( most destitute )</tspan>
+            </text>
+        </g>
+        <g id="shape7" transform="translate(2674.11,2412.00)">
+            <path fill-rule="nonzero" d="M156.2,54.0L156.2,.0L.0,.0L.0,54.0L156.2,54.0z" fill="#ffffff" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="23.0" x="35.1">Verhilio Fransi</tspan>
+                <tspan y="42.0" x="19.1">( live off the dump)</tspan>
+            </text>
+        </g>
+        <g id="shape8" transform="translate(2849.42,2412.00)">
+            <path fill-rule="nonzero" d="M146.5,54.0L146.5,.0L.0,.0L.0,54.0L146.5,54.0z" fill="#ffffff" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="23.0" x="25.2">Catolino Trancy</tspan>
+                <tspan y="42.0" x="14.2">( live off the dump)</tspan>
+            </text>
+        </g>
+        <g id="shape9" transform="translate(2847.89,2369.00)">
+            <path d="M.0,.0L.0,27.0L-95.7,27.0L-95.7,37.0" fill="none" stroke="#191919"/>
+            <path d="M-92.7,37.0L-95.7,43.0L-98.7,37.0L-92.7,37.0" fill="#191919" stroke-width="1" stroke="#191919" stroke-linecap="round"/>
+        </g>
+        <g id="shape10" transform="translate(2847.89,2369.00)">
+            <path d="M.0,.0L.0,27.0L74.8,27.0L74.8,37.0" fill="none" stroke="#191919"/>
+            <path d="M77.8,37.0L74.8,43.0L71.8,37.0L77.8,37.0" fill="#191919" stroke-width="1" stroke="#191919" stroke-linecap="round"/>
+        </g>
+        <g id="shape12" transform="translate(2702.11,2208.00)">
+            <path d="M.0,.0L.0,21.0L-179.9,21.0L-179.9,47.0" fill="none" stroke="#191919"/>
+            <path d="M-176.9,47.0L-179.9,53.0L-182.9,47.0L-176.9,47.0" fill="#191919" stroke-width="1" stroke="#191919" stroke-linecap="round"/>
+        </g>
+        <g id="shape13" transform="translate(2702.11,2208.00)">
+            <path d="M.0,.0L-0.0,47.0" fill="none" stroke="#191919"/>
+            <path d="M3.0,47.0L-0.0,53.0L-3.0,47.0L3.0,47.0" fill="#191919" stroke-width="1" stroke="#191919" stroke-linecap="round"/>
+        </g>
+        <g id="shape14" transform="translate(2702.11,2208.00)">
+            <path d="M.0,.0L.0,21.0L169.9,21.0L169.9,54.0" fill="none" stroke="#191919"/>
+            <path d="M172.9,54.0L169.9,60.0L166.9,54.0L172.9,54.0" fill="#191919" stroke-width="1" stroke="#191919" stroke-linecap="round"/>
+        </g>
+    </g>
+</svg>
