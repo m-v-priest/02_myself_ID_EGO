@@ -1,0 +1,312 @@
+
+= Dangerous 'Superbugs' Are on the Rise. What Can Stop Them? 危险的“超级细菌”正在增加。什么可以阻止他们？
+:toc: left
+:toclevels: 3
+:sectnums:
+
+'''
+
+== Dangerous 'Superbugs' Are on the Rise. 危险的“超级细菌”正在增加。
+
+What Can Stop Them? +
+什么可以阻止他们？ +
+
+Dangerous ‘Superbugs’ Are on the Rise. +
+危险的“超级细菌”正在增加。 +
+
+What Can Stop Them? Traditional antibiotics *drive* (v.) bacteria *toward* drug resistance, so scientists are looking to viruses, CRISPR, designer molecules and protein swords *for better superbug treatments* +
+什么可以阻止他们？传统抗生素会导致细菌产生耐药性，因此科学家们正在寻找病毒、CRISPR、设计分子和蛋白质剑, 来寻找更好的超级细菌治疗方法 +
+
+Bacteria’s rising resistance to antibiotics is making the drugs obsolete. +
+细菌对抗生素的耐药性不断增强，导致这些药物变得过时。 +
+
+Scientists are fighting back with viruses, CRISPR, designer molecules and cell-slicing enzymes. +
+科学家们正在利用病毒、CRISPR、设计分子和细胞切片酶进行反击。 +
+
+Seven of the 18 concerning bacteria tracked by the Centers for Disease Control and Prevention (CDC) are becoming more resistant to common antibiotics considered essential for maintaining public health. +
+美国疾病控制与预防中心 (CDC) 追踪的 18 种相关细菌中，有 7 种对普通抗生素的耐药性越来越强，而这些抗生素被认为对维持公众健康至关重要。 +
+
+Meanwhile, drug companies have been slow to make new antibiotics capable of beating the microbes. +
+与此同时，制药公司在生产能够对抗微生物的新型抗生素方面进展缓慢。 +
+
+So some scientists are looking beyond traditional antibiotics for new weapons that won’t fuel the rise of superbugs. +
+因此，一些科学家正在超越传统抗生素，寻找不会助长超级细菌崛起的新武器。 +
+
+Their emerging arsenal features viruses that kill bacteria; CRISPR; and microbe-slaying molecules. +
+他们新兴的武器库以杀死细菌的病毒为特色。基因编辑技术；和微生物杀灭分子。 +
+
+They hope that these experimental treatments, some of which have been tested in patients, will kill superbugs without promoting resistance. +
+他们希望这些实验性治疗（其中一些已经在患者身上进行了测试）能够杀死超级细菌而不增加耐药性。 +
+
+HOW ANTIBIOTIC RESISTANCE EMERGES AND SPREADS +
+抗生素耐药性如何出现和传播 +
+
+Antibiotics either directly kill bacteria or slow their growth, leaving the immune system to finish the job. +
+抗生素要么直接杀死细菌，要么减缓细菌的生长，让免疫系统来完成这项工作。 +
+
+The drugs work in several ways — by preventing bacteria from building sturdy walls or making copies of their DNA, for instance. +
+这些药物有多种作用，例如阻止细菌建造坚固的墙壁或复制其 DNA。 +
+
+Growth-slowing antibiotics usually disrupt ribosomes, the factories in which bacterial cells make proteins. +
+减缓生长的抗生素通常会破坏核糖体，核糖体是细菌细胞制造蛋白质的工厂。 +
+
+Many antibiotics shoot for the exact same molecular targets, and so-called broad-spectrum antibiotics' mechanisms are so universal that they work on both major classes of bacteria: gram-positive and gram-negative, which are distinguished by the makeup and thickness of their cell walls. +
+许多抗生素针对完全相同的分子靶点，而所谓的广谱抗生素的机制是如此普遍，以至于它们对两大类细菌都起作用：革兰氏阳性细菌和革兰氏阴性细菌，这两种细菌的​​区别在于细菌的组成和厚度。他们的细胞壁。 +
+
+Broad-spectrum antibiotics, in particular, pressure both harmful and helpful bacteria in the body to evolve defensive strategies that eject or disable the drugs, or else alter their targets. +
+尤其是广谱抗生素，会迫使体内的有害细菌和有益细菌进化出防御策略，驱逐或禁用药物，或者改变它们的目标。 +
+
+Bacteria can pick up such defenses through random DNA mutations, or by swapping "resistance genes" with other bacteria via a process called horizontal gene transfer. +
+细菌可以通过随机 DNA 突变，或者通过称为水平基因转移的过程与其他细菌交换“抗性基因”来获得这种防御。 +
+
+By making these gene transfers, bacteria can quickly spread such mutations to additional bacterial populations in the body and in the environment. +
+通过进行这些基因转移，细菌可以快速将此类突变传播到体内和环境中的其他细菌群体。 +
+
+The misuse of antibiotics in health care, as well as in agriculture, has given bacteria endless opportunities to develop resistance, raising the chance that once-treatable infections will become life-threatening. +
+医疗保健和农业中抗生素的滥用给细菌提供了无限的机会产生耐药性，从而增加了曾经可治疗的感染变得危及生命的可能性。 +
+
+HARNESSING VIRUSES TO FIGHT BACTERIA +
+利用病毒对抗细菌 +
+
+One of the proposed alternatives to antibiotics was first conceived more than a century ago, before the 1928 discovery of penicillin. +
+一个多世纪前，即 1928 年青霉素被发现之前，人们首次提出了抗生素替代品之一。 +
+
+Called phage therapy, it uses bacteria-infecting viruses called bacteriophages, or simply "phages," which typically kill the germs by invading their cells and splitting them open from the inside. +
+这种疗法被称为噬菌体疗法，它使用称为噬菌体的细菌感染病毒，或简称为“噬菌体”，通常通过侵入细胞并从内部将其切开来杀死细菌。 +
+
+Phages can also pressure bacteria into giving up key tools in their drug resistance tool kits. +
+噬菌体还可以迫使细菌放弃其耐药工具包中的关键工具。 +
+
+For example, a phage called U136B can have this effect on E. coli. To infiltrate E. coli, the phage uses an efflux pump, a protein E. coli normally uses to pump antibiotics out of the cell. +
+例如，一种名为 U136B 的噬菌体可以对大肠杆菌产生这种作用。为了渗透大肠杆菌，噬菌体使用外排泵，这是大肠杆菌通常用来将抗生素泵出细胞的蛋白质。 +
+
+If the E. coli tries to change this pump to escape the phage, it reduces the bacterium’s ability to pump out antibiotics. +
+如果大肠杆菌试图改变这个泵以逃避噬菌体，就会降低细菌泵出抗生素的能力。 +
+
+And unlike with antibiotics, bacteria are unlikely to gain widespread resistance to phage therapy. +
+与抗生素不同的是，细菌不太可能对噬菌体疗法产生广泛的耐药性。 +
+
+Here’s why: Antibiotic resistance has been dramatically accelerated by the misuse and overuse of antibiotics, especially broad-spectrum antibiotics that work on a variety of bacteria. +
+原因如下：滥用和过度使用抗生素，尤其是对多种细菌有效的广谱抗生素，大大加速了抗生素耐药性的产生。 +
+
+Phages, by contrast, can have much narrower targets than even narrow-spectrum antibiotics — for instance, targeting a protein found in only one or a few strains within one bacterial species. +
+相比之下，噬菌体的靶标甚至比窄谱抗生素还要窄得多，例如，针对一种细菌物种中仅一种或几种菌株中发现的蛋白质。 +
+
+The target bacterium can still evolve resistance to an individual phage — but by picking the right combination of phages, scientists can make it so that the bacterium’s evolution comes at a cost. +
+目标细菌仍然可以进化出对单个噬菌体的抵抗力，但通过选择正确的噬菌体组合，科学家可以使细菌的进化付出代价。 +
+
+This cost might be a decrease in virulence or an increased vulnerability to antibiotics. +
+这种代价可能是毒力降低或对抗生素的脆弱性增加。 +
+
+So far in clinical trials, though, phage therapy generally hasn’t worked better than standard antibiotics or a placebo. +
+然而，到目前为止，在临床试验中，噬菌体疗法的效果通常并不比标准抗生素或安慰剂更好。 +
+
+Topline results from two recent trials hint at the treatment’s effectiveness in specific lung and foot infections, but the full results have yet to be released. +
+最近两项试验的主要结果暗示了该疗法对特定肺部和足部感染的有效性，但完整结果尚未公布。 +
+
+Success in future trials will be key to getting phages into the clinic, Turner said. +
+特纳说，未来试验的成功将是噬菌体进入临床的关键。 +
+
+Those trials will have to show the therapy works for multiple types of infections, determine dosage and confirm phage therapies don’t hurt helpful bacteria in the body. +
+这些试验必须证明该疗法适用于多种类型的感染，确定剂量并确认噬菌体疗法不会伤害体内的有益细菌。 +
+
+TURNING BACTERIA’S DEFENSES AGAINST THEM +
+改变细菌的防御机制 +
+
+Although made famous as a powerful gene-editing tool, CRISPR technology was actually adapted from an immune system found in many bacteria: CRISPR-Cas. +
+尽管 CRISPR 技术因强大的基因编辑工具而闻名，但它实际上是从许多细菌中发现的免疫系统改编而来的：CRISPR-Cas。 +
+
+The key components of this immune system include molecular scissors, known as Cas proteins, and a memory bank of DNA snippets that a bacterium has collected from phages that once infected it. +
+该免疫系统的关键组成部分包括分子剪刀（称为 Cas 蛋白）以及细菌从曾经感染它的噬菌体中收集的 DNA 片段记忆库。 +
+
+By tapping its memory bank, CRISPR-Cas can guide its lethal scissors to a precise point in an invading phage’s DNA and snip it like a piece of ribbon. +
+通过利用其记忆库，CRISPR-Cas 可以引导其致命剪刀到达入侵噬菌体 DNA 的精确位置，然后像剪断一条丝带一样将其剪断。 +
+
+On occasion, though, rather than attacking phages, CRISPR-Cas can accidentally go after the bacterial cell’s own DNA, triggering a lethal autoimmune reaction. +
+但有时，CRISPR-Cas 不会攻击噬菌体，而是会意外地攻击细菌细胞自身的 DNA，从而引发致命的自身免疫反应。 +
+
+This phenomenon inspired Beisel and his colleagues to explore using CRISPR-Cas to shred bacterial cells' DNA. +
+这一现象启发 Beisel 和他的同事探索使用 CRISPR-Cas 来粉碎细菌细胞的 DNA。 +
+
+The real draw of it is that it is a sequence-specific tool, meaning it targets only the DNA you tell it to, and not sequences present in other bacteria. +
+它的真正吸引力在于它是一种序列特异性工具，这意味着它只针对你告诉它的 DNA，而不是其他细菌中存在的序列。 +
+
+So, once administered to a patient, "the CRISPR machinery gets into a set of cells, but only those that have the sequence or sequences you picked will be attacked and killed. +
+因此，一旦对患者施用，“CRISPR 机器就会进入一组细胞，但只有那些具有您选择的序列的细胞才会受到攻击并杀死。 +
+
+How do you get CRISPR-Cas into the right bacteria? Various research groups are testing different delivery methods, but at present, the best strategy seems to be loading CRISPR machinery into a phage that infects the target bacterium. +
+如何将 CRISPR-Cas 导入正确的细菌中？不同的研究小组正在测试不同的递送方法，但目前最好的策略似乎是将 CRISPR 机器加载到感染目标细菌的噬菌体中。 +
+
+
+DESIGNER MOLECULES TO KILL BACTERIA +
+设计杀死细菌的分子 +
+
+
+Beyond phages and CRISPR, scientists are developing antibiotic alternatives that harness bacteria-slaying peptides — short chains of protein building blocks— and enzymes, specialized proteins that jump-start chemical reactions. +
+除了噬菌体和 CRISPR 之外，科学家们还在开发抗生素替代品，利用杀菌肽（蛋白质构建块的短链）和酶（启动化学反应的特殊蛋白质）。 +
+
+These molecules differ from antibiotics because they can kill a very narrow range of bacteria by targeting bacterial proteins that cannot easily gain resistance to their attacks. +
+这些分子与抗生素不同，因为它们可以通过靶向不易对其攻击产生抵抗力的细菌蛋白质来杀死范围非常窄的细菌。 +
+
+
+Lab-made molecules called peptide nucleic acids (PNAs) are some of the most promising candidates. +
+实验室制造的肽核酸（PNA）分子是最有前途的候选分子之一。 +
+
+These engineered molecules can be designed to block bacterial cells from building essential proteins that are crucial to their survival. +
+这些工程分子可以被设计来阻止细菌细胞构建对其生存至关重要的必需蛋白质。 +
+
+PNAs do this by latching onto specific mRNA, genetic molecules that carry the instructions for building proteins from the cell’s control center to its protein construction sites. +
+PNA 通过锁定特定的 mRNA 来实现这一点，mRNA 是携带从细胞控制中心到蛋白质构建位点构建蛋白质的指令的遗传分子。 +
+
+PNAs cannot enter bacterial cells on their own, though, so they’re typically attached to other peptides that easily pass through the bacterial cell wall. +
+不过，PNA 本身无法进入细菌细胞，因此它们通常附着在其他容易穿过细菌细胞壁的肽上。 +
+
+
+By targeting proteins that cells cannot change without harming themselves, PNAs can avoid triggering drug resistance. +
+通过靶向细胞在不伤害自身的情况下无法改变的蛋白质，PNA 可以避免引发耐药性。 +
+
+The engineered molecules could also be made to target proteins that directly contribute to antibiotic resistance, for example, the efflux pumps used to push antibiotics out of cells or the enzymes capable of disabling the drugs. +
+工程分子还可以针对直接导致抗生素耐药性的蛋白质，例如用于将抗生素推出细胞的外排泵或能够使药物失效的酶。
+
+By emptying a germ’s drug resistance tool kit, PNAs can then make it vulnerable to standard treatments. +
+通过清空细菌的耐药性工具包，PNA 可以使其容易受到标准治疗的影响。 +
+
+
+Antibacterial PNAs are still being tested in lab dishes and animals and have not yet moved into human trials. +
+抗菌 PNA 仍在实验室培养皿和动物中进行测试，尚未进入人体试验。 +
+
+And, scientists need to make sure PNA-based treatments don’t inadvertently mess with human cells or helpful bacteria. +
+而且，科学家需要确保基于 PNA 的治疗不会无意中干扰人体细胞或有益细菌。 +
+
+
+In addition to peptides like PNAs, enzymes called lysins are another promising treatment option. +
+除了 PNA 等肽之外，称为溶素的酶是另一种有前途的治疗选择。 +
+
+Lysins are used in nature by phages to split bacteria open from the inside. +
+在自然界中，噬菌体利用赖氨酸从内部分裂细菌。 +
+
+They act like tiny swords that slice through the outer wall of a bacterial cell, spilling its guts. +
+它们就像小剑一样，可以切开细菌细胞的外壁，释放出内脏。 +
+
+The molecular sabers are unlikely to promote resistance because bacteria cannot easily change the essential cell-wall components that lysins target. +
+分子军刀不太可能促进耐药性，因为细菌无法轻易改变溶素针对的重要细胞壁成分。 +
+ +
+
+Lysins slaughter bacteria quickly upon contact, and they can be very specific, killing some types of bacteria while sparing others. +
+溶素在接触细菌后会迅速杀死细菌，而且它们的作用非常明确，可以杀死某些类型的细菌，同时保留其他类型的细菌。 +
+
+Furthermore, lysins can be tweaked in the lab to change which bacteria they target, boost their potency and improve their durability in the body. +
+此外，可以在实验室中对溶素进行调整，以改变它们针对的细菌，增强它们的效力并提高它们在体内的耐久性。 +
+
+
+Some lysins have entered mid- and late-stage human trials with hundreds of participants, in which they’ve been tested as supplementary treatments to antibiotics but garnered mixed results. +
+一些溶素已进入中期和后期人体试验，有数百名参与者，其中它们作为抗生素的补充治疗进行了测试，但获得的结果好坏参半。 +
+
+
+ANTIBIOTIC STEWARDSHIP CAN SAVE LIVES, IN THE MEANTIME +
+同时，抗生素管理可以拯救生命 +
+
+
+Until these next-gen bacteria slayers make it to market, immediate measures must be taken to stall the rise of superbugs, by preventing the misuse of antibiotics that pressures bacteria to evolve resistance in the first place. +
+在这些下一代细菌杀手进入市场之前，必须立即采取措施阻止超级细菌的崛起，首先要防止滥用抗生素，从而迫使细菌产生耐药性。 +
+
+
+For example, doctors can be more diligent about confirming that bacteria, not viruses, are behind a patient’s infection before prescribing antibiotics. +
+例如，在开抗生素处方之前，医生可以更加努力地确认患者感染的原因是细菌，而不是病毒。 +
+
+Other safeguards can include auditing doctors' prescriptions to see if narrower-spectrum drugs could be used instead of broad ones, or requiring special clearance for the broadest-spectrum drugs. +
+其他保障措施包括审核医生的处方，看看是否可以使用窄谱药物来代替广谱药物，或者要求对最广谱药物进行特殊许可。 +
+
+These steps are essential not only in hospitals but everywhere antibiotics are prescribed, from primary care to dentistry. +
+这些步骤不仅在医院中至关重要，而且在从初级保健到牙科等所有开抗生素处方的地方都至关重要。
+
+
+'''
+
+
+== Dangerous 'Superbugs' Are on the Rise. What Can Stop Them?
+
+Dangerous ‘Superbugs’ Are on the Rise. What Can Stop Them?
+Traditional antibiotics drive bacteria toward drug resistance, so scientists are looking to viruses, CRISPR, designer molecules and protein swords for better superbug treatments
+
+Bacteria's rising resistance to antibiotics is making the drugs obsolete. Scientists are fighting back with viruses, CRISPR, designer molecules and cell-slicing enzymes.
+
+Seven of the 18 concerning bacteria tracked by the Centers for Disease Control and Prevention (CDC) are becoming more resistant to common antibiotics considered essential for maintaining public health. Meanwhile, drug companies have been slow to make new antibiotics capable of beating the microbes.
+
+So some scientists are looking beyond traditional antibiotics for new weapons that won't fuel the rise of superbugs. Their emerging arsenal features viruses that kill bacteria; CRISPR; and microbe-slaying molecules. They hope that these experimental treatments, some of which have been tested in patients, will kill superbugs without promoting resistance.
+
+
+HOW ANTIBIOTIC RESISTANCE EMERGES AND SPREADS
+
+Antibiotics either directly kill bacteria or slow their growth, leaving the immune system to finish the job. The drugs work in several ways — by preventing bacteria from building sturdy walls or making copies of their DNA, for instance. Growth-slowing antibiotics usually disrupt ribosomes, the factories in which bacterial cells make proteins.
+
+Many antibiotics shoot for the exact same molecular targets, and so-called broad-spectrum antibiotics' mechanisms are so universal that they work on both major classes of bacteria: gram-positive and gram-negative, which are distinguished by the makeup and thickness of their cell walls. Broad-spectrum antibiotics, in particular, pressure both harmful and helpful bacteria in the body to evolve defensive strategies that eject or disable the drugs, or else alter their targets.
+
+Bacteria can pick up such defenses through random DNA mutations, or by swapping "resistance genes" with other bacteria via a process called horizontal gene transfer. By making these gene transfers, bacteria can quickly spread such mutations to additional bacterial populations in the body and in the environment.
+
+The misuse of antibiotics in health care, as well as in agriculture, has given bacteria endless opportunities to develop resistance, raising the chance that once-treatable infections will become life-threatening.
+
+HARNESSING VIRUSES TO FIGHT BACTERIA
+
+One of the proposed alternatives to antibiotics was first conceived more than a century ago, before the 1928 discovery of penicillin. Called phage therapy, it uses bacteria-infecting viruses called  bacteriophages, or simply "phages," which typically kill the germs by invading their cells and splitting them open from the inside.
+
+Phages can also pressure bacteria into giving up key tools in their drug resistance tool kits. For example, a phage called U136B can have this effect on E. coli. To infiltrate E. coli, the phage uses an efflux pump, a protein E. coli normally uses to pump antibiotics out of the cell. If the E. coli tries to change this pump to escape the phage, it reduces the bacterium's ability to pump out antibiotics.
+
+And unlike with antibiotics, bacteria are unlikely to gain widespread resistance to phage therapy.
+
+Here's why: Antibiotic resistance has been dramatically accelerated by the misuse and overuse of antibiotics, especially broad-spectrum antibiotics that work on a variety of bacteria. Phages, by contrast, can have much narrower targets than even narrow-spectrum antibiotics — for instance, targeting a protein found in only one or a few strains within one bacterial species.
+
+
+The target bacterium can still evolve resistance to an individual phage — but by picking the right combination of phages, scientists can make it so that the bacterium's evolution comes at a cost. This cost might be a decrease in virulence or an increased vulnerability to antibiotics.
+
+So far in clinical trials, though, phage therapy generally hasn't worked better than standard antibiotics or a placebo. Topline results from two recent trials hint at the treatment's effectiveness in specific lung and foot infections, but the full results have yet to be released.
+
+Success in future trials will be key to getting phages into the clinic, Turner said. Those trials will have to show the therapy works for multiple types of infections, determine dosage and confirm phage therapies don't hurt helpful bacteria in the body.
+
+
+TURNING BACTERIA'S DEFENSES AGAINST THEM
+
+
+Although made famous as a powerful gene-editing tool, CRISPR technology was actually adapted from an immune system found in many bacteria: CRISPR-Cas.
+
+
+The key components of this immune system include molecular scissors, known as Cas proteins, and a memory bank of DNA snippets that a bacterium has collected from phages that once infected it. By tapping its memory bank, CRISPR-Cas can guide its lethal scissors to a precise point in an invading phage's DNA and snip it like a piece of ribbon.
+
+On occasion, though, rather than attacking phages, CRISPR-Cas can accidentally go after the bacterial cell's own DNA, triggering a lethal autoimmune reaction. This phenomenon inspired Beisel and his colleagues to explore using CRISPR-Cas to shred bacterial cells' DNA.
+
+The real draw of it is that it is a sequence-specific tool, meaning it targets only the DNA you tell it to, and not sequences present in other bacteria. So, once administered to a patient, "the CRISPR machinery gets into a set of cells, but only those that have the sequence or sequences you picked will be attacked and killed.
+
+How do you get CRISPR-Cas into the right bacteria? Various research groups are testing different delivery methods, but at present, the best strategy seems to be loading CRISPR machinery into a phage that infects the target bacterium.
+
+DESIGNER MOLECULES TO KILL BACTERIA
+
+Beyond phages and CRISPR, scientists are developing antibiotic alternatives that harness bacteria-slaying peptides — short chains of protein building blocks— and enzymes, specialized proteins that jump-start chemical reactions. These molecules differ from antibiotics because they can kill a very narrow range of bacteria by targeting bacterial proteins that cannot easily gain resistance to their attacks.
+
+Lab-made molecules called peptide nucleic acids (PNAs) are some of the most promising candidates. These engineered molecules can be designed to block bacterial cells from building essential proteins that are crucial to their survival. PNAs do this by latching onto specific mRNA, genetic molecules that carry the instructions for building proteins from the cell's control center to its protein construction sites. PNAs cannot enter bacterial cells on their own, though, so they're typically attached to other peptides that easily pass through the bacterial cell wall.
+
+
+By targeting proteins that cells cannot change without harming themselves, PNAs can avoid triggering drug resistance. The engineered molecules could also be made to target proteins that directly contribute to antibiotic resistance, for example, the efflux pumps used to push antibiotics out of cells or the enzymes capable of disabling the drugs. By emptying a germ's drug resistance tool kit, PNAs can then make it vulnerable to standard treatments.
+
+Antibacterial PNAs are still being tested in lab dishes and animals and have not yet moved into human trials. And, scientists need to make sure PNA-based treatments don't inadvertently mess with human cells or helpful bacteria.
+
+
+
+In addition to peptides like PNAs, enzymes called lysins are another promising treatment option. Lysins are used in nature by phages to split bacteria open from the inside. They act like tiny swords that slice through the outer wall of a bacterial cell, spilling its guts. The molecular sabers are unlikely to promote resistance because bacteria cannot easily change the essential cell-wall components that lysins target.
+
+Lysins slaughter bacteria quickly upon contact, and they can be very specific, killing some types of bacteria while sparing others. Furthermore, lysins can be tweaked in the lab to change which bacteria they target, boost their potency and improve their durability in the body.
+
+Some lysins have entered mid- and late-stage human trials with hundreds of participants, in which they've been tested as supplementary treatments to antibiotics but garnered mixed results.
+
+ANTIBIOTIC STEWARDSHIP CAN SAVE LIVES, IN THE MEANTIME
+
+Until these next-gen bacteria slayers make it to market, immediate measures must be taken to stall the rise of superbugs, by preventing the misuse of antibiotics that pressures bacteria to evolve resistance in the first place.
+
+
+For example, doctors can be more diligent about confirming that bacteria, not viruses, are behind a patient's infection before prescribing antibiotics.  Other safeguards can include auditing doctors' prescriptions to see if narrower-spectrum drugs could be used instead of broad ones, or requiring special clearance for the broadest-spectrum drugs. These steps are essential not only in hospitals but everywhere antibiotics are prescribed, from primary care to dentistry.
+
+
+'''
+
+
+
+
