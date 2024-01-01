@@ -261,7 +261,7 @@ image:/img/p and np 024.png[,40%]
 
 
 |latexmath:[ O(n^n)]
-|还有一些穷举类的算法，*所需时间长度成几何阶数上涨*，这就是  latexmath:[ O(n^n)] 的**"指数级"复杂度**，甚至  latexmath:[ O(n!)] 的**"阶乘级"复杂度**。
+|还有一些穷举类的算法，*所需时间长度成几何阶数上涨*，这就是  latexmath:[ O(n^n)] 的**"指数级"复杂度**，甚至  stem:[ O(n!)] 的**"阶乘级"复杂度**。
 
 image:/img/p and np 025.png[,40%]
 
@@ -426,41 +426,54 @@ image:/img/p and np 045.webp[,40%]
 
 *所有的算术四则运算（加、减、乘、除）, 都是"多项式时间过程"。*
 
-当面对一个计算过程时，理论工作者就寻找这样一个代数表达式（例如CN、CN^2或CN^k），它能给出这一过程对于规模已知为N的数据来说，所需要的基本步骤数目的一个上界估计。他们称这样的表达式为这个过程的"时间复杂性函数"。多项式时间过程, 是以多项式表达式为时间复杂性函数的过程。
+**当面对一个计算过程时，理论工作者就寻找这样一个代数表达式（例如CN、CN^2或CN^k），它能给出这一过程"对于规模已知为N的数据来说，所需要的基本步骤数目"的一个上界估计。**他们称这样的表达式为**这个过程的"时间复杂性函数"。**
 
-大致而言，多项式时间过程是计算机能有效处理的一种过程。如果那两个固定的数C和k都十分巨大，那么计算时间可达数亿年。不过在实际上，日常生活中往往会产生的多项式时间过程所具有的C和k的值是完全适度的，k一般是个一位数，因此它们确实能被计算机有效地处理。
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
 
-还有一个类型称为“指数时间过程”，当数据规模为N时，需要2^N个基本步骤来完成的过程（底数也可以是某个大于2的数）。
+|多项式时间过程
+|多项式时间过程, 是以"多项式表达式"为"时间复杂性函数"的过程。
 
-指数时间过程几乎无法在计算机上运行，因为随着N的增大，步骤增加速度太快。如果在一个国际象棋盘上以2^N的规律放硬币，那么最后一格硬币的高度能一直伸到半人马座的比邻星（37万亿千米）。
+大致而言，多项式时间过程, 是计算机能有效处理的一种过程。**如果那两个固定的数C和k都十分巨大，那么计算时间可达数亿年。**不过在实际上，日常生活中往往会产生的"多项式时间过程"所具有的C和k的值, 是完全适度的，k一般是个一位数，因此它们确实能被计算机有效地处理。
 
-对于在工业和商业中产生的几乎所有的"指数时间过程"，即使要处理规模相当适度的数据，也要让世界上最快的计算机花上比宇宙寿命还要长的时间。
+|指数时间过程
+|*还有一个类型称为“指数时间过程”，当数据规模为N时，需要2^N个基本步骤来完成的过程*（底数也可以是某个大于2的数）。
 
-显而易见，如果对于一个特定的问题，你所知道的唯一解决方法是使用指数时间过程，那么你将不可能解决这个问题，除非数据规模非常小。
+**"指数时间过程"几乎无法在计算机上运行，因为随着N的增大，步骤增加速度太快。**如果在一个国际象棋盘上以2^N的规律放硬币，那么最后一格硬币的高度能一直伸到半人马座的比邻星（37万亿千米）。
+
+对于在工业和商业中产生的**几乎所有的"指数时间过程"，即使要处理规模相当适度的数据，也要让世界上最快的计算机花上比宇宙寿命还要长的时间。**
+
+显而易见，*如果对于一个特定的问题，你所知道的唯一解决方法是使用"指数时间过程"，那么你将不可能解决这个问题，除非数据规模非常小。*
+|===
+
 
 NP问题
 
-多项式时间过程与指数时间过程之间的鸿沟也说明了这种分类的一个明显缺点∶它太过粗略了。数学家意识到了这一点后，便寻找中间尺度的过程复杂性。他们注意到，对于像求解推销员问题的过程来说，困难并不是由于复杂的计算。使得问题几乎无法解决的原因，是需要检查的可能性的数量之多，使得完成全部过程所需要的时间长得令人绝望。
+"多项式时间过程"与"指数时间过程"之间的鸿沟, 也说明了这种分类的一个明显缺点∶它太过粗略了。数学家意识到了这一点后，便寻找中间尺度的过程复杂性。他们注意到，**对于像求解推销员问题的过程来说，困难并不是由于复杂的计算。**使得问题几乎无法解决的原因，*是需要检查的可能性的数量之多，使得完成全部过程所需要的时间长得令人绝望。*
 
-为了试图把这种过程与一种真正复杂计算的过程区分出来，数学家提出了第三种类型∶非确定性多项式时间过程，或简称NP过程。由于通常的计算机都是确定性的，所以采用“非确定性”这个词会给人们一个暗示，即这个新概念是一个理论的东西，与实际的计算基本无关。下面是它的大致思想。
+为了试图把这种过程, 与一种真正"复杂计算"的过程, 区分出来，数学家提出了第三种类型∶"非确定性多项式时间过程"，或简称"NP过程"。由于通常的计算机都是确定性的，所以采用“非确定性”这个词会给人们一个暗示，即这个新概念是一个理论的东西，与实际的计算基本无关。下面是它的大致思想。
 
-设想你有一台这样的计算机，它能在一次计算的某些阶段从许多备选的数中作出一个完全随机的选择。比方说，当面对推销员问题的一个具体例子的时候，这台计算机能从这位推销员可以走的所有可能的路线中随机地选出一条。为了解出这个问题，这台计算机选出一条路线并算出相应的总距离。这条选出的路线不是最短路线的概率是极大的。但假定这台特别的计算机具有好得不可思议的运气，使得它总是作出最佳的选择。于是它会在多项式时间内解决这个问题。作出一个随机猜测并能幸运地猜中的本领，使得我们避开了可能性的数量大得令人绝望这个难题。
+设想你有一台这样的计算机，它能在一次计算的某些阶段, 从许多备选的数中作出一个完全随机的选择。比方说，当面对推销员问题的一个具体例子的时候，这台计算机能从这位推销员可以走的所有可能的路线中, 随机地选出一条。为了解出这个问题，这台计算机选出一条路线, 并算出相应的总距离。这条选出的路线不是最短路线的概率是极大的。但假定这台特别的计算机, 具有好得不可思议的运气，使得它总是作出最佳的选择。于是它会在多项式时间内解决这个问题。作出一个随机猜测并能幸运地猜中的本领，使得我们避开了可能性的数量大得令人绝望这个难题。
 
-一般说来，如果一个问题或任务可以用一台非确定性计算机在多项式时间内解出或完成，我们就说它是NP型的，而非确定性计算机就是能从一系列备选对象中作出一个随机选择而且能极其幸运地选中的计算机。
+**一般说来，如果一个问题或任务, 可以用一台非确定性计算机在"多项式时间"内解出或完成，我们就说它是NP型的，**而非确定性计算机, 就是能从一系列备选对象中, 作出一个随机选择, 而且能极其幸运地选中的计算机。
 
-但要注意的是，这种计算机必须要检验它的猜测的正确性。NP类的本质在于，仅仅是可能性的巨大数量造成了困难。对于一个NP问题，检验一个给定的答案是否正确这件事必须是能在多项式时间内完成的。
-从直觉上说，NP问题介于多项式时间问题（简称P问题）与指数时间问题之间。因为NP概念建立在一个完全不现实的想法上，即有一种计算机能老是作出最佳的随机选择，所以它是纯理论的。然而它显示出相当大的重要性。一个理由是，在工业和管理中出现的大多数指数时间问题都是NP型的。使得它们很难解决的原因并不是有关的计算很复杂，而是必须对极其大量的实质上相同的情况重复执行一种相对容易的计算。
+*但要注意的是，这种计算机必须要检验它的猜测的正确性。NP类的本质在于，仅仅是"可能性的巨大数量"造成了困难。对于一个NP问题，"检验一个给定的答案是否正确"这件事, 必须是能在"多项式时间内"完成的。*
 
-当NP分类于20世纪60年代第一次被提出时，计算机科学家臆断P类与NP类并不是同一个类——虽然每个P问题当然都是NP问题，但是有一些NP问题肯定不属于P类。理由是，看来一台运行多项式时间算法的标准计算机无论如何也不可能表现得像一台想象的非确定性计算机作准确猜测时那样。例如，专家们认为，如果没有一台假想的非确定性计算机的准确猜测能力，推销员问题也许根本不可能在多项式时间内解决。
+从直觉上说，NP问题介于"多项式时间问题"（简称P问题）与"指数时间问题"之间。因为NP概念建立在一个完全不现实的想法上，即有一种计算机能老是作出最佳的随机选择，所以它是纯理论的。然而它显示出相当大的重要性。一个理由是，*在工业和管理中出现的大多数"指数时间问题"都是NP型的。使得它们很难解决的原因, 并不是有关的计算很复杂，而是必须对极其大量的实质上相同的情况, 重复执行一种相对容易的计算。*
+
+当NP分类于20世纪60年代第一次被提出时，计算机科学家臆断P类与NP类并不是同一个类——**虽然每个P问题当然都是NP问题，但是有一些NP问题肯定不属于P类。**理由是，看来一台运行"多项式时间"算法的标准计算机, 无论如何也不可能表现得像一台想象的非确定性计算机作准确猜测时那样。例如，专家们认为，如果没有一台假想的非确定性计算机的准确猜测能力，推销员问题也许根本不可能在多项式时间内解决。
 
 人人都认为这只是个时间问题∶迟早有人会给出某个可证明不属于P类的NP问题——不是推销员问题，就是其他什么问题——从而证明P和NP是不同的问题类。但这件事至今没有发生。也没有人能证明相反的结论。于是，P对NP问题产生了。
 
-20世纪60年代后期，这个问题已相当重要。工业与管理中的许多重要问题都被证实是NP问题。如果能证明P就是NP，那无疑将激发人们以极大的努力去找出解决这些重要问题的有效过程。
+20世纪60年代后期，这个问题已相当重要。*工业与管理中的许多重要问题, 都被证实是NP问题。如果能证明P就是NP，那无疑将激发人们以极大的努力去找出解决这些重要问题的有效过程。*
 
-我应该指出，证明了NP与P相同，这本身并不能导致人们得出解决具体的NP问题的有效过程。它表明的只是任何NP问题在原则上可用一个多项式时间过程解决。关于这样的一个过程可能是什么样的，它不一定会提供什么线索。
-这时，库克登场了。库克证明存在一个特殊的NP问题，它具有一种奇特的性质∶如果这个特殊的问题能用多项式时间过程解决，那么其他任何的NP问题也能。这是一个关于什么类型的任务可以在一台非确定性计算机上执行的问题。
+我应该指出，**即使证明了NP与P相同，这本身并不能导致人们得出解决具体的NP问题的有效过程。它表明的只是任何NP问题在原则上可用一个多项式时间过程解决。**关于这样的一个过程可能是什么样的，它不一定会提供什么线索。
 
-库克证明其结论的方法是∶他显示了怎样可以将任意给出的NP问题转化成他这个特殊的问题，这样，如果他这个问题能在多项式时间内解决，那么通过转换，那个给出的NP问题也能。库克将这个性质命名为NP完全性。根据库克的定义，对于一个NP问题，如果发现了一个可以解决它的多项式时间过程将意味着，NP类中的每一个问题都可以用一个多项式时间过程解决，则这个NP问题被称为NP完全的。
+这时，库克登场了。**库克证明存在一个特殊的NP问题，它具有一种奇特的性质∶如果这个特殊的问题能用多项式时间过程解决，那么其他任何的NP问题也能。**这是一个关于什么类型的任务可以在一台非确定性计算机上执行的问题。
+
+库克证明其结论的方法是∶他显示了怎样可以将任意给出的NP问题转化成他这个特殊的问题，这样，如果他这个问题能在多项式时间内解决，那么通过转换，那个给出的NP问题也能。库克将这个性质命名为"NP完全性"。根据库克的定义，对于一个NP问题，如果发现了一个可以解决它的"多项式时间过程", 将意味着，NP类中的每一个问题都可以用一个多项式时间过程解决，则这个NP问题被称为"NP完全"的。
 
 虽然库克的问题是一个来自形式逻辑的高度理论性的问题，但没过多久，卡普等人就证明了其他许多更为令人熟悉的NP问题也具有这个NP完全性，其中包括推销员问题。
 
@@ -676,45 +689,73 @@ Thousands of other problems *belong on our list*. +
 *From* cell biology *to* game theory, the P versus NP question *reaches (v.) into far corners* of science and industry. +
 从细胞生物学到博弈论，P 与 NP 问题深入到科学和工业的各个角落。 +
 
-If P = NP (i.e., our Venn diagram dissolves into a single circle) and we obtain fast algorithms for these seemingly hard problems, then the whole digital economy would become vulnerable to collapse. +
+If P = NP (i.e., our Venn diagram *dissolves (v.)使（固体）溶解 into* a single circle) and we obtain *fast algorithms* for these seemingly hard problems, then the whole digital economy would become vulnerable to collapse. +
 如果 P = NP（即我们的维恩图分解为一个圆圈）并且我们获得了解决这些看似困难的问题的快速算法，那么整个数字经济将变得容易崩溃。 +
 
-This is because much of the cryptography that secures such things as your credit card number and passwords works by shrouding private information behind computationally difficult problems that can only become easy to solve if you know the secret key. +
-这是因为，保护信用卡号和密码等信息的大部分加密技术都是通过将私人信息隐藏在计算困难的问题后面，而只有知道密钥，这些问题才能变得容易解决。 +
+This is because `主` *much of the cryptography* 密码学；密码术 that secures (v.) *such* things *as* your credit card number and passwords `谓` works (v.) by *shrouding* (v.)隐瞒；保密 private information *behind* computationally difficult problems *that can only become easy to solve* if you know the secret key. +
+这是因为，大部分加密技术 -- 即用来保护信用卡号和密码等信息的 --  都是通过将私人信息隐藏在计算"困难的问题"后面，而只有知道密钥，才能轻松地来解决这些问题。 +
 
-Online security as we know it rests on unproven mathematical assumptions that crumble if P = NP. +
-我们知道，在线安全依赖于未经证实的数学假设，如果 P = NP，这些假设就会崩溃。 +
- +
-Amazingly, we can even cast math itself as an NP problem because we can program computers to efficiently verify proofs. +
+.title
+====
+.cryptography
+--> crypto-,隐藏，-graphy,写，记录。
+====
+
+`主` Online security *as we know it* `谓` rests (v.) on 依靠；依赖 unproven mathematical assumptions *that crumble (v.)（使）破碎，成碎屑;坍塌；损坏；崩裂 if P = NP*. +
+我们知道，网络安全技术, 依赖于未经证实的数学假设，如果 P = NP，则这些假设就会崩溃(即难题也会变得容易解出来了, 所以加密技术就会被攻破)。 +
+
+Amazingly, we can even *cast* (v.)把某人描写成；把某人表现为 math itself *as* an NP problem *because we can program (v.) computers* to efficiently verify (v.) proofs  证据；证明;证明；求证；验算. +
 令人惊讶的是，我们甚至可以将数学本身视为 NP 问题，因为我们可以对计算机进行编程来有效地验证证明。 +
 
-In fact, legendary mathematician Kurt Gödel first posed the P versus NP problem in a letter to his colleague John von Neumann in 1956, and he expressed (in older terminology) that P = NP “would have consequences of the greatest importance. +
-事实上，传奇数学家库尔特·哥德尔 (Kurt Gödel) 在 1956 年给同事约翰·冯·诺依曼 (John von Neumann) 的一封信中首次提出了 P 与 NP 问题，他表示（用较旧的术语）P = NP“将产生最重要的后果。 +
+.title
+====
+.cast
+[ VN] *~ sb (as sth) | ~ sb (in sth)* : to describe or present sb in a particular way 把某人描写成；把某人表现为
+• *He cast himself as* the innocent victim of a hate campaign. 他把自己说成是一场诋毁声誉行为的无辜受害者。
+====
 
-Namely, it would obviously mean that …​ +
-也就是说，这显然意味着……​ +
 
-the mental work of a mathematician concerning yes-or-no questions could be completely replaced by a machine.” +
-数学家关于是或否问题的脑力工作可以完全被机器取代。” +
+In fact, legendary mathematician Kurt Gödel *first posed (v.)造成（威胁、问题等）；引起；产生 the P versus NP problem* in a letter to his colleague John von Neumann in 1956, and he expressed (in older terminology  （某学科的）术语) that P = NP “would have consequences of the greatest importance. +
+事实上，传奇数学家库尔特·哥德尔 (Kurt Gödel) 在 1956 年给同事约翰·冯·诺依曼 (John von Neumann) 的一封信中, 首次提出了 P 与 NP 问题，他表示（用较旧的术语）P = NP“将产生最重要的后果。 +
 
-If you’re a mathematician worried for your job, rest assured that most experts believe that P does not equal NP. +
-如果您是一位担心自己工作的数学家，请放心，大多数专家都认为 P 不等于 NP。 +
+Namely, it would obviously mean that … *the mental work* of *a mathematician concerning  关于；涉及 yes-or-no questions* could be completely replaced (v.) by a machine.” +
+也就是说，这显然意味着…… 数学家关于是或否问题的脑力工作, 可以完全被机器取代。” +
 
-Aside from the intuition that sometimes solutions should be harder to find than to verify, thousands of the hardest NP problems that are not known to be in P have sat unsolved across disparate fields, glowing with incentives of fame and fortune, and yet not one person has designed an efficient algorithm for a single one of them. +
-除了有时找到解决方案比验证更难的直觉之外，数以千计的最难的 NP 问题在不同的领域中尚未得到解决，这些问题在名利的激励下熠熠生辉，但没有一个人知道这些问题是否存在于 P 中。为其中的一个设计了一种有效的算法。 +
- +
+If you’re a mathematician *worried for your job*, *rest assured that* 请放心 most experts believe that *P does not equal NP*. +
+如果您是一位担心自己工作的数学家，请放心，大多数专家都认为,  P 不等于 NP。 +
 
-Of course, gut feeling and a lack of counterexamples don’t constitute a proof. +
-当然，直觉和缺乏反例并不能构成证据。 +
+.title
+====
+.You can rest assured that ……
+是一个用于安抚他人的一个特定句式。意思是“让人对某事放心或确信”( to be certain or confident about something)，对所述情况无需担心（to make someone feel safe or less worried about something）。 +
+句式中的情态动词 can 有时也可用 may 替代。 +
+- *You can rest assured that* the children will be well looked after here. 你可以放心，孩子们在这里会得到很好的照料。
 
-To prove that P is different from NP, you somehow have to rule out all potential algorithms for all of the hardest NP problems, a task that appears out of reach for current mathematical techniques. +
+
+有时，也可将 you can rest assured 置于句末。 +
+- We will take your views into consideration, *you may rest assured*. 你尽管放心，我们一定会考虑你的意见的。
+
+*用于 and、but、so等引导的分句时, (you can) rest assured that 中的 you can 可以省略。* +
+- I can completely understand your feelings, *but rest assured that* I'll do my best to deal with the case. 我完全理解你们的心情，但你们放心好了，我会尽力处理好这件案子的。
+
+
+这一句式常可简化成祈使句：（Please）rest assured that …… 或 Rest assured, …… 。
+====
+
+*Aside from* the intuition 直觉力;（一种）直觉 that sometimes *solutions should be harder to find* than *to verify*, thousands of the hardest NP problems *that are not known to be in P* have sat (v.) unsolved *across disparate fields*, glowing (v.) with incentives (n.)激励；刺激；鼓励 of fame and fortune, and yet *not one person* has designed an efficient algorithm *for a single one of them*. +
+除了有时"找到解决方案"比"验证"更难的直觉之外，数以千计的最难的 NP 问题, 它们尚未被证明属于P类问题，在不同的领域中还尚未得到解决，这些问题在名利的激励下熠熠生辉，但至今没有一个人设计出有效的算法来解决其中任何一个。 +
+
+Of course, `主` *gut feeling* 直觉 and *a lack of counterexamples* 反例 `谓` don’t constitute a proof. +
+当然，直觉和缺乏反例, 并不能构成证据。 +
+
+*To prove that* P is different from NP, you somehow have to *rule (v.) out* 不考虑; 排除 all potential algorithms for all of the hardest NP problems, a task *that appears out of reach* for current mathematical techniques. +
 为了证明 P 与 NP 不同，您必须以某种方式排除所有最难的 NP 问题的所有潜在算法，这是当前数学技术似乎无法完成的任务。 +
 
-In fact, the field has coped by proving so-called barrier theorems, which say that entire categories of tempting proof strategies to resolve P versus NP cannot succeed. +
-事实上，该领域已经通过证明所谓的障碍定理来应对，该定理表明解决 P 与 NP 问题的整个类别的诱人证明策略都无法成功。 +
+In fact, the field *has coped* (v.)（成功地）对付，处理 by proving so-called barrier  屏障；障碍物 theorems, which say that `主` entire categories of *tempting (a.)吸引人的；诱人的；有吸引力的 proof strategies* to resolve P versus NP `谓` cannot succeed. +
+事实上，该领域已经通过证明所谓的"屏障定理"来应对，该定理表明，用于解决 P 与 NP 问题的整个类别的诱人的证明策略, 都无法成功。 +
 
-Not only have we failed to find a proof but we also have no clue what an eventual proof might look like. +
-我们不仅找不到证据，而且也不知道最终的证据会是什么样子。
+*Not only* have we failed to find a proof *but* we also have no clue what an eventual proof *might look like*. +
+我们不仅未能找到证明，而且对最终的证明可能是什么样子也毫无头绪。
 
 
 
