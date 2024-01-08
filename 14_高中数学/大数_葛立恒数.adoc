@@ -1,0 +1,173 @@
+
+= 大数_葛立恒数
+:toc: left
+:toclevels: 3
+:sectnums:
+
+'''
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|乘法
+|乘法是"重复的加法"。 +
+latexmath:[ a×b=\underset{b个a相加}{\underbrace{a+a+a+...+a}}]
+
+
+
+|指数  +
+latexmath:[a \uparrow b ]
+|乘法再上一层, 是指数运算. 指数是"*重复的乘法*"。 +
+latexmath:[a^b=\underset{b个a相乘}{\underbrace{a×a×a×...×a}}]
+
+即: +
+latexmath:[ m\uparrow n=m^n=\underset{共n个m}{\underbrace{m×m×\cdots ×m}}]
+
+|幂塔  +
+latexmath:[a \uparrow \uparrow b ]
+|指数再上一层, 那就是"幂塔"运算,也叫"迭代幂次"运算,是指"*重复的指数运算*"。 +
+a的b次"幂塔"，相当于"a的a次方"，重复运算b次。 它是一个"高度为b"的指数塔。
+ +
+image:/img_math/0158.png[,20%]
+
+即: latexmath:[ m\uparrow \uparrow n=\underset{共n个m}{\underbrace{m\uparrow m\uparrow \cdots \uparrow m}}]
+
+如: +
+latexmath:[ 3\uparrow 3=3^3=27] +
+那么: latexmath:[ 3\uparrow \uparrow 3=\underset{从右往左依次算}{\underbrace{3\uparrow 3\uparrow 3}}=3\uparrow \underset{=3^3}{\underbrace{\left( 3\uparrow 3 \right) }}=3^{3^3}=3^{27}=7.6256\times 10^{12}]
+
+假如是三个向上箭头呢? *遇到这种高维箭头(↑↑↑, 即多个箭头并列的情况), 我们就把它先降维成二维箭头(↑↑), 再降维成一维箭头(↑). 降到一维箭头↑时, 本质就是个指数运算了.* +
+latexmath:[ \underset{遇到高维箭头,\ 我们把它一级一级往下降维}{\underbrace{3\uparrow \uparrow \uparrow 3}}=\underset{从右往左依次算}{\underbrace{3\uparrow \uparrow 3\uparrow \uparrow 3}}=3\uparrow \underset{=3^{3^3}}{\uparrow \underbrace{\left( 3\uparrow \uparrow 3 \right) }}=\underset{共3^{3^3}个}{\underbrace{3\uparrow 3\uparrow \cdots \uparrow 3}}=\left. 3^{3^{3^{...}}}\begin{array}{r}
+	\\
+	\\
+\end{array} \right\} 高度共有3^{3^3}层]
+
+即: +
+image:/img_math/0162.svg[,70%]
+
+可见, 最终结果的"指数塔", "指数"的楼层层级数, 是一个天文数字的高度.
+
+所以, "幂塔"运算是一个非常强大的运算，能够生成极其巨大的数字。
+
+
+
+
+'''
+
+例如，3的4次幂塔, 是一个由4个3组成的塔。
+latexmath:[^43=3^{3^{3^3}} ]
+
+要计算幂塔，需要从顶部开始计算。 +
+image:/img_math/0159.png[,20%]
+
+latexmath:[ ^43=3^{3^{3^3}}=3^{3\left( ^{3^3} \right)}=3^{3^{27}}=3^{7.6256\times 10^{12}}] +
+这个结果数字有超过3万亿位数。
+
+因此, 仅仅用数字3和4, 即 latexmath:[ ^43], 幂塔就能创造出我们难以想象的巨大数字。
+
+'''
+
+但幂塔并不总是生成这么大的数字。 比如, 1的任何"幂塔次", 总是1。 +
+latexmath:[^21=1^1=1 ]
+
+即使我们有无限高的1的塔，它还是只有1。 +
+latexmath:[ ^41=1^{1^{1^1}}=1] +
+
+即 : latexmath:[ ^{\infty}1=1^{1^{1^{...}}}=1]
+
+'''
+
+又如: +
+image:/img_math/0160.svg[,50%]
+
+其实，对于"e的负e次方", 和"e的e分之一次方"之间的数字, 这些数字做无限幂塔运算时，极限都存在。这个区间大约在 0.07 到 1.44之间。 +
+latexmath:[0.07\approx \underset{}{\underbrace{e^{-e}\leq n\leq e^{\frac{1}{e}}}}\approx 1.44]
+
+image:/img_math/0161.svg[,50%]
+
+所以上面例题的 latexmath:[ ^{\infty}\sqrt[\]{2}] 中的 latexmath:[ \sqrt{2}], 刚好落在这个 0.07-1.44的范围内, 因此它的无限幂塔, 就有极限值存在了.
+
+'''
+
+幂塔的一种写法, 就是上面我们一直在用的"左边的指数"来表示层数。 *它还有种写法, 就是使用两个"上箭头",这个箭头被称为"高德纳箭头"。* 即: +
+latexmath:[^ba=a\uparrow \uparrow b ]
+
+为什么要用两个箭头? +
+因为只用一个箭头的话, 是用来表示"指数"的。 即 latexmath:[ a^b = a \uparrow b] +
+
+*每增加一个箭头,运算的层级就加一层。* 所以:  +
+"加法"是一级运算, +
+"乘法"是二级运算。 +
+"指数"是三级运算，用1个箭头表示。 +
+"幂塔"是四级运算，用2个箭头表示。 +
+
+以此类推,我们可以定义五级运算,使用三个箭头表示。 即 latexmath:[a \uparrow \uparrow \uparrow b ]
+
+
+
+
+|latexmath:[a \uparrow \uparrow \uparrow b ]
+|就像幂塔是"重复指数运算"一样,"五级运算"是"*重复幂塔运算*"。
+
+正如同a 对b做乘法,等于a连续做b次加法。*即一次"高维的运算", 等于做多次"低一级维度"的运算.* 所以 "a 对b做五级运算"，也就等于"将a连续做b次四级运算".
+
+latexmath:[ a\uparrow \uparrow \uparrow b=\underset{b\ copies\ of\ a}{\underbrace{a\uparrow \uparrow \left( a\uparrow \uparrow ...\uparrow \uparrow a \right) }}]
+
+比如，3对3做五级运算,等于3连续做3次四级运算。
+
+latexmath:[ 3\uparrow \uparrow \uparrow 3=3\uparrow \uparrow \underset{=3\uparrow \left( 3\uparrow 3 \right)}{\underbrace{\left( 3\uparrow \uparrow 3 \right) }}]
+
+|latexmath:[a \uparrow \uparrow \uparrow \uparrow b ]
+|用四个箭头，我们可以表示六级运算。 +
+a对b做六级运算, 等于"a连续做b次五级运算"。 +
+latexmath:[ a\uparrow \uparrow \uparrow \uparrow b=\underset{b\ copies\ of\ a}{\underbrace{a\uparrow \uparrow \uparrow \left( a\uparrow \uparrow \uparrow ...\uparrow \uparrow \uparrow a \right) }}]
+
+
+如，3对3做六级运算, 等于3"连续做3次五级运算"。
+  +
+latexmath:[3\uparrow \uparrow \uparrow \uparrow 3=3\uparrow \uparrow \uparrow \left( 3\uparrow \uparrow \uparrow 3 \right)  ]
+
+现实世界中的任何数据, 都无法与这个数字相比。
+
+拥有这个巨大的数字，我们可以开始创建"葛立恒数 Graham's Number".  +
+要构造它，我们首先定义"3的六级运算"等于g1。 六级运算使用四个箭头表示,已经可以生成极大的数。 即: +
+latexmath:[ g_1=3\uparrow \uparrow \uparrow \uparrow 3]
+
+然后我们来创造 latexmath:[ g_2] +
+latexmath:[g_2=\underset{这里面的箭头有g_1个}{\underbrace{3\uparrow \uparrow \cdots \uparrow \uparrow 3}} ]
+
+再来创造 latexmath:[ g_3] +
+latexmath:[g_3=\underset{这里面的箭头有g_2个}{\underbrace{3\uparrow \uparrow \cdots \uparrow \uparrow 3}} ]
+
+再来创造 latexmath:[ g_4] +
+latexmath:[g_4=\underset{这里面的箭头有g_3个}{\underbrace{3\uparrow \uparrow \cdots \uparrow \uparrow 3}} ]
+
+这样一直创建下去, 直到 latexmath:[ g_{64}] +
+latexmath:[g_{64}=\underset{这里面的箭头有g_{63}个}{\underbrace{3\uparrow \uparrow \cdots \uparrow \uparrow 3}} ]
+
+这个latexmath:[ g_{64}], 就是"葛立恒数".
+
+|===
+
+
+
+
+
+'''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
