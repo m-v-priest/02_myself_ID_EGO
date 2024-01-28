@@ -8,6 +8,17 @@
 '''
 
 
+.折叠按钮处显示的名称
+[%collapsible]
+====
+被折叠的内容放在这里
+
+line 2
+
+line 3
+====
+
+
 美国高中分为四年（九、十、十一、十二年级）.
 
 
@@ -41,4 +52,6 @@ https://www.ushistory.org/us/index.asp
 • 战争系列（含荣誉课程选项）War Series (with Honors option)
 • 高级历史研讨（大学级别） Advanced History Seminar (College Level)
 • 社会正义（荣誉课程） Social Justice (Honors)
+
+
 
