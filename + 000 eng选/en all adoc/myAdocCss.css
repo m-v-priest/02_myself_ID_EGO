@@ -1,18 +1,25 @@
-
 .my1 {
-  font-size: 0.7em;    /* 设置my1类的 字号大小 */
-  background-color: rgb(230, 230, 230);
-  border-style: solid;
-  border-color: rgb(139, 139, 139);
-  border-width: 1px;
-  padding: 10px ;
+    font-size: 0.7em;
+    /* 设置my1类的 字号大小 */
+    background-color: rgb(230, 230, 230);
+    border-style: solid;
+    border-color: rgb(139, 139, 139);
+    border-width: 1px;
+    padding: 10px;
 }
-
 
 .title {
-  color:#2c38ba;
+    border-top: dashed 1px rgb(190, 190, 190);
+    color: #2c38ba;
 }
 
+table {
+    border-collapse: collapse;
+}
 
-
-
+table,
+th,
+td {
+    border: 1px solid black;
+    padding: 5px;
+}
