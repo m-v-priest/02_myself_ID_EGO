@@ -3,21 +3,37 @@
 :toc: left
 :toclevels: 3
 :sectnums:
+:stylesheet: myAdocCss.css
+
 
 '''
 
 
 
 
-== Gliding missiles that fly faster than Mach 5 are coming
+== `主` Gliding missiles that fly faster than Mach 5 `谓` are coming
 
 
-...early missile development, *whose principal  最重要的；主要的 challenge was* hoisting  吊起；提升；拉高 the weapons into the sky. Gravity *did most of the rest*.
+...early *missile development*, `主` whose principal  最重要的；主要的 challenge `系`  was *hoisting  吊起；提升；拉高 the weapons into the sky*. Gravity *did most of the rest*.
 
-主 The first warheads （导弹的）弹头 *capable of* steering (v.) 驾驶（船、汽车等）；掌控方向盘 on descent (n.)下降；下倾 谓 did not arrive until the 1980s. Even they were limited in how much they could move around, *making it pretty easy* to predict their target area.
+[.my2]
+当时导弹发展面临的主要挑战, 是将武器升上天空。剩下的大部分工作, 都是由"地心引力"完成的。
 
-A new generation of *hypersonic 极超音速的 missiles* is changing all that. Some might be capable of *gliding (v.)滑行；滑动；掠过 across* continents at great speed, their target unpredictable until seconds before impact 冲击；撞击.
 
+主 The first warheads （导弹的）弹头 /*capable of* steering (v.) 驾驶（船、汽车等）；掌控方向盘 on descent (n.)下降；下倾 谓 did not arrive until the 1980s.
+
+Even they were limited in how much they could move around, making *it pretty easy* /to predict their target area.
+
+[.my2]
+直到 20 世纪 80 年代，第一批能够在下降过程中操纵方向的弹头，才出现。即使是它们，其活动范围也很有限，因此很容易预测它们落点的目标区域。
+
+
+A new generation of *hypersonic 极超音速的 missiles* /is changing all that.
+
+Some might be capable of *gliding (v.)滑行；滑动；掠过 across* continents /at great speed, their target unpredictable /until seconds before impact 冲击；撞击.
+
+[.my2]
+新一代的极超音速导弹, 正在改变这一切。其中一些可能能够以极快的速度横跨大陆，他们的目标直到撞击前几秒钟才能预测。
 
 [.my1]
 .标题
@@ -27,30 +43,35 @@ most important; main 最重要的；主要的
 
 .hypersonic
 极超音速的，超出五倍音速（5 马赫）的
-
-当时导弹发展面临的主要挑战是将武器升上天空。剩下的大部分工作都是由地心引力完成的。直到 20 世纪 80 年代，第一批能够在下降过程中操纵方向的弹头，才出现。即使是它们，其活动范围也很有限，因此很容易预测它们落点的目标区域。
-
-新一代的极超音速导弹, 正在改变这一切。其中一些可能能够以极快的速度横跨大陆，他们的目标直到撞击前几秒钟才能预测。
 ====
 
 
 There are two basic designs: *cruise missiles* and gliders.
 
-Hypersonic cruise missiles are essentially 本质上；根本上；基本上 faster versions of existing ones but powered(v.) 驱动，推动（机器或车辆）) by very different jet engines.
+Hypersonic cruise missiles /are essentially 本质上；根本上；基本上 faster versions of existing ones /but powered(v.) 驱动，推动（机器或车辆）) by very different jet engines.
 
 Gliders ... But unlike the old-fashioned projectiles （作为武器的）发射物；导弹, they do not follow *a predictable, parabolic 抛物线状的 arc* through the sky.
 
-Instead, a hypersonic glide vehicle (HGV) 高超音速滑翔飞行器 *detache (v.)拆卸；（使）分开，脱离) from the rocket* while it is still ascending 上升；升高；登高 and either skips(v.) along the *upper atmosphere* or, having re-entered (v.), glides (v.)滑行 through it for hundreds or thousands of kilometres.
+Instead, `主` a hypersonic glide vehicle (HGV) 高超音速滑翔飞行器 `谓` *detache (v.)拆卸；（使）分开，脱离) from the rocket* /while it is still ascending 上升；升高；登高 /and #either# skips(v.) along the *upper atmosphere* #or#, having re-entered (v.), *glides (v.)滑行 through it* for hundreds or thousands of kilometres.
+
+[.my2]
+相反，高超音速滑翔飞行器(HGV), 在火箭仍在上升时, 就与火箭分离，要么沿着大气层上层进行跳跃，要么重新进入大气层, 并在大气层中滑行数百或数千公里。
 
 Such gliders have several advantages.
 
-*Ballistic missiles* 弹道导弹 are *less agile* (a.)动作）敏捷的，灵活的 and tend not to be very accurate.
+*Ballistic missiles* 弹道导弹 are ① less agile (a.)(动作)敏捷的，灵活的 ② *and* tend not to be very accurate.
 
-主 A Minuteman 即召民兵 III ICBM, the backbone  支柱；骨干；脊柱 of America’s *nuclear arsenal* （统称）武器, 谓 has a “*circular error probable*” 圆形概率误差  of roughly 120m, meaning only half the missiles fired *are expected* to land(v.) within 120m of the impact point.
+[.my2]
+弹道导弹机动性较差，而且往往不太精确。
 
-*That is fine* for nuclear bombs *but useless for* hitting a ship or runway.
+主 A Minuteman 即召民兵 III ICBM, the backbone  支柱；骨干；脊柱 of America’s *nuclear arsenal* （统称）武器, 谓 has a “*circular error probable*” 圆形概率误差  of roughly 120m, meaning `主` only half the missiles 后定 fired /`谓` *are expected* to land(v.) within 120m of the impact point.
 
-Today’s cruise missiles, on the other hand, are very accurate — one could be sent through a window — but much slower.
+*That is fine* for nuclear bombs /*but useless* for hitting a ship or runway.
+
+[.my2]
+美国核武库的支柱，Minuteman III洲际弹道导弹（ICBM），其“圆概率误差”约为120米，意味着预计只有一半的导弹会着陆在距离目标点120米内。对于核弹来说这是可以接受的，但对于打击舰船或跑道来说则无济于事。
+
+Today’s cruise missiles, on the other hand, are very accurate  —  one could be sent *through a window*  —  but much slower.
 
 
 [.my1]
@@ -73,6 +94,9 @@ Today’s cruise missiles, on the other hand, are very accurate — one coul
 
 .circular error probable :
 圆形公算误差（英文简称CEP），是弹道学中的一种测量武器系统精确度的项目。其定义是 以目标为圆心划一个圆圈。如果武器命中此圆圈的机率最少有一半，则此圆圈的半径就是"圆形公算误差"。举例来说，美军三叉戟二型导弹的圆形公算误差是90米，则一枚此型导弹有50%的机率会落在目标90米以内。
+
+image:/img/circular error probable.gif[,20%]
+
 
 .probable
 (a.) likely to happen, to exist or to be true 很可能发生（或存在等）的

@@ -1,15 +1,41 @@
+/* 下面是我自定义的全局变量 */
+:root {
+    --myGrayColor: rgb(240, 240, 240);
+    /* 背景颜色 */
+    --myGrayColor2: rgb(190, 190, 190);
+    /*字体颜色*/
+    --myFontSmallSize: 0.7em;
+}
+
+
+
+
+/* my1类, 专门用于单词高阶双解 */
 .my1 {
-    font-size: 0.7em;
+    font-size: var(--myFontSmallSize);
     /* 设置my1类的 字号大小 */
-    background-color: rgb(230, 230, 230);
+    background-color: var(--myGrayColor);
     border-style: solid;
-    border-color: rgb(139, 139, 139);
+    border-color: var(--myGrayColor2);
     border-width: 1px;
     padding: 10px;
 }
 
+
+/* my2类, 专门用于中文翻译参考 */
+.my2 {
+    font-size: var(--myFontSmallSize);
+    /* 设置my1类的 字号大小 */
+    color: var(--myGrayColor2);
+    margin-block-start: -1.2em;
+}
+
+
+
+
+
 .title {
-    border-top: dashed 1px rgb(190, 190, 190);
+    border-top: dashed 1px var(--myGrayColor2);
     color: #2c38ba;
 }
 

@@ -4,6 +4,8 @@
 :toc: left
 :toclevels: 3
 :sectnums:
+:stylesheet: myAdocCss.css
+
 
 '''
 
@@ -13,11 +15,20 @@
 
 IN 1882, WHEN Robert Koch discovered *Mycobacterium 分直杆菌属细菌 tuberculosis* 肺结核；结核病, the microbe  微生物 that causes tuberculosis, the disease caused *one in seven deaths* in America and Europe.
 
-Transmitted through *droplets  小滴 from coughs* 咳嗽, sneezes 打喷嚏 or just talking, tuberculosis felled  击倒，打倒（某人）; 砍伐（树木） rich and poor alike.
+[.my2]
+1882 年，当罗伯特·科赫 (Robert Koch) 发现结核分枝杆菌（Mycobacterium tuberculosis）时，这种微生物会导致结核病，这种疾病导致美国和欧洲七分之一的死亡。
 
-In the century that followed, TB (*as* the illness *is called for short* 简略的；缩写的) beat a retreat （仓促）逃走；（慌忙）撤退 thanks to antibiotics and a vaccine that protected infants 婴儿；幼儿. By the 1990s *wiping 擦,拭,抹去（旧事） it out completely* seemed *tantalisingly 挑逗性地,撩人地 within reach*.
+Transmitted (v.) through *droplets  小滴 from coughs* 咳嗽, sneezes 打喷嚏 or just talking, `主` tuberculosis `谓` felled 击倒，打倒（某人）; 砍伐（树木） rich and poor alike.
 
+[.my2]
+肺结核通过咳嗽、打喷嚏或只是说话时产生的飞沫传播，无论贫富，都会受到肺结核的影响。
 
+In the century /that followed, `主` TB (*as* the illness *is called for short* 简略的；缩写的) `谓` *beat (v.) a retreat* （仓促）逃走；（慌忙）撤退 /*thanks to* antibiotics /and a vaccine that protected infants 婴儿；幼儿.
+
+By the 1990s /`主` *wiping 擦,拭,抹去（旧事） it out* completely `谓` seemed *tantalisingly 挑逗性地,撩人地 within reach*.
+
+[.my2]
+在接下来的一个世纪里，由于抗生素和保护婴儿的疫苗，结核病（这种疾病的简称）战胜了疾病。到 1990 年代，彻底消灭它似乎触手可及。
 
 [.my1]
 .标题
@@ -37,18 +48,54 @@ microbe ⇒ -micro-微,小 + -o- + be(-bi-)生命,生物
 .tantalising
 /ˈtæntəˌlaɪzɪŋ/ adj.诱人的（等于 tantalizing）；挑逗的
 
-1882 年，当罗伯特·科赫 (Robert Koch) 发现结核分枝杆菌（Mycobacterium tuberculosis）时，这种微生物会导致结核病，这种疾病导致美国和欧洲七分之一的死亡。肺结核通过咳嗽、打喷嚏或只是说话时产生的飞沫传播，无论贫富，都会受到肺结核的影响。在接下来的一个世纪里，由于抗生素和保护婴儿的疫苗，结核病（这种疾病的简称）战胜了疾病。到 1990 年代，彻底消灭它似乎触手可及。
 ====
 
 
-Since then, however, *progress has been glacial* (a.)冰河时代的,冰川的. New cases are falling by just 1-2% a year. Today, M. tuberculosis kills more people than any other single pathogen 病原体 (see chart).
+Since then, however, *progress has been glacial* (a.)冰河时代的,冰川的. New cases are falling /by just 1-2% a year.
 
-*One reason TB has been hard to crack* is that M. tuberculosis has an unusual life cycle. When someone inhales the bug it is [underline]#either# killed by the immune system right away [underline]#or# *takes up 进入，占据（位置） residence* 住所；住房,居住；定居 in the lungs. Instead of causing immediate symptoms, though, it usually remains dormant (a.)休眠的；蛰伏的；暂停活动的 —a state called *latent 潜伏的；隐藏的 infection* 传染；感染 that is not contagious （疾病）接触传染的.
+Today, M. tuberculosis kills more people /than any other single pathogen 病原体 (see chart).
 
-About *a quarter of* the world’s population has such latent TB. But only about 10% of those so infected ever 不断地；总是；始终 go on to develop symptoms. Often, those who do have weakened 虚弱 immune systems.
+[.my2]
+然而，从那以后，进展一直很缓慢。新病例每年仅下降 1-2%。 +
+今天，结核分枝杆菌杀死的人数, 超过任何其他单一病原体（见图表）。
 
-People infected with HIV *are at particular risk* (about 40% of deaths among *HIV-positive 阳性的；证明…存在的 individuals* 个人 are caused by TB). `主` Others with higher than average risk of becoming symptomatic `系`  are the malnourished 营养不良的, smokers and alcoholics 酗酒者.
+*One reason* /TB has been hard to crack /*is that* /M. tuberculosis has an unusual life cycle.
 
+[.my2]
+结核病难以攻克的原因之一是结核分枝杆菌的生命周期不同寻常。
+
+When someone inhales (v.) the bug /it is #either# killed by the immune system right away /#or# *takes up 进入，占据（位置） residence* 住所；住房,居住；定居 in the lungs.
+
+[.my2]
+当有人吸入这种病毒时，它要么立即被免疫系统杀死，要么在肺部定居。
+
+Instead of causing immediate symptoms, though, it usually remains dormant (a.)休眠的；蛰伏的；暂停活动的 — *a state* /called *latent 潜伏的；隐藏的 infection* 传染；感染 /*that* is not contagious （疾病）接触传染的.
+
+[.my2]
+不过，它不会立即引起症状，而是通常保持休眠状态 ——这种状态称为潜伏感染，不会传染。
+
+About *a quarter of* the world’s population /has such latent TB. But only about 10% of those so infected /ever 不断地；总是；始终 *go on* to develop symptoms. Often, those /who do have weakened 虚弱 immune systems.
+
+[.my2]
+全球大约有四分之一的人, 患有这种潜伏性结核病。但只有约10%的受感染者, 最终会出现症状。通常，这些人的免疫系统较弱。
+
+[.my1]
+.案例
+====
+.ever
+( rather formal ) all the time or every time; always 不断地；总是；始终 +
+- the ever-growing problem日趋严重的问题 +
+- Their debts grew ever larger (= kept increasing) .他们的债务不断增加。
+====
+
+
+People infected with HIV /are at particular risk. (about *40% of deaths* /among HIV-positive 阳性的；证明…存在的 individuals 个人 /*are* caused by TB).
+
+`主` *Others* /with higher than *average risk of* becoming symptomatic `系`  *are* the malnourished 营养不良的, smokers and alcoholics 酗酒者.
+
+[.my2]
+感染 HIV 的人, 处于特别危险之中（在HIV 阳性患者的死亡中, 大约 40%的人, 是由结核病引起的）。 +
+其他的"出现症状的风险, 会高于平均水平"的人, 是那些营养不良者、吸烟者, 和酗酒者。
 
 [.my1]
 .标题
@@ -78,11 +125,6 @@ to move into a particular position 进入，占据（位置） +
 .malnourished
 /ˌmæl-ˈnɜːrɪʃt/ (a.)营养不良的 +
 -> mal-,坏的，不良的，nourish,营养。
-
-
-然而，从那以后，进展一直很缓慢。新病例每年仅下降 1-2%。今天，结核分枝杆菌杀死的人数超过任何其他单一病原体（见图表）。
-
-结核病难以攻克的原因之一是结核分枝杆菌的生命周期不同寻常。当有人吸入这种病毒时，它要么立即被免疫系统杀死，要么在肺部定居。不过，它不会立即引起症状，而是通常保持休眠状态 ——这种状态称为潜伏感染，不会传染。世界上大约四分之一的人口, 患有这种潜伏性结核病。但只有大约 10% 的感染者, 会继续出现症状。通常，那些免疫系统较弱的人。感染 HIV 的人处于特别危险之中（大约 40% 的 HIV 阳性个体死亡, 是由结核病引起的）。其他出现症状的风险高于平均水平的人, 是营养不良者、吸烟者和酗酒者。
 ====
 
 
