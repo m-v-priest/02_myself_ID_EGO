@@ -31,7 +31,13 @@
 }
 
 
+.myRed {
+    color: white;
+    /* 白色字体 */
+    background-color: #e34838;
+    /* 红色背景 */
 
+}
 
 
 .title {
