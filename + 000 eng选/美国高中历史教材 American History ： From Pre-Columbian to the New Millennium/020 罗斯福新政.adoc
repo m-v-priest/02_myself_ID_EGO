@@ -3,7 +3,7 @@
 :toc: left
 :toclevels: 3
 :sectnums:
-// :stylesheet: myAdocCss.css
+:stylesheet: myAdocCss.css
 
 '''
 
@@ -13,9 +13,16 @@
 
 
 When America hit rock bottom, Americans expected bold leadership.
+
+[.my2]
 当美国跌入谷底时，美国人期待大胆的领导。
 
-Herbert Hoover was perceived as doing nothing to help when the nation was in its darkest hour. When the votes were tallied in 1932, Americans made a strong statement for change, and sent Franklin D. Roosevelt to the White House. Ironically, Roosevelt made few concrete proposals during the campaign, merely promising "a new deal for the American people." The plan that ultimately emerged during his Presidency was among the most ambitious in the history of the United States.
+Herbert Hoover was perceived as doing nothing to help when the nation was in its darkest hour. +
+When the votes were tallied in 1932, Americans made a strong statement for change, and sent Franklin D. +
+Roosevelt to the White House. +
+Ironically, Roosevelt made few concrete proposals during the campaign, merely promising "a new deal for the American people." The plan that ultimately emerged during his Presidency was among the most ambitious in the history of the United States.
+
+[.my2]
 **当国家处于最黑暗的时刻时，赫伯特·胡佛被认为没有采取任何帮助措施。 1932 年计票时，美国人发表了强烈的变革声明，并将富兰克林·罗斯福送入白宫。**具有讽刺意味的是，罗斯福在竞选期间, 几乎没有提出任何具体建议，只是承诺“为美国人民制定一项新政”。*在他担任总统期间最终提出的计划, 是美国历史上最雄心勃勃的计划之一。*
 
 [.my1]
@@ -25,7 +32,8 @@ Herbert Hoover was perceived as doing nothing to help when the nation was in its
 
 image:/img/Franklin Delano Roosevelt.jpg[,20%]
 
-第32任美国总统. 从1933年至1945年间，连续出任四届美国总统，且是唯一连任超过两届的美国总统。 富兰克林·罗斯福的远房堂兄西奥多·罗斯福是第26任美国总统，故在中文世界经常称呼富兰克林·罗斯福为“小罗斯福”总统。
+第32任美国总统. +
+从1933年至1945年间，连续出任四届美国总统，且是唯一连任超过两届的美国总统。 富兰克林·罗斯福的远房堂兄西奥多·罗斯福是第26任美国总统，故在中文世界经常称呼富兰克林·罗斯福为“小罗斯福”总统。
 
 在1930年代经济大萧条期间，罗斯福推行新政以提供失业救济与复苏经济，并成立如公共事业振兴署（WPA）、国家复兴管理局（NRA）和农业调整管理局（AAA）等机构来改革经济和银行体系。虽然直到第二次世界大战爆发为止，美国的经济仍未能完全复苏，但是他所发起的一些计划，如"联邦存款保险公司"（FDIC）、田纳西河谷管理局（TVA）以及"证券交易委员会"（SEC）等，仍继续在国家的商贸中扮演重要角色。除此之外，在其任内设立的一些制度，包括社会安全系统和全国劳资关系委员会（NLRB）等等，仍然保留至今。
 
@@ -38,16 +46,37 @@ image:/img/Franklin Delano Roosevelt.jpg[,20%]
 
 Radio advertisement
 
-Radio's golden era coincided with Roosevelt's presidency. Radio shows entertained, advertised, and made an escape for American audiences. Roosevelt wisely used his weekly "Fireside Chats" to keep in touch with the populace.
+Radio's golden era coincided with Roosevelt's presidency. +
+Radio shows entertained, advertised, and made an escape for American audiences. +
+Roosevelt wisely used his weekly "Fireside Chats" to keep in touch with the populace.
+
+[.my2]
 广播的黄金时代, 与罗斯福总统任期同时发生。广播节目为美国观众提供娱乐、广告和逃避现实的机会。罗斯福明智地利用每周一次的“炉边谈话”与民众保持联系。(敏锐的来利用起最新科技的力量)
 
-Roosevelt had no grand strategy to fix the Depression. He was a bold experimenter. FDR liked to examine an idea and evaluate it on its philosophical merits. The details could be negotiated later. If it worked, fine. If not, he was more than willing to start over with a new plan. He surrounded himself with competent advisors, and delegated authority with discretion and confidence. As a master of the radio, his confidence was contagious among the American populace.
+Roosevelt had no grand strategy to fix the Depression. +
+He was a bold experimenter. +
+FDR liked to examine an idea and evaluate it on its philosophical merits. +
+The details could be negotiated later. +
+If it worked, fine. +
+If not, he was more than willing to start over with a new plan. +
+He surrounded himself with competent advisors, and delegated authority with discretion and confidence. +
+As a master of the radio, his confidence was contagious among the American populace.
+
+[.my2]
 **罗斯福在解决大萧条问题上, 并没有宏伟的战略。相反, 他是一位大胆的实验家。罗斯福喜欢检验一个想法, 并根据其哲学优点对其进行评估。细节可以稍后协商。如果它有效的话，那就最好了。如果没有，则他非常愿意重新开始一个新的计划。**他周围都是有能力的顾问，并谨慎而自信地授予权力。作为广播大师，他的自信, 在美国民众中具有感染力。
 
-Before his first term expired, Roosevelt signed legislation aimed at fixing banks and the stock market. He approved plans to aid the unemployed and the nations farmers. He began housing initiatives and ventures into public-owned electric power. New Deal programs aided industrialists and laborers alike. His friends and enemies grew with every act he signed into law.
+Before his first term expired, Roosevelt signed legislation aimed at fixing banks and the stock market. +
+He approved plans to aid the unemployed and the nations farmers. +
+He began housing initiatives and ventures into public-owned electric power. +
+New Deal programs aided industrialists and laborers alike. +
+His friends and enemies grew with every act he signed into law.
+
+[.my2]
 在第一个任期到期之前，罗斯福签署了旨在修复银行和股票市场的立法。他批准了援助"失业者"和"国家农民"的计划。他开始实施"住房计划", 并涉足公有电力领域。新政计划, 为实业家和劳工提供了帮助。*随着他签署的每一项法案的增加，他的朋友和敌人也都在增加。*
 
 The NEW DEAL sparked a revolution in American public thought regarding the relationship between the people and the federal government.
+
+[.my2]
 *"新政"引发了美国公众关于"人民"与"联邦政府"关系的思想革命。*
 
 
@@ -58,28 +87,73 @@ The NEW DEAL sparked a revolution in American public thought regarding the relat
 
 
 
-In days past, depositing money in a savings account carried a degree of RISK. If a bank made bad investments and was forced to close, individuals who did not withdraw their money fast enough found themselves out of luck. Sometimes a simple rumor could force a bank to close. When DEPOSITORS feared a bank was unsound and began removing their funds, the news would often spread to other customers. This often caused a panic, leading people to leave their homes and workplaces to get their money before it was too late.
+In days past, depositing money in a savings account carried a degree of RISK. +
+If a bank made bad investments and was forced to close, individuals who did not withdraw their money fast enough found themselves out of luck. +
+Sometimes a simple rumor could force a bank to close. +
+When DEPOSITORS feared a bank was unsound and began removing their funds, the news would often spread to other customers. +
+This often caused a panic, leading people to leave their homes and workplaces to get their money before it was too late.
+
+[.my2]
 过去，将钱存入银行的储蓄账户, 存在一定程度的风险。如果一家银行投资不当, 而被迫关闭，那些提款速度不够快的人, 就会发现自己运气不佳。有时，一个简单的谣言, 就可能迫使银行关门。当储户担心银行不健全, 并开始提取资金时，这个消息往往会传播给其他客户。这常常引起恐慌，导致人们离开家园和工作场所去取钱，以免为时已晚 (银行挤兑)。
 
-These runs on banks were widespread during the early days of the Great Depression. In 1929 alone, 659 banks closed their doors. By 1932, an additional 5102 banks went out of business. Families lost their life savings overnight. Thirty-eight states had adopted restrictions on withdrawals in an effort to forestall the panic. Bank failures increased in 1933, and Franklin Roosevelt deemed remedying these failing financial institutions his first priority after being inaugurated.
+These runs on banks were widespread during the early days of the Great Depression. +
+In 1929 alone, 659 banks closed their doors. +
+By 1932, an additional 5102 banks went out of business. +
+Families lost their life savings overnight. +
+Thirty-eight states had adopted restrictions on withdrawals in an effort to forestall the panic. +
+Bank failures increased in 1933, and Franklin Roosevelt deemed remedying these failing financial institutions his first priority after being inaugurated.
+
+[.my2]
 在大萧条初期，银行挤兑现象十分普遍。仅 1929 年一年，就有 659 家银行关门。到 1932 年，又有 5102 家银行倒闭。一些家庭一夜之间失去了毕生积蓄。三十八个州采取了提款限制措施，以防止恐慌。 1933 年，银行倒闭现象增多，*富兰克林·罗斯福 (Franklin Roosevelt) 上任后的首要任务, 就是挽救这些倒闭的金融机构。*
 
 
 
-Roosevelt, unlike Hoover, was quick to act. Two days after taking the oath of office, Roosevelt declared a "BANK HOLIDAY." From March 6 to March 10, banking transactions were suspended across the nation except for making change. During this period, Roosevelt presented the new Congress with the EMERGENCY BANKING ACT. The law empowered the President through the TREASURY DEPARTMENT to reopen banks that were solvent and assist those that were not. The House allowed only forty minutes of debate before passing the law unanimously, and the Senate soon followed with overwhelming support.
+Roosevelt, unlike Hoover, was quick to act. +
+Two days after taking the oath of office, Roosevelt declared a "BANK HOLIDAY." From March 6 to March 10, banking transactions were suspended across the nation except for making change. +
+During this period, Roosevelt presented the new Congress with the EMERGENCY BANKING ACT. +
+The law empowered the President through the TREASURY DEPARTMENT to reopen banks that were solvent and assist those that were not. +
+The House allowed only forty minutes of debate before passing the law unanimously, and the Senate soon followed with overwhelming support.
+
+[.my2]
 **与胡佛不同，罗斯福行动迅速。**宣誓就职两天后，罗斯福宣布“银行假期”。 3月6日至10日，全国银行除找零外, 都暂停交易。在此期间，**罗斯福向新国会提交了《紧急银行法》。该法律授权总统通过"财政部", 重新开放有偿付能力的银行, 并协助那些没有偿付能力的银行。**众议院只允许进行四十分钟的辩论，然后一致通过该法律，参议院很快就获得了压倒性的支持。
 
-Banks were divided into four categories. Surprisingly, slightly over half the nation's banks were deemed first category and fit to reopen. The second category of banks was permitted to allow a percentage of its deposits to be withdrawn. The third category consisted of banks that were on the brink of collapse. When the holiday was ended, these banks were only permitted to accept deposits. Five percent of banks were in the final category — unfit to continue business.
+Banks were divided into four categories. +
+Surprisingly, slightly over half the nation's banks were deemed first category and fit to reopen. +
+The second category of banks was permitted to allow a percentage of its deposits to be withdrawn. +
+The third category consisted of banks that were on the brink of collapse. +
+When the holiday was ended, these banks were only permitted to accept deposits. +
+Five percent of banks were in the final category — unfit to continue business.
+
+[.my2]
 *银行分为四类。令人惊讶的是，全国一半以上的银行, 被视为第一类银行，适合重新开业。第二类银行被允许"提取一定比例的存款"。第三类是"濒临倒闭的银行"。假期结束后，这些银行只允许接受存款。百分之五的银行属于最后一类——不适合继续经营。*
 
-On the Sunday evening before the banks reopened, Roosevelt addressed the nation through one of his signature "FIRESIDE CHATS." With honest words in soothing tones, the President assured sixty million radio listeners that the crisis was over and the nation's banks were secure. On the first day back in business, deposits exceeded withdrawals. By the beginning of April, Americans confidently returned a billion dollars to the banking system. The bank crisis was over.
+On the Sunday evening before the banks reopened, Roosevelt addressed the nation through one of his signature "FIRESIDE CHATS." With honest words in soothing tones, the President assured sixty million radio listeners that the crisis was over and the nation's banks were secure. +
+On the first day back in business, deposits exceeded withdrawals. +
+By the beginning of April, Americans confidently returned a billion dollars to the banking system. +
+The bank crisis was over.
+
+[.my2]
 **在银行重新开业前的周日晚上，罗斯福通过他标志性的“炉边谈话”, 向全国发表讲话。总统以舒缓的语气, 诚实地向六千万广播听众保证, 危机已经结束，国家银行是安全的。**恢复营业的第一天，存款就超过了取款。到四月初，美国人满怀信心地向银行系统, 返还了十亿美元。银行危机已经结束。
 
 
-But the legislation was not. On June 16, 1933, Roosevelt signed the GLASS-STEAGALL BANKING REFORM ACT. This law created the FEDERAL DEPOSIT INSURANCE CORPORATION. Under this new system, depositors in member banks were given the security of knowing that if their bank were to collapse, the federal government would refund their losses. Deposits up to $2500, a figure that would rise through the years, were henceforth 100% safe. The act also restricted banks from recklessly speculating depositors' money in the stock market. In 1934, only 61 banks failed .
+But the legislation was not. +
+On June 16, 1933, Roosevelt signed the GLASS-STEAGALL BANKING REFORM ACT. +
+This law created the FEDERAL DEPOSIT INSURANCE CORPORATION. +
+Under this new system, depositors in member banks were given the security of knowing that if their bank were to collapse, the federal government would refund their losses. +
+Deposits up to $2500, a figure that would rise through the years, were henceforth 100% safe. +
+The act also restricted banks from recklessly speculating depositors' money in the stock market. +
+In 1934, only 61 banks failed .
+
+[.my2]
 但立法却并非如此。 1933 年 6 月 16 日，**罗斯福签署了《格拉斯-斯蒂格尔银行改革法案》。该法创建了"联邦存款保险公司"。在这个新系统下，成员银行的储户可以放心地知道，如果他们的银行倒闭，联邦政府将退还他们的损失。**最高 2500 美元的存款（这一数字将逐年上升）从此是 100% 安全的。**该法案还限制银行在股票市场上肆无忌惮地投机储户的资金。 **1934年，只有61家银行倒闭。
 
-Letters poured in to the White House from grateful Americans. Workers and farmers were thrilled that their savings were indeed now safe. Bankers breathed a sigh of relief knowing that Roosevelt did not intend to nationalize the banking system as many European countries had already done. Although radical in speed and scope, Roosevelt's banking plan strengthened the current system, without fundamentally altering it. One of his advisors quipped, "Capitalism was saved in eight days."
+Letters poured in to the White House from grateful Americans. +
+Workers and farmers were thrilled that their savings were indeed now safe. +
+Bankers breathed a sigh of relief knowing that Roosevelt did not intend to nationalize the banking system as many European countries had already done. +
+Although radical in speed and scope, Roosevelt's banking plan strengthened the current system, without fundamentally altering it. +
+One of his advisors quipped, "Capitalism was saved in eight days."
+
+[.my2]
 心存感激的美国人, 纷纷给白宫写信。工人和农民很高兴, 他们的储蓄现在确实安全了。银行家们松了一口气，因为他们知道, 罗斯福并不打算像许多欧洲国家那样, 将银行体系国有化。尽管罗斯福的银行计划, 在速度和范围上都很激进，但它加强了现行体系，但没有从根本上改变它。他的一位顾问打趣道：“资本主义在八天内就被拯救了。”
 
 
@@ -88,13 +162,29 @@ Letters poured in to the White House from grateful Americans. Workers and farmer
 ==== Putting People Back to Work 让人们重返工作岗位
 
 
-Out of work Americans needed jobs. To the unemployed, many of whom had no money left in the banks, a decent job that put food on the dinner table was a matter of survival.
+Out of work Americans needed jobs. +
+To the unemployed, many of whom had no money left in the banks, a decent job that put food on the dinner table was a matter of survival.
+
+[.my2]
 失业的美国人需要工作。对于失业者来说，其中许多人银行里已经没有钱了，一份可以让餐桌上有食物的体面工作, 关系到生存。
 
-Unlike Herbert Hoover, who refused to offer direct assistance to individuals, Franklin Roosevelt knew that the nation's unemployed could last only so long. Like his banking legislation, aid would be immediate. Roosevelt adopted a strategy known as "priming the pump." To start a dry pump, a farmer often has to pour a little into the pump to generate a heavy flow. Likewise, Roosevelt believed the national government could jump start a dry economy by pouring in a little federal money.
+Unlike Herbert Hoover, who refused to offer direct assistance to individuals, Franklin Roosevelt knew that the nation's unemployed could last only so long. +
+Like his banking legislation, aid would be immediate. +
+Roosevelt adopted a strategy known as "priming the pump." To start a dry pump, a farmer often has to pour a little into the pump to generate a heavy flow. +
+Likewise, Roosevelt believed the national government could jump start a dry economy by pouring in a little federal money.
+
+[.my2]
 与"拒绝向个人提供直接援助"的赫伯特·胡佛不同，**富兰克林·罗斯福知道, 国家的失业者只能持续这么长时间。就像他的银行立法一样，援助将是立即的。**罗斯福采取了一种被称为“启动水泵”的策略。要启动干泵，农民通常必须向泵中倒入少量液体, 才能产生大量流量。同样，罗斯福相信, 国家政府可以通过注入少量联邦资金, 来启动干涸的经济。
 
-The first major help to large numbers of jobless Americans was the FEDERAL EMERGENCY RELIEF ACT. This law gave $3 billion to state and local governments for direct relief payments. Under the direction of HARRY HOPKINS, FERA assisted millions of Americans in need. While Hopkins and Roosevelt believed this was necessary, they were reticent to continue this type of aid. Direct payments might be "narcotic," stifling the initiative of Americans seeking paying jobs. Although FERA lasted two years, efforts were soon shifted to "work-relief" programs. These agencies would pay individuals to perform jobs, rather than provide handouts.
+The first major help to large numbers of jobless Americans was the FEDERAL EMERGENCY RELIEF ACT. +
+This law gave $3 billion to state and local governments for direct relief payments. +
+Under the direction of HARRY HOPKINS, FERA assisted millions of Americans in need. +
+While Hopkins and Roosevelt believed this was necessary, they were reticent to continue this type of aid. +
+Direct payments might be "narcotic," stifling the initiative of Americans seeking paying jobs. +
+Although FERA lasted two years, efforts were soon shifted to "work-relief" programs. +
+These agencies would pay individuals to perform jobs, rather than provide handouts.
+
+[.my2]
 对大量失业美国人的第一个重大帮助, 是《联邦紧急救济法案》。该法律向州和地方政府, 提供了 30 亿美元的直接救济金。在哈里·霍普金斯 (HARRY HOPKINS) 的指导下，FERA 帮助了数百万有需要的美国人。虽然霍普金斯和罗斯福认为这是必要的，但他们不愿继续提供此类援助。直接支付可能具有“麻醉性”，会扼杀美国人寻找有偿工作的主动性。尽管口交持续了两年，但工作很快就转向了“工作救济”计划。这些机构将向个人支付报酬, 以完成工作，而不是提供施舍。
 
 
@@ -105,7 +195,8 @@ The first major help to large numbers of jobless Americans was the FEDERAL EMERG
 
 是美国联邦政府1933年至1935年间的机构，其前身是由胡佛总统在1932年创建的"紧急救援署"（Emergency Relief Administration，ERA）。1933年5月，美国国会通过"联邦紧急救济法"，成立"联邦紧急救济署"。1935年，"联邦紧急救援署"被"公共事业振兴署"（WPA）代替。
 
-"联邦紧急救援署"成立初期，将各种救济款物, 迅速拨往各州。第二年，*其主要目标由单纯救济改为“以工代赈”*，即通过在地方和州政府**创造新的非技术性工作, 以减轻家庭的失业。**尽管工作比直接支付现金，即所谓的“救济金”更昂贵，但**在心理上, 对于失业者的自尊是更有益的。(GDP不好时, 就搞基建. 国家出钱来雇佣人民.)**
+"联邦紧急救援署"成立初期，将各种救济款物, 迅速拨往各州。第二年，*其主要目标由单纯救济改为“以工代赈”*，即通过在地方和州政府**创造新的非技术性工作, 以减轻家庭的失业。**尽管工作比直接支付现金，即所谓的“救济金”更昂贵，但**在心理上, 对于失业者的自尊是更有益的。(GDP不好时, 就搞基建. +
+国家出钱来雇佣人民.)**
 
 罗斯福新政的第一项措施，就是建立"平民保育团"（CCC）。**"平民保育团"是**从1933年到1942年间运作的**"以工代赈"计划，**专门吸纳年龄在18岁到25岁之间的救济家庭中的未婚失业男性，**从事植树护林、防治水患、水土保持、道路建筑、开辟森林防火线, 和设置森林望塔等工程建设。**平民保育团为年轻男性提供了工作，救济了在经济大萧条时期难以找到工作的家庭。
 
@@ -116,28 +207,62 @@ The first major help to large numbers of jobless Americans was the FEDERAL EMERG
 
 
 
-The first such initiative began in March 1933. Called the CIVILIAN CONSERVATION CORPS, this program was aimed at over two million unemployed unmarried men between the ages of 17 and 25. CCC participants left their homes and lived in camps in the countryside. Subject to military-style discipline, the men built reservoirs and bridges, and cut fire lanes through forests. They planted trees, dug ponds, and cleared lands for camping. They earned $30 dollars per month, most of which was sent directly to their families. The CCC was extremely popular. Listless youths were removed from the streets and given paying jobs and provided with room and shelter.
+The first such initiative began in March 1933. +
+Called the CIVILIAN CONSERVATION CORPS, this program was aimed at over two million unemployed unmarried men between the ages of 17 and 25. +
+CCC participants left their homes and lived in camps in the countryside. +
+Subject to military-style discipline, the men built reservoirs and bridges, and cut fire lanes through forests. +
+They planted trees, dug ponds, and cleared lands for camping. +
+They earned $30 dollars per month, most of which was sent directly to their families. +
+The CCC was extremely popular. +
+Listless youths were removed from the streets and given paying jobs and provided with room and shelter.
+
+[.my2]
 第一个此类倡议, 始于 1933 年 3 月。该计划名为“平民保护团”，针对超过 200 万年龄在 17 岁至 25 岁之间的失业未婚男性。CCC 参与者离开家园，住在乡村的营地中。这些人遵守军事纪律，修建水库和桥梁，并在森林中开辟消防通道。他们植树、挖池塘、清理土地用于露营。他们每月赚 30 美元，其中大部分直接寄给家人。 CCC 非常受欢迎。无精打采的年轻人被从街道上赶走，并获得有薪工作，并提供房间和住所。
 
 
-There were plenty of other opportunities for the unemployed in the New Deal. In the fall of 1933, Roosevelt authorized the CIVIL WORKS ADMINISTRATION. Also headed by Hopkins, this program employed 2.5 million in a month's time, and eventually grew to a multitudinous 4 million at its peak.
+There were plenty of other opportunities for the unemployed in the New Deal. +
+In the fall of 1933, Roosevelt authorized the CIVIL WORKS ADMINISTRATION. +
+Also headed by Hopkins, this program employed 2.5 million in a month's time, and eventually grew to a multitudinous 4 million at its peak.
+
+[.my2]
 *"新政"为失业者提供了很多其他机会。* 1933 年秋，罗斯福授权"土木工程管理局"成立。同样由霍普金斯领导的该项目, 在一个月内雇用了 250 万人，并最终在巅峰时期增长到 400 万人。
 
-Earning $15 per week, CWA workers tutored the illiterate, built parks, repaired schools, and constructed athletic fields and swimming pools. Some were even paid to rake leaves. Hopkins put about three thousand writers and artists on the payroll as well. There were plenty of jobs to be done, and while many scoffed at the make-work nature of the tasks assigned, it provided vital relief during trying times.
+Earning $15 per week, CWA workers tutored the illiterate, built parks, repaired schools, and constructed athletic fields and swimming pools. +
+Some were even paid to rake leaves. +
+Hopkins put about three thousand writers and artists on the payroll as well. +
+There were plenty of jobs to be done, and while many scoffed at the make-work nature of the tasks assigned, it provided vital relief during trying times.
+
+[.my2]
 CWA 的工作人员每周赚取 15 美元，他们为文盲提供辅导、修建公园、修缮学校、修建运动场和游泳池。有些人甚至得到报酬去耙树叶。霍普金斯大学还雇佣了大约三千名作家和艺术家。有很多工作要做，虽然许多人嘲笑分配的任务的工作性质，但它在困难时期提供了重要的缓解。
 
-The largest relief program of all was the WORKS PROGRESS ADMINISTRATION. When the CWA expired, Roosevelt appointed Hopkins to head the WPA, which employed nearly 9 million Americans before its expiration. Americans of all skill levels were given jobs to match their talents. Most of the resources were spent on public works programs such as roads and bridges, but WPA projects spread to artistic projects too.
+The largest relief program of all was the WORKS PROGRESS ADMINISTRATION. +
+When the CWA expired, Roosevelt appointed Hopkins to head the WPA, which employed nearly 9 million Americans before its expiration. +
+Americans of all skill levels were given jobs to match their talents. +
+Most of the resources were spent on public works programs such as roads and bridges, but WPA projects spread to artistic projects too.
+
+[.my2]
 其中最大的救济计划是"工程进展管理计划"。 CWA 到期后，罗斯福任命霍普金斯领导 WPA，该机构在到期前雇用了近 900 万美国人。各种技能水平的美国人, 都获得了与其才能相匹配的工作。大部分资源都花在了道路和桥梁等公共工程项目上，但 WPA 项目也扩展到了艺术项目。
 
 
 Before the advent of Social Security, many unemployed Americans were forced to seek food from shelters and soup kitchens.
+
+[.my2]
 在社会保障出现之前，许多失业的美国人被迫从避难所和施粥处寻找食物。
 
 
-The FEDERAL THEATER PROJECT hired actors to perform plays across the land. Artists such as BEN SHAHN beautified cities by painting larger-than-life murals. Even such noteworthy authors as JOHN STEINBECK and RICHARD WRIGHT were hired to write regional histories. WPA workers took traveling libraries to rural areas. Some were assigned the task of transcribing documents from colonial history; others were assigned to assist the blind.
+The FEDERAL THEATER PROJECT hired actors to perform plays across the land. +
+Artists such as BEN SHAHN beautified cities by painting larger-than-life murals. +
+Even such noteworthy authors as JOHN STEINBECK and RICHARD WRIGHT were hired to write regional histories. +
+WPA workers took traveling libraries to rural areas. +
+Some were assigned the task of transcribing documents from colonial history; others were assigned to assist the blind.
+
+[.my2]
 联邦剧院项目, 聘请演员在全国各地表演戏剧。本·沙恩 (BEN SHAHN) 等艺术家, 通过绘制具有传奇色彩的壁画, 来美化城市。甚至像约翰·斯坦贝克和理查德·赖特这样著名的作家, 也被聘请来撰写地区历史。世界公共图书馆的工作人员, 将流动图书馆带到了农村地区。有些人的任务是抄写殖民历史文件；有些人则负责抄写殖民历史文件。其他人则被指派去帮助盲人。
 
-Critics called the WPA "We Piddle Around" or "We Poke Along," labeling it the worst waste of taxpayer money in American history. But most every county in America received some service by the newly employed, and although the average monthly salary was barely above subsistence level, millions of Americans earned desperately needed cash, skills, and self-respect.
+Critics called the WPA "We Piddle Around" or "We Poke Along," labeling it the worst waste of taxpayer money in American history. +
+But most every county in America received some service by the newly employed, and although the average monthly salary was barely above subsistence level, millions of Americans earned desperately needed cash, skills, and self-respect.
+
+[.my2]
 批评者称,  WPA 为“我们兜兜转转”或“我们随波逐流”，称其为美国历史上对纳税人资金最严重的浪费。但美国几乎每个县, 都接受了新就业者的一些服务，*尽管平均月薪仅略高于维持生计的水平，但数百万美国人赚取了急需的现金、技能和自尊。*
 
 
@@ -146,43 +271,102 @@ Critics called the WPA "We Piddle Around" or "We Poke Along," labeling it the wo
 ==== The Farming Problem 农业问题
 
 
-Years of plowing and planting left soil depleted and weak. As a result, clouds of dust fell like brown snow over the Great Plains.
+Years of plowing and planting left soil depleted and weak. +
+As a result, clouds of dust fell like brown snow over the Great Plains.
+
+[.my2]
 多年的耕种和种植, 使土壤变得贫瘠和脆弱。结果，大平原上的灰尘, 像棕色的雪一样掉落。
 
-Farmers faced tough times. While most Americans enjoyed relative prosperity for most of the 1920s, the Great Depression for the American farmer really began after World War I. Much of the Roaring '20s was a continual cycle of debt for the American farmer, stemming from falling farm prices and the need to purchase expensive machinery. When the stock market crashed in 1929 sending prices in an even more downward cycle, many American farmers wondered if their hardscrabble lives would ever improve.
+Farmers faced tough times. +
+While most Americans enjoyed relative prosperity for most of the 1920s, the Great Depression for the American farmer really began after World War I. +
+Much of the Roaring '20s was a continual cycle of debt for the American farmer, stemming from falling farm prices and the need to purchase expensive machinery. +
+When the stock market crashed in 1929 sending prices in an even more downward cycle, many American farmers wondered if their hardscrabble lives would ever improve.
+
+[.my2]
 农民面临艰难的时期。**虽然大多数美国人在 20 年代的大部分时间里, 都享有相对繁荣，但美国农民的大萧条, 真正开始于第一次世界大战后。**在“咆哮的20年代”的大部分时间里，由于农产品价格下跌, 和购买昂贵机械的需要，美国农民陷入了持续的债务循环。当1929年股市崩盘，导致价格进入更大的下行周期时，许多美国农民都在想，他们艰苦的生活是否会得到改善。
 
-The first major New Deal initiative aimed to help farmers attempted to raise farm prices to a level equitable to the years 1909-14. Toward this end, the AGRICULTURAL ADJUSTMENT ADMINISTRATION was created. One method of driving up prices of a commodity is to create artificial scarcity. Simply put, if farmers produced less, the prices of their crops and livestock would increase.
-*第一个主要的新政倡议, 旨在帮助农民试图将农场价格提高到1909 - 14年的公平水平。为此，创建了"农业调整管理局"。提高商品价格的一种方法, 是人为降低产量. 简而言之，如果农民生产的生产较少，那么他们的农作物和牲畜的价格就会上涨。*
+The first major New Deal initiative aimed to help farmers attempted to raise farm prices to a level equitable to the years 1909-14. +
+Toward this end, the AGRICULTURAL ADJUSTMENT ADMINISTRATION was created. +
+One method of driving up prices of a commodity is to create artificial scarcity. +
+Simply put, if farmers produced less, the prices of their crops and livestock would increase.
 
-The AAA identified seven BASIC FARM PRODUCTS: wheat, cotton, corn, tobacco, rice, hogs, and milk. Farmers who produced these goods would be paid by the AAA to reduce the amount of acres in cultivation or the amount of LIVESTOCK raised. In other words, farmers were paid to farm less!
+[.my2]
+*第一个主要的新政倡议, 旨在帮助农民试图将农场价格提高到1909 - 14年的公平水平。为此，创建了"农业调整管理局"。提高商品价格的一种方法, 是人为降低产量. +
+简而言之，如果农民生产的生产较少，那么他们的农作物和牲畜的价格就会上涨。*
+
+The AAA identified seven BASIC FARM PRODUCTS: wheat, cotton, corn, tobacco, rice, hogs, and milk. +
+Farmers who produced these goods would be paid by the AAA to reduce the amount of acres in cultivation or the amount of LIVESTOCK raised. +
+In other words, farmers were paid to farm less!
+
+[.my2]
 AAA确定了七种基本农产品：小麦，棉花，玉米，烟草，大米，猪和牛奶。*生产这些产品的农民将获得 AAA 的补偿，以减少种植面积, 或饲养牲畜的数量。换句话说，农民得到了少耕的报酬!*
 
 
 
-The press and the public immediately cried foul. To meet the demands set by the AAA, farmers plowed under millions of acres of already planted crops. Six million young pigs were slaughtered to meet the subsidy guidelines. In a time when many were out of work and tens of thousands starved, this wasteful carnage was considered blasphemous and downright wrong.
+The press and the public immediately cried foul. +
+To meet the demands set by the AAA, farmers plowed under millions of acres of already planted crops. +
+Six million young pigs were slaughtered to meet the subsidy guidelines. +
+In a time when many were out of work and tens of thousands starved, this wasteful carnage was considered blasphemous and downright wrong.
+
+[.my2]
 新闻界和公众立即大声疾呼。为了满足美国农业协会的要求，农民们翻耕了数百万英亩已经种植的作物。为了达到补贴标准，宰杀了600万头生猪。在一个许多人失业、数万人挨饿的时代，这种浪费的屠杀, 被认为是亵渎神明的，是彻头彻尾的错误。
 
-But farm income did increase under the AAA. Cotton, wheat, and corn prices doubled in three years. Despite having misgivings about receiving government subsidies, farmers overwhelmingly approved of the program. Unfortunately, the bounty did not trickle down to the lowest economic levels. Tenant farmers and sharecroppers did not receive government aid; the subsidy went to the landlord. The owners often bought better machinery with the money, which further reduced the need for farm labor. In fact, the Great Depression and the AAA brought a virtual end to the practice of sharecropping in America.
+But farm income did increase under the AAA. +
+Cotton, wheat, and corn prices doubled in three years. +
+Despite having misgivings about receiving government subsidies, farmers overwhelmingly approved of the program. +
+Unfortunately, the bounty did not trickle down to the lowest economic levels. +
+Tenant farmers and sharecroppers did not receive government aid; the subsidy went to the landlord. +
+The owners often bought better machinery with the money, which further reduced the need for farm labor. +
+In fact, the Great Depression and the AAA brought a virtual end to the practice of sharecropping in America.
+
+[.my2]
 但在农业调整法案（AAA）下，农场收入确实增加了。在三年内，棉花、小麦和玉米的价格翻了一番。尽管对接受政府补贴存在疑虑，但农民们对该计划普遍持赞同态度。不幸的是，这份恩惠并没有传递到最低经济层面。租户农民和分地耕种者没有得到政府援助；补贴流向了地主。地主通常用这笔钱购买更好的机械设备，进一步减少了对农业劳动力的需求。事实上，大萧条和AAA使分地耕作在美国几乎告一段落。
 
 
-The Supreme Court put an end to the AAA in 1936 by declaring it unconstitutional. At this time the Roosevelt administration decided to repackage the agricultural subsidies as incentives to save the environment. After years and years of plowing and planting, much of the soil of the Great Plains and become depleted and weak. Great winds blew clouds of dust that fell like brown snow to cover homes across the region as residents of the "Dust Bowl" moved west in search of better times.
+The Supreme Court put an end to the AAA in 1936 by declaring it unconstitutional. +
+At this time the Roosevelt administration decided to repackage the agricultural subsidies as incentives to save the environment. +
+After years and years of plowing and planting, much of the soil of the Great Plains and become depleted and weak. +
+Great winds blew clouds of dust that fell like brown snow to cover homes across the region as residents of the "Dust Bowl" moved west in search of better times.
+
+[.my2]
 1936年，最高法院宣布AAA法案违宪，宣告其终止。此时，罗斯福政府决定重新包装"农业补贴"，作为"保护环境"的激励措施。经过年复一年的耕种和种植，大平原上的大部分土壤变得贫瘠无力。大风吹起了像棕色雪一样的沙尘云，覆盖了整个地区的房屋，“沙尘暴”的居民纷纷向西迁移，寻求更好的生活。
 
-The SOIL CONSERVATION AND DOMESTIC ALLOTMENT ACT paid farmers to plant clover and alfalfa instead of wheat and corn. These crops return nutrients to the soil. At the same time, the government achieved its goal of reducing crop acreage of the key commodities.
+The SOIL CONSERVATION AND DOMESTIC ALLOTMENT ACT paid farmers to plant clover and alfalfa instead of wheat and corn. +
+These crops return nutrients to the soil. +
+At the same time, the government achieved its goal of reducing crop acreage of the key commodities.
+
+[.my2]
 《土壤保持和国内分配法案》向农民支付种植三叶草和苜蓿的费用，而不是小麦和玉米。这些作物将营养回馈给土壤。与此同时，政府实现了减少主要商品作物种植面积的目标。
 
 
 
 
-Another major problem faced by American farmers was mortgage foreclosure. Unable to make the monthly payments, many farmers were losing their property to their banks. Across the CORN BELT of the Midwest, the situation grew desperate. Farmers pooled resources to bail out needy friends. Minnesota and North Dakota passed laws restricting FARM FORECLOSURES. Vigilante groups formed to intimidate bill collectors. In Le Mars, Iowa, an angry mob beat a foreclosing judge to the brink of death in April 1933.
+Another major problem faced by American farmers was mortgage foreclosure. +
+Unable to make the monthly payments, many farmers were losing their property to their banks. +
+Across the CORN BELT of the Midwest, the situation grew desperate. +
+Farmers pooled resources to bail out needy friends. +
+Minnesota and North Dakota passed laws restricting FARM FORECLOSURES. +
+Vigilante groups formed to intimidate bill collectors. +
+In Le Mars, Iowa, an angry mob beat a foreclosing judge to the brink of death in April 1933.
+
+[.my2]
 美国农民面临的另一个主要问题是"抵押贷款"丧失"赎回权"。由于无力支付月供，许多农民的财产都被银行收走了。在中西部的玉米带，情况变得令人绝望。农民们集中资源, 来救助有需要的朋友。明尼苏达州和北达科他州, 通过了"限制农场丧失抵押品赎回权"的法律。自发组织的团体成立，以威胁讨债人。1933年4月，在爱荷华州的勒玛斯，一群愤怒的暴民, 把一位取消"抵押品赎回权"的法官打得奄奄一息。
 
-FDR intended to stop the madness. The FARM CREDIT ACT, passed in March 1933 refinanced many mortgages in danger of going unpaid. The FRAZIER-LEMKE FARM BANKRUPTCY ACT allowed any farmer to buy back a lost farm at a law price over six years at only one percent interest. Despite being declared unconstitutional, most of the provisions of Frazier-Lemke were retained in subsequent legislation.
+FDR intended to stop the madness. +
+The FARM CREDIT ACT, passed in March 1933 refinanced many mortgages in danger of going unpaid. +
+The FRAZIER-LEMKE FARM BANKRUPTCY ACT allowed any farmer to buy back a lost farm at a law price over six years at only one percent interest. +
+Despite being declared unconstitutional, most of the provisions of Frazier-Lemke were retained in subsequent legislation.
+
+[.my2]
 罗斯福想要阻止这种疯狂的行为。1933年3月通过的《农业信贷法案》(FARM CREDIT ACT), 为许多有可能无法偿还的抵押贷款, 提供了再融资。弗雷泽-莱姆克农场破产法, 允许任何农民在六年内, 以法定价格回购失去的农场，利率仅为1%。尽管被宣布"违宪"，弗雷泽-莱姆克的大部分条款, 在随后的立法中被保留。
 
-In 1933 only about one out of every ten American farms was powered by electricity. The RURAL ELECTRIFICATION AUTHORITY addressed this pressing problem. The government embarked on a mission of getting electricity to the nation's farms. Faced with government competition, private utility companies sprang into action and by sending power lines to rural areas with a speed previously unknown. By 1950, nine out of every ten farms enjoyed the benefits of electric power.
+In 1933 only about one out of every ten American farms was powered by electricity. +
+The RURAL ELECTRIFICATION AUTHORITY addressed this pressing problem. +
+The government embarked on a mission of getting electricity to the nation's farms. +
+Faced with government competition, private utility companies sprang into action and by sending power lines to rural areas with a speed previously unknown. +
+By 1950, nine out of every ten farms enjoyed the benefits of electric power.
+
+[.my2]
 1933年，只有十分之一的美国农场, 是由电力驱动的。农村电气化管理局, 解决了这个紧迫的问题。政府开始了一项"为全国农场供电"的任务。面对政府的竞争，私营公用事业公司迅速采取行动，以前所未有的速度向农村地区输送电线。到1950年，每10个农场中就有9个, 享受到了电力的好处。
 
 '''
@@ -192,27 +376,66 @@ In 1933 only about one out of every ten American farms was powered by electricit
 
 
 Social Security not only directly aided those who had retired and widows and orphans of insured workers, but it also encouraged states to provide more far-reaching social assistance programs.
+
+[.my2]
 社会保障不仅直接援助"退休人员"和"参保工人"的寡妇和孤儿，而且还鼓励各州提供更广泛的社会援助计划。
 
-PENSIONS for the retired or the notion of Social Security was not always the domain of the federal government. Individuals were expected to save a little of each paycheck for the day they would at last retire. Those who were aggressive enough to negotiate a pension plan with an employer were few indeed. The majority of working Americans, however, lived check to check, with little or nothing extra to be saved for the future. Many became a drag on the rest of the family upon retirement. The SOCIAL SECURITY ACT OF 1935 aimed to improve this predicament.
+PENSIONS for the retired or the notion of Social Security was not always the domain of the federal government. +
+Individuals were expected to save a little of each paycheck for the day they would at last retire. +
+Those who were aggressive enough to negotiate a pension plan with an employer were few indeed. +
+The majority of working Americans, however, lived check to check, with little or nothing extra to be saved for the future. +
+Many became a drag on the rest of the family upon retirement. +
+The SOCIAL SECURITY ACT OF 1935 aimed to improve this predicament.
+
+[.my2]
 **退休人员养老金, 或社会保障概念, 并不总是联邦政府的管辖范围。**人们预计会自己从每份工资中存下一小部分，以备最终退休之日使用。那些积极主动与雇主谈判养老金计划的人, 确实很少。然而，大多数美国工人都过着支票般的生活，几乎没有或根本没有多余的钱, 可以为未来储蓄。许多人退休后, 成为家庭其他成员的拖累。 *1935 年的《社会保障法》旨在改善这一困境。*
 
-Many nations in Europe had already experimented with pension plans. Britain and Germany had found exceptional success. The American plan was a bit different in its design. SOCIAL SECURITY was described as a "contract between generations." The current generation of workers would pay into a fund while the retirees would take in a monthly stipend. Upon reaching the age of 65, individuals would start receiving payments based upon the amount contributed over the years.
+Many nations in Europe had already experimented with pension plans. +
+Britain and Germany had found exceptional success. +
+The American plan was a bit different in its design. +
+SOCIAL SECURITY was described as a "contract between generations." The current generation of workers would pay into a fund while the retirees would take in a monthly stipend. +
+Upon reaching the age of 65, individuals would start receiving payments based upon the amount contributed over the years.
+
+[.my2]
 **欧洲许多国家, 已经尝试了养老金计划。**英国和德国取得了非凡的成功。美国的计划在设计上有点不同。社会保障被描述为“代际契约”(现收现付)。当前一代的工人, 将向基金缴纳费用，而退休人员, 则每月领取津贴。年满 65 岁后，个人将开始根据多年来缴纳的金额, 领取付款。
 
 
 
-Employees would have one percent of their incomes automatically deducted from their paychecks, a rate that was originally envisioned to reach 3%. Employers would also contribute for their employees. The plan was mandatory except for individuals in exempted professions. Roosevelt knew that this reform would be permanent. He guessed that once workers had paid into a system for decades, they would expect to receive their checks. Woe to the politician who tried to end the system once it was in place.
+Employees would have one percent of their incomes automatically deducted from their paychecks, a rate that was originally envisioned to reach 3%. +
+Employers would also contribute for their employees. +
+The plan was mandatory except for individuals in exempted professions. +
+Roosevelt knew that this reform would be permanent. +
+He guessed that once workers had paid into a system for decades, they would expect to receive their checks. +
+Woe to the politician who tried to end the system once it was in place.
+
+[.my2]
 员工收入的 1% , 将自动从工资中扣除，这一比例最初预计达到 3%。雇主也会为雇员做出贡献。但"被豁免行业"中的个人外，该计划是强制性的。罗斯福知道, 这项改革将是永久性的。他猜测，一旦工人们在系统中缴纳了数十年的费用，他们就会期望收到支票。那些试图在制度建立后就结束它的政治家有祸了。
 
 President Roosevelt signing Social Security Act
-President Roosevelt signed the Social Security Act into law in 1935. Designed to pay retired workers age 65 or older a continuing income after retirement, this act helped Americans breathe easier about their futures.
+President Roosevelt signed the Social Security Act into law in 1935. +
+Designed to pay retired workers age 65 or older a continuing income after retirement, this act helped Americans breathe easier about their futures.
+
+[.my2]
 **罗斯福总统于 1935 年签署《社会保障法》成为法律。该法案旨在向 65 岁或以上的退休工人, 提供退休后的持续收入，**帮助美国人对自己的未来感到更加轻松。
 
-A committee of staffers led by SECRETARY OF LABOR FRANCES PERKINS, the first female ever to hold a Cabinet position, penned the Social Security Act. In addition to providing old- age pensions, the legislation created a safety net for other Americans in distress. Unemployment insurance was part of the plan, to be funded by employers. The federal government also offered to match state funds for the blind and for job training for the physically disabled. Unmarried women with dependent children also received funds under the Social Security Act.
+A committee of staffers led by SECRETARY OF LABOR FRANCES PERKINS, the first female ever to hold a Cabinet position, penned the Social Security Act. +
+In addition to providing old- age pensions, the legislation created a safety net for other Americans in distress. +
+Unemployment insurance was part of the plan, to be funded by employers. +
+The federal government also offered to match state funds for the blind and for job training for the physically disabled. +
+Unmarried women with dependent children also received funds under the Social Security Act.
+
+[.my2]
 由第一位担任内阁职务的女性劳工部长弗朗西斯·帕金斯, 领导的工作人员委员会, 起草了《社会保障法》。除了提供养老金之外，该立法还为其他陷入困境的美国人, 建立了安全网。"失业保险"是该计划的一部分，由雇主提供资金。联邦政府还提出为盲人提供配套的国家资金，并为身体残疾人, 提供职业培训资金。有受抚养子女的未婚妇女, 也根据《社会保障法》获得资金。
 
-Roosevelt and his advisers knew that the Social Security Act was not perfect. Like other experiments, he hoped the law would set the groundwork for a system that could be refined over time. Social Security differed from European plans in that it made no effort to provide universal health insurance. The pensions that retirees received were extremely modest — below poverty level standards in most cases. Still, Roosevelt knew the plan was revolutionary. For the first time, the federal government accepted permanent responsibility for assisting people in need. It paved the way for future legislation that would redefine the relationship between the American people and their government.
+Roosevelt and his advisers knew that the Social Security Act was not perfect. +
+Like other experiments, he hoped the law would set the groundwork for a system that could be refined over time. +
+Social Security differed from European plans in that it made no effort to provide universal health insurance. +
+The pensions that retirees received were extremely modest — below poverty level standards in most cases. +
+Still, Roosevelt knew the plan was revolutionary. +
+For the first time, the federal government accepted permanent responsibility for assisting people in need. +
+It paved the way for future legislation that would redefine the relationship between the American people and their government.
+
+[.my2]
 **罗斯福和他的顾问知道, "社会保障法"并不完美。与其他实验一样，他希望该法律能为一个可以随着时间的推移不断完善的系统奠定基础。**社会保障与欧洲计划的不同之处在于, **它没有努力提供"全民健康保险"。退休人员收到的"养老金"极其有限——在大多数情况下, 低于贫困线标准。尽管如此，罗斯福知道这个计划是革命性的。**联邦政府首次承担了帮助有需要的人的永久责任。*它为未来重新定义"美国人民"与"政府"之间关系的立法, 铺平了道路。*
 
 '''
@@ -221,19 +444,39 @@ Roosevelt and his advisers knew that the Social Security Act was not perfect. Li
 
 
 In addition to setting a minimum wage and the maximum hours a person could work in a week, the National Recovery Administration outlawed child labor.
+
+[.my2]
 除了设定最低工资, 和每周工作的最长时数外，国家复兴管理局, 还禁止使用童工。
 
 The New Deal was clearly the most ambitious legislative program ever attempted by Congress and an American President.
+
+[.my2]
 "新政"显然是"国会"和"美国总统"有史以来尝试过的, 最雄心勃勃的立法计划。
 
-Progressive politicians saw their wildest dreams come alive. The Great Depression created an environment where the federal government accepted responsibility for curing a wide array of society's ills previously left to individuals, states, and local governments. This amount of regulation and involvement requires a vast upgrading of the government bureaucracy. An armada of government bureaus and regulatory agencies was erected to service the programs of the New Deal. Collectively, observers called them the "ALPHABET AGENCIES."
+Progressive politicians saw their wildest dreams come alive. +
+The Great Depression created an environment where the federal government accepted responsibility for curing a wide array of society's ills previously left to individuals, states, and local governments. +
+This amount of regulation and involvement requires a vast upgrading of the government bureaucracy. +
+An armada of government bureaus and regulatory agencies was erected to service the programs of the New Deal. +
+Collectively, observers called them the "ALPHABET AGENCIES."
+
+[.my2]
 进步的政客们, 看到他们最疯狂的梦想变成了现实。**大萧条创造了一种环境，联邦政府承担起责任来解决以前留给个人、州和地方政府的一系列社会弊病。如此大量的监管和参与, 需要对政府官僚机构进行大规模升级。政府部门和监管机构组成的舰队成立了 (即大政府)，**为新政计划提供服务。观察家将它们统称为“字母机构”。
 
-While the CCC, CWA, and WPA were established to provide relief for the unemployed, the New Deal also provided a program intended to boost both industries and working Americans. The National Industrial Recovery Act contained legislation designed to spark business growth and to improve labor conditions. The National Recovery Administration attempted to create a managed economy by relieving businesses of antitrust laws to eliminate "wasteful competition." The NRA, like the AAA for farmers, attempted to create artificial scarcity with commodities. The hope was that higher prices would yield higher profits and higher wages leading to an economic recovery.
+While the CCC, CWA, and WPA were established to provide relief for the unemployed, the New Deal also provided a program intended to boost both industries and working Americans. +
+The National Industrial Recovery Act contained legislation designed to spark business growth and to improve labor conditions. +
+The National Recovery Administration attempted to create a managed economy by relieving businesses of antitrust laws to eliminate "wasteful competition." The NRA, like the AAA for farmers, attempted to create artificial scarcity with commodities. +
+The hope was that higher prices would yield higher profits and higher wages leading to an economic recovery.
+
+[.my2]
 虽然 CCC、CWA 和 WPA 的设立, 是为了向失业者提供救济，但"新政"还提供了一项旨在促进工业和美国工薪阶层的计划。 《国家工业复苏法》包含旨在刺激商业增长, 和改善劳动条件的立法。"国家复苏管理局"试图通过免除企业的反垄断法, 来消除“浪费竞争”，从而创建一个受管理的经济。 NRA 与农民的 AAA 一样，试图用商品制造人为的稀缺性。人们希望更高的价格, 会带来更高的利润和更高的工资，从而导致经济复苏。
 
 
-To avoid charges of SOCIALISM, the NRA allowed each industry to draw up a code setting production quotas, limiting hours of operation, or restricting construction of new factories. Once the President approved each code, pressure was put on each business to comply. A PROPAGANDA campaign reminiscent of World War I ensued. Firms that participated in the NRA displayed blue eagles reminding consumers of a company's apparent patriotism.
+To avoid charges of SOCIALISM, the NRA allowed each industry to draw up a code setting production quotas, limiting hours of operation, or restricting construction of new factories. +
+Once the President approved each code, pressure was put on each business to comply. +
+A PROPAGANDA campaign reminiscent of World War I ensued. +
+Firms that participated in the NRA displayed blue eagles reminding consumers of a company's apparent patriotism.
+
+[.my2]
 为了避免被指责为"社会主义"，"全国复兴总署"允许每个行业制定"规定生产配额、限制营业时间, 或限制建设新工厂的法规"。一旦总统批准了每项准则，每个企业都会受到遵守的压力。随之而来的是一场让人想起第一次世界大战的宣传运动。参加全国步枪协会的公司展示了蓝鹰，提醒消费者该公司明显的爱国主义。
 
 
@@ -253,7 +496,14 @@ image:/img/us_nraflag.gif[,20%]
 
 ====
 
-To enlist the support of LABOR UNIONS, the NRA outlawed child labor, set maximum hours, and required a MINIMUM WAGE. The greatest victory for labor unions was the guarantee of the right to collective bargaining, which led to a dramatic upsurge in union membership. Unfortunately, the NRA did little to improve the economy. The increase in prices actually caused a slight slowdown in the recovery. Workers complained that participating industries found loopholes to violate minimum wage and child labor obligations. When the Supreme Court finally declared the NRA unconstitutional in 1936, many had taken to calling it the "National Run Around."
+To enlist the support of LABOR UNIONS, the NRA outlawed child labor, set maximum hours, and required a MINIMUM WAGE. +
+The greatest victory for labor unions was the guarantee of the right to collective bargaining, which led to a dramatic upsurge in union membership. +
+Unfortunately, the NRA did little to improve the economy. +
+The increase in prices actually caused a slight slowdown in the recovery. +
+Workers complained that participating industries found loopholes to violate minimum wage and child labor obligations. +
+When the Supreme Court finally declared the NRA unconstitutional in 1936, many had taken to calling it the "National Run Around."
+
+[.my2]
 为了争取工会的支持，"全国复兴总署" 禁止使用童工，规定了最长工作时间，并规定了最低工资。工会的最大胜利是保障了集体谈判权，工会成员急剧增加。不幸的是，"全国复兴总署"在改善经济方面收效甚微。物价的上涨实际上导致了复苏的轻微放缓。工人们抱怨说，参与的企业发现了违反最低工资和童工义务的漏洞。当最高法院最终在1936年宣布"全国复兴总署"违宪时，许多人开始称其为“国家性的回避问题”。
 
 [.my1]
@@ -265,24 +515,43 @@ To enlist the support of LABOR UNIONS, the NRA outlawed child labor, set maximum
 
 
 
-The government blazed other new trails by creating the TENNESSEE VALLEY AUTHORITY in May 1933. The geography of the Tennessee River Valley had long been a problem for its residents. Centuries of resource exploitation contributed to soil erosion and massive, unpredictable floods that left parts of seven states impoverished and underutilized.
+The government blazed other new trails by creating the TENNESSEE VALLEY AUTHORITY in May 1933. +
+The geography of the Tennessee River Valley had long been a problem for its residents. +
+Centuries of resource exploitation contributed to soil erosion and massive, unpredictable floods that left parts of seven states impoverished and underutilized.
+
+[.my2]
 1933 年 5 月，政府开辟了其他新途径，成立了田纳西河谷管理局。田纳西河谷的地理状况, 长期以来一直是其居民面临的一个问题。几个世纪的资源开采, 造成了水土流失和大规模、不可预测的洪水，导致七个州的部分地区陷入贫困, 且未得到充分利用。
 
-Funds were authorized to construct 20 new dams and to teach residents better soil management. The hydroelectric power generated by the TVA was sold to the public at low prices, prompting complaints from private power companies that the government was presenting unfair competition. Soon FLOOD CONTROL ceased to be a problem and FDR considered other regional projects.
+Funds were authorized to construct 20 new dams and to teach residents better soil management. +
+The hydroelectric power generated by the TVA was sold to the public at low prices, prompting complaints from private power companies that the government was presenting unfair competition. +
+Soon FLOOD CONTROL ceased to be a problem and FDR considered other regional projects.
+
+[.my2]
 资金被授权建造 20 座新水坝, 并教导居民更好的土壤管理。 TVA 生产的水力发电, 以低价出售给公众，引发私营电力公司抱怨政府存在不公平竞争。很快，防洪不再是一个问题，罗斯福考虑了其他区域项目。
 
-There seemed to be no end to the alphabet soup. The SECURITIES AND EXCHANGE COMMISSION (SEC) was created to serve as a watchdog on the stock market. The FEDERAL HOUSING AUTHORITY (FHA) provided low interest loans for new home construction. The HOME OWNERS LOAN CORPORATION (HOLC) allowed homeowners to refinance mortgages to prevent foreclosure or to make home improvements. The UNITED STATES HOUSING AUTHORITY (USHA) initiated the idea of government-owned low-income housing projects. The PUBLIC WORKS ADMINISTRATION (PWA) created thousands of jobs by authorizing the building of roads, bridges, and dams. The NATIONAL YOUTH ADMINISTRATION (NYA) provided college students with work-study jobs. The NATIONAL LABOR RELATIONS BOARD (NLRB) was designed to protect the right of collective bargaining and to serve as a liaison between deadlock industrial and labor organizations.
-字母汤似乎没有尽头。 +
+There seemed to be no end to the alphabet soup. +
+The SECURITIES AND EXCHANGE COMMISSION (SEC) was created to serve as a watchdog on the stock market. +
+The FEDERAL HOUSING AUTHORITY (FHA) provided low interest loans for new home construction. +
+The HOME OWNERS LOAN CORPORATION (HOLC) allowed homeowners to refinance mortgages to prevent foreclosure or to make home improvements. +
+The UNITED STATES HOUSING AUTHORITY (USHA) initiated the idea of government-owned low-income housing projects. +
+The PUBLIC WORKS ADMINISTRATION (PWA) created thousands of jobs by authorizing the building of roads, bridges, and dams. +
+The NATIONAL YOUTH ADMINISTRATION (NYA) provided college students with work-study jobs. +
+The NATIONAL LABOR RELATIONS BOARD (NLRB) was designed to protect the right of collective bargaining and to serve as a liaison between deadlock industrial and labor organizations.
 
+[.my2]
+字母汤似乎没有尽头。 +
 - 证券交易委员会 (SEC) 的成立, 是为了充当股票市场的监管机构。 +
-- 联邦住房管理局 (FHA) , 为新房建设提供低息贷款。
-- 房主贷款公司 (HOLC) , 允许房主为抵押贷款再融资，以防止丧失抵押品赎回权, 或改善房屋。
-- 美国住房管理局 (USHA) 提出了政府拥有的低收入住房项目的想法。
-- 公共工程管理局 (PWA) 通过授权修建道路、桥梁和水坝, 创造了数千个就业岗位。
-- 国家青年管理局（NYA）为大学生提供勤工俭学的工作。
+- 联邦住房管理局 (FHA) , 为新房建设提供低息贷款。 +
+- 房主贷款公司 (HOLC) , 允许房主为抵押贷款再融资，以防止丧失抵押品赎回权, 或改善房屋。 +
+- 美国住房管理局 (USHA) 提出了政府拥有的低收入住房项目的想法。 +
+- 公共工程管理局 (PWA) 通过授权修建道路、桥梁和水坝, 创造了数千个就业岗位。 +
+- 国家青年管理局（NYA）为大学生提供勤工俭学的工作。 +
 - 国家劳工关系委员会（NLRB）, 旨在保护集体谈判权，并充当陷入僵局的工业组织和劳工组织之间的联络人。
 
-Critics bemoaned the huge costs and rising national debt and spoon-feeding Americans. Regardless, many of the programs found in FDR's "alphabet soup" exist to this day.
+Critics bemoaned the huge costs and rising national debt and spoon-feeding Americans. +
+Regardless, many of the programs found in FDR's "alphabet soup" exist to this day.
+
+[.my2]
 批评人士哀叹高昂的成本、不断上升的国家债务, 和对美国人的溺爱。无论如何，罗斯福的“字母汤”中的许多项目, 一直存在至今。
 
 
@@ -291,16 +560,34 @@ Critics bemoaned the huge costs and rising national debt and spoon-feeding Ameri
 ==== Roosevelt's Critics 罗斯福的批评者
 
 
-FDR was a President, not a king. His goals were ambitious and extensive, and while he had many supporters, his enemies were legion. Liberals and radicals attacked from the left for not providing enough relief and for maintaining the fundamental aspects of capitalism. Conservatives claimed his policies were socialism in disguise, and that an interfering activist government was destroying a proud history of self-reliance.
+FDR was a President, not a king. +
+His goals were ambitious and extensive, and while he had many supporters, his enemies were legion. +
+Liberals and radicals attacked from the left for not providing enough relief and for maintaining the fundamental aspects of capitalism. +
+Conservatives claimed his policies were socialism in disguise, and that an interfering activist government was destroying a proud history of self-reliance.
+
+[.my2]
 **罗斯福是总统，而不是国王。他的目标雄心勃勃，范围广泛，虽然他有很多支持者，但他的敌人也很多。**自由派和激进派, 因没有提供足够的救济和维持资本主义的基本方面, 而受到左翼的攻击。保守派声称他的政策是伪装的"社会主义"，干涉的激进政府正在摧毁自力更生的光荣历史。
 
-Despite big numbers at the ballot booth, Roosevelt needed to temper his objectives with the spirit of compromise and hope that his plans were popular enough to weather criticism. Friends and enemies alike had to admit that FDR was a political genius.
+Despite big numbers at the ballot booth, Roosevelt needed to temper his objectives with the spirit of compromise and hope that his plans were popular enough to weather criticism. +
+Friends and enemies alike had to admit that FDR was a political genius.
+
+[.my2]
 尽管投票站的投票人数众多，**罗斯福仍需要以妥协的精神调整他的目标，并希望他的计划足够受欢迎, 以经受住批评。**朋友和敌人都不得不承认, 罗斯福是一位政治天才。
 
-Despite his reelection landslide, Roosevelt's mainstream opponents gained steam in the latter part of the decade. Frustrated by a conservative Supreme Court overturning New Deal initiatives, FDR hatched a "COURT PACKING" scheme. He proposed that when a federal judge reached the age of seventy and failed to retire, the President could add an additional justice to the bench. This thinly veiled scheme would immediately enable him to appoint six justices to the high court.
+Despite his reelection landslide, Roosevelt's mainstream opponents gained steam in the latter part of the decade. +
+Frustrated by a conservative Supreme Court overturning New Deal initiatives, FDR hatched a "COURT PACKING" scheme. +
+He proposed that when a federal judge reached the age of seventy and failed to retire, the President could add an additional justice to the bench. +
+This thinly veiled scheme would immediately enable him to appoint six justices to the high court.
+
+[.my2]
 尽管罗斯福在连任中取得了压倒性胜利，但他的主流对手, 在20世纪90年代后半段获得了支持。由于保守的最高法院推翻了新政的倡议，罗斯福感到沮丧，于是他策划了一个“打包法庭”计划。他提议，当一名联邦法官到了70岁还没有退休时，总统可以再增加一名法官。这个几乎不加掩饰的计划, 将使他能够立即任命六名最高法院法官。
 
-Conservative Democrats and Republicans charged FDR with abuse of power and failed to support the plan. During the 1938 Congressional elections, Roosevelt campaigned vigorously against anti-New deal Democrats. In nearly every case, the conservatives won. This COALITION OF SOUTHERN DEMOCRATS AND REPUBLICANS dominated the Congress until the 1960s and effectively ended the reform spirit of the New Deal.
+Conservative Democrats and Republicans charged FDR with abuse of power and failed to support the plan. +
+During the 1938 Congressional elections, Roosevelt campaigned vigorously against anti-New deal Democrats. +
+In nearly every case, the conservatives won. +
+This COALITION OF SOUTHERN DEMOCRATS AND REPUBLICANS dominated the Congress until the 1960s and effectively ended the reform spirit of the New Deal.
+
+[.my2]
 *保守的民主党和共和党, 指责罗斯福滥用权力，并且不支持该计划。 1938 年国会选举期间，罗斯福大力反对"反新政"的民主党人。几乎在所有情况下，保守派都获胜。这个南方民主党和共和党的联盟, 一直主导国会直到 20 世纪 60 年代，有效地结束了"新政"的改革精神。*
 
 '''
@@ -308,7 +595,10 @@ Conservative Democrats and Republicans charged FDR with abuse of power and faile
 === An Evaluation of the New Deal 新政评估
 
 
-At the time of its construction during the Great Depression, the Hoover Dam was the largest in the world. To this day, it uses the power of the Colorado River to electrify the region.
+At the time of its construction during the Great Depression, the Hoover Dam was the largest in the world. +
+To this day, it uses the power of the Colorado River to electrify the region.
+
+[.my2]
 在大萧条时期建造时，胡佛水坝是世界上最大的水坝。直到今天，它仍在利用科罗拉多河的电力, 为该地区供电。
 
 
@@ -316,7 +606,8 @@ At the time of its construction during the Great Depression, the Hoover Dam was 
 .案例
 ====
 .Hoover Dam 胡佛水坝
-为美国最大的水坝. 该坝于1931年由第三十一任总统赫伯特·胡佛, 为化解美国大萧条以来的困境, 及加速西南部地区的繁荣，而兴建。
+为美国最大的水坝. +
+该坝于1931年由第三十一任总统赫伯特·胡佛, 为化解美国大萧条以来的困境, 及加速西南部地区的繁荣，而兴建。
 
 image:/img/Hoover Dam 1.png[,20%]
 image:/img/Hoover Dam 2.png[,20%]
@@ -325,27 +616,60 @@ image:/img/Hoover Dam 3.png[,20%]
 
 
 How effective was the New Deal at addressing the problems of the Great Depression?
+
+[.my2]
 "新政"在解决大萧条问题方面, 效果如何？
 
-No evaluation of the New Deal is complete without an analysis of Roosevelt himself. As a leader, his skills were unparalleled. Desperate times called for desperate measures, and FDR responded with a bold program of experimentation that arguably saved the capitalist system and perhaps the American democracy. As sweeping as his objectives were, they still fundamentally preserved the free-market economy. There was no nationalization of industry, and the social safety net created by Social Security paled by European standards.
+No evaluation of the New Deal is complete without an analysis of Roosevelt himself. +
+As a leader, his skills were unparalleled. +
+Desperate times called for desperate measures, and FDR responded with a bold program of experimentation that arguably saved the capitalist system and perhaps the American democracy. +
+As sweeping as his objectives were, they still fundamentally preserved the free-market economy. +
+There was no nationalization of industry, and the social safety net created by Social Security paled by European standards.
+
+[.my2]
 如果不分析罗斯福本人，对"新政"的评价就是不完整的。作为一个领导者，他的技能是无与伦比的。绝望的时代需要绝望的措施，**罗斯福以一项大胆的实验计划作为回应，这可以说拯救了"资本主义制度"，也许还拯救了"美国民主"。**尽管他的目标很广泛，但**它们仍然从根本上维护了自由市场经济。工业没有被国有化，社会保障建立的社会安全网, 与欧洲标准相形见绌。**
 
-Observers noted that his plan went far enough to silence the "lunatic fringe," but not far enough to jeopardize capitalism or democracy. FDR's confidence was contagious as millions turned to him for guidance during their darkest hours. His mastery of the radio paved the way for the media-driven 20th-century Presidency. His critics charged that he abused his power and set the trend for an imperial Presidency that would ultimately endanger the office in future decades.
+Observers noted that his plan went far enough to silence the "lunatic fringe," but not far enough to jeopardize capitalism or democracy. +
+FDR's confidence was contagious as millions turned to him for guidance during their darkest hours. +
+His mastery of the radio paved the way for the media-driven 20th-century Presidency. +
+His critics charged that he abused his power and set the trend for an imperial Presidency that would ultimately endanger the office in future decades.
+
+[.my2]
 观察家指出，他的计划足以让“疯狂的边缘群体”保持沉默，但还不足以危及资本主义或民主。罗斯福的信心具有感染力，数百万人在最黑暗的时刻, 向他寻求指导。他对广播的精通, 为20世纪媒体驱动的总统之路, 铺平了道路。他的批评者指责他滥用权力，并为"帝王式"总统制度树立了趋势，最终将在未来几十年危及总统职位。
 
 
-The New Deal itself created millions of jobs and sponsored public works projects that reached most every county in the nation. Federal protection of bank deposits ended the dangerous trend of bank runs. Abuse of the stock market was more clearly defined and monitored to prevent collapses in the future. The Social Security system was modified and expanded to remain one of the most popular government programs for the remainder of the century. For the first time in peacetime history the federal government assumed responsibility for managing the economy. The legacy of social welfare programs for the destitute and underprivileged would ring through the remainder of the 1900s.
+The New Deal itself created millions of jobs and sponsored public works projects that reached most every county in the nation. +
+Federal protection of bank deposits ended the dangerous trend of bank runs. +
+Abuse of the stock market was more clearly defined and monitored to prevent collapses in the future. +
+The Social Security system was modified and expanded to remain one of the most popular government programs for the remainder of the century. +
+For the first time in peacetime history the federal government assumed responsibility for managing the economy. +
+The legacy of social welfare programs for the destitute and underprivileged would ring through the remainder of the 1900s.
+
+[.my2]
 "新政"本身创造了数百万个就业机会，并资助了覆盖全国几乎每个县的公共工程项目。联邦对银行存款的保护, 结束了"银行挤兑"的危险趋势。对股票市场的滥用行为, 进行了更明确的定义和监控，以防止未来崩溃。*社会保障体系经过修改和扩大，在本世纪余下的时间里, 仍然是最受欢迎的政府计划之一。联邦政府在和平时期历史上, 首次承担起管理经济的责任*。针对赤贫者和弱势群体的社会福利计划的遗产, 将贯穿 1900 年代剩余的时间。
 
-Laborers benefited from protections as witnessed by the emergence of a new powerful union, the CONGRESS OF INDUSTRIAL ORGANIZATIONS. African Americans and women received limited advances by the legislative programs, but FDR was not fully committed to either civil or women's rights. All over Europe, fascist governments were on the rise, but Roosevelt steered America along a safe path when economic spirits were at an all-time low.
+Laborers benefited from protections as witnessed by the emergence of a new powerful union, the CONGRESS OF INDUSTRIAL ORGANIZATIONS. +
+African Americans and women received limited advances by the legislative programs, but FDR was not fully committed to either civil or women's rights. +
+All over Europe, fascist governments were on the rise, but Roosevelt steered America along a safe path when economic spirits were at an all-time low.
+
+[.my2]
 劳动者受益于保护，一个新的强大工会——"工业组织大会"的出现, 就证明了这一点。非裔美国人和妇女通过立法计划, 获得了有限的进步，但罗斯福并没有完全致力于公民权利或妇女权利。在整个欧洲，法西斯政府正在崛起，但罗斯福在经济精神处于历史最低点时, 带领美国走上了一条安全的道路。
 
-However comprehensive the New Deal seemed, it failed to achieve its main goal: ending the Depression. In 1939, the unemployment rate was still 19 percent, and not until 1943 did it reach its pre-Depression levels. The massive spending brought by the American entry to the Second World War ultimately cured the nation's economic woes.
+However comprehensive the New Deal seemed, it failed to achieve its main goal: ending the Depression. +
+In 1939, the unemployment rate was still 19 percent, and not until 1943 did it reach its pre-Depression levels. +
+The massive spending brought by the American entry to the Second World War ultimately cured the nation's economic woes.
+
+[.my2]
 *无论"新政"看起来多么全面，它都未能实现其主要目标：结束大萧条。 1939年，失业率仍为19%，直到1943年才达到大萧条前的水平。美国加入第二次世界大战带来的巨额支出, 最终治愈了国家的经济困境。*
 
 
 
-Conservatives bemoaned a bloated bureaucracy that was nearly a million workers strong, up from just over 600,000 in 1932. They complained that Roosevelt more than doubled the national debt in two short terms, a good deal of which had been lost through waste. Liberals pointed out that the gap between rich and poor was barely dented by the end of the decade. Regardless of its shortcomings, Franklin Roosevelt and the New Deal helped America muddle through the dark times strong enough to tackle the even greater task that lay ahead.
+Conservatives bemoaned a bloated bureaucracy that was nearly a million workers strong, up from just over 600,000 in 1932. +
+They complained that Roosevelt more than doubled the national debt in two short terms, a good deal of which had been lost through waste. +
+Liberals pointed out that the gap between rich and poor was barely dented by the end of the decade. +
+Regardless of its shortcomings, Franklin Roosevelt and the New Deal helped America muddle through the dark times strong enough to tackle the even greater task that lay ahead.
+
+[.my2]
 **保守派哀叹臃肿的官僚机构，**工人人数从 1932 年的略多于 60 万, 增加到近 100 万。**他们抱怨罗斯福在两个短期内, 将国家债务增加了一倍多，**其中很大一部分因浪费而损失了。自由主义者指出，到本世纪末，贫富差距几乎没有缩小。*不管有什么缺点，富兰克林·罗斯福和"新政"帮助美国度过了黑暗时期，足以应对摆在面前的更艰巨的任务。*
 
 
