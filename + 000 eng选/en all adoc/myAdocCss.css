@@ -19,6 +19,7 @@
     border-color: var(--myGrayColor2);
     border-width: 1px;
     padding: 10px;
+    margin-left: 20%;
 }
 
 
@@ -28,6 +29,7 @@
     /* 设置my1类的 字号大小 */
     color: var(--myGrayColor2);
     margin-block-start: -1.2em;
+    margin-left: 20%;
 }
 
 
@@ -39,6 +41,9 @@
 
 }
 
+.underline{
+    text-decoration:underline;
+}
 
 .title {
     border-top: dashed 1px var(--myGrayColor2);

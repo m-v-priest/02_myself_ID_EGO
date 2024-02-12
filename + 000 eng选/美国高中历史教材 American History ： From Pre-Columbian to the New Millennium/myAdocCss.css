@@ -33,6 +33,19 @@
 }
 
 
+
+/* my1类, 专门用于表格 */
+.my3 {
+    font-size: 12;
+    /* 设置my1类的 字号大小 */
+    background-color: var(--myGrayColor);
+    border-style: solid;
+    border-color: var(--myGrayColor2);
+    border-width: 1px;
+    padding: 10px;
+    /* margin-left: 20%;*/
+}
+
 .myRed {
     color: white;
     /* 白色字体 */
@@ -41,6 +54,9 @@
 
 }
 
+.underline{
+    text-decoration:underline;
+}
 
 .title {
     border-top: dashed 1px var(--myGrayColor2);
