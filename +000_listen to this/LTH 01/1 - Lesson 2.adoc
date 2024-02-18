@@ -1,6 +1,11 @@
 
 = Lesson 2
-:toc:
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../../+ 000 eng选/美国高中历史教材 American History ： From Pre-Columbian to the New Millennium/myAdocCss.css
+
+'''
 
 ---
 
@@ -33,11 +38,11 @@ Dialogue 3:
 
 Dialogue 4:
 
-—What are you doing in Cairo? +
+—What are you doing in Cairo 埃及首都? +
 —I'm visiting my parents. +
 —Really!
 
-- Cairo 埃及首都
+
 
 ---
 
@@ -58,13 +63,19 @@ Dialogue 6:
 
 Dialogue 7:
 
-—Thanks a lot for putting me up. +
+—Thanks a lot for *putting me up* 留某人住在家中. +
 —That's OK. +
 —Do come and see me when you're in New York. +
 —Sure. That'll be great.
 
-- PUT SB UP 留某人住在家中 +
+[.my1]
+.案例
+====
+
+.PUT SB UP
+留某人住在家中 +
 -> We can *put you up* for the night. 今晚我们可以留你过夜。
+====
 
 
 ---
@@ -96,63 +107,71 @@ Dialogue 10:
 
 ==== Section 2
 
-A. Conversation.
+(A.) Conversation （非正式）交谈，谈话.
 
-Male: Pubs? You must have good people. If the people are good, the pub will be good. +
+Male: Pubs 酒吧；酒馆? You must have good people. If the people are good, the pub will be good. +
 
-Male: You must have a good landlord, and people with a sense of humor behind the bar. If the landlord is bad, the pub will be bad. +
+Male: You must have a good landlord （酒吧或招待所的）店主，老板, and people with a sense of humor behind the bar. If the landlord is bad, the pub will be bad. +
 
 Female: I love old pubs. If it's one of those modern places, I won't go in. +
 
 Male: And a good pub must have good beer. If the beer's no good, people will look for another place. +
 
-Female: I won't go if there isn't a garden. I have children, and if the pub doesn't have a garden or family room, we can't go in.
+Female: I won't go if there isn't a garden. I have children, and if the pub doesn't have a garden or *family room* 家庭娱乐室;（英国小酒吧里的）儿童休息室, we can't *go in* 进入室内；进去.
 
-- conversation ~ (with sb) (about sth) （非正式）交谈，谈话
-- pub 酒吧；酒馆
-- landlord （酒吧或招待所的）店主，老板 /a person or company from whom you rent a room, a house, an office, etc. 业主；地主；房东
-- family room : a room in a hotel for three or four people to sleep in, especially parents and children （旅馆的）家庭间 / a room in a house where the family can relax, watch television, etc. 家庭娱乐室 / （英国小酒吧里的）儿童休息室
-- go in 进入室内；进去
-
+[.my1]
+.案例
+====
+.conversation
+~ (with sb) (about sth) （非正式）交谈，谈话
+====
 
 ---
 
 B.
 Story.
 
-My grandfather used to have a beautiful gold pocket watch. He wore it on a fine gold chain across the front of his waistcoat, and when I was small he promised to leave it to me in his will.
+My grandfather used to have a beautiful gold *pocket watch* 怀表；表袋. He wore it on a fine gold chain across the front of his waistcoat （西服的）背心; 马甲, and when I was small he promised to leave it to me in his will.
 
 "When I'm gone," he said, "this is going to be yours."
 
-Unfortunately that will never happen now. About three months ago, my grandfather *came up to* London to visit us. The first Sunday morning after he arrived, my youngest son said he wanted to go to the park.
+Unfortunately that will never happen now. About three months ago, my grandfather *came up to* （从…）上到（通常指从一国的南部到北部，或从小地方到大地方） London to visit us. The first Sunday morning after he arrived, my youngest son said he wanted to go to the park.
 
-"We'll do better than that," said my grandfather, "we'll go and feed(v.) the pigeons in Trafalgar Square." So off they went. They got home about tea-time and my grandfather was looking very upset.
+"We'll do better than that," said my grandfather, "we'll go and feed(v.) the pigeons 鸽子 in Trafalgar Square." So off they went. They *got home* 到家, 回到家 about tea-time 下午茶时间；休息时间 and my grandfather was looking very upset (a.)难过；不高兴；失望；沮丧.
 
 "My watch," he said, "it's gone. Someone must have stolen it while we were feeding the pigeons."
 
+[.my1]
+.案例
+====
 
-- pocket watch 怀表；表袋
-- waistcoat : ( BrE ) ( NAmE vest ) a short piece of clothing with buttons down the front but no sleeves, usually worn over a shirt and under a jacket, often forming part of a man's suit （西服的）背心; 马甲
+.waistcoat
+( BrE ) ( NAmE vest ) a short piece of clothing with buttons down the front but no sleeves, usually worn over a shirt and under a jacket, often forming part of a man's suit （西服的）背心; 马甲
 
-image:../img/waistcoat.png[]
+image:../img/waistcoat.png[,10%]
 
-- Be gone(a.)  和 have gone(v.) 都可以表示“已经走了”.
-- Be going to be 将要成为，变成...。
+.Be gone(a.)  和 have gone(v.)
+都可以表示“已经走了”.
 
-- come up (to...) (from...)  （从…）上到（通常指从一国的南部到北部，或从小地方到大地方） +
+.Be going to be
+将要成为，变成...。
+
+.come up (to...) (from...)
+（从…）上到（通常指从一国的南部到北部，或从小地方到大地方） +
 -> Why don't you *come up to* Scotland for a few days? 你为何不上苏格兰来住几天？
 
-- pigeon 鸽子
-- go off 离开（尤指去做某事） +
+
+
+.go off 离开（尤指去做某事） +
 -> She went off to get a drink. 她拿饮料去了。
 - go off with sth : to take away from a place sth that does not belong to you 携他人之物而去 +
 -> He went off with $10 000 of the company's money. 他卷走了公司1万元钱。
-- go off with sb  抛弃原有伴侣等, 而与另外的某人相好；与某人私奔
 
-- get home 到家, 回到家
-- tea-time 下午茶时间；休息时间
-- upset (a.)~ (about sth)~ (that...) unhappy or disappointed because of sth unpleasant that has happened 难过；不高兴；失望；沮丧
+.go off with sb
+抛弃原有伴侣等, 而与另外的某人相好；与某人私奔
 
+
+====
 
 
 ---
@@ -162,12 +181,11 @@ image:../img/waistcoat.png[]
 Dictation.
 
 Dictation 1: +
-My name is Daniel. I am French. I live in a small town. I work in a hotel, but I do not *live in* the hotel. I live with my parents. My home is near the hotel, so I walk to work every day.
-
--  live in : (v.)(of an employee, as in a hospital or hotel) to dwell at one's place of employment (在所工作单位)留宿
+My name is Daniel. I am French. I live in a small town. I work in a hotel, but I do not *live in*  (在所工作单位)留宿 the hotel. I live with my parents. My home is near the hotel, so I walk to work every day.
 
 
----
+
+
 
 Dictation 2: +
 There is some sugar, there is some coffee and there is a lot of tea, but there is not much jam. There are some tomatoes, but there are not any eggs or biscuits and there is not much milk. So we want jam, eggs, biscuits and milk.

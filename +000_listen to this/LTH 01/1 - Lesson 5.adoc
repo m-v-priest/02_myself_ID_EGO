@@ -1,17 +1,22 @@
 
 = Lesson 5
-:toc:
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../../+ 000 eng选/美国高中历史教材 American History ： From Pre-Columbian to the New Millennium/myAdocCss.css
+
+'''
 
 ---
 
 
 == Section 1
 
-1. Listen to the recording and fill in the missing words.
+(1.) Listen to the recording and fill in the missing words.
 
-Instructor: Listen to these people. They are all taking things to be repaired. Of course, they want to know how much it will cost and how long it will take. Listen to their questions and write the answers you hear. Here is an example.
+Instructor 教练；导师 ;（大学）讲师: Listen to these people. They are all taking things to be repaired. Of course, they want to know /how much it will cost /and how long it will take. Listen to their questions and write the answers you hear. Here is an example.
 
-Woman: How much will it cost to repair this typewriter? +
+Woman: How much will it cost /to repair this typewriter 打字机? +
 Male Assistant: About a pound. +
 Woman: That's not bad. But how long will it take? +
 Male Assistant: Only about a week.
@@ -21,23 +26,26 @@ Instructor: Look at the answers the assistant gives his customer. The first answ
 a pound.' The second answer is 'about a week.' Now listen to these dialogues and write
 the missing words in your book.
 
-- instructor 教练；导师 /（大学）讲师
-- typewriter 打字机
+
 
 
 ---
 
 ==== Dialogue A:
 
-Man: Can you give me an estimate to repair this bicycle? +
+Man: Can you give me an estimate （对数量、成本等的）估计；估价 to repair this bicycle? +
 Female Assistant: I think it'll cost about twelve or thirteen pounds. +
 Man: And how long will it take? +
-Female Assistant: A fortnight, more or less.
+Female Assistant: A fortnight 两星期, *more or less* 或多或少, 差不多.
 
-- estimate (v.)(n.)（对数量、成本等的）估计；估价
--> a ballpark estimate (= an approximate estimate) 大致相近的估计
-- fortnight  : ( BrE ) two weeks 两星期 => 即fourteen night
-- more or less 或多或少, 差不多
+[.my1]
+.案例
+====
+
+.fortnight
+( BrE ) two weeks 两星期 => 即fourteen night
+====
+
 
 
 
@@ -45,12 +53,19 @@ Female Assistant: A fortnight, more or less.
 
 ==== Dialogue B:
 
-Woman: Would you have a look at this television set, please? +
+Woman: Would you have a look at this *television set*  电视机; 电视接收机, please? +
 Female Assistant: Yes, of course. Hmmm. How long have you had it? +
 Woman: About eight years. Can you tell me how much it'll cost to repair it? +
 Female Assistant: Well, the set's very old. It'll cost about fifty pounds. It's cheaper to buy a new one.
 
-- television set 电视机; 电视接收机. television set 指的是电视机这个设备; 而television 除了电视机，还可以指电视节目、电视业等
+[.my1]
+.案例
+====
+
+.television set
+电视机; 电视接收机.  +
+television set 指的是电视机这个设备; 而television 除了电视机，还可以指电视节目、电视业等
+====
 
 ---
 
@@ -70,15 +85,19 @@ Instructor: Listen again to the customer from the typewriter shop. He thinks twe
 
 ==== Dialogue D:
 
-Tony: Hello, Bob. What's that heavy parcel you're carrying? +
+Tony: Hello, Bob. What's that heavy parcel 包裹；小包 you're carrying? +
 Bob: It's my old typewriter. I've just been to the shop. The assistant says it'll cost about twenty pounds to repair. +
 Tony: That's rather a lot. What are you going to do? +
 Bob: Well, you've got several typewriters. Could you lend me one? +
 Tony: I'll have to think about it. +
 
-- parcel : ( especially BrE ) ( NAmE usually also pack·age ) something that is wrapped in paper or put into a thick envelope so that it can be sent by mail, carried easily, or given as a present 包裹；小包
+[.my1]
+.案例
+====
 
-image:../img/parcel.jpg[]
+.parcel
+image:../img/parcel.jpg[,20%]
+====
 
 
 ---
@@ -125,9 +144,9 @@ letter H in box 2. Here is some help. We wear them.
 Male: Number 3: Put the letter J in box 1. Put the letter I in box 3. Put the letter C in box 4. Here is some help. We drink it.
 
 Female: Number 4: Put the letter S in box 5. Put the letter L in box 3. Now put the same
-letter in box 4. Here is some help. We pay them.
+letter in box 4. Here is some help. We pay (v.)付费；付酬 them.
 
-- pay (v.)~ (sb) (for sth) 付费；付酬
+
 
 Female: Number 5: Put the letter C in box 1. Put the letter K in box 5. The clue: We hear it.
 
