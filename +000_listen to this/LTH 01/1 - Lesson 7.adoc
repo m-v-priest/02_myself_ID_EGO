@@ -1,6 +1,11 @@
 
 = Lesson 7
-:toc:
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../../+ 000 eng选/美国高中历史教材 American History ： From Pre-Columbian to the New Millennium/myAdocCss.css
+
+'''
 
 ---
 
@@ -65,11 +70,11 @@ Dialogue 6:
 Dialogue 7:
 
 —What are you looking at? +
-—I'm looking at a photograph. +
+—I'm looking at a photograph 照片；相片. +
 —Is it interesting? +
 —Yes, it's a picture of my girlfriend.
 
-- photograph 照片；相片
+
 
 ---
 
@@ -80,19 +85,17 @@ Dialogue 8:
 —Are there any bananas, then? +
 —Yes. There are plenty of bananas.
 
-- kitchen 厨房
+
 
 ---
 
 Dialogue 9:
 
 —I want some butter, please. +
-—How much do you want, Madam? +
+—How much do you want, Madam 夫人；女士? +
 —Half a pound, please. +
 —Thank you, Madam.
 
-- butter 黄油；奶油
-- Madam : used when speaking or writing to a woman in a formal or business situation 夫人；女士
 
 ---
 
@@ -117,12 +120,10 @@ Dialogue 11:
 Dialogue 12:
 
 —What does your friend do? +
-—He is a bank clerk. +
+—He is a bank clerk 职员；簿记员；文书; 旅馆服务台接待员. +
 —Where does he work? +
 —At the Middleland Bank in Birmingham.
 
-- clerk : a person whose job is to keep the records or accounts in an office, shop/store etc. 职员；簿记员；文书 /  a person whose job is dealing with people arriving at or leaving a hotel 旅馆服务台接待员 +
-=> 来自clergy,神职人员。因为旧时大多数人是不识字的，神职人员在履行神职的同时，也从事 一些记帐记录之事，因此引申此词义。
 
 
 ---
@@ -131,11 +132,17 @@ Dialogue 13:
 
 —Do you like your apple? +
 —Yes. It's nice and sweet. Is yours sweet, too? +
-—No. Mine is rather sour. +
+—No. Mine is rather （常用于表示轻微的批评、失望或惊讶）相当，在某种程度上 sour. +
 —Oh, I'm sorry about that.
 
-- rather （常用于表示轻微的批评、失望或惊讶）相当，在某种程度上 +
+[.my1]
+.案例
+====
+
+.rather
+（常用于表示轻微的批评、失望或惊讶）相当，在某种程度上 +
 -> He looks rather like his father. 他看上去很像他的父亲。
+====
 
 
 ---
@@ -143,17 +150,22 @@ Dialogue 13:
 Dialogue 14:
 
 —Can I help you, Madam? +
-—Yes. I want to see some cardigans. +
+—Yes. I want to see some cardigans （无领）开襟毛衣. +
 —What size do you take, Madam? +
-—About fourteen inches, I think.
+—About fourteen inches 英寸, I think.
 
-- cardigan : ( NAmE also ˌcardigan ˈsweater ) a knitted jacket made of wool, usually with no collar and fastened with buttons at the front （无领）开襟毛衣 +
-=> cardigan 是用精纺毛线编织的男、女长袖无领短上衣或背心、开襟，系扣或系带子。
+[.my1]
+.案例
+====
+.cardigan
+( NAmE also ˌcardigan ˈsweater ) a knitted jacket made of wool, usually with no collar and fastened with buttons at the front （无领）开襟毛衣 +
+=> cardigan 是用精纺毛线编织的男、女长袖无领短上衣或背心、开襟，系扣或系带子。 +
+image:../img/cardigan.jpg[,10%]
 
-image:../img/cardigan.jpg[]
+.inch
+英寸（长度单位，等于2.54厘米，1英尺等于12英寸）
 
-- inch 英寸（长度单位，等于2.54厘米，1英尺等于12英寸）
-
+====
 
 ---
 
@@ -161,42 +173,39 @@ image:../img/cardigan.jpg[]
 
 ==== A. Problems.
 
-1. I really need some new curtains but I'm afraid I can't sew.
+1. I really need some new curtains but I'm afraid I can't sew (v.) 缝；做针线活.
 2. My problem is that I can't find a job. Managers always say my hair is too long.
 3. I do love listening to the radio but I'm afraid my radio isn't working.
 4. Just look at these shoes. They cost forty-five pounds last year and they have holes in them now.
 5. Do you know anything about cars? My car is using too much petrol.
 
-- sew (v.) 缝；做针线活
-
 
 
 ---
 
-==== B. Monologue.
+==== B. Monologue 滔滔不绝的讲话；个人的长篇大论;（戏剧、电影等的）独白.
 
 John Haslam is talking about his garden.
 
-You know, I don't really like the country. It's too quiet. There's not enough movement,
+You know, I don't really like the country. It's too quiet. There's not enough movement （具有共同思想或目标的）运动,
 not enough action, not enough to do. But I'm like most other people: I need some peace
 and quiet sometimes, and this little garden is my peace and quiet. It's big enough for me.
 
 During the summer I may spend three or four hours out here. But even in the winter I may
-come out here for an hour or two at the weekends, if the weather's good. It's a good place to sit with my typewriter. And it's a good place to sit with a book and a drink. And do you know something? I spend *as much* time out of the house now *as* I did when I lived in the country. Funny, isn't it?
+come out here for an hour or two at the weekends, if the weather's good. It's a good place to sit with my typewriter. And it's a good place to sit with a book and a drink. And do you know something? I spend *as much* time out of the house now *as* 与……一样多 I did when I lived in the country. Funny, isn't it?
 
-- monologue : a long speech by one person during a conversation that stops other people from speaking or expressing an opinion 滔滔不绝的讲话；个人的长篇大论 /（戏剧、电影等的）独白
+[.my1]
+.案例
+====
 
-- movement :a group of people who share the same ideas or aims （具有共同思想或目标的）运动 +
--> the women's/peace movement 妇女╱和平运动
-
-- action : a thing that sb does 所做之事；行为 / exciting events 激动人心的事 +
--> New York is where the action is . 纽约是个热闹活跃的地方。
-
-- as much as 表示模糊的数量，其意为“与……一样多” +
+.as much as  +
+表示模糊的数量，其意为“与……一样多” +
 -> I ate as much as I could.我能吃多少就吃了多少。
 
-- as...as possible（one can）“尽量”、“尽最大（可能）” +
+.as...as possible（one can） +
+“尽量”、“尽最大（可能）” +
 -> I have helped you as much as I can.Now it is up to you.我已尽我所能帮助你了，现在该看你自己了。
+====
 
 
 ---
@@ -207,56 +216,37 @@ come out here for an hour or two at the weekends, if the weather's good. It's a 
 Betty: Listen, Mum. The phone's ringing. Can I answer it? +
 Julie: Yes, of course. But please answer correctly.
 
-- con·ver·sa·tion : ~ (with sb) (about sth) （非正式）交谈，谈话
 
-
-(Receiver being picked up.) +
+(Receiver 听筒；受话器;接收机 being picked up.) +
 Betty: (excited) Hello. This is Betty. +
 Male Voice; (confused pause) Uh ... good evening. Is that 789-6 double 4 3? +
 Betty: Yes, it is. Would you like to talk to my mother? +
 Male Voice: Well ... I'd like to talk to Mrs. Henderson ... +
 Betty: Just a moment. I'll tell her. +
 
-- re·ceiver  听筒；受话器 /无线电接收机；收音机；电视机
 
-
-Julie: Mrs. Henderson speaking. Who's calling please? +
-Male Voice: This is Brian Murphy, Mrs. Henderson. I'm your new neighbor. I moved in
-yesterday. +
+Julie: Mrs. Henderson speaking. Who's calling 打电话叫;（给…）打电话 please? +
+Male Voice: This is Brian Murphy, Mrs. Henderson. I'm your new neighbor. I moved in yesterday. +
 Julie: Oh, good evening, Mr. Murphy. Welcome to Oak Lane. Can we give you any help? +
 Male Voice: Sorry to bother you, Mrs. Henderson, but I'd like to ask you some questions. +
 
 
-- call (v.)to ask sb/sth to come quickly to a particular place by telephoning 打电话叫 / （给…）打电话 +
--> to call the fire department/the police/a doctor/an ambulance 打电话叫消防队╱警察╱医生╱救护车
-
-
 
 Julie: I'm never too busy to help a neighbor, Mr. Murphy. What would you like to know? +
-Male Voice: Well, first, could you tell me what time the milkman calls(v.)? And which day do
-the dustmen come? Who's the most dependable newsagent? (pause) Oh, yes ... where is
+Male Voice: Well, first, could you tell me what time the milkman 送奶人 calls(v.)（短暂地）访问? And which day do
+the dustmen 清洁工 come? Who's the most dependable 可信赖的；可靠的 newsagent 报刊经销人；报刊经销商? (pause) Oh, yes ... where is
 the nearest police station? +
-
-- milkman （尤指英国的）送奶人
-- call (v.)（短暂地）访问 +
--> Let's call on John. 咱们去看看约翰吧。
-
-- dustmen 清洁工
-- de·pend·able 可信赖的；可靠的
-- news·agent  报刊经销人；报刊经销商
 
 
 Julie: My goodness, Mr. Murphy. You have got a lot of questions. Look, I have an idea.
 Why don't you come to tea tomorrow afternoon? Then we can meet you and answer all
 your questions. +
 Male Voice: That's very kind of you, Mrs. Henderson. What time shall I come? +
-Julie: Any time after 3 o'clock. We look forward to meeting you. Goodbye. +
+Julie: Any time after 3 o'clock. We *look forward to* （高兴地）盼望，期待 meet**ing** you. Goodbye. +
 Male Voice: Goodbye, Mrs. Henderson. +
-(Receiver being replaced(v.).)
+(Receiver being replaced(v.)把…放回原处.)
 
-- look forward to sth/-doing  （高兴地）盼望，期待
-- re·place 把…放回原处 +
--> to replace(v.) the handset (= after using the telephone) 放回电话听筒
+
 
 ---
 
@@ -264,29 +254,21 @@ Male Voice: Goodbye, Mrs. Henderson. +
 
 ==== Dictation.
 
-Dictation 1:
+Dictation 1: +
+Everything changes. Once 曾；曾经 a lot of people went to the cinema to see silent films. Then
+when *talking pictures* 有声电影 (会说话的图画) started(v.)/ nobody wanted to see *silent films* 无声电影, 默片 any more. But people still went to the cinema and everybody knew the names of all the great film stars.
 
-Everything changes. Once a lot of people went to the cinema to see silent films. Then
-when talking pictures started(v.)/ nobody wanted to see silent films any more. But people still went to the cinema and everybody knew the names of all the great film stars.
-
-Now we have television. People sit at home night after night watching their favorite programs. But what is going to happen to the cinema?
-
-- Once 曾；曾经
-- talking pictures 有声电影 (会说话的图画)
-- silent films 无声电影, 默片
-- night after night 夜复一夜
+Now we have television. People sit at home *night after night* 夜复一夜 watching their favorite programs. But what is going to happen to the cinema?
 
 
 
----
 
-Dictation 2:
 
-Dear Mr. Scott, Thank you for your letter of 15th January. You say that you telephoned our office five times in two days and did not receive a reply. I am sorry about this, but we have had problems with our telephone. Yours sincerely, D. Renton
 
-- Janu·ary 一月
-- sin·cere·ly : (adv.)in a way that shows what you really feel or think about sb/sth  真诚地；诚实地 +
-->  ‘I won't let you down.’ ‘I sincerely hope not.’ “我不会让你失望的。”“但愿如此。”
+Dictation 2: +
+Dear Mr. Scott, Thank you for your letter of 15th January 一月. You say that you telephoned our office five times in two days and did not receive a reply. I am sorry about this, but we have had problems with our telephone. Yours sincerely 真诚地；诚实地, D. Renton
 
----
+
+
+'''
 

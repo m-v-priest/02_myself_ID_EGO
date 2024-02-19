@@ -1,6 +1,11 @@
 
 = Lesson 10
-:toc:
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../../+ 000 eng选/美国高中历史教材 American History ： From Pre-Columbian to the New Millennium/myAdocCss.css
+
+'''
 
 ---
 
@@ -11,26 +16,28 @@
 
 Dialogue 1: +
 —Can I help you? +
-—Yes, please. I'd like some instant coffee. +
+—Yes, please. I'd like some *instant 立即的；立刻的;速食的；即食的；速溶的；方便的 coffee*. +
 —Certainly. How much would you like? +
 —A large jar, please.
 
-- instant 立即的；立刻的 /  速食的；即食的；速溶的；方便的
 
 ---
 
 
 Dialogue 2: +
-—That's a very nice cardigan. Is it new? +
+—That's a very nice cardigan （无领）开襟毛衣. Is it new? +
 —Yes. It was very cheap. I got it in a sale. +
-—I like it very much. It suits you very well. +
+—I like it very much. It suits (v.)(尤指服装、颜色等) 相配；合身;对（某人）方便；满足（某人）需要；合（某人）心意 you very well. +
 —Oh, thank you.
 
-- cardigan （无领）开襟毛衣 +
-image:../img/cardigan.jpg[]
+[.my1]
+.案例
+====
 
-- suit (v.)(尤指服装、颜色等) 相配；合身 /  对（某人）方便；满足（某人）需要；合（某人）心意 +
--> If we met at 2, would that suit you? 我们两点钟见面，你方便吗？
+.cardigan
+（无领）开襟毛衣 +
+image:../img/cardigan.jpg[,10%]
+====
 
 
 
@@ -39,14 +46,13 @@ image:../img/cardigan.jpg[]
 Dialogue 3: +
 —Do you read many novels? +
 —Yes. I suppose I've read about four novels this year. +
-—I see. And what was the last novel you read? +
+—I see. And what was the last novel （长篇）小说 you read? +
 —Let me see. It was A Man in Havana. +
 —And when did you read it? +
 —I read it on Tuesday evening. +
 —Why did you read it? +
 —Well ...
 
-- novel （长篇）小说 => 词源同new,-el,小词后缀。引申词义新事物，新故事
 
 ---
 
@@ -59,17 +65,16 @@ Dialogue 4: +
 —And how many cigarettes have you smoked during that time? +
 —Thousands!
 
-- during 在…期间
+
 
 ---
 
 Dialogue 5: +
 —I was just about to have a swim when I saw the shark! +
-—That's nothing. I was in the middle of swimming when I saw the shark. +
+—That's nothing 没什么, 这没有什么. I was in the middle of swimming when I saw the shark. +
 —What happened? +
 —I started swimming for the shore, of course.
 
-- That's nothing. 没什么, 这没有什么
 
 我正要游泳时看见了鲨鱼! +
 这没什么, 当我看见鲨鱼时，我正在游泳。 +
@@ -80,48 +85,52 @@ Dialogue 5: +
 
 ==== B. Hotel English
 
-- Nep·tune 海王星 +
-image:../img/Neptune.jpg[]
 
 
-
-Yvonne Deraine is staying at the Hotel Neptune. She goes to the Reception Desk and asks: +
+Yvonne Deraine is staying at the Hotel Neptune 海王星. She goes to the *Reception 接待处 Desk*  and asks: +
 Yvonne: Can I have breakfast in my room? +
 Clerk: Certainly, madam. Breakfast is served in your room from 7 o'clock until 10. Here is
 the menu. +
-Yvonne: Thank you. (looks at the menu) I'd like to have the Continental Breakfast. +
+Yvonne: Thank you. (looks at the menu) I'd like to have the Continental 欧洲大陆的（不包括英国和爱尔兰）;北美大陆的 Breakfast. +
 
-- Reception Desk 接待处（等于front desk）
-- re·cep·tion 接待处；接待区
-- con·tin·en·tal 欧洲大陆的（不包括英国和爱尔兰）/ 北美大陆的
+[.my1]
+.案例
+====
+
+.Nep·tune
+image:../img/Neptune.jpg[,10%]
+
+====
 
 Clerk: Yes, madam. And at what time would you like it? +
 Yvonne: About half past eight, I think. +
-Clerk: 8:30. Very good, madam. And what kind of fruit juice would you like? We have pineapple, orange, grapefruit ... +
+Clerk: 8:30. Very good, madam. And what kind of fruit juice would you like? We have pineapple 菠萝；凤梨, orange, grapefruit 葡萄柚；柚子；西柚 ... +
 Yvonne: I think I'd like the pineapple please. +
 Clerk: Pineapple juice. And would you prefer tea or coffee? +
 Yvonne: Coffee please. +
 Clerk: Thank you very much. Goodnight.
 
-- pine·apple  菠萝；凤梨
-- grapefruit  葡萄柚；柚子；西柚 +
-image:../img/grapefruit.jpg[]
+[.my1]
+.案例
+====
+
+.grapefruit
+image:../img/grapefruit.jpg[,10%]
+====
 
 
 * * *
 
-(At 8:30 the next morning, there is a light tap at Yvonne's door.) +
+(At 8:30 the next morning, there is a light tap 轻敲；轻拍；轻叩 at Yvonne's door.) +
 Yvonne: Y-es. Come in. +
 Maid: I've brought you your breakfast, madam. +
 Yvonne: Oh yes. Thank you. Could you put it on the desk over there please? +
-Maid: Shall I pour you a cup of coffee straight away, madam? +
-Yvonne: No, thanks. I'll pour it myself in a minute. +
+Maid: Shall I pour you a cup of coffee *straight away* 立即, 马上, madam? +
+Yvonne: No, thanks. I'll pour it myself *in a minute* 一会儿, 过一会儿. +
 Maid: Is there anything else, madam? +
 Yvonne: No-no, I don't think so, thank you.
 
-- tap 轻敲；轻拍；轻叩
--  straight away 立即, 马上
--  in a minute 一会儿, 过一会儿
+
 
 ---
 
@@ -136,15 +145,11 @@ Tom: I suppose so, once or twice. +
 Eddie: Can you remember when you were most frightened? +
 Tom: That isn't difficult. +
 Eddie: What happened? +
-Tom: Well, we used to have a favorite picnic place beside a lake. We had a boat there. I was there with some friends and I decided to swim to a little island. It didn't look far and I
-started swimming ... but half way across I realised it was a lot further than I thought. I was getting very tired. I shouted. Luckily my friends heard me and brought the boat. I thought I
-was going to drown. I've never been more frightened in my life
+Tom: Well, we used to have a favorite (a.)特别受喜爱的 picnic 野餐 place beside a lake. We had a boat there. I was there with some friends and I decided to swim to a little island. It didn't look far and I
+started swimming ... but half way across I realised it was a lot further than I thought. I was getting very tired. I shouted. Luckily my friends heard me and brought （bring的过去分词） the boat. I thought I
+was going to drown (v.)（使）淹死，溺死. I've never been more frightened in my life
 
-- favorite (a.) 特别受喜爱的
-- picnic 野餐
-- across 从一边到另一边；横过；宽
-- brought （bring的过去分词）
-- drown (v.) （使）淹死，溺死
+
 
 
 ---
@@ -154,19 +159,18 @@ was going to drown. I've never been more frightened in my life
 Should school children take part-time jobs?
 This is a discussion which will appear in a magazine.
 
-Editor: This month our panel looks at part-time jobs. Are they good for school children or
+Editor: This month our panel 专家咨询组；（广播、电视上的）讨论小组 looks at part-time jobs. Are they good for school children or
 not?
 
-- panel : a group of specialists who give their advice or opinion about sth; a group of people who discuss topics of interest on television or radio 专家咨询组；（广播、电视上的）讨论小组 +
-/a square or rectangular piece of wood, glass or metal that forms part of a larger surface such as a door or wall （门、墙等上面的）嵌板，镶板，方格板块
 
-image:../img/panel.jpg[]
+
 
 
 Headmaster: Definitely not. The children have got two full-time jobs already: growing up
-and going to school. Part-time jobs make them so tired they fall asleep in class.
+and going to school. Part-time jobs make them so tired they *fall asleep* 入睡, 睡着了 in class.
 
-- fall asleep 入睡, 睡着了
+
+
 
 Mrs. Barnes: I agree. I know school hours are short, but there's homework as well. And
 children need a lot of sleep.
@@ -180,12 +184,18 @@ Businessman: You're absolutely right. Boys learn a lot from a part-time job. And
 mustn't forget that some families need the extra money. If the pupils didn't take part-time
 jobs they couldn't stay at school.
 
-Editor: Well, we seem to be equally divided: two for, and two against. What do our readers
+Editor: Well, we seem to be equally divided: two for 支持；拥护, and two against. What do our readers
 think?
 
-- for  支持；拥护 +
--> Are you for or against the proposal? 你支持还是反对这个建议？ +
--> They voted for independence in a referendum. 他们在全民公决投票中赞成独立。
+[.my1]
+.案例
+====
+
+.for
+支持；拥护 +
+- Are you for or against the proposal? 你支持还是反对这个建议？ +
+- They voted for independence in a referendum. 他们在全民公决投票中赞成独立。
+====
 
 
 ---
@@ -197,12 +207,11 @@ Dictation.
 Spot Dictation 1:
 
 Philip Andrew is 16 and he is about to leave school. He comes to me for advice every
-week. He is looking for an interesting job and he would like good wages. One of his friends
+week. He is looking for an interesting job and he would like good wages （通常指按周领的）工资，工钱. One of his friends
 works in a supermarket. Another friend works in a factory. Philip thinks supermarket jobs
 are not well paid. And factory jobs are boring.
 
--  wages （通常指按周领的）工资，工钱 +
--> wage cuts 减薪
+
 
 
 ---
@@ -210,12 +219,18 @@ are not well paid. And factory jobs are boring.
 Spot Dictation 2:
 
 And finally, some news from the United States.  +
-David Thomas, the Californian pop singer, is sixteen today and he is giving a party for sixty guests. His young friends have bought him a Rolls-Royce, the most expensive one they could find.
+David Thomas, the Californian pop singer, is sixteen today and he is giving 举办；举行 a party for sixty guests. His young friends have bought him a Rolls-Royce, the most expensive one they could find.
 
 David is famous because he is the fastest driver and the youngest pop star in the state of California. He is
 flying to Paris tomorrow.
 
-- give (v.) if you give a party, you organize it and invite people 举办；举行 +
--> he is giving a party for sixty guests. 他要举行一个六十人的宴会。
+[.my1]
+.案例
+====
+
+.give
+(v.) if you give a party, you organize it and invite people 举办；举行 +
+- he is giving a party for sixty guests. 他要举行一个六十人的宴会。
+====
 
 ---

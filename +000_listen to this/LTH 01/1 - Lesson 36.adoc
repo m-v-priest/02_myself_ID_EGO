@@ -1,6 +1,11 @@
 
 = Lesson 36
 :toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../../+ 000 eng选/美国高中历史教材 American History ： From Pre-Columbian to the New Millennium/myAdocCss.css
+
+'''
 
 
 ---
@@ -31,11 +36,13 @@ Receptionist: About four hundred francs  法郎. +
 Robert: And what does that include? +
 Receptionist: It includes morning newspaper, continental 欧洲大陆的,随（西、南欧国家）大陆风俗的 breakfast and service. +
 
+
+[.my1]
 .案例
 ====
 .continental breakfast
 a light breakfast, usually consisting of coffee and bread rolls with butter and jam 欧陆式早餐，简易早餐（通常包括咖啡和黄油果酱圆面包） +
-image:../img/continental breakfast.jpg[,15%]
+image:../img/continental breakfast.jpg[,10%]
 ====
 
 Robert: Where is the nearest metro 地铁? +
@@ -49,6 +56,8 @@ Maggie. +
 Receptionist: Yes, monsieur. So you need an extra bed. And what time will they be
 arriving on July 23rd ... +
 
+[.my2]
+====
 预订房间。 +
 罗伯特·戈登打电话来是想在巴黎订一个旅馆房间。 +
 接待员:45-21-64。喂? +
@@ -77,7 +86,7 @@ arriving on July 23rd ... +
 罗伯特:实际上，这是给我妻子和两个女儿的。让·戈登，琳达和 +
 玛吉。 +
 接待员:好的，先生。所以你需要一张额外的床。7月23日他们什么时候到?
-
+====
 
 ---
 
@@ -89,6 +98,7 @@ Interviewer: And you still enjoy working with animals? +
 Vet: Oh, yes, very much so. In fact, more than ever 超越任何时候 now. I've got *to know* animals *much better*, you see, and I *get on better with them*  （与某人）和睦相处，关系良好 in every way 在各个方面；完全地. Their owners sometimes get on my nerves, though. +
 
 
+[.my1]
 .案例
 ====
 .GET ˈON WITH SB ˌGET ˈON (TOGETHER)
@@ -114,6 +124,8 @@ have to be happy. +
 Interviewer: Yes, I suppose you're right. In your thirty years as a vet you must have *come across* 偶然发现; 偶然遇见,留下印象 some interesting cases? +
 Vet: Oh yes, there are lots of interesting cases. I was once called to a lioness 母狮 who was giving birth and having difficulty. Now that was really interesting. +
 
+[.my2]
+====
 兽医。 +
 采访者:现在你已经做了30年的兽医了，是什么让你成为一名兽医的呢? +
 兽医:嗯，一开始我学的是普通的医生，但慢慢地我意识到我非常喜欢动物。比起人，我更喜欢动物。所以我额外选修了一门动物医学课程。就这么简单。 +
@@ -130,6 +142,7 @@ Vet: Oh yes, there are lots of interesting cases. I was once called to a lioness
 兽医:嗯，我试着告诉他们动物需要什么，什么是正确的食物，适当的运动。我试着告诉他们，动物不是玩具，如果它们想要健康，就必须快乐。 +
 面试官:是的，我想你是对的。在你30年的兽医生涯中，你一定遇到过一些有趣的病例吧? +
 兽医:哦，是的，有很多有趣的病例。有一次，我被召唤去看望一头正在分娩却难产的母狮。这真的很有趣。
+====
 
 ---
 
@@ -143,17 +156,24 @@ But most of all *I want to say thank you to* all of you for coming here this eve
 
 I may say that *we had hoped that* 表示"过去某一时间前"就已经发生或完成了的动作 temporary repairs would suffice (v.)足够；足以. But we were recently informed by our surveyor 检验员；检验官;（建筑物质量）鉴定人 that the whole roof will have to be replaced: which is of course *a severe blow* （用手、武器等的）猛击;打击；挫折 when you think it’s only five years since we replaced the roof of the church 教堂 itself. And so *we shall be having another concert  音乐会；演奏会 soon*, I hope.
 
+[.my2]
+====
+独白。
+
+好了，女士们，先生们，这是我们的最后一个项目，我要做的就是代表我们大家衷心感谢我们的表演者, 今晚给我们带来的快乐。当然，我必须感谢那些在幕后工作的人。尤其是我们的制片人。但最重要的是，我要感谢大家今晚来到这里，特别是在这样的天气里支持这次活动。我想也许我应该借此机会, 向坐在后排的各位再次表示诚挚的歉意。我们对屋顶进行了临时修理，但不幸的是今晚的雨出乎意料地大，我们感谢你的理解和愉快的幽默。我可以说，我们曾希望暂时的修理就足够了。但是，最近我们的测量员通知我们，整个屋顶都必须更换。这当然是一个沉重的打击，因为我们才更换了教堂本身的屋顶才五年。我希望我们很快就能再开一场音乐会。
+====
+
+
+[.my1]
 .案例
 ====
 
-.will/shall be doing 用于表示我们认为，*"猜测"或"预期"现在或将来会发生的事情*，和打算无关。
+.will/shall be doing
+用于表示我们认为，*"猜测"或"预期"现在或将来会发生的事情*，和打算无关。 +
 - Don't call my wife now, she'll be working.对现在的猜测
 ====
 
 
-独白。
-
-好了，女士们，先生们，这是我们的最后一个项目，我要做的就是代表我们大家衷心感谢我们的表演者, 今晚给我们带来的快乐。当然，我必须感谢那些在幕后工作的人。尤其是我们的制片人。但最重要的是，我要感谢大家今晚来到这里，特别是在这样的天气里支持这次活动。我想也许我应该借此机会, 向坐在后排的各位再次表示诚挚的歉意。我们对屋顶进行了临时修理，但不幸的是今晚的雨出乎意料地大，我们感谢你的理解和愉快的幽默。我可以说，我们曾希望暂时的修理就足够了。但是，最近我们的测量员通知我们，整个屋顶都必须更换。这当然是一个沉重的打击，因为我们才更换了教堂本身的屋顶才五年。我希望我们很快就能再开一场音乐会。
 
 ---
 
@@ -172,13 +192,16 @@ Manager: Your face? Ah yes. Oh dear. Well, never mind. What's wrong with your fa
 What exactly am I supposed 一般认为；人们普遍觉得会;（按规定、习惯、安排等）应当，应，该，须 to be looking at? +
 Woman: My lines 总体外观; 总体外形, my Wrinkles. +
 
+
+[.my1]
 .案例
 ====
 .BE SUPPOSED TO DO/BE STH
-- (1) to be expected or required to do/be sth according to a rule, a custom, an arrangement, etc. *（按规定、习惯、安排等）应当，应，该，须* +
-*You were supposed to be here* an hour ago! 你本该在一小时以前就到这儿！
-- (2) to be generally believed or expected to be/do sth *一般认为；人们普遍觉得会* +
-I haven't seen it myself, but *it's supposed to be* a great movie. 这部电影我没看过，不过人们普遍认为很不错。
+(1) to be expected or required to do/be sth according to a rule, a custom, an arrangement, etc. *（按规定、习惯、安排等）应当，应，该，须* +
+- *You were supposed to be here* an hour ago! 你本该在一小时以前就到这儿！
+
+(2) to be generally believed or expected to be/do sth *一般认为；人们普遍觉得会* +
+- I haven't seen it myself, but *it's supposed to be* a great movie. 这部电影我没看过，不过人们普遍认为很不错。
 ====
 
 Manager: Well, we can soon *put* that *right* 使恢复正常；校正, Madam. You need a bottle of our New Generation *Wrinkle Cream* 抗皱霜. With this wonderful new cream 奶油，乳脂；霜，膏 your lines and wrinkles just ... +
@@ -199,6 +222,7 @@ Manager: But our product is tested and approved by doctors. It was thoroughly te
 thousands of volunteers by experts before it was allowed to be sold on the market. This is the first complaint 抱怨，投诉 we've had. +
 Woman: I told you, I want you to pay for a *face lift*  拉皮除皱手术 or I'm taking you to court 法院；法庭! So there! +
 
+[.my1]
 .案例
 ====
 .I'm taking you to court!
@@ -217,7 +241,8 @@ Manager: Then there's nothing I can do, madam. Sorry. +
 Woman: (furious  狂怒的；暴怒的) I'll take you to court. I'll take you to court. +
 Manager: You can do as you please, madam. Good morning. +
 
-
+[.my2]
+====
 皱纹。 +
 经理:早上好，女士。我们能为您做些什么? +
 女:你能为我做些什么? +
@@ -253,6 +278,7 @@ Manager: You can do as you please, madam. Good morning. +
 经理:那我就无能为力了，夫人。对不起。 +
 女:(愤怒地)我要把你告上法庭。我会把你告上法庭。 +
 经理:夫人，您可以随心所欲。早上好。
+====
 
 ---
 
@@ -263,10 +289,12 @@ Manager: You can do as you please, madam. Good morning. +
 —Yeah, the green grocer's. (Right.) OK. +
 —Right, let me see, potatoes 土豆, but new potatoes, not mottled 斑驳的；杂色的 ones. I mean they're really not very good any more. Urm, three pounds ... +
 
+
+[.my1]
 .案例
 ====
 .green grocer
-image:../img/green grocer.jpg[,25%]
+image:../img/green grocer.jpg[,10%]
 
 
 .mottled +
@@ -282,10 +310,12 @@ adj. marked with shapes of different colours without a regular pattern 斑驳的
 —Yeah. +
 —OK. +
 
+
+[.my1]
 .案例
 ====
 .spring onion
-image:../img/spring onion.jpg[,50%]
+image:../img/spring onion.jpg[,20%]
 
 ====
 
@@ -299,10 +329,11 @@ image:../img/spring onion.jpg[,50%]
 —Yeah. Cubes, *mind you* （口语中用以强调陈述）你要明白，要知道，不过要注意, not the other stuff. +
 —Right. +
 
+[.my1]
 .案例
 ====
 .sugar cubes
-image:../img/sugar cubes.webp[,25%]
+image:../img/sugar cubes.webp[,10%]
 ====
 
 —Coffee, *instant coffee* 即溶咖啡, but yeah, get Nescafe 雀巢咖啡, Nescafe gold blend （不同类型东西的）混合品，混合物. +
@@ -331,10 +362,12 @@ image:../img/sugar cubes.webp[,25%]
 —Any *dry white* 干白葡萄酒. +
 —Dry white wine. Yeah. +
 
+
+[.my1]
 .案例
 ====
 .dry white
-image:../img/dry white.jpg[,15%]
+image:../img/dry white.jpg[,10%]
 
 
 干白葡萄酒(le vin blanc)，“干”是从香槟酒酿造中借用的一个词，即不添加任何水、香料、酒精等添加剂，直接用纯葡萄汁酿造的酒。 +
@@ -399,6 +432,8 @@ they had. +
 —Well, sorry, but I don't think it's my fault. +
 —Mm. +
 
+[.my2]
+====
 购物。 +
 -好吧，那你想让我买什么? +
 -好吧，先去蔬菜食品店。 +
@@ -491,6 +526,7 @@ they had. +
 ——很好。好吧。好吧，那我想我又得自己出去了。 +
 -嗯，对不起，但我不认为这是我的错。 +
 毫米。
+====
 
 ---
 
@@ -515,13 +551,15 @@ Kohler: Problems? What kind of problems? +
 Hugh: Technical problems. Nothing very serious. There's no need to worry. +
 Kohler: I hope not, Mr. Gibbs, *for your sake* 为了某人（或某事）起见；因某人（或某事）的缘故 as well as ours. I'm sure you're aware (a.)知道；意识到；明白 that there's a penalty 惩罚；处罚；刑罚 in your contract with us for late delivery and we'll ... +
 
+
+[.my1]
 .案例
 ====
 .FOR THE SAKE OF SB/STH ,  FOR SB'S/STH'S SAKE
 in order to help sb/sth or because you like sb/sth 为了某人（或某事）起见；因某人（或某事）的缘故 +
-• They stayed together *for the sake of the children*. 为了孩子，他们还待在一起。  +
-• You can do it. Please, *for my sake*. 这个你是能做的。求你了，就算为了我。  +
-• I hope you're right, *for all our sakes* (= because this is important for all of us) . 我希望你没事，这对我们大家都好。
+- They stayed together *for the sake of the children*. 为了孩子，他们还待在一起。  +
+- You can do it. Please, *for my sake*. 这个你是能做的。求你了，就算为了我。  +
+- I hope you're right, *for all our sakes* (= because this is important for all of us) . 我希望你没事，这对我们大家都好。
 ====
 
 
@@ -543,6 +581,9 @@ Kohler: Goodbye, Mr. Gibbs. +
 Hugh: Goodbye, Herr Kohler. And thank you again! Phew! Well, ... that's at least one
 problem out of the way! +
 
+
+[.my2]
+====
 成功与失败。 +
 休正在打电话。请听他与科勒先生的对话。 +
 秘书:吉布斯先生，一号线有您的电话。我是杜塞尔多夫的曼德雷德·科勒。 +
@@ -573,6 +614,7 @@ problem out of the way! +
 休:谢谢!你一直很善解人意。 +
 再见，吉布斯先生。 +
 休:再见，科勒先生。再次感谢大家!唷!好吧，这至少解决了一个问题!
+====
 
 ---
 
@@ -580,11 +622,12 @@ problem out of the way! +
 
 When Elvis Presley died on 16th August, 1977, radio and television programs all over the world were interrupted to give the news of his death. President Carter was asked to declare a day of national mourning (n.)伤逝；哀悼. Carter said: 'Elvis Presley changed the face of American popular culture ... He was unique and irreplaceable （因贵重或独特）不能替代的.' Eighty thousand people attended his funeral. The streets were jammed with cars, and Elvis Presley films were shown on television, and his records were played on the radio all day. In the year after his death, one hundred million Presley LPs were sold.
 
+[.my1]
 .案例
 ====
 .LP
 the abbreviation for ‘long-playing record’ (a record that plays for about 25 minutes each side and turns 33 times per minute) 密纹唱片（全写为**long-playing record**，每面约25分钟、每分钟33转的唱片） +
-image:../img/long-playing record.jpg[,25%]
+image:../img/long-playing record.jpg[,10%]
 ====
 
 Elvis Presley was born on January 8th, 1935, in Tupelo 城市名, Mississippi. His twin brother, Jesse Garon, died at birth. His parents were very poor and Elvis never had music lessons, but he was surrounded by music from an early age. His parents were very religious 虔诚的; 笃信宗教的, and Elvis regularly sang at *church services* 教堂礼拜. In 1948, when he was thirteen, his family moved to Memphis, Tennessee. He left school in 1953 and got a job as a truck driver.
@@ -593,16 +636,21 @@ In the summer of 1953 Elvis paid four dollars and recorded two songs for his mot
 
 With the money he bought a pink Cadillac 卡迪拉克车 for his mother. On January 10th, 1956, Elvis recorded "Heartbreak Hotel", and a million copies were sold. In the next fourteen months he made another fourteen records, and they were all big hits  很受欢迎的人（或事物）;风行一时的流行歌曲（或唱片）. In 1956 he also made his first film in Hollywood.
 
+
+[.my1]
 .案例
 ====
 .Cadillac
-image:../img/Cadillac.jpg[,25%]
+image:../img/Cadillac.jpg[,10%]
 ====
 
 In March 三月, 1958, Elvis had to join the army. He wanted to be an ordinary soldier. When his hair was cut thousands of women cried. He spent the next two years in Germany, where he met Priscilla Beaulieu, who became his wife eight years later on May 1st, 1967. In 1960 he left the army and went to Hollywood where he made several films during the next few years.
 
 By 1968 many people had become tired (a.)厌倦；厌烦 of Elvis. He hadn’t performed 做；履行；执行;演出；表演 live since 1960. But he recorded a new LP 密纹唱片 "From Elvis in Memphis" and appeared 出现；呈现；显现;演出 in a special television program. He became popular again, and went to Las Vegas, where he was paid seven hundred fifty thousand dollars for four weeks. In 1972 his wife left him, and they were divorced in October, 1973. He died from a heart attack. He had been working too hard, and eating and drinking too much for several years. He left all his money to his only daughter, Lisa Marie Presley. She became one of the richest people in the world when she was only nine years old.
 
+
+[.my2]
+====
 猫王。+
 
 1977年8月16日，当埃尔维斯·普雷斯利去世时，全世界的广播和电视节目都中断了播出他去世的消息。卡特总统被要求宣布全国哀悼日。卡特说:“猫王改变了美国流行文化的面貌……他是独一无二的，不可替代的。”八万人参加了他的葬礼。街道上挤满了汽车，电视上播放着埃尔维斯·普雷斯利的电影，收音机里整天播放着他的唱片。在他死后的一年里，普雷斯利唱片的销量达到了1亿张。
@@ -616,7 +664,9 @@ By 1968 many people had become tired (a.)厌倦；厌烦 of Elvis. He hadn’t p
 1958年3月，埃尔维斯不得不参军。他想成为一名普通的士兵。当他的头发被剪掉时，成千上万的女人哭了。他在德国度过了接下来的两年，在那里他遇到了普丽西拉·博留，八年后的1967年5月1日，她成为了他的妻子。1960年，他离开军队去了好莱坞，在接下来的几年里他拍了几部电影。
 
 到1968年，许多人已经厌倦了猫王。自1960年以来，他就没有进行过现场表演。但他录制了一张新的LP《埃尔维斯在孟菲斯》，并出现在一个特别的电视节目中。他再次走红，并去了拉斯维加斯，在那里他四周的报酬是75万美元。1972年，他的妻子离开了他，他们于1973年10月离婚。他死于心脏病发作。几年来，他工作太辛苦，吃得太多，喝得太多。他把所有的钱都留给了他唯一的女儿丽莎·玛丽·普雷斯利。她在九岁时就成为了世界上最富有的人之一。
+====
 
+[.my1]
 .案例
 ====
 单看“猫王”这两个字怎么都跟他的本名Elvis Presley没啥关系，那为什么大家都习惯性的叫他“猫王”呢？能查到的比较靠谱的说法是以下几种：
