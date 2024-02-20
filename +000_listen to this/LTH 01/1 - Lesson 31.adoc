@@ -1,9 +1,12 @@
 
 = Lesson 31
-:toc:
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../../+ 000 eng选/美国高中历史教材 American History ： From Pre-Columbian to the New Millennium/myAdocCss.css
 
+'''
 
----
 
 
 == Section 1
@@ -14,6 +17,7 @@ Taxi Driver: I can't promise, but I'll do my best. +
 Taxi Driver: You're just in time. Seventy pence, please. +
 Passenger: Thanks a lot. Here's eighty pence. You can keep the change.
 
+[.my1]
 ====
 - air terminal :
 1. a building at an airport that provides services for passengers travelling by plane （机场）候机大楼；机场大楼 +
@@ -32,6 +36,7 @@ Taxi Driver: We should be OK if the lights are with us. +
 Taxi Driver: You've still got five minutes to spare. Seventy pence, please. +
 Passenger: Thanks very much indeed. Here's a pound, give me twenty pence, please.
 
+[.my1]
 ====
 -  half past : half 为 “……半”的意思，past “过了……”的意思，因此连在一起表示“……点半”。比如：half past 6 六点半
 - be with us,站在我们同一边,支持我们 +
@@ -50,6 +55,7 @@ Taxi Driver: I think we can make it if we *get a move on*. +
 Taxi Driver: Here we are, sir. Eighty pence, please. +
 Passenger: Many thanks. Let's call it a pound.
 
+[.my1]
 ====
 - Piccadilly 街道名
 - get a move on : 快点;抓紧点
@@ -65,6 +71,7 @@ Taxi Driver: We'll be all right if there are no hold-ups. +
 Taxi Driver: This is it, sir. Seventy pence, please. +
 Passenger: Thank you. Here's the fare, and this is for you. +
 
+[.my1]
 ====
 - hold-ups n. 停顿；耽误；劫持
 - fare : the money that you pay to travel by bus, plane, taxi, etc. 车费；船费；飞机票价
@@ -87,6 +94,7 @@ so I expect he'll *make for* Birmingham. +
 —Yes, do that. Mind you, I doubt if he'll show up there *in person*. Hammond's no fool, you
 know. I should think he'll probably telephone. +
 
+[.my1]
 ====
 - check on sb/sth : 核实，检查（是否一切正常）
 - head for : V to go or cause to go (towards) 朝...进发
@@ -108,7 +116,7 @@ either. So you'd better alert the coastguard, and keep an eye on the private air
 —Right, sir. I'd better get his description circulated. +
 —Yes. He may change his appearance, of course, but I don't expect he'll be able to do much about the tattoos ... And John —be careful. He could be armed. And if I know Hammond, he certainly won't *give himself up* without a fight.
 
-
+[.my1]
 ====
 - get sb to do：使某人做某事。
 - either :
@@ -133,6 +141,7 @@ either. So you'd better alert the coastguard, and keep an eye on the private air
 
 A lot of young people today find it difficult to get a job, especially in the first few months after they leave school. This is *much more* of a problem now *than* it has ever been in the past. In some parts of the country/ `主` sixty or even seventy per cent of young people in the last years of school `谓` will be without a job for a whole year after leaving school.
 
+[.my1]
 ====
 - job hunting 求职找工作
 ====
@@ -156,6 +165,7 @@ Woman: Yes, that sounds a better idea. The outdoor movies are so uncomfortable. 
 Brian: Why don't we do both at the same time? We could pick up some take-away food and eat it in the movie. +
 Man: That sounds like fun. What a good idea. +
 
+[.my1]
 ====
 - heat 温度 /炎热天气；（建筑物、车辆等中的）高温，热的环境 +
 -> You should not go out in the heat of the day (= at the hottest time) . 你不应该在天最热的时候外出。
@@ -173,6 +183,7 @@ Brian: Well, we can find a foreign film with subtitles, then you don't need to h
 Woman: Supposing it's a musical. +
 Brian: Oh trust you to say that! I think it would be fun to sit watching an old film and eating a meal at the same time. +
 
+[.my1]
 ====
 - we've seen them all half a dozen times. 这些电影我们已经看过五六次了。
 - objection (n.)~ (to sth/to doing sth) |~ (that...) : a reason why you do not like or are opposed to sth; a statement about this 反对的理由；反对；异议 +
@@ -203,6 +214,7 @@ Mrs. Jarman: Hello. That's me. +
 Presenter: Say hello to the listeners, Mrs. Jarman. +
 Mrs. Jarman: I just did. Hello again. +
 
+[.my1]
 ====
 - presenter（广播、电视）节目主持人 /演讲人；发言人
 - personality  性格；个性；人格 / 性格鲜明的人；有突出个性的人 / 名人，风云人物（尤指娱乐界或体育界的） +
@@ -229,6 +241,7 @@ Presenter: Good, well, *now that* we've got that out of the way. Mrs. Jarman hol
 Mrs. Jarman: I'm still trying. +
 Presenter: Quite. Now precisely how many times have you failed your driving test, Mrs. Jarman? +
 
+[.my1]
 ====
 - Not quite 不完全, 那可未必, 不太
 - Quite （表示赞同或理解）对，正是 +
@@ -249,6 +262,7 @@ can't *drive round* corners. Each time I come to a corner I just drive straight 
 Presenter: Ah, yes, that would be a problem. +
 
 
+[.my1]
 ====
 - cause 原因；起因
 - *work on sth*  努力改善（或完成） +
@@ -260,11 +274,12 @@ Mrs. Jarman: It causes havoc(n.) at roundabouts. +
 Presenter: I can imagine. And how many examiners have you had in all this time? +
 Mrs. Jarman: Fifty-seven. None of them would examine me twice. Several left the job, said it was too dangerous. One of them got out of the car at the end of the test, walked away and was never seen again. +
 
+[.my1]
 ====
 - havoc :  a situation in which there is a lot of damage, destruction or confusion 灾害；祸患；浩劫 +
 -> Continuing strikes are beginning to *play havoc with* the national economy. 持续的罢工开始严重破坏国家经济。
 - roundabout : ( NAmE also ˈtraffic circlero·tary ) a place where two or more roads meet, forming a circle that all traffic must go around in the same direction （交通）环岛 +
-image:../img/roundabout.jpg[]
+image:../img/roundabout.jpg[,10%]
 
 - examiner 主考人；考官
 ====
@@ -279,6 +294,7 @@ here. By the time I've turned round to ask them what they said /we're half way t
 field /or slowly sinking into a pond surrounded by ducks. They should keep quiet /and let
 me concentrate. +
 
+[.my1]
 ====
 - distract (v.) ~ sb/sth (from sth)  转移（注意力）；分散（思想）；使分心
 - surround : (v.)  sth/sb (with sth)  围绕；环绕
@@ -292,6 +308,7 @@ Mrs. Jarman: Then they should give me time to stop /each time before speaking to
 Why do you think they have those notices(n.) on the buses, 'Do not speak to the driver', eh?
 I'm surprised there aren't more accidents. +
 
+[.my1]
 ====
 - 那他们每次跟我说话之前, 都应该给我停下来的时间。你觉得他们为什么在公共汽车上贴“不要和司机说话”的告示呢?我很惊讶竟然没有更多的事故发生。
 ====
@@ -308,6 +325,7 @@ left, so we didn't stop until I hit a post box just outside London. +
 Presenter: And was the examiner still with you? +
 Mrs. Jarman: Oh, yes, he'd fainted(v.) much earlier on. +
 
+[.my1]
 ====
 - How long do your tests(n.) usually last(v.)? 你的测验通常要持续多长时间?
 - Except the last one 除了最后一个外.
@@ -331,6 +349,7 @@ listening in, well, I'd like to say thank you very much /and `主` my offer to p
 Presenter: Thank you, Mrs. Jarman, and good night. +
 Mrs. Jarman: I won't give up. +
 
+[.my1]
 ====
 -  coming along  一起来 /偶然出现; 不期而至 +
 -> There's a barbecue tonight and you're very welcome to come along.  今晚有个烧烤野餐，非常欢迎你一起来。
@@ -356,6 +375,7 @@ more intelligent than he was. Without her, there never would have a legend. He w
 rather stupid hoodlum who got into difficult situations almost by accident and then started
 shooting wildly. She was a much warmer, more generous person. +
 
+[.my1]
 ====
 - psychiatrist 精神病学家；精神科医生
 - 一位研究过 Bonnie and Clyde 传说的精神病医生, 对这两个人物进行了比较。
@@ -374,6 +394,7 @@ saw her shoot the second policeman and then laugh. That's the only evidence we h
 that she actually did that. But even if the story is true, the whole incident illustrates(v.) *this
 warmer, almost motherly(a.), side* to her character. +
 
+[.my1]
 ====
 - ruthless (a.)残酷无情的；残忍的
 - That's the only evidence we have
@@ -394,8 +415,9 @@ Then, the next morning, when the rabbit still wasn't any better, she made Clyde 
 build a fire. She was sitting in front of that fire, trying to get the rabbit warm when the two
 policemen drove up and got out. Probably the policemen had no idea who was there.
 
-
+[.my1]
 ====
+
 - about  在…到处；在…各处 /在…四处 +
 -> We wandered about the town for an hour or so. 我们在城里到处游逛了一个小时左右
 
@@ -416,9 +438,9 @@ they were both dead. All because of that pet rabbit which Bonnie wanted to mothe
 And ...uh ... perhaps ... in a strange way, Clyde was something like a pet rabbit, too. She
 was attracted to him /because he was weaker than she was /and needed someone to mother him. It’s strange, you know, but strong, intelligent women are often attracted to such men ... weaker than they are ... men who are like children, or pet rabbits.
 
+[.my1]
 ====
 - mother (v.)to care for sb/sth because you are their mother, or as if you were their mother 给以母亲的关爱；像母亲般地照顾
--
 ====
 
 
@@ -432,6 +454,7 @@ Mrs. Parkinson: Yes, doctor. +
 Psychiatrist: I see. Well, let me just *fill in* this form. Name? +
 Mrs. Parkinson: Parkinson. Enid Parkinson. (Crunch) Mrs. +
 
+[.my1]
 ====
 - in no time 立即, 立刻, 马上, 很快
 - crunch  压碎声；碎裂声
@@ -446,6 +469,7 @@ Psychiatrist: No, not your birthday, Mrs. Parkinson. Your date of birth. +
 Mrs. Parkinson: (Crunch) Twelfth of June 1946. But not a word to my husband, mind, he thinks it was 1956. +
 Psychiatrist: 1946. Right. Now, What seems to be the trouble? +
 
+[.my1]
 ====
 - twelfth 第十二的，第十二个的；十二分之一的
 - But not a word to my husband 但别告诉我丈夫，记住。
@@ -462,6 +486,7 @@ Mrs. Parkinson: (Crunch) About six months ago. My husband and I won a. huge box 
 crisps in a talent competition. And we've not been able (crunch) to stop eating them ever
 since. It's costing us a fortune. (Crunch) +
 
+[.my1]
 ====
 - crisp 油炸土豆片，炸薯片（有多种风味，袋装）
 - get through : If you get through a task or an amount of work, especially when it is difficult, you complete it. 完成; 干完（尤指难做的任务或工作）; 熬过（困难或不快的时期）; 消耗（大量某物）/（法案、提案）正式通过 +
@@ -483,11 +508,12 @@ Mrs. Parkinson: (Crunch) Cheese. Cheese crisps. Cheddar crisps. Roquefort crisps
 Psychiatrist: Yes, they certainly seem to do that. Does anything else come to mind when you're eating these vast amounts of crisps? +
 Mrs. Parkinson: Not much, apart from crisps, doctor. (Crunch) If I'm really *on form* /I can *work up* an appetite for, oh, paprika crisps, or shrimp crisps or even ham and bacon crisps. +
 
+[.my1]
 ====
 - crisp (a.)(食物)脆的；酥脆的
 - Cheddar :  ( ˌCheddar ˈcheese ) [ U ] a type of hard yellow cheese 切德干酪（一种黄色硬奶酪）
 - Roquefort [ U ] a type of soft French cheese with blue marks and a strong flavour 罗克福尔干酪（浓味的法国蓝斑软干酪） +
-image:../img/Roquefort.jpg[]
+image:../img/Roquefort.jpg[,10%]
 - definitely  确切地；明确地；清楚地 +
 -> Please say definitely whether you will be coming or not. 请说清楚，你来还是不来。
 - on form 发挥正常水平；精力充沛
@@ -500,7 +526,7 @@ image:../img/Roquefort.jpg[]
 -> She went for a long walk to work up an appetite. 她为了增加食欲散了很长时间的步。
 
 - paprika 红辣椒粉 +
-image:../img/paprika.jpg[]
+image:../img/paprika.jpg[,10%]
 - shrimp 虾；小虾
 ====
 
@@ -513,6 +539,7 @@ can't hear the telly(n.). And the neighbors bang on the walls late at night. (Cr
 can't sleep. I've offered them a whole box so that ... so that they can do the same, but +
 (crunch) they say they'd rather sleep. +
 
+[.my1]
 ====
 - telly  电视机 /电视节目 +
 -> daytime telly 日间电视节目
@@ -528,6 +555,7 @@ Psychiatrist: Parkinson, yes. Er ... could I have a crisp? +
 Mrs. Parkinson: Certainly, (crunch) doctor. Here, have a couple of bags. +
 Psychiatrist: Oh, thank you, Mrs. Parkinson. Oh, paprika with cheese. (Crunch) Thank you so much and good day. (Crunch, crunch, crunch, crunch, crunch)
 
+[.my1]
 ====
 - earplug 耳塞（用以挡噪音、防水）
 - Here, have a couple of bags.  给，拿几个包。

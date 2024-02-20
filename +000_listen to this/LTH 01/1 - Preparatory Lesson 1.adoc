@@ -1,8 +1,13 @@
 
 = Preparatory Lesson 1
-:TOC:
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../../+ 000 eng选/美国高中历史教材 American History ： From Pre-Columbian to the New Millennium/myAdocCss.css
 
----
+'''
+
+
 
 ==== Section 1
 
@@ -71,18 +76,19 @@ h. Spelling:
 7. W-A-V-E
 8. G-R-E-A-T
 
-i. Contractions:
+i. Contractions (n.)词的缩约形式; 收缩；缩小:
 1. Don't go.
 2. I can't see.
 3. It isn't true.
 4. I'll tell you.
 
-- contraction (n.)词的缩约形式; 收缩；缩小
+
 
 ---
 
 B.
 Listen to the tape and complete the following statements.
+
 a. Dr. Blake wasn't born until 1934. b.
 I'll see you at nine forty-five. 我9点45分见你。
 c. She doesn't live in Oxford Street.
@@ -91,8 +97,11 @@ e. I'd like to phone(v.) Eastleigh, that's E-A-S-T-L-E-I-G-H. Six eight two *dou
 f. Mrs. Jones has an appointment at eight am.
 g. A northeast wind will bring rain to the London area tomorrow.
 
+[.my1]
+====
 - I'd like是I would like 的缩写。would like = want.  “I'd like to...”是“I would like to ...”的缩写，是一种客气的表达自己想法的说法。
 - 77088 可以说 seven seven o eight eight 也可以说 *double seven* o *double eight*.
+====
 
 ---
 
@@ -111,6 +120,7 @@ Look at Practice 2. +
 Look at Practice 3. +
 Put number 7 in box B. Put number 2 in box C. Put number 4 in box A. Add the numbers.
 
+[.my2]
 看这些方格。听数字。把你听到的数字写在方格里。然后把数字相加。看例子1。把1放在a方格里，把2放在b方格里，现在把3放在c方格里，现在把数字相加。1加2加3等于6。现在仔细听。
 
 ---
@@ -125,8 +135,10 @@ Listen to the statements and fill in the blanks.
 6. Does she work in a shoe shop?
 7. Does he work in a shoe shop?
 
+[.my1]
+====
 - statement :  (n.) something that you say or write that gives information or an opinion 说明；说法；表白；表态（文字）陈述，表述
-
+====
 
 ---
 
@@ -139,8 +151,11 @@ Dialogue 1:  +
 — How's that spelt? +
 — H-A-M-P-S-T-E-A-D.
 
+[.my1]
+====
 - King人名(金)
 - spelt v. 拼写（spell的过去式）
+====
 
 ---
 
@@ -150,7 +165,10 @@ Dialogue 2: +
 — Really? Do you like it?  +
 — Yes, I do. It's very interesting.
 
+[.my1]
+====
 - What do you do : 询问对方的“职业”，它相当于What’s your job? 你是做什么的？
+====
 
 ---
 
@@ -162,8 +180,11 @@ Woman: John's a journalist. +
 Mother: Are you? Do you like it? +
 John: Well, it's alright. +
 
+[.my1]
+====
 - how do you do是相对比较正式的问候，常见于60、70年代.
 - alright = all right : acceptable可接受（的）；满意（的）; 尚可；还算可以
+====
 
 ---
 
@@ -174,7 +195,10 @@ Dialogue 4:  +
 —Well, I live in London, but I was born in Manchester. +
 —Oh! +
 
-- English英格兰人
+[.my1]
+====
+- English 英格兰人
+====
 
 ---
 
@@ -192,6 +216,9 @@ Dialogue 5:  +
 
 Dictation. Dictate(v.) five groups of words. *Pay close attention to* the singular and plural forms of nouns.
 
+[.my2]
+听写。口述五组单词。密切注意单数和复数形式.
+
 Group 1:  +
 1. shirt
 2. skirt
@@ -204,28 +231,24 @@ Group 1:  +
 9. pants, shirt and socks
 10. skirt, blouse and sweater
 
+[.my1]
+====
 - dictation : the act of speaking or reading so that sb can write down the words 口述;听写
 - dictate (v.) ~ (sth) (to sb) 口述
-- shirt（尤指男式的）衬衫
+- shirt（尤指男式的）衬衫 +
+image:../img/shirt.png[,10%]
 
-image:../img/shirt.png[]
-
-- skirt女裙;  skirts（连衣裙、外衣等的）下摆
-
-image:../img/skirt.png[]
+- skirt女裙;  skirts（连衣裙、外衣等的）下摆 +
+image:../img/skirt.png[,10%]
 
 
 - sock短袜
-- blouse（女式）短上衣，衬衫
+- blouse（女式）短上衣，衬衫 +
+image:../img/blouse.png[,10%]
 
-image:../img/blouse.png[]
-
-- pants  : ( BrE )内裤；短裤; ( especially NAmE )裤子
-
-image:../img/pants.png[]
-
-听写。口述五组单词。密切注意单数和复数形式.
-
+- pants  : ( BrE )内裤；短裤; ( especially NAmE )裤子 +
+image:../img/pants.png[,10%]
+====
 
 ---
 
@@ -241,12 +264,14 @@ Group 2:
 8. comb, toothbrush and key
 9. bed, table and chair
 
+[.my1]
+====
 - comb梳子；篦子；压发梳；（作为装饰物的）发插
+====
 
 ---
 
-Group 3:
-
+Group 3: +
 1. letter
 2. show
 3. something
@@ -260,13 +285,14 @@ Group 3:
 11. policeman
 12. policewoman
 
-- cigarette香烟
-
+[.my1]
+====
+- cigarette 香烟
+====
 
 ---
 
-Group 4:
-
+Group 4: +
 1. shoes
 2. shut
 3. window
@@ -286,17 +312,18 @@ Group 4:
 17. fourth
 18. fifth
 
+[.my1]
+====
 - lamp灯
 - purse钱包，皮夹子（尤指女用的）
 - plate盘子；碟子
-- stove（用于取暖的）炉子，火炉
-
-image:../img/stove.png[]
+- stove（用于取暖的）炉子，火炉 +
+image:../img/stove.png[,10%]
+====
 
 ---
 
-Group 5:
-
+Group 5: +
 1. talking
 2. another
 3. listening

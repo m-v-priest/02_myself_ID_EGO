@@ -1,8 +1,12 @@
 
 = Lesson 17
-:toc:
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../../+ 000 eng选/美国高中历史教材 American History ： From Pre-Columbian to the New Millennium/myAdocCss.css
 
----
+'''
+
 
 
 == Section 1
@@ -14,8 +18,13 @@ Dialogue 1: +
 —Yes. A three pence stamp, please. +
 —That'll be eighty-five pence in all.
 
+[.my1]
+.案例
+====
+
 - postage 邮资；邮费
 - pence = penny 便士（英国的小硬币和货币单位，1英镑为100便士） /( NAmE ) a cent 分
+====
 
 
 ---
@@ -25,18 +34,23 @@ Dialogue 2: +
 
 —I wish you wouldn't have your TV so loud. +
 —Sorry! Were you trying to sleep? +
-—Yes, and while I think of it —please ask when you borrow the iron. +
+—Yes, and while I think of it 同时我还想起一件事 —please ask when you borrow the iron 熨斗. +
 —I really ought to have known better. Sorry!
 
-- and while I think of it 同时我还想起一件事
-- iron 熨斗
-- should/ought to have done  表示“过去本应该做某事却未做。”  +
+
+[.my1]
+.案例
+====
+
+.should/ought to have done
+表示“过去本应该做某事却未做。”  +
 其否定结构 oughtn't to have done 表示 “过去本不该做某事却做了。” +
-- PHRASE You use *ought to have* with a past participle to indicate that although it was best or correct for someone to do something in the past, they did not actually do it. (某人) 本应该 (表示虚拟语气) +
-->  I realize *I ought to have told you* about it.  我意识到我本该告诉你这件事的。 +
-->  *I ought not to have asked you* a thing like that. I'm sorry.  我本不应该问你这样一件事。对不起。
 
+PHRASE You use *ought to have* with a past participle to indicate that although it was best or correct for someone to do something in the past, they did not actually do it. (某人) 本应该 (表示虚拟语气) +
+-  I realize *I ought to have told you* about it.  我意识到我本该告诉你这件事的。 +
+-  *I ought not to have asked you* a thing like that. I'm sorry.  我本不应该问你这样一件事。对不起。
 
+====
 
 
 ---
@@ -47,17 +61,28 @@ Dialogue 3: +
 —How do you do? +
 —How do you do? +
 —What do you think of life in England? +
-—I'm still feeling pretty homesick(a.). +
-—It's bound(a.) to be strange at first.
+—I'm still feeling pretty homesick(a.)思乡的；想家的；患怀乡病的. +
+—It's bound(a.)一定会；很可能会 to be strange 陌生的；不熟悉的 at first.
 
-- I'd like to = I would like to =I want : 我想要
-- homesick (a.) 思乡的；想家的；患怀乡病的
-- bound (a.)~ to do/be sth : certain or likely to happen, or to do or be sth 一定会；很可能会 +
--> *It was bound to happen* sooner or later (= we should have expected it) . 这事迟早都是要发生的。
-- bound (v.)跳跃着跑
-- strange (a.)~ (to sb)  陌生的；不熟悉的 +
--> a strange city 陌生的城市
 
+[.my1]
+.案例
+====
+.I'd like to
+= I would like to =I want : 我想要
+
+
+.bound
+(a.)~ to do/be sth : certain or likely to happen, or to do or be sth 一定会；很可能会 +
+- *It was bound to happen* sooner or later (= we should have expected it) . 这事迟早都是要发生的。
+
+.bound
+(v.)跳跃着跑
+
+.strange
+(a.)~ (to sb)  陌生的；不熟悉的 +
+- a strange city 陌生的城市
+====
 
 
 
@@ -72,11 +97,13 @@ Dialogue 4: +
 —Thank you for a wonderful meal. +
 —I'm glad you enjoyed it.
 
+[.my1]
+====
 - It's time we were off 这是虚拟的用法, 本句翻译为"我们该走了"，但隐含之意为说话时已经晚了！
 - So soon 如此快，这么快
 - What a shame 真遗憾; 多可惜; 真可惜
 - a shame [ sing. ] used to say that sth is a cause for feeling sad or disappointed 令人惋惜的事；让人遗憾的事
-
+====
 
 ---
 
@@ -87,6 +114,8 @@ Dialogue 5: +
 —Isn't it out of your way? +
 —No, it's on my way home.
 
+[.my1]
+====
 - catch [ VN ] ( informal, especially NAmE ) to see or hear sth; to attend sth 看见；听到；出席；参加 / 听清楚；领会 +
 -> Sorry, I didn't quite catch what you said. 对不起，我没听清楚你的话。
 - lift (n.)免费搭车；搭便车 +
@@ -95,7 +124,7 @@ Dialogue 5: +
 - out of your ˈway : not on the route that you planned to take 不在计划走的路线上 +
 -> I'd love a ride home —if it's not out of your way. 我很想搭你的车回家，如果这不叫你绕路的话。
 - out of the ˈway 不再挡路；不再碍事
-
+====
 
 ---
 
@@ -108,13 +137,15 @@ Dialogue 6: +
 —What should I do? +
 —I'll give you something for it, and come to see you in a couple of days.
 
+[.my1]
+====
 - shivery (a.)颤抖的，战栗的，哆嗦的（因寒冷、恐惧、患病等）
 -  **the best/better part of sth** : most of sth, especially a period of time; more than half of sth （事物、时间的）绝大部分，多半 +
 ->  The journey took her *the better part of an hour*. 旅程花去了她半个多小时
 - chill  着凉；受寒. A chill is a mild illness which can give you a slight fever and headache. 风寒
 
 - I'll give you something for it 我给你开点药
-
+====
 
 ---
 
@@ -132,13 +163,15 @@ Woman: Oh, marmalade, please. +
 Waiter: And what would you like to drink, madam? +
 Woman: Coffee, please, black coffee.
 
+[.my1]
+====
 - pineapple  菠萝；凤梨
 - honey 蜂蜜
 - mar·ma·lade :  jam/jelly made from oranges, lemons, etc., eaten especially for breakfast 橘子酱；酸果酱 +
-image:../img/marmalade.jpg[]
+image:../img/marmalade.jpg[,10%]
 
 - jam :[ UC ] a thick sweet substance made by boiling fruit with sugar, often sold in jars and spread on bread 果酱 +
-image:../img/jam.jpg[]
+image:../img/jam.jpg[,10%]
 
 - black coffee  黑咖啡（什么都不加的纯咖啡）
 - white coffee 加了牛奶或者稀奶油的咖啡
@@ -149,19 +182,20 @@ image:../img/jam.jpg[]
 - latte 拿铁(+牛奶)咖啡 +
 => “拿铁”不是咖啡。拿铁（Latte）在意大利语里是“牛奶”的意思. 意大利语的 Caffè Latte 指的才是拿铁咖啡。现在很多冷饮店都会推出自己的“拿铁”系列，像“红茶拿铁”“抹茶拿铁”等等，其实就是奶茶, 而并没有咖啡的成分。 +
 *拿铁咖啡（Coffee Latte）, 是意大利浓缩咖啡（Espresso）与牛奶的混合.* +
-image:../img/Coffee Latte.jpg[]
+image:../img/Coffee Latte.jpg[,10%]
 
 - mocha 摩卡(+巧克力)咖啡 :  a drink made or flavoured with this, often with chocolate added 加巧克力的摩卡咖啡饮料 +
 => *cafe mocha （摩卡咖啡），指混合巧克力的咖啡.* +
-image:../img/cafe mocha.jpg[]
+image:../img/cafe mocha.jpg[,10%]
 
 - cappuccino :  a type of coffee made with hot frothy milk and sometimes with chocolate powder on the top 卡普契诺咖啡，卡布奇诺咖啡（加热奶，有时上面撒有巧克力粉） +
 => 是一种加入以同量的意大利特浓咖啡, 和蒸汽泡沫牛奶, 相混合的意大利咖啡。传统的卡布奇诺咖啡, 是三分之一浓缩咖啡，三分之一蒸汽牛奶, 和三分之一泡沫牛奶，并在上面撒上小颗粒的肉桂粉末。 +
 卡布奇诺咖啡, 是意大利咖啡的一种变化，即在偏浓的咖啡上，倒入以蒸汽发泡的牛奶，此时咖啡的颜色, 就像卡布奇诺教会(Capuchin)修士深褐色外衣上覆的头巾一样，咖啡因此得名。 +
-image:../img/cappuccino.jpg[]
+image:../img/cappuccino.jpg[,10%]
 
 - instant coffee 速溶咖啡
 - brewed coffee 现煮的咖啡
+====
 
 ---
 
@@ -196,9 +230,11 @@ Head Waiter: Could you just repeat that, please? +
 Man: Kryzkoviak, that's Polish, you know. K-R-Y-Z-K-O-V-I-A-K. +
 Head Waiter: Yes. Thank you, Mr. Kryzkoviak. We look forward to seeing you.
 
+[.my1]
+====
 - dance floor :an area where people can dance in a hotel, restaurant, etc. （旅馆、餐厅供客人跳舞的）舞场，舞池 +
-image:../img/dance floor.jpg[]
-
+image:../img/dance floor.jpg[,10%]
+====
 
 ---
 
@@ -214,12 +250,14 @@ image:../img/dance floor.jpg[]
 —But I've seen it before. +
 —Never mind. Perhaps you'll like it better the second time.
 
+[.my1]
+====
 - We haven't been for ages 我们好久没做了 +
 - ages [pl.] ( also an age [ sing. ] ) ( informal especially BrE ) a very long time 很长时间 +
 -> I waited for ages . 我等了好长时间。 +
 -> Carlos left ages ago . 卡洛斯老早就离开了。 +
 -> It's been an age since we've seen them. 我们有很长一段时间没有见到他们了。
-
+====
 
 
 (In the cinema) +
@@ -227,16 +265,21 @@ image:../img/dance floor.jpg[]
 —Would you like an ice cream? +
 —Shhhh. No, thank you. +
 
+[.my1]
+====
 - Shhhh 嘘（语气词）
-
+====
 
 —(Let's run away together and forget about the whole world.) +
 —What about some chocolates? +
 —Shut up! I'm watching the film. +
 —Well, I'm gonna get myself some chocolates. +
 
+[.my1]
+====
 - run away 私奔 /出走
 - gonna 将要（等于 going to）
+====
 
 —(Just you and me and nobody else.)
 (After the film) +
@@ -248,9 +291,11 @@ image:../img/dance floor.jpg[]
 —I just wondered. You don't usually like rubbish films like that. +
 —It wasn't rubbish at all. Some of the films you like are really terrible, though.
 
+[.my1]
+====
 - Do you feel alright? 您觉得还好吗?
 - wonder : V-T/V-I If you wonder about something, you think about it, either because it interests you and you want to know more about it, or because you are worried or suspicious about it.  想知道
-
+====
 
 ---
 
@@ -263,9 +308,11 @@ clouds. The spaceship descended slowly through the clouds and landed in the midd
 green forest. The two astronauts put on their space suits, opened the door, climbed
 carefully down the ladder, and stepped onto the planet.
 
+[.my1]
+====
 - descend (v.)下来；下去；下降 +
 -> The plane began to descend. 飞机开始降落。
-
+====
 
 The woman looked at a small control unit on her arm. 'It's all right,' she said to the
 man. 'We can breathe the air ... it's a mixture of oxygen and nitrogen.' Both of them took
@@ -273,19 +320,24 @@ off their helmets and breathed deeply. +
 They looked at everything carefully. All the plants and animals looked new and
 strange. They could not find any intelligent life.
 
+[.my1]
+====
 - nitrogen  氮；氮气
 - helmet 头盔；防护帽
 - intelligent 有智力的；有理解和学习能力的 /智能的 / 有才智的；悟性强的；聪明的
+====
 
 After several hours, they returned to their spaceship. Everything looked normal. The
 man switched on the controls, but nothing happened. 'Something's wrong,' he said. 'I don't understand ... the engines aren't working.' He switched on the computer, but that didn't work either. 'Eve,' he said, 'we're stuck here ... we can't take off!'
 'Don't worry, Adam,' she replied. 'They'll rescue us soon.'
 
+[.my1]
+====
 - switch off/on | switch sth off/on 关╱开（电灯、机器等） +
 -> How do you switch this thing on? 这东西怎么开？
 
 - take off  (飞机) 起飞 / 脱去
-
+====
 
 ---
 
@@ -298,11 +350,13 @@ teachers protested(v.) about their salaries and conditions. London teachers are 
 second week of their strike(n.) for better pay. Tim Burston, BBC correspondent for education
 was there.
 
+[.my1]
+====
 - scene : A scene in a play, movie, or book is part of it in which a series of events happen in the same place. 场面; 片断 /景象 /场面; 事件
 - Downing Street 唐宁街(英国首相及财政大臣所居住的位于伦敦的街道); 英国首相及其手下官员
 - protest (v.)~ (against sth) 抗议；抗议书（或行动）；反对
 - strike 罢工；罢课；罢市
 - correspondent 记者；通讯员
-
+====
 
 ---

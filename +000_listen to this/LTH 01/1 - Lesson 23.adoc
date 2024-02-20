@@ -1,8 +1,13 @@
 
 = Lesson 23
-:toc:
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../../+ 000 eng选/美国高中历史教材 American History ： From Pre-Columbian to the New Millennium/myAdocCss.css
 
----
+'''
+
+
 
 
 == Section 1
@@ -18,6 +23,8 @@ Waitress: Perhaps I could go through it for you. The first item is the cover cha
 2 is the beer. Then your starter, your main course and the vegetables. The main course
 was 4.50 not 3.50, so item 6 is the difference.
 
+
+[.my1]
 ====
 - Could I have the bill, please? 　请把帐单给我好吗?
 - One moment 等一下, 马上
@@ -42,11 +49,13 @@ Waitress: I'm afraid we don't accept credit cards. +
 Mr. Hanson: Oh dear. What about a cheque with a banker's card? +
 Waitress: Yes, sir. That will be all right. +
 
+
+[.my1]
 ====
 - follow (v.) 理解，明白（说明或意思） +
 -> Sorry, I don't follow. 对不起，我不明白。
 - dessert : sweet food eaten at the end of a meal （饭后）甜点，甜食 +
-image:../img/dessert.jpg[]
+image:../img/dessert.jpg[,10%]
 
 
 ====
@@ -66,6 +75,8 @@ Customer: I think you have charged me twice for the same thing.
 Look, the figure of 5.50 appears here and then again here. +
 Waiter: I'll just go and check it for you, sir.
 
+
+[.my1]
 ====
 - charge (v.)~ (sb/sth) for sth |~ (sb) sth (for sth) : 收（费）；（向…）要价
 ====
@@ -81,6 +92,8 @@ Waiter: Certainly, sir. We'll give you the change in local currency if that's al
 Customer: You needn't worry about that. There won't be much change out of twenty-five dollars. +
 Waiter: Thank you, sir. That's most kind of you.
 
+
+[.my1]
 ====
 - cashier : a person whose job is to receive and pay out money in a bank, shop/store, hotel, etc. 出纳员;收银员
 - traveler's cheques 旅行支票.
@@ -109,6 +122,8 @@ Waiter: Thank you, sir. That's most kind of you.
 —Waiter, there is a fly in my soup. +
 —Don't worry, sir. There is no extra charge.
 
+
+[.my1]
 ====
 - Shh 嘘；安静一点
 - backstroke 仰泳
@@ -134,6 +149,8 @@ When Henri got home, he told his landlady about the incident. +
 conductor is allowed to ring the bell twice. That's why he got so annoyed." +
 Henri nodded. "I see," he said.
 
+
+[.my1]
 ====
 - get off : to leave a place or start a journey; to help sb do this （使某人）离开，出发，动身 +
 -> We got off straight after breakfast. 我们早饭后就立即动身了。  +
@@ -159,6 +176,8 @@ C: Mm. (looking puzzled) So you'd like somewhere warm? +
 B: Not too warm. +
 A: Yes, as sunny as possible. +
 
+
+[.my1]
 ====
 - couple （人）一对；（尤指）夫妻，情侣
 - sunbathing 日光浴
@@ -178,6 +197,8 @@ A: What do you mean? We want a top hotel. +
 B: But we can't afford it. +
 A: Of course, we can. We've been saving up all year.
 
+
+[.my1]
 ====
 - night-life 夜生活
 - discos 迪斯科. 原意是指“供人跳舞的舞厅”
@@ -194,6 +215,8 @@ B: No —there are too many English people there! +
 A: Well, then at least we'd have someone to talk to. +
 B: But, there's no point in going abroad to meet English people there! +
 
+
+[.my1]
 ====
 - bemused (a.)showing that you are confused and unable to think clearly 困惑的；茫然的 +
 -> a bemused expression/smile 困惑不解的表情╱微笑
@@ -213,6 +236,8 @@ A: That's an interesting idea. +
 B: I'm not so sure ... +
 C: Look, why don't you *come round* now and meet my wife and we can see what we can arrange ...
 
+
+[.my1]
 ====
 - lively 繁忙活跃的；兴旺的
 - split (v.)分裂，使分裂（成不同的派别）
@@ -240,6 +265,8 @@ customs officer (C.O.). +
 Man: (whispering) Don't worry. Everything will be all right. +
 Woman: I hope you know what you're doing!
 
+
+[.my1]
 ====
 - customs （政府部门）海关 /（港口或机场的）海关
 - case : [ C ] ( often in compounds 常构成复合词 ) a container or covering used to protect or store things; a container with its contents or the amount that it contains 容器；箱；盒；套；罩；容器及内装物；（容器的）容量 +
@@ -266,6 +293,8 @@ Woman: Oh, Harry. You've never said that before. +
 Man: Well, it's true! It's just that I've never been able to tell you before. +
 Woman: And I love you too! +
 
+
+[.my1]
 ====
 - declare (v.)to say sth officially or publicly 公布；宣布；宣告 /to tell the tax authorities how much money you have earned 申报（收益）
 ====
@@ -278,9 +307,11 @@ I'd rather not tell you about. +
 Woman: Harry! And I thought you'd forgotten again! +
 Man: Of course not, dear! +
 
+
+[.my1]
 ====
 - record-player :  A record player is a machine on which you can play a record in order to listen to the music or other sounds on it. 唱机 +
-image:../img/record-player.jpg[]
+image:../img/record-player.jpg[,10%]
 - fridge 冰箱
 ====
 
@@ -291,6 +322,8 @@ should know about. +
 Man: Well, let's have a look. (opens bag) We've got some bars of soap, a tube of
 toothpaste, clothes, a jar of cream ... +
 
+
+[.my1]
 ====
 - jar : a jar and what it contains 一罐，一瓶（的量）
 - cream :
@@ -310,6 +343,8 @@ Man: You mean that's it? +
 C.O.: Please go away! +
 Woman: Come on, Harry. He just told us we could go.
 
+
+[.my1]
 ====
 - liable (a.)
 1.~ (for sth) : legally responsible for paying the cost of sth （法律上）负有偿付责任::
@@ -330,6 +365,8 @@ Woman: But Harry! You just said you loved me. +
 Man: Not any more. +
 C.O.: And now what have you got to declare, sir?
 
+
+[.my1]
 ====
 - take hold of 抓住, 握住
 - clumsy 笨拙的；不灵巧的
@@ -359,11 +396,14 @@ Bermuda, and stayed in a luxury hotel. One day, he was sitting by the pool and o
 him he saw Draper drinking champagne. Sam walked over to him.  +
 
 
+
+[.my1]
 ====
 - smuggler 走私者
 
 - 不要混淆 *used(v.过去时) to do sth* 与 *be(系) used(a.) to sth*。 可参考有道牛津辞典, 搜关键词"used to".
 
+[.my3]
 [cols="1a,1a"]
 |===
 |Header 1 |Header 2
@@ -425,6 +465,8 @@ This is often the last hope.  +
 
 Of course, with nearly two million missing children every year, we can't do all these things for everyone. We haven't got the time, the money or the staff.
 
+
+[.my1]
 ====
 - miss·ing  (a.)找不到的；不在的；丢失的
 - APB （all points bulletin） 全境通告
@@ -445,6 +487,8 @@ On a good day I write fifteen hundred words or more, sometimes two thousand word
 
 If you’re a writer you need self-discipline. But if you’re tired, it shows: the mind and body must be fresh.
 
+
+[.my1]
 ====
 -  morning person  喜欢早起的人
 - evening person 夜猫子

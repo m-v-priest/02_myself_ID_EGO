@@ -1,8 +1,13 @@
 
 = Lesson 18
-:toc:
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../../+ 000 eng选/美国高中历史教材 American History ： From Pre-Columbian to the New Millennium/myAdocCss.css
 
----
+'''
+
+
 
 
 == Section 1
@@ -26,6 +31,8 @@ Dialogue 2: +
 —Do you think I could have a look at it, please? +
 —We're having it decorated at the moment. Will Friday do?
 
+
+[.my1]
 ====
 - take sb in : to allow sb to stay in your home 留宿；收留 /欺骗；蒙骗
 - heating (n.) 供暖；供暖系统；暖气设备
@@ -45,6 +52,8 @@ Dialogue 3: +
 —How about 12:45? +
 —Sorry, but that's taken, too.
 
+
+[.my1]
 ====
 - dentist 牙科医生
 - *fit sb/sth in | fit sb/sth in/into sth* 找到时间（见某人、做某事） +
@@ -72,6 +81,8 @@ Dialogue 4: +
 —Not so far, no. +
 —There's nothing at present, but look back in a week.
 
+
+[.my1]
 ====
 -我想知道你们是否需要兼职。 +
 - Not so far 迄今尚未; 尚没有过
@@ -87,6 +98,8 @@ Dialogue 5: +
 —Would you like it washed? +
 —No, thank you. Just leave it as it is.
 
+
+[.my1]
 ====
 - trim (v.)to make sth neater, smaller, better, etc., by cutting parts from it  修剪；修整 / (n.) （尤指毛发的）修剪 +
 -> to trim your hair 理发 +
@@ -105,12 +118,14 @@ Dialogue 6: +
 —Are you likely to be getting any more in? +
 —I should think so, yes. If you leave your phone number, I'll ring you.
 
+
+[.my1]
 ====
 - What have you got in the way of brown suede jackets : ... 你们有没有货？  in the way of 是指在。。。。方面；关于的意思。
 
 - suede (n.)soft leather with a surface like velvet on one side, used especially for making clothes and shoes 绒面革；仿麂皮 +
 => 词源同 Sweden,瑞典。可能因这种皮革产自瑞典而得名。 +
-image:../img/suede.jpg[]
+image:../img/suede.jpg[,10%]
 
 - sell out 销售一空 /售完; 不再有存货
 - get   （定期）买，购买 SYN take +
@@ -131,6 +146,8 @@ Dialogue 7: +
 —Would you tell her I rang? +
 —I'd be glad to.
 
+
+[.my1]
 ====
 - Hold the line 别断挂电话; 坚持下去，保持不变
 ====
@@ -148,6 +165,8 @@ Dialogue 8: +
 —Could you take a message? +
 —Yes, of course.
 
+
+[.my1]
 ====
 - Right you are : said to show that you understand and agree 我同意；没问题
 - take a message 捎口信，带口信
@@ -162,6 +181,8 @@ Dialogue 8: +
 
 (Elina Malinen was in fact invited for an interview at the "Bon Appetit Restaurant". Here is part of the interview.) +
 
+
+[.my1]
 ====
 - appetite (n.)食欲；胃口
 ====
@@ -176,6 +197,8 @@ Johnson: And you want to work in England too. Why? +
 Elina: I'm keen on getting some experience abroad, and I like England and English
 people. +
 
+
+[.my1]
 ====
 - Won't you sit down 请坐.  +
 *Won't you + 动词原型 : 代表指示或命令，是一固定用法。*
@@ -190,6 +213,8 @@ Elina: Medium-size for Finland, about forty tables. +
 Johnson: I see. Well, you'd find it rather different here. Ours is much smaller, we have only ten tables. +
 Elina: That must be very cosy. +
 
+
+[.my1]
 ====
 - employment :  work, especially when it is done to earn money; the state of being employed 工作；职业；受雇 +
 -> full-time/part-time employment 全职╱兼职工作
@@ -206,6 +231,8 @@ drinks, and if necessary looking after the bills. So you'd be kept pretty busy. 
 Elina: I'm used to(prep.) that. In my last position we were busy most of the time, especially in
 summer. +
 
+
+[.my1]
 ====
 - intimate :( of people 人 ) having a close and friendly relationship 亲密的；密切的 /个人隐私的（常指性方面的） +
 / ( of a place or situation 地方或情形 ) encouraging close, friendly relationships, sometimes of a sexual nature 宜于密切关系的；温馨的；便于有性关系的  +
@@ -245,6 +272,8 @@ Elina: Well, I'm free this evening otherwise. +
 Johnson: Good. And in return perhaps you will have dinner with us? Now, let me show
 you the kitchen first. This way, please ...
 
+
+[.my1]
 ====
 -  so to speak 可以这么说, 话说回来.  +
 用一句话概括或整理自己的想法或状况时, 可以用这个短语。类似中文 “一句话”。 +
@@ -279,6 +308,8 @@ Tom: And what about the twins? Where are Peter and Paul? +
 Helen: They were sick(a.) all night. That's why Mum is so tired today. And ... they're having a birthday party tomorrow. Remember? +
 Tom: Another birthday? Helen, look at the clock. It's 8:45. Let's go. We're going to be late.
 
+
+[.my1]
 ====
 - kettle （烧水用的）壶，水壶
 - whistle (v.)(n.) 哨子/哨子声 / 汽笛声；警笛声；呼啸声
@@ -302,6 +333,8 @@ shouldn't have done that, you know. The neighbors got suspicious and phoned the
 police ... +
 —But I was only looking, officer. +
 
+
+[.my1]
 ====
 - come off it （粗鲁地表示不同意）别胡扯，别胡说，住口 +
 -> Come off it! We don't have a chance. 别胡扯了！我们没机会。
@@ -311,6 +344,8 @@ police ... +
 your number. And if you'd worn a mask, you wouldn't have been recognized. +
 —I didn't go inside! +
 
+
+[.my1]
 ====
 - robbery (n.)盗窃；抢劫；掠夺
 - shouldn’t have done 表示“本不应做某事, 却做了”
@@ -326,6 +361,8 @@ have left your fingerprints all over the house. We found your fingerprints on th
 —My God! You know everything! I'll tell you something, officer —you shouldn't have joined
 the police force. If you'd taken up burglary, you'd have made a fortune!
 
+
+[.my1]
 ====
 - jewel 宝石;  珠宝首饰
 - mattress 床垫
@@ -348,6 +385,8 @@ hard pitches(n.) they break their bones. On muddy ones they sprain(v.) their mus
 Footballers must be mad. And why do people watch football? They must be mad too.
 They certainly shout and scream like madmen.
 
+
+[.my1]
 ====
 - black eye （被打成的）青肿眼眶, 黑眼圈
 - pitch  （体育比赛的）场地；球场
@@ -364,6 +403,8 @@ Photos of footballers, interviews with footballers, reports of football matches.
 Footballers are the heroes of the twentieth century. They're rich and famous. Why? Because they can kick a ball around. How stupid! Everyone seems to be mad about football, but I'm not. +
 *Down with* football, I say.
 
+
+[.my1]
 ====
 - around (adv.)active and well known in a sport, profession, etc. （体育运动、专业等中）走红的，活跃的 +
 -> She's been around as a film director since the 1980s. 自20世纪80年代以来她一直是活跃在影坛的著名导演。
@@ -386,6 +427,8 @@ Tom: I've cut my finger and it's bleeding a lot.
 Mrs. Brink: Let me see, Tom ... Hmmm, that is a bad cut. I can clean it and put a plaster on
 it, but you'll have to see the doctor.
 
+
+[.my1]
 ====
 - finger  手指
 - plaster 膏药；创可贴；护创胶布 /熟石膏

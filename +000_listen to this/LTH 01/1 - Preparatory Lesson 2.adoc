@@ -1,13 +1,17 @@
 
 = Preparatory Lesson 2
-:TOC:
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../../+ 000 eng选/美国高中历史教材 American History ： From Pre-Columbian to the New Millennium/myAdocCss.css
 
----
+'''
+
+
 
 ==== Section 1
 A.
-Numbers. Write the numbers you hear on the tape. The first one has been done for you.
-
+Numbers. Write the numbers you hear on the tape. The first one has been done for you.  +
 1. eighteen
 2. ninety
 3. seventeen
@@ -70,6 +74,8 @@ Times. Are these times the same or different from those on the tape? Mark the co
 10. It's nine thirty.  9:30
 
 
+[.my1]
+====
 - 表盘左侧用to,右侧用past
 -> ten past nine = 9:10 +
 -> fifteen past nine 或 a quarter past nine = 9:15 +
@@ -84,7 +90,8 @@ Times. Are these times the same or different from those on the tape? Mark the co
 -> 9:15 = nine fifteen ; fifteen past nine ; a quarter past nine  +
 -> 3:45 = three forty-five ; fifteen to four ; a quarter to four
 
-image:../img/time.jpg[]
+image:../img/time.jpg[,10%]
+====
 
 ---
 
@@ -114,11 +121,13 @@ Tony: The tall one with fair hair. +
 George: That's Lisa. +
 Tony: She's nice, isn't she?
 
-- fair浅色的；白皙的; ( especially BrE ) quite good 相当好的；不错的
-
-image:../img/fair.png[]
+[.my1]
+====
+- fair浅色的；白皙的; ( especially BrE ) quite good 相当好的；不错的 +
+image:../img/fair.png[,10%]
 
 - nice : ~ (to do sth)~ (doing sth)~ (that...) pleasant, enjoyable or attractive 令人愉快的；宜人的；吸引人的; ~ (to sb)~ of sb (to do sth)~ (about sth) kind; friendly 好心的；和蔼的；友好的
+====
 
 ---
 
@@ -138,11 +147,14 @@ Kurt: Would you like to come to the cinema this evening? +
 Georgina: Oh, that would be lovely. +
 Kurt: Fine. ... *I'll call for you* at about six o'clock.
 
+[.my1]
+====
 - Georgina乔治娜（女子名，Georgia的昵称）
 - that would be lovely. 那太好了!一般可用于感谢、感叹
 - lovely令人愉快的；极好的; beautiful; attractive 美丽的；优美的；有吸引力的；迷人的 +
 -> ‘Can I get you anything?’ ‘A cup of tea would be lovely.’ “要我给你来点什么？”“一杯茶就很好了。”
 - call for 前往接某人
+====
 
 ---
 
@@ -159,6 +171,7 @@ Peter: Yes, but they have a lot of responsibility. +
 Anne: Well, they earn a good salary, don't they? +
 Peter: That's true. But they have to retire when they are quite young.
 
+[.my2]
 但是航空公司的飞行员有很多时间不在家。
 
 ---
@@ -167,8 +180,7 @@ Peter: That's true. But they have to retire when they are quite young.
 
 Dictation. Dictate the following seven groups of words and phrases.
 
-Group 1:
-
+Group 1: +
 1. kitchen
 2. sink
 3. under
@@ -182,19 +194,20 @@ Group 1:
 11. left
 12. right
 
+[.my1]
+====
 - kitchen厨房
 - sink （厨房里的）洗涤池，洗碗槽
-- teakettle烧水壶  kettle（烧水用的）壶，水壶
-
-image:../img/teakettle.png[]
+- teakettle烧水壶  kettle（烧水用的）壶，水壶 +
+image:../img/teakettle.png[,10%]
 
 - curtain窗帘
 - plant植物
+====
 
 ---
 
-Group 2:
-
+Group 2: +
 1. lying down
 2. reading
 3. drinking
@@ -211,13 +224,15 @@ Group 2:
 14. someone
 15. finished
 
-- bone挑掉…的鱼刺；剔去…的骨头
+[.my1]
+====
+- bone 挑掉…的鱼刺；剔去…的骨头
 - cooking (n.) 烹饪；烹调
+====
 
 ---
 
-Group 3:
-
+Group 3: +
 1. holding
 2. son
 3. friend
@@ -226,8 +241,7 @@ Group 3:
 
 ---
 
-Group 4:
-
+Group 4: +
 1. want
 2. hungry
 3. tired
@@ -235,13 +249,15 @@ Group 4:
 5. thirsty
 6. dinner
 
+[.my1]
+====
 - thirsty (a.)渴的；口渴的; /渴望；渴求；热望
 - dinner (n.) （中午或晚上吃的）正餐，主餐 ; /宴会
+====
 
 ---
 
-Group 5:
-
+Group 5: +
 1. living room
 2. wall
 3. above
@@ -257,11 +273,14 @@ Group 5:
 13. right
 14. between
 
+[.my1]
+====
 - rug小地毯；垫子; /（盖腿的）厚毯子
+====
 
 ---
 
-Group 6:
+Group 6: +
 1. wait for
 2. bus
 3. sleep
@@ -273,8 +292,7 @@ Group 6:
 
 ---
 
-Group 7:
-
+Group 7: +
 1. to be about
 2. weather
 3. housewife
@@ -289,8 +307,11 @@ Group 7:
 12. spring
 13. flowers
 
-- mechanic : a person whose job is repairing machines, especially the engines of vehicles 机械师；机械修理工；技工 / mechanics机械学
+[.my1]
+====
+- mechanic : a person whose job is repairing machines, especially the engines of vehicles 机械师；机械修理工；技工 / mechanics机械学 +
+image:../img/mechanic.jpg[,10%]
 
-image:../img/mechanic.jpg[]
+====
 
 ---

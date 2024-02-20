@@ -1,8 +1,13 @@
 
 = Lesson 28
-:toc:
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../../+ 000 eng选/美国高中历史教材 American History ： From Pre-Columbian to the New Millennium/myAdocCss.css
 
----
+'''
+
+
 
 
 == Section 1
@@ -13,6 +18,7 @@
 Tomatoes! Tomatoes! Forty p a pound. Yer lovely salad tomatoes today. Lots o'lovely
 mush. Fifty p half pound, and a punnet o'strawberries ... for one pound.
 
+[.my1]
 ====
 - Yer （书写时用，表示口语的you或your） ( informal non-standard ) +
 -> What's yer name? 你叫什么名字？
@@ -21,11 +27,12 @@ mush. Fifty p half pound, and a punnet o'strawberries ... for one pound.
 - mush : a soft thick mass or mixture 软稠的一摊；糊状物 /玉米粥 +
 -> The vegetables had turned to mush. 蔬菜都烂成了一堆。 +
 -> His insides suddenly felt like mush. 他内心突然伤感起来 +
-image:../img/mush.jpg[150,150]
+image:../img/mush.jpg[,10%]
 
 - punnet  /ˈpʌnɪt/ a small box or basket that soft fruit is often sold in  （盛软质水果的）小果盒，小果篮 +
 => 来自pun,磅，来自pound的方言变体。-et,小词后缀。因该果篮原用于一种测量工具。 +
-image:../img/punnet.jpg[150,150]
+image:../img/punnet.jpg[,10%]
+
 
 ====
 
@@ -35,6 +42,7 @@ image:../img/punnet.jpg[150,150]
 (b) +
 You have exactly three and a half hours before *polling stations* close. Three and a half hours, which means, obviously that you’ve got three and a half hours in which to cast(v.) your vote, a vote which I know you’re all going to cast for Mary Hargreaves, the future member of Parliament. Mary Hargreaves has campaigned(v.) furiously and industriously over ...
 
+[.my1]
 ====
 - polling station : ( especially BrE ) ( NAmE usually ˈ**polling place** ) a building where people go to vote in an election 投票站；投票点
 - cast (v.)to throw sb/sth somewhere, especially using force 扔；掷；抛 +
@@ -51,12 +59,13 @@ You have exactly three and a half hours before *polling stations* close. Three a
 (c) +
 Welcome to Tescos. May we inform(v.) our customers that today we have English strawberries on *special offer* at only sixty-five p a pound and raspberries at only forty-nine p a pound and loganberries at thirty-eight p a pound. We hope you will *avail(v.) yourselves of* our special offers.
 
+[.my1]
 ====
 - inform (v.) ~ sb (of/about sth) 知会；通知；通告
 - special offer  : [ CU ] a product that is sold at less than its usual price, especially in order to persuade people to buy it; the act of offering goods in this way 特价商品；特价销售
 
 - rasp·berry : a small dark red soft fruit that grows on bushes 覆盆子；山莓；悬钩子 +
-image:../img/raspberry.jpg[150,150]
+image:../img/raspberry.jpg[,10%]
 
 - avail (v.)有帮助；有益；有用
 - *avail yourself of sth* :
@@ -71,14 +80,17 @@ image:../img/raspberry.jpg[150,150]
 (sound of applause and cheering in background)  +
 We can’t continue the concert until people have cleared the central aisle. The space … We’ve got to keep the path clear for emergency services and we can’t continue the music until it is cleared. Now, please, clear the central aisle!
 
+[.my2]
+(背景掌声和欢呼声) +
+在把中间过道的人群清走之前，我们无法继续进行音乐会。中间的通道,…我们是留作为紧急情况服务的, 必须保持畅通，在它保持畅通之前, 我们不会继续播放音乐。所以, 现在，请大家离开中间通道!
+
+[.my1]
 ====
 - concert 音乐会；演奏会
 - clear (v.) to make people leave a place 使人离开
 - aisle :  /aɪl/ a passage between rows of seats in a church, theatre, train, etc., or between rows of shelves in a supermarket （教堂、戏院、火车等座位间或超级市场货架间的）走道，过道 +
--> image:../img/aisle.jpg[150,150]
+image:../img/aisle.jpg[,10%]
 
-- (背景掌声和欢呼声) +
-在把中间过道的人群清走之前，我们无法继续进行音乐会。中间的通道,…我们是留作为紧急情况服务的, 必须保持畅通，在它保持畅通之前, 我们不会继续播放音乐。所以, 现在，请大家离开中间通道!
 ====
 
 ---
@@ -86,6 +98,7 @@ We can’t continue the concert until people have cleared the central aisle. The
 (e) +
 End Apartheid! End Apartheid! Apartheid! Out! Out! Out! Free Africa! Free Africa! Black and white together! Black and white together! Apartheid out! Apartheid out! Out! Out! Out!
 
+[.my1]
 ====
 - apart·heid  /əˈpɑːtaɪt/  种族隔离（前南非政府推行的政策） +
 => 由apart（分离、隔离）+heid（=hood）构成
@@ -98,12 +111,13 @@ End Apartheid! End Apartheid! Apartheid! Out! Out! Out! Free Africa! Free Africa
 Er, now, a, a few points for all the stewards and demonstrators before we move off. Er … er … Can you be quiet, please! Now, will all the stewards please remember to walk on the outside of the column, on the outside, very important, and the demonstrators, please *pay particular attention to* the route. +
 Now, we will be walking down Park Lane to, to Piccadilly and we will be going through Piccadilly Circus(n.) and Leicester Square and from then on into Trafalgar Square. No right turns, no left turns, straight on into Trafalgar Square. Is that OK?
 
+[.my1]
 ====
 - point 论点；观点；见解
 - steward （轮船、飞机或火车上的）乘务员，服务员 /（私人家中的）管家
 - demonstrator （集会或游行的）示威者 /示范者；演示者
 - cir·cus ( BrE ) (used in some place names) a round open area in a town where several streets meet （用于某些地名）圆形广场，环形交叉路口 +
-image:../img/Piccadilly Circus.jpg[150,150]
+image:../img/Piccadilly Circus.jpg[,10%]
 
 - 呃，现在，在我们出发之前，我要给所有的工作人员和示威者一点建议。你能安静点吗，拜托!现在，请所有的工作人员记住走在圆柱外面，在外面，非常重要，而示威者们，请特别注意路线。 +
 现在，我们将沿着公园巷走到皮卡迪利大街，我们将穿过皮卡迪利广场和莱斯特广场，然后进入特拉法加广场。不要右转，不要左转，一直直线走到特拉法加广场。这样可以吗?
@@ -123,6 +137,7 @@ Any old iron? Any old iron? Anybody, iron? Any old iron?
 
 He’s quite a solitary(a.) type of person, really. You know, he spends most of his time at home, reading, listening to the radio, things like that. He goes out to the pub occasionally, and he does quite a lot of singing, too —he belongs to the local choir, I believe —but you never see him at weekends. He’s always off somewhere in the country, walking or fishing. He does a lot of fishing, actually —but always on his own. Funny sort of bloke.
 
+[.my1]
 ====
 - solitary (a.) 喜欢（或惯于）独处的 / 单个的；孤单的；孤零零的
 - choir :a group of people who sing together, for example in church services or public performances（教堂的）唱诗班；（公开演出的）合唱团，歌唱队
@@ -155,7 +170,7 @@ Interviewer: No, of course not. By the way, what does he do?  +
 Pream: Well, he prefers to stay at home and run the house. He enjoys doing that as a
 matter of fact.
 
-
+[.my1]
 ====
 - career   生涯；职业
 - Career Woman and Marriage. 职业女性与婚姻
@@ -183,6 +198,7 @@ Bruno: What?!  +
 Beale: Yes. The sum comes to more than two million Australian dollars.  +
 Bruno: What?! I ... I can't believe it.  +
 
+[.my1]
 ====
 - come straight to the point 开门见山, 单刀直入, 谈正题
 ====
@@ -196,6 +212,7 @@ Beale: Oh, it's true all right. Believe me. However, there are certain restricti
 you can use the money. Would you like me to go through them with you now?  +
 Bruno: Yes, yes. Please do!  +
 
+[.my1]
 ====
 - GET OVER STH/SB 从疾病（或震惊、断绝关系等）中恢复常态 / GET OVER STH  解决；克服；控制 +
 -> I think the problem can be got over without too much difficulty. 我认为这个问题不太难解决。
@@ -214,6 +231,7 @@ Beale: Well, he introduced it into Australia just before it became very popular.
 up a chain of pizza restaurants. They're very successful. He was a very intelligent, good
 businessman.  +
 
+[.my1]
 ====
 - gradually 逐渐地；逐步地；渐进地
 - chain : a group of shops/stores or hotels owned by the same company 连锁商店
@@ -228,6 +246,7 @@ Beale: Write.  +
 Bruno: He couldn't ... Do you really mean he couldn't ...  +
 Beale: Write. Even though he was very intelligent. And that brings me to the other restriction in his will. You must use part of the money for your own further education. Mr. Gatto was a great believer in it. He always regretted he didn’t get one himself.
 
+[.my1]
 ====
 - And that brings me to the other restriction in his will. 这让我想到了他遗嘱中的另一个限制。
 - BRING STH BACK 使回忆起；使想起
@@ -257,6 +276,7 @@ so we'd better be there when it opens.  +
 Joe: Right. I'll set the alarm.
 
 
+[.my1]
 ====
 - packing case 装运货物的箱子
 - street market 街市, 集市
@@ -290,7 +310,7 @@ Cathy: I can't. I can't sew. I'll have them mended.  +
 Joe: How much will all that cost? I never want to see another bargain ... and we still
 haven't got any chairs.
 
-
+[.my1]
 ====
 - Whew : a sound that people make to show that they are surprised or relieved about sth or that they are very hot or tired （惊讶、宽慰或感到很热、疲劳时发出的声音）哟，噢
 - mend (v.) 修理；修补 /缝补；织补 / 弥合（分歧）；解决（争端）+
@@ -314,6 +334,7 @@ Suddenly, Mrs. Riley threw the tall youth over her shoulder. He crashed into the
 
 The two surprised youths were still sitting on the ground when Mrs. Riley crossed the street towards a door with a lighted sign above it. Mrs. Riley paused, turned round, smiled at the youths and walked into the South West London Judo Club.
 
+[.my1]
 ====
 - mug·ging  (n.) 公然行凶抢劫案；拦路抢劫罪
 - carrier  搬运人；运送人；运输工具 / （尤指经营空运的）运输公司
@@ -323,7 +344,7 @@ The two surprised youths were still sitting on the ground when Mrs. Riley crosse
 - moustache 上唇的胡子；髭
 - land (v.)to come down to the ground after jumping, falling or being thrown 跳落，跌落，被抛落（地面）
 - handbag :( NAmE also purse ) a small bag for money, keys, etc., carried especially by women 小手提包；（尤指）坤包 +
-image:../img/handbag.jpg[150,150]
+image:../img/handbag.jpg[,10%]
 - Judo 柔道
 - 当莱利夫人穿过街道走向一扇门的时候，两个吃惊的年轻人还坐在地上。莱利夫人停顿了一下，转过身来，对这些年轻人笑了笑，然后走进了伦敦西南柔道俱乐部。
 ====
@@ -349,6 +370,7 @@ Robber: All right, but hurry up!  +
 Clerk: (to the customer) How would you like the money?  +
 Customer: In fives, please.
 
+[.my1]
 ====
 - clerk : a person whose job is to keep the records or accounts in an office, shop/store etc. 职员；簿记员；文书
 - cheque card 支票（保付）卡（用支票付款时出示，证明本人的开户银行会支付该支票）
@@ -381,6 +403,7 @@ Robber: I haven't got a pen!  +
 Customer: You could borrow mine if you like.  +
 Robber: Thanks.
 
+[.my1]
 ====
 - count out 逐一数出
 - form 表格
@@ -404,7 +427,7 @@ Clerk: No, she doesn't know you well enough.  +
 Robber: What about my doctor?  +
 Clerk: Yes, that'll be fine for one. And the other?  +
 
-
+[.my1]
 ====
 - referee 介绍人; 推荐人 /裁判员
 - reference 推荐信；介绍信 ./~ (to sb/sth) 说到（或写到）的事；提到；谈及；涉及 +
@@ -423,6 +446,7 @@ Clerk: It's all part of the service. Good morning.  +
 Robber: Good morning.  +
 Customer: Good morning.
 
+[.my1]
 ====
 - probation  缓刑制；缓刑 /试用期；见习期；考察期  +
 -> The prisoner was put on probation . 犯人已获缓刑。

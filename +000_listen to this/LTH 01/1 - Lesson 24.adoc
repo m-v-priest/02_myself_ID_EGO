@@ -1,8 +1,13 @@
 
 = Lesson 24
-:toc:
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../../+ 000 eng选/美国高中历史教材 American History ： From Pre-Columbian to the New Millennium/myAdocCss.css
 
----
+'''
+
+
 
 
 == Section 1
@@ -14,6 +19,8 @@
 3. Multiply two by eight; five by three; six by four. +
 4. Divide six by three; eight by two; twenty by five.
 
+
+[.my1]
 ====
 - *sub·tract (v.) ~ sth (from sth)* : to take a number or an amount away from another number or amount 减；减去 +
 -> 6 subtracted from 9 is 3. 9减6等于3。
@@ -37,6 +44,8 @@
 6. You only get two point four six per cent.
 
 
+
+[.my1]
 ====
 - commission : an amount of money that is paid to sb for selling goods and which increases with the amount of goods that are sold 佣金；回扣 /（银行等的）手续费 +
 -> You get a 10% commission on everything you sell. 你可从你售出的每件商品中获得10%的佣金。
@@ -48,6 +57,7 @@
 
 - 英语中, 分数的表示法: *基数词(表分子)＋序数词(表分母)*
 
+[.my3]
 [options="autowidth" cols="1a,1a"]
 |===
 |Header 1 |基数词(表分子)＋序数词(表分母)
@@ -85,13 +95,15 @@ different water or something. But it really is a nuisance and it seems to be get
 worse ... +
 6. Damn! I've lost my wallet!
 
+
+[.my1]
 ====
 - jeans 牛仔裤；粗斜纹棉布裤
 - give （与名词连用描述某一动作，意义与该名词相应的动词相同） 做；产生 +
 -> She looked up from her work and gave a yawn (= yawned) . 她停下工作抬起头来打了个哈欠。
 - formal (穿著、言语、行为等)适合正式场合的；正规的；庄重的
 -  dinner suit : ( BrE ) ( NAmE BrE tux·edo ) a dinner jacket and trousers/pants, worn with a bow tie at formal occasions in the evening （男式，配蝶形领结的）成套无尾晚礼服 +
-image:../img/dinner suit.jpg[]
+image:../img/dinner suit.jpg[,10%]
 
 - nuisance  麻烦事；讨厌的人（或东西）
 ====
@@ -116,6 +128,8 @@ Jean: Helen, you'd better sit down. You aren't going to believe this. It says,
 Helen: It can't be true. +
 Jean: Here. You read it.
 
+
+[.my1]
 ====
 - miss （用于未婚女子姓氏或姓名前，以示礼貌）小姐，女士 /  （称呼不知姓名的年轻女子）小姐
 - Congratulations, Nurse of the Year. Letter follows. (电报惜字如金, 所以只写:) 恭祝获得年度护士小姐称号. 授奖函信件随后寄到.
@@ -166,6 +180,8 @@ After a little while they heard a gate banging downstairs. +
 "I'm afraid you've forgotten to shut the garden gate." +
 "Oh dear! ..."
 
+
+[.my1]
 ====
 - go up to : v.前往
 - go up to to do sth 前往，去做某事。
@@ -197,6 +213,8 @@ with us tonight. Ladies and gentlemen, the apewoman herself, Josephin Carter. (a
 Hello, Josephin, or can I call you Joe? +
 —Please do. +
 
+
+[.my1]
 ====
 - host 主人 /（电视或广播的）节目主持人
 - line （人）队伍，行列
@@ -219,9 +237,12 @@ watching their movements very closely, I still haven't finished my work. I've al
 —Yes. He's come with me tonight. Let me introduce you to Tarsan! +
 —Hi, everybody.
 
+
+[.my1]
 ====
 - 请记住一点：完成时表示的是: 站在某一时间点，并对这个时间点之前发生动作做一个总结。
 
+[.my3]
 [options="autowidth" cols="1a,1a"]
 |===
 |Header 1 |Header 2
@@ -263,6 +284,8 @@ my clients always seem to have enormous problems and miserable incomes.
 
 
 
+
+[.my1]
 ====
 - so·lici·tor 事务律师，诉状律师（代拟法律文书、提供法律咨询等的一般辩护律师） /（城镇或政府部门负责法律事务的）法务官 / 推销员
 - prosperous (a.)rich and successful 繁荣的；成功的；兴旺的
@@ -300,7 +323,10 @@ payments." He gave me the details. It appeared that he owed eleven payments of f
 pounds, and had no job and no money. Not surprisingly the building society had written to
 say they intended to take possession of the house; sell it, and thus get back their money. +
 
+[.my2]
+我从房屋互助协会拿到了一笔抵押贷款，但后来我丢了工作，所以就拖欠了贷款。”他告诉了我细节。看来他欠了十一次还款，一共五十英镑，他既没有工作，也没有钱。毫不奇怪，房屋互助协会写信说，他们打算占有这所房子;卖掉它，然后拿回他们的钱。
 
+[.my1]
 ====
 - untidy 不整洁的；不整齐的；凌乱的 /(人)无条理的；不修边幅的
 - round 圆形的；环形的；球形的
@@ -318,8 +344,6 @@ say they intended to take possession of the house; sell it, and thus get back th
 - possession  个人财产；私人物品 / ( formal ) the state of having or owning sth 具有；拥有 +
 -> You cannot legally *take possession of* the property (= start using it after buying it) until three weeks after the contract is signed. 契约签署三周以后，你才能合法取得这份产业的所有权。
 
-
-- 我从房屋互助协会拿到了一笔抵押贷款，但后来我丢了工作，所以就拖欠了贷款。”他告诉了我细节。看来他欠了十一次还款，一共五十英镑，他既没有工作，也没有钱。毫不奇怪，房屋互助协会写信说，他们打算占有这所房子;卖掉它，然后拿回他们的钱。
 ====
 
 
@@ -335,12 +359,15 @@ hopelessly. +
 In the end the house was sold. The building society debt was paid off and Mr. Pollard
 got sixty pounds.
 
+[.my2]
+“如果他们以低于我支付的价格出售，会发生什么?” +
+最后房子卖了。他欠房屋互助协会的债务还清了，波拉德先生得到了60英镑。
+
+[.my1]
 ====
 - debt : a sum of money that sb owes 借款；欠款；债务
 - pay sth off : to finish paying money owed for sth 付清；偿清
 
-- “如果他们以低于我支付的价格出售，会发生什么?” +
-最后房子卖了。他欠房屋互助协会的债务还清了，波拉德先生得到了60英镑。
 ====
 
 
@@ -354,6 +381,8 @@ got sixty pounds.
 
 Everybody agrees I’m just ordinary. My face is ordinary, my voice is ordinary, my clothes are ordinary. Everything about me is ordinary. 'What’s Frank like?' they say. 'Frank? Oh — you know, ordinary.' they say.
 
+
+[.my1]
 ====
 - ordinary  普通的；平常的；一般的；平凡的 /平庸的；平淡无奇的
 ====
@@ -363,14 +392,15 @@ Now look at that man two rows in front. He’s not ordinary. In fact I can’t s
 
 They looked in his bag, they looked in his pockets —made him take his shoes off even.
 
+[.my2]
+现在看看前面两排的那个人。他不平凡。事实上，除了我之外，我看不到任何人。即使是我旁边的这个家伙。我想，总体来说相当普通。但有些事有点...。他的嘴巴有点奇怪。千万不要引起他的注意。可能会引发一场对话。我不想这样。有趣的是，他在排队的时候正好排在我的前面。 +
+他们翻了翻他的包，翻了翻他的口袋--甚至让他把鞋子都脱了。
+
+[.my1]
 ====
 - tray  盘；托盘；碟
 - press （被）压，挤，推，施加压力
 - tonic 奎宁水，汤力水（一种味微苦、常加于烈性酒中的有气饮料）
-
-- 现在看看前面两排的那个人。他不平凡。事实上，除了我之外，我看不到任何人。即使是我旁边的这个家伙。我想，总体来说相当普通。但有些事有点...。他的嘴巴有点奇怪。千万不要引起他的注意。可能会引发一场对话。我不想这样。有趣的是，他在排队的时候正好排在我的前面。 +
-+
-他们翻了翻他的包，翻了翻他的口袋--甚至让他把鞋子都脱了。
 ====
 
 Mm —they’ve nearly finished with the food —though she didn’t take my glass when she collected my tray. Ah —she’s pressed her button again.
@@ -382,26 +412,27 @@ Good —some of them are getting their blankets down now. I reckon that in about
 
 And then ... Of course they looked in my briefcase too. Didn’t look here, though, did they? Oh, no. Hah! Though they think otherwise, I know very well who those two in the back row are. Noticed them when I went to the toilet. But they won’t shoot. Not as long as I have this in my hand, they won’t.
 
+[.my2]
+嗯--他们快要吃完了--尽管她拿我托盘的时候没有拿我的杯子。啊-她又按下按钮了。 +
+可能要再来一杯杜松子酒和奎宁水。已经喝了四杯了。或者是五个？不过，还不错。至少在这种情况下不会。 +
+很好，他们中的一些人现在正在把毯子拿下来。我估计大约半小时后一切就会安静下来。 +
+然后是…。当然，他们也看了我的公文包。不过，他们没有看这里，是吗？哦，不。哈哈！虽然他们不这么想，但我很清楚坐在后排的那两个人是谁。我上厕所的时候注意到了。但他们不会开枪。只要我手里还拿着这个他们就不会。
+
+[.my1]
 ====
 - as/so long as :  only if 只要
-
-- 嗯--他们快要吃完了--尽管她拿我托盘的时候没有拿我的杯子。啊-她又按下按钮了。 +
-+
-可能要再来一杯杜松子酒和奎宁水。已经喝了四杯了。或者是五个？不过，还不错。至少在这种情况下不会。 +
-+
-很好，他们中的一些人现在正在把毯子拿下来。我估计大约半小时后一切就会安静下来。 +
-+
-然后是…。当然，他们也看了我的公文包。不过，他们没有看这里，是吗？哦，不。哈哈！虽然他们不这么想，但我很清楚坐在后排的那两个人是谁。我上厕所的时候注意到了。但他们不会开枪。只要我手里还拿着这个他们就不会。
 ====
 
 And it’s so small. Marvellous what they can do these days. Just about now, if I were sitting in funny mouth’s seat and not by the aisle —just about now, I could probably look down and see the mountains gleaming in the moonlight. I like that. Mm. Well, now I must go over my speech again. Mustn’t forget what my demands are, must I?
 
+[.my2]
+而且它太小了。这些天他们能做的事真是令人惊叹。就在现在，如果我坐在滑稽嘴巴的座位上，而不是靠过道的位置-就在现在，我可能会向下看，看到群山在月光下闪闪发光。我喜欢那样。嗯。好了，现在我必须把我的演讲稿再复习一遍。别忘了我的要求是什么，对吗？
+
+[.my1]
 ====
 - mar·vel·lous 极好的；非凡的
 - aisle  （教堂、戏院、火车等座位间或超级市场货架间的）走道，过道
 - go over  仔细检查
-
-- 而且它太小了。这些天他们能做的事真是令人惊叹。就在现在，如果我坐在滑稽嘴巴的座位上，而不是靠过道的位置-就在现在，我可能会向下看，看到群山在月光下闪闪发光。我喜欢那样。嗯。好了，现在我必须把我的演讲稿再复习一遍。别忘了我的要求是什么，对吗？
 ====
 
 
@@ -420,6 +451,8 @@ unemployed teenagers wandering around the streets with nothing to do, which can 
 lead to trouble of one sort or another.
 
 
+
+[.my1]
 ====
 - frus·trated (a.)~ (at/with sth): feeling annoyed and impatient because you cannot do or achieve what you want 懊丧；懊恼；沮丧 /失意的；不得志的 /性欲没有得到满足的
 -  get drunk 喝醉

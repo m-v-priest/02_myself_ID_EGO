@@ -1,8 +1,13 @@
 
 = Lesson 26
-:toc:
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../../+ 000 eng选/美国高中历史教材 American History ： From Pre-Columbian to the New Millennium/myAdocCss.css
 
----
+'''
+
+
 
 
 == Section 1
@@ -27,6 +32,7 @@ Seventh of July, nineteen forty-three
 5. Two thousand +
 6. Fifty-five B.C.
 
+[.my1]
 ====
 - 英文口语说年份: +
 -> 2018:  twenty eighteen +
@@ -90,7 +96,7 @@ Seventh of July, nineteen forty-three
 32. PC (Personal Computer) +
 33. EEC (European Economic Community)
 
-
+[.my1]
 ====
 - R.S.V.P : abbr. （法）请答复（Répondez S'il Vous PlaÎt）
 - approximately (ad.) 大概；大约；约莫 +
@@ -115,7 +121,7 @@ Seventh of July, nineteen forty-three
 
 - cres·cent : [ C ] a curved shape that is wide in the middle and pointed at each end 新月形；月牙形 +
 => 来自PIE*ker , 创造，生长，词源同create。-esce, 表起始。最早指月相由亏转盈的阶段，但后来错误的用来指这一阶段的形状。 +
-image:../img/crescent.jpg[]
+image:../img/crescent.jpg[,10%]
 
 - A.D. : abbr. （拉）公元（耶稣诞生之后，用于年代）（Anno Domini） +
 => Anno是“年”, Domini是“主”的意思. 在英语中是“in the year of our Lord”.
@@ -154,6 +160,7 @@ Woman: But you can't really believe they all talk rubbish. +
 Man: Of course, I can. I consider that it is unfeminine(a.) to protest. +
 Woman: But you can't really believe it's unfeminine to protest. +
 
+[.my1]
 ====
 - dreadful (a.) very bad or unpleasant 糟糕透顶的；讨厌的；令人不快的 / causing fear or suffering 可怕的；令人畏惧的；使人痛苦的 +
 -> What a dreadful thing to say! 话说得太难听了！ +
@@ -183,6 +190,7 @@ Man: *Not only* inferior, *but* I know they can't do a man's job. +
 Woman: But you can't really believe they can't do a man's job. +
 Man: Yes, Maggie. That's my firm belief. But don't tell your mother I said that.
 
+[.my1]
 ====
 - intellectually adv. 智力上；理智地；知性上
 - inferior (a.)~ (to sb/sth) not good or not as good as sb/sth else 较差的；次的；比不上…的 / of lower rank; lower 级别低的；较低的 +
@@ -205,6 +213,7 @@ records." +
 George's father sighed. It had been a very tiring(a.) day at the office. +
 "All right," he said, "I'll talk to him. +
 
+[.my1]
 ====
 - sigh (v.) 叹气；叹息
 - tiring (a.)令人困倦的；使人疲劳的；累人的
@@ -222,6 +231,7 @@ sitting-room. +
 job." +
 "Yes," replied George without enthusiasm. +
 
+[.my1]
 ====
 - old man : ( informal ) a person's husband or father 老公；老爸
 - enthusiasm (n.)[ U ] ~ (for sth/for doing sth) : a strong feeling of excitement and interest in sth and a desire to become involved in it 热情；热心；热忱
@@ -244,6 +254,7 @@ George's father nodded sympathetically. +
 travel and see a bit of the world." +
 George's mother raised her eyes to the ceiling. "I give up," she said.
 
+[.my1]
 ====
 - Any ideas 有何想法?
 - Not really :used to say "no" in a way that is not very forceful or definite +
@@ -270,6 +281,7 @@ Obviously a supermarket can't have
 chains or alarms on the goods, so we have store detectives(n.), who walk around like
 ordinary shoppers, otherwise they'll be recognized.
 
+[.my1]
 ====
 - shoplifting (n.)冒充顾客在商店行窃（罪） +
 => shop,商店，lift,小偷小摸。
@@ -295,6 +307,7 @@ good methods of prevention are quite expensive, and naturally, they make our pri
 more expensive, but it has to be done, otherwise shoplifting itself will make all the prices
 much higher, and the public doesn't want that!
 
+[.my1]
 ====
 - prosecute (v.)~ (sb) (for sth/doing sth) : to officially charge sb with a crime in court 起诉；控告；检举
 - cash desk 收款处；收银台
@@ -313,15 +326,12 @@ rehearsal(n.) after that. She is very interested in the training of young dancer
 ask questions. Don't forget, however, that Miss Matslova has two performances today.
 She must not get too tired ... Miss Tania Matslova. +
 
+[.my1]
 ====
 - principal :大学校长；学院院长 / 主要演员；主角 /  ( technical 术语 ) a person that you are representing, especially in business or law （尤指商务或法律事务的）当事人，委托人
 - 今天我们很荣幸邀请到塔尼亚·马特斯洛娃。
 - practice 实践；实际行动
 - re·hearsal (n.)  time that is spent practising a play or piece of music in preparation for a public performance  排演；排练 /预演；演习
-====
-
-
-====
 - informal 不拘礼节的；友好随便的；非正规的
 - remember (v.)回想起; 想起；记起
 - It all depends 要看情况而定; 视情形而定
@@ -353,6 +363,7 @@ James: I love dancing but I hate changing in cold dressing rooms. I don't mind p
 every day. In fact, I like it, I enjoy exercising. But *I'm fed up with* going to bed early every
 night and refusing invitations to parties. I like travelling ... but not if it's uncomfortable. I'm confused. Do you think I should carry on? +
 
+[.my1]
 ====
 - but I hate changing in cold dressing rooms. 但我讨厌在冷冰的更衣室里换衣服。
 - dressing room : a room for changing your clothes in, especially one for actors or, in British English, for sports players （演员的）化装间；（英国英语，运动员的）更衣室
@@ -374,6 +385,7 @@ professional dancer more than anything else, you'd better change your plans. +
 James: Thank you, Miss M ... er, Tania. Your advice was really helpful. I can see now that
 `主` just being keen(a.) on dancing `系` isn't enough for a career. +
 
+[.my1]
 ====
 - would rather... (than) 宁愿；更喜欢
 - tired (a.)~ of sb/sth |~ of doing sth 厌倦；厌烦
@@ -389,7 +401,7 @@ Tania: James, please let me know what you decide to do. I think you are very tal
 that isn't enough. It depends what you want. And that applies to all of you. You must make
 up your minds.
 
-
+[.my1]
 ====
 - grateful (a.)~ (to sb) (for sth) |~ (to do sth) |~ (that...) :  感激的；表示感谢的
 - talented 有才能的；天才的；有才干的
@@ -412,6 +424,7 @@ On the other side there were a few old men sitting outside a cafe playing backga
 A lonely donkey was quietly munching(v.) the long dry grass at the foot of the statue that stood in the center of the square.  +
 Jacqueling sighed.
 
+[.my1]
 ====
 - Jacqueling got out of the bus and looked around her. : Jacqueling 下了车，环顾四周。
 
@@ -431,7 +444,7 @@ Jacqueling sighed.
 - cafe  咖啡馆，小餐馆（供应饮料和便餐，在英美国家通常不供应酒类）
 - backgammon : 十五子棋戏（棋盘上有楔形小区，两人玩，掷骰子决定走棋步数） +
 => 这是一种双方各有十五枚棋子、掷骰子决定行棋格数的游戏。人们曾在古代巴比伦王国一位王后的墓穴中发掘出一块已有五千年历史的镶底精美的十五子棋的棋盘。 Backgammon的字面含义是“回子游戏”。*早期英语的“游戏”不写作game，而是写作gamen*，因此，backgammon即back game，因为玩这种游戏时，棋子常被“送回”对方，再重新放入棋盘。 +
-image:../img/backgammon.jpg[]
+image:../img/backgammon.jpg[,10%]
 
 - munch (v.)~ (on/at) sth : to eat sth steadily and often noisily, especially sth crisp 大声咀嚼，用力咀嚼（脆的食物） +
 -> She munched on an apple. 她在大口啃苹果。

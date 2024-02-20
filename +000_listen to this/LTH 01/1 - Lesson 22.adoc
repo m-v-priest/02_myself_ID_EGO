@@ -1,8 +1,13 @@
 
 = Lesson 22
-:toc:
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../../+ 000 eng选/美国高中历史教材 American History ： From Pre-Columbian to the New Millennium/myAdocCss.css
 
----
+'''
+
+
 
 
 == Section 1
@@ -18,6 +23,8 @@ twenty minutes ago and I haven't had a reply yet. +
 ahead of Belgium. +
 —I know that, but I could have dialed myself direct *in no time* at all. +
 
+
+[.my1]
 ====
 - assistance  (n.) ~ (with sth)~ (in doing sth/to do sth) ( formal ) help or support 帮助；援助；支持 +
 -> Can I be of any assistance ? 我能帮上忙吗？ +
@@ -44,6 +51,8 @@ nevertheless I do强调 have to *put through* an important call to Brussels. +
 —I'll *get on to* them myself and see what the delay is, then call you back as soon as I
 know anything.
 
+
+[.my1]
 ====
 - route (v.) to send sb/sth by a particular route 按某路线发送 / (n.)~ (from A to B) : a way that you follow to get from one place to another 路线；路途 +
 -> Satellites route(v.) data all over the globe. 卫星向全球各地传递信息。
@@ -83,6 +92,8 @@ bother. Could you have them send up a bottle of scotch to my room. I'll entertai
 instead. +
 —Very good, sir. That is room 634, isn't it?
 
+
+[.my1]
 ====
 - damn it all
 - resident  居民；住户 /（旅馆的）住宿者，旅客，房客
@@ -112,6 +123,8 @@ understand. +
 —Do you think it might be possible to ask your friends to be a little quieter? We do like to
 give our guests a chance of getting a good night's sleep. It is well after eleven. +
 
+
+[.my1]
 ====
 -  assistant Manager : An assistant manager works with the manager to organize, plan and implement strategy 协理; 助理经理
 
@@ -129,6 +142,8 @@ we've signed a very important contract. We were having a bit of celebration. +
 —No, that won't be necessary. We were just about to *pack up* anyway. +
 —Thank you, sir, and good night to you.
 
+
+[.my1]
 ====
 - contract :  ~ (with sb) |~ (between A and B) |~ (for sth/to do sth) : an official written agreement 合同；合约；契约
 - pleased (a.)~ (with sb/sth) |~ that... : feeling happy about sth 高兴；满意；愉快 +
@@ -146,6 +161,8 @@ Dialogue 4: +
 —Yes. Did you have this room checked before we moved in? There's not a scrap of lavatory(n.)  paper and the toilet doesn't flush properly, the water doesn't run away in the
 shower and I would like an extra pillow. What have you to say to that? +
 
+
+[.my1]
 ====
 - scrap  [ sing. ] ( usually with a negative 通常与否定式连用 ) a small amount of sth 丝毫；一丁点 / 碎片，小块（纸、织物等） +
 -> It won't make a scrap of difference . 这不会有丝毫的差别。
@@ -162,6 +179,8 @@ large conference. +
 —That's no way to run a hotel. One doesn't expect this sort of thing in a well-run hotel. +
 —No, madam. I do apologize. It's most unusual. We do try to check the rooms as thoroughly as possible. Just the one pillow, was it? Is there anything else? +
 
+
+[.my1]
 ====
 - attend (v.)~ (to sb/sth) ( formal ) to pay attention to what sb is saying or to what you are doing 注意；专心
 - ATTEND TO SB/STH : to deal with sb/sth; to take care of sb/sth 处理；对付；照料；关怀 +
@@ -184,6 +203,8 @@ well. It's as hot as hell up there. +
 —I'll just adjust the regulator for you and I think you'll find it a little cooler in a short time. I'll
 also send someone along(ad.) right away to look at the toilet and shower.
 
+
+[.my1]
 ====
 - thermostatically adv. 恒温地；自动调节温度地
 - up :  completely 完全；彻底地 +
@@ -215,6 +236,8 @@ Is time
 a problem? Is money a problem? Just send for our brochure and both problems will
 disappear.
 
+
+[.my1]
 ====
 - tour : ~ (of/round/around sth) 旅行；旅游
 - Tour Packages 旅游套餐
@@ -247,6 +270,8 @@ really want to go? +
 Bob: I'm thinking of Wales or Scotland. Do you know why? +
 Peggy: Yes. 'They're right on our doorstep and so close to home.'
 
+
+[.my1]
 ====
 - HP : hire purchase : 分期付款购买法 (HP)
 - doorstep 门阶
@@ -260,6 +285,8 @@ Peggy: Yes. 'They're right on our doorstep and so close to home.'
 Jill: Now, let me see. Blue Skies Travel Agency. Ah, yes, it's a London number. 01 748
 9932. I think I'll ring now. +
 
+
+[.my1]
 ====
 - ring : (v.) ( BrE ) ( NAmE BrE also call ) ~ sb/sth (up)  给…打电话
 ====
@@ -276,6 +303,8 @@ Telephonist: Blue Skies Travel Agency. Can I help you? +
 Jill: Could you give me some information about holidays in North America?
 Telephonist: Just one moment. I'll put you through to our North American department. +
 
+
+[.my1]
 ====
 - telephonist = operator 电话接线员 : N a person who operates a telephone switchboard 话务员 (Also called (esp US) telephone operator)
 ====
@@ -293,6 +322,8 @@ Miss Jones: (interrupts) Certainly. Just give me your name and address. I'll sen
 the information you want. +
 Jill: My name is Jill Adams. Miss J. Adams. And my address is ...
 
+
+[.my1]
 ====
 - inclusive (a.)(ad.) 包括一切费用在内的 +
 -> ...all prices are inclusive(a.) of delivery.
@@ -313,6 +344,8 @@ Traveller: And, and, er, how many people in a group? +
 Travel Agent: Well, the bus sleeps ten. Usually there are eight travellers and two drivers, a
 guide to look after you. +
 
+
+[.my1]
 ====
 - Bus Tour 乘公共汽车旅行; 巴士观光
 - trip （尤指短程往返的）旅行，旅游，出行 /journey  尤指长途旅行. +
@@ -334,6 +367,8 @@ Traveller: Is there anything special we'd have to bring? +
 Travel Agent: Oh, we give everyone a list of suitable clothes, etc. to bring. Of course,
 space is limited. +
 
+
+[.my1]
 ====
 - put up 建造；搭建；竖立 +
 -> to put up a building/fence/memorial/tent 盖楼房；架篱笆；修纪念碑；搭帐篷
@@ -347,6 +382,8 @@ people who are interested. +
 Traveller: Well, I'm interested in the ten-week trip next spring. +
 Travel Agent: Um, that one leaves on the fourth of April. +
 
+
+[.my1]
 ====
 - It's amazing the number of people who are interested. 感兴趣的人多得惊人。
 ====
@@ -362,6 +399,8 @@ Travel Agent: Yes. Thanks for ringing. +
 Traveller: Thank you. Bye. +
 Travel Agent: Bye bye.
 
+
+[.my1]
 ====
 -  go over : If you go over a document, incident, or problem, you examine, discuss, or think about it very carefully. 仔细检查 +
 ->  I won't know how successful it is until an accountant has gone over the books.
@@ -386,6 +425,8 @@ Man: Not the theatre and the dinner entertainment? +
 Woman: Yes, that's what I mean. The hotel will take care of them. +
 Man: Yes, I'm sure that can be arranged. +
 
+
+[.my1]
 ====
 - tiring (a.)令人困倦的；使人疲劳的；累人的
 - theatre  戏院；剧场；露天剧场
@@ -402,6 +443,8 @@ children, is there any reduction for them? +
 Man: Certainly, we have half price for children and if they're not going to the theatre or the
 dinner, I think we could let them have the full day tour for thirty pounds each. +
 
+
+[.my1]
 ====
 - reduction 减价；折扣
 ====
@@ -415,6 +458,8 @@ of the tour with you. Now, as you see, you're picked up from your hotel at 8:30,
 must be sure to order(v.) an early breakfast. +
 Woman: Yes ... +
 
+
+[.my1]
 ====
 - *and so forth : and so on*; and other such things; et cetera 等等; 及诸如此类;
 - run through : If you *run through* a list of items, you read or mention all the items quickly. 过一遍 / 排练 +
@@ -433,6 +478,8 @@ Now from there we have a river trip down the Thames towards the Tower of London.
 for the kiddies. When you get to the Tower, you'll see the Beefeaters, the traditional
 guards of the Tower and then you'll be shown the Crown jewels. +
 
+
+[.my1]
 ====
 -  Changing(change ) of the Guard  卫兵交接
 - Buckingham Palace 白金汉宫（在伦敦的英国王室官邸）
@@ -440,20 +487,20 @@ guards of the Tower and then you'll be shown the Crown jewels. +
 - House of Parliament 国会大厦, 议会大厦
 
 - Westminster Abbey  威斯敏斯特教堂 +
-image:../img/Westminster Abbey.jpg[]
+image:../img/Westminster Abbey.jpg[,10%]
 
 - Abbey : a large church together with a group of buildings in which monks or nuns live or lived in the past （大）隐修院；（曾为大隐修院的）大教堂
 
 - Tower of London 伦敦塔（位于英国伦敦泰晤士北岸的古堡，古代曾先后作为皇宫及监狱，现为兵械库和博物馆） +
-image:../img/Tower of London.jpg[]
+image:../img/Tower of London.jpg[,10%]
 
 - kiddie： n. 小孩（等于kiddy）
 - beef·eater : a guard who dresses in a traditional uniform at the Tower of London 伦敦塔卫兵（穿传统制服） +
-image:../img/Beefeater.jpg[]
+image:../img/Beefeater.jpg[,10%]
 
 - crown  王冠；皇冠；冕
 - crown jewels : [ pl. ] the crown and other objects worn or carried by a king or queen on formal occasions 御宝（国王或女王在正式场合佩戴的饰物等） +
-image:../img/crown jewels.jpg[]
+image:../img/crown jewels.jpg[,10%]
 ====
 
 
@@ -465,6 +512,8 @@ short account of their historic associations in three languages, English, German
 French. If you have any further questions he'll be only too pleased to answer them. +
 Woman: Oh, that sounds perfect. +
 
+
+[.my1]
 ====
 - sights [ pl. ] the interesting places, especially in a town or city, that are often visited by tourists 名胜；风景
 - [ C ] a thing that you see or can see 看见（或看得见）的事物；景象；情景 +
@@ -485,6 +534,8 @@ Man: Now in the afternoon, you'll be taken to London Zoo for a couple of hours. 
 arrange this to coincide(v.) with the monkeys' tea party. The children always enjoy that. +
 Woman: Oh, I'm sure mine will. +
 
+
+[.my1]
 ====
 - coincide (v.)
 1.(两件或更多的事情)同时发生::
@@ -503,6 +554,8 @@ Woman: That sounds very exciting. What a full day. +
 Man: Yes, well we do let you have a couple of hours' rest before taking you on to the
 theatre and dinner in the evening. +
 
+
+[.my1]
 ====
 - go round = go around 造访
 - Madame Tussaud 杜莎夫人
@@ -520,6 +573,8 @@ Woman: Oh, what's that? +
 Man: The cheque. +
 Woman: (laughs) Of course.
 
+
+[.my1]
 ====
 - settle down  舒适地坐下（或躺下） /（在某地）定居下来，过安定的生活
 - settle down | settle sb down （使某人）安静下来，平静下来
@@ -542,12 +597,14 @@ I don’t like mass-produced things. I think crafts and craftspeople are very im
 
 When I left college I managed to get a grant from the Council, and I hope to become a full-time craftswoman. This workshop is small, but I hope to move to a larger one next year.
 
+
+[.my1]
 ====
 - make out of 用某物制造出
 - clay  黏土；陶土
 - get into :  If you *get into* a school, college, or university, you are accepted there as a student. 被录取
 - pottery : pots, dishes, etc. made with clay that is baked in an oven, especially when they are made by hand 陶器（尤指手工制的） /陶土 +
-image:../img/pottery.jpg[]
+image:../img/pottery.jpg[,10%]
 - potter 陶工
 - mass-produced  (a.)(v.) 大批量生产; 大批量生产的
 
@@ -561,7 +618,7 @@ image:../img/pottery.jpg[]
 
 - crafts·woman  女工匠；女手艺人；女巧匠；女工艺师
 - workshop : a room or building in which things are made or repaired using tools or machinery 车间；工场；作坊 +
-image:../img/workshop.jpg[] +
+image:../img/workshop.jpg[,10%] +
 / a period of discussion and practical work on a particular subject, in which a group of people share their knowledge and experience 研讨会；讲习班
 ====
 
