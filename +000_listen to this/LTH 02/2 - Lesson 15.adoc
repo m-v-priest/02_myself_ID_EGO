@@ -1,11 +1,11 @@
 
 = step 2 - Lesson 15
-:toc:
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../../+ 000 eng选/美国高中历史教材 American History ： From Pre-Columbian to the New Millennium/myAdocCss.css
 
-
----
-
-
+'''
 
 Lesson 15
 
@@ -13,52 +13,87 @@ Lesson 15
 
 == 1
 
-A: Did you hear on the news today about that ... uh ... murderer who was executed?
+A: Did you hear [on the news] today about that ... uh ... murderer 后定 who was executed (v.)（尤指依法）处决，处死?
 
 
 B: I can't believe it.
 
 
-A: Yeah. That's the first time in ten years that they've used capital punishment.
+A: Yeah. That's the first time in ten years /that they've used *capital (a.)死刑的 punishment* 死刑；极刑.
 
+[.my1]
+.案例
+====
+.capital
+-> 这个词来源于拉丁语caput，意思是“头”。大写字母，在一词之“头”，因此叫capital。另外，一个国家首都，可以说是一个国家的“头脑所在”，“首”就是“头”，因此也叫capital。在建筑上，柱冠、柱顶部分也叫capital，因为它位于“头”部。capital作“资本”讲时，也来源于caput，即“头”与cattle（家畜、牛群）同出一源。在最初的时候，人们的财富，或“资本”，是以他的家畜头数来计算的，即有多少“头”。
 
-B: I just can't believe in our society today that they would actually kill another human being. Nobody has the right to take another person's life.
+.本句中的第二个that, 是否是多余的?
+chatgpt说: 实际上，第二个 "that" 在语法上并不是必需的，你可以将其省略以简化句子。修正后的版本是："That’s the first time in ten years they’ve used capital punishment." 意思不变，但句子更为简洁。有时人们在表达中可能选择保留 "that" 以增加语气或强调，但在这个句子中，省略它是常见的做法。
+====
+
+B: I just can't *believe in* our society today *that* they would actually kill another human being. Nobody has the right to take another person's life.
 
 
 A: Oh, I don't agree. Listen, I think capital punishment is — it's about time it came back. I think that's exactly what killers deserve.
+
+[.my2]
+我认为死刑是时候恢复了。我觉得这就是杀手应得的报应。
 
 
 B: No, they don't deserve that. Because once you're killing a killer, you're the killer, too. You become a killer as well.
 
 
-A: No, listen. You take a life, you have to be willing to give up your own. And also, I think that if you have a death penalty it will prevent other people from killing. I think it's a good deterrent.
+A: No, listen. You take a life, you have to be willing to give up your own. And also, I think that if you have a death penalty (n.)惩罚；处罚；刑罚 /it will prevent other people from killing. I think it's a good deterrent 威慑因素；遏制力.
+
+[.my2]
+你夺走一条生命，你就得愿意放弃自己的生命。而且，我认为如果你有死刑，它会阻止其他人杀人。我认为这是一个很好的威慑。
+
+B: I don't think it's a good deterrent at all. My *goodness gracious* 我的天啊. I mean, first of all, are you sure `主` the person you've convicted (v.)证明…有罪；宣判（某人）有罪 to death `系` is really guilty?
+
+[.my1]
+.案例
+====
+.GOODNESS!| GOODNESS ME! | MY GOODNESS! | GOODNESS GRACIOUS!
+( informal ) used to express surprise天哪；啊呀
+
+goodness: (n.) the quality of being good 善良；优良；美德 +
+gracious : (a.)~ (to sb)( of God上帝 ) showing kindness and mercy仁慈的；慈悲的；宽大的
+
+====
+
+A: Well, I think that's a very rare  少见的，不常发生的 ... very rare incidence.
 
 
-B: I don't think it's a good deterrent at all. My goodness gracious. I mean, first of all, are you sure the person you've convicted to death is really guilty?
+B: I don't think it's rare, (I don't think it's ...) with all the cracker jack lawyers we have today, (Well, no ... I ...) and the judicial (a.)法庭的；法官的；审判的；司法的 system the way it is.
 
 
-A: Well, I think that's a very rare ... very rare incidence.
+A: I think it's a rare incidence, and I think it's more important /to get rid of the ... the bad seed, you know?
 
 
-B: I don't think it's rare, (I don't think it's ...) with all the cracker jack lawyers we have today, (Well, no ... I ...) and the judicial system the way it is.
+B: But you don't get rid of it. You rehabilitate (v.)使（重病患者）康复；使（长期服刑者）恢复正常生活 somebody like that. (Oh ...) You don't eliminate 排除；清除；消除, you rehabilitate.
 
 
-A: I think it's a rare incidence, and I think it's more important to get rid of the ... the bad seed, you know?
+A: Listen, studies show that /criminals 罪犯 are never really rehabilitated. When they're ... when they come out of prison /they just go back to a life of crime, and they're hardened (v.)（使）更坚定，更强硬;使变得无情；使不被打动 by that crime.
 
 
-B: But you don't get rid of it. You rehabilitate somebody like that. (Oh ...) You don't eliminate, you rehabilitate.
+B: Because the rehabilitation 康复，复原；（权利、名誉的）恢复；修复，翻新 process has to be more than 不仅仅是,不只是 just what's in jail. I mean, (Oh ... well.) when you're in jail /you do have to work, but when you're out of jail /there has to be an extensive 广大的；大量的;广泛的；广博的 program. We have to expand on the idea /till it works.
+
+[.my2]
+改过自新的过程不仅仅是在监狱里。
+
+[.my1]
+.案例
+====
+more than + 名词(动名词),意思是"不仅仅是","不只是"。 +
+- *We need more than money*; we need time, too.  我们不只需要钱,我们也需要时间 +
+- My trip to Beijing *is more than sightseeing*.  我去北京不仅仅是观光。
+====
 
 
-A: Listen, studies show that criminals are never really rehabilitated. When they're ... when they come out of prison they just go back to a life of crime, and they're hardened by that crime.
+A: I don't agree. Listen — and, anyway, the jails and the prisons are already very crowded 拥挤的，塞满的, and we have to pay, the taxpayers. Our money goes to maintaining murderers' (I ...) lives 生存；活着.
 
 
-B: Because the rehabilitation process has to be more than just what's in jail. I mean, (Oh ... well.) when you're in jail you do have to work, but when you're out of jail there has to be an extensive program. We have to expand on the idea till it works.
-
-
-A: I don't agree. Listen — and, anyway, the jails and the prisons are already very crowded, and we have to pay, the taxpayers. Our money goes to maintaining murderers' (I ...) lives.
-
-
-B: I agree with you. That's why it's important to look at the problem on a much larger scale. The real problem is a social problem. (What ... no ...) There are other problems that cause people to kill. Look at poverty, drugs, discrimination.
+B: I agree with you. That's why it's important to look at the problem on a much larger scale. The real problem is a social problem. (What ... no ...) There are other problems that cause people to kill. Look at poverty, drugs, discrimination 歧视，区别对待.
 
 
 A: Some people are just bad. They're just evil and there's nothing you can do.
@@ -67,13 +102,13 @@ A: Some people are just bad. They're just evil and there's nothing you can do.
 B: No, there ... it is ... no, it isn't true. There's rehabilitation. (No.) And they ... we're all responsible it ... for ... to humanity. That's one of the reasons ...
 
 
-A: Well, but in the meantime you have to take care of the people who have already committed ...
+A: Well, but in the meantime you have to take care of the people who have already committed 做出（错或非法的事）；犯（罪或错等）;承诺，保证（做某事、遵守协议或遵从安排等） ...
 
 
 B: I agree with you there.
 
 
-A: Preventative is different, but ...
+A: Preventative 预防疗法；预防物 is different, but ...
 
 
 B: I agree with you there.
@@ -81,67 +116,6 @@ B: I agree with you there.
 A：你今天在新闻中听说过那个……呃……凶手被处决了吗？
 
 
-B：我简直不敢相信。
-
-
-答：是的。这是十年来他们第一次使用死刑。
-
-
-B：我简直不敢相信我们今天的社会他们真的会杀死另一个人。任何人都没有权利夺取他人的生命。
-
-
-答：哦，我不同意。听着，我认为死刑是——现在是时候回归了。我认为这正是杀手应得的。
-
-
-B：不，他们不应该这样。因为一旦你杀死了一个杀手，你就是杀手了。你也会成为杀手。
-
-
-答：不，听着。你夺走了一条生命，你必须愿意放弃自己的生命。而且，我认为如果判处死刑，就会防止其他人杀人。我认为这是一个很好的威慑。
-
-
-B：我认为这根本不是一个很好的威慑力。我的天啊，仁慈的。我的意思是，首先，你确定被你判处死刑的人真的有罪吗？
-
-
-答：嗯，我认为这种情况非常罕见……​非常罕见。
-
-
-B：我不认为这很罕见，（我不认为这是……​）我们今天拥有的所有出色的杰克律师，（嗯，不……我……​）以及司法系统的现状。
-
-
-答：我认为这种情况很少见，而且我认为更重要的是摆脱......坏种子，你知道吗？
-
-
-B：但你并没有摆脱它。你让这样的人康复。 （噢……​）你不是消灭，而是恢复。
-
-
-答：听着，研究表明罪犯永远不会真正改过自新。当他们......当他们出狱时，他们只是回到犯罪生活，并且他们因犯罪而变得坚强。
-
-
-B：因为改造过程不只是监狱里的事情。我的意思是，（哦……好吧。）当你在监狱里时，你确实必须工作，但当你出狱时，必须有一个广泛的计划。我们必须扩展这个想法，直到它发挥作用。
-
-
-答：我不同意。听着——无论如何，看守所和监狱已经非常拥挤，我们必须付钱给纳税人。我们的钱用于维持凶手（我……​）的生命。
-
-
-B：我同意你的看法。这就是为什么从更大的范围来看待问题很重要。真正的问题是社会问题。 （什么…​不…​）还有其他问题导致人们杀人。看看贫困、毒品、歧视。
-
-
-答：有些人就是很坏。他们只是邪恶的，你无能为力。
-
-
-B：不，那里……是……不，这不是真的。有康复。 （不。） 他们……我们都对……对人类负责。这就是原因之一……​
-
-
-答：嗯，但与此同时，你必须照顾那些已经做出承诺的人……​
-
-
-B：我同意你的观点。
-
-
-答：预防措施有所不同，但是……​
-
-
-B：我同意你的观点。
 
 
 
@@ -150,105 +124,86 @@ B：我同意你的观点。
 
 == 2
 
-Announcer: On 'TV Magazine' tonight we're looking at people who have given up regular jobs and high salaries to start a new way of life. First of all, we have two interviews with people who decided to leave the 'rat race'. Nicola Burgess spoke to them.
+Announcer 广播员；宣告者: On 'TV Magazine' tonight /we're looking at people who have given up regular jobs and high salaries /to start a new way of life. First of all, we have two interviews 访谈；面试；面谈 with people /who decided to leave the 'rat race'. Nicola Burgess spoke to them.
 
+[.my1]
+.案例
+====
+.rat race
+[ sing.] ( disapproving) the way of life of people living and working in a large city where people compete in an aggressive way with each other in order to be more successful, earn more money, etc.（大城市里为财富、权力等的）疯狂竞争，你死我活的竞争
+====
 
-Nicola: This is the Isle of Skye. Behind me you can see the croft belonging to Daniel and Michelle Burns, who gave up their jobs to come to this remote area of Scotland. Daniel was the sales manager of Hi-Vita, the breakfast cereal company, and Michelle was a successful advertising executive. Michelle, can you tell us what made you give up everything to come here?
+Nicola: This is the Isle 岛 of Skye 岛名. Behind me /you can see the croft （尤指苏格兰的）小农场，小农场上的住宅 belonging to Daniel and Michelle Burns, who gave up their jobs /to come to this remote area of Scotland. Daniel was the sales manager of Hi-Vita, the breakfast cereal 谷类植物,谷类食物 company, and Michelle was a successful advertising executive （公司或机构的）经理，主管领导，管理人员. Michelle, can you tell us /what made you give up everything to come here?
 
+[.my1]
+.案例
+====
+.croft
+-> 词源不详。参照电影《古墓丽影》女主角名字 Lara Croft。
+====
 
-Michelle: Everything? That's a matter of opinion. A big house and two cars isn't everything! Dan and I both used to work long hours. We had to leave so early in the morning and we came home so late at night, that we hardly ever saw each other. We should have come here years ago, but we were earning such big salaries that we were afraid to leave our jobs. In the end we had so little time together that our marriage was breaking up. So two years ago, we took a week's holiday in the Scottish Highlands. We saw this place and we both fell in love with it. It was for sale, and we liked it so much that we decided to give up our jobs, and here we are!
+Michelle: Everything? That's a matter of opinion 这是个见仁见智的问题. A big house and two cars isn't everything! Dan and I both used to work long hours. We had to leave #so# early in the morning /and we came home #so# late at night, #that# we hardly ever saw each other. We should have come here years ago 多年前, but we were earning #such# big salaries 薪金，薪水（尤指按月发放的） #that# we were afraid to leave our jobs. In the end /we had #so# little time together /#that# our marriage was breaking up. So two years ago, we took a week's holiday in the Scottish Highlands. We saw this place /and we both fell in love with it. It was for sale, and we liked it #so# much /#that# we decided to give up our jobs, and here we are!
 
 
 Nicola: How do you earn a living? If you don't mind me asking.
 
 
-Michelle: We don't need very much. We keep sheep and goats, grow our own vegetables. We've got a few chickens. It's a very simple life, and we're not in it for profit. We're still so busy that we work from five in the morning until eight at night, but we're together. We're happier than we're ever been and we're leading a natural life.
+Michelle: We don't need very much. We keep sheep and goats 山羊, grow our own vegetables. We've got a few chickens. It's a very simple life, and we're not in it for profit 利润，盈利. We're still #so# busy /#that# we work *from* five in the morning *until* eight at night, but we're together. We're happier *than* we're ever been /and we're leading a natural life.
 
 
 Nicola: There must be some things you miss, surely.
 
 
-Michelle: I don't know. We knew such a lot of people in London, but they weren't real friends. We see our neighbours occasionally and there's such a lot to do on the farm that we don't have time to feel lonely. At least we see each other now.
+Michelle: I don't know. We knew such a lot of people in London, but they weren't real friends. We see our neighbours occasionally /and there's #such# a lot to do on the farm /#that# we don't have time to feel lonely. At least 至少 we see each other now.
 
 
-Nicola: The motor-bike I'm sitting on is a very special one. Special because it's been all the way round the world. It belongs to Luke Saunders, who has just returned to England after a three year motor-cycle journey. Luke, what led you to leave your job and make this trip?
+Nicola: The motor-bike I'm sitting on `系`  is a very special one. Special because it's been *all the way* 一直到底，一路上；完全地，彻底地 round the world. It belongs to Luke Saunders, who has just returned to England /after a three year motor-cycle journey. Luke, what led you to leave your job /and make this trip?
 
 
-Luke: I worked in a car factory on the assembly line. All I had to do was put four nuts on the bolts that hold the wheels on. It's done by robots now, and a good thing too! The job was so routine that I didn't have to think at all. I bought this Triumph 750 cc bike second-hand, fitted two panniers on the back and just set off for Australia.
+Luke: I worked in a car factory /on the *assembly (n.)装配；组装；总成 line* 流水线. All I had to do was *put* four nuts 螺母，螺帽 *on* the bolts 螺栓 /that hold the wheels on. It's done by robots now, and a good thing too! The job was #so# routine #that# I didn't have to think at all. I bought this Triumph 750 cc bike second-hand, fitted two panniers 挂篮，货筐 on the back /and just *set off* 出发，启程 for Australia.
+
+[.my2]
+这份工作太常规了，我根本不需要思考。
+
+[.my1]
+.案例
+====
+.bolt
+image:../img/bolt.jpg[,10%]
 
 
-Nicola: What did you do for money?
+.pannier
+each of a pair of bags or boxes carried on either side of the back wheel of a bicycle or motorcycle; each of a pair of baskets carried on either side of its back by a horse or donkey（自行车、摩托车后架两侧的）挂篮，货筐；（牲畜背上驮的）驮笼，驮篮 +
+-> 来源于拉丁语panis(面包)的复合词panarium(面包篮子)。 词根词缀： -pan-面包 + -n-重复的辅音字母 + -ier名词词尾,人或物 +
+image:../img/pannier.jpg[,10%]
+
+====
+
+Nicola: What did you do *for* money?
 
 
-Luke: I had a bit of money to start with, but of course it didn't last long and I had to find work where I could. I've done so many different things — picked fruit, washed up, worked as a mechanic.
+Luke: I had a bit of money to start with, but of course /it didn't last long /and I had to find work where I could. I've done so many different things — picked fruit, washed up, worked as a mechanic.
 
 
-Nicola: How did people react to you? In India, for example.
+Nicola: How did people react (v.)起反应；（对…）作出反应；回应 to you? In India, for example.
 
 
-Luke: Everywhere I went, the people were so friendly that problems seemed to solve themselves. There was such a lot of interest in the bike that it was easy to start a conversation. You know, often you can communicate without really knowing the language.
+Luke: Everywhere I went, the people were #so# friendly /#that# problems seemed to solve themselves 问题似乎会自行解决. There was #such# a lot of interest in the bike /#that# it was easy to start a conversation. You know, often you can communicate /without really knowing the language.
 
 
-Nicola: Did you ever feel like giving up, turning round and coming home?
+Nicola: Did you ever feel like giving up, turning round 转身，转向；归航 and coming home?
 
 
-Luke: Only once, in Bangladesh. I became so ill with food poisoning that I had to go to hospital. But it didn't last long.
+Luke: Only once, in Bangladesh 孟加拉国. I became #so# ill with food poisoning /#that# I had to go to hospital. But it didn't last long.
 
 
-Nicola: You've had such an exciting time that you'll find it difficult to settle down, won't you?
+Nicola: You've had #such# an exciting time #that# you'll find it difficult to settle down, won't you?
 
 
-Luke: I'm not going to. Next week I'm off again, but this time I'm going in the opposite direction! See you in about three years' time!
+Luke: I'm not going to 不打算. Next week I'm off again, but this time I'm going in the opposite direction! See you in about three years' time!
 
 播音员：在今晚的“电视杂志”中，我们正在关注那些放弃正常工作和高薪开始新生活方式的人。首先，我们采访了两次决定退出“激烈竞争”的人。尼古拉·伯吉斯与他们交谈。
 
-
-尼古拉：这是斯凯岛。在我身后，你可以看到属于丹尼尔·伯恩斯和米歇尔·伯恩斯的小农场，他们放弃了工作来到苏格兰的这个偏远地区。丹尼尔是早餐麦片公司 Hi-Vita 的销售经理，米歇尔是一位成功的广告主管。米歇尔，你能告诉我们是什么让你放弃一切来到这里吗？
-
-
-米歇尔：一切？这是一个见仁见智的问题。一个大房子和两辆车还不是一切！丹和我过去都工作很长时间。我们早上很早就要离开，晚上很晚才回家，所以我们几乎没有见过面。我们几年前就应该来这里，但我们的薪水如此之高，以至于我们不敢离开工作。最后，我们在一起的时间太少了，我们的婚姻破裂了。两年前，我们在苏格兰高地度过了一周的假期。我们看到了这个地方，我们都爱上了它。它正在出售，我们非常喜欢它，以至于我们决定放弃我们的工作，我们就在这里！
-
-
-尼古拉：你靠什么谋生？如果你不介意我问的话。
-
-
-米歇尔：我们不需要太多。我们饲养绵羊和山羊，自己种植蔬菜。我们有几只鸡。这是一种非常简单的生活，我们并不是为了盈利。我们仍然很忙，从早上五点工作到晚上八点，但我们在一起。我们比以往任何时候都幸福，我们过着自然的生活。
-
-
-尼古拉：肯定有一些事情你想念。
-
-
-米歇尔：我不知道。我们在伦敦认识很多人，但他们都不是真正的朋友。我们偶尔会见到邻居，农场里有很多事情要做，所以我们没有时间感到孤独。至少我们现在见面了。
-
-
-尼古拉：我坐的摩托车是一辆非常特别的摩托车。特别是因为它已经遍布世界各地。它属于卢克·桑德斯 (Luke Saunders)，他刚刚结束三年的摩托车之旅回到英国。卢克，是什么促使您辞去工作并进行这次旅行？
-
-
-卢克：我在一家汽车厂的装配线上工作。我所要做的就是在固定车轮的螺栓上安装四个螺母。现在已经由机器人完成了，这也是一件好事！这项工作是如此例行公事，我根本不需要思考。我买了这辆二手 Triumph 750 cc 自行车，在后面装了两个包，然后就出发去澳大利亚了。
-
-
-尼古拉：你为了钱做了什么？
-
-
-卢克：我一开始有一点钱，但当然这并没有维持多久，我必须尽可能地找到工作。我做过很多不同的事情——摘水果、洗衣服、当机械师。
-
-
-尼古拉：人们对你有何反应？以印度为例。
-
-
-卢克：无论我走到哪里，人们都非常友好，问题似乎可以自行解决。大家对自行车很感兴趣，很容易就开始交谈。您知道，通常您无需真正了解语言即可进行交流。
-
-
-尼古拉：你有没有想过放弃、转身回家？
-
-
-卢克：只有一次，在孟加拉国。我因食物中毒而病得很重，不得不去医院。但这种情况并没有持续多久。
-
-
-尼古拉：你度过了如此激动人心的时光，以至于你会发现很难安定下来，不是吗？
-
-
-卢克：我不会。下周我又要出发了，不过这次我要往相反的方向走！大约三年后见！
 
 
 
@@ -257,25 +212,44 @@ Luke: I'm not going to. Next week I'm off again, but this time I'm going in the 
 
 == 3
 
-Here is an extract from a radio talk on the work of Sigmund Freud by Professor Eric Watkis:
+Here is #an extract# (n.)摘录；选录；选曲；节录 from a radio talk /#on# the work of Sigmund Freud 西格蒙德·弗洛伊德 by Professor Eric Watkis:
+
+[.my1]
+.案例
+====
+extract
+(n.)~ (from sth) : a short passage from a book, piece of music, etc. that gives you an idea of what the whole thing is like摘录；选录；选曲；节录
+====
 
 
 
+Sigmund Freud developed his system of psychoanalysis 精神分析；心理分析 /while he was studying cases of mental illness. By examining details of the patient's life, he found that /the illness could often be traced back to some definite 清楚的；明显的 problem or conflict /within the person 后定 concerned 影响，涉及，牵涉（某人）.  +
+But he *discovered*, too, *that* `主` many of the #neuroses# 神经症，精神官能症 /后定 observed (v.)观察；遵守；注意到 in mentally ill patients /`系` #were# also present, to a lesser (a.)(范围或程度) 较小的; (数量) 较少的 degree, in normal persons. This led him to the realization /that `主` the borderline 两种品质（或状况）之间的分界线 between the normal and the neurotic person /`系` is *not nearly* 远非；绝不是 #as# clearly marked (a.)显而易见的；明显的；显著的 #as# was once believed.
+
+[.my1]
+.案例
+====
+.NOT NEARLY
+much less than; not at all远非；绝不是 +
+• It's *not nearly* as hot as last year.天气绝没有去年那么热。 +
+• There *isn't nearly* enough time /to get there now.现在根本没有足够的时间赶到那儿。
+====
 
 
-Sigmund Freud developed his system of psychoanalysis while he was studying cases of mental illness. By examining details of the patient's life, he found that the illness could often be traced back to some definite problem or conflict within the person concerned. But he discovered, too, that many of the neuroses observed in mentally ill patients were also present, to a lesser degree, in normal persons. This led him to the realization that the borderline between the normal and the neurotic person is not nearly as clearly marked as was once believed.
+
+In 1914 /he published a book /called The Psychopathology of Everyday Life 日常生活的精神病理学. This book *goes a long way （对做某事）帮助很大，作用很大 towards* explain**ing** some of the strange behaviour of normal, sane 精神健全的；神志正常的 people.
+
+[.my1]
+.案例
+====
+.go a long/some way towards doing sth
+to help very much/a little in achieving sth（对做某事）帮助很大╱不大，作用很大╱不大 +
+• The new law *goes a long way towards* solv**ing** the problem. 新的法律十分有助于解决这一问题。
+====
 
 
 
-
-
-In 1914 he published a book called The Psychopathology of Everyday Life. This book goes a long way towards explaining some of the strange behaviour of normal, sane people.
-
-
-
-
-
-A glance at Freud's chapter headings will indicate some of the aspects of behaviour covered by the book:
+A glance at Freud's chapter headings 章节标题 /will indicate 表明；显示 some of the aspects of behaviour 后定 covered by the book:
 
 
 
@@ -293,7 +267,7 @@ Forgetting of foreign words
 
 
 
-Childhood and concealing memories
+Childhood and concealing (v.)隐藏；掩饰 memories
 
 
 
@@ -311,48 +285,14 @@ Mistakes in reading and writing
 
 
 
-Broadly, Freud demonstrates that there are good reasons for many of the slips and errors that we make. We forget a name because, unconsciously, we do not wish to remember that name. We repress a childhood memory because that memory is painful to us. A slip of the tongue or of the pen betrays a wish or a thought of which we are ashamed.
+Broadly 大体上；基本上；不考虑细节地, Freud demonstrates (v.)证明；证实；论证；说明 that /there are good reasons /for many of the slips 差错；疏漏；纰漏 and errors /后定 that we make. We forget a name because, unconsciously 不知不觉；无意识地, we do not wish to remember that name. We repress (v.)克制；压抑；抑制 a childhood memory /because that memory is painful to us. `主` A slip of the tongue or of the pen /`谓` betrays (v.) a wish or a thought of which we are ashamed.
 
 
 
 
 
-In these days when every would-be doctor or writer has access to Freud's accounts of his research, it is worth pausing and remembering the remarkable scope and originality of his ideas.
+In these days /when `主` every would-be （形容想要成为…的人）未来的 doctor or writer `谓` *has access (v.)访问，存取（计算机文件）;到达；进入；使用 to* Freud's accounts (n.)描述；叙述；报告;（思想、理论、过程的）解释，说明，叙述 of his research, it is worth pausing and remembering *the remarkable scope （题目、组织、活动等的）范围 and originality* (n.)独创性；创意；独特构思 of his ideas.
 
-
-
-
-以下是埃里克·沃特基斯教授关于西格蒙德·弗洛伊德作品的广播演讲的摘录：
-
-
-西格蒙德·弗洛伊德在研究精神疾病病例时发展了他的精神分析系统。通过检查病人的生活细节，他发现疾病往往可以追溯到当事人内部的某些明确的问题或冲突。但他也发现，在精神病患者身上观察到的许多神经症在正常人身上也存在，但程度较轻。这使他意识到正常人和神经症患者之间的界限并不像曾经认为的那样清晰。
-
-
-1914年，他出版了一本名为《日常生活的精神病理学》的书。这本书在很大程度上解释了正常、理智的人的一些奇怪行为。
-
-
-扫一眼弗洛伊德的章节标题就可以看出该书涵盖的行为的一些方面：
-
-
-忘记专有名称
-
-
-忘记外来词
-
-
-童年和隐藏的记忆
-
-
-  言语错误
-
-
-阅读和写作中的错误
-
-
-总的来说，弗洛伊德证明我们犯下的许多失误和错误都是有充分理由的。我们忘记一个名字是因为我们无意识地不想记住这个名字。我们压抑童年记忆，因为那段记忆对我们来说是痛苦的。口误或笔误泄露了我们感到羞耻的愿望或想法。
-
-
-如今，当每个想成为医生或作家的人都可以接触到弗洛伊德对其研究的描述时，值得停下来并记住他思想的非凡范围和独创性。
 
 
 
@@ -360,35 +300,74 @@ In these days when every would-be doctor or writer has access to Freud's account
 
 == 4
 
-Cheese is one of those foods that we tend to take for granted as always having been with us, and it's odd to think that someone somewhere must have discovered the process that takes place when micro-organisms get into milk and bring about changes in its physical and biochemical structure.
+Cheese  干酪，奶酪 is one of those foods /that we tend *to take for granted* 认为…是理所当然 *as* always having been with us, and #it#'s odd to think /#that# someone somewhere must have discovered the process /that *takes place* /when micro-organisms get into milk /and bring about changes in its physical and biochemical 生物化学的 structure.
+
+[.my2]
+奶酪是这样一种食物 -- 我们理所当然地认为"它一直与我们同在", 因此如果某人有下面这种想法, 就会变得奇怪 -- "历史上某个地方的某个人, 他一定会发现了这个现象: 当微生物进入牛奶, 并改变了其物理和生化结构的过程时, 这个(发酵)过程就发生了".
+
+
+[.my1]
+.案例
+====
+.take it for ˈgranted (that...)
+to believe sth is true without first making sure that it is 认为…是理所当然 +
+• I just *took it for granted that* he'd always be around.我还想当然地以为他总能随叫随到呢。
+
+.take sb/sth for ˈgranted
+to be so used to sb/sth that you do not recognize their true value any more and do not show that you are grateful（因习以为常）对…不予重视；（因视为当然而）不把…当回事 +
+• Her husband was always there /and she just *took him for granted*. 她丈夫随时都在身边，她只是认为他理应如此。 +
+• We *take* having an endless supply of clean water *for granted*.我们想当然地认为洁净水的供应无穷无尽而不予以珍惜。
+====
+
+
+
+Obviously, we don't know /who discovered the process, but it's thought that 通常认为 /it came from South-West Asia about 8,000 years ago.
 
 
 
 
 
-Obviously, we don't know who discovered the process, but it's thought that it came from South-West Asia about 8,000 years ago.
+Early cheese was probably rather unpalatable 难吃的；不可口的 stuff （事物名称不详、无关紧要或所指事物明显时用）东西，物品，玩意儿, ① tasteless 无味的；不可口的 and bland 平淡的；乏味的 /in the case of 关于；就…而言；在…情况下 #the so-called 'fresh cheeses'# 新鲜奶酪, which are eaten immediately /after the milk has coagulated (v.)凝固；使凝结, ② and rough tasting and salty 含盐的；咸的 /in the case of #the 'ripened' 成熟的  cheeses#, which are made /by *adding* salt *to* the soft fresh cheese /and *allowing* other biochemical processes *to continue* /so that `主` a stronger taste and a more solid texture 坚实纹理 `谓` result (v.)（因…）发生；（随…）产生.
+
+[.my1]
+.案例
+====
+image:../img/0022.svg[,100%]
+
+====
+
+
+[.my2]
+早期的奶酪, 可能是相当难吃的东西，所谓的“新鲜奶酪”无味无味，在牛奶凝固后立即食用，而“成熟”奶酪口感粗糙且咸，这是通过在软的新鲜奶酪中加入盐，并允许其他生化过程继续进行，从而产生更强的味道和更坚实的纹理质地。
+
+
+
+The ancient Romans changed all that. They were great pioneers in the art of cheese-making, and `主` the different varieties of cheese 后定 they invented /and the techniques for producing them /`谓` *spread* [with them] *to* the countries they invaded. This dissemination 宣传，散播 of new techniques *took place* between about 60 BC and 300 AD. You can still trace their influence in the English word 'cheese', which comes ultimately 最终，最后 from the Latin word 'caseus', that's C-A-S-E-U-S.
 
 
 
 
 
-Early cheese was probably rather unpalatable stuff, tasteless and bland in the case of the so-called 'fresh cheeses', which are eaten immediately after the milk has coagulated, and rough tasting and salty in the case of the 'ripened' cheeses, which are made by adding salt to the soft fresh cheese and allowing other biochemical processes to continue so that a stronger taste and a more solid texture result.
+Well, things went on *quietly 轻轻地，安静地 enough* /after the Roman period /独立主格结构 #with# `主` the cheese producers in the different countries *getting on （尤指中断后）继续做某事 with* developing their own specialities 专业；专长;特产；特色菜. It's amazing /*the variety of flavours* you can get from *essentially 本质上；根本上；基本上 the same process*.
 
+[.my2]
+在罗马时期之后，各国的奶酪生产商相对安宁地进行着各自特色的发展。令人惊讶的是，基本上采用相同工艺，却能产生如此多样的风味。
 
+[.my1]
+.案例
+====
+.GET ˈON WITH STH
+(1) ( also ˌget aˈlong with sth ) used to talk or ask about how well sb is doing a task（谈及或问及工作情况）进展，进步 +
+• I'm not *getting on* very fast *with this job*.我这个工作进展不太快。
 
+(2)to continue doing sth, especially after an interruption（尤指中断后）继续做某事 +
+• Be quiet and *get on with your work*.安静下来，继续干你的事。 +
+( informal) +
+• *Get on with it*! We haven't got all day.继续干吧！我们的时间并不多。
 
-
-The ancient Romans changed all that. They were great pioneers in the art of cheese-making, and the different varieties of cheese they invented and the techniques for producing them spread with them to the countries they invaded. This dissemination of new techniques took place between about 60 BC and 300 AD. You can still trace their influence in the English word 'cheese', which comes ultimately from the Latin word 'caseus', that's C-A-S-E-U-S.
-
-
-
-
-
-Well, things went on quietly enough after the Roman period with the cheese producers in the different countries getting on with developing their own specialities. It's amazing the variety of flavours you can get from essentially the same process.
-
-
-
-
+.独立主格结构
+见本篇尾
+====
 
 At this stage in history, people weren't aware in a scientific way of the role of different micro-organisms and enzymes in producing different types of cheese. But they knew from experience that if you kept your milk or your 'pre-cheese' mixture at a certain temperature or in a certain environment, things would turn out in a certain way. The Roquefort caves in France are an example of a place that was used for centuries for the ripening of a certain sort of cheese, before people knew exactly why they produced the effect they did.
 
@@ -469,3 +448,161 @@ Cheese started being made on a large scale in factories, although the small prod
 我们不知道最后的问题是什么。可能是敌人的攻击、疾病、缺雨或过度耕种的土壤。但在 1300 年，最后一批阿纳萨齐人离开了悬崖住宅，再也没有回来。他们留下了美丽的普韦布洛，这些普韦布洛至今仍然矗立着，作为他们的纪念碑。
 
 ---
+
+== 独立主格结构 Absolute Construction
+
+==== 说明1
+
+*其实"独立主格"和"非谓语动词"本质上是一回事，区分只是"非谓语动词的逻辑主语"是"整句的主语"还是"独立的主语"的问题。*
+
+*独立主格就是: 当两个主语不同的句子进行合并的时候，就可以把其中一个句子的谓语动词, 阉割成「非谓语动词」，同时保留其主语作为一个"独立于句子主语之外的主语"（主格）*
+
+*验证"独立主格"(里面没有谓语, 只有非谓语动词)用的是否对的方法, 就是把「be」动词(是"谓语",而不是"非谓语动词"的标志)加回去，加上「be」动词之后, 如果是一个完整正确的句子，就是对的，否则就错。*
+
+- His friends *to come* tonight, he is busy preparing the dinner. +
+显然，整句的主语是「he」，而「His friends」是独立的主语，非谓语动词「to come」的逻辑主语是「His friends」。 +
+独立主格的部分加上be动词，即「His friends are to come tonight」是完整正确的句子，所以这个是对的。 +
+如果在前面加上with，也是对的，那么「*with* his friends to come tonight」其实就是一个介宾短语结构，做整个句子的状语。
+
+- The boy *leading* (表进行或主动) the way, we had no trouble getting out of the forest. +
+验证：加入be之后, The boy is leading the way正确。
+
+- The test *finished* (表完成或被动), we’ll have our summer vacation. +
+验证：The test is finished.正确。
+
+
+- I received many Christmas gifts, some of them *books* (名词). +
+验证：some of them are books.正确。
+
+- He turned to me, his eyes *sleepy* (形容词). +
+验证：his eyes are sleepy.正确。
+
+- School *over* (介词短语), we all went home. +
+验证：School is over.正确。
+
+注意：
+
+1）在with/ without复合结构中，多数情况下with能省略，但without不能省略，但是可以改为其他否定形式。 +
+- *Without* his homework *done*, Peter went out to play.
+
+
+2）如果意义明确，独立主格中的冠词或代词, 可以省略。 +
+- The guard stood by the door, (a) gun *in (his) hand*.
+
+
+3）独立主格结构中的being, 如下情况不能省略：
+
+There being 时: +
+- *There being* no bus, we had to walk home.
+
+逻辑主语是代词时 : +
+- *It being* Sunday, all the offices are closed.
+
+'''
+
+==== 说明2
+
+记住3点:
+
+- *独立主格结构, 在句中利用它来作"状语"的作用.  它的外表形式是: n./pron. + a. /ad. /介词短语 /doing /to do 等.  加号前后的两者, 在逻辑上是有"主谓关系"的.*
+- *"独立主格结构的逻辑主语", 与"句子的主语"不是同一个对象。*
+- *独立主格结构, 一般用逗号与主句分开，与主句之间不用任何连接词。* +
+使用分词短语、独立主格结构、with ... 在句子中作"状语"时, 要注意：它们与主句之间不应有从属连词（如when, if, as soon as, as, while等）或并列连词（如and, but, or, so等）。
+
+独立主格结构, 常见的外表形式有:
+
+[.small]
+[options="autowidth" ]
+|===
+|别忘了: 独立主格这部分, 是做"状语"作用 |Header 2
+
+|- We shall play the match tomorrow, *weather permitting*. 明天假设天气好，我们就进行比赛。 +
+- *The moon appearing*，they decided to go on with their jouney.
+|名词（代词）+现在分词（逻辑主语是分词的动作发出者）
+
+|- *The job finished*, we went home. 工作结束后我们就回家了。 +
+- *Good-bye said*，he went home.
+|名词（代词）+过去分词（逻辑主语是分词的动作承受者）
+
+|- *Nobody to come* tomorrow, we will have to put off the meeting till next week. 如果明天没有人来，我们将把会议推迟到下周。 +
+- So *many people to help him*, he is sure to succeed. 有如此多的人来帮助他，他一定会成功的。
+|名词（代词）+不定式
+
+|- The soldiers dashed in, *rifle in hand*. 士兵们端着枪冲了进来。 +
+- A girl came in, *book in hand*. 一个少女进来了，手里拿着书。
+| 名词（代词）+介词短语（相当于不带动词的“主—系—介词短语）
+
+|- He sat in the front row, *his mouth half open (a.)*. 他坐在前排，嘴半开着。 +
+|名词（代词）+形容词或副词（相当于一个未带动词的“主—系—表”结构）
+
+|- *There being nothing else to do*, we went home. 没有别的事可做，我们就回家了。 +
+- *There being no further business*, I declare the meeting closed. 没有要讨论的事了，我宣布散会。
+|There being +名词（代词）
+
+|- *It being Christmas*, the government offices were closed. 由于圣诞节的缘故，政府机关都休息。 +
+- *It being a holiday*, all the shops were shut. 由于今天是假日，所有商店都关门了。
+|It being +名词（代词）
+|===
+
+
+注：*独立主格结构, 有时可在其前加上介词 with。* +
+- He stood before his teacher *with his head down*. 他低着头站在老师面前。 +
+- I won’t be able to go on holiday *with my mother being ill*. 因为妈妈有病，我无法去度假。
+
+
+比较：“名词（或代词）＋介词短语”构成的独立主格结构中，不用形容词性物主代词和冠词。 +
+- Miss Smith entered the classroom, *book in hand*.史密斯先生走进了课室，手里拿着一本书。 +
+- with 的复合结构：Miss Smith entered the classroom, *with a book in his hand*.
+
+
+'''
+
+*独立主格结构, 相当于一个"状语从句"或"并列句"。主要表示主句谓语动词发生的时间、原因、条件或伴随情况等.*
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|用作**时间**状语
+|*The work done* (=After the work #had been# done), we went home. 工作完成后，我们就回家了。
+
+|用作**条件**状语
+|*Weather permitting* (=If weather #permits#), they will go on an outing to the beach tomorrow. 如果天气允许的话，他们将在明天组织一次海滨小游。
+
+|用作**原因**状语
+|An important lecture *to be given* tomorrow (=As an important lecture #will be# given tomorrow), the professor has to stay up late into the night. 因为明天要发表一个重要的演讲，教授不得不熬夜到很晚。
+
+|用作**伴随**状语
+|He was lying on the grass, his hands *crossed under his head* (=and his hands #were# crossed under his head).他躺在草地上，两手交叉枕在脑后。
+
+|表示**补充说明**
+|A hunter came in, his face *red with cold* (=and his face #was# red with cold). 一个猎人走了进来，他的脸冻得通红。 +
+We redoubled our efforts, each man *working like two*. 我们加倍努力，一个人干两个人的活。
+|===
+
+
+注： +
+1、**独立主格结构**表示时间、条件或原因时，**相当于一个状语从句，**一般放在句首，表示原因时还可放在句末； +
+*表伴随状况或补充说明时，相当于一个并列句*，通常放于句末。
+
+2、独立主格结构**没有"所有格形式"**。 +
+- The chief-editor *arriving*, we began the meeting. 主编来了，我们开始开会。 +
+- 比较动名词复合结构：*The chief-editor##’s## arriving* made us very surprised.
+
+3、 独立主格结构作"时间或原因状语"时，可用"完成时"，表示该动作发生在谓语之前。 +
+- The listeners *having taken their seats*, the concert began.听众坐好后，音乐会开始了。
+
+'''
+
+
+
+
+
+
+
+
+
+
+
+
