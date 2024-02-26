@@ -1,0 +1,176 @@
+
+
+= LTH 中出现的语法
+:toc: left
+:toclevels: 3
+:sectnums:
+// :stylesheet: myAdocCss.css
+
+'''
+
+
+== 独立主格结构 Absolute Construction
+
+==== 说明1
+
+*其实"独立主格"和"非谓语动词"本质上是一回事，区分只是"非谓语动词的逻辑主语"是"整句的主语"还是"独立的主语"的问题。*
+
+*独立主格就是: 当两个主语不同的句子进行合并的时候，就可以把其中一个句子的谓语动词, 阉割成「非谓语动词」，同时保留其主语作为一个"独立于句子主语之外的主语"（主格）*
+
+*验证"独立主格"(里面没有谓语, 只有非谓语动词)用的是否对的方法, 就是把「be」动词(是"谓语",而不是"非谓语动词"的标志)加回去，加上「be」动词之后, 如果是一个完整正确的句子，就是对的，否则就错。*
+
+- His friends *to come* tonight, he is busy preparing the dinner. +
+显然，整句的主语是「he」，而「His friends」是独立的主语，非谓语动词「to come」的逻辑主语是「His friends」。 +
+独立主格的部分加上be动词，即「His friends are to come tonight」是完整正确的句子，所以这个是对的。 +
+如果在前面加上with，也是对的，那么「*with* his friends to come tonight」其实就是一个介宾短语结构，做整个句子的状语。
+
+- The boy *leading* (表进行或主动) the way, we had no trouble getting out of the forest. +
+验证：加入be之后, The boy is leading the way正确。
+
+- The test *finished* (表完成或被动), we’ll have our summer vacation. +
+验证：The test is finished.正确。
+
+
+- I received many Christmas gifts, some of them *books* (名词). +
+验证：some of them are books.正确。
+
+- He turned to me, his eyes *sleepy* (形容词). +
+验证：his eyes are sleepy.正确。
+
+- School *over* (介词短语), we all went home. +
+验证：School is over.正确。
+
+注意：
+
+1）在with/ without复合结构中，多数情况下with能省略，但without不能省略，但是可以改为其他否定形式。 +
+- *Without* his homework *done*, Peter went out to play.
+
+
+2）如果意义明确，独立主格中的冠词或代词, 可以省略。 +
+- The guard stood by the door, (a) gun *in (his) hand*.
+
+
+3）独立主格结构中的being, 如下情况不能省略：
+
+There being 时: +
+- *There being* no bus, we had to walk home.
+
+逻辑主语是代词时 : +
+- *It being* Sunday, all the offices are closed.
+
+'''
+
+==== 说明2
+
+记住3点:
+
+- *独立主格结构, 在句中利用它来作"状语"的作用.  它的外表形式是: n./pron. + a. /ad. /介词短语 /doing /to do 等.  加号前后的两者, 在逻辑上是有"主谓关系"的.*
+- *"独立主格结构的逻辑主语", 与"句子的主语"不是同一个对象。*
+- *独立主格结构, 一般用逗号与主句分开，与主句之间不用任何连接词。* +
+使用分词短语、独立主格结构、with ... 在句子中作"状语"时, 要注意：它们与主句之间不应有从属连词（如when, if, as soon as, as, while等）或并列连词（如and, but, or, so等）。
+
+独立主格结构, 常见的外表形式有:
+
+[.small]
+[options="autowidth" ]
+|===
+|别忘了: 独立主格这部分, 是做"状语"作用 |Header 2
+
+|- We shall play the match tomorrow, *weather permitting*. 明天假设天气好，我们就进行比赛。 +
+- *The moon appearing*，they decided to go on with their jouney.
+|名词（代词）+现在分词（逻辑主语是分词的动作发出者）
+
+|- *The job finished*, we went home. 工作结束后我们就回家了。 +
+- *Good-bye said*，he went home.
+|名词（代词）+过去分词（逻辑主语是分词的动作承受者）
+
+|- *Nobody to come* tomorrow, we will have to put off the meeting till next week. 如果明天没有人来，我们将把会议推迟到下周。 +
+- So *many people to help him*, he is sure to succeed. 有如此多的人来帮助他，他一定会成功的。
+|名词（代词）+不定式
+
+|- The soldiers dashed in, *rifle in hand*. 士兵们端着枪冲了进来。 +
+- A girl came in, *book in hand*. 一个少女进来了，手里拿着书。
+| 名词（代词）+介词短语（相当于不带动词的“主—系—介词短语）
+
+|- He sat in the front row, *his mouth half open (a.)*. 他坐在前排，嘴半开着。 +
+|名词（代词）+形容词或副词（相当于一个未带动词的“主—系—表”结构）
+
+|- *There being nothing else to do*, we went home. 没有别的事可做，我们就回家了。 +
+- *There being no further business*, I declare the meeting closed. 没有要讨论的事了，我宣布散会。
+|There being +名词（代词）
+
+|- *It being Christmas*, the government offices were closed. 由于圣诞节的缘故，政府机关都休息。 +
+- *It being a holiday*, all the shops were shut. 由于今天是假日，所有商店都关门了。
+|It being +名词（代词）
+|===
+
+
+注：*独立主格结构, 有时可在其前加上介词 with。* +
+- He stood before his teacher *with his head down*. 他低着头站在老师面前。 +
+- I won’t be able to go on holiday *with my mother being ill*. 因为妈妈有病，我无法去度假。
+
+
+比较：“名词（或代词）＋介词短语”构成的独立主格结构中，不用形容词性物主代词和冠词。 +
+- Miss Smith entered the classroom, *book in hand*.史密斯先生走进了课室，手里拿着一本书。 +
+- with 的复合结构：Miss Smith entered the classroom, *with a book in his hand*.
+
+
+'''
+
+*独立主格结构, 相当于一个"状语从句"或"并列句"。主要表示主句谓语动词发生的时间、原因、条件或伴随情况等.*
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|用作**时间**状语
+|*The work done* (=After the work #had been# done), we went home. 工作完成后，我们就回家了。
+
+|用作**条件**状语
+|*Weather permitting* (=If weather #permits#), they will go on an outing to the beach tomorrow. 如果天气允许的话，他们将在明天组织一次海滨小游。
+
+|用作**原因**状语
+|An important lecture *to be given* tomorrow (=As an important lecture #will be# given tomorrow), the professor has to stay up late into the night. 因为明天要发表一个重要的演讲，教授不得不熬夜到很晚。
+
+|用作**伴随**状语
+|He was lying on the grass, his hands *crossed under his head* (=and his hands #were# crossed under his head).他躺在草地上，两手交叉枕在脑后。
+
+|表示**补充说明**
+|A hunter came in, his face *red with cold* (=and his face #was# red with cold). 一个猎人走了进来，他的脸冻得通红。 +
+We redoubled our efforts, each man *working like two*. 我们加倍努力，一个人干两个人的活。
+|===
+
+
+注： +
+1、**独立主格结构**表示时间、条件或原因时，**相当于一个状语从句，**一般放在句首，表示原因时还可放在句末； +
+*表伴随状况或补充说明时，相当于一个并列句*，通常放于句末。
+
+2、独立主格结构**没有"所有格形式"**。 +
+- The chief-editor *arriving*, we began the meeting. 主编来了，我们开始开会。 +
+- 比较动名词复合结构：*The chief-editor##’s## arriving* made us very surprised.
+
+3、 独立主格结构作"时间或原因状语"时，可用"完成时"，表示该动作发生在谓语之前。 +
+- The listeners *having taken their seats*, the concert began.听众坐好后，音乐会开始了。
+
+'''
+
+== used to do sth 过去常常做某事，而现在则不了
+
+You use *used to do sth* to talk about something that happened regularly or was the case in the past, but is not now.used to do sth指过去惯常做某事，而现在则不了：  +
+• I used to smoke, but I gave up a couple of years ago.我以前抽烟，但几年前就戒掉了。
+
+
+'''
+
+== be used (a.) to介  宾doing 习惯做某事, 适应于 =  get used (a.) to sth
+
+主语 I + 谓语 be (= am) + 表语used（=Ved=adj）+ 介宾短语 to sth。
+
+You use *be used (a.) to sth/to doing sth* to talk about something that you are familiar with so that it no longer seems new or strange to you.be used to sth/to doing sth指习惯于、适应于： +
+- I’m used (a.) to getting up early.我习惯早起。 +
+- I didn’t think I could ever *get used (a.) to* living in a big city after living in the country.我觉得我在农村住了之后就无法适应大城市的生活了。
+
+'''
+
+
