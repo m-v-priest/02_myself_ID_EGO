@@ -54,8 +54,17 @@
 
 }
 
-.underline{
-    text-decoration:underline;
+
+/*斜体字*/
+em {
+    color: rgb(0, 0, 0);
+    /* 白色字体 */
+    background-color: #98beb47a;
+    /* 红色背景 */
+}
+
+.underline {
+    text-decoration: underline;
 }
 
 .title {
