@@ -3,51 +3,68 @@
 :toc: left
 :toclevels: 3
 :sectnums:
+:stylesheet: myAdocCss.css
 
 '''
 
+
+
 == Dangerous 'Superbugs' Are on the Rise. 危险的“超级细菌”正在增加。
 
-What Can Stop Them? +
-什么可以阻止他们？ +
+What Can Stop Them? Dangerous ‘Superbugs’ Are on the Rise. +
 
-Dangerous ‘Superbugs’ Are on the Rise. +
-危险的“超级细菌”正在增加。 +
+[.my2]
+什么可以阻止他们？ 危险的“超级细菌”正在增加。 +
 
-What Can Stop Them? Traditional antibiotics *drive* (v.) bacteria *toward* drug resistance, so scientists are looking to viruses, CRISPR, designer molecules and protein swords *for better superbug treatments* +
+What Can Stop Them? Traditional antibiotics *drive* (v.) bacteria *toward* drug resistance, so scientists are looking to viruses, CRISPR, _designer (a.)由著名设计师设计的 molecules_ and _protein swords_ *for* better superbug treatments +
+
+[.my2]
 什么可以阻止他们？传统抗生素会导致细菌产生耐药性，因此科学家们正在寻找病毒、CRISPR、设计分子和蛋白质剑, 来寻找更好的超级细菌治疗方法 +
 
 `主` *Bacteria’s rising (a.) resistance* to antibiotics  `谓`  is making the drugs obsolete 淘汰的；废弃的；过时的. +
-细菌对抗生素的耐药性不断增强，导致这些药物变得过时。 +
+Scientists are *fighting back /with* viruses, CRISPR, designer molecules and cell-slicing enzymes. +
 
-Scientists are *fighting back with* viruses, CRISPR, designer molecules and cell-slicing enzymes. +
+[.my2]
+细菌对抗生素的耐药性, 不断增强，导致这些药物变得过时。
 科学家们正在利用病毒、CRISPR、设计分子和细胞切片酶, 进行反击。 +
 
-`主` Seven of the 18 *concerning bacteria* tracked by the Centers for Disease Control and Prevention (CDC) `系` are *becoming more resistant (a.) to common antibiotics* 后定 considered *essential for* maintaining public health. +
-美国疾病控制与预防中心 (CDC) 追踪的 18 种相关细菌中，有 7 种对普通抗生素的耐药性越来越强，而这些抗生素被认为对维持公众健康至关重要。 +
-
-Meanwhile, drug companies *have been slow* to make new antibiotics *capable of beating the microbes*. +
+`主` Seven of the 18 concerning bacteria /tracked by _the Centers for Disease Control and Prevention_ (CDC) /`系` are becoming more resistant (a.) to _common antibiotics_ /后定 considered (v.) *essential for* maintaining  (v.) public health. +
+Meanwhile, drug companies have been slow (a.) /to make new antibiotics *capable of* beating the microbes. +
+[.my2]
+美国疾病控制与预防中心 (CDC) 追踪的 18 种相关细菌中，有 7 种对普通抗生素的耐药性越来越强，而这些抗生素, 被认为对维持公众健康至关重要。 +
 与此同时，制药公司在生产能够对抗微生物的新型抗生素方面, 进展缓慢。 +
 
-So some scientists are *looking beyond* 向远处看 traditional antibiotics *for* new weapons *that won’t fuel (v.)给…提供燃料;增加；加强；刺激 the rise of superbugs*. +
-因此，一些科学家正在超越传统抗生素，寻找不会助长超级细菌崛起的新武器。 +
 
-`主` Their *emerging (a.)新兴的，发展初期的 arsenal* （统称）武器 `谓` features (v.)以…为特色；由…主演；以…为主要组成 viruses *that kill bacteria*; CRISPR; and microbe-slaying （在战争或搏斗中）杀，杀死;谋杀 molecules. +
+So some scientists are looking beyond 向远处看 traditional antibiotics /*for* new weapons /that won’t fuel (v.)给…提供燃料;增加；加强；刺激 the rise of superbugs. +
+
+`主` Their _emerging (a.)新兴的，发展初期的 arsenal_ （统称）武器 /`谓` *features* (v.)以…为特色；由…主演；以…为主要组成 ① _viruses_ /that kill (v.) bacteria; ② _CRISPR_; ③ and _microbe-slaying （在战争或搏斗中）杀，杀死;谋杀 molecules_. +
+
+[.my2]
+因此，一些科学家正在超越传统抗生素，寻找不会助长超级细菌崛起的新武器。 +
 他们新兴的武器库, 包括: 能"杀死细菌的"病毒, 基因编辑技术, 和微生物杀灭分子。 +
 
-*They hope that* these experimental treatments, some of which have been tested in patients, will kill superbugs without promoting resistance. +
+
+
+They hope that /these experimental treatments, some of which have been tested in patients, will kill superbugs /without promoting resistance. +
+
+[.my2]
 他们希望这些实验性治疗（其中一些已经在患者身上进行了测试）能够杀死超级细菌而不增加耐药性。 +
 
-HOW *ANTIBIOTIC RESISTANCE* EMERGES (v.) AND SPREADS (v.) +
+HOW _ANTIBIOTIC RESISTANCE_ EMERGES (v.) AND SPREADS (v.) +
+
+[.my2]
 抗生素耐药性, 是如何出现和传播的? +
 
-Antibiotics *either* directly kill bacteria *or* slow their growth, leaving the immune system to finish the job. +
-抗生素要么直接杀死细菌，要么减缓细菌的生长，让免疫系统来完成这项工作。 +
+Antibiotics *#either#* directly kill (v.) bacteria /*#or#* slow (v.)  their growth, leaving _the immune system_ to finish the job. +
+The drugs work (v.) in several ways — by *preventing* bacteria *from* _building (v.) sturdy  结实的；坚固的 walls_ *or* _making copies of their DNA_, for instance. +
 
-The drugs work (v.) in several ways — by *preventing* bacteria *from* building sturdy  结实的；坚固的 walls *or* making copies of their DNA, for instance. +
+[.my2]
+抗生素要么直接杀死细菌，要么减缓细菌的生长，让免疫系统来完成这项工作。
 这些药物有多种作用，例如阻止细菌建造坚固的墙壁, 或复制其 DNA。 +
 
-*Growth-slowing antibiotics* usually disrupt (v.) ribosomes 核糖体, the factories in which *bacterial cells make proteins*. +
+_Growth-slowing antibiotics_ usually disrupt (v.) ribosomes 核糖体, the factories /in which _bacterial cells_ make (v.) proteins. +
+
+[.my2]
 减缓生长的抗生素, 通常会破坏"核糖体"，核糖体是细菌细胞制造"蛋白质"的工厂。 +
 
 
@@ -67,7 +84,9 @@ image:/img/ribosome.jpg[,30%]
 image:/img/ribosome2.jpg[,20%]
 ====
 
-Many antibiotics *shoot (v.) for* the exact same *molecular targets*, and `主` so-called *broad-spectrum (a.) 广谱的; 效用广泛的对, 多种疾病或微生物都有抵抗作用的 antibiotics*' mechanisms `系` are *so* universal *that* they work (v.) on both *major classes of* bacteria: gram-positive 阳性的 and gram-negative 阴性的, which are distinguished by *the makeup* and *thickness of their cell walls*. +
+Many antibiotics *shoot (v.) for* the exact same molecular targets, and `主` so-called _broad-spectrum (a.) 广谱的; 效用广泛的对, 多种疾病或微生物都有抵抗作用的 antibiotics_' mechanisms `系` are *#so#* universal *#that#* they work (v.) on both major classes of bacteria: gram-positive 阳性的 and gram-negative 阴性的, which are distinguished by _the makeup_ and _thickness_ of their cell walls. +
+
+[.my2]
 许多抗生素针对的是完全相同的分子目标，而所谓的"广谱抗生素"的机制是如此普遍，以至于它们对两大类细菌都有效: 革兰氏阳性细菌, 和革兰氏阴性细菌，它们的区别在于它们细胞壁的"组成"和"厚度"。 +
 
 
@@ -77,11 +96,11 @@ Many antibiotics *shoot (v.) for* the exact same *molecular targets*, and `主` 
 .gram-positive
 革兰氏"阳性菌"和革兰氏"阴性菌", 是利用"革兰氏染色法"来鉴别的两大类细菌。 *细胞壁结构的差异, 导致了染料吸收的差异，也导致了很多生理特性的不同。所以首先区分病原菌, 是革兰氏"阳性菌"还是"阴性菌"，在选择"抗生素"方面意义重大。* +
 
-image:/img/gram.jpg[,] +
+image:/img/gram.jpg[,40%]
 image:/img/gram2.jpg[,20%]
 
 
-[.small]
+[.my3]
 [options="autowidth" cols="1a,1a"]
 |===
 |G+  革兰氏"*阳性菌*"  gram-positive |G- 革兰氏"*阴性菌*" gram-negative
@@ -104,10 +123,14 @@ image:/img/gram2.jpg[,20%]
 
 ====
 
-Broad-spectrum antibiotics, in particular, pressure (v.) both harmful and helpful bacteria in the body *to evolve defensive strategies* that eject (v.)驱逐；逐出；赶出 or disable the drugs, or else alter (v.) their targets. +
+Broad-spectrum antibiotics, in particular, pressure (v.) *both* harmful *and* helpful bacteria in the body /to evolve (v.) defensive strategies /that eject (v.)驱逐；逐出；赶出 or disable the drugs, or else alter (v.) their targets. +
+
+[.my2]
 尤其是广谱抗生素，会迫使体内的有害细菌和有益细菌, 进化出防御策略，驱逐或禁用药物，或者改变它们的目标。 +
 
-Bacteria can *pick up* 改善；好转；增强 such defenses *through* random DNA mutations, or by *swapping* "resistance genes" *with* other bacteria *via* a process called *horizontal gene transfer* 水平基因转移. +
+Bacteria can *pick up* 改善；好转；增强 such defenses /*through* random DNA mutations, or by *swapping* "resistance genes" *with* other bacteria /*via* a process *called* _horizontal gene transfer_ 水平基因转移. +
+
+[.my2]
 细菌可以通过随机 DNA 突变，或者通过称为"水平基因转移"的过程, 与其他细菌交换“抗性基因”来获得这种防御。 +
 
 
@@ -138,24 +161,34 @@ Bacteria can *pick up* 改善；好转；增强 such defenses *through* random D
 
 "抗药性病原菌"的大量出现，**许多药物，特别是"抗生素"已经不能抑制或杀死原来敏感的病原菌，这已不仅仅是"基因突变"可解释的，可能与抗药性"基因的水平转移"有关。**已发现基因的转移, 不仅仅是发生在"细菌"之间，而且也发生在"细菌"与"高等生物"之间，甚至是"高等生物"之间。
 
-image:/img/horizontal gene transfer.jpg[,]
-image:/img/horizontal gene transfer2.png[,]
+image:/img/horizontal gene transfer.jpg[,70%]
+image:/img/horizontal gene transfer2.png[,70%]
 
 ====
 
 By making these *gene transfers*, bacteria can quickly *spread* (v.) such mutations *to* additional bacterial populations in the body and in the environment. +
+
+[.my2]
 通过进行这些基因转移，细菌可以快速将此类突变, 传播到体内和环境中的其他细菌群体。 +
 
-*The misuse of* antibiotics in health care, as well as in agriculture, has given bacteria *endless opportunities* to develop (v.) resistance, *raising the chance* that once-treatable infections *will become life-threatening*. +
+`主` The misuse of antibiotics /in health care, as well as in agriculture, `谓` has given bacteria endless opportunities /to develop (v.) resistance, raising (v.) the chance /that _once-treatable infections_ will become life-threatening. +
+
+[.my2]
 医疗保健和农业中抗生素的滥用, 给细菌提供了无限的机会产生耐药性，从而增加了曾经可治疗的感染变得危及生命的可能性。 +
 
 *HARNESSING*  (v.) 给（马等）上挽具;控制，利用（以产生能量等） VIRUSES *TO FIGHT* (v.) BACTERIA +
+
+[.my2]
 利用病毒对抗细菌 +
 
-`主` One of *the proposed 被提议的，建议的 alternatives* to antibiotics `谓` was first conceived (v.)想出（主意、计划等）；想象；构想；设想; 怀孕；怀（胎） more than a century ago, before the 1928 discovery of penicillin. +
+`主` One of _the proposed 被提议的，建议的 alternatives_ to antibiotics /`谓` was first conceived (v.)想出（主意、计划等）；想象；构想；设想; 怀孕；怀（胎） more than a century ago, before the 1928 discovery of penicillin. +
+
+[.my2]
 一个多世纪前，即 1928 年"青霉素"被发现之前，人们首次提出了抗生素替代品之一。 +
 
-Called *phage [病毒] 噬菌体 therapy*, it uses *bacteria-infecting viruses* called bacteriophages [病毒] 噬菌体, or simply "phages," which typically kill the germs 细菌 by *invading their cells* and *splitting （使）撕裂 them open* from the inside. +
+Called _phage [病毒] 噬菌体 therapy_, it uses _bacteria-infecting viruses_ called bacteriophages [病毒] 噬菌体, or simply "phages," which typically kill the germs 细菌 /by invading their cells /and *splitting （使）撕裂 them open* from the inside. +
+
+[.my2]
 这种疗法被称为"噬菌体疗法"，它使用称为"噬菌体"的细菌, 来感染病毒，或简称为“噬菌体”，通常通过侵入细胞, 并从内部将其切开, 来杀死细菌。 +
 
 
@@ -167,10 +200,12 @@ Called *phage [病毒] 噬菌体 therapy*, it uses *bacteria-infecting viruses* 
 N bacteriophage的缩写. [病毒] 噬菌体 +
 --> 来自希腊语phagein,吃，词源同esophagus,geophagy.引申词义噬菌体。
 
-image:/img/phage.jpg[,20%]
+image:/img/phage.jpg[,10%]
 ====
 
 Phages can also *pressure* bacteria *into* giving up *key tools* in their *drug resistance tool kits*. +
+
+[.my2]
 噬菌体还可以迫使细菌放弃其"耐药工具包"中的关键工具。 +
 
 For example, *a phage called U136B* can have this effect on *E.coli* 大肠杆菌. To infiltrate (v.)（使）悄悄进入，潜入;渗入；渗透 E. coli, the phage *uses (v.) an efflux 流出 pump* 外排泵, a protein 后定 E. coli normally uses (v.) *to pump* (v.) antibiotics *out of the cell*. +
