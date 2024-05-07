@@ -1,4 +1,5 @@
 /* 下面是我自定义的全局变量 */
+
 :root {
     --myGrayColor: rgb(240, 240, 240);
     /* 背景颜色 */
@@ -8,9 +9,8 @@
 }
 
 
-
-
 /* my1类, 专门用于单词高阶双解 */
+
 .my1 {
     font-size: var(--myFontSmallSize);
     /* 设置my1类的 字号大小 */
@@ -24,6 +24,7 @@
 
 
 /* my2类, 专门用于中文翻译参考 */
+
 .my2 {
     font-size: var(--myFontSmallSize);
     /* 设置my1类的 字号大小 */
@@ -33,8 +34,8 @@
 }
 
 
-
 /* my1类, 专门用于表格 */
+
 .my3 {
     font-size: 12;
     /* 设置my1类的 字号大小 */
@@ -51,19 +52,17 @@
     /* 白色字体 */
     background-color: #e34838;
     /* 红色背景 */
-
 }
 
 
 /*斜体字*/
+
 em {
     color: rgb(0, 0, 0);
     /* 白色字体 */
     background-color: #98beb47a;
     /* 红色背景 */
 }
-
-
 
 .underline {
     text-decoration: underline;
@@ -83,4 +82,8 @@ th,
 td {
     border: 1px solid black;
     padding: 5px;
+}
+
+p {
+    line-height: 140%;
 }
