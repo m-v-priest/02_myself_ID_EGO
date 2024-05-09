@@ -1,0 +1,128 @@
+
+= 0145. Men May Succumb to Anesthesia More Easily than Women
+男性可能比女性更容易死于麻醉
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../myAdocCss.css
+
+
+'''
+
+== Men May Succumb to Anesthesia More Easily than Women 男性可能比女性更容易死于麻醉
+
+In 1846 William G. Morton, a young Boston-based dentist, showed that inhaling ether in a proper dose can make a person insensible to pain without affecting their vital physiologic functions.
+
+[.my2]
+1846 年，波士顿的一位年轻牙医威廉·G·莫顿 (William G. Morton) 证明，吸入适当剂量的乙醚可以使人对疼痛失去知觉，而不会影响其重要的生理功能。
+
+Today general anesthetic drugs enable doctors to perform more than 300 million surgeries each year. Increasing evidence has shown that these drugs induce loss of consciousness in part by acting on the hypothalamus, the part of the brain that controls the body’s sleep-wake cycle. Yet the exact mechanism by which these drugs work in the brain remains poorly understood.
+
+[.my2]
+如今，全身麻醉药物每年使医生能够进行超过 3 亿例手术。越来越多的证据表明，这些药物部分通过作用于下丘脑（大脑中控制身体睡眠-觉醒周期的部分）而导致意识丧失。然而，这些药物在大脑中发挥作用的确切机制仍然知之甚少。
+
+Highlighting these fundamental gaps in knowledge, a group of researchers recently discovered why male and female mice respond differently to general anesthesia. The study, published in Proceedings of the National Academy of Sciences USA, shows that testosterone modulates susceptibility to volatile general anesthetics that are administered through inhalation, rendering males more sensitive to the effect of general anesthesia than females.
+
+[.my2]
+一组研究人员最近发现了为什么雄性和雌性小鼠对全身麻醉的反应不同，突显了这些基本的知识差距。这项发表在《美国国家科学院院刊》上的研究表明，*睾酮可调节对通过吸入给药的挥发性全身麻醉药的敏感性，使男性比女性对全身麻醉的效果, 更敏感。*
+
+The researchers were studying fluctuations in the brain activity of mice under a constant anesthetic dose when they observed that female mice took longer to become anesthetized and regained consciousness faster than male mice.
+
+[.my2]
+研究人员在研究恒定麻醉剂量下小鼠大脑活动的波动时发现，*雌性小鼠比雄性小鼠需要更长的时间才能麻醉, 并更快地恢复意识。*
+
+
+So they turned to the next somewhat obvious prospect that might account for this difference in males and females: sex hormones. They repeated their experiments with castrated male mice and found increased resistance to anesthesia. Injecting testosterone into the castrated male mice increased their sensitivity to anesthesia, and the animals showed similar responses as uncastrated males. They went under anesthesia faster and emerged from the state more slowly than female mice, confirming that testosterone modulated the effect of anesthetics.
+
+[.my2]
+因此，他们转向了下一个可能解释男性和女性差异的明显前景：性激素。他们用阉割的雄性小鼠重复了实验，发现对麻醉的抵抗力增加。*将睾酮注射到被阉割的雄性小鼠体内, 会增加它们对麻醉的敏感性，并且这些动物表现出与未阉割的雄性小鼠相似的反应。与雌性小鼠相比，它们进入麻醉的速度更快，但从麻醉状态中苏醒的速度更慢，这证实了睾酮调节了麻醉剂的效果。*
+
+
+Testosterone increased anesthetic sensitivity within an hour of injection, which the researchers realized was too rapid for a response altered by the switching on of genes. So the researchers probed whether the other way by which testosterone acts on the brain—its conversion to estradiol by the enzyme aromatase—could be responsible for this response. Inhibiting aromatase in male mice reduced anesthetic sensitivity, while injecting estradiol increased it. This indicated that testosterone mediates sensitivity to anesthesia through its conversion to estradiol by the aromatase enzyme in the brains of male mice.
+
+[.my2]
+睾丸激素在注射后一小时内, 增加了麻醉敏感性，**研究人员意识到这对于通过基因打开改变的反应来说太快了。因此，研究人员探究了睾酮作用于大脑的另一种方式——通过"芳香酶"将"睾酮"转化为"雌二醇"——是否可能是造成这种反应的原因。抑制雄性小鼠的"芳香酶", 会降低麻醉敏感性，而注射"雌二醇"则会增加麻醉敏感性。这表明"睾酮"通过雄性小鼠大脑中的"芳香酶"转化为"雌二醇", 来介导麻醉敏感性。**  (*雌二醇↑, 则麻醉敏感性也↑. 这两个变量值同比变动, 这属于"有相关性", 还是"有因果性"?*)
+
+[.my1]
+.title
+====
+睾酮 -> (通过"芳香酶", 转变成) -> 雌二醇  +
+即 : "雌二醇"含量越高, 麻醉对你的效果越强.
+====
+
+
+To peek inside the brains of anesthetized animals to find out what was going on, the researchers measured cortical activity using electroencephalograms (EEGs), which are used to monitor the depth of anesthesia in clinical settings. This probe did not reveal any differences between the sexes in the cerebral cortex, suggesting that any disparities may lie elsewhere. Using whole-brain mapping to visualize active neurons on anesthetized animals, they found that sleep-promoting neurons in the hypothalamuses of females were less active than those of males.
+
+[.my2]
+为了窥探麻醉动物的大脑内部发生的情况，研究人员使用脑电图（EEG）测量皮层活动，脑电图用于监测临床环境中的麻醉深度。**这项探测没有揭示大脑皮层中性别之间的任何差异，这表明任何差异可能存在于其他地方。他们利用全脑图谱, 对麻醉动物的"活跃神经元"进行可视化，发现雌性下丘脑中"促进睡眠的神经元", 不如雄性活跃。**
+
+Digging into clinical literature to see whether female humans are more resistant to anesthesia than male ones, Proekt’s team found widely contradictory results. While early work indicated no sex differences, newer studies suggest that women are more likely to retain awareness of their surroundings under anesthesia and emerge from an unconscious state faster than men.
+
+[.my2]
+普罗克特的团队深入研究临床文献，**看看女性是否比男性更能抵抗麻醉，结果发现了广泛矛盾的结果。**虽然早期的研究表明没有性别差异，但最新的研究表明，女性在麻醉下更有可能保持对周围环境的意识，并且比男性更快地从无意识状态中苏醒。
+
+Sex hormones are important in determining sensitivity to anesthesia, agrees Nisha Gowani, an anesthesiologist at Ruby Hall Clinic in India, who was not associated with the study. But there are other factors, she adds. “You would need to compare body mass index, age, and consumption of alcohol and drugs,” Gowani says.
+
+[.my2]
+印度 Ruby Hall 诊所的麻醉师 Nisha Gowani（未参与这项研究）也同意，*性激素对于决定麻醉敏感性很重要(但"相关性"不一定等于"因果性")。但她补充道，还有其他因素。 “你需要比较体重指数、年龄以及酒精和毒品的消费情况."*
+
+
+this research highlights the need to consider sex variables seriously. “Many assumptions are made about women based solely on studies of men.”
+
+[.my2]
+*这项研究强调了认真考虑"性别变量"的必要性。 “许多关于女性的假设, 都是完全基于对男性的研究.”*
+
+
+Proekt concurs and cautions doctors against increasing the anesthetic dosage for their female patients based on this basic biology study.
+
+[.my2]
+**(因为"相关性"不一定等于"因果性", 所以) **Proekt 同意并**警告医生不要根据这项基础生物学研究增加女性患者的麻醉剂量。**
+
+
+
+
+
+
+'''
+
+== (pure) Men May Succumb to Anesthesia More Easily than Women
+
+
+
+In 1846 William G. Morton, a young Boston-based dentist, showed that inhaling ether in a proper dose can make a person insensible to pain without affecting their vital physiologic functions.
+
+
+Today general anesthetic drugs enable doctors to perform more than 300 million surgeries each year. Increasing evidence has shown that these drugs induce loss of consciousness in part by acting on the hypothalamus, the part of the brain that controls the body’s sleep-wake cycle. Yet the exact mechanism by which these drugs work in the brain remains poorly understood.
+
+Highlighting these fundamental gaps in knowledge, a group of researchers recently discovered why male and female mice respond differently to general anesthesia. The study, published in Proceedings of the National Academy of Sciences USA, shows that testosterone modulates susceptibility to volatile general anesthetics that are administered through inhalation, rendering males more sensitive to the effect of general anesthesia than females.
+
+
+The researchers were studying fluctuations in the brain activity of mice under a constant anesthetic dose when they observed that female mice took longer to become anesthetized and regained consciousness faster than male mice.
+
+
+So they turned to the next somewhat obvious prospect that might account for this difference in males and females: sex hormones. They repeated their experiments with castrated male mice and found increased resistance to anesthesia. Injecting testosterone into the castrated male mice increased their sensitivity to anesthesia, and the animals showed similar responses as uncastrated males. They went under anesthesia faster and emerged from the state more slowly than female mice, confirming that testosterone modulated the effect of anesthetics.
+
+
+Testosterone increased anesthetic sensitivity within an hour of injection, which the researchers realized was too rapid for a response altered by the switching on of genes. So the researchers probed whether the other way by which testosterone acts on the brain—its conversion to estradiol by the enzyme aromatase—could be responsible for this response. Inhibiting aromatase in male mice reduced anesthetic sensitivity, while injecting estradiol increased it. This indicated that testosterone mediates sensitivity to anesthesia through its conversion to estradiol by the aromatase enzyme in the brains of male mice.
+
+
+To peek inside the brains of anesthetized animals to find out what was going on, the researchers measured cortical activity using electroencephalograms (EEGs), which are used to monitor the depth of anesthesia in clinical settings. This probe did not reveal any differences between the sexes in the cerebral cortex, suggesting that any disparities may lie elsewhere. Using whole-brain mapping to visualize active neurons on anesthetized animals, they found that sleep-promoting neurons in the hypothalamuses of females were less active than those of males.
+
+
+Digging into clinical literature to see whether female humans are more resistant to anesthesia than male ones, Proekt’s team found widely contradictory results. While early work indicated no sex differences, newer studies suggest that women are more likely to retain awareness of their surroundings under anesthesia and emerge from an unconscious state faster than men.
+
+
+Sex hormones are important in determining sensitivity to anesthesia, agrees Nisha Gowani, an anesthesiologist at Ruby Hall Clinic in India, who was not associated with the study. But there are other factors, she adds. “You would need to compare body mass index, age, and consumption of alcohol and drugs,” Gowani says.
+
+
+
+this research highlights the need to consider sex variables seriously. “Many assumptions are made about women based solely on studies of men.”
+
+
+
+Proekt concurs and cautions doctors against increasing the anesthetic dosage for their female patients based on this basic biology study.
+
+
+
+
+'''

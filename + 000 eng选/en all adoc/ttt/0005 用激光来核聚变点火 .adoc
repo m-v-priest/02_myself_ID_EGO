@@ -1,0 +1,276 @@
+
+
+= 0005 用激光来核聚变点火
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../myAdocCss.css
+
+
+'''
+
+
+
+== 激光 核聚变点火
+
+Un peu d’histoire
+
+
+
+主 The idea of /harnessing(v.)控制，利用（以产生能量等） the process /that powers(v.) the sun /谓 *goes back* almost as far as #the discovery#, in the 1920s and 1930s, #of# what /that process is — namely *the fusion  融合, 核聚变 of protons*, the nuclei 核心, 原子核 of hydrogen atoms, to form(v.) *helium 氦 nuclei* (latexmath:[ ^4 He]), *also known as* alpha particles.
+
+[.my1]
+.案例
+====
+.The idea... goes back almost as far as *the discovery of* what that process is ...
+
+chatgpt: +
+*这句话中的 "of what that process is" 表示对“那个过程是什么”的陈述或解释。在语法逻辑上，这个短语是跟在动词 "discovery" 后面的*，表示对于在20世纪20年代和30年代发现的过程的描述。中文翻译可以是：**驾驭太阳能的想法, 几乎可以追溯到对那个过程是什么的发现，**即在20世纪20年代和30年代发现的"质子（氢原子的核）聚变形成氦核（4He）"，也被称为阿尔法粒子。
+====
+
+[.my2]
+掌控"为太阳提供能量的过程"这种力量, 这个想法可以远溯到 1920 年代和 30 年代, 那时发现了其原理是什么 —— 即质子的聚变，即氢原子核转变成了氦核 ( latexmath:[ ^4 He] )，也称为阿尔法粒子。
+
+This reaction *yields*(v.) 出产（作物）；产生（收益、效益等）；提供 something /*less than* the sum of its parts, 因为 *for* _an alpha particle_ *is lighter than* four free protons. But _the missing mass_ *has not disappeared*; it has merely been transformed.
+
+[.my2]
+这个反应, 产生出的物质, 其质量会小于原先各部分的总和，因为一个 alpha 粒子比四个自由质子轻。但是丢失的质量并没有消失；它只是被转变了。
+
+**As per** 按照，依据；如同 Einstein’s equation, latexmath:[ E=mc^2], it has been converted into energy, in the form of heat.
+
+[.my2]
+根据爱因斯坦方程式 latexmath:[ E=m c^2]，它已经以热的形式, 转化成了能量。
+
+
+[.my1]
+.标题
+====
+.harness
+/ˈhɑːrnɪs/ (v.)~ sth (to sth)to put a harness on a horse or other animal; to attach a horse or other animal to sth with a harness 给（马等）上挽具；用挽具把…套到…上 /控制，利用（以产生能量等）
+
+.nuclei
+/ˈnuːkliaɪ/n.核心，核子；原子核（nucleus 的复数形式）
+
+.helium
+/ˈhiːliəm/ 氦
+
+
+.yield
+/jiːld/
+(v.)出产（作物）；产生（收益、效益等）；提供 +
+- trees that no longer yield(v.) fruit 不再结果实的树
+====
+
+This sounded(v.) technologically promising. But it was soon apparent (a.) 显而易见 that /主 doing it 后定 the way the sun does /系 *is* a non-starter(n.)无望取得成功的人（或事）.
+
+[.my2]
+这在技术上听起来很有前景。但很快人们就发现，要想做到像太阳那样的过程, 是不可能的。
+
+[.my1]
+.标题
+====
+.non-starter
+(n.)( informal ) a thing or a person that has no chance of success 无望取得成功的人（或事）/虽参赛但未上场跑的马
+====
+
+
+主 *Persuading* nuclei *to fuse*(v.)（使）融合 /谓 requires (v.) _heat, pressure **or both**_. The pressure reduces(v.) the space between the nuclei, encouraging 促进；助长；刺激 them to meet.
+
+[.my2]
+让原子核发生聚变, 需要热量、压力, 或两者兼而有之。压力缩小了原子核之间的空间，促使它们相遇。
+
+The heat *keeps them travelling fast enough* /that when they do meet, they can overcome(v.) their *mutual 相互的；彼此的 electrostatic 静电的 repulsion* 强烈的反感, 排斥力；斥力 known as *the Coulomb barrier* 屏障；障碍物, and thus allow a phenomenon /called *the strong nuclear force* 强核力, which works(v.) [only at short range 范围], to *take over* (用武力) 接管,取代.
+
+[.my2]
+热量使它们移动得足够快，以至于当它们相遇时，它们可以克服相互间的静电斥力，也就是所谓的库仑势垒，从而允许一种"只在近距离内起作用的强核力"现象发生。
+
+[.my1]
+.案例
+====
+.The heat keeps them travelling fast *enough /that* when they do meet ...
+enough后边，由that引导了一个状语从句，表示"结果"或者"程度".
+====
+
+
+
+The strong force *holds*(v.) protons *and* neutrons 中子 *together* /to form(v.) nuclei, so *once* _the Coulomb barrier_ is breached (v.)违反；违背,在…上打开缺口;破坏, a new and larger nucleus *quickly forms*(v.).
+
+[.my2]
+强作用力, 将质子和中子结合在一起, 形成原子核，因此一旦"库仑势垒"被突破，一个新的更大的原子核, 就会迅速形成。
+
+[.my1]
+.标题
+====
+.electrostatic
+/ɪˌlektroʊ-ˈstætɪk/ ( physics 物) used to talk about electric charges that are not moving, rather than electric currents 静电的
+
+.repulsion
+/rɪˈpʌlʃ(ə)n/ (n.)
+a feeling of very strong dislike of sth that you find extremely unpleasant 嫌恶感；强烈的反感；憎恶 +
+( physics 物) the force by which objects tend to push each other away 排斥力；斥力
+
+.Coulomb barrier
+/ˈkuːlɑːmˌˈkuːloʊm/, /ˈbæriər/
+ 库仑障壁, 库仑势垒
+
+.range
+PHRASE If you see or hit something at close range or from close range, you are very close to it when you see it or hit it. If you do something at a range of half a mile, for example, you are half a mile away from it when you do it. 近距离内
+
+.breach
+(v.) to make a hole in a wall, fence, etc. so that sb/sth can go through it在…上打开缺口 +
+- The dam had been breached.大坝决口了。
+
+image:/img/breach.png[,10%]
+====
+
+主 The temperature /at which *solar fusion occurs*(v.), *though* high (15.5m°C), /系 is well within engineers’ reach.
+
+[.my2]
+发生太阳聚变的温度, 虽然很高(15.5m°C)，但在工程师的能力范围内。
+
+Experimental 实验性的；试验性的 reactors 核反应堆 *can manage(v.) 100m°C* /and there are hopes *to go higher still*. But the pressure (250bn atmospheres) *eludes(v.)（尤指机敏地）避开，逃避，躲避 them*.
+
+[.my2]
+实验反应堆的温度, 可以控制在1亿摄氏度，而且还有希望继续升高。但压力(2500亿大气压)却与它们无缘。
+
+Moreover, solar fusion’s *raw material* /is recalcitrant(a.)桀骜不驯的；难以控制的.
+
+[.my2]
+此外，产生"太阳核聚变"的原料, 是难以驾驭的。
+
+`主` #The first step# 后定 *on the journey to helium* 氦 — *fusing*(v.) two individual protons *together* /to form(v.) *a heavy isotope* 同位素 of hydrogen /*called(v.) deuterium* 氘 (a proton and a neutron) — /`谓` #is reckoned#(v.)想；认为 *to take*, on average, *9bn years*.
+
+[.my2]
+到达氦的第一步——将两个单独的质子融合在一起，形成氢的重同位素"氘"(一个质子和一个中子)—— 据估计, 平均需要90亿年时间。
+
+[.my1]
+.标题
+====
+.elude
+/ɪˈluːd/
+(v.)to manage to avoid or escape from sb/sth, especially in a clever way （尤指机敏地）避开，逃避，躲避 /使达不到；使不记得；使不理解 +
+-> e-, 向外。-lud, 玩耍，欺骗，词源同allude, collude.引申义逃走，逃避。 +
+- He was extremely tired but sleep eluded(v.) him. 他累极了，却睡不着。
+
+.recalcitrant
+adj.   /rɪˈkæl-sɪ-trənt/
+( formal ) unwilling to obey rules or follow instructions; difficult to control 不守规章的；不服从指挥的；桀骜不驯的；难以控制的 +
+-> re-,向后，往回，-calc,脚跟，踢，词源同 calcaneus,decal,inculcate.引申词义难以控制的。
+
+.isotope
+n./ˈaɪsə-təʊp/ 同位素 +
+-> iso-,等，同，-top,位置，地方，词源同topic,utopia.即等位置的，引申词义同位素。
+
+.deuterium
+/djuːˈtɪ-riəmˌduːˈtɪriəm/ 氘，重氢（氢的同位素） +
+-> deuter-, 二，词源同two. 因这种物理元素其质量为氢的两倍而得名。比较tritium.
+====
+
+
+What 后定  engineers propose (v.)提议；建议 /系  is thus *a simulacrum(n.)假象；模拟物；幻影 of* the solar reaction.
+
+[.my2]
+因此，工程师们提出的是一个"太阳反应"的模拟。
+
+主 #The usual approach# —that *taken by* General Fusion, Tokamak Energy, Commonwealth Fusion and First Light, as well as government projects /like JET and ITER — /系  #is# *to start with* deuterium 氘 /and *fuse(v.) it with* _a yet（强调程度的增加）更-heavier (and radioactive(a.)放射性的；有辐射的) form_ of hydrogen /called(v.) tritium 氚 (a proton and two neutrons) /to form(v.) 4He and a neutron.
+
+[.my2]
+通用核聚变公司、托卡马克能源公司、联邦核聚变公司, 和第一光公司, 以及JET和iter等政府项目, 采用的通常方法, 是从氘开始，将其与一种更重(具有放射性)的氢——氚(一个质子和两个中子)融合，形成4He和一个中子。
+
+(Fusing(v.) *deuterium nuclei* 氘核 directly, though *sometimes done(v.) [on test runs]*, is only _a thousandth_ *as efficient*.)
+
+[.my2]
+(直接聚变"氘核"，虽然有时在试验中进行，但效率只有千分之一。)
+
+[.my1]
+.标题
+====
+.simulacrum
+ /ˌsɪ-mjuˈ-leɪ-krəm/ (n.) ( formal ) something that looks like sb/sth else or that is made to look like sb/sth else 假象；模拟物；幻影
+
+.tritium
+/ˈtrɪ-tiəm/ 氚（氢的同位素） +
+-> 来自希腊语 tritos,第三，词源同 three,third.-ium,化学元素后缀。比较 deuterium.
+====
+
+In December 2022 /the NIF *caused 使发生；造成；引起 a flutter* 振动,挥动,紧张兴奋  by announcing /it had reached ignition 点火；点燃.
+
+[.my2]
+2022 年 12 月，NIF宣布它已达到点火状态，引起了轰动。
+
+But the energy released /系  was less than *1% of that expended* 花费,耗费, meaning *it was nowhere 无处；哪里都不 near* another _sine qua non_ 必要条件 of _commercial fusion_, Q>1.
+
+[.my2]
+但它释放出的能量, 不到它被消耗掉能量的 1% (即"投资回报率"太差)，这意味着它离商业聚变的另一个必要条件 "Q >1" 还很远。
+
+Q is *the ratio of* the energy  /coming out of a machine /*to* that going in. Different versions of Q *have* different definitions of “out” and “in”.
+
+[.my2]
+Q是机器"输出的能量"与"输入的能量"之比。不同版本的Q, 对“输出”和“输入”有不同的定义。
+
+But 主 the one 后定 *most pertinent(a.)恰当的；相宜的 to* commerce 贸易；商业  /系  is “plug to plug” — #the electricity# (后定 *drawn* (v.) grid （输电线路、天然气管道等的）系统网络；输电网 /to run(v.) _the whole caboodle_ (n.)全部；全体) /#*versus*(v.) the energy# 后定 (*delivered  递送；传送 to back the grid*).
+
+[.my2]
+但与商业最相关的, 是“即插即用”——即, "从电网获取能量, 来运行整个聚变反应器"所需的这个电力，与"将产生的能量, 重新输回电网"的这个能量, 之间的比值。
+
+
+Focused(a.)注意力集中的；目标明确的, Marvel and Xcimer *hope(v.) to match* that definition of Q>1.
+
+[.my2]
+Marvel 和 Xcimer 专注于满足Q >1 的定义。 +
+
+[.my1]
+.标题
+====
+.sine qua non
+/ˌsɪ-neɪ kwɑː ˈnəʊn/ ~ (of/for sth) ( from Latinformal ) something that is essential before you can achieve sth else 必要条件 +
+-> From Latin sine qua non (“without which [cause] not”).
+
+.pertinent
+/ˈpɜːrt(ə)-nənt/ (a.) ~ (to sth) ( formal ) appropriate to a particular situation 有关的；恰当的；相宜的 +
+-> per-贯穿 + -tin-握,持有 + -ent形容词词尾 +
+- Please keep your comments pertinent(a.) to the topic under discussion. 请勿发表与讨论主题无关的言论。
+
+
+.caboodle
+/kəˈbuːdl/ THE WHOLE (KIT AND) CAˈBOODLE ( informal ) everything 全部；全体 +
+-> 来自kit 和bundle的合成词。 +
+- I had new clothes, a new hairstyle —the whole caboodle. 我身着新衣服，头理新发型—上下一身新。
+
+
+[.my2]
+证明"可控核聚变"可行性的第一步, 就是“Q>1”，即输出的能量, 大于维持反应所需输入的能量，核聚变反应可以依靠自身产生的能量维持。这一临界状态被称作收支平衡，也叫“点火”。
+
+image:img/0128.svg[,100%]
+
+[.my2]
+chatgpt: +
+在2022年12月，NIF（国家点火设施）宣布已经实现点火，引起了一阵轰动。但释放的能量不到耗费的能量的1%，这意味着它远远没有达到商业聚变的另一个必要条件，即Q>1。Q是机器输出能量与输入能量之比。不同版本的Q对“输出”和“输入”有不同的定义。但与商业最相关的定义是“插座对插座”——即电能（从电网中提取来运行整个系统）与能量（输送回电网的能量）之比。Focused、Marvel和Xcimer希望达到Q>1的这个定义。
+====
+
+'''
+
+
+== <pure> 激光 核聚变点火
+
+
+Un peu d’histoire
+
+The idea of harnessing the process that powers the sun goes back almost as far as the discovery, in the 1920s and 1930s, of what that process is — namely the fusion of protons, the nuclei of hydrogen atoms, to form helium nuclei (4He), also known as alpha particles. This reaction yields something less than the sum of its parts, for an alpha particle is lighter than four free protons. But the missing mass has not disappeared; it has merely been transformed. As per Einstein’s equation, latexmath:[ E=mc^2], it has been converted into energy, in the form of heat.
+
+This sounded technologically promising. But it was soon apparent that doing it the way the sun does is a non-starter.
+
+Persuading nuclei to fuse requires heat, pressure or both. The pressure reduces the space between the nuclei, encouraging them to meet. The heat keeps them travelling fast enough that when they do meet, they can overcome their mutual electrostatic repulsion, known as the Coulomb barrier, and thus allow a phenomenon called the strong nuclear force, which works [only at short range], to take over. The strong force holds protons and neutrons together to form nuclei, so once the Coulomb barrier is breached, a new and larger nucleus quickly forms.
+
+The temperature at which solar fusion occurs, though high (15.5m°C), is well within engineers’ reach. Experimental reactors can manage 100m°C and there are hopes to go higher still. But the pressure (250bn atmospheres) eludes them. Moreover, solar fusion’s raw material is recalcitrant. The first step on the journey to helium — fusing two individual protons together to form a heavy isotope of hydrogen called deuterium (a proton and a neutron) — is reckoned to take, on average, 9bn years.
+
+What engineers propose is thus a simulacrum of the solar reaction. The usual approach — that taken by General Fusion, Tokamak Energy, Commonwealth Fusion and First Light, as well as government projects like JET and ITER — is to start with deuterium and fuse it with a yet-heavier (and radioactive) form of hydrogen called tritium (a proton and two neutrons) to form 4He and a neutron. (Fusing deuterium nuclei directly, though sometimes done on test runs, is only a thousandth as efficient.)
+
+
+
+In December 2022 the NIF caused a flutter by announcing it had reached ignition. But the energy released was less than 1% of that expended, meaning it was nowhere near another sine qua non of commercial fusion, Q>1. Q is the ratio of the energy coming out of a machine to that going in. Different versions of Q have different definitions of “out” and “in”. But the one most pertinent to commerce is “plug to plug” — the electricity (drawn grid to run the whole caboodle) [underline]#versus# the energy (delivered to back the grid). Focused, Marvel and Xcimer hope to match that definition of Q>1.
+
+'''
+
+
+

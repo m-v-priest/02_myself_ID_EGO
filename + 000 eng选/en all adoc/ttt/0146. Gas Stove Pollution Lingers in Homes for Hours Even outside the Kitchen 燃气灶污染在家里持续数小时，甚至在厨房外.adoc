@@ -1,0 +1,152 @@
+
+= 0146. Gas Stove Pollution Lingers in Homes for Hours Even outside the Kitchen 燃气灶污染在家里持续数小时，甚至在厨房外
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../myAdocCss.css
+
+'''
+
+
+
+==  Gas Stove Pollution Lingers in Homes for Hours Even outside the Kitchen 燃气灶污染在家里持续数小时，甚至在厨房外
+
+
+Nearly 40 percent of U.S. homes have gas stoves, which spew a host of compounds that are harmful to breathe, such as carbon monoxide, particulate matter, benzenes and high quantities of nitrogen dioxide.
+
+[.my2]
+近 40% 的美国家庭拥有燃气灶，燃气灶会喷出大量对呼吸有害的化合物，如"一氧化碳"、颗粒物、"苯"和大量"二氧化氮"。
+
+Decades of well-established research have linked nitrogen dioxide, or latexmath:[ NO_2], to respiratory conditions such as asthma and chronic obstructive pulmonary disease, which especially affect children and older adults. This harmful link is so well established that some states have begun banning gas appliances in new construction. And now a new study has shown in stark detail just how long and far this gas spreads and lingers in a home. By sampling homes across the U.S., the researchers found that in many, levels of exposure to NO2 can soar above the World Health Organization’s one-hour exposure limit for multiple hours—even in the bedroom that is farthest from the kitchen.
+
+[.my2]
+数十年的成熟研究已将"二氧化氮"（latexmath:[ NO_2] ）与"哮喘"和"慢性阻塞性肺病"等呼吸系统疾病联系起来，这些疾病尤其影响儿童和老年人。这种有害的联系是如此根深蒂固，以至于一些州已经开始禁止在新建建筑中使用燃气器具。现在，一项新的研究, 非常详细地表明了这种气体在家里传播和停留的时间和距离。通过对美国各地的家庭进行抽样调查，研究人员发现，*在许多家庭中，"二氧化氮"的暴露水平可以超过世界卫生组织规定的"一小时暴露上限"，持续数小时，甚至在离厨房最远的卧室也是如此。*
+
+[.my1]
+.案例
+====
+.慢性阻塞性肺病
+
+有时也被称为"肺气肿"或"慢性支气管炎"。
+
+- *肺气肿: 通常指肺部气道末端的"小肺泡"受损。*
+- *慢性支气管炎: 则指"气道炎症"引起的慢性咳嗽，同时伴有痰液产生。*
+
+"慢性阻塞性肺病", 和"哮喘"的症状相同（咳嗽、喘鸣和呼吸困难），人们可能会同时患有这两种疾病。
+
+
+[.my3]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|症状
+|呼吸困难，慢性咳嗽（有时伴有痰）和感到疲倦。
+
+|出现其他健康问题的风险也更高。包括：
+|- 肺癌 +
+- 肺部感染，如流感或肺炎
+
+|治疗
+|*"慢性阻塞性肺病"是无法治愈的.*
+
+防止自己的肺部感染：
+
+- 每年接种流感疫苗。
+- 接种肺炎疫苗。
+- 接种所有可得的COVID-19疫苗，并确保你接种了最新的加强剂。
+|===
+
+
+====
+
+
+In six homes, they tested the levels of NO2 in the bedroom farthest from the kitchen for a basic “bread baking” scenario: they set the gas or propane oven to 475 degrees Fahrenheit (245 degrees Celsius) and left it on for an hour and a half. The team continued sampling the air for up to six hours after the oven was turned off.
+
+[.my2]
+在六个家庭中，他们测试了距离厨房最远的卧室中的一氧化氮 latexmath:[ NO_2] 水平，以实现基本的“面包烘烤”场景：他们将燃气或丙烷烤箱, 设置为 475 华氏度（245 摄氏度），让它打开一个半小时。烤箱关闭后，研究小组继续对空气进行长达六个小时的采样。
+
+
+In all six homes, the NO2 concentration in the bedroom quickly exceeded the WHO’s chronic exposure guideline of about five parts per billion by volume. And in three of the bedrooms, the levels soared even above the Environmental Protection Agency’s and the WHO’s respective one-hour exposure guidelines, which both set the limit at about 100 parts per billion by volume. (The EPA’s guidelines are intended for outdoor air exposure because the agency does not regulate indoor air pollution.)
+
+[.my2]
+在所有六个家庭中，卧室里的**二氧化氮浓度很快超过了世界卫生组织的慢性暴露指南，即按体积计算约为十亿分之五。**其中三间卧室的浓度, 甚至超过了美国环境保护署(Environmental Protection Agency)和世界卫生组织(WHO)各自制定的一小时暴露指导方针，这两项指导方针都将浓度限制在十亿分之100左右。(*EPA的指导方针针对的是室外空气污染，因为该机构不监管室内空气污染。*)
+
+
+image:../../img/gasStoves_graphic_d.webp[,100%]
+
+
+The bedroom exposure data from the new study can be seen in the graph above. “Think about that graph happening two times a day," Jackson says. “You cook at lunch, and then you cook again at dinner. Maybe you cook breakfast. It’s over and over again, hundreds of days a year.”
+
+[.my2]
+新研究的卧室暴露数据如上图所示。 “想想这个图表每天会发生两次，”杰克逊说。“你在午餐时做饭，然后在晚餐时再次做饭。也许你会做早餐。这样一遍又一遍，一年有数百天。”
+
+
+The researchers found that those living in homes smaller than 800 square feet or making under $35,000 a year were being regularly exposed to levels of NO2 at or far exceeding the WHO’s threshold for chronic exposure. Finally, by combining these data with previous research on the link between long-term gas and propane stove exposure and pediatric asthma, the researchers calculated that such exposure could account for 200,000 current cases of childhood asthma, with 50,000 of those attributable to NO2 alone.
+
+[.my2]
+研究人员发现，那些居住在面积小于 800 平方英尺(74.32平方米) 的房屋, 或年收入低于 35,000 美元(25.23万人民币)的人, 经常接触的一氧化氮 latexmath:[ NO_2] 水平, 达到或远远超过了世界卫生组织慢性接触阈值。最后，通过将这些数据, 与之前关于长期接触"煤气"和"丙烷炉"与"儿童哮喘之"间联系的研究相结合，研究人员计算出，这种接触, 可能导致目前 200,000 例儿童哮喘病例，其中 50,000 例可归因于  latexmath:[ NO_2] 独自一个因素。
+
+
+how people can decrease concentrations of this pollutant in their home. The best way is to swap out a gas or propane stove for an electric one. But for some people, especially renters, this may not be a feasible option.
+
+[.my2]
+**如何降低家中这种污染物的浓度。最好的方法是将"煤气炉或丙烷炉"换成"电炉"。**但对于某些人，尤其是租房者来说，这可能不是一个可行的选择。
+
+If you’re stuck with a gas stove, Paulin suggests turning on your range hood every time you cook with gas, even if the fan is loud and annoying.
+
+[.my2]
+**如果您一直使用燃气灶，**波林**建议您每次用燃气做饭时, 都打开"抽油烟机"，**即使风扇声音很大且烦人。
+
+
+Another way to improve ventilation is to open your windows while you cook—if weather permits and if the outside air is not polluted as well.
+
+[.my2]
+另一种改善通风的方法, 是在做饭时打开窗户——如果天气允许并且室外空气也没有受到污染。
+
+And if all else fails, high-efficiency particulate air (HEPA) air purifiers can help filter out some of these indoor pollutants. If the purifier has a carbon prefilter, it can remove some NO2 from the air. In Paulin’s 2014 study, she found that placing such filters in the kitchen could reduce NO2 levels by 20 percent.
+
+[.my2]
+**如果其他方法都无效，高效颗粒空气 (HEPA) 空气净化器, 可以帮助过滤掉一些室内污染物。**如果净化器有"碳"预过滤器，它可以去除空气中的一些 latexmath:[ NO_2] 。 Paulin 在 2014 年的研究中发现，在厨房中放置此类过滤器可以将 latexmath:[ NO_2] 水平降低 20%。
+
+
+
+
+
+'''
+
+== (pure) Gas Stove Pollution Lingers in Homes for Hours Even outside the Kitchen
+
+
+
+Nearly 40 percent of U.S. homes have gas stoves, which spew a host of compounds that are harmful to breathe, such as carbon monoxide, particulate matter, benzenes and high quantities of nitrogen dioxide.
+
+Decades of well-established research have linked nitrogen dioxide, or latexmath:[ NO_2], to respiratory conditions such as asthma and chronic obstructive pulmonary disease, which especially affect children and older adults. This harmful link is so well established that some states have begun banning gas appliances in new construction. And now a new study has shown in stark detail just how long and far this gas spreads and lingers in a home. By sampling homes across the U.S., the researchers found that in many, levels of exposure to NO2 can soar above the World Health Organization’s one-hour exposure limit for multiple hours—even in the bedroom that is farthest from the kitchen.
+
+
+
+In six homes, they tested the levels of NO2 in the bedroom farthest from the kitchen for a basic “bread baking” scenario: they set the gas or propane oven to 475 degrees Fahrenheit (245 degrees Celsius) and left it on for an hour and a half. The team continued sampling the air for up to six hours after the oven was turned off.
+
+
+In all six homes, the NO2 concentration in the bedroom quickly exceeded the WHO’s chronic exposure guideline of about five parts per billion by volume. And in three of the bedrooms, the levels soared even above the Environmental Protection Agency’s and the WHO’s respective one-hour exposure guidelines, which both set the limit at about 100 parts per billion by volume. (The EPA’s guidelines are intended for outdoor air exposure because the agency does not regulate indoor air pollution.)
+
+
+
+The bedroom exposure data from the new study can be seen in the graph above. “Think about that graph happening two times a day," Jackson says. “You cook at lunch, and then you cook again at dinner. Maybe you cook breakfast. It’s over and over again, hundreds of days a year.”
+
+The researchers found that those living in homes smaller than 800 square feet or making under $35,000 a year were being regularly exposed to levels of NO2 at or far exceeding the WHO’s threshold for chronic exposure. Finally, by combining these data with previous research on the link between long-term gas and propane stove exposure and pediatric asthma, the researchers calculated that such exposure could account for 200,000 current cases of childhood asthma, with 50,000 of those attributable to NO2 alone.
+
+
+
+how people can decrease concentrations of this pollutant in their home. The best way is to swap out a gas or propane stove for an electric one. But for some people, especially renters, this may not be a feasible option.
+
+If you’re stuck with a gas stove, Paulin suggests turning on your range hood every time you cook with gas, even if the fan is loud and annoying.
+
+
+
+
+Another way to improve ventilation is to open your windows while you cook—if weather permits and if the outside air is not polluted as well.
+
+And if all else fails, high-efficiency particulate air (HEPA) air purifiers can help filter out some of these indoor pollutants. If the purifier has a carbon prefilter, it can remove some NO2 from the air. In Paulin’s 2014 study, she found that placing such filters in the kitchen could reduce NO2 levels by 20 percent.
+
+'''

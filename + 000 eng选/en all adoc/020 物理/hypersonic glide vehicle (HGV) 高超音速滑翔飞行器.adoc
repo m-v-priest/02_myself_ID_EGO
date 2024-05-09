@@ -1,0 +1,133 @@
+
+= hypersonic glide vehicle (HGV) 高超音速滑翔飞行器
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../myAdocCss.css
+
+
+'''
+
+
+
+
+== `主` Gliding missiles that fly faster than Mach 5 `谓` are coming
+
+
+...early missile development, `主` whose principal  最重要的；主要的 challenge `系`  was hoisting  吊起；提升；拉高 the weapons into the sky. Gravity did most of the rest.
+
+[.my2]
+当时导弹发展面临的主要挑战, 是将武器升上天空。剩下的大部分工作, 都是由"地心引力"完成的。
+
+
+主 The first warheads （导弹的）弹头 capable of steering (v.) 驾驶（船、汽车等）；掌控方向盘 on descent (n.)下降；下倾 /谓 did not arrive until the 1980s.
+Even they were limited in how much they could move around, making it pretty easy to predict their target area.
+
+[.my2]
+直到 20 世纪 80 年代，第一批能够在下降过程中操纵方向的弹头，才出现。即使是它们，其活动范围也很有限，因此很容易预测它们落点的目标区域。
+
+
+A new generation of hypersonic 极超音速的 missiles /is changing all that.
+Some might be capable of gliding (v.)滑行；滑动；掠过 across continents /at great speed, their target unpredictable /until seconds before impact 冲击；撞击.
+
+[.my2]
+新一代的极超音速导弹, 正在改变这一切。其中一些可能能够以极快的速度横跨大陆，他们的目标直到撞击前几秒钟才能预测。
+
+[.my1]
+.标题
+====
+.principal
+most important; main 最重要的；主要的
+
+.hypersonic
+极超音速的，超出五倍音速（5 马赫）的
+====
+
+
+There are two basic designs: cruise missiles and gliders. +
+Hypersonic cruise missiles /are essentially 本质上；根本上；基本上 faster versions of existing ones /but powered(v.) 驱动，推动（机器或车辆）) by very different jet engines. +
+
+Gliders ... But unlike the old-fashioned projectiles （作为武器的）发射物；导弹, they do not follow a predictable, parabolic 抛物线状的 arc through the sky. +
+Instead, `主` a _hypersonic glide vehicle_ (HGV) 高超音速滑翔飞行器 `谓` detache (v.)拆卸；（使）分开，脱离) from the rocket /while it is still ascending 上升；升高；登高 /and #either# skips(v.) along the upper atmosphere #or#, having re-entered (v.), glides (v.)滑行 through it for hundreds or thousands of kilometres.
+
+[.my2]
+相反，高超音速滑翔飞行器(HGV), 在火箭仍在上升时, 就与火箭分离，要么沿着大气层上层进行跳跃，要么重新进入大气层, 并在大气层中滑行数百或数千公里。
+
+Such gliders have several advantages. +
+
+Ballistic missiles 弹道导弹 are ① less agile (a.)(动作)敏捷的，灵活的 ② and tend not to be very accurate. +
+主 A Minuteman 即召民兵 III ICBM, the backbone  支柱；骨干；脊柱 of America’s nuclear arsenal （统称）武器, 谓 has a “circular error probable” 圆形概率误差  of roughly 120m, meaning `主` only half the missiles 后定 fired /`谓` are expected to land(v.) within 120m of the impact point.
+That is fine for nuclear bombs /but useless for hitting a ship or runway.
+
+[.my2]
+弹道导弹机动性较差，而且往往不太精确。
+美国核武库的支柱，Minuteman III洲际弹道导弹（ICBM），其“圆概率误差”约为120米，意味着预计只有一半的导弹会着陆在距离目标点120米内。对于核弹来说这是可以接受的，但对于打击舰船或跑道来说则无济于事。
+
+Today’s cruise missiles, on the other hand, are very accurate  —  one could be sent through a window  —  but much slower.
+
+
+[.my1]
+.标题
+====
+.parabolic
+/ˌpærə-ˈbɑːlɪk / 抛物线状的 /比喻的; 寓言似的
+
+.ballistic
+/bəˈlɪstɪk/  弹道（学）的；发射的
+
+.agile
+/ˈædʒ(ə)l/ (a.) able to move quickly and easily （动作）敏捷的，灵活的 +
+-> -ag-行动 + -ile形容词后缀
+
+.minuteman
+/ˈmɪ-nɪt-mæn/
+ (n.)(during the American Revolution) a member of a group of men who were not soldiers but who were ready to fight immediately when they were needed （美国革命时期的）即召民兵 +
+-> minute +‎ -man
+
+.circular error probable :
+圆形公算误差（英文简称CEP），是弹道学中的一种测量武器系统精确度的项目。其定义是 以目标为圆心划一个圆圈。如果武器命中此圆圈的机率最少有一半，则此圆圈的半径就是"圆形公算误差"。举例来说，美军三叉戟二型导弹的圆形公算误差是90米，则一枚此型导弹有50%的机率会落在目标90米以内。
+
+image:../img/circular error probable.gif[,20%]
+
+
+.probable
+(a.) likely to happen, to exist or to be true 很可能发生（或存在等）的
+
+
+有两种基本设计:巡航导弹和滑翔机。高超音速巡航导弹,本质上是现有导弹的更快版本. 滑翔机...但与老式的抛射不同的是，它们在天空中, 并不遵循可预测的抛物线轨迹飞行。相反，高超音速滑翔飞行器(HGV), 在火箭仍在上升时, 就与火箭分离，要么沿着大气层上层进行跳跃，要么重新进入大气层, 并在大气层中滑行数百或数千公里。
+
+这样的滑翔机有几个优点。弹道导弹不太灵活，而且往往不太精确。美国核武库的支柱—​民兵III型洲际弹道导弹的“圆形误差可能”约为120米，这意味着预计只有一半发射的导弹, 能落在落点120米以内。这对核弹来说很好，但对于想要击中船只或跑道来说, 就没什么用了。另一方面，今天的巡航导弹非常精确 — 它可以通过窗口发射, 但速度要慢得多。
+====
+
+
+
+
+
+
+
+'''
+
+== <pure> Gliding missiles that fly faster than Mach 5 are coming
+
+...early missile development, whose principal challenge was hoisting the weapons into the sky. Gravity did most of the rest.  The first warheads capable of steering on descent  did not arrive until the 1980s. Even they were limited in how much they could move around, making it pretty easy to predict their target area.
+
+A new generation of hypersonic missiles is changing all that. Some might be capable of gliding across continents at great speed, their target unpredictable until seconds before impact.
+
+
+
+
+There are two basic designs: cruise missiles and gliders.
+
+Hypersonic cruise missiles are essentially  faster versions of existing ones but powered by very different jet engines.
+
+Gliders ... But unlike the old-fashioned projectiles, they do not follow a predictable, parabolic arc through the sky.
+
+Instead, a hypersonic glide vehicle (HGV)  detache from the rocket while it is still ascending  and either skips along the upper atmosphere or, having re-entered, glides through it for hundreds or thousands of kilometres.
+
+Such gliders have several advantages.
+
+Ballistic missiles are less agile and tend not to be very accurate.  A Minuteman  III ICBM, the backbone  of America’s nuclear arsenal  has a “circular error probable”  of roughly 120m, meaning only half the missiles fired are expected to land within 120m of the impact point. That is fine for nuclear bombs but useless for hitting a ship or runway.
+
+Today’s cruise missiles, on the other hand, are very accurate — one could be sent through a window — but much slower.
+
+'''

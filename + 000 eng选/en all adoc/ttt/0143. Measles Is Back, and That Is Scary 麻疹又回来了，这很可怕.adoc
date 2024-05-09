@@ -1,0 +1,92 @@
+
+= 0143. Measles Is Back, and That Is Scary 麻疹又回来了，这很可怕
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../myAdocCss.css
+
+
+'''
+
+== Measles Is Back, and That Is Scary 麻疹又回来了，这很可怕
+
+Measles is actually the most contagious infectious disease we know on Earth. Approximately one infected person can transmit it to about 12 to 18 other people. It’s a devastating disease.
+
+[.my2]
+麻疹实际上是我们所知道的地球上最具传染性的传染病。大约 1 名感染者, 可将病毒传播给其他约 12 至 18 人。这是一种毁灭性的疾病。
+
+
+One in five of those who get infected that are not vaccinated will be hospitalized, one in 20 will develop pneumonia.... One in 1,000 will develop encephalitis, which is inflammation of the brain, which can cause permanent brain damage. And one to three in 1,000 will die.
+
+[.my2]
+未接种疫苗的感染者中，1/5的人会住院，1/20的人会患上肺炎……千分之一的人会患上脑炎，这是一种大脑炎症，可导致永久性脑损伤。千分之一到三人将会死亡。
+
+There’s also this strange problem that measles can bring on called “immune amnesia.” It’s not completely understood, but the measles virus seems to wipe out B cells, the immune cells that “remember” viruses you’ve previously encountered and help fight them off—hence, “amnesia.” And that leaves you vulnerable to those illnesses again.
+
+[.my2]
+麻疹还会带来一个奇怪的问题，称为“免疫失忆症”。目前尚未完全了解，但**麻疹病毒似乎会消灭 B 细胞，而 B 细胞是“记住”你以前遇到过的病毒, 并帮助击退它们的免疫细胞——因此，“失忆症”。这会让你再次容易患上这些疾病。**
+
+
+a lot of people have forgotten how bad it is because vaccines are so successful. Before the vaccines, we were getting about 600,000 cases a year. Now we typically top out at 40 to 50 cases each year.
+
+[.my2]
+很多人已经忘记了情况有多糟糕，因为疫苗是如此成功。在使用疫苗之前，我们每年收到大约 60 万例病例。现在我们每年通常会处理 40 到 50 起案件。
+
+We’ve had the measles vaccine for about 70 years, and now most kids get it as a combination, measles-mumps-rubella, or MMR. You get one shot when you’re about a year old, and the second shot at four to six years old—before kids start school.
+
+[.my2]
+我们接种麻疹疫苗已有大约 70 年的历史，现在大多数孩子都接种麻疹、腮腺炎、风疹联合疫苗，即 MMR。当你大约一岁的时候，你会注射一次，第二次是在四到六岁时——孩子们开始上学之前。
+
+Two shots are 97 percent effective at preventing measles. Plus these shots are safe. The most common side effect, in about one in 3000 kids, is a short fever that resolves on its own.
+
+[.my2]
+注射两次疫苗即可预防"麻疹"，有效率达 97%。而且这些镜头是安全的。最常见的副作用是短暂发烧，但会自行消退，大约有三千分之一的儿童出现这种副作用。
+
+Now years ago there was this BS idea that measles shots somehow triggered autism.  let’s be clear: There’s absolutely no link between the MMR vaccines and autism.
+
+[.my2]
+几年前，有一种胡说八道的观点，认为麻疹疫苗会以某种方式引发自闭症。让我们明确一点：MMR 疫苗和自闭症之间绝对没有联系。
+
+
+And despite that, every year, the number of kids in kindergarten with measles shots is going down. And that’s because more parents are asking for vaccine exemptions. A lot of them don’t trust the shots. A recent survey from the University of Pennsylvania found that the percentage of people who believe already-approved vaccines are unsafe jumped from nine percent all the way up to 16 percent between 2021 and 2023.
+
+[.my2]
+尽管如此，幼儿园里注射麻疹疫苗的孩子数量每年都在下降。这是因为越来越多的家长要求疫苗豁免。他们中的很多人不相信注射。宾夕法尼亚大学最近的一项调查发现，2021 年至 2023 年间，认为已批准疫苗不安全的人比例从 9% 一路飙升至 16%。
+
+
+
+
+
+'''
+
+== (pure) Measles Is Back, and That Is Scary
+
+
+
+
+Measles is actually the most contagious infectious disease we know on Earth. Approximately one infected person can transmit it to about 12 to 18 other people. It’s a devastating disease.
+
+
+One in five of those who get infected that are not vaccinated will be hospitalized, one in 20 will develop pneumonia.... One in 1,000 will develop encephalitis, which is inflammation of the brain, which can cause permanent brain damage. And one to three in 1,000 will die.
+
+
+There’s also this strange problem that measles can bring on called “immune amnesia.” It’s not completely understood, but the measles virus seems to wipe out B cells, the immune cells that “remember” viruses you’ve previously encountered and help fight them off—hence, “amnesia.” And that leaves you vulnerable to those illnesses again.
+
+
+a lot of people have forgotten how bad it is because vaccines are so successful. Before the vaccines, we were getting about 600,000 cases a year. Now we typically top out at 40 to 50 cases each year.
+
+
+We’ve had the measles vaccine for about 70 years, and now most kids get it as a combination, measles-mumps-rubella, or MMR. You get one shot when you’re about a year old, and the second shot at four to six years old—before kids start school.
+
+
+Two shots are 97 percent effective at preventing measles. Plus these shots are safe. The most common side effect, in about one in 3000 kids, is a short fever that resolves on its own.
+
+
+Now years ago there was this BS idea that measles shots somehow triggered autism.  let’s be clear: There’s absolutely no link between the MMR vaccines and autism.
+
+
+And despite that, every year, the number of kids in kindergarten with measles shots is going down. And that’s because more parents are asking for vaccine exemptions. A lot of them don’t trust the shots. A recent survey from the University of Pennsylvania found that the percentage of people who believe already-approved vaccines are unsafe jumped from nine percent all the way up to 16 percent between 2021 and 2023.
+
+
+'''
+
