@@ -21,51 +21,43 @@ What Can Stop Them? Traditional antibiotics drive (v.) bacteria toward drug resi
 [.my2]
 什么可以阻止他们？传统抗生素会导致细菌产生耐药性，因此科学家们正在寻找病毒、CRISPR、设计分子和蛋白质剑, 来寻找更好的超级细菌治疗方法 +
 
-`主` Bacteria’s rising (a.) resistance to antibiotics  `谓`  is making the drugs obsolete 淘汰的；废弃的；过时的. +
-Scientists are fighting back with viruses, CRISPR, designer molecules and cell-slicing enzymes. +
+`主` Bacteria’s _rising (a.) resistance_ to antibiotics  `谓`  is making the drugs obsolete 淘汰的；废弃的；过时的. +
+Scientists are fighting back 方式状 with viruses, CRISPR, designer molecules and cell-slicing enzymes. +
 
 [.my2]
 细菌对抗生素的耐药性, 不断增强，导致这些药物变得过时。
 科学家们正在利用病毒、CRISPR、设计分子和细胞切片酶, 进行反击。 +
 
 `主` Seven of the 18 concerning bacteria 后定 tracked by _the Centers for Disease Control and Prevention_ (CDC) /`系` are becoming more resistant (a.) to common antibiotics 后定 considered (v.) essential for maintaining  (v.) public health. +
-Meanwhile, drug companies have been slow (a.) to make new antibiotics capable of beating the microbes. +
+Meanwhile, drug companies have been slow (a.) to make new antibiotics 后定 capable of beating the microbes. +
 
 [.my2]
 美国疾病控制与预防中心 (CDC) 追踪的 18 种相关细菌中，有 7 种对普通抗生素的耐药性越来越强，而这些抗生素, 被认为对维持公众健康至关重要。 +
 与此同时，制药公司在生产能够对抗微生物的新型抗生素方面, 进展缓慢。 +
 
 
-So some scientists are looking beyond 向远处看 traditional antibiotics /for new weapons /that won’t fuel (v.)给…提供燃料;增加；加强；刺激 the rise of superbugs. +
+So some scientists are looking beyond 向远处看 traditional antibiotics /for new weapons that won’t fuel (v.)给…提供燃料;增加；加强；刺激 the rise of superbugs. +
 
-`主` Their _emerging (a.)新兴的，发展初期的 arsenal_ （统称）武器 /`谓` features (v.)以…为特色；由…主演；以…为主要组成 ① _viruses_ /that kill (v.) bacteria; ② _CRISPR_; ③ and _microbe-slaying （在战争或搏斗中）杀，杀死;谋杀 molecules_. +
+`主` Their _emerging (a.)新兴的，发展初期的 arsenal_ （统称）武器 /`谓` features (v.)以…为特色；由…主演；以…为主要组成 ① _viruses_ that kill (v.) bacteria; ② _CRISPR_; ③ and _microbe-slaying （在战争或搏斗中）杀，杀死;谋杀 molecules_.
+They hope that /these experimental treatments, some of which have been tested in patients, will kill superbugs without promoting resistance. +
 
 [.my2]
 因此，一些科学家正在超越传统抗生素，寻找不会助长超级细菌崛起的新武器。 +
-他们新兴的武器库, 包括: 能"杀死细菌的"病毒, 基因编辑技术, 和微生物杀灭分子。 +
-
-
-
-They hope that /these experimental treatments, some of which have been tested in patients, will kill superbugs /without promoting resistance. +
-
-[.my2]
+他们新兴的武器库, 包括: 能"杀死细菌的"病毒, 基因编辑技术, 和微生物杀灭分子。
 他们希望这些实验性治疗（其中一些已经在患者身上进行了测试）能够杀死超级细菌而不增加耐药性。 +
 
-HOW _ANTIBIOTIC RESISTANCE_ EMERGES (v.) AND SPREADS (v.) +
+HOW ANTIBIOTIC RESISTANCE EMERGES (v.) AND SPREADS (v.) +
 
 [.my2]
 抗生素耐药性, 是如何出现和传播的? +
 
-Antibiotics #either# directly kill (v.) bacteria /#or# slow (v.)  their growth, leaving _the immune system_ to finish the job. +
-The drugs work (v.) in several ways — by preventing bacteria from _building (v.) sturdy  结实的；坚固的 walls_ or _making copies of their DNA_, for instance. +
+Antibiotics #either# directly kill (v.) bacteria #or# slow (v.)  their growth, leaving the immune system to finish the job. 
+The drugs work (v.) in several ways — by preventing bacteria from building (v.) sturdy  结实的；坚固的 walls #or# making copies of their DNA, for instance. +
+Growth-slowing antibiotics usually disrupt (v.) ribosomes 核糖体, the factories /in which bacterial cells make (v.) proteins. +
 
 [.my2]
 抗生素要么直接杀死细菌，要么减缓细菌的生长，让免疫系统来完成这项工作。
-这些药物有多种作用，例如阻止细菌建造坚固的墙壁, 或复制其 DNA。 +
-
-_Growth-slowing antibiotics_ usually disrupt (v.) ribosomes 核糖体, the factories /in which _bacterial cells_ make (v.) proteins. +
-
-[.my2]
+这些药物有多种作用，例如阻止细菌建造坚固的墙壁, 或复制其 DNA。
 减缓生长的抗生素, 通常会破坏"核糖体"，核糖体是细菌细胞制造"蛋白质"的工厂。 +
 
 
@@ -81,8 +73,8 @@ N any of numerous minute particles in the cytoplasm of cells, either free or att
 
 
 
-image:/img/ribosome.jpg[,30%]
-image:/img/ribosome2.jpg[,20%]
+image:../img/ribosome.jpg[,30%]
+image:../img/ribosome2.jpg[,20%]
 ====
 
 Many antibiotics shoot (v.) for the exact same molecular targets, and `主` so-called _broad-spectrum (a.) 广谱的; 效用广泛的对, 多种疾病或微生物都有抵抗作用的 antibiotics_' mechanisms `系` are #so# universal #that# they work (v.) on both major classes of bacteria: gram-positive 阳性的 and gram-negative 阴性的, which are distinguished by _the makeup_ and _thickness_ of their cell walls. +
@@ -97,8 +89,8 @@ Many antibiotics shoot (v.) for the exact same molecular targets, and `主` so-c
 .gram-positive
 革兰氏"阳性菌"和革兰氏"阴性菌", 是利用"革兰氏染色法"来鉴别的两大类细菌。 细胞壁结构的差异, 导致了染料吸收的差异，也导致了很多生理特性的不同。所以首先区分病原菌, 是革兰氏"阳性菌"还是"阴性菌"，在选择"抗生素"方面意义重大。 +
 
-image:/img/gram.jpg[,40%]
-image:/img/gram2.jpg[,20%]
+image:../img/gram.jpg[,40%]
+image:../img/gram2.jpg[,20%]
 
 
 [.my3]
@@ -162,8 +154,8 @@ Bacteria can pick up 改善；好转；增强 such defenses /through random DNA 
 
 "抗药性病原菌"的大量出现，许多药物，特别是"抗生素"已经不能抑制或杀死原来敏感的病原菌，这已不仅仅是"基因突变"可解释的，可能与抗药性"基因的水平转移"有关。已发现基因的转移, 不仅仅是发生在"细菌"之间，而且也发生在"细菌"与"高等生物"之间，甚至是"高等生物"之间。
 
-image:/img/horizontal gene transfer.jpg[,70%]
-image:/img/horizontal gene transfer2.png[,70%]
+image:../img/horizontal gene transfer.jpg[,70%]
+image:../img/horizontal gene transfer2.png[,70%]
 
 ====
 
@@ -201,7 +193,7 @@ Called _phage [病毒] 噬菌体 therapy_, it uses _bacteria-infecting viruses_ 
 N bacteriophage的缩写. [病毒] 噬菌体 +
 --> 来自希腊语phagein,吃，词源同esophagus,geophagy.引申词义噬菌体。
 
-image:/img/phage.jpg[,10%]
+image:../img/phage.jpg[,10%]
 ====
 
 Phages can also pressure bacteria into giving up key tools in their drug resistance tool kits. +
@@ -220,7 +212,7 @@ For example, a phage called U136B can have this effect on E.coli 大肠杆菌. T
 /ˌiː ˈkəʊlaɪ/  +
 [ U] a type of bacteria that lives inside humans and some animals, some forms of which can cause food poisoning 大肠杆菌
 
-image:/img/E. coli.jpg[,20%]
+image:../img/E. coli.jpg[,20%]
 
 Escherichiacoli 大肠杆菌, 是动物肠道中的正常寄居菌，其中很小一部分在一定条件下引起疾病。大肠杆菌的血清型, 能够引起人体或动物胃肠道感染. 除胃肠道感染以外，还会引起尿道感染、关节炎、脑膜炎, 以及败血型感染等. +
 
@@ -376,13 +368,13 @@ Beyond phages and CRISPR, scientists are developing antibiotic alternatives that
 -> 把11-50个氨基酸组成的肽, 称为"多肽"。
 
 
-image:/img/peptide3.webp[,50%]
+image:../img/peptide3.webp[,50%]
 
 一个氨基酸的"氨基", 与另一个氨基酸的"羧基", 可以缩合成"肽". 形成的"酰胺基"在蛋白质化学中, 称为"肽键"。 +
 氨基酸的分子最小，蛋白质最大，两个或以上的氨基酸, 脱水缩合形成若干个肽键, 从而组成一个"肽链". 多个肽链进行多级折叠就组成一个蛋白质分子。蛋白质有时也被称为“多肽”。 二胜肽（简称二肽），就是由二个氨基酸组成的蛋白质片段。
 
-image:/img/peptide.png[,50%]
-image:/img/peptide2.webp[,40%]
+image:../img/peptide.png[,50%]
+image:../img/peptide2.webp[,40%]
 
 
 ====
@@ -406,8 +398,8 @@ Lab-made molecules called peptide nucleic acids (PNAs) are some of the most prom
 肽核酸 (PNA), 是一类以"多肽骨架"取代"糖磷酸主链"的DNA类似物. +
 不同于DNA或DNA、RNA间的杂交，PNA与DNA或RNA的杂交, 几乎不受杂交体系"盐浓度"影响，与DNA或RNA分子的杂交能力, 远优于DNA/DNA或DNA/RNA. 表现在很高的杂交稳定性、优良的特异序列识别能力、不被"核酸酶"和"蛋白酶"水解。
 
-image:/img/peptide nucleic acid.png[,40%]
-image:/img/peptide nucleic acid2.gif[,40%]
+image:../img/peptide nucleic acid.png[,40%]
+image:../img/peptide nucleic acid2.gif[,40%]
 
 
 ====
@@ -425,7 +417,7 @@ PNA 通过锁定特定的 mRNA 来实现这一点，mRNA 是一种遗传分子, 
 .latch
 [ VN] to fasten sth with a latch 用插销插上；用碰锁锁上 +
 
-image:/img/latch.jpg[,20%]
+image:../img/latch.jpg[,20%]
 
 .latch ˈon (to sb/sth)ˌlatch ˈonto sb/sth
 ( informal ) +
