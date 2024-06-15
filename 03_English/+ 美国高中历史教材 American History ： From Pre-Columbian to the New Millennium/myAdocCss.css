@@ -1,0 +1,90 @@
+/* 下面是我自定义的全局变量 */
+:root {
+    --myGrayColor: rgb(240, 240, 240);
+    /* 背景颜色 */
+    --myGrayColor2: rgb(190, 190, 190);
+    /*字体颜色*/
+    --myFontSmallSize: 0.7em;
+}
+
+
+
+
+/* my1类, 专门用于单词高阶双解 */
+.my1 {
+    font-size: var(--myFontSmallSize);
+    /* 设置my1类的 字号大小 */
+    background-color: var(--myGrayColor);
+    border-style: solid;
+    border-color: var(--myGrayColor2);
+    border-width: 1px;
+    padding: 10px;
+    margin-left: 20%;
+}
+
+
+/* my2类, 专门用于中文翻译参考 */
+.my2 {
+    font-size: var(--myFontSmallSize);
+    /* 设置my1类的 字号大小 */
+    color: var(--myGrayColor2);
+    margin-block-start: -1.2em;
+    margin-left: 20%;
+}
+
+
+
+/* my1类, 专门用于表格 */
+.my3 {
+    font-size: 12;
+    /* 设置my1类的 字号大小 */
+    background-color: var(--myGrayColor);
+    border-style: solid;
+    border-color: var(--myGrayColor2);
+    border-width: 1px;
+    padding: 10px;
+    /* margin-left: 20%;*/
+}
+
+.myRed {
+    color: white;
+    /* 白色字体 */
+    background-color: #e34838;
+    /* 红色背景 */
+
+}
+
+
+/*斜体字*/
+em {
+    color: rgb(0, 0, 0);
+    /* 白色字体 */
+    background-color: #98beb47a;
+    /* 红色背景 */
+}
+
+
+
+.underline {
+    text-decoration: underline;
+}
+
+.title {
+    border-top: dashed 1px var(--myGrayColor2);
+    color: #2c38ba;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+p {
+    line-height: 150%;
+}
