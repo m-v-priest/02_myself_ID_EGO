@@ -1,0 +1,140 @@
+<svg width="641" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="650" viewBox="0 0 641 650">
+    <defs/>
+    <g transform="translate(-219.00,-180.00)">
+        <g id="shape1" transform="translate(378.00,292.50)">
+            <path fill-rule="nonzero" stroke="#999999" fill="#cbe3f8" d="M.0,.0L120.0,.0L120.0,73.1L.0,73.1L.0,.0z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="6.0" y="23.1">Thomas Jefferson</tspan>
+                <tspan x="23.5" y="42.1">(民主共和党)</tspan>
+                <tspan x="40.5" y="61.1">国务卿</tspan>
+            </text>
+        </g>
+        <g id="shape2" transform="translate(558.26,181.00)">
+            <path fill-rule="nonzero" stroke="#999999" fill="#d7d7d7" d="M.0,.0L159.7,.0L159.7,54.0L.0,54.0L.0,.0z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="18.4" y="23.0">George Washington</tspan>
+                <tspan x="53.9" y="42.0">首任总统</tspan>
+            </text>
+        </g>
+        <g id="shape3" transform="translate(699.00,293.00)">
+            <path fill-rule="nonzero" stroke="#999999" fill="#d7d7d7" d="M.0,.0L159.7,.0L159.7,72.6L.0,72.6L.0,.0z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="19.4" y="23.0">Alexander Hamilton</tspan>
+                <tspan x="49.9" y="42.0">(联邦党人)</tspan>
+                <tspan x="27.9" y="61.0">首任美国财政部长</tspan>
+            </text>
+        </g>
+        <g id="shape4" transform="translate(220.00,302.00)">
+            <path fill-rule="nonzero" stroke="#999999" fill="#d7d7d7" d="M.0,.0L120.0,.0L120.0,54.1L.0,54.1L.0,.0z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="4.5" y="23.5">James Madison Jr.</tspan>
+                <tspan x="27.5" y="42.5">第四任总统</tspan>
+            </text>
+        </g>
+        <g id="shape5" transform="translate(299.00,465.55)">
+            <path stroke="#999999" fill="none" d="M.0,.0L120.0,.0L120.0,54.1L.0,54.1L.0,.0z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="21.5" y="23.5">Democratic-</tspan>
+                <tspan x="8.5" y="42.5">Republican Party</tspan>
+            </text>
+        </g>
+        <g id="shape6" transform="translate(281.20,356.15)">
+            <path stroke="#191919" fill="none" d="M.0,.0L.0,77.4L77.1,77.4L77.1,103.4"/>
+            <path stroke-width="1" stroke="#191919" fill="#191919" stroke-linecap="round" d="M80.1,103.4L77.1,109.4L74.1,103.4L80.1,103.4"/>
+        </g>
+        <g id="shape7" transform="translate(437.28,365.65)">
+            <path stroke="#191919" fill="none" d="M.0,.0L.0,67.9L-73.0,67.9L-73.0,93.9"/>
+            <path stroke-width="1" stroke="#191919" fill="#191919" stroke-linecap="round" d="M-70.0,93.9L-73.0,99.9L-76.0,93.9L-70.0,93.9"/>
+        </g>
+        <g id="shape8" transform="translate(299.00,370.85)">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="34.0" y="36.0">共同创立</tspan>
+                <tspan x="27.5" y="55.0">民主共和党</tspan>
+            </text>
+        </g>
+        <g id="shape9" transform="translate(548.00,370.85)">
+            <path stroke="#999999" fill="none" d="M.0,.0L120.0,.0L120.0,54.1L.0,54.1L.0,.0z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="31.0" y="23.5">1793年，</tspan>
+                <tspan x="8.0" y="42.5">英法两国爆发战争</tspan>
+            </text>
+        </g>
+        <g id="shape10" transform="translate(458.28,365.65)">
+            <path stroke="#191919" fill="none" d="M.0,.0L.0,30.1L83.7,30.1"/>
+            <path stroke-width="1" stroke="#191919" fill="#191919" stroke-linecap="round" d="M83.7,27.1L89.7,30.1L83.7,33.1L83.7,27.1"/>
+            <rect width="52.0" x="18.6" fill="#ffffff" y="20.6" height="19.0"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="18.6" y="35.6">支持法国</tspan>
+            </text>
+        </g>
+        <g id="shape11" transform="translate(777.27,365.65)">
+            <path stroke="#191919" fill="none" d="M.0,.0L.0,32.1L-103.3,32.1"/>
+            <path stroke-width="1" stroke="#191919" fill="#191919" stroke-linecap="round" d="M-103.3,35.1L-109.3,32.1L-103.3,29.1L-103.3,35.1"/>
+            <rect width="52.0" x="-77.0" fill="#ffffff" y="22.6" height="19.0"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="-77.0" y="37.6">支持英国</tspan>
+            </text>
+        </g>
+        <g id="shape12" transform="translate(633.34,235.00)">
+            <path stroke="#191919" fill="none" d="M.0,.0L.0,39.0L-194.1,39.0L-194.1,51.5"/>
+            <path stroke-width="1" stroke="#191919" fill="#191919" stroke-linecap="round" d="M-191.1,51.5L-194.1,57.5L-197.1,51.5L-191.1,51.5"/>
+        </g>
+        <g id="shape13" transform="translate(640.21,235.00)">
+            <path stroke="#191919" fill="none" d="M.0,.0L.0,39.0L137.1,39.0L137.1,52.0"/>
+            <path stroke-width="1" stroke="#191919" fill="#191919" stroke-linecap="round" d="M140.1,52.0L137.1,58.0L134.1,52.0L140.1,52.0"/>
+        </g>
+        <g id="shape14" transform="translate(699.00,447.05)">
+            <path fill-rule="nonzero" stroke="#999999" fill="#d7d7d7" d="M.0,.0L159.7,.0L159.7,72.6L.0,72.6L.0,.0z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="42.4" y="23.0">John Adams</tspan>
+                <tspan x="47.4" y="42.0">第二任总统</tspan>
+                <tspan x="49.9" y="61.0">(联邦党人)</tspan>
+            </text>
+        </g>
+        <g id="shape15" transform="translate(547.74,530.43)">
+            <path stroke="#999999" fill="none" d="M.0,.0L120.5,.0L120.5,54.1L.0,54.1L.0,.0z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="40.8" y="23.1">客籍法</tspan>
+                <tspan x="21.3" y="42.1">和惩治叛乱法</tspan>
+            </text>
+        </g>
+        <g id="shape16" transform="translate(774.24,519.70)">
+            <path stroke="#191919" fill="none" d="M.0,.0L.0,39.9L-100.0,39.9"/>
+            <path stroke-width="1" stroke="#191919" fill="#191919" stroke-linecap="round" d="M-100.0,42.9L-106.0,39.9L-100.0,36.9L-100.0,42.9"/>
+            <rect width="61.0" x="-75.9" fill="#ffffff" y="20.9" height="19.0"/>
+            <rect width="30.0" x="-60.4" fill="#ffffff" y="39.9" height="19.0"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="-75.9" y="35.9">在1798年,</tspan>
+                <tspan x="-60.4" y="54.9"> 制订</tspan>
+            </text>
+        </g>
+        <g id="shape17" transform="translate(450.24,365.65)">
+            <path stroke="#191919" fill="none" d="M.0,.0L.0,193.2L91.5,193.2"/>
+            <path stroke-width="1" stroke="#191919" fill="#191919" stroke-linecap="round" d="M91.5,190.2L97.5,193.2L91.5,196.2L91.5,190.2"/>
+            <rect width="78.0" x="-15.5" fill="#ffffff" y="174.2" height="19.0"/>
+            <rect width="104.0" x="-28.5" fill="#ffffff" y="193.2" height="19.0"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="-15.5" y="189.2">将此法解读为</tspan>
+                <tspan x="-28.5" y="208.2">攻击他所属的政党</tspan>
+            </text>
+        </g>
+        <g id="shape18" transform="translate(416.00,595.30)">
+            <text style="fill:#868686;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="4.0" y="19.0">主张宪法所建立者仅为各州与联邦</tspan>
+                <tspan x="4.0" y="38.0">政府之间的协定，联邦政府无权行</tspan>
+                <tspan x="4.0" y="57.0">使宪法无明文规定之事项，而各州</tspan>
+                <tspan x="4.0" y="76.0">对联邦政府各项僭权之举可视为无</tspan>
+                <tspan x="4.0" y="95.0">效。</tspan>
+            </text>
+        </g>
+        <g id="shape19" transform="translate(378.00,737.00)">
+            <path fill-rule="nonzero" stroke="#999999" fill="#cbe3f8" d="M.0,.0L120.0,.0L120.0,92.1L.0,92.1L.0,.0z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="6.0" y="23.1">Thomas Jefferson</tspan>
+                <tspan x="23.5" y="42.1">(民主共和党)</tspan>
+                <tspan x="27.5" y="61.1">第三任总统</tspan>
+                <tspan x="14.5" y="80.1">(1801-1809年)</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
