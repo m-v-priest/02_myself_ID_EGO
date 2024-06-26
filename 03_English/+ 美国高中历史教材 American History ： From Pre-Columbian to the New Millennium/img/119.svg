@@ -1,0 +1,76 @@
+<svg height="271" width="653" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 653 271" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs/>
+    <g transform="translate(-425.13,-754.70)">
+        <g transform="translate(426.13,767.20)" id="shape1">
+            <path stroke="#999999" d="M.0,.0L103.4,.0L103.4,31.1L.0,31.1L.0,.0z" fill="none"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="17.2" y="21.5">1.Federalist</tspan>
+            </text>
+        </g>
+        <g transform="translate(614.47,755.70)" id="shape2">
+            <path stroke="#999999" d="M.0,.0L103.4,.0L103.4,54.1L.0,54.1L.0,.0z" fill="none"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="7.7" y="23.5">2.Democratic-</tspan>
+                <tspan x="18.2" y="42.5">Republican</tspan>
+            </text>
+        </g>
+        <g transform="translate(528.87,873.48)" id="shape3">
+            <path stroke="#999999" fill-rule="nonzero" d="M.0,.0L103.4,.0L103.4,54.1L.0,54.1L.0,.0z" fill="#d7d7d7"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="10.7" y="23.5">3.Democratic </tspan>
+                <tspan x="35.7" y="42.5">Party</tspan>
+            </text>
+        </g>
+        <g transform="translate(661.47,873.48)" id="shape4">
+            <path stroke="#999999" d="M.0,.0L198.4,.0L198.4,54.1L.0,54.1L.0,.0z" fill="none"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="14.2" y="23.1">4.National Republican Party</tspan>
+                <tspan x="61.2" y="42.1">(Whig Party)</tspan>
+            </text>
+        </g>
+        <g transform="translate(663.17,809.85)" id="shape5">
+            <path stroke="#191919" d="M.0,.0L.0,31.6L-78.0,31.6L-78.0,57.6" fill="none"/>
+            <path stroke="#191919" d="M-75.0,57.6L-78.0,63.6L-81.0,57.6L-75.0,57.6" fill="#191919" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <g transform="translate(663.17,809.85)" id="shape6">
+            <path stroke="#191919" d="M.0,.0L.0,31.1L100.9,31.1L100.9,57.6" fill="none"/>
+            <path stroke="#191919" d="M103.9,57.6L100.9,63.6L97.9,57.6L103.9,57.6" fill="#191919" stroke-linecap="round" stroke-width="1"/>
+            <rect height="19.0" width="26.0" fill="#ffffff" x="-12.0" y="8.5"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="-12.0" y="23.5">分裂</tspan>
+            </text>
+        </g>
+        <g transform="translate(878.60,865.05)" id="shape7">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="4.2" y="19.0">大部分的辉格党人认为自己是独</tspan>
+                <tspan x="4.2" y="38.0">立思考的个体，并非向民主党一</tspan>
+                <tspan x="4.2" y="57.0">样党性强</tspan>
+            </text>
+        </g>
+        <g transform="translate(661.47,970.25)" id="shape8">
+            <path stroke="#999999" fill-rule="nonzero" d="M.0,.0L103.4,.0L103.4,54.1L.0,54.1L.0,.0z" fill="#d7d7d7"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="12.7" y="23.5">5.Republican </tspan>
+                <tspan x="35.7" y="42.5">Party</tspan>
+            </text>
+        </g>
+        <g transform="translate(475.26,798.35)" id="shape9">
+            <path stroke="#191919" stroke-dasharray="2.5,2.5" d="M.0,.0L.0,17.6" fill="none"/>
+            <path stroke="#191919" d="M3.0,17.6L.0,23.6L-3.0,17.6L3.0,17.6" fill="#191919" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <g transform="translate(454.47,818.85)" id="shape10">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="10.4" y="21.1">消亡</tspan>
+            </text>
+        </g>
+        <g transform="translate(814.24,927.63)" id="shape11">
+            <path stroke="#191919" stroke-dasharray="2.5,2.5" d="M.0,.0L.0,22.4" fill="none"/>
+            <path stroke="#191919" d="M3.0,22.4L.0,28.4L-3.0,22.4L3.0,22.4" fill="#191919" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <g transform="translate(790.60,953.85)" id="shape12">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="10.4" y="21.1">消亡</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
