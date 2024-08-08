@@ -1,0 +1,44 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" height="164" viewBox="0 0 356 164" width="356">
+    <defs/>
+    <g transform="translate(-329.00,-833.00)">
+        <g id="shape1" transform="translate(330.00,878.50)">
+            <path fill="#ffffff" stroke="#323232" fill-rule="nonzero" d="M180.0,73.0L180.0,.0L.0,.0L.0,73.0L180.0,73.0z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="23.0" x="36.5">1.先提出"理论 v1"</tspan>
+                <tspan y="42.0" x="17.0">3.提出更新版的"理论 v2"</tspan>
+                <tspan y="61.0" x="85.5">...</tspan>
+            </text>
+        </g>
+        <g id="shape2" transform="translate(602.00,888.00)">
+            <path fill="#ffffff" stroke="#323232" fill-rule="nonzero" d="M82.0,54.0L82.0,.0L.0,.0L.0,54.0L82.0,54.0z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="23.0" x="9.5">2.搜集数据</tspan>
+                <tspan y="42.0" x="15.0">分析数据</tspan>
+            </text>
+        </g>
+        <g id="shape3" transform="translate(510.00,915.00)">
+            <path fill="none" stroke="#191919" d="M.0,.0L86.0,.0"/>
+            <path fill="#191919" stroke-linecap="round" stroke-width="1" stroke="#191919" d="M86.0,-3.0L92.0,.0L86.0,3.0L86.0,-3.0"/>
+            <rect fill="#ffffff" y="-9.5" x="21.3" height="19.0" width="52.0"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="5.5" x="21.3">不断循环</tspan>
+            </text>
+        </g>
+        <g id="shape4" transform="translate(643.00,888.00)">
+            <path fill="none" stroke="#191919" d="M.0,.0L.0,-41.5L-223.0,-41.5L-223.0,-15.5"/>
+            <path fill="#191919" stroke-linecap="round" stroke-width="1" stroke="#191919" d="M-220.0,-15.5L-223.0,-9.5L-226.0,-15.5L-220.0,-15.5"/>
+            <rect fill="#ffffff" y="-51.0" x="-135.2" height="19.0" width="45.0"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="-36.0" x="-135.2">证实 v1</tspan>
+            </text>
+        </g>
+        <g id="shape5" transform="translate(643.00,942.00)">
+            <path fill="none" stroke="#191919" d="M.0,.0L.0,41.5L-223.0,41.5L-223.0,15.5"/>
+            <path fill="#191919" stroke-linecap="round" stroke-width="1" stroke="#191919" d="M-226.0,15.5L-223.0,9.5L-220.0,15.5L-226.0,15.5"/>
+            <rect fill="#ffffff" y="32.0" x="-133.5" height="19.0" width="71.0"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="47.0" x="-133.5">推翻 v1理论</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

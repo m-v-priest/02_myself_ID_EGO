@@ -1,0 +1,89 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" height="278" viewBox="0 0 396 278" width="396">
+    <defs/>
+    <g transform="translate(-372.00,-214.00)">
+        <g id="shape1" transform="translate(409.00,251.00)">
+            <path fill="#ffffff" stroke="#323232" fill-rule="nonzero" d="M82.0,32.0L82.0,.0L.0,.0L.0,32.0L82.0,32.0z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="21.5" x="16.0">货币量 ↑</tspan>
+            </text>
+        </g>
+        <g id="shape2" transform="translate(548.00,251.00)">
+            <path fill="#ffffff" stroke="#323232" fill-rule="nonzero" d="M82.0,32.0L82.0,.0L.0,.0L.0,32.0L82.0,32.0z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="21.5" x="16.0">总需求 ↑</tspan>
+            </text>
+        </g>
+        <g id="shape3" transform="translate(677.00,251.00)">
+            <path fill="#ffffff" stroke="#323232" fill-rule="nonzero" d="M82.0,32.0L82.0,.0L.0,.0L.0,32.0L82.0,32.0z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="21.5" x="16.0">失业率 ↓</tspan>
+            </text>
+        </g>
+        <g id="shape4" transform="translate(450.00,251.00)">
+            <path fill="none" stroke="#191919" d="M.0,-8.0L.0,-24.0L-72.0,-24.0"/>
+            <path fill="#191919" stroke-linecap="round" stroke-width="1" stroke="#191919" d="M4.0,-8.0L.0,.0L-4.0,-8.0L4.0,-8.0"/>
+            <rect fill="#ffffff" y="-33.5" x="-56.7" height="19.0" width="18.0"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="-18.5" x="-56.7">(+)</tspan>
+            </text>
+        </g>
+        <g id="shape5" transform="translate(491.00,267.00)">
+            <path fill="none" stroke="#191919" d="M.0,.0L51.0,.0"/>
+            <path fill="#191919" stroke-linecap="round" stroke-width="1" stroke="#191919" d="M51.0,-3.0L57.0,.0L51.0,3.0L51.0,-3.0"/>
+            <rect fill="#ffffff" y="-9.5" x="18.3" height="19.0" width="18.0"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="5.5" x="18.3">(+)</tspan>
+            </text>
+        </g>
+        <g id="shape6" transform="translate(630.00,267.00)">
+            <path fill="none" stroke="#191919" d="M.0,.0L41.0,.0"/>
+            <path fill="#191919" stroke-linecap="round" stroke-width="1" stroke="#191919" d="M41.0,-3.0L47.0,.0L41.0,3.0L41.0,-3.0"/>
+            <rect fill="#ffffff" y="-9.5" x="16.3" height="19.0" width="14.0"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="5.5" x="16.3">(-)</tspan>
+            </text>
+        </g>
+        <g id="shape7" transform="translate(409.00,302.00)">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="19.0" x="5.9">增加货币量</tspan>
+            </text>
+        </g>
+        <g id="shape8" transform="translate(515.46,302.00)">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="19.0" x="36.9">给民众发钱,</tspan>
+                <tspan y="38.0" x="10.9">会增加他们的总支出,</tspan>
+                <tspan y="57.0" x="15.4">市场火热, 抬高物价</tspan>
+            </text>
+        </g>
+        <g id="shape9" transform="translate(669.00,302.00)">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="19.0" x="8.5">鼓励企业扩张,</tspan>
+                <tspan y="38.0" x="15.0">多雇佣工人,</tspan>
+                <tspan y="57.0" x="16.5">失业率下降</tspan>
+            </text>
+        </g>
+        <g id="shape10" transform="translate(548.00,419.00)">
+            <path fill="#ffffff" stroke="#323232" fill-rule="nonzero" d="M82.0,32.0L82.0,.0L.0,.0L.0,32.0L82.0,32.0z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="21.5" x="16.0">通胀率 ↑</tspan>
+            </text>
+        </g>
+        <g id="shape11" transform="translate(589.00,283.00)">
+            <path fill="none" stroke="#191919" d="M.0,.0L.0,130.0"/>
+            <path fill="#191919" stroke-linecap="round" stroke-width="1" stroke="#191919" d="M3.0,130.0L.0,136.0L-3.0,130.0L3.0,130.0"/>
+            <rect fill="#ffffff" y="102.4" x="-8.0" height="19.0" width="18.0"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="117.4" x="-8.0">(+)</tspan>
+            </text>
+        </g>
+        <g id="shape12" transform="translate(491.00,267.00)">
+            <path fill="none" stroke="#191919" d="M.0,.0L25.0,.0L25.0,116.0L89.0,116.0"/>
+            <path fill="#191919" stroke-linecap="round" stroke-width="1" stroke="#191919" d="M89.0,113.0L95.0,116.0L89.0,119.0L89.0,113.0"/>
+        </g>
+        <g id="shape13" transform="translate(515.46,459.00)">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="19.0" x="25.4">长期引起高通胀</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
