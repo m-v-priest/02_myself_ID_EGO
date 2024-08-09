@@ -1,0 +1,101 @@
+
+
+= 金融制裁方法
+:toc: left
+:toclevels: 3
+:stylesheet: ../myAdocCss.css
+
+
+
+'''
+
+
+== The nuclear option
+
+Mr Trump has three main ways to constrain (v.) another country financially.  +
+
+(1) He can refuse (v.) its banks access to CHIPS, a New York-based _clearing house_ （银行）票据交换所，清算中心，结算所  后定  through which 95% of all _dollar transactions_ (（一笔）交易，业务，买卖;办理；处理) 美元交易 are routed (v.)按某路线发送;为…规定路线. +
+
+(2) He can try to force (v.) SWIFT, a Belgium-based messaging system which 11,000 banks worldwide use (v.) to make cross-border payments, to expel (v.)把…开除（或除名） members 后定 from the offending 有罪的；违法的;烦人的；令人不安的；惹麻烦的 state.  +
+
+(3) And he can slap (v.)（用手掌）打，拍，掴;啪地击打（或撞上） an embargo 禁止贸易令；禁运 on its financial system, threatening (v.) to punish(v.) any foreign or domestic financial institution 后定 *that uses (v.) dollars*  — as virtually 几乎；差不多；事实上；实际上 all do —  *but continues to transact(v.)（与人或组织）做业务，做交易 with* the embargoed 禁止…的贸易；禁运 firms.
+
+[.my2]
+====
+特朗普有三种主要方式, 来限制另一个国家的财政。
+
+- 1.他可以拒绝该国的银行, 使用总部设在纽约的清算所CHIPS, 95%的美元交易都是通过CHIPS进行的。
+- 2.他可以试图迫使总部位于比利时的通讯系统 SWIFT, 将来自于违规国家的成员(该国的银行), 驱逐出SWIFT组织。全球有1.1万家银行, 使用该系统进行跨境支付。
+- 3.他还可以对该国的金融系统, 实施禁令，对那些继续与被禁公司进行美元贸易的公司, 无论是美国国内还是国外的, 进行威胁惩罚. 事实上, 几乎所有的公司都需要进行美元交易.
+====
+
+[.my1]
+.标题
+====
+.clearing house
+a central office that banks use in order to pay each other money and exchange cheques, etc. （银行）票据交换所，清算中心，结算所 +
+an organization that collects and exchanges information on behalf of people or other organizations 信息交换机构；信息交流所
+
+*"清算所"是为了促进支付、证券或衍生品交易的交换（即清算）, 而成立的金融机构。*"清算所"位于两个清算公司（也称为成员公司或参与者）之间。目的是降低成员公司未能履行其"贸易结算义务"的风险。**降低多方之间多笔交易的清算结算成本、结算风险, 和操作风险.**
+
+
+
+
+
+.transaction :
+~ of sth ( formal ) the process of doing sth 办理；处理
+
+- the transaction of government business 处理政府事务
+
+.CHIPS :
+clearing house interbank(a.)银行同业的 payment system “纽约清算所银行同业支付系统. 全球最大的私营支付清算系统之一，主要进行跨国美元交易的清算。
+
+CHIPS与联邦储备银行的Fedwire（英语：Fedwire）基金, 一起构成了美国主要的大额国内和国际美元支付网络，占其市场份额约为96%。
+
+
+[.my3]
+[options="autowidth" cols="1a,1a"]
+|===
+|CHIPS |Fedwire
+
+|它是私有的. 是全球最大的私营部门美元清算系统.
+|是监管机构.
+
+
+|是一个净额清算系统（因此不是实时的）. +
+例如，如果A要向B支付 120 万美元，B要向A支付 80 万美元，CHIPS 系统会将其合并为从A向B支付的单笔付款 40 万美元。
+|是"实时全额结算"系统. +
+但是Fedwire 系统需要分两次单独支付全部金额（即：B支付 120 万美元，A支付 80 万美元）。
+
+|对于时间敏感度较低的支付，银行通常更喜欢使用 CHIPS 而不是 Fedwire 进行清算. 原因是: 1.CHIPS 收费更便宜. 2.不需要实时支付.
+|
+|===
+
+
+.SWIFT :
+Society for Worldwide Interbank Financial Telecomm 环球银行金融电信协会. 是一个国际银行间非盈利性的国际合作组织，总部设在比利时的布鲁塞尔. 银行和其他金融机构通过它,与同业交换电文（message）来完成金融交易。
+
+image:../img/SWIFT.png[,15%]
+
+====
+
+
+'''
+
+
+== <pure> The nuclear option
+
+
+
+Mr Trump has three main ways [to constrain another country financially.
+
+He can refuse its banks access to CHIPS, a New York-based clearing house [through which 95% of all dollar transactions are routed.
+
+He can try to force SWIFT, a Belgium-based messaging system [which 11,000 banks worldwide `谓` use to make cross-border payments, to expel members from the offending state.
+
+And he can slap an embargo on its financial system, threatening to punish any foreign or domestic financial institution [that uses dollars — as virtually all do — but continues to transact with the embargoed firms.
+
+
+
+
+'''

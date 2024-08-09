@@ -1,0 +1,124 @@
+
+= immune checkpoint inhibitors, ICIs 免疫检查点抑制剂 -> 是一种"免疫治疗药物", 用于杀灭癌细胞
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../myAdocCss.css
+
+'''
+
+== New Cancer Vaccines Could Treat Some Types of Pancreatic, Colorectal and Other Deadly Forms of the Disease 新的癌症疫苗可以治疗某些类型的胰腺癌、结直肠癌和其他致命疾病
+
+In large part, pancreas 胰腺 cancer is a very challenging malignancy 恶性（肿瘤等）, and even in the best set 一套，一副，一组（配套使用的东西） of circumstances /when it’s able to be operated upon 接受手术, there is a very high risk of the disease recurring 再发生，反复出现.
+
+[.my2]
+在很大程度上，*##"胰腺癌"是一种非常具有挑战性的恶性肿瘤，##即使在能够进行手术的最佳情况下，#这种疾病复发的风险也非常高.#*
+
+Most _pancreatic cancers_ and some _colorectal 结肠直肠的 cancers_ do not respond to traditional immunotherapy approaches 方式，方法, such as _checkpoint （边防）检查站；边防关卡 inhibitors_ 抑制剂,抑制因子. So scientists have started investigating (v.)研究；调查 vaccines as a way to prime (v.)把（事物）准备好;事先指点；使（某人）做好准备 the immune system more effectively.
+
+[.my2]
+**#大多数"胰腺癌"和一些"结直肠癌", 对传统的"免疫治疗方法"（例如检查点抑制剂）没有反应。#**因此，科学家们开始研究疫苗，作为更有效地启动免疫系统的一种方法。
+
+[.my1]
+.案例
+====
+.inhibitor
+1.( chemistry 化) a substance which delays or prevents a chemical reaction 抑制剂；阻聚剂 +
+2.( biology 生) a gene which prevents another gene from being effective 抑制基因
+
+.prime
+1.[ VN] to make sth ready for use or action 把（事物）准备好 +
+- The bomb was primed, ready to explode. 炸弹已准备好，可随时引爆。
+
+2.~ sb (for/with sth) : to prepare sb for a situation so that they know what to do, especially by giving them special information 事先指点；使（某人）做好准备 +
+- They had been primed with good advice. 他们事先得到了高人指点。 +
+- She was ready and primed for action. 她已胸有成竹、跃跃欲试了。
+====
+
+KRAS mutations cause (v.) roughly one third of all cancers. They’re found in about 95 percent of pancreatic cancers /and 30 to 40 percent of colon cancers.
+
+[.my2]
+大约三分之一的癌症是由 KRAS 突变引起的。它们存在于约 95% 的"胰腺癌", 和 30% 至 40% 的"结肠癌"中。
+
+
+[.my1]
+.案例
+====
+.KRAS 突变
+Kras是一种鼠类肉瘤病毒癌基因，ras基因家族与人类肿瘤相关的基因有三种——H-ras、K-ras和N-ras，分别定位在11、12和1号染色体上。 +
+*##在ras基因中，K-Ras对人类癌症影响最大，它好像分子开关：当正常时, 能控制调控细胞生长的路径；发生异常时，则导致细胞持续生长，并阻止细胞自我毁灭。##它参与细胞内的信号传递，#当K-ras基因突变时，该基因永久活化，不能产生正常的ras蛋白，使细胞内信号传导紊乱，细胞增殖失控而癌变。#*
+
+KRAS基因的全名叫 Kirsten ratsarcoma viral oncogene homolog，翻成中文是“Kirsten大鼠肉瘤病毒癌基因同源物”。KARS基因编码的蛋白, 是一种小GTP酶（smallGTPase），它属于RAS超蛋白家族.
+
+**#KRAS基因对人类癌症影响很大，大约有30%的癌症患者, 都存在KRAS突变#，其中包括90%的胰腺癌，50%的结肠癌, 和25%的肺癌。**在非小细胞肺癌中，KRAS基因突变占20～30%，多存在于肺腺癌中，肺鳞癌中比较罕见。
+
+早在几十年前，研究人员就把KRAS, 确定为癌症的重要治疗靶点，然而**#由于KRAS蛋白表面没有适于"小分子抑制剂"结合的口袋，也就是说这种蛋白质缺乏明显的靶点, 可以让小分子药物与之结合并损害其功能。#**因此这么多年，关于KRAS基因靶向治疗的药物, 屈指可数.
+====
+
+
+Drugs 后定 targeting cancers with KRAS mutations /must be stuck (a.)卡住；陷住;动不了；无法移动 to a protein. +
+when small vaccine molecules (such as peptides 多肽类, short strands （线、绳、金属线、毛发等的）股，缕 DNA and some proteins) are injected (v.)（给…）注射（药物等）, the blood *captures* (v.)them /and flushes (v.)（用水）冲走 them through the body. Some of the vaccine may *end up* 最终成为 at _irrelevant 不相关的，不相干的 sites_ where there are no immune cells; some may *get degraded （使）退化，降解；分解 or destroyed*; and some may *flow to* places that suppress (v.)压制；阻止；抑制 the immune response /or *lead to* toxicity 毒性. +
+In contrast, larger vaccine molecules are too big to enter the bloodstream 体内循环的血液；血流 /and can thus travel (v.) straight to the lymph system, which is the body’s immune response 免疫反应 command center.
+
+[.my2]
+针对具有 KRAS 突变的癌症的药物, 必须粘附在蛋白质上。 +
+当注射小疫苗分子（例如肽、短链 DNA 和一些蛋白质）时，血液会捕获它们并将它们冲入体内。一些疫苗可能最终到达没有免疫细胞的不相关部位；有些可能会退化或被破坏；有些可能会流向抑制免疫反应或导致毒性的地方。
+相比之下，较大的疫苗分子太大, 而无法进入血液，因此可以直接进入淋巴系统，这是人体的免疫反应指挥中心。
+
+[.my1]
+.title
+====
+.strand
+N-COUNT A strand of something such as hair, wire, or thread is a single thin piece of it. (头发、电线或纱线的) 缕
+====
+
+'''
+
+== 附录
+
+==== 医学常识 -- immune checkpoint inhibitors, ICIs 免疫检查点抑制剂
+
+
+癌症免疫疗法中, 最令人兴奋的方法之一, 就是##松开"抑制免疫系统"的天然"刹车". 这种方法被称为"免疫检查点阻断" (Checkpoint Blockade), ##其利用的是##免疫系统自身对抗癌症##的能力.
+
+免疫系统的主要抗癌细胞, 被称为 "T细胞". *#T细胞表面有执行不同功能的"受体", 有些就像汽车的油门踏板, 可以启动细胞的"抗癌反应"; 另一些则像一个刹车, 使得 "T细胞"关闭相关作用.#* +
+image:../img/ICIs 0001.png[,40%]
+
+*#许多癌细胞已经学会了操纵这些类似的"免疫刹车"来避免被破坏, 它们制造出一种分子, 来参与这种刹车过程.#* +
+image:../img/ICIs 0002.png[,40%]
+
+
+*而"免疫检查点抑制剂" (Checkpoint inhibitors) 会阻断这种相互作用, 剥夺癌症的一种重要防御手段.* 被称为##"免疫检查点抑制剂"的药物, 可以松开刹车, 使得免疫系统踩下油门, 并对抗癌症.## +
+image:../img/ICIs 0003.png[,40%]
+
+目前 FDA 批准了几种"检查点抑制剂", 用于"黑色素瘤"和"肺癌"的治疗. +
+如, 药物 Yervoy可以阻断一个被称为 "CTLA-4 的免疫检查点". 另外两种药物, Opdivo 和 Keytruda，可以阻断 "PD-1 检查点"。
+
+
+
+'''
+
+
+
+== New Cancer Vaccines Could Treat Some Types of Pancreatic, Colorectal and Other Deadly Forms of the Disease
+
+
+
+In large part, pancreas cancer is a very challenging malignancy, and even in the best set of circumstances when it’s able to be operated upon, there is a very high risk of the disease recurring.
+
+
+Most pancreatic cancers and some colorectal cancers do not respond to traditional immunotherapy approaches, such as checkpoint inhibitors. So scientists have started investigating vaccines as a way to prime the immune system more effectively.
+
+
+KRAS mutations cause roughly one third of all cancers. They’re found in about 95 percent of pancreatic cancers and 30 to 40 percent of colon cancers.
+
+
+Drugs targeting cancers with KRAS mutations must be stuck to a protein. +
+when small vaccine molecules (such as peptides, short strands of DNA and some proteins) are injected, the blood captures them and flushes them through the body. Some of the vaccine may end up at irrelevant sites where there are no immune cells; some may get degraded or destroyed; and some may flow to places that suppress the immune response or lead to toxicity. +
+In contrast, larger vaccine molecules are too big to enter the bloodstream and can thus travel straight to the lymph system, which is the body’s immune response command center.
+
+
+'''
+
+
+
