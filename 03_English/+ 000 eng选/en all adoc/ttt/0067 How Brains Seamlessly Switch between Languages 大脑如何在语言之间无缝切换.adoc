@@ -2,7 +2,8 @@
 = 0067 How Brains Seamlessly Switch between Languages 大脑如何在语言之间无缝切换
 :toc: left
 :toclevels: 3
-:sectnums:
+:stylesheet: ../myAdocCss.css
+
 
 '''
 
