@@ -1,0 +1,168 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 664 729" height="729" width="664" xmlns="http://www.w3.org/2000/svg">
+    <defs/>
+    <g transform="translate(-1416.00,-420.57)">
+        <path d="M.0,.0L334.1,.0L334.1,187.8L.0,187.8L.0,.0z" fill="#b0ddc1" id="shape1" transform="translate(1417.00,961.00)" fill-rule="nonzero"/>
+        <path d="M.0,.0L334.1,.0L334.1,187.8L.0,187.8L.0,.0z" fill="#b0ddc1" id="shape2" transform="translate(1417.00,737.48)" fill-rule="nonzero"/>
+        <path d="M.0,.0L334.1,.0L334.1,196.8L.0,196.8L.0,.0z" fill="#fedad0" id="shape3" transform="translate(1417.00,510.00)" fill-rule="nonzero"/>
+        <path d="M.0,.0L9.0,.0C11.5,-0.4,14.0,.5,15.8,2.2C17.5,4.0,18.4,6.5,18.0,9.0L18.0,32.0C17.6,34.5,18.5,37.0,20.2,38.8C22.0,40.5,24.5,41.4,27.0,41.0C24.5,40.6,22.0,41.5,20.2,43.2C18.5,45.0,17.6,47.5,18.0,50.0L18.0,73.0C18.4,75.5,17.5,78.0,15.8,79.8C14.0,81.5,11.5,82.4,9.0,82.0L.0,82.0" fill="none" id="shape4" transform="matrix(0.00,-1.00,-1.00,0.00,1702.1,1033.5)" stroke="#999999"/>
+        <g id="shape5" transform="translate(1540.00,421.57)">
+            <path d="M.0,.0L47.0,.0L47.0,47.0L.0,47.0L.0,.0z" fill="#ffffff" fill-rule="nonzero" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="19.5" y="29.0">1</tspan>
+            </text>
+        </g>
+        <g id="shape6" transform="translate(1606.00,421.57)">
+            <path d="M.0,.0L47.0,.0L47.0,47.0L.0,47.0L.0,.0z" fill="#ffffff" fill-rule="nonzero" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="19.5" y="29.0">2</tspan>
+            </text>
+        </g>
+        <g id="shape7" transform="translate(1673.00,421.57)">
+            <path d="M.0,.0L47.0,.0L47.0,47.0L.0,47.0L.0,.0z" fill="#ffffff" fill-rule="nonzero" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="19.5" y="29.0">3</tspan>
+            </text>
+        </g>
+        <g id="shape8" transform="translate(1540.00,1034.50)">
+            <path d="M.0,.0L47.0,.0L47.0,47.0L.0,47.0L.0,.0z" fill="#ffffff" fill-rule="nonzero" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="10.5" y="19.5">你选</tspan>
+                <tspan x="19.5" y="38.5">1</tspan>
+            </text>
+        </g>
+        <g id="shape9" transform="translate(1606.00,1034.50)">
+            <path d="M.0,.0L47.0,.0L47.0,47.0L.0,47.0L.0,.0z" fill="#ffffff" fill-rule="nonzero" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="19.5" y="29.0">2</tspan>
+            </text>
+        </g>
+        <g id="shape10" transform="translate(1673.00,1034.50)">
+            <path d="M.0,.0L47.0,.0L47.0,47.0L.0,47.0L.0,.0z" fill="#ffffff" fill-rule="nonzero" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="17.0" y="19.5">车</tspan>
+                <tspan x="19.5" y="38.5">3</tspan>
+            </text>
+        </g>
+        <g id="group11" transform="translate(1606.00,1034.50)">
+            <path d="M.0,.0L63.7,.0" fill="none" id="shape12" transform="matrix(0.68,0.74,-0.74,0.68,0.0,0.0)" stroke="#191919"/>
+            <path d="M.0,.0L-43.0,43.0" fill="none" id="shape13" transform="translate(43.01,2.00)" stroke="#191919"/>
+        </g>
+        <g id="shape14" transform="translate(1436.00,1029.35)">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="6.5" y="34.5">若车在3号门</tspan>
+            </text>
+        </g>
+        <g id="shape15" transform="translate(1620.03,954.35)">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="23.5" y="25.0">主持人</tspan>
+                <tspan x="17.0" y="44.0">帮你排除</tspan>
+            </text>
+        </g>
+        <g id="shape16" transform="translate(1564.00,1081.50)">
+            <path d="M.0,.0L.0,32.0L133.0,32.0L133.0,6.0" fill="none" stroke="#191919"/>
+            <path stroke-linecap="round" d="M130.0,6.0L133.0,.0L136.0,6.0L130.0,6.0" fill="#191919" stroke="#191919" stroke-width="1"/>
+        </g>
+        <path d="M.0,.0L9.0,.0C11.5,-0.4,14.0,.5,15.8,2.2C17.5,4.0,18.4,6.5,18.0,9.0L18.0,32.0C17.6,34.5,18.5,37.0,20.2,38.8C22.0,40.5,24.5,41.4,27.0,41.0C24.5,40.6,22.0,41.5,20.2,43.2C18.5,45.0,17.6,47.5,18.0,50.0L18.0,73.0C18.4,75.5,17.5,78.0,15.8,79.8C14.0,81.5,11.5,82.4,9.0,82.0L.0,82.0" fill="none" id="shape17" transform="matrix(0.00,-1.00,-1.00,0.00,1702.1,811.6)" stroke="#999999"/>
+        <g id="shape18" transform="translate(1540.00,812.63)">
+            <path d="M.0,.0L47.0,.0L47.0,47.0L.0,47.0L.0,.0z" fill="#ffffff" fill-rule="nonzero" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="10.5" y="19.5">你选</tspan>
+                <tspan x="19.5" y="38.5">1</tspan>
+            </text>
+        </g>
+        <g id="shape19" transform="translate(1606.00,812.63)">
+            <path d="M.0,.0L47.0,.0L47.0,47.0L.0,47.0L.0,.0z" fill="#ffffff" fill-rule="nonzero" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="17.0" y="19.5">车</tspan>
+                <tspan x="19.5" y="38.5">2</tspan>
+            </text>
+        </g>
+        <g id="shape20" transform="translate(1673.00,812.63)">
+            <path d="M.0,.0L47.0,.0L47.0,47.0L.0,47.0L.0,.0z" fill="#ffffff" fill-rule="nonzero" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="19.5" y="29.0">3</tspan>
+            </text>
+        </g>
+        <g id="group21" transform="translate(1673.00,812.63)">
+            <path d="M.0,.0L63.7,.0" fill="none" id="shape22" transform="matrix(0.68,0.74,-0.74,0.68,0.0,-0.0)" stroke="#191919"/>
+            <path d="M.0,.0L-43.0,43.0" fill="none" id="shape23" transform="translate(43.01,2.00)" stroke="#191919"/>
+        </g>
+        <g id="shape24" transform="translate(1436.00,807.48)">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="6.5" y="34.5">若车在2号门</tspan>
+            </text>
+        </g>
+        <g id="shape25" transform="translate(1620.03,732.48)">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="23.5" y="25.0">主持人</tspan>
+                <tspan x="17.0" y="44.0">帮你排除</tspan>
+            </text>
+        </g>
+        <g id="shape26" transform="translate(1564.00,859.63)">
+            <path d="M.0,.0L.0,32.0L66.0,32.0L66.0,6.0" fill="none" stroke="#191919"/>
+            <path stroke-linecap="round" d="M63.0,6.0L66.0,.0L69.0,6.0L63.0,6.0" fill="#191919" stroke="#191919" stroke-width="1"/>
+        </g>
+        <g id="shape27" transform="translate(1538.00,893.23)">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="17.0" y="21.3">交换后,即中奖</tspan>
+            </text>
+        </g>
+        <g id="shape28" transform="translate(1570.00,1112.28)">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="17.0" y="21.3">交换后,即中奖</tspan>
+            </text>
+        </g>
+        <path d="M.0,.0L9.0,.0C11.5,-0.4,14.0,.5,15.8,2.2C17.5,4.0,18.4,6.5,18.0,9.0L18.0,218.3C17.6,220.8,18.5,223.3,20.2,225.1C22.0,226.9,24.5,227.7,27.0,227.3C24.5,227.0,22.0,227.8,20.2,229.6C18.5,231.4,17.6,233.9,18.0,236.3L18.0,445.7C18.4,448.2,17.5,450.7,15.8,452.4C14.0,454.2,11.5,455.0,9.0,454.7L.0,454.7" fill="none" id="shape29" transform="matrix(1.00,-0.00,0.00,-1.00,1749.0,1058.0)" stroke="#999999"/>
+        <g id="shape30" transform="translate(1540.00,588.96)">
+            <path d="M.0,.0L47.0,.0L47.0,47.0L.0,47.0L.0,.0z" fill="#ffffff" fill-rule="nonzero" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="10.5" y="19.5">你选</tspan>
+                <tspan x="9.0" y="38.5">1(车)</tspan>
+            </text>
+        </g>
+        <g id="shape31" transform="translate(1606.00,588.96)">
+            <path d="M.0,.0L47.0,.0L47.0,47.0L.0,47.0L.0,.0z" fill="#ffffff" fill-rule="nonzero" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="19.5" y="29.0">2</tspan>
+            </text>
+        </g>
+        <g id="shape32" transform="translate(1673.00,588.96)">
+            <path d="M.0,.0L47.0,.0L47.0,47.0L.0,47.0L.0,.0z" fill="#ffffff" fill-rule="nonzero" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="19.5" y="29.0">3</tspan>
+            </text>
+        </g>
+        <g id="group33" transform="translate(1673.00,588.96)">
+            <path d="M.0,.0L63.7,.0" fill="none" id="shape34" transform="matrix(0.68,0.74,-0.74,0.68,0.0,-0.0)" stroke="#191919"/>
+            <path d="M.0,.0L-43.0,43.0" fill="none" id="shape35" transform="translate(43.01,2.00)" stroke="#191919"/>
+        </g>
+        <g id="shape36" transform="translate(1436.00,583.81)">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="13.0" y="34.5">若车1号门</tspan>
+            </text>
+        </g>
+        <g id="shape37" transform="translate(1582.59,515.00)">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="59.0" y="19.5">主持人</tspan>
+                <tspan x="12.0" y="38.5">帮你排除2或3号门之一</tspan>
+            </text>
+        </g>
+        <g id="shape38" transform="translate(1564.00,635.96)">
+            <path d="M.0,.0L.0,32.0L66.0,32.0L66.0,6.0" fill="none" stroke="#191919"/>
+            <path stroke-linecap="round" d="M63.0,6.0L66.0,.0L69.0,6.0L63.0,6.0" fill="#191919" stroke="#191919" stroke-width="1"/>
+        </g>
+        <g id="shape39" transform="translate(1538.00,669.56)">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="15.0" y="21.5">交换后, 即失败</tspan>
+            </text>
+        </g>
+        <g id="shape40" transform="translate(1795.00,743.98)">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="4.5" y="71.0">所以, 无论车在那扇门后面,</tspan>
+                <tspan x="4.5" y="90.0">你不交换, 成功的概率是 1/3</tspan>
+                <tspan x="4.5" y="109.0">你交换后, 整体成功的概率是 1/3 + 1/3=2/3</tspan>
+            </text>
+        </g>
+        <path d="M.0,.0L9.0,.0C11.5,-0.4,14.0,.5,15.8,2.2C17.5,4.0,18.4,6.5,18.0,9.0L18.0,32.0C17.6,34.5,18.5,37.0,20.2,38.8C22.0,40.5,24.5,41.4,27.0,41.0C24.5,40.6,22.0,41.5,20.2,43.2C18.5,45.0,17.6,47.5,18.0,50.0L18.0,73.0C18.4,75.5,17.5,78.0,15.8,79.8C14.0,81.5,11.5,82.4,9.0,82.0L.0,82.0" fill="none" id="shape41" transform="matrix(0.00,-1.00,-1.00,0.00,1702.1,586.0)" stroke="#999999"/>
+    </g>
+</svg>
