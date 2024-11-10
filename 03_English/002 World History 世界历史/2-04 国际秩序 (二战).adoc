@@ -3,7 +3,7 @@
 :toc: left
 :toclevels: 3
 :sectnums:
-:stylesheet: myAdocCss.css
+:stylesheet: ../../myAdocCss.css
 
 '''
 
@@ -12,32 +12,96 @@
 
 === 为获得”生存空间”, 德国吞并波兰, 二战正式开始 (1939.9)
 
-To the east of Germany, the Treaty of Versailles had created an independent Poland and awarded parts of Germany to Poland in the process. This “Polish Corridor,” in an area where many Polish people already lived, was intended to give Poland access to a port, and the German city of Danzig (Gdańsk), bordering it, was made a semi-independent city-state with its own parliament. Poland was a prime target of the Nazis as they looked for Lebensraum.
+To the east of Germany, the Treaty of Versailles had created an independent Poland and *awarded* (v.)授予，颁发；判给，裁定 parts of Germany *to* Poland in the process. This “Polish Corridor 通道，过道；（一国领土通过他国境内的）走廊；狭长地带,” in an area where many Polish people already lived, was intended to give Poland access to a port 港口, and the German city of Danzig (Gdańsk), bordering (v.)和…毗邻；与…接壤 it, was made a semi-independent city-state 城邦 with its own parliament. Poland was a prime target of the Nazis as they looked for Lebensraum （德）生存空间.
 
+[.my2]
 在德国东部，"凡尔赛条约"建立了一个独立的波兰，并在此过程中将德国的部分领土划归波兰。这条“波兰走廊”位于许多波兰人已经居住的地区，旨在让波兰能够进入一个港口，而与其接壤的德国城市"但泽"（Gdańsk）则成为一个半独立的城邦，其自己的议会。 波兰是纳粹寻找"生存空间"的首要目标。
+
+[.my1]
+.title
+====
+.Polish Corridor
+波兰走廊.
+
+[.my3]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|地理位置
+|是德国在1919年根据凡尔赛条约割让予波兰的一块狭长领土，现在是波兰的领土. 在北端，走廊的宽度仅仅有40公里长，将"东普鲁士"与德国其他领土分开。
+
+image:/img/Polish Corridor.png[,80%]
+
+image:/img/Gdansk.png[,100%]
+
+
+
+
+重要港口"但泽"（今"格但斯克"）的居民绝大多是德国人，如果公投，必然导致它归于德国，于是国际联盟在没有准许公投的情况下，把该港变为受它保护的"但泽自由市"。 +
+不过为了减少对"但泽"的依赖，波兰在附近建立了新的海港"Gdynia 格丁尼亚"。
+
+|其存在的目的
+|当时领土分配是基于三项考虑, 其中之一是: 政经原因. 波兰人认为，**如果新独立的波兰没有延伸至波罗的海的海岸线，他便会在经济、以至政治上依赖德国。**英国与法国都希望借着波兰来制衡德国，故支持。
+
+
+|对德国的影响
+|- 由于德国领土被一分为二，东普鲁士的经济发展被严重阻碍。
+- 所有二战前的德国政府，都拒绝根据凡尔赛条约下的德国东部边界。
+|===
+
+
+
+.Lebensraum
+生存空间.源自德国地理学家"拉采尔", 提出的"国家有机体"学说. 他利用生物学概念, 与当时流行的"社会达尔文主义"结合，
+
+
+
+
+
+
+
+
+====
+
 
 Access to the Sea. The twenty-mile-wide Polish Corridor was meant to give Poland access to a port after World War I, separating two parts of Germany in order to do so.
 
+[.my2]
 出海通道。二十英里宽的波兰走廊, 原本是为了让波兰在第一次世界大战后能够进入港口，从而将德国分为两部分。
 
 image:img/0054.jpg[,100%]
 
-The lessons learned from Hitler’s violation of the Munich Pact spurred Britain and France to take action to protect Poland.
+The lessons learned from Hitler’s violation （对法律、协议、原则等的）违背，违反 of the Munich Pact 慕尼黑公约 spurred （尤指用马刺）策（马）加速;鞭策；激励；刺激；鼓舞 Britain and France to take action to protect Poland.
 
-They have also been invoked by world leaders ever since, whenever the aggression of one nation threatens the sovereignty or the territorial integrity of another. Using the example of Munich to warn against the perils of allowing one nation to invade another without opposition, whether it be Hitler’s Germany or Putin’s Russia, is known as invoking the Munich Analogy.
+They have also been invoked 援引，援用（法律、规则等作为行动理由） by world leaders ever since 从那时起一直, whenever the aggression of one nation threatens (v.) ① the sovereignty 主权，最高统治权，主权国家 or ② the territorial integrity (完整；完好)领土完整 of another. Using the example of Munich to warn against _the perils 事故；风险 of allowing one nation to invade another without opposition_, whether it be Hitler’s Germany or Putin’s Russia, is known as invoking 提及，援引（某人、某理论、实例等作为支持） the Munich Analogy 类比；比拟；比喻.
 
-希特勒违反"慕尼黑条约"的教训, 促使英国和法国采取行动, 保护波兰。
-
+[.my2]
+希特勒违反"慕尼黑条约"的教训, 促使英国和法国采取行动, 保护波兰。 +
 从那时起，每当一个国家的侵略威胁到另一个国家的主权或领土完整时，世界领导人就会援引这些原则。以慕尼黑事件为例来警告，不管一个国家是希特勒的德国, 还是普京的俄罗斯，允许一个国家侵略另一个国家而不反对它, 是很危险的，这被称为"援引慕尼黑类比"。
 
-The key to whether Germany could be boxed in was the attitudes of Stalin and the Soviet Union. As early as the summer of 1938, Stalin began to think of making some sort of deal with Germany.
+The key to whether Germany could *be boxed (v.) in* 围困；拦挡;阻挡；阻碍 was the attitudes of Stalin and the Soviet Union 苏联. As early as the summer of 1938, Stalin began to think of making some sort of deal with Germany.
 
-Stalin, aware of Hitler’s musings in his book Mein Kampf, understood the long-term threat Germany posed and sought to buy time to prepare for possible war. For his part, Hitler wanted to avoid Germany’s World War I mistake of fighting on two fronts simultaneously. The result was the German- Soviet Nonaggression Pact of August 23, 1939.
+[.my1]
+.title
+====
+.box (v.) sb/sth ˈin
+(1)to prevent sb/sth from being able to move by surrounding them with people, vehicles, etc. 围困；拦挡 +
+• Someone had parked behind us and boxed us in.有人把车停在我们后面，困住了我们。
 
-In this pact, Germany and the USSR agreed not to attack one another or to assist other nations in attacking the other. Included in the agreement were secret protocols that essentially divided eastern Europe between Germany and the Soviet Union. Lithuania, Latvia, Estonia, and parts of eastern Poland were allocated to the USSR as a reward for cooperating with Germany in the dismemberment of Poland.
+(2)[ usually passive] ( of a situation处境 ) to prevent sb from doing what they want by creating unnecessary problems 阻挡；阻碍 +
+• She felt boxed in by all their petty rules.她觉得被他们的琐碎规章束缚住了手脚。
 
-Seeing the pact as an ominous green light for a German eastward thrust, two days later Britain signed a mutual defense agreement with Poland.
+====
 
+Stalin, aware of Hitler’s musings (n.)沉思；冥思；冥想 in his book _Mein Kampf_ 我的奋斗, understood the long-term threat Germany posed and sought to buy time to prepare for possible war. For his part, Hitler wanted to avoid Germany’s World War I mistake of fighting on two fronts simultaneously 同时地. The result was _the German- Soviet Nonaggression 不侵略，不侵犯 Pact_ of August 23, 1939.
+
+In this pact, Germany and the USSR agreed not to attack one another or to assist other nations in attacking the other. Included in the agreement were secret protocols (n.)条约草案；议定书；（协议或条约的）附件 that essentially 本质上，根本上；大体上，基本上 divided eastern Europe between Germany and the Soviet Union. Lithuania, Latvia, Estonia, and parts of eastern Poland were allocated (v.)拨…（给）；划…（归）；分配…（给） to the USSR as a reward for cooperating with Germany in the dismemberment 肢解；分割 of Poland.
+
+Seeing the pact 条约，协议，公约 as an ominous (a.)预兆的，不吉利的 green light 准许；许可；绿灯 for a German eastward thrust 猛推；刺；戳；插, 强攻，挺进, two days later Britain signed a mutual defense agreement with Poland.
+
+[.my2]
+====
 德国能否被围困，关键在于斯大林和苏联的态度。早在1938年夏天，斯大林就开始考虑与德国达成某种协议。斯大林从希特勒的著作《我的奋斗》中, 认识到德国将构成长期威胁，并寻求争取时间, 为可能的战争做好准备。
 
 就希特勒而言，他希望避免德国在一战中"同时在两条战线上作战"的错误。结果就是 1939 年 8 月 23 日签订了"德苏互不侵犯条约"。
@@ -45,34 +109,83 @@ Seeing the pact as an ominous green light for a German eastward thrust, two days
 在该条约中，德国和苏联同意互不攻击，也不协助其他国家攻击对方。该协议中包含的秘密协议, 基本上将东欧划分为德国和苏联。立陶宛、拉脱维亚、爱沙尼亚, 和波兰东部部分地区, 被分配给苏联，作为"与德国合作来瓜分波兰"的奖励。
 
 两天后，英国与波兰签署了共同防御协议，该协议为德国东进打开了不祥的绿灯。
+====
 
-All things seemed ready for the German onslaught, which was launched on September 1, 1939. Britain and France fulfilled their commitment to Poland and declared war on Germany, forming the partnership known as the Allies, but not on the Soviet Union.
+image:/img/German- Soviet Nonaggression Pact 2.webp[,50%]
 
-About two weeks later, Soviet forces invaded Poland from the east. Crushed from two sides, Poland essentially ceased to exist. The European fires of World War II had been ignited.
+image:/img/German- Soviet Nonaggression Pact.webp[,100%]
 
-1939 年 9 月 1 日， 德国发起猛烈的进攻，一切似乎都准备好了。英国和法国履行了对波兰的承诺，向德国宣战，形成了被称为"同盟国"的伙伴关系，但没有对苏联宣战。
 
+
+All things seemed ready for the German onslaught (n.)攻击；猛攻, which was launched on September 1, 1939. Britain and France fulfilled 实现；完成；履行，执行；使满足 their commitment to Poland and declared war #on# Germany, forming the partnership 伙伴关系;合作关系；合作 known as the Allies, but not #on# the Soviet Union.
+
+About two weeks later, Soviet forces invaded Poland from the east. Crushed from two sides, Poland essentially ceased （使）停止，终止，结束 to exist. The European fires of World War II had been ignited.
+
+[.my2]
+1939 年 9 月 1 日， 德国发起猛烈的进攻，一切似乎都准备好了。英国和法国履行了对波兰的承诺，向德国宣战，形成了被称为"同盟国"的伙伴关系，但没有对苏联宣战。 +
 大约两周后，苏联军队从东部入侵波兰。波兰从两侧被压垮， 基本上不复存在。第二次世界大战的欧洲战火已被点燃。
+
+[.my1]
+.title
+====
+.onslaught
+-> on,在上，向上，-slaught,攻击，屠杀，词源同slay,slaughter.
+====
 
 '''
 
 === 法德边境, 静坐战争 (1939-1940冬)
 
-The British quickly discovered there was no practical way to render much assistance to the Poles. Instead, they relied on the French to engage the Germans. But the French felt they could not sustain an offensive against Germany’s western front. They preferred to prepare their defenses for an eventual German offensive against France. Britain joined the French by deploying the British Expeditionary Force (BEF) to defend the French-Belgian border. By then, Poland was already lost and had been folded into Hitler’s plans of dominating Europe.
+The British quickly discovered there was no practical 真实的，实际的；（计划、方法等）切实有效的，切实可行的 way to render (v.)使成为，使处于某种状态；给予，提供 much assistance 帮助，援助 to the Poles. Instead, they relied on the French to engage 与……交战，开战;与…建立密切关系；尽力理解 the Germans. But the French felt they could not sustain (v.)维持，保持 an offensive (n.)（军事）进攻，攻势 against Germany’s western front. They preferred to prepare their defenses for an eventual (a.)最终的，结局的 German offensive against France. Britain joined the French by deploying 部署，调度（军队或武器） the British Expeditionary 远征的；探险的；讨伐的 Force (BEF) to defend the French-Belgian border. By then, Poland was already lost and had been *folded 把…调入；拌入 into* Hitler’s plans of dominating 支配；统治 Europe.
 
-During the winter of 1939–1940, little action took place on the French-German border save for a few clashes of patrols and reconnaissance units. That period of waiting has sometimes been referred to as the Phony War or, derisively, as the sitzkrieg (“sitting war”).
+[.my1]
+.title
+====
+.render
+[ VN-ADJ] ( formal ) to cause sb/sth to be in a particular state or condition 使成为；使变得；使处于某状态 +
+SYN make +
+• to render sth harmless/useless/ineffective 使某事物无害╱无用╱无效
 
-英国人很快发现, 没有切实可行的方法能向波兰人提供大量援助。取而代之，他们依靠法国人来与德国人交战。 但是法国人觉得他们无法维持对德国西线的进攻。他们更愿意为德国对法国的最终进攻做好防御准备。英国加入了法国的行列，部署了英国远征军（BEF）来保卫法国和比利时的边界。那时，波兰已经失守，并被纳入希特勒称霸欧洲的计划之中。
+(v.)~ sth (to sb/sth) | ~ (sb) sth :( formal ) to give sb sth, especially in return for sth or because it is expected 给予；提供；回报
+[ VNVNN]
+• to render a service to sb 给某人提供服务
 
+.fold (v.) sth in |fold sth into sth
+( in cooking 烹饪 ) to add one substance to another and gently mix them together 把…调入；拌入 +
+• *Fold (v.) in* the beaten egg whites. 调入打好的蛋白。
+
+====
+
+During the winter of 1939–1940, little action took place on the French-German border *save for* 除……之外;保存；存盘 a few clashes 冲突 of patrols 巡逻队 and reconnaissance (n.)侦察；勘测 units. That period of waiting has sometimes been *referred to as* 被称为 _the Phony 伪造的，假的 War_ or, derisively 嘲弄地；嘲笑地, as the sitzkrieg 胶着战；长期战 (“sitting war”).
+
+[.my2]
+英国人很快发现, 没有切实可行的方法能向波兰人提供大量援助。取而代之，他们依靠法国人来与德国人交战。 但是法国人觉得他们无法维持对德国西线的进攻。他们更愿意为德国对法国的最终进攻做好防御准备。英国加入了法国的行列，部署了英国远征军（BEF）来保卫法国和比利时的边界。那时，波兰已经失守，并被纳入希特勒称霸欧洲的计划之中。 +
 1939 年至 1940 年冬季，除了巡逻和侦察部队的几次冲突外，法德边境几乎没有什么行动。这段等待时期, 有时被称为“虚假战争”，或者被嘲笑为“静坐战争”。
+
+[.my1]
+.title
+====
+.reconnaissance
+-> 来自 re-, 再，重新，con-,表强调，-gn,知道，了解，词源同 know,note.-ss,过去分词格，-ance,名词后缀。 拼写比较 renaissance.引申词义侦察。
+====
 
 '''
 
 === 德国进军挪威, 丹麦 (1940.4.09)
 
-The German advance westward began with some forays into Norway and Denmark to the north on April 9, 1940. Not wanting to provoke German invasions, both Belgium and the Netherlands declared neutrality. This disadvantaged the British and French, since they were then not allowed to coordinate defenses with Dutch and Belgian forces or station troops in their territory.
+The German advance (n.) westward began with some forays 突袭，短暂的尝试;（改变职业、活动的）尝试 into Norway and Denmark to the north on April 9, 1940. Not wanting to provoke (v.)激起；引起;挑衅；激怒 German invasions, both Belgium and the Netherlands declared neutrality (n.)中立，中立状态. This disadvantaged (v.)使处于不利地位 the British and French, since they were then not allowed to coordinate 协调，配合 defenses with Dutch and Belgian forces or station  (v.)派驻；使驻扎 troops in their territory  领土，版图，领地.
 
+[.my2]
 德国向西进军, 始于 1940 年 4 月 9 日对北部的挪威和丹麦的进攻。为了避免德国的入侵，比利时和荷兰都宣布中立。这使英国和法国处于不利地位，因为他们不被允许与荷兰和比利时军队协调防御，也不允许在他们的领土上驻军。
+
+[.my1]
+.title
+====
+如果开头写成 The Germans' advance (n.) westward ... 也是正确的.
+两种表达的比较： +
+The German advance westward: 这是"名词短语"作主语，强调的是“德国的推进”这个动作本身。 +
+The Germans' advance westward: 这是"所有格形式的名词短语"作主语。, 强调的是“德国人”这个主语，是他们发起了向西的推进。
+====
 
 '''
 
@@ -80,96 +193,154 @@ The German advance westward began with some forays into Norway and Denmark to th
 
 Auschwitz in western Poland was the largest of the death camps, originally constructed in 1940 to hold Polish political prisoners. It became a death camp in 1941 when Polish and Soviet prisoners were executed there.
 
-That same year, a new camp (known as Auschwitz II or Birkenau) was built nearby. Its main purpose was to kill Jewish people who were brought on freight trains from all over Europe. Other camps also existed at Auschwitz, including labor camps where prisoners worked for the chemical company I.G. Farben.
+That same year, a new camp (known as Auschwitz II or Birkenau) was built nearby. Its main purpose was to kill Jewish people who were brought on freight (n.)（海运、空运或陆运的）货物；货运 trains from all over Europe. Other camps also existed at Auschwitz, including labor camps where prisoners worked for the chemical company I.G. Farben.
 
-Some 1.3 million people were sent to Auschwitz-Birkenau before Heinrich Himmler, the leader of the SS, ordered the camp closed and evacuated in January 1945 as the Soviet army rapidly advanced on it. Of these 1.3 million, 1.1 million would die there. The vast majority, nearly one million, were Jewish.
+[.my1]
+.title
+====
+.freight
+[ U]goods that are transported by ships, planes, trains or lorries/trucks; the system of transporting goods in this way （海运、空运或陆运的）货物；货运 +
+• to send goods by air freight空运货物 +
+• a freight business货运公司 +
+====
 
+Some 1.3 million people were sent to Auschwitz-Birkenau before Heinrich Himmler 人名 , the leader of the SS 党卫队, ordered the camp closed and evacuated in January 1945 as the Soviet army rapidly *advanced （为了进攻、威胁等）前进，行进 on* it. Of these 1.3 million, 1.1 million would die there. The vast majority, nearly one million, were Jewish (a.)犹太人的.
+
+[.my2]
+====
 波兰西部的"奥斯威辛集中营"是最大的死亡营，最初建于 1940 年，用于关押波兰政治犯。 1941 年，波兰和苏联囚犯被处决，这里成为死亡营。
 
 同年，附近建立了一个新营地（称为"奥斯威辛二号"或"比克瑙"）。其主要目的是杀害从欧洲各地通过货运火车运来的犹太人。奥斯威辛集中营还存在其他营地， 包括劳改营，囚犯在那里为化学公司I.G.法本（I.G. Farben）工作。
 
 1945 年 1 月，随着苏联军队迅速向该集中营推进，党卫军领导人海因里希·希姆莱(Heinrich Himmler) 下令关闭并清空该集中营. 而在此之前，有约 130 万人被送往奥斯威辛-比克瑙集中营。这130万人中，有110万人会死在那里。其中绝大多数（近百万）是犹太人。
+====
+
+[.my1]
+.title
+====
+.The vast majority were Jewish(a.).
+在英语中，形容词有时可以充当名词，尤其是在指代一类人时。这里 "were Jewish" 使用形容词 Jewish 是为了指代“犹太人”这一群体。这种用法被称为 adjectival noun，在上下文清晰的情况下，形容词作为补语或谓语补充信息，可以不需要显性名词。例如： +
+The rich 表示“有钱人” +
+The elderly 表示“老年人” +
+在你的例子中，Jewish 作为形容词已经足够明确地指代“犹太人”群体，不需要额外的名词。
+====
 
 '''
 
 === 德国进军法国 (1940.5)
 
-The Germans then launched their full westward offensive on May 10, 1940. Within a matter of weeks, German troops had overrun western Europe, storming through the Netherlands, Luxembourg, and Belgium and into France, avoiding the Maginot Line, a system of fortifications and weapons installations that had been built on the French border in the 1930s in order to protect France from another German invasion.
+The Germans then launched their full westward offensive on May 10, 1940. Within *a matter of* 只有几个小时、几分钟（或几英寸、几米等）之多；不多于 weeks, German troops had overrun 泛滥；横行；肆虐 western Europe, storming 突袭；攻占 through the Netherlands, Luxembourg, and Belgium and into France, avoiding the Maginot 马其诺 Line, a system of fortifications 防御工事 and weapons installations 设施；装置 that had been built on the French border in the 1930s in order to protect France from another German invasion.
 
+[.my2]
 1940年5月10日，德国人开始全面向西进攻。在几周内，德国军队占领了西欧，突袭了荷兰、卢森堡和比利时，进入法国，避开了马其诺防线。马其诺防线是20世纪30年代为保护法国免遭德国再次入侵而, 在法国边境修建的防御工事和武器设施系统。
 
 '''
 
 === 英法 敦刻尔克撤退, 保留住军队主力 (1940.6)
 
-Early in the morning of May 23, 1940, the British commander in France, seeing the perils of his position, gave the order to begin a withdrawal toward Dunkirk on the French coast. Eventually, this culminated in the extraordinary evacuation across the English Channel of much of the BEF and thousands of French and other Allied forces between June 15 and 25 using every British boat capable of crossing the Channel. The retreat saved 200,000 troops.
+Early in the morning of May 23, 1940, the British commander in France, seeing the perils 严重危险;祸害；险情 of his position, gave the order to begin a withdrawal toward Dunkirk on the French coast. Eventually, this *culminated (v.)（以某种结果）告终；（在某一点）结束 in* the extraordinary (a.)异乎寻常的，令人惊奇的；非凡的，卓越的 #evacuation# 撤离，疏散 across the English Channel #of# much of the BEF and thousands of French and other Allied forces between June 15 and 25 using every British boat capable of crossing the Channel. The retreat saved 200,000 troops.
 
+[.my2]
 1940年5月23日清晨，在法国的英国指挥官，看到了自己的处境的危险，下令开始向法国海岸的敦刻尔克撤退。最终，6 月 15 日至 25 日期间， 英国远征军的大部分人员, 以及数千名法国和其他盟军部队, 使用每艘能够穿越英吉利海峡的英国船只， 从英吉利海峡进行了非同寻常的疏散。这次撤退拯救了20万军队。(保存有生力量，而不是像国民党在淞沪会战中被日军吃掉精锐主力)
+
+[.my1]
+.title
+====
+.culminate
+(v.) ~ (in/with sth) : ( formal ) to end with a particular result, or at a particular point（以某种结果）告终；（在某一点）结束 +
+- Months of hard work culminated (v.) in success.几个月的艰辛工作终于取得了成功。 +
+-> 来自拉丁语culmen,顶点，词源同hill,column.
+====
 
 '''
 
 === 贝当出任法国总理, 与德国合作 (1940.6)
 
-French prime minister Paul Reynaud resigned rather than sign the armistice agreement with Germany in June 1940. Instead, Marshall Philippe Pétain, a hero of World War I, became the prime minister of a truncated French government based in Vichy, France, that, although nominally independent, cooperated with Germany.
+French prime minister Paul Reynaud resigned rather than sign the armistice 停战，休战；休战协议 agreement with Germany in June 1940. Instead, Marshall Philippe Pétain, a hero of World War I, became the prime minister of a truncated 截短，缩短，删节（尤指掐头或去尾） French government based in Vichy 城市名, France, that, although nominally (ad.)名义上地；有名无实地independent, cooperated with Germany.
 
+[.my2]
 1940 年 6 月，法国总理保罗·雷诺, 没有与德国签署停战协定，而是选择辞职。取而代之，第一次世界大战英雄菲利普·贝当元帅, 出任法国维希政府的总理. 这个政府虽然名义上是独立的，但与德国合作。
+[.my1]
+
+.title
+====
+.truncate
+[ VN][ usually passive] ( formal ) to make sth shorter, especially by cutting off the top or end 截短，缩短，删节（尤指掐头或去尾）
+•My article was published in truncated form. 我的文章以节录的形式发表了。
+====
+
 
 '''
 
 === 德意日 <三国公约> (1940.9)
 
-The remarkable success of the German blitzkrieg in Europe during the summer of 1940 presented the Japanese military with some significant strategic opportunities. For instance, the isolation of European colonies in Asia might make them ripe for seizing. Consequently, to provide for mutual defense and perhaps to frighten the United States away from giving more substantial assistance against them, Japan joined Germany and Italy in the defensive military alliance called the Tripartite Pact in September 1940.
+The remarkable success of the German blitzkrieg 闪电战；突然袭击 in Europe during the summer of 1940 presented 把…交给；颁发；授予 the Japanese military with some significant strategic opportunities. For instance, the isolation of European colonies in Asia might make them ripe (a.)(水果或庄稼)成熟的,时机成熟的；适宜的 for seizing. Consequently, to provide for mutual defense and perhaps to frighten (v.)使惊吓，使惊恐 the United States away from giving more substantial assistance 实质性协助 against them, Japan joined Germany and Italy in the defensive military alliance 防御性军事同盟 called the Tripartite (a.)由三部分组成的；分成三部分的；三方的 Pact in September 1940.
 
-(Japan and Germany had earlier signed the Anti-Comintern Pact against the Soviet Union, which Japan saw as a rival for dominance in Asia, in 1936, and Italy had joined in a year later. Japan had parted ways with Germany in 1939, however, when the German-Soviet Nonaggression Pact was signed, and a new agreement was thus in order.)
+(Japan and Germany had earlier signed the Anti-Comintern 共产国际 Pact against the Soviet Union, which Japan saw as a rival 竞争对手，敌手 for dominance (n.)优势，支配地位 in Asia, in 1936, and Italy had joined in a year later. Japan had *parted (v.)离开；分别 ways with* 离开；分手；断绝关系  Germany in 1939, however, when the German-Soviet Nonaggression Pact was signed, and a new agreement was thus in order 为了达到特定的目标或结果.)
 
-1940 年夏天，德国在欧洲的闪电战取得了巨大成功，为日本军队提供了一些重要的战略机遇。例如， 欧洲在亚洲的殖民地被孤立，可能会让它们成为被夺取的时机。因此，为了提供共同防御，或许也是为了吓唬美国，使其不再向他们提供更多实质性援助，日本于 1940 年 9 月与德国和意大利一起组成了防御性军事联盟，称为“三国公约” 。
-
+[.my2]
+1940 年夏天，德国在欧洲的闪电战取得了巨大成功，为日本军队提供了一些重要的战略机遇。例如， 欧洲在亚洲的殖民地被孤立，可能会让它们成为被夺取的时机。因此，为了提供共同防御，或许也是为了吓唬美国，使其不再向他们提供更多实质性援助，日本于 1940 年 9 月与德国和意大利一起组成了防御性军事联盟，称为“三国公约” 。 +
 (早在1936年，日本和德国曾签署了反共产国际协定, 以对抗苏联——日本认为苏联是其在亚洲称霸的竞争对手，而意大利则于一年后加入。然而，在1939年德国与苏联签署《德苏互不侵犯条约》后，日本与德国分道扬镳，因此需要达成一项新的协议。)
 
 '''
 
 === 英德空战 (1940 秋), 使德国终究无法入侵英国本土
 
-Hitler planned to finish off Britain with a cross-channel invasion using air and submarine bases in both Norway, which had surrendered in June 1940, and northern France. Through the late summer and into the fall of 1940, the Battle of Britain raged in the skies over Britain as a duel between the German Luftwaffe and the Royal Air Force (RAF). The Germans initially focused their attacks on shipping in the English Channel and then began to bomb weapons-production facilities.
+Hitler planned *to finish off* 杀死，彻底摧毁（已严重受伤或受损的人或事物） Britain with a cross-channel invasion using air and submarine bases in both Norway, which had surrendered 投降，让与；屈服 in June  六月 1940, and northern France. Through the late summer and into the fall of 1940, the Battle of Britain raged  六月 in the skies over Britain as a duel 决斗 between the German Luftwaffe 纳粹德国空军 and the Royal Air Force (RAF). The Germans initially *focused* their attacks *on* shipping (n.)（总称）船舶；航运，运输；运费 in the English Channel and then began to bomb (v.) weapons-production facilities 设施；工具，设备.
 
-Aided in part by the innovation of radar, which gave some advance warning of German onslaughts, the RAF prevailed.
+Aided 帮助 in part by the innovation of radar, which gave some advance 预先的；事先的 warning of German onslaughts 攻击；猛攻, the RAF prevailed 获胜.
 
-When the Luftwaffe shifted its focus from military to civilian targets, particularly the bombing of London, it inadvertently gave the British the opportunity to rebuild their airfields and defense plants and assemble more planes.
+[.my1]
+.title
+====
+.prevail
+-> pre-,在前，领先，-vail,价值，.力量，词源同avail,value.即在力量上超过，胜利，引申词义盛行，流行等。
+====
 
+When the Luftwaffe shifted its focus from military to civilian targets, particularly the bombing of London, it inadvertently 无意地，不经意地 gave the British the opportunity to rebuild their airfields  飞机场 and defense plants 工厂 and assemble (v.)装配；组装 more planes.
+
+[.my2]
 希特勒计划利用 1940 年 6 月投降的挪威和法国北部的空军和潜艇基地，通过跨海峡入侵, 来消灭英国。 从夏末, 到 1940 年秋天，不列颠之战在英国上空激烈进行，是德国空军和英国皇家空军(RAF) 之间的对决。德国人最初将攻击重点放在英吉利海峡的航运上，然后开始轰炸武器生产设施. 英国皇家空军取得了胜利，这在一定程度上得益于雷达的创新. 当德国空军将重点从军事目标, 转向民用目标时，特别是对伦敦的轰炸，无意中给了英国人重建机场和国防工厂, 以及组装更多飞机的机会。
 
 '''
 
 === 德国空军失败后, 德国转向用潜艇封锁英国 (1940夏开始)
 
-With the Luftwaffe struggling in the summer of 1940, the responsibility for subduing England increasingly fell to the German submarine fleet, on the theory that England could be starved to death.
+With the Luftwaffe struggling 奋斗；努力；争取 in the summer of 1940, `主` the responsibility 责任，负责 for subduing (v.)制伏；征服；控制 England `谓` increasingly fell to the German submarine fleet, on the theory that England could be starved 挨饿，饿死 to death.
 
+[.my2]
 1940 年夏天，德国随着其空军陷入困境，征服英国的责任越来越多地落到了德国潜艇舰队身上，因为他们认为英国可能会被封锁饿死。
 
 '''
 
 === 美国的战略, 先击败意大利和德国, 再对付日本 → D计划 (欧洲优先, 1940)
 
-Britain and the United States planned early in the war to focus on defeating Italy and Germany before Japan but left the Soviet Union to battle Germany alone.
+Britain and the United States planned early in the war *to focus on* defeating 击败；战胜 Italy and Germany before Japan but left the Soviet Union to battle Germany alone.
 
-Beginning in 1938 and through the spring of 1941, U.S. military leaders produced several plans of action in the event of war with the Axis powers. Immediately after winning an unprecedented third term in 1940, Roosevelt was briefed by his chief of naval operations, Admiral Harold R. Stark, who advised him that the best military strategy was “Plan D”—a Europe First plan. This focused the United States and Britain on defeating Germany and Italy first and adopting a defensive posture against Japan if it entered the war.
+Beginning in 1938 and through the spring of 1941, U.S. military leaders produced several plans of action *in the event of* 万一,如果（某事）发生 war with the Axis powers. Immediately 立即，马上 after winning an unprecedented  前所未有的，史无前例的 third term in 1940, Roosevelt was briefed (v.)给（某人）指示；向（某人）介绍情况;向（辩护律师）提供案情摘要 by his _chief 首要的，主要的;领袖，首领 of naval operations_ 海军作战部长, Admiral Harold R. Stark, who advised him that the best military strategy was “Plan D” —a Europe First plan. This *focused* the United States and Britain *on* defeating Germany and Italy first and adopting 采纳，采用 a defensive posture （坐或立的）姿势；态度，立场 against Japan if it entered the war.
 
-英国和美国在战争初期, 计划集中精力在日本之前先击败意大利和德国，但让苏联只与德国作战。
 
+[.my2]
+英国和美国在战争初期, 计划集中精力在日本之前先击败意大利和德国，但让苏联只与德国作战。 +
 从 1938 年开始一直到 1941 年春，美国制定了数项对轴心国的行动计划。 1940 年史无前例地赢得第三个任期后，罗斯福立即听取了海军作战部长"哈罗德·R·斯塔克"上将的简报，后者建议他最好的军事战略是“D 计划”——欧洲优先计划。这使得美国和英国的重点, 是首先击败德国和意大利，如果日本参战，则对日本采取防御姿态。
 
 '''
 
 === 苏联的备战 (1939-1941)
 
-The defeat of Poland removed a buffer between German-occupied and Soviet territory. When Germany invaded Poland on September 1, 1939, Stalin began to take steps to prepare the USSR for what might happen next.
+The defeat 击败，战胜 of Poland removed a buffer 起缓冲作用的人（物） between German-occupied and Soviet territory. When Germany invaded Poland on September 1, 1939, Stalin began to take steps to prepare the USSR for what might happen next.
 
-At the end of 1939, he launched the “Winter War” against Finland to obtain territory near Leningrad (the city formerly known as St. Petersburg or Petrograd) that would bolster Soviet defenses.
+At the end of 1939, he launched the “Winter War” against Finland to obtain territory near Leningrad 列宁格勒 (the city formerly known as St. Petersburg or Petrograd) that would bolster 增强，激励；巩固（地位） Soviet defenses.
 
-In April 1941, the Soviets signed a Neutrality Pact with Japan, freeing both nations from the prospect of a multiple-front war.
 
-The Kremlin in Moscow received a continuous stream of intelligence warning of an impending invasion. After receiving one such report outlining German battle plans, Stalin called up half a million reservists. Yet, fearing to provoke the Germans into action, he was cautious with his forces.
+image:/img/Leningrad.webp[,100%]
 
+In April 1941, the Soviets signed a Neutrality 中立，中立状态 Pact with Japan, freeing both nations from the prospect 可能性；希望;前景；展望；设想 of a multiple-front war.
+
+The Kremlin 克里姆林宫 in Moscow received _a continuous stream 小河，小溪；一连串，源源不断（的事情) of_ intelligence warning of an impending 即将发生的，逼近的；悬挂的 invasion. After receiving one such report outlining 概述，略述；勾勒，描画……的轮廓 German battle plans, Stalin called up 召集；召唤 half a million reservists 预备役军人；后备军战士. Yet, fearing to provoke 激起，激励，刺激；挑衅 the Germans into action, he was cautious (a.)小心的，谨慎的 with his forces.
+
+[.my2]
+====
 波兰的失败, 消除了德国占领区和苏联领土之间的缓冲区。 1939 年 9 月 1 日德国入侵波兰时，斯大林开始采取措施, 让苏联做好应对接下来可能发生的事情的准备:
 
 1939年底，他对芬兰发动了“冬季战争”， 以获得"列宁格勒"（该城市以前称为"圣彼得堡"或"彼得格勒"）附近的领土，以加强苏联的防御。
@@ -177,18 +348,88 @@ The Kremlin in Moscow received a continuous stream of intelligence warning of an
 1941 年 4 月，苏联与日本签署了中立条约，使两国摆脱了多线战争的前景。
 
 莫斯科克里姆林宫不断收到有关即将发生入侵的情报警告。在收到一份概述德国作战计划的报告后，斯大林召集了五十万预备役军人。 然而，由于担心激怒德国人采取行动，他对使用自己的部队非常谨慎。
+====
 
 '''
 
 === 意大利入侵非洲, 英国反击, 德国帮忙意大利 (1940-1941)
 
-Mussolini decided to expand his African holdings and in August 1940 occupied British Somaliland, threatening the British in Egypt. The British counterattacked. Losing ground in Africa from June through December 1940, Mussolini turned his eyes on the Balkans. In October 1940, expecting an easy victory, Italian units invaded Greece but were badly defeated.
+Mussolini decided to expand his African holdings and in August 1940 occupied British Somaliland 地名, threatening the British in Egypt. The British counterattacked 反击，反攻. Losing ground in Africa from June through December 1940, Mussolini turned his eyes on 把目光转向 the Balkans 巴尔干半岛地区. In October 1940, expecting 期待,企盼 an easy victory, Italian units invaded Greece but were badly defeated.
 
-To forestall further disaster, Hitler dispatched General Erwin Rommel and his Afrika Korps to duel with the British in northeast North Africa. Not only did Germany wish to support its Italian ally, but it also sought to gain control of the Suez Canal and guarantee its access to Middle Eastern oil, which would be crucial in winning the war. To further aid his faltering ally and deal with an anti-German uprising in Yugoslavia, Hitler postponed his invasion of the Soviet Union by several weeks and invaded Greece on April 6, 1941.
+image:/img/Somaliland 2.webp[,48%]
+image:/img/Somaliland.jpg[,48%]
 
-墨索里尼决定扩大其非洲领土，并于 1940 年 8 月占领"英属索马里兰"，威胁埃及的英国人。英国人发起反击。 1940 年 6 月至 12 月，墨索里尼在非洲节节败退，他将目光投向了巴尔干地区。 1940 年 10 月，意大利军队本以为能轻松获胜，于是入侵希腊，但遭到惨败。
+[.my1]
+.title
+====
+.Balkans
+巴尔干半岛.
 
+
+
+[.my3]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|地理位置
+|- 用以描述欧洲的东南隅位于"亚得里亚海"和"黑海"之间的陆地. 约55万平方公里. 目前，广义的巴尔干半岛共有11个国家，总面积为47.6万平方公里.
+- 南临地中海重要航线，东有”博斯普鲁斯海峡“和”达达尼尔海峡“， 扼黑海的咽喉，战略位置极为重要。
+- 南欧相邻地中海的三大半岛，从东向西分别为: 巴尔干半岛、意大利半岛（亚平宁半岛）、伊比利亚半岛。
+
+image:/img/Balkan_Peninsula.png[,50%]
+
+|名称来历
+|该地区的名称, 来自于巴尔干山脉。
+
+|现有国家
+|大部分现有的巴尔干民族国家, 出现于19世纪到20世纪初。他们分别从"奥斯曼帝国"或"奥匈帝国"独立后，成为独立国家。
+
+
+|相关术语
+|南斯拉夫在1991年解体，从此“巴尔干”一词开始带有负面意义，如“Balkanisation /Balkanization *巴尔干化*”。*意思是: 一个较大的国家或地区, 分裂成较小的国家或地区的过程，这些国家或地区关系紧张, 甚至处于敌对状态.*
+
+下图是奥匈帝国位置: +
+image:/img/Austro-Hungarian Empire.webp[,100%]
+
+
+|===
+
+
+====
+
+To forestall (v.)预先阻止；在（他人）之前行动；先发制人 further disaster  灾难，灾害；祸患, Hitler dispatched 派遣；调遣；派出 General Erwin Rommel and his Afrika Korps 非洲军团 to duel (v.)决斗 with the British in northeast North Africa. *Not only* did Germany wish to support its Italian ally, *but it also* sought 寻求 to gain control of the Suez Canal and guarantee (v.)确保，保证；担保 its access to Middle Eastern oil, which would be crucial 至关重要的；关键性的 in winning the war. To further aid (v.) his faltering 不太有效的，不太成功的;踌躇的，犹豫的；摇晃的，蹒跚的； ally and deal with an anti-German uprising 起义，暴动；升起 in Yugoslavia 南斯拉夫, Hitler postponed (v.)延迟；延期；展缓 his invasion of the Soviet Union by several weeks and invaded Greece on April 6, 1941.
+
+[.my2]
+墨索里尼决定扩大其非洲领土，并于 1940 年 8 月占领"英属索马里兰"，威胁埃及的英国人。英国人发起反击。 1940 年 6 月至 12 月，墨索里尼在非洲节节败退，他将目光投向了巴尔干地区。 1940 年 10 月，意大利军队本以为能轻松获胜，于是入侵希腊，但遭到惨败。 +
 为了防止进一步的灾难，希特勒派埃尔文·隆美尔将军和他的非洲军团, 在北非东北部与英国人决斗。德国不仅希望支持其盟友意大利， 还寻求控制苏伊士运河, 并保证其获得中东石油，这对赢得战争至关重要。为了进一步援助他摇摇欲坠的盟友(意大利), 并应对南斯拉夫的反德起义，希特勒将入侵苏联的时间推迟了几周，并于 1941 年 4 月 6 日入侵希腊。
+
+[.my1]
+.title
+====
+.Yugoslavia
+image:/img/Yugoslavia.png[,50%]
+
+[.my3]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|存续时间
+|是1918年至2003年, 存在于南欧"巴尔干半岛"上的国家。
+
+|历史
+|- 冷战期间，约瑟普·布罗兹·铁托领导下的南斯拉夫, 并不投靠美国或苏联任何一方，参与组建了不结盟运动。
+- 1963年随着新宪法颁布，"地方自治权"逐渐扩大. 之后, 各共和国权力提升。使得各个共和国离心力增强。
+- 1991年至1992年间，除了"塞尔维亚"和"黑山"之外的其他民族国家, 纷纷从南斯拉夫独立，原联邦政体也因此而逐渐解体。
+- 塞尔维亚和黑山两国, 在1992年重新组织成立了"南斯拉夫联盟共和国"，希望能够成为原联邦的继承者。然而由于新边界的划分问题，导致了前南各国之间, 爆发了连续十年之久的南斯拉夫内战。
+- 在2003年南斯拉夫联盟共和国, 重组成为更为松散的邦联，并易名为"Serbia and Montenegro 塞尔维亚和黑山"，南斯拉夫也随之成为历史名词。
+
+|===
+
+.postpone
+-> post-后 + -pon-放置 + -e → 把事情向后方
+====
 
 '''
 
