@@ -3,7 +3,7 @@
 :toc: left
 :toclevels: 3
 :sectnums:
-:stylesheet: myAdocCss.css
+:stylesheet: ../../myAdocCss.css
 
 '''
 
@@ -11,87 +11,168 @@
 
 === 理性思考, 哲学, 逻辑学, 科学
 
-This period saw the birth of science and philosophy because for the first time people critically examined the natural world and subjected religious beliefs to reason. +
-这一时期见证了科学和哲学的诞生，因为人们第一次批判性地审视自然世界，并将宗教信仰置于理性思考之下。
+This period saw the birth of science and philosophy because for the first time people  critically 批判性地;严谨地 examined the natural world /and *subjected* (v.)使臣服；使顺从；（尤指）压服;使经受；使遭受 religious 宗教的 beliefs *to* reason. +
 
-Philosophers questioned not only the traditional views of the gods but also traditional values. Some of this questioning came from the sophists (“wise ones”) of Athens, those with a reputation for learning, wisdom, and skillful deployment of rhetoric. +
+Philosophers questioned *not only* the traditional views of the gods *but also* traditional values. Some of this questioning came from the sophists （尤指怀质疑态度的）哲人，智者 (“wise ones”) of Athens 雅典, those with a reputation for learning, wisdom 智慧，才智；明智, and skillful deployment of rhetoric 花言巧语，浮夸之词；修辞，修辞学. +
+
+[.my2]
+这一时期见证了科学和哲学的诞生，因为人们第一次批判性地审视自然世界，并将宗教信仰置于理性思考之下。 +
 哲学家不仅质疑传统的神的观点，也质疑"传统的价值观"。其中一些质疑来自雅典的智者（“智者”），他们以博学、智慧, 和"巧妙运用修辞"而闻名。
 
-Sophists emerged as an important presence in the democratic world of Athens beginning in the mid-fourth century BCE. They claimed to be able to teach anyone rhetoric, or the art of persuasion, for a fee, as a means to achieve success as a lawyer or a politician. Others worried that speakers thus trained could lead the people to act against their own self-interest.
+Sophists *emerged as* an important presence  出席，存在 in the democratic world of Athens beginning in the mid-fourth century BCE. They claimed to be able to teach (v.) anyone rhetoric 修辞，修辞学, or the art of persuasion 说服，劝服, for a fee, as a means to achieve (v.) success as a lawyer or a politician. Others worried that speakers thus trained `谓` could lead the people to act against their own self-interest.
+
+[.my2]
 从公元前四世纪中叶开始，诡辩家成为雅典民主世界的重要组成部分。他们声称可以付费教授任何人"修辞学"或"说服的艺术"，让作为律师或政治家的人, 以这种方法来取得成功。 其他人(A)则担心, 经过如此训练的演讲者(B), 可能会导致人们做出侵害前者(A)利益的行为。
 
 [.small]
 [options="autowidth" cols="1a,1a"]
 |===
-|Header 1 |Header 2
+|Header 1 |Socrates - Plato  - Aristotle => 可以这样记: 取三人的首字母, 发音就像 super 超级
 
 |苏格拉底
 
-|Many thought Socrates was one of the sophists. Socrates publicly questioned sophists and politicians about good and evil, right and wrong. He wanted to base values on reason instead of on unchallenged traditional beliefs.  +
-In 399 BCE, an Athenian jury court found Socrates guilty of impiety and corrupting the youth, and he was sentenced to death.
+|Many thought (v.) Socrates  苏格拉底 was one of the sophists. Socrates publicly *questioned* (v.) sophists and politicians *about* good and evil, right and wrong. He wanted *to base* (v.) values *on* reason *instead of* on unchallenged traditional beliefs.  +
+In 399 BCE, an Athenian __jury cour__t 陪审法庭 found (v.) Socrates guilty of impiety (n.)不虔诚；不尊敬 and corrupting (v.)使腐化，使堕落 the youth, and he was sentenced to death.
 
+[.my2]
 许多人认为苏格拉底是诡辩家之一。他公开质疑"智者"和"政治家"的善与恶、对与错。他希望将价值观建立在"理性"之上，而不是建立在"无可争议的传统信仰"之上。 +
 公元前399年，雅典陪审法庭, 判定苏格拉底犯有"不敬虔和败坏青少年罪"，他被判处死刑.
 
+image:/img/Socrates.jpg[,10%]
+
+
+
 |柏拉图
 
-|Socrates left behind no writings of his own, but some of his disciples wrote about him. One of these was Plato, who wrote dialogues that featured Socrates in conversation with others.  +
-Through these dialogues, Plato constructed a philosophical system. He maintained that the material world we perceive is an illusion, a mere shadow of the real world of ideas and forms that underlie the universe. According to Plato, the true philosopher uses reason to comprehend these ideas and forms.
+|Socrates *left behind* no writings of his own, but some of his disciples  门徒，信徒，追随者 wrote (v.) about him. One of these was Plato, who wrote dialogues that featured (v.)以…为特色 Socrates in conversation with others.  +
+Through these dialogues, Plato constructed (v.) a philosophical system. He maintained that `主` the material world we perceive (v.)注意到；意识到；察觉到 `系` is an illusion, a mere shadow of _the real world of ideas and forms_ 形式；外表；样子 that underlie (v.) the universe 宇宙. According to Plato, the true philosopher uses (v.) reason to comprehend (v.)理解，领悟 these ideas and forms.
 
+[.my2]
 苏格拉底没有留下自己的著作，但他的一些弟子写了关于他的文章。其中之一是柏拉图，其中以苏格拉底与他人的对话为特色。 +
 通过这些对话， 柏拉图构建了一个哲学体系，他坚持认为，我们所感知的物质世界, 是一种幻觉，仅仅是构成宇宙的真实世界的"思想和形式"的影子。根据柏拉图的说法，真正的哲学家, 使用"理性"来理解这些思想和形式。
 
+[.my1]
+.title
+====
+.disciple
+-> 来自拉丁语discere, 学习，获知，来自PIE*dek-skos,*教，自我学习，** dek, 得体，教导，*词源同doctor*, dogma， *skos, 表反身，见bask, busk. 原义为学生，追随者，尤指耶稣的十二门徒。后词义通用化。
+====
+
+image:/img/Plato.jpg[,15%]
+
+
+
 |亚里士多德
 
-|One of his most famous pupils was Aristotle, who came to disagree with his teacher and believed that ideas and forms could not exist independently of the material universe.
+|One of his most famous pupils was Aristotle, who came to 逐渐地,后来发展为 disagree (v.) with his teacher and believed that ideas and forms could not exist (v.) *independently of* the material universe.
 
+[.my2]
 他(柏拉图)最著名的学生之一, 是亚里士多德，他不同意他的老师的观点，认为"思想和形式"不能独立于"物质宇宙"而存在。
+
+[.my1]
+.title
+====
+.come to
+这里的 "came to" 是一个短语，表示某种变化过程，意为“逐渐地”或“后来发展为”。在这个句子中，"came to disagree" 的意思是 "逐渐开始不同意" 或 "最终发展到不同意"。 +
+
+这个短语常用来描述某人对某件事的看法、态度或状态经过一段时间后发生了改变，例如： +
+- She came to realize how important the project was.
+（她逐渐意识到这个项目的重要性。） +
+- Over time, he came to appreciate her efforts.
+（随着时间的推移，他逐渐开始欣赏她的努力。）
+
+.independent
+(a.)1.~ (from/of sth): ( of countries国家 ) having their own government 独立的；自主的；自治的 +
+- Mozambique became independent (a.) in 1975. 莫桑比克于1975年获得独立。
+
+
+2.~ (of sb/sth)not connected with or influenced by sth; not connected with each other不相关的；不受影响的；无关联的 +
+•The police force should be *independent (a.) of* direct government control.警方应该不受政府的直接控制。
+
+====
+
+image:/img/Aristotle.jpg[,10%]
+
+
 |===
 
 
-Modern historians view Plato and Aristotle as the founders of Western (European) philosophy.
+Modern historians view (v.) Plato and Aristotle as the founders of Western (European) philosophy.
 
+[.my2]
 现代历史学家, 将柏拉图和亚里士多德, 视为西方（欧洲）哲学的创始人.
 
 '''
 
 ===  历史研究
 
-Herodotus and Thucydides are considered the first true historians because they examined the past to rationally explain the causes and effects of human actions.
+Herodotus and Thucydides are considered the first true historians because they examined the past to rationally (ad.)理性地；讲道理地 explain the causes and effects of human actions.
 
+[.my2]
 希罗多德和修昔底德, 被认为是第一批真正的历史学家，因为他们审视过去，理性地来解释人类行为的原因和影响。
+
+[.my1]
+.title
+====
+
+[.my3]
+[options="autowidth" cols="1a,1a"]
+
+|===
+|Herodotus (真正的历史学家, 提供诸多资料来源) |Thucydides (资料来源不可考)
+
+|著有《历史》一书.
+|以《伯罗奔尼撒战争史》传世，该书记述了公元前5世纪, 斯巴达和雅典之间的战争。
+
+|希罗多德频繁提到他讲述情节的其它多个版本, 以便读者可以自行判断各版本的真实性。 +
+希罗多德提醒读者辨别真伪，他说：“我的职责是把我所听到的每一件事记录下来，虽然我并没有义务来相信每一件事情。”
+|在引述来源方面，修昔提底斯从不给出其消息来源，给出同一事件其它版本的记述的时候也寥寥可数。
+|===
+
+====
+
 
 '''
 
 ===  剧作
 
-Playwrights of the fifth century BCE composed tragedies that featured music and dance. The plots were based on traditional myths about gods and heroes, but through their characters the playwrights pondered philosophical questions of the day that have remained influential over time. For example, Antigone, the daughter of Oedipus, must decide whether to obey the laws or follow her religious beliefs.
+`主` Playwrights of _the fifth century BCE_ `谓` composed (v.)撰写;作曲；创作（音乐） tragedies 悲剧 that featured music and dance. The plots 情节；阴谋 were based on traditional myths 神话 about gods and heroes, but through their characters `主` the playwrights 剧作家 `谓` pondered (v.)沉思，仔细考虑 _philosophical questions of the day_ that have remained influential 有很大影响的；有支配力的 over time 随着时间的过去. For example, Antigone 人名, the daughter of Oedipus, must decide *whether* to obey (v.) the laws *or* follow (v.) her religious beliefs.
 
+[.my2]
 公元前五世纪的剧作家，创作了以音乐和舞蹈为特色的"悲剧". 这些情节基于有关神和英雄的 传统神话，但剧作家通过他们的角色思考了当时的哲学问题，这些问题随着时间的推移仍然具有影响力。例如，(某剧作中,) 俄狄浦斯的女儿安提戈涅, 必须决定是遵守法律, 还是遵循她的宗教信仰。
 
 '''
 
 ==  伊斯兰大翻译运动 (9世纪)
 
-The Abbasids sought to preserve the knowledge of past societies by translating the works of the ancient world into Arabic, especially from Greek and Persian, as the Islamic world transitioned from an oral to a writerly society during the ninth century. 
+The Abbasids 阿巴斯王朝 sought (v.) to preserve 保护；维护；保留 the knowledge of past societies by *translating* the works of the ancient world *into* Arabic 阿拉伯的,阿拉伯人的；阿拉伯文化的（语言、文字、文学）, especially from Greek and Persian, as 随着 _the Islamic world_ *transitioned (v.) from* an oral (a.)口头的，口述的 *to* _a writerly (a.)作家的; 文学的 society_ during the ninth century.
 
+[.my2]
 随着伊斯兰世界在九世纪, 从"口头社会"转变为"书面社会"，阿拔斯王朝试图通过将古代世界的著作, 翻译成阿拉伯语, 来保存过去社会的知识，特别是从希腊语和波斯语, 翻译成阿拉伯语.
 
 '''
 
 ==  西欧文艺复兴 (14-16世纪)
 
-The Renaissance, which means “rebirth” in French. It began in the city-states of northern Italy that had grown wealthy through trade, especially trade with the Ottomans.
+The Renaissance  文艺复兴, which means “rebirth” in French. It began in the city-states  城邦 of northern Italy 后定 that *had grown (v.) wealthy* through trade, especially trade with the Ottomans.
 
-Humanism was a movement born in Italy in the fourteenth century that focused on the study of human beings, human nature, and human achievements, as opposed to the study of God. Humanists stressed the beauty and dignity of humanity instead of focusing on its sinful, “fallen” nature.
+Humanism 人本主义，人文主义 was a movement 后定 born (v.) in Italy in the fourteenth century that *focused on* the study of human beings, human nature 人性；人类本性, and human achievements 成就；成绩；功绩, *as opposed to* （表示对比）而，相对于 the study of God. Humanists 人文学者,人本主义者 stressed (v.) the beauty and dignity 尊严，自尊 of humanity *instead of* focusing on its sinful 有罪的, “fallen” nature.
 
-文艺复兴在法语中意为“重生”，它始于意大利北部的城邦，这些城邦通过贸易，特别是与奥斯曼帝国的贸易而变得富裕。
-
+[.my2]
+文艺复兴在法语中意为“重生”，它始于意大利北部的城邦，这些城邦通过贸易，特别是与奥斯曼帝国的贸易而变得富裕。 +
 人文主义是十四世纪诞生于意大利的一场运动，其重点是对"人类"、"人性"和"人类成就"的研究，而不是对"上帝"的研究。人文主义者强调人性的美丽和尊严，而不是关注其罪恶的“堕落”本质。
 
 Petrarch has been called the father of humanism. 
 
+[.my2]
 彼特拉克被称为"人文主义之父"。
+
+[.my1]
+.title
+====
+.Petrarch
+意大利学者, 早期的人文主义者. 因其主张以“人的学问, 代替神的学问”，亦被视为"人文主义之父"。 +
+====
 
 '''
 
@@ -99,42 +180,57 @@ Petrarch has been called the father of humanism.
 
 ===  启蒙运动 → 用理性(逻辑, 科学, 演绎推理, 归纳推理), 来解决人类社会问题
 
-The key principles of the sixteenth- and seventeenth-century Scientific Revolution established the view that the universe was orderly and rational.
+The key principles of the sixteenth- and seventeenth-century Scientific Revolution established the view that the universe was orderly (a.)有条理的，整齐的；守秩序的 and rational (a.)合理的；理性的；明智的.
 
-We cannot reduce the Enlightenment to a single unifying philosophy or body of thought. But Enlightenment thinkers in intellectual circles were inspired by the seventeenth century’s emphasis on using reason to grapple with questions about human nature, the complexities of political power and the social order, and the principles of logic and scientific thinking.
+We cannot *reduce* 减少，缩小;将…概括成（或简化为） the Enlightenment *to* a single unifying philosophy or body of thought. But Enlightenment thinkers in _intellectual circles_ 知识界 were inspired by the seventeenth century’s emphasis (n.)强调；重视；重要性 on ① using (v.) reason *to grapple with* 努力设法解决 questions about human nature, the complexities 复杂性 of _political power_ and _the social order_, ② and the principles of _logic and scientific thinking_.
 
-十六世纪和十七世纪科学革命的关键原则, 确立了"宇宙是有序和理性"的观点。
-
+[.my2]
+十六世纪和十七世纪科学革命的关键原则, 确立了"宇宙是有序和理性"的观点。 +
 我们不能将启蒙运动, 简化为单一的统一哲学或思想体系。但启蒙思想家受到了 17 世纪强调"用理性来解决人性、政治权力, 和社会秩序的复杂性", 以及"逻辑和科学思维原则"等问题的启发。
 
-Among the principles that influenced Enlightenment perceptions of knowledge were the twin concepts of deductive and inductive reasoning. Inherited from the intellectual framework of the Scientific Revolution, these approaches represent different methods of organizing information and developing hypotheses.
+`主` Among the principles that influenced Enlightenment perceptions 知觉；感知;看法；见解 of knowledge `系` were the twin 成对的，成双的 concepts of _deductive 演绎的，推论的 and inductive  归纳的，归纳法的 reasoning_ 推理，推论. Inherited 继承；经遗传而得 from the intellectual framework of the Scientific Revolution, these approaches 方式，方法，态度 represent (v.) different methods of organizing information and developing hypotheses （有少量事实依据但未被证实的）假说，假设.
 
-While inductive reasoning gathers specific examples and observations to arrive at a broad generalization, deductive reasoning, in contrast, begins with a general statement or theory and applies it to specific conclusions.
+While _inductive reasoning_ 推理，推论 gathers (v.) specific examples and observations 观察，观察值；观察结果 *to arrive (v.) at* a broad 广泛的，普遍的；大致的，概括的 generalization （依据不足的）概括，泛论, _deductive reasoning_, in contrast, begins with a general statement or theory and *applies* it *to* specific conclusions.
 
-影响启蒙运动知识观的原则之一, 是"演绎推理"和"归纳推理"这两个孪生概念。这些方法继承自"科学革命"的知识框架，代表了"如何组织信息"和"发展假设"的不同方法。
-
-"归纳推理"收集具体的例子和观察结果, 以得出广泛的概括.
-
+[.my2]
+影响启蒙运动知识观的原则之一, 是"演绎推理"和"归纳推理"这两个孪生概念。这些方法继承自"科学革命"的知识框架，代表了"如何组织信息"和"发展假设"的不同方法。 +
+"归纳推理"收集具体的例子和观察结果, 以得出广泛的概括. +
 而"演绎推理"则相反，从"一般的陈述或理论"开始，并将其应用于"具体的结论"。
 
-By the beginning of the eighteenth century, this idea had prompted significant challenges to Christianity’s traditional justification for social hierarchies and its view of the nature of the cosmos.
+[.my1]
+.title
+====
+.deductive & inductive
+image:/img/Inductive-vs-Deductive-Reasoning.webp[,50%]
 
-During the eighteenth century, thinkers in academia and beyond continued their critical exploration, scrutinizing traditional structures from religion to the monarchy. This newfound critical spirit and robust exchange of ideas ultimately became known as the Enlightenment.
+image:/img/Inductive-vs-Deductive-Reasoning 2.svg[,70%]
 
+.inductive (由现象到本质理论, 总结升华, 由表及里) 归纳法的；归纳的
+->  in-入,向内(由表及里, 得到理论) + -duct-引导 + -ive
+
+.deductive (由本质来解释现象, 降维打击) 演绎的，推论的
+-> de-下降 (降维打击, 由核心理论来解释万物),减少 + -duct-引导 + -ive
+====
+
+By the beginning of the eighteenth century, this idea had prompted 促使；导致；激起 significant challenges to Christianity’s traditional justification 正当理由，合理解释 for _social hierarchies_ 社会等级制度 and its view of _the nature of the cosmos_ （尤指被视为有序体系时的）宇宙.
+
+During the eighteenth century, thinkers in academia (n.)学术界；学术生涯 and beyond `谓` continued their critical exploration, scrutinizing 仔细查看；认真检查；细致审查 traditional structures *from* religion *to* the monarchy 君主政体，君主制. This newfound (a.)新发现的；新得到的 _critical spirit_ 批评精神 and _robust (a.)强劲的；富有活力的 exchange (n.)交谈；对话；争论 of ideas_ ultimately became known as the Enlightenment.
+
+[.my2]
+到十八世纪初，这一思想 (用理性, 而非宗教, 来处理人类社会中的问题) 对"基督教对社会等级制度的传统辩护, 及其宇宙本质观"提出了重大挑战。 +
+十八世纪期间，学术界及其他领域的思想家, 继续进行批判性探索，审视从"宗教"到"君主制"的传统结构。这种新发现的批判精神, 和激烈的思想交流, 最终被称为"启蒙运动"。
 '''
 
 ===  启蒙思想, 对传统社会体制的颠覆
 
-到十八世纪初，这一思想 (用理性, 而非宗教, 来处理人类社会中的问题) 对"基督教对社会等级制度的传统辩护, 及其宇宙本质观"提出了重大挑战。
 
-十八世纪期间，学术界及其他领域的思想家, 继续进行批判性探索，审视从"宗教"到"君主制"的传统结构。这种新发现的批判精神, 和激烈的思想交流, 最终被称为"启蒙运动"。
 
-The eighteenth century was an era of radical political transformation, social upheaval, and farreaching change that reverberated across the Atlantic. As new ideas began to challenge traditional political structures and hierarchies, people increasingly debated the rights of individuals and the proper limits of royal and religious authority.
+The eighteenth century was an era of radical 根本的，彻底的；激进的，极端的；全新的，不同凡响的 political transformation, social upheaval 激变，剧变;（地壳）隆起, and farreaching (a.)影响广泛的 change that reverberated (v.)回响，回荡;有长久深刻的影响；产生广泛影响 across the Atlantic. As new ideas began to challenge traditional political structures and hierarchies 阶层，层级, people increasingly debated 争论,辩论 the rights of individuals and _the proper (a.)正确的；恰当的；符合规则的 limits_ of royal and religious authority 权力；威权；当权（地位）.
 
-The Enlightenment embraced the principles of reason and intellectual optimism. Enlightenment ideals were only partially realized. But the growing spirit of critical thinking ultimately inspired a series of revolutions that radically transformed political and economic life.
+The Enlightenment embraced the principles of _reason_ 思考力；理解力；理性 and _intellectual optimism_ 乐观；乐观主义. Enlightenment ideals were only partially realized. But the growing _spirit of critical thinking_ 批判性思维精神 ultimately inspired a series of revolutions that radically 根本上，彻底地 transformed political and economic life.
 
-18世纪是一个政治剧烈变革、社会动荡和影响深远的变革的时代，这种变革在大西洋彼岸产生了反响。随着新思想开始挑战"传统的政治结构和等级制度"，人们越来越多地争论"个人权利"以及"对王室和宗教权威的适当限制"。
-
+[.my2]
+18世纪是一个政治剧烈变革、社会动荡和影响深远的变革的时代，这种变革在大西洋彼岸产生了反响。随着新思想开始挑战"传统的政治结构和等级制度"，人们越来越多地争论"个人权利"以及"对王室和宗教权威的适当限制"。 +
 启蒙运动, 信奉"理性"和"理智乐观主义"的原则。虽然启蒙理想只实现了一部分。但日益增长的批判性思维精神, 最终激发了一系列革命，从根本上改变了政治和经济生活。
 
 '''
@@ -143,10 +239,10 @@ The Enlightenment embraced the principles of reason and intellectual optimism. E
 
 The topic of natural rights, rights possessed by all human beings, such as the right to life and liberty, formed the focus of many philosophical treatises and conversations in the eighteenth century.
 
-"自然权利"，即全人类所拥有的权利，例如"生命权"和"自由权"，成为十八世纪许多哲学论文和对话的焦点。
-
 Based on the premise that all people have fundamental and inalienable rights, rights that cannot be revoked or rescinded by human laws, the concept of natural rights originated not in the Enlightenment but in far older traditions of justice and natural law.
 
+[.my2]
+"自然权利"，即全人类所拥有的权利，例如"生命权"和"自由权"，成为十八世纪许多哲学论文和对话的焦点。 +
 基于"所有人都享有基本的、不可剥夺的权利"（这些权利不能被人类法律撤销或废除）的前提，"自然权利"的概念并非起源于"启蒙运动"，而是起源于更古老的"正义和自然法传统"。
 
 '''
@@ -157,16 +253,16 @@ Although many ancient religious and philosophical traditions developed interpret
 
 The growing emphasis on reason and the desire to improve human life in the eighteenth century led Enlightenment philosophers to envision political systems based on natural rights, rather than the divine right of kings or traditional Christian social hierarchies.
 
-尽管许多古代宗教和哲学传统, 发展了对"自然法"的解释，但欧洲启蒙思想家, 将这些思想 转化为"政治体系"，这在当时是新颖的。
-
+[.my2]
+尽管许多古代宗教和哲学传统, 发展了对"自然法"的解释，但欧洲启蒙思想家, 将这些思想 转化为"政治体系"，这在当时是新颖的。 +
 十八世纪对理性的日益重视, 和改善人类生活的愿望, 导致"启蒙运动"哲学家设想出了"基于自然权利的政治制度"，而不是"基于国王的神圣权利"或"传统的基督教社会"的等级制度。
 
 The growing emphasis the Enlightenment placed on natural rights, the autonomy of the wealthy middle class, and the cross-cultural encounters of the burgeoning global economy generated many social and political transformations in the eighteenth century. In particular, the entrenched privileges of the nobility, the traditional dominance of the Catholic Church, and arbitrary royal entitlements were common targets of criticism among those who could participate in the public sphere of the era.
 
 As fiscal crises developed and tensions exploded between European kingdoms and their Atlantic colonies, the rhetoric of the Enlightenment fused with a series of popular uprisings and created revolutionary conditions on both sides of the Atlantic. By the end of the century, the American, French, and Haitian Revolutions were the results.
 
-"启蒙运动"日益强调"自然权利"、"富裕中产阶级的自治", 以及蓬勃发展的全球经济的跨文化相遇，在 18 世纪引发了许多社会和政治变革。尤其是，对贵族根深蒂固的特权、天主教会的传统统治地位, 以及王室的任意权利，成为当时能够参与公共领域的人们共同批评的目标。
-
+[.my2]
+"启蒙运动"日益强调"自然权利"、"富裕中产阶级的自治", 以及蓬勃发展的全球经济的跨文化相遇，在 18 世纪引发了许多社会和政治变革。尤其是，对贵族根深蒂固的特权、天主教会的传统统治地位, 以及王室的任意权利，成为当时能够参与公共领域的人们共同批评的目标。 +
 随着财政危机的发展, 以及"欧洲王国"与"其大西洋殖民地"之间紧张局势的爆发，启蒙运动的言论, 与一系列"民众起义"融合在一起，为大西洋两岸创造了革命条件。到本世纪末，结果是美国革命、法国革命, 和海地革命.
 
 '''
