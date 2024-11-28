@@ -3,7 +3,7 @@
 :toc: left
 :toclevels: 3
 :sectnums:
-:stylesheet: myAdocCss.css
+:stylesheet: ../../myAdocCss.css
 
 '''
 
@@ -23,22 +23,40 @@
 
 The Silk Roads in the First Century CE.
 
+[.my2]
 公元一世纪的丝绸之路。
 
 image:/img/0018.jpg[,100%]
 
-The Silk Roads network was not a single route but many, including caravan routes that linked to the main trading regions, oasis towns, and overseas routes—the so-called Maritime Silk Roads—throughout the Indian Ocean.
+The Silk Roads network was not a single route but many, including caravan （尤指穿越沙漠的）旅行队，车队;旅行拖车,大篷车 routes that linked to the main trading regions, oasis （沙漠中的）绿洲 towns, and overseas routes —the so-called （表示不认同）所谓的；叫做…的，号称…的 Maritime (a.)海上的，海事的 Silk Roads —throughout the Indian Ocean.
 
-Given the length of the route, few merchants covered it in its entirety. Goods changed hands many times over these long distances, being exchanged between merchants who each traveled only part of the “road,” and their price increased the farther they went from their origin.
+Given 考虑到 the length of the route, few merchants 商人 covered (v.) it in its entirety 全部，整体. Goods *changed (v.) hands* many times over these long distances, being exchanged (v.)交换；交流；掉换 between merchants who each traveled only part of the “road,” and their price increased *the farther* 较远地，更远地 they went from their origin.
 
-丝绸之路网络不是单一的路线，而是很多条路线，包括连接主要贸易地区、绿洲城镇的商队路线，以及 贯穿印度洋的海外路线（即所谓的"海上丝绸之路"）。
-
+[.my2]
+丝绸之路网络不是单一的路线，而是很多条路线，包括连接主要贸易地区、绿洲城镇的商队路线，以及 贯穿印度洋的海外路线（即所谓的"海上丝绸之路"）。 +
 考虑到这条路线的长度，很少有商人能完整走完全程。货物在这些长途跋涉中多次转手，在每个只走部分“路”的商人之间进行交换，而且距离原产地越远，货物的价格就越高。
 
-The Silk Roads made up one of the greatest trade routes in world history, which reached its heyday between the fifth and eighth centuries. +
-The Silk Roads facilitated the exchange of goods such as silk and spices, technologies such as papermaking, and cultural traditions and religions such as Buddhism and Islam.
+[.my1]
+.案例
+====
+.caravan
+image:/img/caravan.jpg[,15%]
 
-丝绸之路是贸易路线之一,在5-8世纪之间达到了鼎盛时期。 促进了丝绸和香料等商品、造纸等技术以及佛教和伊斯兰教等文化传统和宗教的交流。
+====
+
+
+The Silk Roads *made up* 形成；构成 one of the greatest trade routes in world history, which reached its heyday 全盛期;嘿（表喜悦或惊奇等） between the fifth and eighth centuries. +
+The Silk Roads facilitated (v.)促进；促使；使便利 _the exchange of goods_ such as silk and spices, _technologies_ such as papermaking, and _cultural traditions and religions_ such as Buddhism and Islam.
+
+[.my2]
+丝绸之路是贸易路线之一,在5-8世纪之间达到了鼎盛时期。 促进了丝绸和香料等商品、造纸等技术, 以及佛教和伊斯兰教等文化传统和宗教的交流。
+
+[.my1]
+.案例
+====
+.facilitate
+>  -fac-做,作 + -ile形容词词尾(e略) + -ity名词词尾(y略) + -ate
+====
 
 '''
 
@@ -46,9 +64,11 @@ The Silk Roads facilitated the exchange of goods such as silk and spices, techno
 
 === Mercantilism 重商主义理论
 
-In the sixteenth and seventeenth centuries, mercantilist theory was embraced by most European nations, especially France and England. Perhaps as much as religious fervor and a thirst for knowledge, this premise drove exploration and the establishment of colonies.
+In the sixteenth and seventeenth centuries, mercantilist  (a.)重商主义的 theory was embraced by most European nations, especially France and England. Perhaps *as much as* 和…一样多；和…一样重要 religious fervor 宗教狂热 and a thirst for knowledge, this premise 前提，假设 drove (v.) exploration and the establishment of colonies.
 
+[.my2]
 十六、十七世纪，一种"重商主义"经济理论, 被大多数欧洲国家，特别是法国和英国所接受。也许与"宗教热情"和"对知识的渴望"一样，这一前提(重商主义)推动了"探索和建立殖民地"。
+
 
 "重商主义"的理论认为:
 
@@ -60,86 +80,108 @@ In the sixteenth and seventeenth centuries, mercantilist theory was embraced by 
 
 |-> 一个国家的金银越多, 越好 → 地球上的金银是有限的, 所以国家间的经济竞争就是零和博弈
 
-|A nation’s power depended on the amount of gold and silver it held. The world’s wealth as measured in gold and silver was finite, so a gain for one nation was a loss for another. According to mercantilism, there could be only one victor in economic competition.
+|A nation’s power *depended on* the amount of gold and silver it held. `主` The world’s wealth as measured in gold and silver `系`  was finite (a.)有限的；有限制的, so a gain 利润；经济收益 for one nation was a loss 丧失；损失；丢失 for another. According to mercantilism, there could be only one victor in economic competition.
 
-
+[.my2]
 一个国家的实力, 取决于它所拥有的金银数量。而以黄金和白银衡量的世界财富, 是有限的，因此一个国家的收益, 就是另一个国家的损失(即"零和博弈")。根据"重商主义"(的这个逻辑)，经济竞争中就只能有一个胜利者。
 
-Because mercantilist theory saw economic gain for one nation as necessarily a loss for others, European nations engaged in trade wars as each tried to use tariffs to bar others from its markets.   +
-At times, real wars accompanied trade wars. England and the Netherlands fought four wars over the course of the seventeenth and eighteenth centuries, partially to gain control of transatlantic trade. England also fought France for access to the markets of India.
+Because mercantilist theory *saw* economic gain for one nation *as* necessarily (ad.)必然地；不可避免地 a loss for others, `主` European nations `谓` *engaged （使）从事，参加 in* _trade wars_ /as 因为，由于 `主` each `谓` tried to use (v.) tariffs to bar (v.) others from its markets.   +
+At times 有时候, _real wars_ accompanied (v.)陪伴，伴随 trade wars. England and the Netherlands fought (v.) four wars **over the course of** the seventeenth and eighteenth centuries, partially 不完全地，部分地 to gain (v.) control of transatlantic 横渡大西洋的；横越大西洋的 trade. England also fought (v.) France for access (n.) to the markets of India.
 
+[.my2]
 由于重商主义理论认为, 一个国家的经济收益必然会导致其他国家的损失 (认为是"零和博弈". 因为现代经济学, 在那时还未诞生)，因此欧洲国家卷入了"贸易战"，每个国家都试图利用关税, 来阻止其他国家进入其市场。 +
 有时，真正的战争伴随着贸易战。英国和荷兰在 17 世纪和 18 世纪期间进行了四次战争，部分原因是为了控制"跨大西洋贸易"。英国还与法国争夺"印度市场"的准入权。
 
 |-> 如果积累金银? 保持"贸易顺差", 多出口, 少进口
 
-|Amassing national wealth depended on maintaining a favorable balance of trade, a situation in which a country exports goods of greater value than it imports.  Indeed, the ideal was to import nothing and produce everything in the home country, including agricultural produce.
+|Amassing (v.)积累；积聚 national wealth *depended on* maintaining a favorable balance of trade, a situation in which a country exports (v.)出口；输出 goods of greater value than it imports 进口.  Indeed 其实；实际上, the ideal was to import (v.) nothing and produce (v.) everything in the home country, including agricultural produce.
 
+[.my2]
 国家要积累(金银)财富, 就取决于维持"贸易顺差"，即一个国家"出口额大于进口额"的情况。事实上，理想的状态是不进口任何东西，并在本国生产一切，包括农产品。
 
-It elevated the interests of merchants and manufacturers over those of workers and consumers by arguing that wages should be kept low. More money would thus remain in employers’ hands, and people would be discouraged (or prevented) from buying luxury goods that could instead be exported for profit.
+It *elevated* (v.)提拔，晋升，提升（到不应有的位置） the interests 利益，好处 of merchants and manufacturers *over* 越过；超过 those of workers and consumers 消费者 by arguing that `主` wages `谓` should be kept low. More money would thus remain in employers’ hands, and people would be discouraged 阻拦；阻止；劝阻;使灰心；使泄气；使丧失信心 (or prevented) from buying luxury goods that could instead be exported (v.) for profit 利润，盈利.
 
+[.my2]
 保持低工资, 让利润留在企业主手里, 压低工人工资, 这样才能让他们买不起奢侈品, 就能更多的将奢侈品去出口到国外, 赚取国外的利润.
 
 |-> 政府应该监管商业, 用关税来阻碍他国产品进口, 以帮助本国行业的发展
 |
-- Governments commonly prohibited certain imports to prevent them from competing with domestic industry. In 1539, for example, to protect domestic textile manufacturing, France banned the import of goods made of wool.
-- Governments also imposed high tariffs, or taxes on imported goods. These made foreign products more expensive and thus promoted development of a nation’s own industries.
+- Governments commonly 通常 prohibited （通过法律、条例等）禁止；阻止，使不可能 certain imports to prevent them from competing with domestic industry. In 1539, for example, to protect domestic textile 纺织物，织物；纺织业 manufacturing, France banned the import of goods made of wool.
+- Governments also imposed high tariffs, or taxes on imported (a.) goods. These made foreign products more expensive and thus promoted development of a nation’s own industries.
 
-对进口商品征收高关税, 帮助本国工业发展.
-
+[.my2]
+对进口商品征收高关税, 帮助本国工业发展. +
 或直接禁止某些产品的进口, 以防止它们与国内同行业竞争.
 
-- Governments might also grant firms monopolies over certain kinds of domestic production, establish and provide financial support for certain industries to ensure domestic self-sufficiency, and pay for internal improvements, such as new roads, to promote domestic manufacturing and commerce.
-- Like France, both England and the Netherlands granted monopolies on foreign trade to private companies—the British East India Company and the Dutch East India Company. The purpose was to prevent competition among merchants that might drive up the prices they were willing to pay for foreign goods and drive down the prices they charged for domestic goods sold abroad.
+- Governments might also grant (v.)授予，给予；承认 firms monopolies 垄断；专营服务 over certain kinds of domestic production, establish and *provide* _financial support_ 财政支持 *for* certain industries to ensure domestic self-sufficiency 自给自足, and pay 付代价；遭受惩罚 for internal improvements 提高，改进, such as new roads, to promote domestic manufacturing and commerce.
 
-对某些关键性行业提供财政支持, 以确保国内自给自足.
+- Like France, both England and the Netherlands *granted* (v.)付代价；遭受惩罚 monopolies on foreign trade *to* private companies —_the British East India Company_ and _the Dutch East India Company_. The purpose was to prevent competition among merchants that might *drive up* 抬高；使上升 the prices 后定 they were willing to pay for foreign goods and *drive down* 压低, 使下跌 the prices they *charged 收（费）；（向…）要价 for* domestic goods 后定 sold abroad.
 
-进行国内基建(修路等), 促进国内商业发展.
-
+[.my2]+
+对某些关键性行业提供财政支持, 以确保国内自给自足. +
+进行国内基建(修路等), 促进国内商业发展. +
 可授予公司对国内某些生产的垄断权. 目的是为了防止本国商人间恶性竞争, 而导致价格战, 内卷, 会降低产品的出口价格.
 
 |-> 殖民地是必要的, 因为殖民地可以为母国提供原材料. 然后母国生产的产品, 可以卖给殖民地人民.(这就是对殖民地的剥削了)
 
-|A colonial empire was necessary for economic domination. Colonies could supply raw materials for domestic consumption, so there was no need to purchase these resources from others. Colonial populations, in turn, provided a ready market for goods made in the home country.
+|A colonial (a.)殖民地的 empire was necessary for economic domination 控制，统治. Colonies could *supply* raw materials *for* domestic consumption 消费，消耗, so there was no need to purchase (v.) these resources from others. Colonial populations, in turn, *provided* a ready market *for* goods made in the home country.
 
-To ensure that colonies added to their national wealth, European countries that established them usually required that they trade only with the home country. Thus, for example, England’s colonies in North America could sell what they produced only in England.
+To ensure that colonies added to their national wealth, `主` European countries that established them `谓` usually required that `主` they `谓` trade (v.) only with the home country 母国. Thus, for example, England’s colonies in North America could sell 销售，出售 what they produced only in England.
 
-殖民地是非常必要的. 因为殖民地可以为母国提供原材料, 而无需从他国购买这些原材料. 同时, 母国生产的产品, 可以再卖给殖民地 (是现成的消费者市场).
-
+[.my2]
+殖民地是非常必要的. 因为殖民地可以为母国提供原材料, 而无需从他国购买这些原材料. 同时, 母国生产的产品, 可以再卖给殖民地 (是现成的消费者市场). +
 因此, 母国要求殖民地只能与母国进行贸易 (内循环了).  北美市场上, 只能销售其母国英国的产品. 即北美人民, 只能购买英国货.
 
-The industrializing powers could satisfy their needs for raw materials and markets only by reaching outside their borders to places in Africa, Asia, and the Pacific Ocean. To amass large profits, however, they needed to extract raw materials at such low prices that it was unlikely Africans, Asians, and Pacific Islanders would consent to them. In addition, and also unlikely, these nations would have to agree to purchase manufactured goods from their industrialized partners even though they might be able to produce such things for themselves.
+The industrializing powers 工业化的国家 could satisfy their needs for _raw materials and markets_ only by *reaching* [状 outside their borders] *to* places in Africa, Asia, and the Pacific Ocean. To amass (v.)积累，积聚 large profits, however, they needed to extract 提取；提炼;获得，得到（某种感觉或品质） raw materials at such low prices that it was unlikely `主` Africans, Asians, and Pacific Islanders `谓` would consent (v.) to them. In addition, and also unlikely, these nations would have to agree to purchase manufactured goods from their industrialized partners even though they might be able to produce such things for themselves.
 
-Business owners and politicians in industrialized nations thus believed they needed to gain control over these distant countries and rule them as part of an empire. Quite often, military conquest was the means by which they did so. Once these foreign territories were secured, markets established, and funds invested, the imperial powers then needed to prevent encroachment on their possessions by other industrial powers. This led to them to exercise even greater control over their colonies and often to attempt to conquer neighboring regions.
+Business owners and politicians 政治家，政客 in industrialized nations thus believed `主` they needed to gain (v.) control over these distant countries /and rule (v.) them as part of an empire. Quite 颇；相当；某种程度上 often, military conquest was the means by which they did so. Once these foreign territories 地区；领土 were secured 保护，使安全；（经过努力）获得, markets established, and funds invested 投资，花费, the imperial powers then needed to prevent encroachment 侵入，侵犯；侵蚀 on their possessions by other industrial powers. This led to them to exercise even greater control over their colonies /and often to attempt to conquer neighboring regions.
 
-Great Britain, for example, competed with Russia for control of Afghanistan largely to limit Russian access to Britain’s prize colony of India.
+Great Britain, for example, competed with Russia for control of Afghanistan largely to limit Russian access to _Britain’s prize (a.)优秀的；典范性的；出类拔萃的  colony_ of India.
 
+[.my2]
 为了提高利润, 母国需要 ① 以极低的价格开采原材料，并且, ② 殖民地也不能生产母国的同类产品, 来和母国竞争. 显然这些要求, 殖民地人民不会同意. 因此, 母国就只能控制住殖民地, 并防止其他列强对其殖民地的侵犯. 但为了实现后者, 母国需要再向外建立缓冲区, 就导致他们经常试图征服邻近地区。例如，英国与俄罗斯争夺对阿富汗的控制权，主要就是英国为了限制俄罗斯进入其殖民地印度。
 
-The perceived need to extract raw materials from colonies to benefit the home country’s interests often led governments to restrict colonies’ economic growth.
+[.my2]
+`主` The perceived (a.)感知到的；感观的 need *to extract* (v.) raw materials *from* colonies to benefit the home country’s interests `谓` often led governments to restrict (v.)限制，控制（大小、数量、范围） colonies’ economic growth.
 
+[.my2]
 为了让殖民地无法与母国竞争, 母国就限制殖民地的经济增长.
 
 |-> 殖民地只准与母国做生意, 以实现内循环.
 |
-- Spain exercised the strictest control over colonial commerce. Trade was limited to only a few ports in the Spanish colonies and the port of Seville in Spain.
-- Those seeking to engage in trade had to procure a license to do so, at considerable expense.
+- Spain exercised the strictest control over colonial commerce 贸易，商业. Trade was limited to only a few ports in the Spanish colonies and the port of Seville in Spain.
 
-殖民地的贸易, 只能在殖民地的特定几个港口中进行. 只允许从我定下的出口通道走, 就相当于海关作用, 防止你逃税, 防止你走私, 而将殖民地地的原材料流入其他国家中.
+- `主` Those 后定 seeking to engage (v.) in trade `谓` had to procure (v.)（设法）获得，取得，得到;诱使（妇女）卖淫 a license to do so, at considerable 相当多（或大、重要等）的 expense 费用；价钱.
 
+[.my2]
+殖民地的贸易, 只能在殖民地的特定几个港口中进行. 只允许从我定下的出口通道走, 就相当于海关作用, 防止你逃税, 防止你走私, 而将殖民地地的原材料流入其他国家中. +
 只能我(母国)信任的人, 才会给你发许可证, 允许你在殖民地做贸易, 这样你才能只和我母国做生意. 否则, 你就很可能会和其他国家也去做生意. 破坏了我想要的(重商主义)内循环.
+
+[.my1]
+.案例
+====
+.procure
+(v.)~ sth (for sb/sth)( formal ) to obtain sth, especially with difficulty （设法）获得，取得，得到 +
+[ VN] +
+•She managed to procure a ticket for the concert. 她好不容易弄到一张音乐会入场券。
+
+-> 来自pro-,向前，代表，-cur,关切，照看，词源同cure,pedicure.引申词义得到，获得，特指费尽心力取得。
+====
 
 |-> 发展海军和海外港口基地, 来保卫母国的殖民地, 和保护本国的国际贸易.
 
-|They also maintained large navies to protect international trade and defend foreign colonies.
+|They also maintained large navies to protect international trade and defend (v.) foreign colonies.
 
-The ships that transported raw materials and finished products required ports where they could refuel and resupply, as did the navies that kept them safe.
+The ships that transported raw materials and finished products 成品 `谓` required ports where they could refuel  (v.)给（交通工具）补充燃料，加油 and resupply, as 也是如此 did the navies that kept them safe.
 
+[.my2]
 运输”原材料和成品”的船只, 需要港口来补充燃料和补给，为了保障船只安全所需的海军, 也需要港口。
 
-As more of the industrialized nations embarked on empire building, and as reaching international markets became an expected part of their strategy, the value of having strong navies to protect commercial trade only grew. Maintaining supply and fueling stations around the world to service these navies and fleets of merchant ships became a key argument in favor of developing more colonies.
+As more of the industrialized nations *embarked 上船；装船 on* 从事，着手，开始（新的或艰难的事情） empire building 帝国建设, and as `主` _reaching (v.) international markets_ `系` became an expected 预料的，预期的 part of their strategy, `主` the value of having strong navies to protect commercial trade `谓` only (ad.)（用于说明事情的恶果）只会，愈加 grew.
 
+`主` Maintaining _supply and fueling (n.) stations_ around the world to service (v.) these navies and fleets of merchant ships `谓` became a key argument 论据；理由；论点 in favor of 支持；赞同；偏向于 developing more colonies.
+
+[.my2]
 (后来工业革命后, )随着越来越多的工业化国家开始建立帝国，并且随着"进入国际市场"成为他们战略的一部分，拥有强大海军来保护商业贸易的价值只会越来越大。因此, "维持世界各地的补给站和加油站，为这些海军和商船队服务"，成为支持"发展更多殖民地"的关键论据。
 |===
 
@@ -147,8 +189,9 @@ As more of the industrialized nations embarked on empire building, and as reachi
 
 === 对"重商主义"的批评
 
-Mercantilism also had many critics. Many Europeans argued that the assumptions underlying mercantilist theory were flawed, and that putting it into practice was often harmful.
+Mercantilism also had many critics. Many Europeans argued that `主` the assumptions 假定，设想 underlying mercantilist theory `系` were flawed 有瑕疵的，有缺陷的, and that `主` putting it into practice `系` was often harmful.
 
+[.my2]
 "重商主义"也受到了许多批评。许多欧洲人认为，重商主义理论的假设是有缺陷的，将其付诸实践往往是有害的。
 
 [.small]
@@ -158,24 +201,31 @@ Mercantilism also had many critics. Many Europeans argued that the assumptions u
 
 |-> 一国金银越多, ①会导致物价上涨, ②通胀, 即物以稀为贵, 金银越多, 金银本身的价格就越低.
 
-|Eighteenth-century Scottish philosopher David Hume argued that as more gold circulated in a country’s economy, prices would rise, eventually becoming so high that no one would purchase goods. If abundance reduced the value of an item, then the more gold and silver a nation acquired, the less valuable it would be.
+|Eighteenth-century Scottish philosopher David Hume argued that /as more gold circulated (v.)（液体或气体）环流，循环 in a country’s economy, prices would rise, eventually becoming *so* high *that* no one would purchase (v.) goods. If abundance (n.)大量；丰盛；充裕 reduced the value of an item, then *the more* gold and silver a nation acquired, *the less* valuable it would be.
 
-1.一国黄金太多(通胀), 会使物价上涨, 价格最终会高到无人会购买的程度.
-
+[.my2]
+1.一国黄金太多(通胀), 会使物价上涨, 价格最终会高到无人会购买的程度. +
 2.物依稀为贵. 一国的金银(如同纸币)越多, 纸币(金银)就会越贬值, 那么这些金银就变得越没有价值。
 
+[.my1]
+.案例
+====
+
 解释: "If abundance reduced the value of an item" 这句话中的 "abundance" 指的是物品（包括金银或商品）的过剩。具体来说，这里指的是 金银的过剩。大卫·休谟在讨论经济时认为，当金银大量流通时，其相对价值会下降，因为它们的稀缺性减少了。换句话说，金银越多，它们的购买力就越低，这也是为什么他说 "the more gold and silver a nation acquired, the less valuable it would be"。
+====
 
 |-> 世界各国的经济贸易, 并非零和博弈
 
-|The eighteenth-century philosopher and economist Adam Smith, also a Scot, criticized mercantilism as well. Smith argued that economic gain for one nation did not mean economic loss for others. Rather, trade could be mutually beneficial for all. It made little sense for a nation to produce everything it needed.
+|The eighteenth-century philosopher and economist Adam Smith, also a Scot 苏格兰人, criticized mercantilism as well. Smith argued that `主` _economic gain_ 经济收益 for one nation `谓` did not mean _economic loss_ 经济损失 for others. Rather （提出不同或相反的观点）相反，反而，而是, trade could be mutually beneficial for all. It made little sense 毫无意义 for a nation to produce (v.) everything it needed.
 
+[.my2]
 国家间贸易, 并非是零和博弈, 而是每个国家都有自己的”比较优势”, 互相贸易反而能增加所有参与者的收入. 因此, 一个国家生产自己所需的一切, 是没有意义的.
 
 |-> 政府放松监管, 有利于经济发展
 
-|Smith also opposed government regulation of the economy. In his view, competition among the producers of goods and the influence of the market (that is, the desires of buyers and sellers) made for a healthy economy.
+|Smith also opposed 反对（计划、政策等）；抵制；阻挠 government regulation of the economy. In his view, `主` ① competition among the producers of goods ② and the influence of the market (that is, the desires of buyers and sellers) `谓` *made for* 促成;向…移动 a healthy economy.
 
+[.my2]
 市场有"看不见的手"功能, 能使经济供需匹配更有效率. 政府监管反而会扭曲这个"看不见的手".
 
 |===
@@ -184,12 +234,19 @@ Mercantilism also had many critics. Many Europeans argued that the assumptions u
 
 ==  "风险投资"体系的建立 : commenda 系统
 
-The commercial empire that funded European overseas exploration began in the Italian city-states of the Middle Ages, but the investment system on which it was based did not originate there. This system, called commenda, established a sort of financial patronage by which investors funded merchants to expand their trading enterprises and earned a more extensive business network in the process.
+`主` The commercial empire that funded (v.) European overseas exploration `谓` began in the Italian city-states of the Middle Ages, but `主` the investment system *on* which it *was based* `谓` did not originate there. This system, called commenda, established *a sort of* （表示不十分准确）近似于某物，有点像是某物 financial patronage  (n.)赞助，资助 by which investors funded (v.) merchants to expand their trading enterprises 企业 and earned a more extensive 广阔的；广大的；大量的 business network *in the process*.
 
-commenda 的介绍, 见维基百科 [https://en.wikipedia.org/wiki/Commenda](https://en.wikipedia.org/wiki/Commenda)
+[.my1]
+.案例
+====
+.commenda
+The commenda was a medieval contract which developed in Italy around the 13th century, and was an early form of _limited partnership_. +
+Commuda是一种中世纪合同，于 13 世纪左右在意大利发展起来，是有限合伙企业的早期形式。
+====
 
-By the late fifteenth century, Italian city-states were supporting a variety of small family-owned businesses and large companies. Capital was concentrated in land and commerce rather than in industrial pursuits, but credit was widely used. Across Europe, risk-sharing business ventures and joint investment schemes were already commonplace among merchants.
+By the late fifteenth century, Italian city-states were supporting a variety of 各种各样的 small family-owned businesses and large companies. Capital 资本，资金 was concentrated in land and commerce *rather than* in industrial pursuits (n.)追求；寻找, but credit （从银行借的）借款；贷款 was widely used. Across Europe, _risk-sharing 风险共担 business ventures_ (n.v.)（尤指有风险的）企业，商业，投机活动，经营项目 and _joint investment 合资 schemes_ 方案，计划 were already commonplace (a.)平凡的；普通的；普遍的 among merchants 商人.
 
+[.my2]
 到十五世纪末，意大利城邦开始支持各种小型家族企业和大公司。资本集中在土地和商业上, 而不是工业领域，但信贷被广泛使用。在整个欧洲，"风险共担"的商业企业, 和"联合投资"计划, 在商人中已经很常见了。
 
 '''
@@ -198,15 +255,34 @@ By the late fifteenth century, Italian city-states were supporting a variety of 
 
 === 探索新航路的动机 → 为了跳过中间商, 获取原材料产地
 
-With the collapse of Constantinople and the fall of the Byzantine Empire to the Ottomans in 1453, Muslims now controlled their tenuous overland connections to South and East Asia. As a result, they now had to go through Muslim intermediaries to purchase valuable spices such as cinnamon, pepper, cloves, and nutmeg that grew in only a few key locations. 
+With the collapse of Constantinople and the fall of the Byzantine Empire to the Ottomans in 1453, Muslims now controlled their _tenuous 脆弱的；微弱的；缥缈的;纤细的；薄的；易断的 overland (a.)陆上的；经由陆路的 connections_ to South and East Asia. As a result, they now had to go through Muslim intermediaries  中介机构；中间商 to purchase valuable spices 香味料，调味料 such as cinnamon  肉桂皮,桂皮香料, pepper 胡椒粉；辣椒，甜椒, cloves 丁香, and nutmeg 肉豆蔻 that grew in only a few key locations.
 
-European nations, therefore, wanted to find an all-water passage to India and the chain of sparsely populated Indonesian islands known as the Spice Islands.
+[.my1]
+.案例
+====
+.tenuous
+-> 来自拉丁语 tenuis,拉长的，薄的，细的，来自 PIE*ten,展开，词源同 extend,thin,attenuate.引申词义纤细的，脆弱的等。
 
+.cinnamon
+image:/img/cinnamon.jpg[,15%]
+
+
+.cloves
+image:/img/cloves.jpg[,15%]
+
+.nutmeg
+image:/img/nutmeg.jpg[,15%]
+====
+
+European nations, therefore, wanted to find ① _an all-water passage_ to India  ② and _the chain 链条；一连串，一系列 of sparsely (ad.)稀疏地；贫乏地 populated Indonesian islands_ known as the Spice 香料，调味品 Islands.
+
+[.my2]
 随着 1453 年君士坦丁堡的崩溃, 和拜占庭帝国落入奥斯曼帝国手中，穆斯林现在控制了"欧洲人与南亚和东亚的脆弱的陆路联系"。结果，他们现在必须通过穆斯林中介, 来购买肉桂、胡椒、丁香和肉豆蔻等珍贵香料，而这些香料只生长在地球上少数几个关键地点。 +
 因此，欧洲国家希望找到一条通往"印度", 和"人口稀少的印度尼西亚群岛" （即香料群岛） 的全新水路。
 
 The sixteenth century was a time of exploration and the beginning of global ocean trade.
 
+[.my2]
 十六世纪是探索的时代，也是全球海洋贸易的开端。
 
 '''
@@ -221,18 +297,52 @@ The sixteenth century was a time of exploration and the beginning of global ocea
 
 |-> 解决了: 不管风向如何, 都能向任何方向航行
 
-|In the first millennium CE, Arab sailors in the Middle East had created the lateen sail, a triangular sail that allowed ships to travel against the wind. The square European sail gave ships power, but the lateen sail increased their ability to maneuver. When Europeans combined the two kinds of sail on three-masted ships, they could navigate confidently in any direction.
+|In the first millennium 香料，调味品 CE 基督纪元,公元, Arab sailors in the Middle East had created the lateen  (a.)大三角帆的；有大三帆的 sail, a triangular sail that allowed ships to travel against the wind. The square European sail `谓` gave ships power, but the lateen sail `谓` increased their ability to maneuver. When Europeans combined the two kinds of sail on three-masted (a.)有三条桅杆的 ships, they could navigate (v.) confidently in any direction.
 
+[.my2]
 公元第一个千年，中东的阿拉伯水手发明了三角帆，一种可以让船只逆风航行的三角帆。欧洲方帆给船只提供了动力，而三角帆则增加了船只的机动能力。当欧洲人将这两种风帆结合在三桅船上时，他们可以自信地向任何方向航行。
 
-The sternpost rudder, created in China in the thirteenth century, also allowed for steering against the currents.
+[.my1]
+.案例
+====
+.lateen sail
+image:/img/lateen.jpg[,15%]
 
+.square sail
+image:/img/square sail.jpg[,15%]
+
+.three-masted ships
+image:/img/three-masted ships.jpg[,15%]
+====
+
+The sternpost  艉柱 rudder 船舵；飞机方向舵, created in China in the thirteenth century, also allowed for steering  (v.)驾驶（交通工具），掌方向盘；引导 against the currents 水流，潮流；气流.
+
+[.my2]
 十三世纪在中国发明的尾柱舵, 也可以逆流转向。
+
+[.my1]
+.案例
+====
+.sternpost
+image:/img/sternpost.jpg[,15%]
+
+
+
+.rudder
+a piece of wood or metal at the back of a boat or an aircraft that is used for controlling its direction （船的）舵；（飞机的）方向舵
+
+-> 来自古英语 rothor,舵，来自 Proto-Germanic*rothru,舵，来自*ro,划，划船，*词源同 row,-thor,* 工具格后缀，词源同 tether,weather.古英语-th-简化为-d-,比较 burden,来自古英语 byrthen.
+
+image:/img/rudder.gif[,20%]
+image:/img/rudder 3.png[,20%]
+image:/img/rudder 2.jpg[,20%]
+====
 
 |-> 解决了: 方位指引 (古希腊星盘, 和 中国指南针)
 
-|The adoption of these inventions allowed Europeans to abandon their long-standing practice of navigating by sailing along a coastline. Now they could venture into the open ocean, beyond sight of land.
+|The adoption of these inventions allowed Europeans to abandon 离弃，遗弃，抛弃 their long-standing (a.)长期存在的；存在已久的 practice of navigating 航行，操纵 by sailing along a coastline 海岸线. Now they could venture (v.)敢于去（未知或危险等地方）；冒险 into the open ocean, beyond sight of land.
 
+[.my2]
 这些发明的采用, 使欧洲人放弃了长期以来"沿海岸线航行"的做法。现在他们可以冒险进入看不见陆地的"公海"。
 |===
 
@@ -247,14 +357,19 @@ The sternpost rudder, created in China in the thirteenth century, also allowed f
 
 |(北美) 种植烟草
 
-|Especially in the Chesapeake Bay colonies of Virginia and Maryland, where tobacco constituted the main cash crop, tobacco cultivation quickly drained the soil of nutrients, leading English settlers to push further westward in search of land for new fields.
+|Especially in the Chesapeake Bay colonies of Virginia and Maryland, where tobacco constituted 组成；构成;（被认为或看做）是；被算作the main _cash crop_ 经济作物, tobacco cultivation 耕种；种植；栽培 quickly drained the soil of nutrients, leading (v.) English settlers to push further westward *in search of* land for new fields.
 
+[.my2]
 特别是在"弗吉尼亚州", 和"马里兰州"的"切萨皮克湾"殖民地，烟草是那里的主要经济作物。但烟草种植迅速耗尽了土壤的养分，导致北美的英国定居者进一步向西推进，寻找新的土地。
+
+image:/img/Chesapeake Bay.jpg[,100%]
+
 
 |(亚洲) 香料 → 纺织品 → 鸦片
 
-|When investors founded the British East India Company in 1600, they initially focused on trading in spices. As spices decreased in price and profit, however, the Company turned its attention to textiles produced by highly skilled Indian artisans. Finally, when the value of hand-woven fabric began decreasing in the early nineteenth century, the company pivoted to trading Indian-produced opium for Chinesegrown tea.
+|When investors founded 建立；创立 _the British East India Company_ in 1600, they initially focused on trading in spices. As spices decreased （使）减少，（使）降低 in price and profit, however, the Company turned its attention to textiles produced by highly skilled Indian artisans 工匠；技工. Finally, when `主` the value of _hand-woven 手工编织 fabric_ `谓` began decreasing in the early nineteenth century, the company pivoted (v.)（使）在枢轴上旋转（或转动） *to trading*  (v.)交易，买卖;用……进行交换 Indian-produced opium  鸦片 *for* Chinesegrown tea.
 
+[.my2]
 当投资者于 1600 年创立"英国东印度公司"时，他们最初专注于"香料"贸易。然而，随着香料价格和利润的下降，该公司将注意力转向由高技能印度工匠生产的"纺织品"。最后，当十九世纪初手工编织物的价值开始下降时，该公司转向用印度生产的"鸦片", 来交易中国种植的茶叶.
 |===
 
@@ -262,16 +377,27 @@ The sternpost rudder, created in China in the thirteenth century, also allowed f
 
 ==  契约仆人 (殖民地移民的生存方式之一)
 
-The colonies attracted many landless, unemployed young European men and women, too, who traveled to North America as indentured servants, bound by a contract to work for an agreed-upon number of years. After the landowner who paid for their passage had been compensated by their years of labor, indentured servants received their freedom and typically a grant of land as well.
+The colonies attracted (v.) many landless (a.)无土地的；不准拥有土地的, unemployed 未被雇用的，失业的 young European men and women, too, who traveled to North America as indentured (a.)受契约束缚的 servants, bound by a contract to work (v.) for an agreed-upon 达成一致的 number of years. After `主` the landowner who paid for their passage `谓` had been compensated by their years of labor, indentured (a.)受契约束缚的 servants received their freedom and typically a grant （政府、机构的）拨款 of land as well.
 
+[.my2]
 通过合同, 土地所有者会为"契约仆人"支付旅费, 后者则通过通过多年的劳动来补偿前者. 之后，契约仆人就能获得自由，通常还能获得土地。
+
+[.my1]
+.案例
+====
+.indenture
+-> in+dent（齿）+ure（名词后缀）构成，表示契约。 +
+来自indent,咬合，-ure,名词后缀。因古代师徒契约写于两张锯齿状凹痕的契约纸上而得名。
+====
 
 Like their rivals the Spanish, English colonists struggled to produce agricultural goods using only their own labor. Instead, they relied heavily on indentured servants, European immigrants who typically agreed to work four to seven years in exchange for transportation to the colony and the hope of a new life there after completing their service.
 
+[.my2]
 与他们的竞争对手西班牙人一样，英国殖民者仅依靠自己的劳动力, 是难以生产农产品的。相反，他们严重依赖契约仆人，欧洲移民通常同意工作四到七年，以换取前往殖民地的交通费, 以及完成服务后在那里开始新生活的希望。 
 
 In the United States, indentured servitude had been common during the colonial period, and it was the means by which many Europeans obtained passage to North America. The practice had largely died out in the United States by the middle of the nineteenth century but still existed in a few places. 
 
+[.my2]
 在美国，契约奴役在殖民时期很常见，它是许多欧洲人获得进入北美的通道的手段。到十九世纪中叶，这种做法在美国已基本消失，但在少数地方仍然存在。
 
 '''
