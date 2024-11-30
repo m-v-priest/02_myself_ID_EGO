@@ -1,6 +1,12 @@
 
 = 分词, 作"状语"
-:toc:
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: myAdocCss.css
+
+'''
+
 
 ---
 
