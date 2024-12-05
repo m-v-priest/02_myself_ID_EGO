@@ -53,15 +53,15 @@ D.given
 
 又例
 
-- Additional social stresses may also occur because of the population explosion or problems *arising from* mass migration movements -- themselves *made* relatively easy nowadays by modern means of transport. +
-由于人口的猛增或大量流动（现代的交通工具使这种流动变得相对容易）造成的种种问题也会对社会造成新的压力。 +
+- `主` Additional social stresses `谓` may also occur (v.) because of the population explosion or problems 后定 *arising from* mass migration movements -- themselves 后定 *made* relatively easy nowadays /by modern means of transport. +
+由于人口的猛增或大量流动, （现代的交通工具, 使这种流动变得相对容易）造成的种种问题, 也会对社会造成新的压力。 +
 -> 这里的现在分词arising修饰problems，作后置定语，与problems构成"主动关系"。 +
 problems arising from mass migration movements表示“大量人口流动造成的问题”。 +
 过去分词made修饰themselves，作后置定语，与themselves *构成"被动关系"(即, 不是 (主)themselves (谓)make, 而是 (谓)make (宾)themselves)*。这里的themselves指代mass migration movements。
 
 又例
 
-- How many of us __, say, a meeting that is irrelevant to us would be interested in the discussion? +
+- `主` How many of us __, say, a meeting that is irrelevant to us `谓` would be interested in the discussion? +
 如果让我们参加一个，比如说，与我们毫不相干的会议，那么我们当中有多少人会对会议上的讨论感兴趣呢？ +
 A.attended +
 B.attending <- 正确答案 +
@@ -82,6 +82,10 @@ C.take +
 D.taken
 
 -> 我们知道这里的分词, 要作定语修饰名词changes，而changes与动词短语take place构成"主动关系"，所以用现在分词taking，故A正确。
+
+image:/img_engGram/分词做定语的主动还是主动关系.svg[,40%]
+
+
 
 又例
 
@@ -218,7 +222,7 @@ The emphasis, combined with a perspective, makes this study a social science.
 ==== "分词"与"不定式", 都能作"补足语", 它们的区别是什么?
 
 *在"感觉动词"后, 我们也可以用"不带to的不定式"作"补足语"。* 两者的区别是什么呢?  +
--> *用"现在分词"，强调动作"正在进行".*
+-> *用"现在分词"，强调动作"正在进行".* +
 -> *用"不定式", 则表示"一般的"动作, 或一个动作"自始至终的全过程"。*
 
 - I *watched* them *climb* the tower. 我观看他们 *一直* 爬到塔顶。 +
