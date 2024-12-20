@@ -1,0 +1,38 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" height="173" width="462" viewBox="0 0 462 173">
+    <defs/>
+    <g transform="translate(-257.00,-235.50)">
+        <path d="M324.0,54.0L324.0,.0L.0,.0L.0,54.0L324.0,54.0z" id="shape1" fill-rule="nonzero" transform="translate(394.00,249.50)" fill="#ffffff" stroke="#323232"/>
+        <g id="shape2" transform="translate(394.00,249.50)">
+            <path d="M272.0,54.0L272.0,.0L.0,.0L.0,54.0L272.0,54.0z" fill-rule="nonzero" fill="#fedad0" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="87.5" y="23.0">增长年份 占84%</tspan>
+                <tspan x="75.0" y="42.0">(年均增长率=3.88%)</tspan>
+            </text>
+        </g>
+        <g id="shape3" transform="translate(258.00,236.50)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="34.0" y="36.0">人均收入</tspan>
+                <tspan x="20.0" y="55.0">> 20000美元</tspan>
+            </text>
+        </g>
+        <path d="M324.0,54.0L324.0,.0L.0,.0L.0,54.0L324.0,54.0z" id="shape4" fill-rule="nonzero" transform="translate(394.00,340.00)" fill="#ffffff" stroke="#323232"/>
+        <g id="shape5" transform="translate(394.00,340.00)">
+            <path d="M182.0,54.0L182.0,.0L.0,.0L.0,54.0L182.0,54.0z" fill-rule="nonzero" fill="#f0b0b1" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="42.5" y="23.0">增长年份 占56%</tspan>
+                <tspan x="30.0" y="42.0">(年均增长率=5.37%)</tspan>
+            </text>
+        </g>
+        <g id="shape6" transform="translate(258.00,327.00)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="34.0" y="36.0">人均收入</tspan>
+                <tspan x="12.0" y="55.0">300—2000美元</tspan>
+            </text>
+        </g>
+        <g id="shape7" transform="translate(587.00,355.43)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="21.0" y="17.1">不增长或倒退</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
