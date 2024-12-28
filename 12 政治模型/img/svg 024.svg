@@ -1,0 +1,89 @@
+<svg width="550" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 550 299" xmlns:xlink="http://www.w3.org/1999/xlink" height="299">
+    <defs/>
+    <g transform="translate(-358.00,-174.00)">
+        <g id="shape1" transform="translate(359.00,305.00)">
+            <path fill-rule="nonzero" stroke="#323232" d="M120.0,54.0L120.0,.0L.0,.0L.0,54.0L120.0,54.0z" fill="#d7d7d7"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="32.5" x="27.5">罗斯福总统</tspan>
+            </text>
+        </g>
+        <g id="shape2" transform="translate(787.00,305.00)">
+            <path fill-rule="nonzero" stroke="#323232" d="M120.0,54.0L120.0,.0L.0,.0L.0,54.0L120.0,54.0z" fill="#d7d7d7"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="32.5" x="34.0">最高法院</tspan>
+            </text>
+        </g>
+        <g id="shape3" transform="translate(548.00,418.00)">
+            <path fill-rule="nonzero" stroke="#323232" d="M120.0,54.0L120.0,.0L.0,.0L.0,54.0L120.0,54.0z" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="32.5" x="47.0">国会</tspan>
+            </text>
+        </g>
+        <g id="shape4" transform="translate(548.00,219.00)">
+            <path fill-rule="nonzero" stroke="#323232" d="M120.0,54.0L120.0,.0L.0,.0L.0,54.0L120.0,54.0z" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="32.5" x="27.5">罗斯福新政</tspan>
+            </text>
+        </g>
+        <g id="shape5" transform="translate(419.00,305.00)">
+            <path stroke="#191919" d="M.0,.0L.0,-59.0L123.0,-59.0" fill="none"/>
+            <path stroke-width="1" stroke="#191919" d="M123.0,-62.0L129.0,-59.0L123.0,-56.0L123.0,-62.0" stroke-linecap="round" fill="#191919"/>
+            <rect width="37.0" y="-68.5" x="45.6" height="19.0" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="-53.5" x="45.6">1.提出</tspan>
+            </text>
+        </g>
+        <g id="shape6" transform="translate(847.00,305.00)">
+            <path stroke="#191919" d="M.0,.0L.0,-59.0L-173.0,-59.0" fill="none"/>
+            <path stroke-width="1" stroke="#191919" d="M-173.0,-56.0L-179.0,-59.0L-173.0,-62.0L-173.0,-56.0" stroke-linecap="round" fill="#191919"/>
+            <rect width="70.0" y="-78.0" x="-140.9" height="19.0" fill="#ffffff"/>
+            <rect width="26.0" y="-59.0" x="-118.9" height="19.0" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="-63.0" x="-140.9">2.认为违宪, </tspan>
+                <tspan y="-44.0" x="-118.9">否决</tspan>
+            </text>
+        </g>
+        <g id="shape7" transform="translate(548.00,305.00)">
+            <path fill-rule="nonzero" stroke="#323232" d="M120.0,54.0L120.0,.0L.0,.0L.0,54.0L120.0,54.0z" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="32.5" x="8.0">最高法院改组计划</tspan>
+            </text>
+        </g>
+        <g id="shape8" transform="translate(479.00,332.00)">
+            <path stroke="#191919" d="M.0,.0L63.0,.0" fill="none"/>
+            <path stroke-width="1" stroke="#191919" d="M63.0,-3.0L69.0,.0L63.0,3.0L63.0,-3.0" stroke-linecap="round" fill="#191919"/>
+            <rect width="37.0" y="-9.5" x="10.8" height="19.0" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="5.5" x="10.8">3.提出</tspan>
+            </text>
+        </g>
+        <g id="shape9" transform="translate(608.00,418.00)">
+            <path stroke="#191919" d="M.0,.0L.0,-53.0" fill="none"/>
+            <path stroke-width="1" stroke="#191919" d="M-3.0,-53.0L.0,-59.0L3.0,-53.0L-3.0,-53.0" stroke-linecap="round" fill="#191919"/>
+            <rect width="37.0" y="-37.6" x="-17.5" height="19.0" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="-22.6" x="-17.5">4.否决</tspan>
+            </text>
+        </g>
+        <g id="shape10" transform="translate(873.28,305.00)">
+            <path stroke="#191919" d="M.0,.0L.0,-118.0L-265.3,-118.0L-265.3,-92.0" fill="none"/>
+            <path stroke-width="1" stroke="#191919" d="M-262.3,-92.0L-265.3,-86.0L-268.3,-92.0L-262.3,-92.0" stroke-linecap="round" fill="#191919"/>
+            <rect width="37.0" y="-127.5" x="-144.0" height="19.0" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="-112.5" x="-144.0">5.同意</tspan>
+            </text>
+        </g>
+        <g id="shape11" transform="translate(668.00,332.00)">
+            <path stroke="#191919" d="M.0,.0L113.0,.0" fill="none"/>
+            <path stroke-width="1" stroke="#191919" d="M113.0,-3.0L119.0,.0L113.0,3.0L113.0,-3.0" stroke-linecap="round" fill="#191919"/>
+            <rect width="78.0" y="-28.5" x="12.3" height="19.0" fill="#ffffff"/>
+            <rect width="52.0" y="-9.5" x="25.3" height="19.0" fill="#ffffff"/>
+            <rect width="52.0" y="9.5" x="25.3" height="19.0" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="-13.5" x="12.3">罗斯福要提名</tspan>
+                <tspan y="5.5" x="25.3">支持新政</tspan>
+                <tspan y="24.5" x="25.3">的大法官</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

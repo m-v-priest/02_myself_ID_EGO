@@ -1,0 +1,37 @@
+<svg viewBox="0 0 282 163" xmlns:xlink="http://www.w3.org/1999/xlink" height="163" xmlns="http://www.w3.org/2000/svg" width="282">
+    <defs/>
+    <g transform="translate(-453.02,-264.00)">
+        <g id="shape1" transform="translate(508.00,265.00)">
+            <path fill="#ffffff" d="M172.0,57.0L172.0,.0L.0,.0L.0,57.0L172.0,57.0z" fill-rule="nonzero" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="24.5" x="22.0">perception of threat </tspan>
+                <tspan y="43.5" x="60.0">威胁感知</tspan>
+            </text>
+        </g>
+        <g id="shape2" transform="translate(454.02,368.50)">
+            <path fill="#ffffff" d="M120.7,57.0L120.7,.0L.0,.0L.0,57.0L120.7,57.0z" fill-rule="nonzero" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="34.0" x="27.8">信息不对称</tspan>
+            </text>
+        </g>
+        <g id="shape3" transform="translate(613.29,368.50)">
+            <path fill="#ffffff" d="M120.7,57.0L120.7,.0L.0,.0L.0,57.0L120.7,57.0z" fill-rule="nonzero" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="34.0" x="34.3">政治表演</tspan>
+            </text>
+        </g>
+        <g id="shape4" transform="translate(540.26,368.50)">
+            <path fill="none" stroke="#191919" d="M.0,.0L.0,-40.5"/>
+            <path fill="#191919" stroke-width="1" stroke-linecap="round" stroke="#191919" d="M-3.0,-40.5L.0,-46.5L3.0,-40.5L-3.0,-40.5"/>
+        </g>
+        <g id="shape5" transform="translate(643.26,368.50)">
+            <path fill="none" stroke="#191919" d="M.0,.0L.0,-40.5"/>
+            <path fill="#191919" stroke-width="1" stroke-linecap="round" stroke="#191919" d="M-3.0,-40.5L.0,-46.5L3.0,-40.5L-3.0,-40.5"/>
+        </g>
+        <g id="shape6" transform="translate(534.00,302.00)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="45.5" x="47.0">助长</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
