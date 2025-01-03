@@ -1,0 +1,204 @@
+<svg width="1140" viewBox="0 0 1140 670" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="670">
+    <defs/>
+    <g transform="translate(-1022.74,-776.98)">
+        <path id="shape1" fill-rule="nonzero" transform="translate(1550.00,883.93)" fill="#cfe9d8" d="M611.6,285.5L611.6,.0L.0,.0L.0,285.5L611.6,285.5z"/>
+        <path id="shape2" fill-rule="nonzero" transform="translate(1219.00,1206.85)" fill="#d0d9f1" d="M179.0,239.0L179.0,.0L.0,.0L.0,239.0L179.0,239.0z"/>
+        <g id="shape3" transform="translate(1238.26,963.70)">
+            <path stroke="#323232" fill="none" d="M282.7,170.3L282.7,.0L.0,.0L.0,170.3L282.7,170.3z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="115.4" y="19.0">联邦大会</tspan>
+            </text>
+        </g>
+        <g id="shape4" transform="translate(1023.74,991.70)">
+            <path fill-rule="nonzero" fill="#fedad0" d="M360.0,142.3L360.0,.0L.0,.0L.0,142.3L360.0,142.3z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="154.0" y="19.0">立法部门</tspan>
+            </text>
+        </g>
+        <g id="shape5" transform="translate(1304.50,777.98)">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="195.0" y="22.0">德国</tspan>
+                <tspan x="10.0" y="41.0">德国的政治制度是依据1949年所颁布的《德意志联邦共和国基本法》</tspan>
+                <tspan x="71.5" y="60.0">（简称《德国基本法》），其地位等同于宪法。</tspan>
+            </text>
+        </g>
+        <g id="shape6" transform="translate(1417.00,1225.25)">
+            <path fill-rule="nonzero" stroke="#323232" fill="#ffffff" d="M113.0,46.5L113.0,.0L.0,.0L.0,46.5L113.0,46.5z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="43.5" y="22.0">总统</tspan>
+                <tspan style="font-size:7.00pt" x="26.5" y="37.0">(只是虚位元首)</tspan>
+            </text>
+        </g>
+        <g id="shape7" transform="translate(1238.26,1225.25)">
+            <path fill-rule="nonzero" stroke="#323232" fill="#ffffff" d="M145.5,77.5L145.5,.0L.0,.0L.0,77.5L145.5,77.5z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="59.8" y="23.3">总理</tspan>
+                <tspan style="font-size:7.00pt" x="4.3" y="38.3">- 拥有实权</tspan>
+                <tspan style="font-size:7.00pt" x="4.3" y="52.3">- 由最大党人士出任</tspan>
+                <tspan style="font-size:7.00pt" x="4.3" y="66.3">- 任期4年</tspan>
+            </text>
+        </g>
+        <g id="shape8" transform="translate(1254.52,1012.20)">
+            <path fill-rule="nonzero" stroke="#323232" fill="#ffffff" d="M113.0,46.5L113.0,.0L.0,.0L.0,46.5L113.0,46.5z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="30.5" y="19.3">联邦议院</tspan>
+                <tspan x="10.0" y="38.3">(立法, 权力更大)</tspan>
+            </text>
+        </g>
+        <g id="shape9" transform="translate(1040.00,1012.20)">
+            <path fill-rule="nonzero" stroke="#323232" fill="#ffffff" d="M113.0,46.5L113.0,.0L.0,.0L.0,46.5L113.0,46.5z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="24.0" y="19.5">联邦参议院</tspan>
+                <tspan x="39.5" y="38.5">(立法)</tspan>
+            </text>
+        </g>
+        <g id="shape10" transform="translate(1311.02,1058.70)">
+            <path stroke="#191919" fill="none" d="M.0,.0L.0,160.5"/>
+            <path stroke-linecap="round" stroke-width="1" stroke="#191919" fill="#191919" d="M3.0,160.5L.0,166.5L-3.0,160.5L3.0,160.5"/>
+            <rect x="-12.0" width="26.0" y="112.0" height="19.0" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="-12.0" y="127.0">选出</tspan>
+            </text>
+        </g>
+        <g id="shape11" transform="translate(1238.26,1368.00)">
+            <path fill-rule="nonzero" stroke="#323232" fill="#ffffff" d="M145.5,63.5L145.5,.0L.0,.0L.0,63.5L145.5,63.5z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="53.3" y="23.3">副总理</tspan>
+                <tspan style="font-size:7.00pt" x="4.3" y="38.3">- 通常由"执政联盟"中少数政党的</tspan>
+                <tspan style="font-size:7.00pt" x="4.3" y="52.3">重要内阁成员担任。</tspan>
+            </text>
+        </g>
+        <g id="shape12" transform="translate(1311.02,1302.75)">
+            <path stroke="#191919" fill="none" d="M.0,.0L.0,59.3"/>
+            <path stroke-linecap="round" stroke-width="1" stroke="#191919" fill="#191919" d="M3.0,59.3L.0,65.3L-3.0,59.3L3.0,59.3"/>
+            <rect x="-12.0" width="26.0" y="20.4" height="19.0" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="-12.0" y="35.4">任命</tspan>
+            </text>
+        </g>
+        <g id="shape13" transform="translate(1473.50,1134.00)">
+            <path stroke="#191919" fill="none" d="M.0,.0L.0,85.3"/>
+            <path stroke-linecap="round" stroke-width="1" stroke="#191919" fill="#191919" d="M3.0,85.3L.0,91.3L-3.0,85.3L3.0,85.3"/>
+            <rect x="-12.0" width="26.0" y="51.6" height="19.0" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="-12.0" y="66.6">选出</tspan>
+            </text>
+        </g>
+        <g id="shape14" transform="translate(1238.26,883.93)">
+            <path fill-rule="nonzero" stroke="#323232" fill="#ffffff" d="M145.5,33.1L145.5,.0L.0,.0L.0,33.1L145.5,33.1z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="59.8" y="22.0">人民</tspan>
+            </text>
+        </g>
+        <g id="shape15" transform="translate(1311.02,917.00)">
+            <path stroke="#191919" fill="none" d="M.0,.0L.0,89.2"/>
+            <path stroke-linecap="round" stroke-width="1" stroke="#191919" fill="#191919" d="M3.0,89.2L.0,95.2L-3.0,89.2L3.0,89.2"/>
+            <rect x="-12.0" width="26.0" y="16.2" height="19.0" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="-12.0" y="31.2">普选</tspan>
+            </text>
+        </g>
+        <g id="shape16" transform="translate(1023.74,883.93)">
+            <path fill-rule="nonzero" stroke="#323232" fill="#ffffff" d="M145.5,33.1L145.5,.0L.0,.0L.0,33.1L145.5,33.1z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="46.8" y="22.5">各联邦州</tspan>
+            </text>
+        </g>
+        <g id="shape17" transform="translate(1096.50,917.00)">
+            <path stroke="#191919" fill="none" d="M.0,.0L.0,89.2"/>
+            <path stroke-linecap="round" stroke-width="1" stroke="#191919" fill="#191919" d="M3.0,89.2L.0,95.2L-3.0,89.2L3.0,89.2"/>
+            <rect x="-12.0" width="26.0" y="34.2" height="19.0" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="-12.0" y="49.2">代表</tspan>
+            </text>
+        </g>
+        <g id="shape18" transform="translate(1180.00,1059.70)">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:7.00pt" xml:space="preserve">
+                <tspan x="4.2" y="15.0">政党必须在全国得票率超过</tspan>
+                <tspan x="4.2" y="29.0">百分之五，或是赢得三个以</tspan>
+                <tspan x="4.2" y="43.0">上的选区席次，才可进入联</tspan>
+                <tspan x="4.2" y="57.0">邦议院。这项也被称为“百</tspan>
+                <tspan x="4.2" y="71.0">分之五门槛”</tspan>
+                <tspan x="4.2" y="85.0">（Fünfprozenthürde）的</tspan>
+                <tspan x="4.2" y="99.0">规则，其目的是避免政治破</tspan>
+                <tspan x="4.2" y="113.0">碎及大量的小政党。</tspan>
+            </text>
+        </g>
+        <g id="shape19" transform="translate(1569.00,951.95)">
+            <path fill-rule="nonzero" stroke="#323232" fill="#ffffff" d="M145.5,68.1L145.5,.0L.0,.0L.0,68.1L145.5,68.1z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="33.8" y="23.0">联邦宪法法院</tspan>
+                <tspan x="42.8" y="42.0">(最高法院)</tspan>
+                <tspan style="font-size:7.00pt" x="18.8" y="57.0">为民事与刑事案件终审法院</tspan>
+            </text>
+        </g>
+        <g id="shape20" transform="translate(1749.86,951.95)">
+            <path fill-rule="nonzero" stroke="#323232" fill="#ffffff" d="M85.9,68.1L85.9,.0L.0,.0L.0,68.1L85.9,68.1z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="17.0" y="30.0">联邦最高</tspan>
+                <tspan x="17.0" y="49.0">劳工法院</tspan>
+            </text>
+        </g>
+        <g id="shape21" transform="translate(1850.23,951.95)">
+            <path fill-rule="nonzero" stroke="#323232" fill="#ffffff" d="M85.9,68.1L85.9,.0L.0,.0L.0,68.1L85.9,68.1z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="17.0" y="30.0">联邦最高</tspan>
+                <tspan x="17.0" y="49.0">社会法院</tspan>
+            </text>
+        </g>
+        <g id="shape22" transform="translate(1951.98,951.95)">
+            <path fill-rule="nonzero" stroke="#323232" fill="#ffffff" d="M85.9,68.1L85.9,.0L.0,.0L.0,68.1L85.9,68.1z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="17.0" y="30.5">联邦最高</tspan>
+                <tspan x="17.0" y="49.5">财政法院</tspan>
+            </text>
+        </g>
+        <g id="shape23" transform="translate(2053.04,951.95)">
+            <path fill-rule="nonzero" stroke="#323232" fill="#ffffff" d="M85.9,68.1L85.9,.0L.0,.0L.0,68.1L85.9,68.1z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="17.0" y="30.5">联邦最高</tspan>
+                <tspan x="17.0" y="49.5">行政法院</tspan>
+            </text>
+        </g>
+        <g id="shape24" transform="translate(1850.23,1034.06)">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:7.00pt" xml:space="preserve">
+                <tspan x="4.5" y="15.0">负责审理关于社会</tspan>
+                <tspan x="4.5" y="29.0">保障相关的上诉案</tspan>
+                <tspan x="4.5" y="43.0">件，其中最主要是</tspan>
+                <tspan x="4.5" y="57.0">关于公共卫生保</tspan>
+                <tspan x="4.5" y="71.0">险、长期护理保</tspan>
+                <tspan x="4.5" y="85.0">险、养老保险和职</tspan>
+                <tspan x="4.5" y="99.0">业灾害保险所产生</tspan>
+                <tspan x="4.5" y="113.0">的争讼。</tspan>
+            </text>
+        </g>
+        <g id="shape25" transform="translate(1749.86,1034.06)">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:7.00pt" xml:space="preserve">
+                <tspan x="4.5" y="15.0">关于劳工法案件的</tspan>
+                <tspan x="4.5" y="29.0">终审法院</tspan>
+            </text>
+        </g>
+        <g id="shape26" transform="translate(1758.23,899.88)">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="45.6" y="22.1">德国五个终审法院</tspan>
+            </text>
+        </g>
+        <g id="shape27" transform="translate(2053.04,1034.06)">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:7.00pt" xml:space="preserve">
+                <tspan x="4.5" y="15.0">负责审理关于全国</tspan>
+                <tspan x="4.5" y="29.0">与行政法相关的争</tspan>
+                <tspan x="4.5" y="43.0">讼事件，大部分的</tspan>
+                <tspan x="4.5" y="57.0">案件都是政府和人</tspan>
+                <tspan x="4.5" y="71.0">民之间的行政争讼</tspan>
+                <tspan x="4.5" y="85.0">事件。</tspan>
+            </text>
+        </g>
+        <g id="shape28" transform="translate(1951.98,1034.06)">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:7.00pt" xml:space="preserve">
+                <tspan x="4.5" y="15.0">负责审理关于一般</tspan>
+                <tspan x="4.5" y="29.0">税务和关税的法律</tspan>
+                <tspan x="4.5" y="43.0">所产生之纷争</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

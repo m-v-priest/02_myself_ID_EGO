@@ -1,0 +1,209 @@
+<svg width="977" viewBox="0 0 977 631" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="631">
+    <defs/>
+    <g transform="translate(-640.12,-56.00)">
+        <path id="shape1" fill-rule="nonzero" transform="translate(1265.12,308.00)" fill="#cfe9d8" d="M350.9,204.7L350.9,.0L.0,.0L.0,204.7L350.9,204.7z"/>
+        <g id="shape2" transform="translate(641.12,308.00)">
+            <path fill-rule="nonzero" fill="#fedad0" d="M284.9,166.2L284.9,.0L.0,.0L.0,166.2L284.9,166.2z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="129.4" y="19.0">国会</tspan>
+            </text>
+        </g>
+        <g id="shape3" transform="translate(777.65,349.27)">
+            <path fill-rule="nonzero" stroke="#323232" fill="#ffffff" d="M122.9,95.7L122.9,.0L.0,.0L.0,95.7L122.9,95.7z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="35.4" y="22.8">国民议会</tspan>
+                <tspan x="37.9" y="41.8">(下议院)</tspan>
+                <tspan style="font-size:7.00pt" x="4.4" y="56.8">- 最高立法机关</tspan>
+                <tspan style="font-size:7.00pt" x="4.4" y="70.8">- 当两个议会意见不同时，</tspan>
+                <tspan style="font-size:7.00pt" x="4.4" y="84.8">国民议会拥有最后裁决权。</tspan>
+            </text>
+        </g>
+        <g id="shape4" transform="translate(650.10,378.27)">
+            <path fill-rule="nonzero" stroke="#323232" fill="#ffffff" d="M97.8,37.7L97.8,.0L.0,.0L.0,37.7L97.8,37.7z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="29.4" y="24.3">参议院</tspan>
+            </text>
+        </g>
+        <g id="shape5" transform="translate(641.12,139.00)">
+            <path fill-rule="nonzero" stroke="#323232" fill="#ffffff" d="M530.9,32.0L530.9,.0L.0,.0L.0,32.0L530.9,32.0z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="252.4" y="21.5">人民</tspan>
+            </text>
+        </g>
+        <g id="shape6" transform="translate(1024.00,418.13)">
+            <path fill-rule="nonzero" stroke="#323232" fill="#ffffff" d="M148.0,65.6L148.0,.0L.0,.0L.0,65.6L148.0,65.6z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="61.0" y="24.3">总统</tspan>
+                <tspan style="font-size:7.00pt" x="4.0" y="39.3">- 是国家元首和武装部队司令</tspan>
+                <tspan style="font-size:7.00pt" x="4.0" y="53.3">- 任期5年</tspan>
+            </text>
+        </g>
+        <g id="shape7" transform="translate(1063.70,171.00)">
+            <path stroke="#191919" fill="none" d="M.0,.0L.0,215.1L.3,215.1L.3,241.1"/>
+            <path stroke-linecap="round" stroke-width="1" stroke="#191919" fill="#191919" d="M3.3,241.1L.3,247.1L-2.7,241.1L3.3,241.1"/>
+            <rect x="-12.0" width="26.0" y="105.0" height="19.0" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="-12.0" y="120.0">直选</tspan>
+            </text>
+        </g>
+        <g id="shape8" transform="translate(1024.00,450.95)">
+            <path stroke="#191919" fill="none" d="M.0,.0L-91.4,.0L-91.4,-53.9L-117.4,-53.9"/>
+            <path stroke-linecap="round" stroke-width="1" stroke="#191919" fill="#191919" d="M-117.4,-50.9L-123.4,-53.9L-117.4,-56.9L-117.4,-50.9"/>
+            <rect x="-67.5" width="39.0" y="-19.0" height="19.0" fill="#ffffff"/>
+            <rect x="-87.0" width="78.0" y="0.0" height="19.0" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="-67.5" y="-4.0">有权力</tspan>
+                <tspan x="-87.0" y="15.0">解散国民议会</tspan>
+            </text>
+        </g>
+        <g id="shape9" transform="translate(765.10,548.00)">
+            <path fill-rule="nonzero" stroke="#323232" fill="#ffffff" d="M148.0,48.6L148.0,.0L.0,.0L.0,48.6L148.0,48.6z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="61.0" y="22.8">总理</tspan>
+                <tspan style="font-size:7.00pt" x="4.0" y="37.8">- 一般是由国民议会多数党中产生</tspan>
+            </text>
+        </g>
+        <g id="shape10" transform="translate(1060.56,483.77)">
+            <path stroke="#191919" fill="none" d="M.0,.0L.0,88.5L-141.5,88.5"/>
+            <path stroke-linecap="round" stroke-width="1" stroke="#191919" fill="#191919" d="M-141.5,91.5L-147.5,88.5L-141.5,85.5L-141.5,91.5"/>
+            <rect x="-38.6" width="26.0" y="79.0" height="19.0" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="-38.6" y="94.0">任命</tspan>
+            </text>
+        </g>
+        <g id="shape11" transform="translate(765.10,653.65)">
+            <path fill-rule="nonzero" stroke="#323232" fill="#ffffff" d="M148.0,32.6L148.0,.0L.0,.0L.0,32.6L148.0,32.6z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="35.0" y="22.0">政府内阁成员</tspan>
+            </text>
+        </g>
+        <g id="shape12" transform="translate(839.10,596.65)">
+            <path stroke="#191919" fill="none" d="M.0,.0L.0,51.0"/>
+            <path stroke-linecap="round" stroke-width="1" stroke="#191919" fill="#191919" d="M3.0,51.0L.0,57.0L-3.0,51.0L3.0,51.0"/>
+            <rect x="-12.0" width="26.0" y="11.8" height="19.0" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="-12.0" y="26.8">提名</tspan>
+            </text>
+        </g>
+        <g id="shape13" transform="translate(1098.00,483.77)">
+            <path stroke-dasharray="2.5,2.5" stroke="#191919" fill="none" d="M.0,.0L.0,122.2L-232.0,122.2"/>
+            <path stroke-linecap="round" stroke-width="1" stroke="#191919" fill="#191919" d="M-232.0,125.2L-238.0,122.2L-232.0,119.2L-232.0,125.2"/>
+            <rect x="-121.2" width="26.0" y="112.7" height="19.0" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="-121.2" y="127.7">批准</tspan>
+            </text>
+        </g>
+        <g id="shape14" transform="translate(1136.48,418.13)">
+            <path stroke-width="2" stroke="#c00000" fill="none" d="M.0,.0L.0,-215.1L-0.0,-215.1L-0.0,-238.6"/>
+            <path stroke-linecap="round" stroke-width="1" stroke="#c00000" fill="#c00000" d="M-4.3,-238.6L-0.0,-247.1L4.2,-238.6L-4.3,-238.6"/>
+            <rect x="-18.5" width="39.0" y="-143.3" height="19.0" fill="#ffffff"/>
+            <rect x="-25.0" width="52.0" y="-124.3" height="19.0" fill="#ffffff"/>
+            <text style="fill:#c00000;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="-18.5" y="-128.3">直接向</tspan>
+                <tspan x="-25.0" y="-109.3">选民负责</tspan>
+            </text>
+        </g>
+        <g id="shape15" transform="translate(879.36,548.00)">
+            <path stroke-width="2" stroke="#c00000" fill="none" d="M.0,.0L.0,-71.1L-0.1,-71.1L-0.1,-94.6"/>
+            <path stroke-linecap="round" stroke-width="1" stroke="#c00000" fill="#c00000" d="M-4.3,-94.6L-0.1,-103.1L4.2,-94.6L-4.3,-94.6"/>
+            <rect x="-31.5" width="65.0" y="-77.4" height="19.0" fill="#ffffff"/>
+            <rect x="-31.5" width="65.0" y="-58.4" height="19.0" fill="#ffffff"/>
+            <rect x="-12.0" width="26.0" y="-39.4" height="19.0" fill="#ffffff"/>
+            <text style="fill:#c00000;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="-31.5" y="-62.4">总理和内阁</tspan>
+                <tspan x="-31.5" y="-43.4">向国民议会</tspan>
+                <tspan x="-12.0" y="-24.4">负责</tspan>
+            </text>
+        </g>
+        <g id="shape16" transform="translate(797.76,57.00)">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="113.7" y="36.0">法国:</tspan>
+                <tspan x="61.2" y="55.0">双首长制 (总统 + 总理)</tspan>
+            </text>
+        </g>
+        <g id="shape17" transform="translate(839.14,171.00)">
+            <path stroke="#191919" fill="none" d="M.0,.0L.0,146.3L-0.0,146.3L-0.0,172.3"/>
+            <path stroke-linecap="round" stroke-width="1" stroke="#191919" fill="#191919" d="M3.0,172.3L-0.0,178.3L-3.0,172.3L3.0,172.3"/>
+            <rect x="-57.5" width="117.0" y="48.7" height="19.0" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="-57.5" y="63.7">直选国民议会的成员</tspan>
+            </text>
+        </g>
+        <g id="shape18" transform="translate(803.22,444.93)">
+            <path stroke="#191919" fill="none" d="M.0,.0L.0,53.2L.1,53.2L.1,97.1"/>
+            <path stroke-linecap="round" stroke-width="1" stroke="#191919" fill="#191919" d="M3.1,97.1L.1,103.1L-2.9,97.1L3.1,97.1"/>
+            <rect x="-12.0" width="26.0" y="26.4" height="19.0" fill="#ffffff"/>
+            <rect x="-25.0" width="52.0" y="45.4" height="19.0" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="-12.0" y="41.4">有权</tspan>
+                <tspan x="-25.0" y="60.4">废除政府</tspan>
+            </text>
+        </g>
+        <g id="shape19" transform="translate(1285.00,425.51)">
+            <path fill-rule="nonzero" stroke="#323232" fill="#ffffff" d="M148.0,65.6L148.0,.0L.0,.0L.0,65.6L148.0,65.6z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="48.0" y="31.5">司法法院</tspan>
+                <tspan style="font-size:7.00pt" x="29.0" y="46.5">组裁判民事和刑事案件</tspan>
+            </text>
+        </g>
+        <g id="shape20" transform="translate(1448.00,349.27)">
+            <path fill-rule="nonzero" stroke="#323232" fill="#ffffff" d="M148.0,65.6L148.0,.0L.0,.0L.0,65.6L148.0,65.6z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="48.0" y="24.5">行政法院</tspan>
+                <tspan style="font-size:7.00pt" x="20.0" y="39.5">裁判针对政府官员和机构的</tspan>
+                <tspan style="font-size:7.00pt" x="51.5" y="53.5">索赔和诉讼</tspan>
+            </text>
+        </g>
+        <g id="shape21" transform="translate(1285.00,349.27)">
+            <path fill-rule="nonzero" stroke="#323232" fill="#ffffff" d="M148.0,65.6L148.0,.0L.0,.0L.0,65.6L148.0,65.6z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="41.5" y="31.5">宪法委员会</tspan>
+                <tspan style="font-size:7.00pt" x="25.0" y="46.5">裁定国会法案的"合宪性"</tspan>
+            </text>
+        </g>
+        <g id="shape22" transform="translate(1448.00,426.51)">
+            <path fill-rule="nonzero" stroke="#323232" fill="#ffffff" d="M148.0,64.6L148.0,.0L.0,.0L.0,64.6L148.0,64.6z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="48.0" y="23.8">财政法院</tspan>
+                <tspan style="font-size:7.00pt" x="6.5" y="38.8">审计政府财政、公共机构（包括其</tspan>
+                <tspan style="font-size:7.00pt" x="33.5" y="52.8">它法院）和公共实体</tspan>
+            </text>
+        </g>
+        <g id="shape23" transform="translate(1117.00,527.00)">
+            <path fill-rule="nonzero" stroke="#323232" fill="#ffffff" d="M148.0,90.6L148.0,.0L.0,.0L.0,90.6L148.0,90.6z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="35.0" y="23.0">人权保护官署</tspan>
+                <tspan style="font-size:7.00pt" x="4.0" y="38.0">- 他不能被解除职务</tspan>
+                <tspan style="font-size:7.00pt" x="4.0" y="52.0">- 他的公务行为, 被与国会豁免权相</tspan>
+                <tspan style="font-size:7.00pt" x="4.0" y="66.0">似的豁免权保护。</tspan>
+                <tspan style="font-size:7.00pt" x="4.0" y="80.0">- 他不接受任何权力机构的命令。</tspan>
+            </text>
+        </g>
+        <g id="shape24" transform="translate(1134.56,483.77)">
+            <path stroke="#191919" fill="none" d="M.0,.0L.0,27.2L56.4,27.2L56.4,37.2"/>
+            <path stroke-linecap="round" stroke-width="1" stroke="#191919" fill="#191919" d="M59.4,37.2L56.4,43.2L53.4,37.2L59.4,37.2"/>
+            <rect x="4.9" width="26.0" y="17.7" height="19.0" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="4.9" y="32.7">任命</tspan>
+            </text>
+        </g>
+        <g id="shape25" transform="translate(650.10,220.67)">
+            <path fill-rule="nonzero" stroke="#323232" fill="#ffffff" d="M97.8,37.7L97.8,.0L.0,.0L.0,37.7L97.8,37.7z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="22.9" y="24.5">地方官员</tspan>
+            </text>
+        </g>
+        <g id="shape26" transform="translate(699.00,258.33)">
+            <path stroke="#191919" fill="none" d="M.0,.0L.0,113.9"/>
+            <path stroke-linecap="round" stroke-width="1" stroke="#191919" fill="#191919" d="M3.0,113.9L.0,119.9L-3.0,113.9L3.0,113.9"/>
+            <rect x="-12.0" width="26.0" y="22.0" height="19.0" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="-12.0" y="37.0">选择</tspan>
+            </text>
+        </g>
+        <g id="shape27" transform="translate(699.00,170.00)">
+            <path stroke="#191919" fill="none" d="M.0,.0L-0.0,44.7"/>
+            <path stroke-linecap="round" stroke-width="1" stroke="#191919" fill="#191919" d="M3.0,44.7L-0.0,50.7L-3.0,44.7L3.0,44.7"/>
+        </g>
+    </g>
+</svg>
