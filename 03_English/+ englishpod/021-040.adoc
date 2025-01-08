@@ -624,7 +624,7 @@ However, the bank charges (v.) the customer for this service in a few ways, for 
 
 有了透支保护，即使账户资金不足，银行也会补足不足的部分，以便交易顺利进行。当客户注册透支保护时，他们会指定一个备用账户供银行用​​作支付任何透支的来源——通常是链接的储蓄账户、信用卡或信用额度。然而，银行通过多种方式向客户收取此项服务的费用，例如通过"透支费"来处理任何透支账户的交易。
 
-= Without overdraft protection, `主` transactions that have insufficient funds to cover them `谓` are returned unpaid—that is, _checks_ bounce (v.)拒付，退回（支票等） and _debit transactions_ are refused, which can be expensive and disruptive (a.)引起混乱的；扰乱性的；破坏性的 for the customer. Many banks charge (v.) overdraft and non-sufficient funds (NSF) fees (traditionally between $30 and $35, per transaction, on average, although several larger banks began reducing or eliminating 消除 the NSF fee *as of* 从…开始，截至… late 2022) for accounts that don't have sufficient funds.
+Without overdraft protection, `主` transactions that have insufficient funds to cover them `谓` are returned unpaid—that is, _checks_ bounce (v.)拒付，退回（支票等） and _debit transactions_ are refused, which can be expensive and disruptive (a.)引起混乱的；扰乱性的；破坏性的 for the customer. Many banks charge (v.) overdraft and non-sufficient funds (NSF) fees (traditionally between $30 and $35, per transaction, on average, although several larger banks began reducing or eliminating 消除 the NSF fee *as of* 从…开始，截至… late 2022) for accounts that don't have sufficient funds.
 
 
 如果没有透支保护，资金不足以支付的交易将被退回未付款，也就是说，支票被退回并且借记交易被拒绝，这对客户来说可能是昂贵的且具有破坏性。许多银行对资金不足的账户收取透支和资金不足 (NSF)费用（传统上每笔交易平均在 30 至 35 美元之间，尽管几家较大的银行从 2022 年底开始减少或取消 NSF 费用）资金。
@@ -699,65 +699,119 @@ I’m gonna make a beer run (（尤指短程或定期，乘交通工具的）旅
 == 034.Elementary‐ Upper‐Intermediate ‐ Live 现场直播地，实况转播地 from Washington (D0034)
 
 A: This is Madeline Wright, for BCC News
-reporting live from Washington D. C. where,
-very shortly, the new President will deliver
-his inaugural address. Just moments ago, the
-President was sworn-in to office; following
+_reporting live_ 现场报道 from Washington D. C. where,
+very shortly 很快地, the new President will deliver
+his inaugural （演说）就职的，就任的；首次的，初始的 address 讲，演说. Just moments ago, the
+President was sworn-in 宣誓就职 to office; following
 the United States Constitution the President
-swore an oath to faithfully execute the office
+swore (v.)郑重承诺；发誓要；表示决心要 an oath 誓言，誓约 to faithfully execute (v.)执行，实施 the office
 of the presidency.
+
+[.my2]
+我是玛德琳·赖特，bbc新闻从华盛顿发回的现场报道，很快，新总统将发表就职演说。就在刚才，总统宣誓就职；根据美国宪法，总统宣誓忠实履行总统职务。
 
 B: And what exactly is going on now,
 Madeline?
 
-A: Well, Tom, true to American tradition, the
-band has just played “Hail to the Chief”, and
-the President has been honored by a 21-gun
-salute. Now we’re waiting for the President to
-take to the stage and deliver his speech.
-Tom, it’s like a who’s who of the political
-world here on Capital Hill, with dignitaries
-representing several different countries.
+[.my2]
+现在到底发生了什么
 
-B: What’s the mood on the ground like,
+A: Well, Tom, *true (a.)忠诚的；忠心耿耿的；忠实的;精确的；与正本无异的；逼真的 to* American tradition, the
+band has just played “Hail 赞扬，欢呼 to the Chief 领袖，首领”, and
+the President has been honored 尊敬，尊重（某人） by a 21-gun
+salute 致敬；致意;鸣礼炮；鸣炮致敬. Now we’re waiting for the President to
+take to the stage 登台 and deliver his speech.
+Tom, it’s like a _who’s who_ 名人录,一群知名人物 of the political
+world here on Capital 首都，首府 Hill 山丘，小山, with dignitaries 显贵；要人；达官贵人
+representing (v.) several different countries.
+
+[.my2]
+按照美国的传统，乐队刚刚演奏了《向领袖致敬》，总统受到了21响礼炮的致敬。现在我们正在等待总统上台发表演讲。汤姆，这就像国会山的政界名人录，有来自不同国家的政要。
+
+[.my1]
+.案例
+====
+"Who’s who" 是一个习语，意思是 “名人录” 或 “一群知名人物”，通常用来描述在某个领域中非常重要或有名的人物集合。 +
+在这个句子中，"a who’s who of the political world" 的意思是：
+“这里聚集了政界的知名人物或精英群体。”
+
+A _Who's Who_ (or _Who Is Who_) is a reference work (n.)工作成果；产品；作品 consisting of biographical 传记的，生平的 entries （词典所列的）词目 of notable 显要的，值得注意的；非常成功的，令人尊敬的 people in a particular field. The oldest and best-known is the annual publication Who's Who, a reference work on contemporary prominent people in Britain published annually since 1849.
+
+《名人录》 （或《名人录》）是一本参考书，其中包含特定领域知名人士的传记条目。最古老、最著名的是年度出版物《名人录》，这是一本关于英国当代杰出人物的参考书，自 1849 年以来每年出版一次。
+====
+
+
+B: What’s the mood 情绪；气氛 _on the ground_ 当场；在现场 like,
 Madeline?
 
-A: In a word, the mood here is electric. The
-excitement in the air is palpable; I’ve never
+[.my2]
+现场的气氛怎么样？
+
+A: In a word 总之，概括地说, the mood here is electric 充满刺激的；令人激动的;电动的；发电的. The
+excitement 激动，兴奋 in the air is palpable 明显的；可感知的；易觉察的; I’ve never
 seen a larger crowd here on Capital Hill, and
-the audience is shouting, crying, and
+the audience 观众，听众 is shouting, crying, and
 embracing each other. On this, a most
 historic day, you can feel the hope and the
 excitement in the air. The 20th of January
-will go down in history as the . . . . Oh, Tom,
+will *go down in history* 载入史册 as the . . . . Oh, Tom,
 it looks like the President is about to
 begin. . .
 
-C: My fellow Americans, today I stand before
+[.my2]
+总而言之，这里的气氛令人兴奋。空气中的兴奋是显而易见的；我从来没有在国会山见过这么多人，观众们又喊又哭，互相拥抱。在这个最具历史意义的日子里，你可以感受到空气中弥漫着希望和兴奋。1月20日将作为. . . .被载入史册哦，汤姆，看起来总统就要开始了…
+
+
+
+
+C: My fellow 同事；同辈；同类；配对物 Americans, today I stand before
 you...
+
+[.my2]
+我的美国同胞们，今天我站在你们面前…
+
 
 '''
 
-== 035.Elementary ‐ Daily Life ‐ He’s not a Good Fit (C0035)
+== 035.Elementary ‐ Daily Life ‐ He’s not a _Good Fit_ (（质量、素质或技能）适合的，恰当的，合格的) 適任、適合 (C0035)
+
+
+[.my1]
+.案例
+====
+.fit
+(v.)~ for sb/sth |~ to do sth : suitable; of the right quality; with the right qualities or skills （质量、素质或技能）适合的，恰当的，合格的 +
+- The food was not fit for human consumption. 这食物不适合人吃。 +
+- The children seem to think I'm only fit for cooking and washing! 孩子们似乎以为我只配做饭洗衣！
+
+.be a good fit for something = 適任、適合
+So, you didn't like the guy?
+所以, 你不喜歡那個人? +
+He wasn't a good fit for me.
+我覺得他並不適任。
+====
 
 A: So, Lauren, I just wanted to talk to you
-quickly about our new customer support
-representative, Jason Huntley.
+quickly about our new _customer support_
+representative  代表，代理人, Jason Huntley.
+
+[.my2]
+我想跟你快速谈谈我们的新客户支持代表，杰森·亨特利。
 
 B: Sure, what’s up?
 
-A: Basically, I’ve got a few concerns about
+A: Basically, I’ve got a few concerns （尤指许多人共同的）担心，忧虑 about
 him, and the bottom line is, I don’t think he’s
 a good fit for our company.
 
 B: Okay... what makes you say that? I
-thought you were pleased with his overall
+thought you were pleased 高兴的，满意的 with his overall
 performance. Didn’t you just tell me last
-week how impressed you were with his
+week how impressed 使钦佩，使留下深刻印象 you were with his
 attitude?
 
 A: Yeah, his attitude is great, but he’s really
-unreliable. Sometimes he’s really productive,
+unreliable 不可靠的；靠不住的. Sometimes he’s really productive 生产的;富有成效的,
 but then other times... take last Tuesday for
 instance, he was forty-five minutes late for
 our morning meeting!
@@ -766,87 +820,135 @@ B: Well, I’m sure he had a perfectly good
 reason...
 
 A: But that’s not the only thing... you know,
-he really doesn’t have the best work ethic,
+he really doesn’t have the best work ethic 行为准则，道德规范，伦理标准；信仰,
 I’m constantly catching him on MSN and
-Facebook when he should be talking to
+Facebook when he *should be* talk**ing** 本该现在正在做某事（实际没有做） to
 clients.
 
-B: Yeah, but come on, Geoff, as if you don’t
-check Facebook at work. Look, you hired this
-guy, we’ve invested a lot of time and money
-in his training, so now it’s up to you to coach
-him. Make it work, Geoff!
+[.my2]
+当他应该和客户交谈的时候，我却经常在MSN和Facebook上看到他。
+
+[.my1]
+.案例
+====
+.should have done 表示过去本该做某事, 而实际未做。 +
+例如一个孩子在本该睡午觉的时间看电视，母亲发现后会说，You should be sleeping now. 你本该是在睡觉的。
+====
+
+B: Yeah, but come on, Geoff, *as if* 好像，仿佛 you don’t
+check 查看，查询 Facebook at work. Look, you hired this
+guy, we’ve invested 投资，花费 a lot of time and money
+in his training, so now *it’s up to you* 由你決定;取決於你 to coach (v.)训练，指导
+him. Make it work 使某事物正常运转或成功实现, Geoff!
+
+[.my2]
+是啊，但是拜托，杰夫，好像你工作的时候不刷脸书似的。听着，你雇了这个人，我们在他的训练上投入了大量的时间和金钱，现在就靠你来指导他了。让它发挥作用;加油干，杰夫！
 
 A: Make it work, Geoff. You would say that,
-wouldn’t you, he is your cousin; what a jerk,
+wouldn’t you, he is your cousin 堂（表）兄弟，堂（表）姐妹; what a jerk 蠢人；傻瓜；笨蛋,
 make me hire your stupid, useless, cousin.
 
+[.my2]
+好好干，杰夫。你会这么说，是吗？他是你的堂兄。真是个混蛋，让我雇你那愚蠢无用的堂兄。
+
+[.my1]
+.案例
+====
+.jerk
+[ C] ( informal ) a stupid person who often says or does the wrong thing 蠢人；傻瓜；笨蛋
+
+.what a jerk
+真是个混蛋;你这人怎么这样!;真是一堆垃圾
+====
 
 '''
 
 == 036.Elementary ‐ I’m Sorry, I Love You III (B0036)
 
 A: Steven! Where have you been? I’ve been
-trying to get a hold of you for hours!
+trying to *get a hold of 和某人联系；找到某人;抓住；拿着；握着；握住 you* for hours!
+
+[.my2]
+我找了你几个小时了！
 
 B: I... um... there was an emergency at
-work, so...
+work 工作上有急事, so...
 
-A: I was waiting for you in the restaurant for
+
+
+A: I was waiting for you in the restaurant 餐馆，饭店 for
 three hours! And you didn’t even have the
-decency to call me! Do you have any idea
-how embarrassed I was?
+decency 礼仪；行为准则 to call me! Do you have any idea
+how embarrassed 尴尬的，窘迫的；拮据的，陷入经济困境的 I was?
 
 B: Honey, I promise this won’t happen again,
 it’s just that I...
 
-A: Yeah, right. I’ve heard it all before. I’m
+A: Yeah, right. *I’ve heard it all* before. I’m
 not going to take any more of your empty
-promises. This is the 5th time you’ve stood
-me up in two weeks! You need to get your
-10
-Englishpod Dialogues
-priorities straight. I’m tired of you putting
+promises. This is the 5th time you’ve *stood*
+me *up* 不赴约,放某人鸽子 in two weeks! You need to *get* your
+priorities 优先事项；最重要的事；首要事情 *straight* 明确某事；把某事弄清楚. I’m tired of you putting
 your job first all the time!
 
+[.my2]
+是的，没错。我以前都听过了。我不想再听你的空头承诺了。这是你两周内第五次放我鸽子了！你得分清轻重缓急。我受够了你总是把工作放在第一位！
+
+[.my1]
+.案例
+====
+.get sth ˈstraight
+to make a situation clear; to make sure that you or sb else understands the situation 明确某事；把某事弄清楚 +
+• Let's *get this straight* —you really had no idea where he was? 我们把这个明确一下—你当时真的不知道他在哪儿？
+====
+
+
+
 B: Come on, Veronica, that’s not fair. I do
-care about you a lot, you know that. I tried
+*care about* 关心，在意，重视 you a lot, you know that. I tried
 to ...
 
 A: You know what? Maybe we should just
-take a break. I need some time to think
+*take a break* 休息一下. I need some time to think
 about where this relationship is heading.
 
 B: But...Veronica, would you just listen to
 me? There was a fire alarm at my office
-building today and I was stuck...
+building today and I was stuck 被困住，陷入困境...
 
 '''
 
-== 037. Elementary ‐ Intermediate ‐ Chinese New Year (C0037)
+== 037. Elementary ‐ Intermediate 中级的；中等的；适合中等程度者的 ‐ Chinese New Year (C0037)
 
 A: I’m so excited about Chinese New Year!
 When do I get to visit Grandma? Grandma
-makes the best dumplings in the world!
+makes the best dumplings 饺子 in the world!
 
-B: Ha ha, right. Sounds to me like you’re
+[.my2]
+我对中国新年很兴奋！我什么时候能去看奶奶？奶奶包的饺子是世界上最好吃的！
+
+B: Ha ha, right 没错. Sounds to me like 听起来像是，我觉得是 you’re
 more excited about the dumplings than
 seeing your Grandma.
 
-A: Of course I miss Grandma, too. I bet she’s
-gonna teach me how to play Mahjong! Hey,
-Dad, are you going to buy me firecrackers
+A: Of course I miss Grandma, too. I bet 打赌，赌博；<非正式>敢肯定 she’s
+gonna 即将，将要（即 going to） teach me how to play Mahjong 麻将! Hey,
+Dad, are you going to buy me firecrackers  鞭炮，爆竹
 this year? We’re going to have the best
-fireworks! I’m really looking forward to
-lighting them!
+fireworks 烟火! I’m really looking forward to
+lighting 点燃 them!
+
+[.my2]
+我当然也想念奶奶。我打赌她会教我打麻将！嘿,
+爸爸，今年你会给我买鞭炮吗？我们将有最好的烟花！我真的很期待点亮它们！
 
 B: Son, firecrackers aren’t toys; they’re
 dangerous!
 
-A: No, fireworks are awesome!
+A: No, fireworks are awesome 让人惊叹的，令人敬畏的；非常棒的，极佳的!
 
 B: Whoa, don’t you remember? Last year
-when I set off the firecrackers, you covered
+when I *set off* 使（炸弹等）爆炸;引发；激起 the firecrackers, you covered
 both your ears and hid behind your mother?
 
 A: Dad! I was scared because... because I
@@ -858,21 +960,26 @@ A: Oh, and I can’t wait to watch the dragon
 dance! Dad, can I sit on your shoulders this
 time?
 
-B: Hey, I offered last year...
+B: Hey, I offered 主动提出；自愿给予 last year...
 
 A: Well, I... anyways, I was just thinking of
-the red envelopes. I wanna make a list of all
+the red envelopes 红包. I wanna make a list of all
 the things I’m gonna buy with my red
 envelope money! I can’t wait! I’m gonna
 have so much money! Mom, can I get a pen
 and a piece of paper?
 
-A: I want a new transformer, no, two
+[.my2]
+我想列个清单，把我要用红包买的东西都列出来！我都等不及了！我会有很多钱的！妈妈，能给我一支笔和一张纸吗？
+
+A: I want a new transformer 变压器;促使改变的人（或物）, no, two
 transformers...the Optimus Prime,
-and...maybe the wheeljack? I’ll get a PSP
-game, hahaha, and I’ll buy the entire class
+and...maybe the wheeljack (jack是)千斤顶，起重器（换车轮时常用）? I’ll get a PSP
+game, hahaha, and I’ll buy the entire 全部的，整个的 class
 lunch at MacDonald’s...
 
+[.my2]
+我会请全班同学去麦当劳吃午饭
 
 '''
 
@@ -880,18 +987,55 @@ lunch at MacDonald’s...
 
 A: Hi there, can I help you folks?
 
-B: I’m just browsing; seeing what’s on the
-lot. My daughter wants a car for her birthday,
+[.my2]
+大家好，有什么需要帮忙的吗？
+
+B: I’m just browsing  浏览; seeing what’s on the
+lot （作某种用途的）一块地，场地. My daughter wants a car for her birthday,
 you know how it is.
+
+[.my2]
+我只是随便看看；看看场地上有什么。
+
+[.my1]
+.案例
+====
+.lot
+[ C]an area of land used for a particular purpose （作某种用途的）一块地，场地 +
+•a parking lot 停车场 +
+•a vacant lot (= one available to be built on or used for sth) 一块空地 +
+( especially NAmE ) +
+•We're going to build a house on this lot. 我们打算在这块地上建造一座房子。
+====
 
 C: Dad! I’m sixteen already and I’m, like, the
 only one at school who doesn’t have a car!
 
+[.my2]
+我是学校里唯一一个没有车的人！
+
 A: She is right, you know. Kids these days all
 have cars. Let me show you something we
-just got in: a 1996 sedan. Excellent gas
-mileage, it has dual airbags and anti lock
-brakes; a perfect vehicle for a young driver.
+just *got in* 到达; 购买；买进: a 1996 sedan 轿车；轿子. Excellent _gas mileage_ 英里里程;（车辆使用某定量燃料可行驶的）英里数;好处；利益, it has _dual 双的，双重的；双数的 airbags_ 安全气囊 and _anti lock brakes_ 刹车；刹车系统; a perfect vehicle 交通工具，车辆 for a young driver.
+
+[.my2]
+让我给你看看我们刚进的东西:一辆1996年的轿车。出色的油耗，它有双安全气囊和防抱死刹车；一辆适合年轻司机的车。
+
+[.my1]
+.案例
+====
+.sedan
+-> 来自意大利语 sede,椅子，来自拉丁语 sedere,坐，词源同 sit,seat.引申词义轿子，小轿车。
+
+image:/img/sedan.jpg[,20%]
+
+.dual airbags
+image:/img/dual airbags.jpg[,20%]
+
+.anti lock brakes
+image:/img/anti lock brakes.jpg[,30%]
+
+====
 
 C: Dad, I love it! It’s awesome! Can we get
 this one please?
@@ -899,26 +1043,54 @@ this one please?
 B: I see... What can you tell me about this
 one?
 
-A: Oh, that’s just an old World War Two tank
-that we use for TV commercials. Now about
+[.my2]
+你能告诉我这个怎么样？
+
+A: Oh, that’s just an old _World War Two_ tank
+that we use for TV commercials  商业广告；宣传. Now about
 this sedan...
 
-B: Whoa, whoa wait a minute. Tell me more
-about this tank.
+[.my2]
+哦，那只是我们用来拍电视广告的一辆二战时期的旧坦克。现在说说这辆轿车……
 
-A: Well, Sir, if you are looking for quality and
-safety then look no further! Three inches of
-reinforced steel protect your daughter from
-short range missile attacks.
+B: Whoa, whoa wait a minute. Tell me more about this tank.
 
-B: Does the sedan protect her from missile
+A: Well, Sir, if you are looking for quality 质量，品质 and
+safety then look no further! Three inches 英寸 of
+reinforced (a.)加固的；增强的 steel 钢，钢铁 protect your daughter from
+short range 射程，射击距离 missile attacks.
+
+[.my2]
+好吧，先生，如果您正在寻找质量和安全，那就别再找了！三英寸厚的钢筋保护你的女儿免受短程导弹的攻击。
+
+B: Does the sedan protect (v.) her from missile
 attacks?
 
 A: It does not.
 
-B: Well, I don’t know. Let me sleep on it.
+B: Well, I don’t know. Let me *sleep on* 把…留待第二天决定；把…拖延到第二天再说 it.
 
-A: Did I mention the tank is a tank?
+[.my2]
+让我考虑一下。
+
+[.my1]
+.案例
+====
+.sleep on sth
+( informal ) to delay making a decision about sth until the next day, so that you have time to think about it 把…留待第二天决定；把…拖延到第二天再说 +
+• Could I sleep on it and let you know tomorrow? 能不能让我晚上考虑考虑，明天答复你？
+
+====
+
+
+A: Did I mention the tank is a tank 坦克就是坦克?
+
+[.my1]
+.案例
+====
+字面意思："我有没有提到坦克就是坦克？" +
+语气与效果：说话者试图用幽默的方式再次强调 "tank is a tank" ，暗示它是无可替代的。
+====
 
 B: I’ll take it!
 
@@ -928,29 +1100,33 @@ C: Dad!
 
 == 039.Elementary ‐ My New Boyfriend (B0039)
 
-A: Irene! I heard you were on a date last
+A: Irene! I heard you were on a date 约会中 last
 night! So, how how did it go? I want all the
-juicy details!
+juicy 多汁的；汁液丰富的;生动有趣的；妙趣横生的；刺激的 details!
 
-B: Um... well, actually, we had a fantastic
+[.my2]
+艾琳!我听说你昨晚去约会了！那么，事情进展如何？我想知道所有有趣的细节！
+
+B: Um... well, actually, we had a fantastic 极好的，非常棒的
 time last night. He was...amazing!
 
-A: Okay, now you really have to fill me in.
+A: Okay, now you really have *to fill* 向…提供（情况） me *in*.
 What’s he like?
-11
-Englishpod Dialogues
 
 B: He’s really good looking; he’s quite tall,
-around 6’1”, he’s in his early thirties, and
+around 6’1”, he’s in his early thirties 三十几；三十多岁, and
 he’s got the most beautiful dark brown
 eyes...
 
-A: He sounds hot! What does he do for a
-living?
+[.my2]
+他长得真帅；他很高，大约6英尺1英寸，三十出头，有一双最漂亮的深棕色眼睛……
+
+A: He sounds hot! What does he do *for a
+living* 谋生；以此为职业?
 
 B: You know what, this is the best part.
-David is a junior investment banker at
-Fortune Bank, so he’s got a great career path
+David is a junior 地位（或级别）低的，资历较浅的 _investment banker_ 投资银行家 at
+Fortune Bank, so he’s got a great career path 职业发展道路
 ahead of him!
 
 A: Hold on a sec, his name is David?
@@ -961,13 +1137,13 @@ A: That’s my brother!
 
 '''
 
-== 040.Elementary ‐ Can I ask you a favor? (B0040)
+== 040.Elementary ‐ Can I ask you a favor 我能请你帮个忙吗? (B0040)
 
 A: Um, sorry to bother you, um... my name
 is Rachel. I’m new here. Can I ask you a
 favor?
 
-B: Hi Rachel, welcome on board. I’m afraid I
+B: Hi Rachel, welcome *on board* 在船上;上船,上车, 加入团队. I’m afraid I
 can’t help you right now. I’m getting ready
 for a very important meeting.
 
@@ -983,10 +1159,13 @@ A: Sorry to interrupt you Sean, could you do
 me a quick favor?
 
 D: Actually, I’m working on a document that
-is due in a couple minutes. I really can’t talk
+is due (a.)到期 in a couple 两个，几个 minutes. I really can’t talk
 to you right now. Sorry about that.
 
-A: Geeze! I just want to know where the
+[.my2]
+我正在处理一份几分钟后就要到期的文件。
+
+A: Geeze 天呀（表惊讶语气）! I just want to know where the
 bathroom is! What’s wrong with you people!
 
 '''
