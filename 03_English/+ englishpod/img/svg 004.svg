@@ -1,0 +1,62 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" height="146" width="627" viewBox="0 0 627 146">
+    <defs/>
+    <g transform="translate(-157.60,-243.06)">
+        <g id="shape1" transform="translate(158.60,244.06)">
+            <path stroke="#323232" fill-rule="nonzero" fill="#ffffff" d="M84.8,143.7L84.8,.0L.0,.0L.0,143.7L84.8,143.7z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="69.9" x="37.9">A</tspan>
+            </text>
+        </g>
+        <g id="shape2" transform="translate(428.80,244.06)">
+            <path stroke="#323232" fill-rule="nonzero" fill="#ffffff" d="M84.8,143.7L84.8,.0L.0,.0L.0,143.7L84.8,143.7z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="67.9" x="38.4">B</tspan>
+                <tspan y="86.9" x="11.4">(Veronica)</tspan>
+            </text>
+        </g>
+        <g id="shape3" transform="translate(699.00,244.06)">
+            <path stroke="#323232" fill-rule="nonzero" fill="#ffffff" d="M84.8,143.7L84.8,.0L.0,.0L.0,143.7L84.8,143.7z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="58.4" x="37.9">C</tspan>
+                <tspan y="77.4" x="17.4">(Doctor,</tspan>
+                <tspan y="96.4" x="21.4">Daniel)</tspan>
+            </text>
+        </g>
+        <g id="shape4" transform="translate(243.37,283.00)">
+            <path stroke="#191919" d="M.0,.0L179.4,.0" fill="none"/>
+            <path stroke="#191919" stroke-linecap="round" stroke-width="1" fill="#191919" d="M179.4,-3.0L185.4,.0L179.4,3.0L179.4,-3.0"/>
+            <rect y="-24.0" height="16.0" width="95.0" x="46.0" fill="#ffffff"/>
+            <rect y="-8.0" height="16.0" width="119.0" x="34.0" fill="#ffffff"/>
+            <rect y="8.0" height="16.0" width="103.0" x="42.0" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:8.00pt" xml:space="preserve">
+                <tspan y="-12.0" x="46.0">1. I can’t believe </tspan>
+                <tspan y="4.0" x="34.0">you’ve been sleeping</tspan>
+                <tspan y="20.0" x="42.0"> with someone else!</tspan>
+            </text>
+        </g>
+        <g id="shape5" transform="translate(699.00,283.00)">
+            <path stroke="#191919" d="M.0,.0L-179.4,.0" fill="none"/>
+            <path stroke="#191919" stroke-linecap="round" stroke-width="1" fill="#191919" d="M-179.4,3.0L-185.4,.0L-179.4,-3.0L-179.4,3.0"/>
+            <rect y="-24.0" height="16.0" width="120.0" x="-144.1" fill="#ffffff"/>
+            <rect y="-8.0" height="16.0" width="28.0" x="-98.1" fill="#ffffff"/>
+            <rect y="8.0" height="16.0" width="141.0" x="-154.6" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:8.00pt" xml:space="preserve">
+                <tspan y="-12.0" x="-144.1">2. I’m sorry Veronica, </tspan>
+                <tspan y="4.0" x="-98.1">I lied.</tspan>
+                <tspan y="20.0" x="-154.6">You aren’t even pregnant</tspan>
+            </text>
+        </g>
+        <g id="shape6" transform="translate(699.00,360.89)">
+            <path stroke="#191919" d="M.0,.0L-179.4,.0" fill="none"/>
+            <path stroke="#191919" stroke-linecap="round" stroke-width="1" fill="#191919" d="M-179.4,3.0L-185.4,.0L-179.4,-3.0L-179.4,3.0"/>
+            <rect y="-24.0" height="16.0" width="99.0" x="-136.2" fill="#ffffff"/>
+            <rect y="-8.0" height="16.0" width="94.0" x="-133.7" fill="#ffffff"/>
+            <rect y="8.0" height="16.0" width="57.0" x="-115.2" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:8.00pt" xml:space="preserve">
+                <tspan y="-12.0" x="-136.2">3. I sat behind you </tspan>
+                <tspan y="4.0" x="-133.7">every day in class.</tspan>
+                <tspan y="20.0" x="-115.2"> I love you.</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

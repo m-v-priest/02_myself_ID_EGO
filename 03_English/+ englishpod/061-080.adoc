@@ -2,7 +2,7 @@
 :toc: left
 :toclevels: 3
 :sectnums:
-:stylesheet: myAdocCss.css
+:stylesheet: ../../myAdocCss.css
 
 '''
 
@@ -11,29 +11,61 @@
 
 == 061. Elementary ‐ The Weekend ‐ Swim faster! (C0061)
 
-A: This is such a beautiful day! Great for
-sailing!
+A: This is such a beautiful day! *Great for* 适合的；（对…）有用的
+sailing （乘船）航行!
 
-B: It sure is! The water looks so nice! Anchor
-the boat for a little while. I’m going to take a
-dip.
+B: It sure is! The water looks so nice! Anchor (v.)抛锚，泊（船）
+the boat for a little while. I’m going *to take a
+dip*.
 
-A: Why are you doggy-paddling? I taught
-you how to swim! Do your breast stroke!
+[.my1]
+.案例
+====
+.to take a dip (in the sea):
+to go for a short swim or splash (in the ocean)  戏水
+====
 
-B: I get too tired! I’ll just backstroke, it’s
+A: Why are you doggy-paddling 狗刨式? I taught
+you how to swim! Do your _breast  乳房；胸部 stroke_ (划水动作；划桨动作) 蛙泳!
+
+B: I get too tired 我太累了! I’ll just 此时；那时；眼下；现在 backstroke (v.)仰泳, it’s
 easier!
 
+[.my2]
+我就仰泳吧，这样容易些！
+
+[.my1]
+.案例
+====
+.just
+(ad.) at this/that moment; now 此时；那时；眼下；现在
+•I'm just finishing my book. 眼下我正在完成我的一本书。 +
+•I was just beginning to enjoy myself when we had to leave. 我刚开始玩得起劲我们就得离开了。 +
+•I'm just off (= I am leaving now). 我要走了。
+
+====
+
 A: Try kicking your legs more. That’s good.
-Don’t go out too far!
+Don’t go out 外出 too far!
+
+[.my2]
+多踢踢腿。很好。别游太远！
+
 
 B: It’s Jump in!
+
+[.my2]
+跳进来！
 
 A: Kathy! Get back here! I see a shark!
 
 B: Ahhhh!!!! Help me! Help! Bring the boat
 closer! The shark is coming straight towards
 me!
+
+[.my2]
+啊啊啊啊啊！！！救救我！救命！把船开近点！鲨鱼直冲我来了！
+
 
 A: It’s right under you! Kathy!!!!!
 
@@ -43,75 +75,108 @@ A: It’s right under you! Kathy!!!!!
 == 062. Elementary ‐ The Office ‐ Job Interview II (C0062)
 
 A: Thanks for coming in today, did you have
-any trouble finding us? Please take a seat.
+any trouble finding us? Please take a seat 就坐,坐下.
 
 B: Thank you.
 
 A: So, let’s get started; tell me a bit about
 your educational background.
 
-B: Sure! Well, I graduated with honors from
-Chesterton University with a major in
-Business Administration, with a specialization
-in Information Management, and I minored
+B: Sure! Well, I graduated with honors 异成绩  from
+Chesterton University with a major 主修课程；专业课 in
+Business Administration, with a specialization 专业；专业化
+in Information Management, and I minored (v.)辅修
 in psychology. I chose this course of study
 for two reasons: I wanted to gain some
-practical, marketable skills, which the
-information management track provided, and
-I also feel that interpersonal skills are
-essential for professional success, hence the
+practical, marketable 容易出售的；畅销的；有销路的 skills, which the
+information management track （移动的）路径，路线，方向 provided, and
+I also feel that _interpersonal 人际关系的，人际的 skills_ are
+essential 必不可少的，非常重要的；基本的 for professional success 职业成功, hence the
 minor in psychology.
 
-A: Interesting. And, your postgraduate
+[.my2]
+我以优异的成绩毕业于切斯特顿大学，主修工商管理，主修信息管理，辅修心理学。我选择这门课程有两个原因：我想获得一些实用的、有市场价值的技能，这是信息管理专业提供的；我也觉得人际交往能力对职业成功至关重要，因此辅修心理学。答:有趣。你的研究生课程呢？
+
+[.my1]
+.案例
+====
+.honours, honors
+[ pl.]if you pass an exam or *graduate* from a university or school *with honours* , you receive a special mark/grade for having achieved a very high standard优异成绩
+====
+
+A: Interesting. And, your postgraduate 研究生
 studies?
 
 B: Well, I am really passionate about
-consumer behavior, so I pursued a master’s
-18
-Englishpod Dialogues
-in that area. I also strive to keep my
-professional skills current, so I continuously
-attend seminars and conferences related
+consumer behavior 消费者行为, so I pursued 追求；获得；达到（目标） a master’s 硕士学位
+in that area. I also strive 努力，力争 to keep my
+professional skills 专业技能,职业技能 current 通用的；流通的；流行的, so I continuously
+attend (v.) seminars 专题讨论会 and conferences related
 management and customer service.
+
+[.my2]
+我也努力保持自己的专业技能，所以我不断参加与管理和客户服务相关的研讨会和会议。
 
 A: Very good. Now, tell me a little bit about
 your work experience. I see here that you
 previously worked at Oracle.
 
 B: Yeah, I worked as their customer support
-manager, which brought me a breadth of
-experience in both client care, and process
-management. I supervised and coordinated
+manager, which brought me a breadth 宽度;（知识、兴趣等的）广泛 of
+experience in both _client care_ 客户关怀, and process
+management 过程管理 . I supervised (v.)监督；管理；指导；主管 and coordinated 协调，配合
 the customer support team as well as
 implemented new strategies to achieve
 better customer satisfaction.
 
+[.my2]
+我曾担任他们的客户支持经理，这使我在客户服务和流程管理方面, 积累了丰富的经验。监督和协调客户支持团队，并实施新策略以提高客户满意度。
+
 A: Interesting...
 
 B: Yes, in this position I was able to make
-some pretty significant contributions to the
-overall success of the company. With the
-different initiatives that we implemented, we
-lowered our churn rate to about five percent,
-which had a direct impact on revenue.
+some pretty significant contributions (n.) to the
+overall 总的，全面的 success of the company. With the
+different initiatives 倡议；新方案 that we implemented, we
+lowered (v.) our _churn 剧烈搅动；（使）猛烈翻腾 rate_ 流失率 to about five percent,
+which had a direct impact on revenue （企业、组织的）收入，收益.
+
+[.my2]
+在这个职位上，我为公司的整体成功做出了一些相当重要的贡献。通过执行不同的计划，我们将流失率降低到5%左右，这对收益产生了直接影响。
+
+[.my1]
+.案例
+====
+.churn rate
+Churn rate, sometimes known as attrition rate, is the rate at which customers stop (v.) doing business with a company over a given period of time.  +
+Churn may also apply to the number of subscribers who cancel (v.) or don't renew (v.) a subscription. +
+是指客户在给定时间内, 停止与公司开展业务的比率。流失率也可能适用于取消或不续订的订阅者数量。
+====
 
 '''
 
 
-== 063. Elementary ‐ The Office ‐ Receptionist (C0063)
+== 063. Elementary ‐ The Office ‐ Receptionist 接待员 (C0063)
 
 A: Good afternoon. May I help you?
 
 B: Yes, I’m here to see Joanna Stevens. I
 have an appointment at four.
 
+[.my2]
+我来找乔安娜·史蒂文斯。我四点钟有个约会。
+
 A: Certainly, may I take your name? I’ll let
 her know you’ve arrived.
 
 B: Sure, it’s Josh O’Neil.
 
-A: Ms. Stevens will be with you momentarily.
+A: Ms. Stevens will be with you momentarily 片刻地，短暂地.
 Can I offer you something to drink?
+
+[.my2]
+史蒂文斯女士马上就来。要喝点什么吗？
+
 
 B: Yes, a coffee would be nice, thank you.
 
@@ -119,105 +184,150 @@ A: Here you are. Ms. Stevens is ready for
 you now. I’ll show you to her office, right this
 way.
 
-A: Just watch your step here...
+A: Just watch your step here... 小心脚下, 注意脚下
+
+
 
 '''
 
 
 == 064. Elementary ‐ Daily Life ‐ I’m Sorry I Love You VI (C0064)
 
-A: This is ridiculous! I can’t believe you’ve
+
+image:/img/svg 004.svg[,80%]
+
+
+
+A: This is ridiculous 可笑的，荒谬的! I can’t believe you’ve
 been sleeping with someone else! How could
-you do this! You know what? I’m out of here!
+you do this! You know what? I’m out of here 我要走了!
 
 B: Wait! Doctor how is this possible? I
-haven’t cheated on my boyfriend!
+haven’t *cheated on* 与他人有秘密性关系；对某人不忠（或不贞） my boyfriend!
 
-C: I have something to confess... I’m sorry
+C: I have something to confess (v.)供认，招供；承认，坦白... I’m sorry
 Veronica, I lied.
 
-B: Wait... what? What do do you mean?
+B: Wait... what? What do you mean?
 
-C: I lied. You aren’t even pregnant; there’s
-no bun in the oven. I was just so
-overwhelmed with jealousy that I couldn’t
+C: I lied. You aren’t even (ad.)（引出更精确的说法）甚至可以说，其实，实际上 pregnant (a.)怀孕的; there’s
+no bun 小圆甜蛋糕；小圆甜饼 in the oven 烤炉，烤箱. I was just so
+overwhelmed（情感）难以禁受；使应接不暇；淹没，漫过 with jealousy 嫉妒，羡慕 that I couldn’t
 help myself. Veronica I love you!
+
+[.my1]
+.案例
+====
+.HAVE A ˈBUN IN THE OVEN
+( informal humorous) to be pregnant 大肚子；怀孕
+====
 
 B: What are you talking about!!! Who are
 you?
 
 C: It’s me! Daniel, don’t you remember me?
 From high school. I sat behind you every day
-in class! I used to go to every football game
-and watch you in the cheerleading squad!
+in class! I used to 过去常常 go to every football game
+and watch you in the _cheerleading 鼓励；带领拉拉队 squad_ （特殊任务）小组，队!
 
-B: You are insane! We never even spoke!
-Why did you lie like that to my boyfriend?
+[.my2]
+我每场足球赛都去看，看你当啦啦队员
+
+B: You are insane 精神失常的；精神错乱的! We never even spoke!
+Why did you *lie* (v.)说谎；撒谎 like that *to* my boyfriend?
+
+[.my2]
+你疯了！我们根本就没说过话！你为什么要对我男朋友撒这种谎？
 
 C: Because Veronica... It’s not fair! I love
 you; I have since the first day we met!
-Everything was going fine until that jerk
-came into the picture and ruined everything!
-I went to med school and became a doctor
+Everything was going fine until that jerk 蠢人；傻瓜；笨蛋
+*came into the picture* 出现，介入 and ruined everything!
+I went to _med (=medical)伤病的；疾病的；医疗的 school_ and became a doctor
 for you! You always said how you wanted to
-marry a doctor! You will be mine now... one
-way or another...
+marry a doctor! You will be mine now... *one
+way or another* 不管怎样...
 
-A: I heard everything, you lying bastard! Get
+[.my2]
+因为维罗妮卡……这不公平！我爱你，从我们第一天见面就爱上了！一切都很顺利，直到那个混蛋出现，把一切都搞砸了！我读了医学院，成了医生，都是为了你！你以后就是我的……不管怎样…
+
+A: I heard everything, you lying bastard 杂种；浑蛋；恶棍! Get
 your hands off her!
+
 
 '''
 
 
 == 065. Elementary ‐ The Office ‐ Job Interview III (C0065)
 
-A: Very good. Now, I have a couple of final
+A: Very good. Now, I have a couple 两个，几个 of final
 questions.
 
-B: I hope they’re not too hard!
+B: I hope they’re not too hard 困难的；艰苦的；费力的!
 
 A: Well, why should we hire you?
 
-B: I think that I would be a perfect fit in this
-company. I have a unique combination of
-strong technical acumen, and outstanding
-soft skills; you know, I excel at building
-strong, long-term customer relationships. For
-example, when I headed the customer
-support department in my previous company,
+B: I think that I would be a perfect fit 匹配；相配;（质量、素质或技能）适合的，恰当的，合格的 in this
+company. I have a unique combination 结合，联合 of
+strong technical acumen (n.)精明；敏锐, and outstanding 杰出的，优秀的；显著的，突出的
+soft skills; you know, I excel (v.)擅长；善于；突出 at building (v.)
+_strong, long-term customer relationships._ For
+example, when I headed (v.)领导；主管 _the customer
+support department_ in my previous company,
 our team solved about seventy percent of
 our customers’ problems. I decided that we
-needed better information and technical
-preparation on our products, so after I
-implemented a series of training sessions in
-coordination with our technical department,
+needed (v.) better information and technical
+preparation 准备；预备 on our products, so after I
+implemented a series of _training sessions_ (一场；一节；一段时间)训练课程 in
+coordination  协调，配合 with our technical department,
 we were able to solve ninety percent of our
-customers’ issues. Given the opportunity, I
+customers’ issues. Given 如果，倘若 the opportunity, I
 could bring this kind of success to this
-19
-Englishpod Dialogues
 company.
+
+[.my2]
+我想我会非常适合贵公司。我拥有强大的技术敏锐度, 和出色的软技能的独特组合；你知道，我擅长建立牢固、长期的客户关系。例如，当我在以前的公司领导客户支持部门时，我们的团队解决了大约70%的客户问题。我认为我们需要更好的产品信息和技术准备，所以在我与技术部门协调实施了一系列培训课程之后，我们能够解决90%的客户问题. 如果有机会，我可以为公司带来这样的成功。
+
+[.my1]
+.案例
+====
+.acumen
+-> 来自词根ac, 尖。-men名词后缀，同-ment.
+====
+
+
+
 
 A: Impressive! So, what would you consider
 to be your greatest weakness?
 
+[.my2]
+令人印象深刻的!那么，你认为你最大的缺点是什么？
+
 B: To be honest, I struggle with organization
-and time management. Punctuality has never
-been a strength of mine. I find it hard to
+and time management. Punctuality (n.)守时,准时性 has never
+been a strength 优势；优点；长处 of mine. I find it hard to
 organize my time efficiently. I have actually
-addressed this weakness recently, by
-attending a workshop on efficient time
+addressed (v.)设法解决；处理；对付 this weakness recently, by
+attending a workshop 研讨会，讲习班 on efficient 效率高的；有能力的 time
 management. It helped me a lot, by
-providing me with great insights on how to
+*providing* me with great insights 洞察力；眼力；深刻见解 on how to
 get organized and use my time efficiently, so
 I think I’m getting better now.
 
+[.my2]
+老实说，我在组织和时间管理方面有困难。守时从来都不是我的强项。我发现很难有效地安排时间。最近，我参加了一个关于有效时间管理的研讨会，实际上解决了这个缺点。它帮助了我很多，让我对如何组织和有效利用时间有了深刻的见解，所以我认为我现在正在变得更好。
+
+
 A: Great... Well, let me tell you that I am
 very pleased with this interview. We are
-short-listing our candidates this week, and
-next week we will inform our short listed
+short-listing (v.)将（某人）列入决选（或入围）名单，使通过初审 our candidates this week, and
+next week we will inform (v.)通知，告知 our short listed (a.)筛选后的（候选人名单）
 candidates of the day and time for a second
 interview with our CEO.
+
+[.my2]
+让我告诉你，我对这次面试非常满意。本周我们将筛选候选人，下周我们将通知入围的候选人, 与我们CEO进行第二次面试的日期和时间。
 
 B: Great, thanks a lot! I hope to hear from
 you! Good bye.
@@ -225,7 +335,7 @@ you! Good bye.
 '''
 
 
-== 066. Elementary ‐ The Office ‐ Calling The Office (C0066)
+== 066. Elementary ‐ The Office ‐ Calling The Office 给公司打电话 (C0066)
 
 A: Ello-hay, Aniel-day eaking-spay, ow-hay
 ay-may I elp-hay ou-yay
@@ -252,180 +362,424 @@ uh-they ay-day off oo-tay eecover-ray.
 A: Ok, en-they. Ay-tray and et-gay ome-say
 est-ray.
 
+[.my1]
+.案例
+====
+这段英语看起来很奇怪，因为它是用了一种叫做 Pig Latin（猪拉丁文） 的文字游戏改写的英语。Pig Latin 是一种将单词重新排列或修改的趣味语言，经常用于英语国家作为一种轻松或秘密交流的方式。
+
+在 Pig Latin 中，规则通常是：
+
+1.如果单词以"辅音"开头，将这个辅音移到单词末尾，并加上 "_ay_"。例如：
+
+- "hello" → "ello-h__ay__"
+- "Daniel" → "Aniel-d__ay__"
+
+2.如果单词以"元音"开头，直接在单词后加上 "yay" 或 "ay"。例如：
+
+- "I" → "I-_yay_"
+
+3.某些变体中可能会有其他规则，但上述是最常见的。
+
+这段话是正常英语改写成 Pig Latin 的样子。如果将其翻译回普通英语，大致如下：
+
+A: Hello, Daniel speaking, how may I help you? +
+B: Hey, Daniel, Julie here. +
+A: Hey, Julie, how are you? +
+B: Actually, I’m feeling quite ill today. +
+A: I’m sorry to hear that. But what’s wrong? +
+B: I think I’m coming down with the flu. I have a headache, a sore throat, and I’m feeling slightly feverish. +
+A: I see. So you’re calling in sick? +
+B: Yes, I was hoping to take the day off to recover. +
+A: Ok then. Try and get some rest. +
+
+
+====
+
 '''
 
 
-== 067. Elementary ‐ The Weekend ‐ Soccer (C0067)
+== 067. Elementary ‐ The Weekend ‐ Soccer 英式足球，足球 (C0067)
 
 A: Welcome back, soccer fans. My name is
 Rick Fields and, as always, I am joined by
-my commentating wingman, Bob Copeland.
+my commentating （尤指在电台或电视台上）作实况报道，作现场解说 wingman 僚机；僚机驾驶员, Bob Copeland.
 
-B: And we’re on the brink of soccer history
-today, as Ecuador and Brazil are tied one-one
+[.my2]
+和往常一样，和我一起的是我的解说员鲍勃·科普兰。
+
+B: And we’re on the brink （新的、危险的，或令人兴奋的处境的）边缘，初始状态 of soccer history
+today, as Ecuador 厄瓜多尔 and Brazil are tied (v.)（用线、绳等）系，拴;打成平局；得分相同 one-one
 as we begin the second half of the 2022
 World Cup!
 
-A: The ref calls the players for the kick off,
-and here we go! Ecuador quickly passes the
-ball to the midfield, but, ohhh, it’s out of
-bounds.
+[.my2]
+今天我们正处在足球历史的边缘，厄瓜多尔和巴西以1比1打平，开始2022年世界杯下半场比赛！
 
-B: That will be a throw in for Brazil. Adriano
+A: The ref 裁判 calls (v.) the players for the kick off 开球，开赛,
+and here we go! Ecuador quickly passes (v.) the
+ball to the midfield, but, ohhh, it’s out of
+bounds 限制范围；极限.
+
+[.my2]
+裁判叫球员开球，我们开始吧！厄瓜多尔队迅速将球传至中场，但球出界了。
+
+B: That will be a _throw 投，掷 in_ 掷界外球;额外奉送; 免费外加 for Brazil. Adriano
 has the ball and makes a long pass to
-Robinho, and the ref has called him offside.
+Robinho, and the ref has called him offside 越位的.
+
+[.my2]
+这对巴西来说是轻而易举的事。阿德里亚诺拿球，长传给罗比尼奥，裁判判他越位。
 
 A: No question about it. He was offside by a
-mile! We have a goal kick for Ecuador. Edison
-Mendez heads it to Valenica, he shoots!
-Deflected by the defender and we have a
-corner kick.
+mile 英里;大面积；长距离! We have a _goal kick_ 球门球 for Ecuador. Edison
+Mendez heads (v.)朝（某方向）行进 it to Valenica, he shoots!
+Deflected (v.)（尤指击中某物后）偏斜，转向，使偏斜，使转向 by the defender and we have a
+_corner kick_ 角球.
 
-B: Delgado takes the corner. We have a foul!
-Oh no, Dida, the goalkeeper, has fouled the
+[.my2]
+毫无疑问。他越位太远了！厄瓜多尔队得了一球。埃迪森·门德斯把球传给瓦伦尼卡，他射门了！被防守队员挡偏，我们得到角球。
+
+B: Delgado takes the corner. We have a foul 犯规;（棒球）击球出界!
+Oh no, Dida, the goalkeeper, has fouled (v.)对（对手）犯规 the
 Ecuadorian player! He gets a yellow card and
-that will be a penalty kick!
+that will be a _penalty kick_ 罚点球!
+
+[.my2]
+德尔加多负责角球。我们犯规了！哦，不，守门员迪达犯规了厄瓜多尔球员！他得到一张黄牌，那将是一个点球！
 
 A: This is the perfect opportunity for Ecuador
 to get ahead in this match and become World
 Champions! He gets ready for the kick. He
 shoots! and he...
 
+[.my2]
+这是厄瓜多尔在这场比赛中领先并成为世界冠军的绝佳机会！他准备好踢球了。他射门了! 他……
+
 '''
 
 
-== 068. Elementary‐TheOffice‐Ground breaking Research (C068)
+== 068. Elementary‐TheOffice‐ _Ground breaking_ 开创性的；创新的；革新的 Research (C068)
 
-A: We’ve been over this a thousand times.
-The data is irrefutable! Look, we’ve done
-extensive research, built studies, and read
-the literature, and there is conclusive
-evidence to support my theory!
+[.my1]
+.案例
+====
+.groundbreaking
+(a.) If something is groundbreaking, it is very new and a big change from other things of its type 开创性的；创新的；革新的
+====
 
-B: Horowitz, I beg to differ. Even in your
+A: We’ve been over 遍及 this a thousand times.
+The data is irrefutable 无可辩驳的! Look, we’ve done
+extensive 广阔的；广泛的；巨大的，大量的 research, built (v.) studies, and read (v.)
+the literature （某一学科的）文献，著述, and there is conclusive 结论性的，毫无疑问的
+evidence to support (v.) my theory!
+
+[.my2]
+这个问题我们已经讨论过一千遍了。数据是无可辩驳的！听着，我们做了广泛的调查，建立了研究，阅读了文献，有确凿的证据支持我的理论！
+
+B: Horowitz, *I beg 恳求；祈求；哀求 to differ* 我不赞同. Even in your
 most recent study, the investigative
-approach was flawed! You know as well as I
-do that the collection of data was not
-systematic, and there is a large margin of
-error. To draw a definitive conclusion based
-on that data would be misleading
+approach was flawed! *You know* as well as I
+do *that* the collection of data was not
+systematic 成体系的；系统的；有条理的；有计划有步骤的, and there is a large margin 差额，幅度 of
+error. To draw a definitive 最终的，确定的 conclusion based
+on that data `系` would be misleading 误导的，引入歧途的.
 
-A: That is preposterous!
+[.my2]
+霍洛维茨，我不敢苟同。即使在你最近的研究中，调查方法也是有缺陷的！你和我一样清楚，数据的收集是不系统的，有很大的误差余地。根据这些数据得出一个明确的结论是误导人的。
 
-B: You are trying to single-handedly solve
-one of the world’s greatest mysteries, and
-yet you are oblivious to the fact that you are
+[.my1]
+.案例
+====
+.I beg to differ/disagree
+a way of saying "I do not agree" that is polite, but may sound unfriendly
+====
+
+
+A: That is preposterous 荒谬的；可笑的!
+
+[.my1]
+.案例
+====
+.preposterous
+-> 来自拉丁语praeposterus,矛盾的，前后颠倒的，来自prae,在前，post,在后。引申词义荒唐的，荒谬的。
+====
+
+B: You are trying to single-handedly (ad.)独力地; 单独地 solve
+(v.) one of the world’s greatest mysteries, and
+yet *you are oblivious (a.)不知道；未注意；未察觉 to the fact that* you are
 wrong!
 
-A: I am not wrong! The chicken came first!
+[.my2]
+你想凭一己之力解决世界上最大的谜团之一，但你却未注意到你错了！
 
-B: No! The egg came first!
+
+A: I am not wrong! The chicken came first! 先有鸡
+
+B: No! The egg came first! 先有蛋
 
 '''
 
 
 == 069. Elementary ‐ Daily Life ‐ How Would You Like Your Eggs? (C0069)
 
+[.my1]
+.案例
+====
+.how would you like...?
+said to suggest that someone would not like to be in a situation experienced by someone else:
+I'm not surprised he shouted at you! *How would you like* to be pushed into a wall?
+====
+
 A: Wow, you’re up early today! What’s for
 breakfast?
 
-B: Well, I felt like baking, so I made some
-muffins.
+[.my2]
+哇，你今天起得真早！早餐吃什么？
+
+
+B: Well, I felt like baking 烘焙，烘烤, so I made some
+muffins （常加有水果的）小松糕; 英格兰松饼（通常烤热加黄油吃）.
+
+[.my1]
+.案例
+====
+.muffin
+image:/img/muffin.jpg[,10%]
+
+
+====
 
 A: Smells good! I’ll make some coffee. Do
 you want me to make you some eggs?
 
-B: Sure, Ill take mine, sunny side up.
+[.my2]
+闻起来好香！我去煮点咖啡。要我给你做些鸡蛋吗？
+
+B: Sure, I'll take mine, sunny side up.
+
+[.my2]
+当然，我要单面煎的。
+
+[.my1]
+.案例
+====
+.sunny-side up
+阳光的那面朝上，就是"单面煎鸡蛋"。 +
+双面煎的:  Over easy
+====
 
 A: Eww, I don’t know how you can eat your
 eggs like that! Ever since I was small, I’ve
-had eggs and soldiers.
+had _eggs and soldiers_.
 
-B: You know, my dad had scrambled eggs
-eggs every morning for twenty years. It
-drove my mom crazy!
+[.my2]
+哎呀，我不知道你怎么能那样吃鸡蛋！从我很小的时候起，我就吃鸡蛋和士兵。
+
+[.my1]
+.案例
+====
+.eggs and soldiers
+指的是一种常见的早餐吃法：软煮鸡蛋, 配切成条状的烤面包。 +
+- Eggs：通常是软煮的鸡蛋，蛋白熟了但蛋黄仍然是液态的。 +
+- Soldiers：指的是切成细长条状的烤面包条（通常用来蘸软煮鸡蛋的蛋黄）。这些条状面包因为像小士兵排队而得名。
+
+image:/img/eggs and soldiers.jpg[,20%]
+
+
+====
+
+
+B: You know, my dad had scrambled (v.)炒（蛋） eggs
+ every morning for twenty years. It
+drove (v.) my mom crazy!
+
+[.my2]
+你知道，我爸爸每天早上都吃炒鸡蛋，吃了20年。我妈都快疯了！
+
 
 A: You know what really drives me crazy?
-When I ask for soft boiled eggs, and they
-overcook them, so they come out hard
-boiled! How can you dip your toast into a
+When I ask for soft boiled 煮得半熟的 eggs, and they
+overcook (v.)烹调过度 them, so they come out 出现，露出 hard
+boiled （指煮熟的鸡蛋）煮至固体状态! How can you dip 蘸；浸 your toast 烤面包片，吐司 into a
 hard boiled egg?
 
-B: You’re so picky sometimes.
+[.my2]
+你知道什么让我抓狂吗？当我要一份半熟的鸡蛋时，他们却煮过头了，所以煮出来的鸡蛋是全熟的！你怎么能把烤面包片浸在煮熟的鸡蛋里呢？
+
+B: You’re so picky  (a.)挑剔的，吹毛求疵的，过分讲究的 sometimes.
+
+[.my2]
+你有时真挑剔。
 
 A: Here you go, honey, fried eggs.
 
-B: Dammit! I asked for sunny side up! How
+[.my2]
+给你，亲爱的，煎蛋。
+
+B: Dammit! I asked for _sunny side up_! How
 many times do I have to tell you.
 
 '''
 
 
-== 070. Elementary‐AdvancedMedia‐Buying Underwear (F0070)
+== 070. Elementary‐AdvancedMedia‐ Buying Underwear 内衣，衬衣 (F0070)
 
-A: This sucks; I hate buying lingerie. Okay,
+A: This sucks 真糟糕; I hate buying lingerie  女用贴身内衣裤. Okay,
 just find something and get out of here.
 Alright, these are fine. Oh, no, don’t come
 over here, don’t come over here.
 
-B: You look a little lost, can I help you?
+[.my2]
+糟透了；我讨厌买内衣。好吧，找点东西离开这里。好的，这些很好。哦，不，别过来，别过来。
+
+[.my1]
+.案例
+====
+.lingerie
+-> 来自拉丁语linum,亚麻，麻布，词源同linen.原指麻布衣服，词义几经辗转，最后固定指女内衣。
+====
+
+B: You look a little lost (a.)迷路的，迷失的, can I help you?
 
 A: Um, I’m just having a look around. It’s my
-girlfriend’s birthday tomorrow. Im trying to
+girlfriend’s birthday tomorrow. I'm trying to
 find her something.
 
-B: Well, you can’t give her granny panties.
+[.my2]
+我只是随便看看。明天是我女朋友的生日。我想给她买点东西。
+
+B: Well, you can’t give her granny  奶奶；外婆 panties 女式短裤.
 Have you thought about getting her some
-sleepwear? We’ve got these lovely, silky
-nighties. Or, how about a nice panty-and
-and-bra set. Look, here’s a nice satin pushup
-bra, and you can choose a few different
-styles of undies to go with it.
+sleepwear 睡衣裤? We’ve got these lovely, silky
+nighties （妇女或孩子穿的）睡衣. Or, how about a nice _panty  女裤；童裤-and-bra 胸罩 set_ 一组（配套使用的东西）. Look, here’s a nice satin (a.)缎子似的；平滑而有光泽的  _pushup 伏地挺身；俯卧撑 bra_, and you can choose a few different
+styles of undies （妇女或小孩的）内衣 to go with 与…相配 it.
+
+[.my2]
+好吧，你不能给她奶奶内裤。你有没有想过给她买睡衣？我们有这些可爱的丝质睡衣。或者，一套漂亮的内裤和胸罩怎么样？看，这是一件漂亮的缎面文胸，你可以选择几种不同款式的内衣来搭配。
+
+[.my1]
+.案例
+====
+.pushup bra
+上托胸罩. ‌Push-up内衣是一种丰胸提升型内衣，这种内衣依靠其下部的垫垫，向上推挤胸部，从而达到提升胸部的效果‌.
+====
 
 A: Sure that’s fine.
 
 A: This is so awkward...what ones do I pick?
 What size is she?
 
-B: Well, do you want a thong, some bikini
-briefs, maybe this nice pair of lacy boy
-shorts?
+B: Well, do you want a thong （背后为绳子一样窄条的）内裤；丁字内裤;（用以系物或做皮鞭的）皮条, some bikini
+briefs 三角裤；贴身的短内裤, maybe this nice pair 一对，一双 of lacy boy
+shorts  短裤；<美>男内裤?
+
+[.my2]
+你想要丁字裤、比基尼三角裤，或者这条漂亮的蕾丝男孩短裤吗？
+
+[.my1]
+.案例
+====
+.thong
+image:/img/thong.png[,10%]
+image:/img/thong 2.jpg[,10%]
+====
 
 A: Just pick something and get the hell out
 of here.
 
+[.my2]
+随便挑点东西，然后滚出去。
+
 A: Um, I’ll go with these two.
 
-A: This is mortifying; I just want to get this
-over with. She better thank me for this...
+A: This is mortifying  (a.)令人尴尬的，使人难为情的; I just want *to get this over with* 完成，结束（令人不快但免不了的事）. She better thank me for this...
 Here you are, sir. I’m sure she’ll enjoy them.
+
+[.my2]
+这真令人难堪；我只想快点结束这一切。她最好谢谢我，给您，先生，我相信她会喜欢的。
+
+[.my1]
+.案例
+====
+.get something over with
+to do or finish an unpleasant but necessary piece of work or duty so that you do not have to worry about it in the future.  完成，结束（令人不快但免不了的事） +
+- I'll be glad to get these exams over with. +
+
+
+.GET ˈOVER STH
+to deal with or gain control of sth解决；克服；控制 解决；克服；控制 +
+- She can't get over her shyness. 她无法克服羞怯心理。 +
+- I think the problem can be got over without too much difficulty.我认为这个问题不太难解决。
+
+====
 
 B: Finally!
 
 A: I’m sorry, sir. I’m going to have to take a
 look inside your bag.
 
+[.my2]
+我要检查一下您的包。
+
 '''
 
 
-== 071.   Elementary ‐ The Weekend ‐ Happy Hour (C0071)
+== 071.   Elementary ‐ The Weekend ‐ Happy Hour 快乐时光 (C0071)
 
-A: Hey man, what do you have on tap?
+A: Hey man, what do you have _on tap_ 可随时使用的?
 
-B: Heineken and Budweiser. We have a twofor-
-one happy hour special.
+[.my2]
+你手头有什么
 
-A: Cool, gimme a pint of Heineken and half a
-pint of Bud.
+[.my1]
+.案例
+====
+.on ˈtap
+(1) available to be used at any time 可随时使用的 +
+•We have this sort of information on tap. 我们可随时向您提供这种资料。 +
 
-B: Okay...A pint of Heineken and and half a
+(3) ( NAmE ) something that is on tap is being discussed or prepared and will happen soon 协商中；准备中；即将发生
+====
+
+B: Heineken 喜力（荷兰啤酒品牌） and Budweiser 百威啤酒. We have a _two for-one_ happy hour special 特价商品，折扣商品.
+
+[.my2]
+我们有买一送一的欢乐时光特价。
+
+A: Cool, gimme (= give me) _a pint 品脱（液量单位，约等于半升） of_ Heineken and _half a
+pint of_ Bud.
+
+[.my2]
+给我一品脱喜力啤酒, 和半品脱百威啤酒。
+
+B: Okay...A pint of Heineken and  half a
 pint of bud for table six! And what about
-some appetizers?
+some appetizers 开胃菜；头盘餐前小品?
 
-A: Sure! Let’s have some nachos and
-mozzarella sticks.
+[.my2]
+好的，6号桌要一品脱喜力啤酒和半品脱百威啤酒！来点开胃菜怎么样？
 
-B: Okay. That’ll be 80 bucks.
+A: Sure! Let’s have some nachos （墨西哥人食用的）烤干酪辣味玉米片 and
+mozzarella  马苏里拉奶酪 sticks 条状物；棍状物.
+
+[.my2]
+我们来点玉米片, 和马苏里拉奶酪条。
+
+[.my1]
+.案例
+====
+.nacho
+Nachos are a snack, originally from Mexico, consisting of pieces of tortilla, usually with a topping of cheese, salsa, and peppers. (墨西哥)烤干酪辣味玉米片
+
+image:/img/nacho.jpg[,20%]
+
+.mozzarella
+[ U]a type of soft white Italian cheese with a mild flavour莫泽雷勒干酪（一种色白味淡的意大利干酪）
+
+image:/img/mozzarella.jpg[,20%]
+====
+
+B: Okay. That’ll be 80 bucks （一）美元.
 
 A: Wait... What!
 
@@ -436,65 +790,86 @@ A: Wait... What!
 
 A: Hi Isabel! You wanted to see me?
 
-B: Yes Anthony, come on in. Have a seat.
+B: Yes Anthony, come on in 进来吧. Have a seat.
 
 A: Is everything okay? You seem a bit
-preoccupied.
+preoccupied (a.)全神贯注的，心事重重的；被先占的.
 
 B: Well, Anthony, this is not going to be an
 easy conversation. The company has made
 some decisions which will have a direct
-impact on your employment.
+impact on your employment 工作；职业；受雇.
 
 A: Okay...
 
-B: I don’t want to beat around the bush so
-I’m just gonna come out with it. We are
+B: I don’t want *to beat around the bush* 拐弯抹角 so
+I’m just gonna *come out with* 说出（尤指令人吃惊或粗鲁的话） it. We are
 going to have to let you go.
+
+[.my2]
+我不想拐弯抹角，所以我就直说了。我们得让你走了。
+
+[.my1]
+.案例
+====
+.come ˈout with sth
+[ no passive]to say sth, especially sth surprising or rude 说出（尤指令人吃惊或粗鲁的话） +
+•He *came out with* a stream of abuse.他讲了一连串的脏话。
+====
 
 A: What? Why? I mean... just like that? I’m
 fired?
 
 B: I’m sorry but, to be honest, you are a
-21
-Englishpod Dialogues
 terrible employee!
 
-A: What! I resent that!
+A: What! I resent (v.)怨恨，憎恶 that!
 
-B: Anthony, you were caught making
+B: Anthony, you were caught (v.) making
 international calls from the office phone, you
-called in sick in eight times this month and
-you smell like alcohol!
+*called in sick* 请病假 in eight times this month and
+you smell like alcohol 含酒精饮料；酒!
+
+[.my2]
+你被发现用办公室电话打国际电话，这个月你请了8次病假，你身上一股酒味！
 
 '''
 
 
-== 073. Elementary ‐ Daily Life ‐ Which Finger? (C0073)
+== 073. Elementary ‐ Daily Life ‐ Which Finger 手指? (C0073)
 
 A: ...The rings please. May this ring be
-blessed so he who gives it and she who
-wears it may abide in peace, and continue in
-love until life’s end.
+blessed (v.)求上帝降福于；祝福 so `主` _he who gives it_ and _she who
+wears it_ `谓` may abide 遵守，遵循（法律、协议、协定等） in peace, and *continue in love* until life’s end.
 
-B: With this ring I thee wed. Wear it as a
-symbol of our love and commitment
+[.my2]
+请把戒指给我。愿这枚戒指受到祝福，让送戒指的人和戴戒指的人永远和平，永远相爱，直到生命的尽头。
 
-A: Honey, that’s my pinkie. The ring goes on
-the ring finger!
+B: With this ring I thee 你 wed (v.)结婚，娶，嫁. Wear it as a
+symbol of our love and commitment 忠诚，献身；承诺，保证.
+
+[.my2]
+有了这枚戒指，我和你结婚了。戴上它作为我们的爱和承诺的象征。
+
+
+A: Honey, that’s my pinkie 小手指. The ring goes on
+_the ring finger_ 无名指!
+
+[.my2]
+亲爱的，那是我的小指。戒指戴在无名指上！
 
 B: This one?
 
-A: That’s my index finger!
+A: That’s my _index finger_ 食指!
 
 B: Oh, right. This one, right?
 
-A: Umm... that’s the thumb, Nick.
+A: Umm... that’s the thumb 拇指, Nick.
 
 B: Okay, Okay, I got it! This is the ring
 finger!
 
-A: That’s my middle finger, Nick. This is my
+A: That’s my middle finger 拇指, Nick. This is my
 ring finger!
 
 '''
@@ -502,32 +877,42 @@ ring finger!
 
 == 074. Elementary ‐ Daily Life ‐ What Am I Thinking! (C0074)
 
-A: Miss, your salad.
+A: Miss 年轻未婚女子, your salad
 
-B: Mmm, looks good! I’m positively
-famished.
+[.my2]
+小姐，您的沙拉。
+
+B: Mmm, looks good! I’m positively 绝对地；肯定地
+famished  (a.)极饥饿的.
+
+[.my2]
+我真的很饿。
 
 A: And for you, sir...
 
 C: Thank you.
 
-A: Enjoy.
+A: Enjoy. +
+
 B,C:Thank you.
 
 C: I can’t believe she’s on a date with me!
 I’m so lucky! I must be the luckiest guy in
-the world! I want to scream at the top of my
-lungs, ” I’m the luckiest dude in the world! ”
-Oh, shut up! Don’t be such a dumb ass.
+the world! I want to scream (v.)高声喊，大声叫 at the top of 极其大声地 my
+lungs, ” I’m the luckiest dude 家伙，小子 in the world! ”
+Oh, shut up! Don’t be such a dumb 愚蠢的；傻的；笨的 ass 傻瓜，笨蛋；屁股，臀部;驴.
 She’s so hot. Wait, I can’t say that. That’s
-sexist. She’s so hot, She’s making me sexist.
+sexist (a.)（尤指对女性）性别歧视者的. She’s so hot, She’s making me sexist 性别歧视者.
 Oh my god! I’m such a tool. Okay, get it
 together. Uhh, she’s eating salad. Oh right, I
-have a salad. Oh, crap! Which fork do I use?
-Dammit! She’s going to think I’m a moron.
+have a salad. Oh, crap (a.)坏的；糟糕的；劣质的! Which fork do I use?
+Dammit! She’s going to think I’m a moron 笨蛋；蠢货.
 What the hell are all these forks for? Which
-one did she use? Okay, chill... be cool, be
+one did she use? Okay, chill (v.)（使）冷却；放松；休息... be cool, be
 cool. Just take a fork... eat your salad...
+
+[.my2]
+我真不敢相信她在和我约会！我真幸运！我一定是世界上最幸运的人！我想扯开嗓子大喊：“我是世界上最幸运的人！”哦，闭嘴！别犯傻了，她太性感了。等等，我不能这么说。这是性别歧视。她太性感了，她让我变成了性别歧视者。我的天啊！我真是个工具。好了，振作起来。她在吃沙拉。哦，好的，我有沙拉。哦,糟了!我该用哪把叉子？该死的!她会觉得我是个白痴。这些叉子到底是干什么用的？她用的是哪一个？好了，冷静，冷静。拿把叉子，吃你的沙拉吧。
 
 B: Um... I...
 

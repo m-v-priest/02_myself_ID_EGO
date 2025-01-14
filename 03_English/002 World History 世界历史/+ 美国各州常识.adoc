@@ -3,9 +3,30 @@
 :toc: left
 :toclevels: 3
 :sectnums:
-:stylesheet: myAdocCss.css
+:stylesheet: ../../myAdocCss.css
 
 '''
+
+== 美国数据
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+
+|===
+|Header 1 |Header 2
+
+|人口密度 gis 数据
+|https://maps.geo.census.gov/ddmv/map.html
+
+|
+|
+|===
+
+
+
+
+'''
+
 
 == 美国地理
 
@@ -144,12 +165,40 @@ image:/img/Midwest.jpg[,100%]
 
 image:/img/District of Columbia.jpg[,100%]
 
-哥伦比亚特区，或华盛顿特区，是美国的首都。以美国第一任总统乔治·华盛顿的名字命名。
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
 
-它不是州, 而是"联邦区"性质. 它是应1789年的美国宪法要求, "建立一个**受美国国会专属管辖**的联邦区", 而建立的.
+|名字来历
+|哥伦比亚特区，或华盛顿特区，是美国的首都。以美国第一任总统乔治·华盛顿的名字命名。
+
+|城市性质
+|它不是州, 而是"联邦区"性质. 它是应1789年的美国宪法要求, "建立一个**受美国国会专属管辖**的联邦区", 而建立的. 原因是:1783 年宾夕法尼亚叛变, 迫使美国领导人得到教训 -- *国家政府(首都) 的自身安全不应依赖任何州。 因此需要有政府自己直辖的领地* (相当于教皇国了).
+
+The Pennsylvania Mutiny of 1783 (also known as the Philadelphia Mutiny)  1783 年宾夕法尼亚叛变（也称为费城叛变）:  +
+驻扎在费城的大陆军士兵, 要求国会按照合同规定, 支付他们在美国独立战争期间服役的报酬，但国会未能提供。于是士兵们占领了武器库, 并围攻州议会大厦，要求付款。
+
+image:/img/The Pennsylvania Mutiny of 1783.png[,100%]
+
+|概况
+|-
+
+|===
 
 
-其重要地标包括: the Smithsonian Museums 史密森博物馆、the National Mall 国家广场, 和 the White House 白宫。
+
+
+
+
+
+华盛顿特区居民在国会中没有投票权，但选举一名无投票权的国会代表进入美国众议院。
+
+
+
+
+image:/img/Washington DC 02.png[,100%]
+
 
 
 
@@ -168,8 +217,68 @@ image:/img/District of Columbia.jpg[,100%]
 
 image:/img/Delaware.jpg[,100%]
 
-该州因其有利于商业的税法而闻名, 因此, 有超过60%的财富500强企业, 都在该州注册.
 
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|地理
+|- 以英国贵族、弗吉尼亚殖民地第一任总督 Thomas West, 3rd Baron De La Warr 的名字命名。
+
+- 特拉华州长 154 公里（96 英里），宽 14 至 56 公里（9 至 35 英里），陆地面积 5,130 平方公里(对比**无锡全市总面积, 为4627.47平方公里**) . 使其成**为美国第二小的州，仅次于罗德岛州。**
+
+- 特拉华州, 与马里兰州的东海岸县, 和弗吉尼亚州的两个县, 一起形成了 Delmarva Peninsula 德尔马瓦半岛。+
+image:/img/Delmarva Peninsula.png[,100%]
+
+
+
+
+
+|政治与经济
+|- 特拉华州是第一个批准美国宪法的州，因此赢得了“The First State 第一州”的绰号。
+
+- 特拉华州早年依赖 indentured labor (契约劳工)，随着英国经济条件的改善，英国移民数量减少，特拉华州进口了更多的奴隶。
+- 大多数英国殖民者, 都是以"indentured servants  契约仆人"的身份抵达的（签订固定期限的合同, 以支付旅费），早年仆人和奴隶之间的界限是流动的, 并不那么清晰。 +
+Most of the English colonists had arrived as _indentured 受契约束缚的 servants_ (contracted (v.)与…订立合同（或契约） for a fixed period to pay (v.) for their passage （乘船的）航程，旅程), and in the early years the line between servant and slave was fluid (a.)流动的；流体的;易变的；不稳定的.
+
+- 独立战争之前，特拉华州的大多数自由非裔美国家庭, 都是从"马里兰州"移民到寻找更便宜的土地。 +
+image:/img/0062.png[,100%]
+
+
+- 1861年，特拉华州投票反对脱离"联邦"，因此仍留在联邦中。特拉华州是唯一一个没有组建南方联盟的军团或民兵组织的奴隶州, 而闻名。
+
+
+- 该州最著名的制造商是  DuPont 杜邦化学公司. 一次世界大战期间，杜邦公司生产的火药, 占盟军在战争期间使用的所有火药的 40%。
+
+- 第二次世界大战期间和战后, 威尔明顿地区的新就业机会, 吸引了南部各县的黑人搬到了这座城市。**黑人向北移民的激增, 引发了白人的逃亡，**其中, 中产阶级白人从城市迁移到郊区，导致"北特拉华州"社会事实上的种族隔离。在整个州，**融合只会鼓励更多的白人逃亡，**而黑人人口的经济状况不佳, 导致 20 世纪 60 年代的一些暴力事件。
+
+- 二战以来，由于该州位于费城、纽约和华盛顿特区等主要城市之间，经济总体繁荣，人均收入较高。 其人口增长迅速，特别是在北部郊区，New Castle county 纽卡斯尔县成为 the Philadelphia metropolitan area 费城都会区的延伸。 +
+image:/img/0063.png[,100%]
+**
+
+
+
+
+|现在概况
+|- 人口最多的城市是 Wilmington  威尔明顿 （7万多人） +
+人口第二多的城市, 是 Dover 多佛 (该州首府) （4万人） +
+(特拉华州面积只比无锡大一点点, 总人口才 101万人(2022年), 可见美国的小州, 只相当于中国的一个二线中等城市规模.)
+
+
+
+
+
+
+image:/img/0061.png[,100%]
+
+- 该州因其有利于商业的税法而闻名, 因此, 有超过60%的财富500强企业, 都在该州注册. +
+Since the turn of the 20th century, Delaware has become _an onshore 陆上的 corporate haven_ whose _corporate laws_ 公司法 are deemed 认为；视为；相信 appealing (a.)吸引人的 to corporations 公司，企业; over half of all New York _Stock Exchange_ 证券交易所-listed corporations and over three-fifths of the Fortune 500 are legally 按照法律，法律上；合法地 incorporated (v.)注册成立 in Delaware.  +
+Over 90% of all U.S. based （以某事）为基础的，为根据的 companies that went public 首次公开募股;上市 in 2021 incorporated (v.) themselves in Delaware.
+
+
+
+|===
 
 
 '''
@@ -179,12 +288,39 @@ image:/img/Delaware.jpg[,100%]
 
 image:/img/Pennsylvania.jpg[,100%]
 
-该州近 60% 的面积被森林覆盖.
-
-它是最初十三个殖民地中, 唯一没有大西洋海岸线的国家。
 
 
 
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|地理
+|- 阿巴拉契亚山脉, 贯穿该州中部. 该州近 60% 的面积被森林覆盖.
+- 它是最初十三个殖民地中, 唯一没有大西洋海岸线的州。
+
+- 该州最多人口的城市, 是费城。第二大都市区是大匹兹堡. +
+image:/img/0065.png[,100%]
+
+
+
+|政治与经济
+|- 该州的费城, 在独立战争中, 主办了第一届和第二届大陆会议 the First and Second Continental Congress in Philadelphia.
+- the Declaration of Independence 美国独立宣言, 也是在费城举办的"第二次大陆会议"上批准的。
+- 该州的 the Battle of Gettysburg 葛底斯堡战役 (1863 年 7 月)，是美国内战中最血腥、最具决定性的一场战斗. +
+image:/img/0064.png[,100%]
+
+- 内战后时代，即所谓的“镀金时代” ，见证了宾夕法尼亚州工业的持续崛起. 宾夕法尼亚州是世界上一些最大的钢铁公司的所在地。安德鲁·卡内基, 在匹兹堡创立了卡内基钢铁公司.
+
+- 自20世纪下半叶以来，宾夕法尼亚州一直被视为一个强大的摇摆州，赢得宾夕法尼亚州也被视为对美国总统候选人至关重要。
+
+
+
+|现在情况
+|
+|===
 
 
 
