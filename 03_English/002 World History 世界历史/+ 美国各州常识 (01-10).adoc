@@ -7,6 +7,27 @@
 
 '''
 
+
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|地理
+|
+
+|政治与经济
+|
+
+|现在情况
+|
+|===
+
+
+
+'''
+
 == 美国数据
 
 [.small]
@@ -333,7 +354,30 @@ image:/img/New Jersey.jpg[,100%]
 
 它是美国独立战争中, 几场重要战役的发生地。
 
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
 
+|地理
+|- 面积为 7,354 平方英里（19,050 平方公里）
+- 据美国人口普查局估计，截至 2024 年，该州拥有超过 950 万居民.
+- 新泽西州是美国唯一一个, 每个"县"都被美国人口普查局视为"城市"的州。
+
+image:/img/0066.png[,100%]
+
+
+
+
+|政治与经济
+|
+
+|现在情况
+|- 截至 2022 年，新泽西州的**家庭年收入中位数最高，**为 96,346 美元，*是所有 50 个州中最高的。 该州几乎十分之一的家庭*（即超过 323,000 个）*是百万富翁*，是所有州中百万富翁比例最高的。
+- 新泽西州在 "the American Human Development Index 美国人类发展指数"和"the standard Human Development Index 标准人类发展指数"上均名列前茅。
+|===
+
+'''
 
 
 ==== Atlantic City 大西洋城
@@ -341,6 +385,20 @@ image:/img/New Jersey.jpg[,100%]
 大西洋城是"泽西海岸"的一个度假小镇，是该州旅游经济的主要贡献者。
 
 
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|地理
+|
+
+|政治与经济
+|
+
+|现在情况
+|
+|===
 
 '''
 
@@ -354,6 +412,21 @@ image:/img/Georgia.jpg[,100%]
 亚特兰大是"马丁·路德·金"的出生地，也是民权运动的总部。
 
 
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|地理
+|
+
+|政治与经济
+|
+
+|现在情况
+|
+|===
+
 '''
 
 === (东北) 05.Connecticut 康涅狄格州 (1788.1.9)
@@ -365,6 +438,20 @@ image:/img/Connecticut.jpg[,100%]
 这个州的名字, 来源于流经该州的河流——"康涅狄格河"。这是新英格兰最长的河流.
 
 
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|地理
+|
+
+|政治与经济
+|
+
+|现在情况
+|
+|===
 
 
 
@@ -382,12 +469,83 @@ image:/img/Massachusetts.jpg[,100%]
 - 1692 年，塞勒姆镇及周边地区, 经历了美国最臭名昭著的大规模歇斯底里事件之一——塞勒姆女巫审判。
 
 
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|地理
+|
+
+|政治与经济
+|
+
+|现在情况
+|
+|===
+
+'''
 
 ==== Boston 波士顿
 
+
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|地理
+|
+
+|政治与经济
+|
+
+|现在情况
+|
+|===
+
+'''
+
 ==== Worcester 伍斯特
 
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|地理
+|
+
+|政治与经济
+|
+
+|现在情况
+|
+|===
+
+'''
+
 ==== Springfield 斯普林菲尔德
+
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|地理
+|
+
+|政治与经济
+|
+
+|现在情况
+|
+|===
+
+'''
 
 ==== Cambridge 剑桥
 
@@ -397,6 +555,20 @@ image:/img/Cambridge.jpg[,100%]
 
 
 
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|地理
+|
+
+|政治与经济
+|
+
+|现在情况
+|
+|===
 
 '''
 
@@ -408,6 +580,20 @@ image:/img/Maryland.jpg[,100%]
 
 
 
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|地理
+|
+
+|政治与经济
+|
+
+|现在情况
+|
+|===
 
 
 
@@ -431,6 +617,20 @@ image:/img/New Hampshire.jpg[,100%]
 新罕布什尔州, 拥有美国各州中最短的海洋海岸线.
 
 
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|地理
+|
+
+|政治与经济
+|
+
+|现在情况
+|
+|===
 
 
 '''
@@ -445,401 +645,21 @@ image:/img/Virginia.jpg[,100%]
 
 
 
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|地理
+|
+
+|政治与经济
+|
+
+|现在情况
+|
+|===
 
 
 '''
-
-
-=== (东北) 11.New York 纽约州 (1788年7月26)
-
-
-==== New York City 纽约市
-
-该州大约一半的人口居住在纽约市大都市区。纽约市也是联合国总部所在地。
-
-时代广场、中央公园, 和自由女神像, 是纽约市最著名的地标。
-
-
-'''
-
-
-=== (东南) 12.North Carolina 北卡罗来纳州 (1789年11月21)
-
-image:/img/North Carolina.jpg[,100%]
-
-北卡罗来纳州是美洲最早被英国殖民的地区之一。"罗阿诺克岛"是著名的"失落的殖民地"所在地，该殖民地在 1587 年至 1590 年间神秘消失。
-
-
-
-'''
-
-=== (东北) 13.Rhode Island 罗得岛州 (1790年5月29)
-
-image:/img/Rhode Island.jpg[,100%]
-
-image:/img/Rhode Island 2.jpg[,100%]
-
-罗德岛州是美国面积最小的州.
-
-罗德岛州是第一个结束对英国王室效忠的殖民地，也是第一个推动大陆会议的殖民地。
-
-该州是第 13 个批准宪法的州，于 1790 年正式加入美国。该州最初拒绝批准宪法，而是愿意支持一个较弱的中央政府。
-
-
-
-
-
-'''
-
-=== (东北) 14.Vermont 佛蒙特州 (1791年3月4)
-
-image:/img/Vermont.jpg[,100%]
-
-
-'''
-
-=== (东南) 15.Kentucky 肯塔基州 (1792年6月1)
-
-image:/img/Kentucky.jpg[,100%]
-
-'''
-
-=== (东南) 16.Tennessee 田纳西州 (1796年6月1)
-
-image:/img/Tennessee.jpg[,100%]
-
-
-'''
-
-=== (中西) 17.Ohio 俄亥俄州 (1803年3月1)
-
-image:/img/Ohio.jpg[,100%]
-
-它被称为“摇摆州”，可以在总统选举中, 投票给民主党或共和党候选人。
-
-七位不同的美国总统, 都来自俄亥俄州，因此俄亥俄州被称为“总统之母”。
-
-它是美国唯一一个拥有非矩形国旗的州，因该地区生长的七叶树而被称为“七叶树州”。
-
-
-'''
-
-=== (东南) 18.Louisiana 路易斯安那州 (1812年4月30)
-
-image:/img/Louisiana.jpg[,100%]
-
-'''
-
-=== (中西) 19.Indiana 印第安纳州 (1816年12月11)
-
-image:/img/Indiana.jpg[,100%]
-
-
-
-==== Indianapolis 印第安纳波利斯
-
-因其地理位置， 和州际交通基础设施， 而被称为“美国的十字路口”.
-
-'''
-
-=== (东南) 20.Mississippi 密西西比州 (1817年12月10)
-
-image:/img/Mississippi.jpg[,100%]
-
-密西西比州的西部边界, 主要由密西西比河界定. +
-该州海岸线较短，濒临墨西哥湾。
-
-
-
-
-'''
-
-
-=== (中西) 21.Illinois 伊利诺伊州 (1818年12月3)
-
-image:/img/Illinois.jpg[,100%]
-
-由于其中心位置, 和通往各个水域的通道，它是一个主要的交通枢纽。它与密歇根湖接壤。
-
-
-==== Chicago 芝加哥
-
-'''
-
-=== (东南) 22.Alabama 阿拉巴马州 (1819年12月14)
-
-image:/img/Alabama.jpg[,100%]
-
-海岸线较短，毗邻墨西哥湾。
-
-该州因成为 20 世纪50年代和60年代的"美国民权运动", 而闻名。
-
-
-
-'''
-
-
-=== (东北) 23.缅因州 (1820年3月15)
-
-image:/img/Maine.jpg[,100%]
-
-缅因州是美国本土最东北部的州。它也是美国最乡村化的州，与加拿大接壤。
-
-缅因州约 80% 的地区是森林, 或无人认领的土地，这使其成为全国森林覆盖率最高的州。
-
-
-
-'''
-
-
-=== (中西) 24.Missouri 密苏里州 (1821年8月10)
-
-image:/img/Missouri.jpg[,100%]
-
-'''
-
-=== (东南) 25.Arkansas  阿肯色州 (1836年6月15)
-
-image:/img/Arkansas.jpg[,100%]
-
-
-'''
-
-=== (中西) 26.Michigan 密歇根州 (1837年1月26)
-
-image:/img/Michigan.jpg[,100%]
-
-密歇根州位于美国中西部五大湖地区。
-
-==== Detroit  底特律
-
-自20世纪初以来, 就被誉为美国汽车工业中心。
-
-==== Lansing 兰辛
-
-
-
-'''
-
-=== (东南) 27.Florida  佛罗里达州 (1845年3月3)
-
-佛罗里达州位于美国本土的最东南角，因其持续温暖的天气, 和每年超过 230 天的阳光, 而被称为“阳光之州”。
-
-
-image:/img/Florida.jpg[,100%]
-
-==== Orlando 奥兰多
-
-环球影城, 和迪士尼世界, 位于奥兰多。
-
-
-
-'''
-
-=== (西南) 28.得克萨斯州 (1845年12月29)
-
-'''
-
-=== (中西) 29.Iowa  爱荷华州 (1846年12月28)
-
-image:/img/Iowa.jpg[,100%]
-
-爱荷华州位于两条河流之间，东临 the Mississippi River 密西西比河，西临 Missouri River and Big Sioux River 密苏里河和大苏河。
-
-
-
-'''
-
-=== (中西) 30.Wisconsin  威斯康星州 (1848年5月29)
-
-image:/img/Wisconsin.jpg[,100%]
-
-'''
-
-=== (西部) 31.California  加利福尼亚州 (1850年9月9日)
-
-image:/img/California.jpg[,100%]
-
-加利福尼亚州, 是美国各州中拥有最多土著人口的州。
-
-==== Hollywood 好莱坞
-
-
-
-'''
-
-=== (中西) 32.Minnesota  明尼苏达州 (1858年5月11)
-
-
-image:/img/Minnesota.jpg[,100%]
-
-
-'''
-
-=== (西部) 33.Oregon  俄勒冈州 (1859年2月14)
-
-image:/img/Oregon.jpg[,100%]
-
-'''
-
-=== (中西) 34.Kansas 堪萨斯州 (1861年1月29)
-
-image:/img/Kansas.jpg[,100%]
-
-'''
-
-=== (东南) 35.West Virginia 西弗吉尼亚州 (1863年6月20)
-
-image:/img/West Virginia.jpg[,100%]
-
-西弗吉尼亚州被称为“山区之州”。它是"密西西比河"以东最高的州.
-
-
-
-'''
-
-=== (西部) 36.Nevada  内华达州 (1864年10月31)
-
-image:/img/Nevada.jpg[,100%]
-
-====  Las Vegas 拉斯维加斯
-
-
-
-'''
-
-=== (中西) 37.Nebraska  内布拉斯加州 (1867年3月1)
-
-image:/img/Nebraska.jpg[,100%]
-
-==== Lincoln 林肯市
-
-以"亚伯拉罕·林肯"总统的名字命名。
-
-'''
-
-=== (西部) 38.Colorado 科罗拉多州 (1876年8月1)
-
-image:/img/Colorado.jpg[,100%]
-
-科罗拉多州是美国西南部的一个州，与犹他州、亚利桑那州, 和新墨西哥州, 一起构成 Four Corners 地区。
-
-Four Corners 四角落, 是美国西南方的领域，指以"科罗拉多高原"为中心的四个州边界交接的一点, 以及周边的地区。这四州, 从上方左侧"顺时针方向"数来，分别是犹他州、科罗拉多州、新墨西哥州, 和亚利桑那州。 四角落这一点, 是美国地理上唯一有四个州边界相会的地点.
-
-image:/img/Four_Corners.svg[,50%]
-
-'''
-
-=== (中西) 39.North Dakota 北达科他州 (1889年11月2)
-
-image:/img/North Dakota.jpg[,100%]
-
-
-'''
-
-=== (中西) 40.South Dakota 南达科他州 (1889年11月2)
-
-image:/img/South Dakota.jpg[,100%]
-
-'''
-
-
-=== (西部) 41.Montana 蒙大拿州 (1889年11月8)
-
-image:/img/Montana.jpg[,100%]
-
-该州的名称源自西班牙语单词 montaña ，意思是“山”。
-
-
-
-'''
-
-=== (西部) 42.Washington  华盛顿州 (1889年11月11)
-
-image:/img/Washington.jpg[,100%]
-
-是亚马逊、星巴克, 和波音等大公司的所在地.
-
-'''
-
-=== (西部) 43.Idaho  爱达荷州 (1890年7月3)
-
-image:/img/Idaho.jpg[,100%]
-
-'''
-
-=== (西部) 44.Wyoming  怀俄明州 (1890年7月10)
-
-image:/img/Wyoming.jpg[,100%]
-
-Grand Teton and Yellowstone national parks 大提顿国家公园, 和黄石国家公园, 是怀俄明州的两大旅游景点。
-
-
-
-
-'''
-
-=== (西部) 45.Utah  犹他州 (1896年1月4)
-
-image:/img/Utah.jpg[,100%]
-
-
-'''
-
-=== (西南) 46.俄克拉何马州 (1907年11月16)
-
-'''
-
-=== (西南) 47.New Mexico 新墨西哥州 (1912年1月6)
-
-image:/img/New Mexico.jpg[,100%]
-
-
-
-'''
-
-=== (西南) 48.Arizona  亚利桑那州 (1912年2月14)
-
-image:/img/Arizona.jpg[,100%]
-
-亚利桑那州有大量土著居民，该州约四分之一的土地是保留地。
-
-大峡谷, 位于亚利桑那州. 峡谷长 446 公里（277 英里），宽 29 公里（18 英里），深度达 1.6 公里（1 英里）。 于 1979 年被指定为联合国教科文组织"世界遗产"。
-
-
-
-'''
-
-=== (西部) 49.Alaska 阿拉斯加州 (1959年1月3)
-
-image:/img/Alaska.jpg[,100%]
-
-'''
-
-=== (西部) 50.Hawaii 夏威夷州 (1959年8月21)
-
-image:/img/Hawaii.jpg[,100%]
-
-
-
-'''
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

@@ -1,0 +1,60 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="370" width="544" viewBox="0 0 544 370" xmlns="http://www.w3.org/2000/svg">
+    <defs/>
+    <g transform="translate(-238.00,-135.71)">
+        <g id="shape1" transform="translate(239.00,136.71)">
+            <path d="M120.0,367.7L120.0,.0L.0,.0L.0,367.7L120.0,367.7z" fill-rule="nonzero" fill="#ffffff" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="55.5" y="180.0">A</tspan>
+                <tspan x="43.0" y="199.0">(有枪)</tspan>
+            </text>
+        </g>
+        <g id="shape2" transform="translate(661.00,136.71)">
+            <path d="M120.0,367.7L120.0,.0L.0,.0L.0,367.7L120.0,367.7z" fill-rule="nonzero" fill="#ffffff" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="56.0" y="189.4">B</tspan>
+            </text>
+        </g>
+        <g id="shape3" transform="translate(378.00,208.00)">
+            <path d="M.0,.0L249.0,.0" fill="none" stroke="#191919"/>
+            <path d="M249.0,-3.0L255.0,.0L249.0,3.0L249.0,-3.0" stroke-linecap="round" fill="#191919" stroke-width="1" stroke="#191919"/>
+            <rect x="77.0" height="19.0" width="96.0" fill="#ffffff" y="-19.0"/>
+            <rect x="26.5" height="19.0" width="197.0" fill="#ffffff" y="0.0"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="77.0" y="-4.0">I want to know </tspan>
+                <tspan x="26.5" y="15.0">where this relationship is going. </tspan>
+            </text>
+        </g>
+        <g id="shape4" transform="translate(638.00,283.00)">
+            <path d="M.0,.0L-254.0,.0" fill="none" stroke="#191919"/>
+            <path d="M-254.0,3.0L-260.0,.0L-254.0,-3.0L-254.0,3.0" stroke-linecap="round" fill="#191919" stroke-width="1" stroke="#191919"/>
+            <rect x="-202.2" height="19.0" width="155.0" fill="#ffffff" y="-9.5"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="-202.2" y="5.5">I think you’re awesome.</tspan>
+            </text>
+        </g>
+        <g id="shape5" transform="translate(378.00,359.00)">
+            <path d="M.0,.0L249.0,.0" fill="none" stroke="#191919"/>
+            <path d="M249.0,-3.0L255.0,.0L249.0,3.0L249.0,-3.0" stroke-linecap="round" fill="#191919" stroke-width="1" stroke="#191919"/>
+            <rect x="51.5" height="19.0" width="147.0" fill="#ffffff" y="-28.5"/>
+            <rect x="46.0" height="19.0" width="158.0" fill="#ffffff" y="-9.5"/>
+            <rect x="44.5" height="19.0" width="161.0" fill="#ffffff" y="9.5"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="51.5" y="-13.5">we’ve had our laughs, </tspan>
+                <tspan x="46.0" y="5.5">but I don’t appreciate… </tspan>
+                <tspan x="44.5" y="24.5">maybe it’s just time we…</tspan>
+            </text>
+        </g>
+        <g id="shape6" transform="translate(638.00,435.00)">
+            <path d="M.0,.0L-254.0,.0" fill="none" stroke="#191919"/>
+            <path d="M-254.0,3.0L-260.0,.0L-254.0,-3.0L-254.0,3.0" stroke-linecap="round" fill="#191919" stroke-width="1" stroke="#191919"/>
+            <rect x="-158.2" height="19.0" width="67.0" fill="#ffffff" y="-28.5"/>
+            <rect x="-216.7" height="19.0" width="184.0" fill="#ffffff" y="-9.5"/>
+            <rect x="-181.7" height="19.0" width="114.0" fill="#ffffff" y="9.5"/>
+            <text xml:space="preserve" style="fill:#c00000;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="-158.2" y="-13.5">I love you. </tspan>
+                <tspan x="-216.7" y="5.5">And I think you’re awesome.</tspan>
+                <tspan x="-181.7" y="24.5">Put the gun down.</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
