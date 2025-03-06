@@ -35,7 +35,7 @@ https://en1.savefrom.net/1-youtube-video-downloader-3vV/
 
 即, 要求是:
 1.如果文章里面有单词错误或语法错误, 一起修正它.
-2.然后, 直接改造原文. 即在英文原文里, 把里面的专业术语, 关键词, 惯用语(比如 make a big deal of sth), 短语(比如 go through, take part in 这样的短语动词), 后面直接跟上牛津高阶双语学习词典中的中文解释. 即把上面的 ①, 变成 ② 这样的形式.
+2.然后, 直接改造原文. 即在英文原文里,把里面的托福词汇, 雅思词汇, gre词汇, 考研英语词汇,专业术语, 关键词, 惯用语(比如 make a big deal of sth), 短语(比如 go through, take part in 这样的短语动词), 后面直接跟上牛津高阶双语学习词典中的中文解释. 即把上面的 ①, 变成 ② 这样的形式.
 3.最后, 把这篇英文用中文完整的翻译一遍.
 
 那么现在, 请用上面的要求, 来处理以下英文:
@@ -43,7 +43,7 @@ https://en1.savefrom.net/1-youtube-video-downloader-3vV/
 
 '''
 
-指令1:
+指令3:
 对给定的英文(是两人或多人对谈), 进行如下操作:
 
 比如原文是: ① Talking peace suddenly means talking about places like this—this lunar landscape, a titanium mine struggling under the Russian bombardment of Ukraine’s power grid, sometimes with only three hours of power a day.
@@ -53,7 +53,7 @@ https://en1.savefrom.net/1-youtube-video-downloader-3vV/
 即, 要求是:
 1.先对原文, 按它所探讨的一个个主题, 自动进行分段,  而不要一句就是一段.
 2. 原文是口语对谈, 里面会有一些口语停顿词, 比如 "um, uh", 把这些口语停顿词去掉. 同时, 如果里面有单词错误或语法错误, 也一起修正它.
-3.然后, 直接改造原文. 即在英文原文里, 把里面的专业术语, 关键词, 惯用语(比如 make a big deal of sth), 短语(比如 go through, take part in 这样的短语动词), 后面直接跟上牛津高阶双语学习词典中的中文解释. 即把上面的 ①, 变成 ② 这样的形式.
+3.然后, 直接改造原文. 你要像英文老师一样, 即在英文原文里, 把里面的托福词汇, 雅思词汇, gre词汇, 专业术语, 关键词, 惯用语(比如 make a big deal of sth), 短语(比如 go through, take part in 这样的短语动词), 后面直接跟上牛津高阶双语学习词典中的中文解释. 即把上面的 ①, 变成 ② 这样的形式.
 4.最后, 把这篇英文用中文完整的翻译一遍.
 
 那么现在, 请用上面的要求, 来处理以下英文:
@@ -62,7 +62,7 @@ https://en1.savefrom.net/1-youtube-video-downloader-3vV/
 
 '''
 
-指令 2: +
+指令 4: +
 
 下面我会给出一篇英文新闻视频的字幕内容, 请按下面的步骤来进行操作:
 
