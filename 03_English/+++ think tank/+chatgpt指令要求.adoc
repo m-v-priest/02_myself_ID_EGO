@@ -24,10 +24,12 @@ https://en1.savefrom.net/1-youtube-video-downloader-3vV/
 
 指令1: 下面的英文没有标点, 请你自动判断语句, 给它加上标点. 然后自动分段.
 
+用上面的要求, 继续讲解这篇英文.
+
 '''
 
 指令2:
-对给定的英文, 进行如下操作:
+你是英语老师, 对给定的英文(是多人对谈节目的视频字幕), 进行如下操作:
 
 比如原文是: ① Talking peace suddenly means talking about places like this—this lunar landscape, a titanium mine struggling under the Russian bombardment of Ukraine’s power grid, sometimes with only three hours of power a day.
 
@@ -35,7 +37,7 @@ https://en1.savefrom.net/1-youtube-video-downloader-3vV/
 
 即, 要求是:
 1.如果文章里面有单词错误或语法错误, 一起修正它.
-2.然后, 直接改造原文. 即在英文原文里,把里面的托福词汇, 雅思词汇, gre词汇, 考研英语词汇,专业术语, 关键词, 惯用语(比如 make a big deal of sth), 短语(比如 go through, take part in 这样的短语动词), 后面直接跟上牛津高阶双语学习词典中的中文解释. 即把上面的 ①, 变成 ② 这样的形式.
+2.然后, 直接改造原文. 即在英文原文里,把里面的高级单词 (托福词汇, 雅思词汇, gre词汇, 考研英语词汇,专业术语, 关键词), 惯用语(比如 make a big deal of sth), 短语(比如 go through, take part in 这样的短语动词), 后面直接跟上牛津高阶双语学习词典中的中文解释. 即把上面的 ①, 变成 ② 这样的形式.
 3.最后, 把这篇英文用中文完整的翻译一遍.
 
 那么现在, 请用上面的要求, 来处理以下英文:
