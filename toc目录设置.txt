@@ -1,0 +1,18 @@
+如果你想正常状态, 就用:
+
+= 标题
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../../myAdocCss.css
+
+
+
+
+如果你想用侧边栏的toc目录, 就用:
+
+= 标题
+:toc: .toc 
+:toclevels: 3
+:sectnums:
+:stylesheet: ../../myAdocCss0.css 

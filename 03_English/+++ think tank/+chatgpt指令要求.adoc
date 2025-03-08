@@ -22,13 +22,28 @@ https://en1.savefrom.net/1-youtube-video-downloader-3vV/
 |cc字幕由于没有标点, 可以让 chatgpt帮你自动生成标点:
 |https://chatgpt.com/
 
-指令1: 下面的英文没有标点, 请你自动判断语句, 给它加上标点. 然后自动分段.
+'''
+
+.指令0: 在grok中:
+
+
+下面是视频的字幕, 是多人对谈节目.
+请你进行以下操作:
+
+1.它没有分段,  请你根据内容,来分段它. 注意: 不要遗漏原文中的任何内容.
+2.如果里面有单词错误, 请改正它.
+
+
+'''
+
+
+.指令1: 下面的英文没有标点, 请你自动判断语句, 给它加上标点. 然后自动分段.
 
 用上面的要求, 继续讲解这篇英文.
 
 '''
 
-指令2:
+.指令2:
 你是英语老师, 对给定的英文(是多人对谈节目的视频字幕), 进行如下操作:
 
 比如原文是: ① Talking peace suddenly means talking about places like this—this lunar landscape, a titanium mine struggling under the Russian bombardment of Ukraine’s power grid, sometimes with only three hours of power a day.
@@ -45,7 +60,7 @@ https://en1.savefrom.net/1-youtube-video-downloader-3vV/
 
 '''
 
-指令3:
+.指令3:
 对给定的英文(是两人或多人对谈), 进行如下操作:
 
 比如原文是: ① Talking peace suddenly means talking about places like this—this lunar landscape, a titanium mine struggling under the Russian bombardment of Ukraine’s power grid, sometimes with only three hours of power a day.
@@ -64,7 +79,7 @@ https://en1.savefrom.net/1-youtube-video-downloader-3vV/
 
 '''
 
-指令 4: +
+.指令 4: +
 
 下面我会给出一篇英文新闻视频的字幕内容, 请按下面的步骤来进行操作:
 
