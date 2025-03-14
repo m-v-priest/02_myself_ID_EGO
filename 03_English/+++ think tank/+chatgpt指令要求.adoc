@@ -1,5 +1,14 @@
 
+= chatGPT 基本指令
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: myAdocCss.css
 
+
+'''
+
+== 资源
 
 [.small]
 [options="autowidth" cols="1a,1a"]
@@ -22,6 +31,18 @@ https://en1.savefrom.net/1-youtube-video-downloader-3vV/
 |cc字幕由于没有标点, 可以让 chatgpt帮你自动生成标点:
 |https://chatgpt.com/
 
+|===
+
+'''
+
+== 各AI 比较
+
+
+英文翻译成中文 : chatGPT 比 deepseek 强太多.
+
+
+
+
 '''
 
 .指令0: 在grok中:
@@ -36,6 +57,7 @@ https://en1.savefrom.net/1-youtube-video-downloader-3vV/
 
 '''
 
+== 指令
 
 .指令1:
 
@@ -55,9 +77,6 @@ https://en1.savefrom.net/1-youtube-video-downloader-3vV/
 
 
 
-
-'''
-
 .指令2:
 你是英语老师, 对给定的英文(是多人对谈节目的视频字幕), 进行如下操作:
 
@@ -67,9 +86,9 @@ https://en1.savefrom.net/1-youtube-video-downloader-3vV/
 
 即, 要求是:
 1.如果文章里面有单词错误或语法错误, 一起修正它.
-2.然后, 直接改造原文. 即在英文原文里,把里面的高级单词 (托福词汇, 雅思词汇, gre词汇, 专业术语), 惯用语(比如 make a big deal of sth), 短语(比如 go through, take part in 这样的短语动词), 后面直接跟上牛津高阶双语学习词典中的中文解释. 即把上面的 ①, 变成 ② 这样的形式.
+2.然后, 直接改造原文. 即在英文原文里,把里面的高级单词 (托福词汇, 雅思词汇, gre词汇, 考研英语词汇,专业术语, 关键词), 惯用语(比如 make a big deal of sth), 短语(比如 go through, take part in 这样的短语动词), 后面直接跟上牛津高阶双语学习词典中的中文解释. 即把上面的 ①, 变成 ② 这样的形式.
 3.注意: 如果一个单词在辞典上是用多个中文词组来解释, 就不要只写一个中文意思, 比如  bombardment, 中文意思是用了两个词"轰炸"；"炮击"来解释该英文单词的, 你就不要只写一个词"轰炸", 而要写全中文单词.
-4. 把每一段落的完整中文翻译, 直接跟在每一段的后面. 即一段英文, 后面就跟一段中文翻译. 注意: 不要有句子遗漏. 此外, 翻译时风格要保持专业严肃, 而不要太口语化.
+4. 把每一段落的完整中文翻译, 直接跟在每一段的后面. 即一段英文, 后面就跟一段中文翻译.
 
 那么现在, 请用上面的要求, 来处理以下英文:
 
@@ -117,6 +136,6 @@ https://en1.savefrom.net/1-youtube-video-downloader-3vV/
 
 那么现在, 请用上面的要求, 来处理以下英文:
 
-|===
+'''
 
 
