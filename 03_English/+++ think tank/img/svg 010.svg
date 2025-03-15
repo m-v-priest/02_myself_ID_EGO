@@ -1,0 +1,74 @@
+<svg width="556" height="240" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 556 240">
+    <defs/>
+    <g transform="translate(-169.00,-206.00)">
+        <g transform="translate(170.00,294.00)" id="shape1">
+            <path fill="#f5cfcf" d="M79.0,54.0L79.0,.0L.0,.0L.0,54.0L79.0,54.0z" stroke="#323232" fill-rule="nonzero"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="23.0" x="13.5">国家处于</tspan>
+                <tspan y="42.0" x="13.5">财政赤字</tspan>
+            </text>
+        </g>
+        <g transform="translate(452.23,246.00)" id="shape2">
+            <path fill="#ffffff" d="M63.3,54.0L63.3,.0L.0,.0L.0,54.0L63.3,54.0z" stroke="#323232" fill-rule="nonzero"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="23.0" x="17.2">借债,</tspan>
+                <tspan y="42.0" x="12.2">发债券</tspan>
+            </text>
+        </g>
+        <g transform="translate(249.00,321.00)" id="shape3">
+            <path d="M.0,.0L123.0,.0L123.0,-48.0L197.2,-48.0" fill="none" stroke="#191919"/>
+            <path fill="#191919" d="M197.2,-51.0L203.2,-48.0L197.2,-45.0L197.2,-51.0" stroke-linecap="round" stroke="#191919" stroke-width="1"/>
+        </g>
+        <g transform="translate(452.23,340.00)" id="shape4">
+            <path fill="#ffffff" d="M63.3,54.0L63.3,.0L.0,.0L.0,54.0L63.3,54.0z" stroke="#323232" fill-rule="nonzero"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="32.5" x="18.7">印钞</tspan>
+            </text>
+        </g>
+        <g transform="translate(249.00,321.00)" id="shape5">
+            <path d="M.0,.0L123.0,.0L123.0,46.0L197.2,46.0" fill="none" stroke="#191919"/>
+            <path fill="#191919" d="M197.2,43.0L203.2,46.0L197.2,49.0L197.2,43.0" stroke-linecap="round" stroke="#191919" stroke-width="1"/>
+            <rect width="68.0" fill="#ffffff" y="-19.0" x="29.0" height="19.0"/>
+            <rect width="52.0" fill="#ffffff" y="0.0" x="37.0" height="19.0"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="-4.0" x="29.0">要先借入钱,</tspan>
+                <tspan y="15.0" x="37.0">解决方法</tspan>
+            </text>
+        </g>
+        <g transform="translate(598.17,294.00)" id="shape6">
+            <path fill="#f5cfcf" d="M125.7,54.0L125.7,.0L.0,.0L.0,54.0L125.7,54.0z" stroke="#323232" fill-rule="nonzero"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="32.5" x="23.8">一国通货总量</tspan>
+            </text>
+        </g>
+        <g transform="translate(515.54,273.00)" id="shape7">
+            <path d="M.0,.0L145.5,.0L145.5,15.0" fill="none" stroke="#191919" stroke-dasharray="6,4"/>
+            <path fill="#191919" d="M148.5,15.0L145.5,21.0L142.5,15.0L148.5,15.0" stroke-linecap="round" stroke="#191919" stroke-width="1"/>
+            <rect width="46.0" fill="#ffffff" y="-63.5" x="60.7" height="19.0"/>
+            <rect width="133.0" fill="#ffffff" y="-44.5" x="17.2" height="19.0"/>
+            <rect width="82.0" fill="#ffffff" y="-25.5" x="42.7" height="19.0"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="-48.5" x="60.7">发债券, </tspan>
+                <tspan y="-29.5" x="17.2">不改变社会中货币总量,</tspan>
+                <tspan y="-10.5" x="42.7"> 不会引起通胀</tspan>
+            </text>
+        </g>
+        <g transform="translate(515.54,367.00)" id="shape8">
+            <path d="M.0,.0L145.5,.0L145.5,-13.0" fill="none" stroke="#191919"/>
+            <path fill="#191919" d="M142.5,-13.0L145.5,-19.0L148.5,-13.0L142.5,-13.0" stroke-linecap="round" stroke="#191919" stroke-width="1"/>
+            <rect width="94.0" fill="#ffffff" y="6.5" x="35.8" height="19.0"/>
+            <rect width="52.0" fill="#ffffff" y="25.5" x="56.8" height="19.0"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="21.5" x="35.8">增加社会中的钱,</tspan>
+                <tspan y="40.5" x="56.8">导致通胀</tspan>
+            </text>
+        </g>
+        <g transform="translate(271.28,371.65)" id="shape9">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="23.2" x="81.1">如果一国很穷,</tspan>
+                <tspan y="42.2" x="9.6">无法通过发债券的方式,来从国民手中借</tspan>
+                <tspan y="61.2" x="27.1">到钱, 那政府就有可能只能印钞了</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
