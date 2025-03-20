@@ -378,50 +378,60 @@ like it’s a weekend to stay at home!
 '''
 
 == Daily Life ‐ Making A _Bank Transfer_ (（使）转移，搬迁) 银行转帐 (C0267)
-A: Good Morning welcome to Bank of the USA. How may I help you today?
 
-B: Hi I need to transfer some money to another account. It’s urgent 紧急的.
+A: Good Morning /welcome to Bank of the USA. How may I help you today?
 
-A: Okay, have you made a wire transfer 电汇 at our bank before?
+B: Hi I need to transfer （使）转移，搬迁 some money to another account. It’s urgent 紧急的.
+
+A: Okay, have you made a _wire (n.)电线，导线 transfer_ (n.转移，转让，调动) 电汇 at our bank before?
 
 B: No. I’ve never made a transfer before.
 
-A: It’s alright, I will take you through the procedure 带你走一遍流程. Are you transferring funds 转账 to a company or an individual account 个人账户?
+A: It’s alright, I will take you through the procedure 带你走一遍流程. Are you *transferring* funds 资金，现金 *to* a company or an individual account 个人账户?
 
 B: A company account. I need to pay a bill 支付账单.
 
-A: Okay, I’ll need the name of the company and their bank routing number 银行路由号码 as well as their bank’s address and phone number.
+A: Okay, I’ll need the name of the company and their bank _routing number_ (路由号码) 银行路由号码 *as well as* their bank’s address and phone number.
+
+[.my1]
+.案例
+====
+.routing number
+路由号码：银行机构用来指定"特定地理区域", 以便对查询和交易进行分类, 并将其定向到正确地区的数字。
+
+A routing number is a nine-digit code used (v.) by financial institutions to identify (v.) other financial institutions. When *combined with* your account number, it allows institutions to locate (v.) your individual account. +
+路由号码是金融机构用来识别其他金融机构的九位数字代码。当路由号码与您的帐号结合使用时，机构可以找到您的个人帐户。
+
+A routing number is a unique, nine-digit number that functions (v.) as an address for your bank. It is used for electronic transactions 电子交易 such as _funds transfers_ 资金转移, direct deposits 存款, digital checks, and bill payments. +
+路由号码是一个独特的九位数字，可作为您银行的地址。它用于电子交易，例如资金转账、直接存款、数字支票和账单支付。
+
+image:/img/routing number.jpg[,35%]
+
+
+====
 
 B: I have all the information in this folder.
 
-A: Well You’ve come prepared 准备充分. You have all the necessary materials so we can go ahead and make the transfer right now. It’s a simple transaction 简单的交易, and we can process it today.
+A: Well You’ve come prepared (a.)有备而来,准备充分. You have all the necessary materials /so we can go ahead /and make the transfer right now. It’s a simple transaction 简单的交易, and we can process it today.
 
 B: Oh, that’s such a relief 松了一口气. I didn’t want the payment to be overdue 逾期. Thank you so much.
 
-A: It’s my pleasure 不客气.
+A: It’s my pleasure 我的荣幸, 不客气.
 
+[.my1]
+.案例
+====
 
-单词及短语解释
-​urgent : /ˈɜːrdʒənt/ (adj) Needing immediate attention. 紧急的.
-Example: This is an urgent matter that needs to be addressed right away. 这是一个需要立即处理的紧急问题.
-​wire transfer : /waɪər ˈtrænsfər/ (noun) An electronic transfer of money between banks. 电汇.
-​procedure : /prəˈsiːdʒər/ (noun) A series of steps to complete a task. 流程.
-Example: The doctor explained the procedure before the surgery. 医生在手术前解释了流程.
-​transfer funds : /ˈtrænsfər fʌndz/ (phrase) To move money from one account to another. 转账.
-​individual account : /ˌɪndɪˈvɪdʒuəl əˈkaʊnt/ (noun) A bank account owned by one person. 个人账户.
-​pay a bill : /peɪ ə bɪl/ (phrase) To settle a financial obligation. 支付账单.
-Example: I need to pay my electricity bill before it’s overdue. 我需要在逾期前支付电费账单.
-​bank routing number : /bæŋk ˈruːtɪŋ ˈnʌmbər/ (noun) A code used to identify a bank in a transaction. 银行路由号码.
-​come prepared : /kʌm prɪˈpeərd/ (phrase) To be ready with all necessary materials. 准备充分.
+- wire transfer : /waɪər ˈtrænsfər/ (noun) An electronic transfer of money between banks. 电汇.
+
+- transfer funds : /ˈtrænsfər fʌndz/ (phrase) To move money from one account to another. 转账.
+- individual account : /ˌɪndɪˈvɪdʒuəl əˈkaʊnt/ (noun) A bank account owned by one person. 个人账户.
+- bank routing number : /bæŋk ˈruːtɪŋ ˈnʌmbər/ (noun) A code used to identify a bank in a transaction. 银行路由号码.
+- come prepared : /kʌm prɪˈpeərd/ (phrase) To be ready with all necessary materials. 准备充分. +
 Example: She always comes prepared for meetings with all the documents. 她总是带着所有文件准备充分参加会议.
-​transaction : /trænˈzækʃn/ (noun) An exchange of money or goods. 交易.
-​relief : /rɪˈliːf/ (noun) A feeling of comfort after stress or worry. 松了一口气.
-Example: It was a relief to hear that everyone was safe. 听到大家安全了，松了一口气.
-​overdue : /ˌoʊvərˈduː/ (adj) Not paid or completed by the due date. 逾期.
-Example: The library book is overdue, and I need to return it. 图书馆的书逾期了，我需要归还.
-​my pleasure : /maɪ ˈplɛʒər/ (phrase) A polite response to thanks. 不客气.
-Example: “Thank you for your help!” “My pleasure!” “谢谢你的帮助！” “不客气！”
-翻译
+====
+
+[.my2]
 A: 早上好，欢迎来到美国银行。今天我能为您提供什么帮助？ +
 B: 你好，我需要转账到另一个账户。很紧急。 +
 A: 好的，您之前在我们银行办理过电汇吗？ +
@@ -437,6 +447,7 @@ A: 不客气。 +
 '''
 
 == The Office ‐ Purchasing Manager (C0268)
+
 A: Good morning, Angela, how have you been lately?
 
 B: Morning, Michael. I’ve been very busy lately. One of our other vendors 供应商 is going out of business 倒闭 and I’ve been searching for a suitable replacement 合适的替代品.
