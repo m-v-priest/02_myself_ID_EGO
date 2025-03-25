@@ -67,9 +67,9 @@ def save_article(content, article_id):
 
 def crawl_articles():
     """主爬虫函数"""
-    for n in range(1201, 1306):
+    for n in range(1846, 1909):
         article_id = f"{n:04d}"
-        url = f"http://www.ieslpod.com/?list_14/{n}.html"
+        url = f"http://www.ieslpod.com/?list_25/{n}.html"
 
         try:
             response = requests.get(url, headers=headers)
