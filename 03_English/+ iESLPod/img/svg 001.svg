@@ -1,0 +1,60 @@
+<svg height="370" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 671 370" xmlns="http://www.w3.org/2000/svg" width="671">
+    <defs/>
+    <g transform="translate(-341.26,-56.00)">
+        <g transform="translate(342.26,309.85)" id="shape1">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="8.0" y="20.6">a company or an </tspan>
+                <tspan x="31.0" y="39.6">individual</tspan>
+            </text>
+        </g>
+        <g transform="translate(461.76,237.00)" id="shape2">
+            <path fill="#ffffff" stroke="#323232" fill-rule="nonzero" d="M.0,.0L199.0,.0L199.0,56.0L.0,56.0L.0,.0z"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="10.0" y="24.0">that gives </tspan>
+                <tspan x="74.0" style="text-decoration:underline">parts of the work</tspan>
+                <tspan x="180.0">... </tspan>
+                <tspan x="5.0" y="43.0">to another company or person</tspan>
+            </text>
+        </g>
+        <g transform="translate(461.76,265.00)" id="shape3">
+            <path fill="none" stroke="#191919" d="M.0,.0L-64.8,.0L-64.8,31.0"/>
+            <path fill="#191919" stroke-linecap="round" stroke="#191919" d="M-61.8,31.0L-64.8,37.0L-67.8,31.0L-61.8,31.0" stroke-width="1"/>
+            <rect fill="#ffffff" height="19.0" x="-42.5" y="-9.5" width="26.0"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="-42.5" y="5.5">后定</tspan>
+            </text>
+        </g>
+        <g transform="translate(661.00,161.00)" id="shape4">
+            <path fill="#ffffff" stroke="#323232" fill-rule="nonzero" d="M.0,.0L181.0,.0L181.0,56.0L.0,56.0L.0,.0z"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="11.5" y="24.0">required for </tspan>
+                <tspan x="88.5" style="fill:#c00000">whatever it is </tspan>
+                <tspan x="47.0" style="fill:#c00000" y="43.0">you're making</tspan>
+            </text>
+        </g>
+        <g transform="translate(661.00,189.00)" id="shape5">
+            <path fill="none" stroke="#191919" d="M.0,.0L-75.0,.0L-75.0,51.0"/>
+            <path fill="#191919" stroke-linecap="round" stroke="#191919" d="M-72.0,51.0L-75.0,57.0L-78.0,51.0L-72.0,51.0" stroke-width="1"/>
+            <rect fill="#ffffff" height="19.0" x="-60.7" y="-9.5" width="26.0"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="-60.7" y="5.5">后定</tspan>
+            </text>
+        </g>
+        <g transform="translate(661.00,57.00)" id="shape6">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="4.4" y="19.5">required：被要求的、需要的（形容词/过去分词作定语）</tspan>
+                <tspan x="4.4" y="57.5">for</tspan>
+                <tspan x="22.4" style="fill:#c00000"> whatever it is you're making</tspan>
+                <tspan x="198.4">：说明</tspan>
+                <tspan x="237.4" style="fill:#c00000">这些工作是为了你</tspan>
+                <tspan x="4.4" style="fill:#c00000" y="76.5">正在做的某个东西</tspan>
+            </text>
+        </g>
+        <g transform="translate(342.26,375.85)" id="shape7">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="4.4" y="20.6">“一个公司或个人，把你正在生产的某样产品所需要的一部分工作交给另一个公司或个人来做”</tspan>
+                <tspan x="4.4" y="39.6">也就是我们常说的外包行为。</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
