@@ -34,7 +34,7 @@ def process_br_tags(element):
     for elem in element.contents:
         if isinstance(elem, str):
             text += elem.strip()
-        elif elem.name == 'br':
+        elif elem.str人才名字 == 'br':
             text += '\r\n\r\n'  # 双换行符
         else:
             text += process_br_tags(elem)
