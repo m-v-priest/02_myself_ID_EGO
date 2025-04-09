@@ -546,6 +546,8 @@ PPI通常波动小于CPI
 ....
 人口增长率  = 基础增长率 + (实际GDP增长 - 潜在GDP增长) * 敏感系数
            = 0.01       + (gdp_growth - 0.03)       * 0.2
+
+pop_growth = 0.01 + (gdp_growth - 0.03) * 0.2  # 基础1%，随经济增长变化
 ....
 
 
@@ -731,6 +733,338 @@ tech_spending/0.05："科技投入占GDP比例"与"基准值5%"的比值
 ....
 interest_impact = -0.004 * (last_year_interest_rate - 0.05)  # 利率影响延迟1年
 ....
+
+
+'''
+
+== 调整经济政策模型
+
+这段代码是一个​​经济政策调整函数​​，用于模拟政府通过调整利率、税率和军费开支来干预经济运行的过程。
+
+[source, python]
+....
+def adjust_policy(self, interest_change=0, tax_change=0, military_change=0):
+	"""
+	调整经济政策
+	参数为变化量，如+0.01表示增加1个百分点
+
+作用​​：允许调整三类政策工具
+interest_change：利率变化（如+0.01表示加息1个百分点）
+tax_change：税率变化
+military_change：军费占比变化
+​​默认值0​​：不调整时保持原政策
+	"""
+	self.ins_policy经济政策设置类实例.interest_rate = max(0, min(0.2, self.ins_policy经济政策设置类实例.interest_rate + interest_change))
+
+'''
+​​逻辑​​：
+新利率 = 当前利率 ± 调整量
+max(0, ...)：利率下限0%（避免负利率）
+min(0.2, ...)：利率上限20%（防止恶性加息）
+
+​​示例​​：
+当前利率5% → 执行adjust_policy(interest_change=0.03) → 新利率8%
+当前利率18% → 执行adjust_policy(interest_change=0.05) → 被限制到20%
+'''
+
+
+	self.ins_policy经济政策设置类实例.tax_rate = max(0.1, min(0.5, self.ins_policy经济政策设置类实例.tax_rate + tax_change))
+
+'''
+逻辑​​：
+新税率 = 当前税率 ± 调整量
+税率范围限制在10%~50%之间
+
+​​经济学意义​​：
+税率<10%可能导致政府收入不足. max(0.1, x) 就表示: 所以如果实际税率低于10%, 就取10%, 即最低税率不允许低于10%
+税率>50%可能引发严重经济衰退（拉弗曲线效应）. min(0.5, x) 表示如果税率超过了0.5(即50%), 就只取50%. 即封顶只取50%的税率.
+'''
+
+	self.ins_policy经济政策设置类实例.military_spending = max(0.01, min(0.3, self.ins_policy经济政策设置类实例.military_spending + military_change))
+
+'''
+逻辑​​：
+军费占比范围限制在1%~30%.  max(0.01, x) 规定了下限是取1%. min(0.3,x) 规定了上限是取30%
+
+​​设计考量​​：
+最低1%保障国防安全
+超过30%可能挤占民生支出（如苏联后期军费占比达35%）
+'''
+
+	# 政策调整会影响市场信心
+	if interest_change < 0 or tax_change < 0:
+		self.gdp *= 1.005  # 利率变化小于0, 税率变化小于0, 即利率和税率都是下降的, 则说明你在修生养民. 宽松政策会短期刺激经济, 短期刺激经济, gdp就+0.5%
+	elif interest_change > 0 or tax_change > 0:
+		self.gdp *= 0.995  # 如果"利率变化"和"税率变化"都大于0, 说明你加息了, 加税了. 是在抑制经济. 紧缩政策短期抑制经济, 短期抑制经济, gdp就-0.5%
+
+'''
+​​宽松政策场景​​（降息/减税）：
+企业融资成本↓ → 投资↑
+居民可支配收入↑ → 消费↑
+​​示例​​：2020年全球央行降息应对疫情
+​​紧缩政策场景​​（加息/增税）：
+
+抑制过热经济
+​​示例​​：美联储2022年加息对抗通胀
+
+​​系数设计​​：
+0.5%是短期冲击值，长期影响通过"系统动力学模型"体现
+军费调整不影响短期GDP（军事凯恩斯主义需更长时间生效）
+'''
+....
+
+与后续模型的联动​​ +
+此函数产生的变化, 会通过以下方式, 影响其他模块：
+
+- ​利率变化​​ → 影响下一年度的interest_impact计算
+- ​税率变化​​ → 改变居民disposable_income（可支配收入）
+- ​军费变化​​ → 触发邻国的WarSimulator反应机制
+
+
+image:img/0009.png[,%]
+
+
+
+
+若需更精细的政策模拟，可添加：
+[source, python]
+....
+# 考虑政策时滞（如减税6个月后才生效）
+self.policy_queue.append((policy_type, change, delay_months))
+
+# 添加政策信誉度影响（如频繁变动降低政策效果）
+self.policy_credibility *= 0.9  # 降为原来的90%
+....
+
+这段代码通过简洁的参数化设计，实现了​​政策调整→短期冲击→长期传导​​的完整链条，是经济模拟器中政府干预模块的核心组件。
+
+
+'''
+
+
+== 各国间的货币, "汇率兑换表"系统, 放在一个 dict中来表示
+
+[source, python]
+....
+def __init__(self, list_countries国家经济参数实例: List[ClsCountryEconomy国家经济参数系统类]):
+	# countries - 国家经济对象列表（如[魏国, 蜀国, 吴国]）
+
+	self.dict_countries各国名字与其经济参数实例的键值对 = {c.name国家名字: c for c in list_countries国家经济参数实例} # 这里创建了一个dict字典, key就是特定国家的名字, value就是该国的"经济参数实例"
+	'''
+	数据结构​​：将国家列表转为{国家名: 国家对象}的字典
+	（例如 {"魏": wei_obj, "蜀": shu_obj}）
+	​​目的​​：快速通过国家名访问经济数据
+	'''
+
+	self.dict_exchange_rates各国间汇率系统字典 = {}  # 空字典. 汇率矩阵.  格式: {(国家A,国家B): 汇率} <- dict的 key,可以是一个元组类型
+
+	'''
+	汇率定义​​：
+	1单位A货币 = X单位B货币
+	例如 ("魏","蜀")=1.5,  表示: 1魏币=1.5蜀币
+
+	该"dict_exchange_rates各国间汇率系统字典", 最终会是比如:
+	{
+	 ("魏","魏"): 1.0,
+	 ("魏","蜀"): 1.6,  ("蜀","魏"): 0.625,  # 1/1.6
+	 ("魏","吴"): 0.8,  ("吴","魏"): 1.25,   # 1/0.8
+	 ("蜀","吴"): 1.2,  ("吴","蜀"): 0.833   # 1/1.2
+	}
+	'''
+
+
+	# 初始化随机汇率
+	list_names各国名字 = [c.name国家名字 for c in list_countries国家经济参数实例]
+	for i, c1 in enumerate(list_names各国名字):
+		for j, c2 in enumerate(list_names各国名字):
+			if i == j: # 相同国家
+				self.dict_exchange_rates各国间汇率系统字典[(c1, c2)] = 1.0  # 自兑换汇率为1, 即本"国的货币"兑换"本国的货币", 那汇率肯定是1:1了
+			elif i < j:  # 避免重复计算
+				rate随机汇率 = random.uniform(0.5, 2.0) # 随机初始汇率. uniform() 方法将随机生成下一个实数，它在 [x, y] 范围内。如, uniform(5, 10) 的随机数为 :  6.98774810047.
+				# 随机设定在0.5~2.0之间，模拟现实中的汇率差异. （例如：1魏币=0.8吴币，1魏币=1.8蜀币）
+				self.dict_exchange_rates各国间汇率系统字典[(c1, c2)] = rate随机汇率 # 将随机汇率, 赋值给c1,c2这两个国家货币的 汇率交换值.
+				self.dict_exchange_rates各国间汇率系统字典[(c2, c1)] = 1 / rate随机汇率 # 反向汇率. 反向汇率通过倒数自动计算 （若 魏/蜀=1.5 → 则 蜀/魏=1/1.5≈0.67）
+
+	'''
+	关键设计​​：
+	-​​对角线元素(i=j)​​
+	任何国家与自身的汇率, 都是1:1
+	（如 ("魏","魏")=1.0）
+
+	-​​"非对称"汇率关系​​
+	只计算i<j的组合（避免重复生成"魏-蜀"和"蜀-魏"）
+	反向汇率, 通过"倒数"自动计算
+	（若 魏/蜀=1.5 → 则 蜀/魏=1/1.5≈0.67）
+
+	​-​"初始汇率"范围​​
+	随机设定在0.5~2.0之间，模拟现实中的汇率差异
+	（例如：1魏币=0.8吴币，1魏币=1.8蜀币）
+	'''
+
+....
+
+
+== gdp增长, 对汇率的影响
+
+
+[source, python]
+....
+def update_trade(self):
+	"""
+	更新国际贸易关系
+	包括汇率变化和贸易量调整
+
+	这段代码是​​"国际贸易系统"的动态更新方法​​，实现了两个核心经济机制：​"​汇率浮动机制"​​和​​"贸易量自适应调整"​​。
+	"""
+	# 1. 更新汇率 (基于相对经济表现)
+	list_names各国名字 = list(self.dict_countries各国名字与其经济参数实例的键值对.keys()) # 将dict中的key, 即各国名字, 放在一个list中.
+
+	for i, c1 in enumerate(list_names各国名字):
+		for j, c2 in enumerate(list_names各国名字):
+			if i < j:
+				#  计算两国GDP增长率差异, 经济表现好的国家货币升值.
+				growth_diff两国GDP增长率差异 = (self.dict_countries各国名字与其经济参数实例的键值对[c1].fn_get_gdp_growth_rate计算gdp增长率() -
+							   self.dict_countries各国名字与其经济参数实例的键值对[c2].fn_get_gdp_growth_rate计算gdp增长率()) / 100
+				'''
+				growth_diff = (c1最新GDP/c1上期GDP - c2最新GDP/c2上期GDP)
+				'''
+
+				change对汇率的影响度 = growth_diff两国GDP增长率差异 * 0.1  # gdp增长率差异中的10%, 会影响汇率
+				# 若c1比c2经济增长快1%，则c1货币升值0.1%（系数0.1控制敏感度）. 例如：魏国GDP增长5%，蜀国增长3% → 魏币对蜀币升值0.2%
+
+
+				# 更新汇率
+				self.dict_exchange_rates各国间汇率系统字典[(c1, c2)] *= (1 + change对汇率的影响度)
+				self.dict_exchange_rates各国间汇率系统字典[(c2, c1)] = 1 / self.dict_exchange_rates各国间汇率系统字典[(c1, c2)] # 保持A→B和B→A汇率的数学倒数关系
+
+				'''
+				关键逻辑：
+				-​​相对增长决定汇率​​
+				若c1比c2经济增长快1%，则c1货币升值0.1%（系数0.1控制敏感度）
+				例如：魏国GDP增长5%，蜀国增长3% → 魏币对蜀币升值0.2%
+
+				-​​双向汇率同步更新​​
+				保持A→B和B→A汇率的数学倒数关系
+
+				-​​经济学原理​​
+				模仿现实中的"经济增长→资本流入→货币升值"机制
+				类似人民币升值与中国经济高速增长的关系
+
+				'''
+
+	# 2. 贸易量自动调整 (基于相对价格和汇率)
+	for country in self.dict_countries各国名字与其经济参数实例的键值对.values():
+		# 出口公式. 出口竞争力受汇率和PPI影响
+		export_factor = (1 / self.dict_exchange_rates各国间汇率系统字典[(country.name国家名字, "魏")]) * (100 / country.ppi)  #  export_factor = (1/该国对魏汇率) * (100/该国PPI)
+		country.exports出口额 *= (0.9 + 0.2 * export_factor)
+
+		# 进口公式. 进口需求受收入和汇率影响
+		import_factor = country.disposable_income * self.dict_exchange_rates各国间汇率系统字典[(country.name国家名字, "魏")] # import_factor = 该国人均可支配收入 * 该国对魏汇率
+		country.imports进口额 *= (0.95 + 0.1 * import_factor)
+
+
+....
+
+出口公式:
+\begin{align*}
+ export_factor = \frac{1}{该国对魏汇率} × \frac{100}{该国PPI}
+\end{align*}
+
+
+
+
+进口公式:
+\begin{align*}
+ import_factor = 该国人均可支配收入 * 该国对魏汇率
+\end{align*}
+
+image:img/0010.png[,]
+
+
+系统动力学示例 +
+​​场景模拟​​： +
+魏国GDP增长加速 → 魏币升值 → 蜀国对魏汇率从1.6→1.55 +
+→ 蜀国export_factor提高(1/1.55≈0.645 > 1/1.6≈0.625) +
+→ 蜀国出口增长约0.4% +
+→ 同时蜀国从魏国进口成本降低 +
+
+
+反馈循环​​： +
+A[魏国增长更快] --> B[魏币升值] +
+B --> C[蜀国出口竞争力↑] +
+B --> D[蜀国进口成本↓] +
+C --> E[蜀国贸易顺差↑] +
+D --> F[蜀国通胀压力↓] +
+
+
+设计特点
+
+- 基准货币锚定​​
+以"魏"为计价基准（类似美元在国际贸易中的地位）
+
+- 非对称调节​​
+出口对汇率更敏感（系数0.2 > 进口系数0.1）
+反映发展中国家"出口驱动"特征
+
+- PPI联动​​
+生产者价格指数影响出口，体现成本竞争力
+
+- 收入效应​​
+人均可支配收入驱动进口，符合凯恩斯消费理论
+
+潜在改进方向
+
+1.​加入贸易伙伴权重
+[source, python]
+....
+# 根据地理距离调整影响系数
+distance_factor = 1/(1 + distance_matrix[c1][c2])
+....
+
+功能：
+​​计算两国贸易的"距离衰减效应"​​ +
+其中distance_matrix是预先定义的二维字典，存储国家间的地理距离（单位：千公里）
+
+image:/img/0011.png[,%]
+
+
+
+
+
+2.​考虑关税传导
+[source, python]
+....
+effective_import_rate = exchange_rate * (1 + tariff_rate)
+....
+
+参数说明： +
+tariff_rate：目标国设置的进口关税（如0.15表示15%关税） +
+exchange_rate：原始汇率（如1魏币=1.5蜀币） +
+
+计算示例： +
+蜀国对魏国征收20%关税： +
+1.5 * (1+0.2) = 1.8 +
+→ 实际进口成本变为1魏币=1.8蜀币 +
+
+经济影响： +
+​​价格传导​​：关税增加会提高进口商品最终售价 +
+
+python +
+import_price = foreign_price * effective_import_rate +
+​​贸易抑制​​：高关税降低进口量（需配合需求弹性使用） +
+
+现实案例： +
+2018年美国对中国加征25%关税，导致中国商品在美售价上涨约15% +
+
+
+3.​​引入大宗商品价格
+[source, python]
+....
+if country.is_resource_exporter:
+    export_factor *= commodity_price_index
+....
+
+这段代码通过将宏观经济指标与微观贸易决策相连接，构建了一个符合经济学原理的动态国际贸易模拟系统。
 
 
 
