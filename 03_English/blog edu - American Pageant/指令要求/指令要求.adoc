@@ -1,0 +1,41 @@
+
+请用python来编一段程序, 来执行以下功能:
+
+创建59个文本文件, 扩展名都是 ".adoc", 但文件名,是从"American Pageant - 001"一直到"American Pageant - 059", 即里面的数字"001"会递增到"059".
+
+每个文本文件中的内容是下面这段(即我用大括号{}包围起来的里面部分):
+
+
+{
+= American Pageant - 001
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: myAdocCss.css
+
+'''
+
+== 释义
+
+
+'''
+
+
+== 中文翻译
+
+
+'''
+
+
+== pure
+
+
+'''
+}
+
+
+其中里面的 "= American Pageant - 001" 这个文字, 其"001"部分, 会跟着文件中的数字来. 即 如果文件名是"American Pageant - 001.adoc"的话, 那么它里面的内容就是 "= American Pageant - 001"
+
+如果文件名是"American Pageant - 002.adoc"的话, 那么它里面的内容就是 "= American Pageant - 002"
+
+如果文件名是"American Pageant - 059.adoc"的话, 那么它里面的内容就是 "= American Pageant - 059"
