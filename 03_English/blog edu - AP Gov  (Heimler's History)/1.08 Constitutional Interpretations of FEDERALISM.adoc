@@ -1,0 +1,123 @@
+
+= 1.08 Constitutional Interpretations of FEDERALISM
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: myAdocCss.css
+
+'''
+
+== 释义
+
+Hey there, welcome back to Heimler's History. In the last video we began talking about federalism, and in this video we're going to keep talking about federalism -- especially how the sharing of power between the federal and state governments has shifted 转移 over time. Sometimes more power is in the hands of big daddy government （形象化表述，指联邦政府）, and other times it's in the hands of the state. So we need to figure out 弄清楚 why. So if you're ready to get them brain cows milked with them （激发思维、获取知识）, let's get to it. +
+
+So in this video we're just trying to do one thing: Explain how the appropriate balance of power 权力的合理平衡 between national and state governments has been interpreted differently over time. Okay, now just as a reminder 提醒, that sharing of power between state and federal governments is called federalism, and the degree to which the power shifts between those two entities 实体 comes down to 归结于 a few constitutional provisions 宪法条款 and two required Supreme Court cases 最高法院判例. +
+
+So let's start with the Constitution. The first provision for federalism you need to know is the Tenth Amendment 第十修正案. Basically it says that any power that the Constitution does not explicitly 明确地 give to the federal government is reserved for the states -- and that, not surprisingly, is why we call these reserved powers 保留权力. Now an example of a reserve power would be the regulation of trade within a state 州内贸易监管. It's the federal Congress which has the power to regulate trade between states 州际贸易监管, but only a state can regulate trade within its own borders 州界内贸易. +
+
+Okay, the next constitutional provision for federalism you need to know is the 14th Amendment 第十四修正案. Now this was passed during the Reconstruction era 重建时期 of U.S. history right after the Civil War 美国内战, and you may remember that as a result of the 13th Amendment, slavery was abolished 废除. But those rascally 无赖的；调皮的 southern states still found a lot of ways they can continue to keep their society segregated 种族隔离 and uphold the hierarchy of whites over blacks 维持白人对黑人的等级制度. +
+
+Even though the rights of black citizens were now protected by the Bill of Rights 权利法案, that didn't matter all that much because -- remember -- the Bill of Rights protects citizens from the federal government, not state government. And so here's the hair in the biscuit （习语，意为问题所在；麻烦之处）: Newly emancipated 新获得解放的 black citizens had all the protections in the world federally, but states could still basically violate their rights with immunity 不受惩罚地侵犯他们的权利. So that's where the 14th Amendment comes in. This amendment basically applied the Bill of Rights to the states, and so when this amendment was passed, it meant that not only did a citizen have the protection of their rights against federal intrusion 联邦政府的干涉, they were protected against the states too. +
+
+Okay, the next constitutional provision for federalism that you need to know is the Commerce Clause 商业条款 in Article 1, Section 8. This is the clause that gives Congress the authority 权力 to regulate commerce among the states 监管州际贸易 and has been used over time to justify federal power 为联邦权力提供依据 -- sometimes at the expense of state power 有时以牺牲州权力为代价 -- and we'll get into that a minute when we talk about Supreme Court cases. +
+
+Okay, the next constitutional provision for federalism you need to know is the Necessary and Proper Clause 必要且适当条款 -- also known as the Elastic Clause 弹性条款 -- also in Article 1, Section 8. Now you might remember from a previous video where I talked about the enumerated powers 列举权力 of Congress, and those are powers which are explicitly listed in the Constitution as belonging to the federal government 宪法明确列出属于联邦政府的权力. But the section ends with the Necessary and Proper Clause, which basically says that Congress also has the power to pass any law which shall be deemed necessary and proper to the carrying out of their enumerated powers 国会有权通过任何被认为对于执行其列举权力必要且适当的法律. That's why it's also called the Elastic Clause. +
+
+The powers listed in Article 1, Section 8 are like a leather belt that keeps a tight grip on federal power 像皮带紧紧束缚联邦权力, but the Necessary and Proper Clause gives Congress a nice comfy pair of sweats and says, "Yeah, you could let that belly out." （形象表述，意为赋予国会灵活扩展权力的空间）It was our boy Alexander Hamilton who invoked 援引 this clause to establish the first national bank 第一国民银行. And if you've read Article 1, Section 8, you will no doubt notice that Congress was not given the authority to establish a bank, but it does say that Congress has the power to tax and coin money 征税和铸造货币 and regulate interstate commerce 监管州际贸易. So Hamilton argued that it was therefore necessary and proper that Congress established a bank, and they did. +
+
+Now there are a lot of other constitutional provisions we could talk about, but I just want to talk about one more -- namely 即；也就是 the Full Faith and Credit Clause 充分信任和尊重条款 in Article 4. This clause basically means that each state must respect each other's laws 各州必须尊重彼此的法律. So for example, if I got my car here in Georgia and drove to California, my driver's license 驾照 will be recognized as valid 有效 in every state I pass through. Without the Full Faith and Credit Clause, I'd have to get a new license every time I crossed a state line 州界. This clause also means that my marriage in Georgia must be recognized in every other state as well. +
+
+But here's where the big hairy federalism part comes in （习语，意为关键的联邦制相关部分）: Supposing one state has legalized same-sex marriage 同性婚姻 but another state has not. So a couple gets married in Hawaii, for example, and then moves to Alabama. If same-sex marriage is not recognized by Alabama law, does that state have to comply with 遵守 the Full Faith and Credit Clause? Well, in 1996, Congress passed the Defense of Marriage Act (or DOMA) 婚姻保护法案 which gave states the right not to recognize the marital status 婚姻状况 of same-sex couples. So in that case, we have states asserting their power 维护自己的权力. +
+
+But then in 2015, in the case of Obergefell v. Hodges, power was shifted back to the federal side of the ledger （习语，意为权力天平向联邦政府倾斜）because this decision maintained that marriage -- no matter the gender of the parties involved -- was a fundamental right 基本权利 that could not be infringed upon 侵犯 by the states. +
+
+Okay, now we need to get into two required Supreme Court cases that illustrate 说明；表明 the shifting of power between federal and state governments. And because these are required cases, each case has its own video which goes way more into depth than I'll go into here. +
+
+The first case is McCulloch v. Maryland in 1819. So in the second iteration 版本；迭代 of the Bank of the United States, Congress established a branch in Maryland. The Maryland legislature 马里兰州立法机构 was like, "You so crazy," and slapped a big fat tax 征收高额税 on the bank. And when the clerk 职员 refused to pay that tax, the case ended up before the Supreme Court. Maryland argued that there was nothing in the Constitution that gave Congress the power to establish a branch of the national bank in the boundaries of a state 州界内设立国家银行分行. But McCulloch's lawyers argued that by virtue of 凭借；由于 the Necessary and Proper Clause, yes they did have the power to do so. +
+
+And as it turns out 结果是, the court agreed, saying that the Necessary and Proper Clause implied certain powers for the federal government even if they were not explicitly mentioned in the Constitution 即使宪法未明确提及，该条款也暗示联邦政府拥有某些权力. But going even further, Chief Justice John Marshall noted that because of the Supremacy Clause 至上条款 of the Constitution, federal law will always trump state law 联邦法律总是优先于州法律 when the two are in conflict 当两者冲突时. So in terms of federalism, it's hard to find a case that tipped the balance of power more towards the federal government than McCulloch v. Maryland. +
+
+But now let's look at a case that tipped the balance of power in favor of the states 使权力天平向州政府倾斜, and for that let me introduce you to United States v. Lopez in 1995. Now in the 80s and 90s, Congress was very concerned about gun violence 枪支暴力, and so they passed the Gun-Free School Zones Act of 1990 1990年无枪校园区法案 which prohibited guns on school property 禁止在校园内携带枪支. Now remember, this was a federal law, and again according to the Constitution, Congress has no power to do such a thing because it is not listed among the enumerated powers 不在列举权力范围内. But their justification 理由 wasn't the Necessary and Proper Clause this time -- rather it was the Commerce Clause. +
+
+And the reasoning 推理 went like this: If guns are on school property, then the learning environment will be diminished 受损, and then neighborhoods will grow worse, and that will ultimately hurt interstate commerce 州际贸易. To which I say... what? And so when a kid brought a gun to school in Texas, he was charged and convicted 指控并定罪 under this federal law. And when it came up before the Supreme Court, the justices 大法官 this time ruled in favor of the states 做出有利于州政府的裁决. They made clear that gun laws are the domain of the states 枪支法律属于州政府管辖范围, and there is no way that gun control can ever be linked to interstate commerce 枪支管制与州际贸易毫无关联. +
+
+Okay, thanks for watching. Here's the view packet 复习资料 right here if you want help getting an A in your class and a 5 on your exam in May. If this video helped you, I've got more videos on Unit 1 right over here. If you want me to keep making these videos, then by all means 务必 subscribe and I shall oblige 满足要求. Heimler out. +
+
+'''
+
+== 中文释义
+
+嘿，欢迎回到海姆勒历史课。在上一个视频中，我们开始讨论联邦制，在这个视频中，我们将继续讨论联邦制 —— 特别是联邦政府和州政府之间的权力分享是如何随着时间推移而变化的。有时候，大权掌握在“大家长”政府（联邦政府）手中，而有时候则掌握在州政府手中。所以我们需要弄清楚原因。如果你准备好开动脑筋获取知识，那我们就开始吧。 +
+
+所以在这个视频中，我们只做一件事：解释国家政府和州政府之间适当的权力平衡是如何随着时间推移而被不同解读的。好的，提醒一下，州政府和联邦政府之间的权力分享被称为联邦制，而这两个实体之间权力转移的程度取决于一些宪法条款和两个必备的最高法院案例。 +
+
+那我们从宪法开始讲。你需要了解的关于联邦制的第一个条款是第十修正案。基本上，它规定宪法没有明确授予联邦政府的任何权力都保留给各州 —— 这也解释了为什么我们把这些权力称为保留权力。保留权力的一个例子是对州内贸易的监管。管理州际贸易的权力属于联邦国会，但只有州政府有权管理其州内的贸易。 +
+
+好的，你需要了解的关于联邦制的下一个宪法条款是第十四修正案。这项修正案是在美国历史上内战后的重建时期通过的。你可能还记得，由于第十三修正案，奴隶制被废除了。但那些狡猾的南方各州仍然找到了很多方法来继续维持其社会的种族隔离，并维护白人对黑人的等级制度。 +
+
+即使黑人公民的权利现在受到《权利法案》的保护，但这并没有太大作用，因为 —— 记住 —— 《权利法案》保护公民免受联邦政府的侵害，而不是州政府。问题就在这里：新获得解放的黑人公民在联邦层面享有各种保护，但各州基本上仍可以不受惩罚地侵犯他们的权利。这就是第十四修正案的由来。这项修正案基本上将《权利法案》应用于各州，所以当这项修正案通过时，这意味着公民不仅在联邦政府侵犯其权利时受到保护，在州政府侵犯其权利时也受到保护。 +
+
+好的，你需要了解的关于联邦制的下一个宪法条款是第一条第八款中的商业条款。这个条款赋予国会管理州际贸易的权力，并且随着时间的推移，它被用来为联邦权力提供依据 —— 有时是以牺牲州权力为代价的，我们在讨论最高法院案例时会深入探讨这一点。 +
+
+好的，你需要了解的关于联邦制的下一个宪法条款是必要和适当条款 —— 也被称为弹性条款 —— 同样在第一条第八款中。你可能还记得在之前的视频中我谈到国会的列举权力，这些权力是宪法明确列出属于联邦政府的权力。但该条款以必要和适当条款结尾，基本上规定国会也有权通过任何被认为对于执行其列举权力是必要和适当的法律。这就是为什么它也被称为弹性条款。 +
+
+第一条第八款中列出的权力就像一条皮带，紧紧约束着联邦权力，但必要和适当条款就像给国会提供了一条舒适的运动裤，意思是“好吧，你可以放松一下了”。是我们的朋友亚历山大·汉密尔顿（Alexander Hamilton）援引这个条款来建立了第一家国家银行。如果你读过第一条第八款，你无疑会注意到宪法没有赋予国会建立银行的权力，但它确实规定国会有权征税、铸造货币和管理州际贸易。所以汉密尔顿认为，国会建立银行是必要和适当的，而且他们确实这么做了。 +
+
+我们还可以讨论很多其他的宪法条款，但我只想再讲一个 —— 即第四条中的充分信任和尊重条款。这个条款基本上意味着每个州都必须尊重其他州的法律。例如，如果我在佐治亚州（Georgia）获得了驾照，然后开车去加利福尼亚州（California），我的驾照在我经过的每个州都应该被认可为有效。如果没有充分信任和尊重条款，我每次跨越州界都得重新获取驾照。这个条款还意味着我在佐治亚州的婚姻在其他每个州也必须得到认可。 +
+
+但联邦制中重要的部分来了：假设一个州已经将同性婚姻合法化，但另一个州没有。比如说，一对同性伴侣在夏威夷州（Hawaii）结婚，然后搬到阿拉巴马州（Alabama）。如果阿拉巴马州的法律不承认同性婚姻，那么这个州是否必须遵守充分信任和尊重条款呢？嗯，1996年，国会通过了《捍卫婚姻法案》（the Defense of Marriage Act，简称DOMA），该法案赋予各州不承认同性伴侣婚姻状况的权利。所以在这种情况下，各州在主张自己的权力。 +
+
+但在2015年，在奥贝格费尔诉霍奇斯案（Obergefell v. Hodges）中，权力又转移到了联邦政府这边，因为这个判决认定婚姻 —— 无论涉及的双方性别如何 —— 是一项基本权利，各州不能侵犯。 +
+
+好的，现在我们需要深入了解两个必备的最高法院案例，它们说明了联邦政府和州政府之间的权力转移。因为这些是必备案例，每个案例都有专门的视频，讲解得比我在这里讲的要深入得多。 +
+
+第一个案例是1819年的麦卡洛克诉马里兰州案（McCulloch v. Maryland）。在第二家美国银行（the Bank of the United States）设立的时候，国会在马里兰州（Maryland）设立了一个分行。马里兰州立法机构表示“你们太疯狂了”，并对这家银行征收了一大笔税。当银行职员拒绝纳税时，这个案件最终提交到了最高法院。马里兰州辩称，宪法中没有赋予国会在一个州的境内设立国家银行分行的权力。但麦卡洛克（McCulloch）的律师认为，根据必要和适当条款，国会确实有这个权力。 +
+
+结果是，最高法院同意了这种观点，称必要和适当条款意味着联邦政府拥有某些权力，即使这些权力在宪法中没有明确提及。但更重要的是，首席大法官约翰·马歇尔（John Marshall）指出，由于宪法的最高权力条款，当联邦法律和州法律发生冲突时，联邦法律总是优先于州法律。所以就联邦制而言，很难找到一个比麦卡洛克诉马里兰州案更能使权力平衡向联邦政府倾斜的案例了。 +
+
+但现在让我们看一个使权力平衡向州政府倾斜的案例，为此我要给你介绍1995年的美国诉洛佩兹案（United States v. Lopez）。在20世纪80年代和90年代，国会非常关注枪支暴力问题，所以他们通过了1990年的《无枪校区法案》（the Gun-Free School Zones Act of 1990），该法案禁止在学校范围内持有枪支。记住，这是一项联邦法律，而且根据宪法，国会没有权力这么做，因为这不在列举权力之内。但这次他们的理由不是必要和适当条款 —— 而是商业条款。 +
+
+他们的推理是这样的：如果学校范围内有枪支，那么学习环境就会变差，然后社区也会变得更糟，最终会损害州际贸易。对此我想说…… 什么？所以当一个孩子在德克萨斯州（Texas）的学校携带枪支时，他根据这项联邦法律被起诉并定罪。当这个案件提交到最高法院时，大法官们这次做出了有利于各州的裁决。他们明确表示，枪支法律属于各州的管辖范围，而且枪支管制无论如何都不能与州际贸易联系起来。 +
+
+好的，感谢观看。如果你想在课堂上得A并且在五月份的考试中得5分，这里有复习资料包。如果这个视频对你有帮助，我还有关于第一单元的更多视频。如果你希望我继续制作这些视频，那么一定要订阅，我会照做的。海姆勒下线了。 +
+
+'''
+
+== pure
+
+Hey there, welcome back to Heimler's History. In the last video we began talking about federalism, and in this video we're going to keep talking about federalism -- especially how the sharing of power between the federal and state governments has shifted over time. Sometimes more power is in the hands of big daddy government, and other times it's in the hands of the state. So we need to figure out why. So if you're ready to get them brain cows milked with them, let's get to it.
+
+So in this video we're just trying to do one thing: Explain how the appropriate balance of power between national and state governments has been interpreted differently over time. Okay, now just as a reminder, that sharing of power between state and federal governments is called federalism, and the degree to which the power shifts between those two entities comes down to a few constitutional provisions and two required Supreme Court cases.
+
+So let's start with the Constitution. The first provision for federalism you need to know is the Tenth Amendment. Basically it says that any power that the Constitution does not explicitly give to the federal government is reserved for the states -- and that, not surprisingly, is why we call these reserved powers. Now an example of a reserve power would be the regulation of trade within a state. It's the federal Congress which has the power to regulate trade between states, but only a state can regulate trade within its own borders.
+
+Okay, the next constitutional provision for federalism you need to know is the 14th Amendment. Now this was passed during the Reconstruction era of U.S. history right after the Civil War, and you may remember that as a result of the 13th Amendment, slavery was abolished. But those rascally southern states still found a lot of ways they can continue to keep their society segregated and uphold the hierarchy of whites over blacks.
+
+Even though the rights of black citizens were now protected by the Bill of Rights, that didn't matter all that much because -- remember -- the Bill of Rights protects citizens from the federal government, not state government. And so here's the hair in the biscuit: Newly emancipated black citizens had all the protections in the world federally, but states could still basically violate their rights with immunity. So that's where the 14th Amendment comes in. This amendment basically applied the Bill of Rights to the states, and so when this amendment was passed, it meant that not only did a citizen have the protection of their rights against federal intrusion, they were protected against the states too.
+
+Okay, the next constitutional provision for federalism that you need to know is the Commerce Clause in Article 1, Section 8. This is the clause that gives Congress the authority to regulate commerce among the states and has been used over time to justify federal power -- sometimes at the expense of state power -- and we'll get into that a minute when we talk about Supreme Court cases.
+
+Okay, the next constitutional provision for federalism you need to know is the Necessary and Proper Clause -- also known as the Elastic Clause -- also in Article 1, Section 8. Now you might remember from a previous video where I talked about the enumerated powers of Congress, and those are powers which are explicitly listed in the Constitution as belonging to the federal government. But the section ends with the Necessary and Proper Clause, which basically says that Congress also has the power to pass any law which shall be deemed necessary and proper to the carrying out of their enumerated powers. That's why it's also called the Elastic Clause.
+
+The powers listed in Article 1, Section 8 are like a leather belt that keeps a tight grip on federal power, but the Necessary and Proper Clause gives Congress a nice comfy pair of sweats and says, "Yeah, you could let that belly out." It was our boy Alexander Hamilton who invoked this clause to establish the first national bank. And if you've read Article 1, Section 8, you will no doubt notice that Congress was not given the authority to establish a bank, but it does say that Congress has the power to tax and coin money and regulate interstate commerce. So Hamilton argued that it was therefore necessary and proper that Congress established a bank, and they did.
+
+Now there are a lot of other constitutional provisions we could talk about, but I just want to talk about one more -- namely the Full Faith and Credit Clause in Article 4. This clause basically means that each state must respect each other's laws. So for example, if I got my car here in Georgia and drove to California, my driver's license will be recognized as valid in every state I pass through. Without the Full Faith and Credit Clause, I'd have to get a new license every time I crossed a state line. This clause also means that my marriage in Georgia must be recognized in every other state as well.
+
+But here's where the big hairy federalism part comes in: Supposing one state has legalized same-sex marriage but another state has not. So a couple gets married in Hawaii, for example, and then moves to Alabama. If same-sex marriage is not recognized by Alabama law, does that state have to comply with the Full Faith and Credit Clause? Well, in 1996, Congress passed the Defense of Marriage Act (or DOMA) which gave states the right not to recognize the marital status of same-sex couples. So in that case, we have states asserting their power.
+
+But then in 2015, in the case of Obergefell v. Hodges, power was shifted back to the federal side of the ledger because this decision maintained that marriage -- no matter the gender of the parties involved -- was a fundamental right that could not be infringed upon by the states.
+
+Okay, now we need to get into two required Supreme Court cases that illustrate the shifting of power between federal and state governments. And because these are required cases, each case has its own video which goes way more into depth than I'll go into here.
+
+The first case is McCulloch v. Maryland in 1819. So in the second iteration of the Bank of the United States, Congress established a branch in Maryland. The Maryland legislature was like, "You so crazy," and slapped a big fat tax on the bank. And when the clerk refused to pay that tax, the case ended up before the Supreme Court. Maryland argued that there was nothing in the Constitution that gave Congress the power to establish a branch of the national bank in the boundaries of a state. But McCulloch's lawyers argued that by virtue of the Necessary and Proper Clause, yes they did have the power to do so.
+
+And as it turns out, the court agreed, saying that the Necessary and Proper Clause implied certain powers for the federal government even if they were not explicitly mentioned in the Constitution. But going even further, Chief Justice John Marshall noted that because of the Supremacy Clause of the Constitution, federal law will always trump state law when the two are in conflict. So in terms of federalism, it's hard to find a case that tipped the balance of power more towards the federal government than McCulloch v. Maryland.
+
+But now let's look at a case that tipped the balance of power in favor of the states, and for that let me introduce you to United States v. Lopez in 1995. Now in the 80s and 90s, Congress was very concerned about gun violence, and so they passed the Gun-Free School Zones Act of 1990 which prohibited guns on school property. Now remember, this was a federal law, and again according to the Constitution, Congress has no power to do such a thing because it is not listed among the enumerated powers. But their justification wasn't the Necessary and Proper Clause this time -- rather it was the Commerce Clause.
+
+And the reasoning went like this: If guns are on school property, then the learning environment will be diminished, and then neighborhoods will grow worse, and that will ultimately hurt interstate commerce. To which I say... what? And so when a kid brought a gun to school in Texas, he was charged and convicted under this federal law. And when it came up before the Supreme Court, the justices this time ruled in favor of the states. They made clear that gun laws are the domain of the states, and there is no way that gun control can ever be linked to interstate commerce.
+
+Okay, thanks for watching. Here's the view packet right here if you want help getting an A in your class and a 5 on your exam in May. If this video helped you, I've got more videos on Unit 1 right over here. If you want me to keep making these videos, then by all means subscribe and I shall oblige. Heimler out.
+
+'''
+

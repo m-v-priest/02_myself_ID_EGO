@@ -1,0 +1,63 @@
+
+= Required Cases 01 - McCulloch v Maryland
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: myAdocCss.css
+
+'''
+
+== 释义
+
+Hey there, and welcome back to Heimler's History. In this video, we're looking at another one of your required Supreme Court cases 最高法院案例 in the AP Government curriculum 课程, and that means it's time to look at McCulloch v. Maryland 麦卡洛克诉马里兰州案. So if you're ready to get them brain cows milked supremacy 至高无上；最高权威 style, then let's get to it. +
+
+Okay, first let's get the facts of the case. In 1816, Congress chartered 特许设立 the Second Bank of the United States -- which, in case you can't discern 辨别；识别 from the name, was a federal bank 联邦银行. Furthermore, this federal bank attempted to establish branches 设立分行 in several states, including Baltimore, Maryland. To which the Maryland legislature 马里兰州立法机构 said, "Big mistake." So Maryland was not too pleased 高兴的 to have this branch of the federal bank in its borders 境内, and so the state legislature passed a law saying that any bank in Maryland which was not officially chartered by Maryland would be subject to 遭受；受…支配 a $15,000-a-year tax -- which, when being adjusted for inflation 考虑通货膨胀因素调整后, is roughly a metric buttload of （俚语，大量的）money. So the cashier 出纳员 of the Baltimore branch of the national bank could see the injustice 不公正 in this tax and refused to pay it, and the case went all the way up to the Supreme Court 一路上诉至最高法院. +
+
+So now let's have a look at the constitutional principle 宪法原则 at stake 处于危险中；攸关紧要 in this case. Maryland argued that the establishment of a national bank was unconstitutional 违宪的 because nowhere in Article 1, Section 8 did it say that Congress had the power to create a bank. And on that count 关于那一点, they were right -- it doesn't say anything about that. But McCulloch's lawyers argued that the bank was constitutional 合宪的 on account of 由于；因为 the Necessary and Proper Clause 必要和适当条款, which was explicitly 明确地 stated in Article 1, Section 8. And it says this: "The Congress shall have power to make all laws which shall be necessary and proper for carrying into execution 执行；实施 the foregoing powers 前述权力, and all other powers vested 授予；赋予 by this Constitution in the government of the United States, or in any department or officer thereof." In other words 换句话说, Congress is given explicit powers 明确权力 in Article 1, Section 8 -- like the power to declare war 宣战 or regulate interstate commerce 管理州际贸易, for example -- and the Necessary and Proper Clause gives Congress the power to create other laws which are not explicitly named in Article 1, Section 8, but that need to be passed in order that the explicit powers can be upheld 维持；支持. +
+
+If you want a term for those kinds of non-explicit powers 非明确权力 -- and I know you do -- these are called implied powers 默示权力. The powers are not named, but they are implied 暗示；隐含. So what was the decision? Well, it doesn't appear that there was much of a fight over this one, since the decision was unanimous 一致的 in favor of McCulloch. Chief Justice 首席大法官 John Marshall argued in his decision that the bank was in fact constitutional on account of the authority 权力；权威 of the Necessary and Proper Clause, and he said it this way: "We think that the sound construction 合理解释 of the Constitution must allow to the national legislature that discretion 自由裁量权, with respect to 关于 the means by which the powers it confers 授予 are to be carried into execution, which will enable that body to perform the high duties assigned to it in the manner most beneficial to the people. Let the end be legitimate 合法的, let it be within the scope of the Constitution 宪法范围, and all means which are appropriate 适当的, which are plainly adapted to that end 明显适用于该目的, which are not prohibited 禁止 but consistent with 与…一致 the letter and spirit of the Constitution, are constitutional." In other words, if a power is not prohibited by the Constitution, and the law in question upholds the spirit of the Constitution, then it stands 成立；有效. +
+
+Furthermore, this case established the supremacy 至高无上 of national laws over state laws 联邦法律高于州法律. And listen to how Marshall says it: "The powers granted to Congress are not given by the people of a single state. They are given by the people of the United States to a government whose laws, made in pursuance of the Constitution 依据宪法制定, are declared to be supreme. Consequently 因此, the people of a single state cannot confer sovereignty 授予主权 which will extend over them." In other words, whenever a state law is in conflict with 与…冲突 a federal law, federal law wins. +
+
+So why does this decision matter? Well, it matters mostly because of what it demonstrated about federalism 联邦制 -- the balance of power 权力平衡 between the federal government and the states. Remember that in United States v. Lopez 美国诉洛佩兹案, the court tipped the balance in favor of the states 法院倾向于州. In this case, the balance is decidedly 明确地 tipped in favor of the federal government. And ever since this decision was handed down 作出裁决, McCulloch v. Maryland has been a precedent 先例 to which later courts would return when deciding on the balance of power between states and the federal government. +
+
+Okay, that's what you need to know about McCulloch v. Maryland for AP Government. Here's a playlist right over here for all the other required cases, in case you're into that kind of thing. If you want help getting an A in your class and a five on your exam in May, then you can click right here and grab my review packet. So go ahead and subscribe 订阅 if you're not already, and I will see you in the next one. Heimler out. +
+
+'''
+
+== 中文释义
+
+嘿，欢迎回到海姆勒（Heimler）的历史频道。在这个视频中，我们要研究美国大学预修课程（AP）政府课程中另一个必修的最高法院案例，这意味着我们要看看 “麦卡洛克诉马里兰州案（McCulloch v. Maryland）”。所以，如果你准备好以 “至高无上” 的方式激发自己的思维，那我们就开始吧。 +
+
+好的，首先让我们了解一下这个案件的事实。1816 年，国会特许成立了美国第二银行（Second Bank of the United States） —— 从名字就可以看出，这是一家联邦银行。此外，这家联邦银行试图在包括马里兰州巴尔的摩（Baltimore, Maryland）在内的几个州设立分行。对此，马里兰州立法机构表示：“这是个大错误。” 所以，马里兰州对于这家联邦银行在其境内设立分行不太满意，于是州立法机构通过了一项法律，规定任何在马里兰州的非本州正式特许的银行都要缴纳每年 15000 美元的税 —— 考虑到通货膨胀因素，这可是一大笔钱。所以，这家国家银行巴尔的摩分行的出纳员认为这项税收不公平，拒绝缴纳，于是这个案件一路上诉到了最高法院。 +
+
+那么现在让我们看看这个案件所涉及的宪法原则。马里兰州认为，设立国家银行是违宪的，因为在宪法第一条第八款中并没有说国会有权设立银行。从这一点来看，他们是对的 —— 宪法里确实没有相关内容。但是麦卡洛克（McCulloch）的律师认为，根据宪法第一条第八款中明确规定的 “必要且适当条款（Necessary and Proper Clause）”，设立银行是符合宪法的。该条款内容如下：“国会有权制定所有必要且适当的法律，以执行上述权力，以及本宪法授予合众国政府或其任何部门或官员的所有其他权力。” 换句话说，宪法第一条第八款赋予了国会一些明确的权力，比如宣战权或监管州际贸易的权力等等，而 “必要且适当条款” 赋予了国会制定一些在第一条第八款中未明确列出，但为维护明确权力所必需的其他法律的权力。 +
+
+如果你想给这些非明确权力起个名字 —— 我知道你想 —— 这些权力被称为 “默示权力（implied powers）”。这些权力没有被明确列出，但它们是默示的。那么判决结果是什么呢？嗯，在这个问题上似乎没有太多争议，因为判决结果是一致支持麦卡洛克一方。首席大法官约翰·马歇尔（Chief Justice John Marshall）在判决中认为，基于 “必要且适当条款” 的权威性，这家银行事实上是符合宪法的，他是这样说的：“我们认为，对宪法的合理解释必须给予国家立法机构在执行其被赋予的权力时的自由裁量权，这将使立法机构能够以最有利于人民的方式履行赋予它的崇高职责。只要目的是合法的，且在宪法范围内，所有适当的、明显为实现该目的而采用的、未被禁止且符合宪法文字和精神的手段，都是符合宪法的。” 换句话说，如果一项权力没有被宪法禁止，且所涉及的法律维护了宪法的精神，那么这项权力就是合法的。 +
+
+此外，这个案件确立了国家法律高于州法律的至高无上地位。听听马歇尔是怎么说的：“授予国会的权力不是由单个州的人民赋予的。这些权力是由美国人民赋予一个政府的，这个政府根据宪法制定的法律被宣布为至高无上的。因此，单个州的人民不能赋予凌驾于这些法律之上的主权。” 换句话说，每当州法律与联邦法律发生冲突时，联邦法律优先。 +
+
+那么这个判决为什么重要呢？嗯，主要是因为它展示了联邦制的相关内容 —— 即联邦政府和各州之间的权力平衡。记住，在 “美国诉洛佩兹案（United States v. Lopez）” 中，法院倾向于支持各州。而在这个案件中，权力平衡明显倾向于联邦政府。自从这个判决下达以来，“麦卡洛克诉马里兰州案（McCulloch v. Maryland）” 就成了一个先例，后来的法院在裁决州和联邦政府之间的权力平衡问题时会参考这个案例。 +
+
+好的，这就是你在美国大学预修课程（AP）政府课程中需要了解的关于 “麦卡洛克诉马里兰州案（McCulloch v. Maryland）” 的内容。如果你对这类内容感兴趣，这里有一个关于所有其他必修案例的播放列表。如果你想在课堂上取得 A 的成绩，并在五月份的考试中获得 5 分，那么你可以点击这里获取我的复习资料包。如果你还没有订阅，请订阅，我们下一个视频再见。海姆勒，退出。 + 
+
+'''
+
+== pure
+
+Hey there, and welcome back to Heimler's History. In this video, we're looking at another one of your required Supreme Court cases in the AP Government curriculum, and that means it's time to look at McCulloch v. Maryland. So if you're ready to get them brain cows milked supremacy style, then let's get to it.
+
+Okay, first let's get the facts of the case. In 1816, Congress chartered the Second Bank of the United States -- which, in case you can't discern from the name, was a federal bank. Furthermore, this federal bank attempted to establish branches in several states, including Baltimore, Maryland. To which the Maryland legislature said, "Big mistake." So Maryland was not too pleased to have this branch of the federal bank in its borders, and so the state legislature passed a law saying that any bank in Maryland which was not officially chartered by Maryland would be subject to a $15,000-a-year tax -- which, when being adjusted for inflation, is roughly a metric buttload of money. So the cashier of the Baltimore branch of the national bank could see the injustice in this tax and refused to pay it, and the case went all the way up to the Supreme Court.
+
+So now let's have a look at the constitutional principle at stake in this case. Maryland argued that the establishment of a national bank was unconstitutional because nowhere in Article 1, Section 8 did it say that Congress had the power to create a bank. And on that count, they were right -- it doesn't say anything about that. But McCulloch's lawyers argued that the bank was constitutional on account of the Necessary and Proper Clause, which was explicitly stated in Article 1, Section 8. And it says this: "The Congress shall have power to make all laws which shall be necessary and proper for carrying into execution the foregoing powers, and all other powers vested by this Constitution in the government of the United States, or in any department or officer thereof." In other words, Congress is given explicit powers in Article 1, Section 8 -- like the power to declare war or regulate interstate commerce, for example -- and the Necessary and Proper Clause gives Congress the power to create other laws which are not explicitly named in Article 1, Section 8, but that need to be passed in order that the explicit powers can be upheld.
+
+If you want a term for those kinds of non-explicit powers -- and I know you do -- these are called implied powers. The powers are not named, but they are implied. So what was the decision? Well, it doesn't appear that there was much of a fight over this one, since the decision was unanimous in favor of McCulloch. Chief Justice John Marshall argued in his decision that the bank was in fact constitutional on account of the authority of the Necessary and Proper Clause, and he said it this way: "We think that the sound construction of the Constitution must allow to the national legislature that discretion, with respect to the means by which the powers it confers are to be carried into execution, which will enable that body to perform the high duties assigned to it in the manner most beneficial to the people. Let the end be legitimate, let it be within the scope of the Constitution, and all means which are appropriate, which are plainly adapted to that end, which are not prohibited but consistent with the letter and spirit of the Constitution, are constitutional." In other words, if a power is not prohibited by the Constitution, and the law in question upholds the spirit of the Constitution, then it stands.
+
+Furthermore, this case established the supremacy of national laws over state laws. And listen to how Marshall says it: "The powers granted to Congress are not given by the people of a single state. They are given by the people of the United States to a government whose laws, made in pursuance of the Constitution, are declared to be supreme. Consequently, the people of a single state cannot confer sovereignty which will extend over them." In other words, whenever a state law is in conflict with a federal law, federal law wins.
+
+So why does this decision matter? Well, it matters mostly because of what it demonstrated about federalism -- the balance of power between the federal government and the states. Remember that in United States v. Lopez, the court tipped the balance in favor of the states. In this case, the balance is decidedly tipped in favor of the federal government. And ever since this decision was handed down, McCulloch v. Maryland has been a precedent to which later courts would return when deciding on the balance of power between states and the federal government.
+
+Okay, that's what you need to know about McCulloch v. Maryland for AP Government. Here's a playlist right over here for all the other required cases, in case you're into that kind of thing. If you want help getting an A in your class and a five on your exam in May, then you can click right here and grab my review packet. So go ahead and subscribe if you're not already, and I will see you in the next one. Heimler out.
+
+'''
+
