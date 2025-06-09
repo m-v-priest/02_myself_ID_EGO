@@ -1,0 +1,50 @@
+<svg viewBox="0 0 295 310" height="310" xmlns:xlink="http://www.w3.org/1999/xlink" width="295" xmlns="http://www.w3.org/2000/svg">
+    <defs/>
+    <g transform="translate(-358.00,-163.00)">
+        <g id="shape1" transform="translate(378.00,207.00)">
+            <path d="M120.0,32.0L120.0,.0L.0,.0L.0,32.0L120.0,32.0z" fill-rule="nonzero" stroke="#323232" fill="#d7d7d7"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="21.5" x="47.0">国王</tspan>
+            </text>
+        </g>
+        <path d="M293.0,186.0L293.0,.0L.0,.0L.0,186.0L293.0,186.0z" id="shape2" fill-rule="nonzero" stroke="#323232" transform="translate(359.00,286.00)" fill="#ffffff"/>
+        <g id="shape3" transform="translate(378.00,308.00)">
+            <path d="M120.0,32.0L120.0,.0L.0,.0L.0,32.0L120.0,32.0z" fill-rule="nonzero" stroke="#323232" fill="#d7d7d7"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="21.5" x="47.0">贵族</tspan>
+            </text>
+        </g>
+        <g id="shape4" transform="translate(438.00,239.00)">
+            <path d="M.0,.0L.0,63.0" stroke="#191919" fill="none"/>
+            <path d="M3.0,63.0L.0,69.0L-3.0,63.0L3.0,63.0" stroke-linecap="round" stroke-width="1" stroke="#191919" fill="#191919"/>
+            <rect height="19.0" y="15.4" width="52.0" x="-25.0" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="30.4" x="-25.0">授予土地</tspan>
+            </text>
+        </g>
+        <g id="shape5" transform="translate(378.00,397.00)">
+            <path d="M120.0,32.0L120.0,.0L.0,.0L.0,32.0L120.0,32.0z" fill-rule="nonzero" stroke="#323232" fill="#d7d7d7"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="21.5" x="32.0">农民 耕种</tspan>
+            </text>
+        </g>
+        <g id="shape6" transform="translate(438.00,340.00)">
+            <path d="M.0,.0L.0,51.0" stroke="#191919" fill="none"/>
+            <path d="M3.0,51.0L.0,57.0L-3.0,51.0L3.0,51.0" stroke-linecap="round" stroke-width="1" stroke="#191919" fill="#191919"/>
+            <rect height="19.0" y="18.4" width="26.0" x="-12.0" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="33.4" x="-12.0">雇佣</tspan>
+            </text>
+        </g>
+        <g id="shape7" transform="translate(548.00,308.00)">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="21.5" x="5.1">庄园 manor</tspan>
+            </text>
+        </g>
+        <g id="shape8" transform="translate(393.63,164.00)">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="21.5" x="30.4">封建主义（feudalism）体系</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

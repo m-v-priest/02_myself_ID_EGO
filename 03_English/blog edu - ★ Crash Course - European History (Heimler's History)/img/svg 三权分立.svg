@@ -1,0 +1,76 @@
+<svg viewBox="0 0 588 278" height="278" xmlns:xlink="http://www.w3.org/1999/xlink" width="588" xmlns="http://www.w3.org/2000/svg">
+    <defs/>
+    <g transform="translate(-396.00,-206.00)">
+        <g id="shape1" transform="translate(434.25,207.00)">
+            <path d="M138.0,50.0L138.0,.0L.0,.0L.0,50.0L138.0,50.0z" fill-rule="nonzero" stroke="#323232" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="21.0" x="49.5">立法权</tspan>
+                <tspan y="40.0" x="9.5">legislative authority</tspan>
+            </text>
+        </g>
+        <g id="shape2" transform="translate(607.95,207.00)">
+            <path d="M138.0,50.0L138.0,.0L.0,.0L.0,50.0L138.0,50.0z" fill-rule="nonzero" stroke="#323232" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="21.0" x="49.5">司法权</tspan>
+                <tspan y="40.0" x="20.5"> judiciary power</tspan>
+            </text>
+        </g>
+        <g id="shape3" transform="translate(781.65,207.00)">
+            <path d="M138.0,50.0L138.0,.0L.0,.0L.0,50.0L138.0,50.0z" fill-rule="nonzero" stroke="#323232" fill="#ffffff"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="21.0" x="49.5">行政权</tspan>
+                <tspan y="40.0" x="10.0">executive authority</tspan>
+            </text>
+        </g>
+        <g id="shape4" transform="translate(466.26,257.00)">
+            <path d="M.0,.0L.0,92.2" stroke-width="3" stroke="#c00000" fill="none"/>
+            <path d="M4.9,92.2L.0,102.0L-4.9,92.2L4.9,92.2" stroke-linecap="round" stroke-width="1" stroke="#c00000" fill="#c00000"/>
+        </g>
+        <g id="shape5" transform="translate(816.26,257.00)">
+            <path d="M.0,.0L-71.9,21.9C-72.9,18.8,-76.2,17.0,-79.4,17.9C-82.5,18.9,-84.3,22.3,-83.4,25.4L-133.5,40.8C-134.5,37.6,-137.9,35.8,-141.0,36.8C-144.2,37.7,-146.0,41.1,-145.0,44.3L-324.9,99.1" stroke-width="3" stroke="#c00000" fill="none"/>
+            <path d="M-323.5,103.8L-334.3,102.0L-326.3,94.5L-323.5,103.8" stroke-linecap="round" stroke-width="1" stroke="#c00000" fill="#c00000"/>
+        </g>
+        <g id="shape6" transform="translate(397.00,371.85)">
+            <path d="M165.0,50.0L165.0,.0L.0,.0L.0,50.0L165.0,50.0z" fill-rule="nonzero" stroke="#323232" fill="#fae9e9"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="19.0" x="4.0">会导致暴君自己制定恶法, </tspan>
+                <tspan y="38.0" x="4.0">来自己执行</tspan>
+            </text>
+        </g>
+        <g id="shape7" transform="translate(676.97,257.00)">
+            <path d="M.0,.0L.0,92.2" stroke-width="3" stroke="#42c181" fill="none"/>
+            <path d="M4.9,92.2L.0,102.0L-4.9,92.2L4.9,92.2" stroke-linecap="round" stroke-width="1" stroke="#42c181" fill="#42c181"/>
+        </g>
+        <g id="shape8" transform="translate(841.70,257.00)">
+            <path d="M.0,.0L-148.5,96.7" stroke-width="3" stroke="#42c181" fill="none"/>
+            <path d="M-145.8,100.8L-156.7,102.0L-151.2,92.5L-145.8,100.8" stroke-linecap="round" stroke-width="1" stroke="#42c181" fill="#42c181"/>
+        </g>
+        <g id="shape9" transform="translate(607.95,371.85)">
+            <path d="M165.0,111.0L165.0,.0L.0,.0L.0,111.0L165.0,111.0z" fill-rule="nonzero" stroke="#323232" fill="#cfe9d8"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="19.0" x="4.0">会导致法官自己立法, 自己</tspan>
+                <tspan y="38.0" x="4.0">审判执行. 如果他立的是恶</tspan>
+                <tspan y="57.0" x="4.0">法, 就没有人(另外的司法执</tspan>
+                <tspan y="76.0" x="4.0">行者)能反制了. 对恶法不执</tspan>
+                <tspan y="95.0" x="4.0">行.</tspan>
+            </text>
+        </g>
+        <g id="shape10" transform="translate(699.20,257.00)">
+            <path d="M.0,.0L69.0,41.4C70.7,38.6,74.4,37.7,77.2,39.4C80.0,41.1,81.0,44.8,79.3,47.6L161.4,97.0" stroke-width="3" stroke="#4274bf" fill="none"/>
+            <path d="M163.9,92.8L169.8,102.0L158.9,101.2L163.9,92.8" stroke-linecap="round" stroke-width="1" stroke="#4274bf" fill="#4274bf"/>
+        </g>
+        <g id="shape11" transform="translate(892.26,257.00)">
+            <path d="M.0,.0L.0,92.2" stroke-width="3" stroke="#4274bf" fill="none"/>
+            <path d="M4.9,92.2L.0,102.0L-4.9,92.2L4.9,92.2" stroke-linecap="round" stroke-width="1" stroke="#4274bf" fill="#4274bf"/>
+        </g>
+        <g id="shape12" transform="translate(818.00,371.85)">
+            <path d="M165.0,92.0L165.0,.0L.0,.0L.0,92.0L165.0,92.0z" fill-rule="nonzero" stroke="#323232" fill="#d0d9f1"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="19.0" x="4.0">会导致暴君自己随意审判, </tspan>
+                <tspan y="38.0" x="4.0">我说你有罪就是有罪. 我能</tspan>
+                <tspan y="57.0" x="4.0">随意把握对你判刑的宽严</tspan>
+                <tspan y="76.0" x="4.0">度. 统统按最高期限来判你.</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
