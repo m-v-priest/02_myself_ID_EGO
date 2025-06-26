@@ -1,0 +1,51 @@
+<svg width="706" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 706 180" height="180">
+    <defs/>
+    <g transform="translate(-240.26,-287.85)">
+        <g id="shape1" transform="translate(241.26,288.85)">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="71.9" y="22.0">And then came along </tspan>
+                <tspan x="207.9" style="text-decoration:underline">Napoleon</tspan>
+            </text>
+        </g>
+        <g id="shape2" transform="translate(464.14,340.00)">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="4.4" y="21.6">who</tspan>
+            </text>
+        </g>
+        <g id="shape3" transform="translate(537.64,340.00)">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="4.4" y="19.0">谓① </tspan>
+                <tspan x="34.4" style="text-decoration:underline">claimed</tspan>
+                <tspan x="81.4"> to embody the ideals of the Revolution</tspan>
+            </text>
+        </g>
+        <g id="shape4" transform="translate(537.64,380.78)">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="4.4" y="19.0">谓② and </tspan>
+                <tspan x="61.4" style="text-decoration:underline">conquered or controlled</tspan>
+                <tspan x="210.4"> much of Europe.</tspan>
+            </text>
+        </g>
+        <g id="shape5" transform="translate(632.64,435.00)">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="4.2" y="19.0">方式状 through seemingly endless expansionism</tspan>
+            </text>
+        </g>
+        <g id="shape6" transform="translate(481.00,320.00)">
+            <path d="M.0,.0L.0,23.0" fill="none" stroke="#191919"/>
+            <path d="M3.0,23.0L.0,29.0L-3.0,23.0L3.0,23.0" stroke-width="1" fill="#191919" stroke="#191919" stroke-linecap="round"/>
+        </g>
+        <g id="shape7" transform="translate(499.00,357.00)">
+            <path d="M.0,.0L32.0,.0" fill="none" stroke="#191919"/>
+            <path d="M32.0,-3.0L38.0,.0L32.0,3.0L32.0,-3.0" stroke-width="1" fill="#191919" stroke="#191919" stroke-linecap="round"/>
+        </g>
+        <g id="shape8" transform="translate(491.00,369.00)">
+            <path d="M.0,.0L41.4,22.3" fill="none" stroke="#191919"/>
+            <path d="M42.8,19.7L46.6,25.1L39.9,24.9L42.8,19.7" stroke-width="1" fill="#191919" stroke="#191919" stroke-linecap="round"/>
+        </g>
+        <g id="shape9" transform="translate(652.00,410.00)">
+            <path d="M.0,.0L.2,21.9" fill="none" stroke="#191919"/>
+            <path d="M3.2,21.8L.3,27.9L-2.8,21.9L3.2,21.8" stroke-width="1" fill="#191919" stroke="#191919" stroke-linecap="round"/>
+        </g>
+    </g>
+</svg>

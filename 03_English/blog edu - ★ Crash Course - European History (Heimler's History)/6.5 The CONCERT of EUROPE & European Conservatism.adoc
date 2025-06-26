@@ -3,53 +3,275 @@
 :toc: left
 :toclevels: 3
 :sectnums:
-:stylesheet: myAdocCss.css
+:stylesheet: ../../myAdocCss.css
 
 '''
 
 == 释义
 
-Oh baby, it is that point in European history where it's time to get conservative 保守的. So if you're ready to get them brain cows milked Metternich style, then let's get to it. +
+Oh baby, it is _that point_ in European history /_where_ it's time to get conservative 保守的. So if you're ready to get them brain cows milked Metternich style, then let's get to it. +
 
-Now to understand this distinctive 独特的；特别的；有特色的 rise of conservative ideology 意识形态 at this point in European history, you have to remember what happened before 1815. And mainly I'm talking about trends 趋势；趋向；动向 in the French Revolution. The people demanded liberal 自由的；开明的 reforms of the government, and when the government didn't comply 遵从；服从；顺从, the people went ahead and took over. +
+[.my2]
+哦，宝贝，这是欧洲历史上的一个转折点，是时候变得保守了。
 
-At that point, the people reigned supreme 至高无上；主宰一切, and the people were getting rights they never had before, and they had crushed monarchical 君主制的 tyranny 暴政；专制；专横 under their feet. But then things got a little crazy during the radical 激进的；极端的 phase 阶段；时期 of the Revolution -- more specifically during the Reign of Terror. +
+Now to understand this distinctive 独特的；特别的；有特色的 rise of conservative ideology 意识形态 at this point in European history, you have to remember what happened before 1815. And mainly I'm talking about trends (n.)趋势；趋向；动向 in the French Revolution. The people demanded (v.) liberal 自由的；开明的 reforms of the government, and when the government didn't comply (v.)遵从；服从；顺从, the people *went ahead* and took over 接管,接手. +
 
-During this phase, surrounding nations had allied 结盟；联合 against France, and those in charge in France, fearing the gains 利益；好处 of the Revolution would be lost, clamped down 强行压制；严厉打击 hard on dissent 异议；不同意见. And you know the song by now -- everybody got their heads cut off, including but certainly not limited to the king. +
+At that point, the people reigned (v.)统治，支配 supreme (a.)至高无上；主宰一切, and the people were getting rights they never had before, and they had crushed (v.) monarchical 君主制的 tyranny 暴政；专制；专横 under their feet. But then _things got a little crazy_ during the radical 激进的；极端的 phase 阶段；时期 of the Revolution -- more specifically during the Reign of Terror. +
 
-And then came along Napoleon, who claimed to embody 体现；代表；象征 the ideals 理想 of the Revolution, and through seemingly 貌似；看似；表面上 endless expansionism 扩张主义 conquered or controlled much of Europe. So after Napoleon's defeat, as I mentioned in the last video, the Quadruple Alliance 四国同盟 -- which included Great Britain, Austria, Prussia, and Russia -- wanted to shut this liberal French machine down. +
+[.my1]
+.案例
+====
+.`主` the people `谓` reigned (v.) supreme (a.)
 
-After all, liberal reforms had brought about the execution 处决；死刑 of kings, the stripping 剥夺 of aristocratic 贵族的 privileges 特权；特殊待遇, the abolishment 废除；废止 of the church -- all those darlings 备受喜爱的事物 of the conservative order 秩序. +
+Gemini: +
+这里的 supreme 不是修饰 reigned 这个动词的，它也不是副词。 +
+这里的 supreme 是一个主语补语 (Subject Complement)，它补充说明了主语 the people 的状态或性质。
 
-Now conservatism 保守主义 as it existed in 19th century Europe basically meant this: it was a political belief that argues that governments are most stable when they uphold 支持；维护；维持 traditional and established 已确立的；已获确认的 norms 准则；规范 and cultural institutions 机构；制度. And that's not hard to understand when you consider the conservative view of human nature. +
+为什么不用副词 supremely？
+如果用副词 supremely，即 the people reigned supremely，那意思会变成“人民以一种至高无上的方式进行统治”，这修饰的是“统治”这个动作的“方式”，听起来会非常奇怪，不符合原句想表达的“人民掌握了最高权力/成为了最高统治者”的意思。
 
-They believe that humans are inherently 天生地；固有地 flawed 有缺陷的；有瑕疵的 and untrustworthy 不可信赖的；靠不住的, so you can't go putting the power to govern in their hands. Instead, they argued it was better to build your society on institutions that have been handed down 传承；流传 and vetted 审查；核查 -- like monarchy 君主制；君主政体 and aristocracy 贵族统治；贵族统治制度 and religion 宗教. +
+chatgpt: +
+是属于一种叫做 “#*主语 + 动词 + 补语（主语补足语）*#” 的结构（也叫“系动词结构”的变体）。 +
+#*supreme 是作为“补语”, 来描述主语“the people”在“reign”的过程中所处的地位或状态。 即, supreme 是补足主语“the people”的状态.*#
 
-It was with this ideology that leaders met at the Congress of Vienna in order to restore 恢复；使复原 Europe to its inherited 继承的；遗传的 structure 结构. Now before I tell you what kind of work they did at the Congress, there are a couple of prominent 著名的；杰出的；重要的 conservatives to whom I need to introduce. +
+类似的句式举例： +
+- #He died young.#
+他去世时还年轻。
+ “young”是补语，说明“he”的状态。 +
+- #She came prepared.#
+她有备而来。
+ “prepared”不是修饰“came”，而是说明“she”的状态。 +
+- #The king ruled absolute.#
+国王统治得至高无上（或：拥有绝对权力）。
+ 同样，“absolute”是补语。
 
-The first was English conservative Edmund Burke. He argued that authority 权力；权威 and hierarchy 等级制度 were part of the natural order to the universe, and if those are in place, people will flourish 繁荣；兴旺；发达 as such. Burke didn't believe that people were capable of governing themselves, and therefore he believed society should be ordered under a small group of elite 精英；上层集团 leaders. +
 
-The poster boy 典型人物 for French conservatism was Joseph de Maistre. He began as a supporter of the Revolution, but when it devolved 演变；蜕化 into violence, he was horrified 惊骇的；惊恐的；吓坏的. What irked 使烦恼；使恼怒 him even more was the revolution's complete discarding 抛弃；遗弃 of religious authority and the secularizing 使世俗化；使非宗教化 of France. +
 
-To Maistre, a true political authority must be rooted in 植根于；源于 religious and moral 道德的 principles 原则；原理；准则. He therefore argued for a return to monarchy after the Revolution. +
+====
 
-Now after the Congress of Vienna, in which conservative leaders imposed 推行；强制实行 their ideology on the European continent, Europe entered what's known as the Concert of Europe -- also known as the Congress system 会议体系. This is a period of a few decades in which Europe existed in the image of those conservative rulers, and in general there was peace during that time. +
 
-Now this concert was conceived 构想；设想 and driven by the Austrian foreign minister Clemens von Metternich. Those few decades of peace are often referred to as the Age of Metternich. He believed that only powerful central governments would bring order to the various states of Europe -- as opposed to 与…对照；而非 the common rabble 乌合之众；群氓 that disrupted 扰乱；使中断 France in the French Revolution. +
+During this phase, surrounding (a.)周围的，附近的 nations had allied (v.)结盟；联合 against France, and those *in charge* in France 以及在法国掌权的人, fearing the gains 利益；好处 of the Revolution would be lost, *clamped down 强行压制；严厉打击 hard on* dissent 异议；不同意见. And you know the song by now -- everybody got their heads cut off, including but *certainly not limited to* the king. +
 
-So to that end, Metternich's Concert of Europe basically had three goals: First, he aimed to restore the balance of power 权力平衡 in Europe by installing 任命；安置 legitimate 合法的；依法的 rulers on the various thrones 王位；宝座 of Europe. By "legitimate" he meant old-school 老派的；守旧的 conservative rulers. +
+And then *came along* Napoleon, `主` #who ① claimed# to embody (v.)体现；代表；象征 the ideals 理想 of the Revolution, #② and# (方式状语) _through seemingly 貌似；看似；表面上 endless expansionism_ 扩张主义 `谓` #*conquered (v.) or controlled*# (v.) much of Europe. So after Napoleon's defeat (v.), as I mentioned in the last video, the Quadruple Alliance 四国同盟 -- which included Great Britain, Austria, Prussia, and Russia -- wanted (v.) *to shut* (v.)关闭，合上 this liberal French machine *down*. +
 
-Second, he took pains 费尽力气；煞费苦心 to make sure that European states upheld the rights and prerogatives 特权；职权 of the landed aristocracy. +
+image:/img/svg 003.svg[,100%]
 
-And third, Metternich argued for the need for organized religion as the bulwark 保障；支柱；堡垒 of stable states. +
 
-Now whatever you think about those three goals, the Concert of Europe more or less 或多或少；有几分 maintained 维持；保持 peace in Europe until the Revolutions of 1848, and arguably 可论证地；按理说 until World War I came along to ruin it. +
 
-Now remember, a big part of this conservative reaction was against the liberal reforms that occurred during the French Revolution and then spread to the continent. And so for the leaders who engineered 策划；密谋 this conservative peace, they used these principles as a justification 正当理由；借口 for rulers across Europe who wanted to crush 镇压；消灭 nationalist 民族主义的 uprisings 起义；暴动 and liberal revolt 反抗；叛乱. +
 
-For example, in 1819 Austria enacted 颁布；制定法律 the Carlsbad Decrees 卡尔斯巴德决议, which worked to suppress 镇压；压制 liberal and nationalist movements in the German states. The decrees outlawed 宣布…为不合法 nationalist organizations, forcibly 强行地；强制地 dissolved 解散 radical student organizations, and removed liberal college professors from their posts 职位. +
 
-And then over in Russia -- one of the most conservative states of the era 时代；年代 -- tsars 沙皇 claimed to rule by divine right 君权神授. They made prodigious 大量的；巨大的 use of secret police to ferret out 查获；搜出 dissent and used conservative censorship 审查制度 to uphold serfdom 农奴制, which was a little different than slavery. +
+
+
+After all, liberal reforms *had brought about* 引起，导致 the execution 处决；死刑 of kings, the stripping 剥夺 of aristocratic 贵族的 privileges 特权；特殊待遇, the abolishment 废除；废止 of the church -- all those _darlings (n.)备受喜爱的事物;备受宠爱的人；宠儿 of the conservative order_ (秩序) 所有这些都是保守秩序的宠儿。. +
+
+Now `主` conservatism 保守主义 as it existed in 19th century Europe `谓` basically meant (v.) this: it was a political belief *that argues (v.) that* /governments are most stable /when they uphold (v.)支持；维护；维持 _traditional (a.) and established_ (a.)已确立的；已获确认的 norms 准则；规范 and cultural institutions 机构；制度. And that's not hard to understand /when you consider (v.) _the conservative view_ of human nature 保守主义对人性的看法. +
+
+[.my2]
+保守主义存在于19世纪的欧洲，它的基本意思是：它是一种政治信仰，认为当政府坚持传统和既定的规范和文化制度时，政府是最稳定的。当你考虑到保守的人性观点时，这并不难理解。
+
+They believe that /humans are inherently 天生地；固有地 flawed (a.)有缺陷的；有瑕疵的 and untrustworthy (a.)不可信赖的；靠不住的, so you can't go putting _the power 后定说明 to govern_  in their hands. Instead, they argued /it was better *to build* (v.) your society *on* institutions 后定说明 that have been handed down 传承；流传 and vetted (v.)审查（某人过去的生活和职业）；核查 -- like monarchy 君主制；君主政体 and aristocracy 贵族统治；贵族统治制度 and religion 宗教. +
+
+[.my2]
+他们认为人类天生就有缺陷，不值得信任，所以你不能把统治的权力交给他们。相反，他们认为, 把你的社会建立在传承下来并经过审查的制度上——比如君主制、贵族制和宗教——是更好的。
+
+[.my1]
+.案例
+====
+.vet
+(v.) +
+1.to find out about a person's past life and career in order to decide if they are suitable for a particular job 审查（某人过去的生活和职业） +
+SYN screen +
+•All candidates *are carefully vetted* for security reasons. 由于安全的缘故，所有的求职申请人都要经过严格的审查。 +
+——see also positive vetting +
+
+2.to check the contents, quality, etc. of sth carefully 仔细检查，审查（内容、质量等） +
+SYN screen +
+•*All reports are vetted* before publication. 所有报道都要经过仔细检查后才能发表。 +
+
+-> #缩写自 veteran.# 兽医；<美，非正式>#老兵#
+====
+
+*It was* with this ideology *that* leaders met (v.) at the Congress of Vienna /in order to restore (v.)恢复；使复原 Europe to its inherited 继承的；遗传的 structure 结构. Now before I tell you _what kind of work_ they did at the Congress, there are a couple of prominent 著名的；杰出的；重要的 conservatives  保守者 /to whom I need to introduce. +
+
+The first was English conservative Edmund Burke. He argued that /`主` authority 权力；权威 and hierarchy 等级制度 `系` were part of _the natural order_ 自然秩序 to the universe, and if those are _in place_ 在适当的位置, people will flourish 繁荣；兴旺；发达 _as such_ 照此,因此,相应地. Burke didn't believe that /people were capable of governing (v.) themselves, and therefore he believed /society should be ordered (v.) under a small group of elite 精英；上层集团 leaders. +
+
+[.my1]
+.案例
+====
+.as such
+"as such" 的几种常见用法：
+
+[.my3]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|1.*指代前文所述的情况或事物：*
+|- 例句中的用法。在你提供的句子中，"as such" 即指代前文的条件，即权威和等级制度就位的情况。
+
+- 另一个例子: "He is a doctor, and #as such#, he has a duty to help people." (他是一名医生，#因此/照此#，他有帮助人们的职责。)
+
+|2.*表示“就其本身而言”或“严格来说”： 强调某个事物本身的性质，而不受其他因素影响。*
+|- 例如: "The building #as such# is not beautiful, but its history is fascinating." (这座建筑##本身##并不美，但它的历史令人着迷。)
+- "He's not a politician #as such#, but he's very involved in local government." (他严格来说不是个政治家，但他非常参与地方政府事务。)
+
+|3**.表示“就像（通常认为的）那样”： 有时带有一点“正如你所知”的意味。**
+
+|- 例如: "We didn't have a formal meeting #as such#, just a quick chat." (我们没有正式的会议，#就那样#，只是快速聊了聊。)
+|===
+
+====
+
+The poster boy 典型人物 for French conservatism was Joseph de Maistre. He began as a supporter of the Revolution, but when it devolved (v.)（财产、金钱等遗产）转给，传给，移交 into violence, he was horrified 惊骇的；惊恐的；吓坏的. `主` What irked (a.)使烦恼；使恼怒 him even more `系` was the revolution's _complete discarding 抛弃；遗弃 of religious authority_ and _the secularizing (v.)使世俗化；使非宗教化 of France_. +
+
+[.my1]
+.案例
+====
+.irk
+-> 来自中古英语irken,厌倦的，厌恶的，可能来自PIE*werg,工作，词源同work,organ.词义激怒可能是受ire的影响。
+
+====
+
+To Maistre, `主` a true political authority `谓` must *be rooted in* 植根于；源于 religious and moral 道德的 principles 原则；原理；准则. He therefore argued for 赞成；支持；论证 a return to monarchy after the Revolution. +
+
+Now after the Congress of Vienna, in which conservative (a.) leaders *imposed* 推行；强制实行 their ideology *on* the European continent, Europe entered (v.) what's known as _the Concert of Europe_ 欧洲协调  -- also known as the Congress system 会议体系. This is a period of a few decades  数十年 /in which Europe existed (v.)  in the image of those conservative rulers, and _in general_ there was peace during that time. +
+
+[.my1]
+.案例
+====
+.Concert of Europe
+“欧洲协调”（Concert of Europe），又称“维也纳体系”（Congress System 或 Vienna System），是19世纪欧洲国际关系中的一种重要外交机制和地缘政治秩序。它是在拿破仑战争结束后，为了维护欧洲的和平与稳定而建立的。
+
+[.my3]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|起源与背景
+|"欧洲协调"的直接起源是 1814-1815 年的维也纳会议（Congress of Vienna）。在拿破仑战败后，欧洲列强齐聚维也纳，其主要目的是：
+
+- 恢复秩序： 推翻法国大革命和拿破仑战争所带来的政治混乱，恢复旧有的君主制秩序。
+- *#力量均衡： 重新划分欧洲版图，建立一种“力量均衡”（balance of power），以防止任何一个国家再次像法国那样崛起并主导欧洲。#*
+- 遏制法国： 确保法国在战后不会再次构成威胁。
+
+维也纳会议的主要参与者, 是当时的欧洲五大强国：英国、奥地利、普鲁士、俄罗斯（这四国组成了“四国同盟”）。法国在拿破仑最终战败（滑铁卢战役）后，于1818年也被重新接纳，成为协调体系的一部分。
+
+|核心原则与目标
+|欧洲协调并非一个正式的国际组织（像后来的国际联盟或联合国），而是一种非正式的、基于共识和定期会议的外交实践。其核心原则和目标包括：
+
+- *#力量均衡（Balance of Power）： 这是最核心的原则。没有任何一个国家被允许变得过于强大，以至于能够威胁其他国家的安全。当某个国家的行为可能打破这种均衡时，其他国家会共同采取外交乃至军事行动来加以制衡。#*
+
+- 集体安全与合作外交（Collective Security and Cooperative Diplomacy）： *各大国承诺通过定期召开会议（被称为“大会”或“会议系统”——Congress System）来讨论共同关切的问题，解决争端，而非诉诸武力。这被认为是"现代国际组织"和"多边外交"的雏形。*
+
+- 保守主义（Conservatism）： **该体系由保守的君主国主导，**尤其受奥地利首相克莱门斯·冯·梅特涅（Klemens von Metternich）的影响深远。它旨在镇压自由主义和民族主义的革命运动，因为这些运动被视为对"既有君主秩序"和"稳定边界"的威胁。
+
+- 维护现状（Status Quo）： 致力于维护维也纳会议所确立的领土和政治边界，除非经过所有大国的协商同意。
+
+|运作方式
+|"欧洲协调"通过一系列的国际会议（如亚琛会议、特罗波会议、莱巴赫会议、维罗纳会议等）来运作。在这些会议上，各大国的代表（通常是外交部长或君主本人）会商讨和解决欧洲面临的各种危机，例如：
+
+- 镇压各地爆发的革命（如西班牙和意大利的自由主义革命）。
+- 处理奥斯曼帝国衰落引发的“东方问题”。
+- 在不引发大战的前提下, 解决领土争端。
+
+|影响与衰落
+|**欧洲协调体系在19世纪初期（尤其是1815-1848年间）有效维护了欧洲的大致和平，避免了类似拿破仑战争那样的大规模冲突。它为欧洲带来了相对稳定的一个世纪。**它还为后来的国际联盟和联合国等国际组织奠定了外交合作的先例。
+
+然而，随着时间的推移，欧洲协调也面临挑战并逐渐衰落：
+
+- 民族主义和自由主义的兴起：** 1848年革命浪潮, 以及后来意大利和德国的统一运动，对保守的君主秩序和既有边界构成了巨大冲击，**各国的利益分歧日益加大。
+
+- 大国之间的利益冲突： 英国逐渐与其他保守大陆国家（特别是奥地利和俄罗斯）在干涉他国内政的问题上产生分歧。*克里米亚战争（1853-1856年）被认为是"欧洲协调体系"崩溃的一个重要标志，因为它首次打破了列强之间不直接交战的惯例。*
+
+- 俾斯麦时代的联盟体系： *德国统一后，俾斯麦试图通过复杂的联盟体系, 来重新平衡欧洲，但这与最初的"欧洲协调"精神有所不同。*
+
+- 最终崩溃： 随着帝国主义和军备竞赛的加剧，以及相互竞争的军事联盟（如三国同盟和三国协约）的形成，*"欧洲协调体系"在20世纪初彻底瓦解，最终导致了第一次世界大战的爆发。*
+|===
+
+总的来说，欧洲协调是19世纪欧洲大国为了维持战后和平、恢复秩序和抑制革命思潮而建立的一种独特而重要的国际关系体系。它虽非完美无缺，但在其存在的近一个世纪里，确实为欧洲带来了相对的稳定。
+====
+
+image:/img/Concert of Europe.png[,100%]
+
+
+
+Now this concert was conceived 构想；设想 and driven (v.)  by the Austrian foreign minister _Clemens von Metternich_. Those few decades of peace *are often referred to as* the Age of Metternich. He believed that /only powerful central governments would *bring (v.) order to* the various states of Europe -- as opposed to 与…对照；而非 the common rabble 乌合之众；群氓;暴民；下层社会 that disrupted (v.)扰乱；使中断 France in the French Revolution. +
+
+[.my1]
+.案例
+====
+.Clemens von Metternich
+image:/img/Clemens von Metternich.jpg[,20%]
+
+是一位德国政治家和外交官，服务于奥地利帝国 。作为一名保守派，梅特涅自 1809 年起担任奥地利外交部长，自 1821 年起担任总理 ，直至 1848 年自由主义革命迫使他辞职，三十年来一直处于欧洲权力平衡 （即欧洲协调） 的中心。
+
+- 梅特涅是一位传统的保守派 ，他热衷于维持权力平衡，尤其致力于抵制俄罗斯在中欧和奥斯曼帝国的领土野心。
+- 他厌恶自由主义 ，并努力阻止奥地利帝国的解体，例如，他镇压了奥地利在意大利北部的民族主义起义。在国内，他也推行了类似的政策，利用审查制度和广泛的间谍网络来镇压动乱。
+
+[.my3]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|对他称赞的观点
+|- 梅特涅正确地预见并努力阻止俄罗斯在欧洲的主导地位，并取得了成功，而他的继任者在 130 年后却失败了。
+- 这些政策是为了实现其目标（主要是欧洲的力量平衡）而做出的合理尝试。
+
+|对他批评的观点
+|尤其是在十九世纪剩余的时间里，梅特涅受到了严厉的批评，被斥责为阻止奥地利和中欧其他国家“沿着正常的自由主义和宪政路线发展”的人。*如果梅特涅没有阻碍“进步”，奥地利或许会进行改革，更好地处理民族问题， 第一次世界大战也可能永远不会发生。*  *相反，#梅特涅选择与自由主义和民族主义势力进行一场毫无结果的战争。 (Instead, Metternich chose to fight (v.) an overwhelmingly fruitless (a.)不成功的，徒劳的；不结果实的 war against the forces of liberalism and nationalism.)#*  +
+
+梅特涅反对选举改革，批评英国 1832 年的改革法案 。 +
+
+简而言之，*#他把自己困在了一场与“他那个时代的主流情绪”的激烈斗争中。 (In short, he locked himself into an embittered (a.)愤怒的；怨恨的 battle against "the prevailing  (a.)现存的，存在的； 风靡的，盛行的 mood of his age".)#*
+|===
+
+
+
+
+====
+
+So to that end 为了那个目的, `主` Metternich's _Concert of Europe_ `谓` basically had three goals:  +
+First, he aimed to restore (v.) the balance of power 权力平衡 in Europe /by installing (v.)任命；安置 legitimate 合法的；依法的 rulers on the various thrones 王位；宝座 of Europe. By "legitimate" 正当的，合理的；合法的 he meant old-school 老派的；守旧的 conservative rulers. +
+
+Second, he *took pains* 费尽力气；煞费苦心 to make sure that /European states upheld (v.)支持 the rights and prerogatives 特权；职权 of the landed aristocracy (贵族，贵族阶级) 土地贵族. +
+
+And third, Metternich *argued for* the need for organized (v.) religion as the bulwark 保障；支柱；堡垒 of stable states. +
+
+[.my1]
+.案例
+====
+.bulwark
+(n.) +
+1.~ (against sth) ( formal ) a person or thing that protects or defends sth 保护者，防御者（指人或事物） +
+•a bulwark against extremism 坚决反对极端主义者 +
+
+2.a wall built as a defence 堡垒；防御工事 +
+
+3.[ usually pl.]the part of a ship's side that is above the level of the deck （船的）舷墙 +
+
+-> 来自荷兰语。##bul, 同bole, 树干。wark, 同work, 工作。原指对船只所做的加固和防御工作。后指堡垒。##衍生单词boulevard, 大道。
+
+image:/img/bulwark.jpg[,15%]
+
+
+====
+
+Now whatever you think about those three goals, _the Concert of Europe_ more or less 或多或少；有几分 *maintained (v.)维持；保持 peace* in Europe /until the Revolutions of 1848, and arguably 可论证地；按理说 until World War I *came along* 出现,取得进展 to ruin (v.)  it. +
+
+Now remember, `主` a big part of this conservative reaction `系` was against the liberal reforms that occurred during the French Revolution and then spread to the continent. And so /for the leaders who engineered 策划；密谋 this conservative peace, they *used* these principles *as* a justification 正当理由；借口 for rulers (n.) across Europe who wanted to crush (v.)镇压；消灭 nationalist 民族主义的 uprisings 起义；暴动 and liberal revolt 反抗；叛乱. +
+
+For example, in 1819 Austria enacted (v.)颁布；制定法律 the Carlsbad Decrees (法令；判决) 卡尔斯巴德决议, which worked to suppress (v.)镇压；压制 liberal (a.) and nationalist movements in the German states. The decrees outlawed (v.)宣布…为不合法;使非法，禁止，取缔 nationalist organizations, forcibly 强行地；强制地 dissolved (v.)解散 radical student organizations, and removed liberal college professors from their posts 职位. +
+
+And then over in Russia -- one of the most conservative states of the era 时代；年代 -- tsars 沙皇 claimed to rule (v.) by divine right 君权神授. They made prodigious (a.)大量的；巨大的 use of secret police *to ferret (v.)（翻箱倒柜地）搜寻，寻找；搜出，查获某物;雪貂 out* 查获；搜出 dissent （与官方的）不同意见，异议 /and used (v.) conservative censorship 审查制度 to uphold (v.) serfdom 农奴制, which was a little different than slavery. +
+
+[.my1]
+.案例
+====
+.ferret
+-> #来自拉丁语 fur,贼#，词源同 furtive. 因这种动物轻快的速度而得名。参照电视剧《天龙八部》。
+
+image:/img/ferret.jpg[,15%]
+====
 
 Okay, click right here to keep reviewing for unit six of AP Euro. Click right here to grab my AP Euro review pack if you need help getting an A in your class and a five on your exam in May. And you know me -- I'll catch you on the flip-flop. Heimler out. +
 
