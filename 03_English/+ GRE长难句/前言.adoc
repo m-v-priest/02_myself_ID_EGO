@@ -1,0 +1,98 @@
+
+= 01 前言
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../../myAdocCss.css
+
+'''
+
+== 倒装
+
+倒装:  在英语的表达中，习惯将修饰成分放于被修饰成分之后，或者将主语或宾语放于句末。
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|如, 后置做定语
+|- a garden 后定说明 _to the building_  +
+介词结构 to the building, 修饰前面的garden。 建筑附近的花园
+
+- the attempt 后定说明 _to heal (v.)（使）康复，复原 the world_  +
+不定式作为定语. "拯救世界"的企图
+
+|如, 后置的同位语
+|- a fact /同位语 that the Earth revolves (v.) around the Sun. +
+"定语从句"与"同位语从句"的区别, 在于从句中的成分是否完整: +
+-> *如果从句成分完整, 则为同位语从句*； +
+-> *如果从句成分不完整，缺少主语或宾语，则为定语从句。*
+
+|#*如果直接宾语太长, 就将"直接宾语", 放于"间接宾语"之后*#
+|- Mother *puts into bags（间接宾语）the books* that are needed by children（直接宾语）。 (#*即先说地点, 再说物体对象*#) +
+本句, 直接宾语the books 由于被定语从句修饰而变得冗长，所以将直接宾语(the books)放于间接宾语(bags)之后。
+
+- Scientists *dismiss* (v.)不考虑，不理会 as fanciful (a.)想象的；稀奇的 *the idea* of sudden changes in a genetic code. 科学家认为, 基因密码的突然变化是异想天开。 (#*即先说该物体的性质, 再说该物体本身*#) +
+-> dismiss 的直接宾语 the idea, 因被介词结构修饰而变得冗长，所以被放到了 fanciful 后面。
+|===
+
+'''
+
+
+== 02 省略
+
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|"平行结构"中的省略
+|由and, or, not only...but also...等引导的并列句式，就是我们常说的平行结构。*在平行结构的后半部分中, 会省略与前半部分完全相同的内容。*
+
+- He likes playing football and (he likes playing) basketball。 +
+括号中的就是被省略掉的部分.
+
+|定语从句中, 会省略that
+|*辨别"定语从句省略"最快速的方法就是：#当两个名词依次出现时，如果前面的名词不能修饰后面的名词，那么两个名词之间一定省略了that.#*
+
+- This is the school /my teacher works (v.) in. +
+这里, school后面紧跟 my teacher，但是school并不能修饰 my teacher，因此后一个名词就很可能是后置定语. 即两个名词之间省略了that。
+
+|无头句（逻辑主语省略）
+|- When applied to the political area, this theory works very well. 当应用于政治领域时，这一理论非常有效。 +
+这里, applied to 前面省略了 "this theory is".
+
+遇到无头句时，应直接看逗号后面的内容，找到句子真正的主语，再带着主语回读无头句, 看看是否能读顺.
+
+|===
+
+'''
+
+
+
+== 03 长句
+
+
+
+中文表达缺乏句内的嵌套，句子长度相对英文要短得多。这种差异导致了中国英语学习者的“阅读内存”不足. +
+*对英文长句, 我们要对其中的"连词"(如 although, because, despite, but, and, that 等)高度敏感, 因为构成长句的连词, 恰好是体现句内、句间、段间逻辑关系的“路标”，对于理清句子和段落的层次非常有必要*。
+
+
+- *In response to* biologists /who question (v.) how `主` #organisms# 后定说明 presumably 大概，可能 working (v.) for their _own selfish ends_ (n.)目的；目标 /`谓` #could# have evolved (v.) to behave (v.)表现 /in a way that benefits (v.) *not only* the planet *but* the organisms as well,  +
+`主` cooling (n.) `谓` benefits (v.) the algae 水藻，海藻, which remain (v.) at the ocean surface, because it *allows* _the cooled (a.) upper layers_ of the ocean *to sink* (v.), and then _the circulating (a.)循环的；流通的 water_ carries (v.) nutrients upward /from the depths below. +
+针对某些生物学家的质疑——即"理论上只为自身利益进化的生物体，为何能演化出既利于地球又惠及自身的行为"，（研究指出）降温对藻类有益，因为冷却的海水表层下沉后，深层循环水流会将养分从海底带上来，而藻类恰好聚集在海洋表层。
+
+
+
+'''
+
+
+
+
+
+
+
+
+

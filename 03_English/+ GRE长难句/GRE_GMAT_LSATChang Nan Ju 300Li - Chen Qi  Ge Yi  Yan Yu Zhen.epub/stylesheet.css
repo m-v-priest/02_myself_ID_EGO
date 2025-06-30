@@ -1,0 +1,179 @@
+.calibre {
+  display: block;
+  font-size: 1em;
+  line-height: 1.618em;
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0 5pt;
+}
+.calibre1 {
+  color: #00C;
+}
+.calibre2 {
+  display: block;
+  font-size: 1em;
+  line-height: 1.618em;
+  padding-left: 0;
+  padding-right: 0;
+  text-align: justify;
+  margin: 0 5pt;
+}
+.calibre3 {
+  display: block;
+}
+.calibre4 {
+  display: block;
+  text-indent: 2em;
+  margin: 1em 0;
+}
+.calibre5 {
+  display: block;
+}
+.calibre6 {
+  height: 0.1em;
+  width: auto;
+}
+.juli {
+  display: block;
+  margin-top: 6em;
+}
+.kindle-cn-bodycontent-div-alone {
+  display: block;
+  text-align: center;
+  width: 100%;
+}
+.kindle-cn-bodycontent-image-alone {
+  height: auto;
+  margin-bottom: -0.5em;
+  width: 100%;
+}
+.kindle-cn-bodycontent-image-alone60-withnote {
+  height: auto;
+  margin-bottom: 0;
+  width: 60%;
+}
+.kindle-cn-bold {
+  font-weight: bold;
+}
+.kindle-cn-frame-zhishidian {
+  background-color: #DCDCDC;
+  display: block;
+  font-size: 1em;
+  margin: 1.5em 0;
+  padding: 0.5em;
+}
+.kindle-cn-heading {
+  display: block;
+  font-family: "MYing Hei S", Hei, "黑体";
+  font-size: 2em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  text-indent: 0;
+  width: 100%;
+  margin: 0.67em 0;
+  padding: 0.75em 0;
+  border-top: #c7c7c7 dashed 2px;
+  border-bottom: #c7c7c7 dashed 2px;
+}
+.kindle-cn-italic {
+  font-style: italic;
+}
+.kindle-cn-letter-circle {
+  background-color: #009ee7;
+  border-radius: 100%;
+  box-shadow: 1px;
+  color: white;
+  line-height: 1.2;
+  text-align: center;
+  padding: 0.2em;
+  border: currentColor solid 0.1em;
+}
+.kindle-cn-para-left {
+  color: #009ee7;
+  display: block;
+  font-size: 2em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-indent: 2em;
+  width: 100%;
+  margin: 1em 0;
+  border-bottom: #009ee7 dashed 3px;
+}
+.kindle-cn-para-no-indent {
+  display: block;
+  text-indent: 0;
+  margin: 1em 0;
+}
+.kindle-cn-para-no-indent1 {
+  color: #009ee7;
+  display: block;
+  font-size: 1.29167em;
+  font-weight: bold;
+  text-indent: 0;
+  margin: 1em 0;
+}
+.kindle-cn-para-right {
+  display: block;
+  text-align: right;
+  text-indent: 2em;
+  margin: 1em 0;
+}
+.kindle-cn-photography-step-black {
+  background-color: #009ee7;
+  border-radius: 0.5em;
+  box-shadow: 0 3px 3px #666;
+  color: black;
+  font-family: "verdana";
+  font-style: "italic";
+  font-weight: bold;
+  width: 100%;
+  padding: 0.3em;
+}
+.kindle-cn-picture-txt-withfewcharactors {
+  display: block;
+  font-family: STKai, "MKai PRC", Kai, "楷体";
+  font-size: 0.83333em;
+  text-align: center;
+  text-indent: 0;
+  margin: -0.3em 0 1em;
+}
+.kindle-cn-specialtext-bg {
+  background-color: #009ee7;
+}
+.kindle-cn-specialtext-kaiti {
+  font-family: STKai, "MKai PRC", Kai, "楷体";
+}
+.kindle-cn-toc-level {
+  display: block;
+  margin-left: 0;
+}
+.kindle-cn-toc-title {
+  display: block;
+  font-size: 2em;
+  font-weight: bold;
+  letter-spacing: 1em;
+  line-height: 1.2;
+  margin-bottom: 0.5em;
+  text-align: center;
+  border-bottom: #000 dotted 1.5px;
+}
+.math-super {
+  font-size: 0.75em;
+  vertical-align: super;
+}
+.shuzi {
+  display: block;
+  font-size: 2em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-indent: 0;
+  margin: 1em 0;
+}
+.yinyingbiaoti {
+  display: block;
+  font-size: 1.29167em;
+  font-weight: bold;
+  text-indent: 0;
+  margin: 1em 0;
+}
