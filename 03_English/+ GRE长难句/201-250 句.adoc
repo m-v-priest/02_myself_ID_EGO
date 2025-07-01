@@ -3,20 +3,66 @@
 :toc: left
 :toclevels: 3
 :sectnums:
-:stylesheet: myAdocCss.css
+:stylesheet: ../../myAdocCss.css
 
 '''
 
 == 释义
 
 
-- 201. Mores 道德观念, which embodied 体现 each culture's ideal principles for governing every citizen, were developed in the belief that the foundation of a community lies in the cultivation 培养 of individual powers to be placed in service to the community. +
+- 201. `主` #Mores# 道德观念;习惯，习俗；风俗, which embodied 体现 each culture's ideal principles /for governing (v.) every citizen, `谓` #were developed# /in the belief that /_the foundation of a community_ *lies (v.)  in* _the cultivation 培养 of individual powers_ /to be placed (v.)被用于,被引导向 in service (n.) to the community. +
 
-- 202. Anthropologists 人类学家 and others are on much firmer ground 处于更可靠的地位 when they attempt to describe the cultural norms 文化规范 for a small homogeneous 同质的 tribe or village than when they undertake the formidable 艰巨的 task of discovering the norms that exist in a complex modern nation-state composed of many disparate 不同的 groups. +
+[.my2]
+道德, 是每个文化用来规范每个成员的理想原则，它是在这样一个信念之上发展而来的：一个社群的基础有赖于培养其成员的个人能力，并且这些个人能力可以为社群服务。
 
-- 203. Not only are liver transplants 肝移植 never rejected, but they even induce 诱发 a state of donor-specific unresponsiveness 供体特异性无反应 in which subsequent transplants of other organs, such as skin, from that donor are accepted permanently 永久地. +
+'''
 
-- 204. The role those anthropologists ascribe to 归因于 evolution is not of dictating 决定 the details of human behavior but one of imposing constraints 施加限制—ways of feeling, thinking, and acting that “come naturally” in archetypal 原型的 situations in any culture. +
+- 202. Anthropologists 人类学家 and others /are__ on #much# firmer ground__ 处于更可靠的地位 /when they attempt /to describe the _cultural norms_ 文化规范 /for a small homogeneous 同质的 tribe or village /#than# when they undertake _the formidable 艰巨的 task_ of /discovering the norms /that exist in a complex modern nation-state /composed of 由……组成 many disparate 不同的 groups. +
+
+[.my2]
+人类学家和其他学者, 在试图描述一个同质性较高的小型部落或村落 的"文化规范"时，其研究基础, 远比他们要完成一项艰巨任务——即发现由众多异质群体构成的,复杂现代民族国家中"存在的规范"——时, 更为坚实。
+
+'''
+
+- 203. *Not only* are _liver transplants_ 肝移植 never rejected 从不排斥, *but* they even induce (v.)诱发 a state of _donor-specific unresponsiveness_ 供体特异性无反应 /in which `主` #subsequent transplants# of other organs, such as skin 皮肤, from that donor 捐献者，捐赠者；（化学）供体；（物理）施主 /`谓` #are accepted# permanently 永久地. +
+
+
+[.my2]
+肝脏移植, 不仅从没有被排斥，而且肝脏移植甚至会引发出一种捐助者特定的无反应状态。在这种状态下，从那个供给者得来的其他器官的移植，例如皮肤移植，会被永久地接受。 +
+不仅肝脏移植从不会被排斥，它甚至能诱导一种​​"供体特异性无应答状态"​​——在此状态下，后续来自同一供体的其他器官（如皮肤）移植, 也会被永久接受。
+
+[.my1]
+.案例
+====
+这句话阐述了肝脏移植中一个非常独特的现象，即肝脏作为移植器官, 不仅不会被受者免疫系统排斥，甚至还能诱导一种“供者特异性无反应”状态。这意味着，如果同一个人（供者）在肝脏移植后, 再次捐献其他器官，比如皮肤，受者也能永久接受，而不会发生排斥反应。
+
+.Immune Privilege of the Liver
+肝脏的免疫特权 (Immune Privilege of the Liver): 肝脏在免疫学上被认为是一个“免疫特权”器官，与其他器官相比，它对"免疫排斥"的抵抗力更强。
+
+.Donor-specific unresponsiveness
+Donor-specific unresponsiveness (供者特异性无反应) 是一种免疫学状态，指的是"受者"的免疫系统, 只对特定"供者"（donor）的组织或器官, 产生"免疫耐受"，而对其他任何非该供者的组织或器官, 仍然保持正常的免疫反应能力。
+
+简单来说，*当受者达到这种状态时，他们的免疫系统, 会“接受”来自某个特定供者的移植器官，就好像这个器官是受者自身的一部分一样，因此不会发生排斥反应。但如果换了另一个供者的器官，受者的免疫系统仍然会将其识别为异物, 并进行攻击。*
+
+*#这种"特异性耐受"与普遍的"免疫抑制"不同，因为: +
+-> 普遍的"免疫抑制", 会削弱受者对所有外来抗原（包括病原体）的免疫反应，从而增加感染的风险。 +
+-> 而"供者特异性无反应"则是一种更为理想的状态，它在允许移植器官存活的同时，尽可能地保留了受者对抗感染的免疫能力。#*
+
+在器官移植领域，实现"供者特异性无反应"一直是研究人员追求的重要目标，尤其是在肝脏移植中，这种现象更为常见和显著。
+
+
+====
+
+'''
+
+
+- 204. The role /those anthropologists 人类学家 ascribe (v.) to 归因于 evolution /is not of dictating 决定 the details of human behavior /but one of imposing constraints 施加限制 — ways of feeling, thinking, and acting /that “come naturally” in archetypal 典型的,原型的 situations in any culture. +
+
+
+[.my2]
+
+
+'''
 
 - 205. Perhaps the fact many of these first studies considered only algae 藻类 of a size that could be collected in a net (net phytoplankton 浮游植物), a practice that overlooked the smaller phytoplankton (nannoplankton 微型浮游生物) that we now know grazers 食草动物 are most likely to feed on, led to a de-emphasis 降低重要性 of the role of grazers in subsequent 随后的 research. +
 
