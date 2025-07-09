@@ -12,3 +12,12 @@ h6,
 .my1 {
     font-size: 3em;
 }
+
+
+
+/* 给文字加边框. 在asciidoc文件中, 写的时候要这样写: I [.boxed]#like# you */
+.boxed {
+  border: 1px solid #000;
+  padding: 2px 2px;
+  border-radius: 0px;
+}
