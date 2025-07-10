@@ -1010,127 +1010,469 @@ image:/img/svg 332.svg[,100%]
 
 - 333. Even the requirement that biomaterials processed from these materials be nontoxic to host tissue can be met by techniques derived from studying the reactions of tissue cultures to biomaterials or from short-term implants.
 
-[.my1]
-.案例
-====
-- 333. Even the requirement that biomaterials 生物材料 processed from these materials be nontoxic to host tissue 宿主组织 can be met by techniques derived from studying the reactions of tissue cultures to biomaterials or from short-term implants 植入物.
-
-====
-
-- 334. 3. This doctrine has broadened the application of the Fourteenth Amendment to other nonracial forms of discrimination, for while some justices have refused to find any legislative classification other than race to be constitutionally disfavored, most have been receptive to arguments that at least some nonracial discriminations, sexual discrimination in particular, are “suspect” and deserve this heightened scrutiny by the courts.
+image:/img/svg 333.svg[,100%]
 
 [.my1]
 .案例
 ====
-- 334. This doctrine 学说 has broadened the application of the Fourteenth Amendment to other nonracial forms of discrimination, for while some justices have refused to find any legislative classification other than race to be constitutionally disfavored, most have been receptive to 接受 arguments that at least some nonracial discriminations, sexual discrimination in particular, are “suspect” and deserve this heightened scrutiny 严格审查 by the courts.
+- 333. Even `主` #the requirement# 要求，必要条件 / 同位语从句 that `主` biomaterials 生物材料 后定说明 processed (v.)（用化学物品或机器）处理，加工 from these materials /`谓` (虚拟语气) be nontoxic  (a.)无毒的 to _host (n.)东道主；寄主，宿主 tissue_ 宿主组织 /`谓` #can be met# (v.)满足；使满意 by techniques /后定说明 #derived from# studying (v.) the reactions of _tissue cultures_ (培养物；培养细胞；培养菌；（为医疗、科研或食品生产而作细胞或细菌的）培养) 组织培养物  to biomaterials 生物材料 /#or from# short-term implants 植入物.
+
+即便是对于"从这些材料中提取的生物材料, 必须对宿主组织无毒"这一要求，也可以通过以下技术来满足：从"组织培养物"对"生物材料"的反应研究中, 衍生出的技术，或从"短期植入实验"中衍生出的技术。
+
+甚至生物材料（由这些材料加工而成）对宿主组织必须无毒的要求，也可以通过研究组织培养物对生物材料的反应，或通过短期植入得来的技术来满足。
+
+.Gemini 的讲解:
+这句话的核心意思是： +
+#*生物材料必须"对宿主组织无毒"这个要求，是可以通过两种主要的研究方法, 来达到验证和确保的：*#
+
+1. #*通过研究"组织培养物"对"生物材料"的反应： 这指的是在实验室里，将"生物材料"与"离体的细胞或组织"进行接触，观察它们是否有不良反应，如细胞死亡、生长受抑制等。这是一种"体外"（in vitro）的初步测试方法。*#
+
+2. *#通过研究"短期植入物"的反应： 这指的是将生物材料, 短期植入"活体生物"（通常是实验动物）体内，观察其在真实生理环境下的反应，如急性炎症、组织排斥等。这是一种"体内"（in vivo）的测试方法。#*
+
+简而言之，这句话强调了：确保"生物材料无毒性"是至关重要的，而科学家们已经发展出了体外细胞实验, 和体内短期动物植入实验等技术，来满足和验证这一安全标准。
+
+.Biomaterials (生物材料)
+
+*指用于与生物系统相互作用的材料，通常用于医疗器械、诊断设备或作为植入体，以取代、修复或增强生物组织。* +
+例子包括人造关节、心脏瓣膜、缝合线、药物输送系统等。
+
+.processed (v.)加工（食品或其他物质）；处理（文件、要求等） from these materials (由这些材料加工而成)
+
+表示生物材料并不是直接的原始物质，而是经过了特定的处理、制造或改性，以适应其在生物体内的应用。
+
+.nontoxic (a.) to _host tissue_ (对宿主组织无毒)
+
+- Nontoxic (无毒的)：不产生毒性，不引起中毒反应或细胞损伤。
+
+- *Host tissue (宿主组织)：指"生物材料"被植入或接触到的"生物体自身的组织"。例如，植入人体的材料，人体组织就是宿主组织。* +
+这是生物材料最基本也是最重要的安全要求之一。*如果材料有毒，会引起炎症、排斥反应，甚至器官损伤。*
+
+.reactions of tissue cultures to biomaterials (组织培养物对生物材料的反应)
+
+- Tissue cultures (培养物；培养细胞；培养菌) *组织培养物：指在体外（如培养皿中）人工培养的动物或植物细胞、组织或器官。这是生物医学研究中常用的方法，可以在受控的环境下研究细胞和组织的行为。*
+
+- *Reactions (反应)：指"组织培养物"（细胞）在接触到"生物材料"时，表现出的生物学变化，例如细胞的存活率、增殖能力、形态变化、炎症因子释放等。* +
+通过研究这些体外反应，科学家可以初步评估"生物材料"的"生物相容性"（biocompatibility）和毒性。
+
+.short-term implants (短期植入物)
+
+- Implants (植入物)：*指被外科手术放置到生物体内，用于治疗、诊断或修复目的的医疗装置或材料。*
+
+- Short-term (短期的)：相对于长期植入而言，指材料在体内停留的时间较短。
+
+.Studying (v.) reactions of short-term implants: *这是指在"活体动物模型"中（in vivo）进行短期植入实验，观察材料在真实生物体环境中的即时反应，如急性炎症、组织损伤或愈合情况。虽然是短期，但也能提供重要的毒性信息。*
 
 ====
 
-- 335. The isotopic composition of lead often varies from one source of common copper ore to another, with variations exceeding the measurement error; and preliminary studies indicate virtually uniform is isotopic composition of the lead from a single copper-ore source.
+- 334. This doctrine *has broadened* (v.) the application of the Fourteenth Amendment *to* other _nonracial forms_ of discrimination, for while `主` some justices `谓` have refused /to find any _legislative classification_ *other than* race /to be constitutionally disfavored, /most have been receptive (a.) to arguments / #同位语从句# that `主` _at least_ some _nonracial discriminations_, sexual discrimination in particular, `系` are “suspect” (a.) /and deserve (v.) this _heightened scrutiny_ by the courts.
 
 [.my1]
 .案例
 ====
-- 335. The isotopic composition 同位素组成 of lead often varies from one source of common copper ore 铜矿石 to another, with variations exceeding the measurement error; and preliminary studies indicate virtually uniform isotopic composition of the lead from a single copper-ore source.
+- 334. #This doctrine 学说;教义，主义，信条 *has broadened*# (v.)拓展，扩大 the application 应用，实施 of _the Fourteenth Amendment_ *#to#* other _nonracial (a.)非种族的 forms_ of discrimination, for 表原因 while 尽管，虽然 #some justices 法官 have refused# /to find any _legislative classification_ (分类，分级；类别，级别) 立法分类 **other than** 除了……以外 race (人种，种族) 除种族外的任何立法分类 / (不定式作宾语补语) to be constitutionally disfavored (v.a.不赞成；冷待;不受宠的，不受喜爱的) 在宪法上被不赞成/不受青睐, #most 大多数大法官 have been receptive (a.)（对观点、建议等）愿意倾听的，乐于接受的；能容纳的，可以接受的 to# 接受 arguments 争论，争吵；论据，理由 / 同位语从句 that `主` _at least_ #some _nonracial 非种族的 discriminations_#, sexual discrimination 性别歧视 in particular, `系` #are “suspect”# 可疑的 /#and deserve# (v.)值得，应受 this _heightened 增强的 scrutiny_ (仔细观察，详细审查) 严格审查 by the courts  [法]法院；场地.
+
+这一原则（学说）扩大了第十四修正案的适用范围，使其涵盖其他"非种族形式的歧视"。尽管部分大法官拒绝承认"除种族分类外的任何立法分类"应受宪法严审，但多数大法官已接受以下论点：至少某些"非种族歧视"——尤其是"性别歧视"——属于‘可疑分类’，理应受到法院的更严格审查。
+
+
+原书作者的翻译: +
+这个学说扩大了第十四修正案的适用范围，使得第十四修正案适用于其他非种族因素所造成的歧视。这是因为：虽然一些法官并不认为其他非种族因素所造成的歧视是违宪的，但是大部分法官还是认为至少有一些非种族因素造成的歧视，尤其是性别歧视，都是值得“被怀疑的”，也值得法庭加强对此类歧视的审查。
+
+.Gemini 的解说
+
+#总而言之，这种分歧反映了美国宪法解释中"原旨主义"（Originalism） 与"活的宪法"（Living Constitution）、以及"司法克制"（Judicial Restraint） 与"司法能动主义"（Judicial Activism） 之间的长期辩论。#
+
+[.my3]
+[options="autowidth" cols="1a,1a"]
+|===
+|Originalism 原旨主义 |Living Constitutionalism 活的宪法
+
+
+|核心理念：**原旨主义认为，宪法的含义在它被制定和批准的那一刻, 就已经固定下来了，并且应该严格按照当时的理解, 来解释和应用。**法官在解释宪法时，必须回到文本的“原始意义”或“原始意图”。
+|核心理念：
+“活的宪法”理论**认为，宪法是一个活的、动态的文本，其含义应该随着社会价值观、道德观念、技术进步, 和时代需求的变化, 而演进和适应。**法官在解释宪法时，应考虑其目的和原则，并将其应用于当代背景。
+
+
+|两种主要分支：
+
+- 原始意图主义 (Original Intent Originalism)：**主张法官应该探究##宪法制定者##（Founding Fathers，即建国先贤）在起草特定条款时的主观意图。**他们希望通过研究历史文献、辩论记录等来重构制定者的思想。
+
+- 原始意义主义 (Original Meaning Originalism)：**这是目前更为主流的派别。它认为法官应该探究宪法文本在被批准时，##普通公众（理性的读者）##对这些词语和短语的理解。**这强调的是文本的客观含义，而非制定者的主观心理活动。
+
+|
+
+
+|支持"原旨主义"的理由：
+
+- 维护民主原则： **认为宪法是人民通过代表（制定者和批准者）来表达其最高意愿的。如果法官可以随意改变宪法含义 (相当于宗教里面的对圣经的解释权)，就相当于法官在“立法”，侵犯了人民和民选代表的权力，**这不符合民主原则。
+
+- 提供确定性和可预测性： 固定的含义, 有助于法律的稳定性和可预测性，公民和政府都能清楚地知道什么是合法的、什么是违法的。
+
+- *限制司法权力： 旨在防止法官将自己的政治、道德观点强加于宪法解释中，避免“司法能动主义”（Judicial Activism）和“司法暴政”。*
+
+- 忠实于书面宪法： 认为"书面宪法"的优势在于其稳定性，如果含义可以随意变化，宪法将失去其作为最高法的约束力。
+
+|支持"活的宪法"的理由：
+
+- 适应社会变化： 宪法制定者不可能预见到所有未来问题。允许宪法“演进”, 可以使其保持相关性和有效性，以应对不断变化的社会挑战。
+
+- 促进正义和人权： 认为**#宪法包含一些抽象的原则（如“自由”、“平等保护”），这些原则的含义可以随着人类对正义和人权的理解加深而扩展，从而更好地保护所有公民的权利，纠正历史上的不公。#**
+
+- 保持宪法生命力： 避免宪法成为一纸僵死的过时文件，使其在现代社会中依然具有指导意义和权威性。
+
+- 制定者的意图： 一些支持者认为，#*宪法制定者本身, 也希望宪法能够灵活适应未来，他们有意使用了广泛而抽象的语言。*#
+
+|对"原旨主义"的批评：
+
+- 历史研究的困难： 难以准确还原几百年前制定者的所有意图, 或当时的公众理解。历史记录可能不完整、有矛盾，或者在某些问题上根本没有明确记载。
+
+- 僵化和不适应时代： 宪法是18世纪末期的产物，制定者无法预见现代社会复杂的问题（如互联网、生物伦理、全球化等）。*严格遵循原意, 可能导致宪法无法适应社会发展，变得过时甚至不公正。*
+
+- 可能导致不公： *某些原始理解（例如关于种族、性别平等的观念）在现代社会看来是歧视性和不公正的。坚持这些原始理解, 可能阻碍社会进步和人权保障。*
+
+- 选择性原旨主义： 批评者认为，#*即使是原旨主义者，在实际操作中也可能带有偏见，选择性地强调那些符合他们政治立场的原始证据。 (犹如历史研究中, 选择性挑选某些证据, 而忽略相反证据.)*#
+
+|对活的宪法的批评：
+
+- 司法能动主义： 批评者认为，这赋予了法官过大的权力，让他们可以根据个人或时代的道德偏好来“创造”新的法律或权利，而非仅仅解释现有法律。这被视为是对民主的威胁。
+
+- 缺乏客观性： 含义的动态变化, 可能导致法律解释缺乏客观标准，变得主观和不可预测，削弱了法律的稳定性。
+
+- 非民选法官的专断： 终身任职且非民选的法官，通过解释宪法来推行自己的政策议程，可能会与民选立法机构的意愿相悖。
+
+- 削弱宪法权威： 如果宪法含义可以随意改变，那么它的权威性和作为最高法的地位, 就会受到质疑。
+|===
+
+纷争的核心:
+
+*"原旨主义"和"活的宪法"之间的纷争，实际上是关于宪法在民主社会中的角色, 以及司法机构应扮演何种角色* 的深刻哲学和政治辩论：
+
+- *法官是法律的解释者还是创造者？ 原旨主义者认为法官是“解释者”，忠实于文本；活的宪法支持者认为法官在解释中带有一定的“创造性”，以使法律适应时代。*
+
+- *宪法的含义是固定的, 还是流动的？ 这是最直接的分歧。*
+
+- *如何平衡"稳定性"和"适应性"？* 两种理论都在尝试解决这个问题，但给出的方案截然不同。
+
+- 谁来决定社会的核心价值观？ 原旨主义者认为这是民选机构的职责；活的宪法支持者则认为，在某些基本权利和原则上，法官有责任确保宪法保护社会中的弱势群体，即使这超出了原始的狭隘理解。
+
+这些争论在最高法院的判例中尤为明显，例如关于堕胎权、同性婚姻权、枪支管制等议题，大法官们往往会依据这两种不同的解释哲学来做出判决。
+
+
+
+.This doctrine *has broadened* the application of the Fourteenth Amendment *to* other nonracial forms of discrimination...
+
+- *the application...to...（对……的适用）* +
+关于这个 to, 倒底是跟着  application, 还是跟着 broadened 的, Gemini 和 chatGPT 的看法相同, 认为都是跟着 application 的. 而 grok 和 deepseek 认为是跟着  broadened 的.
+
+[.my3]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|Gemini 的看法
+|这里的 to 跟着 application，形成短语 application to. +
+application 这个名词后面经常跟 to，表示“应用于……”或“向……应用”。 +
+这个结构是：broadened the application [of X] to Y。 +
+
+|chatGPT 的看法
+|其中的 to 是跟着 application 的，而不是 broadened。 +
+application to ... 是一个固定搭配，表示“……的适用”或“应用于……”。
+
+因此，这句话的结构是：
+
+broadened [_the application_ of the Fourteenth Amendment _to_ other nonracial forms of discrimination]
+
+类比帮助理解： +
+ The court broadened _the application of the law to online speech_. +
+→ broadened 的是 application，而 *application 是 to online speech。*
+
+|grok 的看法:
+|介词“to”与动词“broadened”相关联，而不是直接与“application”相关。 +
+“to other nonracial forms of discrimination”是进一步的修饰，描述“broadened”的方向或范围。
+
+动词“broaden”常与介词“to”搭配使用，表示“扩展到某个范围”。例如：“broaden one’s horizons to new fields”（将视野扩展到新领域）。在这个句子中，“broadened”描述的是“the application of the Fourteenth Amendment”被扩展到了“other nonracial forms of discrimination”。
+
+|deepseek 的看法:
+|"to" 与 "broadened" 的关系更为直接，构成 "broadened...to..." 的结构。 +
+
+虽然 "application to" 本身也是一个常见搭配（如 "the application of the law to a situation"），但在这里，"to" 更倾向于与 "broadened" 搭配，因为句子的核心意思是 "该原则扩展了第十四修正案的适用范围，使其涵盖其他非种族形式的歧视"。
+|===
+
+
+- the application of the Fourteenth Amendment 第十四修正案的应用 +
+
+
+
+
+
+
+- the Fourteenth Amendment (第十四修正案): 是美国宪法修正案，*其中包含平等保护条款 (Equal Protection Clause)，最初主要用于保障"非裔美国人"的权利。*
+
+.for while some justices have refused /to find any _legislative classification_ *other than* race /to be _constitutionally disfavored_, /most have been receptive (a.) to arguments /that at least `主` some _nonracial discriminations_, _sexual discrimination_ in particular, `系` are “suspect” (a.) /and deserve (v.) this _heightened scrutiny_ by the courts.
+
+- for: 这是一个并列连词，意思是“因为”，用来解释前面的陈述（即为什么该原则扩展了第十四修正案的应用）。
+- while some justices have refused to find any legislative classification other than race to be constitutionally disfavored,: *这是一个由 while 引导的让步状语从句，表示“尽管/虽然一些大法官拒绝……”。*
+
+- *legislative classification (立法分类): 指政府或法律在制定规则时, 对不同群体进行区分。*
+- *other than* race: 介词短语，表示“除了种族之外”。
+- to be constitutionally disfavored (v.): 不定式作宾语补语，**表示“在宪法上被不赞成/不受青睐”。这意味着这种分类, 会面临宪法上的挑战。**
+
+.that _at least_ some _nonracial discriminations_, sexual discrimination in particular, are “suspect” (a.)/and deserve (v.) this _heightened scrutiny_ by the courts.
+
+- that: 从属连词，引导"同位语从句".
+
+- #*“suspect” (可疑的/嫌疑分类): 这是法律术语。在美国宪法"平等保护"条款的语境下，如果一项立法分类, 被认为是“嫌疑分类”（如基于种族、国籍的分类），法院会对其适用“严格审查标准”（strict scrutiny），这是最高级别的司法审查。这意味着政府必须证明, 该立法是为了实现一个“令人信服的政府利益”，并且是实现该利益的“最小限制性手段”。*#
+
+- deserve (v.) this _heightened scrutiny_ by the courts (值得法院进行这种更严格的审查): 进一步说明了“可疑”分类的后果。
+
+- *heightened scrutiny: 指比一般“合理性审查”（rational basis review）更严格的审查标准，通常包括“中度审查”（intermediate scrutiny）和“严格审查”（strict scrutiny）。*
+
+
+.receptive
+(a.) *~ (to sth)* : willing to listen to /or to accept (v.) new ideas or suggestions （对新观点、建议等）愿意倾听的，乐于接受的 +
+SYN responsive +
+•She was always receptive (a.) to new ideas. 她总是愿意接受新观点。 +
+•He gave an impressive speech to _a receptive (a.) audience_ (乐于接受的听众). 他做了一次感人的讲演，听众深受感动。 +
+
+
+
+
 
 ====
 
-- 336. It is not known how rare this resemblance is, or whether it is most often seen in inclusions of silicates such as garnet, whose crystallography is generally somewhat similar to that of diamond; but when present, the resemblance is regarded as compelling evidence that the diamonds and inclusions are truly co-genetic.
+- 335. `主` The _isotopic (a.) composition_ of lead `谓` often varies (v.) *from* one source of _common copper ore_ *to* another, 伴随状语  with variations (n.) /exceeding (v.) the measurement error; and `主` preliminary (a.) studies `谓` indicate (v.) _virtually uniform isotopic composition_ of the lead /from a single copper-ore source.
 
 [.my1]
 .案例
 ====
-- 336. It is not known how rare this resemblance is, or whether it is most often seen in inclusions 包裹体 of silicates 硅酸盐 such as garnet 石榴石, whose crystallography 晶体学 is generally somewhat similar to that of diamond; but when present, the resemblance is regarded as compelling evidence 有力证据 that the diamonds and inclusions are truly co-genetic 同成因的.
+- 335. `主` The isotopic (a.)同位素的；同位旋的 composition 同位素组成 of lead `铅的同位素组成 谓` often varies (v.) *from* one source of common copper ore (矿石，矿砂) 铜矿石 *to* another, #with (伴随状语/独立分词结构，表示“伴随着……”或“其特点是……”)# variations 变化，变动 exceeding (v.)超过（数量） the _measurement error_ 测量误差; and _preliminary (a.)初步的，预备的 studies_ 初步研究 indicate (v.)表明，标示；象征，暗示 virtually 事实上，几乎 uniform (a.)全部相同的，始终如一的；制服式的 isotopic composition 同位素组成 of the lead /from a single copper-ore source.
 
+铅同位素组成, 常因铜矿来源不同而异，差异超出测量误差；初步研究表明, 单一铜矿源的铅同位素组成, 几乎完全一致。
+
+Gemini 翻译 : *铅的同位素组成, 通常在不同的普通铜矿来源之间有所不同，其变化量超出了测量误差；初步研究还表明，来自单一铜矿来源的铅，其同位素组成几乎是均匀一致的。*
+
+.isotope
+-> ##iso-,等，同，-top,位置，地方，##词源同 topic,utopia.即等位置的，引申词义同位素。
+
+.ore
+n.矿石，矿砂 +
+-> 来自古英语ora,矿石，矿土，未冶炼金属，##词源同 earth.##同时受另一个古英语词ar影响，黄铜，铜矿，来自PIE*aus,金黄色的，词源同aurora,ormolu.
+
+.`主` The _isotopic composition_ of lead `谓` often varies (v.) *from* one source of _common copper ore_ *to* another, with variations (n.) /exceeding (v.) the measurement error
+
+The isotopic composition of lead 铅的同位素组成
+
+铅元素（Pb）有多种##**同位素，它们是具有相同"质子数"（决定元素种类）但不同"中子数"的原子。**##例如，铅有四种稳定的天然同位素：铅-204（²⁰⁴Pb）、铅-206（²⁰⁶Pb）、铅-207（²⁰⁷Pb）和铅-208（²⁰⁸Pb）。*#同位素组成, 指的就是这些不同同位素, 在样本中所占的相对比例。#*
+
+常见的铜矿石来源 (one source of _common copper ore_ to another)：指的是不同地理位置或地质背景下形成的铜矿床。
+
+铅的同位素组成, 通常从一个普通的铜矿石来源到另一个来源, 是不同的 (often varies (v.) *from* one source of _common copper ore_ *to* another)：**这意味着不同的铜矿中伴生或存在的铅，其同位素比例模式是独特的，**就像指纹一样。
+
+变异超过测量误差 (with variations (n.) /exceeding (v.) the measurement error)：这是非常关键的一点。**它表示这些"同位素组成"的差异足够大，并非是源于仪器测量的微小不精确（测量误差），而是真实存在的、显著的差异。**这意味着这些差异是可靠的，可以被用来区分不同的矿源。
+
+.and _preliminary (a.) studies_ indicate (v.) _virtually uniform isotopic composition_ of the lead /from a single copper-ore source.
+
+初步研究表明 (_preliminary (a.) studies_ indicate (v.))：指这项研究仍在早期阶段，但已经有一些迹象。
+
+*从单一铜矿石来源提取的铅的"同位素组成", 几乎是均匀的* (virtually uniform isotopic composition of the lead from a single copper-ore source)：*这表示在同一个矿床内部，铅的同位素组成, 是高度一致的。*
+
+Virtually uniform (几乎均匀的)：意味着非常一致，差异极小，小到可以忽略不计。
+
+
+.这句话说了什么？
+这句话阐述了一个重要的地球化学原理, 及其在考古学或矿物学中的应用潜力：
+
+不同铜矿来源的铅“指纹”不同： 就像人类的指纹各不相同一样，*来自不同地理矿区的铜矿石，其所含铅的"同位素比例"通常是独一无二的，而且这种差异大到足以被科学仪器准确测量和区分。*
+
+同一铜矿来源的铅“指纹”一致： *与此形成对比的是，从同一个特定矿山或矿脉中提取出来的铅，其"同位素组成"则非常稳定和一致。*
+
+这两个发现结合起来，为科学家提供了一个强大的工具。**通过分析古代铜器（或任何含铅的金属制品）中铅的同位素组成，然后与已知矿山的数据进行比对，就可以追溯出该金属的原料来源地。**这对于研究古代贸易路线、技术传播和资源利用等方面, 具有重要意义。
+
+====
+
+- 336. It is not known /how rare this resemblance is, /or whether /it is most often seen /in inclusions (n.) of silicates /such as garnet, /`主` whose crystallography `系` is generally somewhat similar (a.) to that of diamond; /but when present (v.), the resemblance is regarded as compelling (a.) evidence /that the diamonds and inclusions are truly co-genetic (a.).
+
+[.my1]
+.案例
+====
+- 336. It is not known /how rare this resemblance 相似点，相似之处 is, or whether /it is most often seen /in inclusions 包含物,包裹体 of silicates 硅酸盐 /such as garnet 石榴石, /whose crystallography 晶体学 is generally somewhat similar (a.) to that of diamond; /but when present, the resemblance *is regarded as* compelling (a.)令人信服的，有说服力的 evidence 有力证据 /that the diamonds and inclusions are truly co-genetic (a.)同源的；同成因的.
+
+尚不清楚这种相似性多罕见，或是否最常见于"石榴石"等硅酸盐包裹体（其晶体结构通常与钻石略相似）；但一旦存在，该相似性即被视为钻石与包裹体同源的铁证。
+
+.garnet
+-> 来自pomegranate的缩写词。因形似石榴籽而得名。
+
+image:/img/garnet.jpg[,15%]
+
+.Inclusions (包裹体)
+
+这是宝石学和矿物学中的专业术语。*指在矿物（如钻石）生长过程中，被困在其中并完全包围的任何其他矿物、液体、气体或其他物质。*
+
+*钻石内部的"包裹体",* 对于研究钻石的形成环境、深度、温度、压力，甚至其年龄都至关重要，*#因为它们是地球深部"地幔物质"的微型“样本”。#*
+
+image:/img/Inclusions.jpg[,15%]
+
+
+
+.Silicates (硅酸盐)
+
+一大类矿物，由硅和氧, 以及其他金属元素组成，*是地壳和地幔中最常见的矿物类型。*
+
+*Garnet (石榴石) 就是一种常见的硅酸盐矿物，它也是钻石中常见的包裹体之一。*
+
+.Crystallography (晶体学)
+
+科学的一个分支，*研究晶体的结构、对称性、形成过程和物理性质。*
+
+whose crystallography is generally somewhat similar (a.) to that of diamond：  +
+**这表示石榴石（或其他硅酸盐）的晶体结构, 在某种程度上与钻石的晶体结构相似。尽管它们的化学成分不同，但晶体的原子排列, 或生长习性, 可能存在某些几何上的共通之处。**例如，钻石通常结晶为八面体（立方晶系），而某些石榴石也可能呈现十二面体或二十四面体形态，这些都属于等轴晶系，在对称性上存在一定的相似性。
+
+.Co-genetic (同源生成/共生)
+
+这是地质学和矿物学中的一个关键概念。
+
+the diamonds and inclusions are truly co-genetic： +
+**如果钻石, 和其内部的包裹体, 被认为是“同源生成”的，这意味着它们是在几乎相同的地质条件下，在同一时间或非常接近的时间内，由相同的物质来源（或在同一个动态系统中）一起形成的。**换句话说，包裹体不是在钻石形成之后才进入的，也不是之前就存在的“搭便车”的矿物，而是在钻石晶体生长的过程中, 同时被捕获进去的。
+
+
+.这句话的整体含义
+这句话可以这样理解：
+
+“目前尚不清楚这种（"钻石"与其"包裹体"之间形态或结构上的）相似性, 有多么罕见，也不清楚它是否最常见于像"石榴石"这类硅酸盐包裹体中（因为它们的晶体结构, 通常与钻石的晶体结构, 有些相似）；但只要存在这种相似性，它就被认为是令人信服的证据，表明这些钻石和包裹体确实是同源生成的。”
+
+知识背景
+
+- 钻石的形成： 天然钻石是在地壳深处（地幔层，约150-200公里深），在极高的温度（900-1300°C）和压力（4.5-6 GPa）下形成的。在这个极端环境中，碳原子排列成金刚石晶体结构。
+
+- 包裹体的重要性： **钻石形成过程中，周围的一些微小矿物晶体、流体或气体可能会被“包裹”进钻石晶体内部。这些包裹体就像一个微型的时间胶囊，记录了钻石形成时的地质环境信息。**通过对包裹体的分析，科学家可以推断地幔的化学成分、物理条件以及地球深部的演化过程。
+
+- **形态相似性的意义： 当钻石的外部晶形（或其内部生长纹理）, 与其内部"包裹体"的形态, 呈现出高度的几何相似性时，这被视为一个强有力的证据，支持钻石和包裹体是同时生长, 并相互影响的观点。**例如，如果一个石榴石包裹体呈现出与钻石八面体晶面相吻合的形态，而不是其自身通常的晶形，这就强烈暗示两者是共同生长并相互塑造的。**这种“形态学上的共生”（morphological syngenesis）是判断它们是否"同源"的关键线索之一。**如果它们是同源的，那么对包裹体进行地质定年或化学分析，就能直接代表钻石本身的形成时间和环境，从而为地球深部过程的研究提供宝贵数据。
+
+所以，*这句话在探讨宝石学和矿物学中一个重要的研究方法：通过观察钻石包裹体的特定特征（即与钻石本身的形态相似性），来推断它们是否共同形成，进而利用包裹体来了解地球深部的奥秘。*
 ====
 
 - 337. If she defines feminist criticism as objective and scientific—a valid, verifiable, intellectual method that anyone, whether man or woman, can perform—the definition not only precludes the critic-as-artist approach, but may also impede accomplishment of the utilitarian political objectives of those who seek to change the academic establishment and its thinking, especially about sex roles.
 
-[.my1]
-.案例
-====
-- 337. If she defines feminist criticism as objective and scientific—a valid, verifiable 可验证的, intellectual method that anyone, whether man or woman, can perform—the definition not only precludes 排除 the critic-as-artist approach, but may also impede 阻碍 accomplishment of the utilitarian 功利主义的 political objectives of those who seek to change the academic establishment and its thinking, especially about sex roles.
 
-====
-
-- 338. Even the requirement that biomaterials processed from these materials be nontoxic to host tissue can be met by techniques derived from studying the reactions of tissue cultures to biomaterials or from short-term implants.
-
-[.my1]
-.案例
-====
-- 338. Even the requirement that biomaterials 生物材料 processed from these materials be nontoxic to host tissue 宿主组织 can be met by techniques derived from studying the reactions of tissue cultures to biomaterials or from short-term implants 植入物.
-
-====
-
-- 339. This doctrine has broadened the application of the Fourteenth Amendment to other nonracial forms of discrimination, for while some justices have refused to find any legislative classification other than race to be constitutionally disfavored, most have been receptive to arguments that at least some nonracial discriminations, sexual discrimination in particular, are “suspect” and deserve this heightened scrutiny by the courts.
-
-[.my1]
-.案例
-====
-- 339. This doctrine 学说 has broadened the application of the Fourteenth Amendment to other nonracial forms of discrimination, for while some justices have refused to find any legislative classification other than race to be constitutionally disfavored, most have been receptive to 接受 arguments that at least some nonracial discriminations, sexual discrimination in particular, are “suspect” and deserve this heightened scrutiny 严格审查 by the courts.
-
-====
-
-- 340. The isotopic composition of lead often varies from one source of common copper ore to another, with variations exceeding the measurement error; and preliminary studies indicate virtually uniform is isotopic composition of the lead from a single copper-ore source.
-
-[.my1]
-.案例
-====
-- 340. The isotopic composition 同位素组成 of lead often varies from one source of common copper ore 铜矿石 to another, with variations exceeding the measurement error; and preliminary studies indicate virtually uniform isotopic composition of the lead from a single copper-ore source.
-
-====
-
-- 341. It is not known how rare this resemblance is, or whether it is most often seen in inclusions of silicates such as garnet, whose crystallography is generally somewhat similar to that of diamond; but when present, the resemblance is regarded as compelling evidence that the diamonds and inclusions are truly co-genetic.
-
-[.my1]
-.案例
-====
-- 341. It is not known how rare this resemblance is, or whether it is most often seen in inclusions 包裹体 of silicates 硅酸盐 such as garnet 石榴石, whose crystallography 晶体学 is generally somewhat similar to that of diamond; but when present, the resemblance is regarded as compelling evidence 有力证据 that the diamonds and inclusions are truly co-genetic 同成因的.
-
-====
 
 - 342. Portrayals of the folk of Mecklenburg County, North Carolina, whom he remembers from early childhood, of the jazz musicians and tenement roofs of his Harlem days, of Pittsburgh steelworkers, and his reconstruction of classical Greek myths in the guise of the ancient Black kingdom of Benin, attest to this.
 
+image:/img/svg 342.svg[,100%]
+
+
 [.my1]
 .案例
 ====
-- 342. Portrayals 描绘 of the folk of Mecklenburg County, North Carolina, whom he remembers from early childhood, of the jazz musicians and tenement roofs 公寓屋顶 of his Harlem days, of Pittsburgh steelworkers, and his reconstruction 重构 of classical Greek myths in the guise of 以……形式 the ancient Black kingdom of Benin, attest to 证明 this.
+- 342. #Portrayals 描绘 of# the folk of Mecklenburg 德国一州名 County, North Carolina, whom he remembers (v.) from early childhood, #of# the jazz musicians 乐师 and tenement roofs 公寓屋顶 of his Harlem 地名 days, #of# Pittsburgh steelworkers 炼钢工人, and his _reconstruction_ 重构 of classical Greek myths 古典希腊神话 /_in the guise (n.)表现形式；外貌；伪装；外表 of_ 以……形式 the ancient Black kingdom of Benin, *attest (v.)证明，表明 to*  this.
+
+他对北卡罗来纳州梅克伦堡县乡民的描绘（源自童年记忆）、对哈莱姆时期爵士乐手, 与出租屋屋顶的刻画、对匹兹堡钢铁工人的呈现，以及以古贝宁王国为背景对希腊神话的重构，皆印证此点。
+
+（作者/人物）对他童年时代所记忆的北卡罗来纳州梅克伦堡县居民的描绘，对他哈莱姆时期爵士乐手, 和廉租房屋顶的描绘，对匹兹堡钢铁工人的描绘，以及他以古老黑人贝宁王国的形式, 对古典希腊神话进行的重构，都印证了这一点（或证明了这一点）。
+
+.Portrayals of the folk of Mecklenburg County ...,  #of# the jazz musicians ..., #of# Pittsburgh steelworkers, ..., and his reconstruction of ...
+
+- the jazz 前的 of, 这是另一个介词短语，由 of 开头，##与前面的 of the folk... 并列，共同修饰主语 Portrayals。##它列举了描绘的第二个对象：“爵士乐手和他哈莱姆时期的廉租房屋顶”。
+
+- of Pittsburgh steelworkers 这是一个独立的介词短语，##由 of 开头，与前述的两个介词短语继续并列，共同修饰主语 Portrayals。##它列举了描绘的第三个对象：“匹兹堡的钢铁工人”。
+
+- and his reconstruction of... : 这是长串并列的主语成分中的最后一个部分，通过 and 连接。##**它与前面所有的“Portrayals of...”结构并列，**##共同作为句子的复合主语的组成部分。
+
+.and _his reconstruction_ of classical Greek myths /*in the guise of* the ancient Black kingdom of Benin,
+
+- *in the guise of* the ancient Black kingdom of Benin：介词短语，修饰 reconstruction，说明重构的形式或伪装（以古老的黑人贝宁王国为外衣）。 +
+in the guise of：固定短语，意思是“以……的形式”、“乔装成……”。
+
+.attest
+(V.) +
+1.*~ (to sth)* : to show or prove that sth is true 证实；是…的证据 +
+SYN bear witness to +
+[ V] +
+•Contemporary accounts *attest (v.) to* his courage and determination.当时的报道证实了他的勇气和决心。 +
+[ also V thatalsoVN ] +
+
+2.to state that /you believe that /sth is true or genuine, for example in court 作证，证明（如在法庭上） +
+[ VN] +
+•to attest (v.) a will 就遗嘱作见证 +
+•The signature was attested (v.) by two witnesses. 这个签名有两名见证人。 +
+
 
 ====
 
 - 343. The hydrologic cycle, a major topic in this science, is the complete cycle of phenomena through which water passes, beginning as atmospheric water vapor, passing into liquid and solid form as precipitation, thence along and into the ground surface, and finally again returning to the form of atmospheric water vapor by means of evaporation and transpiration.
 
-[.my1]
-.案例
-====
-- 343. The hydrologic cycle 水文循环, a major topic in this science, is the complete cycle of phenomena through which water passes, beginning as atmospheric water vapor, passing into liquid and solid form as precipitation 降水, thence along and into the ground surface, and finally again returning to the form of atmospheric water vapor by means of evaporation 蒸发 and transpiration 蒸腾作用.
+image:/img/svg 343.svg[,100%]
 
-====
 
-- 344. A recent generation of historians of science, far from portraying accepted scientific views as objectively accurate reflections of a natural world, explain the acceptance of such views in terms of the ideological biases of certain influential scientists or the institutional and rhetorical power such scientists wield.
 
 [.my1]
 .案例
 ====
-- 344. A recent generation of historians of science, far from portraying accepted scientific views as objectively accurate reflections of a natural world, explain the acceptance of such views in terms of the ideological biases 意识形态偏见 of certain influential scientists or the institutional and rhetorical power such scientists wield 掌握.
+- 343. `主` #The hydrologic (a.)水文的 cycle# 水文循环, (#同位语，用逗号隔开#) a major topic 题目，主题 in this science, `系` #is# the complete cycle 完整的循环，周期 of phenomena /through which `主` #water `谓` passes# (v.), beginning *as* 以……方式 _atmospheric water vapor_ (n.蒸气；水蒸气)大气水蒸汽, passing into 转变为 liquid and solid form *as* 以……身份,照……方式 precipitation 降水（如雨，雪，冰雹）；沉淀, thence 从那里；然后；从那时起 along and into the ground surface 沿着并进入地表, and finally again *returning to* the form of _atmospheric water vapor_ /*by means of* 通过，借助于 evaporation 蒸发 and transpiration 蒸发，散发;蒸腾作用.
+
+水文循环, 作为该学科主要课题，是水经历的完整现象周期：从大气水蒸气开始，经"降水"变为液态和固态，沿地表或渗入地下，最终通过"蒸发"和"蒸腾作用", 重返"大气水蒸气"形态。
+
+水文循环，这一门科学中的主要课题，是水所经历的完整的现象循环过程。它开始于大气中的水蒸气，然后以降水的形式变为液态和固态，接着沿着并进入地表，最终通过蒸发和蒸腾作用再次回到大气水蒸气的形式。
 
 ====
 
-- 345. Galvanized by the human and monetary cost of those hostilities and showing a new determination to fulfill its proper role, Congress enacted the War Powers Resolution of 1973, a statute designed to ensure that the collective judgment of both Congress and the President would be applied to the involvement of United States troops in foreign conflicts.
+- 344. `主` #A recent generation# of historians of science, *far from* portraying (v.) _accepted (a.) scientific views_ *as* _objectively accurate (a.) reflections_ of a natural world, `谓` #explain# _the acceptance_ of _such views_ /*in terms of* the _ideological biases_ of _certain influential scientists_ or _the institutional and rhetorical power_ /such scientists wield (v.).
+
+image:/img/svg 344.svg[,100%]
+
 
 [.my1]
 .案例
 ====
-- 345. Galvanized by 受……激励 the human and monetary cost of those hostilities 敌对行动 and showing a new determination to fulfill its proper role, Congress enacted 颁布 the War Powers Resolution of 1973, a statute 法规 designed to ensure that the collective judgment of both Congress and the President would be applied to the involvement of United States troops in foreign conflicts.
+- 344. `主` #A recent generation# 最近一代 of historians of science  科学史学家, far from 远离，远非 *portraying* (v.) _accepted (a.) scientific views_ 被接受的科学观点 *as* __objectively (ad.)客观地 accurate reflection__s 客观准确的反映 of a natural world, `谓` #explain# (v.) _the acceptance_ of _such views_ /*in terms of* 根据,从……角度 _the ideological 思想体系的，意识形态的 biases_ 意识形态偏见 of certain _influential scientists_  or _the institutional 机构的，制度的，惯例的；根深蒂固的 and rhetorical 修辞的;反问的；反诘的 power_ /后定说明 such scientists wield (v.)挥，操，使用（武器、工具等）；运用（权力），施加（影响）;掌握.
 
+*新一代的科学史学家，远非将那些"被普遍接受的科学观点"描绘成对自然界的客观准确反映，而是从某些有影响力的科学家的意识形态偏见，或是从这些科学家所掌握的"制度性"和"修辞性"权力，来解释这些观点为何被社会接受。*
+
+简而言之，这句话的意思是：#*新一代的科学史研究, 不再认为科学的接受, 仅仅是因为其“真理”本身，他们更倾向于探究非科学因素（如科学家个人的偏见或他们在社会中拥有的权力）如何在科学知识的传播和接受过程中, 发挥作用。*#
 ====
 
-- 346. For example, in Maria Campbell's account of growing up as a Canadian Metis who was influenced strongly, and often negatively, by the non-Native American world around her, one learns a great deal about the life of Native American women, but Campbell's individual story, which is told to us directly, is always the center of her narrative.
+- 345. Galvanized (v.) by _the human and monetary cost_ of those hostilities /and showing a new determination to fulfill (v.) its proper role, `主` #Congress `谓` enacted# (v.) _the War Powers Resolution_ of 1973, (#同位语#) a statute /designed to ensure that /`主` the _collective judgment_ of *both* Congress *and* the President `谓` would *be applied to* the involvement of United States troops in foreign conflicts.
 
 [.my1]
 .案例
 ====
-- 346. For example, in Maria Campbell's account of growing up as a Canadian Metis who was influenced strongly, and often negatively, by the non-Native American world around her, one learns a great deal about the life of Native American women, but Campbell's individual story, which is told to us directly, is always the center of her narrative 叙述.
+- 345. Galvanized (v.)使震惊；使振奋；激励；刺激;电镀 by 受……激励 _the human and monetary (a.)货币的，金融的 cost_ 货币成本 of those hostilities 敌对行动 /and showing (v.) a new determination 决心，坚定 to fulfill(v.)  its proper role 适当的角色, `主` #Congress `谓` enacted# (v.)颁布 _the War Powers Resolution_ of 1973, / 同位语 a statute 法令，法规，成文法 /designed to ensure (v.) that /`主` the collective judgment 集体判断 of *both* Congress  国会，议会 *and* the President `谓` would *be applied to* the involvement 参与，介入；投入 of _United States troops_ in foreign conflicts.
+
+受这些军事冲突造成的人员和经济损失警醒，并展现履行其正当职责的新决心，国会通过了1973年《战争权力决议案》。该法案旨在确保美军介入外国冲突时，须经国会与总统的共同判断。
+
+鉴于那些敌对行动（战争）造成的人员和金钱代价，并且展现出履行其应有职责的新决心，美国国会颁布了1973年《战争权力决议案》。这项法规旨在确保美国军队卷入外国冲突的决策，能够同时体现"国会"和"总统"双方的集体判断。
+
+简而言之，这句话说明了**《战争权力决议案》是在越南战争之后，国会为了限制总统在未经国会同意的情况下单方面发动战争的权力，以确保未来美国出兵海外, 必须是国会和总统共同的决定。**
+
+.本句讲解
+*Galvanized by* ... and *showing* a new determination ..., `主` Congress `谓` enacted ...
+
+这是一个很长的分词短语（更确切地说，是两个并列的分词短语），作为状语, 修饰主句的主语“Congress”（国会）。它解释了国会在采取行动时的状态和原因。
+
+- Galvanized by...：过去分词短语，表示“受到……的刺激/鼓舞”。
+- and showing a new determination...：现在分词短语，与前面的过去分词短语并列，表示“展现出新的决心”。
+
+
+
+.galvanize
+(v.)
+1.*~ sb (into sth/into doing sth)* :to make sb take action /by shocking them or by making them excited 使震惊；使振奋；激励；刺激
+•The urgency of his voice galvanized them into action . 他急迫的声音激励他们行动起来。
+
+2.( technical 术语) to cover metal with zinc /in order to protect it from rust 电镀；给（金属）镀锌
+•a galvanized bucket 镀锌桶
+•galvanized steel 镀锌钢
+====
+
+- 346. For example, in _Maria Campbell's account_ of *growing up as* a Canadian Metis /who *was influenced* strongly, and often negatively, *by* the non-Native American world 后定说明 around her, /`主` #one `谓` *learns* (v.) _a great deal_ *about*# the life of Native American women, but `主` #Campbell's individual story#, which *is told* to us directly, `系` #is# always the center of her narrative.
+
+[.my1]
+.案例
+====
+- 346. For example, in Maria Campbell's account 描述；叙述；报告 of *growing up as* a Canadian Metis 作为一个加拿大梅蒂斯人的成长经历 /who *was influenced* (v.) strongly, and often negatively 消极地；否定地, *by* _the non-Native American world_ 后定说明 around her 周围的非美洲原住民世界, `主` #one (表示泛指的“人”、“我们”) `谓` *learns* (v.) a great deal 很多 *about*# the life of Native American women, but `主` #Campbell's individual story#, which *is told to us* directly, `系` #is# always the center of her narrative 叙述.
+
+
+例如，在玛丽亚·坎贝尔（一位加拿大梅蒂斯人）的成长记述中——她深受周围非美洲原住民世界的影响，而且这种影响往往是负面的——我们可以学到许多关于美洲原住民女性生活的东西. 但是坎贝尔的个人故事，那个直接告诉我们的故事，始终是她叙述的中心。
+
+简而言之，这句话指出，虽然坎贝尔的自传, 为我们了解一个更广泛的群体（原住民女性）提供了窗口，但她叙事的焦点和核心内容, 始终围绕着她自己的独特和个人经历展开。
 
 ====
 
@@ -1139,7 +1481,92 @@ image:/img/svg 332.svg[,100%]
 [.my1]
 .案例
 ====
-- 347. In recent years the early music movement, which advocates performing a work as it was performed at the time of its composition, has taken on the character of a crusade 运动, particularly as it has moved beyond the sphere of medieval and baroque music and into music from the late eighteenth and early nineteenth centuries by composers such as Mozart and Beethoven.
+- 347. In recent years /`主` #the early music movement#, which advocates (v.)主张，提倡 `宾`  *performing* (v.) a work /*as* it *was performed* (v.) at the time of its composition (作曲；创作) 按照作品创作时的方式来表演, `谓` *#has taken on#* 呈现，具有（特征、外观等） the character of a crusade （为维护道义而从事的长期）运动；（中世纪的）十字军东征, particularly as 尤是当……时候/因为 it #has moved beyond# 超越了……范围 the sphere of _medieval (a.)中世纪的 and baroque (a.)巴洛克式的；结构复杂的，形式怪样的 music_ /#and into# music from _the late eighteenth_ and _early nineteenth centuries_ /by composers 作曲家 such as Mozart and Beethoven 贝多芬.
+
+近年来，主张按作品创作时代方式演奏的"本真音乐运动", 已演变为一场圣战——尤其当其从中世纪和巴洛克音乐领域，扩展到莫扎特、贝多芬等18世纪末19世纪初作曲家的作品时。
+
+近年来，早期音乐运动——这项倡导"按照作品创作时的方式, 来表演作品"的运动——已经呈现出一种“十字军东征”般的特点，尤其当它超越了中世纪和巴洛克音乐的范畴，进入到像莫扎特和贝多芬这些18世纪末19世纪初作曲家的作品领域时，这种特点表现得更为明显。
+
+简而言之，作者指出，早期音乐运动, 现在变得更加激进和有使命感，因为它不再仅仅局限于传统的早期音乐（如中世纪和巴洛克音乐），而是开始扩展到古典主义和早期浪漫主义时期（莫扎特和贝多芬）的作品，这意味着它试图以“历史考证”的方式, 重新诠释更广范围的经典作品。
+
+
+.Early Music Movement (早期音乐运动)
+
+定义： 这是一个在20世纪兴起的音乐运动，旨在以历史上准确的方式, 演奏古典音乐作品。
+
+核心理念： **它的核心主张是: 尽可能地还原作品创作时的表演方式。**这包括：
+
+- *使用古乐器* (Period Instruments)： 比如用羽管键琴代替现代钢琴，用维奥尔琴代替现代大提琴，或使用当时制作的特定型号的弦乐器、管乐器等。
+
+- *研究历史演奏技法* (Historically Informed Performance, HIP)： 考证当时的演奏习惯、音高标准、节奏处理、装饰音使用、乐队编制、甚至演奏场所的声学特点等。
+
+- *忠于原谱* (Urtext Editions)： 使用经过严谨考证的、最接近作曲家原意的乐谱。
+
+目的： 避免用现代的审美和演奏习惯, 去“扭曲”或“误读”过去的音乐，力求呈现作品的“本来面貌”。
+
+.Crusade (十字军东征)
+
+在这里是一个比喻用法。它不是指历史上的宗教战争，而是指一种充满热情、信念坚定、甚至带有某种使命感的运动。
+
+含义： 早期音乐运动的倡导者们对还原历史演奏方式表现出极大的热情和执着，有时甚至显得有些教条或排他，仿佛在为一项崇高的事业而奋斗。
+
+.Medieval Music (中世纪音乐)
+
+- 时期： 大约从公元500年到1400年。
+
+- 特点： 欧洲古典音乐最早期的阶段。
+
+- **宗教性强： 大部分幸存下来的音乐是为教堂创作的，**如格里高利圣咏（Gregorian Chant），以单声部（monophony）为主。
+
+- 复调音乐发展： 后期开始发展出"复调"（polyphony），即多条独立的旋律线同时进行。
+
+- 记谱法： 早期记谱法不完善，多靠口头传授；后来才逐渐发展出更精确的记谱系统。
+
+- 乐器： 常用简单的管乐器（如竖笛）、弦乐器（如里拉琴、鲁特琴的早期形式）等。
+
+.Baroque Music (巴洛克音乐)
+
+时期： 大约从公元1600年到1750年（约翰·塞巴斯蒂安·巴赫逝世）。
+
+特点： 这是一个宏大、华丽、充满对比和情感的时期。
+
+- 通奏低音 (Basso Continuo)： 一种持续的低音和和弦伴奏形式，是巴洛克音乐的标志性特征。
+
+- 对位法 (Counterpoint)： 多声部音乐高度发展，声部之间相互独立又和谐统一（如赋格曲Fugue）。
+
+- 情感表达： 音乐充满戏剧性，强调情感的“表现”（Affekt）。
+
+- 新形式： 歌剧（Opera）、清唱剧（Oratorio）、康塔塔（Cantata）、协奏曲（Concerto）、奏鸣曲（Sonata）等形式兴起并成熟。
+
+- 乐器： 羽管键琴（harpsichord）、管风琴（pipe organ）、小提琴家族、鲁特琴等是重要乐器。
+
+.Music from the late eighteenth and early nineteenth centuries (18世纪末和19世纪初的音乐)
+
+- 这个时期通常涵盖了古典主义时期（Classical Period，约1750-1820年）的后期和浪漫主义时期（Romantic Period，约1800-1910年）的早期。
+
+- Mozart (莫扎特，1756-1791)：
+
+代表作曲家： 他是古典主义时期的巅峰人物之一。
+
+音乐风格： 以清晰、平衡、优雅、透明著称。旋律优美动听，结构严谨对称。他完善了交响曲、协奏曲、奏鸣曲和歌剧等古典形式。
+
+- Beethoven (贝多芬，1770-1827)：
+
+代表作曲家： 他是连接古典主义和浪漫主义的桥梁性人物。
+
+音乐风格： 早期作品具有古典主义的特征，但很快就发展出个人化、充满力量和戏剧性的风格。他的音乐情感更加强烈，规模更宏大，突破了古典形式的限制，为浪漫主义开辟了道路。
+
+这句话的含义
+这句话的意思是：早期音乐运动，其核心理念是力求还原音乐作品在创作时的原始演奏方式，在近些年已经变得像一场“十字军东征”那样充满热情和使命感。这种特质尤其在它将还原实践的范围从传统的中世纪和巴洛克音乐，扩展到18世纪末和19世纪初的音乐（例如莫扎特和贝多芬的作品）之后，变得更为明显。
+
+简单来说，就是早期音乐运动不再仅仅关注非常古老的音乐，而是开始挑战和改变对像莫扎特和贝多芬这样相对“现代”的经典作品的传统演奏方式，这使得这场运动的影响力和争议性都大大增加。
+
+
+
+.take sth←→ˈon
+[ no passive] to begin to have a particular quality, appearance, etc. 呈现，具有（特征、外观等） +
+•The chameleon can *take on* the colours of its background. 变色龙可以变成周围环境的颜色。 +
+•His voice *took on* a more serious tone. 他说话的语气变得严肃起来。
 
 ====
 
