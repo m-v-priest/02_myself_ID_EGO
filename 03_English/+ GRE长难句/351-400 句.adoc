@@ -755,31 +755,207 @@ image:/img/svg 385.svg[,100%]
 ====
 
 
-- 386. Calculations of the density of alloys based on Bernal-type models of the alloys metal component agreed fairly well with the experimentally determined values from measurements on alloys consisting of a noble metal together with a metalloid, such as alloys of palladium and silicon, or alloys consisting of iron, phosphorus, and carbon, although small discrepancies remained.
+- 386. `主` #Calculations# of _the density of alloys_ 后定说明 *based on* _Bernal-type models_ of _the alloys metal component_ /`谓`  #*agreed (v.) fairly well with*# the experimentally determined (a.) _values_ 后定说明 from _measurements on alloys_ 后定说明 *consisting of* a _noble metal *together with* a metalloid_, /such as _alloys of palladium and silicon_, or _alloys 后定说明 *consisting of* iron, phosphorus, and carbon_, /although `主` small discrepancies (n.) `谓` remained (v.).
+
+image:/img/svg 386.svg[,100%]
+
 
 [.my1]
 .案例
 ====
-- 386. Calculations of the density of alloys 合金 based on Bernal-type models of the alloys metal component agreed fairly well with the experimentally determined values from measurements on alloys consisting of a noble metal together with a metalloid 准金属, such as alloys of palladium 钯 and silicon 硅, or alloys consisting of iron, phosphorus 磷, and carbon, although small discrepancies 差异；不一致 remained.
+- 386. `主` #Calculations# 计算，运算；估算，预测  of the density of alloys 合金 /*based on* _Bernal-type models_ of the alloys _metal component_ (组成部分，成分，部件) /`谓` #*agreed* （在数、性或人称上与…）一致 fairly well *with*# 相当吻合 _the experimentally (ad.)实验上；用实验方法 determined_ (查明；测定；准确算出)   values 实验确定的值 /后定说明 from _measurements on alloys_ (说明这些值是如何得来的: 来自对合金的测量） / (后定修饰 alloys) **consisting of **由……组成 a _noble metal_  贵金属 *together with* a metalloid (类金属,准金属) 由“贵金属和类金属”组成, /such as _alloys of palladium 钯 and silicon_ 硅, /or alloys 后定说明 *consisting of* iron, phosphorus 磷, and carbon, /although 尽管,虽然 small discrepancies (n.)差异；不一致 remained (v.).
+
+基于合金金属组分的"伯纳尔型模型", 计算出的合金密度，与对由贵金属和类金属（例如钯和硅的合金）组成的合金，或由铁、磷和碳组成的合金, 进行测量所实验确定的数值，吻合得相当好，尽管仍存在细微差异。
+
+这段话的核心意思是：
+
+科学家们发现，通过一种名为“伯纳尔型模型”的理论方法, 计算出的合金密度，与实际通过实验测量得出的合金密度数据, 非常吻合，即使两种数据之间仍存在一些微小的差异。
+
+.alloy
+al-加强意义 +## loy(=-ly-)捆,约束 → 多种元素捆在一起 → 合金 ## +
+前缀al-同ad-. -loy同词根lig, 绑，组合。特指把贵金属和贱金属合在一起冶炼。
+
+.metalloid
+( BrE alsosemi·metal ) ( chemistry 化) a chemical element which has properties both of metals and of other solid substances 准金属 +
+-> #metal,金属，-oid, 类，准，词源同 android.#
+
+.phosphorus
+-> 来自希腊语Phosphoros,启明星，#来自phos,光，phoros,携带者#，词源同bring.后用作化学物质磷。
+
+
+.合金 (Alloys)
+
+专业术语: **#由两种或多种化学元素组成，其中至少有一种是金属，#**并且具有金属特性（如导电性、导热性、光泽、延展性等）的混合物。合金通常通过将熔融的组分, 混合制成。
+
+相关知识: **##合金的性能（如强度、硬度、耐腐蚀性）往往优于其纯组分金属，##因此在工程和工业中应用广泛。**常见的合金有钢（铁和碳的合金）、黄铜（铜和锌的合金）、青铜（铜和锡的合金）等。
+
+
+.metal component
+
+*#金属组分 (metal component) 在合金的语境下，指的是构成合金的各种金属元素。#* +
+*简单来说，#合金是两种或多种元素混合在一起形成的，其中至少要有一种是金属。这些金属元素, 就是合金的“金属组分”。#*
+
+举个例子： +
+*黄铜是一种合金，它主要由铜和锌这两种金属元素组成。那么，铜和锌就是黄铜的金属组分。* +
+不锈钢是一种铁合金，它的主要金属组分是铁，同时还可能包含铬、镍等其他金属元素。
+
+*需要注意的是，有些合金中除了金属组分，还会添加"非金属元素"*（比如钢中的碳，或者上面例子中的磷），这些非金属元素, 也会对合金的性能产生重要影响。但**通常我们说“金属组分”，指的还是其中的金属元素部分。**
+
+所以，在原文中提到的 "Bernal-type models of the alloys metal component"，就是指**"伯纳尔模型"主要关注的, 是合金中, 那些"金属原子"是如何排列和堆积的，因为它们的结构, 对合金的整体密度, 起着决定性作用。**
+
+.noble metal
+*#贵金属. 指那些在空气中或潮湿条件下, 不易被氧化或腐蚀的金属，通常化学性质稳定，稀有且价格昂贵。#*
+
+相关知识: 常见的贵金属包括: 金（Au）、银（Ag）、铂（Pt）、钯（Pd）、铑（Rh）、钌（Ru）、铱（Ir）、锇（Os）。*它们因其优异的耐腐蚀性、导电性和美观性，在珠宝、电子、催化剂等领域有广泛应用。*
+
+.类金属 (metalloid)
+
+- 专业术语: *#指那些性质介于"金属"和"非金属"之间的元素。它们在某些条件下表现出"金属"的特性，在另一些条件下则表现出"非金属"的特性。#*
+
+- 相关知识: 常见的类金属包括: 硼（B）、硅（Si）、锗（Ge）、砷（As）、锑（Sb）、碲（Te）、钋（Po）。*硅是其中最重要的，因其"半导体特性", 而成为电子工业的核心材料。*
+
+.钯 (Palladium)
+
+专业术语: 一种银白色的贵金属，属于铂族元素。
+
+相关知识: **钯具有良好的催化性能、耐腐蚀性，**常用于汽车催化转化器、珠宝、牙科材料和电子元件中。
+
+.硅 (Silicon)
+
+专业术语: *一种常见的"类金属"元素。*
+
+相关知识: **硅在地壳中含量丰富，是半导体材料的核心，**广泛应用于电子芯片、太阳能电池、建筑材料（如玻璃、水泥）等领域。硅与钯的合金, 可能具有特殊的结构和性能。
+
+
+
+.Gemini 的解说
+
+具体来说，它强调了以下几点：
+
+1.研究对象：这段话主要关注的是合金的密度。*合金是由多种元素（至少一种是金属）混合而成的材料。*
+
+2.两种方法进行比较：
+
+- **理论计算方法：他们使用了一种叫做“伯纳尔型模型”的理论方法, 来预测合金的密度。**这个模型关注的是合金中"金属组分"的结构排列（比如它们是如何紧密堆积的）。
+
+- *实验测量方法：他们也通过实际的实验测量，得到了这些合金的真实密度值。*
+
+
+
+
+3.比较结果：
+
+- 吻合度高：两种方法得出的结果“吻合得相当好”（agreed fairly well）。这意味着"伯纳尔型模型", 在预测这类合金密度方面, 是比较准确和有效的。
+
+- 存在小差异：尽管吻合度高，但作者也承认“仍存在细微差异”（small discrepancies remained）。这表明理论模型并非完美无缺，可能还有未考虑到的因素，或者实验测量本身有误差。
+
+4.研究的具体合金类型：为了使结论更具体，作者列举了两种被研究的合金类型：
+
+- 一种是由贵金属和类金属组成的合金，例如“钯和硅的合金”。
+- 另一种是由铁、磷和碳组成的合金。
+
+总而言之，这段话是关于材料科学领域中，一种理论模型（伯纳尔型模型）在预测特定合金密度方面的有效性及其与实验数据之间的吻合程度的描述。它告诉我们，这个模型在解释某些复杂合金的结构和性质方面是成功的，但并非绝对完美。
 
 ====
 
-- 387. The traditional view supposes that the upper mantle of the earth behaves as a liquid when it is subjected to small forces for long periods and that differences in temperature under oceans and continents are sufficient to produce convection in the mantle of the earth with rising convection currents under the mid-ocean ridges and sinking currents under the continents.
+- 387. `主` The traditional view `谓` #*supposes (v.) that*# /`主` the upper mantle of the earth `谓` *behaves (v.) as* a liquid /when it *is subjected (v.) to* small forces for long periods /#and that# `主` differences in temperature _under oceans and continents_ `系` are sufficient (a.) /*to produce (v.) convection* in the mantle of the earth /伴随状 with _rising (a.) convection currents_ under the mid-ocean ridges and _sinking (a.) currents_ under the continents.
 
 [.my1]
 .案例
 ====
-- 387. The traditional view supposes that the upper mantle 地幔 of the earth behaves as a liquid when it is subjected to small forces for long periods and that differences in temperature under oceans and continents are sufficient to produce convection 对流 in the mantle of the earth with rising convection currents under the mid-ocean ridges 大洋中脊 and sinking currents under the continents.
+- 387. `主` The traditional view `谓` #supposes (v.)假设,猜想,认为 that# /`主` the upper mantle 地幔 of the earth `谓` *behaves (v.) as* a liquid /when it *is subjected (v.)使遭受；使从属；受…影响 to* 被……作用,遭受 small forces  小的作用力 for long periods /#and that# `主` differences in temperature _under oceans and continents_ 大陆，大洲 `系` are sufficient (a.)足够的，充足的 *to produce (v.) convection* 〔气体、液体的〕对流；传送 in the mantle of the earth / (伴随状语，用 with 引出，描述对流的具体形式) with _rising (a.) convection currents_ (对流气流) 上升的对流（热）流 under the mid-ocean ridges (大洋中脊)在大洋中脊之下 and _sinking (a.) currents_ 下沉的（冷）流 under the continents  在大陆之下.
+
+**传统的观点认为，地球的"上地幔"在长时间受到微小作用力时，会表现得像液体一样；而且，海洋和大陆下方的温度差异, 足以在地幔中产生对流，**具体表现为: 大洋中脊下方, 有上升的"对流热流"，而大陆下方, 有下沉的"对流冷流"。
+
+这段话到底说了什么？ +
+这段话详细阐述了传统地质学/地球物理学中关于地球内部，特别是"上地幔"行为的两个核心假设。它勾勒出了一个关于板块构造驱动力的经典图景。
+
+1.上地幔的性质（在特定条件下）：
+
+- 像液体一样：*#传统观点认为，尽管地球的"上地幔", 在短期内看起来是固体（我们可以在上面行走，地震波也可以通过它传播），但如果给它施加微小但持续时间很长的力，它就会表现得像液体一样，可以缓慢流动和变形。这类似于沥青，在短时间作用力下是固体，但长时间受力会缓慢流淌。#*
+
+2.地幔对流的驱动力与表现：
+
+- 温差驱动对流：*传统观点认为，地球表面海洋下和大陆下的温度, 存在差异。具体来说，地幔深处的热量上升，在地幔中形成温度不均匀分布。*
+
+- 足以产生对流：*#这些温差, 足以驱动地幔物质的缓慢循环流动，这就是"地幔对流"。#*
+
+- 对流模式： +
+.. **在大洋中脊（mid-ocean ridges）下方，地幔物质受热上升，形成上升的"对流热流"。**大洋中脊是海底山脉，也是新洋壳形成的地方，这与"上升热流"的观点相符。
+
+.. 而在大陆（或大洋深处的海沟）下方，地幔物质冷却下沉，形成下沉的"对流冷流"。大陆下方地壳较厚，散热可能不同，或者它代表了板块俯冲带，物质在此处下沉。
+
+核心解读：
+
+这段话, 总结了"板块构造理论"中, 关于"地幔对流"如何驱动"地球表面板块运动"的早期或经典解释。它描绘了一个动态的地球内部，其中, 热量驱动地幔物质, 像厚重的液体一样循环，这种循环, 在大洋中脊处上升，在大陆或俯冲带处下沉，从而推动了地球表面的大陆漂移, 和海洋扩张等宏大地质现象。
+
+然而，随着地球物理学研究的深入和地震层析成像等技术的发展，科学家们对地幔的内部结构和对流模式有了更复杂、更精细的认识。*#现在的新观点，或者说更被广泛接受的理论，是地幔对流可能以多种模式并存，并且更为复杂，不仅仅是简单的单层对流。#*
+
+以下是一些主要的“新观点”或现代"地幔对流模型"的特点：
+
+[.my3]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|1.分层对流, 与混合对流
+|这是与传统"单层对流"模式最主要的区别和发展。
+
+- 传统单层对流：认为地幔从地核-地幔边界到地壳底部, 是一个整体的循环对流。
+
+- 分层对流：*早期有观点认为, 地幔内部存在一个或多个屏障*（例如在410公里和660公里地震波间断面处），*将地幔对流, 分为上地幔对流, 和下地幔对流，两者之间物质交换有限。*
+
+- *混合对流 (Mixed Convection)：##这是目前更被普遍接受的观点。它认为地幔对流不是单一的模式，而是混合的。在某些区域，地幔物质可能实现"全地幔对流"（从地核-地幔边界, 一直到地表）；而在另一些区域，则可能发生"分层对流"，##尤其是在地幔内部的"相变间断面"（如660公里间断面）处，#物质交换会受到一定阻碍，形成局部或暂时的分层。#* +
+证据：地震层析成像技术, 能够探测地幔内部的温度和密度异常，揭示了地幔深部的地质结构。**研究发现，一些俯冲的板块, 可以穿透660公里间断面, 进入"下地幔"，支持"全地幔对流"；而另一些区域, 则显示出"分层"的迹象。**近期的一些研究也为"地幔混合对流模式"提供了关键证据。
+
+image:/img/Convection currents in the Earth´s mantle.jpg[,100%]
+
+
+
+|2.地幔柱 (Mantle Plumes)
+|地幔柱理论, 是"地幔对流模型"的重要补充，解释了远离板块边界的热点火山活动（如夏威夷群岛）。
+
+- 概念：#*"地幔柱"是地核-地幔边界附近, 极热物质形成的、向上狭窄的、持续上升的热流。它们像烟囱一样，穿透整个地幔，在地表形成长期稳定的火山活动，这些热点不随板块移动。*#
+
+- 补充了"板块构造理论"：#*传统的板块构造理论, 主要解释了板块边界的地震和火山活动，但对板内（即板块内部）的火山活动解释不足。"地幔柱理论"为这些热点提供了动力学解释。*#
+
+image:/img/Mantle Plumes.jpg[,100%]
+
+
+
+|3.岩石圈的力学性质和应力
+|现代研究, 更深入地探讨了"地幔对流"如何与地球最外层的岩石圈（包括地壳和上地幔的坚硬部分）相互作用。
+
+- 岩石圈的屈服应力：**研究表明，岩石圈的强度（即屈服应力）, 对其下方的地幔对流模式, 有深远影响。不同强度的岩石圈, 会导致不同的对流模式，**例如从非板块活动, 到活跃的板块构造模式。
+
+- 板块拖曳, 与俯冲拉力：虽然"地幔对流"提供了基本驱动力，但**现代观点更强调板块自身的重力作用, 在地幔对流中的重要性。**例如，当冷的、致密的洋壳, 在俯冲带下沉时，它产生的拉力（“板片拉力”）, 被认为是驱动板块运动最主要的力之一。
+
+|4.地幔物质的复杂性
+|*地幔不仅仅是均匀的硅酸盐流体，其内部存在复杂的化学成分、相变（物质在不同压力和温度下发生的晶体结构变化）和黏滞性变化。这些因素都会影响对流的模式和效率。*
+
+- 间断面的成因：410公里和660公里间断面, 不仅仅是温度变化引起的相变，在某些区域也可能是化学分界面，这进一步支持了地幔对流的复杂性和分层特征。
+
+|===
+
+总结来说，与简单化的“传统观点”相比，现代对"地幔对流"的理解, 更加精细和复杂，认识到它可能是一种混合模式（既有全地幔对流，也有分层对流），并受到地幔柱、岩石圈力学性质, 以及"地幔内部物质复杂性"的共同影响。这些新观点, 主要基于地震波层析成像、高压高温实验、"地球动力学"数值模拟等先进研究手段, 所获得的大量数据和理论进展。
+
 
 ====
 
-- 388. While historians of literature have always been aware that writers work within particular traditions, the application of this notion to the history of political ideas forms a sharp contrast to the assumptions of the 1950s, when it was naively thought that the close reading of a text by an analytic philosopher was sufficient to establish its meaning, even if the philosopher had no knowledge of the period of the text's composition.
+- 388. While `主` #historians of literature `谓` have always been aware (a.) that# /`主` #writers `谓` work# (v.) within particular traditions, /`主`  #the application# of this notion *to* the history of political ideas `谓` #forms (v.) a sharp contrast *to*# the assumptions of the 1950s, /when *it was naively thought (v.) that* /`主` #the close reading# (n.) of a text /by an analytic philosopher /`系` #was sufficient# (a.) to establish (v.) its meaning, /even if `主` #the philosopher `谓` *had no knowledge of*# the period of the text's composition.
+
+image:/img/svg 388.svg[,100%]
+
 
 [.my1]
 .案例
 ====
-- 388. While historians of literature have always been aware that writers work within particular traditions, the application of this notion to the history of political ideas forms a sharp contrast to the assumptions of the 1950s, when it was naively 天真地 thought that the close reading of a text by an analytic philosopher was sufficient to establish its meaning, even if the philosopher had no knowledge of the period of the text's composition.
+- 388. While 尽管,虽然 #historians of literature 文学史家 have always been aware (a.) that# /`主` #writers `谓`  work# (v.) within particular traditions 在特定传统中创作,  `主` _##the application## of this notion_ *to* _the history of political ideas_ 将这一观念,应用于政治思想 /`谓` #forms (v.) a sharp contrast 鲜明对比 to# _the assumptions of the 1950s_, when *it was naively 天真地 thought (v.) that* /`主` #the close reading# 对文本的细读 of a text /by an analytic philosopher 分析哲学家 /`系` #was sufficient# (a.) to establish (v.) its meaning 确立其意义, /even if `主` #the philosopher `谓` had no knowledge of# 对……一无所知 the period of the text's composition (创作，作曲) 文本创作的时期.
 
+尽管文学史家们一直都清楚, 作家是在特定传统中进行创作的，但将这一观念应用于政治思想史，却与20世纪50年代的假设, 形成了鲜明对比——当时天真地认为，分析哲学家对文本的细读，即使对文本创作时期的背景一无所知，也足以确立(能了解)其(作者的本意)意义。
+
+这句话说的其实是: 任何作家都不是凭空创作的，他们的作品必然受到其所处时代和特定文学传统的制约和影响。要理解一部文学作品，就必须把它放回其创作的传统和语境中去考察。 +
+而50年代时的旧观点, 却没能做到这一点. 当时的一种流行观点（被作者称之为“天真地认为”）是：只要一位分析哲学家（这类哲学家通常强调逻辑分析、概念清晰和语言精确性）对某个文本进行“细读”（close reading）——即深入、仔细地分析文本本身的字面意义和逻辑结构——就足以完全确立这个文本的真实意义。
 ====
 
 - 389. Many choose jobs entailing little challenge or responsibility or those offering flexible scheduling, often available only in poorly paid positions, while other working mothers, although willing and able to assume as much responsibility as people without children, find that their need to spend regular and predictable time with their children inevitably causes them to lose career opportunities to those without such demands.
@@ -787,16 +963,39 @@ image:/img/svg 385.svg[,100%]
 [.my1]
 .案例
 ====
-- 389. Many choose jobs entailing 牵涉；需要 little challenge or responsibility or those offering flexible scheduling, often available only in poorly paid positions, while other working mothers, although willing and able to assume as much responsibility as people without children, find that their need to spend regular and predictable time with their children inevitably causes them to lose career opportunities to those without such demands.
+- 389. `主` Many `谓` choose (v.) jobs /entailing (v.)牵涉；需要；使必要 little challenge or responsibility 涉及很少挑战或责任的工作 /or those offering (v.) flexible scheduling 或者那些提供灵活时间安排的工作, (伴随状) often available /only in poorly paid positions 薪水很低的职位, /while 然而 `主` #other _working mothers_# 职业母亲, although willing (v.) and able to assume (v.)承担（责任）；就（职）；取得（权力） *as much responsibility as* people without children, `谓` #find (v.) that# /`主` their need *to spend* (v.) regular and predictable time 定期且可预测的时间 *with* their children /`谓`  *inevitably causes (v.) them* to lose (v.) career opportunities to those 后定说明 without such demands 没有这种要求（指代陪伴孩子的要求）.
 
+
+许多人选择那些挑战性或责任较小的工作，或者那些提供灵活时间安排的工作（这些工作通常薪水很低）；而另一些职业母亲，尽管愿意, 并有能力承担与"没有孩子的人"一样多的责任，却发现, 她们需要定期且可预测地陪伴孩子，这不可避免地导致她们在职业机会上, 输给那些没有这种要求的人。
+
+.entail
+[ VN -ing] to involve sth that cannot be avoided 牵涉；需要；使必要 +
+SYN involve +
+[ VN] +
+•The job entails (v.) a lot of hard work. 这工作需要十分艰苦的努力。 +
+•The girls learn exactly what *is entailed (v.) in* caring for a newborn baby. 姑娘们学的正是怎样照看新生儿。 +
+
+[ V -ing] +
+•It will entail (v.) driving a long distance every day. 这意味着每天都要长途开车。 +
+
+-> ##en-, 进入，使。-tail, 砍，切，##词源同retail, tailor. 来自法律用语，切下来的一块，留给后人继承的遗产，特指继承者继承的不能转让的房产或庄园，其继承权利受到一定的限制。引申义使必要。
 ====
 
 - 390. Observing that species found on high ground are different from those on low ground and knowing that in the Amazon lowlands are drier than uplands, he proposed that during the ice ages the Amazon lowlands became a near-desert arid plain; meanwhile, the more elevated regions became islands of moisture and hence served as refuges for the fauna and flora of the rain forest.
 
+image:/img/svg 390.svg[,100%]
+
+
 [.my1]
 .案例
 ====
-- 390. Observing that species found on high ground are different from those on low ground and knowing that in the Amazon lowlands are drier than uplands, he proposed that during the ice ages the Amazon lowlands became a near-desert arid 干旱的 plain; meanwhile, the more elevated regions became islands of moisture and hence served as refuges 避难所；庇护所 for the fauna 动物群 and flora 植物群 of the rain forest.
+- 390. #Observing (v.) that# `主` species 后定说明 found (v.) on high ground `系` *are different from* those on low ground /#and knowing (v.) that# /in the Amazon `主` *lowlands 低地 `系` are drier than* uplands, /he proposed (v.) that /during the ice ages `主` the Amazon lowlands `系` became _a near-desert 半沙漠区，似沙漠区 arid (a.)（土地或气候）干燥的，干旱的 plain_ （大）平原; /meanwhile, `主` the more elevated (a.)高出地面的 regions `系` became islands of moisture (潮气，水分)变成了湿润的孤岛 /and hence *served as* refuges 避难所；庇护所 for the fauna 动物群 and flora 植物群 of the rain forest.
+
+观察到高地物种与低地物种不同，并且了解到在亚马逊地区, "低地"比"高地"更干燥，他提出, 在冰河时期, 亚马逊低地变成了一片近乎沙漠的干旱平原；与此同时，地势较高的区域, 则变成了湿润的孤岛，因此充当了雨林动植物的避难所。
+
+.arid
+发音释义：['ærɪd] adj.干旱的；不毛的，[农] 荒芜的  +
+结构分析：arid = #ar（干的）+id（形容词后缀）→干旱的# 词源解释：ar←拉丁语arere（干的）←原始印欧词根as（燃烧、发光） #同源词：ash（灰烬）#，ardent（热情的） 衍生词：aridity（干旱、乏味）
 
 ====
 
