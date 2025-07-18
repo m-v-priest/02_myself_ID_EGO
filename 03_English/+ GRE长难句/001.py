@@ -1,67 +1,63 @@
-import re
-from pathlib import Path
+def transform_file(input_path, output_path):
+    # 读取原始文件内容
+    with open(input_path, 'r', encoding='utf-8') as file:
+        content = file.read().splitlines()
 
+    # 分割内容到两个主要部分
+    def find_section_index(header):
+        return next((i for i, line in enumerate(content) if line.strip() == header), -1)
 
-def extract_and_center_sentences(input_file):
-    # 读取文件内容
-    with open(input_file, 'r', encoding='utf-8') as f:
-        content = f.read()
+    idx_definition = find_section_index("== 释义")
+    idx_translation = find_section_index("== 带单词翻译的句子")
 
-    # 正则表达式匹配所有以"- (数字.)"开头的句子行
-    pattern = r'^-\s*\((\d+\.)\)\s+(.*?)$'
-    sentences = re.findall(pattern, content, re.MULTILINE)
+    if idx_definition == -1 or idx_translation == -1:
+        raise ValueError("未找到必需的标题部分")
 
-    # 去重处理
-    unique_sentences = {}
-    for num, text in sentences:
-        # 保留原始编号格式
-        if num not in unique_sentences:
-            unique_sentences[num] = text
+    # 解析原始句子
+    original_sentences = {}
+    for line in content[idx_definition + 1: idx_translation]:
+        if line.startswith("- (") and '.）' not in line:
+            parts = line.split('.', 1)
+            if len(parts) < 2:
+                continue
+            num_str = parts[0][3:]  # 移除"- ("
+            if ')' in num_str:
+                num = num_str.split(')')[0]
+                original_sentences[num] = line  # 保留完整行
 
-    # 重新组合句子
-    output_lines = []
-    for num, text in unique_sentences.items():
-        # 原始格式：- (001.) 句子内容
-        original_line = f"- ({num}) {text}"
+    # 解析带单词翻译的句子
+    translated_sentences = {}
+    for line in content[idx_translation + 1:]:
+        if line.startswith("- (") and '.）' not in line:
+            parts = line.split('.', 1)
+            if len(parts) < 2:
+                continue
+            num_str = parts[0][3:]
+            if ')' in num_str:
+                num = num_str.split(')')[0]
+                translated_sentences[num] = line  # 保留完整行
 
-        # 居中处理 - 80字符宽度
-        centered_line = center_text(original_line, 80)
-        output_lines.append(centered_line)
-
-    # 创建输出文件路径
-    output_file = input_file.parent / f"centered_{input_file.name}"
+    # 构建新内容
+    new_content = ["== 释义"]
+    for num in sorted(original_sentences.keys(), key=int):
+        new_content.append(original_sentences[num])
+        new_content.append("[.my1]")
+        new_content.append(".案例")
+        new_content.append("====")
+        new_content.append(translated_sentences.get(num, f"- ({num}.) 翻译缺失"))
+        new_content.append("该句的中文翻译")  # 占位符，实际使用时需要填入真实翻译
+        new_content.append("====")
+        new_content.append("")  # 空行分隔
 
     # 写入新文件
-    with open(output_file, 'w', encoding='utf-8') as f:
-        f.write("\n\n".join(output_lines))  # 句子间加空行分隔
-
-    return output_file, len(unique_sentences)
+    with open(output_path, 'w', encoding='utf-8') as file:
+        file.write("\n".join(new_content))
 
 
-def center_text(text, width):
-    """将文本居中放置在指定宽度内"""
-    # 计算左右空格数
-    padding_left = (width - len(text)) // 2
-    padding_right = width - len(text) - padding_left
-
-    # 创建居中文本
-    return " " * padding_left + text + " " * padding_right
-
-
+# 使用示例
 if __name__ == "__main__":
-    # 设置文件路径
-    input_path = Path.home() / "Desktop" / "001.txt"
+    input_file = "C:/Users/priest/Desktop/001.txt"
+    output_file = "C:/Users/priest/Desktop/002.txt"  # 新的输出文件名
 
-    # 检查文件是否存在
-    if not input_path.exists() or not input_path.is_file():
-        print(f"错误: 无法找到文件 {input_path}")
-        input("按Enter键退出...")
-        exit(1)
-
-    print(f"开始处理文件: {input_path}")
-    output_path, count = extract_and_center_sentences(input_path)
-
-    print(f"\n处理完成!")
-    print(f"提取并居中处理了 {count} 个独特的英文句子")
-    print(f"新文件已保存为: {output_path}")
-    input("按Enter键退出...")
+    transform_file(input_file, output_file)
+    print(f"文件转换完成，结果已保存至: {output_file}")
