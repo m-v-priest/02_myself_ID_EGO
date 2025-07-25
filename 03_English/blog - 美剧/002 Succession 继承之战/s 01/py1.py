@@ -1,34 +1,38 @@
-def convert_subtitles(input_path, output_path):
-    # 读取输入文件
-    with open(input_path, 'r', encoding='utf-8') as file:
-        lines = file.readlines()
+def convert_subtitle_format(input_file, output_file):
+    # 读取原始文件内容
+    with open(input_file, 'r', encoding='utf-8') as f:
+        lines = f.readlines()
 
-    # 处理每行内容
-    output_lines = []
+    # 准备输出内容
+    output_content = ['{\n']
+    pure_english = []
+
     for line in lines:
-        # 移除行尾换行符并分割中英文字幕
+        line = line.strip()
         if '\\N' in line:
-            chinese, english = line.strip().split('\\N', 1)
-        else:
-            # 对于不带\N的行，保留原样
-            chinese = line.strip()
-            english = ""
+            chinese, english = line.split('\\N', 1)
+            chinese = chinese.strip()
+            english = english.strip()
 
-        # 构建新的输出格式
-        output_lines.append(english)
-        output_lines.append("[.my2]")
-        output_lines.append(chinese)
-        output_lines.append("")  # 添加空行分隔每组字幕
+            # 添加到主输出内容
+            output_content.append(f"{english}\n\n[.my2]\n{chinese}\n\n")
+
+            # 添加到纯英文部分
+            pure_english.append(english)
+
+    # 添加纯英文部分，用"+"连接
+    output_content.append("\n'''\n\n== pure\n\n")
+    output_content.append(' +\n'.join(pure_english) + ' +\n')
+    output_content.append('}\n')
 
     # 写入输出文件
-    with open(output_path, 'w', encoding='utf-8') as file:
-        file.write("\n".join(output_lines))
+    with open(output_file, 'w', encoding='utf-8') as f:
+        f.writelines(output_content)
 
 
 # 使用示例
-if __name__ == "__main__":
-    input_file = "C:/Users/priest/Desktop/1.txt"
-    output_file = "C:/Users/priest/Desktop/2.txt"  # 新的输出文件名
+input_file = r'C:\Users\priest\Desktop\1.txt'
+output_file = r'C:\Users\priest\Desktop\converted_output.txt'
+convert_subtitle_format(input_file, output_file)
 
-    convert_subtitles(input_file, output_file)
-    print(f"文件转换完成，结果已保存至: {output_file}")
+print(f"转换完成，结果已保存到 {output_file}")
