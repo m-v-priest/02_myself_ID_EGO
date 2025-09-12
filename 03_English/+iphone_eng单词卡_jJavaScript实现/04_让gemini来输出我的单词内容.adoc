@@ -1,0 +1,33 @@
+将下面的单词, 按顺序, 给出该单词的音标, 牛津高阶双语学习词典中的释义和例句, 还有该单词在雅思考试中会考到的考点, 词根词缀记忆法.
+
+即, 用下面的格式, 来输出每个单词的内容:
+
+id号	该单词本身	音标	(词性)牛津高阶双语学习词典中的英文和中文释义和例句(每个释义要给2-3句例句), 还有该单词在雅思考试中会考到的释义和句子(给出雅思真题例句).	词根词缀
+
+即, 每个单词, 要输出5个部分, 每个部分之间用制表符分开.
+
+
+比如, mishap这个单词, 按顺序排列(id从1开始), 它的id值是16, 那么对这个单词,你要输出:
+
+16	mishap	/ˈmɪshæp/	※(n.) a small accident or piece of bad luck that does not have serious results 小事故；晦气 \r\n •a slight mishap小小的不幸 \r\n •a series of mishaps一连串的倒霉事	mis-,坏的，错的，不好的，hap,机会，运气，词源同happy.
+
+注意:
+(1)释义和例句中存在的换行符, 用 \r\n 表示
+(2)上面的mishap单词我只给出了一个释义, 如果单词有多个词性和多个释义, 也一并给出这多个释义. 每个释义之前要加一个※符号来表示. 比如: erode 单词, 如果有两个释义, 那就写成:
+
+※(v.)1.to gradually destroy the surface of sth through the action of wind, rain, etc.; to be gradually destroyed in this way 侵蚀；腐蚀；风化 \r\n
+•The cliff face has been steadily eroded by the sea. 峭壁表面逐渐被海水侵蚀。\r\n
+•The rocks have eroded away over time. 这些岩石随着时间的推移逐渐风化了。\r\n
+\r\n
+※(v.)2.to gradually destroy sth or make it weaker over a period of time; to be destroyed or made weaker in this way 逐渐毁坏；削弱；损害\r\n
+•Her confidence has been slowly eroded by repeated failures. 她的自信心因屡屡失败慢慢消磨掉了。\r\n
+•Mortgage payments have been eroded (= decreased in value) by inflation. 偿还的按揭贷款因通货膨胀而贬值。\r\n
+
+
+总之,对多个单词的总的格式输出就是:
+id号	单词1	音标	※(词性) 1.英文和中文释义一. \r\n 例句1 \r\n 例句2 \r\n ※(词性) 2.英文和中文释义二. \r\n 例句1 \r\n 例句2	该单词词根词缀记忆法
+id号	单词2	音标	※(词性) 1.英文和中文释义一. \r\n 例句1 \r\n 例句2 \r\n ※(词性) 2.英文和中文释义二. \r\n 例句1 \r\n 例句2	该单词词根词缀记忆法
+...
+
+
+现在, 就按上面的要求, 来按顺序处理下面的所有单词. 注意不要有遗漏

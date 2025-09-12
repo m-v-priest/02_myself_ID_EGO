@@ -9,7 +9,7 @@ import json
 import os
 
 # 定义Excel文件路径
-excel_path = r"C:\phpStorm_proj\02_myself_ID_EGO\03_English\+iphone_eng单词卡_jJavaScript实现\allword.xlsx"
+excel_path = r"allword.xlsx"
 
 # 读取Excel文件
 df = pd.read_excel(
