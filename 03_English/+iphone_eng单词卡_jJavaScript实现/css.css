@@ -1,0 +1,253 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/*页面背景图设置*/
+body {
+    /*color: #333;*/
+    min-height: 100vh;
+    /*padding: 20px;*/
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    /*transition: background-image 0.1s ease-in-out ;  !*背景图切换时的动画效果*!*/
+    position: relative;
+    background-color: rgb(0, 0, 0); /* 设置一个备用背景色 */
+}
+
+
+/* 背景覆盖层 */
+.bg-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgb(255, 255, 255); /*这是覆盖层的颜色, 默认为白色. 覆盖层会覆盖在你的背景图片上. js程序其实是通过调整这个覆盖层的颜色透明度, 来模拟它后后面的背景图片的透明度显示.*/
+    z-index: -1;
+    /*transition: opacity 0.05s ease;*/
+}
+
+
+/* 透明度控制面板 */
+.opacity-control {
+    /*position: fixed;*/
+    /*top: 20px;*/
+    /*right: 20px;*/
+    background: rgba(255, 255, 255, 0.9);
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    z-index: 100;
+    width: 80%;
+}
+
+.opacity-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.opacity-title {
+    font-weight: bold;
+    color: #2c3e50;
+}
+
+.opacity-value {
+    background: #6e8efb;
+    color: white;
+    padding: 2px 8px;
+    border-radius: 10px;
+    font-size: 14px;
+}
+
+.opacity-slider {
+    width: 100%;
+    height: 10px;
+    -webkit-appearance: none;
+    appearance: none;
+    background: linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,1));
+    outline: none;
+    border-radius: 5px;
+    margin: 10px 0;
+}
+
+.opacity-slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: #6e8efb;
+    cursor: pointer;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+.opacity-slider::-moz-range-thumb {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: #6e8efb;
+    cursor: pointer;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+.opacity-labels {
+    display: flex;
+    justify-content: space-between;
+    font-size: 12px;
+    color: #666;
+}
+
+
+
+
+/*.container {*/
+/*    background: rgba(255, 255, 255, 0.95);*/
+/*    border-radius: 20px;*/
+/*    padding: 30px;*/
+/*    width: 100%;*/
+/*    max-width: 600px;*/
+/*    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);*/
+/*    margin-top: 20px;*/
+/*}*/
+
+h1 {
+    text-align: center;
+    margin-bottom: 25px;
+    color: #2c3e50;
+    font-size: 28px;
+}
+
+/*.card {*/
+/*    !*background: white;*!*/
+/*    !*border-radius: 15px;*!*/
+/*    padding: 25px;*/
+/*    !*margin-bottom: 25px;*!*/
+/*    !*box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);*!*/
+/*    !*border-left: 5px solid #6e8efb;*!*/
+/*}*/
+
+/*每个键值对的样式, 包括分割线*/
+.card-item {
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #eee;
+}
+
+/*.card-item:last-child {*/
+/*    border-bottom: none;*/
+/*    margin-bottom: 0;*/
+/*    padding-bottom: 0;*/
+/*}*/
+
+
+/*key字段的样式, 即*/
+.label {
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.2);
+    margin-bottom: 5px;
+    font-size: 16px;
+}
+
+/*value的样式, 即单词具体内容的样式*/
+.content {
+    /*font-size: 18px;*/
+    /*line-height: 1.6;*/
+    /*color: #333;*/
+}
+
+/*按钮, 均分页面宽度*/
+.buttons {
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+    margin-top: 20px;
+}
+
+/*按钮*/
+.btn {
+    flex: 1;
+    /*background-color: #6e8efb;*/
+    /*color: white;*/
+    /*border: none;*/
+    padding: 24px;
+    /*border-radius: 10px;*/
+    font-size: 16px;
+    /*font-weight: 600;*/
+    /*cursor: pointer;*/
+    /*transition: all 0.3s;*/
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/*.btn:hover {*/
+/*    transform: translateY(-2px);*/
+/*    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);*/
+/*}*/
+
+/*.btn:active {*/
+/*    transform: translateY(0);*/
+/*}*/
+
+/*.btn-prev {*/
+/*    background-color: #5a7df9;*/
+/*}*/
+
+/*.btn-next {*/
+/*    background-color: #6e8efb;*/
+/*}*/
+
+/*.btn-random {*/
+/*    background-color: #a777e3;*/
+/*}*/
+
+/*.progress {*/
+/*    text-align: center;*/
+/*    margin-top: 20px;*/
+/*    color: #666;*/
+/*    font-size: 14px;*/
+/*}*/
+
+/*单词词头*/
+.word-header {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    color: #2c3e50;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #f0f4ff;
+}
+
+.definition {
+    white-space: pre-line;
+}
+
+
+/*词根词缀 的样式*/
+/*.etymology {*/
+/*    font-style: italic;*/
+/*}*/
+
+@media (max-width: 600px) {
+    .container {
+        padding: 20px;
+    }
+
+    .buttons {
+        flex-direction: column;
+    }
+
+    .btn {
+        width: 100%;
+    }
+}

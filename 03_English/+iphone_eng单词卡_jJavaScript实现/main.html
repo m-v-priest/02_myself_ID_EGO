@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="css.css" type="text/css" />
+
+</head>
+<body>
+
+<!-- 背景覆盖层 -->
+<div class="bg-overlay" id="bgOverlay"></div>
+
+<!-- 透明度控制面板 -->
+<div class="opacity-control">
+    <div class="opacity-header">
+        <div class="opacity-title">背景透明度</div>
+        <div class="opacity-value" id="opacityValue">50%</div>
+    </div>
+    <input type="range" min="0" max="100" value="50" class="opacity-slider" id="opacitySlider">
+    <div class="opacity-labels">
+        <span>0%</span>
+        <span>100%</span>
+    </div>
+</div>
+
+
+
+    <div class="container">
+        <div>my eng</div>
+
+        <div class="buttons">
+            <button class="btn btn-prev" id="prevBtn">上一页</button>
+            <button class="btn btn-random" id="randomBtn">随机单词</button>
+            <button class="btn btn-next" id="nextBtn">下一页</button>
+        </div>
+
+        <div class="card">
+            <div class="word-header" id="wordHeader">单词卡片</div>
+
+
+            <div class="card-item">
+                <div class="label">词头</div>
+                <div class="content" id="wordContent">-</div>
+            </div>
+
+            <div class="card-item">
+                <div class="label">释义和例句</div>
+                <div class="content definition" id="definitionContent">-</div>
+            </div>
+
+            <div class="card-item">
+                <div class="label">词根词缀</div>
+                <div class="content etymology" id="etymologyContent">-</div>
+            </div>
+
+
+            <div class="card-item">
+                <div class="label">ID</div>
+                <div class="content" id="idContent">-</div>
+            </div>
+        </div>
+
+
+
+        <div class="progress" id="progress">0 / 0</div>
+    </div>
+
+
+    <!-- 将脚本放在body底部，确保DOM加载完成 -->
+    <script src="js.js"></script>
+</body>
+</html>
