@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 588 720" xmlns:xlink="http://www.w3.org/1999/xlink" height="720" width="588">
+    <defs/>
+    <g transform="translate(-216.00,-131.00)">
+        <g id="shape1" transform="translate(217.00,132.00)">
+            <path d="M.0,.0L137.0,.0L137.0,43.0L.0,43.0L.0,.0z" fill="#ffffff" fill-rule="nonzero" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="36.0" y="27.0">雅思单词表</tspan>
+            </text>
+        </g>
+        <g id="shape2" transform="translate(397.00,132.00)">
+            <path d="M.0,.0L208.0,.0L208.0,208.0L.0,208.0L.0,.0z" fill="#ffffff" fill-rule="nonzero" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="78.0" y="109.5">牛津词典</tspan>
+            </text>
+        </g>
+        <g id="shape3" transform="translate(217.00,392.00)">
+            <path d="M.0,.0L137.0,.0L137.0,137.0L.0,137.0L.0,.0z" fill="#ffffff" fill-rule="nonzero" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="55.5" y="64.5">牛津</tspan>
+                <tspan x="42.5" y="83.5">雅思子集</tspan>
+            </text>
+        </g>
+        <g id="shape4" transform="translate(286.00,175.00)">
+            <path d="M.0,.0L.0,61.8L105.0,61.8" fill="none" stroke="#191919"/>
+            <path stroke-linecap="round" d="M105.0,58.8L111.0,61.8L105.0,64.8L105.0,58.8" stroke-width="1" fill="#191919" stroke="#191919"/>
+        </g>
+        <g id="shape5" transform="translate(397.00,269.90)">
+            <path d="M.0,.0L-111.0,.0L-111.0,116.1" fill="none" stroke="#191919"/>
+            <path stroke-linecap="round" d="M-108.0,116.1L-111.0,122.1L-114.0,116.1L-108.0,116.1" stroke-width="1" fill="#191919" stroke="#191919"/>
+            <rect x="-150.5" y="28.9" fill="#ffffff" height="19.0" width="81.0"/>
+            <rect x="-168.5" y="47.9" fill="#ffffff" height="19.0" width="117.0"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="-150.5" y="43.9">从牛津词典中,</tspan>
+                <tspan x="-168.5" y="62.9">提取出雅思子集词典</tspan>
+            </text>
+        </g>
+        <g id="shape6" transform="translate(217.00,611.50)">
+            <path d="M.0,.0L137.0,.0L137.0,137.0L.0,137.0L.0,.0z" fill="#cbe3f8" fill-rule="nonzero" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="49.0" y="45.5">纯净版</tspan>
+                <tspan x="29.5" y="64.5">牛津雅思子集</tspan>
+                <tspan x="31.0" y="83.5">按JavaScript</tspan>
+                <tspan x="30.0" y="102.5">的数组格式.js</tspan>
+            </text>
+        </g>
+        <g id="shape7" transform="translate(286.00,529.00)">
+            <path d="M.0,.0L.0,76.5" fill="none" stroke="#191919"/>
+            <path stroke-linecap="round" d="M3.0,76.5L.0,82.5L-3.0,76.5L3.0,76.5" stroke-width="1" fill="#191919" stroke="#191919"/>
+            <rect x="-54.5" y="32.3" fill="#ffffff" height="19.0" width="111.0"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="-54.5" y="47.3">取出标签, 提纯内容</tspan>
+            </text>
+        </g>
+        <g id="shape8" transform="translate(441.50,611.50)">
+            <path d="M.0,.0L137.0,.0L137.0,137.0L.0,137.0L.0,.0z" fill="#fedad0" fill-rule="nonzero" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="41.5" y="74.0">html首页</tspan>
+            </text>
+        </g>
+        <g id="shape9" transform="translate(354.00,680.50)">
+            <path d="M.0,.0L81.5,.0" fill="none" stroke="#191919"/>
+            <path stroke-linecap="round" d="M81.5,-3.0L87.5,.0L81.5,3.0L81.5,-3.0" stroke-width="1" fill="#191919" stroke="#191919"/>
+            <rect x="20.8" y="-9.5" fill="#ffffff" height="19.0" width="39.0"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="20.8" y="5.5">外链进</tspan>
+            </text>
+        </g>
+        <g id="shape10" transform="translate(666.00,599.25)">
+            <path d="M.0,.0L137.0,.0L137.0,49.5L.0,49.5L.0,.0z" fill="#cbe3f8" fill-rule="nonzero" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="36.0" y="21.0">背景图地址</tspan>
+                <tspan x="18.5" y="40.0">JavaScript数组.js</tspan>
+            </text>
+        </g>
+        <g id="shape11" transform="translate(666.00,624.18)">
+            <path d="M.0,.0L-55.5,.0L-55.5,.1L-81.5,.1" fill="none" stroke="#191919"/>
+            <path stroke-linecap="round" d="M-81.5,3.1L-87.5,.1L-81.5,-2.9L-81.5,3.1" stroke-width="1" fill="#191919" stroke="#191919"/>
+            <rect x="-58.1" y="-9.5" fill="#ffffff" height="19.0" width="39.0"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="-58.1" y="5.5">外链进</tspan>
+            </text>
+        </g>
+        <g id="shape12" transform="translate(666.00,800.50)">
+            <path d="M.0,.0L137.0,.0L137.0,49.5L.0,49.5L.0,.0z" fill="#ffffff" fill-rule="nonzero" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="59.0" y="30.5">css</tspan>
+            </text>
+        </g>
+        <g id="shape13" transform="translate(666.00,674.25)">
+            <path d="M.0,.0L137.0,.0L137.0,49.5L.0,49.5L.0,.0z" fill="#cbe3f8" fill-rule="nonzero" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="37.5" y="20.8">JavaScript</tspan>
+                <tspan x="43.0" y="39.8">主程序.js</tspan>
+            </text>
+        </g>
+        <g id="shape14" transform="translate(666.00,699.18)">
+            <path d="M.0,.0L-81.5,-0.0" fill="none" stroke="#191919"/>
+            <path stroke-linecap="round" d="M-81.5,3.0L-87.5,-0.0L-81.5,-3.0L-81.5,3.0" stroke-width="1" fill="#191919" stroke="#191919"/>
+            <rect x="-56.2" y="-9.5" fill="#ffffff" height="19.0" width="39.0"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="-56.2" y="5.5">外链进</tspan>
+            </text>
+        </g>
+        <g id="shape15" transform="translate(666.00,825.43)">
+            <path d="M.0,.0L-108.7,.0L-108.7,-70.9" fill="none" stroke="#191919"/>
+            <path stroke-linecap="round" d="M-111.7,-70.9L-108.7,-76.9L-105.7,-70.9L-111.7,-70.9" stroke-width="1" fill="#191919" stroke="#191919"/>
+            <rect x="-77.2" y="-9.5" fill="#ffffff" height="19.0" width="39.0"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="-77.2" y="5.5">外链进</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

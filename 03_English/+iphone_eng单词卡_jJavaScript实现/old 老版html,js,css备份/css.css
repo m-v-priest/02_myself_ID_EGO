@@ -1,0 +1,289 @@
+/* 在 CSS 开头添加 */
+:root {
+    --bg-image: none;
+    --bg-size: cover;
+    --bg-scale: 1; /* 新增变量，默认值为 1 */
+}
+
+/* ... 保持 body::before 现有样式不变 ... */
+/* 添加固定背景的伪元素 */
+body::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -2;
+    background-image: var(--bg-image); /* 使用JS设置的背景图变量 */
+    background-size: var(--bg-size); /* 修改为使用变量 */
+    -webkit-background-size: var(--bg-size); /* iOS 兼容 */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    -webkit-background-attachment: fixed;
+    transition: background-image 0.1s ease-in-out, transform 0.3s ease-in-out;
+    transform: scale(var(--bg-scale));
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* 解决 iOS Safari 背景图问题 */
+html, body {
+    height: 100%;
+    width: 100%;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+/*页面背景图设置*/
+body {
+    background-color: #000000; /* 新增：将背景色设置为黑色 */
+    color: #ffffff;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
+
+
+/* 背景覆盖层 */
+.bg-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    z-index: -1;
+}
+
+
+/* 透明度控制面板 */
+.opacity-control {
+    background: rgba(255, 255, 255, 0.9);
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    z-index: 100;
+    width: 90%;
+    max-width: 80%;
+    margin: 0 auto 15px;
+}
+
+.opacity-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.opacity-title {
+    font-weight: bold;
+    color: #2c3e50;
+}
+
+.opacity-value {
+    background: #6e8efb;
+    color: white;
+    padding: 2px 8px;
+    border-radius: 10px;
+    font-size: 14px;
+}
+
+.opacity-slider {
+    width: 100%;
+    height: 10px;
+    -webkit-appearance: none;
+    appearance: none;
+    background: linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,1));
+    outline: none;
+    border-radius: 5px;
+    margin: 10px 0;
+}
+
+
+.opacity-slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: #6e8efb;
+    cursor: pointer;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+.opacity-slider::-moz-range-thumb {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: #6e8efb;
+    cursor: pointer;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+.opacity-labels {
+    display: flex;
+    justify-content: space-between;
+    font-size: 12px;
+    color: #666;
+}
+
+/* 容器样式 */
+.container {
+    width: 90%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    position: relative;
+    z-index: 1;
+}
+
+/* 应用标题 */
+.app-title {
+    text-align: center;
+    margin-bottom: 25px;
+    color: #ffffff;
+    font-size: 28px;
+    font-weight: bold;
+    text-shadow: 0 2px 4px rgba(0,0,0,0.5);
+}
+
+/*每个键值对的样式, 包括分割线*/
+.card-item {
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+/*key字段的样式, 即*/
+.label {
+    font-weight: bold;
+    color: rgba(255, 255, 255, 0.7);
+    margin-bottom: 5px;
+    font-size: 16px;
+}
+
+/*内容样式*/
+.content {
+    color: #ffffff;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+/*按钮, 均分页面宽度*/
+.buttons {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px; /* 减小间隙 */
+    /*margin-top: 20px;*/
+}
+
+/*按钮*/
+.btn {
+    flex: 1;
+    /*padding: 12px; !* 减小内边距 *!*/
+    font-size: 16px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: none;
+    border-radius: 8px;
+    background: rgba(110, 142, 251, 0.5);
+    color: white;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    min-width: 80px; /* 设置最小宽度 */
+}
+
+.btn:hover {
+    background: #5a7df4;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.btn:active {
+    transform: translateY(0);
+}
+
+/* 底部按钮组样式 */
+.bottom-buttons {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+/*单词词头*/
+.word-header {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    color: #ffffff;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid rgba(240, 244, 255, 0.5);
+}
+
+.definition {
+    white-space: pre-line;
+}
+
+/* 进度条样式 */
+.progress {
+    text-align: center;
+    margin-top: 15px;
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 16px;
+}
+
+/* 媒体查询调整 */
+@media (max-width: 600px) {
+    .container {
+        padding: 15px;
+        width: 95%;
+    }
+
+    /* 修改所有按钮组在移动设备上的布局为水平排列 */
+    .buttons {
+        flex-direction: row; /* 修改：从 column 变为 row */
+        flex-wrap: nowrap; /* 确保不换行 */
+        gap: 8px;
+        padding-bottom: 5px;
+        justify-content: space-between; /* 新增：让按钮之间有间距 */
+    }
+
+    /* 按钮的默认样式 */
+    .btn {
+        flex: 1; /* 让按钮平分可用空间 */
+        padding: 10px;
+        font-size: 14px;
+        min-width: unset;
+        width: unset; /* 修改：取消固定宽度，使用 flex 属性 */
+        white-space: nowrap;
+    }
+
+    /* 移动设备上的额外调整 */
+    .opacity-control {
+        width: 95%;
+        padding: 10px;
+    }
+
+    .word-header {
+        margin-top: 15px;
+        font-size: 20px;
+    }
+
+    .app-title {
+        font-size: 24px;
+    }
+
+    .content {
+        font-size: 16px;
+    }
+}
