@@ -1,0 +1,123 @@
+
+
+
+
+这几个单词的区别是什么? 
+
+
+
+按下面的 asciidoc 格式来输出, 例如, 分析 germ, bacteria, microbe 三个单词的区别时:
+
+
+
+
+
+[.small]
+
+[options="autowidth" cols="1a,1a"]
+
+|===
+
+|Header 1 |Header 2
+
+
+
+|Germ (病菌/细菌)
+
+|Germ 是一个比较口语化和通俗的词，常用来泛指任何能引起疾病的微生物，例如细菌、病毒或真菌。这个词的重点在于“致病性”或“导致感染”。
+
+
+
+口语化： 这个词在日常生活中非常常见。
+
+
+
+广义： 它不特指某一种特定的微生物，而是指所有可能使人生病的“病菌”。
+
+
+
+用法示例： +
+
+** Wash your hands to get rid of germs. (洗手以去除病菌。) +
+
+** The hospital room was disinfected to kill any remaining germs. (医院病房被消毒以杀死任何残留的病菌。) +
+
+
+
+|Bacteria (细菌)
+
+|Bacteria 是一个科学上更精确的词，特指一类单细胞微生物。它是一个中性词，不一定带有“致病”的含义。大多数细菌对人类无害，甚至是有益的 (例如肠道里的益生菌)。
+
+
+
+科学性： 这是一个生物学上的术语，指代特定的生物类别。
+
+
+
+特指性： 专指细菌这个门类，不包括病毒或真菌。
+
+
+
+中性： 既可以指有害的，也可以指有益的细菌。
+
+
+
+用法示例：
+
+** Yogurt contains beneficial bacteria that aid digestion. (酸奶含有有益的细菌，有助于消化。)
+
+** Antibiotics are used to treat infections caused by bacteria. (抗生素用于治疗由细菌引起的感染。)
+
+
+
+|Microbe (微生物)
+
+|Microbe 是一个最广泛、最专业的术语，通常在科学语境中使用。它泛指所有肉眼看不见的微小生物体，包括细菌、病毒、真菌、藻类和原生动物等。
+
+
+
+专业性： 这是一个科学和学术上最准确的术语。
+
+
+
+最广义： 涵盖范围最广，包括了所有微生物类别。
+
+
+
+用法示例： +
+
+** Scientists are studying the role of soil microbes in plant growth. (科学家正在研究土壤微生物在植物生长中的作用。) +
+
+** The ocean is home to a vast diversity of microbes. (海洋是各种微生物的家园。) +
+
+|===
+
+
+
+
+
+总结
+
+[cols="1,1,1,1",options="header"]
+
+|===
+
+| 词语 | 含义和侧重点 | 用法语境 | 范围
+
+| Germ | 泛指致病的“病菌” | 日常口语，非正式 | 窄 (侧重致病性)
+
+| Bacteria | 特指“细菌”这一生物类别 | 科学、医学，正式或非正式 | 中 (仅指细菌)
+
+| Microbe | 泛指所有“微生物” | 科学、学术，最正式 | 最广
+
+|===
+
+
+
+简单来说，你可以把它们想象成一个从宽泛到精确的层次： +
+
+你得了病，是因为感染了 germs (病菌)。 +
+
+医生告诉你，这是由一种特定的 bacteria (细菌) 引起的。 +
+
+而这两种生物都属于 microbes (微生物) 这个大家族。 +
