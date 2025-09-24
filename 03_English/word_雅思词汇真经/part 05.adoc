@@ -769,6 +769,608 @@ image:img/Ratio.jpg[,30%]
 * 我们可以把它们理解为：**paper** 是一个**短篇报告**，而 **thesis** 和 **dissertation** 则是**长篇巨著**。
 
 
+'''
+
+==== point, gist
+
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|Point
+|**Point** (要点，观点) 是一个非常**通用**的词，在“表达要点”的语境下，##它通常指**论述或讨论中的一个具体、独立的论点、想法或主要目的**。##这个词强调的是**精确性**，即说话者或作者想要表达的某个**特定想法**。
+
+**具体性：** 强调**一个特定、独立的论点或目的**。
+
+**侧重点：** 说话者希望传达的**意图**或**主题**。
+
+**用法示例：** +
+* **The main point** of the article is that /technology is changing rapidly. (这篇文章的要点是, 技术正在快速变化。) +
+* **What's your point**? (你的意思是/重点是什么？) +
+* I think I missed **the point of the joke**. (我想我没有领会这个笑话的要旨。)
+
+|Gist
+|**Gist** (要旨，大意) 是一个##强调**总结和精髓**##的词，指的是**一篇冗长文章、演讲或讨论的核心、精髓或本质**。#它通常用于提炼复杂或细节繁多的信息，强调的是**整体的、概括性的理解**，而非具体的某一个点。#
+
+**概括性：** 强调**整体的核心内容、本质**。
+
+**侧重点：** #复杂或冗长信息**提炼后的精髓**。#
+
+**用法示例：** +
+* Can you just give me the **gist** of the presentation? I don't have time to read the whole thing. (你能否只告诉我这个演示的大意/精髓？我没有时间看全文。) +
+* Even though I don't speak the language well, I got the **gist** of the conversation. (尽管我不太会说这种语言，但我理解了谈话的大意。)
+|===
+
+总结
+
+[cols="1,1,1,1",options="header"]
+|===
+| 词语 | 含义和侧重点 | 范围 | 核心概念
+| Point | 一个具体的论点或意图 | 狭窄、具体 | 意图，单个论点
+| Gist | 整体的核心、精髓 | 广泛、概括 | 提炼后的本质
+|===
+
+简单来说，这两个词的区别在于**数量和深度**： +
+* 一次讨论可以包含多个 **points** (论点)。 +
+* 但这些 **points** 共同指向一个 **gist** (核心大意)。
+* **Point** 是组成**Gist** 的基本单位，而 **Gist** 是将所有 **Points** 提炼后的结果。
+
+'''
+
+==== cite, quote
+
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|Cite
+|**Cite** (引用，引证) ##是一个更**正式、更学术**的词，指的是**在你的文本中指出或提及某个信息或观点来自何处**，即提供**来源信息**。##它的目的是为了**证明、支持你的论点，并给予原创作者应有的认可** (避免剽窃)。#*Cite* 不一定要求你复制原作者的文字，它更侧重于**出处**。#
+
+**目的：** 证明论点、提供来源、避免剽窃。
+
+**行为：** 提及出处，如作者姓名、出版年份等。
+
+**用法示例：** +
+* You must properly **cite** (v.) all external sources in your essay. (你必须在论文中恰当地引用所有外部来源。) +
+* The report **cites** (v.) several government studies /to support (v.) its findings. (该报告引用了几份政府研究来支持其发现。)
+
+|Quote
+|##**Quote** (引述，引文) 指的是**直接重复或复制某人说过或写过的原话**。这个词强调的是**文字的精确复制**，通常需要用引号将其与你的文本区分开来。##在学术写作中，**引述 (quote)** 之后通常需要**引用 (cite)** 来源。
+
+**目的：** 精确呈现原作者的表达。
+
+**行为：** 复制原作者的文字（通常用引号）。
+
+**用法示例：** +
+* She decided to **quote** the first sentence of the famous speech exactly. (她决定精确地引述那篇著名演讲的第一句话。) +
+* He used a famous **quote** from Shakespeare to open his talk. (他用一句莎士比亚的名言作为开场白。)
+|===
+
+总结
+
+[cols="1,1,1,1",options="header"]
+|===
+| 词语 | 含义和侧重点 | 行为 | 核心概念
+| Cite | 提供信息来源的出处 | 提及来源（作者、年份） | 溯源和认可
+| Quote | 直接复制原作者的原话 | 复制文字（加引号） | 精确性
+|===
+
+简单来说，这两个词的关系是： +
+* **Quote** (引述) 是指**你放进去的内容** (原话)。 +
+* **Cite** (引用) 是指**你提供的信息** (来源)。
+* 在学术写作中，你通常会 **quote** (引述) 一段文字，然后 **cite** (引用) 它的来源。
+
+'''
+
+==== extract, abstract, summary
+
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|Extract
+|#**Extract** (摘录，节选) 指的是**从原始文本中直接选取或复制的一段文字**。它强调的是**内容的准确性和原始性**，通常是短小的、直接引用的片段。#*Extract* 并不需要概括整个文档，它只是原文本的一部分。
+
+**目的：** 强调**原始内容**的精准复制或选取。
+
+**行为：** 选取文本的**片段**。
+
+**用法示例：** +
+* The book review included _a brief extract_ from the novel's final chapter. (书评中包括了小说最后一章的简短摘录。) +
+* She used _an extract_ from the contract /to highlight (v.) the penalty clause. (她引用了合同中的一段摘录来强调罚款条款。)
+
+|Abstract
+|**#Abstract#** (摘要，提要) 是一个**正式、学术性**的词，#特指**研究论文、学位论文或报告开头部分的简短概括**。它的核心目的是**简洁地描述研究的目的、方法、结果和结论**。#*Abstract* 必须是**原创**的、**独立**于主要文本的总结。
+
+image:img/Abstract.jpg[,15%]
+
+
+**目的：** 简洁描述学术研究的**目的、方法、结果和结论**。
+
+**语境：** 严格用于**学术、科学研究**或正式报告。
+
+**用法示例：** +
+* The professor asked the students **to read the abstract** /before diving into the full research paper. (教授要求学生在深入阅读完整的研究论文之前，先阅读摘要。) +
+* The journal submission 提交，呈递；提交的文件，呈递材料 `谓` requires (v.) _a structured abstract_ of no more than 250 words. (期刊投稿要求提供一个结构化的摘要，字数不得超过250字。)
+
+|Summary
+|**Summary** (总结，概要) #是一个**最通用**的词，指的是**对整个文本或事件的要点进行概括**。它强调的是**内容的简化和提炼**，通常会使用**自己的语言**重新组织信息，目的是让读者快速了解主要内容。#*Summary* 可以用于任何非正式或正式的语境。
+
+image:img/Summary.jpg[,15%]
+
+
+**目的：** 对主要内容进行**简化和提炼**，帮助理解。
+
+**语境：** 广泛，可用于会议记录、书籍、电影、文章等。
+
+**用法示例：** +
+* The news anchor <美>新闻节目主持人 *gave _a quick summary_ of* the day's events. (新闻主播快速总结了当天发生的事件。) +
+* At the end of the chapter, there is a **summary** of the key concepts. (在这一章的末尾，有一个关键概念的总结。)
+|===
+
+总结
+
+[cols="1,1,1,1",options="header"]
+|===
+| 词语 | 含义和侧重点 | 内容来源 | 核心概念
+| Extract | 原始文本的直接选取片段 | 原文直接复制 | 片段的精确性
+| Abstract | 学术研究的目的、方法、结果和结论的简短概括 | 原创、独立于正文 | 学术研究的精炼
+| Summary | 整个文本的要点概括 | 使用自己的语言提炼 | 信息的简化
+|===
+
+简单来说，你可以用一个写作方式来区分这三个词： +
+* **Extract** 是**剪切并粘贴**（强调原话）。 +
+* **Abstract** 是**高度结构化、学术性的总结**（强调研究细节）。 +
+* **Summary** 是**用自己的话重写并简化**（强调主要观点）。
+
+
+'''
+
+
+==== assume, presume, suppose, hypothesis, postulate
+
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|Assume (v.)
+|**Assume** (假定，假设) #指**在没有确凿证据的情况下，为了讨论、计算或作为行动的出发点而接受某事为真**。它是一个**中性**的词，可以指没有根据的猜测，也可以指在特定背景下为了推进工作而做出的必要前提。#
+
+**证据：** 缺乏确凿证据。
+
+#**侧重点：** 为了**讨论或行动**而暂时接受。#
+
+image:img/Assume.jpg[,15%]
+
+
+**用法示例：** +
+* Let's **assume** (v.) the train is running on time /and plan (v.) accordingly. (我们先假设火车准点，然后相应地制定计划。) +
+* Do not **assume** (v.) that /_everyone agrees with you_ without asking. (不要在没有询问的情况下, 就假定每个人都同意你。)
+
+|Presume (v.)
+|#**Presume** (推测，推定) 指**基于可能性、合理性或过去的经验, 而接受某事为真**。它比 *assume* 带有**更多的证据或更强的合理性**，通常暗示着一种“有理由相信”的推理。在法律上，它表示在证明相反情况之前，接受某事为真。#
+
+**证据：** 基于可能性、合理性或以往经验。
+
+#**侧重点：** 基于**理性推断**的相信。#
+
+**用法示例：** +
+* We **presume** (v.) innocence (n.)清白，无罪 /until proven (v.)证实，证明；证明是，结果是 guilty. (在被证明有罪之前，我们推定无罪。) +
+* Since he usually arrives (v.) early, I **presume** (v.) he is already here. (由于他通常早到，我推测他已经到了。)
+
+|Suppose (v.)
+|#**Suppose** (猜想，设想) 是一个**最口语化**的词，通常指**凭感觉或非正式的推测**。它的意思与 *assume* 非常接近，但在日常对话中更常见，常用于**提出一个想法或可能性**，且不带有强烈的证据或逻辑支撑。#
+
+**证据：** 凭感觉、非正式的推测。
+
+**侧重点：** 用于**日常对话**中提出观点或可能性。
+
+**用法示例：** +
+* I **suppose** we could go to the beach tomorrow, but the weather might be bad. (我想/猜我们明天可以去海滩，但天气可能会很糟。) +
+* **Suppose** you won the lottery, what would you do? (假设你中了彩票，你会做什么？)
+
+|Hypothesis (n.)
+|#**Hypothesis** (假设) 是一个**正式、科学**的词，特指**为解释某个现象而提出的、可以被检验的初步理论**。它强调的是**科学的可证伪性**，是一个科学研究或实验的起点，需要通过进一步的观察和实验来验证或推翻。#
+
+#**证据：** 缺乏，是一个待验证的解释。#
+
+#**侧重点：** **科学研究**的起点，需要被检验。#
+
+image:img/Hypothesis.png[,30%]
+
+
+**用法示例：** +
+* The scientist developed a **hypothesis** about the effect of the new drug. (这位科学家提出了关于新药疗效的假设。) +
+* The experiment was designed to test (v.) **the null hypothesis**. (这个实验旨在检验零假设。)
+
+|Postulate (v. n.)
+|#**Postulate** (公设，基本假设) 是一个**最正式、最理论**的词，特指**在某一理论体系中被接受为真理、不需要或不能被证明的基本前提**。它通常是构建一个理论或逻辑系统的**基石**。#
+
+**证据：** 不需要证明，是公认的基本前提。
+
+**侧重点：** **理论或逻辑系统**的**基石**或**基本原则**。
+
+
+image:img/Postulate.jpg[,50%]
+
+
+**用法示例：** +
+* Euclid's five **postulates** (n.) `谓` form (v.) the basis of geometry. (欧几里得的五条公设, 构成了几何学的基础。) +
+* We must **postulate** (v.) the existence of dark matter /to explain the galaxy's rotation. (我们必须假定暗物质的存在, 来解释星系的旋转。)
+|===
+
+总结
+
+[cols="1,1,1,1",options="header"]
+|===
+| 词语 | 含义和侧重点 | 性质 | 证据基础
+| Assume | #缺乏证据，为了行动或讨论暂时接受# | 中性 | 无确凿证据
+| Presume | #基于可能性或经验的合理推断# | 较正式 | 有合理理由相信
+| Suppose | 日常、非正式的猜想 | 口语化 | 凭感觉或设想
+| Hypothesis | #科学上可检验的初步理论# | 学术、科学 | 待验证的解释
+| Postulate | #理论体系中无需证明的基本前提# | 最正式、理论 | 基本公理
+|===
+
+简单来说，你可以根据**正式程度和证据基础**来区分这五个词： +
+* **Suppose** 和 **Assume** 是日常用语，指**缺乏证据的猜测**。 +
+* **Presume** 带有**合理的推断或经验**。 +
+* **Hypothesis** 是**科学界**的“**待验证的猜想**”。 +
+* **Postulate** 是**理论界**的“**无需证明的真理**”。 +
+
+
+'''
+
+==== speculate, predict
+
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|Speculate
+|**Speculate** (推测，猜测) 指**##在证据不充分或信息不完全的情况下，##进行思考或形成观点**。#这个词强调的是**理论性、猜测性**，通常不涉及严密的科学方法或数据分析，更多是基于直觉、有限信息或可能性进行的**主观推测**。#
+
+**基础：** 证据不充分或信息不完全。
+
+**侧重点：#** 强调**主观思考和可能性**，常用于金融、哲学或非正式讨论。#
+
+**用法示例：** +
+* Investors are **speculating about** /which company will acquire the technology firm. (投资者们正在猜测, 哪家公司将收购这家科技公司。) +
+* It's interesting **to speculate about** /what life might be like on other planets. (推测其他星球上的生命会是什么样子, 很有意思。) +
+* The detective refused to **speculate** on the motive /until more facts were gathered. (侦探拒绝在收集到更多事实之前推测作案动机。)
+
+|Predict
+|**Predict** (预测，预言) ##指**基于已知的事实、数据、科学规律或逻辑推理，##对未来事件做出声明**。这个词##强调的是**确定性和证据支持**，通常涉及严密的分析、模型或专业知识，旨在做出一个**有根据的判断**。##
+
+**基础：** 已知事实、数据、科学模型或逻辑推理。
+
+**侧重点：** 强调**基于证据的判断**，#常用于科学、天气、经济或数据分析。#
+
+**用法示例：** +
+* Meteorologists **predict** heavy rainfall for tomorrow afternoon. (气象学家预测明天下午有大雨。) +
+* Economists **predict** that /inflation will rise next quarter. (经济学家预测下个季度通货膨胀将会上升。) +
+* Based on current trends, the software can **predict** the user's next action with high accuracy. (根据目前的趋势，该软件可以高精度地预测用户的下一个动作。)
+|===
+
+总结
+
+[cols="1,1,1,1",options="header"]
+|===
+| 词语 | 含义和侧重点 | 证据基础 | 核心概念
+| Speculate | 在证据不足时进行主观猜测 | 薄弱或缺失 | 理论性、可能性
+| Predict | 基于数据、模型或规律做出判断 | 充分、科学 | 确定性、证据支持
+|===
+
+简单来说，这两个词的区别在于**底气**： +
+* **Speculate** 更多是一种**“我想可能会怎样”的猜想**，缺乏强有力的证据。 +
+* **Predict** 则是一种**“根据我的数据和模型，将会怎样”的判断**，具有较高的可信度。
+* 一个经济学家可以 **speculate** (推测) 股票市场会崩溃，但他会 **predict** (预测) 明年的 GDP 增长。
+
+
+'''
+
+==== perceive, detect, discern
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|Perceive
+|**Perceive** (察觉，感知) 是一个最**主观、最广泛**的词，指的是**通过感官或心智来意识到或理解某事物**。这个词强调的是**意识、主观认知和解释**。它不仅包括感知到物理现象，还包括对情感、态度或抽象概念的理解和判断。
+
+**方式：** 感官（视觉、听觉等）或心智（理解、认知）。
+
+**侧重点：** **主观的意识、理解和解释**。
+
+**用法示例：** +
+* How do you **perceive** your company's new policy? (你如何看待/理解你公司的新政策？) +
+* We **perceived** a change in his tone, which suggested he was unhappy. (我们察觉到他语气的变化，这表明他不开心。) +
+* Humans **perceive** color differently than some animals. (人类感知颜色的方式与一些动物不同。)
+
+|Detect
+|**Detect** (察觉，发现) 指的是##**客观地识别出某事物存在，尤其是那些微弱、隐藏或难以发现的事物**。##这个词强调的是**发现的行动和客观的存在**，#通常涉及技术工具、科学方法或敏锐的感官。它只关注“是否存在”这一事实，不涉及主观理解。#
+
+image:img/Detect.jpg[,15%]
+
+
+#**方式：** 科学仪器、精密的感官或系统性观察。#
+
+**侧重点：** **客观地发现或识别出存在**。
+
+**用法示例：** +
+* The security system is designed /to **detect** _movement_ and _unauthorized entry_. (这个安全系统, 被设计用来侦测移动和未经授权的进入。) +
+* Doctors can now **detect** certain diseases /at a very early stage. (医生现在可以在非常早期的阶段, 发现某些疾病。) +
+* The chemical sensor can **detect** _trace (n.)微量；少许 amounts 微量 of_ gas. (这个化学传感器, 可以检测到微量的气体。)
+
+|Discern
+|**Discern** (辨别，洞察) 指的是##**通过深入的思考和洞察力, 来识别出事物之间的细微差别或潜在的真相**。##这个词强调的是**认知过程中的难度和精妙**，##涉及**判断力、智慧**，##通常用于辨别微妙的模式、意图或质量。
+
+**方式：** 智慧、洞察力、仔细观察后的推理。
+
+**侧重点：** **辨别细微的差异, 或发现隐藏的真相**。
+
+image:img/Discern.jpg[,15%]
+
+
+**用法示例：** +
+* It was difficult /*to discern the truth from the lies* in his story. (很难在他的故事中辨别出真相与谎言。) +
+* She has a keen eye /for **discerning** (v.) quality fabrics *from* cheap imitations. (她有一双慧眼，能辨别出优质面料和廉价仿制品。) +
+* A good critic can **discern** (v.) _the subtle influence_ of other artists in the painting. (一个好的评论家能够辨识出画作中其他艺术家的微妙影响。)
+|===
+
+总结
+
+[cols="1,1,1,1",options="header"]
+|===
+| 词语 | 含义和侧重点 | 过程 | 核心概念
+| Perceive | 通过感官或心智感知并主观理解 | 主观认知 | 意识到/如何看待
+| Detect | 客观地发现微弱或隐藏的存在 | 客观发现 | 找到存在的事实
+| Discern | 运用洞察力辨别细微差别或真相 | 精妙判断 | 识别微妙差异
+|===
+
+简单来说，你可以用一个过程来理解它们： +
+* 首先，你的**感官** **detect** (发现) 了屋子里的**烟味**。 +
+* 然后，你**perceive** (察觉) 到这可能**预示着危险**。 +
+* 最后，你**discern** (辨别) 出这种烟味是**木头燃烧**的味道，而不是塑料燃烧的味道，从而判断出火灾的性质。 +
+
+'''
+
+==== infer, deduce, conclude
+
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|Infer
+|Infer (推断，推知) ##指**从给定的证据、事实或迹象中，得出非直接陈述的结论**。#这种推理通常涉及**归纳法**，即从特定观察中得出**一般性结论**，###或者从事实中, 得出合理的可能性。它强调的是**基于间接信息的主观判断过程**。
+
+方式： 基于证据、迹象或观察。
+
+侧重点： 强调**从间接信息中, 得出合理的可能性**，是一种**归纳**过程。
+
+用法示例： +
+ From the tire tracks, the police could infer (v.) that /the car was speeding. (根据轮胎印，警方可以推断出汽车当时在超速。) +
+ I can *infer* from your silence /*that* you disagree (v.) with my proposal. (我能从你的沉默中, 推断出你不同意我的提议。) +
+
+|Deduce
+|Deduce (演绎，推论) ##指**通过严格的逻辑推理，从普遍的原则、规律或已确定的事实中，得出必然的、确定的结论**。这种推理通常涉及**演绎法**，##即从一般性原则中得出特定结论。它强调的是**逻辑的严密性和结果的确定性**。
+
+方式： 基于普遍原则、逻辑规律, 或已确定的事实。
+
+侧重点： 强调**逻辑的必然性和结果的确定性**，是一种**演绎**过程。
+
+用法示例： +
+ Sherlock Holmes was famous for his ability /to deduce the truth from small clues. (夏洛克·福尔摩斯以其从小线索中推断真相的能力而闻名。) +
+ We can deduce that /all mammals have a backbone, since it is a defining (a.)最典型的；起决定性作用的 characteristic. (我们可以推论出, 所有哺乳动物都有脊椎，因为这是它们的决定性特征。)
+
+|Conclude
+|Conclude (总结，下结论) ##指**在经过长时间的讨论、研究或思考之后，达到一个最终的判断或决定**。##这个词是一个**通用**的动词，表示**推理过程的结束和最终观点的表达**。它可以是归纳或演绎的结果，但##其重点在于**终结性**。##
+
+方式： 经过讨论、研究或推理过程。
+
+侧重点： 强调**推理过程的终结和最终观点的表达**。
+
+用法示例： +
+ After reviewing all the evidence, the jury concluded that /the defendant was guilty. (在审查了所有证据之后，陪审团裁定被告有罪。) +
+ *To conclude (v.) my presentation*, I want to summarize the main findings. (为了结束我的演讲，我想总结一下主要发现。) +
+|===
+
+
+总结
+[cols="1,1,1,1",options="header"]
+|===
+| 词语 | 含义和侧重点 | 推理方式 | 核心概念
+| Infer | 从证据中得出合理的可能性 | 归纳（Inductive） | 基于间接信息的可能性判断
+| Deduce | 从原理中得出确定的必然性 | 演绎（Deductive） | 基于逻辑的必然性结论
+| Conclude | 结束推理过程并做出最终判断 | 通用，终结性 | 最终的决定或观点
+|===
+
+简单来说，这三个词描述了一个从**过程到结果**的推理活动： +
+* 当你看到地是湿的，你 **infer** (推断) **可能**下雨了 (归纳推理)。 +
+* 当你知道“下雨地必湿”这个原则，你看到地是湿的，你 **deduce** (推论) 这**必然**是下雨的结果 (演绎推理)。 +
+* 在你综合考虑了所有推断和证据后，你 **conclude** (总结/下结论) **雨确实下过**。
+
+'''
+
+
+==== determine, decide, resolve
+
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|Determine
+|Determine (确定，查明) 指**通过调查、计算、研究或证据，来发现事实或确定某事物的性质、结果或原因**。这个词强调的是**发现客观事实**，或**通过推理/计算得出结论**，#是一种有逻辑或证据支持的、**查明真相**的过程。#
+
+过程： 基于调查、计算、证据或研究。
+
+侧重点： 强调**发现客观事实或真相**。
+
+用法示例： +
+ The investigation will determine the cause of the accident. (调查将确定事故的原因。) +
+ We must first determine the exact amount of material /needed for the project. (我们必须首先确定项目所需的精确材料量。)
+
+|Decide
+|Decide (决定，下决心) ##指**在多种可能性之间做出选择，以指导未来的行动**。##这个词强调的是**意愿、选择和行动的意图**，通常涉及主观偏好或个人意志，重点在于**做出最终的选择**。
+
+过程： 在多个选择之间进行判断和选择。
+
+侧重点： 强调**选择和行动的意图**，通常是个人意志的结果。
+
+用法示例： +
+ We decided *to travel to* Italy /*instead of* France /for our vacation. (我们决定去意大利而不是法国度假。) +
+ She needs to decide /whether to accept the job offer. (她需要决定是否接受这份工作邀请。)
+
+|Resolve
+|Resolve (解决，决心) ##指**成功地找到一个问题的最终答案或方案，尤其是棘手或复杂的争端/问题**，或是指**坚决地承诺做某事**。这个词强调的是**消除疑虑、解决困难**##，##带有强烈的终结性和坚定性。
+
+过程： 找到困难问题的最终方案, 或做出坚定承诺。
+
+侧重点： 强调**解决问题/消除争端**，或**坚定的意志/承诺**。
+
+用法示例： +
+ The two countries *resolved their border dispute* through negotiation. (两国通过谈判解决了边界争端。) +
+ *I have resolved* to exercise every morning /starting next week. (我已下定决心从下周开始, 每天早上锻炼。) +
+|===
+
+
+总结
+[cols="1,1,1,1",options="header"]
+|===
+| 词语 | 含义和侧重点 | 焦点 | 核心概念
+| Determine | 通过证据/计算发现事实或真相 | 客观事实 | 查明
+| Decide | 在选项中做出最终选择 | 意图和选择 | 做出选择
+| Resolve | 消除争端/解决复杂问题，或坚定承诺 | 终结性和坚定性 | 解决/下定决心
+|===
+
+简单来说，这三个词描述了三种不同的终结活动： +
+* 你需要 **determine** (查明) **事实**（出了什么事）。 +
+* 然后你 **decide** (决定) **采取什么行动**（下一步做什么）。 +
+* 最后你 **resolve** (解决) **这个问题或困境**（消除冲突或做出坚定承诺）。
+
+
+'''
+
+==== grade, rank
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|Grade
+|Grade (等级，分数) 指**对某事物质量、表现或成就的评估结果**，通常以**字母 (A, B, C)**、**数字 (90, 80, 7)** 或**特定词语**表示。它强调的是**绝对或分类的质量标准**。在教育领域，它指的是学生作业或课程的成绩，或者指**年级**。
+
+本质： #对**质量或成就的评估**。#
+
+侧重点： 强调**分类和标准**。
+
+image:img/Grade.jpg[,15%]
+
+
+用法示例： +
+ She received a high grade on her final assignment. (她的期末作业获得了高分/高等级。) +
+ What grade are you /in this year? (你今年读几年级？) +
+ The meat was categorized as a premium grade. (这块肉被归类为特优等级。)
+
+|Rank
+|Rank (排名，等级) #指某事物在**一个序列或群体中的相对位置**。它强调的是**与其他事物比较后的相对地位**，通常由**顺序**或**数字**表示。它侧重于**地位、威望**或**重要性**。#
+
+本质： 在**序列中的相对位置**。
+
+侧重点： 强调**顺序和地位**。
+
+image:img/Rank.png[,30%]
+
+
+用法示例： +
+ The university moved up three places /in the _national rank_ of best schools. (这所大学在全国最佳学校排名中上升了三位。) +
+ She holds the highest rank /in the military unit. (她在该军事单位中拥有最高的军衔。) +
+ The top-ranked tennis player was defeated in the first round. (排名第一的网球选手, 在第一轮就被击败了。)
+|===
+
+
+总结
+[cols="1,1,1,1",options="header"]
+|===
+| 词语 | 含义和侧重点 | 焦点 | 核心概念
+| Grade | 质量或成就的评估标准 | 绝对或分类的##质量## | 分数、等级、年级
+| Rank | 在序列或群体中的相对位置 | 相对的##地位和顺序## | 排名、军衔、地位
+|===
+
+简单来说，这两个词的区别在于： +
+* Grade 描述的是**事物本身的质量**：你的**Grade** 是 A (这是一个很好的成绩)。 +
+* Rank 描述的是**事物与他者的关系**：你的考试分数在全班的 **Rank** 是第 3 位 (你比大多数人都好)。
+* 你可以获得一个高的 Grade，但 Rank 依然靠后（比如一个班上大部分人都得了 A 的情况）。
+
+'''
+
+==== award, prize
+
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|Award
+|Award (奖，奖项) ##指**对某人在特定领域的卓越成就、贡献或服务所给予的正式认可**。它强调的是**荣誉和表彰**，通常是经过正式评选过程的。Award 可以是奖品 (如奖杯、证书)，也可以是金钱 (如奖学金)。##它更侧重于**认可和赞誉的正式行为**。
+
+性质： 对**成就、贡献或服务的正式认可**。
+
+侧重点： 强调**荣誉、表彰和正式性**。
+
+image:img/Award.jpg[,15%]
+
+
+用法示例： +
+ She received an award for her lifetime contributions to the field of chemistry. (她因其对化学领域的终身贡献, 而获得了奖项。) +
+ The Oscars are one of the most prestigious film awards. (奥斯卡奖是最负盛名的电影奖项之一。) +
+ The foundation established _an annual award_ to recognize young talent. (该基金会设立了一项年度奖项, 以表彰年轻人才。)
+
+|Prize
+|Prize (奖品，奖金) ##指**通过比赛、抽奖或竞赛获得的具体物品或金额**。##它强调的是**通过竞争获得的奖励**，通常是物质性的（金钱、物品或旅行等）。##Prize 更侧重于**竞争的结果##和获得的奖励本身**。
+
+性质： **通过竞争或抽奖获得的奖励**。
+
+侧重点： 强调**物质奖励和竞争性**。
+
+image:img/Prize.jpg[,15%]
+
+
+用法示例： +
+ The winner of the marathon *took home* a cash prize of $10,000. (马拉松的获胜者带走了10,000美元的现金奖金。) +
+ He won a prize /for guessing the number of marbles in the jar. (他因猜中罐子里弹珠的数量, 而获得了奖品。) +
+ The top prize in the literature competition is a trip to Paris. (文学比赛的最高奖品是去巴黎旅行。)
+|===
+
+
+总结
+[cols="1,1,1,1",options="header"]
+|===
+| 词语 | 含义和侧重点 | 获得方式 | 核心概念
+| Award | 对成就、贡献的正式认可 | 正式评估和表彰 | 荣誉与赞誉
+| Prize | 通过竞争或抽奖获得的奖励 | 比赛或抽奖 | 物质奖励
+|===
+
+简单来说，这两个词的区别在于**目的和获得方式**： +
+* Award 更多是**对你出色工作或长期成就的正式表彰**，重在**荣誉**。
+* Prize 更多是**你在某个竞争中获胜的物质奖励**，重在**物品**或**金钱**。
+* 诺贝尔奖被称为 **Nobel Prize** (诺贝尔奖金)，但它同时也是一种极高的 **Award** (奖项/荣誉)。然而，你中彩票获得的奖金是 **Prize**，但不会是 **Award**。
 
 '''
 
@@ -800,28 +1402,6 @@ image:img/reel 2.jpg[,15%]
 |image:img/diagonal.png[,15%]
 image:img/diagonal 2.png[,50%]
 
-|
-|image:img/.jpg[,15%]
-
-|
-|image:img/.jpg[,15%]
-
-|
-|image:img/.jpg[,15%]
-
-|
-|image:img/.jpg[,15%]
-
-|
-|image:img/.jpg[,15%]
-
-|
-|image:img/.jpg[,15%]
-
-|
-|image:img/.jpg[,15%]
-
-|
-|image:img/.jpg[,15%]
 |===
 
+'''
