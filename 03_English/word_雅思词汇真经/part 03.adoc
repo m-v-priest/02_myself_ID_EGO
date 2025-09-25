@@ -731,7 +731,7 @@ The cartoon character Mickey Mouse /is loved by children worldwide.
 
 
 总结
-[cols="1,1,1,1",options="header"]
+[options="autowidth" cols="1a,1a,1a,1a"]
 |===
 | 词语 | 含义和侧重点 | 用法语境 | 范围
 | Germ | 泛指致病的“病菌” | 日常口语，非正式 | 窄 (侧重致病性)
@@ -784,7 +784,7 @@ The cartoon character Mickey Mouse /is loved by children worldwide.
 
 总结
 
-[cols="1,1,1,1",options="header"]
+[options="autowidth" cols="1a,1a,1a,1a"]
 |===
 | 词语 | 含义和侧重点 | 用法语境 | 目的
 | Secrete | #分泌有用的物质# | 科学、医学，常用于描述生理功能 | #维持生理活动#
@@ -839,7 +839,7 @@ image:img/Trace.jpg[,15%]
 
 总结
 
-[cols="1,1,1,1",options="header"]
+[options="autowidth" cols="1a,1a,1a,1a"]
 |===
 | 词语 | 含义和侧重点 | 时间点 | 用途
 | Track | #持续追踪、监视动态过程# | 现在或未来 | #掌握实时状态#

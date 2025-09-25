@@ -43,7 +43,7 @@
 
 总结
 
-[cols="1,1,1,1",options="header"]
+[options="autowidth" cols="1a,1a,1a,1a"]
 |===
 | 词语 | 含义和侧重点 | 用法语境 | 核心概念
 | Cosmos | 包含秩序和和谐的宇宙 | 哲学、美学、文学 | 秩序与和谐
@@ -94,7 +94,7 @@ image:img/Specimen.jpg[,15%]
 
 总结
 
-[cols="1,1,1,1",options="header"]
+[options="autowidth" cols="1a,1a,1a,1a"]
 |===
 | 词语 | 含义和侧重点 | 用法语境 | 核心概念
 | Sample | 具有代表性的一小部分 | 广义、通用 | 代表性
@@ -133,7 +133,7 @@ image:img/Specimen.jpg[,15%]
 
 总结
 
-[cols="1,1,1,1",options="header"]
+[options="autowidth" cols="1a,1a,1a,1a"]
 |===
 | 词语 | 含义和侧重点 | 包含范围 | 核心概念
 | Liquid | 物质的一种形态 | 液体（如水、油） | 固定体积

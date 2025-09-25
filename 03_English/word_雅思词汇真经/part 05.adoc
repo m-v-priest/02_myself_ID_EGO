@@ -52,7 +52,7 @@
 
 总结
 
-[cols="1,1,1,1",options="header"]
+[options="autowidth" cols="1a,1a,1a,1a"]
 |===
 | 词语 | 含义和侧重点 | 用法语境 | 核心概念
 | Intelligent | 综合才智、深度思维 | 正式、学术 | 深度、逻辑、适应
@@ -100,7 +100,7 @@
 
 总结
 
-[cols="1,1,1,1",options="header"]
+[options="autowidth" cols="1a,1a,1a,1a"]
 |===
 | 词语 | 含义和侧重点 | 指代对象 | 核心概念
 | Genius | 非凡的个人天赋 | 个人 | 天赋与创造力
@@ -149,7 +149,7 @@
 
 总结
 
-[cols="1,1,1,1",options="header"]
+[options="autowidth" cols="1a,1a,1a,1a"]
 |===
 | 词语 | 含义和侧重点 | 程度 | 核心概念
 | Excellent | 达到或超过高标准 | 高水平 | 卓越的质量
@@ -197,7 +197,7 @@
 
 总结
 
-[cols="1,1,1,1",options="header"]
+[options="autowidth" cols="1a,1a,1a,1a"]
 |===
 | 词语 | 含义和侧重点 | 性质 | 核心概念
 | Prestige | 基于成就的尊敬和崇拜 | #积极、崇高# | 威望与地位
@@ -252,7 +252,7 @@
 
 总结
 
-[cols="1,1,1,1",options="header"]
+[options="autowidth" cols="1a,1a,1a,1a"]
 |===
 | 词语 | 含义和侧重点 | 深度 | 核心概念
 | Esteem | 基于内在价值的深层敬重 | 深层次情感 | 钦佩与推崇
@@ -312,7 +312,7 @@
 
 总结
 
-[cols="1,1,1,1",options="header"]
+[options="autowidth" cols="1a,1a,1a,1a"]
 |===
 | 词语 | 含义和侧重点 | 适用机构 | 核心概念
 | Headmaster | 传统、全面领导者 | 英联邦私立中小学 | 权威与传统
@@ -362,7 +362,7 @@
 
 总结
 
-[cols="1,1,1,1",options="header"]
+[options="autowidth" cols="1a,1a,1a,1a"]
 |===
 | 词语 | 含义和侧重点 | 行为 | 核心概念
 | Register | 在名单上记录信息 | 登记，记录 | 获得许可
@@ -414,7 +414,7 @@ image:img/Canteen.jpg[,15%]
 
 总结
 
-[cols="1,1,1,1",options="header"]
+[options="autowidth" cols="1a,1a,1a,1a"]
 |===
 | 词语 | 含义和侧重点 | 用途和规模 | 核心概念
 | Dining Hall | 为大量人群提供正式用餐的场所 | 规模较大，正式 | 制度性、正式性
@@ -464,7 +464,7 @@ image:img/Canteen.jpg[,15%]
 
 总结
 
-[cols="1,1,1,1",options="header"]
+[options="autowidth" cols="1a,1a,1a,1a"]
 |===
 | 词语 | 含义和侧重点 | 用途 | 核心概念
 | Sum | 加法运算的结果 | 主要用于数学、金融 | 累加
@@ -530,7 +530,7 @@ image:img/Diagram.png[,30%]
 
 总结
 
-[cols="1,1,1,1",options="header"]
+[options="autowidth" cols="1a,1a,1a,1a"]
 |===
 | 词语 | 含义和侧重点 | 用途 | 核心概念
 | Chart | 通用数据呈现 | 商业、日常 | 信息的组织和展示
@@ -586,7 +586,7 @@ image:img/Ratio.jpg[,30%]
 
 总结
 
-[cols="1,1,1,1",options="header"]
+[options="autowidth" cols="1a,1a,1a,1a"]
 |===
 | 词语 | 含义和侧重点 | 性质 | 核心概念
 | Rate | 变化的速度或频率 | 动态 | 每单位量
@@ -633,7 +633,7 @@ image:img/Ratio.jpg[,30%]
 
 总结
 
-[cols="1,1,1,1",options="header"]
+[options="autowidth" cols="1a,1a,1a,1a"]
 |===
 | 词语 | 含义和侧重点 | 适用性 | 核心概念
 | Term | 一段教学时间 | 通用，可用于各种学制 | 时间段
@@ -694,7 +694,7 @@ image:img/Ratio.jpg[,30%]
 
 总结
 
-[cols="1,1,1,1",options="header"]
+[options="autowidth" cols="1a,1a,1a,1a"]
 |===
 | 词语 | 含义和侧重点 | 用法语境 | 核心概念
 | Basic | 最简单、最必要 | 通用，日常 | 入门级
@@ -755,7 +755,7 @@ image:img/Ratio.jpg[,30%]
 
 总结
 
-[cols="1,1,1,1",options="header"]
+[options="autowidth" cols="1a,1a,1a,1a"]
 |===
 | 词语 | 含义和侧重点 | 学位级别 | 核心概念
 | Paper | 任何学术写作 | 通用，无特定级别 | 写作
@@ -805,7 +805,7 @@ image:img/Ratio.jpg[,30%]
 
 总结
 
-[cols="1,1,1,1",options="header"]
+[options="autowidth" cols="1a,1a,1a,1a"]
 |===
 | 词语 | 含义和侧重点 | 范围 | 核心概念
 | Point | 一个具体的论点或意图 | 狭窄、具体 | 意图，单个论点
@@ -852,7 +852,7 @@ image:img/Ratio.jpg[,30%]
 
 总结
 
-[cols="1,1,1,1",options="header"]
+[options="autowidth" cols="1a,1a,1a,1a"]
 |===
 | 词语 | 含义和侧重点 | 行为 | 核心概念
 | Cite | 提供信息来源的出处 | 提及来源（作者、年份） | 溯源和认可
@@ -916,7 +916,7 @@ image:img/Summary.jpg[,15%]
 
 总结
 
-[cols="1,1,1,1",options="header"]
+[options="autowidth" cols="1a,1a,1a,1a"]
 |===
 | 词语 | 含义和侧重点 | 内容来源 | 核心概念
 | Extract | 原始文本的直接选取片段 | 原文直接复制 | 片段的精确性
@@ -1009,7 +1009,7 @@ image:img/Postulate.jpg[,50%]
 
 总结
 
-[cols="1,1,1,1",options="header"]
+[options="autowidth" cols="1a,1a,1a,1a"]
 |===
 | 词语 | 含义和侧重点 | 性质 | 证据基础
 | Assume | #缺乏证据，为了行动或讨论暂时接受# | 中性 | 无确凿证据
@@ -1063,7 +1063,7 @@ image:img/Postulate.jpg[,50%]
 
 总结
 
-[cols="1,1,1,1",options="header"]
+[options="autowidth" cols="1a,1a,1a,1a"]
 |===
 | 词语 | 含义和侧重点 | 证据基础 | 核心概念
 | Speculate | 在证据不足时进行主观猜测 | 薄弱或缺失 | 理论性、可能性
@@ -1130,7 +1130,7 @@ image:img/Discern.jpg[,15%]
 
 总结
 
-[cols="1,1,1,1",options="header"]
+[options="autowidth" cols="1a,1a,1a,1a"]
 |===
 | 词语 | 含义和侧重点 | 过程 | 核心概念
 | Perceive | 通过感官或心智感知并主观理解 | 主观认知 | 意识到/如何看待
@@ -1189,7 +1189,7 @@ image:img/Discern.jpg[,15%]
 
 
 总结
-[cols="1,1,1,1",options="header"]
+[options="autowidth" cols="1a,1a,1a,1a"]
 |===
 | 词语 | 含义和侧重点 | 推理方式 | 核心概念
 | Infer | 从证据中得出合理的可能性 | 归纳（Inductive） | 基于间接信息的可能性判断
@@ -1249,7 +1249,7 @@ image:img/Discern.jpg[,15%]
 
 
 总结
-[cols="1,1,1,1",options="header"]
+[options="autowidth" cols="1a,1a,1a,1a"]
 |===
 | 词语 | 含义和侧重点 | 焦点 | 核心概念
 | Determine | 通过证据/计算发现事实或真相 | 客观事实 | 查明
@@ -1305,7 +1305,7 @@ image:img/Rank.png[,30%]
 
 
 总结
-[cols="1,1,1,1",options="header"]
+[options="autowidth" cols="1a,1a,1a,1a"]
 |===
 | 词语 | 含义和侧重点 | 焦点 | 核心概念
 | Grade | 质量或成就的评估标准 | 绝对或分类的##质量## | 分数、等级、年级
@@ -1360,7 +1360,7 @@ image:img/Prize.jpg[,15%]
 
 
 总结
-[cols="1,1,1,1",options="header"]
+[options="autowidth" cols="1a,1a,1a,1a"]
 |===
 | 词语 | 含义和侧重点 | 获得方式 | 核心概念
 | Award | 对成就、贡献的正式认可 | 正式评估和表彰 | 荣誉与赞誉
