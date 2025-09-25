@@ -43,7 +43,8 @@
 
 
 总结
-[cols="1,1,1,1",options="header"]
+[.small]
+[options="autowidth" cols="1a,1a,1a,1a"]
 |===
 | 词语 | 含义和侧重点 | 焦点 | 核心概念
 | Raw | 处于自然状态，未经加工或烹饪 | 未加工，自然状态 (多用于食物/材料) | 未处理/生
@@ -58,7 +59,581 @@
 
 '''
 
+==== garbage, rubbish, trash
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|Garbage
+|##Garbage (垃圾) 主要指**湿的、腐烂的或食物残渣等废弃物**，##是**美国英语**中最常用的统称。这个词##强调的是**家庭或厨房产生的废物**，这些废物通常**需要被回收或处理以防止腐败**。##在比喻意义上，它可以指**无意义或低劣的东西**。
+
+地域性： **主要用于美国英语**。
+
+侧重点： 强调**食物残渣、湿性废弃物**和**家庭废物**。
+
+用法示例： +
+ Please take the garbage out to the curb tonight. (请今晚把垃圾拿到路边。) +
+ The restaurant produces a lot of kitchen garbage every day. (这家餐厅每天产生大量的厨房垃圾。) +
+
+|Trash
+|##Trash (垃圾) 主要指**干的、非腐烂性的废弃物**，如纸张、包装、空瓶子等，##是**美国英语**中常用的词。虽然常与 **Garbage** 互换使用，但在技术上，##它特指**非食物残渣的废物**。##在比喻意义上，它指**毫无价值或低劣的东西**。
+
+地域性： **主要用于美国英语**。
+
+侧重点： 强调**干性废弃物**、**包装**和**无用物品**。
+
+用法示例： +
+ We need to empty the trash from the office wastebasket 废纸篓. (我们需要清空办公室废纸篓里的垃圾。) +
+ The computer program was slow /because of all _the temporary trash files_. (这个电脑程序很慢，因为有太多临时垃圾文件。) +
+
+|Rubbish
+|Rubbish (垃圾) 是**英国英语**中最常用的统称，等同于美式英语中的 **Garbage** 和 **Trash**。它泛指**任何无用的、不想要的东西或废物**，##包括干性废物和湿性废物。##在比喻意义上，它也指**毫无意义或愚蠢的想法/言论**。
+
+地域性： **主要用于英国英语**。
+
+侧重点： 强调**通用的废弃物**，包括湿性和干性。在比喻意义上，常指**废话、胡言乱语**。
+
+用法示例： +
+ Put all the empty packaging and broken items in the rubbish bin. (把所有空的包装和损坏的物品都扔进垃圾桶。) +
+ What he said in the meeting was complete rubbish. (他在会议上说的完全是胡言乱语。)
+
+|===
+
+
+总结
+[options="autowidth" cols="1a,1a,1a,1a"]
+|===
+| 词语 | 含义和侧重点 | 主要地域 | 侧重类型
+| Garbage | 湿性废物，尤指食物残渣 | 美国英语 (美式统称) | 食物残渣、#腐败物#
+| Trash | 干性废物，如纸张、包装 | 美国英语 (常与Garbage互换) | #干性废物#、包装
+| Rubbish | 任何无用废物的通用统称 | 英国英语 (英式统称) | ##通用##废物 (干/湿都可)
+|===
+
+简单来说，你可以用**地理和类型**来区分它们： +
+* **Garbage** 和 **Trash** 是**美式**用法；**Rubbish** 是**英式**用法。 +
+
+在**美式**语境下： +
+**Garbage** = **湿的、臭的** (食物垃圾)。 +
+**Trash** = **干的、不臭的** (纸张、包装)。 +
+
+在**英式**语境下： +
+**Rubbish** = **所有废物**。 +
+* **“Please take the rubbish out.”** (英式) = **“Please take the garbage/trash  +out.”** (美式)
+
+'''
+
+==== pipe, tube
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|Pipe
+|##Pipe (管道，管子) 指**用于输送液体或气体等流体（如水、油、煤气）的刚性圆柱形长管**。##它强调**功能性**和**耐用性**，##通常是**大直径、厚壁**的，用于**建筑、工程或工业系统**。##Pipe 的规格通常以**内径**（Nominal Pipe Size, NPS）来衡量。
+
+性质： **用于流体输送的、刚性、耐用的圆柱形长管**。
+
+侧重点： 强调**功能、工程**和**系统性**（如水管系统、石油管道）。
+
+image:img/Pipe.jpg[,30%]
+
+用法示例： +
+ The plumber replaced the old _copper water pipe_ in the wall. (水管工更换了墙内旧的铜水管。) +
+ A pipeline is used to transport (v.) oil across long distances. (管道用于长距离输送石油。) +
+
+|Tube
+|Tube (管，软管，试管) 是一个**更通用的词**，指**中空的、圆柱形的结构**，#其范围比 **Pipe** 更广。它通常指**较小直径、较薄壁、不那么刚性**的管子，或**用于非流体输送**目的的管状物（如容器或结构部件）。Tube 的规格通常以**外径**来衡量。#
+
+性质： **通用的、中空的圆柱形结构**。
+
+侧重点： 强调**形态**（中空圆柱），多用于**容器、结构或非关键流体**（如牙膏管、轮胎内胎、小型电子管）。
+
+image:img/Tube.jpg[,20%]
+image:img/Tube 2.jpg[,30%]
+
+用法示例： +
+ The scientist put the sample into _a test tube_ for analysis. (科学家将样品放入试管进行分析。) +
+ The bicycle tire has _an inner tube_ that holds the air. (自行车轮胎有一个用来充气的内胎。) +
+|===
+
+
+总结
+[options="autowidth" cols="1a,1a,1a,1a"]
+|===
+| 词语 | 含义和侧重点 | 主要用途 | 规格衡量
+| Pipe | 用于流体输送的刚性、耐用长管 | 建筑、工程、工业输送（水、油） | 内径 (NPS)
+| Tube | 通用的中空圆柱形结构 | 容器、结构部件、小型或非关键流体 | 外径
+|===
+
+简单来说，你可以把它们想象成一个**功能和结构**的区别： +
+* **Pipe** (管道) 通常是**厚重、刚性、大直径**的，专门用于**输送流体**，强调**结构和工程功能**。
+* **Tube** (管子) 是**通用**的，通常**较轻、较薄**，可以用于**输送**，也可以作为**容器**或**结构**。
+* 你家的**水管**是 **pipe**，你用的**牙膏管**是 **tube**。
+
+
+'''
+
+==== scissors, shear
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|Scissors
+|##Scissors (剪刀) 指**小型的切割工具**，通常**供单手使用**，##其手柄的**拇指和手指套环大小相同**。##它常用于**精细或日常的切割**，如剪纸、布料或头发等。##在英文中，它是一个**恒定复数名词**，指单件工具。
+
+性质： **小型、单手操作的切割工具**。
+
+侧重点： 强调**体积小**、**日常使用**和**精细切割**。
+
+用法示例： +
+ She used a pair of scissors /to cut the ribbon. (她用一把剪刀剪断了缎带。) +
+ These safety scissors are perfect for young children. (这些安全剪刀非常适合幼儿使用。)
+
+|Shears
+|Shears (大剪刀，剪切机) 是一个**更正式、用途更广的词**，##指**大型或重型的切割工具**，通常需要**双手操作**或具有**特殊的工业/专业用途**。##它的刀片通常**更长、更厚、更有力**，有时手柄套环大小不同。#它常用于**农业、园艺、工业**或**专业修剪**。#
+
+性质： **大型、重型或专业用途的切割工具**。
+
+侧重点： 强调**尺寸大**、**力量强**、**专业用途**（如园艺、剪羊毛）或**工业切割**。
+
+image:img/Shears.jpg[,30%]
+
+用法示例： +
+ The gardener used (v.) hedge shears /to trim (v.) the tall bushes. (园丁用绿篱剪修剪高高的灌木。) +
+ Sheep shears are necessary for wool harvesting 收割（庄稼）；捕猎（动物）；（为实验或移植而）切除（人或动物的细胞、器官等）；获得（成果）. (剪羊毛需要用到剪羊毛的专用大剪刀。)
+|===
+
+
+总结
+[options="autowidth" cols="1a,1a,1a,1a"]
+|===
+| 词语 | 含义和侧重点 | 尺寸/用途 | 核心概念
+| Scissors | 小型的、单手操作的切割工具 | 小，日常，精细切割 | 单手剪刀
+| Shears | 大型、重型或专业切割工具 | 大，专业，强力切割 | 大剪刀/剪切工具
+|===
+
+简单来说，这两个词的区别在于**尺寸和用途**： +
+* **Scissors** (剪刀) 是**小号的、用于精细或日常切割**的工具。
+* **Shears** (大剪刀) 是**大号的、用于强力或专业切割**的工具。
+* 你用 **scissors** (剪刀) 剪纸，用 **shears** (大剪刀) 剪灌木。
+
+'''
+
+==== tag, label
+
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|Tag
+|#Tag (标签，吊牌，标记) 指**附加在物体上，通常是悬挂或松散连接的**（如吊牌），也指**用于分类、搜索或标识的简短关键词**（如在数字内容中）。#**Tag** 强调**物理上的附加物**或**数字上的分类关键词**，它的主要作用是**提供基本识别信息**或**帮助分类/搜索**。
+
+性质： **附加在物体上提供识别的吊牌/挂牌**，或**数字内容的分类关键词**。
+
+侧重点： 强调**物理连接方式**（可移动、悬挂）和**功能**（分类、识别、搜索）。
+
+image:img/Tag.jpg[,30%]
+
+用法示例： +
+ The _price tag_ was still attached to the shirt. (价格标签/吊牌仍然系在衬衫上。) +
+ Remember to tag your photos with relevant keywords /before uploading. (记得在上传前, 用相关关键词标记你的照片。) +
+
+|Label
+|##Label (标签，标志) 指**贴在物体表面上，通常是粘合的**（如不干胶贴），##用于**提供产品信息、说明或分类**。**Label** 强调**贴附在表面**，提供**详尽、正式或强制性的信息**。它也指**对某人或某事的归类或定义**（如政治标签）。
+
+性质： **贴在物体表面上提供详细信息的纸或材料**，或**对某物/某人的归类定义**。
+
+侧重点： 强调**贴附方式**（粘合、固定）和**功能**（提供详细、正式的信息）。
+
+image:img/Label.jpg[,30%]
+
+用法示例： +
+ Always read the washing instructions on the _care label_ 保养标签(附在衣物或其他布制品上的一小块材料，上面附有有关如何清洗和保养该物品的说明) before cleaning clothes. (清洗衣服前，务必阅读护理标签上的洗涤说明。) +
+ The food label clearly states (v.) the nutritional content. (食品标签清楚地说明了营养成分。)
+|===
+
+
+总结
+[options="autowidth" cols="1a,1a,1a,1a"]
+|===
+| 词语 | 含义和侧重点 | 物理形式 | 核心功能
+| Tag | 悬挂的吊牌或数字分类关键词 | 悬挂/松散连接/关键词 | 识别、分类、搜索
+| Label | 贴在表面上的信息贴纸或归类定义 | 贴附/粘合/文字定义 | 详细说明、正式信息、归类
+|===
+
+简单来说，这两个词的区别在于**连接方式和信息侧重**： +
+* **Tag** (标签/吊牌) 通常是**悬挂或松散附加**的，或指**数字关键词**。
+* **Label** (标签/贴纸) 通常是**粘合、贴附**在表面上的，提供**详细的正式信息**。
+* 衣服上**价格**用 **tag** (吊牌)，衣服上**洗涤说明**用 **label** (贴标)。
+
+'''
+
+==== barrel, bucket, pail
+
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|Barrel
+|Barrel (桶，木桶，圆筒) 指**一个大型、圆柱形、中间部分通常呈凸起的容器**，##传统上由木条箍成，##但现在也常由金属或塑料制成。##它的主要用途是**长期储存和运输大量液体** (如油、酒、啤酒) 或**干货**。它通常是**没有提手**的，##且是一个**官方容量单位**。
+
+性质： **大型、中间凸起的圆柱形容器，用于储存和运输**。
+
+侧重点： 强调**容量大**、**储运功能**和**工业/商业用途**。
+
+image:img/Barrel.jpg[,30%]
+
+用法示例： +
+ The wine was aged (v.) for three years in oak barrels. (葡萄酒在橡木桶中陈酿了三年。) +
+ The price of oil is measured in barrels. (石油的价格是以桶为单位衡量的。)
+
+|Bucket
+|Bucket (水桶，提桶) 指**一个中等大小、通常呈截锥形或圆柱形的敞口容器**，##主要用于**短途搬运液体或散装物** (如水、沙子、清洁用品)。它的一个显著特征是**顶部有半圆形的提手** (handle)。##这是一个**通用**的词。
+
+性质： **中等大小、敞口、带提手的容器，用于搬运**。
+
+侧重点： 强调**中等大小**、**搬运功能**和**提手**。
+
+image:img/Bucket.jpg[,15%]
+
+用法示例： +
+ He filled the bucket with water /to wash the car. (他用水桶装满水来洗车。) +
+ We bought a bucket of chicken /for the picnic. (我们买了一桶炸鸡去野餐。)
+
+|Pail
+|##Pail (提桶，桶) 是 **Bucket** 的一个**稍微更正式或更老式的同义词**。##它指**用于盛装和搬运的敞口容器**，#与 **Bucket** 在物理形态和功能上几乎**没有区别**。在现代用法中，**Bucket** 更常见；**Pail** 偶尔用于**工业、农业**或**特定商品包装**（如油漆桶）。#
+
+性质： **中等大小、敞口、带提手的容器，与 Bucket 同义**。
+
+侧重点： 强调**与 Bucket 相似**，但用法**略显正式/老式**，或用于**特定的包装容器**。
+
+image:img/Pail.jpg[,15%]
+
+用法示例： +
+ A child's sandbox often comes with a small shovel and a pail. (儿童的沙盒通常配有小铲子和一个小桶。) +
+ The paint was sold in a five-gallon pail. (这种油漆是以五加仑的桶装出售的。)
+|===
+
+
+总结
+[options="autowidth" cols="1a,1a,1a,1a"]
+|===
+| 词语 | 含义和侧重点 | 大小/形态 | 核心功能
+| Barrel | 大型、中间凸起、无提手 | 大型，圆柱形/凸起 | 长期储存、运输
+| Bucket | 中等大小、敞口、带提手 | 中等，截锥形/圆柱形 | 短途搬运、日常使用
+| Pail | 与 Bucket 几乎同义 | 中等，截锥形/圆柱形 | 短途搬运 (略正式或特定包装)
+|===
+
+简单来说，你可以用**大小和用途**来区分它们： +
+* **Barrel** (桶) 是**最大、无提手**的，用于**储运** (例如装葡萄酒或石油)。
+* **Bucket** (水桶) 是**中等大小、有提手**的，用于**日常搬运** (例如提水、装沙)。
+* **Pail** (提桶) **和 Bucket 几乎一样**，**Bucket** 更常用。
+
+'''
+
+
+==== refrigerator, fridge
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|Refrigerator
+|##Refrigerator (冰箱，电冰箱) 是一个**正式的、完整的名词**，##指**用于保持食物和饮料低温（高于冰点）以减缓变质的电器**。#它是**科学和技术上的正式称谓**，常用于**书面语、商业、技术文件**或**正式场合**。#
+
+性质： **用于保鲜食物和饮料的电器的正式名称**。
+
+侧重点： 强调**正式性、完整性**和**技术称谓**。
+
+用法示例： +
+ The new refrigerator has an energy-saving feature. (这台新冰箱具有节能功能。) +
+ Please *refer to* the owner's manual /for proper maintenance (n.)维护，保养 of your refrigerator. (请参阅用户手册, 以正确维护您的电冰箱。) +
+
+|Fridge
+|#Fridge (冰箱) 是 **Refrigerator** 的**缩写形式**，是一个**非正式、口语化**的词。它的含义与 **Refrigerator** 完全相同，但在日常对话、非正式写作和休闲语境中被**更广泛地使用**。#
+
+性质： **Refrigerator 的常用缩写**。
+
+侧重点： 强调**口语化、随意性**和**日常交流**。
+
+用法示例： +
+ Could you grab me a bottle of water from the fridge? (你能从冰箱里给我拿一瓶水吗？) +
+ We need to clean out the fridge this weekend. (我们这周末需要清理冰箱。)
+|===
+
+
+总结
+[options="autowidth" cols="1a,1a,1a,1a"]
+|===
+| 词语 | 含义和侧重点 | 用法语境 | 关系
+| Refrigerator | 电冰箱的正式、完整名称 | 书面语、商务、正式场合 | **Fridge** 是它的缩写
+| Fridge | Refrigerator 的口语化缩写 | 日常交流、非正式场合 | **Fridge** 是指 **Refrigerator**
+|===
+
+简单来说，这两个词的区别在于**正式程度**： +
+* **Refrigerator** 是**完整的词**，用于**正式场合**。
+* **Fridge** 是**缩写**，用于**日常口语**。
+* 两者指代的是**完全相同的物品**。
+
+'''
+
+
+==== knit, weave
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|Knit
+|Knit (编织，针织) 指**使用一根或多根纱线，通过一系列的线圈相互套结，形成具有弹性和伸缩性的面料**。#这个过程通常使用**针 (needles)** 或**钩针 (hooks)** 完成。针织面料的特点是**柔软、有弹性**，常用于制作毛衣、袜子、T恤等。#
+
+性质： **通过线圈相互套结形成弹性面料**。
+
+侧重点： 强调**线圈的结构**和**面料的伸缩性**。
+
+image:img/Knit.jpg[,30%]
+
+用法示例： +
+ My grandmother taught me how to knit a scarf. (我奶奶教我如何织围巾。) +
+ Knit fabrics are very comfortable to wear. (针织面料穿着非常舒适。) +
+
+
+
+|Weave
+|Weave (编织，机织) 指**使用至少两组纱线（经线 warp 和纬线 weft），以垂直交错的方式相互穿插，形成没有伸缩性的面料**。#这个过程通常使用**织布机 (loom)** 完成。机织面料的特点是**坚固、稳定**，常用于制作衬衫、牛仔布、床单等。#
+
+性质： **通过##经线和纬线垂直交错,## 形成稳定面料**。
+
+侧重点： 强调**交错穿插的结构**和**面料的稳定性/坚固性**。
+
+image:img/Weave.jpg[,30%]
+
+用法示例： +
+ They weave silk into beautiful, intricate patterns. (他们将丝绸织成美丽、复杂的图案。) +
+ The fabric was tightly woven (v.) /to make it strong and durable. (这种布料织得非常紧密，以使其坚固耐用。)
+|===
+
+
+总结
+[options="autowidth" cols="1a,1a,1a,1a"]
+|===
+| 词语 | 含义和侧重点 | 基本结构 | 面料特点
+| Knit | 线圈相互套结 | 单线形成线圈 | 柔软、有弹性、伸缩性强
+| Weave | 经线和纬线垂直交错 | 两组线垂直穿插 | 坚固、稳定、缺乏弹性
+|===
+
+简单来说，这两个词的区别在于**布料的结构**： +
+* **Knit** (针织) 是**套圈**，像毛衣一样**有弹性**。
+* **Weave** (机织) 是**交错**，像衬衫布一样**稳定**。
+* 你可以**拆掉**一件针织 (knit) 毛衣，**抽出**一根长长的线，但机织 (weave) 面料是由**两组线**交错组成的。
+
+'''
+
+==== counterfeit, fake
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|Counterfeit
+|Counterfeit (伪造的，假冒的) 指**旨在完美复制原创的、#以欺骗为目的的仿制品**，通常特指**货币、文件、官方产品或商标商品**。这个词强调**非法性**和**意图冒充真品**，常用于**法律和商业**语境。#
+
+性质： **为欺骗和冒充真品而非法复制的物品**。
+
+侧重点： 强调**非法性**、**冒充官方或品牌**，以及**与金钱、文件、商标相关的欺诈**。
+
+->  ##前缀-counter-（“相反；伪造”），##词根-feit-（源于拉丁语facere“做；制作”，古法语feit“制作物”），无后缀
+
+用法示例： +
+ The authorities seized (v.) a large shipment 运输，运送；运输的货物，装载的货物量 of **counterfeit** watches. (当局查获了一大批假冒手表。) +
+ Using **counterfeit** money is a serious federal crime. (使用伪造货币是严重的联邦犯罪。) +
+
+|Fake
+|Fake (假的，伪造的) 是一个**更通用、更口语化**的词，指**任何不真实、不自然或旨在欺骗的仿制品**。#它是一个**广义的形容词**，可以指**物品** (如假发、假名牌包) 或**行为/情感** (如假笑、假装受伤)。它涵盖了 **Counterfeit** 的所有情况，但**不一定带有法律上的非法性**。#
+
+性质： **任何不真实、旨在欺骗或冒充的物品或行为**。
+
+侧重点： 强调**不真实性**，涵盖范围极广，可以指**日常物品**、**情感**或**行为**。
+
+用法示例： +
+ She was wearing a **fake** diamond necklace. (她戴着一条假钻石项链。) +
+ Don't trust him; his enthusiasm is completely **fake**. (不要相信他；他的热情完全是装出来的。)
+|===
+
+
+总结
+[options="autowidth" cols="1a,1a,1a,1a"]
+|===
+| 词语 | 含义和侧重点 | 法律/正式程度 | 适用范围
+| Counterfeit | 为欺骗而非法复制的官方/品牌物品 | 法律性强，正式 | 货币、文件、商标产品
+| Fake | 任何不真实或旨在欺骗的仿制品 | 通用，口语化 | 物品、情感、行为 (最广)
+|===
+
+简单来说，这两个词的区别在于**法律和范围**： +
+* **Fake** (假的) 是**最广义**的词，指**任何不真实**的事物。
+* **Counterfeit** (伪造的) 是 **Fake** 的**一个子集**，特指**非法地复制官方或品牌产品**，以**欺骗为目的**。
+* 所有 **counterfeit** (伪造的) 物品都是 **fake** (假的)，但一个 **fake** (假的) 笑不叫 **counterfeit**。
+
+
+'''
+
 == other
+
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|kit
+|image:img/kit.jpg[,30%]
+
+|utensil
+|image:img/utensil.jpg[,30%]
+
+a tool /that is used in the house（家庭）用具，器皿；家什 +
+• cooking/kitchen utensils 炊具；厨房用具
+
+|sewerage
+|image:img/sewerage.jpg[,30%]
+
+|detergent
+|image:img/detergent.jpg[,30%]
+
+|lotion
+|image:img/lotion.jpg[,30%]
+
+|broom
+|image:img/broom.jpg[,30%]
+
+|rug
+|image:img/rug.jpg[,30%]
+
+|cushion
+|image:img/cushion.jpg[,30%]
+
+软垫；坐垫；靠垫
+
+|pad
+|image:img/pad.jpg[,30%]
+
+|blanket
+|image:img/blanket.jpg[,30%]
+
+|pamphlet
+|image:img/pamphlet.jpg[,30%]
+
+a very thin book with a paper cover, containing information about a particular subject 小册子；手册
+
+|memorandum
+|image:img/memorandum.png[,30%]
+
+A memorandum, or memo, is a brief internal communication for an organization, conveying information, requests, or reports, such as policy changes, project updates, or meeting outcomes. A typical memo includes a heading (To, From, Date, Subject), a clear introduction to the main point, a body providing context and details, and a conclusion with any required action. Memos are a vital tool for clear and efficient communication within a business or other organization. +
+
+备忘录或备忘是组织内部的简短沟通，用于传达信息、请求或报告，例如政策变化、项目更新或会议结果 。 典型的备忘录包括标题（收件人、发件人、日期、主题）、要点的清晰介绍、提供背景和细节的正文以及包含任何所需行动的结论。 备忘录是企业或其他组织内部清晰、有效沟通的重要工具。 +
+
+Purpose  目的 +
+
+Memos serve various purposes, including: +
+备忘录有多种用途，包括： +
+
+Announcements: Informing staff about company changes, new policies, or upcoming events. +
+公告 ： 告知员工公司变化、新政策或即将发生的事件。 +
+
+Information Sharing: Providing updates on projects, reports, or relevant information to a group. +
+信息共享 ： 向团体提供项目、报告或相关信息的最新信息。 +
+
+Reminders: Alerting staff to upcoming deadlines, important tasks, or policy guidelines. +
+提醒 ： 提醒员工即将到来的截止日期、重要任务或政策指南。 +
+
+Requesting Action: Outlining specific steps that employees need to take. +
+请求操作 ： 概述员工需要采取的具体步骤。 +
+
+Summarizing: Documenting meeting outcomes or the results of a conversation, often called a Memorandum for the Record (MFR). +
+总结 ： 记录会议成果或谈话结果，通常称为记录备忘录 (MFR)。 +
+
+Components  成分 +
+
+A standard memo includes: +
+标准备忘录包括： +
+
+Heading: The "To," "From," "Date," and "Subject" lines clearly identify the communication's origin and topic. +
+标题 ： “收件人”、“发件人”、“日期”和“主题”行清楚地标明了通信的来源和主题。 +
+
+Introduction: A concise opening statement that directly addresses the main point of the memo. +
+介绍 ： 简洁的开场白，直接阐述备忘录的要点。 +
+
+Body/Context: Provides necessary background information, explains the issue or situation, and gives supporting details. +
+正文/上下文 ： 提供必要的背景信息，解释问题或情况，并提供支持细节。 +
+
+Call to Action: If action is required, this section clearly states what needs to be done and by when. +
+行动呼吁 ： 如果需要采取行动，本节将清楚地说明需要做什么以及何时完成。 +
+
+Closing: A courteous ending to the memo. +
+结束语 ： 备忘录的结尾很有礼貌。 +
+
+Optional Attachments/CC: May include references to attachments or lists of additional recipients. +
+可选附件/抄送 ： 可能包括附件或其他收件人列表的引用。 +
+
+|stationery
+|image:img/stationery.jpg[,30%]
+
+1.materials for writing and for using in an office, for example paper, pens and envelopes 文具 +
+2.special paper for writing letters on 信纸；信笺
+
+
+|bolt
+|image:img/bolt.jpg[,30%]
+
+|handle
+|image:img/handle.jpg[,30%]
+
+|jar
+|image:img/jar.jpg[,30%]
+
+|spotlight
+|image:img/spotlight.jpg[,30%]
+
+|hurdle
+|image:img/hurdle.jpg[,30%]
+
+|dredge
+|image:img/dredge.jpg[,30%]
+
+(v.)
+~ (sth) (for sth) :to remove mud, stones, etc. from the bottom of a river, canal , etc. using a boat or special machine, to make it deeper or to search for sth疏浚；清淤；挖掘
+[ VN] +
+•They're dredging the harbour /so that larger ships can use it. 他们正在疏浚港湾以便大船驶入。 +
+•They dredge (v.) the bay for gravel.他们在挖掘海湾沙砾。
+
+
+|pitch
+|image:img/pitch 3.jpg[,30%]
+
+|lime
+|image:img/lime.jpg[,30%]
+
+酸橙（树）；酸橙饮料；酸橙绿色，淡黄绿色；石灰，生石灰；欧椴树，菩提树
+
+
+
+|plaster
+|image:img/plaster.jpg[,30%]
+
+
+|===
 
 
 '''
