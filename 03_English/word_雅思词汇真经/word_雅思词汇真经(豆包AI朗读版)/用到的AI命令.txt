@@ -1,0 +1,106 @@
+
+
+对以下的单词, 给出释义和例句. 要求是:
+
+1.如果某个单词有多个意思, 就给出多个意思.  如果某个单词有多个词性(比如即是名词, 也是动词, 也是形容词等等), 也给出它多个词性常用意思的例句. 注意:对于例句, 每个词性只要给出一个例句即可. 比如, 假设一个单词有 n., v., adj. 三个词性, 则每个词性只需给出一个例句即可. 即, 该单词整体只需输出三个例句即可.
+
+2.单词的意思, 只需给出最常用的意思, 不要给出俚语意思和非正式的意思. 比如, bully, 它有非正式的意思 adj.<美，非正式>很棒，一流的, 和 int.
+<非正式>没什么了不起,  那么这些非正式的意思就不需要给出.
+
+
+3.输出格式为: 每个单词的例句(无论有一个还是多个)都放在一行上面. 比如: tide 和current 这两个单词, 给例句时要如下这样输出.  每个例句前加个▶符号作为开头标识符. 例句的中文翻译要放在后面的小括号里.  该单词不同的词性,放在【】符号里面.
+
+即, 输出模式的参考为:
+
+tide 【n.潮；潮水】: ▶It takes courage to speak out against the tide of opinion. (跟舆论趋向唱反调需要勇气。)  ( 我的说明, 这个单词只有一个名词词性, 就只要给出一个例句即可.)
+current 【adj.当前的；通用的，流行的. n.水流，气流；电流；思潮，趋势】: ▶Ministers are worried by this current of anti-government feeling. (部长们对这股反政府情绪感到担忧。)
+▶a 15 amp electrical current (15安培的电流)  ( 我的说明, 这个单词只有形容词和名词, 两个词性, 就要给出两个例句. 每个词性一个例句.)
+
+现在, 对下面的单词进行上面的要求操作
+
+
+
+
+------------------
+
+
+
+我有一个txt文件, 地址是:
+
+C:\phpStorm_proj\02_myself_ID_EGO\03_English\word_雅思词汇真经\word_雅思词汇真经(豆包AI朗读版)\纯例句.txt
+
+里面的内容, 是英语单词释义和例句, 每行一个单词.
+
+比如, 部分内容是如下这样的:
+
+atmosphere: ▶The atmosphere at the dinner party was warm and friendly. (晚宴上的气氛温暖而友好。) ▶They are studying the chemical composition of Jupiter's atmosphere. (他们正在研究木星大气的化学成分。)
+hydrosphere: ▶The hydrosphere includes all the water on Earth's surface, such as oceans, lakes, and rivers. (水圈包括地球表面所有的水，例如海洋、湖泊和河流。)
+deposit 【n.存款；定金；沉淀物；v.存放；存入】: ▶You need to pay a deposit to secure the booking. (你需要付定金来确认预订。) ▶Please deposit the money into my account. (请将钱存入我的账户。)
+installment 【n.分期付款；部分】: ▶We paid for the car in monthly installments. (我们按月分期付款买这辆车。)
+
+
+即, 每行的冒号(:)或【 符号前面的内容, 就是每个英文单词本身. 每个▶后面的,就是例句.
+
+你来编写一个python程序, 执行以下功能:
+
+1.把每行的单词本身, 重复三遍.
+2.把后面的每个例句的英文部分(不需要中文部分), 各自重复两遍.
+3.在非空行, 即有内容的行后, 加一个空格和"+"号.
+4.单词与单词之间, 用 ''' 来分隔.
+
+例如, 我要的效果就是变成如下这样的:
+
+atmosphere +
+atmosphere +
+atmosphere +
+
+
+▶The atmosphere at the dinner party was warm and friendly. +
+▶The atmosphere at the dinner party was warm and friendly. +
+
+▶They are studying the chemical composition of Jupiter's atmosphere. +
+▶They are studying the chemical composition of Jupiter's atmosphere. +
+
+'''
+
+hydrosphere +
+hydrosphere +
+hydrosphere +
+
+The hydrosphere includes all the water on Earth's surface, such as oceans, lakes, and rivers. +
+The hydrosphere includes all the water on Earth's surface, such as oceans, lakes, and rivers. +
+
+'''
+
+deposit +
+deposit +
+deposit +
+
+You need to pay a deposit to secure the booking. +
+You need to pay a deposit to secure the booking. +
+
+Please deposit the money into my account. +
+Please deposit the money into my account. +
+
+'''
+
+installment +
+installment +
+installment +
+
+We paid for the car in monthly installments. +
+We paid for the car in monthly installments. +
+
+'''
+
+
+把修改后的内容, 重新另存一个新的txt文件
+
+
+------------------------
+
+
+
+
+
+
