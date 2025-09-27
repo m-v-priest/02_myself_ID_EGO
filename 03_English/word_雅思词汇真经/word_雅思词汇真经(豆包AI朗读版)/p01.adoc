@@ -1,12 +1,3 @@
-
-= part 1
-:toc: left
-:toclevels: 3
-:sectnums:
-:stylesheet: ../../../myAdocCss.css
-
-'''
-
 atmosphere +
 atmosphere +
 atmosphere +
@@ -2278,5 +2269,21 @@ gasoline +
 gasoline +
 ▶Gasoline prices are rising. +
 ▶Gasoline prices are rising. +
+
+'''
+
+petroleum +
+petroleum +
+petroleum +
+▶Petroleum is a crucial natural resource. +
+▶Petroleum is a crucial natural resource. +
+
+'''
+
+photosynthesis +
+photosynthesis +
+photosynthesis +
+▶Plants produce energy through photosynthesis. +
+▶Plants produce energy through photosynthesis. +
 
 '''

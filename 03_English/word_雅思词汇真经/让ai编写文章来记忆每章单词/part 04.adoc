@@ -1,0 +1,164 @@
+= part 04
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: myAdocCss.css
+
+
+'''
+
+
+== Cosmic Perspectives: From Earth to the Cosmos
+
+Astronomy, the scientific study of celestial objects, stands in distinct contrast to astrology, which is a belief system. Through the lens of a powerful telescope at an observatory, the cosmos reveals itself as an overwhelming expanse. Our home galaxy, the Milky Way, is just one of billions in the universe. The terrestrial concerns of our planet seem small when faced with the interstellar void.
+
+The motion of planets around the sun follows a path called the ecliptic, and their orbit is governed by the dynamics of gravity. Celestial bodies come in many forms. A comet, for instance, is a chunk of ice and dust that develops a glowing tail as it approaches the sun. If a piece survives its journey through the atmosphere and hits the ground, it is called a meteorite, often leaving a crater upon collision. These events, while dramatic, are not necessarily cataclysmic for the entire planet.
+
+Human exploration has ventured beyond Earth. An astronaut might travel aboard a spaceship or a specialized spacecraft probe on an expedition to Mars. Such a mission might include a flyby of another planet for a gravitational assist. The spacecraft itself is a marvel of engineering, consisting of a command module and a propulsion system. It must withstand the vacuum and pressure of space. Communication with Earth is vital; an antenna sends and receives signals across vast interstellar distances, which are often measured in light-years, a unit of dimension so large it can feel overwhelming.
+
+When we analyse a celestial specimen, like moon rock samples, we learn about its composition. All substance is made of molecules, which are in turn made of atoms. An atom consists of a nucleus surrounded by electrons. The field of quantum mechanics studies the behaviour of these tiny particles. The spectrum of light from a star, affected by refraction, tells us about the compounds present. Some elements are radioactive and emit ultraviolet or other invisible energies. This light is invisible to our eyes but discernible with the right instruments. The formation of stars is a process that can synthesise heavier elements from simpler ones. While the sheer scale of the universe could lead to despair, it instead fuels our desperate and hopeful quest for knowledge, proving that the situation is far from hopeless.
+
+宇宙视角：从地球到宇宙
+
+天文学是对天体的科学研究，与作为信仰体系的占星术形成鲜明的对比。通过天文台强大望远镜的镜头，宇宙展现为一片浩瀚无垠的景象。我们的家园星系，银河系，只是宇宙中数十亿星系之一。面对星际虚空，我们星球的地球事务显得微不足道。
+
+行星围绕太阳的运动遵循一条称为黄道的路径，它们的轨道由引力的动力学所支配。天体有多种形式。例如，彗星是一块由冰和尘埃构成的大块物质，在接近太阳时会形成一条发光的尾巴。如果一块物质在穿越大气层后幸存下来并撞击地面，它就被称为陨石，通常在碰撞后留下一个陨石坑。这些事件虽然戏剧性，但对整个星球来说不一定是灾难性的。
+
+人类的探索已经超越了地球。一名宇航员可能乘坐宇宙飞船或专门的航天器探测器进行前往火星的远征。这样的任务可能包括借助另一颗行星的引力进行飞越。航天器本身是工程的奇迹，由指挥舱和推进系统组成。它必须能够承受太空的真空和压力。与地球的通信至关重要；天线跨越巨大的星际距离发送和接收信号，这种距离通常以光年计量，这是一个如此巨大的维度单位，可能让人感到难以承受的。
+
+当我们分析一个天体样本，比如月球岩石样本时，我们了解其成分。所有物质都由分子构成，而分子又由原子构成。一个原子由一个被电子包围的原子核组成。量子力学领域研究这些微小粒子的行为。来自恒星的光的光谱，受折射影响，告诉我们存在的化合物。一些元素是放射性的，会发出紫外线或其他不可见的能量。这种光对我们的眼睛是不可见的，但用正确的仪器是可辨别的。恒星的形成是一个可以从更简单的元素合成更重元素的过程。虽然宇宙的庞大规模可能导致绝望，但它反而激发了我们迫切而充满希望的求知欲，证明情况远非无望。
+
+'''
+
+== The Nature of Matter and Cosmic Events
+
+All substance in the universe, from a distant galaxy to the dust on a bookshelf, has a specific composition. Scientists use a systematic method to understand this, breaking matter down into its constituents. A solid has a fixed shape, a liquid is a fluid that takes the shape of its container, and a gas will expand to fill any space. At the most minute level, we find particles like electrons, which orbit the nucleus of an atom. When an atom gains or loses an electron, it becomes an ion.
+
+The formation of complex molecules from atoms is a key process. Scientists can even synthesise new compounds in laboratories. The light we see is just a small part of the electromagnetic spectrum, which includes invisible ultraviolet and radioactive gamma rays. The frequency of a light wave determines its color and energy. When light passes through a prism, refraction bends it, spreading it out into a rainbow spectrum. This principle is used in telescopes to analyse the light from stars, telling us about their composition.
+
+Sometimes, cosmic events are violent. A collision between two asteroids can fragment them into countless pieces. The force of such an impact can be so great that it could squash a meteorite upon hitting the ground, creating a crater. A cataclysmic event, like a supernova, is truly overwhelming in its energy release. The dust and ash from such explosions are ejected into space, forming an envelope around the remnant. This material can eventually coalesce into new stars and planets. The tail of a comet is a discernible spectacle in the night sky, a visible trail of dust and gas. The dynamics of orbital motion mean that these events, while seemingly chaotic, follow predictable physical laws. In the face of such immense power, one might feel a sense of despair or feel hopeless to comprehend it all. Yet, the desperate human drive to understand pushes us to build better instruments and theories, turning despair into discovery.
+
+物质的本质与宇宙事件
+
+宇宙中的所有物质，从遥远的星系到书架上的灰尘，都有其特定的成分。科学家使用系统性的方法来理解这一点，将物质分解为其组成部分。固体有固定的形状，液体是一种流体，呈现其容器的形状，而气体会膨胀以充满任何空间。在最微小的层面，我们发现了像电子这样的粒子，它们围绕原子核运动。当一个原子获得或失去电子时，它就变成了离子。
+
+从原子形成复杂分子是一个关键过程。科学家甚至可以在实验室中合成新的化合物。我们看到的光只是电磁频谱的一小部分，其中包括不可见的紫外线和放射性的伽马射线。光波的频率决定了其颜色和能量。当光通过棱镜时，折射使其弯曲，将其展开成彩虹光谱。这一原理被用于望远镜中，以分析来自恒星的光，从而告诉我们它们的成分。
+
+有时，宇宙事件是剧烈的。两颗小行星之间的碰撞可能将它们碎裂成无数块。这种撞击的力量可能非常巨大，以至于陨石撞击地面时会被压扁，形成一个陨石坑。灾难性的事件，比如超新星爆发，其能量释放确实是压倒性的。此类爆炸产生的尘埃和灰烬被抛入太空，在残余物周围形成一个包层。这些物质最终可以凝聚成新的恒星和行星。彗星的尾巴是夜空中一个可辨别的奇观，一条由尘埃和气体组成的可见轨迹。轨道运动的动力学意味着这些事件，虽然看似混乱，却遵循可预测的物理定律。面对如此巨大的力量，人们可能会感到一种绝望，或者觉得无望去理解这一切。然而，迫切的人类求知欲推动我们建造更好的仪器和发展更好的理论，将绝望转化为发现。
+
+'''
+
+== The Technology of Discovery
+
+The quest to understand the cosmos relies heavily on technology. An observatory housing a large telescope is a primary tool for astronomy. These instruments detect light from the faintest galaxy, analysing its spectrum to determine the velocity and composition of stars. They can discern distinct features on planets, such as the diameter and radius of a gas giant. Some telescopes detect radioactive decay or ultraviolet light, which are invisible to the human eye but carry vast amounts of information.
+
+Space exploration takes this further. An uncrewed spacecraft, or probe, can be sent on an expedition for a flyby of a planet like Jupiter. The probe might have a heat shield to vent extreme temperatures during atmospheric entry. Its propulsion system provides the pressure needed for motion through the interstellar medium. The main module contains intricate circuitry and an antenna to send a weak signal back to Earth, a desperate attempt to communicate across the void. The trajectory of the spacecraft often follows a curve dictated by gravity.
+
+The data collected is invaluable. A sample of solar wind particles or a specimen of Martian soil can be analysed for its atomic and molecular composition. We learn that a chunk of asteroid is a solid substance with a specific method of formation. The study of quantum dynamics helps us understand the behaviour of electrons within these materials. The cataclysmic collision that created the Moon's large craters is recorded in the fossilised impact fragments. The sheer scale of these endeavours could make one feel hopelessly small, and the challenges can lead to despair. The dust and ash from a rocket launch are a tangible reminder of the struggle. But each successful mission, each discernible signal from a probe billions of miles away, is a spectacle of human achievement. It proves that our desperate curiosity can overcome the overwhelming distances, turning the invisible secrets of the universe into knowledge.
+
+发现的技术
+
+理解宇宙的探索极大地依赖于技术。装有大型望远镜的天文台是天文学的主要工具。这些仪器探测来自最微弱星系的光，分析其光谱以确定恒星的速度和成分。它们可以分辨行星上独特的特征，例如气态巨行星的直径和半径。一些望远镜探测放射性的衰变或紫外线，这些对人眼是不可见的，但携带着大量信息。
+
+太空探索则更进一步。一个无人的航天器，或探测器，可以被派遣进行一次远征，飞越像木星这样的行星。探测器可能有一个隔热罩，用于在大气层进入期间排放极端高温。其推进系统提供在星际介质中运动所需的压力。主舱包含复杂的电路和一个天线，用于将一个微弱的信号发送回地球，这是跨越虚空的拼尽全力的通信尝试。航天器的轨迹通常遵循由引力决定的曲线。
+
+收集的数据是无价的。可以分析太阳风粒子的样本或火星土壤的标本的原子和分子成分。我们了解到一块小行星碎块是一种具有特定形成方式的固体物质。对量子动力学的研究帮助我们理解这些材料内部电子的行为。创造了月球上巨大陨石坑的灾难性碰撞被记录在化石化的撞击碎片中。这些努力的庞大规模可能让人感到无望地渺小，挑战可能导致绝望。火箭发射产生的尘埃和灰烬是这场斗争的有形象征。但每一次成功的任务，每一个从数十亿英里外传来的可辨别的探测器信号，都是人类成就的奇观。它证明了我们拼尽全力的好奇心可以克服难以承受的距离，将宇宙不可见的秘密转化为知识。
+
+'''
+
+== The Violent and the Gentle: Cosmic Forces
+
+The study of the cosmos reveals processes of immense power and delicate formation. A cataclysmic event, such as the collision of two galaxies, is almost overwhelming in the energy it releases. The force of such an impact is so great that it could completely squash a planet, compressing its solid structure into a new, denser substance. The resulting fragments and cosmic dust are then scattered across interstellar space.
+
+However, not all cosmic structures are formed violently. A comet, for instance, is a relatively gentle specimen from the outer solar system. As it approaches the sun, the heat causes its icy composition to vaporize, creating a vast, glowing envelope of gas and dust around its nucleus, followed by a magnificent tail that curves away from the sun. This spectacle is a beautiful example of celestial dynamics. The envelope is not a solid shell but a tenuous fluid of gas.
+
+Our understanding comes from careful exploration. A space probe on an expedition might perform a flyby of a comet, capturing samples of its particles. Back on Earth, scientists analyse these samples. Sometimes, the most valuable finds are ancient, like a fossil on Earth, which is the preserved remnant or impression of an ancient organism. Similarly, a meteorite can be considered a type of cosmic fossil, a preserved chunk from the early solar system. Analysing such a specimen requires a precise method. Scientists might study the radioactive decay of its atoms to determine its age. The signal from these ancient fossils tells a story of formation billions of years ago. In the face of the universe's violent history, the survival of these ancient rocks makes our quest for knowledge feel less hopeless. Each discovery alleviates the desperate feeling of not knowing, proving that even the most invisible secrets of the universe can be brought to light.
+
+狂暴与温和：宇宙之力
+
+对宇宙的研究揭示了具有巨大力量的形成过程和精妙的形成过程。一个灾难性的事件，例如两个星系的碰撞，其释放的能量几乎是压倒性的。这种撞击的力量如此之大，以至于可以完全压扁一颗行星，将其固态结构压缩成一种新的、密度更高的物质。由此产生的碎片和宇宙尘埃随后被抛散到星际空间。
+
+然而，并非所有的宇宙结构都是剧烈形成的。例如，彗星是来自外太阳系的一个相对温和的样本。当它靠近太阳时，热量使其冰冷的成分汽化，在其核周围形成一个巨大的、发光的包层，随后是一条宏伟的、背离太阳方向弯曲的尾巴。这一奇观是天体动力学的一个美丽例证。这个包层不是一个坚固的外壳，而是一种稀薄的流体气体。
+
+我们的理解来自于仔细的探索。执行远征任务的太空探测器可能会飞越一颗彗星，捕获其粒子的样本。回到地球后，科学家们分析这些样本。有时，最有价值的发现是古老的，比如地球上的化石，它是古老生物的 preserved 残余或印记。类似地，陨石可以被视为一种宇宙化石，是来自早期太阳系的 preserved 大块物质。分析这样的标本需要精确的方法。科学家可能会研究其原子的放射性衰变来确定其年龄。来自这些古老化石的信号讲述了一个数十亿年前形成的故事。面对宇宙的暴力历史，这些古老岩石的幸存使我们寻求知识的感觉不再那么无望。每一个发现都缓解了迫切想要知道的渴望，证明即使是宇宙最不可见的秘密也能被揭示出来。
+
+'''
+
+
+== 单词表
+
+galaxy
+cosmos
+universe
+interstellar
+terrestrial
+celestial
+astronomy
+astrology
+astronaut
+comet
+meteorite
+crater
+dust
+ash
+envelope
+chunk
+spacecraft
+spaceship
+probe
+module
+propulsion
+pressure
+dynamics
+motion
+vent
+tail
+curve
+exploration
+expedition
+flyby
+observatory
+telescope
+spectacle
+orbit
+ecliptic
+diameter
+radius
+substance
+composition
+compound
+fossil
+sample
+specimen
+particle
+molecule
+atom
+ion
+electron
+quantum
+liquid
+fluid
+solid
+synthesise
+formation
+method
+spectrum
+dimension
+frequency
+signal
+antenna
+circuit
+refraction
+ultraviolet
+radioactive
+distinct
+discernible
+invisible
+collision
+squash
+fragment
+cataclysmic
+overwhelming
+despair
+desperate
+hopeless

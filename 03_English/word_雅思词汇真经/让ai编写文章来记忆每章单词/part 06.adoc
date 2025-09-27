@@ -1,0 +1,223 @@
+= part 06
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: myAdocCss.css
+
+'''
+
+
+
+== The Evolution of Technology in Engineering
+
+Technology, the application of scientific knowledge for practical purposes, forms the foundation of engineering, a field where engineers design and build innovative solutions. Engineers often specialise in domains like mechanics, the study of motion and forces, or optics, which explores light and lenses. For instance, an engineer might devise a new device, meaning to plan or create it carefully, as in, “She devises a sensor to detect heat.” This differs from invent, which implies creating something entirely new, like, “He invents a wireless microphone.” To discover, however, is to find something previously unknown, as in, “Scientists discover a new alloy.”
+
+Polytechnic institutes train engineers to utilise tools and techniques—specific methods or skills, such as using a gauge to measure pressure. To measure is to determine size or quantity precisely, like, “Measure the length with a ruler,” while calculate involves mathematical computation, as in, “Calculate the area of a circle.” Compute is similar but often used for complex digital calculations, like, “The software computes data quickly.”
+
+Engineers innovate, introducing breakthroughs—significant advancements—like microcomputers or laptops. A gizmo, a small, often novel device, might be a prototype, an early model used to test concepts. For example, a hydraulic pump, which uses liquid to transfer force, might be a prototype for a drainage system to manage sewage or improve ventilation in buildings.
+
+Patents protect these inventions, legally recognizing original ideas. To patent means to secure this protection, as in, “She patents her new generator design.” Engineers also assemble components, putting them together, as in, “They assemble gears for the machine,” distinct from gather, which means collecting items, like, “Gather tools for the project.”
+
+Technology transforms industries by adapting equipment—devices like microscopes or sensors—to specific needs. To transform means to change significantly, as in, “The software transforms data analysis,” while convert suggests changing form, like, “Convert energy to power.” Alter implies minor changes, as in, “Alter the lens focus,” and adjust is for fine-tuning, like, “Adjust the gauge for accuracy.”
+
+Mistakes or errors, such as a flaw in a design, can lead to faults—defects causing failure. Engineers assess these, evaluating their impact, and correct them to ensure precise, accurate results.
+
+文章的中文翻译
+
+技术，即将科学知识应用于实际目的，是工程学的基石，工程师在这一领域设计和构建创新解决方案。工程师通常专注于力学（研究运动和力）或光学（探索光和透镜）等特定领域。例如，工程师可能设计一种新设备，意思是仔细计划或创造它，如“她设计了一种检测热的传感器。”这与发明不同，发明意味着创造全新的东西，如“他发明了无线麦克风。”然而，发现是找到之前未知的东西，如“科学家发现了一种新合金。”
+
+理工学院培训工程师使用工具和技巧——特定的方法或技能，如使用仪表测量压力。测量是精确确定大小或数量，如“用尺子测量长度，”而计算涉及数学运算，如“计算圆的面积。”计算类似但通常用于复杂的数字计算，如“软件快速计算数据。”
+
+工程师创新，引入突破——重大进展——如微型计算机或笔记本电脑。小装置，通常是新奇的设备，可能是一个原型，用于测试概念的早期模型。例如，液压泵，利用液体传递力，可能是一个用于管理污水或改善建筑物通风的排水系统的原型。
+
+专利保护这些发明，合法认可原创想法。专利化意味着获得这种保护，如“她为她的新发电机设计申请专利。”工程师还组装组件，将它们放在一起，如“他们为机器组装齿轮，”与收集不同，收集意味着收集项目，如“为项目收集工具。”
+
+技术通过适应设备——如显微镜或传感器等设备——来满足特定需求，从而改变行业。转变意味着显著改变，如“软件改变了数据分析，”而转换意味着改变形式，如“将能量转换为动力。”更改意味着小的变化，如“更改镜头焦点，”调整则是微调，如“调整仪表以确保准确性。”
+
+错误或误差，如设计中的缺陷，可能导致故障——导致失败的缺陷。工程师评估这些，评价其影响，并纠正它们以确保精确、准确的结果。
+
+
+
+== Advancements in Digital Technology
+
+Digital technology, based on binary code—using zeros and ones—powers devices like laptops, browsers, and multimedia systems with audio and high-definition screens. Software, programs that operate computers, enables versatile applications, from keyboards for input to loudspeakers for output. For instance, to operate means to control or run, as in, “She operates the software to analyze data,” distinct from facilitate, which means to make easier, like, “The tool facilitates calculations.”
+
+Engineers uncover new techniques, revealing or disclosing them to the public. To uncover is to find something hidden, as in, “They uncover a new algorithm,” while reveal suggests making known, like, “He reveals the software’s features.” Disclose is formal, often for sensitive information, as in, “The company discloses patent details,” and expose can imply revealing flaws, like, “The test exposes a system fault.”
+
+Microphones and cassettes, older technologies, have shifted to wireless systems. To shift means to move or change, as in, “The industry shifts to digital,” while turn suggests a directional change, like, “The focus turns to sensors.” Engineers adapt these, modifying designs, as in, “They adapt the radar for better echoes.”
+
+In networks, sensors detect signals, like radar using echoes to pinpoint locations. To pinpoint is to identify precisely, as in, “The sensor pinpoints the signal’s source,” unlike focus, which means concentrating attention, like, “Focus on the main issue.” Concentrate is similar but implies intense effort, as in, “She concentrates on coding.”
+
+Digital systems compute large data sets, counting or estimating quantities. To count is to tally items, like, “Count the errors in the code,” while estimate approximates, as in, “Estimate the project cost.” Testers evaluate software, checking for flaws—imperfections—or mistakes, ensuring correct performance.
+
+Accessories, like external microphones, or auxiliary components, like extra batteries, enhance devices. Byproducts, unintended results like heat from generators, are managed to simplify systems. Engineers refine designs, improving them, as in, “Refine the prototype,” distinct from purify, which removes impurities, like, “Purify water with a filter,” or distil, extracting essence, like, “Distil chemicals for purity.”
+
+文章的中文翻译
+
+数字技术，基于二进制代码——使用零和一——为笔记本电脑、浏览器和多媒体系统（如音频和高清屏幕）提供动力。软件，操作计算机的程序，支持多功能应用，从输入的键盘到输出的扬声器。例如，操作意味着控制或运行，如“她操作软件分析数据，”与促进不同，促进意味着使更容易，如“工具促进计算。”
+
+工程师发现新技术，向公众揭示或披露它们。发现是找到隐藏的东西，如“他们发现了一种新算法，”而揭示意味着使之为人知，如“他揭示了软件的功能。”披露是正式的，通常用于敏感信息，如“公司披露专利细节，”暴露可能暗示揭示缺陷，如“测试暴露系统故障。”
+
+麦克风和卡带，较旧的技术，已转向无线系统。转变意味着移动或改变，如“行业转向数字，”而转向暗示方向变化，如“焦点转向传感器。”工程师适应这些，修改设计，如“他们调整雷达以获得更好的回声。”
+
+在网络中，传感器检测信号，如雷达使用回声精确定位。精确定位是精确识别，如“传感器精确定位信号源，”与聚焦不同，聚焦意味着集中注意力，如“聚焦于主要问题。”集中类似但暗示强烈努力，如“她专注于编码。”
+
+数字系统计算大数据集，计数或估计数量。计数是清点项目，如“计算代码中的错误，”而估计是大约估算，如“估计项目成本。”测试者评估软件，检查缺陷——不完美——或错误，确保正确性能。
+
+配件，如外部麦克风，或辅助组件，如额外电池，提升设备。副产品，如发电机的热量等意外结果，被管理以简化系统。工程师改进设计，如“改进原型，”与净化不同，净化是去除杂质，如“用过滤器净化水，”或蒸馏，提取精华，如“蒸馏化学品以获得纯度。”
+
+
+
+== Engineering Innovations in Infrastructure
+
+Engineering applies technology to build facilities—structures like bridges or sewage systems—using equipment like pumps or generators. Hydraulic systems, which use liquid pressure, pivot on precise gears to operate machinery. To pivot means to turn on a central point, as in, “The gear pivots to adjust the pump,” distinct from turn, which is broader, like, “Turn the dial to set the mode.”
+
+Engineers gather resources, accumulating materials over time, as in, “They accumulate steel for construction.” To accumulate means to build up gradually, unlike add, which is immediate, like, “Add two components.” They attach parts, connecting them, as in, “Attach the sensor to the device,” and ensure they belong to the system, fitting appropriately.
+
+Infrastructure projects involve frameworks—structural plans—and moulds, templates for shaping materials. Engineers compress gases, reducing volume, as in, “Compress air for storage,” or condense vapors, turning them to liquid, like, “Condense steam in the system.” These differ from simplify, which reduces complexity, as in, “Simplify the design process.”
+
+Instruments like gauges assess pressure, ensuring accurate measurements. To assess is to evaluate carefully, like, “Assess the bridge’s strength,” while evaluate is broader, as in, “Evaluate the project’s success.” Errors, like a wrong calculation, or stumbles—mistakes in execution—require correction to avoid contingencies, unexpected issues arising from circumstances.
+
+Science fiction inspires engineers, imagining fantasy devices like advanced radars or microscopes with high-definition lenses. These visions drive breakthroughs, like wireless networks or multimedia platforms, transforming infrastructure.
+
+Ventilation systems filter air, purifying it, while drainage manages sewage. Each phase of a project, a distinct stage, requires precise techniques to advance technology, ensuring versatile, error-free solutions.
+
+文章的中文翻译
+
+工程学应用技术建造设施——如桥梁或污水处理系统等结构——使用泵或发电机等设备。液压系统，利用液体压力，依靠精确的齿轮旋转来操作机械。旋转意味着在中心点上转动，如“齿轮旋转以调整泵，”与转向不同，转向更广泛，如“转动拨盘设置模式。”
+
+工程师收集资源，逐渐积累材料，如“他们为建筑积累钢材。”积累意味着逐渐增加，与立即添加不同，如“添加两个组件。”他们连接部件，如“将传感器连接到设备，”并确保它们属于系统，适当适合。
+
+基础设施项目涉及框架——结构计划——和模具，用于成型材料的模板。工程师压缩气体，减少体积，如“压缩空气以存储，”或凝聚蒸汽，将其变为液体，如“系统中凝聚蒸汽。”这些与简化不同，简化是减少复杂性，如“简化设计过程。”
+
+仪表如压力表评估压力，确保准确测量。评估是仔细评价，如“评估桥梁的强度，”而评价更广泛，如“评价项目的成功。”错误，如错误的计算，或失误——执行中的错误——需要纠正以避免意外问题，即因情况引起的突发问题。
+
+科幻小说激励工程师，想象先进雷达或高清晰度镜头的显微镜等奇幻设备。这些愿景推动突破，如无线网络或多媒体平台，改变基础设施。
+
+通风系统过滤空气，净化它，而排水系统管理污水。项目的每个阶段，一个独特的阶段，需要精确的技术来推进技术，确保多功能、无错误的解决方案。
+'''
+
+== 单词表
+
+technology
+technique
+polytechnic
+engineer
+mechanic
+advance
+innovate
+breakthrough
+gizmo
+patent
+devise
+invent
+discover
+disclose
+reveal
+uncover
+expose
+domain
+field
+realm
+foundation
+specialise
+absorb
+concentrate
+focus
+utilise
+usage
+tester
+apply
+device
+appliance
+facility
+equipment
+instrument
+tool
+gauge
+measure
+calculate
+compute
+count
+estimate
+assess
+evaluate
+accessory
+byproduct
+auxiliary
+versatile
+add
+accumulate
+assemble
+gather
+attach
+belong
+optics
+microscope
+lens
+radar
+echo
+sensor
+multimedia
+network
+browser
+dial
+microcomputer
+laptop
+software
+keyboard
+screen
+loudspeaker
+microphone
+cassette
+tape
+binary
+digital
+wireless
+high-definition
+audio
+vision
+fantasy
+science fiction
+pump
+generator
+gear
+pivot
+hydraulic
+drainage
+sewage
+ventilation
+compress
+condense
+refine
+simplify
+purify
+filter
+distil
+mode
+mould
+prototype
+framework
+aspect
+phase
+operate
+facilitate
+transform
+convert
+alter
+shift
+turn
+adapt
+adjust
+pinpoint
+accurate
+precise
+correct
+error
+mistake
+flaw
+wrong
+fault
+stumble
+contingency
+circumstance

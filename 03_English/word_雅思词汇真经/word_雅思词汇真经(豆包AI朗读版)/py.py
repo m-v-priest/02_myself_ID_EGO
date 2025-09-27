@@ -20,7 +20,7 @@ def process_file(input_path, output_path):
             word = word_match.group(1).strip()
 
             # 写入单词重复三遍
-            for _ in range(3):
+            for _ in range(1):
                 outfile.write(f"{word} +\n")
 
             # 提取所有例句（▶开头的部分）
@@ -32,16 +32,16 @@ def process_file(input_path, output_path):
                 eng_example = re.sub(r'\s*\([^)]*\)', '', example).strip()
 
                 # 写入英文例句重复两遍
-                for _ in range(2):
+                for _ in range(1):
                     outfile.write(f"▶{eng_example} +\n")
 
             # 添加分隔符
-            outfile.write("'''\n\n")
+            outfile.write("\r\n'''\n\n")
 
 
 # 文件路径
-input_file = r'C:\phpStorm_proj\02_myself_ID_EGO\03_English\word_雅思词汇真经\word_雅思词汇真经(豆包AI朗读版)\纯例句.txt'
-output_file = r'C:\phpStorm_proj\02_myself_ID_EGO\03_English\word_雅思词汇真经\word_雅思词汇真经(豆包AI朗读版)\processed_纯例句.txt'
+input_file = r'纯例句.txt'
+output_file = r'processed_纯例句.txt'
 
 # 处理文件
 process_file(input_file, output_file)

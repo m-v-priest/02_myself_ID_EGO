@@ -1,0 +1,863 @@
+
+'''
+
+stuff +
+▶There's a lot of stuff in the attic that we should sort through. +
+▶She stuffed the turkey with herbs and breadcrumbs. +
+
+'''
+
+item +
+▶The first item on the agenda is the budget. +
+▶I need to buy a few items from the grocery store. +
+
+'''
+
+merchandise +
+▶The store sells merchandise from local artists. +
+
+'''
+
+souvenir +
+▶I bought a souvenir T-shirt from my trip to Paris. +
+
+'''
+
+artefact +
+▶The museum has a collection of ancient Egyptian artefacts. +
+
+'''
+
+material +
+▶The dress is made of a soft, silky material. +
+▶We are gathering material for the report. +
+
+'''
+
+raw +
+▶The factory imports raw materials like cotton and iron ore. +
+▶Don't eat raw eggs. +
+
+'''
+
+crude +
+▶Crude oil needs to be refined before it can be used. +
+▶His manners are rather crude. +
+
+'''
+
+necessity +
+▶Food and water are basic necessities of life. +
+
+'''
+
+outfit +
+▶She wore a stylish outfit to the party. +
+▶The company outfits expeditions to the Arctic. +
+
+'''
+
+kit +
+▶He keeps a first-aid kit in his car. +
+
+'''
+
+utensil +
+▶The kitchen drawer is full of cooking utensils. +
+
+'''
+
+garbage +
+▶Please take out the garbage. +
+
+'''
+
+rubbish +
+▶Put the rubbish in the bin. +
+▶That's a rubbish idea. +
+
+'''
+
+trash +
+▶The park was littered with trash after the concert. +
+▶Don't trash your room. +
+
+'''
+
+recycle +
+▶We recycle our plastic bottles and newspapers. +
+
+'''
+
+reuse +
+▶Try to reuse glass jars instead of throwing them away. +
+
+'''
+
+litter +
+▶Please do not litter. +
+▶The floor was littered with papers. +
+
+'''
+
+waste +
+▶It's a waste of time to worry about things you can't change. +
+▶Don't waste your money on that. +
+
+'''
+
+junk +
+▶The garage is full of old junk. +
+▶I get a lot of junk email. +
+
+'''
+
+landfill +
+▶Most of our household waste ends up in a landfill. +
+
+'''
+
+sewerage +
+▶The city's sewerage system needs an upgrade. +
+
+'''
+
+detergent +
+▶Use a mild detergent to wash these clothes. +
+
+'''
+
+lotion +
+▶She applies lotion to her skin after showering. +
+
+'''
+
+shampoo +
+▶I need to buy more shampoo. +
+
+'''
+
+soap +
+▶Wash your hands with soap and water. +
+
+'''
+
+tub +
+▶The baby is splashing in the tub. +
+▶She ate a tub of ice cream. +
+
+'''
+
+plug +
+▶Pull the plug out of the socket. +
+▶He plugged the hole with a piece of cloth. +
+
+'''
+
+tap +
+▶Turn on the tap to get some water. +
+▶He tapped me on the shoulder to get my attention. +
+
+'''
+
+pipe +
+▶Water flows through the pipes to our house. +
+▶He likes to pipe music into his office. +
+
+'''
+
+tube +
+▶The artist squeezed paint from a tube. +
+▶We took the tube to the city centre. +
+
+'''
+
+mop +
+▶She used a mop to clean the kitchen floor. +
+▶He mopped the sweat from his brow. +
+
+'''
+
+broom +
+▶Sweep the floor with a broom. +
+
+'''
+
+sweep +
+▶She sweeps the floor every morning. +
+▶The fire swept through the forest. +
+
+'''
+
+mattress +
+▶We need a new mattress for our bed. +
+
+'''
+
+carpet +
+▶There is a red carpet on the floor. +
+
+'''
+
+rug +
+▶There is a beautiful Persian rug in the living room. +
+
+'''
+
+mat +
+▶Wipe your feet on the doormat. +
+
+'''
+
+cushion +
+▶She sat on a cushion on the floor. +
+▶The soft grass cushioned his fall. +
+
+'''
+
+pad +
+▶He wrote a note on a writing pad. +
+▶The chair legs are padded to protect the floor. +
+
+'''
+
+blanket +
+▶She wrapped herself in a warm blanket. +
+▶A blanket of snow covered the ground. +
+
+'''
+
+quilt +
+▶My grandmother made this quilt by hand. +
+
+'''
+
+sheet +
+▶She put clean sheets on the bed. +
+▶A sheet of ice covered the pond. +
+
+'''
+
+pillow +
+▶I need a softer pillow. +
+
+'''
+
+sponge +
+▶Use a sponge to wipe the counter. +
+▶He sponged off his friends for months. +
+
+'''
+
+towel +
+▶Dry your hair with a towel. +
+
+'''
+
+staple +
+▶Bread is a staple food in many cultures. +
+▶She stapled the papers together. +
+
+'''
+
+nail +
+▶He hammered a nail into the wall to hang the picture. +
+▶I need to trim my nails. +
+
+'''
+
+razor +
+▶He uses an electric razor to shave. +
+
+'''
+
+shave +
+▶He shaves every morning. +
+▶The car just shaved the edge of the wall. +
+
+'''
+
+fuse +
+▶The fuse blew when we turned on the heater. +
+▶The two companies fused to form a larger one. +
+
+'''
+
+cable +
+▶The bridge is supported by strong steel cables. +
+▶We have cable television. +
+
+'''
+
+cord +
+▶He tied the package with a cord. +
+▶The vacuum cleaner has a long cord. +
+
+'''
+
+strand +
+▶A strand of hair fell across her face. +
+▶He was stranded on a desert island. +
+
+'''
+
+match +
+▶He struck a match to light the candle. +
+▶The curtains are a good match for the carpet. +
+▶The two teams will match each other in the final. +
+
+'''
+
+candle +
+▶She lit a candle when the power went out. +
+
+'''
+
+wax +
+▶The candle is made of wax. +
+▶He waxed his car to make it shine. +
+
+'''
+
+portfolio +
+▶The artist showed me his portfolio of drawings. +
+▶She manages a diverse investment portfolio. +
+
+'''
+
+paperback +
+▶I prefer to read paperback books because they are lighter. +
+
+'''
+
+pamphlet +
+▶They were handing out pamphlets about the election. +
+
+'''
+
+tissue +
+▶Use a tissue to blow your nose. +
+▶Muscle tissue is different from nerve tissue. +
+
+'''
+
+cover +
+▶Put a cover on the sofa to protect it. +
+▶The book has a blue cover. +
+▶The insurance policy covers fire damage. +
+
+'''
+
+Xerox +
+▶Can you Xerox this document for me? +
+▶I made a Xerox of the report. +
+
+'''
+
+duplicate +
+▶Keep a duplicate of the key. +
+▶The file was duplicated accidentally. +
+
+'''
+
+memorandum +
+▶A memorandum was sent to all staff. +
+
+'''
+
+stationery +
+▶The company logo is printed on its stationery. +
+
+'''
+
+glue +
+▶Use glue to stick the pieces together. +
+▶His eyes were glued to the television screen. +
+
+'''
+
+ink +
+▶The printer is running out of ink. +
+
+'''
+
+rubber +
+▶Pencils often have a rubber on the end. +
+▶Tires are made of rubber. +
+
+'''
+
+scissors +
+▶Use scissors to cut the paper. +
+
+'''
+
+shear +
+▶The farmer shears the sheep's wool in the spring. +
+▶The bolt sheared off under the pressure. +
+
+'''
+
+edge +
+▶Be careful, the knife has a sharp edge. +
+▶She edged her way along the narrow ledge. +
+
+'''
+
+rim +
+▶The rim of the cup is chipped. +
+▶He rimmed the basketball. +
+
+'''
+
+element +
+▶Water is composed of the elements hydrogen and oxygen. +
+▶Honesty is a key element in a good relationship. +
+
+'''
+
+factor +
+▶Cost is an important factor in our decision. +
+
+'''
+
+section +
+▶Please read the first section of the chapter. +
+▶The shopping section of town is very busy. +
+
+'''
+
+tag +
+▶There is a price tag on the shirt. +
+▶The dog has a tag with its name and address. +
+▶The child tagged along with his older brother. +
+
+'''
+
+label +
+▶Read the label on the bottle before taking the medicine. +
+▶He was labelled a troublemaker. +
+
+'''
+
+badge +
+▶The police officer showed his badge. +
+
+'''
+
+bolt +
+▶Use a bolt to secure the door. +
+▶The horse bolted out of the gate. +
+
+'''
+
+knob +
+▶Turn the knob to adjust the volume. +
+
+'''
+
+handle +
+▶The handle on the door is broken. +
+▶Can you handle this situation? +
+
+'''
+
+shutter +
+▶Close the shutters to keep out the light. +
+▶He shuttered the windows before the storm. +
+
+'''
+
+curtain +
+▶She drew the curtains to let in the sunlight. +
+
+'''
+
+pane +
+▶A stone broke a pane of glass in the window. +
+
+'''
+
+opacity +
+▶The opacity of the glass provides privacy. +
+
+'''
+
+jar +
+▶She stored the cookies in a glass jar. +
+▶The sudden noise jarred me. +
+
+'''
+
+barrel +
+▶The wine is aged in oak barrels. +
+▶He barrelled down the hill on his bike. +
+
+'''
+
+bucket +
+▶He carried water in a bucket. +
+▶It's raining buckets outside. +
+
+'''
+
+pail +
+▶The child carried a pail of sand at the beach. +
+
+'''
+
+phone +
+▶I'll phone you tomorrow. +
+▶Answer the phone, please. +
+
+'''
+
+bell +
+▶The bell rang to signal the end of class. +
+▶The boxer was saved by the bell. +
+
+'''
+
+camera +
+▶I forgot to bring my camera on the trip. +
+
+'''
+
+portable +
+▶I have a portable radio. +
+
+'''
+
+spotlight +
+▶The spotlight was on the lead actor. +
+▶The scandal has been spotlighted in the media. +
+
+'''
+
+lantern +
+▶We used a lantern to light our way in the dark. +
+
+'''
+
+bulb +
+▶The light bulb needs to be replaced. +
+▶Tulip bulbs are planted in the autumn. +
+
+'''
+
+flashlight +
+▶Take a flashlight in case it gets dark. +
+
+'''
+
+refrigerator +
+▶Put the milk in the refrigerator. +
+
+'''
+
+fridge +
+▶Please put the milk back in the fridge. +
+
+'''
+
+vacuum +
+▶I need to vacuum the carpets this weekend. +
+▶Sound cannot travel through a vacuum. +
+
+'''
+
+fan +
+▶Turn on the fan; it's very hot in here. +
+▶She is a big fan of classical music. +
+▶The flames fanned by the wind grew larger. +
+
+'''
+
+switch +
+▶Flick the switch to turn on the light. +
+▶He switched careers from teaching to journalism. +
+
+'''
+
+hurdle +
+▶The runner cleared the last hurdle and won the race. +
+▶Getting funding was the biggest hurdle for the project. +
+
+'''
+
+fence +
+▶The garden is surrounded by a wooden fence. +
+▶He fenced in the yard to keep the dog safe. +
+
+'''
+
+pedal +
+▶Press the pedal to accelerate the car. +
+▶She pedaled her bicycle up the hill. +
+
+'''
+
+shelf +
+▶Put the books back on the shelf. +
+
+'''
+
+ladder +
+▶He used a ladder to climb onto the roof. +
+▶She is climbing the corporate ladder quickly. +
+
+'''
+
+lift +
+▶Can you give me a lift to the station? +
+▶Lift the box onto the table. +
+▶The good news lifted my spirits. +
+
+'''
+
+stool +
+▶He sat on a stool at the bar. +
+
+'''
+
+drawer +
+▶The cutlery is in the top drawer. +
+
+'''
+
+umbrella +
+▶Take an umbrella; it looks like rain. +
+
+'''
+
+raincoat +
+▶She wore a yellow raincoat on the rainy day. +
+
+'''
+
+dredge +
+▶They had to dredge the river to make it navigable. +
+▶Dredge the fish with flour before frying. +
+
+'''
+
+can +
+▶Open a can of beans for dinner. +
+▶She can speak three languages fluently. +
+▶He was canned from his job for being late. +
+
+'''
+
+mill +
+▶The old mill used water power to grind grain. +
+▶The crowd milled around outside the stadium. +
+
+'''
+
+forge +
+▶The blacksmith forges horseshoes from iron. +
+▶They forged a strong friendship during the trip. +
+▶He was arrested for forging documents. +
+
+'''
+
+alloy +
+▶Brass is an alloy of copper and zinc. +
+
+'''
+
+metal +
+▶The bridge is made of metal. +
+
+'''
+
+iron +
+▶The poker was made of iron. +
+▶She needs to iron her shirt. +
+
+'''
+
+lead +
+▶Lead is a heavy metal. +
+▶She will lead the discussion. +
+▶The dog's lead is tied to the post. +
+
+'''
+
+brass +
+▶The door handles are made of brass. +
+
+'''
+
+bronze +
+▶The statue is made of bronze. +
+
+'''
+
+cement +
+▶Cement is used to make concrete. +
+▶The agreement cemented their partnership. +
+
+'''
+
+pitch +
+▶The pitch of the roof is very steep. +
+▶The singer has a high pitch. +
+▶He pitched the ball to the batter. +
+▶The road was paved with pitch. +
+
+'''
+
+lime +
+▶Lime is used in making cement. +
+▶I'd like a lime with my drink. +
+
+'''
+
+plaster +
+▶The walls were covered with plaster. +
+▶He had a plaster cast on his broken arm. +
+
+'''
+
+leather +
+▶His wallet is made of genuine leather. +
+
+'''
+
+plastic +
+▶The toys are made of plastic. +
+▶Plastic surgery can change a person's appearance. +
+
+'''
+
+fibre +
+▶Dietary fibre is good for your digestion. +
+▶Nylon is a synthetic fibre. +
+
+'''
+
+fabric +
+▶She bought some fabric to make a dress. +
+▶The fabric of society is changing. +
+
+'''
+
+knit +
+▶My grandmother knit me a sweater. +
+▶The broken bone will knit together in a few weeks. +
+
+'''
+
+weave +
+▶She learned to weave baskets from reeds. +
+▶He weaves a fascinating story. +
+
+'''
+
+canvas +
+▶The artist painted on a large canvas. +
+▶The bags are made of heavy canvas. +
+
+'''
+
+linen +
+▶The bed sheets are made of linen. +
+
+'''
+
+cotton +
+▶This shirt is 100% cotton. +
+
+'''
+
+nylon +
+▶Nylon is a strong, synthetic material. +
+
+'''
+
+lumber +
+▶The truck was carrying a load of lumber. +
+▶A bear lumbered through the forest. +
+
+'''
+
+wooden +
+▶The table is made of wooden planks. +
+▶His performance was a bit wooden. +
+
+'''
+
+mine +
+▶He works in a coal mine. +
+▶This book is mine, not yours. +
+▶The area was heavily mined during the war. +
+
+'''
+
+pit +
+▶They dug a deep pit in the ground. +
+▶The peach pit is hard. +
+▶The two boxers were pitted against each other. +
+
+'''
+
+fuel +
+▶The plane ran out of fuel. +
+▶His remarks fueled the argument. +
+
+'''
+
+lubricate +
+▶You need to lubricate the engine regularly. +
+
+'''
+
+diamond +
+▶She wore a diamond ring on her finger. +
+▶A baseball diamond has four bases. +
+
+'''
+
+crystal +
+▶The chandelier is made of crystal. +
+▶The salt formed beautiful crystals. +
+
+'''
+
+inferior +
+▶This product is of inferior quality. +
+▶He felt inferior to his more successful brother. +
+
+'''
+
+counterfeit +
+▶The police seized a large amount of counterfeit money. +
+▶They were arrested for counterfeiting designer handbags. +
+
+'''
+
+fake +
+▶The painting was a fake. +
+▶He faked an illness to avoid the test. +
+▶She has a fake ID. +
+
+'''
+
+fragile +
+▶Handle the package carefully; it's fragile. +
+▶The economy is in a fragile state. +
+
+'''
+
+miniature +
+▶He collects miniature models of cars. +
+▶She has a miniature poodle. +
+
+'''
+
+available +
+▶Is the manager available to see me now? +
+▶Tickets are available online. +
+
+'''
