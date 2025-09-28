@@ -4,10 +4,21 @@ import os
 
 # --- 配置部分 ---
 # 请确保这些路径与您的文件实际路径一致
-ARTICLE_PATH = "C:\\Users\\priest\\Desktop\\000_已编文章.txt"
-ALL_WORDS_PATH = "C:\\Users\\priest\\Desktop\\01_all单词表.txt"
-USED_WORDS_PATH = "C:\\Users\\priest\\Desktop\\02_已使用的单词.txt"
-UNUSED_WORDS_PATH = "C:\\Users\\priest\\Desktop\\03_未用到的单词.txt"
+#公司电脑用这个路径
+# ARTICLE_PATH = "C:\\Users\\priest\\Desktop\\000_已编文章.txt"
+# ALL_WORDS_PATH = "C:\\Users\\priest\\Desktop\\01_all单词表.txt"
+# USED_WORDS_PATH = "C:\\Users\\priest\\Desktop\\02_已使用的单词.txt"
+# UNUSED_WORDS_PATH = "C:\\Users\\priest\\Desktop\\03_未用到的单词.txt"
+
+
+#家里电脑用这个路径
+ARTICLE_PATH = "C:\\Users\\mvpri\\Desktop\\000_已编文章.txt"
+ALL_WORDS_PATH = "C:\\Users\\\mvpri\\Desktop\\01_all单词表.txt"
+USED_WORDS_PATH = "C:\\Users\\\mvpri\\Desktop\\02_已使用的单词.txt"
+UNUSED_WORDS_PATH = "C:\\Users\\\mvpri\\Desktop\\03_未用到的单词.txt"
+
+
+
 
 # 加载 spaCy 模型
 # 确保您已经运行了 python -m spacy download en_core_web_sm

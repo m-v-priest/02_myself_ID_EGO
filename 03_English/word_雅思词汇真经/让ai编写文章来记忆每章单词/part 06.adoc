@@ -5,9 +5,354 @@
 :stylesheet: myAdocCss.css
 
 '''
+== The Tech Startup Pitch
 
+Inventor: Our new device is a breakthrough in wireless technology. It uses advanced sensors and operates in binary mode for precise data.
+
+Investor: Explain the technique. How does it transform user interaction?
+
+Inventor: Well, it's a versatile tool. It can adapt to various circumstances. We devised a special lens for the optical component.
+
+Investor: Is the prototype accurate? I've seen many gadgets with flaws. One wrong calculation in the software can be a costly error.
+
+Inventor: Our testing phase was thorough. We had to adjust the microcomputer's settings, but now it's correct. We even have a patent pending.
+
+Investor: What about production? Do you have the equipment to assemble these?
+
+Inventor: We'll utilise a local polytechnic's facility. Their engineers helped us refine the manufacturing process.
+
+Investor: Interesting. This could revolutionise the multimedia domain. But what's your contingency plan if the market shifts?
+
+Inventor: We can easily convert it for industrial usage. It's not just science fiction fantasy - this is practical innovation.
+
+科技初创公司路演
+
+发明者: 我们的新设备是无线技术的一项突破。它使用先进的传感器并以二进制模式运行以获得精确数据。
+
+投资者: 解释一下技术原理。它如何改变用户互动？
+
+发明者: 嗯，它是一种多功能工具。它能适应各种情况。我们为光学组件设计了一种特殊的镜片。
+
+投资者: 原型机精确吗？我见过很多有缺陷的小玩意。软件中的一个计算错误可能代价高昂。
+
+投资者: 我们的测试阶段很彻底。我们不得不调整微电脑的设置，但现在它是正确的。我们甚至已经申请了专利。
+
+投资者: 生产方面呢？你们有组装这些设备的装备吗？
+
+发明者: 我们将利用当地理工学院（polytechnic）的设施。他们的工程师帮助我们改进了制造流程。
+
+投资者: 有意思。这可能会彻底改变多媒体领域。但如果市场转变，你们的应急计划是什么？
+
+发明者: 我们可以轻松地将其转换为工业用途。这不仅仅是科幻幻想——这是实用的创新。
 
 '''
+
+== The Engineering Lab Nightmare
+
+Lead Engineer: The hydraulic pump's pivot has a flaw. It's the wrong size by just two millimeters!
+
+Assistant: That's a tiny error, but in this circumstance, it could cause a complete system failure. The gear won't turn properly.
+
+Lead Engineer: We need to pinpoint the exact phase where this mistake happened in assembly. Was it a fault in the tool we used to measure?
+
+Assistant: I'll check the gauge we used. Maybe it needs adjustment. This equipment is supposed to be precise.
+
+Lead Engineer: While you do that, I'll compute the stress this puts on the framework. We might need to alter the drainage design entirely.
+
+Assistant: What a mess. One small stumble in our process, and now we have to reassemble the whole ventilation unit.
+
+Lead Engineer: That's engineering. Every aspect must be correct. There's no room for fantasy when dealing with sewage systems!
+
+Assistant: True. I'll gather the correct accessories. Let's hope this is the only thing wrong.
+
+工程实验室的噩梦
+
+首席工程师: 液压泵的枢轴有缺陷。尺寸错了，只差两毫米！
+
+助理: 这是个很小的错误，但在这种情况下，它可能导致整个系统故障。齿轮无法正常转动。
+
+首席工程师: 我们需要精确找出组装过程中发生这个错误的环节。是我们用来测量的工具出问题了吗？
+
+助理: 我去检查我们用的量规。也许它需要调整。这台设备应该是精确的。
+
+首席工程师: 你检查的时候，我来计算这对框架造成的应力。我们可能需要完全改变排水设计。
+
+助理: 真是一团糟。我们流程中的一个小失误，现在就得重新组装整个通风装置。
+
+首席工程师: 这就是工程。每个方面都必须正确。处理污水系统时可容不得幻想！
+
+助理: 没错。我去收集正确的配件。希望这是唯一出问题的地方。
+
+'''
+
+== The Multimedia Studio Setup
+
+Audio Tech: The audio quality from this microphone is fantastic. But we're getting an echo from the loudspeaker.
+
+Video Tech: I'll adjust the settings. We need high-definition vision without any flaws. This software should help filter the sound.
+
+Audio Tech: Good. Now, how's the network connection? The browser on this laptop seems slow. We need to access our cloud files.
+
+Video Tech: It's a wireless issue. I'm converting the files to a more compressed format. That should facilitate faster transfer.
+
+Audio Tech: Smart thinking. By the way, I discovered a new digital tool that can transform audio files automatically. It's like science fiction!
+
+Video Tech: Really? In my domain, we still use some old techniques. Like this cassette tape recorder. It belongs in a museum!
+
+Audio Tech: (Laughs) True. But sometimes analogue equipment has a certain purity. No binary nonsense, just pure sound.
+
+Video Tech: I guess. But I'll take my microcomputer and digital screen any day. Now, let's dial in the final settings.
+
+多媒体工作室设置
+
+音频技术员: 这个麦克风的音质棒极了。但扬声器有回声。
+
+视频技术员: 我来调整设置。我们需要高清画质，没有任何瑕疵。这个软件应该有助于过滤声音。
+
+音频技术员: 好。网络连接怎么样？这台笔记本电脑上的浏览器似乎很慢。我们需要访问云文件。
+
+视频技术员: 是无线网络的问题。我正在把文件转换成压缩率更高的格式。这样应该能加快传输速度。
+
+音频技术员: 聪明。顺便说一句，我发现了一个新的数字工具，可以自动转换音频文件。就像科幻小说一样！
+
+视频技术员: 真的吗？在我的领域，我们还在用一些老技术。比如这台盒式磁带录音机。它该进博物馆了！
+
+音频技术员: (笑) 没错。但有时模拟设备有某种纯粹性。没有二进制的 nonsense，只有纯粹的声音。
+
+视频技术员: 我想是吧。但我任何时候都选我的微电脑和数字屏幕。现在，我们来微调最终设置。
+
+'''
+
+== The Research & Development Discovery
+
+Scientist A: We've been trying to purify this compound for months. Every method we devise has some error.
+
+Scientist B: What if we try a different approach? Instead of using a filter, we could distil it. It might expose new properties.
+
+Scientist A: That's a possibility. We'd need to assemble a new apparatus. Our current equipment isn't suited for that technique.
+
+Scientist B: I can calculate the precise temperatures we need. We must be accurate, or we'll stumble again.
+
+Scientist A: Agreed. This is a critical phase. A breakthrough here could transform the entire field. It's not fantasy; the foundation is solid.
+
+Scientist B: Let's focus. We need to concentrate on the chemical aspects. I'll utilise the microscope to examine the crystals at each stage.
+
+Scientist A: Good plan. I'll gather the necessary glassware. This discovery could be huge. We might even uncover a new byproduct with useful applications.
+
+Scientist B: Imagine that. Our names on a patent! Okay, no more daydreaming. Time to work.
+
+研发发现
+
+科学家A: 我们试图提纯这种化合物已经好几个月了。我们设计的每种方法都有某种错误。
+
+科学家B: 如果我们尝试一种不同的方法呢？不用过滤器，我们可以蒸馏它。这可能会使其显现出新的特性。
+
+科学家A: 有可能。我们需要组装一套新的装置。我们目前的设备不适合那种技术。
+
+科学家B: 我可以计算出我们需要的精确温度。我们必须准确，否则又会失败。
+
+科学家A: 同意。这是关键阶段。这里的突破可能改变整个领域。这不是幻想；基础很扎实。
+
+科学家B: 我们集中精神。需要专注于化学方面。我将利用显微镜检查每个阶段的晶体。
+
+科学家A: 好计划。我去收集必要的玻璃器皿。这个发现可能非常重大。我们甚至可能发现一种有实用价值的新副产品。
+
+科学家B: 想象一下。我们的名字出现在专利上！好了，别再白日做梦了。开始工作吧。
+
+'''
+
+== The Quality Control Debate
+
+Quality Tester: I've been testing the new device. We can't count on the battery life. My estimate is only 5 hours, not 10.
+
+Production Engineer: That's a problem. We need to assess this properly. Is it a flaw in the power management software?
+
+Quality Tester: It's hard to pinpoint. The battery doesn't seem to absorb charge efficiently. We should evaluate the charging circuit too.
+
+Production Engineer: Let's not shift blame. We need to run more tests. Use the auxiliary power generator to see if it's a consistent issue.
+
+Quality Tester: Okay. I'll accumulate more data. But if this is a design fault, we might have to alter the mould for the battery compartment.
+
+Production Engineer: That would be a major shift in production. Let's hope it's just a bad batch. Keep me updated.
+
+Quality Tester: Will do. I'm going to work the night shift to get this sorted. We need a correct solution, fast.
+
+质量控制辩论
+
+质量检测员: 我一直在测试新设备。电池续航靠不住。我估计只有5小时，不是10小时。
+
+生产工程师: 这是个问题。我们需要妥善评估一下。是电源管理软件的缺陷吗？
+
+质量检测员: 很难确定。电池似乎不能有效吸收电荷。我们也应该评估充电电路。
+
+生产工程师: 我们不要推卸责任。需要做更多测试。用辅助发电机看看这是不是普遍问题。
+
+质量检测员: 好的。我会积累更多数据。但如果这是设计故障，我们可能得改电池仓的模具。
+
+生产工程师: 那将是生产上的重大转变。希望只是这批货有问题。随时通知我进展。
+
+质量检测员: 会的。我上夜班来解决这个问题。我们需要一个正确的解决方案，要快。
+
+'''
+
+== The Environmental Monitoring Project
+
+Scientist: Our new sensor network is operational. The radar can detect weather patterns, and the sensors accumulate data on air purity.
+
+Technician: Great. How do we evaluate the data? The amount is massive. It will take ages to count and assess all the readings.
+
+Scientist: The software should help. It's designed to absorb the data stream and estimate pollution levels automatically.
+
+Technician: What about the drainage and sewage systems? Do the sensors cover that domain too?
+
+Scientist: They do. It's an auxiliary system, but it's part of the same network. It all belongs to one big monitoring framework.
+
+Technician: This is a shift from our old methods. No more manual sampling. It's like something from science fiction!
+
+Scientist: Exactly. The technology allows us to focus on analysis, not just data gathering. Let's hope the system adapts well to different circumstances.
+
+环境监测项目
+
+科学家: 我们的新传感器网络运行了。雷达可以探测天气模式，传感器积累空气纯度数据。
+
+技术员: 太好了。我们如何评估数据？量太大了。计算和评估所有读数需要很长时间。
+
+科学家: 软件应该有帮助。它是设计用来吸收数据流并自动估计污染水平的。
+
+技术员: 排水和污水系统呢？传感器也覆盖那个领域吗？
+
+科学家: 覆盖。那是一个辅助系统，但属于同一网络。都属于一个大的监测框架。
+
+技术员: 这是我们旧方法的转变。不再需要手动采样了。就像科幻小说里的东西！
+
+科学家: 没错。这项技术让我们能专注于分析，而不仅仅是数据收集。希望系统能很好地适应不同环境。
+
+'''
+
+== The Inventor's Workshop
+
+Inventor: I've done it! I've invented a new kitchen appliance. It's a breakthrough!
+
+Mechanic Friend: Another gizmo? What does this one do? Please tell me it doesn't attach to the ceiling fan this time.
+
+Inventor: No, no. It's much simpler. It uses advanced optics to condense cooking time. It's an innovation in the realm of home efficiency.
+
+Mechanic Friend: Condense time? That sounds like science fiction. How does it work?
+
+Inventor: I can't disclose all the details yet. But I will reveal that it involves a special high-definition thermal sensor.
+
+Mechanic Friend: Okay, I'm listening. But if it needs me to fix it every week, I'm charging double.
+
+发明家的工作室
+
+发明家: 我做到了！我发明了一种新的厨房电器。这是个突破！
+
+机械师朋友: 又一个小玩意？这个是干嘛的？拜托告诉我这次它不用装在天花板风扇上。
+
+发明家: 不，不。这个简单多了。它利用先进的光学技术来缩短烹饪时间。这是家庭效率领域的一项创新。
+
+机械师朋友: 缩短时间？听起来像科幻小说。它怎么运作的？
+
+发明家: 我还不能透露所有细节。但我可以透露，它涉及一个特殊的高清热传感器。
+
+机械师朋友: 好吧，我在听。但如果它需要我每周修理，我可要收双倍费用。
+
+'''
+
+== The Tech Store Debate
+
+Shopper A: Look at this new keyboard! It's so advanced. The keys have special optics for typing in the dark.
+
+Shopper B: Do we really need to innovate everything? A simple keyboard works fine. Why add more gizmos that can break?
+
+Shopper A: But it simplifies things! You can apply different color schemes with a click. It's like stepping into the realm of the future.
+
+Shopper B: The future? It looks like a prop from a science fiction movie. And what's this thing that attaches to the side?
+
+Shopper A: That's a high-definition mini screen for notifications. Pretty cool, right?
+
+Shopper B: I'll stick with my boring, reliable keyboard. It has one function: typing. No need to disclose my life story on a mini screen.
+
+科技产品商店辩论
+
+顾客A: 看这个新键盘！太先进了。按键有特殊光学功能，可以在黑暗中打字。
+
+顾客B: 我们真的需要革新所有东西吗？一个简单的键盘就很好。为什么还要增加更多会坏掉的小玩意？
+
+顾客A: 但这简化了操作啊！点一下就能应用不同的配色方案。就像踏入了未来的领域。
+
+顾客B: 未来？它看起来像科幻电影里的道具。这边上挂着的又是什么东西？
+
+顾客A: 那是用来显示通知的高清迷你屏幕。很酷吧？
+
+顾客B: 我还是用我那个无聊但可靠的键盘吧。它只有一个功能：打字。不需要在迷你屏幕上披露我的生活故事。
+
+'''
+
+== The Science Fair Surprise
+
+Student: For my project, I decided to specialise in practical inventions. I applied principles of mechanics and optics.
+
+Teacher: Interesting. And what did you invent? Please don't tell me it's another potato battery.
+
+Student: No! It's a device that can condense water from the air. It's a simple design, but it could advance survival techniques in dry regions.
+
+Teacher: Impressive. Does it use any high-definition instruments?
+
+Student: Actually, it's very low-tech. I used recycled materials. The only thing I had to add was a small solar panel.
+
+Teacher: Well, sometimes the simplest solutions are the best. You've managed to simplify a complex problem. That's true innovation.
+
+Student: Thanks! I was inspired by science fiction, but I wanted to create something for the real world.
+
+科学展览会的惊喜
+
+学生: 我的项目决定专注于实用发明。我应用了力学和光学原理。
+
+老师: 有意思。你发明了什么？请别告诉我又是土豆电池。
+
+学生: 不是！是一种能从空气中凝结水的装置。设计简单，但可以推进干旱地区的生存技术。
+
+老师: 令人印象深刻。它使用什么高清仪器吗？
+
+学生: 实际上技术含量很低。我用了回收材料。唯一需要添加的东西是一小块太阳能板。
+
+老师: 嗯，有时最简单的解决方案是最好的。你成功简化了一个复杂的问题。这是真正的创新。
+
+学生: 谢谢！我的灵感来自科幻小说，但我想为现实世界创造点东西。
+
+'''
+
+== The Handyman's Dilemma
+
+Homeowner: I need your help. I tried to attach this new smart appliance to the wall, and now nothing works.
+
+Handyman: Let me see. Ah. You've applied power to the data port. You invented a new way to fry a circuit board.
+
+Homeowner: Is it bad? I was trying to innovate my home automation system.
+
+Handyman: Innovate or obliterate? This is beyond my specialisation. It looks like something from a science fiction movie gone wrong.
+
+Homeowner: But it has high-definition cameras and advanced optics!
+
+Handyman: And now it has advanced smoke signals. I'll see what I can do, but no promises. Next time, maybe just add a simple timer.
+
+勤杂工的难题
+
+房主: 我需要你帮忙。我试着把这个新的智能电器装到墙上，现在全都不工作了。
+
+勤杂工: 我看看。啊。你把电源接到数据端口上了。你发明了一种烧毁电路板的新方法。
+
+房主: 严重吗？我是想创新我的家庭自动化系统。
+
+勤杂工: 是创新还是毁灭？这超出了我的专业范围。看起来像出了错的科幻电影里的东西。
+
+房主: 但它有高清摄像头和先进的光学部件！
+
+勤杂工: 现在它还有先进的烟雾信号功能。我看看能做什么，但不敢保证。下次也许只加个简单的定时器就好了。
+
+'''
+
 
 == 单词表
 
