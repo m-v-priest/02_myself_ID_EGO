@@ -1,0 +1,675 @@
+= part 22
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: myAdocCss.css
+
+
+'''
+
+== The Quarterly Business Review
+
+​​CEO:​​ Good morning. Let's begin our quarterly review. Annually, this meeting sets our precedent for the next three months. Initially, we'll look at the preceding quarter's results.
+
+​​CFO:​​ Thank you. Immediately, I can say we've had a consecutive period of growth. Our annual revenue is up 12%. We're present in all key markets, and our strategy is up-to-date.
+
+​​COO:​​ However, an issue is imminent. Our supply chain disruption is ongoing. We need an immediate solution for the upcoming holiday season, which is our foremost priority.
+
+​​CEO:​​ Understood. In the meantime, let's focus on the present. We have a billion-dollar opportunity in the modern tech sector. This could be the dawn of a new era for us.
+
+​​CFO:​​ Incidentally, our cash flow is strong. We have millions in reserve. But we must be punctual with our payments to maintain our contemporary image.
+
+​​COO:​​ Finally, I propose we finish this meeting by midday so teams can act instantly. We'll meet periodically to monitor progress.
+
+季度业务回顾
+
+​​首席执行官:​​ 早上好。开始季度回顾。每年此会议为未来三月定下先例。首先看上一季度结果。
+
+​​首席财务官:​​ 谢谢。可立即说明我们连续增长。年收入增12%。存在于所有关键市场，策略最新。
+
+​​首席运营官:​​ 但迫在眉睫的问题是供应链中断持续。需为即将到来的假日旺季（首要任务）立即解决。
+
+​​首席执行官:​​ 明白。同时关注当下。现代科技 sector 有十亿美元机遇。可能是我们的新时代黎明。
+
+​​首席财务官:​​ 顺便提，现金流强劲。有数百万储备。但须准时付款维持现代形象。
+
+​​首席运营官:​​ 最后建议正午前结束会议以便团队即刻行动。将定期会面监控进展。
+
+'''
+
+== The Museum Curator's Dilemma
+
+​​Senior Curator:​​ This medieval artifact is fascinating. It's from the 12th century, preceding the Renaissance era. But its restoration is an ongoing challenge.
+
+​​Junior Curator:​​ It's incredible to hold something so ancient. But our modern techniques feel inadequate. We need a contemporary approach that's up-to-date yet respectful.
+
+​​Senior Curator:​​ Exactly. The preceding restoration attempts in the 18th century caused damage. We must set a new precedent. Initially, I thought we'd need years, but recent advances might shorten the duration.
+
+​​Junior Curator:​​ Meanwhile, the permanent exhibition is scheduled for our anniversary next year. We have a billion visitors expected annually. The pressure is immense!
+
+​​Senior Curator:​​ True. But in the midst of this, remember the artifact's everlasting value. Our work must be punctual, but never rushed. We'll work on it daily, and review progress monthly.
+
+​​Junior Curator:​​ It's a momentous task. But finally seeing it finished will be incredible. I'll start immediately.
+
+博物馆馆长的困境
+
+​​资深馆长:​​ 这中世纪器物令人着迷。来自12世纪，早于文艺复兴时代。但修复是持续挑战。
+
+​​初级馆长:​​ 持握如此古老之物不可思议。但现代技术感觉不足。需最新且尊重的当代方法。
+
+​​资深馆长:​​ 确实。18世纪的先前修复尝试造成了损坏。须树立新先例。起初以为需数年，但近期进展或缩短时长。
+
+​​初级馆长:​​ 同时，永久展览定于明年周年庆。预计年访客数十亿。压力巨大！
+
+​​资深馆长:​​ 是的。但在此过程中，铭记器物的永恒价值。工作须准时，但绝不仓促。将每日工作，月度审查进展。
+
+​​初级馆长:​​ 是重大任务。但最终完成时将不可思议。我立即开始。
+
+'''
+
+== The Software Launch Crisis
+
+​​Project Manager:​​ We have an imminent deadline. The final version must be finished by midnight tonight for the quarterly release. This is our foremost priority.
+
+​​Lead Developer:​​ The preceding version was stable, but the recent update introduced a major bug. It's an ongoing nightmare. I've been working overnight for a dozen nights consecutively.
+
+​​QA Engineer:​​ Meanwhile, I'm testing the intermediate builds. The issue is present in all modern browsers. We need an instant fix. The duration of this crisis is unacceptable.
+
+​​Project Manager:​​ I need a solution immediately. Our annual review is next month, and this project is critical. We must be punctual. Do we have a precedent for this?
+
+​​Lead Developer:​​ Incidentally, yes. A similar bug occurred a millennium ago in software terms – back in 2010! But the fix was permanent. I'll apply a similar approach now.
+
+​​Project Manager:​​ Good. Work on it moment by moment. I'll check in periodically. Let's finish this by midday. The future of this product depends on it!
+
+软件发布危机
+
+​​项目经理:​​ 有迫近的最后期限。最终版本须于今晚午夜前完成，用于季度发布。是首要任务。
+
+​​首席开发员:​​ 先前版本稳定，但近期更新引入重大漏洞。是持续噩梦。已连续通宵工作十几晚。
+
+​​质量保证工程师:​​ 同时我在测试中间版本。问题存在于所有现代浏览器。需即时修复。危机持续时间不可接受。
+
+​​项目经理:​​ 需立即解决。年度评审在下月，此项目关键。必须准时。有先例吗？
+
+​​首席开发员:​​ 顺便说，有。类似漏洞在软件术语的千年前——2010年发生过！但修复是永久的。现应用类似方法。
+
+​​项目经理:​​ 好。分秒必争。我将定期检查。中午前完成！产品未来在此一举。
+
+'''
+
+== The Historical Documentary Pitch
+
+​​Producer:​​ Your pitch for a documentary on the present day, viewed from a future century, is fascinating. It's a contemporary take on history.
+
+​​Director:​​ Thank you. I want to capture the modern era – not just the major annual events, but the daily lives of people. What will seem medieval to viewers a millennium from now?
+
+​​Researcher:​​ Initially, we'll focus on the preceding decade to set the precedent. Then we'll move to the ongoing stories. The challenge is the everlasting relevance. We need to be up-to-date until the moment we finish.
+
+​​Producer:​​ The duration is ambitious – a yearly update for the next century? That's a billion seconds of footage!
+
+​​Director:​​ (Laughs) Not literally! But we'll release a major film annually, with monthly online shorts. Meanwhile, our team will work consecutively on each installment. The first is imminent – we start shooting immediately.
+
+​​Producer:​​ This could be the dawn of a new form of historical record. I'm in. Let's make it permanent.
+
+历史纪录片提案
+
+​​制片人:​​ 从未来世纪视角看当下的纪录片提案很吸引人。是历史的当代诠释。
+
+​​导演:​​ 谢谢。想捕捉现代时代——不止年度大事，还有人们的日常生活。千年后观众会觉得什么像中世纪？
+
+​​研究员:​​ 起初聚焦前十年树立先例。然后转向进行中的故事。挑战在于永恒关联性。需保持最新直至完成时刻。
+
+​​制片人:​​ 时长雄心勃勃——下世纪每年更新？那是十亿秒素材！
+
+​​导演:​​ (笑) 不字面意思！但将每年发布一部主要影片，配以月度在线短片。同时团队将连续工作于每部。首部迫近——立即开拍。
+
+​​制片人:​​ 可能是历史记录新形式的黎明。我加入。让它成为永久。
+
+'''
+
+== The Wedding Anniversary Surprise
+
+​​Spouse A:​​ I can't believe it's our annual anniversary already! It feels like just a moment ago we were planning the wedding. A dozen years have passed in an instant!
+
+​​Spouse B:​​ I know! Time flies. I want this year to be special. I'm planning something for the present moment, but it's a secret. You'll find out immediately at midnight.
+
+​​Spouse A:​​ Ooh, a surprise! Meanwhile, I've been working on something permanent for us – a modern art piece commemorating our era together. It'll be finished daily, piece by piece.
+
+​​Spouse B:​​ That sounds everlasting! But please, be punctual for dinner tonight. No working overnight! The preceding few anniversaries, you were stuck at work. This year, I want you present, not just physically but mentally.
+
+​​Spouse A:​​ I promise. I'll be there the moment you need me. Incidentally, I've already taken the day off. My priority is us, first and foremost.
+
+​​Spouse B:​​ Finally! I'm so excited. This will be the best anniversary yet, I just know it.
+
+结婚周年惊喜
+
+​​配偶A:​​ 难信已是年度纪念日！感觉婚礼策划恍如瞬间。十二年瞬息而过！
+
+​​配偶B:​​ 我知道！光阴似箭。愿今年特别。正筹划当下惊喜，但保密。午夜即刻知晓。
+
+​​配偶A:​​ 哦，惊喜！同时我一直在做永久纪念——现代艺术品铭记共同时代。将每日完成，循序渐进。
+
+​​配偶B:​​ 听来永恒！但请今晚聚餐准时。勿通宵工作！前几个纪念日你困于工作。今年望你存在，身心俱在。
+
+​​配偶A:​​ 保证。需我时必在。顺便说，已请假。优先是我们，首当其冲。
+
+​​配偶B:​​ 终于！太兴奋。知这将是最佳周年纪念。
+
+'''
+
+== The Conference Keynote Speech
+
+​​Organizer:​​ Firstly, I'd like to welcome you all to the opening of our annual conference. Secondly, I must remind you that we have simultaneous translation services available.
+
+​​Keynote Speaker:​​ Thank you. Prior to my talk, I want to acknowledge my former colleagues at the Institute. The preceding research we did forms the basis of today's presentation.
+
+​​Organizer:​​ Excellent. We'll have a Q&A session immediately after. Please be punctual, as we have a tight schedule. The duration of the talk should be exactly one hour.
+
+​​Keynote Speaker:​​ Understood. I'll finish on time. Meanwhile, feel free to use the app for real-time questions. It's a modern system, very up-to-date.
+
+​​Organizer:​​ Wonderful. And incidentally, the recording will be available permanently online from tomorrow. Now, the moment has arrived. Please begin.
+
+会议主题演讲
+
+​​组织者:​​ 首先，欢迎各位莅临年会开幕。其次，须提醒有同声传译服务。
+
+​​主题演讲人:​​ 谢谢。演讲前，想感谢研究所的前同事。我们先前的研究是今日演示基础。
+
+​​组织者:​​ 好。结束后立即问答环节。请准时，日程紧。演讲时长应为一小时整。
+
+​​主题演讲人:​​ 明白。将准时结束。同时可随时用应用提问。是现代系统，非常新。
+
+​​组织者:​​ 好。顺便提，录像明日将永久在线提供。此刻已到。请开始。
+
+'''
+
+== The Tech Startup Pitch
+
+​​Investor:​​ So, your company's headquarters is situated in Canada, but you're recommending we install a new circuit board design. Can you explain the optics?
+
+​​Founder:​​ Absolutely. We've distilled our research into this high-definition sensor mould. It's not science fiction; it's reliable technology. We're due to depart from traditional methods and pave a new way.
+
+​​Investor:​​ Interesting. But I'm bound by certain criteria. There's controversy around some claims in this field. I've heard mutterings about competitors accusing others of trying to steal ideas.
+
+​​Founder:​​ We would never deceive investors! Our methods are just and regulated. We possess the accreditations to prove it. We encourage transparency.
+
+​​Investor:​​ Good. I recommend you lay out the tax implications. Now, about your supply chain for these goods... is it reliable? I'd hate to see you humiliate yourselves with a product recall.
+
+科技初创公司路演
+
+​​投资者:​​ 公司总部在加拿大，但建议安装新电路板设计。能解释下光学原理吗？
+
+​​创始人:​​ 当然。已将研究提炼成高清传感器模具。非科幻；是可靠技术。将脱离传统方法，开辟新道路。
+
+​​投资者:​​ 有趣。但受某些标准约束。该领域一些声明存在争议。听闻有竞争者指控窃取想法。
+
+​​创始人:​​ 绝不欺骗投资者！方法公正合规。拥有认证。鼓励透明。
+
+​​投资者:​​ 好。建议说明税务影响。关于这些商品的供应链……可靠吗？不愿见因产品召回而蒙羞。
+
+'''
+
+== The Home Renovation Project
+
+​​Homeowner:​​ I'm homesick for the way this living room used to look. We need to install new layers on these eaves. The plaster is due for an update; it's starting to descend in chunks.
+
+​​Contractor:​​ I can counter that. We'll need to found a new support beam first. I recommend we regulate the moisture levels before we pave the way for new drywall. I'm bound by code to plumb this correctly.
+
+​​Homeowner:​​ Just don't bury the costs! I don't possess a fortune. I endowed this project with my savings, but I might need to donate some goods to afford it.
+
+​​Contractor:​​ (Laughs) No need to descend into fury! We'll use reliable materials. No controversy, I promise. Let's not offend the budget gods.
+
+家居装修项目
+
+​​房主:​​ 怀念客厅旧貌。需在屋檐安装新层。石膏该更新了；开始大块脱落。
+
+​​承包商:​​ 可应对。需先建新支撑梁。建议铺新石膏板前控制湿度。受规范约束需正确安装管道。
+
+​​房主:​​ 别隐瞒成本！没多少财富。用积蓄捐赠此项目，但可能需捐物 afford。
+
+​​承包商:​​ (笑) 无需发怒！用可靠材料。保证无争议。别冒犯预算之神。
+
+'''
+
+== The Music Festival Planning
+
+​​Organizer A:​​ For the well-being of our attendees, we need to regulate the sound levels. We don't want to offend the neighbors with our hip-hop stage.
+
+​​Organizer B:​​ True. But we also can't let well-known artists like DJ Devil Descend mutter about poor acoustics. We need reliable equipment. I recommend we install a high-definition system.
+
+​​Organizer A:​​ Agreed. And we must declare all goods we import. Remember the controversy last year when customs found those x-rated cosmetics in a carry-on? We don't want that fury again.
+
+​​Organizer B:​​ Absolutely. Let's pave the way for a smooth event. I'll donate my billiards table for the VIP area. It might conquer their boredom between sets.
+
+音乐节策划
+
+​​策划A:​​ 为参与者健康，需调控音量。不想嘻哈舞台冒犯邻居。
+
+​​策划B:​​ 对。但也不能让知名艺术家如DJ魔鬼降临抱怨音效差。需可靠设备。建议安装高清系统。
+
+​​策划A:​​ 同意。须申报所有进口商品。记得去年海关在手提行李发现色情化妆品的争议吗？不想再现愤怒。
+
+​​策划B:​​ 当然。为活动顺利铺路。捐台台球桌供VIP区。或可征服幕间无聊。
+
+'''
+
+== The International Charity Gala
+
+​​Host:​​ Welcome, everyone, from Britain, France, Germany, Australia, New Zealand... thank you for your possess... I mean, passion! We're here to encourage donations to endow a new science centre.
+
+​​Celebrity Guest:​​ I'm just happy to descend from my helicopter to support this. I recommend we regulate how funds are used. We must be reliable stewards.
+
+​​Host:​​ Absolutely. And we declare that all goods auctioned tonight are accredited. No stolen art! That would be a controversy of devilish proportions!
+
+​​Celebrity Guest:​​ (Laughs) Well, I might donate my well-known jeans from my last film. They're bound to generate some fury... I mean, funds!
+
+​​Host:​​ Wonderful! And for the living room set we're auctioning, it's situated in a lovely home in Canada. Now, let's not mutter about taxes; that's a boring counter to philanthropy.
+
+国际慈善晚会
+
+​​主持人:​​ 欢迎来自英国、法国、德国、澳大利亚、新西兰的各位……感谢拥有……热情！在此鼓励捐赠资助新科学中心。
+
+​​明星嘉宾:​​ 很高兴从直升机降临支持。建议规范资金使用。须做可靠管理者。
+
+​​主持人:​​ 当然。声明今晚拍卖商品均获认证。无被盗艺术品！否则将是恶魔级争议！
+
+​​明星嘉宾:​​ (笑) 可能捐上部电影的知名牛仔裤。注定引发狂热……资金！
+
+​​主持人:​​ 好！拍卖的客厅套装位于加拿大可爱住宅。现勿嘀咕税收；是慈善的无聊反驳。
+
+'''
+
+== The Political Scandal Exposé
+
+​​Journalist:​​ The controversy is due to explode. We have evidence that the Minister tried to steal goods and accept a bribe. He used his might to conquer any counter-arguments.
+
+​​Editor:​​ This is bound to cause fury. But we must be just. Are the criteria for accusation met? Did he truly deceive the public? We can't publish based on a mutter.
+
+​​Journalist:​​ We're reliable. We found the paper trail. He attempted to rob the public funds to endow a private account. It's a suicide mission for his career.
+
+​​Editor:​​ If this is true, it will humiliate the entire party. It might even offend the very ideology of socialism they claim to uphold. Legislators will have to act.
+
+​​Journalist:​​ It's all here. He's a thief in every sense. Now, should we descend into the details, or pave the way for a broader story about systemic corruption?
+
+政治丑闻曝光
+
+​​记者:​​ 争议即将爆发。有证据表明部长试图窃取商品受贿。用权力压制反驳。
+
+​​编辑:​​ 注定引发愤怒。但须公正。指控标准满足吗？真欺骗公众了吗？不能基于流言发布。
+
+​​记者:​​ 我们可靠。找到文件线索。试图抢劫公共资金注入私人账户。是职业生涯自杀任务。
+
+​​编辑:​​ 若属实，将使整个政党蒙羞。甚至可能冒犯其所声称拥护的社会主义意识形态。立法者须行动。
+
+​​记者:​​ 证据在此。是彻头彻尾的小偷。现应深入细节，还是为更广泛系统腐败报道铺路？
+
+'''
+
+== The Extreme Sports Documentary
+
+​​Director:​​ This scene where the skate star descends by parachute is high-definition gold! But the optics of having him jump from a helicopter are controversial. The safety criteria are bound to be questioned.
+
+​​Producer:​​ We can't have him offend the safety regulators. But it's reliable footage. He's a well-known daredevil. He might just conquer his fear.
+
+​​Athlete:​​ I'm due for this jump. I'm not going to mutter excuses. I possess the skill. Just don't bury the shot if I look humiliated!
+
+​​Director:​​ Never! We'll install cameras on the rail he'll skate afterwards. We'll pave the way for an amazing sequence. It's not science fiction; it's real.
+
+​​Producer:​​ Just remember, if anything happens, we don't want a suicide on film. Regulate the risk. His well-being is paramount.
+
+极限运动纪录片
+
+​​导演:​​ 滑板明星跳伞场景是高清精华！但从直升机跳下的视觉效果有争议。安全标准必受质疑。
+
+​​制片人:​​ 不能冒犯安全监管机构。但镜头可靠。他是知名冒险家。或可征服恐惧。
+
+​​运动员:​​ 该跳了。不找借口。拥有技术。若显狼狈别剪掉镜头！
+
+​​导演:​​ 绝不！在后续滑行轨道安装摄像机。为精彩序列铺路。非科幻；是真实。
+
+​​制片人:​​ 记着，若出事，不想要片中有自杀。控制风险。其健康至上。
+
+'''
+
+== The Archaeology Discovery
+
+​​Lead Archaeologist:​​ We found something incredible buried here. It might conquer our previous understanding of the era. This artifact seems to descend from a previously unknown culture.
+
+​​Assistant:​​ It's bound to cause controversy in the academic community. The criteria for dating this will be debated with fury. We must be just in our analysis.
+
+​​Lead Archaeologist:​​ Indeed. We cannot deceive ourselves. We need to install a proper lab on site to distil the facts. This isn't some science fiction story; it's real history.
+
+​​Assistant:​​ Look at this mould for making tools. It's situated in a layer that suggests advanced technology. It's enough to make one homesick for a time they never knew.
+
+​​Lead Archaeologist:​​ (Chuckles) Don't get too poetic. We have to regulate our excitement. But I recommend we accredit this find properly. This could humiliate some long-held theories.
+
+考古发现
+
+​​首席考古学家:​​ 地下有惊人发现。或征服先前时代认知。此文物似源于未知文化。
+
+​​助手:​​ 必引学术界争议。断代标准将激烈辩论。分析须公正。
+
+​​首席考古学家:​​ 确实。不能自欺。需现场建实验室提炼事实。非科幻故事；是真实历史。
+
+​​助手:​​ 看这制具模具。所处地层表明技术先进。足以让人怀念未历之时。
+
+​​首席考古学家:​​ (笑) 别太诗意。需克制兴奋。但建议妥善认证此发现。或令某些长期理论蒙羞。
+
+'''
+
+== The Factory Closure Meeting
+
+​​Union Rep:​​ The lay-off of a dozen workers just before the holidays? That's a cruel ax to fall. It's bound to cause fury. We need to curb this decision.
+
+​​Manager:​​ The company's finances have expired. We're bound by the parent company's criteria. It's not a cheat; it's an unfortunate accident of the market.
+
+​​Union Rep:​​ Don't try to deceive us with that religion of profit! This will humiliate hard-working families. I might just recommend a strike.
+
+​​Manager:​​ That would be an offense we can't counter. Let's not mutter threats. We need an egalitarian solution, not a communist-style takeover! We can't just pirate the funds from another division.
+
+​​Worker:​​ (Enters) Sir, there's been an accident on the line. The dial on the press broke, and a pair of scissors got caught in the mould. We had to use an ax to cut the power. The goods are ruined.
+
+​​Manager:​​ (Sighs) See? Everything is falling apart. It's like the devil himself is against us. Fine, I'll delay the lay-offs. But we need to find a way to make up the losses, and fast.
+
+工厂关闭会议
+
+​​工会代表:​​ 节日前裁员十几人？是残酷削减。必引愤怒。需制止决定。
+
+​​经理:​​ 公司财务到期。受母公司标准约束。非欺骗；是市场不幸事故。
+
+​​工会代表:​​ 别用利润宗教欺骗！将羞辱勤劳家庭。可能建议罢工。
+
+​​经理:​​ 是无法应对的冒犯。勿嘀咕威胁。需平等方案，非共产主义式接管！不能盗用其他部门资金。
+
+​​工人:​​ (进入) 先生，生产线事故。冲压机刻度盘损坏，剪刀卡模具。用斧头切断电源。货物报废。
+
+​​经理:​​ (叹气) 看？一切崩溃。像魔鬼作对。好吧，延迟裁员。但需快速弥补损失。
+
+'''
+
+== The Neighborhood Dispute
+
+​​Homeowner:​​ I need to reinforce the fence. My new father-in-law says my neighbour's tree branches are trespassing on my property. They're hanging over the eaves of my living room.
+
+​​Neighbor:​​ Each one of those branches is situated on my side! And your father-in-law is always trespassing to complain about something. Last week it was about my jeans hanging on the line!
+
+​​Homeowner:​​ This isn't just about the branches. It's about respect. My living room is my sanctuary. And those cosmetics you sell from your home? The make-up stains on your carry-on bag ended up on my trousers last time you traveled!
+
+​​Neighbor:​​ That was an accident! And you're one to talk. I'm bound to report you if you don't meet the criteria for noise levels. It's not just; my well-being is affected!
+
+​​Homeowner:​​ Fine. Let's elect a neighborhood committee to resolve this. We can't go on like this, at each other's throats.
+
+邻里纠纷
+
+​​房主:​​ 我需要加固篱笆。我新岳父说邻居的树枝侵入我的地产。它们悬在我客厅的屋檐上。
+
+​​邻居:​​ 每一根树枝都在我这边！你岳父总是擅自闯入抱怨。上周是抱怨我晾的牛仔裤！
+
+​​房主:​​ 不光是树枝。是尊重问题。我客厅是圣地。还有你在家卖的化妆品？上次旅行你登机包上的化妆品弄脏了我的裤子！
+
+​​邻居:​​ 那是意外！你还好意思说。你不符合噪音标准，我肯定要举报。这不公平；影响我的健康！
+
+​​房主:​​ 好吧。我们选举一个社区委员会来解决。不能老这样互相敌对。
+
+'''
+
+== The Airport Layoff Protest
+
+​​Laid-off Worker:​​ This lay-off is not just! What are the criteria? I've been a loyal employee for years, carrying goods back and forth. Now I'm due for nothing?
+
+​​Union Rep:​​ We will resist this. The company is bound by law to provide a fair process. We need to reinforce our position. Each worker's well-being is at stake.
+
+​​Steward:​​ Please, passengers are trying to get through. This protest is trespassing on airport property.
+
+​​Laid-off Worker:​​ We're not trespassing! We have a right to be here. My father-in-law worked here too; this job supports families across the neighbourhood.
+
+​​Union Rep:​​ Exactly. We're carrying the banner for everyone. We won't go until they give us a just answer. Our resolve is like an arrow; it only moves forward.
+
+机场裁员抗议
+
+​​被裁员工:​​ 这次裁员不公正！标准是什么？我忠诚工作多年，搬运货物。现在到期什么都没了？
+
+​​工会代表:​​ 我们会抵制。法律约束公司须提供公平程序。需巩固立场。每位员工的福祉危在旦夕。
+
+​​乘务长:​​ 请让开，旅客要通行。抗议侵入机场地产。
+
+​​被裁员工:​​ 没侵入！有权在此。我岳父也在此工作；这工作养活整个社区的家庭。
+
+​​工会代表:​​ 对。我们为所有人扛旗。不给公正答复不走。决心如箭；只进不退。
+
+'''
+
+== The International Business Meeting
+
+​​CEO (France):​​ Our new line of cosmetics is due for launch. The goods are situated in warehouses in New Zealand already.
+
+​​Marketing Head (Spanish):​​ We need to reinforce our marketing in each market. The criteria for success are different. For example, Spanish customers prefer natural make-up, while in France, it's more about elegance.
+
+​​CEO:​​ My father-in-law, who's on the board, is bound to ask about the carry-on size for samples. He's very detail-oriented.
+
+​​Marketing Head:​​ The well-being of our brand is paramount. We can't have any trespass on our intellectual property. We must resist copycats. Our strategy must be as straight as an arrow.
+
+​​CEO:​​ Just so. Let's check the atlas for distribution routes. We need to ensure our jeans and trousers lines are also launched smoothly. The living room of global fashion is competitive!
+
+国际商务会议
+
+​​首席执行官（法国）:​​ 新化妆品系列即将推出。货物已在新西兰仓库。
+
+​​市场总监（西班牙）:​​ 需加强各市场推广。成功标准不同。如西班牙客户喜天然化妆品，法国更重优雅。
+
+​​首席执行官:​​ 我岳父是董事会成员，肯定会问样品登机尺寸。他很注重细节。
+
+​​市场总监:​​ 品牌福祉至关重要。不能有知识产权侵犯。须抵制仿冒。策略须直如箭。
+
+​​首席执行官:​​ 正是。查地图集看分销路线。确保牛仔裤和裤子系列也顺利推出。全球时尚的"客厅"竞争激烈！
+
+'''
+
+== The Film Set Drama
+
+​​Director:​​ Cut! This scene isn't working. Our lead actress looks disgusted, not tender. She's marrying her co-star, remember? You need to flatter him with your eyes, not vex him!
+
+​​Actress:​​ I'm sorry, I'm just sore from kneeling in the last take. This fake beard is annoying, and these cosmetics make my skin swell. I feel like I might have a heart attack!
+
+​​Surgeon (on set as consultant):​​ That's unlikely. But your health care on set should be better. A physician should be present. Meanwhile, your grandfather in this scene needs to look less stiff.
+
+​​Grandfather Actor:​​ My knees are broken! I played a cripple in my preceding film, and my diabetes is acting up. This is embarrassing.
+
+​​Director:​​ First, let's get an up-to-date X-ray for our actress. Someone vaccinate this set against negativity! This is science fiction, not a veterinary drama! Comrade, connect with your inner prophet! Let's take five.
+
+片场戏剧
+
+​​导演:​​ 停！这场戏不行。女主角表情厌恶，不够温柔。记得要嫁给他！用眼神恭维，不是恼怒！
+
+​​女演员:​​ 抱歉，上次跪戏酸痛。假胡子烦人，化妆品让皮肤肿。感觉要心脏病发！
+
+​​外科医生（现场顾问）:​​ 不太可能。但现场医护应改进。应有医生在场。同时，戏中祖父得演自然点。
+
+​​祖父演员:​​ 我膝盖废了！上部戏演瘸子，糖尿病又犯。真尴尬。
+
+​​导演:​​ 先给女主角拍最新X光片。给片场打支防消极疫苗！这是科幻片，不是兽医剧！同志，连接内心先知！休息五分钟。
+
+'''
+
+== The Political Scandal
+
+​​Chancellor:​​ This is a decimation of our reputation! The former Chancellor is a comrade who legislated strict criteria for our well-being. Now, they say he took bribes in cosmetics and jeans!
+
+​​Aide:​​ The goods were situated in his father-in-law's living room. Each pair of trousers had an X-rated label! The press will have a field day. We're due for an election, and this might oppress our chances.
+
+​​Chancellor:​​ I'm disappointed. We were born into this party to serve, not to kidnap public trust. My surname means "just" in our language! This scandal makes me want to retire to New Zealand and play billiards.
+
+​​Aide:​​ Sir, please. We must act. The whistleblower, a well-known veterinary surgeon, is about to release high-definition optics of the carry-on bags full of cash. We need a plan, not self-pity.
+
+政治丑闻
+
+​​总理:​​ 声誉遭重创！前总理是同志，立法制定严格的福祉标准。现被控收受化妆品和牛仔裤贿赂！
+
+​​助手:​​ 货物在其岳父客厅。每条裤子有成人标签！媒体要狂欢了。临近选举，这可能压制胜算。
+
+​​总理:​​ 失望。入党是为服务，非绑架公信。我姓氏意为"公正"！丑闻让我想退休去新西兰打台球。
+
+​​助手:​​ 长官，请冷静。必须行动。吹哨人是知名兽医，将发布装满现金登机箱的高清视频。需计划，非自怜。
+
+'''
+
+== The Family Intervention
+
+​​Daughter:​​ Dad, your diabetes is out of control. You had a heart attack last year! You can't keep eating like this. It's not just about you; it affects each of us. Your well-being is our priority.
+
+​​Father:​​ I know, I know. But my grandfather lived to be a hundred, and he ate bacon daily! I'm not inclined to repeat all this health care nagging. It tires me.
+
+​​Mother:​​ He's right. But meanwhile, your father-in-law is in the hospital with a broken hip from a fall. He's sore and swollen. The physician said it's due to poor bone density. We need to be strict with our diets.
+
+​​Son:​​ And I'm studying to be a veterinary surgeon, not a people doctor! But even I know you need to vaccinate against flu and get regular X-rays. Don't disappoint us. We're here to bless you, not annoy you.
+
+​​Father:​​ (Sighs) Fine. You've broken my spirit. I'll try to be tender with my health. But no more talk of cosmetics and make-up for men! That's a disgusting trend!
+
+家庭干预
+
+​​女儿:​​ 爸，糖尿病失控了！去年心脏病发作！不能这样吃。不只关乎你，影响全家。健康是首要。
+
+​​父亲:​​ 知道。但我祖父活到百岁，天天吃培根！不想重复医护唠叨。累。
+
+​​母亲:​​ 他说得对。但此时你岳父摔伤髋骨住院。肿痛。医生说骨密度差。需严格控制饮食。
+
+​​儿子:​​ 我学的是兽医，不是人医！但我也知需打流感疫苗、定期拍X光。别让我们失望。此为祝福，非烦扰。
+
+​​父亲:​​ (叹气) 好吧。你们击垮我了。会善待健康。但别再提男性化妆品！恶心趋势！
+
+'''
+
+== The Art Gallery Opening
+
+​​Art Critic:​​ This piece is astounding. The glitter and flare in the optics... it's like high-definition hip-hop made visible! The artist, a well-known whistler from Canada, uses a hammer and scissors to create these assorted patterns.
+
+​​Gallery Owner:​​ We're due for a grand opening. Each piece is situated to connect with the viewer. The preceding artist used to kidnap images from science fiction, but this is born from pure emotion.
+
+​​Artist:​​ Thank you. I was inspired by my grandfather, a prophet in his own right. He used to say, "Art should bless, not oppress." I hope my work doesn't embarrass anyone.
+
+​​Visitor:​​ It's magnificent! But that one painting of the kneeled figure with a beard... it seems to decimate the notion of traditional portraiture. It's almost X-rated in its honesty!
+
+​​Artist:​​ (Laughs) That was my father-in-law! He's a good sport.
+
+画廊开幕
+
+​​评论家:​​ 作品惊人。光学效果的闪光……如高清嘻哈可视化！艺术家是加拿大知名口哨者，用锤剪创作多样图案。
+
+​​画廊主:​​ 即将盛大开幕。每件作品布局与观者连接。前艺术家常盗用科幻图像，但此作源于纯情感。
+
+​​艺术家:​​ 谢谢。受祖父启发，他本身是先知。曾说"艺术应祝福，非压迫"。望作品不使任何人尴尬。
+
+​​参观者:​​ 宏伟！但那幅跪姿胡须画……似摧毁传统肖像概念。诚实地近乎成人级！
+
+​​艺术家:​​ (笑) 那是我岳父！他很大度。
+
+'''
+
+== The Airport Security Incident
+
+​​Security Officer:​​ Sir, I need to check your carry-on. The X-ray shows an assortment of items that don't meet our criteria. These cosmetics bottles are over 100ml, and this hammer is strictly prohibited.
+
+​​Passenger:​​ But I'm a groom on my way to my wedding in New Zealand! I need the make-up for the photos! And the hammer is for a traditional blessing ceremony! My surname means "builder"!
+
+​​Security Officer:​​ I'm sorry, but each passenger is bound by these rules for everyone's well-being. Meanwhile, your trousers have a suspicious bulge. Are those scissors? This is vexing.
+
+​​Passenger:​​ They're for cutting the wedding cake! Look, my father-in-law is a retired chancellor, and my grandfather was a veterinary surgeon! I'm not a kidnapper!
+
+​​Security Officer:​​ Sir, please don't embarrass yourself. I'm just doing my job. You might miss your flight if we don't resolve this. I'm not here to oppress you, but to protect.
+
+机场安检事件
+
+​​安检员:​​ 先生，需检查登机箱。X光显示物品不符合标准。化妆品超100毫升，锤子严禁携带。
+
+​​乘客:​​ 但我是去新西兰结婚的新郎！拍照需化妆品！锤子用于传统祝福仪式！我姓氏意为"建造者"！
+
+​​安检员:​​ 抱歉，每位乘客须遵守规则以确保健康。同时，裤子有可疑凸起。是剪刀吗？真烦人。
+
+​​乘客:​​ 切婚礼蛋糕用的！我岳父是退休总理，祖父是兽医！我不是绑匪！
+
+​​安检员:​​ 先生，请勿失态。我执行公务。不解决可能误机。非为压迫，是为保护。
+
+'''
+
+== The Coal Mine Protest
+
+​​Union Leader:​​ The lay-off of a hundred miners is unjust! My father-in-law worked this mine for decades. Each injury, each broken bone, was for the company's goods. Now they toss us aside?
+
+​​Miner:​​ It's disgusting! They bow to their celebrity investors while we risk our lives. The dust makes our lungs sore; it's like a minute heart attack every day. My grandfather was a communist who fought for our well-being!
+
+​​Company Rep:​​ Please, the mine is situated on unstable land. The preceding reports show it's due to collapse. We're not here to oppress you. The criteria for safety are strict. We must legislate for the future.
+
+​​Miner's Wife:​​ Meanwhile, our living room is full of worry! You talk about high-definition optics for your new offices, but you can't see the pain in our eyes? My husband might be injured next! This isn't science fiction; it's our life!
+
+​​Union Leader:​​ We won't kneel! We'll fight this like comrades! Our resolve is not minute; it's massive!
+
+煤矿抗议
+
+​​工会领袖:​​ 裁员百名矿工不公！我岳父在此矿工作数十年。每次受伤，每次骨折，都为公司货物。现抛弃我们？
+
+​​矿工:​​ 恶心！他们向名人投资者鞠躬，我们冒生命危险。粉尘致肺痛；如每日微小心脏病发作。我祖父是共产主义者，为福祉而战！
+
+​​公司代表:​​ 请理解，矿井位于不稳定土地。先前报告显示即将坍塌。非为压迫。安全标准严格。须为未来立法。
+
+​​矿工妻:​​ 同时，我家客厅充满忧虑！谈新办公室高清光学，却看不见我们眼中痛苦？丈夫下次可能受伤！非科幻；是我们生活！
+
+​​工会领袖:​​ 我们不跪！将如同志般抗争！决心不微小；是巨大的！
+
+'''
+
+
+
+== 单词表
+
+daily
+monthly
+quarterly
+annual
+yearly
+anniversary
+era
+present
+contemporary
+medieval
+century
+millennium
+million
+billion
+dozen
+dawn
+midday
+midnight
+overnight
+night
+modern
+recent
+up-to-date
+first
+secondly
+finally
+finish
+immediately
+instant
+moment
+minute
+prior
+former
+preceding
+precedent
+foremost
+opening
+initially
+intermediate
+midst
+meantime
+meanwhile
+simultaneous
+ongoing
+everlasting
+permanent
+punctual
+duration
+consecutive
+periodically
+imminent
+incidentally

@@ -1,0 +1,644 @@
+= part 16
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: myAdocCss.css
+
+
+'''
+
+== The Boardroom Strategy Session
+
+​​CEO:​​ The economic forecast is concerning. We're heading into a potential recession. Our revenue is starting to decline.
+
+​​CFO:​​ I agree. We need to reduce expenses and manage our cash flow carefully. Our bond prices are falling, and our debt is increasing.
+
+​​COO:​​ But we can't just downsize. We need to invest in new product development. We need growth! We have a sufficient war chest to make strategic acquisitions.
+
+​​CEO:​​ That's a risky strategy during a deflationary period. Consumers aren't spending. The market is saturated.
+
+​​CFO:​​ Perhaps we should look at export markets. We could negotiate a better tariff situation. Our goods are still competitive overseas.
+
+​​COO:​​ Good point. We have a reliable agent in Europe. We could increase our share there. But we need to insure the cargo properly.
+
+​​CEO:​​ Let's not put all our eggs in one basket. We also need to improve our domestic sales channel. Our retail chain needs a new promotion. Maybe a discount voucher campaign?
+
+​​CFO:​​ A short-term incentive might prompt purchases. But we need a sustainable solution. We can't just rely on cheap gimmicks.
+
+​​COO:​​ True. Our personnel are our greatest asset. We must avoid lay-offs. Instead, let's collaborate on a plan to increase turnover. I'll coordinate with the sales team.
+
+​​CEO:​​ Approved. Let's reconvene next week. I want a detailed proposal on how we can solve this crisis and develop a path to expand again.
+
+董事会战略会议
+
+​​首席执行官:​​ 经济预测令人担忧。我们正走向潜在的经济衰退。我们的收入开始下降。
+
+​​首席财务官:​​ 我同意。我们需要减少开支，谨慎管理现金流。我们的债券价格在下跌，债务在增加。
+
+​​首席运营官:​​ 但我们不能只是裁员。我们需要投资新产品开发。我们需要增长！我们有足够的储备资金进行战略性收购。
+
+​​首席执行官:​​ 在通缩时期这是个冒险的策略。消费者不花钱。市场饱和了。
+
+​​首席财务官:​​ 也许我们应该看看出口市场。我们可以谈判更好的关税条件。我们的商品在海外仍有竞争力。
+
+​​首席运营官:​​ 说得好。我们在欧洲有可靠的代理商。我们可以增加在那里的份额。但我们需要为货物妥善投保。
+
+​​首席执行官:​​ 我们不要孤注一掷。我们还需要改善国内销售渠道。我们的零售连锁店需要新的促销活动。也许是折扣券活动？
+
+​​首席财务官:​​ 短期激励可能会刺激购买。但我们需要一个可持续的解决方案。不能只依赖廉价噱头。
+
+​​首席运营官:​​ 没错。我们的员工是我们最大的资产。必须避免裁员。相反，让我们合作制定一个增加营业额的方案。我会与销售团队协调。
+
+​​首席执行官:​​ 批准。我们下周再开会。我要一份详细的提案，说明如何解决这场危机并制定再次扩张的路径。
+
+'''
+
+== The Retail Management Meeting
+
+​​Store Manager:​​ Our turnover has dwindled for three straight months. We need a change, and fast.
+
+​​Assistant Manager:​​ The new grocery chain down the street is killing us. Their promotion is aggressive. They're dumping products at cost.
+
+​​Marketing Lead:​​ We can't compete on price alone. Our advantage is service. Let's launch a new advertising campaign with a catchy slogan.
+
+​​Store Manager:​​ But that costs money. Our accounts are already in the red. We can't afford a big campaign.
+
+​​Assistant Manager:​​ What about a loyalty program? Give customers coupons for future purchases. It's an incentive to return.
+
+​​Marketing Lead:​​ Good idea. We could also coordinate with the commercial team to highlight our premium, reliable products. We need to make every transaction count.
+
+​​Store Manager:​​ Okay. But we also need to look at our expenses. Our lease payment is too high. And our payroll is our biggest cost.
+
+​​Assistant Manager:​​ We might have to consider letting some personnel go. It's a last resort, but we can't ignore the deficit.
+
+​​Store Manager:​​ I hate the idea of a lay-off. These people have careers here. Let's see if the new strategy improves results first. I don't want to manage through failure.
+
+​​Marketing Lead:​​ Agreed. Sustainable improvement is better than a quick fix that might lead to greater loss later. Let's collaborate on this.
+
+零售管理会议
+
+​​店长:​​ 我们的营业额连续三个月萎缩了。我们需要改变，而且要快。
+
+​​副店长:​​ 街那头新开的杂货连锁店把我们逼得够呛。他们的促销很激进。正在按成本价倾销产品。
+
+​​市场负责人:​​ 我们不能只打价格战。我们的优势是服务。我们推出一个新的广告活动吧，配上朗朗上口的口号。
+
+​​店长:​​ 但那要花钱。我们的账户已经赤字了。我们负担不起大型活动。
+
+​​副店长:​​ 会员计划怎么样？给顾客未来购物的优惠券。这是吸引他们回来的激励。
+
+​​市场负责人:​​ 好主意。我们还可以与商业团队协调，突出我们优质可靠的产品。我们需要让每一笔交易都有价值。
+
+​​店长:​​ 好吧。但我们还需要审视开支。我们的租金太高了。工资是我们最大的成本。
+
+​​副店长:​​ 我们可能得考虑裁员。这是最后手段，但我们不能忽视赤字。
+
+​​店长:​​ 我讨厌裁员的主意。这些人在这里有事业。我们先看看新策略是否能改善结果吧。我不想通过失败来管理。
+
+​​市场负责人:​​ 同意。可持续的改善比可能导致日后更大损失的权宜之计要好。让我们合作吧。
+
+'''
+
+== The Startup Pitch
+
+​​Investor:​​ So, you're asking for a significant fund to scale your enterprise. Convince me. What's your revenue model?
+
+​​Founder:​​ Our platform connects independent merchants with affluent consumers. We take a small share of each transaction. The growth potential is enormous.
+
+​​Investor:​​ The market is crowded. What makes your entity different? Why should I invest?
+
+​​Founder:​​ Our negotiation algorithm ensures the best deal for both sides. It's a unique technology. We guarantee a reliable service.
+
+​​Investor:​​ "Guarantee" is a big word. What about security? How do you insure against data breaches? That's a huge liability.
+
+​​Founder:​​ We've developed a robust system. Security is our top priority. We possess proprietary technology that minimizes risk.
+
+​​Investor:​​ Okay. But your financial projections seem... optimistic. You predict an influx of users, but what's the real incentive for them to change from existing platforms?
+
+​​Founder:​​ Fair question. Our user interface is superior. It saves time and reduces the cost of doing business for our merchants. For consumers, it offers better value. It's a win-win.
+
+​​Investor:​​ Perhaps. But I'm concerned about the economic climate. A crisis could dry up your funding. How will you manage cash flow?
+
+​​Founder:​​ We have a detailed plan. We'll use the investment to accelerate user acquisition. We're not just seeking money; we're seeking a partner to collaborate with for long-term development.
+
+​​Investor:​​ I like your ambition. Send me the detailed accounts. I'll need to see the numbers before I make any deal.
+
+初创企业路演
+
+​​投资者:​​ 所以，你要求大量资金来扩展你的企业。说服我。你的收入模式是什么？
+
+​​创始人:​​ 我们的平台连接独立商户和富裕消费者。我们从每笔交易中抽取一小部分份额。增长潜力巨大。
+
+​​投资者:​​ 市场很拥挤。你的实体有什么不同？我为什么要投资？
+
+​​创始人:​​ 我们的谈判算法确保双方都能获得最佳交易。这是一项独特的技术。我们保证可靠的服务。
+
+​​投资者:​​ "保证"是个很重的词。安全性呢？如何为数据泄露投保？那是巨大的责任。
+
+​​创始人:​​ 我们开发了一个强大的系统。安全是我们的首要任务。我们拥有将风险最小化的专有技术。
+
+​​投资者:​​ 好吧。但你的财务预测似乎……很乐观。你预测用户会涌入，但他们从现有平台转换过来的真正动机是什么？
+
+​​创始人:​​ 问得好。我们的用户界面更优。它为商户节省时间，降低业务成本。对消费者来说，它提供更好的价值。是双赢。
+
+​​投资者:​​ 也许吧。但我担心经济环境。危机可能会让你的资金枯竭。你如何管理现金流？
+
+​​创始人:​​ 我们有详细计划。我们将用投资加速用户获取。我们不只是寻求资金；我们寻求长期发展的合作伙伴。
+
+​​投资者:​​ 我喜欢你的雄心。把详细账目发给我。做任何交易前，我需要看看数字。
+
+'''
+
+== The International Trade Negotiation
+
+​​Trade Representative A:​​ We need to address the tariff you've imposed on our imports. It's making our goods uncompetitive.
+
+​​Trade Representative B:​​ Your government's subsidy to your steel industry is the problem. It's an unfair advantage. You're essentially dumping product onto our market.
+
+​​Rep A:​​ That's a strong accusation. Our industries need support. But we're willing to negotiate. Perhaps we can agree on a quota system?
+
+​​Rep B:​​ A quota might be a start. But we also need to talk about currency exchange rates. The fluctuation creates uncertainty for our companies.
+
+​​Rep A:​​ I understand. Financial stability benefits everyone. We can discuss mechanisms to stabilize the exchange rate, maybe a swap line.
+
+​​Rep B:​​ Good. Now, about intellectual property. Our firms need a guarantee that their patents will be respected. Piracy is a significant loss of revenue.
+
+​​Rep A:​​ We've recently passed new laws to strengthen IP protection. We can coordinate enforcement. Cooperation here is key for both our economies to grow.
+
+​​Rep B:​​ This is progress. Let's draft a memorandum of understanding. A successful deal will avert a larger trade crisis and allow commerce to flourish.
+
+​​Rep A:​​ Agreed. We'll have our teams work on the details. The goal is a sustainable trading relationship that creates wealth for both nations.
+
+国际贸易谈判
+
+​​贸易代表A:​​ 我们需要解决贵国对我国进口商品征收的关税。这使我们的商品失去了竞争力。
+
+​​贸易代表B:​​ 问题在于贵国政府对钢铁行业的补贴。这是不公平的优势。你们实际上是在向我国市场倾销产品。
+
+​​代表A:​​ 这是严重的指控。我们的产业需要支持。但我们愿意谈判。也许我们可以商定一个配额制度？
+
+​​代表B:​​ 配额可能是个开始。但我们还需要谈谈汇率。波动给我们的公司带来了不确定性。
+
+​​代表A:​​ 我理解。金融稳定对每个人都有利。我们可以讨论稳定汇率的机制，也许是货币互换协议。
+
+​​代表B:​​ 好。现在，关于知识产权。我们的公司需要保证其专利将受到尊重。盗版导致收入大量损失。
+
+​​代表A:​​ 我们最近通过了加强知识产权保护的新法律。我们可以协调执法。这方面的合作对我们两国经济增长至关重要。
+
+​​代表B:​​ 这是进展。我们来起草一份谅解备忘录。成功的交易将避免更大的贸易危机，让商业繁荣发展。
+
+​​代表A:​​ 同意。我们将让团队研究细节。目标是建立为两国创造财富的可持续贸易关系。
+
+'''
+
+== The Personal Finance Discussion
+
+​​Friend A:​​ I'm thinking about changing jobs. The salary at my current firm is adequate, but there's no chance for an increment.
+
+​​Friend B:​​ Really? Is the work itself fulfilling? Your career is about more than just a wage.
+
+​​Friend A:​​ True. But I have expenses! My monthly installments on the car, the mortgage... I need to earn more. I want to start saving for the future.
+
+​​Friend B:​​ I get it. Before you resign, make sure you have another offer. The job market is tight. You don't want to be dismissed and face a period without income.
+
+​​Friend A:​​ That's a scary thought. I'd have to rely on my spare savings. It wouldn't last long.
+
+​​Friend B:​​ Exactly. Maybe talk to a career agent? They might recommend you for a better position. It's an opportunity to develop new skills.
+
+​​Friend A:​​ Not a bad idea. I could update my resume. I just hope this change leads to growth and isn't a total abortion of my current career path!
+
+​​Friend B:​​ (Laughs) It's a risk, but sometimes you have to take a chance. Just make sure you can afford the potential short-term loss.
+
+个人理财讨论
+
+​​朋友A:​​ 我在考虑换工作。现在公司的薪水还行，但没有加薪的机会。
+
+​​朋友B:​​ 真的吗？工作本身有成就感吗？你的事业不仅仅是工资。
+
+​​朋友A:​​ 没错。但我有开销！每月的汽车分期付款、房贷……我需要赚更多。我想开始为未来储蓄。
+
+​​朋友B:​​ 我明白。在辞职之前，确保你有另一个offer。就业市场紧张。你不想被解雇后没有收入。
+
+​​朋友A:​​ 想想就可怕。我得靠那点备用储蓄。撑不了多久。
+
+​​朋友B:​​ 就是。也许和职业经纪人谈谈？他们可能推荐你更好的职位。这是个发展新技能的机会。
+
+​​朋友A:​​ 主意不错。我可以更新简历。我只希望这次改变能带来成长，而不是彻底断送目前的职业道路！
+
+​​朋友B:​​ (笑) 有风险，但有时你必须抓住机会。只要确保你能承受潜在的短期损失。
+
+'''
+
+== The Charity Gala Planning
+
+​​Organizer A:​​ We need to attract donors to endow our new scholarship fund. The goal is to donate a significant amount.
+
+​​Organizer B:​​ Absolutely. We should auction off some valuable items. A piece of art, or perhaps a rare coin collection. Something that will prompt high bids.
+
+​​Organizer C:​​ Good idea. We can also sell tickets to the gala. We need to account for every dollar. We'll issue receipts for all donations.
+
+​​Organizer A:​​ Of course. Transparency is key. We must be worthy of their trust. Their legacy of giving will enrich our community for generations.
+
+​​Organizer B:​​ Let's not lack ambition! We can also have a silent auction. People can bid on experiences, like a dinner with a famous author.
+
+​​Organizer C:​​ Perfect. And we'll need volunteers from our workforce. We can't afford to hire staff for this. It relies on people's vocation for service.
+
+​​Organizer A:​​ I'll coordinate the volunteers. We'll need ushers, clerks to manage the bids, and someone to handle the cash and cheques.
+
+​​Organizer B:​​ This undertaking is huge, but the result will be fantastic. It's a great opportunity to increase our profile and solve a real lack of resources for students.
+
+慈善晚会策划
+
+​​组织者A:​​ 我们需要吸引捐赠者来资助我们的新奖学金基金。目标是捐赠一大笔钱。
+
+​​组织者B:​​ 绝对是的。我们应该拍卖一些贵重物品。一件艺术品，或者一套稀有硬币收藏。能激起高额竞标的东西。
+
+​​组织者C:​​ 好主意。我们还可以出售晚会门票。我们需要核算每一块钱。所有捐款我们都会开具收据。
+
+​​组织者A:​​ 当然。透明是关键。我们必须值得他们的信任。他们的捐赠遗产将使我们的社区世代受益。
+
+​​组织者B:​​ 我们别缺乏雄心！还可以搞无声拍卖。人们可以竞拍体验，比如与著名作家共进晚餐。
+
+​​组织者C:​​ 完美。我们需要从我们的工作人员中招募志愿者。我们雇不起专职人员。这依赖于人们的服务天职。
+
+​​组织者A:​​ 我来协调志愿者。需要迎宾员、管理竞标的文书人员，还有人处理现金和支票。
+
+​​组织者B:​​ 这项任务很艰巨，但结果会很好。这是提高我们知名度、解决学生资源实际短缺的好机会。
+
+'''
+
+== The Central Bank Discussion
+
+​​Economist A:​​ The latest data shows a worrying decrease in economic activity. We're seeing deflation, not just disinflation.
+
+​​Economist B:​​ I know. Consumer spending is down. They lack confidence. We need to regulate interest rates carefully to avoid a deeper depression.
+
+​​Economist A:​​ But lowering rates too much might cause problems later. What about the stock market? And government bonds?
+
+​​Economist B:​​ It's a delicate balance. We might need to cooperate with the treasury department on a stimulus. A tax cut or a direct subsidy could help.
+
+​​Economist A:​​ Perhaps. But we must avoid escalating the national debt. We need a sustainable solution. Maybe we should attend the international financial conference next month to discuss coordination.
+
+​​Economist B:​​ Good idea. A global perspective is valuable. We need to choose our policies wisely. The wrong move could diminish our prospects for growth.
+
+​​Economist A:​​ Absolutely. Our primary duty is to maintain the value of the currency and ensure financial security for all citizens. We cannot fail.
+
+中央银行讨论
+
+​​经济学家A:​​ 最新数据显示经济活动出现令人担忧的下降。我们看到的是通货紧缩，不仅仅是通胀放缓。
+
+​​经济学家B:​​ 我知道。消费者支出下降。他们缺乏信心。我们需要谨慎调节利率，以避免更严重的萧条。
+
+​​经济学家A:​​ 但降息太多可能导致日后问题。股市呢？还有政府债券？
+
+​​经济学家B:​​ 这是个微妙的平衡。我们可能需要与财政部合作刺激经济。减税或直接补贴可能有帮助。
+
+​​经济学家A:​​ 也许吧。但我们必须避免增加国债。我们需要可持续的解决方案。也许我们应该参加下个月的国际金融会议讨论协调。
+
+​​经济学家B:​​ 好主意。全球视角很有价值。我们需要明智选择政策。错误的举动可能削弱我们的增长前景。
+
+​​经济学家A:​​ 绝对是的。我们的首要职责是维护货币价值，确保所有公民的金融安全。我们不能失败。
+
+'''
+
+== The Wholesale Business Meeting
+
+​​Owner:​​ Our gross revenue is down this quarter. We need to reduce our labour costs.
+
+​​Manager:​​ I agree. But we can't just fire people. We have to be careful about lay-offs. It's bad for morale.
+
+​​Owner:​​ What about the warehouse team? Their input has decreased since we automated. Some roles are redundant.
+
+​​Manager:​​ True. But we could retrain them. Their profession doesn't have to be obsolete. We could employ them in the new logistics division.
+
+​​Owner:​​ That's an idea. But we also need to look at our goods. We're sitting on a lot of copper wiring. It's not moving.
+
+​​Manager:​​ We could advertise a wholesale promotion. A deep discount to clear the inventory. We'll take a loss, but it will free up space.
+
+​​Owner:​​ Okay. And what about our debtors? We need to collect on these outstanding invoices. Levy a late fee if necessary.
+
+​​Manager:​​ I'll handle it. We'll also need to issue refunds for the last batch that had quality issues. We must reimburse our clients promptly to maintain trust.
+
+​​Owner:​​ Good. Let's also review the remuneration packages. We need to stay competitive to avoid losing our best people to early retirement.
+
+​​Manager:​​ Understood. I'll schedule interviews for the new roles next week. We need to consume these challenges and come out stronger.
+
+批发业务会议
+
+​​业主:​​ 本季度我们的总收入下降了。我们需要降低劳动力成本。
+
+​​经理:​​ 我同意。但不能简单地解雇人。裁员必须谨慎，对士气影响很坏。
+
+​​业主:​​ 仓库团队呢？自从我们自动化后，他们的投入减少了。有些岗位是多余的。
+
+​​经理:​​ 没错。但我们可以对他们进行再培训。他们的职业不一定要过时。我们可以把他们雇佣到新的物流部门。
+
+​​业主:​​ 这是个主意。但我们还需要看看我们的货物。我们积压了很多铜线。卖不动。
+
+​​经理:​​ 我们可以做一个批发促销广告。大幅折扣来清库存。我们会亏损，但能释放空间。
+
+​​业主:​​ 好吧。那我们的债务人呢？我们需要收这些未付发票的款。必要时征收滞纳金。
+
+​​经理:​​ 我来处理。我们还需要为上批有质量问题的货品办理退款。我们必须及时报销客户以维持信任。
+
+​​业主:​​ 好。我们也审查一下薪酬方案。需要保持竞争力，避免最优秀的员工提前退休。
+
+​​经理:​​ 明白。我下周安排新职位的面试。我们需要消化这些挑战，然后变得更强大。
+
+'''
+
+== The Antique Treasure Appraisal
+
+​​Appraiser:​​ This is a fascinating estate. These items have descended through generations?
+
+​​Client:​​ Yes, my great-grandfather was a merchant. He brought back treasures from his travels.
+
+​​Appraiser:​​ I see. This collection of old shillings and copper coins is quite valuable. But this silver... it's not silver. It's tin.
+
+​​Client:​​ (Laughs) Really? So not all that glitters is treasure! What about this chest?
+
+​​Appraiser:​​ Now, this is special. This is a genuine pirate's chest from the 1700s. The ironwork is exceptional. It's worth a small fortune.
+
+​​Client:​​ Wonderful! I'd like to insure it. Should I deposit it in a bank vault?
+
+​​Appraiser:​​ Absolutely. For an object of this value, you should. It's not something you consume daily! It's an investment.
+
+​​Client:​​ I suppose so. My profession as an accountant doesn't usually involve such exciting finds!
+
+​​Appraiser:​​ (Smiles) Well, everyone needs a hobby outside their occupation. This is certainly more exciting than balancing the books!
+
+古董珍宝鉴定
+
+​​鉴定师:​​ 这处房产真令人着迷。这些物品是世代传下来的吗？
+
+​​客户:​​ 是的，我的曾祖父是商人。他从旅行中带回了珍宝。
+
+​​鉴定师:​​ 明白了。这套先令和铜币收藏很有价值。但这银器……不是银的。是锡的。
+
+​​客户:​​ (笑) 真的吗？所以并非所有闪光的就是珍宝！这个箱子呢？
+
+​​鉴定师:​​ 这个很特别。这是18世纪真正的海盗箱。铁艺非常出色。值一小笔财富。
+
+​​客户:​​ 太好了！我想给它上保险。我应该把它存到银行保险库吗？
+
+​​鉴定师:​​ 当然。对于这么贵重的物品，应该存起来。这可不是日常消费品！是投资。
+
+​​客户:​​ 我想也是。我作为会计师的职业通常不会遇到这么令人兴奋的发现！
+
+​​鉴定师:​​ (微笑) 嗯，每个人都需要职业以外的爱好。这肯定比记账更有趣！
+
+'''
+
+== The HR Dilemma
+
+​​HR Manager:​​ We have a situation with John in accounting. He's been absent three times this month without notice.
+
+​​Line Manager:​​ I know. He's a workaholic when he's here, but his inconsistency is a problem. We might have to sanction him.
+
+​​HR Manager:​​ Before we go that far, we should interview him. There might be a personal issue. His profession is stressful.
+
+​​Line Manager:​​ True. But we also have to think about the team. His absence means others have to consume more workload. It's not fair.
+
+​​HR Manager:​​ Absolutely. Let's have a formal meeting. We can't just sack him without due process. We need to document everything.
+
+​​Line Manager:​​ What if he decides to retire? He's been here forever. The remuneration package for early retirement is quite good.
+
+​​HR Manager:​​ It is. But we can't suggest that. It could be seen as forcing him out. We must follow procedure. If we do have to discharge him, we need to calculate his final dividend payments and any refunds from his pension fund.
+
+​​Line Manager:​​ This is the worst part of the job. I hate the thought of making someone redundant.
+
+​​HR Manager:​​ I know. But sometimes, for the good of the company, and the individual, a change is needed. Let's hope the interview gives us clarity.
+
+人力资源困境
+
+​​人力资源经理:​​ 会计部的约翰有个情况。他这个月无故缺席了三次。
+
+​​部门经理:​​ 我知道。他在的时候是个工作狂，但这种不稳定的表现是个问题。我们可能得处罚他。
+
+​​人力资源经理:​​ 在走到那一步之前，我们应该和他面谈。可能是有个人问题。他的职业压力很大。
+
+​​部门经理:​​ 没错。但我们也得考虑团队。他的缺席意味着别人要承担更多工作量。这不公平。
+
+​​人力资源经理:​​ 绝对是的。我们开个正式会议吧。不能没有正当程序就解雇他。我们需要记录一切。
+
+​​部门经理:​​ 如果他决定退休呢？他在这里干了一辈子了。提前退休的薪酬方案相当不错。
+
+​​人力资源经理:​​ 是的。但我们不能提这个。可能被视为逼他走。我们必须按程序办事。如果真得解雇他，我们需要计算他的最终分红和养老金退款。
+
+​​部门经理:​​ 这是工作最糟糕的部分。我讨厌让人冗余的想法。
+
+​​人力资源经理:​​ 我明白。但有时，为了公司和个人好，改变是必要的。希望面谈能让我们看清情况。
+
+'''
+
+== The Economic Policy Debate
+
+​​Economist A:​​ The central bank's primary concern right now is inflation. It's eating into people's savings.
+
+​​Economist B:​​ I know. But raising interest rates too aggressively could trigger a recession. We need a measured approach.
+
+​​Economist A:​​ A measured approach? People are struggling to afford basic goods! The gross cost of living has skyrocketed. We need to sanction price gouging.
+
+​​Economist B:​​ Price controls are a blunt instrument. They can lead to shortages. The real solution is to increase productivity. We need more labour input.
+
+​​Economist A:​​ That's a long-term solution. What about now? Retirees on fixed remuneration are seeing their incomes dwindle. We can't just tell them to wait.
+
+​​Economist B:​​ True. Perhaps targeted subsidies are the answer. Reimburse those most affected. But we must be careful not to pour more money into an overheated economy. That would be like using a fire hose on a grease fire!
+
+​​Economist A:​​ (Chuckles) A vivid analogy. Okay, so we need a balanced strategy: control inflation without stifling growth. It's a tightrope walk.
+
+​​Economist B:​​ Exactly. And the treasure at the end of that tightrope is a stable economy for everyone.
+
+经济政策辩论
+
+​​经济学家A:​​ 央行目前最关心的是通货膨胀。它正在侵蚀人们的储蓄。
+
+​​经济学家B:​​ 我知道。但过于激进地加息可能引发衰退。我们需要谨慎的方法。
+
+​​经济学家A:​​ 谨慎的方法？人们都快买不起基本商品了！生活成本总额飙升。我们需要制裁价格欺诈。
+
+​​经济学家B:​​ 价格管制是钝器。可能导致短缺。真正的解决方案是提高生产力。我们需要更多的劳动力投入。
+
+​​经济学家A:​​ 那是长期解决方案。现在怎么办？靠固定薪酬的退休人员收入在减少。我们不能只让他们等着。
+
+​​经济学家B:​​ 没错。也许有针对性的补贴是答案。报销那些受影响最严重的人。但我们必须小心，不要向过热的经济注入更多资金。那就像用消防水管扑灭油锅大火！
+
+​​经济学家A:​​ (轻笑) 生动的比喻。好吧，我们需要一个平衡的战略：控制通胀而不抑制增长。就像走钢丝。
+
+​​经济学家B:​​ 正是。钢丝尽头的宝藏是给每个人的稳定经济。
+
+'''
+
+== 单词表
+
+economy
+trade
+market
+industry
+merchant
+financial
+fund
+donate
+endow
+commercial
+advertise
+slogan
+purchase
+lease
+afford
+retail
+chain
+grocery
+discount
+promotion
+voucher
+coupon
+currency
+exchange
+swap
+receipt
+invoice
+tax
+levy
+tariff
+duty
+impose
+consume
+spend
+cost
+expense
+revenue
+gross
+recession
+depression
+crisis
+security
+bond
+debt
+deficit
+inflation
+deflation
+dwindle
+decrease
+downsize
+decline
+diminish
+reduce
+increase
+increment
+growth
+escalate
+expand
+influx
+affluent
+enrich
+sufficient
+adequate
+spare
+saving
+redundant
+lack
+company
+firm
+enterprise
+agent
+entity
+invest
+input
+product
+acquisition
+goods
+cargo
+insure
+guarantee
+reliable
+negotiation
+attend
+absent
+sale
+wholesale
+auction
+bid
+deal
+transaction
+turnover
+dump
+export
+import
+quota
+share
+benefit
+interest
+dividend
+stock
+account
+deposit
+installment
+cheque
+cash
+coin
+shilling
+copper
+treasure
+wealth
+estate
+possess
+legacy
+descend
+worthy
+valuable
+cheap
+incentive
+accelerate
+prompt
+salary
+income
+wage
+payment
+refund
+reimburse
+payroll
+remuneration
+subsidy
+earn
+undertaking
+career
+profession
+occupation
+job
+vocation
+labour
+workforce
+workaholic
+personnel
+clerk
+interview
+resume
+recommend
+employ
+hire
+fire
+lay-off
+dismiss
+discharge
+resign
+sack
+retire
+result
+failure
+abortion
+loss
+opportunity
+chance
+choose
+change
+solve
+develop
+sustainable
+improve
+manage
+regulate
+sanction
+coordinate
+cooperate
+collaborate

@@ -1,0 +1,633 @@
+= part 19
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: myAdocCss.css
+
+
+'''
+
+== The Family Reunion
+
+​​Grandfather:​​ Seeing all my kin and folk together warms my heart. This generation, from my beloved spouse to my youngest grandchild, is my greatest joy.
+
+​​Daughter:​​ It's wonderful, Dad. Even your cousin from overseas made it. And your niece brought her new boyfriend.
+
+​​Son-in-law:​​ Speaking of the younger generation, our twin infants are finally asleep. Keeping up with them is a chore!
+
+​​Grandfather:​​ (Chuckles) I remember those days. Your mother and I were pioneers in this town. We were the first couple on this street.
+
+​​Daughter:​​ You're the patriarch of this whole household. But Mom was the real hostess, always managing everything.
+
+​​Son-in-law:​​ She was an amazing woman. It's a shame the grandkids never met their grandmother.
+
+​​Grandfather:​​ Yes, my dear wife... I still miss her every day. But life goes on. Now, who's that young man with our niece? Is he her intended?
+
+​​Daughter:​​ I think so. They seem very intimate. It's sweet to see a young couple in love.
+
+家庭团聚
+
+​​祖父:​​ 看到我所有的亲友聚在一起，我心里真暖和。这一代人，从我心爱的配偶到我最小的孙辈，是我最大的快乐。
+
+​​女儿:​​ 太棒了，爸爸。您海外的表亲也来了。您侄女还带了她新交的男朋友。
+
+​​女婿:​​ 说到年轻一代，我们的双胞胎婴儿终于睡着了。跟上他们的节奏真是件累人的事！
+
+​​祖父:​​ (轻笑) 我记得那些日子。你妈妈和我是这个镇上的开拓者。我们是这条街上的第一对夫妇。
+
+​​女儿:​​ 您是这整个家族的族长。但妈妈才是真正的女主人，总是打理一切。
+
+​​女婿:​​ 她是个了不起的女人。可惜孙辈们从未见过他们的祖母。
+
+​​祖父:​​ 是啊，我亲爱的妻子……我至今每天都想念她。但生活还要继续。对了，和侄女在一起的那个年轻人是谁？是她的意中人吗？
+
+​​女儿:​​ 我想是的。他们看起来非常亲密。看到年轻人相爱真是甜蜜。
+
+'''
+
+== The Legal Consultation
+
+​​Solicitor:​​ Thank you for the appointment, Madam. I understand you're here regarding a matter of inheritance. You are the sole heir to your father's estate?
+
+​​Client:​​ Yes, that's correct. My maiden name is Smith. But my sibling is contesting the will, claiming that as the eldest son, he should be the successor.
+
+​​Solicitor:​​ I see. The law today does not favour one gender over the other. Being female does not preclude you from inheriting. Do you have a copy of the will?
+
+​​Client:​​ I do. My father was very clear. He wanted me to be his successor because he trusted me to manage the property, unlike my brother.
+
+​​Solicitor:​​ This is a common issue, unfortunately. Families can be torn apart by such disputes. We will need to gather evidence. Are there any other relatives, like a cousin or nephew, who can support your claim?
+
+​​Client:​​ My father-in-law might. He was a close friend of my father's and knows his intentions. My husband will accompany him to our next meeting.
+
+​​Solicitor:​​ Excellent. We will need all the support we can get. Please don't worry; we will help you through this.
+
+法律咨询
+
+​​律师:​​ 感谢您预约，女士。我理解您是为继承事宜而来。您是您父亲遗产的唯一继承人，对吗？
+
+​​客户:​​ 是的，没错。我娘家姓史密斯。但我的兄弟姐妹正在质疑遗嘱，声称作为长子，他才应该是继承人。
+
+​​律师:​​ 我明白了。当今法律并不偏袒某一性别。您是女性并不妨碍您继承。您有遗嘱副本吗？
+
+​​客户:​​ 我有。我父亲非常明确。他希望我成为继承人，因为他相信我能管理财产，不像我哥哥。
+
+​​律师:​​ 不幸的是，这是个常见问题。家庭常因这类纠纷而分裂。我们需要收集证据。还有其他亲戚吗？比如表亲或侄子，能支持您的主张吗？
+
+​​客户:​​ 我的岳父或许可以。他是我父亲的密友，知道他的意图。我丈夫会陪他参加我们下一次会面。
+
+​​律师:​​ 很好。我们需要所有能得到的支持。请别担心，我们会帮助您度过难关。
+
+'''
+
+== The Landlord-Tenant Dispute
+
+​​Tenant:​​ I need to speak with the landlord. There's a problem with a fellow tenant in the apartment above. The noise is unbearable, especially at night.
+
+​​Hostess:​​ I'm standing in for the landlady today. She's at another property. What seems to be the issue?
+
+​​Tenant:​​ It's a young couple, I think. They have a juvenile son who plays the drums. It sounds like a gang of elephants! I'm missing sleep, and I have an important client meeting tomorrow.
+
+​​Hostess:​​ I understand. We've had complaints before. The lease agreement prohibits excessive noise. I will speak to them.
+
+​​Tenant:​​ Thank you. I don't want to cause trouble, but it's affecting my well-being. I encountered the husband in the hall, and he was quite defensive.
+
+​​Hostess:​​ Don't worry. It's my chore to handle these matters. We value all our guests... I mean, tenants. We'll find a solution. Perhaps they can move the drums to a different room or set specific practice hours.
+
+​​Tenant:​​ I'd appreciate that. I just want some peace and quiet.
+
+房东与租客纠纷
+
+​​租客:​​ 我需要和房东谈谈。楼上有个租客有问题。噪音让人无法忍受，尤其是在晚上。
+
+​​女接待员:​​ 我今天代理女房东。她在另一处房产。是什么问题呢？
+
+​​租客:​​ 我想是一对年轻夫妇。他们有个青春期的儿子在打鼓。声音像一群大象！我无法入睡，明天还有个重要的客户会议。
+
+​​女接待员:​​ 我理解。我们之前也收到过投诉。租赁协议禁止过度噪音。我会和他们谈谈。
+
+​​租客:​​ 谢谢。我不想惹麻烦，但这影响了我的健康。我在大厅遇到了那个丈夫，他态度很强硬。
+
+​​女接待员:​​ 别担心。处理这些事是我的职责。我们重视所有的客人……我是说，租客。我们会找到解决办法的。也许他们可以把鼓搬到别的房间，或者设定特定的练习时间。
+
+​​租客:​​ 那太好了。我只想要点安宁和安静。
+
+'''
+
+== The Unexpected Encounter
+
+​​Widow:​​ (Sighs) It's difficult being a widow. Some days, I feel so alone. Running the entire household by myself is a challenge.
+
+​​Friend:​​ I know, dear. But you're strong. Remember when we were youngsters? You were always the independent one.
+
+​​Widow:​​ That was a different time. Now, I'm just a housewife whose husband is gone. My darling... I still can't believe it.
+
+​​Friend:​​ Let's go out for tea. There's a lovely new place run by a charming host. It'll do you good to be among people.
+
+​​(At the tea shop)​​
+
+​​Host:​​ Welcome, ladies! A table for two? Right this way.
+
+​​Widow:​​ Thank you. This is nice.
+
+​​(A moment later)​​
+
+​​Widow:​​ Is that...? Oh my goodness. It's my husband's old business partner. I haven't seen him since the funeral.
+
+​​Friend:​​ Should we say hello?
+
+​​Widow:​​ I... I'm not sure. It might be too painful. But he was so kind to me then. He even helped with the legal matters.
+
+​​Host:​​ Your tea, madam. Is everything alright? You look like you've seen a ghost.
+
+​​Widow:​​ No, it's... it's fine. Thank you. Actually, could you please tell that gentleman over there that Mrs. Jones is here? If he has a moment.
+
+​​Host:​​ Of course. Right away.
+
+​​(The man approaches)​​
+
+​​Man:​​ Eleanor? It is you! What a wonderful surprise. You look well. How have you been?
+
+​​Widow:​​ (Smiling weakly) Managing, Robert. Just managing. It's good to see a friendly face.
+
+意外相遇
+
+​​寡妇:​​ (叹气) 做寡妇真难。有些日子，我感到非常孤独。独自打理整个家是个挑战。
+
+​​朋友:​​ 我知道，亲爱的。但你很坚强。记得我们年轻的时候吗？你总是那个独立的人。
+
+​​寡妇:​​ 那是不同的时代了。现在，我只是个丈夫不在的主妇。我的亲爱的……我仍然无法相信。
+
+​​朋友:​​ 我们出去喝杯茶吧。有个可爱的新地方，老板很有魅力。置身人群中会对你有好处。
+
+​​(在茶馆)​​
+
+​​店主:​​ 欢迎，女士们！两位吗？这边请。
+
+​​寡妇:​​ 谢谢。这里不错。
+
+​​(过了一会儿)​​
+
+​​寡妇:​​ 那是……？哦，天哪。是我丈夫以前的生意伙伴。自从葬礼后我就没见过他。
+
+​​朋友:​​ 我们要打招呼吗？
+
+​​寡妇:​​ 我……我不确定。可能太痛苦了。但他当时对我很好。他甚至帮忙处理了法律事务。
+
+​​店主:​​ 您的茶，女士。一切都还好吗？您看起来像见了鬼似的。
+
+​​寡妇:​​ 不，是……还好。谢谢。实际上，您能告诉那边那位先生琼斯夫人在这里吗？如果他有空的话。
+
+​​店主:​​ 当然。马上就去。
+
+​​(男子走近)​​
+
+​​男子:​​ 埃莉诺？真的是你！真是惊喜。你看起来气色不错。你过得怎么样？
+
+​​寡妇:​​ (虚弱地微笑) 勉强应付，罗伯特。只是勉强应付。看到一张友善的脸真好。
+
+'''
+
+== The Youth Center Meeting
+
+​​Social Worker:​​ The rise in teenage gang activity in our youth is alarming. We need a strategy to provide positive alternatives during this critical stage of adolescence.
+
+​​Volunteer:​​ I agree. Many of these youngsters come from troubled households. Some are practically orphans, with no responsible adults in their lives.
+
+​​Community Leader:​​ It's a complex issue. We see juveniles who are dependent on the gang for a sense of family. They chase after a sense of belonging they miss at home.
+
+​​Social Worker:​​ Exactly. We need to create intimate, trusting relationships with them. We can't just tell them to quit; we need to offer something better. We need to be the kin they lack.
+
+​​Volunteer:​​ What about a mentorship program? Pairing them with positive role models? We could involve same-sex mentors for the boys and female mentors for the girls. Gender dynamics are important.
+
+​​Community Leader:​​ That's a good idea. We could also host weekly events—sports, arts—to give them a safe space. We must not miss this opportunity to guide them. Their future depends on it.
+
+青少年中心会议
+
+​​社会工作者:​​ 我们年轻人中青少年帮派活动的增加令人担忧。我们需要一个策略，在这个关键的青春期阶段提供积极的替代方案。
+
+​​志愿者:​​ 我同意。这些年轻人中有许多来自问题家庭。有些几乎是孤儿，生活中没有负责任的成年人。
+
+​​社区领袖:​​ 这是个复杂的问题。我们看到青少年依赖帮派来获得家庭感。他们追逐在家里缺失的归属感。
+
+​​社会工作者:​​ 没错。我们需要与他们建立亲密、信任的关系。不能只是叫他们退出；我们需要提供更好的东西。我们需要成为他们缺乏的亲人。
+
+​​志愿者:​​ 导师计划怎么样？将他们与积极的榜样配对？我们可以为男孩安排同性导师，为女孩安排女性导师。性别动态很重要。
+
+​​社区领袖:​​ 好主意。我们还可以每周举办活动——体育、艺术——给他们一个安全的空间。我们绝不能错过这个引导他们的机会。他们的未来取决于此。
+
+'''
+
+== The Art Gallery Opening
+
+​​Gallery Owner:​​ As the host of this evening, I'd like to herald the arrival of our special guest, the artist herself! Her work is truly prophetic, challenging our views on gender and identity.
+
+​​Critic:​​ I've heard her latest series deals with themes of same-sex love. Is the artist gay herself?
+
+​​Gallery Owner:​​ I wouldn't presume to label her. Her work speaks to universal human experiences—love, loss, the desire for a beloved. She explores the intimate bonds between lovers, regardless of gender.
+
+​​Customer:​​ This piece is fascinating. It's called "Embryo of an Idea." It feels so raw, so new.
+
+​​Critic:​​ Indeed. She's not just an artist; she's a pioneer. She's the successor to a long line of thinkers who challenge the status quo.
+
+​​Gallery Owner:​​ We are thrilled to have her. And we must thank the maid service for keeping the place spotless! Now, if you'll excuse me, I must attend to my other guests. Please, enjoy the rest of your evening.
+
+画廊开幕
+
+​​画廊主:​​ 作为今晚的主人，我想宣布我们特别嘉宾——艺术家本人的到来！她的作品具有真正的先知性，挑战了我们关于性别和身份的看法。
+
+​​评论家:​​ 我听说她最新的系列作品涉及同性爱情主题。艺术家本人是同性恋吗？
+
+​​画廊主:​​ 我不会冒昧地给她贴标签。她的作品探讨的是普遍的人类体验——爱、失去、对心爱之人的渴望。她探索恋人之间的亲密纽带，无关性别。
+
+​​顾客:​​ 这件作品很吸引人。名叫“思想的胚胎”。感觉如此原始，如此新颖。
+
+​​评论家:​​ 确实。她不仅是艺术家，更是先驱。她是一长串挑战现状的思想家的继承者。
+
+​​画廊主:​​ 我们很高兴能展出她的作品。必须感谢女仆服务保持场地一尘不染！现在，失陪一下，我得去招呼其他客人了。请享受今晚的剩余时光。
+
+'''
+
+== The Complicated Relationship
+
+​​Wife:​​ I need to know the truth. Is there another woman? A mistress? I found a receipt for jewelry I never received.
+
+​​Husband:​​ It's not what you think! She's just a client. I bought the gift as a thank you for a large contract.
+
+​​Wife:​​ A client? You expect me to believe that? You've been so distant. We used to be so close, like lovers. Now you feel like a stranger. I miss my darling husband.
+
+​​Husband:​​ And I miss my wife! But you're always working or with your girlfriends. I feel like I'm chasing after you, but you're always just out of reach.
+
+​​Wife:​​ That's not fair! I have to work. And my friends are important to me. They were there for me when my father was ill. They're like kin to me.
+
+​​Husband:​​ I know, I know. But what about us? Our marriage feels like an embryo, not fully formed. We need to nurture it, or it will never grow.
+
+​​Wife:​​ (Sighs) You're right. We need to talk. Really talk. But not here. Let's go home. We can't have this conversation in a public place, with customers around.
+
+复杂的关系
+
+​​妻子:​​ 我需要知道真相。有别的女人了吗？情妇？我发现了一张我从没收到过的珠宝收据。
+
+​​丈夫:​​ 不是你想的那样！她只是个客户。我买礼物是为了感谢一份大合同。
+
+​​妻子:​​ 客户？你指望我相信这个？你一直那么疏远。我们曾经那么亲密，像恋人一样。现在你像个陌生人。我想念我亲爱的丈夫。
+
+​​丈夫:​​ 我也想念我的妻子！但你总是在工作或和你的闺蜜们在一起。我感觉我在追逐你，但你总是遥不可及。
+
+​​妻子:​​ 这不公平！我必须工作。我的朋友对我很重要。我父亲生病时是她们陪着我。她们就像我的亲人。
+
+​​丈夫:​​ 我知道，我知道。但我们呢？我们的婚姻感觉像个胚胎，没有完全成形。我们需要培育它，否则它永远长不大。
+
+​​妻子:​​ (叹气) 你说得对。我们需要谈谈。真正地谈谈。但不能在这里。我们回家吧。不能在公共场所，周围还有顾客的情况下谈这个。
+
+'''
+
+== The Office Proposal
+
+​​Manager:​​ Sarah, I need to propose a new committee structure. I want you to be the deputy chair.
+
+​​Sarah:​​ That's a big engagement. I'm honoured. But my wedding is next month, and then the honeymoon...
+
+​​Manager:​​ Congratulations! But this is important. We need a specialist to delegate the workflow. You're the sole person with the right skills.
+
+​​Sarah:​​ I understand. Each team member will have their respective roles. But as an individual, I need some time. I'm a commuter, and the toil is real!
+
+​​Colleague (Mark):​​ Don't listen to him, Sarah! He's a slave driver! Just because he's our boss doesn't mean he can separate you from your fiancé before you're even married!
+
+​​Manager:​​ Mark, that's enough from my subordinate! Sarah, think about it. It's a great opportunity. We're a team, partners in this. What do you say?
+
+​​Sarah:​​ (Laughs) Let me kiss my husband first, and then I'll give you an answer. I don't want to start my marriage with a divorce!
+
+​​Manager:​​ Fair enough. But no long engagements! I need an answer by Friday.
+
+办公室提议
+
+​​经理:​​ 莎拉，我需要提议一个新的委员会结构。我希望你担任副主席。
+
+​​莎拉:​​ 这是个重大的责任。我很荣幸。但我的婚礼在下个月，然后是蜜月……
+
+​​经理:​​ 恭喜！但这很重要。我们需要一位专家来委派工作流程。你是唯一具备合适技能的人。
+
+​​莎拉:​​ 我明白。每个团队成员将有各自的责任。但作为个人，我需要一些时间。我是个通勤族，工作很辛苦！
+
+​​同事（马克）:​​ 别听他的，莎拉！他是个奴隶主！就因为他是我们的老板，不能在你结婚前就把你和未婚夫分开！
+
+​​经理:​​ 马克，我的下属不要多嘴！莎拉，考虑一下。这是个好机会。我们是一个团队，是合作伙伴。你觉得呢？
+
+​​莎拉:​​ (笑) 让我先吻一下我的丈夫，然后我再给你答案。我不想以离婚开始我的婚姻！
+
+​​经理:​​ 好吧。但不要拖太久！周五前给我答复。
+
+'''
+
+== The Neighbourhood Council
+
+​​Council Member A:​​ As a proponent of this plan, I believe it will benefit every individual in our neighbourhood.
+
+​​Council Member B:​​ I oppose it. It will create more traffic for commuters. We need to delegate the decision to a specialist consultant.
+
+​​Chancellor:​​ Order! We are a council, not a gathering of strangers. We each have a role. Our deputy will now speak.
+
+​​Deputy:​​ Thank you. I've been a member of this community since I was a youngster. My affection for it runs deep. I propose we form a small committee to investigate. We can appoint a delegate to work with a solicitor on the legal aspects.
+
+​​Member A:​​ A committee? That's just a way to avoid making a decision! It's cowardly!
+
+​​Member B:​​ It's prudent! We can't be reckless like that fireman who ran into the burning building without a plan!
+
+​​Member A:​​ He was a hero!
+
+​​Chancellor:​​ Enough! This bickering is a disgrace. We will vote. All in favour?
+
+社区委员会
+
+​​委员A:​​ 作为该计划的支持者，我相信它将惠及我们社区的每个人。
+
+​​委员B:​​ 我反对。这将给通勤者带来更多交通问题。我们需要将决定权委托给专家顾问。
+
+​​议长:​​ 秩序！我们是议会，不是陌生人的聚会。我们各有职责。现在由副手发言。
+
+​​副手:​​ 谢谢。我从小就是社区成员。对它有深厚的感情。我提议成立一个小型委员会进行调查。我们可以任命一名代表与律师合作处理法律问题。
+
+​​委员A:​​ 委员会？这是逃避决策的懦弱行为！
+
+​​委员B:​​ 这是谨慎！我们不能像那个没有计划就冲进着火建筑的消防员那样鲁莽！
+
+​​委员A:​​ 他是个英雄！
+
+​​议长:​​ 够了！这种争吵是可耻的。我们将投票。赞成的？
+
+'''
+
+== The Drama Society Auditions
+
+​​Director:​​ For the role of the heroine, we need someone with real affection. She's a single mother, separated from her husband, struggling to raise her child sole.
+
+​​Actress 1:​​ I can do that! My character could be a nurse, or a gardener... someone who toils but has a heart of gold.
+
+​​Director:​​ Interesting. But I see her more as a teacher, a counsellor perhaps.
+
+​​Actress 2:​​ I think the key is her friendship with the male lead. It starts as an acquaintance, even though he's a stranger, but grows into deep comradery.
+
+​​Director:​​ Yes! And he's a former soldier, a commander who is now a barber, giving haircuts to the locals. A quiet hero.
+
+​​Producer:​​ This is all very touching, but who's going to play the villain? The coward who threatens them?
+
+​​Director:​​ Ah, the butcher! A man who is slave to his own greed. Perfect!
+
+​​Stage Manager:​​ Um, director? The cashier is here about the missing funds. And the umpire for the community softball game is waiting.
+
+​​Director:​​ (Sighs) Tell them I'm being held hostage by my own imagination! I'll be right there.
+
+戏剧社试镜
+
+​​导演:​​ 女主角需要真情实感。她是单身母亲，与丈夫分居，独自抚养孩子。
+
+​​女演员1:​​ 我能演！她可以是护士或园丁……辛勤工作但心地善良的人。
+
+​​导演:​​ 有意思。但我更倾向她是老师或顾问。
+
+​​女演员2:​​ 关键是她与男主角的友谊。从相识开始，尽管是陌生人，但发展成深厚的同志情谊。
+
+​​导演:​​ 对！他是退伍军人，曾是指挥官，现在是给当地人理发的理发师。一个安静的英雄。
+
+​​制片人:​​ 很感人，但谁演反派？威胁他们的懦夫？
+
+​​导演:​​ 啊，屠夫！被贪婪奴役的人。完美！
+
+​​舞台监督:​​ 导演？收银员来找丢失的资金。社区垒球比赛的裁判也在等。
+
+​​导演:​​ (叹气) 告诉他们我被自己的想象力劫持了！马上来。
+
+'''
+
+== The Vet Clinic Crisis
+
+​​Veterinary:​​ This is a serious case. The dog ingested something harmful. We need to act fast.
+
+​​Nurse:​​ His owner is a fisherman, and he's beside himself. They have a real bond, like partners.
+
+​​Veterinary:​​ I understand. It's a strong friendship. Prepare the surgery. We can't treat this animal like a stranger; it's a beloved member of their household.
+
+​​Client (Fisherman):​​ Please, you have to save him! He's my only mate on those long nights at sea. I couldn't bear to lose him.
+
+​​Veterinary:​​ We'll do everything we can. It's a delicate procedure. I'll need my deputy to assist. Every individual in this clinic will toil to save your dog.
+
+​​Nurse:​​ It's like he's a hostage to whatever he ate. We need to free him from this.
+
+​​Veterinary:​​ Exactly. It's a battle. But we are a team of specialists. Now, let's get to work. There's no time for cowardice.
+
+兽医诊所危机
+
+​​兽医:​​ 情况严重。狗吞了有害物质。需迅速行动。
+
+​​护士:​​ 主人是渔夫，心急如焚。他们感情深厚，像伙伴一样。
+
+​​兽医:​​ 明白。是牢固的友谊。准备手术。不能把它当陌生动物；是家庭心爱成员。
+
+​​客户（渔夫）:​​ 求求你，救救它！它是我海上长夜唯一的伙伴。失去它我受不了。
+
+​​兽医:​​ 我们会尽力。手术精细。需要副手协助。诊所每个人都会努力救你的狗。
+
+​​护士:​​ 它像被吃下的东西劫持了。需要解救它。
+
+​​兽医:​​ 对。是场战斗。但我们是专家团队。开始工作吧。没时间怯懦。
+
+'''
+
+== The Unlikely Friendship
+
+​​Groom:​​ (Brushing a horse) I never thought I'd be friends with an apprentice accountant. But here we are.
+
+​​Apprentice:​​ And I never thought I'd be in a stable. I'm a commuter, a city boy! But since my boss made me volunteer here...
+
+​​Groom:​​ Well, this old horse doesn't care if you're a stranger. He just wants affection. It's a good escape from your toil.
+
+​​Apprentice:​​ It is. You're different from my colleagues. They're all about deals and clients. You're... calm.
+
+​​Groom:​​ And you're not a coward around large animals. That's something. My mate, the farrier, is terrified of them!
+
+​​Apprentice:​​ (Laughs) Really? A blacksmith afraid of horses?
+
+​​Groom:​​ It's true! Life is funny. We all have our fears. But here, we're just two individuals, caring for these animals. It's a good friendship.
+
+​​Apprentice:​​ It is. Better than another committee meeting. Don't tell my manager I said that.
+
+意想不到的友谊
+
+​​马夫:​​ (刷马) 从没想过会和会计学徒交朋友。但就是这样了。
+
+​​学徒:​​ 我也没想过会在马厩里。我是通勤族，城市男孩！但自从老板让我来这做志愿者……
+
+​​马夫:​​ 这匹老马不在乎你是不是陌生人。它只想被关爱。是辛苦工作的好调剂。
+
+​​学徒:​​ 是啊。你和我的同事不同。他们只谈交易和客户。你很……平静。
+
+​​马夫:​​ 你面对大动物也不怯懦。这很好。我的伙伴，蹄铁匠，就很怕它们！
+
+​​学徒:​​ (笑) 真的？铁匠怕马？
+
+​​马夫:​​ 真的！生活真有趣。我们都有害怕的东西。但在这里，我们只是两个照顾动物的人。是段很好的友谊。
+
+​​学徒:​​ 是的。比开委员会会议好。别告诉我经理我说过这话。
+
+'''
+
+== The Legal Aid Center
+
+​​Supervisor:​​ As your supervisor, I'm proposing we take on this pro bono case. The client is destitute, a beggar who was assaulted.
+
+​​Junior Attorney:​​ But we're so busy. Each attorney has their respective caseload. I'm working on a divorce case for a single mother.
+
+​​Senior Attorney:​​ This is important. This individual has no one. He's a stranger in this city, with no friends, no family. We are his sole hope.
+
+​​Junior Attorney:​​ I understand. But my client is a nurse, a real heroine in her own right. She's fighting for sole custody of her infant.
+
+​​Supervisor:​​ Both cases deserve our attention. We are a team, partners in justice. I need a volunteer. Who will delegate their current tasks to take the new case?
+
+​​Senior Attorney:​​ I will. I have an acquaintance at the council who might help with resources. I'll act as this man's deputy. We can't be cowards in the face of injustice.
+
+​​Junior Attorney:​​ You're right. Forgive me. It's easy to become a slave to the billable hour. I'll help you after I kiss my own briefs goodbye for the day! Let's fight for both these clients.
+
+法律援助中心
+
+​​主管:​​ 作为你们的主管，我提议接手这个公益案件。客户一贫如洗，是个被袭击的乞丐。
+
+​​初级律师:​​ 但我们太忙了。每个律师都有各自的案件量。我在处理一个单身母亲的离婚案。
+
+​​高级律师:​​ 这很重要。这个人无依无靠。他在这个城市是陌生人，没有朋友，没有家人。我们是他的唯一希望。
+
+​​初级律师:​​ 我明白。但我的客户是护士，本身就是个英雄。她在为婴儿的单独监护权而战。
+
+​​主管:​​ 两个案件都值得关注。我们是一个团队，是正义的伙伴。需要志愿者。谁愿意调整当前任务接手新案件？
+
+​​高级律师:​​ 我来。我在议会有个熟人可能提供资源。我会代理这个人。面对不公不能怯懦。
+
+​​初级律师:​​ 你说得对。原谅我。容易变成计费工时的奴隶。我结束手头工作后帮你！我们为这两位客户而战。
+
+'''
+
+
+
+
+== 单词表
+
+pioneer
+prophet
+herald
+heir
+successor
+generation
+surname
+gender
+sex
+female
+couple
+spouse
+husband
+gay
+grandfather
+father-in-law
+sibling
+cousin
+nephew
+niece
+twin
+embryo
+infant
+orphan
+juvenile
+youngster
+youth
+gang
+teenage
+adolescence
+kin
+folk
+relative
+intimate
+dear
+darling
+lover
+beloved
+madam
+hostess
+landlady
+mistress
+housewife
+widow
+maid
+maiden
+household
+chore
+host
+landlord
+tenant
+guest
+customer
+client
+encounter
+chase
+miss
+appointment
+accompany
+dependent
+propose
+engagement
+marry
+wedding
+honeymoon
+kiss
+divorce
+separate
+single
+sole
+respective
+each
+individual
+commuter
+neighbourhood
+member
+boss
+manager
+supervisor
+subordinate
+partner
+mate
+colleague
+comrade
+acquaintance
+friendship
+affection
+stranger
+apprentice
+deputy
+hero
+heroine
+actress
+chancellor
+commander
+director
+proponent
+committee
+council
+delegate
+specialist
+consultant
+veterinary
+counsellor
+solicitor
+attorney
+umpire
+cashier
+fireman
+nurse
+gardener
+barber
+haircut
+fisherman
+butcher
+groom
+hostage
+toil
+beggar
+slave
+coward

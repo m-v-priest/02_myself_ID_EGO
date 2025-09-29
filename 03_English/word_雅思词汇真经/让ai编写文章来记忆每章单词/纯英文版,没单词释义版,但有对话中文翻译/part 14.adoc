@@ -1,0 +1,636 @@
+= part 14
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: myAdocCss.css
+
+
+'''
+
+
+== The Travel Agency Consultation
+
+​​Agent:​​ Welcome! Planning a voyage? A safari, perhaps?
+
+​​Client:​​ Actually, I'm thinking of a journey to Egypt. I want to see the pyramids.
+
+​​Agent:​​ Excellent choice! You'll need a visa for that. And I recommend a good travel atlas to navigate.
+
+​​Client:​​ Okay. What about the itinerary? I'd like a mix of travel. Maybe a flight there, and a ferry on the Nile?
+
+​​Agent:​​ Perfect. We can book your airline ticket now. Do you prefer a jet or a smaller airplane?
+
+​​Client:​​ A jet is fine. Faster velocity! I want to arrive swiftly.
+
+​​Agent:​​ Great. Now, let's talk baggage. You'll have one suitcase and a carry-on. We'll transfer it all for you.
+
+​​Client:​​ This sounds good. I hope there's no delay. I want everything to go smoothly.
+
+旅行社咨询
+
+​​代理人:​​ 欢迎！计划航海旅行？也许是野生动物园之旅？
+
+​​客户:​​ 其实，我在考虑去埃及旅行。我想看金字塔。
+
+​​代理人:​​ 好选择！你需要签证。我推荐一本好的旅行地图册来导航。
+
+​​客户:​​ 好的。行程呢？我想混合交通方式。也许坐飞机去，然后乘尼罗河渡船？
+
+​​代理人:​​ 完美。我们现在可以订机票。你喜欢喷气式飞机还是小飞机？
+
+​​客户:​​ 喷气式飞机就行。速度更快！我想快点到达。
+
+​​代理人:​​ 好的。现在说说行李。你有一个手提箱和一个随身行李。我们会为你转运所有行李。
+
+​​客户:​​ 听起来不错。希望没有延误。我希望一切顺利。
+
+'''
+
+== The Airport Adventure
+
+​​Passenger A:​​ This airport is huge! How do we navigate to our gate?
+
+​​Passenger B:​​ Check the signposts. Our flight is on time. No delay, thankfully.
+
+​​Passenger A:​​ Good. I hate waiting. Look at that helicopter on the runway! And that jet is taking off. Swift!
+
+​​Passenger B:​​ Yeah. But our airplane is at the next terminal. We need to carry our luggage there.
+
+​​Passenger A:​​ My suitcase is heavy. I should have packed less. It's a burden.
+
+​​Passenger B:​​ Next time, use a smaller bag. Let's find a cart for our packages.
+
+​​Passenger A:​​ There's one. Wow, look at all the freight on that truck. They're loading it onto a vessel.
+
+​​Passenger B:​​ Probably a steamer or a liner. Let's focus on our own departure. We need to embark soon.
+
+机场冒险
+
+​​乘客A:​​ 这机场真大！我们怎么导航到登机口？
+
+​​乘客B:​​ 看路标。我们的航班准时。幸好没有延误。
+
+​​乘客A:​​ 好。我讨厌等待。看跑道上的直升机！那架喷气式飞机起飞了。真快！
+
+​​乘客B:​​ 是啊。但我们的飞机在下一个航站楼。我们需要把行李搬过去。
+
+​​乘客A:​​ 我的手提箱很重。我该少带点。是个负担。
+
+​​乘客B:​​ 下次用小点的包。我们找辆手推车放包裹吧。
+
+​​乘客A:​​ 有一辆。哇，看那卡车上的所有货物。他们正把它装到一艘船上。
+
+​​乘客B:​​ 可能是轮船或班轮。我们专注自己的出发吧。我们需要很快登机了。
+
+'''
+
+== The City Commute
+
+​​Commuter A:​​ The traffic is terrible today. We'll never make it on time.
+
+​​Commuter B:​​ I know. We should have taken the subway. The underground is faster.
+
+​​Commuter A:​​ Or the tram. Look at that ambulance trying to get through. It's an emergency.
+
+​​Commuter B:​​ Yeah, it's dashing through. This van in front of us is not moving. Why is it stopped?
+
+​​Commuter A:​​ There's an accident at the intersection. A truck and a carriage collided. What a wreck.
+
+​​Commuter B:​​ Oh no. I hope everyone is okay. We need to find another route. Check the atlas on your phone.
+
+​​Commuter A:​​ Okay. Maybe we can take the avenue and cross the canal on the other bridge.
+
+​​Commuter B:​​ Good idea. Let's try to transfer to a different path. This lane is not moving.
+
+城市通勤
+
+​​通勤者A:​​ 今天交通太糟了。我们肯定不能准时到了。
+
+​​通勤者B:​​ 我知道。我们该坐地铁的。地下更快。
+
+​​通勤者A:​​ 或者有轨电车。看那辆救护车想通过。是紧急情况。
+
+​​通勤者B:​​ 是啊，它冲过去了。我们前面这辆货车不动了。为什么停着？
+
+​​通勤者A:​​ 十字路口有事故。卡车和马车相撞了。真是残骸。
+
+​​通勤者B:​​ 哦不。希望人没事。我们需要找另一条路线。用你手机查地图。
+
+​​通勤者A:​​ 好的。也许我们可以走大道，从另一座桥过运河。
+
+​​通勤者B:​​ 好主意。试试转到不同的路吧。这条车道不动。
+
+'''
+
+== The Harbour Master's Office
+
+​​Captain:​​ Harbour Master, requesting permission to dock my vessel.
+
+​​Harbour Master:​​ Permission granted, Captain. What's your cargo?
+
+​​Captain:​​ We're carrying freight from the carrier. Mostly packages and parcels. Need to deliver them swiftly.
+
+​​Harbour Master:​​ Understood. Proceed to dock number three. The steamer there is about to depart. Don't block its passage.
+
+​​Captain:​​ Will do. My crew is ready to drop anchor. We'll begin unloading the load soon.
+
+​​Harbour Master:​​ Good. Be aware of the tide. The water level will change. Don't let your ship submerge the dock!
+
+​​Captain:​​ (Laughs) We'll be careful. My sailors know their jobs. We'll have this burden off by sunset.
+
+港务长办公室
+
+​​船长:​​ 港务长，请求允许我的船停靠。
+
+​​港务长:​​ 准许，船长。你的货物是什么？
+
+​​船长:​​ 我们运的是承运人的货物。主要是包裹和邮包。需要快速送达。
+
+​​港务长:​​ 明白。前往三号码头。那里的轮船即将离港。别阻塞它的通道。
+
+​​船长:​​ 照办。我的船员准备抛锚了。我们会很快开始卸货。
+
+​​港务长:​​ 好。注意潮汐。水位会变。别让你的船淹没码头！
+
+​​船长:​​ (笑) 我们会小心的。我的水手熟悉工作。日落前卸完这负担。
+
+'''
+
+== The Post Office Parcel
+
+​​Clerk:​​ Next! How can I help you?
+
+​​Customer:​​ I need to mail this packet. What's the postage?
+
+​​Clerk:​​ Let me weigh it. Hmm, it's heavy. That will be a higher fare. Do you want to bind it as a parcel?
+
+​​Customer:​​ Yes, please. I need it delivered to this address. It's due to arrive by Friday.
+
+​​Customer:​​ What if it's delayed? Can you expedite the transit?
+
+​​Clerk:​​ We have an express service. It costs more, but the speed is greater. It will convey it faster.
+
+​​Customer:​​ I'll take that. I can't postpone this delivery. It's important.
+
+​​Clerk:​​ Okay. I'll stamp it "Express". It should transmit through the system swiftly. Here's your receipt.
+
+​​Customer:​​ Thanks. I hope it doesn't vanish in the mail! I've had packages disappear before.
+
+​​Clerk:​​ (Smiles) With our express service, that hazard is very low. It'll be there before you know it.
+
+邮局包裹
+
+​​职员:​​ 下一位！需要什么帮助？
+
+​​顾客:​​ 我需要寄这个包裹。邮资多少？
+
+​​职员:​​ 我称一下。嗯，很重。费用会高些。要把它捆成包裹吗？
+
+​​顾客:​​ 好的。需要寄到这个地址。应在周五前到达。
+
+​​顾客:​​ 如果延误了呢？能加急转运吗？
+
+​​职员:​​ 我们有快递服务。贵些，但速度更快。会送达得更快。
+
+​​顾客:​​ 用这个。我不能推迟投递。这很重要。
+
+​​职员:​​ 好的。我会盖"快递"章。应该会快速通过系统。这是你的收据。
+
+​​顾客:​​ 谢谢。希望它不会在邮件中消失！我以前有包裹丢失过。
+
+​​职员:​​ (微笑) 用我们的快递服务，那种风险很低。转眼就到。
+
+'''
+
+== The Country Road Trip
+
+​​Driver:​​ This old highway is beautiful. But the path is winding. We need to slow down.
+
+​​Passenger:​​ I know. My job is to navigate with the atlas. The next intersection is in five miles.
+
+​​Driver:​​ Good. Keep an eye out for hazards. Like that tractor pulling a cart! It's moving slowly.
+
+​​Passenger:​​ I see it. There's a ditch on the side of the road. Be careful not to cross the lane.
+
+​​Driver:​​ Don't worry. I have good brakes. And the tyres are new. But I'll honk just in case.
+
+​​Passenger:​​ Okay. Look, a pedicab! And a horse-drawn wagon! This is like a parade of old vehicles.
+
+​​Driver:​​ (Laughs) Yeah, it's a journey back in time. Next, we'll see a locomotive on rails!
+
+​​Passenger:​​ Actually, the railroad runs parallel to this road. So you might!
+
+乡村公路旅行
+
+​​司机:​​ 这老高速公路真美。但路弯弯曲曲。我们需要慢点开。
+
+​​乘客:​​ 我知道。我的工作是用地图册导航。下个路口在五英里外。
+
+​​司机:​​ 好。留意危险。比如那辆拉马车的拖拉机！开得很慢。
+
+​​乘客:​​ 看到了。路边有沟渠。小心别过线。
+
+​​司机:​​ 别担心。我刹车好。轮胎也是新的。但我会按喇叭以防万一。
+
+​​乘客:​​ 好的。看，人力车！还有马拉货车！这像老式车辆游行。
+
+​​司机:​​ (笑) 是啊，像回到过去的旅行。接下来我们会看到铁轨上的火车头！
+
+​​乘客:​​ 其实，铁路和这条路平行。所以你可能真会看到！
+
+'''
+
+== The Aviation Museum Visit
+
+​​Visitor A:​​ I'm fascinated by aviation. This museum is a great attraction.
+
+​​Visitor B:​​ Me too. Look at that old biplane. The pilot must have been brave to fly that.
+
+​​Visitor A:​​ Definitely. And over there, a jet with a turbine engine. Much more horsepower.
+
+​​Visitor B:​​ Yeah. I love the exhibit on the early days of flight. They used to sail through the air almost like a ship on the sea.
+
+​​Visitor A:​​ (Laughs) Not quite. But I see what you mean. Look at this display on parachutes. That took courage too.
+
+​​Visitor B:​​ It did. This memorial to early aviators is moving. They paved the way for modern travel.
+
+​​Visitor A:​​ They did. It's a shame their visas often expired before they reached their destination on long journeys.
+
+​​Visitor B:​​ True. But their spirit lives on. This place might haunt my dreams tonight... in a good way!
+
+航空博物馆参观
+
+​​游客A:​​ 我对航空很着迷。这个博物馆是个很棒的景点。
+
+​​游客B:​​ 我也是。看那架老式双翼飞机。飞行员开它一定很勇敢。
+
+​​游客A:​​ 当然。那边，有涡轮发动机的喷气式飞机。马力大得多。
+
+​​游客B:​​ 是啊。我喜欢早期飞行的展览。他们过去在空中航行，几乎像船在海上一样。
+
+​​游客A:​​ (笑) 不太像。但我明白你的意思。看这个降落伞展示。那也需要勇气。
+
+​​游客B:​​ 确实。这个早期飞行员的纪念馆很感人。他们为现代旅行铺平了道路。
+
+​​游客A:​​ 是的。可惜他们的签证常在长途旅行到达目的地前就过期了。
+
+​​游客B:​​ 没错。但他们的精神永存。这地方今晚可能会萦绕在我的梦里…以好的方式！
+
+'''
+
+== The Sailboat Trip
+
+​​Sailor A:​​ All aboard! Ready to embark on our voyage?
+
+​​Sailor B:​​ Ready! Let's raise the sail. The wind is good. We can sail swiftly to the channel.
+
+​​Sailor A:​​ Great. Keep an eye out for hazards. Other vessels, like that ferry. Or even a raft.
+
+​​Sailor B:​​ I will. I'll steer from the stern. You handle the lines on the deck.
+
+​​Sailor A:​​ Okay. Pass me an oar, just in case the wind lulls. We might need to paddle.
+
+​​Sailor B:​​ Here you go. It's a beautiful day for a sail. No need for the motor. This is the life!
+
+​​Sailor A:​​ It is. I love the sound of the water against the hull. It's so peaceful.
+
+​​Sailor B:​​ Yeah. Much better than being stuck in traffic in a auto. Or waiting for a coach.
+
+​​Sailor A:​​ Absolutely. This is the best way to travel. Pure freedom.
+
+帆船之旅
+
+​​水手A:​​ 全体上船！准备好开始我们的航程了吗？
+
+​​水手B:​​ 准备好了！我们升帆吧。风很好。我们可以快速航行到海峡。
+
+​​水手A:​​ 好。留意危险。其他船只，比如那艘渡轮。甚至筏子。
+
+​​水手B:​​ 我会的。我在船尾掌舵。你负责甲板上的绳索。
+
+​​水手A:​​ 好的。递给我一支桨，以防风停。我们可能需要划桨。
+
+​​水手B:​​ 给。真是航行的好天气。不需要马达。这才是生活！
+
+​​水手A:​​ 是啊。我喜欢水拍打船体的声音。真平静。
+
+​​水手B:​​ 嗯。比堵在汽车里好多了。或者等长途汽车。
+
+​​水手A:​​ 绝对。这是最好的旅行方式。纯粹的自由。
+
+'''
+
+== The Railway Station
+
+​​Traveler A:​​ We need to catch the express train. It departs from platform 3.
+
+​​Traveler B:​​ Okay. The railway timetable says it's due in 10 minutes. I hope there's no delay.
+
+​​Traveler A:​​ It should be on time. It's a locomotive with a lot of horsepower. It can make up time.
+
+​​Traveler B:​​ Good. Our destination is the port city. Then we transfer to a steamer.
+
+​​Traveler A:​​ Yes. I have our tickets right here in my envelope. I don't want them to expire.
+
+​​Traveler B:​​ Smart. Let's find our carriage. I think it's at the front of the train, near the engine.
+
+​​Traveler A:​​ There it is. Let's get aboard. I want a seat by the window to see the scenery.
+
+​​Traveler B:​​ Me too. I hope the route goes through a tunnel. I love that!
+
+​​Traveler A:​​ (Laughs) You and your tunnels! Okay, let's go. All aboard!
+
+火车站
+
+​​旅客A:​​ 我们要赶特快列车。从3号站台出发。
+
+​​旅客B:​​ 好的。铁路时刻表说10分钟后到。希望没有延误。
+
+​​旅客A:​​ 应该准时。是马力很大的火车头。能赶时间。
+
+​​旅客B:​​ 好。我们的目的地是港口城市。然后我们转乘轮船。
+
+​​旅客A:​​ 对。票在我信封里。不想让它们过期。
+
+​​旅客B:​​ 聪明。找找我们的车厢。我想在火车前部，靠近引擎。
+
+​​旅客A:​​ 在那儿。我们上车吧。我想要靠窗的座位看风景。
+
+​​旅客B:​​ 我也是。希望路线穿过隧道。我喜欢！
+
+​​旅客A:​​ (笑) 你和你的隧道！好了，走吧。上车！
+
+'''
+
+== The Airport Check-in Counter
+
+​​Passenger:​​ Excuse me, is this the right line for my flight? I'm a bit worried about my carry-on.
+
+​​Steward:​​ Yes, it is. Let me check the size. Hmm, it might be too big for the overhead rack.
+
+​​Passenger:​​ Oh no! What happens if it doesn't fit? I don't want it to get crushed.
+
+​​Steward:​​ Don't worry. We can check it at the gate for free. It's better than causing a delay. Your flight is due to board soon.
+
+​​Passenger:​​ Okay, that's a relief. I was afraid I'd have to defer my trip. I have a connecting flight.
+
+​​Steward:​​ We'll make sure you make it. Just head to the gate. The crew will assist you there.
+
+机场值机柜台
+
+​​乘客:​​ 打扰一下，这是我这趟航班的队伍吗？我有点担心我的随身行李。
+
+​​乘务员:​​ 是的。让我检查一下尺寸。嗯，可能太大了，放不进头顶的行李架。
+
+​​乘客:​​ 哦不！如果放不下怎么办？我不想它被压坏。
+
+​​乘务员:​​ 别担心。我们可以在登机口免费为您托运。这比造成延误要好。您的航班很快就要登机了。
+
+​​乘客:​​ 好的，那我就放心了。我还怕要推迟行程呢。我需要转机。
+
+​​乘务员:​​ 我们会确保您赶上的。请前往登机口。那里的工作人员会协助您。
+
+'''
+
+== The Bicycle Shop
+
+​​Customer:​​ Hi, I need a new wheel for my cycle. I had a bit of a crash and bent the rim.
+
+​​Mechanic:​​ Ouch! That's no good. Let's take a look. Was it a serious crash?
+
+​​Customer:​​ Not too bad. I hit the curb while avoiding a lorry. Luckily, I wasn't going too fast.
+
+​​Mechanic:​​ Well, the good news is the frame seems fine. We can just replace the wheel. We have a rack of them over there.
+
+​​Customer:​​ Great. How long will it take? The repair is due today, right?
+
+​​Mechanic:​​ Yes, we can do it now. It won't take long. You can wait in the garage if you like.
+
+​​Customer:​​ Perfect. I'll defer my ride until tomorrow, then. Safety first!
+
+自行车店
+
+​​顾客:​​ 你好，我的自行车需要一个新轮子。我撞了一下，轮圈弯了。
+
+​​技师:​​ 哎哟！那可不好。我们看看。撞得严重吗？
+
+​​顾客:​​ 不太严重。为了避让一辆卡车，我撞到了路缘石。幸好我骑得不快。
+
+​​技师:​​ 嗯，好消息是车架似乎没问题。我们可以只换轮子。那边架子上有。
+
+​​顾客:​​ 太好了。需要多久？今天能修好，对吧？
+
+​​技师:​​ 是的，我们现在就可以修。用不了多久。你可以在车库里等。
+
+​​顾客:​​ 完美。那我推迟到明天再骑。安全第一！
+
+'''
+
+== The Marina Mishap
+
+​​Seaman:​​ Welcome aboard! Ready for our canoe trip?
+
+​​Tourist:​​ I am! But... what's that sound? It sounds like a crash.
+
+​​Seaman:​​ Oh, no! That's the sound of the dinghy's propeller hitting the dock! Someone wasn't careful.
+
+​​Tourist:​​ Is it bad? Will we have to defer our voyage?
+
+​​Seaman:​​ Let me check. The canoe is fine, it's our motorboat that's damaged. We can still use the canoe, but we'll have to paddle. No motor.
+
+​​Tourist:​​ That's okay! I like paddling. It's more authentic. As long as we don't crush the canoe on the rocks!
+
+​​Seaman:​​ (Laughs) Don't worry, I'm an experienced seaman. I'll steer us clear. Let's grab our gear from the rack and go.
+
+码头小意外
+
+​​水手:​​ 欢迎登船！准备好我们的独木舟之旅了吗？
+
+​​游客:​​ 准备好了！但是……什么声音？听起来像撞击声。
+
+​​水手:​​ 哦，不！是舢板螺旋桨撞到码头的声音！有人不小心。
+
+​​游客:​​ 严重吗？我们得推迟航行吗？
+
+​​水手:​​ 我看看。独木舟没事，是我们的摩托艇坏了。我们还可以用独木舟，但得划桨。没马达了。
+
+​​游客:​​ 没关系！我喜欢划桨。更原汁原味。只要我们不把独木舟撞在岩石上就行！
+
+​​水手:​​ (笑) 别担心，我是经验丰富的水手。我会避开岩石的。我们从架子上拿上装备出发吧。
+
+'''
+
+== The Geography Class
+
+​​Student A:​​ I can't find this country on the map in the atlas. My knowledge of geography is due for an upgrade!
+
+​​Student B:​​ Let me see. Which country? Maybe it's a small island. Sometimes they get crushed between larger countries on the map.
+
+​​Student A:​​ It's this one here. I think it might be in the Caribbean. I'd hate to defer this assignment.
+
+​​Student B:​​ Oh, I know that one! It's right here. See? Next to this bigger island. You need a better atlas with a larger scale.
+
+​​Student A:​​ You're right! This book is old. The pages are starting to come off the rack binding.
+
+​​Student B:​​ Time for a new one. Maybe we can go to the bookstore after class. I need a new wheel for my bike too, my tire is flat.
+
+​​Student A:​​ Deal! But let's not crash into each other on our cycles on the way there!
+
+地理课
+
+​​学生A:​​ 我在地图册上找不到这个国家。我的地理知识该更新了！
+
+​​学生B:​​ 我看看。哪个国家？可能是个小岛。在地图上，它们有时会被大国"挤没"。
+
+​​学生A:​​ 是这个。我想可能在加勒比海。我不想推迟交作业。
+
+​​学生B:​​ 哦，我知道这个！就在这里。看到了吗？在这个大岛旁边。你需要一本比例尺更大的好地图册。
+
+​​学生A:​​ 你说得对！这本书太旧了。书页都快从装订线脱落了。
+
+​​学生B:​​ 该买本新的了。也许放学后我们可以去书店。我的自行车也需要个新轮子，轮胎没气了。
+
+​​学生A:​​ 成交！但我们去的时候别在路上撞到一起！
+
+'''
+
+
+
+
+
+== 单词表
+
+navigate
+voyage
+aviation
+journey
+travel
+safari
+parade
+haunt
+attraction
+memorial
+pyramid
+port
+visa
+traffic
+airline
+airplane
+helicopter
+jet
+parachute
+flight
+pilot
+passenger
+baggage
+luggage
+suitcase
+carry-on
+rack
+freight
+fare
+atlas
+route
+itinerary
+passage
+intersection
+cross
+way
+path
+lane
+avenue
+highway
+curb
+signpost
+pave
+vehicle
+auto
+express
+tram
+coach
+ambulance
+truck
+lorry
+van
+wagon
+carriage
+tractor
+cart
+pedicab
+cycle
+garage
+motor
+horsepower
+wheel
+brake
+tyre
+honk
+crew
+captain
+steward
+emergency
+wreck
+crash
+crush
+dash
+vanish
+disappear
+hazard
+harbour
+dock
+anchor
+submerge
+sailor
+seaman
+carrier
+steamer
+liner
+vessel
+ferry
+sail
+raft
+canoe
+oar
+deck
+turbine
+propeller
+stern
+aboard
+embark
+channel
+canal
+ditch
+railroad
+railway
+locomotive
+subway
+underground
+tunnel
+rail
+depart
+arrive
+destination
+delay
+postpone
+defer
+lull
+expire
+due
+postage
+stamp
+envelope
+mail
+packet
+package
+bind
+parcel
+load
+burden
+transfer
+transmit
+transit
+deliver
+convey
+speed
+velocity
+swift

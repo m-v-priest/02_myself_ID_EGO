@@ -1,0 +1,1463 @@
+= part 21
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: myAdocCss.css
+
+
+'''
+== The Doctor's Consultation
+
+​​Doctor:​​ Good morning. I understand you haven't been feeling well. Can you describe the physical symptoms? Any pain in your chest, abdomen, or joints?
+
+​​Patient:​​ It's more than physical, Doctor. My mood has been low, my emotions are all over the place. I've lost my temper easily, which is not in my character. I'm usually a very calm person.
+
+​​Doctor:​​ I see. The mind and body are deeply connected. Stress can affect your hormones, your immune system, even your biorhythm. Let's check your vitals. I need to feel your pulse and check your glands. Any pain here, near the liver or stomach?
+
+​​Patient:​​ A bit, yes. And my knee joint has been aching. My lifestyle hasn't been great lately—poor diet, bad habits. I know I need to change my attitude towards health.
+
+​​Doctor:​​ Well, acknowledging that is the first step. Your stature and general physique look good. But let's run some tests on your blood, check your kidneys and lungs. We need a complete view of your health. The human body is a complex system; an issue in one organ, like the womb or intestine, can cause problems elsewhere.
+
+​​Patient:​​ Thank you, Doctor. I appreciate your manner. You have a good bedside trait.
+
+​​Doctor:​​ It's my virtue to help. Now, open your mouth wide, let me see your throat and tongue. Say 'ahh'...
+
+医生咨询
+
+​​医生:​​ 早上好。我知道您感觉不适。能描述一下身体症状吗？胸部、腹部或关节有疼痛吗？
+
+​​病人:​​ 不只是身体上的，医生。我情绪低落，情绪波动大。我很容易发脾气，这不符合我的性格。我通常是个很冷静的人。
+
+​​医生:​​ 我明白。身心是紧密相连的。压力会影响你的荷尔蒙、免疫系统，甚至你的生物节律。我们检查一下生命体征。我需要摸你的脉搏，检查你的腺体。这里疼吗，靠近肝脏或胃部？
+
+​​病人:​​ 有点疼。我的膝关节也一直疼。我最近的生活方式不太好——饮食差，习惯不好。我知道我需要改变对健康的态度。
+
+​​医生:​​ 承认这一点是第一步。你的身材和总体体格看起来不错。但我们来做一些血液检查，检查你的肾脏和肺部。我们需要全面了解你的健康状况。人体是一个复杂的系统；一个器官的问题，比如子宫或肠道，可能会引起其他地方的问题。
+
+​​病人:​​ 谢谢你，医生。我很欣赏你的态度。你有很好的医德。
+
+​​医生:​​ 帮助病人是我的美德。现在，张大嘴，让我看看你的喉咙和舌头。说“啊”……
+
+'''
+
+== The Anatomy Class Debate
+
+​​Professor:​​ Today, we'll discuss the feature that truly sets mankind apart: the human brain. This organ, protected by the skull, is the seat of the mind.
+
+​​Student A:​​ But Professor, isn't it the complex nervous system? The nerves, the spinal cord protected by the backbone... without them, the brain is just tissue.
+
+​​Student B:​​ I think it's the opposable thumb! It allowed us to use tools, which stimulated our brain development. It's a feedback loop. The physical stimulus led to mental growth.
+
+​​Professor:​​ Excellent points! It's the integration of systems. Think about the signal from your eye, through the optic nerve, to the visual cortex. Your sight creates your view of the world. Or the sense of touch on your palm or fingertip. Every part, from the largest limb to the smallest pore, plays a role.
+
+​​Student A:​​ So, our entire physical form, from the forehead to the toe, contributes to our consciousness? Even the hormones from our glands influence our mood and emotions?
+
+​​Professor:​​ Precisely! Your stomach growling can affect your temper. A hormone released from your kidney can influence your energy level. It's all connected. There's no separating the mental from the physical. It's the core of human biology.
+
+解剖课辩论
+
+​​教授:​​ 今天，我们将讨论真正使人类与众不同的特征：人脑。这个器官，受头骨保护，是心智的所在。
+
+​​学生A:​​ 但是教授，难道不是复杂的神经系统吗？神经，受脊柱保护的脊髓……没有它们，大脑只是组织。
+
+​​学生B:​​ 我认为是对生拇指！它让我们能够使用工具，这刺激了我们大脑的发展。这是一个反馈循环。身体的刺激导致了心智的成长。
+
+​​教授:​​ 说得好！这是系统的整合。想想信号从你的眼睛，通过视神经，到达视觉皮层。你的视觉创造了你对世界的看法。或者你手掌或指尖的触觉。每个部分，从最大的肢体到最小的毛孔，都扮演着一个角色。
+
+​​学生A:​​ 所以，我们整个身体形态，从前额到脚趾，都促进了我们的意识？甚至我们腺体分泌的荷尔蒙也影响我们的情绪和情感？
+
+​​教授:​​ 正是！你的胃咕咕叫会影响你的脾气。肾脏释放的一种荷尔蒙会影响你的能量水平。一切都是相连的。无法将心理与身体分开。这是人类生物学的核心。
+
+'''
+
+== The Yoga and Meditation Session
+
+​​Instructor:​​ Welcome, everyone. Find a comfortable seat, lengthen your spine, relax your jaw and your shoulders. Close your eyes and bring your awareness to your breath. Feel the air moving over your lips, filling your lungs.
+
+​​Student:​​ (Whispers) My mind is racing. I can't calm down. My pulse feels fast.
+
+​​Instructor:​​ That's okay. Just observe the feeling, the emotion, without judgment. Notice the physical sensations—perhaps in your chest or your abdomen. Breathe into them. This practice helps regulate your biorhythm and can boost your immune system.
+
+​​Student:​​ I'll try. I'm focusing on the sense of my palms on my knees.
+
+​​Instructor:​​ Good. Now, as we move into a forward fold, hinge from the waist, not the spine. Feel the stretch in the back of your thighs, your hamstrings. This stimulates the nerves and can improve your mood.
+
+​​Student:​​ Wow, I can feel it all the way to my heel! My whole attitude is shifting. This is a great habit to develop for my lifestyle.
+
+​​Instructor:​​ Exactly. It's about connecting mind and body. Now, gently roll up, vertebra by vertebra. Bring your thumb and forefinger together. Open your eyes. How's the view from here?
+
+瑜伽与冥想课
+
+​​教练:​​ 欢迎大家。找个舒适的坐姿，拉长脊柱，放松下巴和肩膀。闭上眼睛，将意识带到呼吸上。感受空气流过嘴唇，充满肺部。
+
+​​学生:​​ (低语) 我的思绪纷飞。无法平静。脉搏感觉很快。
+
+​​教练:​​ 没关系。只是观察那种感觉，那种情绪，不加评判。注意身体的感受——也许在胸部或腹部。向它们呼吸。这种练习有助于调节你的生物节律，并能增强免疫系统。
+
+​​学生:​​ 我试试。我正专注于手掌放在膝盖上的感觉。
+
+​​教练:​​ 很好。现在，当我们进入前屈时，从腰部铰链，而不是脊柱。感受大腿后侧、腘绳肌的伸展。这刺激神经，可以改善情绪。
+
+​​学生:​​ 哇，我能一直感觉到脚后跟！我的整个态度都在转变。这是为我的生活方式养成的好习惯。
+
+​​教练:​​ 没错。这是关于连接身心。现在，慢慢地卷起身体，一节脊椎一节脊椎地来。将拇指和食指相触。睁开眼睛。从这里看，景色如何？
+
+'''
+
+== The Artist's Model
+
+​​Artist:​​ Hold that pose, please. The light on your neck and shoulder is perfect. The line from your elbow to your wrist is exquisite. Don't tense the muscle.
+
+​​Model:​​ It's harder than it looks. My thigh is starting to shake. And I'm trying not to blink and lose my eyelash placement!
+
+​​Artist:​​ (Chuckles) Think of something calming. Tap into an emotion—serenity, perhaps. Let it show in your face, in the set of your jaw, the relaxation of your brow. The character I'm trying to capture has a strong but gentle personality.
+
+​​Model:​​ I'm focusing on the sense of my breath going down my throat. It helps. But my big toe is going numb!
+
+​​Artist:​​ Almost done. The human form is a marvel—the curve of the rib cage, the delicate bones of the finger. It's all flesh and blood, but it contains the entire human experience. Okay, relax! You can move your limbs. Thank you; that was a great view.
+
+​​Model:​​ Phew! My knee joints are stiff. But it's fascinating to be part of creating art. It gives you a new view of your own body.
+
+艺术家模特
+
+​​艺术家:​​ 请保持那个姿势。你脖子和肩膀上的光线完美极了。从肘部到手腕的线条很精致。肌肉不要紧张。
+
+​​模特:​​ 比看起来难。我的大腿开始发抖了。我还尽量不眨眼，以免睫毛的位置变了！
+
+​​艺术家:​​ (轻笑) 想点平静的事情。调动一种情绪——也许是宁静。让它显现在你的脸上，在你的下巴线条里，在你眉毛的放松状态中。我想要捕捉的角色具有坚强而温柔的性格。
+
+​​模特:​​ 我正专注于呼吸进入喉咙的感觉。这有帮助。但我的大脚趾麻了！
+
+​​艺术家:​​ 快好了。人体形态是一个奇迹——胸腔的曲线，手指纤细的骨头。都是血肉之躯，却包含了全部的人生体验。好了，放松！你可以活动四肢了。谢谢你；那视角很棒。
+
+​​模特:​​ 唷！我的膝关节僵硬了。但参与艺术创作很有趣。它让你对自己身体有了新的看法。
+
+'''
+
+== The Emergency Room
+
+​​Paramedic:​​ We have a male, late 20s. Found unconscious. Possible head trauma. We need to check his pupils and his brain function.
+
+​​Nurse:​​ Got it. Let's log his vitals—pulse, check his airway. Is there any obstruction in the throat? Look at his tongue.
+
+​​Doctor:​​ (Examining) There's a contusion on the forehead. We need a full skull and spine X-ray. Check for fractures. The skeleton took a impact. I need to check his liver and kidney function too. There could be internal bleeding in the abdomen.
+
+​​Paramedic:​​ His limb movement is limited on the right side. Could be nerve damage from the backbone.
+
+​​Nurse:​​ His blood pressure is dropping. We need to support his organs. Start an IV. We need to keep his pulse stable. This is a fight for his life. His entire system is under stimulus.
+
+​​Doctor:​​ Let's move him to the chamber for a CT scan. We need a view of his brain, now! Every second counts. Mankind's medical knowledge is his only hope right now.
+
+急诊室
+
+​​护理人员:​​ 一名男性，20 多岁。发现时无意识。可能头部外伤。需要检查瞳孔和大脑功能。
+
+​​护士:​​ 明白。记录生命体征——脉搏，检查气道。喉咙有阻塞吗？看他的舌头。
+
+​​医生:​​ (检查中) 前额有挫伤。需要完整的头颅和脊柱 X 光片。检查骨折。骨骼受到了冲击。还需要检查肝肾功能。腹部可能有内出血。
+
+​​护理人员:​​ 他右侧肢体活动受限。可能是脊柱神经损伤。
+
+​​护士:​​ 血压在下降。需要支持他的器官。建立静脉通道。需要保持脉搏稳定。这是为生命而战。他的整个系统都受到冲击。
+
+​​医生:​​ 送他去扫描室做 CT。需要立即查看大脑影像！分秒必争。此刻，人类的医学知识是他唯一的希望。
+
+'''
+
+== The Boxing Gym Physical
+
+​​Trainer:​​ Okay, champ, let's check your form. Keep your fists up, protect your cheeks and jaw. A punch to the chin can knock you out, but a shot to the throat or gorge can be serious.
+
+​​Boxer:​​ Got it. I'm trying to improve my footwork. Pivoting on the ball of my foot, but my ankle feels weak sometimes.
+
+​​Trainer:​​ That's a common issue. Strengthen those muscles. Remember, power comes from the legs, through the waist, into the shoulder. It's a kinetic chain. Now, let's check your eyesight. Can you see the punches coming? Good sight is crucial.
+
+​​Boxer:​​ My eyesight is 20/20. But when I get tired, my reaction time slows. I need better stamina.
+
+​​Trainer:​​ That's about lifestyle and habit. Your biorhythm needs to be optimized. Get enough rest. Your body needs time to repair muscle and nerve tissue. Also, watch your diet—clogged arteries will kill your stamina. You need good blood flow.
+
+​​Boxer:​​ Speaking of blood flow... I got a cut above my eye last sparring session. Right on the eyebrow. Luckily, it missed the artery.
+
+​​Trainer:​​ Yeah, that was close. Sit on the mat, take a lap. Let's work on some defensive drills. It's not just about physical power; it's a mental game. Your attitude in the ring is everything.
+
+拳击健身房体检
+
+​​教练:​​ 好了，冠军，检查一下姿势。拳头抬高，保护脸颊和下巴。击中下巴可能被击倒，但打到喉咙或咽喉会很严重。
+
+​​拳手:​​ 明白。我正在改进步法。用前脚掌旋转，但脚踝有时感觉无力。
+
+​​教练:​​ 常见问题。加强那些肌肉。记住，力量来自腿部，通过腰部，传到肩膀。是一个动力链。现在检查视力。能看清来拳吗？好视力至关重要。
+
+​​拳手:​​ 我视力 20/20。但累了反应就慢。需要更好耐力。
+
+​​教练:​​ 这关乎生活方式和习惯。需优化生物节律。充分休息。身体需要时间修复肌肉和神经组织。还有注意饮食——动脉堵塞会毁掉耐力。需要良好血流。
+
+​​拳手:​​ 说到血流……上次实战眉骨上方开了个口子。正好在眉毛上。幸好没伤到动脉。
+
+​​教练:​​ 是啊，很险。坐在垫子上，休息一会儿。练防守技巧。不光是身体力量；也是心理游戏。场上态度决定一切。
+
+'''
+
+== The Emergency Room Triage
+
+​​Nurse:​​ Okay, what seems to be the problem?
+
+​​Patient:​​ I feel dizzy and faint. I have a terrible headache, and my ankle is swollen. I think I might have broken it. I'm in a lot of pain.
+
+​​Nurse:​​ Any visible injury? Bleeding? Let me check your pulse. You look pale and weary. Have you been overworking yourself? Fatigue can weaken the immune system.
+
+​​Patient:​​ Yes, I've been exhausted. I had a bit of a fall. I choked on my water and then stumbled. Now I have this lump on my head. I feel uncomfortable and a bit nauseous.
+
+​​Nurse:​​ We need to check for a concussion. Head trauma is nothing to vague about. It could be fatal if untreated. Let's get you to a room. Doctor! We have a patient with a potential head injury, feeling dizzy and faint!
+
+急诊室分诊
+
+​​护士:​​ 好的，哪里不舒服？
+
+​​病人:​​ 我感到头晕眼花，头痛得厉害，脚踝也肿了。我想可能骨折了。非常疼。
+
+​​护士:​​ 有可见的外伤吗？出血了吗？我检查一下你的脉搏。你看起来脸色苍白，很疲惫。是不是工作过度了？疲劳会削弱免疫系统。
+
+​​病人:​​ 是的，我精疲力尽。摔了一跤。喝水呛到了，然后绊倒了。现在头上起了个包。感觉不舒服，有点恶心。
+
+​​护士:​​ 需要检查是否有脑震荡。头部创伤不能含糊。不治疗可能致命。带你去房间。医生！这里有位病人可能头部受伤，头晕眼花！
+
+'''
+
+== The Wellness Clinic Consultation
+
+​​Doctor:​​ Your blood pressure is quite high. We need to talk about your hypertension. Combined with your obesity, it puts you at serious risk for a heart attack or a stroke.
+
+​​Patient:​​ I know I'm overweight. I have this back pain that makes exercise uncomfortable. I'm tired all the time—just feeble and weary.
+
+​​Doctor:​​ Chronic pain and fatigue are common symptoms. We should test for diabetes and arthritis. Your body is under constant stress. This lifestyle is a detriment to your health. It's not just uncomfortable; it's a path to becoming disabled.
+
+​​Patient:​​ It sounds doom-laden. Is it fatal?
+
+​​Doctor:​​ Not if we act. We can manage these conditions. The goal is to prevent a fatal event. You're not an invalid yet. But we need to address the root cause, not just the symptoms.
+
+健康诊所咨询
+
+​​医生:​​ 你的血压相当高。需要谈谈你的高血压问题。加上肥胖，你心脏病发作或中风的风险很高。
+
+​​病人:​​ 我知道超重了。背痛让运动很不舒服。总是很累——虚弱疲惫。
+
+​​医生:​​ 慢性疼痛和疲劳是常见症状。应检查糖尿病和关节炎。身体持续承受压力。这种生活方式对健康有害。不只是不舒服；是导致残疾的道路。
+
+​​病人:​​ 听起来很绝望。会致命吗？
+
+​​医生:​​ 采取行动就不会。可以控制这些病症。目标是预防致命事件。你还没到病弱程度。但需解决根本原因，不只是症状。
+
+'''
+
+== The Late-Night Pharmacy
+
+​​Pharmacist:​​ You look like you haven't slept in days.
+
+​​Customer:​​ Insomnia. I'm awake all night, then I yawn all day. I'm so exhausted I feel like I might faint. I tried to take a nap, but I just dozed off for a minute then was wide awake again.
+
+​​Customer's Friend:​​ He's driving me insane! And he's getting these weird allergies or something. Maybe it's the flu? He had a fever last week.
+
+​​Customer:​​ It wasn't the flu, it was just a headache and my glands were swollen. But now I have this rash—like pimples. It's not visible unless you look close, but it hurts.
+
+​​Pharmacist:​​ Stress can cause all sorts of physical symptoms. Insomnia can make you dizzy and weaken your system. You need to treat the cause, not just the symptoms. Here's something to help you sleep, but you should see a doctor about that rash. It could be an infection.
+
+深夜药店
+
+​​药剂师:​​ 看起来像几天没睡了。
+
+​​顾客:​​ 失眠。整晚清醒，白天一直打哈欠。累得快要晕倒。想小睡，但只打盹一分钟就又醒了。
+
+​​顾客的朋友:​​ 他快把我逼疯了！还出现奇怪过敏之类。也许是流感？上周发烧了。
+
+​​顾客:​​ 不是流感，只是头痛腺体肿。但现在出疹子——像痘痘。不仔细看看不见，但很疼。
+
+​​药剂师:​​ 压力会引起各种身体症状。失眠会导致头晕，削弱身体。需治疗病因，不只是症状。这有助眠药，但皮疹应看医生。可能是感染。
+
+'''
+
+== The Support Group Meeting
+
+​​Facilitator:​​ Welcome, everyone. We're here to share our experiences with chronic illness. It's a safe space.
+
+​​Member A:​​ My arthritis makes me feel crippled some days. The pain is like a constant dull trauma. I'm not lame, but I feel disabled by it.
+
+​​Member B:​​ I understand. After my stroke, my left side was paralysed. I felt like my life was over. The doom was overwhelming. I was sure it was fatal.
+
+​​Member C:​​ For me, it's the mental toll. The cancer treatment left me feeble. The disease itself, the constant fear of demise... it's a different kind of pain. Sometimes I wish I could be unconscious just to escape it.
+
+​​Facilitator:​​ These feelings are valid. The trauma of a serious diagnosis is real. But you are all survivors. Your strength is visible in your presence here today.
+
+互助小组会议
+
+​​主持人:​​ 欢迎大家。在此分享与慢性病的经历。是安全空间。
+
+​​成员A:​​ 关节炎有时让我感觉像残废。疼痛像持续钝器创伤。不是跛足，但感觉因此残疾了。
+
+​​成员B:​​ 我理解。中风后左侧瘫痪。感觉生命结束了。绝望感铺天盖地。当时确信是致命的。
+
+​​成员C:​​ 对我来说是精神折磨。癌症治疗让我虚弱。疾病本身，对死亡的持续恐惧……是另一种痛苦。有时希望失去意识来逃避。
+
+​​主持人:​​ 这些感受是合理的。重病诊断的创伤是真实的。但你们都是幸存者。今天到场就可见你们的坚强。
+
+'''
+
+== The Dramatic Diagnosis
+
+​​Doctor:​​ I'm afraid the news isn't good. The lump we biopsied... it's cancer.
+
+​​Patient:​​ (Gasps) Cancer? But... I feel fine! A little tired, maybe weary, but...
+
+​​Doctor:​​ That's the insidious thing about this disease. The symptoms can be vague until it's advanced. The fatigue, the unexplained pain... your body has been fighting an invisible infection.
+
+​​Patient:​​ Is it... fatal? My demise? Oh god, I'm going to be sick...
+
+​​Doctor:​​ Please, try to stay calm. It's not a death sentence. Many cancers are treatable now. But we need to act fast. The tumour is lethal if we let it grow.
+
+​​Patient:​​ (Starts to moan) I'm too young! I haven't even... I wanted to have a child, a pregnancy... now I'm doomed!
+
+​​Doctor:​​ Let's not leap to the worst-case scenario. Modern medicine has come a long way. You are not doomed. You are a patient, and we will fight this together.
+
+戏剧性的诊断
+
+​​医生:​​ 恐怕消息不好。活检的肿块……是癌症。
+
+​​病人:​​ (倒吸一口气) 癌症？可……我感觉很好！有点累，也许疲惫，但……
+
+​​医生:​​ 这就是此病的阴险之处。症状可能模糊，直到晚期。疲劳，不明疼痛……身体一直在对抗隐形感染。
+
+​​病人:​​ 是……致命的吗？我的死亡？天啊，我要吐了……
+
+​​医生:​​ 请保持冷静。不是死刑判决。现在许多癌症可治疗。但需迅速行动。任其生长会致命。
+
+​​病人:​​ (开始呻吟) 我还太年轻！我甚至还没……我想要孩子，怀孕……现在完了！
+
+​​医生:​​ 别跳到最坏情况。现代医学进步很大。你没完蛋。你是病人，我们会一起抗争。
+
+'''
+
+== The Post-Accident Recovery
+
+​​Physiotherapist:​​ How's the pain today? On a scale from vague discomfort to unbearable?
+
+​​Patient:​​ The wound itself is healing, but the muscle around it is still swollen and hurts. The injury has left me feeling feeble. Just getting out of bed is exhausting.
+
+​​Physiotherapist:​​ That's normal after a trauma. The body needs time. The scar tissue will form, and the bruise will fade. But we need to work on strengthening the area so it doesn't become a chronic dysfunction.
+
+​​Patient:​​ I just feel so... invalid. I can't do anything without getting dizzy and tired. I overworked myself just making tea yesterday and almost fainted.
+
+​​Physiotherapist:​​ Pushing too hard can be a detriment. Your energy is finite. It's like your battery is weakened. We need to recharge it slowly, not drain it completely. Let's try some gentle exercises. The goal is to make you feel less uncomfortable and more in control.
+
+事故后康复
+
+​​理疗师:​​ 今天疼痛如何？从轻微不适到难以忍受的等级？
+
+​​病人:​​ 伤口在愈合，但周围肌肉仍肿痛。受伤让我感觉虚弱。起床都累。
+
+​​理疗师:​​ 创伤后正常。身体需要时间。会形成疤痕组织，淤青会消退。但需加强该区域力量，以免变成慢性功能障碍。
+
+​​病人:​​ 只觉得像……病弱。做什么都头晕疲劳。昨天泡茶就过度劳累，差点晕倒。
+
+​​理疗师:​​ 过度用力有害。能量有限。像电池电量不足。需缓慢充电，不是耗尽。试试温和运动。目标是减少不适感，增强掌控感。
+
+'''
+
+== The Historical Pandemic Discussion
+
+​​Historian:​​ The Black Death wasn't just a disease; it was a plague that reshaped society. The symptom was often a high fever, followed by painful swellings in the groin or armpits—the infamous buboes.
+
+​​Student:​​ It sounds like a lethal and fatal nightmare. Was there any treatment?
+
+​​Historian:​​ None that worked. Medicine was blind to the cause. They thought it was spread through 'bad air'. The mortality rate was staggering. It doomed entire communities.
+
+​​Student:​​ So it was a viral infection? Like the flu?
+
+​​Historian:​​ Actually, we now know it was a bacterial infection spread by fleas. But the effect was similar to a pandemic flu: overwhelming the population, causing mass death and trauma. It left the survivors weary and the social fabric broken.
+
+历史大流行病讨论
+
+​​历史学家:​​ 黑死病不只是疾病；是重塑社会的瘟疫。症状常是高烧，接着腹股沟或腋下疼痛肿胀——著名的淋巴结肿块。
+
+​​学生:​​ 听起来像致命噩梦。有治疗方法吗？
+
+​​历史学家:​​ 没有有效的。医学对病因盲目。认为通过"坏空气"传播。死亡率惊人。注定整个社区毁灭。
+
+​​学生:​​ 是病毒感染？像流感？
+
+​​历史学家:​​ 其实现在知道是跳蚤传播的细菌感染。但效果类似流感大流行：击垮人口，造成大规模死亡和创伤。幸存者疲惫，社会结构破碎。
+
+'''
+
+== The Sensory Deprivation Experiment Debrief
+
+​​Scientist A:​​ The subject's visual and aural inputs were completely blocked. He was in a quiet, dark room for 48 hours.
+
+​​Scientist B:​​ And the results? Did he fall asleep?
+
+​​Scientist A:​​ Not for the first day. He reported vivid visual hallucinations—his brain was creating its own stimuli. When he did fall asleep, his dreams were so intense they felt more real than being awake. He felt like a mortal trapped in an immortal's nightmare.
+
+​​Scientist B:​​ What about the physical corpus? Any changes?
+
+​​Scientist A:​​ He became hypersensitive. The slightest touch felt like a shock. He described a vague pain in his jaw, like a dental problem, but there was nothing physically wrong. It was psychosomatic.
+
+​​Scientist B:​​ It's as if the body, when deprived of external data, turns its focus inward, amplifying every minor dysfunction. It doesn't just weaken the mind; it can make you feel physically ill. The data from this experiment will dwarf our previous findings.
+
+​​Scientist A:​​ Absolutely. It's a clone of the classic sensory deprivation studies, but with modern monitoring. We're not blind to the ethical concerns, but the knowledge gained is immense.
+
+感官剥夺实验汇报
+
+​​科学家A:​​ 受试者的视觉和听觉输入被完全阻断。他在安静黑暗的房间待了48小时。
+
+​​科学家B:​​ 结果呢？睡着了吗？
+
+​​科学家A:​​ 第一天没有。他报告了生动的幻视——大脑在自创刺激。睡着时，梦境强烈到比清醒更真实。感觉像凡人被困在不朽者的噩梦中。
+
+​​科学家B:​​ 身体呢？有变化吗？
+
+​​科学家A:​​ 变得超敏感。最轻触摸都像电击。描述下颌模糊疼痛，像牙科问题，但无器质性病变。是身心性的。
+
+​​科学家B:​​ 仿佛身体在缺乏外部数据时，转向关注内部，放大每个微小功能障碍。不只削弱心智；还让人感觉身体不适。实验数据将 dwarf 我们之前的发现。
+
+​​科学家A:​​ 当然。是经典感官剥夺研究的克隆，但用了现代监测。我们并非 blind 于伦理问题，但获得的知识是巨大的。
+
+'''
+
+== The Awkward Health Class
+
+​​Teacher:​​ Today we're discussing reproductive health. Using a condom correctly is crucial to prevent infection and unwanted pregnancy.
+
+​​Student A:​​ (Whispering) This is so uncomfortable. I feel dumb. Why are we learning this?
+
+​​Student B:​​ Because it's important! You weren't born knowing it. It's better than the alternative—a disease that could disable you or worse.
+
+​​Teacher:​​ Exactly. These are not vague threats; they are mortal dangers. The human body is not a clone; each person is unique and vulnerable. Protecting it is a responsibility that dwarfs any momentary awkwardness. Now, who can tell me the most common symptom of a certain STI?
+
+​​Student A:​​ (Quietly) I think I'll just pretend to be asleep.
+
+​​Student B:​​ Don't be dumb. It's just a body. We all have one.
+
+尴尬的健康教育课
+
+​​老师:​​ 今天讨论生殖健康。正确使用避孕套对预防感染和意外怀孕至关重要。
+
+​​学生A:​​ (低语) 真难受。感觉像傻子。为什么学这个？
+
+​​学生B:​​ 因为重要！你又不是生来就知道。总比得病致残或更糟好。
+
+​​老师:​​ 没错。不是模糊威胁；是致命危险。人体不是克隆；每个人都独特而脆弱。保护它是 dwarf 任何暂时尴尬的责任。现在，谁能说出某种性传播感染的最常见症状？
+
+​​学生A:​​ (小声) 我装睡算了。
+
+​​学生B:​​ 别傻了。只是身体。我们都有。
+
+'''
+
+== The Chronic Pain Management Clinic
+
+​​Physician:​​ Good morning. I understand you're here for your chronic back pain. Let's review your treatment plan.
+
+​​Patient:​​ Yes, it's an acute issue today. The soreness is unbearable. I'm suffering greatly. I've tried everything – painkillers, acupuncture, even morphine injections for temporary relief. But the pain always returns.
+
+​​Physician:​​ I see. The usual remedies haven't provided a satisfactory long-term cure. We need a more holistic approach. This isn't just a medical issue; it's affecting your mental health. Your passive attitude towards therapy is negligible for recovery. We need you to be an active, enthusiastic participant.
+
+​​Patient:​​ It's hard to be positive when you're in constant sorrow. I lament the life I've lost to this pain.
+
+​​Physician:​​ I understand. But being pessimistic won't heal you. Let's resume your physical therapy with a fresh perspective. The goal is to alleviate the pain, ease your suffering, and help you return to a normal life. This is a common challenge, but recovery is desirable and achievable. A positive outlook can be a powerful medicine in itself.
+
+慢性疼痛管理诊所
+
+​​医生:​​ 早上好。我知道您是为慢性背痛而来。我们回顾一下您的治疗计划。
+
+​​病人:​​ 是的，今天特别严重。酸痛难以忍受。我非常痛苦。我试过一切——止痛药、针灸，甚至吗啡注射来暂时缓解。但疼痛总是复发。
+
+​​医生:​​ 我明白了。常规疗法未能提供令人满意的长期治愈方案。我们需要更整体的方法。这不只是医疗问题；它影响您的心理健康。您对治疗的消极态度对康复微不足道。需要您成为积极、热情的参与者。
+
+​​病人:​​ 持续痛苦时很难保持积极。我哀叹因疼痛而失去的生活。
+
+​​医生:​​ 我理解。但悲观不会治愈您。让我们以新视角恢复物理治疗。目标是减轻疼痛，缓解痛苦，帮助您回归正常生活。这是常见挑战，但康复是可取且可实现的。积极心态本身就是一剂良药。
+
+'''
+
+== The Post-Op Check-up
+
+​​Surgeon:​​ The operation was a success. The transplant is functioning well. Your X-rays look positive.
+
+​​Patient:​​ That's a huge relief! I'm so delighted. When can I resume my usual activities?
+
+​​Surgeon:​​ Slowly. You need time to heal completely. No heavy lifting. Take your prescriptions – the antibiotics are crucial to prevent infection. Follow all sanitary precautions. Your recovery is going well, but we must be cautious. We need to segregate you from anyone with a cold for a few more weeks. We can't risk an infection.
+
+​​Patient:​​ I agree. I'm thrilled with the progress. It's so agreeable to hear good news. This whole experience has been so exciting, in a strange way. A second chance at life!
+
+​​Surgeon:​​ (Chuckles) That's an optimistic way to see it. Just remember, the medicine is working, but your body does the healing. Keep a positive attitude. Get plenty of rest to refresh your system. You'll be back to your merry self in no time.
+
+术后复查
+
+​​外科医生:​​ 手术很成功。移植器官功能良好。您的X光片结果很乐观。
+
+​​病人:​​ 真令人欣慰！太高兴了。什么时候能恢复日常活动？
+
+​​外科医生:​​ 慢慢来。需要时间完全愈合。不要提重物。按时服药——抗生素对预防感染至关重要。遵守所有卫生预防措施。恢复情况良好，但必须谨慎。需要您与感冒患者隔离几周。不能冒感染风险。
+
+​​病人:​​ 我同意。进展令人激动。听到好消息真令人愉快。从某种角度说，整个经历令人兴奋。生命的第二次机会！
+
+​​外科医生:​​ (轻笑) 真是乐观的看法。记住，药物起作用，但身体负责愈合。保持积极态度。充分休息让系统恢复活力。很快就能恢复开朗的你了。
+
+'''
+
+== The Pharmacy Consultation
+
+​​Pharmacist:​​ Here's your prescription. This medicine should help alleviate the symptoms. Take one pill with food twice daily.
+
+​​Customer:​​ Thank you. Is this a common drug? Any negative side effects?
+
+​​Pharmacist:​​ It's very usual for this condition. Side effects are generally negligible – maybe some drowsiness. It's not a cure, but it will provide relief and ease the discomfort while your body heals. It's a desirable first step.
+
+​​Customer:​​ I hope so. I need to get back to work. I can't be indifferent to my health, but I also can't afford to be passive for too long.
+
+​​Pharmacist:​​ I understand. Just follow the treatment. If the pain becomes acute again, come back for a check. We also have some excellent over-the-counter remedies here at the pharmacy if you need additional relief. The key is to be positive; happiness aids recovery.
+
+药房咨询
+
+​​药剂师:​​ 这是您的处方药。应能缓解症状。每日两次，每次一片，随餐服用。
+
+​​顾客:​​ 谢谢。是常用药吗？有负面副作用吗？
+
+​​药剂师:​​ 这种病症很常用。副作用通常可忽略——可能有些嗜睡。不是治愈方法，但能在身体愈合时缓解不适。是理想的第一步。
+
+​​顾客:​​ 希望如此。需恢复工作。不能对健康漠不关心，但也不能消极太久。
+
+​​药剂师:​​ 理解。遵医嘱治疗即可。若疼痛再次加剧，回来复查。药房也有非处方药可额外缓解。关键保持积极；快乐助益康复。
+
+'''
+
+== The Travel Health Clinic
+
+​​Nurse:​​ Before you travel, we recommend several vaccinations as a precaution. It's a key part of sanitary travel.
+
+​​Traveler:​​ I'm a bit apathetic about shots, to be honest. They're not exactly fun. But I suppose it's desirable to avoid getting sick on holiday.
+
+​​Nurse:​​ It's more than desirable; it's essential for your health care. Some diseases common abroad can cause acute suffering. A simple injection can prevent weeks of sorrow. We also have medicine for travelers' diarrhea—a very usual issue.
+
+​​Traveler:​​ Okay, you've convinced me. The thrill of travel shouldn't include a hospital visit! I'm enthusiastic about going, so I should be positive about preparing. Let's do it.
+
+​​Nurse:​​ Excellent! That's the right attitude. This will help ensure your trip is a delightful and joyful experience. A little prevention brings great pleasure.
+
+旅行健康诊所
+
+​​护士:​​ 旅行前建议接种几种疫苗作为预防。是卫生旅行的关键部分。
+
+​​旅行者:​​ 说实话对打针有些淡漠。不算有趣。但避免假期生病应是可取之举。
+
+​​护士:​​ 不止可取；对医疗保健至关重要。国外一些常见病可能导致剧烈痛苦。一针可预防数周苦恼。还有治疗旅行者腹泻的药——非常常见的问题。
+
+​​旅行者:​​ 好吧，被说服了。旅行刺激不应包括去医院！对旅行充满热情，也应对准备持积极态度。来吧。
+
+​​护士:​​ 太好了！正确态度。这有助确保旅行成为愉快体验。小小预防带来巨大快乐。
+
+'''
+
+== The Wellness & Fitness Seminar
+
+​​Trainer:​​ True fitness isn't just physical; it's mental. Exercise releases endorphins, which naturally relieve stress and bring happiness. It's a positive cycle.
+
+​​Attendee:​​ But after a long day, I'm often too indifferent to work out. I just want to relax.
+
+​​Trainer:​​ I understand. But that passive approach can lead to chronic health issues. Even a common, usual walk can be exhilarating! The key is to find an activity that brings you joy and pleasure. When exercise is agreeable and fun, you'll be more enthusiastic.
+
+​​Attendee:​​ So it's about shifting my attitude from "I have to" to "I get to"? Making it a desirable part of my day, not a chore?
+
+​​Trainer:​​ Exactly! Laughter during a fun class, the thrill of achieving a new goal, the delight in feeling stronger... these are powerful medicines for the soul. It's the best therapy for a merry life.
+
+健康与健身研讨会
+
+​​教练:​​ 真正健康不止身体；还有心理。运动释放内啡肽，自然缓解压力带来快乐。是积极循环。
+
+​​参与者:​​ 但长日后常对锻炼漠不关心。只想放松。
+
+​​教练:​​ 我理解。但消极方式可能导致慢性健康问题。即使普通散步也能令人振奋！关键是找到带来快乐的活动。当运动令人愉快有趣时，会更热情。
+
+​​参与者:​​ 所以是将态度从"必须做"转为"有机会做"？使其成为一天中可取部分而非苦差？
+
+​​教练:​​ 正是！趣味课程中的欢笑、达成新目标的激动、变强壮的喜悦……这些都是心灵的强效药。是快乐生活的最佳疗法。
+
+'''
+
+== The Support Group Session
+
+​​Facilitator:​​ Sharing our experiences can be a curative process. It can relieve the sense of isolation. Who would like to start?
+
+​​Member 1:​​ My chronic illness causes me such sorrow. Sometimes I feel apathetic about treatment. It's hard to be merry when you're in constant pain.
+
+​​Member 2:​​ I understand. But I've found that focusing on small delights helps. A good joke, a pleasant conversation... these things ease the suffering. They don't cure the disease, but they heal the spirit.
+
+​​Member 3:​​ I agree. I was very pessimistic after my diagnosis. But I decided to be an active participant in my recovery. I take my medicine, but I also seek out joyful activities. It makes the treatment more agreeable. My attitude is now positive, and that's half the battle.
+
+​​Facilitator:​​ Beautifully said. A positive outlook is a powerful remedy. It won't replace medical care, but it makes the journey more bearable. Let's rejoice in our small victories today.
+
+互助小组会议
+
+​​主持人:​​ 分享经历可以是治疗过程。能缓解孤立感。谁想开始？
+
+​​成员1:​​ 慢性病带来巨大悲伤。有时对治疗漠不关心。持续疼痛时难展欢颜。
+
+​​成员2:​​ 我理解。但我发现关注小确幸有帮助。好笑话、愉快聊天……这些能减轻痛苦。不治病，但疗愈心灵。
+
+​​成员3:​​ 同意。诊断后非常悲观。但我决定积极参与康复。服药的同时寻找快乐活动。让治疗更愉快。现在态度积极，这已是成功一半。
+
+​​主持人:​​ 说得好。积极心态是强效疗法。不能替代医疗，但让旅程更可承受。为今天的小胜利欢呼吧。
+
+'''
+
+== The Public Health Briefing
+
+​​Health Official:​​ Good hygiene is the first line of defense. Wash your hands frequently. It's a simple but crucial precaution.
+
+​​Reporter:​​ What about the new outbreak? Are quarantine measures being considered?
+
+​​Health Official:​​ If the situation becomes acute, we may need to isolate confirmed cases and quarantine their contacts. It's not desirable, but it's a necessary medical measure to prevent wider suffering. We must segregate the sick from the healthy to control the spread.
+
+​​Reporter:​​ And for treatment? What's the usual remedy?
+
+​​Health Official:​​ For bacterial infections, antibiotics like penicillin are common. But the dose must be precise. We're optimistic about new drugs, but we must be cautious. The goal is to cure the patient and alleviate symptoms, please remember that. We want to cheer people up with good news, not cause sorrow. A positive attitude helps the recovery process.
+
+公共卫生简报
+
+​​卫生官员:​​ 良好卫生是首道防线。勤洗手。简单但关键的预防措施。
+
+​​记者:​​ 新疫情如何？考虑隔离措施吗？
+
+​​卫生官员:​​ 若情况加剧，可能需隔离确诊病例并隔离接触者。非可取之举，但为防止更大痛苦的必需医疗措施。必须隔离病患与健康者以控制传播。
+
+​​记者:​​ 治疗呢？常规疗法是什么？
+
+​​卫生官员:​​ 细菌感染常用抗生素如青霉素。但剂量须精确。对新药乐观，但须谨慎。目标是治愈患者缓解症状，请记住。我们想用好消息振奋人心，而非引起悲伤。积极态度助益康复过程。
+
+'''
+
+== The Art Gallery Opening
+
+​​Curator:​​ (To a guest) Your enthusiasm for this new artist is quite keen! I admire your zeal.
+
+​​Guest:​​ Thank you! I'm genuinely fond of her work. It's so lively and has a certain romantic quality. It's not just picturesque; it feels sincere.
+
+​​Curator:​​ I agree. It's surprising, really. She's a modest woman, very humble, but her art is daring and direct. There's a mysterious quality to it that makes you curious.
+
+​​Guest:​​ It's amazing how she can be so gentle in person, yet so robust and sturdy in her artistic expression. It's a remarkable contrast.
+
+​​Curator:​​ Absolutely. And she's very trustworthy. If she promises a piece, she delivers. She's enterprising, always ready for the next arduous project. We have great mutual respect.
+
+​​Guest:​​ I'm grateful for the introduction. My intuition told me this would be a promising show, and I was right!
+
+画廊开幕式
+
+​​策展人:​​ (对一位客人说) 您对这位新艺术家的热情真高！我钦佩您的热忱。
+
+​​客人:​​ 谢谢！我真心喜欢她的作品。如此生动，有种浪漫特质。不仅风景如画，而且感觉真诚。
+
+​​策展人:​​ 同意。确实令人惊讶。她本人谦逊、低调，但艺术大胆直接。有种神秘感让人好奇。
+
+​​客人:​​ 真神奇，她为人温和，艺术表达却如此强健有力。是显著对比。
+
+​​策展人:​​ 当然。而且她很可靠。承诺的作品一定交付。有进取心，总准备好迎接下一个艰巨项目。我们相互非常尊重。
+
+​​客人:​​ 感谢引荐。直觉告诉我这展览会有前途，果然没错！
+
+'''
+
+== The Wilderness Expedition Planning
+
+​​Team Leader:​​ Okay team, this trek will be arduous. The terrain is tough. We need to be physically robust and mentally steadfast.
+
+​​Member A:​​ I'm ready for the challenge. I'm eager to test my limits. But we must be careful; the weather can be severe and change spontaneously.
+
+​​Member B:​​ I'm concerned about the river crossings. They might look gentle, but currents can be strenuous. We need a rigorous plan.
+
+​​Team Leader:​​ A rigorous plan is essential, but we must also be ready to adapt. We need mutual trust; our safety depends on it. We all resemble each other in our commitment, but our strengths are similar yet different. Be frank about your abilities.
+
+​​Member A:​​ I'm liable for navigation. My intuition is usually sound in the wilderness.
+
+​​Member B:​​ And I'll handle the medical kit. I'm considered pretty thoughtful and sympathetic if someone gets hurt.
+
+​​Team Leader:​​ Good. Let's be generous with our help and polite in our interactions. Even when tired, we must remain friendly. A humble and considerate attitude is crucial. This isn't a childish adventure; we need to be sane and serious. But a little humorous remark now and then can ease the tension!
+
+野外探险计划
+
+​​队长:​​ 好了队员们，这次徒步会很艰巨。地形艰难。需要身体强健、精神坚定。
+
+​​队员A:​​ 准备好迎接挑战了。渴望测试极限。但须谨慎；天气可能恶劣且瞬息万变。
+
+​​队员B:​​ 担心过河。水面可能看似平缓，但水流可能湍急。需要周密计划。
+
+​​队长:​​ 周密计划必要，但也需随时调整。需要互信；安全依此而定。我们承诺相似，但优势同中有异。如实告知能力。
+
+​​队员A:​​ 我负责导航。野外直觉通常可靠。
+
+​​队员B:​​ 我负责医疗包。若有人受伤，我算得上体贴同情。
+
+​​队长:​​ 好。慷慨相助，礼貌相待。疲惫时也需保持友善。谦逊体贴的态度至关重要。这不是幼稚冒险；需理智认真。但偶尔幽默可缓解紧张！
+
+'''
+
+== The Heart-to-Heart Talk
+
+​​Friend A:​​ Can I be frank with you? I'm concerned. You've seemed stern lately, not your usual lively self.
+
+​​Friend B:​​ (Sighs) I suppose I can't keep it private any longer. I had this illusion that everything was fine, but it was imaginary. My job is mundane, and I feel a naive sense that my fate is sealed. It's childish, I know.
+
+​​Friend A:​​ Your feelings are valid. It's not naive to want more. You're one of the most sincere and trustworthy people I know. You deserve freedom to pursue something promising. You have my full confidence.
+
+​​Friend B:​​ Thank you. That means a lot. I guess I need to be more daring. I admire your ability to be so spontaneous. My own intuition tells me to change, but I'm afraid.
+
+​​Friend A:​​ Change is tough. But you're strong. And you have friends who are thoughtful and sympathetic. We're ready to help. You don't need to have a fancy plan, just take the first step.
+
+​​Friend B:​​ I'm grateful for your friendship. It's an awesome feeling to have such support. Maybe I'll start by apologising to myself for being so hard on me. A little self-mercy.
+
+交心谈话
+
+​​朋友A:​​ 能坦白说吗？我担心你。最近显得严肃，不像平时活泼。
+
+​​朋友B:​​ (叹气) 想是瞒不住了。曾幻想一切安好，却是空想。工作平淡，有种天真感觉命运已定。我知道这很幼稚。
+
+​​朋友A:​​ 感受是合理的。渴望更多并非天真。你是我认识最真诚可靠的人之一。应有追求前途的自由。我完全相信你。
+
+​​朋友B:​​ 谢谢。这很重要。想是需要更大胆些。钦佩你能如此随性。直觉告诉我要改变，但害怕。
+
+​​朋友A:​​ 改变艰难。但你很强。也有体贴同情的朋友。我们随时帮忙。不需宏伟计划，迈出第一步就好。
+
+​​朋友B:​​ 感激你的友谊。有这般支持真棒。或许先该为自己苛责而道歉。给自己一点仁慈。
+
+'''
+
+== The Boardroom Pitch
+
+​​Investor:​​ Your proposal is promising, and your track record is remarkable. But your projections seem a little... amazing, if I'm being polite. It startles me with its ambition.
+
+​​Entrepreneur:​​ I appreciate your frankness. We've done rigorous analysis. This isn't some fancy or imaginary forecast. We're earnest about this. Our team is steadfast and enterprising.
+
+​​Investor:​​ I don't doubt your zeal or your honesty. But the market can be severe. Are you ready for such a strenuous challenge? It's an arduous path.
+
+​​Entrepreneur:​​ We are. We have a robust plan and a sturdy financial model. We're not naive; we're aware of the risks. But we're also confident. The mutual benefits are prominent.
+
+​​Investor:​​ I admire your confidence. And I'm curious about one thing: your marketing strategy seems quite liberal and generous. Isn't that a bit daring?
+
+​​Entrepreneur:​​ In today's market, you need to be direct and a little mysterious to stand out. It's a delicate balance. We believe it's a sound approach.
+
+​​Investor:​​ Hmm. You've given me a lot to consider. I'm grateful for the detailed presentation. Your passion is quite awesome, actually.
+
+董事会提案
+
+​​投资人:​​ 你的提案有前途，过往记录显著。但预测有点……惊人，客气地说。雄心令人吃惊。
+
+​​企业家:​​ 感谢直言。我们做过严谨分析。不是空想或虚构预测。对此是认真的。团队坚定有闯劲。
+
+​​投资人:​​ 不怀疑热忱或诚信。但市场可能严酷。准备好迎接如此艰巨挑战了吗？是条艰难之路。
+
+​​企业家:​​ 准备好了。有可靠计划和稳健财务模型。不天真；意识到风险。但也有信心。互利效应显著。
+
+​​投资人:​​ 钦佩你的信心。有件事好奇：营销策略似乎很自由慷慨。是否太冒险？
+
+​​企业家:​​ 当今市场需直接略带神秘才能脱颖而出。是微妙平衡。相信是稳妥之法。
+
+​​投资人:​​ 嗯。有很多要考虑。感谢详细演示。你的热情其实很棒。
+
+'''
+
+== The Romantic Dinner
+
+​​Person A:​​ This is lovely. You're so thoughtful for planning this. It feels so romantic here.
+
+​​Person B:​​ I'm fond of making you happy. You seem a little startled though? Is everything okay?
+
+​​Person A:​​ No, it's amazing! I'm just... curious. You're usually so modest and humble, but tonight you're being so direct! It's a surprising, but welcome, side of you.
+
+​​Person B:​​ (Laughs) I'm trying to be more earnest. Life's too short for mystery all the time. I have the freedom to be sincere, right? And my intuition told me you'd appreciate it.
+
+​​Person A:​​ I do! It's awesome. It makes me feel... I don't know, grateful. And it makes me want to be more spontaneous with you. Maybe we can plan a picturesque getaway? Something not too hectic.
+
+​​Person B:​​ That sounds perfect. I'd be eager to do that. As long as we're together, even the mundane can feel special.
+
+浪漫晚餐
+
+​​A:​​ 真美好。你计划得真周到。这里好浪漫。
+
+​​B:​​ 我喜欢让你开心。你好像有点吃惊？没事吧？
+
+​​A:​​ 没事，是太好了！我只是……好奇。你通常谦逊低调，今晚却如此直接！出乎意料，但欢迎的这一面。
+
+​​B:​​ (笑) 试着更认真些。人生苦短，不能总神秘。我有真诚的自由，对吧？直觉告诉我你会喜欢。
+
+​​A:​​ 喜欢！太棒了。让我感觉……不知怎么说，感激。也想对你更随性些。或许计划风景如画的旅行？别太忙碌的。
+
+​​B:​​ 听起来完美。我很乐意。只要在一起，平淡也会特别。
+
+'''
+
+== The Teacher's Conference
+
+​​Teacher A:​​ I'm concerned about young David. His work has become very delicate; it's not as robust as before. He used to be so keen.
+
+​​Teacher B:​​ I've noticed he seems less lively. He's usually so polite and friendly, but lately, he's been almost stern with his classmates. It's not like him.
+
+​​Teacher A:​​ We need to be considerate. There might be a private issue at home. We should approach him with sympathy, but be direct in our concern. He might need a gentle nudge.
+
+​​Teacher B:​​ I agree. We must be careful not to be too severe. A temperate approach is best. He's a good kid, very sane and usually rational. Let's express our confidence in him and our readiness to help.
+
+​​Teacher A:​​ Exactly. We admire his potential. It would be a pity if a temporary problem hampered his promising future. A little mercy and understanding can go a long way.
+
+教师会议
+
+​​教师A:​​ 担心小大卫。作业变得很精细；不如以前扎实。以前很敏锐的。
+
+​​教师B:​​ 注意到他没那么活泼了。通常礼貌友善，但最近对同学几乎严厉。不像他。
+
+​​教师A:​​ 需体贴些。家里可能有私事。应带着同情接近他，但直接表达关心。可能需要温和推动。
+
+​​教师B:​​ 同意。须谨慎别太严厉。温和方式最好。他是好孩子，理智通常讲理。表达对他的信心和帮助意愿。
+
+​​教师A:​​ 对。钦佩他的潜力。若暂时问题阻碍有前途的未来就可惜了。一点仁慈理解大有帮助。
+
+'''
+
+== The Family Reunion
+
+​​Uncle John:​​ Well, look who it is! My favourite nephew! I must confess, I'm partial; I do have a favour for this one.
+
+​​Nephew Mike:​​ (Laughs) Uncle John, you're too generous. It's good to be in a familiar setting. It feels like home.
+
+​​Aunt Susan:​​ We're just so proud of you, Mike. The way you handled that arduous project at work was truly manly. It astounds me how you've grown.
+
+​​Nephew Mike:​​ Thank you, Aunt Susan. But seriously, I couldn't have done it without family support. My gratitude is immense. I owe you all an apology for missing the last reunion; work was strictly demanding.
+
+​​Uncle John:​​ Nonsense! No apology needed. We're just happy to have you here now. We try to be hospitable. Make yourself at home! Your success is a source of mutual pride. It's an implicit understanding in this family that we support each other.
+
+​​Nephew Mike:​​ That means a lot. It's like a bare truth, you know? No need for pretence. You see me, not some naked ambition, just the real me. I'm seriously grateful.
+
+家庭团聚
+
+​​约翰叔叔:​​ 看看谁来了！我最喜欢的侄子！得承认，我偏心；确实偏爱这个。
+
+​​侄子迈克:​​ (笑) 约翰叔叔，您太慷慨了。回到熟悉环境真好。像家一样。
+
+​​苏珊阿姨:​​ 真为你骄傲，迈克。处理那个艰巨工作的方式真有男子气概。你的成长让我震惊。
+
+​​侄子迈克:​​ 谢谢苏珊阿姨。但说真的，没有家人支持我做不到。感激不尽。为错过上次团聚道歉；工作要求严格。
+
+​​约翰叔叔:​​ 胡说！不用道歉。现在你来我们就高兴。我们尽力好客。当自己家！你的成功是我们共同的骄傲。家人互相支持是含蓄的共识。
+
+​​侄子迈克:​​ 这很重要。像赤裸真相，懂吗？无需伪装。你们看到的是真实的我，不是赤裸野心。真的很感激。
+
+'''
+
+== The Investment Portfolio Review
+
+​​Financial Advisor:​​ I regret to inform you that the market volatility has caused an adverse impact on your portfolio. The returns are unsatisfactory.
+
+​​Client:​​ This is awful! I'm filled with doubt about your strategy. I'm unwilling to endure further losses. This is so frustrating!
+
+​​Financial Advisor:​​ I understand your distress. It's a hostile environment. But a radical shift now would be rash and arbitrary. We must tolerate some instability and not act on impulse.
+
+​​Client:​​ I'm suspicious that you're being selfish with your fees! This is making me miserable. I grieve for my lost capital!
+
+​​Financial Advisor:​​ That's an unkind accusation. I feel guilty about the situation, but I'm not ignorant of the markets. We need a stable plan, not a volatile one. Please don't be stubborn; let's work together.
+
+投资组合评估
+
+​​财务顾问:​​ 遗憾告知，市场波动对投资组合造成了不利影响。回报不令人满意。
+
+​​客户:​​ 太糟了！对你的策略充满怀疑。不愿承受更多损失。真令人沮丧！
+
+​​财务顾问:​​ 理解您的苦恼。环境不利。但现在激进转变会草率武断。必须容忍不稳定，不冲动行事。
+
+​​客户:​​ 我怀疑你只顾自己收费！这让我痛苦。为损失资金悲痛！
+
+​​财务顾问:​​ 这是不友善的指责。对此状况感到愧疚，但我并非不了解市场。需要稳定计划，不是多变计划。请勿固执；一起努力。
+
+'''
+
+== The Team Project Post-Mortem
+
+​​Project Lead:​​ This project's failure is a cause for grief. The outcome is unsatisfactory, and I'm deeply disappointed.
+
+​​Team Member A:​​ I feel ashamed. We were too careless with the initial requirements. It was a stupid mistake, and now I regret not speaking up.
+
+​​Team Member B:​​ It's easy to feel jealous of other teams' success, but our approach was unsuitable. There was a lot of unnecessary fuss and awkward communication.
+
+​​Project Lead:​​ This is no time for envy. We need to repent our sluggish response to the early warning signs. We were oblivious to the risks. Now we're in a troublesome situation.
+
+​​Team Member A:​​ The client is furious. I fear we've insulted them with our clumsy delivery. I'm uneasy about the upcoming review.
+
+​​Project Lead:​​ We must endure the criticism. We can't be reluctant to face the consequences. Let's not hesitate to admit our faults. This is a wretched situation, but we can learn from it.
+
+项目复盘会议
+
+​​项目负责人:​​ 项目失败令人悲伤。结果不令人满意，我深感失望。
+
+​​团队成员A:​​ 感到羞愧。初期需求太粗心。犯了愚蠢错误，后悔没早点提出。
+
+​​团队成员B:​​ 容易嫉妒其他团队的成功，但我们的方法不合适。有不必要的忙乱和尴尬沟通。
+
+​​项目负责人:​​ 不是嫉妒的时候。需忏悔对早期预警的迟缓反应。忽视了风险。现在处境麻烦。
+
+​​团队成员A:​​ 客户愤怒。担心笨拙的交付侮辱了他们。对即将到来的审查感到不安。
+
+​​项目负责人:​​ 必须忍受批评。不能不愿面对后果。要毫不犹豫承认错误。处境悲惨，但可吸取教训。
+
+'''
+
+== The Family Dinner Argument
+
+​​Teenager:​​ It's so ridiculous! I'm not a child! Why do you have such a stubborn stereotype about my friends? You're so rigid!
+
+​​Parent:​​ Don't use that vulgar tone with me! It's not a stupid rule. We have a valid suspicion about that group. They seem wicked and their influence is a nuisance.
+
+​​Teenager:​​ That's an arbitrary judgment! You're ignorant about them! This is unbearable; you're so obtrusive in my life! It's making me miserable.
+
+​​Parent:​​ We have a fear for your safety! Your impulsive behavior is troublesome. You've been so sluggish with your schoolwork, and now you're greedy for freedom without responsibility.
+
+​​Teenager:​​ I hate this constant harassment! It's disgusting! You have a mean streak, and it's pushing me away! I'm unwilling to live under this hostile roof!
+
+​​Parent:​​ (Sighs) I regret this anger. I feel guilty for yelling. But your naughty attitude and sly attempts to deceive us cause us great distress. We're not the enemy.
+
+家庭晚餐争吵
+
+​​青少年:​​ 太荒谬了！我不是小孩！为什么对我朋友有顽固成见？太死板了！
+
+​​家长:​​ 别用粗鲁语气跟我说话！不是愚蠢规定。对那帮人有合理怀疑。他们似乎恶劣，其影响令人讨厌。
+
+​​青少年:​​ 武断的判断！你不了解他们！无法忍受；你严重干涉我的生活！让我痛苦。
+
+​​家长:​​ 我们担心你的安全！冲动行为很麻烦。功课拖拉，现在贪图自由不负责任。
+
+​​青少年:​​ 讨厌这种不断骚扰！真恶心！你有刻薄一面，正把我推远！不愿住在这充满敌意的屋檐下！
+
+​​家长:​​ (叹气) 后悔发火。对喊叫感到愧疚。但你淘气态度和狡猾欺骗行为让我们非常苦恼。我们不是敌人。
+
+'''
+
+== The Therapy Session
+
+​​Therapist:​​ You seem restless and uneasy today. Would you like to share what's causing you distress?
+
+​​Client:​​ It's a vague sense of grief. I'm discouraged about everything. It's like a gloomy cloud is over me. I weep for no reason, and then feel ashamed for being so volatile.
+
+​​Therapist:​​ There's no need for guilt. These feelings are not ridiculous. What do you think is the root of this sadness?
+
+​​Client:​​ I envy people who seem happy. I'm jealous of their stability. I doubt I'll ever be satisfied. My life feels unstable and unsuitable. I'm reluctant to even try anymore. It's easier to be slothful.
+
+​​Therapist:​​ That's the anxiety talking. It's a fear of failure. But avoiding life only leads to more frustration. We need to tolerate these uncomfortable feelings and understand them, not judge them as weak or stupid.
+
+治疗会话
+
+​​治疗师:​​ 今天显得不安紧张。愿意分享苦恼吗？
+
+​​来访者:​​ 是模糊的悲伤感。对一切气馁。像乌云笼罩。无故哭泣，然后为情绪多变羞愧。
+
+​​治疗师:​​ 无需愧疚。这些感受不荒谬。认为悲伤根源是什么？
+
+​​来访者:​​ 嫉妒看似快乐的人。嫉妒他们的稳定。怀疑自己能否满足。生活感觉不稳定不合适。甚至不愿尝试。懒惰更轻松。
+
+​​治疗师:​​ 是焦虑在作祟。是害怕失败。但逃避生活只会导致更多挫折。需忍受这些不适感并理解，而非评判为软弱或愚蠢。
+
+'''
+
+== The Political Debate Show
+
+​​Moderator:​​ The representative's radical plan has been met with fury from the opposition. Many are indignant, calling it arbitrary and wicked.
+
+​​Politician A:​​ It's not ridiculous! The current system is unstable and unsuitable for the future! My plan addresses the root causes of our distress!
+
+​​Politician B:​​ That's a naive and cynical view! It's a vicious proposal that will cause agony for millions! I doubt its feasibility and suspect it's driven by ego rather than public good.
+
+​​Politician A:​​ That's an insult! You're just jealous of our momentum! Your hatred for progress is a nuisance to this country!
+
+​​Moderator:​​ Gentlemen, please! This anger is unpleasant for the viewers. We need less volatility and more tolerance. Can we have a civil discussion without these vulgar accusations?
+
+政治辩论节目
+
+​​主持人:​​ 代表的激进计划遭到反对派愤怒回应。许多人愤慨，称其武断恶劣。
+
+​​政客A:​​ 不荒谬！现行体系不稳定，不适合未来！我的方案解决我们痛苦的根源！
+
+​​政客B:​​ 是天真愤世嫉俗的观点！是恶毒提案，将给数百万人带来痛苦！怀疑其可行性，疑心是出于私利而非公共利益。
+
+​​政客A:​​ 这是侮辱！你只是嫉妒我们的势头！你对进步的仇恨是国家祸害！
+
+​​主持人:​​ 先生们，请冷静！愤怒让观众不悦。需要减少多变，增加宽容。能否文明讨论，避免粗俗指责？
+
+'''
+
+== The After-Work Bar Venting
+
+​​Colleague A:​​ I'm so furious at our boss! That was an awful meeting. He has a nasty habit of making arbitrary decisions that frustrate everyone.
+
+​​Colleague B:​​ I know! It's a bother. He's so stubborn and rigid. He harassed Sarah over a minor detail until she was almost in tears. It was disgusting.
+
+​​Colleague A:​​ I hate that we have to endure this. It's a hostile work environment. I'm reluctant to go in tomorrow. I sigh just thinking about it.
+
+​​Colleague B:​​ Don't be discouraged. We just need to tolerate it until the quarterly review. Maybe then HR will see how unstable things have become. His behavior is completely unsuitable for a leader.
+
+​​Colleague A:​​ You're less volatile than me. I have an impulse to tell him exactly what I think! But that would be stupid and probably get me fired.
+
+​​Colleague B:​​ Yeah, that would be a rash move. Let's just have another drink and forget about it for now. No use grieving over it tonight.
+
+下班酒吧发泄
+
+​​同事A:​​ 对老板非常愤怒！会议糟透了。他有武断决定的讨厌习惯，让所有人沮丧。
+
+​​同事B:​​ 我知道！真烦人。他太固执死板。为小细节纠缠萨拉直到她快哭。真恶心。
+
+​​同事A:​​ 讨厌必须忍受这些。是敌对工作环境。不愿明天上班。想想就叹气。
+
+​​同事B:​​ 别气馁。只需忍到季度评估。也许那时人力资源部会看到情况多不稳定。他的行为完全不适合领导。
+
+​​同事A:​​ 你比我稳定。有冲动想告诉他我的想法！但那样愚蠢，可能被解雇。
+
+​​同事B:​​ 是，那会是鲁莽举动。再喝一杯暂时忘记吧。今晚悲伤无用。
+
+'''
+
+== The Unfortunate Business Deal
+
+​​Business Partner A:​​ This deal has cost us a fortune! It's a crazy loss. I'm mad with rage! I mourn the wasted time and money.
+
+​​Business Partner B:​​ I'm sceptical about your numbers. They confuse me. And your excessive anger is a bore. It irritates me more than the loss itself.
+
+​​Business Partner A:​​ Don't you dare frown at me! This is a weird time to be timid! We were cunning in our approach, but the market was volatile. It's an embarrassing failure.
+
+​​Business Partner B:​​ It's not just embarrassing; it's vexing. But getting mad won't help. We need a cool head. Your impulsive reaction is making a bad situation worse. Let's not be stubborn. We need to learn from this.
+
+不幸的商业交易
+
+​​商业伙伴A:​​ 这笔交易花了我们一大笔钱！损失疯狂。我气得发疯！哀悼浪费的时间和金钱。
+
+​​商业伙伴B:​​ 我怀疑你的数字。让我困惑。你过度愤怒令人厌烦。比损失本身更激怒我。
+
+​​商业伙伴A:​​ 敢对我皱眉！这时胆怯太古怪！我们方法狡猾，但市场多变。是尴尬的失败。
+
+​​商业伙伴B:​​ 不只是尴尬；令人烦恼。但发疯无用。需要冷静头脑。你冲动反应让糟局更糟。别固执。需吸取教训。
+
+'''
+
+
+
+
+
+== 单词表
+
+feel
+mood
+emotion
+temper
+manner
+attitude
+character
+personality
+trait
+virtue
+feature
+stature
+flesh
+mankind
+human
+bone
+backbone
+skeleton
+skull
+brain
+mind
+physical
+mental
+cheek
+forehead
+brow
+eyelash
+lip
+mouth
+tongue
+throat
+gorge
+chin
+jaw
+neck
+beard
+shoulder
+limb
+elbow
+wrist
+thumb
+palm
+finger
+fist
+chest
+abdomen
+rib
+waist
+organ
+liver
+stomach
+womb
+kidney
+lung
+gland
+chamber
+intestine
+thigh
+joint
+knee
+lap
+ankle
+heel
+toe
+muscle
+pore
+pulse
+artery
+nerve
+hormone
+immune
+stimulus
+biorhythm
+lifestyle
+habit
+sense
+sight
+eyesight
+view
+visual
+visible
+vague
+blind
+dumb
+aural
+dental
+awake
+yawn
+nap
+doze
+quiet
+asleep
+cripple
+lame
+dwarf
+pregnancy
+born
+condom
+clone
+symptom
+disease
+illness
+moan
+infection
+detriment
+broken
+disable
+invalid
+patient
+dysfunction
+diabetes
+obesity
+overweight
+hypertension
+paralyse
+dizzy
+insane
+insomnia
+allergy
+heart attack
+cancer
+arthritis
+pimple
+stroke
+plague
+flu
+fever
+headache
+swell
+choke
+injure
+injury
+hurt
+bleed
+bruise
+scar
+wound
+trauma
+lump
+pain
+death
+mortal
+demise
+doom
+fatal
+lethal
+corpus
+overwork
+tire
+exhaust
+fatigue
+faint
+feeble
+weary
+weaken
+uncomfortable
+unconscious
+chronic
+acute
+sore
+sorrow
+suffering
+lament
+hospital
+therapy
+health care
+sanitary
+medical
+curative
+hygiene
+fitness
+clinic
+physician
+surgeon
+operation
+cure
+heal
+treatment
+check
+prescription
+transplant
+X-ray
+injection
+precaution
+vaccinate
+quarantine
+segregate
+isolate
+pharmacy
+medicine
+remedy
+drug
+pill
+antibiotic
+acupuncture
+penicillin
+morphine
+dose
+recovery
+refresh
+relief
+relieve
+alleviate
+resume
+ease
+relax
+normal
+common
+usual
+optimistic
+pessimistic
+positive
+negative
+passive
+enthusiastic
+indifferent
+apathetic
+negligible
+happiness
+delight
+merry
+fun
+joke
+laughter
+joy
+please
+rejoice
+thrill
+cheer
+pleasure
+agreeable
+exhilarate
+satisfactory
+desirable
+exciting
+keen
+zeal
+lively
+lovely
+fond
+favour
+surprising
+startle
+amazing
+astound
+hectic
+liberal
+generous
+gentle
+humble
+modest
+humorous
+polite
+frank
+mysterious
+curious
+daring
+manly
+direct
+earnest
+honesty
+proud
+rational
+seriously
+stern
+friendly
+hospitable
+romantic
+freedom
+careful
+concern
+confidence
+considerate
+thoughtful
+sympathetic
+ready
+apologise
+apology
+mercy
+admire
+remarkable
+grateful
+gratitude
+eager
+sound
+picturesque
+promising
+prominent
+awesome
+arduous
+tough
+robust
+sturdy
+steadfast
+tender
+temperate
+delicate
+mundane
+naive
+childish
+sincere
+liable
+trustworthy
+enterprising
+sane
+strenuous
+rigorous
+strict
+severe
+mutual
+resemble
+similar
+familiar
+naked
+bare
+private
+intuition
+spontaneous
+implicit
+illusion
+imaginary
+fancy
+fate
+fortune
+agony
+grief
+grieve
+miserable
+distress
+sadness
+gloomy
+disappoint
+discourage
+wretched
+frustrating
+mourn
+anger
+furious
+frown
+rage
+irritate
+hate
+hatred
+nuisance
+disgust
+vex
+harass
+bore
+bother
+troublesome
+awful
+unpleasant
+adverse
+hostile
+indignant
+radical
+mad
+crazy
+wicked
+vicious
+vulgar
+mean
+ego
+selfish
+nasty
+rash
+volatile
+weird
+excessive
+anxiety
+restless
+uneasy
+fear
+timid
+fuss
+insult
+unkind
+envy
+jealous
+doubt
+suspicion
+sceptical
+unsatisfactory
+unstable
+unsuitable
+unwilling
+reluctant
+hesitate
+confuse
+guilty
+embarrass
+regret
+repent
+ashamed
+sigh
+weep
+tolerance
+ignorant
+endure
+sly
+cunning
+arbitrary
+ridiculous
+stupid
+awkward
+clumsy
+careless
+oblivious
+naughty
+greedy
+obtrusive
+slothful
+sluggish
+impulse
+rigid
+stubborn
+stereotype
