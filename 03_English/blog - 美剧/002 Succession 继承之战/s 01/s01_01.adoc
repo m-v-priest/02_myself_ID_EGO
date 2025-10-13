@@ -4644,12 +4644,12 @@ Sure. I'm not... Is there room in there?
 还好 我不... 车里还有地方吗
 
 
-Hop in.
+Hop (v.)单脚跳行;齐足（或双足）跳行 in.
 [.my2]
 上车
 
 
-I'm sorry if it's a crush.
+I'm sorry if it's a crush  拥挤的人群.
 [.my2]
 有点挤 抱歉
 
@@ -4679,54 +4679,113 @@ Well, no, not technically,
 好吧 理论上 他没说
 
 
-but he's aware it's your birthday.
+but he's aware /it's your birthday.
 [.my2]
-但他知道你过生日
+但他知道 你过生日
 
 
-But it occurred to me, talking to him,
+But *#it occurred to me#*, talking to him, *#that#* /`主` him having his seat _on the holding company_ 控股公司 still, from historically, now, #that# `系` *must be* suboptimal (a.)次最优的；最适度下的；未达最佳标准的, in some ways 在某种程度上,在某些方面.
+
 [.my2]
-但跟他通话后 我突然想到
+但跟他通话后 我突然想到, 他仍在控股公司有席位, 这是历史遗留问题, 某种程度上讲 他不是最佳人选 (在某些方面，这肯定是次优的。)
 
 
-that him having his seat on the holding company still,
+image:../img/svg 001.svg[,100%]
+
+
+[.my1]
+.案例
+====
+.#But it occurred to me#, 插入语 talking to him, #that# him having his seat on the holding company still, from historically, now, #that must be suboptimal#, in some ways.
+
+首先，将其分解为合乎语法的核心结构：​​ +
+
+1.*主句：​​ But it occurred to me ... that ... that must be suboptimal.* +
+It occurred to me： 我想到（一个念头出现在我脑海里）。 +
+that ... must be suboptimal： 这个念头的具体内容，即“... 这种情况肯定是次优的”。 +
+
+​2.​插入语：​​ talking to him +
+说明“我产生这个想法”的时间或情境, 是“在和他谈话的时候”。 +
+
+​3.​主语从句（作为that must be suboptimal的主语）：​​ `主` _him having his seat /on the holding company_ `谓` still, from historically +
+*这是一个##由动名词短语 him having ...充当的主语。##这种结构（动词-ing形式作主语）在口语中很常见，#虽然 his having在书面语中更规范，但 him having在口语对话里完全可以接受。#* +
+- him： 动名词 having逻辑上的主语。 +
+- #*having his seat /on the holding company： 在控股公司拥有席位（即担任董事等职位）。*# +
+- still： 仍然。 +
+- from historically： 从历史上看（即这种安排是过去遗留下来的）。 +
+
+4.其他修饰成分：​​ +
+now： 现在（与“历史上”形成对比，强调现状）。 +
+in some ways： 在某些方面。 +
+
+5.​​所以，整句话的逻辑是：​​ +
+在我和他谈话的时候，我想到一件事：​​他至今仍然在控股公司保留着职位（这是历史遗留的安排），就现在的情况来看，这种安排在某些方面肯定不是最优的。​​ +
+​
+
+这句话的语法之所以显得“不清晰”，是因为它包含了典型的口语特征： +
+
+But #*it occurred to me*#, talking to him, #*that*# /him having his seat on _the holding company_ still, from historically, now, #*that*# must be suboptimal, in some ways.
+
+- ​​冗长的主语：​​ 核心主语 him having his seat ... historically本身是一个结构复杂的名词性短语，并且被 still, from historically, now等状语隔开，导致主谓（that must be）距离较远。 +
+- ​​重复的 "that"：​​ 第一个 that引导一个冗长的主语从句，第二个 that回指前面整个主语从句的内容，作为must be suboptimal的主语。这##**种结构 It occurred to me that [A], that [must be B]在口语中很常见，用于强调对A情况的判断B。**## +
+- ​​状语位置灵活：​​ still（副词），from historically（介词短语），now（副词）这些时间状语穿插在主语中，增加了句子的松散感。 +
+
+这种句式在快速、随意的对话中非常自然，它通过叠加修饰成分来精确表达一个突然产生的、复杂的想法。​​ +
+
+例句：​​ +
+
+- #*It occurred to me*#, looking at the data, #*that*# the project having been run the same way for so long, #*that*# must be why we're not innovating. (看着数据，我突然想到，这个项目这么久一直沿用同一种运作方式，这肯定是我们无法创新的原因。) +
+- #*It hit her*#, talking to her daughter, #*that*# her keeping all those old grudges, from so long ago, #*that*# was just poisoning their relationship now. (和女儿谈话时，她猛然意识到，自己一直记着那些久远的旧怨，现在只是在毒害她们的关系。) +
+
+
+====
+
+
+But if I could... if he was willing *to give his seat to* someone /a bit more perspicacious (a.)有洞察力的；聪颖的；敏锐的,
 [.my2]
-他仍在控股公司有席位
+但如果我可以... 如果他愿意把这个位置让更精明的人来接替
+
+[.my1]
+.案例
+====
+.perspicacious
+->  per-贯穿,通过 + -spic-看 + -acious形容词词尾
+====
 
 
-from historically,
+someone who could *learn the ropes* 从基础做起，熟悉业务; 熟悉某一行业，了解内情, running a theme park, say.
 [.my2]
-这是历史遗留问题
+让更熟悉门道的人,来运营这些主题公园
 
+[.my1]
+.案例
+====
+.learn the ropes
+learn the ropes 的意思是：​​ 学习基础知识、掌握窍门、熟悉工作流程。 +
+learn the ropes​​ 是一个惯用语，起源可以追溯到航海时代。*当时，新上船的水手必须学习和熟悉船上数以百计的绳索的用途和操作方法，才能成为一个合格的船员。因此，这个短语就引申为“​​学习某个行业或活动的基本技能和知识​​”。*
 
-now, that must be suboptimal, in some ways.
-[.my2]
-某种程度上讲 他不是最佳人选
+- "Don't worry, *you'll ​​learn the ropes​​ quickly.* We'll train you for the first few weeks." (别担心，你很快就能​​上手​​。前几周我们会培训你。)
+- "It took me about six months *to ​​learn the ropes​​ of* the new job." (我花了大约半年时间才​​熟悉​​新工作的​​流程​​。
 
-
-But if I could... if he was willing to give his seat
-[.my2]
-但如果我可以... 如果他愿意把这个位置
-
-
-to someone a bit more perspicacious,
-[.my2]
-让更精明的人来接替
-
-
-someone who could learn the ropes, running a theme park, say.
-[.my2]
-让更熟悉门道的人来运营这些主题公园
-
+本文中的翻译:
+但是，如果我能… 如果他愿意把他的席位交给一个更敏锐点的人，一个能​​熟悉业务​​的人，比如说，运营一个主题公园。
+====
 
 Running the parks?
 [.my2]
 运营这些游乐场
 
 
-Just a little guy. Learning, you know?
+Just a _little guy_ 小家伙. Learning, you know?
 [.my2]
 交给年轻人 不断学习
+
+[.my1]
+.案例
+====
+.little guy
+小家伙：指一个年轻或年幼的人，或者指一个在社会地位或权力方面相对较低的人。
+====
 
 
 I mean, could that be...?
@@ -4734,24 +4793,42 @@ I mean, could that be...?
 那个人选...
 
 
-You scratch my back, I...
+You scratch （用指甲）挠，轻抓 my back 礼尚往来；私相授受, I...
 [.my2]
 你要是帮我 我...
 
+[.my1]
+.案例
+====
+.*you scratch ˈmy back /and ˌI'll scratch ˈyours*
+( saying) used to say that /if sb helps you, you will help them, even if this is unfair to others 礼尚往来；私相授受
+====
 
-I'm not gonna say I could scratch yours.
+*I'm not gonna （=going to） say* 我可不敢保证我能…,我可不能说我能…（因为那可能不现实或我做不到） /I could scratch yours.
 [.my2]
 虽说我并不能回报你什么
 
 
-It's be too considerable of a space.
+
+
+It's be too considerable 相当大的，相当重要的 of a space.
 [.my2]
 因为这个范围太大了
 
 
-But is there an angle there, perhaps?
+But *is there an angle ​​（看待或处理问题的）角度、立场；有利可图的机会或方法 there*, perhaps?
 [.my2]
 但... 也许你能考虑下
+
+[.my1]
+.案例
+====
+.is there an angle
+angle在这里的意思是：​​（看待或处理问题的）角度、立场；有利可图的机会或方法。​   +
+
+所以 *is there an angle there 的字面意思是：“那里是不是有个角度？”，但实际想表达的是：​​“这里面有没有什么对我们有利的机会？”​​ 或 ​​“我们能不能从这件事里找到某种可以利用的切入点？”*​​ +
+这是一种典型的商业谈判用语，询问是否有一种特定的方式可以让自己从中获益。
+====
 
 
 So... what're you thinking, son?
@@ -4771,37 +4848,32 @@ She's very smart.
 
 She'd make good picks. Family first.
 [.my2]
-她是很好的人选 家人优先
+她会做出明智的选择。家庭第一。
 
 
-I'm sure. I'm sure.
+I'm sure. I'm sure. But _what's your cut_ 份额，一份利润?
 [.my2]
-我懂 我懂的
+我相信。我相信. 但你的好处是什么？
 
+[.my1]
+.案例
+====
+cut 指的就是在交易或计划中属于你的那一份利益。
+====
 
-But what's your cut?
+Um... No. No. God no, Dad. No, it's your firm.
 [.my2]
-那你为什么不高兴
+呃…不。不。天啊，不，爸爸。不，这是你的公司。
 
 
-Um... No.
+Like, it's not _what's in it for me_ 对我有什么好处.
 [.my2]
-我没
+我的意思不是"我能得到什么好处"。
 
 
-No. God no, Dad. No, it's your firm.
+But you know, like, _**what is in it** for me_?
 [.my2]
-没有 我天 爸我没不高兴 这是你的公司
-
-
-Like, it's not what's in it for me.
-[.my2]
-这跟我没什么关系
-
-
-But you know, like, what is in it for me?
-[.my2]
-不过 到底能不能有点关系
+但是，你知道，就像，那我能得到什么好处呢？
 
 
 I'd love to get you back in.
@@ -4814,14 +4886,14 @@ Sure. No, sure.
 行 也行
 
 
-It's just it was tough last time.
+It's just /*it was tough* last time.
 [.my2]
-可上回不怎么样
+可上回不怎么样 (只是上次太艰难了)
 
 
-It was very tough with Frank over me in LA.
+It was very tough with Frank over me /in LA.
 [.my2]
-弗兰克在洛杉矶管我太严了
+弗兰克在洛杉矶管我太严了  (在洛杉矶，弗兰克对我的态度非常强硬。)
 
 
 Frank's very important to the firm.
@@ -4834,54 +4906,70 @@ Oh, no, sure. No, of course, I understand that.
 可不是 很重要 当然 我理解
 
 
-It's just I had a lot of ideas at the studio.
+It's just /I had a lot of ideas at the studio.
 [.my2]
-只不过 我在制片上有很多点子
+只不过, 我在制片上有很多点子
 
 
-As you know, I'm quite an innovative thinker,
+As you know, I'm quite an innovative thinker 创新思维者,
 [.my2]
 你也知道 我是大创新思想家
 
 
-and I was met with a lot of resistance.
+and I was met with a lot of resistance 反对，抵制；抵抗，反抗；抵抗力.
 [.my2]
 可我遇到了很多阻力
 
 
-Is this still the film thing?
+Is this still _the film thing_?
 [.my2]
 这还是因为节目吗
 
 
-No... Oh, what, Robot Olympics?
+No... Oh, what, Robot Olympics 机器人奥运会?
 [.my2]
 不是... 你说机械奥运会吗
 
 
-No, Dad, it's not about one fantastic idea.
+No, Dad, it's not about _one fantastic idea_.
 [.my2]
 不 爸 不只是这一个好点子
 
 
 It was a culture. There were many of them.
 [.my2]
-这是种文化 当时有很多这种点子
+这是种文化, 当时有很多这种点子
 
 
-What would be your dream outfit?
+What would be your _dream outfit_ 理想的工作职位,梦寐以求的角色?
 [.my2]
-你想怎样呢
+你想怎样呢?
+
+[.my1]
+.案例
+====
+.dream outfit
+*outfit​​ 一词除了指“一套衣服”外，在口语中常引申为“​​组织、团队、公司​​”或一个人在其中扮演的“​​角色、职位​​”。* +
+​​dream​​ 是“梦想的”。
+
+因此，​​dream outfit​​ 的字面意思是“梦想中的团队/角色”，结合上下文，非常贴切地翻译为 ​​“你最理想的职位是什么？”​​ 或 ​​“你梦想中的角色是怎样的？”​​。
+====
 
 
-I wanna run the damn show. I do.
+I wanna *run the* damn  该死的 *show* ​​掌管一切、当负责人. I do.
 [.my2]
 我想做那节目的制片 非常想
 
+[.my1]
+.案例
+====
+.run the show
+**run the show 是一个习语，意思是“​​掌管一切、当负责人​​”。**damn是加强语气。
+====
 
-And until it opens up, Chief Operating Officer.
+And until it opens up, _Chief Operating Officer_ 首席运营官.
 [.my2]
-运行起来以后 我要做首席运营官
+运行起来以后, 我要做首席运营官
 
 
 But I guess... I guess that's Frank, huh?
@@ -4919,7 +5007,7 @@ It was so crazy.
 太疯狂了
 
 
-It goes so much faster than I thought.
+It goes so much faster /than I thought.
 [.my2]
 比我想象的快多了
 
@@ -4934,7 +5022,7 @@ OK, let's get a glove.
 好了 大家把手套戴好
 
 
-Let's have a second.
+Let's have a second. 稍等一下
 [.my2]
 再给我倒点
 
@@ -4944,19 +5032,20 @@ What time is it?
 几点了
 
 
--Toss it over here! -Come on back, come on back.
+-Toss (v.)（轻轻地或随意地）扔，抛，掷； it over here 扔到这里来! -Come on back, come on back.
 [.my2]
 -往这扔  -回来 回来
 
 
-Now that things are getting shaken up, would you come inside?
+Now that things are getting *shaken up* 彻底调整，重组，改革;使震动，使激动, would you come inside 进来?
 [.my2]
-目前局势有些动荡 你要回公司吗
+ 既然现在局面动荡，你愿意回来（加入公司核心）吗？
 
 
-Dad, I'm not just playing with the politics.
+Dad, I'm not just *playing with the politics* 玩弄政治.
 [.my2]
-爸 我不是随便搞搞政治
+爸, 我不是随便搞搞政治. +
+(爸爸，我可不是在政界玩玩而已的。（暗示自己在玩真正的、更高阶的权力游戏）)
 
 
 Oh, no, of course. Politics.
@@ -4964,34 +5053,47 @@ Oh, no, of course. Politics.
 对 当然 政治
 
 
-Not to be crude about it, but politics is what comes out the asshole.
+Not to be crude 冒犯的，粗俗的 about it, but politics is _what comes out the asshole_.
 [.my2]
-我不想说的太直白 但政治就是拉出来的屎
+我不想说的太直白, 但政治就是拉出来的屎
 
 
-Wouldn't you rather be up front, feeding the horse?
+Wouldn't you rather *be* up front, feeding (v.) the horse? 你难道不想坐在前面喂马吗
 [.my2]
-明明回来有体面的工作 干嘛要去玩屎
+哦，不，当然不是。政治。说得粗俗点，政治就是屁眼里拉出来的东西。你难道不想待在前头，喂马吃糖吗？（意指掌握真正的权力源头）
 
 
-Well, Joyce, she's got that Air Force One look.
+Well, Joyce, she's got that _Air Force One_ look.
 [.my2]
-乔伊丝表现地像我已经入主白宫了
+嗯，乔伊斯（希芙在政界的上司），她有着“空军一号”那种派头。所以… 要我回来，我想要最高职位 (​ 这直指公司的​​首席执行官（CEO）​​ 职位。)
+
+[.my1]
+.案例
+====
+这是一场父亲（洛根·罗伊，A）与女儿（希芙，B）之间的谈判。洛根在公司动荡时邀请希芙“回家”加入核心管理层，但希芙对权力有着明确的要求。对话展现了洛根对“政治”的蔑视和他对实质权力的理解，以及希芙的野心和谨慎。
+
+洛根：​​ 试图用“实质权力”（喂马）的诱惑，贬低希芙的现有成就（政治是粪便），让她降低期望，接受一个低于“最高职位”的安排，从而被他控制。
+
+​​希芙：​​ 识破了父亲的策略。她通过抬高自己的政治资本（空军一号），直接喊出最高价码（the top job），迫使父亲认真对待她，而不是把她当做一个可以随意安置的棋子。
+
+*Air Force One look​​*
+​​字面意思：​​ *空军一号的派头。* 希芙的潜台词：​​ 她在回应父亲的贬低。意思是：“你别小看我现在接触的层面。我服务的对象是接近总统级别的人，我见识过真正的顶级权力（即便是你所说的‘废弃物’）。所以，你想用一个小职位把我召回去是行不通的。”
+====
 
 
-So... to come back, I'd want the top job.
+So... to come back, I'd want _the top job_.
 [.my2]
-所以... 真要我回来帮忙 我必须万人之上
+所以... 真要我回来帮忙. 我必须万人之上
 
 
-And if that was difficult?
+And /if that was difficult? 如果这很困难呢
 [.my2]
-但要是很难怎么办
+如果这（个要求）有困难呢？
 
 
-Overseeing everything outside the US, parks and all.
+Overseeing (v.)监管，监督 everything _outside the US_, parks and all.
 [.my2]
-你要掌管所有海外的部分 游乐场等全部
+你要掌管所有海外的部分, 游乐场等全部
 
 
 What, like... Tom's boss?
@@ -4999,27 +5101,27 @@ What, like... Tom's boss?
 什么... 你是说 做汤姆的老板
 
 
-Yeah. Stepping stones.
+Yeah. Stepping stones 踏石.
 [.my2]
 没错 垫脚石
 
 
-What's the rescue pup looking for?
+What's the _rescue 营救，援救 pup_ 小狗，幼犬 *looking for*? 救援犬在找什么
 [.my2]
 那来求救的小崽子到底要什么
 
 
-He screwed up. Needs help.
+He *screwed up* 搞砸了. Needs help.
 [.my2]
-他搞砸了工作 需要帮助
+他搞砸了工作, 需要帮助
 
 
-He might fit in eventually to the parks.
+He might *fit in* eventually *to* the parks.
 [.my2]
 他将来可能适合游乐场的管理
 
 
-Do you think Tom can handle the competition?
+Do you think /Tom can handle the competition?
 [.my2]
 你觉得汤姆能处理好这种竞争吗
 
@@ -5029,7 +5131,7 @@ Mr. Roy. All set.
 罗伊先生 准备就绪
 
 
-There you go.
+There you go. 就这样了
 [.my2]
 这就对了
 
@@ -5039,24 +5141,24 @@ Hey.
 那啥
 
 
-So, just wanted to give this to you
+So, just wanted *to give this to you*
 [.my2]
 我想把这个亲手交给您
 
 
-in person just to say, you know, happy birthday.
+_in person_ 亲自，当面 just to say, you know, happy birthday.
 [.my2]
 当面跟您说声 生日快乐
 
 
-Hold that, will you?
+Hold that, will you? 帮我拿一下，好吗？
 [.my2]
 帮我拿下
 
 
-It's just a Patek Philippe. So...
+It's just a _Patek Philippe_ （瑞士名品手表）. So...
 [.my2]
-是块百达翡丽表...
+是块"百达翡丽"表...
 
 
 Yeah, it says "Patek Philippe."
@@ -5079,7 +5181,7 @@ Every time you look at it,
 每次你看向它
 
 
-it tells you exactly how rich you are.
+it tells you exactly /how rich you are.
 [.my2]
 都能准确展示你的富有
 
@@ -5089,14 +5191,14 @@ That's very funny.
 这话挺逗的
 
 
-Did you rehearse that?
+Did you rehearse (v.)排练，排演 that?
 [.my2]
 刚这段你彩排过吗
 
 
 No. Well, no. Yes. But...
 [.my2]
-没 我没有 好吧 有 但是...
+没 我没有, 好吧, 有 但是...
 
 
 OK. Yeah.
@@ -5113,15 +5215,21 @@ OK, let's play ball.
 [.my2]
 好了 开始玩球了
 
+[.my1]
+.案例
+====
+play ball​​： 字面意思是“打球”，这里是​​隐喻​​，表示“开始合作/按规则办事”。肯德尔试图主导谈话。
+====
 
 So, what are you thinking?
 [.my2]
 好了 你们怎么想
 
 
-We say no, all of us, on the trust. Full block.
+We say no, all of us, on the trust. *Full block* 完全阻止.
 [.my2]
-我想我们集体反对改信托人 一致对外
+我想我们集体反对改信托人 一致对外 +
+(我们（在信托基金投票上）全部投反对票。完全阻止（父亲的计划）。稳定局面。按计划行事。我接管公司，然后我们就…)
 
 
 Stability. Stick to the plan.
@@ -5129,14 +5237,14 @@ Stability. Stick to the plan.
 要稳定 得按原计划来
 
 
-I take over and we just...
+I *take over* 接管,接手 and we just...
 [.my2]
 我上位 之后我们只要...
 
 
-You two, under me, co-presidents.
+You two, under me, co-presidents 联合主席.
 [.my2]
-你俩 在我之下 做两位总裁
+你们两个，在我之下，当联席总裁。
 
 
 -Under you? -Uh-huh.
@@ -5146,7 +5254,8 @@ You two, under me, co-presidents.
 
 But, you know, three. The power of three?
 [.my2]
-但是 你懂的 我们三人并肩作战
+但是 你懂的, 我们三人并肩作战 +
+但是，你知道，三个人。“三巨头”的力量？
 
 
 Interesting.
@@ -5156,10 +5265,10 @@ Interesting.
 
 -Can we think about it? -Of course.
 [.my2]
--我们能想下吗  -当然
+-我们能考虑一下吗  -当然
 
 
-I thought about it. Fuck you.
+I *thought about* it. Fuck you.
 [.my2]
 我想完了 滚你丫的
 
@@ -5169,9 +5278,9 @@ Go, Rava!
 上啊 拉瓦
 
 
-Psych your mind!
+Psych (v.)使（对手）心虚；震慑（对手）;为（困难或不快的事）做好思想准备 your mind!
 [.my2]
-看穿你了
+搞乱心态
 
 
 Go!
@@ -5179,12 +5288,12 @@ Go!
 上啊
 
 
-That's a strike.
+That's a strike 击，撞.
 [.my2]
 好球
 
 
--Got her looking! -That's good pitching.
+-Got her looking 让她注意到! -That's good pitching 投手投球.
 [.my2]
 -骗到她了  -球扔得不错
 
@@ -5199,17 +5308,17 @@ It was balletic, though,
 跟跳芭蕾一样
 
 
-kinda came around..
+kinda (ad.)有点，有几分 came around 来了..
 [.my2]
 感觉出来了...
 
 
-I hear you're the new kid. Yeah?
+I hear you're the new kid 小孩，年轻人. Yeah?
 [.my2]
 听说你是新成员 对吗
 
 
-Oh, well, I mean, I'm just kinda starting...
+Oh, well, I mean, I'm just kinda (ad.)有点，有几分 starting...
 [.my2]
 对 我才刚开始...
 
@@ -5239,17 +5348,17 @@ seriously, any help, any advice, just, you know,
 我说真的 任何帮助 或需要建议
 
 
-don't fuckin' bother, OK?
+don't fuckin' bother (v.)（使）烦恼，（使）担心；打扰，烦扰；使不舒服，使疼痛, OK?
 [.my2]
 都他妈咽肚子里 好吗
 
 
-I'm only razzing you, cuz.
+I'm only razzing (v.)嘲笑，嘲弄 you, cuz 因为（=cause）.
 [.my2]
 我逗你的 表弟
 
 
-You're dreaming, really.
+You're dreaming 做梦, really.
 [.my2]
 你还迷糊呢
 
@@ -5284,7 +5393,7 @@ But the thing about me
 但你要知道
 
 
-is that I'm a terrible, terrible prick.
+is that /I'm a terrible, terrible prick 鸡巴；屌;鸟人；笨蛋.
 [.my2]
 我就是个彻头彻尾的混蛋
 
@@ -5299,7 +5408,7 @@ Fuck me, man, your face.
 太逗了老兄 看你表情
 
 
-Pals. Yes?
+Pals <非正式>朋友，伙伴. Yes?
 [.my2]
 我们是哥们
 
@@ -5326,7 +5435,7 @@ If I asked you to?
 
 -Would I kiss you? -If I told you to? Huh?
 [.my2]
--我会亲你吗  -如果我命令你亲 你亲吗
+-我会亲你吗  -如果我命令你亲, 你亲吗
 
 
 -I don't...  -Come on.
@@ -5339,12 +5448,12 @@ I'm joking. I'm joking.
 我开玩笑的 开个玩笑
 
 
--All right, Siobhan. -Bring it!
+-All right, Siobhan. -Bring it 全力以赴,行动起来 !
 [.my2]
 -好了 西沃恩 -开打吧
 
 
-Batter swing!
+Batter 接连猛打；殴打 swing!
 [.my2]
 挥棒
 
@@ -5364,7 +5473,7 @@ Hold up. Hang on, hang on. Sorry.
 -抱歉  -嘘 嘘
 
 
-Honey, boo him.
+Honey, boo (v.)发嘘声，喝倒彩 him.
 [.my2]
 亲爱的 嘘他
 
@@ -5379,9 +5488,9 @@ It's the crunch.
 要摊牌了
 
 
-Frank, will you be link man here?
+Frank, will you be _link man_ 联系人 here?
 [.my2]
-弗兰克 你来主持一下
+弗兰克 你来主持一下 (你是这里的联络员吗？)
 
 
 Dad?
@@ -5394,17 +5503,17 @@ Of course.
 去吧
 
 
-Come here, sweetie.
+Come here, sweetie 爱人，情人；甜的糕饼糖果.
 [.my2]
 来这儿 宝贝
 
 
-Well, if Kendall's going, we need one more to make it fair!
+Well, if Kendall's going, we need one more /to make it fair!
 [.my2]
 如果他要走 公平起见 我们队还需要一个人
 
 
-Keep it up, slugger.
+Keep it up, slugger 打击力强的选手；重击者.
 [.my2]
 坚持住 击球手
 
@@ -5444,14 +5553,9 @@ Yeah, hey, what's up?
 是我 怎么样
 
 
-I just got some background
+I just got some background /for _the story 后定说明 I heard you had cookin'_ 烹饪；烹调.
 [.my2]
-我听说你正准备一篇报道
-
-
-for the story I heard you had cookin'.
-[.my2]
-我入手了一些背景资料
+我听说你正准备一篇报道, 我入手了一些背景资料
 
 
 That's right. Yeah, I know Kendall Roy.
@@ -5459,7 +5563,7 @@ That's right. Yeah, I know Kendall Roy.
 对 我认识肯德尔·罗伊
 
 
-And he's saying Logan's lost it.
+And he's saying /Logan's lost it.
 [.my2]
 他说洛根已经没救了
 
@@ -5469,7 +5573,7 @@ Yeah, that's right.
 就是这样
 
 
-Some board members and senior management,
+Some _board members_ and senior management,
 [.my2]
 某些董事成员和高层管理人员
 
@@ -5479,17 +5583,17 @@ they want him out.
 想让他走人
 
 
-That's what I'm hearing from people close to the family.
+That's what I'm hearing /from people 后定说明 close to the family.
 [.my2]
 我听和家族走得很近的人说的
 
 
-Those disloyal fucks.
+Those disloyal (a.)不忠的；不忠诚的；背叛的 fucks.
 [.my2]
 那群墙头草
 
 
-Just... Just say source close to the family.
+Just... Just say source (n.)来源，出处 后定说明 close to the family.
 [.my2]
 就是... 和家族走得近的线人
 
@@ -5509,17 +5613,12 @@ You're gonna be fine. Relax, don't worry about it.
 -你能打中球吗  -能
 
 
-Great, because I will give you
+Great, because I will give you one million dollars /if you hit a home run.
 [.my2]
-很好 因为如果你
+很好 因为如果你打出了全垒打, 我就给你一百万美金
 
 
-one million dollars if you hit a home run.
-[.my2]
-打出了全垒打 我就给你一百万美金
-
-
--I'm dead serious, OK? -For real?
+-I'm dead (ad.)完全地，全然地 serious, OK? -For real?
 [.my2]
 -我没开玩笑 好吗  -真的吗
 
@@ -5534,7 +5633,7 @@ Honey, where's the... your bag?
 亲爱的 你的... 包呢
 
 
-Hey, I'll do it for a million. Give me that.
+Hey, I'll do it for a million 给我一百万我就做. Give me that.
 [.my2]
 我也想挣一百万 把球棒给我
 
@@ -5559,17 +5658,17 @@ I will give you one million dollars, cash,
 我会给你一百万现金
 
 
-for a home fucking run.
+for a _home_ fucking _run_ 全垒打 .
 [.my2]
 如果你他妈能打出全垒打
 
 
-Rome, don't be an asshole.
+Rome, don't be an asshole 笨蛋；讨厌鬼.
 [.my2]
 小罗 别犯贱
 
 
-I'm not being an asshole. I want him incentivized.
+I'm not being an asshole. I want him incentivized 激励(某人做某事).
 [.my2]
 我没犯贱 我要给他点物质刺激
 
@@ -5581,7 +5680,7 @@ This is fun.
 
 It's a game. Jeez, stop being so serious.
 [.my2]
-这只是个游戏 天 你别这么认真
+这只是个游戏 天, 你别这么认真
 
 
 Huh?
@@ -5589,12 +5688,12 @@ Huh?
 看到了吗
 
 
-Witnesses.
+Witnesses 证人；目击者.
 [.my2]
 证人们
 
 
-Good luck. I believe in you.
+Good luck. I *believe in* you.
 [.my2]
 祝你好运 我相信你能行
 
@@ -5664,37 +5763,49 @@ Oh, that is so sad! Oh, I'm sorry.
 真可怜 但不好意思
 
 
-I can't give it to you. That would have counted, by the way.
+I can't give it to you. That would have counted （被）正式接纳，正式认可; 那是算数的, by the way.
 [.my2]
 钱不能给你了 顺便说句 钱差点就是你的了
 
+[.my1]
+.案例
+====
+.count
+(v.)
+to be officially accepted; to accept sth officially（被）正式接纳，正式认可  +
+[ V]
+•Don't go over that line /or your throw won't count.别越过那条线，否则你的投掷就会被判无效。
 
-That was almost a home run, if you went all the way around.
+[ VN]
+•`主` Applications 后定说明received after 1 July  `谓`  will not be counted.7月1日以后收到的申请书将不予受理。
+====
+
+That was almost a _home run_, if you went _all the way_ around.
 [.my2]
-如果你刚跑完了 就真的是全垒打了
+如果你刚跑完了, 就真的是全垒打了
 
 
-But it was a really good effort.
+But it was a really good effort 不错的努力.
 [.my2]
 不过你真的努力了
 
 
-Really. Quite tremendous.
+Really. Quite tremendous (a.)极好的；精彩的；了不起的.
 [.my2]
 真的 很精彩
 
 
-So take this back to your life.
+So take this /back to your life.
 [.my2]
-拿着这个 回到你的生活
+拿着这个, 回到你的生活
 
 
-It's a quarter million. Enjoy.
+It's _a quarter million_. Enjoy.
 [.my2]
-这是一百万的四分之一 好好享受
+这是一百万的四分之一, 好好享受
 
 
-Son... magnificent effort.
+Son... magnificent 令人印象深刻的，出色的 effort.
 [.my2]
 孩子... 打得很棒
 
@@ -5714,17 +5825,17 @@ Hey, Lawrence.
 劳伦斯
 
 
-Sorry the other offer fell through.
+Sorry /the other offer *fell through* (落空；失败；成为泡影). 抱歉，另一个提议落空了
 [.my2]
 真可惜那个提案失败了
 
 
-I don't know what happened.
+I don't know _what happened_.
 [.my2]
 我不知道发生了什么
 
 
-But we fattened the goose nice now, right?
+But we *fattened (v.)使变胖，使长肥 the goose 鹅 nice* 把鹅喂肥了 now, right?
 [.my2]
 不过待宰的羊已经养肥了 是吧
 
@@ -5734,22 +5845,22 @@ The number is 140.
 我给你1.4亿
 
 
-Cash, with a stock alternative.
+Cash, with a stock alternative 可替代的，备选的.
 [.my2]
-现金 股票也可以
+现金, 股票也可以
 
 
 You're on our board.
 [.my2]
-你加入我们
+你加入我们 (你是我们董事会的成员)
 
 
-Take the stock, you'll own a nice piece of us.
+Take the stock, you'll own (v.) _a nice piece of_ us.
 [.my2]
 股票到手 你会分到一份不错的羹
 
 
-Well, that is an appealing package.
+Well, that is an appealing package 盒，包;（建议或提供的想法或服务的）一套，一揽子.
 [.my2]
 好吧 这提议很诱人
 
@@ -5759,49 +5870,62 @@ It is, yeah. It's appealing.
 你说得没错 是很诱人
 
 
-You better play nice, though. Because I'm the whole company.
+You better play (v.) nice, though. Because I'm the whole company.
 [.my2]
-但你最好想清楚 因为我代表整个公司
+但你最好想清楚, 因为我代表整个公司
 
 
-Yeah, I think you're gonna stick around
+Yeah, I think /you're gonna *stick around* 逗留，停留
 [.my2]
 当然 我觉得你不会走的
 
 
-because I'm gonna stuff your mouth with so much money
+because I'm gonna stuff (v.)塞进，填进；填满 your mouth /with so much money
 [.my2]
 因为我会在你嘴里塞满了钱
 
 
-you're gonna shit gold figurines.
+you're gonna shit (v.) gold figurines 雕像；雕刻工艺品.
 [.my2]
 你拉屎都拉的小金人
 
 
-Non-disclosure agreement. Non-voting shares. Non-compete.
+_Non-disclosure agreement_ 保密协议,非揭露协议. _Non-voting shares_ 无表决权股份. Non-compete 无表决权股份.
 [.my2]
-保密协议 无表决权股票 竞业禁止
+保密协议, 无表决权股票, 竞业禁止
+
+[.my1]
+.案例
+====
+.Non-disclosure agreement
+非揭露协议，是一种禁止一方披露某些信息的合同
+====
 
 
-I'm going to lock you in a golden cage, fuck you with a silver dildo,
+I'm going to lock you in a golden cage, fuck you with a silver dildo 人造阴茎,
 [.my2]
-你会被我关进金笼子 屁眼里插满银阴茎
+你会被我关进金笼子, 屁眼里插满银阴茎
 
+[.my1]
+.案例
+====
+.dildo
+-> 可能来自意大利语deletto, 愉快，高兴，词源同delight, delicious.
+====
 
-and pay you so much you sing whatever song I want.
+and pay you so much /you sing (v.) _whatever song_ 后定说明 I want.
 [.my2]
-收着我的钱 唱我想听的歌
+收着我的钱, 唱我想听的歌
 
 
--Easy. You still need me to recommend this. -No, I don't.
+-Easy. You still need me to recommend (v.)推荐，介绍 this. -No, I don't.
 [.my2]
--别急 你还需要我的推荐  -不 我不需要
+-别急 你还需要我的推荐.  -不 我不需要
 
 
-This is a deal so fucking good you have to take it,
+This is a deal *so* fucking good /you have to take it,
 [.my2]
-因为我的提案太他妈好了 你不得不接受
+因为我的提案太他妈好了, 你不得不接受
 
 
 or we'll see you in court.
@@ -5816,20 +5940,20 @@ Dude.
 
 How you doing, sir? How's everything?
 [.my2]
-你还好吗 先生 事情还顺利吗
+你还好吗 先生, 事情还顺利吗
 
 
-I'm Colin. I work for Mr. Logan Roy and the Roy family.
+I'm Colin. I *work for* Mr. Logan Roy /and the Roy family.
 [.my2]
-我叫科林 我为洛根·罗伊先生和他的家族工作
+我叫科林, 我为洛根·罗伊先生和他的家族工作
 
 
-We'd like to keep this quiet today, if you'll agree to that.
+We'd like *to keep this quiet* today, if you'll agree to that.
 [.my2]
 我们希望您能对今天的事保密
 
 
-We'd like to have you sign a non-disclosure agreement.
+We'd like to have you sign (v.) a _non-disclosure agreement_ 保密协定.
 [.my2]
 我们希望和您签订一份保密协议
 
@@ -5839,22 +5963,17 @@ We'd like to have you sign a non-disclosure agreement.
 -你想再干五年吗  -对 弗兰克
 
 
-I've been thinking
+I've been thinking /if now isn't a time _for a new role for you_.
 [.my2]
-我一直在想
+我一直在想, 现在你是不是该换个新角色了。
 
 
-if now isn't a time for a new role for you.
-[.my2]
-现在 是不是该给你分配新职位
-
-
-OK. As in what sort?
+OK. As _in what sort_ 以什么方式?
 [.my2]
 好吧 什么职位
 
 
-Light duties.
+Light duties 责任，义务.
 [.my2]
 轻松点的
 
@@ -5869,7 +5988,7 @@ Are you kidding me? Logan. Me?
 你耍我吗 洛根 开我
 
 
-There should be a press release on your phone.
+There should be a _press release_ 新闻稿；通讯稿 on your phone.
 [.my2]
 你手机应该收到了一封任命信
 
@@ -5879,7 +5998,7 @@ Proof it.
 看看吧
 
 
-You might want to give it a bit of color, it's quite dry.
+You might want to give it a bit of color, it's quite dry 不动感情的；冷冰冰的;干巴巴的；枯燥乏味的.
 [.my2]
 你可能想再润色下 写得挺直白的
 
@@ -5899,12 +6018,12 @@ You are what you do, Logan. You know that?
 你是你的所为 洛根 你知道吗
 
 
-In the end, you're just what you do.
+In the end, you're just _what you do_.
 [.my2]
 最终 你只不过是你的所为
 
 
-Don't worry, you'll get your nut.
+Don't worry, you'll get your nut 坚果.
 [.my2]
 别担心 你会拿到补贴
 
@@ -5924,12 +6043,12 @@ The other helicopter.
 坐那架直升机
 
 
-Colin, see to it.
+Colin, see to it. 留意做
 [.my2]
 科林 交给你了
 
 
-Well, officially the deadline has passed.
+Well, officially *the deadline 最后期限，截止日期 has passed*.
 [.my2]
 截止日期已经正式过了
 
@@ -5944,7 +6063,7 @@ What's the Frank situation?
 弗兰克什么情况
 
 
-Frank's out of the picture.
+Frank's *out of the picture* 不再参与，不在同一情况或关系中.
 [.my2]
 弗兰克与我们无关了
 
@@ -5984,12 +6103,12 @@ Con?
 康纳
 
 
-I'm with these two. What they say goes.
+I'm with these two. _What they say_ goes 他们说什么就说什么.
 [.my2]
 我听他俩的 他们说了算
 
 
-Our position is this doesn't quite work for us.
+Our position is /this doesn't quite work for us.
 [.my2]
 我们认为这对我们没什么用
 
@@ -6004,7 +6123,7 @@ You what?
 你说啥
 
 
-It's not sufficiently attractive as a proposition.
+It's not sufficiently attractive (a.) /as a proposition 主张，观点；（尤指商业或政治上的）提议，建议.
 [.my2]
 作为一个提议来说 还不够吸引人
 
@@ -6029,7 +6148,7 @@ Then help.
 那帮啊
 
 
-But why would I when I'm giving away power?
+But why would I /when I'm giving away power?
 [.my2]
 但我们连权力都失去了 为什么还要帮你
 
@@ -6044,7 +6163,7 @@ Why would I do that?
 -那...让凯莉  -凯莉是谁
 
 
-Kelly will set up some figures.
+Kelly will *set up* some figures.
 [.my2]
 让凯莉准备一些数据
 
@@ -6064,7 +6183,7 @@ Dad, it's just a first position. Dad?
 爸 这只是初始意愿 爸
 
 
-Get a grasp of what... what...
+*Get a grasp 抓牢，握紧；理解，领会 of* what... what...
 [.my2]
 能领会... 那个...
 
@@ -6154,7 +6273,7 @@ I think you've made a really great decision
 你做了非常明智的决定
 
 
-and I hope there's no hard feelings over all the shit-talking.
+and I hope /there's no _hard feelings_ 不满情绪,怨恨,怨气 over all the shit-talking.
 [.my2]
 我希望你不要介意我刚说的那些话
 
@@ -6174,7 +6293,7 @@ So, the news I was talking about
 我刚说的消息是
 
 
-is that your dad just had a brain hemorrhage.
+is that /your dad just had a _brain hemorrhage_ 脑出血.
 [.my2]
 你父亲刚突发脑溢血
 
@@ -6194,17 +6313,17 @@ Yeah. I'm so sorry.
 -你...  -但...
 
 
-you just invited me into the chicken coop.
+you just *invited* me *into* the chicken coop (n.)（关鸡等的）笼子；捕鱼篓.
 [.my2]
-你就在刚才引狼入室
+你就在刚才引狼入室 (你刚邀请我进鸡舍)
 
 
-And without Daddy around to protect you,
+And without Daddy around /to protect you,
 [.my2]
 没有你老爸来保护你
 
 
-I'm gonna eat you all.
+I'm gonna eat (v.) you all.
 [.my2]
 我会把你们所有人吃干抹净
 
@@ -6269,14 +6388,14 @@ I'm sorry.
 对不起
 
 
-Most first-time homebuyers would love to live in Newport Beach.
+Most first-time homebuyers `谓` would love *to live (v.) in* Newport Beach.
 [.my2]
-多数首次购房买家选择新港海滩
+多数首次购房买家, 选择新港海滩
 
 
-But average home price in Newport Beach is over $1 million.
+But `主` _average home price_ in Newport Beach `系` is over $1 million.
 [.my2]
-但新港海滩的均价超过一百万美金
+但新港海滩的均价, 超过一百万美金
 
 
 So, most of the homes...
@@ -6284,17 +6403,17 @@ So, most of the homes...
 所以 大多数房产...
 
 
-There is a degree of stock market volatility
+There is a degree of _stock market volatility_ (n.易变，活泼；挥发性) 股市波动
 [.my2]
 出现了一定幅度的股票波动
 
 
-As Waystar Royco's chairman is reported to be in critical condition
+As Waystar Royco's chairman *is reported to be* in critical condition
 [.my2]
 据说韦斯达·罗伊科的总裁已病危
 
 
-following a major medical incident...
+following _a major medical incident_...
 [.my2]
 接下来报道一起重大医疗事故...
 
