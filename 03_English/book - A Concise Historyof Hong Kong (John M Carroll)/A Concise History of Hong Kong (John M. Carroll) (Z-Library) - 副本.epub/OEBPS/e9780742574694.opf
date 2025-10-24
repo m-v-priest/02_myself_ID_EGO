@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+		<dc:title>A Concise History of Hong Kong</dc:title>
+		<dc:creator opf:file-as="Carroll, John M." opf:role="aut">Carroll, John M.</dc:creator>
+		<dc:subject/>
+		<dc:description/>
+		<dc:publisher>Rowman &amp; Littlefield Publishing Group, Inc.</dc:publisher>
+		<dc:date>2013-06-25</dc:date>
+		<dc:type/>
+		<dc:format/>
+		<dc:identifier id="bookid" opf:scheme="ISBN">9780742574694</dc:identifier>
+		<dc:source/>
+		<dc:language>eng</dc:language>
+		<dc:rights>Copyright © 2007 by Rowman &amp; Littlefield Publishers, Inc.</dc:rights>
+		<meta content="cover-image" name="cover"/>
+	</metadata>
+	<manifest>
+		<item href="e9780742574694_css.css" id="style" media-type="text/css"/>
+		<item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+		<item href="e9780742574694_cov01.html" id="coverhtml" media-type="application/xhtml+xml"/>
+		<item href="e9780742574694_toc01.html" id="toc" media-type="application/xhtml+xml"/>
+		<item href="e9780742574694_ack01.html" id="ack01" media-type="application/xhtml+xml"/>
+		<item href="e9780742574694_bm01.html" id="bm01" media-type="application/xhtml+xml"/>
+		<item href="e9780742574694_bm02.html" id="bm02" media-type="application/xhtml+xml"/>
+		<item href="e9780742574694_bm03.html" id="bm03" media-type="application/xhtml+xml"/>
+		<item href="e9780742574694_c01.html" id="c01" media-type="application/xhtml+xml"/>
+		<item href="e9780742574694_c02.html" id="c02" media-type="application/xhtml+xml"/>
+		<item href="e9780742574694_c03.html" id="c03" media-type="application/xhtml+xml"/>
+		<item href="e9780742574694_c04.html" id="c04" media-type="application/xhtml+xml"/>
+		<item href="e9780742574694_c05.html" id="c05" media-type="application/xhtml+xml"/>
+		<item href="e9780742574694_c06.html" id="c06" media-type="application/xhtml+xml"/>
+		<item href="e9780742574694_c07.html" id="c07" media-type="application/xhtml+xml"/>
+		<item href="e9780742574694_c08.html" id="c08" media-type="application/xhtml+xml"/>
+		<item href="e9780742574694_cop01.html" id="cop01" media-type="application/xhtml+xml"/>
+		<item href="e9780742574694_fm01.html" id="fm01" media-type="application/xhtml+xml"/>
+		<item href="e9780742574694_fm02.html" id="fm02" media-type="application/xhtml+xml"/>
+		<item href="e9780742574694_fm03.html" id="fm03" media-type="application/xhtml+xml"/>
+		<item href="e9780742574694_ind01.html" id="ind01" media-type="application/xhtml+xml"/>
+		<item href="e9780742574694_tp01.html" id="tp01" media-type="application/xhtml+xml"/>
+		<item href="images/e9780742574694_cover.jpg" id="cover-image" media-type="image/jpeg"/>
+		<item href="images/e9780742574694_i0001.jpg" id="i0001" media-type="image/jpeg"/>
+		<item href="images/e9780742574694_i0002.jpg" id="i0002" media-type="image/jpeg"/>
+		<item href="images/e9780742574694_i0003.jpg" id="i0003" media-type="image/jpeg"/>
+		<item href="images/e9780742574694_i0004.jpg" id="i0004" media-type="image/jpeg"/>
+		<item href="images/e9780742574694_i0005.jpg" id="i0005" media-type="image/jpeg"/>
+		<item href="images/e9780742574694_i0006.jpg" id="i0006" media-type="image/jpeg"/>
+		<item href="images/e9780742574694_i0007.jpg" id="i0007" media-type="image/jpeg"/>
+		<item href="images/e9780742574694_i0008.jpg" id="i0008" media-type="image/jpeg"/>
+		<item href="images/e9780742574694_i0009.jpg" id="i0009" media-type="image/jpeg"/>
+		<item href="images/e9780742574694_i0010.jpg" id="i0010" media-type="image/jpeg"/>
+		<item href="images/e9780742574694_i0011.jpg" id="i0011" media-type="image/jpeg"/>
+		<item href="images/e9780742574694_i0012.jpg" id="i0012" media-type="image/jpeg"/>
+		<item href="images/e9780742574694_i0013.jpg" id="i0013" media-type="image/jpeg"/>
+		<item href="images/e9780742574694_i0014.jpg" id="i0014" media-type="image/jpeg"/>
+		<item href="images/e9780742574694_i0015.jpg" id="i0015" media-type="image/jpeg"/>
+		<item href="images/e9780742574694_i0016.jpg" id="i0016" media-type="image/jpeg"/>
+		<item href="images/e9780742574694_i0017.jpg" id="i0017" media-type="image/jpeg"/>
+		<item href="images/e9780742574694_i0018.jpg" id="i0018" media-type="image/jpeg"/>
+		<item href="images/e9780742574694_i0019.jpg" id="i0019" media-type="image/jpeg"/>
+		<item href="images/e9780742574694_i0020.jpg" id="i0020" media-type="image/jpeg"/>
+		<item href="images/e9780742574694_i0021.jpg" id="i0021" media-type="image/jpeg"/>
+		<item href="images/e9780742574694_i0022.jpg" id="i0022" media-type="image/jpeg"/>
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="coverhtml"/>
+		<itemref idref="fm01"/>
+		<itemref idref="tp01"/>
+		<itemref idref="cop01"/>
+		<itemref idref="toc"/>
+		<itemref idref="ack01"/>
+		<itemref idref="fm02"/>
+		<itemref idref="fm03"/>
+		<itemref idref="c01"/>
+		<itemref idref="c02"/>
+		<itemref idref="c03"/>
+		<itemref idref="c04"/>
+		<itemref idref="c05"/>
+		<itemref idref="c06"/>
+		<itemref idref="c07"/>
+		<itemref idref="c08"/>
+		<itemref idref="bm01"/>
+		<itemref idref="bm02"/>
+		<itemref idref="bm03"/>
+		<itemref idref="ind01"/>
+	</spine>
+	<guide>
+		<reference href="e9780742574694_cov01.html" title="Cover" type="other.reader-start-page"/>
+		<reference href="e9780742574694_tp01.html" title="Title Page" type="title-page"/>
+		<reference href="e9780742574694_cop01.html" title="Copyright Page" type="copyright-page"/>
+		<reference href="e9780742574694_toc01.html" title="Table of Contents" type="toc"/>
+		<reference href="e9780742574694_ack01.html" title="Acknowledgements" type="acknowledgements"/>
+		<reference href="e9780742574694_c01.html" title="Chapter 1" type="text"/>
+		<reference href="e9780742574694_ind01.html" title="" type="index"/>
+	</guide>
+</package>

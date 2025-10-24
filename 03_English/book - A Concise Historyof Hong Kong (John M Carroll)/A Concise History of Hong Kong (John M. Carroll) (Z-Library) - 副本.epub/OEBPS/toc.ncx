@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+<head>
+	<meta name="dtb:uid" content="9780742574694"/>
+</head>
+<docTitle>
+	<text>A Concise History of Hong Kong</text>
+</docTitle>
+<navMap>
+	<navPoint id="toc1" playOrder="1">
+		<navLabel>
+			<text>Title Page</text>
+		</navLabel>
+		<content src="e9780742574694_tp01.html"/>
+	</navPoint>
+	<navPoint id="toc2" playOrder="2">
+		<navLabel>
+			<text>Copyright Page</text>
+		</navLabel>
+		<content src="e9780742574694_cop01.html"/>
+	</navPoint>
+	<navPoint id="toc3" playOrder="3">
+		<navLabel>
+			<text>Table of Contents</text>
+		</navLabel>
+		<content src="e9780742574694_toc01.html"/>
+	</navPoint>
+	<navPoint id="toc4" playOrder="4">
+		<navLabel>
+			<text>Acknowledgments</text>
+		</navLabel>
+		<content src="e9780742574694_ack01.html"/>
+	</navPoint>
+	<navPoint id="toc5" playOrder="5">
+		<navLabel>
+			<text>Note on Romanization and Sources</text>
+		</navLabel>
+		<content src="e9780742574694_fm02.html"/>
+	</navPoint>
+	<navPoint id="toc6" playOrder="6">
+		<navLabel>
+			<text>Introduction - Hong Kong in History</text>
+		</navLabel>
+		<content src="e9780742574694_fm03.html"/>
+	</navPoint>
+	<navPoint id="toc7" playOrder="7">
+		<navLabel>
+			<text>1 - Early Colonial Hong Kong</text>
+		</navLabel>
+		<content src="e9780742574694_c01.html"/>
+		<navPoint id="toc8" playOrder="8">
+			<navLabel>
+				<text>THE WEST RETURNS TO CHINA</text>
+			</navLabel>
+			<content src="e9780742574694_c01.html#title5"/>
+		</navPoint>
+		<navPoint id="toc9" playOrder="9">
+			<navLabel>
+				<text>“FOREIGN MUD”: OPIUM AND WAR</text>
+			</navLabel>
+			<content src="e9780742574694_c01.html#title6"/>
+		</navPoint>
+		<navPoint id="toc10" playOrder="10">
+			<navLabel>
+				<text>COLLABORATION</text>
+			</navLabel>
+			<content src="e9780742574694_c01.html#title7"/>
+		</navPoint>
+		<navPoint id="toc11" playOrder="11">
+			<navLabel>
+				<text>HONG KONG’S TROUBLES</text>
+			</navLabel>
+			<content src="e9780742574694_c01.html#title8"/>
+		</navPoint>
+		<navPoint id="toc12" playOrder="12">
+			<navLabel>
+				<text>THE SECOND OPIUM WAR</text>
+			</navLabel>
+			<content src="e9780742574694_c01.html#title9"/>
+		</navPoint>
+		<navPoint id="toc13" playOrder="13">
+			<navLabel>
+				<text>THE TAIPING REBELLION AND CHINESE EMIGRATION</text>
+			</navLabel>
+			<content src="e9780742574694_c01.html#title10"/>
+		</navPoint>
+		<navPoint id="toc14" playOrder="14">
+			<navLabel>
+				<text>NOTES</text>
+			</navLabel>
+			<content src="e9780742574694_c01.html#title11"/>
+		</navPoint>
+	</navPoint>
+	<navPoint id="toc15" playOrder="15">
+		<navLabel>
+			<text>2 - State and Society</text>
+		</navLabel>
+		<content src="e9780742574694_c02.html"/>
+		<navPoint id="toc16" playOrder="16">
+			<navLabel>
+				<text>ECONOMY: OPIUM AND EMIGRATION</text>
+			</navLabel>
+			<content src="e9780742574694_c02.html#title13"/>
+		</navPoint>
+		<navPoint id="toc17" playOrder="17">
+			<navLabel>
+				<text>SOCIETY</text>
+			</navLabel>
+			<content src="e9780742574694_c02.html#title14"/>
+		</navPoint>
+		<navPoint id="toc18" playOrder="18">
+			<navLabel>
+				<text>GOVERNMENT, LAW, AND THE ADMINISTRATION OF JUSTICE</text>
+			</navLabel>
+			<content src="e9780742574694_c02.html#title19"/>
+		</navPoint>
+		<navPoint id="toc19" playOrder="19">
+			<navLabel>
+				<text>TECHNIQUES OF CONTROL?</text>
+			</navLabel>
+			<content src="e9780742574694_c02.html#title23"/>
+		</navPoint>
+		<navPoint id="toc20" playOrder="20">
+			<navLabel>
+				<text>NOTES</text>
+			</navLabel>
+			<content src="e9780742574694_c02.html#title27"/>
+		</navPoint>
+	</navPoint>
+	<navPoint id="toc21" playOrder="21">
+		<navLabel>
+			<text>3 - Colonialism and Nationalism</text>
+		</navLabel>
+		<content src="e9780742574694_c03.html"/>
+		<navPoint id="toc22" playOrder="22">
+			<navLabel>
+				<text>THE PIAGUE OF 1894</text>
+			</navLabel>
+			<content src="e9780742574694_c03.html#title29"/>
+		</navPoint>
+		<navPoint id="toc23" playOrder="23">
+			<navLabel>
+				<text>THE REFORM MOVEMENT OF 1894</text>
+			</navLabel>
+			<content src="e9780742574694_c03.html#title30"/>
+		</navPoint>
+		<navPoint id="toc24" playOrder="24">
+			<navLabel>
+				<text>THE ACQUISITION OF THE NEW TERRITORIES</text>
+			</navLabel>
+			<content src="e9780742574694_c03.html#title31"/>
+		</navPoint>
+		<navPoint id="toc25" playOrder="25">
+			<navLabel>
+				<text>THE RISE OF THE HONG KONG CHINESE BOURGEOISIE</text>
+			</navLabel>
+			<content src="e9780742574694_c03.html#title32"/>
+		</navPoint>
+		<navPoint id="toc26" playOrder="26">
+			<navLabel>
+				<text>HONG KONG AND CHINESE NATIONALISM</text>
+			</navLabel>
+			<content src="e9780742574694_c03.html#title33"/>
+		</navPoint>
+		<navPoint id="toc27" playOrder="27">
+			<navLabel>
+				<text>THE 1911 REVOLUTION AND ITS EFFECTS ON HONG KONG</text>
+			</navLabel>
+			<content src="e9780742574694_c03.html#title34"/>
+		</navPoint>
+		<navPoint id="toc28" playOrder="28">
+			<navLabel>
+				<text>THE TRAM BOYCOTT OF 1912–1913</text>
+			</navLabel>
+			<content src="e9780742574694_c03.html#title35"/>
+		</navPoint>
+		<navPoint id="toc29" playOrder="29">
+			<navLabel>
+				<text>THE UNIVERSITY OF HONG KONG</text>
+			</navLabel>
+			<content src="e9780742574694_c03.html#title36"/>
+		</navPoint>
+		<navPoint id="toc30" playOrder="30">
+			<navLabel>
+				<text>HONG KONG AND WORLD WAR I</text>
+			</navLabel>
+			<content src="e9780742574694_c03.html#title37"/>
+		</navPoint>
+		<navPoint id="toc31" playOrder="31">
+			<navLabel>
+				<text>NOTES</text>
+			</navLabel>
+			<content src="e9780742574694_c03.html#title38"/>
+		</navPoint>
+	</navPoint>
+	<navPoint id="toc32" playOrder="32">
+		<navLabel>
+			<text>4 - The Interwar Years</text>
+		</navLabel>
+		<content src="e9780742574694_c04.html"/>
+		<navPoint id="toc33" playOrder="33">
+			<navLabel>
+				<text>CHINESE INDUSTRY AND BANKS</text>
+			</navLabel>
+			<content src="e9780742574694_c04.html#title40"/>
+		</navPoint>
+		<navPoint id="toc34" playOrder="34">
+			<navLabel>
+				<text>CONSTITUTIONAL DEVELOPMENTS</text>
+			</navLabel>
+			<content src="e9780742574694_c04.html#title41"/>
+		</navPoint>
+		<navPoint id="toc35" playOrder="35">
+			<navLabel>
+				<text>STRIKES AND BOYCOTTS</text>
+			</navLabel>
+			<content src="e9780742574694_c04.html#title42"/>
+		</navPoint>
+		<navPoint id="toc36" playOrder="36">
+			<navLabel>
+				<text>SEPARATE WORLDS, SEPARATE LIVES</text>
+			</navLabel>
+			<content src="e9780742574694_c04.html#title46"/>
+		</navPoint>
+		<navPoint id="toc37" playOrder="37">
+			<navLabel>
+				<text>PUBLIC WORKS AND SOCIAL WELFARE</text>
+			</navLabel>
+			<content src="e9780742574694_c04.html#title47"/>
+		</navPoint>
+		<navPoint id="toc38" playOrder="38">
+			<navLabel>
+				<text>PROSTITUTION AND MUI-TSAI</text>
+			</navLabel>
+			<content src="e9780742574694_c04.html#title48"/>
+		</navPoint>
+		<navPoint id="toc39" playOrder="39">
+			<navLabel>
+				<text>RERRENCHMENT</text>
+			</navLabel>
+			<content src="e9780742574694_c04.html#title49"/>
+		</navPoint>
+		<navPoint id="toc40" playOrder="40">
+			<navLabel>
+				<text>NOTES</text>
+			</navLabel>
+			<content src="e9780742574694_c04.html#title50"/>
+		</navPoint>
+	</navPoint>
+	<navPoint id="toc41" playOrder="41">
+		<navLabel>
+			<text>5 - War and Revolution</text>
+		</navLabel>
+		<content src="e9780742574694_c05.html"/>
+		<navPoint id="toc42" playOrder="42">
+			<navLabel>
+				<text>DEFENDING THE INDEFENSIBLE</text>
+			</navLabel>
+			<content src="e9780742574694_c05.html#title52"/>
+		</navPoint>
+		<navPoint id="toc43" playOrder="43">
+			<navLabel>
+				<text>THE FALL OF HONG KONG</text>
+			</navLabel>
+			<content src="e9780742574694_c05.html#title53"/>
+		</navPoint>
+		<navPoint id="toc44" playOrder="44">
+			<navLabel>
+				<text>THE JAPANESE OCCUPATION</text>
+			</navLabel>
+			<content src="e9780742574694_c05.html#title54"/>
+		</navPoint>
+		<navPoint id="toc45" playOrder="45">
+			<navLabel>
+				<text>WARTIME PLANNING AND THE RACE TO RECOVER HONG KONG</text>
+			</navLabel>
+			<content src="e9780742574694_c05.html#title55"/>
+		</navPoint>
+		<navPoint id="toc46" playOrder="46">
+			<navLabel>
+				<text>REBUILDING HONG KONG</text>
+			</navLabel>
+			<content src="e9780742574694_c05.html#title56"/>
+		</navPoint>
+		<navPoint id="toc47" playOrder="47">
+			<navLabel>
+				<text>POSTWAR CHANGES AND THE YOUNG PLAN</text>
+			</navLabel>
+			<content src="e9780742574694_c05.html#title57"/>
+		</navPoint>
+		<navPoint id="toc48" playOrder="48">
+			<navLabel>
+				<text>HONG KONG AND THE CHINESE REVOLUTION OF 1949</text>
+			</navLabel>
+			<content src="e9780742574694_c05.html#title58"/>
+		</navPoint>
+		<navPoint id="toc49" playOrder="49">
+			<navLabel>
+				<text>NOTES</text>
+			</navLabel>
+			<content src="e9780742574694_c05.html#title59"/>
+		</navPoint>
+	</navPoint>
+	<navPoint id="toc50" playOrder="50">
+		<navLabel>
+			<text>6 - A New Hong Kong</text>
+		</navLabel>
+		<content src="e9780742574694_c06.html"/>
+		<navPoint id="toc51" playOrder="51">
+			<navLabel>
+				<text>THE KOREAN WAR AND THE COLD WAR</text>
+			</navLabel>
+			<content src="e9780742574694_c06.html#title61"/>
+		</navPoint>
+		<navPoint id="toc52" playOrder="52">
+			<navLabel>
+				<text>THE POSTWAR ECONOMIC BOOM</text>
+			</navLabel>
+			<content src="e9780742574694_c06.html#title62"/>
+		</navPoint>
+		<navPoint id="toc53" playOrder="53">
+			<navLabel>
+				<text>COPING IN THE NEW WORLD ORDER</text>
+			</navLabel>
+			<content src="e9780742574694_c06.html#title63"/>
+		</navPoint>
+		<navPoint id="toc54" playOrder="54">
+			<navLabel>
+				<text>THE 1960s</text>
+			</navLabel>
+			<content src="e9780742574694_c06.html#title64"/>
+		</navPoint>
+		<navPoint id="toc55" playOrder="55">
+			<navLabel>
+				<text>BUILDING THE WELFARE STATE</text>
+			</navLabel>
+			<content src="e9780742574694_c06.html#title67"/>
+		</navPoint>
+		<navPoint id="toc56" playOrder="56">
+			<navLabel>
+				<text>NOTES</text>
+			</navLabel>
+			<content src="e9780742574694_c06.html#title68"/>
+		</navPoint>
+	</navPoint>
+	<navPoint id="toc57" playOrder="57">
+		<navLabel>
+			<text>7 - Becoming Hong Kongese</text>
+		</navLabel>
+		<content src="e9780742574694_c07.html"/>
+		<navPoint id="toc58" playOrder="58">
+			<navLabel>
+				<text>ECONOMIC, SOCIAL, AND CULTURAL DEVELOPMENTS</text>
+			</navLabel>
+			<content src="e9780742574694_c07.html#title70"/>
+		</navPoint>
+		<navPoint id="toc59" playOrder="59">
+			<navLabel>
+				<text>IDENTITY THROUGH CREDIBILITY: THE FIGHT AGAINST CORRUPTION</text>
+			</navLabel>
+			<content src="e9780742574694_c07.html#title71"/>
+		</navPoint>
+		<navPoint id="toc60" playOrder="60">
+			<navLabel>
+				<text>NEGOTIATING HONG KONG’S FUTURE</text>
+			</navLabel>
+			<content src="e9780742574694_c07.html#title72"/>
+		</navPoint>
+		<navPoint id="toc61" playOrder="61">
+			<navLabel>
+				<text>THE SINO-BRITISH NEGOTIATIONS AND THE JOINT DECLARATION</text>
+			</navLabel>
+			<content src="e9780742574694_c07.html#title73"/>
+		</navPoint>
+		<navPoint id="toc62" playOrder="62">
+			<navLabel>
+				<text>JITTERY CITY</text>
+			</navLabel>
+			<content src="e9780742574694_c07.html#title74"/>
+		</navPoint>
+		<navPoint id="toc63" playOrder="63">
+			<navLabel>
+				<text>THE BASIC LAW</text>
+			</navLabel>
+			<content src="e9780742574694_c07.html#title75"/>
+		</navPoint>
+		<navPoint id="toc64" playOrder="64">
+			<navLabel>
+				<text>THE END OF THE KOWLOON WALLED CITY</text>
+			</navLabel>
+			<content src="e9780742574694_c07.html#title76"/>
+		</navPoint>
+		<navPoint id="toc65" playOrder="65">
+			<navLabel>
+				<text>NOTES</text>
+			</navLabel>
+			<content src="e9780742574694_c07.html#title77"/>
+		</navPoint>
+	</navPoint>
+	<navPoint id="toc66" playOrder="66">
+		<navLabel>
+			<text>8 - The Countdown to 1997</text>
+		</navLabel>
+		<content src="e9780742574694_c08.html"/>
+		<navPoint id="toc67" playOrder="67">
+			<navLabel>
+				<text>TIANANMEN SQUARE: REACTIONS AND IMPLICATIONS</text>
+			</navLabel>
+			<content src="e9780742574694_c08.html#title79"/>
+		</navPoint>
+		<navPoint id="toc68" playOrder="68">
+			<navLabel>
+				<text>THE AIRPORT CONTROVERSY</text>
+			</navLabel>
+			<content src="e9780742574694_c08.html#title80"/>
+		</navPoint>
+		<navPoint id="toc69" playOrder="69">
+			<navLabel>
+				<text>COPING WITH 1997</text>
+			</navLabel>
+			<content src="e9780742574694_c08.html#title81"/>
+		</navPoint>
+		<navPoint id="toc70" playOrder="70">
+			<navLabel>
+				<text>THE LAST IMPERIALIST: CHRIS PATTEN’S REFORMS</text>
+			</navLabel>
+			<content src="e9780742574694_c08.html#title82"/>
+		</navPoint>
+		<navPoint id="toc71" playOrder="71">
+			<navLabel>
+				<text>THE RACE FOR HKSAR CHIEF EXECUTIVE</text>
+			</navLabel>
+			<content src="e9780742574694_c08.html#title83"/>
+		</navPoint>
+		<navPoint id="toc72" playOrder="72">
+			<navLabel>
+				<text>THE COUNTDOWN ENDS</text>
+			</navLabel>
+			<content src="e9780742574694_c08.html#title84"/>
+		</navPoint>
+		<navPoint id="toc73" playOrder="73">
+			<navLabel>
+				<text>1997 IN WORLD HISTORY</text>
+			</navLabel>
+			<content src="e9780742574694_c08.html#title85"/>
+		</navPoint>
+		<navPoint id="toc74" playOrder="74">
+			<navLabel>
+				<text>NOTES</text>
+			</navLabel>
+			<content src="e9780742574694_c08.html#title86"/>
+		</navPoint>
+	</navPoint>
+	<navPoint id="toc75" playOrder="75">
+		<navLabel>
+			<text>Epilogue - Beyond 1997</text>
+		</navLabel>
+		<content src="e9780742574694_bm01.html"/>
+	</navPoint>
+	<navPoint id="toc76" playOrder="76">
+		<navLabel>
+			<text>Chronology of Key Events</text>
+		</navLabel>
+		<content src="e9780742574694_bm02.html"/>
+	</navPoint>
+	<navPoint id="toc77" playOrder="77">
+		<navLabel>
+			<text>Bibliography and Further Reading</text>
+		</navLabel>
+		<content src="e9780742574694_bm03.html"/>
+	</navPoint>
+	<navPoint id="toc78" playOrder="78">
+		<navLabel>
+			<text>Index</text>
+		</navLabel>
+		<content src="e9780742574694_ind01.html"/>
+	</navPoint>
+</navMap>
+</ncx>
