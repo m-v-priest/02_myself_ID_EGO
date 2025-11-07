@@ -1,5 +1,4 @@
 /* 下面是我自定义的全局变量 */
-
 :root {
     --myGrayColor: rgb(240, 240, 240);
     /* 背景颜色 */
@@ -9,8 +8,77 @@
 }
 
 
-/* my1类, 专门用于单词高阶双解 */
+/* toc类, 专门用于将目录居左侧固定, 而不是固定在页面头部.
+注意: 这个自定义类, 在网页预览时是不错的, 但在用chrome打印成 pdf时, 所有页面左侧也会有toc部分, 浪费空间.
+ 所以, 你在打印pdf时, 必须把这个自定义toc类, 去掉, 使用 asciidoc 自带默认的 toc 才行.*/
 
+/*.toc {
+/*    position: fixed;
+/*    left: 0;
+/*    top: 0;
+/*    width: 250px; /* 目录栏宽度 */
+/*    height: 100vh; /* 占满整个屏幕高度 */
+/*    background: #f8f9fa;
+/*    padding: 20px;
+/*    overflow-y: auto;
+/*    border-right: 1px solid #ddd;
+/*}
+
+/* sect1 是页面正文包含的所有内容, 即你编辑的所有图文内容部分. */
+/*.sect1 {
+/*    margin-left: 270px; /* 让内容从 TOC 右侧开始 */
+/*    padding: 40px;
+/*}
+
+
+
+
+/* 修正版本：强制让 TOC 固定在页面左侧，而不受 content 限制 */
+#toc, .toc {
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 250px !important;
+    height: 100vh !important;
+    overflow-y: auto !important;
+    background-color: #f8f9fa !important;
+    border-right: 1px solid #ddd !important;
+    padding: 20px !important;
+    box-sizing: border-box !important;
+    z-index: 9999 !important;
+}
+
+/* 移动正文，避免被 TOC 遮挡 */
+body {
+    margin: 0 !important;       /* 保持 body 不偏移 */
+    padding: 0 !important;
+}
+
+#content {
+    margin-left: 270px !important;  /* 只移动正文 */
+    padding: 20px !important;
+}
+
+/* 调整目录列表美观 */
+#toc ul, .toc ul {
+    list-style: none !important;
+    padding-left: 10px !important;
+}
+#toc ul li, .toc ul li {
+    margin: 5px 0 !important;
+}
+#toc a, .toc a {
+    text-decoration: none !important;
+    color: #333 !important;
+}
+#toc a:hover, .toc a:hover {
+    color: #007bff !important;
+}
+
+
+
+
+/* my1类, 专门用于单词高阶双解 */
 .my1 {
     font-size: var(--myFontSmallSize);
     /* 设置my1类的 字号大小 */
@@ -24,7 +92,6 @@
 
 
 /* my2类, 专门用于中文翻译参考 */
-
 .my2 {
     font-size: var(--myFontSmallSize);
     /* 设置my1类的 字号大小 */
@@ -34,8 +101,8 @@
 }
 
 
-/* my1类, 专门用于表格 */
 
+/* my1类, 专门用于表格 */
 .my3 {
     font-size: 12;
     /* 设置my1类的 字号大小 */
@@ -52,17 +119,19 @@
     /* 白色字体 */
     background-color: #e34838;
     /* 红色背景 */
+
 }
 
 
 /*斜体字*/
-
 em {
     color: rgb(0, 0, 0);
     /* 白色字体 */
     background-color: #98beb47a;
     /* 红色背景 */
 }
+
+
 
 .underline {
     text-decoration: underline;
@@ -95,4 +164,10 @@ p {
   border: 1px solid #000;
   padding: 2px 2px;
   border-radius: 0px;
+}
+
+
+@media print {
+    #toc { display: none; }
+    body { margin-left: 0; }
 }
