@@ -33,20 +33,7 @@
 
 
 
-/* 修正版本：强制让 TOC 固定在页面左侧，而不受 content 限制 */
-#toc, .toc {
-    position: fixed !important;
-    top: 0 !important;
-    left: 0 !important;
-    width: 250px !important;
-    height: 100vh !important;
-    overflow-y: auto !important;
-    background-color: #f8f9fa !important;
-    border-right: 1px solid #ddd !important;
-    padding: 20px !important;
-    box-sizing: border-box !important;
-    z-index: 9999 !important;
-}
+
 
 /* 移动正文，避免被 TOC 遮挡 */
 body {
@@ -57,13 +44,19 @@ body {
 #content {
     margin-left: 270px !important;  /* 只移动正文 */
     padding: 20px !important;
+    
+    /* === 关键修正：新增/修改以下行 === */
+    /* 计算可用空间：100vw（视口宽度）减去 270px 的 TOC 宽度。 
+       同时减去左右 20px 的 padding (20px * 2 = 40px) */
+    max-width: calc(100vw - 270px - 40px) !important; 
+    
+    /* 强制隐藏任何可能残留的水平滚动条，交给子元素处理 */
+    overflow-x: hidden !important;
 }
 
-/* 调整目录列表美观 */
-#toc ul, .toc ul {
-    list-style: none !important;
-    padding-left: 10px !important;
-}
+
+
+
 #toc ul li, .toc ul li {
     margin: 5px 0 !important;
 }
@@ -167,7 +160,126 @@ p {
 }
 
 
+
+
+
+
+
+/* 针对所有表格容器 */
+.tableblock {
+    /* 1. 确保表格容器不会超过其父元素（#content）的可用宽度 */
+    max-width: 100% !important; 
+    
+    /* 2. 当表格内容超出时，让容器自身出现横向滚动条 */
+    overflow-x: auto !important; 
+    
+    /* 3. 隐藏垂直滚动条，如果不需要的话 */
+    overflow-y: hidden !important; 
+}
+
+/* 确保表格自身不要被强制设定为 100% 宽度，使其能超宽 */
+table {
+    width: auto !important; 
+    min-width: 100% !important; /* 如果表格内容少，至少占满容器 */
+    /* 移除任何可能固定表格宽度的设置 */
+}
+
+
+
+
+
+
+
+/* 1) TOC 容器：允许横向 + 纵向滚动（出现横向滚动条在底部） */
+#toc, .toc {
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 250px !important;
+    height: 100vh !important;
+    /* 允许横向与纵向滚动（必要时显示横向滚动条） */
+    overflow-x: auto !important;
+    overflow-y: auto !important;
+    background-color: #f8f9fa !important;
+    border-right: 1px solid #ddd !important;
+    padding: 20px !important;
+    box-sizing: border-box !important;
+    z-index: 9999 !important;
+    /* 防止滚动时出现水平滚动条遮挡最后一行（可选） */
+    -webkit-overflow-scrolling: touch !important;
+}
+
+/* 2) 目录项不换行：整行显示，文本超宽时可横向滚动 */
+#toc a, .toc a {
+    display: inline-block !important;    /* 保证 white-space 生效 */
+    white-space: nowrap !important;       /* 禁止换行 */
+    overflow: visible !important;         /* 让文字超出时不会被截断 */
+    text-overflow: clip !important;       /* 不显示省略号，直接横向滚动 */
+    text-decoration: none !important;
+    color: #333 !important;
+}
+
+/* 如果你希望链接整体是块级元素（整行可点击），也可使用：
+#toc a { display: block; white-space: nowrap; }
+*/
+
+/* 3) 为嵌套 UL 保留缩进，但不要让它把内容挤成多行 */
+#toc ul { padding-left: 0 !important; list-style: none !important; }
+#toc ul ul { padding-left: 48px !important; }
+#toc ul ul ul { padding-left: 48px !important; }
+#toc ul ul ul ul { padding-left: 48px !important; }
+
+/* 4) 条目行高与间距微调（可按需调整） */
+#toc li { margin: 4px 0 !important; line-height: 1.2 !important; }
+
+
+
+
+
+/* 打印模式下调整 TOC 位置 */
 @media print {
-    #toc { display: none; }
-    body { margin-left: 0; }
+
+  /* 1️⃣ 让 TOC 出现在页面顶部 */
+  #toc, .toc {
+    display: block !important;            /* 显示 TOC */
+    position: relative !important;        /* 不固定在侧边，而是随页面流动 */
+    width: 100% !important;               /* 占满页面宽度 */
+    height: auto !important;              /* 高度自适应内容 */
+    background-color: #f8f9fa !important;
+    border: 1px solid #ddd !important;
+    padding: 10px 20px !important;
+    margin-bottom: 20px !important;       /* 和正文间隔 */
+    box-sizing: border-box !important;
+    overflow: visible !important;
+  }
+
+  /* 2️⃣ 调整 TOC 内部列表格式，使其水平或紧凑显示 */
+  #toc ul, .toc ul {
+    list-style: none !important;
+    padding-left: 0 !important;
+  }
+
+  #toc li, .toc li {
+    display: inline-block !important;     /* 可让目录横向排列（可改为 block） */
+    margin-right: 15px !important;
+  }
+
+  /* 3️⃣ 让正文不被挤压 */
+  #content {
+    margin-left: 0 !important;            /* 取消左边距 */
+    padding-top: 10px !important;
+  }
+
+  /* 4️⃣ 页面背景设为白色（打印友好） */
+  body {
+    background: white !important;
+  }
+  
+  
+  
+  /* 确保打印 PDF 时目录的链接保留可点击 */
+  a[href^="#"] {
+    text-decoration: underline !important;
+    color: blue !important;
+  }
 }
