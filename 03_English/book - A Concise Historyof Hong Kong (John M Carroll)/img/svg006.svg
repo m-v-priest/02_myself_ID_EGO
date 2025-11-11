@@ -1,0 +1,107 @@
+<svg width="717" height="531" viewBox="0 0 717 531" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs/>
+    <g transform="translate(-2886.00,-1152.00)">
+        <g transform="translate(2887.00,1210.00)" id="shape1">
+            <path fill="#ffffff" fill-rule="nonzero" d="M715.0,472.0L715.0,.0L.0,.0L.0,472.0L715.0,472.0z" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:12.00pt;font-weight:bold" xml:space="preserve">
+                <tspan x="4.0" y="21.0">Commonwealth citizen (父集)</tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.0" y="41.0">英联邦公民</tspan>
+            </text>
+        </g>
+        <g transform="translate(3382.00,1286.00)" id="shape2">
+            <path fill="#f5cfcf" fill-rule="nonzero" d="M170.0,207.0L170.0,.0L.0,.0L.0,207.0L170.0,207.0z" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan style="fill:#c00000" x="4.0" y="19.0">独立国家</tspan>
+                <tspan x="4.0" y="57.0">加拿大、</tspan>
+                <tspan x="4.0" y="76.0">澳大利亚、新西兰、</tspan>
+                <tspan x="4.0" y="95.0">印度、巴基斯坦、南非等</tspan>
+            </text>
+        </g>
+        <g transform="translate(2936.00,1153.00)" id="shape3">
+            <path fill="#d7d7d7" fill-rule="nonzero" d="M195.0,57.0L195.0,.0L.0,.0L.0,57.0L195.0,57.0z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="4.0" y="19.0">Commonwealth Immigrants </tspan>
+                <tspan x="4.0" y="38.0">Act 1962 (1962年联邦移民法)</tspan>
+            </text>
+        </g>
+        <g transform="translate(3164.70,1153.00)" id="shape4">
+            <path fill="#cfe9d8" fill-rule="nonzero" d="M116.4,48.0L116.4,.0L.0,.0L.0,48.0L116.4,48.0z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="4.2" y="19.0">有居英权</tspan>
+                <tspan x="4.2" y="38.0">Right of Abode</tspan>
+            </text>
+        </g>
+        <g transform="translate(3285.35,1153.00)" id="shape5">
+            <path fill="#f5cfcf" fill-rule="nonzero" d="M116.4,48.0L116.4,.0L.0,.0L.0,48.0L116.4,48.0z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="4.2" y="19.0">无居英权</tspan>
+            </text>
+        </g>
+        <g transform="translate(2936.00,1286.00)" id="shape6">
+            <path fill="none" stroke-width="3" d="M413.0,377.0L413.0,.0L.0,.0L.0,377.0L413.0,377.0z" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:12.00pt;font-weight:bold" xml:space="preserve">
+                <tspan x="4.0" y="21.0">CUKC (子集)</tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.0" y="41.0">Citizen of the United Kingdom and Colonies </tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.0" y="60.0">英国及殖民地公民</tspan>
+            </text>
+        </g>
+        <g transform="translate(2957.24,1373.35)" id="shape7">
+            <path fill="#cfe9d8" fill-rule="nonzero" d="M173.8,185.6L173.8,.0L.0,.0L.0,185.6L173.8,185.6z" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="4.4" y="19.0">英国本土</tspan>
+                <tspan x="4.4" y="57.0">England, Scotland, Wales, </tspan>
+                <tspan x="4.4" y="76.0">Northern Ireland</tspan>
+            </text>
+        </g>
+        <g transform="translate(3155.50,1373.68)" id="shape8">
+            <path fill="#f5cfcf" fill-rule="nonzero" d="M170.0,186.6L170.0,.0L.0,.0L.0,186.6L170.0,186.6z" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan style="fill:#c00000" x="4.5" y="19.0">未独立</tspan>
+                <tspan x="4.5" y="38.0">的殖民地 / 属地</tspan>
+                <tspan x="4.5" y="76.0">香港、直布罗陀、百慕大、</tspan>
+                <tspan x="4.5" y="95.0">开曼群岛, 马耳他等</tspan>
+            </text>
+        </g>
+        <g transform="translate(2986.00,1474.00)" id="group9">
+            <path fill="#42c181" transform="translate(0.00,17.32)" fill-rule="nonzero" id="shape10" d="M22.3,.0L15.4,.0L8.5,.0C3.4,.0,.0,4.1,.0,7.9L.0,26.5C.0,30.1,5.7,30.1,5.7,26.5L5.7,9.3L6.8,9.3L6.8,56.0C6.8,61.0,14.5,60.8,14.7,56.0L14.7,29.1L15.9,29.1L16.1,29.1L16.1,56.0C16.4,61.1,24.0,60.6,24.0,56.0L24.0,9.3L24.9,9.3L24.9,26.5C24.9,30.1,30.8,30.1,30.8,26.5L30.8,7.9C30.8,4.1,27.4,.0,22.3,.0L22.3,.0z" stroke="#42c181"/>
+            <path fill="#42c181" transform="translate(7.65,0.00)" fill-rule="nonzero" id="shape11" d="M.0,7.8C.0,3.5,3.5,.0,7.8,.0C12.0,.0,15.5,3.5,15.5,7.8C15.5,12.1,12.0,15.5,7.8,15.5C3.5,15.5,.0,12.1,.0,7.8z" stroke="#42c181"/>
+        </g>
+        <g transform="translate(3030.20,1474.00)" id="group12">
+            <g transform="translate(0.00,-0.00)" id="group13">
+                <path fill="#c00000" transform="translate(0.00,17.32)" fill-rule="nonzero" id="shape14" d="M22.3,.0L15.4,.0L8.5,.0C3.4,.0,.0,4.1,.0,7.9L.0,26.5C.0,30.1,5.7,30.1,5.7,26.5L5.7,9.3L6.8,9.3L6.8,56.0C6.8,61.0,14.5,60.8,14.7,56.0L14.7,29.1L15.9,29.1L16.1,29.1L16.1,56.0C16.4,61.1,24.0,60.6,24.0,56.0L24.0,9.3L24.9,9.3L24.9,26.5C24.9,30.1,30.8,30.1,30.8,26.5L30.8,7.9C30.8,4.1,27.4,.0,22.3,.0L22.3,.0z" stroke="#c00000"/>
+                <path fill="#c00000" transform="translate(7.65,0.00)" fill-rule="nonzero" id="shape15" d="M.0,7.8C.0,3.5,3.5,.0,7.8,.0C12.0,.0,15.5,3.5,15.5,7.8C15.5,12.1,12.0,15.5,7.8,15.5C3.5,15.5,.0,12.1,.0,7.8z" stroke="#c00000"/>
+            </g>
+            <g transform="translate(0.00,23.10)" id="shape16">
+                <path fill="#42c181" fill-rule="nonzero" d="M.0,15.4C.0,6.9,6.9,.0,15.4,.0C23.9,.0,30.8,6.9,30.8,15.4C30.8,23.9,23.9,30.8,15.4,30.8C6.9,30.8,.0,23.9,.0,15.4z" stroke="#323232"/>
+                <text style="fill:#ffffff;font-family:Microsoft YaHei;font-size:14.00pt;font-weight:bold" xml:space="preserve">
+                    <tspan x="9.4" y="22.4">P</tspan>
+                </text>
+            </g>
+        </g>
+        <g transform="translate(3068.20,1474.00)" id="group17">
+            <g id="group18">
+                <path fill="#c00000" transform="translate(0.00,17.32)" fill-rule="nonzero" id="shape19" d="M22.3,.0L15.4,.0L8.5,.0C3.4,.0,.0,4.1,.0,7.9L.0,26.5C.0,30.1,5.7,30.1,5.7,26.5L5.7,9.3L6.8,9.3L6.8,56.0C6.8,61.0,14.5,60.8,14.7,56.0L14.7,29.1L15.9,29.1L16.1,29.1L16.1,56.0C16.4,61.1,24.0,60.6,24.0,56.0L24.0,9.3L24.9,9.3L24.9,26.5C24.9,30.1,30.8,30.1,30.8,26.5L30.8,7.9C30.8,4.1,27.4,.0,22.3,.0L22.3,.0z" stroke="#c00000"/>
+                <path fill="#c00000" transform="translate(7.65,0.00)" fill-rule="nonzero" id="shape20" d="M.0,7.8C.0,3.5,3.5,.0,7.8,.0C12.0,.0,15.5,3.5,15.5,7.8C15.5,12.1,12.0,15.5,7.8,15.5C3.5,15.5,.0,12.1,.0,7.8z" stroke="#c00000"/>
+            </g>
+            <g transform="translate(0.00,23.10)" id="shape21">
+                <path fill="#42c181" fill-rule="nonzero" d="M.0,15.4C.0,6.9,6.9,.0,15.4,.0C23.9,.0,30.8,6.9,30.8,15.4C30.8,23.9,23.9,30.8,15.4,30.8C6.9,30.8,.0,23.9,.0,15.4z" stroke="#323232"/>
+                <text style="fill:#ffffff;font-family:Microsoft YaHei;font-size:6.00pt;font-weight:bold" xml:space="preserve">
+                    <tspan x="5.4" y="13.4">1960</tspan>
+                    <tspan x="11.4" y="24.4">前</tspan>
+                </text>
+            </g>
+        </g>
+        <g transform="translate(3100.20,1569.00)" id="group22">
+            <g id="group23">
+                <path fill="#c00000" transform="translate(0.00,17.32)" fill-rule="nonzero" id="shape24" d="M22.3,.0L15.4,.0L8.5,.0C3.4,.0,.0,4.1,.0,7.9L.0,26.5C.0,30.1,5.7,30.1,5.7,26.5L5.7,9.3L6.8,9.3L6.8,56.0C6.8,61.0,14.5,60.8,14.7,56.0L14.7,29.1L15.9,29.1L16.1,29.1L16.1,56.0C16.4,61.1,24.0,60.6,24.0,56.0L24.0,9.3L24.9,9.3L24.9,26.5C24.9,30.1,30.8,30.1,30.8,26.5L30.8,7.9C30.8,4.1,27.4,.0,22.3,.0L22.3,.0z" stroke="#c00000"/>
+                <path fill="#c00000" transform="translate(7.65,0.00)" fill-rule="nonzero" id="shape25" d="M.0,7.8C.0,3.5,3.5,.0,7.8,.0C12.0,.0,15.5,3.5,15.5,7.8C15.5,12.1,12.0,15.5,7.8,15.5C3.5,15.5,.0,12.1,.0,7.8z" stroke="#c00000"/>
+            </g>
+            <g transform="translate(0.00,23.10)" id="shape26">
+                <path fill="#c00000" fill-rule="nonzero" d="M.0,15.4C.0,6.9,6.9,.0,15.4,.0C23.9,.0,30.8,6.9,30.8,15.4C30.8,23.9,23.9,30.8,15.4,30.8C6.9,30.8,.0,23.9,.0,15.4z" stroke="#323232"/>
+                <text style="fill:#ffffff;font-family:Microsoft YaHei;font-size:14.00pt;font-weight:bold" xml:space="preserve">
+                    <tspan x="9.4" y="22.4">P</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

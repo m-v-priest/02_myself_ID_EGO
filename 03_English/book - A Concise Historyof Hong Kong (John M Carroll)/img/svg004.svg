@@ -1,0 +1,381 @@
+<svg width="1653" height="2381" viewBox="0 0 1653 2381" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs/>
+    <g transform="translate(-713.29,-1.65)">
+        <g transform="translate(1337.52,94.00)" id="shape1">
+            <path fill="#ffffff" fill-rule="nonzero" d="M666.0,350.0L666.0,.0L.0,.0L.0,350.0L666.0,350.0z" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:12.00pt;font-weight:bold" xml:space="preserve">
+                <tspan x="4.0" y="21.0">Commonwealth citizen</tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.0" y="41.0">英联邦公民</tspan>
+            </text>
+        </g>
+        <g transform="translate(1386.81,180.00)" id="shape2">
+            <path fill="#ffffff" stroke-width="3" fill-rule="nonzero" d="M363.7,226.0L363.7,.0L.0,.0L.0,226.0L363.7,226.0z" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:12.00pt;font-weight:bold" xml:space="preserve">
+                <tspan x="4.4" y="21.0">CUKC</tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.4" y="41.0">Citizen of the United Kingdom and Colonies </tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.4" y="60.0">英国及殖民地公民</tspan>
+            </text>
+        </g>
+        <g transform="translate(1405.52,267.35)" id="shape3">
+            <path fill="#cfe9d8" fill-rule="nonzero" d="M114.0,110.6L114.0,.0L.0,.0L.0,110.6L114.0,110.6z" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="4.0" y="19.0">英国本土</tspan>
+                <tspan x="4.0" y="57.0"> England, </tspan>
+                <tspan x="4.0" y="76.0">Scotland, Wales, </tspan>
+                <tspan x="4.0" y="95.0">Northern Ireland</tspan>
+            </text>
+        </g>
+        <g transform="translate(1546.02,267.35)" id="shape4">
+            <path fill="#cfe9d8" fill-rule="nonzero" d="M181.5,110.6L181.5,.0L.0,.0L.0,110.6L181.5,110.6z" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan style="fill:#c00000" x="4.3" y="19.0">未独立</tspan>
+                <tspan x="4.3" y="38.0">的殖民地</tspan>
+                <tspan x="4.3" y="76.0">香港、直布罗陀、百慕大、</tspan>
+                <tspan x="4.3" y="95.0">开曼群岛, 马耳他等</tspan>
+            </text>
+        </g>
+        <g transform="translate(1783.52,180.00)" id="shape5">
+            <path fill="#cfe9d8" fill-rule="nonzero" d="M170.0,111.0L170.0,.0L.0,.0L.0,111.0L170.0,111.0z" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan style="fill:#c00000" x="4.0" y="19.0">独立国家</tspan>
+                <tspan x="4.0" y="57.0">加拿大、</tspan>
+                <tspan x="4.0" y="76.0">澳大利亚、新西兰、</tspan>
+                <tspan x="4.0" y="95.0">印度、巴基斯坦、南非等</tspan>
+            </text>
+        </g>
+        <g transform="translate(1337.52,2.65)" id="shape6">
+            <path fill="#cfe9d8" fill-rule="nonzero" d="M86.5,53.6L86.5,.0L.0,.0L.0,53.6L86.5,53.6z" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="4.3" y="19.0">有居英权</tspan>
+            </text>
+        </g>
+        <g transform="translate(1454.77,2.65)" id="shape7">
+            <path fill="#f5cfcf" fill-rule="nonzero" d="M86.5,53.6L86.5,.0L.0,.0L.0,53.6L86.5,53.6z" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="4.3" y="19.0">无居英权</tspan>
+            </text>
+        </g>
+        <g transform="translate(1141.52,94.00)" id="shape8">
+            <path fill="#d7d7d7" fill-rule="nonzero" d="M195.0,70.0L195.0,.0L.0,.0L.0,70.0L195.0,70.0z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="4.0" y="19.0">British Nationality Act 1948</tspan>
+                <tspan x="4.0" y="38.0">1948 英国国籍法</tspan>
+            </text>
+        </g>
+        <g transform="translate(1141.52,1020.00)" id="shape9">
+            <path fill="#d7d7d7" fill-rule="nonzero" d="M195.0,70.0L195.0,.0L.0,.0L.0,70.0L195.0,70.0z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="4.0" y="19.0">British Nationality Act 1981</tspan>
+                <tspan x="4.0" y="38.0">1981 英国国籍法</tspan>
+                <tspan x="4.0" y="57.0">(于1983年1月1日生效)</tspan>
+            </text>
+        </g>
+        <g transform="translate(1337.52,1020.00)" id="shape10">
+            <path fill="#cfe9d8" fill-rule="nonzero" d="M220.0,148.6L220.0,.0L.0,.0L.0,148.6L220.0,148.6z" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:12.00pt;font-weight:bold" xml:space="preserve">
+                <tspan x="4.0" y="21.0">British Citizen (BC) </tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.0" y="41.0">英國公民</tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.0" y="79.0">英国本土出生、定居或入籍者</tspan>
+                <tspan style="fill:#c00000;font-size:10.00pt;font-weight:normal" x="4.0" y="117.0">护照上写明：“British Citizen”</tspan>
+            </text>
+        </g>
+        <g transform="translate(1592.64,1020.00)" id="shape11">
+            <path fill="#f5cfcf" fill-rule="nonzero" d="M355.7,765.6L355.7,.0L.0,.0L.0,765.6L355.7,765.6z" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:12.00pt;font-weight:bold" xml:space="preserve">
+                <tspan x="4.3" y="21.0">British Dependent Territories Citizen </tspan>
+                <tspan x="4.3" y="43.0">(BDTC) </tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.3" y="63.0">英國屬土公民</tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.3" y="101.0">“英国属土（British Dependent Territories / British </tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.3" y="120.0">Overseas Territories）”在实质上等于殖民地（colony）, </tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.3" y="139.0">但它们</tspan>
+                <tspan style="fill:#c00000;font-size:10.00pt;font-weight:normal" x="43.3">有一定自治权</tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="121.3">. (而老的殖民地是无自治权的)</tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.3" y="177.0">----------------------------</tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.3" y="196.0">“殖民地（colony）”是旧帝国时代的直白称呼；</tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.3" y="215.0">“属地（dependent territory）”是1970年代后英国在联合</tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.3" y="234.0">国反殖民压力下，采用的政治上更中性、现代化的用语；</tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.3" y="272.0">即: 1960年代后，联合国通过了《给予殖民地国家和人民独</tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.3" y="291.0">立宣言》（1960年联合国第1514号决议）。</tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.3" y="310.0">英国受到巨大国际压力，被要求“非殖民化</tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.3" y="329.0">（decolonization）”。</tspan>
+                <tspan style="fill:#c00000;font-size:10.00pt;font-weight:normal" x="4.3" y="367.0">为了避免被贴上“殖民帝国未解体”的标签，英国开始系统</tspan>
+                <tspan style="fill:#c00000;font-size:10.00pt;font-weight:normal" x="4.3" y="386.0">改名：</tspan>
+                <tspan style="fill:#c00000;font-size:10.00pt;font-weight:normal" x="4.3" y="405.0">不再称为 colonies（殖民地），</tspan>
+                <tspan style="fill:#c00000;font-size:10.00pt;font-weight:normal" x="4.3" y="424.0">而统一称为 Dependent Territories（属地）。</tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.3" y="462.0">📍1971年，香港和澳门就被联合国从“殖民地名单”中删</tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.3" y="481.0">除；</tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.3" y="500.0">📍1981年英国国籍法中，也统一用“Dependent </tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.3" y="519.0">Territories”一词。</tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.3" y="538.0">----------------------------</tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.3" y="579.0">殖民地/属地居民</tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.3" y="598.0">（如香港, 直布罗陀, 百慕大, 开曼群岛, 福克兰群岛等）</tspan>
+                <tspan style="fill:#c00000;font-size:10.00pt;font-weight:normal" x="4.3" y="636.0">在1983年至1997年之间，香港居民的英国护照上写的是：</tspan>
+                <tspan style="fill:#c00000;font-size:10.00pt;font-weight:normal" x="4.3" y="655.0">“British Dependent Territories Citizen — Hong </tspan>
+                <tspan style="fill:#c00000;font-size:10.00pt;font-weight:normal" x="4.3" y="674.0">Kong”。1997年香港回归后，此身份终止。</tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.3" y="712.0">这些属地没有英国居英权. 只有极少数例外</tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.3" y="731.0">（例如直布罗陀居民）拥有居英权。</tspan>
+            </text>
+        </g>
+        <g transform="translate(1981.58,1020.00)" id="shape12">
+            <path fill="#f5cfcf" fill-rule="nonzero" d="M383.9,466.0L383.9,.0L.0,.0L.0,466.0L383.9,466.0z" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:12.00pt;font-weight:bold" xml:space="preserve">
+                <tspan x="4.5" y="21.0">British Overseas Citizen </tspan>
+                <tspan x="4.5" y="43.0">(BOC) </tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.5" y="63.0">英國海外公民</tspan>
+                <tspan style="fill:#000000;font-size:10.00pt;font-weight:normal" x="4.5" y="101.0">Overseas Territory 是英国主权下的海外地区，通常享</tspan>
+                <tspan style="fill:#c00000;font-size:10.00pt;font-weight:normal" x="315.5">高度自治</tspan>
+                <tspan style="fill:#000000;font-size:10.00pt;font-weight:normal" x="367.5">.</tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.5" y="120.0">“海外领土（overseas territory）”则是2002年后的新称呼，带</tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.5" y="139.0">有“伙伴”“自治”的味道。</tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.5" y="180.0">曾为 CUKC，</tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.5" y="199.0">但未属于英国本土或任何属地者</tspan>
+                <tspan style="fill:#c00000;font-size:10.00pt;font-weight:normal" x="4.5" y="237.0">专为那些在殖民地独立后</tspan>
+                <tspan style="fill:#c00000;font-size:10.00pt;font-weight:normal" x="4.5" y="256.0">未获得新国家国籍的人保留。</tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.5" y="294.0">例如：</tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.5" y="332.0">肯尼亚独立后，一些原属英国国籍的印度裔居民, 不被肯尼亚承认</tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.5" y="351.0">国籍；</tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.5" y="370.0">他们就成了 BOC。</tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.5" y="408.0">马来西亚独立后，部分在马来西亚出生的旧英籍华人后裔，也成</tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.5" y="427.0">为 BOC。</tspan>
+            </text>
+        </g>
+        <g transform="translate(1592.64,1860.00)" id="shape13">
+            <path fill="#f5cfcf" fill-rule="nonzero" d="M355.7,522.0L355.7,.0L.0,.0L.0,522.0L355.7,522.0z" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:12.00pt;font-weight:bold" xml:space="preserve">
+                <tspan x="4.3" y="21.0">2002年改称为 BOTC, </tspan>
+                <tspan x="4.3" y="43.0">British Overseas Territories Citizen</tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.3" y="82.0">适用于英国仍持有的“属地”（当时叫“Dependent </tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.3" y="101.0">Territories”）。</tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.3" y="139.0">----------------------------</tspan>
+                <tspan style="fill:#c00000;font-size:10.00pt;font-weight:normal" x="4.3" y="158.0">2002年，《英国海外领土法》（British Overseas </tspan>
+                <tspan style="fill:#c00000;font-size:10.00pt;font-weight:normal" x="4.3" y="177.0">Territories Act 2002）通过，</tspan>
+                <tspan style="fill:#c00000;font-size:10.00pt;font-weight:normal" x="4.3" y="196.0">把 “Dependent Territories” 改称为 “Overseas </tspan>
+                <tspan style="fill:#c00000;font-size:10.00pt;font-weight:normal" x="4.3" y="215.0">Territories”。</tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.3" y="253.0">新称呼强调：</tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.3" y="272.0">“这些领地与英国是平等伙伴（equal partners in a </tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.3" y="291.0">modern British family）。”</tspan>
+                <tspan style="fill:#c00000;font-size:10.00pt;font-weight:normal" x="4.3" y="329.0">同时，给予这些领地公民（BOTC）自动获得英国公民</tspan>
+                <tspan style="fill:#c00000;font-size:10.00pt;font-weight:normal" x="4.3" y="348.0">（British Citizen）身份。</tspan>
+                <tspan style="fill:#c00000;font-size:10.00pt;font-weight:normal" x="4.3" y="369.0">(</tspan>
+                <tspan style="fill:#c00000" x="8.3">没独立出去的"直属殖民地"人民, 获得了主人的</tspan>
+                <tspan style="fill:#c00000" x="4.3" y="391.0">身份 -- 英国国籍</tspan>
+                <tspan style="fill:#c00000;font-size:10.00pt;font-weight:normal" x="124.3">)</tspan>
+                <tspan style="fill:#c00000;font-size:10.00pt;font-weight:normal" x="4.3" y="411.0">（但注意：香港已回归中国，因此香港人不包括在内。）</tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.3" y="430.0">----------------------------</tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.3" y="487.0">例如：开曼群岛、直布罗陀、</tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.3" y="506.0">福克兰群岛、百慕大、英属维尔京群岛等。</tspan>
+            </text>
+        </g>
+        <g transform="translate(1770.48,1785.65)" id="shape14">
+            <path fill="none" d="M.0,.0L.0,68.4" stroke="#191919"/>
+            <path fill="#191919" stroke-width="1" d="M3.0,68.4L.0,74.4L-3.0,68.4L3.0,68.4" stroke-linecap="round" stroke="#191919"/>
+        </g>
+        <g transform="translate(1395.11,1860.00)" id="shape15">
+            <path fill="#d7d7d7" fill-rule="nonzero" d="M195.0,70.0L195.0,.0L.0,.0L.0,70.0L195.0,70.0z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="4.0" y="19.0">British Overseas Territories </tspan>
+                <tspan x="4.0" y="38.0">Act 2002</tspan>
+                <tspan x="4.0" y="57.0">2002 英国海外领土法</tspan>
+            </text>
+        </g>
+        <g transform="translate(1592.64,1994.15)" id="shape16">
+            <path fill="none" d="M.0,.0L-229.5,.0L-229.5,-322.2L-145.1,-322.2L-145.1,-819.5" stroke="#191919"/>
+            <path fill="#191919" stroke-width="1" d="M-148.1,-819.5L-145.1,-825.5L-142.1,-819.5L-148.1,-819.5" stroke-linecap="round" stroke="#191919"/>
+            <rect width="58.0" height="19.0" fill="#ffffff" x="-375.0" y="-256.0"/>
+            <rect width="117.0" height="19.0" fill="#ffffff" x="-317.0" y="-256.0"/>
+            <rect width="289.0" height="19.0" fill="#ffffff" x="-375.0" y="-237.0"/>
+            <rect width="233.0" height="19.0" fill="#ffffff" x="-375.0" y="-218.0"/>
+            <rect width="169.0" height="19.0" fill="#ffffff" x="-375.0" y="-199.0"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan style="fill:#c00000" x="-375.0" y="-241.0">2002年，</tspan>
+                <tspan x="-317.0">《英国海外领土法》</tspan>
+                <tspan x="-375.0" y="-222.0">（British Overseas Territories Act 2002）通过，</tspan>
+                <tspan style="fill:#c00000" x="-375.0" y="-203.0">所有仍属英国的领地（不含香港）BDTC </tspan>
+                <tspan style="fill:#c00000" x="-375.0" y="-184.0">自动获 British Citizen 身份。</tspan>
+            </text>
+        </g>
+        <g transform="translate(1141.52,513.00)" id="shape17">
+            <path fill="#d7d7d7" fill-rule="nonzero" d="M195.0,187.0L195.0,.0L.0,.0L.0,187.0L195.0,187.0z"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="4.0" y="19.0">Commonwealth Immigrants </tspan>
+                <tspan x="4.0" y="38.0">Act 1962 </tspan>
+                <tspan x="4.0" y="57.0">(1962年联邦移民法)</tspan>
+                <tspan x="4.0" y="95.0">所有Commonwealth citizens </tspan>
+                <tspan x="4.0" y="114.0">英联邦公民（包括 CUKCs），</tspan>
+                <tspan x="4.0" y="133.0">如果没有“与英国的实质联</tspan>
+                <tspan x="4.0" y="152.0">系”（relevant connection），</tspan>
+                <tspan x="4.0" y="171.0">都将受入境管制。</tspan>
+            </text>
+        </g>
+        <g transform="translate(1337.52,513.00)" id="shape18">
+            <path fill="#ffffff" fill-rule="nonzero" d="M666.0,350.0L666.0,.0L.0,.0L.0,350.0L666.0,350.0z" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:12.00pt;font-weight:bold" xml:space="preserve">
+                <tspan x="4.0" y="21.0">Commonwealth citizen</tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.0" y="41.0">英联邦公民</tspan>
+            </text>
+        </g>
+        <g transform="translate(1386.81,599.00)" id="shape19">
+            <path fill="#ffffff" stroke-width="3" fill-rule="nonzero" d="M363.7,226.0L363.7,.0L.0,.0L.0,226.0L363.7,226.0z" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:12.00pt;font-weight:bold" xml:space="preserve">
+                <tspan x="4.4" y="21.0">CUKC</tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.4" y="41.0">Citizen of the United Kingdom and Colonies </tspan>
+                <tspan style="font-size:10.00pt;font-weight:normal" x="4.4" y="60.0">英国及殖民地公民</tspan>
+            </text>
+        </g>
+        <g transform="translate(1405.52,686.35)" id="shape20">
+            <path fill="#cfe9d8" fill-rule="nonzero" d="M114.0,110.6L114.0,.0L.0,.0L.0,110.6L114.0,110.6z" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="4.0" y="19.0">英国本土</tspan>
+                <tspan x="4.0" y="57.0"> England, </tspan>
+                <tspan x="4.0" y="76.0">Scotland, Wales, </tspan>
+                <tspan x="4.0" y="95.0">Northern Ireland</tspan>
+            </text>
+        </g>
+        <g transform="translate(1546.02,686.35)" id="shape21">
+            <path fill="#f5cfcf" fill-rule="nonzero" d="M181.5,110.6L181.5,.0L.0,.0L.0,110.6L181.5,110.6z" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan style="fill:#c00000" x="4.3" y="19.0">未独立</tspan>
+                <tspan x="4.3" y="38.0">的殖民地</tspan>
+                <tspan x="4.3" y="76.0">香港、直布罗陀、百慕大、</tspan>
+                <tspan x="4.3" y="95.0">开曼群岛, 马耳他等</tspan>
+            </text>
+        </g>
+        <g transform="translate(1783.52,599.00)" id="shape22">
+            <path fill="#f5cfcf" fill-rule="nonzero" d="M170.0,111.0L170.0,.0L.0,.0L.0,111.0L170.0,111.0z" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan style="fill:#c00000" x="4.0" y="19.0">独立国家</tspan>
+                <tspan x="4.0" y="57.0">加拿大、</tspan>
+                <tspan x="4.0" y="76.0">澳大利亚、新西兰、</tspan>
+                <tspan x="4.0" y="95.0">印度、巴基斯坦、南非等</tspan>
+            </text>
+        </g>
+        <g transform="translate(1670.52,444.00)" id="shape23">
+            <path fill="none" d="M.0,.0L.0,63.0" stroke="#191919"/>
+            <path fill="#191919" stroke-width="1" d="M3.0,63.0L.0,69.0L-3.0,63.0L3.0,63.0" stroke-linecap="round" stroke="#191919"/>
+        </g>
+        <g transform="translate(1459.63,797.00)" id="shape24">
+            <path fill="none" d="M.0,.0L.0,191.0L-12.1,191.0L-12.1,217.0" stroke="#191919"/>
+            <path fill="#191919" stroke-width="1" d="M-9.1,217.0L-12.1,223.0L-15.1,217.0L-9.1,217.0" stroke-linecap="round" stroke="#191919"/>
+        </g>
+        <g transform="translate(1628.52,797.00)" id="shape25">
+            <path fill="none" d="M.0,.0L.0,191.0L142.0,191.0L142.0,217.0" stroke="#191919"/>
+            <path fill="#191919" stroke-width="1" d="M145.0,217.0L142.0,223.0L139.0,217.0L145.0,217.0" stroke-linecap="round" stroke="#191919"/>
+        </g>
+        <g transform="translate(1690.68,797.00)" id="shape26">
+            <path fill="none" d="M.0,.0L.0,167.0L482.9,167.0L482.9,217.0" stroke="#191919"/>
+            <path fill="#191919" stroke-width="1" d="M485.9,217.0L482.9,223.0L479.9,217.0L485.9,217.0" stroke-linecap="round" stroke="#191919"/>
+        </g>
+        <g transform="translate(1337.52,888.00)" id="shape27">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:12.00pt" xml:space="preserve">
+                <tspan x="23.7" y="34.0">1983年（即1981年《英国国籍法》于1983年1月1日生效），</tspan>
+                <tspan style="fill:#c00000" x="102.2" y="55.0"> CUKC被废除，并分拆成三个新身份</tspan>
+                <tspan x="359.2">：</tspan>
+            </text>
+        </g>
+        <g transform="translate(714.29,513.00)" id="group28">
+            <g transform="translate(0.00,206.68)" id="shape29">
+                <path fill="#ffffff" fill-rule="nonzero" d="M.0,.0L419.7,.0L419.7,209.3L.0,209.3L.0,.0z" stroke="#323232"/>
+                <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                    <tspan x="139.9" y="19.0">Commonwealth citizen</tspan>
+                    <tspan x="177.4" y="38.0">英联邦公民</tspan>
+                </text>
+            </g>
+            <g transform="translate(11.86,269.00)" id="shape30">
+                <path fill="#ffffff" fill-rule="nonzero" d="M.0,.0L265.0,.0L265.0,118.3L.0,118.3L.0,.0z" stroke="#323232"/>
+                <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt;font-weight:bold" xml:space="preserve">
+                    <tspan x="114.0" y="19.0">CUKC</tspan>
+                </text>
+            </g>
+            <g transform="translate(30.86,311.00)" id="shape31">
+                <path fill="#cfe9d8" fill-rule="nonzero" d="M.0,.0L104.0,.0L104.0,56.0L.0,56.0L.0,.0z" stroke="#323232"/>
+                <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                    <tspan x="32.5" y="24.0">出生于</tspan>
+                    <tspan x="26.0" y="43.0">英国本土</tspan>
+                </text>
+            </g>
+            <g transform="translate(157.86,311.00)" id="shape32">
+                <path fill="#ffffff" fill-rule="nonzero" d="M.0,.0L104.0,.0L104.0,56.0L.0,56.0L.0,.0z" stroke="#323232"/>
+                <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                    <tspan x="6.5" y="24.0">未独立的殖民地</tspan>
+                    <tspan x="28.5" y="43.0">(香港等)</tspan>
+                </text>
+            </g>
+            <g transform="translate(304.86,300.17)" id="shape33">
+                <path fill="#ffffff" fill-rule="nonzero" d="M.0,.0L104.0,.0L104.0,56.0L.0,56.0L.0,.0z" stroke="#323232"/>
+                <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                    <tspan x="26.0" y="24.0">独立国家</tspan>
+                    <tspan x="22.0" y="43.0">(加拿大等)</tspan>
+                </text>
+            </g>
+            <g transform="translate(11.86,29.50)" id="shape34">
+                <path fill="#ffffff" fill-rule="nonzero" d="M.0,.0L215.2,.0L215.2,73.0L.0,73.0L.0,.0z" stroke="#323232"/>
+                <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt;font-weight:bold" xml:space="preserve">
+                    <tspan x="16.6" y="23.0">英国政府</tspan>
+                    <tspan style="font-weight:normal" x="68.6">（位于伦敦或爱尔兰）</tspan>
+                    <tspan style="font-weight:normal" x="49.1" y="42.0">（而非殖民地政府）</tspan>
+                    <tspan x="81.6" y="61.0">签发护照</tspan>
+                </text>
+            </g>
+            <g transform="translate(256.86,29.50)" id="shape35">
+                <path fill="#ffffff" fill-rule="nonzero" d="M.0,.0L142.0,.0L142.0,64.5L.0,64.5L.0,.0z" stroke="#323232"/>
+                <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt;font-weight:bold" xml:space="preserve">
+                    <tspan x="38.5" y="28.3">殖民地政府</tspan>
+                    <tspan x="45.0" y="47.3">签发护照</tspan>
+                </text>
+            </g>
+            <g transform="translate(119.48,102.50)" id="shape36">
+                <path fill="none" stroke-width="4" d="M.0,.0L.0,12.5L90.4,12.5L90.4,92.2" stroke="#42c181"/>
+                <path fill="#42c181" stroke-width="1" d="M96.4,92.2L90.4,104.2L84.4,92.2L96.4,92.2" stroke-linecap="round" stroke="#42c181"/>
+            </g>
+            <g transform="translate(327.86,94.00)" id="shape37">
+                <path fill="none" stroke-width="4" d="M.0,.0L.0,13.0L-94.1,13.0L-94.1,100.7" stroke="#c00000"/>
+                <path fill="#c00000" stroke-width="1" d="M-88.1,100.7L-94.1,112.7L-100.1,100.7L-88.1,100.7" stroke-linecap="round" stroke="#c00000"/>
+            </g>
+            <g transform="translate(352.71,94.00)" id="shape38">
+                <path fill="none" stroke-width="4" d="M.0,.0L.0,13.0L-57.9,13.0L-57.9,142.6L-75.9,142.6L-75.9,173.8" stroke="#c00000"/>
+                <path fill="#c00000" stroke-width="1" d="M-69.9,173.8L-75.9,185.8L-81.9,173.8L-69.9,173.8" stroke-linecap="round" stroke="#c00000"/>
+            </g>
+            <g transform="translate(96.45,102.50)" id="shape39">
+                <path fill="none" stroke-width="4" d="M.0,.0L.0,12.5L-69.6,12.5L-69.6,134.5L-0.1,134.5L-0.1,154.5" stroke="#42c181"/>
+                <path fill="#42c181" stroke-width="1" d="M5.9,154.5L-0.1,166.5L-6.1,154.5L5.9,154.5" stroke-linecap="round" stroke="#42c181"/>
+            </g>
+            <g transform="translate(58.86,123.00)" id="shape40">
+                <path fill="#cfe9d8" fill-rule="nonzero" d="M.0,.0L107.6,.0L107.6,28.0L.0,28.0L.0,.0z"/>
+                <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                    <tspan x="21.3" y="19.5">无入境管制</tspan>
+                </text>
+            </g>
+            <g transform="translate(285.36,123.00)" id="shape41">
+                <path fill="#f5cfcf" fill-rule="nonzero" d="M.0,.0L107.6,.0L107.6,28.0L.0,28.0L.0,.0z"/>
+                <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                    <tspan x="21.3" y="19.5">有入境管制</tspan>
+                </text>
+            </g>
+            <g transform="translate(58.86,0.00)" id="shape42">
+                <path fill="#cfe9d8" fill-rule="nonzero" d="M.0,.0L107.6,.0L107.6,28.0L.0,28.0L.0,.0z"/>
+                <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                    <tspan x="21.3" y="19.5">只认总公司</tspan>
+                </text>
+            </g>
+            <g transform="translate(274.05,0.00)" id="shape43">
+                <path fill="#f5cfcf" fill-rule="nonzero" d="M.0,.0L107.6,.0L107.6,28.0L.0,28.0L.0,.0z"/>
+                <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                    <tspan x="21.3" y="19.5">不认分公司</tspan>
+                </text>
+            </g>
+        </g>
+        <path fill="#ffffff" transform="matrix(0.00,1.00,-1.00,0.00,1257.0,705.0)" fill-rule="nonzero" id="shape44" d="M.0,.0L80.0,.0L80.0,80.0L92.0,80.0L68.0,104.0L44.0,80.0L56.0,80.0L56.0,24.0L.0,24.0" stroke="#323232"/>
+        <g transform="translate(714.29,945.00)" id="shape45">
+            <text style="fill:#c00000;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan x="4.4" y="19.0">可以简单理解成: </tspan>
+                <tspan x="4.4" y="38.0">-> 只要是英国政府颁发的签证, 就能自由进入英国. </tspan>
+                <tspan x="4.4" y="57.0">-> 如果是殖民政府颁发的签证, 就不能自由进入英国. </tspan>
+                <tspan x="4.4" y="95.0">换言之, 如果把英国比喻成"总公司", 殖民政府比喻成"分公司", </tspan>
+                <tspan x="4.4" y="114.0">就是: </tspan>
+                <tspan style="font-weight:bold" x="37.4">只认总公司, 不认分公司. </tspan>
+                <tspan x="4.4" y="133.0">-> 持总公司证件的人, 能自由进入总公司的大楼(英国境内). </tspan>
+                <tspan x="4.4" y="152.0">-> 持分公司证件的人, 就不能进入总公司的大楼(英国境内)</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
