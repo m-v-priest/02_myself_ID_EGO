@@ -10,6 +10,380 @@
 
 == 一些要預先知道的基本常識
 
+
+=== #★ 英国"移民法"的规定演变历程#
+
+https://www.gov.uk/types-of-british-nationality/british-national-overseas
+
+
+(注意, 本板块内容皆为 Chatham/gemini 解释, 需要进一步甄别真伪)
+
+image:/img/svg004.svg[,100%]
+
+'''
+
+==== British Nationality Act 1948 (1948 年《英国国籍法》)
+
+在 1948 年之前,
+所有大英帝国旗下的人（不论住在伦敦、香港、印度还是加拿大）在法律上都只是：“British subject”（英国臣民）. 他们理论上都效忠同一个君主，没有“国籍”之分。
+
+但二战后，帝国开始解体，独立国家出现。于是英国必须建立一个新体系，既保留象征上的“共同体关系”，又允许各成员国有自己的国籍。 +
+1948 年《英国国籍法》（British Nationality Act 1948）, 这部法律重新划分了国籍体系，诞生了两个关键概念：
+
+image:/img/svg005.svg[,100%]
+
+在<1962年联邦移民法>出臺之前, 所有 “英国及殖民地公民”（Citizen of the United Kingdom and Colonies, 简称 CUKC） 和 其他英联邦国家公民（Commonwealth citizens） —— 理论上都有“进入英国居住的自由”（right of entry）。 +
+这意味着：印度、巴基斯坦、牙买加、香港、新加坡、塞浦路斯等地的英联邦臣民，都能合法移民英国，不需签证。
+
+'''
+
+==== Commonwealth Immigrants Act 1962 (1962年联邦移民法)
+
+规定: “The Act specified that `主`all Commonwealth citizens, including citizens of the UK and Colonies (CUKCs), without a relevant connection (n.) to the UK `系` *were subject (a.) to* immigration control.”
+
+*所有英联邦公民（包括 CUKCs），如果没有“与英国的实质联系”（relevant connection），都将受入境管制。* 换言之，不再享有自动入境英国的权利。
+
+那么谁是“有联系者”（Exempt from control）? 只有下列几类人可以自由进入英国，不受移民管制：
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |实例
+
+|-> Commonwealth citizen born in the UK. +
+
+*在英國本土出生*（即英格蘭、蘇格蘭、威爾士、北愛爾蘭）的英聯邦公民。 +
+英国本土出生者，自然被视为“真正的英国人”, (哪怕他之後到其他英聯邦國家去.)
+|- 例1： 一名在伦敦出生的印度裔男子（其父母来自印度，但他出生时, 印度仍是英联邦成员国） +
+→ 他是 Commonwealth citizen，且出生在英国本土 +
+→ 可自由入境、居住、工作、无须许可。 +
+
+对比：
+
+- 若同一家庭的弟弟, 出生在印度新德里（即英国境外） +
+→ 他虽是英联邦公民，但无英国出生联系 +
+→ 自 1962 年后需申请入境许可（Entry Certificate）。
+
+说明：*任何英联邦国家的公民，只要出生在英国境内，就被视为“与英国有密切联系”。*
+
+|-> Commonwealth citizen /holding a passport /issued by the UK government in *either* the UK *or* Republic of Ireland. +
+
+#*他是英联邦公民, 但他的护照是由英国政府（位于伦敦或爱尔兰）签发.*# +
+护照由 UK Home Office 或 英国驻外使馆签发. +
+*这代表该人受英国中央政府直接保护，而不是殖民地政府*
+|- 例1： 一名在加拿大生活的前英国公务员，护照由 UK Home Office（伦敦） 签发。 +
+→ 其护照上印有 “Issued in London /by Her Majesty’s Principal Secretary of State /for Foreign and Commonwealth Affairs”。 +
+→ 表示此人由"英国中央政府"直接负责。 +
+→ 豁免移民管制，可自由入境英国。 +
+
+对比：
+
+- 例2： 香港居民持有“香港总督代表女王签发的 CUKC 护照”。 +
+→ 虽然也是 “Citizen /of the United Kingdom and Colonies”，但护照签发地是 “Hong Kong”。 +
+→ 属于殖民地护照。 +
+→ 自 1962 年起 需受移民管制，入境英国需申请签证。 +
+
+说明：即护照由「英国中央政府」签发，而非殖民地政府（如香港、牙买加、塞舌尔等）签发。 +
+
+|-> CUKC /holding a passport issued by the UK Government (not including colonial governments) anywhere
+
+#*他是CUKC, 但他的护照是由英国政府（而非殖民地政府）签发.*# +
+例如在伦敦申请的香港人护照. +
+表示他与英国“有实际行政联系”.
+|例1： 一名香港出生的 CUKC，后来赴英留学或工作，在伦敦向 Home Office 申请更新护照。 +
+→ 该护照签发地：London。 +
+→ 他虽然来自香港殖民地，但此时由英国中央签发护照。 +
+→ 视为「与英国有行政联系」，享豁免权。 +
+
+对比：
+
+若同样的香港 CUKC 护照由“Governor of Hong Kong”签发（香港总督）， +
+→ 属“殖民护照”， +
+→ 受移民控制。 +
+
+说明：这类人理论上属于殖民地（如香港、直布罗陀），但他是在英国境内申请护照，因此被视为与英国有直接联系。
+
+|-> Commonwealth citizens /who were ordinarily resident (v.) in the UK /at any point from 1960 to 1962
+
+#*他是英聯邦公民, 但在最近三年内(1960 年至 1962 年間)的任何時間點, 已在英國本土居住。*# +
+即, 已经居住在英国的, 允许继续居留（即“老移民”获豁免）
+
+-> Wives and children under 16 /accompanying a family member /resident in the UK +
+上述人的配偶, 与16岁以下子女. 家属团聚豁免.
+|- 例1： 一位 1958 年从牙买加来到伦敦的建筑工人（英联邦成员牙买加公民）。 +
+→ 他在 1960 年前已合法居住英国。 +
+→ 免于移民管制，可继续居住、工作。 +
+
+对比：
+
+- 例2： 1963 年从同一地方来的牙买加人（即法案之后抵英） +
+→ 需取得 Entry Certificate 才能入境。 +
+
+说明：英国设立“过渡条款”，保护已经在英居住的早期移民（即“Windrush generation”）。
+
+这里有两个关键词:
+
+.ordinarily resident:
+是指一个人把英国当作正常生活中心（habitual home），有稳定生活、工作、家庭、学习等联系。而不是“短期居住”或“访问”. +
+“Ordinarily resident” 意味着该人以英国为其实际居所或生活中心，
+并非仅指“曾经住过一段时间”。
+
+.at any point from 1960 to 1962
+任何在 1960年1月1日至1962年3月1日 期间，曾经在英国通常居住（ordinarily resident） 的英联邦公民，皆免于移民管制。
+
+重点： +
+这并不要求连续居住整整三年，也不要求在1962年时仍然居住。 +
+只要他在这三年区间的任何时间点，以正常居民身份居住，即可。
+
+- 若在 1960–1962 之间曾定居，即使后来离开英国，也仍视为“有联系”，获豁免。
+- 若离开太早（如1959年前离开）, 则不在资格期内 → 不享豁免。
+
+
+
+|===
+
+image:/img/svg006.svg[,100%]
+
+
+上面的要求, 其实可以简单理解成: +
+-> #*只要是"英国政府"颁发的签证, 就能自由进入英国.*# +
+-> #*如果是"殖民政府"颁发的签证, 就不能自由进入英国.*# +
+
+换言之, #*如果把"英国政府"比喻成"总公司", "殖民政府"比喻成"分公司", 就是只认总公司, 不认分公司.*# +
+-> 持"总公司证件"的人, 能自由进入总公司的大楼(英国境内). +
+-> 持"分公司证件"的人, 就不能进入总公司的大楼(英国境内) +
+
+“由英国政府签发”＝ 被视为与英国有“本土联系”（patrial connection）, 被视为“真正的英国人”，可自由入境。 +
+“由殖民地政府签发”＝ 仍是英国臣民，但不再享自由入境权。被视为“海外关联”. 受移民管制.
+
+“1962年起，英国只承认总公司签发的员工证（护照）有通行权。
+拿分公司发的证虽然也印着‘总公司名字（United Kingdom and Colonies）’，
+但不代表你能自由出入总部。 +
+虽然你依然是‘公司的人’，但‘总部’开始对分公司员工设门禁。”
+
+'''
+
+==== Commonwealth Immigrants Act 1968 (1968 年《英联邦移民法修正案》)
+
+'''
+
+==== British nationality law  1981 (1981《英國國籍法》) (该法于 1983 年 1 月 1 日生效 。)
+
+https://en.wikipedia.org/wiki/British_nationality_law
+
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Wikipedia 原文 |AI 的解说
+
+|`主` All individuals /born (v.) in the British Islands /prior to 1 January 1983 /`谓` were automatically granted (v.)（尤指正式地或法律上）同意，准予，允许 British citizenship /*by birth* 出生时 (_jus soli_ 国籍出生地原则,出生地主义. 即“落地国籍“), *irrespective (a.)不考虑，不顾 of* their parents' nationalities. +
+所有在 1983 年 1 月 1 日之前出生于不列颠群岛的人，无论其父母的国籍如何，均自动获得英国公民身份（ 出生地原则 ）。
+|意思是：
+*任何在英国本土出生*（即在 British Islands，包括英格兰、苏格兰、威尔士、北爱尔兰、马恩岛、海峡群岛）*的人，在1983年1月1日之前出生的，都自动是英国公民（British citizen），不论其父母是何国籍。* +
+这是典型的"出生地原则"（jus soli）。
+
+举例：
+
+- 例1：
+Anna 于1975年在伦敦出生，父母是巴基斯坦籍的留学生。 +
+她在1983年前出生在英国本土，因此自动成为英国公民。 +
+（*父母是否有签证、是否是移民身份都不影响*） +
+
+|To become a British Citizen /under the 1981 Act, it was necessary /to hold _Citizenship of the UK and Colonies_ /as well as _Right of abode_ in the United Kingdom /on 31 December 1982, without which /a person would *either* hold _British Overseas Territory citizenship_, *or* _British Overseas citizenship_. +
+根据 1981 年《公民法》，要成为英国公民，必须在 1982 年 12 月 31 日持有"英国及殖民地公民"身份, 以及在英国的居留权 ；否则，该人将被转到另两种身份上: 1."英国海外领土公民身份", 或2."英国海外公民身份"。
+|这是核心转化条款： +
+1983年制度生效时，原来的CUKC（英国及殖民地公民）被重新划分为三类：
+
+对于 CUKC: +
+-> 如果你有"居英权"（Right of abode）, 则你就能成为 -> British Citizen 身份. +
+-> 如果你没有 Right of abode, 则你的身份会被转到 -> 1.British Overseas Territories Citizen（BOTC） 或 2.British Overseas Citizen（BOC）
+
+*关于BOC身份: 是给曾"在独立前属地出生, 但未获其他国籍的人"的*，例如肯尼亚独立后, 被排除在外的亚洲裔人.
+
+image:/img/svg008.svg[,100%]
+
+image:/img/svg007.svg[,100%]
+
+|Since that date, birthright citizenship in those territories has been limited to children with at least one parent who is either a British citizen or holds settled status in the United Kingdom (jus sanguinis). Foreign nationals may apply to naturalise as British citizens after fulfilling a minimum residence requirement, typically five years, and obtaining settled status. +
+自此之后，这些地区的出生公民权, 仅限于至少有一位父母是英国公民, 或在英国拥有永久居留权 的儿童（ 血统原则 ）。外国公民在满足最低居住要求（通常为五年）, 并获得永久居留权后，可以申请入籍成为英国公民。
+|意思是：
+1983年1月1日之后出生的人，不再自动按出生地获得国籍。
+必须满足以下条件之一：
+
+- 父母一方是英国公民（British citizen）；或
+- 父母一方在英国拥有定居身份（settled status / right of abode）。
+
+这是转向**血统原则（jus sanguinis）**的制度。
+
+举例：
+
+- 例2：John 于1985年在曼彻斯特出生，父母都是印度籍留学生（持学生签证）。 +
+他不是英国公民（因为父母都没有英国国籍 或永久居留权）。 +
+但若父亲后来取得了永久居留身份（Indefinite Leave to Remain），John可以申请“注册”（registration）成为英国公民。
+|===
+
+'''
+
+==== 1981 英国国籍法后, 香港人还想移民英国的话, 合法途径有哪些?
+
+我们可以把 1980s–1990s 的移民途径分为三大类：
+
+.(1.)普通途径：申请英国的工作、投资、婚姻签证
+
+这一类适用于所有“外国人”，香港人也不例外。
+
+[.small]
+[options="autowidth" cols="1a,1a,1a"]
+|===
+|签证类型 |说明 |实际情况
+
+|🧑‍💼 Work Permit（工作签证） |有雇主担保的工作许可 |**需英国雇主愿意聘请；**门槛高，人数极少
+|💰 Investor / Business Visa（投资或企业签证） |*投资一定金额或开公司* |仅适合富裕商人阶层
+|💍 Spouse Visa（婚姻签证） |*与英国公民结婚* |常见但数量有限
+|🎓 Student Visa → Settlement（留学后转居留） |*先以"学生签证"赴英，后申请"永久居留"* |需多年合法居住与就业资格
+|===
+
++
+
+.(2)特殊途径：因香港主权移交, 而设的“政治性通道”
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|（A）1985年：BNO（British National (Overseas)）
+|- #*香港 BDTC (British Dependent Territories Citizen – Hong Kong) 可在1997前, 申请转为BNO身份；*#
+- 但 ❌ #*不带居英权*#，仅供旅行使用；
+- *可持BNO护照, 赴英短期访问（免签6个月），但不能定居。*
+
+👉 因此BNO不是真正的“移民通道”。
+
+
+.1997后
+在1997后，香港的BNO仍不具居英权。
+若想移民英国，仍须通过： +
+
+- 配偶、工作、投资签证； +
+- 或在海外居住满若干年后, 申请自然化。 +
+
+.2020后
+#*2020年英国为回应《港区国安法》，推出：
+BNO Visa Scheme（BNO签证移民计划）*#
+
+🔹 资格：1997年前注册的BNO及其家属；
+
+🔹 权益：
+
+- *可赴英居住、工作、读书；*
+- *5年后可申请永居；*
+- *6年后可申请英国公民。*
+
+👉 *#这是英国第一次给予BNO真正的移民通道，#
+等于“逆转1981年国籍法的后果”*。
+
+
+
+|（B）1990年：British Nationality (Hong Kong) Act +
+（俗称“Hong Kong Act 1990” 或 “BNSS Scheme”）
+|在天安门事件（1989）后，
+英国政府担心香港中产阶层恐慌性移民, 导致人才流失，
+因此推出了一个特例项目： British Nationality Selection Scheme (BNSS)
+
+- 🔹 名额：5万户家庭（约22万人）
+- 🔹 对象：香港社会的“骨干阶层”
+（高级公务员、专业人士、警察、银行家、企业管理层等）
+- 🔹 奖励：*可直接获 British Citizenship（有居英权）*。
+
+👉 *这是1981年法案后, 唯一一次允许香港居民大规模获得真正英国公民身份。
+但这是政治安抚措施，而非开放政策。*
+|===
+
++
+
+.(3)例外途径：有特殊“英国联系”的个体（极少数）
+
+根据1981法案第11条与后续修正案，如果： +
+- 曾在英国出生； +
+- 或父母、祖父母在英国出生； +
+- 或父母在英国定居； +
+
+则可经"血缘关系"（jus sanguinis）申请英国公民身份。
+
+例：某香港医生，父亲早年在伦敦出生，他本人可依据血缘成为 British Citizen by descent。
+
+属极少数案例。
+
+
+
+由于这些通道极窄，
+1980s–1990s间的香港“移民潮”反而流向： +
+- 🇦 加拿大（投资、技术移民） +
+- 🇦🇺 澳洲（技术移民） +
+- 🇺🇸 美国（EB类、留学后定居） +
+
+而英国反而成了较难进入的目的地。
+
+(我问: 但这些国家, 也是通过"投资, 技术移民"等的方式进去的, 而英国也能通过这些方式进去, 照理来说英国不会比 进入美国, 澳洲 更难啊? 为什么你说英国反而成了较难进入的目的地?)
+
+这些国家在1980年代, 大幅推行“吸纳中产和技术人才”的移民政策。
+
+
+
+
+'''
+
+
+=== 抵垒政策 (1974年11月開始):
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|49年前後
+|1945年到1949年，中国共产党逐渐取得中国大陆的控制权，当时不少中国大陆的富人及知识精英, 逃到香港、台湾以及东南亚如新加坡等地.  +
+
+*但当时的难民亦是全中国较富有的一批. (不然哪有錢舉家能跑路呢?)* 这批移民以来自广东省和福建省为主，各占数十万. 此外，也有不少来自浙江省、江苏省，甚至广西、湖南、江西、安徽、山东、山西等省。他们在1950至1980年间亦有把亲属申请到港.
+
+**#1949年10月，中共建國. 同年，英属香港政府封锁港深边界，中港两地人民自由往来历史结束. 此后，每年平均有数万人偷渡抵港，#**最后大约200万-250万成功越过边防线偷渡至香港市区.  +
+
+|毛時代
+|中共與英國双方达成共识，**由中英双方共同决定合法移民香港的人口，但能以合法移民身份移居香港的人少之又少。**
+
+**1950年至1980年代，因为中国经历多次饥荒，大量人口偷渡香港，展开了为时三十多年的逃港潮。**1962年英属香港政府便大量遣返偷渡客。 +
+*全国人民亦有参与偷渡到香港，以广东省最为严重 (近水樓臺先得月. 廣東人有福氣).* +
+
+- 只计1962年的大逃港，日均五千“大军南下”.  +
+- 广东省方面的纪录，1979年与1980年, 广东约70万人偷渡进入香港. 循"合法途径"进入香港的也达10万人. +
+
+*英国亦在香港实施"高地价政策"以赚取最大的利润. (趁火打劫. 香港房價高, 難民中的窮人也只能住貧民窟了)*
+
+1960年代以后，香港经济起飞，市场上有廉价劳动力的需求，香港政府便以黑印以及绿印身份证, 来区份"合法"以及"非法"移民，当时偷渡到香港的人口, 尚没有一个正式的香港居民身份.
+
+|抵垒政策開始 (1974年11月)
+|最终于##**1974年11月，香港政府宣布实施"抵垒政策": 中国"非法入境者"若在偷渡到香港后能抵达市区，便可在香港居留，如果偷渡者在边境范围被执法人员截获，则会被遣返。**##香港当局亦因此加强在边境的管制，以减少非法入境者进入市区的机会。
+
+不过，港府對"抵垒政策"的心態, 亦是充满矛盾的: +
+
+-> 實施"抵垒政策"的好處:
+
+- **假如不给予抵垒者一个融入社会的途径，他们会沦为黑市居民或黑市劳工，有一部分人甚至或者会从事非法活动。**
+- 给予他们合法居留, 也可纾缓当时需求殷切的劳动市场. 因为当时香港的工业，尤其是制衣业這类劳工密集型的行业, 能吸纳大批劳动力. 当中不少移民仍可自食其力，当中很多亦不须领用综援等社会福利开支。
+
+-> 實施"抵垒政策"的壞處:
+
+- *长期的"抵垒政策", 會激勵中国居民不断尝试冒险前往香港。*
+- 组织偷渡的蛇头成为一种新兴的高利润行业.
+
+|"抵垒政策"取消 (1980年10月23日)
+|*转而采取"即捕即解"政策。所有非法入境者一经发现，即须被遣返中国。* 當時規定: 香港雇主雇用偷渡客者，可罚款5万港币并判监一年。
+|===
+
+
+'''
+
 === free port 自由港
 
 香港是 free port 自由港. 什麼是自由港?

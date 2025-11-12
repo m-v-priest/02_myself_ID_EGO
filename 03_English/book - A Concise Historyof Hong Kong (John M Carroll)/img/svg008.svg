@@ -1,0 +1,69 @@
+<svg width="425" height="277" viewBox="0 0 425 277" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs/>
+    <g transform="translate(-3696.00,-1246.00)">
+        <g id="shape1" transform="translate(3773.00,1247.00)">
+            <path d="M120.0,45.0L120.0,.0L.0,.0L.0,45.0L120.0,45.0z" fill="#ffffff" fill-rule="nonzero" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="28.0" x="42.0">CUKC</tspan>
+            </text>
+        </g>
+        <g id="shape2" transform="translate(3697.00,1337.50)">
+            <path d="M120.0,54.0L120.0,.0L.0,.0L.0,54.0L120.0,54.0z" fill="#cfe9d8" fill-rule="nonzero" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="23.0" x="51.5">有 </tspan>
+                <tspan y="42.0" x="14.5">Right of abode</tspan>
+            </text>
+        </g>
+        <g id="shape3" transform="translate(3849.00,1337.50)">
+            <path d="M120.0,54.0L120.0,.0L.0,.0L.0,54.0L120.0,54.0z" fill="#f5cfcf" fill-rule="nonzero" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="23.0" x="51.5">无 </tspan>
+                <tspan y="42.0" x="14.5">Right of abode</tspan>
+            </text>
+        </g>
+        <g id="shape4" transform="translate(3833.00,1292.00)">
+            <path d="M.0,.0L.0,13.5L-76.0,13.5L-76.0,39.5" fill="none" stroke="#191919"/>
+            <path stroke-width="1" d="M-73.0,39.5L-76.0,45.5L-79.0,39.5L-73.0,39.5" fill="#191919" stroke-linecap="round" stroke="#191919"/>
+        </g>
+        <g id="shape5" transform="translate(3833.00,1292.00)">
+            <path d="M.0,.0L.0,13.5L76.0,13.5L76.0,39.5" fill="none" stroke="#191919"/>
+            <path stroke-width="1" d="M79.0,39.5L76.0,45.5L73.0,39.5L79.0,39.5" fill="#191919" stroke-linecap="round" stroke="#191919"/>
+        </g>
+        <g id="shape6" transform="translate(3697.00,1429.50)">
+            <path d="M120.0,73.0L120.0,.0L.0,.0L.0,73.0L120.0,73.0z" fill="#cfe9d8" fill-rule="nonzero" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="42.0" x="18.5">British Citizen</tspan>
+            </text>
+        </g>
+        <g id="shape7" transform="translate(3757.00,1391.50)">
+            <path d="M.0,.0C.0,2.1,.0,4.2,.0,9.5C.0,14.8,.0,23.2,.0,28.5C-0.0,30.1,-0.0,31.4,-0.0,32.5" fill="none" stroke="#191919"/>
+            <path stroke-width="1" d="M3.0,32.0L.0,38.0L-3.0,32.0L3.0,32.0" fill="#191919" stroke-linecap="round" stroke="#191919"/>
+        </g>
+        <g id="shape8" transform="translate(3849.00,1429.50)">
+            <path d="M120.0,92.0L120.0,.0L.0,.0L.0,92.0L120.0,92.0z" fill="#ffffff" fill-rule="nonzero" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="23.0" x="11.0">British Overseas </tspan>
+                <tspan y="42.0" x="29.5">Territories </tspan>
+                <tspan y="61.0" x="9.0">Citizen（BOTC）</tspan>
+                <tspan y="80.0" x="27.5">未独立属地</tspan>
+            </text>
+        </g>
+        <g id="shape9" transform="translate(4000.00,1429.50)">
+            <path d="M120.0,92.0L120.0,.0L.0,.0L.0,92.0L120.0,92.0z" fill="#ffffff" fill-rule="nonzero" stroke="#323232"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="23.0" x="11.0">British Overseas </tspan>
+                <tspan y="42.0" x="12.5">Citizen（BOC）</tspan>
+                <tspan y="61.0" x="26.0">属地已独立,</tspan>
+                <tspan y="80.0" x="21.0">但无身份的人</tspan>
+            </text>
+        </g>
+        <g id="shape10" transform="translate(3909.00,1391.50)">
+            <path d="M.0,.0C.0,2.1,.0,4.2,.0,9.5C.0,14.8,-0.0,23.2,.0,28.5C.0,30.1,.0,31.4,.0,32.5" fill="none" stroke="#191919"/>
+            <path stroke-width="1" d="M3.0,32.0L.0,38.0L-3.0,32.0L3.0,32.0" fill="#191919" stroke-linecap="round" stroke="#191919"/>
+        </g>
+        <g id="shape11" transform="translate(3922.68,1391.50)">
+            <path d="M.0,.0L.0,22.0L137.3,22.0L137.3,32.0" fill="none" stroke="#191919"/>
+            <path stroke-width="1" d="M140.3,32.0L137.3,38.0L134.3,32.0L140.3,32.0" fill="#191919" stroke-linecap="round" stroke="#191919"/>
+        </g>
+    </g>
+</svg>
