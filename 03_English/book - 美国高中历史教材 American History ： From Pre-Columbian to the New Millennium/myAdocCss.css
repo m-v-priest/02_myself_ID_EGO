@@ -256,23 +256,25 @@ table {
   /* 2️⃣ 调整 TOC 内部列表格式，使其水平或紧凑显示 */
   #toc ul, .toc ul {
     list-style: none !important;
-    padding-left: 0 !important;
+    padding-left: 48px !important;
   }
 
   #toc li, .toc li {
-    display: inline-block !important;     /* 可让目录横向排列（可改为 block） */
+    display: block !important;    /* ✔ 每个目录占一整行，按行排 */
     margin-right: 15px !important;
   }
 
   /* 3️⃣ 让正文不被挤压 */
   #content {
-    margin-left: 0 !important;            /* 取消左边距 */
-    padding-top: 10px !important;
+    margin: 0 !important;          /* 取消 margin-left */
+    padding: 0 20px !important;    /* 左右 padding 可自行调整 */
+    max-width: 100% !important;    /* 占满页面宽度 */
   }
 
   /* 4️⃣ 页面背景设为白色（打印友好） */
   body {
-    background: white !important;
+    margin: 0 !important;
+    padding: 0 !important;
   }
   
   
