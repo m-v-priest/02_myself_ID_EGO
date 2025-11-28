@@ -1,0 +1,223 @@
+<svg viewBox="0 0 676 1088" xmlns="http://www.w3.org/2000/svg" height="1088" xmlns:xlink="http://www.w3.org/1999/xlink" width="676">
+    <defs/>
+    <g transform="translate(-286.14,-582.75)">
+        <g transform="translate(356.00,992.20)" id="shape1">
+            <path fill="#ffffff" stroke="#323232" fill-rule="nonzero" d="M120.0,92.0L120.0,.0L.0,.0L.0,92.0L120.0,92.0z"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:8.00pt">
+                <tspan y="50.0" x="49.0">頭銜</tspan>
+            </text>
+        </g>
+        <g transform="translate(510.00,998.20)" id="shape2">
+            <path fill="#f5cfcf" stroke="#323232" fill-rule="nonzero" d="M120.0,80.0L120.0,.0L.0,.0L.0,80.0L120.0,80.0z"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:8.00pt">
+                <tspan y="20.0" x="4.0">First</tspan>
+                <tspan y="36.0" x="4.0">Given     name</tspan>
+                <tspan y="52.0" x="4.0">Fore- </tspan>
+                <tspan y="68.0" x="4.0">名</tspan>
+            </text>
+        </g>
+        <g transform="translate(470.00,1022.05)" id="shape3">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:8.00pt">
+                <tspan y="18.1" x="17.1">+</tspan>
+            </text>
+        </g>
+        <g transform="translate(624.00,1013.05)" id="shape4">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:8.00pt">
+                <tspan y="27.1" x="17.1">+</tspan>
+            </text>
+        </g>
+        <g transform="translate(813.00,1001.70)" id="shape5">
+            <path fill="#f5cfcf" stroke="#323232" fill-rule="nonzero" d="M120.0,73.0L120.0,.0L.0,.0L.0,73.0L120.0,73.0z"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:8.00pt">
+                <tspan y="16.5" x="4.0">Last</tspan>
+                <tspan y="32.5" x="4.0">Family     name</tspan>
+                <tspan y="48.5" x="4.0">Sur- </tspan>
+                <tspan y="64.5" x="4.0">姓氏</tspan>
+            </text>
+        </g>
+        <g transform="translate(661.00,992.20)" id="shape6">
+            <path fill="#cfe9d8" stroke="#323232" fill-rule="nonzero" d="M120.0,92.0L120.0,.0L.0,.0L.0,92.0L120.0,92.0z"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:8.00pt">
+                <tspan y="42.0" x="4.0">Middle</tspan>
+                <tspan y="58.0" x="4.0">中间名</tspan>
+            </text>
+        </g>
+        <g transform="translate(775.00,1013.05)" id="shape7">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:8.00pt">
+                <tspan y="27.1" x="17.1">+</tspan>
+            </text>
+        </g>
+        <g transform="translate(403.88,1095.70)" id="shape8">
+            <rect y="7.5" fill="#ffffff" x="4.1" height="14.0" width="15.0"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:8.00pt">
+                <tspan y="18.5" x="4.1" style="fill:#000000;font-family:Times New Roman">Sir </tspan>
+            </text>
+        </g>
+        <g transform="translate(532.50,1095.70)" id="shape9">
+            <rect y="7.5" fill="#ffffff" x="4.0" height="14.0" width="50.0"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Times New Roman;font-size:8.00pt">
+                <tspan y="18.5" x="4.0" style="fill:#000000">Alexander </tspan>
+            </text>
+        </g>
+        <g transform="translate(661.00,1086.20)" id="shape10">
+            <rect y="17.0" fill="#ffffff" x="4.5" height="14.0" width="109.0"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Times New Roman;font-size:8.00pt">
+                <tspan y="28.0" x="4.5" style="fill:#000000"> William George Herder</tspan>
+            </text>
+        </g>
+        <g transform="translate(827.50,1086.20)" id="shape11">
+            <rect y="17.0" fill="#ffffff" x="4.2" height="14.0" width="49.0"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Times New Roman;font-size:8.00pt">
+                <tspan y="28.0" x="4.2" style="fill:#000000">Grantham </tspan>
+            </text>
+        </g>
+        <g transform="translate(287.14,1168.88)" id="shape12">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:8.00pt">
+                <tspan y="16.0" x="4.4">Sir 爵士. 這是他的榮譽頭</tspan>
+                <tspan y="32.0" x="4.4">銜。爵士頭銜是冠在名字之</tspan>
+                <tspan y="48.0" x="4.4">前，不是名字的一部分。</tspan>
+            </text>
+        </g>
+        <g transform="translate(340.00,1162.70)" id="shape13">
+            <path fill="none" stroke="#191919" d="M.0,.0L58.7,-34.9"/>
+            <path fill="#191919" stroke-linecap="round" stroke="#191919" d="M57.2,-37.5L63.9,-38.0L60.3,-32.4L57.2,-37.5" stroke-width="1"/>
+        </g>
+        <g transform="translate(510.00,1167.88)" id="shape14">
+            <text xml:space="preserve" style="fill:#c00000;font-family:Microsoft YaHei;font-size:8.00pt">
+                <tspan y="16.0" x="4.4">朋友稱呼, 多用這個</tspan>
+            </text>
+        </g>
+        <g transform="translate(514.48,1162.70)" id="shape15">
+            <path fill="none" stroke="#191919" d="M.0,.0L58.7,-34.9"/>
+            <path fill="#191919" stroke-linecap="round" stroke="#191919" d="M57.2,-37.5L63.9,-38.0L60.3,-32.4L57.2,-37.5" stroke-width="1"/>
+        </g>
+        <g transform="translate(532.50,793.40)" id="shape16">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:8.00pt">
+                <tspan y="16.0" x="4.3">中間名通常用於：</tspan>
+                <tspan y="32.0" x="4.3">-> 紀念親戚： 這是一種向家族傳統和逝去長輩表示敬意的方式。</tspan>
+                <tspan y="64.0" x="4.3">-> 承襲母姓： 貴族或上層社會家庭，有時會將母親或祖母的姓氏作為孩子的中</tspan>
+                <tspan y="80.0" x="4.3">間名，以強調血統或繼承自母方的財富與地位。</tspan>
+                <tspan y="96.0" x="4.3">英國貴族家庭, 喜歡保留祖先或聯姻家族的姓氏, 作為中間名，比如 “Herder” </tspan>
+                <tspan y="112.0" x="4.3">可能是外祖家的姓。</tspan>
+                <tspan y="144.0" x="4.3">-> 紀念教父母： 接受洗禮時，中間名可能來自教父或教母的名字。 一些中間名</tspan>
+                <tspan y="160.0" x="4.3">來自宗教聖人或教會傳統。</tspan>
+            </text>
+        </g>
+        <g transform="translate(721.00,954.20)" id="shape17">
+            <path fill="none" stroke="#191919" d="M.0,.0L.0,32.0"/>
+            <path fill="#191919" stroke-linecap="round" stroke="#191919" d="M3.0,32.0L.0,38.0L-3.0,32.0L3.0,32.0" stroke-width="1"/>
+        </g>
+        <g transform="translate(813.00,1162.00)" id="shape18">
+            <path fill="none" stroke="#191919" d="M.0,.0L58.7,-34.9"/>
+            <path fill="#191919" stroke-linecap="round" stroke="#191919" d="M57.2,-37.5L63.9,-38.0L60.3,-32.4L57.2,-37.5" stroke-width="1"/>
+        </g>
+        <g transform="translate(813.00,1167.88)" id="shape19">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:8.00pt">
+                <tspan y="16.0" x="4.4">姓氏，也是家族傳承的名</tspan>
+                <tspan y="32.0" x="4.4">稱。</tspan>
+            </text>
+        </g>
+        <g transform="translate(532.50,583.75)" id="shape20">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:8.00pt">
+                <tspan y="16.0" x="4.3">在過去，擁有多個名字, 是社會地位和精英階層的一種標誌。名字越多，</tspan>
+                <tspan y="32.0" x="4.3">給人的感覺就越正式、越有歷史傳承。</tspan>
+                <tspan y="64.0" x="4.3" style="fill:#c00000">中间名到底是干嘛用的呢？答案是：区别同名同姓的人！</tspan>
+                <tspan x="279.3" style="fill:#000000">如果姓和名都</tspan>
+                <tspan y="80.0" x="4.3" style="fill:#000000">很常见的话，例如 John Smith，那么多取几个中间名就可以减少同名同</tspan>
+                <tspan y="96.0" x="4.3" style="fill:#000000">姓的机会. 例如 </tspan>
+                <tspan y="112.0" x="4.3" style="fill:#000000">John </tspan>
+                <tspan x="32.3" style="fill:#42c181">Peter Luke</tspan>
+                <tspan x="87.3" style="fill:#000000"> Smith (John </tspan>
+                <tspan x="155.3" style="fill:#42c181">P. L.</tspan>
+                <tspan x="177.3" style="fill:#000000"> Smith) </tspan>
+                <tspan y="128.0" x="4.3" style="fill:#000000">跟 John </tspan>
+                <tspan x="46.3" style="fill:#42c181">Peter Charles</tspan>
+                <tspan x="114.3" style="fill:#000000"> Smith (John </tspan>
+                <tspan x="182.3" style="fill:#42c181">P. C.</tspan>
+                <tspan x="205.3" style="fill:#000000"> Smith)。</tspan>
+                <tspan y="160.0" x="4.3">老外一般什么时候会听到自己的 middle name 呢？ 护照、驾照上, 法庭</tspan>
+                <tspan y="176.0" x="4.3">上. 父母教训孩子时, 也会把一长串的全名喊出来.</tspan>
+            </text>
+        </g>
+        <g transform="translate(661.00,1167.88)" id="shape21">
+            <text xml:space="preserve" style="fill:#c00000;font-family:Microsoft YaHei;font-size:8.00pt">
+                <tspan y="16.0" x="4.4">中文中, </tspan>
+                <tspan y="32.0" x="4.4">中間名一般省略不翻译</tspan>
+            </text>
+        </g>
+        <g transform="translate(686.55,1162.70)" id="shape22">
+            <path fill="none" stroke="#191919" d="M.0,.0L58.7,-34.9"/>
+            <path fill="#191919" stroke-linecap="round" stroke="#191919" d="M57.2,-37.5L63.9,-38.0L60.3,-32.4L57.2,-37.5" stroke-width="1"/>
+        </g>
+        <g transform="translate(464.57,1209.50)" id="shape23">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:8.00pt">
+                <tspan y="16.0" x="4.5">一般人平时都用 first name </tspan>
+                <tspan y="32.0" x="4.5">（例如John），如果要叫全</tspan>
+                <tspan y="48.0" x="4.5">名，就会把姓也加上去，变成 </tspan>
+                <tspan y="64.0" x="4.5">John Smith。因为 Smith </tspan>
+                <tspan x="131.5" style="fill:#c00000">(姓) </tspan>
+                <tspan y="80.0" x="4.5" style="fill:#c00000">是 “追加” 上去的，所以</tspan>
+                <tspan x="131.5"> </tspan>
+                <tspan y="96.0" x="4.5">“姓” 也叫 surname，因为</tspan>
+                <tspan x="143.5" style="fill:#c00000"> </tspan>
+                <tspan y="112.0" x="4.5" style="fill:#c00000">sur- 前缀是 “追加” 的意思。</tspan>
+            </text>
+        </g>
+        <g transform="translate(464.57,1348.18)" id="shape24">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:8.00pt">
+                <tspan y="16.0" x="4.5" style="fill:#c00000">姓是固定的, </tspan>
+                <tspan x="65.5">父母不能随便给孩</tspan>
+                <tspan y="32.0" x="4.5">子不同的姓。可是</tspan>
+                <tspan x="92.5" style="fill:#c00000">名就很自由</tspan>
+                <tspan y="48.0" x="4.5" style="fill:#c00000">了, 父母可以自由给孩子取名. </tspan>
+                <tspan y="64.0" x="4.5" style="fill:#c00000">所以 “名”</tspan>
+                <tspan x="62.5"> first name 又</tspan>
+                <tspan x="131.5" style="fill:#c00000">叫做 </tspan>
+                <tspan y="80.0" x="4.5" style="fill:#c00000">given name.</tspan>
+                <tspan y="112.0" x="4.5">first name 在英美文化中也叫 </tspan>
+                <tspan y="128.0" x="4.5">Christian name （基督徒</tspan>
+                <tspan y="144.0" x="4.5">名），因为在</tspan>
+                <tspan x="70.5" style="fill:#c00000">婴儿受洗成为教徒</tspan>
+                <tspan y="160.0" x="4.5" style="fill:#c00000">时, 也会得到名字。</tspan>
+            </text>
+        </g>
+        <g transform="translate(661.00,1232.50)" id="shape25">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:8.00pt">
+                <tspan y="16.0" x="4.5" style="fill:#c00000">不是每个老外都有中间名. 而且</tspan>
+                <tspan y="32.0" x="4.5" style="fill:#c00000">很多时候中间名都是以缩写的方</tspan>
+                <tspan y="48.0" x="4.5" style="fill:#c00000">式出现</tspan>
+                <tspan x="37.5">，例如布什总统是 </tspan>
+                <tspan y="64.0" x="4.5">George</tspan>
+                <tspan x="42.5" style="fill:#42c181"> W.</tspan>
+                <tspan x="59.5"> Bush。</tspan>
+                <tspan y="80.0" x="4.5">这个 W. 究竟是 William 还是 </tspan>
+                <tspan y="96.0" x="4.5">Wilson 还是什么名字的缩写</tspan>
+                <tspan y="112.0" x="4.5">呢？如果当事人不说，外人无法</tspan>
+                <tspan y="128.0" x="4.5">得知。事实上他是 George </tspan>
+                <tspan y="144.0" x="4.5" style="fill:#42c181">Walker</tspan>
+                <tspan x="40.5"> Bush.</tspan>
+            </text>
+        </g>
+        <g transform="translate(661.00,1398.00)" id="shape26">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:8.00pt">
+                <tspan y="16.0" x="4.5">一般, first name 是单个词，last </tspan>
+                <tspan y="32.0" x="4.5">name 也是单个词（两个字组成的</tspan>
+                <tspan y="48.0" x="4.5">姓或名很少见）；唯有 </tspan>
+                <tspan x="117.5" style="fill:#c00000">middle </tspan>
+                <tspan y="64.0" x="4.5" style="fill:#c00000">name(s) 中间名是可以有很多个词</tspan>
+                <tspan y="80.0" x="4.5" style="fill:#c00000">的.</tspan>
+                <tspan y="112.0" x="4.5">如，前英国首相布莱尔的全名就是 </tspan>
+                <tspan y="128.0" x="4.5">Anthony </tspan>
+                <tspan x="53.5" style="fill:#42c181">Charles Lynton</tspan>
+                <tspan x="131.5"> Blair，</tspan>
+                <tspan y="144.0" x="4.5">或者Anthony </tspan>
+                <tspan x="75.5" style="fill:#42c181">C. L.</tspan>
+                <tspan x="97.5"> Blair，有两个</tspan>
+                <tspan y="160.0" x="4.5">中间名。</tspan>
+                <tspan y="192.0" x="4.5">英美人士大多给孩子取一个中间</tspan>
+                <tspan y="208.0" x="4.5">名，但是西班牙语人士往往会给孩</tspan>
+                <tspan y="224.0" x="4.5">子一长串的 middle names！</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
