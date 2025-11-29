@@ -107,6 +107,19 @@ body {
     /* margin-left: 20%;*/
 }
 
+
+/* my4类, 专门用于表格 */
+.my4 {
+    font-size: var(--myFontSmallSize);
+    /* 设置my1类的 字号大小 */
+    border-style: solid;
+    border-color: var(--myGrayColor2);
+    border-width: 1px;
+    padding: 10px;
+    /* margin-left: 20%;*/
+}
+
+
 .myRed {
     color: white;
     /* 白色字体 */
