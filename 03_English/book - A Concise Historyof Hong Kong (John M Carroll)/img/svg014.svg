@@ -1,0 +1,67 @@
+<svg height="152" xmlns:xlink="http://www.w3.org/1999/xlink" width="613" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 613 152">
+    <defs/>
+    <g transform="translate(-136.25,-160.50)">
+        <g transform="translate(340.00,274.00)" id="shape1">
+            <path fill-rule="nonzero" d="M397.0,37.0L397.0,.0L.0,.0L.0,37.0L397.0,37.0z" fill="#ffffff" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="179.0" y="24.0">嫌疑人</tspan>
+            </text>
+        </g>
+        <g transform="translate(340.00,161.50)" id="shape2">
+            <path fill-rule="nonzero" d="M76.0,37.0L76.0,.0L.0,.0L.0,37.0L76.0,37.0z" fill="#cfe9d8" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="12.0" y="24.0">大陪审团</tspan>
+            </text>
+        </g>
+        <g transform="translate(378.00,198.50)" id="shape3">
+            <path d="M.0,.0L.0,43.5L.1,43.5L.1,69.5" stroke="#191919" fill="none"/>
+            <path d="M3.1,69.5L.1,75.5L-2.9,69.5L3.1,69.5" stroke-width="1" stroke-linecap="round" fill="#191919" stroke="#191919"/>
+            <rect x="-50.5" y="24.9" height="19.0" width="103.0" fill="#ffffff"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="-50.5" y="39.9">决定是否"起诉"他</tspan>
+            </text>
+        </g>
+        <g transform="translate(500.50,161.50)" id="shape4">
+            <path fill-rule="nonzero" d="M76.0,37.0L76.0,.0L.0,.0L.0,37.0L76.0,37.0z" fill="#cfe9d8" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="12.0" y="24.0">小陪审团</tspan>
+            </text>
+        </g>
+        <g transform="translate(538.50,198.50)" id="shape5">
+            <path d="M.0,.0L.0,69.5" stroke="#191919" fill="none"/>
+            <path d="M3.0,69.5L.0,75.5L-3.0,69.5L3.0,69.5" stroke-width="1" stroke-linecap="round" fill="#191919" stroke="#191919"/>
+            <rect x="-50.5" y="22.9" height="19.0" width="103.0" fill="#ffffff"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="-50.5" y="37.9">决定是否"定罪"他</tspan>
+            </text>
+        </g>
+        <g transform="translate(661.00,161.50)" id="shape6">
+            <path fill-rule="nonzero" d="M76.0,37.0L76.0,.0L.0,.0L.0,37.0L76.0,37.0z" fill="#cfe9d8" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="25.0" y="24.0">法官</tspan>
+            </text>
+        </g>
+        <g transform="translate(699.00,198.50)" id="shape7">
+            <path d="M.0,.0L.0,43.5L-0.1,43.5L-0.1,69.5" stroke="#191919" fill="none"/>
+            <path d="M2.9,69.5L-0.1,75.5L-3.1,69.5L2.9,69.5" stroke-width="1" stroke-linecap="round" fill="#191919" stroke="#191919"/>
+            <rect x="-44.0" y="20.9" height="19.0" width="90.0" fill="#ffffff"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="-44.0" y="35.9">对他进行"量刑"</tspan>
+            </text>
+        </g>
+        <g transform="translate(137.25,161.50)" id="shape8">
+            <path fill-rule="nonzero" d="M103.5,37.0L103.5,.0L.0,.0L.0,37.0L103.5,37.0z" fill="#cfe9d8" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="9.8" y="24.0">检察官/檢控官</tspan>
+            </text>
+        </g>
+        <g transform="translate(240.75,180.00)" id="shape9">
+            <path d="M.0,.0L93.3,.0" stroke="#191919" fill="none"/>
+            <path d="M93.3,-3.0L99.3,.0L93.3,3.0L93.3,-3.0" stroke-width="1" stroke-linecap="round" fill="#191919" stroke="#191919"/>
+            <rect x="25.2" y="-9.5" height="19.0" width="52.0" fill="#ffffff"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="25.2" y="5.5">提供证据</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

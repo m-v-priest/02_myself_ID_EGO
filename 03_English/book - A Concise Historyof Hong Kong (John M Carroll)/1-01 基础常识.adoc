@@ -401,6 +401,272 @@ _What if_ you are facing an emergency /while taking a trip to a country outside 
 
 '''
 
+== 司法
+
+=== 大陪审团 Grand Jury -> 决定某嫌疑人是否应该被"起诉"
+
+.英国
+英国的"大陪审团"制度, 在 1933 年《行政司法法》（Administration of Justice Act 1933）中被基本废除 (1948年正式废除)。
+
+.美国
+但在美国还是存在. *#在美国，"大陪审团"的职责是审查"检察官"提交的证据，决定是否有足够的可能性原因 (probable cause) 相信一个人犯了罪，从而决定是否应该向此人提出正式的刑事指控（即发出"起诉书" / indictment）。#*
+
+- 审查证据： #*"大陪审团"不对被告人是否有罪做出最终裁决（那是"小陪审团" / Petty Jury 的工作）。它只决定是否可以“起诉”。*#
+- 秘密进行： 大陪审团程序通常是秘密进行的，以保护涉案人员的名誉，直到正式起诉。
+
+
+'''
+
+=== 检察官
+
+检察官（例如地区检察官 / District Attorney 或联邦检察官） 与大陪审团的关系：提呈证据与指导
+
+检察官的职责是:
+
+- 提呈证据 (Presenting Evidence): **"检察官"负责向"大陪审团"展示案件的证据，**包括传唤证人作证、提供文件记录等。
+
+- 法律指导 (Legal Guidance): *"检察官"负责向"大陪审团"解释相关的法律条文，指导他们如何应用法律, 来决定是否构成“可能性原因”。*
+
+- 申请起诉 (Seeking Indictment): *检察官是提出"起诉建议"的人。他们希望大陪审团根据他们提供的证据，同意发出起诉书 (“True Bill”)。*
+
+在美国，##**检察官是主导者，他们利用"大陪审团"作为启动"严重刑事审判程序"的守门人 (gatekeeper)。**##*"大陪审团"本质上是对"检察官"是否可以"继续起诉某个人"的提议, 进行“投票”的机构。*
+
+'''
+
+=== 小陪审团 Petit Jury / Trial Jury -> 决定某嫌疑人是否"有罪" (但"量刑"则是由法官做出)
+
+你可以简单理解为：在美国, 大陪审团决定“是否起诉”，小陪审团决定“是否定罪”。
+
+[.small]
+[options="autowidth" cols="1a,1a,1a"]
+|===
+||大陪审团 Grand Jury | 小陪审团 Trial Jury / Petit Jury
+
+|职责
+|*大陪审团只处理 "检察官"是否能正式对"被告人"提起"刑事诉讼"。*
+它不审理案情、也不决定被告是否有罪，*#只判断： “有没有合理理由,相信此人可能犯罪？”#*（probable cause）. #*即, 大陪审团只决定 "是否起诉?"（是否有足够理由开审*）#
+|**#小陪审团负责在 正式审判阶段 决定：️ “被告是否有罪？”（beyond a reasonable doubt）.# **这是真正的“审判陪审团”。
+
+
+
+|介入的阶段
+|位于刑事程序的 "早期"。 +
+常用于重罪（felony）的起诉程序。
+|位于刑事程序的 "审判阶段"。 +
+也负责多数民事案件的事实认定。
+
+|特点
+|- 秘密进行（secret proceedings）
+- 只有检察官陈述证据，被告及其律师多数情况下不能参加。
+- 如果同意起诉，就发出 indictment（起诉书）。
+|- 公开审判。双方律师都在场，可交叉询问证人。
+
+|结果类型
+|[.my4]
+[options="autowidth" cols="1a,1a"]
+!===
+!Header 1 !Header 2
+
+!True Bill：决定起诉; (n.) 陪審團同意的起訴書.
+!true bill  : (n.)  the _written decision_ [法]书面裁决 of a _Grand Jury_ (signed by the Grand Jury foreperson 首席陪审员) that it has *heard* (v.)  sufficient evidence *from* the prosecution  起诉，诉讼；原告，控方 /to believe that `主` an accused person `谓` probably committed a crime /and should *be indicted* (v.) 被起诉，被控告. Thus, the indictment 诉状，公诉书 *is sent (v.)  to* the court.   +
+
+大陪审团的书面决定（由大陪审团主席签署），表明其已听取控方提供的充分证据，足以相信被告人可能犯有罪行，应当被起诉。随后，起诉书将送交法院。 +
+
+!No Bill：不起诉（证据不够）
+!
+!===
+|- Guilty：有罪
+- Not Guilty：无罪. （无罪后，不能再次就同一罪名起诉，被称为 double jeopardy 原则）
+|===
+
++
+
+.如果小陪审团能决定嫌疑人是否有罪, 那么还要法官做什么呢? 小陪审团和法官的关系是怎样的呢? +
+回答是:
+
+- #*陪审团负责“事实判断（fact-finding）”，法官负责“法律判断（law-giving）”。*#
+- 陪审团只决定事实，法官决定一切其它事情。
+
+我们可以把法庭想成一个“分工合作”的系统：
+
+[.my4]
+[options="autowidth" cols="1a,1a"]
+|===
+|Trial Jury |Header 2
+
+|小陪审团（Trial Jury）主要负责什么？-- 判断事实（fact finder）
+|
+
+焦点是：
+
+- 证人的证词可信不可信？证据是否能说服他们“排除合理怀疑”？
+- 被告有没有做？犯罪事实是否成立？
+- 最终裁决：有罪 / 无罪。
+
+这是陪审团的核心作用。 即陪审团只回答一个问题： “你认为他做了这件事吗？”
+
+|陪审团不做的事情
+|
+-决定证据能不能呈堂 +
+- 决定要不要开庭 +
+- 解释法律 +
+- 做法律程序上的任何判断 +
+- 量刑（刑期多长） +
+|===
+
+法官的工作:
+[.my4]
+[options="autowidth" cols="1a,1a"]
+|===
+| |Header 2
+
+|法律解释（the law）
+|*陪审团不懂法律，法官会告诉他们：*
+什么叫谋杀？
+什么叫意图？
+什么叫自卫？
+如何理解“合理怀疑”？
+本案需要满足哪些法律要件（legal elements）？
+
+*陪审团必须按照法官给出的法律标准, 来判断事实。*
+
+|决定证据是否可接受（gatekeeper）
+|*法官高度专业，他决定：* +
+- 某录像是否与案件相关 +
+- *某证据是否属于 hearsay（传闻）* +
+- *某证据是否涉及"非法取证"（fruit of the poisonous tree）* +
+- 某专家是否合格 +
+
+*如果法官不允许证据呈堂，陪审团永远看不到。* 换句话说：*法官控制“陪审团能看到什么”。*
+
+|控制庭审程序与秩序
+|法官负责： +
+- *维护法庭秩序* +
+- *控制审问顺序* +
+- 制止律师违规提问 +
+- 纪律处分律师或当事人 +
+- 保护证人权利 +
+- 在必要时宣布流审（mistrial） +
+
+|审判后的量刑（sentencing）
+|*即便陪审团裁定“有罪”，#决定“的是法官，而不是陪审团。#*
+
+法官会根据： +
+- 罪行严重程度 +
+- 被告前科记录 +
+- 法律规定的最低/最高刑期 +
+- 量刑指南（sentencing guidelines） +
+
+来决定最终刑罚。
+
+|可在极端情况下推翻陪审团
+|（虽少见，但存在）
+
+若陪审团明显违背法律或证据（例如 jury nullification），
+法官可以： +
+- 宣布审判无效 +
+- 命令重新审判 +
+- 推翻陪审团的民事赔偿（remittitur） +
+
+刑事案件中, 法官不能直接宣布被告有罪，但可以： +
+- 推翻不合理的 有罪判决 +
+- 命令重新审判 +
+
+即:
+
+- 指示裁决 (Directed Verdict): 在极少数情况下，如果控方提供的证据明显不足以支持定罪，法官可以在案件提交给陪审团之前，指示陪审团做出无罪裁决。
+
+- 推翻裁决 (Judgment Notwithstanding the Verdict, JNOV): 同样在极罕见的情况下，*如果法官认为陪审团的裁决, 完全没有合理的证据支持，法官有权推翻陪审团的裁决，判决被告无罪。但法官通常无权推翻陪审团的"无罪裁决"而判"有罪"。*
+|===
+
+
+总结：
+
+[.small]
+[options="autowidth" cols="1a,1a,1a"]
+|===
+|工作内容|法官|小陪审团
+
+|解释法律|√ 法官负责|×
+|判断事实|×|√ 陪审团负责
+|决定证据可否使用|√|×
+|控制庭审程序|√|×
+|最终裁定有罪/无罪|×|√（必须一致）
+|决定刑罚|√|×
+
+|===
+
+*一句话总结： 法官决定“法律与程序”；陪审团决定“事实与结论”。* +
+陪审团的裁决, 必须在法官设定的"法律框架"与"证据规则"内进行.
+
+
+'''
+
+=== Double jeopardy
+
+Double jeopardy:
+这项保护是一项基本法律权利，由美国宪法第五修正案保障，*确保因犯罪受审的个人, 不会##因同一罪行再次遭受审判##的折磨。*
+
+
+[.my1]
+.案例
+====
+Fifth Amendment to the United States Constitution 《美利坚合众国宪法》第五修正案: 其中有一句:
+
+nor shall any person *be subject* (v.) 使臣服，征服，压服；使经受，使遭受 for the same offense 违法，犯罪 *to be twice put (v.)  in* jeopardy (n.) 危险，风险；（刑事案件中被告的）危险处境 of _life or limb_ (肢) 生命和身体. +
+
+#*任何人不得因同一犯罪行为, 而两次遭受生命或身体的危害.*#
+====
+
+
+In jurisprudence 法律体系, _double jeopardy_ (n.) 危险，风险；（刑事案件中被告的）危险处境 is a _procedural (a.) 程序上的 defence_ (primarily in _common law_ jurisdictions 司法管辖区；行政辖区) /that *prevents* (v.)  an accused person *from* being tried (v.)  again /on the same or similar charges 指控 /following an acquittal (n.) 赦免；无罪开释 or conviction 定罪，判罪.
+
+在法理学中， 双重危险原则是一种程序性抗辩 （主要在普通法系国家），它阻止被告人在被判无罪或有罪后，因相同或类似的指控再次受审 。
+
+
+
+If a double jeopardy issue is raised, evidence will be placed before the court, which will typically rule as a preliminary matter whether the plea is substantiated; if it is, the projected trial will be prevented from proceeding. In some countries, certain exemptions are permitted. In Scotland, a new trial can be initiated if, for example, the acquitted has made a credible admission of guilt. Part of English law for over 800 years, it was partially abolished in England, Wales and Northern Ireland by the Criminal Justice Act 2003 where, following demand for change, serious offences may be re-tried following an acquittal if new and compelling evidence is found, and if the trial is found to be in the public's interest.
+
+[2] In some countries, including Canada, Mexico, and the United States, the guarantee against double jeopardy is a constitutional right. +
+[3][4] In other countries, the protection is afforded by statute.
+
+双重危险原则在英国法律中存在了 800 多年，但在 2003 年的《刑事司法法案》 中，该原则在英格兰、威尔士和北爱尔兰部分废除。*根据该法案，在公众要求改革的情况下，如果发现新的、令人信服的证据，并且审判被认为符合公众利益，则可以对"被判无罪的严重罪行", 进行"重新审判"。* +
+
+在包括加拿大、墨西哥和美国在内的一些国家，禁止双重危险是一项宪法权利。在其他国家，这项保护由成文法提供。
+
+也就是说:
+
+[.my4]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|美国
+|在 美国（以及加拿大、墨西哥），保护“不得因同一罪名被重复审判”属于 宪法层级 的权利。 +
+美国宪法第五修正案明确规定：no person shall “be subject (v.)  _for the same offence_ to be twice put (v.)  in _jeopardy of life or limb_”.
+含义很明确： 被判无罪后，即使后来出现铁证如山，也不能再审同一罪名。
+
+一个杀人犯之前被判无罪，后来发现确实杀了人，在美国不能重新起诉同一案件。
+
+- 著名的例子是 O.J. Simpson 案件（虽然他在"民事案件"中被判赔偿，但在"刑事案件"中被判无罪后，就不能再被"刑事审判"）。
+
+|英国
+|《2003年刑事司法法案》	该法案部分废除了“一事不再理”原则，但有严格的限制。
+
+适用条件:
+
+- 必须是针对严重的罪行（如谋杀、强奸、武装抢劫等）。
+- 必须发现新的且令人信服的证据 (new and compelling evidence)，例如 DNA 证据或可信的供词。
+- 必须获得上诉法院的许可，并认定重新审判符合公众利益。
+|===
+
+
+
+
+
+
+
+'''
 
 == 行政
 
