@@ -1,0 +1,427 @@
+
+= 07 CRIMINAL LAW AND PROCEDURE
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../../myAdocCss.css
+
+'''
+
+
+== 释义
+
+
+
+7.CRIMINAL LAW AND PROCEDURE 刑法与刑事诉讼法
+
+When many people envision 想象；设想 lawyers, often the image that appears is of a tense 紧张的 criminal law court scene 庭审场景 from a famous TV show or movie. In the image is a young, attractive, and highly articulate 能言善辩的 lawyer seeking justice 伸张正义 in front of a packed 座无虚席的 and attentive 专注的 courtroom listening to the lawyer’s every word.
+
+[.my2]
+许多人想象律师的形象时，脑海中浮现的往往是知名影视剧里紧张的刑法庭审场景：一位年轻帅气、能言善辩的律师，在座无虚席、听众全神贯注的法庭上伸张正义，所有人都在聆听他的每一句话。
+
+Relating to criminal cases—and to distinguish fact from fiction 区分事实与虚构 in these scenes—this chapter focuses on the field of criminal law and procedure. Criminal law can be divided into substantive 实体的 and procedural 程序的 aspects of criminal law. Criminal law overviews 概述 and defines what behavior is criminal behavior, along with the general principles 基本原则 underlying criminal liability 刑事责任 for criminal behavior. Criminal procedure is defined as the process by which criminal behavior is adjudicated 裁决；审判. This chapter’s initial section 开篇部分 focuses on criminal law, subsequently 随后 followed by criminal procedure.
+
+[.my2]
+本章围绕刑事案件展开，为了区分上述影视场景中的虚构与现实，将聚焦刑法与刑事诉讼法领域。刑法可分为实体刑法与程序刑法两部分，它概述并界定了何为犯罪行为，同时明确了犯罪行为承担刑事责任的基本原则。刑事诉讼法则是指对犯罪行为进行裁决与审判的程序。本章开篇部分先介绍刑法，随后再讲解刑事诉讼法。
+
+---
+
+=== Criminal Law 刑法
+
+Criminal law’s main issues include the following:
+
+- Whether the defendant 被告人 committed a criminal act 实施犯罪行为 (in Latin, actus reas 犯罪行为, meaning the defendant’s “physical act” 客观行为).
+- Whether the defendant performed the criminal act with the requisite 必要的 culpable state of mind 可归责的心理状态 (in Latin, mens rea 犯罪意图, meaning the criminal defendant’s “mental state” 主观心理状态).
+- Whether any criminal defenses 刑事抗辩理由 exist for the defendant (assuming the defendant performed the criminal act with the requisite culpable state of mind).
+
+[.my2]
+刑法的核心问题包括以下几点：
+- 被告人是否实施了犯罪行为（拉丁语中称为actus reas，即被告人的“客观行为”）。
+- 被告人实施犯罪行为时，是否具备必要的可归责心理状态（拉丁语中称为mens rea，即刑事被告人的“主观心理状态”）。
+- 被告人是否存在可援引的刑事抗辩理由（假设被告人实施犯罪行为时具备了必要的可归责心理状态）。
+
+---
+
+#==== Criminal Mental States 犯罪心理状态
+
+Definitions of criminal offenses 刑事犯罪的定义 have traditionally varied from state to state, causing potential confusion 潜在混淆. The Model Penal Code (MPC) 模范刑法典 sought to clarify 厘清 potential confusion by creating four definitions of mental states, as follows:
+
+1.  Purposely 蓄意地：The mental state when a “conscious object 明确意图 to engage in conduct of that nature or to cause such a result” exists. So, if A kills B because A’s intent was to kill B, then A killed B purposely under the MPC.
+2.  Knowingly 明知地：Occurs when an act that is “practically certain 几乎必然” that A’s conduct will cause an outcome that is a criminal act, or that A is aware of 知晓 the nature or circumstances 性质或情节 of A’s conduct.
+3.  Recklessly 轻率地：Exists when A “consciously disregards 刻意忽视 a substantial 重大的 and unjustifiable risk 不合理风险.”
+4.  Negligently 过失地：Occurs when A should have been aware of a risk, but was careless 疏忽大意的 (negligent), so that A was not aware of the risk.
+
+[.my2]
+传统上，各州对刑事犯罪的定义不尽相同，这容易造成潜在混淆。《模范刑法典》（MPC）为厘清这一问题，将犯罪心理状态划分为以下四类：
+1.  蓄意地：指行为人“具有实施特定性质行为或造成特定结果的明确意图”时的心理状态。例如，若A杀害B的目的就是要剥夺B的生命，那么根据《模范刑法典》的规定，A的行为即构成蓄意杀人。
+2.  明知地：指行为人明知其行为几乎必然会产生犯罪结果，或者明知自身行为的性质与情节时的心理状态。
+3.  轻率地：指行为人刻意忽视其行为所伴随的重大且不合理风险时的心理状态。
+4.  过失地：指行为人本应意识到行为存在风险，却因疏忽大意而未能预见该风险时的心理状态。
+
+---
+
+#==== Criminal Defenses 刑事抗辩理由
+
+What types of criminal defenses exist? Generally, two types exist: (1) justification 正当化事由 and (2) excuses 免责事由. Justification includes (a) self-defense 正当防卫, (b) acting under official authority 依职权行为, and (c) other circumstances that involve a “least worst” choice 两害相权取其轻的情形. The need for self-defense can be tested by asking, “Did the defendant (i) reasonably believe 合理相信 the use of defensive force 防卫行为的使用 (ii) to be necessary 必要的 in the face of an (iii) imminent attack or threat 紧迫的攻击或威胁?”
+
+[.my2]
+刑事抗辩理由分为哪几类？总体而言包括两类：（1）正当化事由；（2）免责事由。正当化事由包含以下三种情形：（a）正当防卫；（b）依职权行为；（c）其他两害相权取其轻的情形。判断某一行为是否构成正当防卫，可通过以下问题进行检验：“被告人是否（i）合理相信，针对（iii）紧迫的攻击或威胁，（ii）实施防卫行为是必要的？”
+
+The attack, therefore, cannot be a theoretical 理论上的 or hypothetical 假设的 one, nor can it be a threat that may or will happen sometime in the future. It must be an actual 真实的, imminent attack or threat. Acting under official authority relates to the exercise of government authority 行使政府职权 that makes lawful an act that normally may be considered a criminal act.
+
+[.my2]
+因此，正当防卫所针对的攻击不能是理论上或假设的攻击，也不能是未来可能发生或将要发生的威胁，而必须是真实且紧迫的攻击或威胁。依职权行为是指行为人基于行使政府职权，实施了通常情况下会被认定为犯罪，但在该情形下却具有合法性的行为。
+
+An often-cited 常被援引的 case of a circumstance involving a “least worst” option is an older English case, Regina v. Dudley 女王诉达德利案, involving four people at sea, where one of the four people was purposely killed for the others’ survival 生存 after they went many days without food or water. After being picked up by a German boat after the killing, some of the individuals on the boat were tried for murder 以谋杀罪受审. The defendants argued that the act constituted a justifiable necessity 正当的紧急避险行为. The English court, however, disagreed 不予认可. In modern times, American courts have a potential basis 潜在依据 to rule that a similar situation may be a justifiable necessity relating to a choice of least worst options. For example, the MPC provides that, “the harm or evil sought to be avoided 试图避免的损害或危害 is greater than that sought to be prevented by the law defining the offense charged 指控罪名的法律所意图防范的损害或危害.” The MPC thus applies a type of cost-benefit analysis 成本收益分析 when it comes to justifiable necessity 正当的紧急避险.
+
+[.my2]
+关于“两害相权取其轻”情形的常被援引案例，是一起古老的英国案件——女王诉达德利案。该案中，四名船员因在海上漂流多日、断水断粮，为了生存而蓄意杀害了其中一人。杀人后他们被一艘德国船只救起，船上部分人员随后以谋杀罪受审。被告人辩称其行为构成正当的紧急避险，但英国法院并未认可这一抗辩理由。在现代社会，美国法院则有潜在依据认定类似情形可构成“两害相权取其轻”的正当紧急避险。例如，《模范刑法典》规定：“行为人试图避免的损害或危害，超过了指控罪名的法律所意图防范的损害或危害。”由此可见，《模范刑法典》在认定正当紧急避险时，采用了一种成本收益分析的思路。
+
+##===== _Insanity Defense_ 精神失常抗辩
+
+The insanity defense is a criminal law defense that has received a lot of attention and controversy 争议. The insanity defense distinguishes between those individuals who are responsible for their acts 对自身行为承担责任 and those individuals who are not.
+
+[.my2]
+精神失常抗辩是一项备受关注且极具争议的刑事抗辩理由，其作用在于区分两类人群：一类是需对自身行为承担刑事责任的人，另一类则是无需承担刑事责任的人。
+
+An insanity defense precedent case 先例案件 is the M’Naghten case 麦克纳顿案, a British case in 1843. The case led to the M’Naghten Rule 麦克纳顿规则, which held that
+
+[quote, , The M’Naghten Rule]
+To establish defense on the ground of insanity 以精神失常为由提出抗辩, it must clearly be proved that, at the time of committing the act, the party accused 被告人 was laboring under 遭受；患有 such a defect of reason 理智缺陷, from disease of the mind 精神疾病, as not to know the nature and quality 性质与严重性 of the act he was doing, or if he did know it, that he did not know [that what] he was doing [was] … wrong.
+
+[.my2]
+精神失常抗辩的先例案件是1843年的英国麦克纳顿案，该案确立了著名的麦克纳顿规则。该规则指出：
+
+[引用：麦克纳顿规则]
+若要以精神失常为由提出抗辩，必须明确证明：被告人在实施行为时，因患有精神疾病而存在理智缺陷，以至于无法知晓其行为的性质与严重性；或者即便知晓行为的性质，也无法认识到自身行为具有违法性。
+
+The rule is widely adopted by many American courts. In plain English 通俗地说, the M’Naghten Rule focuses on the defendant’s cognitive capacity 认知能力 to know and understand his own actions resulting from a mental disease or defect 精神疾病或缺陷. As a result, the criminal defendant must be unable to comprehend 理解 the wrongful nature 违法性 of the act.
+
+[.my2]
+该规则被美国许多法院广泛采纳。通俗地说，麦克纳顿规则聚焦于被告人因精神疾病或缺陷而产生的认知能力——即能否认识和理解自身行为的性质。据此，刑事被告人必须达到无法理解自身行为违法性的程度，才能适用这一抗辩理由。
+
+What does the MPC say about the controversial insanity defense? The MPC defines it as a “mental disease or defect” to exclude 排除 “an abnormality manifested only by repeated criminal or otherwise antisocial conduct 仅表现为反复实施犯罪或其他反社会行为的异常状态.”
+
+[.my2]
+对于这一极具争议的精神失常抗辩，《模范刑法典》是如何规定的？该法典将其界定为一种“精神疾病或缺陷”，同时明确排除了“仅表现为反复实施犯罪或其他反社会行为的异常状态”。
+
+
+==== Intoxication and Duress 醉酒与胁迫抗辩
+
+Other criminal law defenses include the defenses of intoxication 醉酒状态 and duress 胁迫；强迫. To plead 援引；提出 an intoxication defense, a person must be too intoxicated to understand his actions. The rationale 理论依据；原理 is that if an individual is intoxicated, then he (defendant) may not be conscious or aware of the risk being created (by the defendant). For the duress defense, a person (defendant) must have committed a crime only because the person (defendant) reasonably believed 合理相信 that doing so was the only way to avoid imminent death 即刻发生的死亡 or serious bodily injury 严重人身伤害.
+
+[.my2]
+其他的刑事抗辩理由包括醉酒抗辩与胁迫抗辩。要援引醉酒抗辩，行为人必须处于重度醉酒状态，以至于无法辨认自身行为的性质。该抗辩的理论依据是，若行为人处于醉酒状态，就有可能无法意识到自己的行为所制造的风险。而适用胁迫抗辩的条件是，行为人（被告人）实施犯罪行为，仅仅是因为其合理相信这是避免自身即刻死亡或遭受严重人身伤害的唯一途径。
+
+==== Inchoate Crimes 未完成罪
+
+Can a person be prosecuted 起诉；提起公诉 even though the crime ended up being incomplete 未完成的 or not at the level of what was originally intended? The short answer is yes. These instances involve inchoate crimes 未完成罪, because the criminal acts were incomplete or imperfect.
+
+[.my2]
+即便犯罪最终未能完成，或者未达到行为人最初的预期程度，行为人是否仍会被起诉？答案是肯定的。这类情形所涉及的犯罪被称为未完成罪，因为相关的犯罪行为并未既遂，或者存在形态上的缺陷。
+
+The following three types of inchoate crimes exist:
+
+1. Attempt 犯罪未遂：An attempt occurs when a person attempts a criminal act or when she tries to accomplish such an act. The mental element 主观要件 of the crime is the intent to commit the crime. The MPC defines attempt as “a substantial step 实质性步骤 in a course of conduct,” in which the substantial step is “strongly corroborative 佐证性的；确证的 of the actor’s criminal purpose.” An example would be buying a gun or knife to commit a criminal act. If the crime is completed, thus no longer being inchoate, then the attempt merges 吸收 with the related substantive criminal offense 实体犯罪.
+2. Solicitation 犯罪教唆：A solicitation occurs when the defendant tries to get another person to commit a crime. If the crime is completed, thus no longer being inchoate, then the solicitation merges 吸收 with the related substantive criminal offense.
+3. Conspiracy 犯罪共谋：A conspiracy is an agreement 协议；合意 among two or more people with the purpose of committing an unlawful act 非法行为. In many jurisdictions 司法管辖区, and unlike attempt and solicitation, conspiracy does not merge 不被吸收 into the completed crimes. Thus, it adds an extra layer of punishment to a crime, and it is one of the more commonly used of the three inchoate crimes.
+
+[.my2]
+未完成罪主要包含以下三种类型：
+1. 犯罪未遂：指行为人试图实施某项犯罪行为，或者采取行动力求达成犯罪目的的情形。该罪的主观要件是具备明确的犯罪意图。《模范刑法典》将犯罪未遂定义为“犯罪行为进程中的一个实质性步骤”，且该步骤需“能够有力佐证行为人的犯罪目的”。例如，购买枪支或刀具以实施犯罪的行为，即构成犯罪未遂。若犯罪最终既遂，不再属于未完成罪范畴，那么犯罪未遂的罪名就会被相关的实体犯罪罪名所吸收。
+2. 犯罪教唆：指被告人唆使他人实施犯罪的情形。若被教唆的犯罪最终既遂，不再属于未完成罪范畴，那么犯罪教唆的罪名就会被相关的实体犯罪罪名所吸收。
+3. 犯罪共谋：指两人或两人以上为实施某一非法行为而达成的合意。与犯罪未遂和犯罪教唆不同，在许多司法管辖区，犯罪共谋的罪名不会被既遂的犯罪罪名所吸收。因此，共谋行为会在基础犯罪的量刑之外，额外增加一层处罚，它也是三种未完成罪中适用频率较高的一种。
+
+---
+
+=== Homicide 杀人罪
+
+One objective of American criminal law is to distinguish between more and less serious criminal offenses, as well as among different levels of severity 严重程度. Homicide—a broad umbrella term 统称术语 involving the killing of one or more persons—is one criminal law area in which an important objective is to distinguish between different levels of severity among serious crimes.
+
+[.my2]
+美国刑法的目标之一，是区分不同轻重程度的刑事犯罪，明确各类犯罪的层级差异。杀人罪是一个涵盖非法剥夺一人或多人生命的广义统称术语，在这一刑法领域中，核心目标就是对不同严重程度的恶性犯罪进行层级划分。
+
+Homicide can be broadly divided into two subcategories:
+
+1. Murder (divided into first-degree 一级 and second-degree murder 二级谋杀罪)
+2. Manslaughter 过失杀人罪 (divided into voluntary 故意的 and involuntary manslaughter 过失的过失杀人罪)
+
+[.my2]
+杀人罪大致可分为以下两个子类别：
+1.  谋杀罪（分为一级谋杀罪与二级谋杀罪）
+2.  过失杀人罪（分为故意过失杀人罪与过失过失杀人罪）
+
+The traditional definition of murder is the killing of a human being with malice aforethought 恶意预谋. Murder is then again divided into first-degree murder and second-degree murder. Distinguishing between first- and second-degree murder is often difficult. The MPC attempts to provide some clarity 明晰性；清晰度 by essentially eliminating the traditional distinction between the two. Specifically, the MPC defines murder as a killing caused purposely, knowingly, or recklessly “under circumstances manifesting extreme indifference 表现出极端漠视 to the value of human life.” The MPC then states that “aggravating 加重的 and mitigating factors 减轻情节” can be considered to determine whether the death penalty 死刑 should be imposed. Among these factors are considerations not just related to the crime itself, but the person or persons who committed the crime. The defendant’s age, past criminal record 犯罪记录, and capacity 能力；认知能力 to appreciate or not appreciate the wrongfulness of his acts are among many factors that can be considered.
+
+[.my2]
+谋杀罪的传统定义是，带有恶意预谋地非法剥夺他人生命的行为。谋杀罪又可进一步分为一级谋杀罪和二级谋杀罪，而区分这两类谋杀罪的界限往往较为模糊。《模范刑法典》试图厘清这一问题，其核心做法是从本质上取消了传统分类方式。具体而言，《模范刑法典》将谋杀罪定义为：行为人蓄意、明知或轻率地实施杀人行为，且“相关情节足以表现出其对他人生命价值的极端漠视”。该法典同时规定，法院在决定是否判处死刑时，可以考量案件的“加重情节与减轻情节”。这些情节不仅包括与犯罪行为本身相关的因素，还涵盖了犯罪行为人的个人情况，例如被告人的年龄、过往犯罪记录，以及其辨认自身行为违法性的能力等诸多方面。
+
+The second type of homicide—manslaughter—can be thought of as a catch-all crime 兜底罪名 for nonmurder homicides involving killing a human being without malice aforethought (i.e., manslaughter includes all other types of homicide apart from murder). Manslaughter is then divided again into voluntary and involuntary manslaughter. One major type of voluntary manslaughter involves the killing of another person without malice aforethought under the “heat of passion 激情状态” caused by a sufficient provocation 充分挑衅；足够刺激。 An example of this could be when a husband comes home and finds his wife in bed with another man. Finally, involuntary manslaughter exists in which the criminal mental state exists somewhere between extreme recklessness 极端轻率 and negligence.
+
+[.my2]
+杀人罪的第二种类型——过失杀人罪，是针对不具备恶意预谋的非谋杀类杀人行为的兜底罪名（即除谋杀罪之外的所有其他杀人行为，都可归入过失杀人罪的范畴）。过失杀人罪又可分为故意过失杀人罪与过失过失杀人罪。故意过失杀人罪的一种主要情形是，行为人因受到充分挑衅而处于激情状态，在不具备恶意预谋的情况下杀害他人。例如，丈夫回家后撞见妻子与他人同床，进而实施杀人行为，就属于这类情形。而过失过失杀人罪的主观心理状态，则介于极端轻率与过失之间。
+
+---
+
+=== Criminal Procedure 刑事诉讼法
+
+Criminal procedure is the criminal process related to the substantive criminal law issues covered in the previous section. Specifically, it is the process by which crimes are investigated 调查 and adjudicated 裁决；审判, and where punishment for criminal acts is rendered 判处；施加. Criminal procedure legal sources can include, among others, the following:
+
+- U.S. Constitution (as well as state constitutions)
+- Federal and state case law 判例法
+- Federal Rules of Criminal Procedure (FRCP) (as well as related state-level rules)
+
+[.my2]
+刑事诉讼法是与上一节所阐述的实体刑法问题相关的刑事程序规范。具体来说，它是规范犯罪案件调查、裁决，以及对犯罪行为施加刑罚的流程体系。刑事诉讼法的法律渊源主要包括以下几类：
+- 美国宪法（以及各州宪法）
+- 联邦与各州的判例法
+- 《联邦刑事诉讼规则》（以及各州对应的相关规则）
+
+---
+
+==== Search and Seizure by the Police 警方的搜查与扣押
+
+The law of search and seizure governs 规范；管辖 some basic police investigative techniques 侦查手段. Examples of police search and seizures can occur through actions such as stopping suspected criminals 犯罪嫌疑人 to ask them questions, frisking 搜身 of a person’s clothing and other items, as well as the search of a person’s car or home. State search and seizures can also occur through wiretapping 窃听, electronic surveillance 电子监控, examination 查验 of garbage (and other items thrown away), as well as through the accessing and auditing 核查；查阅 of business and/or personal records.
+
+[.my2]
+搜查与扣押相关法律规范着警方的一些基本侦查手段。警方实施搜查与扣押的行为包括：拦下犯罪嫌疑人进行盘问、对人身及其衣物等物品进行搜身、搜查个人车辆或住所等。政府机关还可通过窃听、电子监控、查验丢弃的垃圾（及其他废弃物）、查阅核查商业或个人记录等方式，实施搜查与扣押。
+
+The Fourth Amendment to the U.S. Constitution generally applies to search and seizures conducted by the state, which includes not just police officers, but any government officials who would involve state action 政府行为. Specifically, the Fourth Amendment prohibits “unreasonable” searches and sets forth 规定；阐明 the requirements for a court to issue a search warrant 搜查令, which, among other things, requires that probable cause 合理根据；正当理由 for the search must exist. A search warrant is evidence of legal authorization 法定授权 from a judge or comparable authority 相应主管机关 for the police (or other state actor) to conduct a search and, if needed, to seize 扣押 evidence of a crime.
+
+[.my2]
+美国宪法第四修正案通常适用于政府机关实施的搜查与扣押行为，这里的政府机关不仅包括警察，还包括所有实施政府行为的公职人员。具体而言，第四修正案禁止“不合理的”搜查行为，并规定了法院签发搜查令的相关要件，其中核心要件是必须具备开展搜查的合理根据。搜查令是由法官或相应主管机关出具的法定授权文件，授权警方（或其他政府机关工作人员）实施搜查，并在必要时扣押犯罪证据。
+
+
+
+The U.S. Supreme Court originally held that only physical intrusions 侵入行为 constituted a search under the constitutional protections of the Fourth Amendment. Later, the Supreme Court broadened 扩大；拓展 the types of searches to go beyond mere physical intrusions, in a 1976 landmark 具有里程碑意义的 case, Katz v. U.S., related to a person’s reasonable expectation of privacy 合理隐私期待.
+
+[.my2]
+美国最高法院最初认为，只有构成物理侵入的行为，才属于受宪法第四修正案保护的“搜查”范畴。后来，在1976年具有里程碑意义的“卡茨诉美国案”中，最高法院拓宽了搜查的认定范围，不再局限于单纯的物理侵入，该案件的核心争议点正是“个人的合理隐私期待”。
+
+Can all searches be conducted without a search warrant 搜查令? The short answer is no. Searches must generally be conducted with a search warrant, if the search is deemed 被认定 to be reasonable 合理的. One key indicator 指标；依据 of reasonableness is probable cause 合理根据 to believe that evidence of the crime will be found.
+
+[.my2]
+是否所有搜查都可以在没有搜查令的情况下进行？答案是否定的。一般而言，若要认定搜查行为具有合理性，就必须持有搜查令开展搜查。判断合理性的核心依据之一，是存在合理根据相信相关犯罪证据将会被查获。
+
+Exceptions 例外情形 exist whereby searches can be conducted without a search warrant. One exception relates to seizures 扣押 of items that are in plain view 明显可见的 of the premises 场所；处所 in which the search is being conducted. This is known as the plain view doctrine 明显可视原则, by which property can be seized without a search warrant or probable cause if it is in plain view (viewable to the eye) during the course of a lawful 合法的 search by the police or other state actors 政府机关工作人员.
+
+[.my2]
+法律中也存在无需搜查令即可开展搜查的例外情形。其中一种例外是，对搜查场所内明显可见的物品实施扣押。这一规则被称为“明显可视原则”，根据该原则，警方或其他政府机关工作人员在合法搜查过程中，若发现某物品处于明显可见状态（肉眼可直接观察到），则无需搜查令或合理根据即可对该物品实施扣押。
+
+Another exception in which the police or other state actors would not always need a warrant or probable cause relates to a stop and frisk 拦截搜身 scenario 情形. A stop and frisk typically occurs when an officer briefly stops (detains 拘留) a person, often involving questions related to the person’s possible knowledge of certain suspicious 可疑的 criminal activity. The police officer would then begin a frisk (patdown 拍打式搜查) of the person’s clothing to make sure that no weapons 武器 are in possession 持有 by the person who may potentially pose 构成；造成 an immediate 直接的 danger or threat to the police officer.
+
+[.my2]
+另一种例外情形是“拦截搜身”，在此情形下警方或其他政府机关工作人员并非始终需要搜查令或合理根据。拦截搜身通常是指警察短暂拦下（拘留）某人，就其可能知晓的特定可疑犯罪活动进行盘问。随后，警察会对该人的衣物进行拍打式搜查，确认其未携带武器，以防该人对警察构成直接的危险或威胁。
+
+Throughout the process of search and seizure rights and protection, American courts aim to strike a balance 寻求平衡 between Fourth Amendment protection of the suspect weighed against allowing the police to perform their duties 履行职责 to protect the public. What if, however, the police conduct an unreasonable search (for instance, without probable cause)? One outcome could be that a court would apply the exclusionary rule 排除规则, created by a seminal 开创性的 case in 1914, Weeks v. U.S. The exclusionary rule states that evidence obtained by the government in violation of 违反 the Constitution may not be used against the defendant, because the defendant’s constitutional rights have been violated. Thus, any incriminating 定罪的；指控的 evidence found during an unreasonable search and seizure, or obtained from a confession 口供；供述, by the state may be excluded from being used as evidence in the prosecution’s 公诉方的 case. The exclusionary rule is a disincentive 抑制因素 for police against conducting unconstitutional searches and seizures, as well as using illegal confession-gathering techniques 取证手段.
+
+[.my2]
+在整个搜查与扣押的权利保护体系中，美国法院的核心目标是寻求一种平衡——既要依据第四修正案保护嫌疑人的权利，又要保障警方能够履行保护公众的职责。但如果警方实施了不合理的搜查（例如，在缺乏合理根据的情况下开展搜查），会产生怎样的后果？其中一种结果是，法院可能会适用“排除规则”，该规则由1914年的开创性案件“威克斯诉美国案”所确立。排除规则规定，政府通过违反宪法的方式获取的证据，不得用于指控被告人，因为被告人的宪法权利已经遭到了侵犯。因此，政府在不合理搜查扣押过程中查获的、或是通过口供获取的任何定罪证据，都可能被排除在公诉方的庭审证据之外。排除规则能够抑制警方实施违宪的搜查扣押行为，同时也能约束警方不得采用非法的口供取证手段。
+
+The exclusionary rule has been further extended 延伸；扩展 under the fruit of the poisonous tree doctrine 毒树之果原则, created by a seminal case in 1920, Silverthorne Lumber Co. v. U.S. The fruit of the poisonous tree doctrine extends the exclusionary rule by barring 禁止采纳 evidence obtained after an illegal search was conducted. However, certain exceptions to the fruit of the poisonous tree doctrine exist, whereby certain illegal evidence can be used, such as evidence obtained in the following conditions:
+
+- Under the good faith exception 善意例外原则, whereby an illegal search in which the police reasonably believe in good faith 出于善意 that their search is constitutionally permissible 被允许的
+- The information was discovered by a source independent 独立的 of the illegal search
+- The discovery of information in the illegal search was inevitable 必然的；不可避免的
+- If the link 关联性 between the illegal search and evidence discovery is attenuated 弱化的；中断的
+
+[.my2]
+排除规则的适用范围通过“毒树之果原则”得到了进一步延伸，该原则由1920年的开创性案件“西尔弗索恩木材公司诉美国案”所确立。毒树之果原则拓展了排除规则的适用边界，禁止采纳警方在非法搜查后获取的派生证据。不过，毒树之果原则也存在一些例外情形，在这些情形下，特定的非法证据可以被采纳，例如在以下条件下获取的证据：
+- 基于善意例外原则：警方出于善意，合理地相信其搜查行为符合宪法规定，在此情况下实施的非法搜查所获证据
+- 通过独立于非法搜查的其他线索来源所发现的证据
+- 在非法搜查过程中必然会被发现的证据
+- 非法搜查行为与证据发现之间的关联性已经弱化或中断的证据
+
+---
+
+==== Privilege Against Self-Incrimination 反对自证其罪特权
+
+In the American criminal system, the prosecution generally has the burden of proving 举证责任 its case through its own efforts, not through the inquisition 审讯；盘问 of the accused (defendant). The U.S. Constitution directly reflects this principle under the Fifth Amendment, which states, “No person … shall be compelled 强迫 in any criminal case to be a witness against himself.”
+
+[.my2]
+在美国刑事诉讼体系中，公诉方通常负有举证责任，必须依靠自身的取证来证明案件事实，而非通过审讯被告人来获取证据。美国宪法第五修正案直接体现了这一原则，该修正案规定：“任何人……不得在任何刑事案件中被强迫作反对自己的证人。”
+
+One of the most famous American law cases, Miranda v. Arizona 米兰达诉亚利桑那州案, relates to the issue of self-incrimination protections. In the case, the court concluded that it is necessary to use “adequate protective devices 保护措施 … to dispel 消除 the compulsion 强迫性 inherent in 固有的 custodial surroundings 羁押环境.” In plain English 通俗地说, the court’s ruling holds that a person being interrogated 讯问 by the police should receive adequate protection against the possibility of self-incrimination (to avoid, for instance, an involuntary 非自愿的 confession obtained by undue 不当的 physical force 暴力 or duress 胁迫).
+
+[.my2]
+美国最著名的法律案件之一“米兰达诉亚利桑那州案”，就与反对自证其罪的权利保护问题相关。在该案中，最高法院判定，必须采取“充分的保护措施……以消除羁押环境中固有的强迫性”。通俗地说，该判决的核心要义是：被警方讯问的人应当获得充分保护，以避免被迫作出自证其罪的陈述（例如，防止警方通过不当暴力或胁迫手段获取非自愿口供）。
+
+This case ultimately led to the formative requirements 核心要件 known as the suspect’s Miranda rights 米兰达权利 against self-incrimination, which requires that the following be stated to the suspect when he or she is detained in custody 被羁押 by the police:
+
+[quote, , Miranda v. Arizona]
+“[T]hat he has the right to remain silent 保持沉默 … that anything he says can and will be used against the individual in court 法庭 … that he has the right to consult with 咨询 a lawyer 律师 and to have the lawyer with him during interrogation … [and] that if he is indigent 贫困的；无钱聘请律师的, a lawyer will be appointed 指派 to represent 代理 him.”
+
+[.my2]
+这起案件最终确立了嫌疑人享有的、针对自证其罪的“米兰达权利”的核心要件。根据该规则，当嫌疑人被警方羁押时，警方必须向其告知以下内容：
+
+[引用：米兰达诉亚利桑那州案]
+“你有权保持沉默……你所说的每一句话都可能并且将会在法庭上被用作指控你的证据……你有权咨询律师，并要求律师在讯问过程中全程在场……如果你经济困难无力聘请律师，法庭将为你指派一名律师为你代理。”
+
+[quote, , Miranda v. Arizona]
+That if the suspect, “indicates 表明 in any manner, at any time prior to or during the questioning 讯问, that he wishes to remain silent, the interrogation must cease 停止 … [and if he] states that he wants an attorney 律师, the interrogation must cease until an attorney is present.”
+
+[.my2]
+[引用：米兰达诉亚利桑那州案]
+“如果嫌疑人在讯问之前或讯问过程中的任何时候，以任何方式表明其希望保持沉默，讯问必须立即停止……如果嫌疑人明确表示想要聘请律师，那么在律师到场之前，讯问必须停止。”
+
+---
+
+=== Summary 小结
+
+The field of American criminal law is a complex 复杂的 and controversial 有争议的 subject in both theory and practice. Issues, such as whether the defendant had the requisite 必要的 mental state (mens rea 犯罪意图), along with evidence of the physical act (actus reas 犯罪行为) itself, are considered. Alongside these issues are considerations of whether criminal law defenses 刑事抗辩理由 exist, such as justification 正当化事由 and excuses 免责事由. The killing of another human being is generally categorized as 归类为 a homicide 杀人罪. Homicides are then divided into the categories of murder 谋杀罪 (whereby malice aforethought 恶意预谋 is a necessary element 构成要件) and manslaughter 过失杀人罪 (whereby malice aforethought is not a necessary element). A defendant may also be prosecuted 被起诉 even if the intended crime was rendered 致使 incomplete, under what is known as an inchoate crime 未完成罪.
+
+[.my2]
+美国刑法领域在理论和实践层面都是一个复杂且极具争议的课题。在刑事案件的审理中，法院需要考量诸多问题，例如被告人是否具备必要的主观心理状态（犯罪意图），同时还需审查客观犯罪行为的相关证据。除此之外，法院还需判断被告人是否存在可援引的刑事抗辩理由，例如正当化事由与免责事由。非法剥夺他人生命的行为通常被归类为杀人罪，而杀人罪又可分为谋杀罪（恶意预谋是其必要构成要件）与过失杀人罪（不要求具备恶意预谋这一要件）。即便行为人意图实施的犯罪最终未能完成，其仍可能因未完成罪而被提起公诉。
+
+The field of criminal procedure 刑事诉讼法 is the criminal process related to substantive criminal law 实体刑法 issues. Specifically, criminal procedure is the process by which crimes are investigated 调查 and adjudicated 裁决, and where punishment for criminal acts are rendered 判处. Within the area of criminal procedure are issues related to the legality 合法性 or illegality 违法性 of search and seizures by the police or other state actors. Most searches must be reasonable and supported by probable cause as evidenced by a search warrant. However, exceptions exist when evidence or confessions obtained illegally can be allowed as evidence in a court of law 法庭. The Fourth Amendment, prohibiting illegal search and seizure by the government, aspires to 力求；旨在 strike a strategic balance 实现战略性平衡 between protecting individual freedoms 公民自由 weighed against allowing the police or other state actors to do their job of protecting the people.
+
+[.my2]
+刑事诉讼法是与实体刑法相关的程序规范体系。具体而言，刑事诉讼法规范着犯罪案件的调查、裁决流程，以及对犯罪行为的量刑处罚环节。刑事诉讼法的核心议题之一，是警方或其他政府机关工作人员实施搜查扣押行为的合法性与违法性认定。大多数搜查行为都必须具备合理性，且需以持有载明合理根据的搜查令为前提。但在特定例外情形下，通过非法手段获取的证据或口供也可能被法庭采纳。宪法第四修正案禁止政府实施非法搜查扣押行为，其立法目的是力求实现一种战略性平衡——既要保护公民自由，又要保障警方及其他政府机关工作人员能够履行保护公众的职责。
+
+
+
+
+'''
+
+
+== pure
+
+7.CRIMINAL LAW AND PROCEDURE
+
+When many people envision lawyers, often the image that appears is of a tense criminal law court scene from a famous TV show or movie. In the image is a young, attractive, and highly articulate lawyer seeking justice in front of a packed and attentive courtroom listening to the lawyer’s every word.
+
+Relating to criminal cases—and to distinguish fact from fiction in these scenes—this chapter focuses on the field of criminal law and procedure. Criminal law can be divided into substantive and procedural aspects of criminal law. Criminal law overviews and defines what behavior is criminal behavior, along with the general principles underlying criminal liability for criminal behavior. Criminal procedure is defined as the process by which criminal behavior is adjudicated. This chapter’s initial section focuses on criminal law, subsequently followed by criminal procedure.
+
+---
+
+=== Criminal Law
+
+Criminal law’s main issues include the following:
+
+- Whether the defendant committed a criminal act (in Latin, actus reas, meaning the defendant’s “physical act”).
+- Whether the defendant performed the criminal act with the requisite culpable state of mind (in Latin, mens rea, meaning the criminal defendant’s “mental state”).
+- Whether any criminal defenses exist for the defendant (assuming the defendant performed the criminal act with the requisite culpable state of mind).
+
+---
+
+==== Criminal Mental States
+
+Definitions of criminal offenses have traditionally varied from state to state, causing potential confusion. The Model Penal Code (MPC) sought to clarify potential confusion by creating four definitions of mental states, as follows:
+
+1. Purposely: The mental state when a “conscious object to engage in conduct of that nature or to cause such a result” exists. So, if A kills B because A’s intent was to kill B, then A killed B purposely under the MPC.
+2. Knowingly: Occurs when an act that is “practically certain” that A’s conduct will cause an outcome that is a criminal act, or that A is aware of the nature or circumstances of A’s conduct.
+3. Recklessly: Exists when A “consciously disregards a substantial and unjustifiable risk.”
+4. Negligently: Occurs when A should have been aware of a risk, but was careless (negligent), so that A was not aware of the risk.
+
+
+---
+
+==== Criminal Defenses
+
+What types of criminal defenses exist? Generally, two types exist: (1) justification and (2) excuses. Justification includes (a) self-defense, (b) acting under official authority, and (c) other circumstances that involve a “least worst” choice. The need for self-defense can be tested by asking, “Did the defendant (i) reasonably believe the use of defensive force (ii) to be necessary in the face of an (iii) imminent attack or threat?”
+
+The attack, therefore, cannot be a theoretical or hypothetical one, nor can it be a threat that may or will happen sometime in the future. It must be an actual, imminent attack or threat. Acting under official authority relates to the exercise of government authority that makes lawful an act that normally may be considered a criminal act.
+
+An often-cited case of a circumstance involving a “least worst” option is an older English case, Regina v. Dudley, involving four people at sea, where one of the four people was purposely killed for the others’ survival after they went many days without food or water. After being picked up by a German boat after the killing, some of the individuals on the boat were tried for murder. The defendants argued that the act constituted a justifiable necessity. The English court, however, disagreed. In modern times, American courts have a potential basis to rule that a similar situation may be a justifiable necessity relating to a choice of least worst options. For example, the MPC provides that, “the harm or evil sought to be avoided is greater than that sought to be prevented by the law defining the offense charged.” The MPC thus applies a type of cost-benefit analysis when it comes to justifiable necessity.
+
+===== _Insanity Defense_
+
+The insanity defense is a criminal law defense that has received a lot of attention and controversy. The insanity defense distinguishes between those individuals who are responsible for their acts and those individuals who are not.
+
+An insanity defense precedent case is the M’Naghten case, a British case in 1843. The case led to the M’Naghten Rule, which held that
+
+[quote, , The M’Naghten Rule]
+To establish defense on the ground of insanity, it must clearly be proved that, at the time of committing the act, the party accused was laboring under such a defect of reason, from disease of the mind, as not to know the nature and quality of the act he was doing, or if he did know it, that he did not know [that what] he was doing [was] … wrong.
+
+The rule is widely adopted by many American courts. In plain English, the M’Naghten Rule focuses on the defendant’s cognitive capacity to know and understand his own actions resulting from a mental disease or defect. As a result, the criminal defendant must be unable to comprehend the wrongful nature of the act.
+
+What does the MPC say about the controversial insanity defense? The MPC defines it as a “mental disease or defect” to exclude “an abnormality manifested only by repeated criminal or otherwise antisocial conduct.”
+
+===== _Intoxication and Duress_
+
+Other criminal law defenses include the defenses of intoxication and duress. To plead an intoxication defense, a person must be too intoxicated to understand his actions. The rationale is that if an individual is intoxicated, then he (defendant) may not be conscious or aware of the risk being created (by the defendant). For the duress defense, a person (defendant) must have committed a crime only because the person (defendant) reasonably believed that doing so was the only way to avoid imminent death or serious bodily injury.
+
+===== _Inchoate Crimes_
+
+Can a person be prosecuted even though the crime ended up being incomplete or not at the level of what was originally intended? The short answer is yes. These instances involve inchoate crimes, because the criminal acts were incomplete or imperfect.
+
+The following three types of inchoate crimes exist:
+
+1. Attempt: An attempt occurs when a person attempts a criminal act or when she tries to accomplish such an act. The mental element of the crime is the intent to commit the crime. The MPC defines attempt as “a substantial step in a course of conduct,” in which the substantial step is “strongly corroborative of the actor’s criminal purpose.” An example would be buying a gun or knife to commit a criminal act. If the crime is completed, thus no longer being inchoate, then the attempt merges with the related substantive criminal offense.
+2. Solicitation: A solicitation occurs when the defendant tries to get another person to commit a crime. If the crime is completed, thus no longer being inchoate, then the solicitation merges with the related substantive criminal offense.
+3. Conspiracy: A conspiracy is an agreement among two or more people with the purpose of committing an unlawful act. In many jurisdictions, and unlike attempt and solicitation, conspiracy does not merge into the completed crimes. Thus, it adds an extra layer of punishment to a crime, and it is one of the more commonly used of the three inchoate crimes.
+
+---
+
+=== Homicide
+
+One objective of American criminal law is to distinguish between more and less serious criminal offenses, as well as among different levels of severity. Homicide—a broad umbrella term involving the killing of one or more persons—is one criminal law area in which an important objective is to distinguish between different levels of severity among serious crimes.
+
+Homicide can be broadly divided into two subcategories:
+
+1. Murder (divided into first-degree and second-degree murder)
+2. Manslaughter (divided into voluntary and involuntary manslaughter)
+
+
+The traditional definition of murder is the killing of a human being with malice aforethought. Murder is then again divided into first-degree murder and second-degree murder. Distinguishing between first- and second-degree murder is often difficult. The MPC attempts to provide some clarity by essentially eliminating the traditional distinction between the two. Specifically, the MPC defines murder as a killing caused purposely, knowingly, or recklessly “under circumstances manifesting extreme indifference to the value of human life.” The MPC then states that “aggravating and mitigating factors” can be considered to determine whether the death penalty should be imposed. Among these factors are considerations not just related to the crime itself, but the person or persons who committed the crime. The defendant’s age, past criminal record, and capacity to appreciate or not appreciate the wrongfulness of his acts are among many factors that can be considered.
+
+The second type of homicide—manslaughter—can be thought of as a catch-all crime for nonmurder homicides involving killing a human being without malice aforethought (i.e., manslaughter includes all other types of homicide apart from murder). Manslaughter is then divided again into voluntary and involuntary manslaughter. One major type of voluntary manslaughter involves the killing of another person without malice aforethought under the “heat of passion” caused by a sufficient provocation. An example of this could be when a husband comes home and finds his wife in bed with another man. Finally, involuntary manslaughter exists in which the criminal mental state exists somewhere between extreme recklessness and negligence.
+
+---
+
+=== Criminal Procedure
+
+Criminal procedure is the criminal process related to the substantive criminal law issues covered in the previous section. Specifically, it is the process by which crimes are investigated and adjudicated, and where punishment for criminal acts is rendered. Criminal procedure legal sources can include, among others, the following:
+
+- U.S. Constitution (as well as state constitutions)
+- Federal and state case law
+- Federal Rules of Criminal Procedure (FRCP) (as well as related state-level rules)
+
+---
+
+==== Search and Seizure by the Police
+
+The law of search and seizure governs some basic police investigative techniques. Examples of police search and seizures can occur through actions such as stopping suspected criminals to ask them questions, frisking of a person’s clothing and other items, as well as the search of a person’s car or home. State search and seizures can also occur through wiretapping, electronic surveillance, examination of garbage (and other items thrown away), as well as through the accessing and auditing of business and/or personal records.
+
+The Fourth Amendment to the U.S. Constitution generally applies to search and seizures conducted by the state, which includes not just police officers, but any government officials who would involve state action. Specifically, the Fourth Amendment prohibits “unreasonable” searches and sets forth the requirements for a court to issue a search warrant, which, among other things, requires that probable cause for the search must exist. A search warrant is evidence of legal authorization from a judge or comparable authority for the police (or other state actor) to conduct a search and, if needed, to seize evidence of a crime.
+
+The U.S. Supreme Court originally held that only physical intrusions constituted a search under the constitutional protections of the Fourth Amendment. Later, the Supreme Court broadened the types of searches to go beyond mere physical intrusions, in a 1976 landmark case, Katz v. U.S., related to a person’s reasonable expectation of privacy.
+
+Can all searches be conducted without a search warrant? The short answer is no. Searches must generally be conducted with a search warrant, if the search is deemed to be reasonable. One key indicator of reasonableness is probable cause to believe that evidence of the crime will be found.
+
+Exceptions exist whereby searches can be conducted without a search warrant. One exception relates to seizures of items that are in plain view of the premises in which the search is being conducted. This is known as the plain view doctrine, by which property can be seized without a search warrant or probable cause if it is in plain view (viewable to the eye) during the course of a lawful search by the police or other state actors.
+
+Another exception in which the police or other state actors would not always need a warrant or probable cause relates to a stop and frisk scenario. A stop and frisk typically occurs when an officer briefly stops (detains) a person, often involving questions related to the person’s possible knowledge of certain suspicious criminal activity. The police officer would then begin a frisk (patdown) of the person’s clothing to make sure that no weapons are in possession by the person who may potentially pose an immediate danger or threat to the police officer.
+
+Throughout the process of search and seizure rights and protection, American courts aim to strike a balance between Fourth Amendment protection of the suspect weighed against allowing the police to perform their duties to protect the public. What if, however, the police conduct an unreasonable search (for instance, without probable cause)? One outcome could be that a court would apply the exclusionary rule, created by a seminal case in 1914, Weeks v. U.S. The exclusionary rule states that evidence obtained by the government in violation of the Constitution may not be used against the defendant, because the defendant’s constitutional rights have been violated. Thus, any incriminating evidence found during an unreasonable search and seizure, or obtained from a confession, by the state may be excluded from being used as evidence in the prosecution’s case. The exclusionary rule is a disincentive for police against conducting unconstitutional searches and seizures, as well as using illegal confession-gathering techniques.
+
+The exclusionary rule has been further extended under the fruit of the poisonous tree doctrine, created by a seminal case in 1920, Silverthorne Lumber Co. v. U.S. The fruit of the poisonous tree doctrine extends the exclusionary rule by barring evidence obtained after an illegal search was conducted. However, certain exceptions to the fruit of the poisonous tree doctrine exist, whereby certain illegal evidence can be used, such as evidence obtained in the following conditions:
+
+- Under the good faith exception, whereby an illegal search in which the police reasonably believe in good faith that their search is constitutionally permissible
+- The information was discovered by a source independent of the illegal search
+- The discovery of information in the illegal search was inevitable
+- If the link between the illegal search and evidence discovery is attenuated
+
+---
+
+==== Privilege Against Self-Incrimination
+
+In the American criminal system, the prosecution generally has the burden of proving its case through its own efforts, not through the inquisition of the accused (defendant). The U.S. Constitution directly reflects this principle under the Fifth Amendment, which states, “No person … shall be compelled in any criminal case to be a witness against himself.”
+
+One of the most famous American law cases, Miranda v. Arizona, relates to the issue of self-incrimination protections. In the case, the court concluded that it is necessary to use “adequate protective devices … to dispel the compulsion inherent in custodial surroundings.” In plain English, the court’s ruling holds that a person being interrogated by the police should receive adequate protection against the possibility of self-incrimination (to avoid, for instance, an involuntary confession obtained by undue physical force or duress).
+
+This case ultimately led to the formative requirements known as the suspect’s Miranda rights against self-incrimination, which requires that the following be stated to the suspect when he or she is detained in custody by the police:
+
+[quote, , Miranda v. Arizona]
+“[T]hat he has the right to remain silent … that anything he says can and will be used against the individual in court … that he has the right to consult with a lawyer and to have the lawyer with him during interrogation … [and] that if he is indigent, a lawyer will be appointed to represent him.”
+
+[quote, , Miranda v. Arizona]
+That if the suspect, “indicates in any manner, at any time prior to or during the questioning, that he wishes to remain silent, the interrogation must cease … [and if he] states that he wants an attorney, the interrogation must cease until an attorney is present.”
+
+---
+
+=== Summary
+
+The field of American criminal law is a complex and controversial subject in both theory and practice. Issues, such as whether the defendant had the requisite mental state (mens rea), along with evidence of the physical act (actus reas) itself, are considered. Alongside these issues are considerations of whether criminal law defenses exist, such as justification and excuses. The killing of another human being is generally categorized as a homicide. Homicides are then divided into the categories of murder (whereby malice aforethought is a necessary element) and manslaughter (whereby malice aforethought is not a necessary element). A defendant may also be prosecuted even if the intended crime was rendered incomplete, under what is known as an inchoate crime.
+
+The field of criminal procedure is the criminal process related to substantive criminal law issues. Specifically, criminal procedure is the process by which crimes are investigated and adjudicated, and where punishment for criminal acts are rendered. Within the area of criminal procedure are issues related to the legality or illegality of search and seizures by the police or other state actors. Most searches must be reasonable and supported by probable cause as evidenced by a search warrant. However, exceptions exist when evidence or confessions obtained illegally can be allowed as evidence in a court of law. The Fourth Amendment, prohibiting illegal search and seizure by the government, aspires to strike a strategic balance between protecting individual freedoms weighed against allowing the police or other state actors to do their job of protecting the people.

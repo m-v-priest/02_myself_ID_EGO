@@ -1,0 +1,589 @@
+
+= 01 HOW TO THINK LIKE AN AMERICAN LAWYER 如何像美国律师一样思考
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../../myAdocCss.css
+
+'''
+
+
+== 释义
+
+1  HOW TO THINK LIKE AN AMERICAN LAWYER
+How do American (U.S.-licensed) lawyers think? What is the objective 目标；目的 of American law schools? The two questions are interrelated 相互关联的；彼此相关的. American law school education aspires 渴望；立志；追求 to teach students how to think like a lawyer. For many students, this mandate 命令；指令；任务 is murky 模糊不清的；晦涩难懂的. Many of them arrive at law school with the assumption 假定；假设；设想 that the objective of a U.S. law school is to teach the law. But is it?
+
+[.my2]
+美国（持有美国执业执照的）律师是如何思考的？美国法学院的目标是什么？这两个问题相互关联。美国法学院教育致力于教会学生如何像律师一样思考。对许多学生而言，这一要求模糊不清。他们中的不少人进入法学院时，都假定美国法学院的目标是教授法律知识。但事实果真如此吗？
+
+The short answer is yes and no. Yes, American law schools do teach the law, but the instruction 教导；指导；讲授 of the law is often equally valued 重视；珍视；看重 with how to use the law. To use the law, a future American lawyer must know not only what the law is, but also how to use and apply 应用；运用；实施 the law. Put simply, the difference is similar to the difference in understanding and memorizing 记忆；记住 the rules of a game versus 与…… 相对；与…… 相比 knowing the process 过程；进程 and strategy 策略；战略 of how to play the game.
+
+[.my2]
+简单来说，答案是既有肯定的一面，也有否定的一面。诚然，美国法学院会教授法律知识，但法律知识的讲授往往与如何运用法律受到同等重视。要运用法律，未来的美国律师不仅必须知晓法律是什么，还必须掌握如何运用和实施法律。简而言之，这种区别类似于理解并记住游戏规则，与掌握玩游戏的流程和策略之间的区别。
+
+As a modern 21st century analogy 类比；比拟 of explaining the thinking process and how it relates to the American legal system 法律体系；法制体系，think of the American legal system—including the law itself within this legal system—as the system’s hardware 硬件. The ability and skill set 技能组合；一套技能 to process 处理；加工 and effectively leverage 利用；发挥…… 的作用 this system in a value-added 增值的；增加价值的 way is thinking like a lawyer, which represents 代表；象征 the American lawyer’s software 软件.
+
+[.my2]
+用一个 21 世纪现代的类比来解释这种思考过程及其与美国法律体系的关联：可以将美国法律体系 —— 包括该体系内的法律本身 —— 视为系统的 “硬件”。而以增值方式处理并有效利用该体系的能力与技能组合，即 “像律师一样思考”，则代表了美国律师的 “软件”。
+
+So how do American lawyers think? American lawyers think through a structured 结构化的；有条理的 analytical 分析的；解析的 approach 方法；方式 that allows them to filter 筛选；过滤 vast 大量的；庞大的 types of relevant 相关的；切题的 and irrelevant 不相关的；无关紧要的 information and data 数据 to ultimately 最终；最后 arrive at 得出（结论）；达到（结果） a recommended 推荐的；建议的 course of action 行动方案；做法 vis-à-vis 与…… 相比；关于 this structured analysis.
+
+[.my2]
+那么美国律师究竟是如何思考的呢？美国律师会通过一种结构化的分析方法进行思考，这种方法能让他们筛选各类相关与不相关的信息和数据，最终基于这种结构化分析得出建议的行动方案。
+
+The IRAC approach reflects 反映；体现 one, but not all, of the main ways that American lawyers think. The IRAC legal method 方法；方式 is described 描述；叙述 as follows:
+
+[.my2]
+“IRAC” 方法体现了美国律师思考的主要方式之一，但并非全部。IRAC 法律分析方法的描述如下： +
+
+- Issue: Legal question is presented 提出；呈现. +
+- Rule (of law): Rule of law that applies to 适用于 the Issue is determined 确定；判定. +
+- Apply: Rule (of law) is applied to 应用于 the case’s specific 具体的；特定的 facts 事实；实情. +
+- Conclusion: A yes or no answer to the Issue is given. +
+
+[.my2]
+- I（Issue，法律问题）：提出需要解决的法律问题。
+- R（Rule of law，法律规则）：确定适用于该法律问题的法律规则。
+- A（Apply，规则适用）：将法律规则应用于案件的具体事实。
+- C（Conclusion，结论）：对法律问题给出 “是” 或 “否” 的答案。
+
+Each of the IRAC components 组成部分；构成要素 can generally be written in one sentence. The exception 例外；除外 is for the Apply section 部分；章节，which can be anywhere from several sentences to several paragraphs 段落.
+
+[.my2]
+IRAC 的每个组成部分通常都能以一句话的形式呈现。唯一的例外是 “规则适用” 部分，其篇幅可从几个句子到几个段落不等。
+
+The IRAC analytical framework 框架；结构 can be and is used in different ways. It is generally used to synthesize 综合；整合 and summarize 总结；概括 a legal case 法律案件 in a clear, succinct 简洁的；简明的，and efficient 高效的；有成效的 way. With IRAC, a legal case of either 10 or 10,000 words can generally be condensed 浓缩；精简 to a simple page or two written in plain English 通俗易懂的英语；平实英语 (more on this topic later). This process helps because condensing the legal case requires prioritizing 优先处理；按重要性排序 and editing 编辑；修改 case sections that are relatively 相对地；比较地 less important (a form of proactive 积极主动的；先发制人的 legal learning). This, in turn, requires that the reader must know the material 材料；内容，not just be able to read and understand the material (a form of passive 被动的；消极的 legal learning). The IRAC process is also beneficial 有益的；有利的 after the fact, because the IRAC version 版本 of the legal case only has the bare essentials 最基本要素；核心内容 of the case, which is a clear and concise 简明扼要的；简练的 reference point 参考依据；参照标准 for law students and/or legal professionals 法律专业人士.
+
+[.my2]
+IRAC 分析框架可以且确实以多种方式被运用。它通常用于以清晰、简洁且高效的方式综合和总结法律案件。借助 IRAC，一篇 10 词或 10000 词的法律案件文书，通常能精简成一两页通俗易懂的英文（关于该主题的更多内容将在后续介绍）。这一过程之所以有帮助，是因为精简法律案件需要优先处理并修改相对不重要的案件部分（这是一种主动式法律学习方式）。反过来，这要求读者必须真正掌握内容，而不仅仅是能够阅读和理解内容（后者是一种被动式法律学习方式）。事后看来，IRAC 流程也颇具益处，因为案件的 IRAC 版本只包含案件的核心要素，对于法学院学生和 / 或法律专业人士而言，这是一个清晰简洁的参考依据。
+
+Let’s now look at each of the specific parts of the IRAC process.
+[.my2]
+现在，我们来逐一分析 IRAC 流程的各个具体部分。
+
+=== Issue
+
+The Issue is the legal question presented (and, as such, to be analyzed 分析；解析 and answered). The Issue is essentially 本质上；根本上 the leader 主导者；引领者 of the IRAC team. This is because all of the other IRAC components (Rule, Apply, and Conclusion) directly relate to 与…… 直接相关 the Issue. So, if the Issue is correct, this increases the chances 可能性；机会 of the other sections also being correct. If the Issue is partially 部分地；在一定程度上 or completely 完全地；彻底地 incorrect, then the chances are relatively high that the IRAC in whole 整体上；全面地 and in its component parts will also be partially or completely incorrect, which is not a good thing.
+
+[.my2]
+法律问题（Issue） +
+“法律问题” 即提出的需要解决的法律疑问（因此需要进行分析并给出答案）。从本质上讲，“法律问题” 是 IRAC 分析框架的主导者。这是因为 IRAC 的其他所有组成部分（法律规则、规则适用、结论）都与 “法律问题” 直接相关。因此，如果 “法律问题” 界定正确，那么其他部分也正确的可能性就会增加。如果 “法律问题” 部分错误或完全错误，那么整个 IRAC 分析框架及其各组成部分也部分错误或完全错误的可能性就会相当高，而这绝非好事。
+
+Because the Issue is the first IRAC component, the IRAC method is issue-driven 以问题为导向的；由问题驱动的. This is also in part 部分地；在某种程度上 why American law schools, lawyers, and other legal professionals are also issue-driven. It is thus critically 关键地；至关重要地 important to focus on 关注；聚焦于 and find the correct Issue (s) in the American lawyer’s legal analysis 分析；解析. This is a very important point, and it cannot be stressed enough 再怎么强调也不为过.
+
+[.my2]
+由于 “法律问题” 是 IRAC 框架的第一个组成部分，因此 IRAC 方法是以问题为导向的。这也是美国法学院、律师及其他法律专业人士同样以问题为导向的部分原因。因此，在美国律师的法律分析中，关注并找到正确的法律问题至关重要，这一点非常关键，再怎么强调也不为过。
+
+With the IRAC method, one key takeaway 关键收获；核心要点 is to place a great deal of focus on 高度关注；重点关注 the Issue, generally 通常；一般而言 and specifically 具体地；特定地，in terms of 就…… 而言；在…… 方面 word choice 用词；措辞. As lawyers who follow a logical 符合逻辑的；合理的 scientific process 科学流程，the importance of asking the right questions can often apply to 适用于 American law, the legal method related to thinking about the law, and general lawyering 律师职业；律师工作.
+
+[.my2]
+在 IRAC 方法中，一个核心要点是，无论从整体还是具体用词角度，都要高度关注 “法律问题”。作为遵循合理科学流程的律师，提出正确问题的重要性通常适用于美国法律、与法律思考相关的法律方法以及一般的律师工作。
+
+In terms of textual 文本的；书面的 writing and word choice for the Issue, generally the word “whether” should be the first or one of the first trigger words 触发词；提示词 in the sentence. Specifically, the Issue can be written as either “The issue is whether …” or more directly “Whether …” Other words with similar meanings and functionality 功能；作用 can also be used, but at least for the early stages 阶段；时期 of understanding the IRAC process and how American lawyers think, staying consistent 保持一致的；始终如一的 and focused on the word “whether” will have more benefits 益处；好处 than drawbacks 缺点；弊端.
+
+[.my2]
+在 “法律问题” 的书面表述和用词方面，通常 “whether”（是否）一词应作为句子的第一个词或首批触发词之一。具体而言，“法律问题” 既可以表述为 “The issue is whether …（问题在于是否……）”，也可以更直接地表述为 “Whether …（是否……）”。也可以使用其他具有相似含义和功能的词汇，但至少在理解 IRAC 流程和美国律师思考方式的初期阶段，始终使用并聚焦 “whether” 一词，带来的益处会多于弊端。
+
+In your early days of learning how to IRAC a law case, several issues may seem appropriate 适当的；合适的. As a general rule 一般规则；通常情况，which may have exceptions 例外情况，the more specific 具体的；明确的 the Issue is, the more likely it is to be exact 准确的；精确的. Think of hitting the right Issue like a game of archery 射箭运动；射箭游戏. The archer’s 射箭者；弓箭手 goal 目标；目的 in the game is to maximize 最大化；使增至最大 her point total 总分，with more points earned by being closer to the exact center 中心；正中心 of the target 目标；靶子. Maximizing points is most efficiently 高效地；有效地 done by hitting a bull’s-eye 靶心；十环，because it gives the archer maximum 最大的；最高的 points for the shot 射击；射箭. In the same way, the goal for the IRAC method should be to hit an Issue that scores a bull’s-eye—that is, an Issue that is finely targeted 精准定位的；精确瞄准的 to hit the exact center of the target, not just shot anywhere broadly 宽泛地；粗略地 or approximately 大约；近似地 around it.
+
+[.my2]
+在你学习用 IRAC 框架分析法律案件的初期，可能会觉得有多个 “法律问题” 都看似合适。通常情况下（可能存在例外），“法律问题” 越具体，就越有可能准确。可以将找准 “法律问题” 比作射箭游戏：射箭者在游戏中的目标是让总分最大化，越靠近靶心，得分就越高。要想高效地实现得分最大化，就需要射中靶心，因为射中靶心能为射箭者带来该次射击的最高得分。同理，运用 IRAC 方法的目标也应是让 “法律问题” 正中靶心 —— 也就是说，“法律问题” 要精准定位，直击靶心，而不是宽泛地、大致地瞄准靶心周围区域。
+
+For example, which of the following issues would be better?
+
+[.my2]
+例如，以下两个 “法律问题” 中，哪一个更合适？
+
+A: The issue is whether a contract 合同；契约 existed 存在；有 between Mr. and Mrs. Smith. +
+B: The issue is whether Mrs. Smith accepted 接受；认可 Mr. Smith’s offer 要约；提议 to sell Mr. Smith’s car to Mrs. Smith for $20,000. +
+
+[.my2]
+A：问题在于史密斯夫妇之间是否存在合同关系。+
+B：问题在于史密斯太太是否接受了史密斯先生以 2 万美元的价格将其汽车出售给她的要约。+
+
+Both issues relate to 与…… 相关 contracts (discussed in link:americanlaw101ch03.html#ch03 [Chapters 3] and link:americanlaw101ch04.html#ch04 [4]). As a result, both issues are at least partially correct, but relatively speaking 相对而言，Answer B is more exact than Answer A (assuming 假定；假设 that the facts reflect 反映；体现 the latter half 后半部分 of Answer B related to a contractual 合同的；契约的 offer and acceptance of a car for a $20,000 sale and purchase price 买卖价格；成交价 between Mr. and Mrs. Smith). Note also that the chosen Issue was written in one sentence.
+
+[.my2]
+这两个问题都与合同相关（详见第 3 章和第 4 章链接：link:americanlaw101ch03.html#ch03、link:americanlaw101ch04.html#ch04）。因此，两个问题至少都部分正确，但相对而言，答案 B 比答案 A 更准确（假设案件事实与答案 B 后半部分所述一致，即史密斯夫妇之间存在关于汽车买卖、价格为 2 万美元的合同要约与承诺）。另需注意的是，所选的 “法律问题” 均以一句话的形式呈现。
+
+
+=== Rule (of Law)
+
+The Rule of law is the specific 具体的；特定的 “black letter law” 黑体字法律；明确的法律规定 that directly 直接地 and specifically applies to 适用于 the Issue. The source 来源；出处 of the Rule can be from various 各种各样的；不同的 sources, ranging from 范围从……到…… court decisions 法院判决 to statutes 成文法；法令. In terms of 就……而言；在……方面 textual 文本的；书面的 writing and word choice 用词；措辞, the Rule should generally begin with 以……开头 the words, “The general rule is …” Much like the Issue, the Rule should ideally 理想地；完美地 be written in one sentence. Also like the Issue, the Rule should be as exact 准确的；精确的 and directly applicable 适用的；可应用的 to the Issue as possible.
+
+[.my2]
+法律规则（Rule of Law） +
+法律规则是指直接且具体适用于法律问题的特定“黑体字法律”（即明确的法律规定）。法律规则的来源多种多样，既可以是法院判决，也可以是成文法。在书面表述和用词方面，法律规则通常应以“一般规则是……”这句话开头。与法律问题类似，法律规则理想情况下也应写成一个句子。同时和法律问题一样，法律规则应尽可能准确且直接适用于法律问题。
+
+Let’s look at the previous example with Mr. and Mrs. Smith. Which of the following two Rules (of law) would be better?
+
+[.my2]
+我们来看之前史密斯夫妇的例子，以下两个法律规则哪一个更合适？
+
+A: The general rule is that a valid 有效的；合法的 offer 要约；提议 and acceptance 承诺；接受 are needed to reflect 体现；反映 mutual assent 双方同意；合意 within a contract 合同；契约. +
+B: The general rule is that a “meeting of the minds” 意思表示一致；合意 must exist 存在 within a contract.
+
+[.my2]
+A：一般规则是，合同需具备有效的要约与承诺，才能体现双方合意。+
+B：一般规则是，合同中必须存在“意思表示一致”。
+
+Much like with the previous choices related to choosing the best Issue, the two choices for choosing the best Rule both seem at least somewhat 在某种程度上；略微 correct. The gap 差距；差异 between the two answers here is small. Answer B relates to 涉及；与……相关 a famous contract law passage 表述；语句, “meeting of the minds,” which is often seen as evidence 证据；证明 of mutual assent (more on this in the book’s Contracts chapters), but Answer A hits closer to the bull’s-eye zone 靶心区域 by incorporating 包含；纳入 offer and acceptance, which are predecessors 前提；前身 to mutual assent (that is, offer and acceptance must first exist to subsequently 随后；后来 have mutual assent). Assuming 假定；假设 that offer and acceptance components 组成部分；要素 existed in the case facts 案件事实, Answer A would be more exact and directly related to the Issue. As a result, in this example, Answer A is the better Rule.
+
+[.my2]
+和之前选择最佳法律问题的情况类似，这两个最佳法律规则的选项看起来至少在某种程度上都是正确的，二者之间的差距不大。答案B涉及合同法中一个著名的表述——“意思表示一致”，这一表述常被视为双方合意的证据（本书的合同章节将对此展开更多论述），但答案A因纳入了要约和承诺而更贴近“靶心”，因为要约和承诺是达成双方合意的前提（也就是说，必须先存在要约和承诺，才能随后形成双方合意）。假设案件事实中存在要约和承诺相关要素，那么答案A会更准确，且与法律问题的关联性更强。因此，在这个例子中，答案A是更优的法律规则。
+
+=== Apply
+
+The Apply section 部分；章节 synthesizes 综合；整合 the Rule of law to the Issue and case facts. In other words, it applies the Rule, which is meant to be used in a variety of 各种各样的；多种的 factual contexts 事实背景；事实情境, to the specific facts presented 呈现；提出. This is done as part of the IRAC analytical framework 分析框架 to arrive at 得出；达成 the Conclusion. Because the facts, Issue, and Rule are all synthesized and integrated 整合；融合 in the Apply section, each of these components 组成部分；要素 is often included in this section. This is also why the Apply section is typically 通常；一般情况下 not just one sentence, as is often the case with the Issue, Rule, and Conclusion.
+
+[.my2]
+规则适用（Apply） +
+规则适用部分将法律规则与法律问题及案件事实进行综合整合。换句话说，它将旨在适用于多种事实背景的法律规则，应用到所呈现的具体案件事实中。这一步骤是IRAC分析框架的组成部分，目的是得出结论。由于案件事实、法律问题和法律规则均在规则适用部分进行综合与整合，因此该部分通常会包含上述所有要素。这也是规则适用部分通常不会像法律问题、法律规则和结论那样，仅用一个句子就能表述的原因。
+
+In terms of textual writing and word choice, the first term 术语；表述 that is generally used is either, “Here in this case …” or more directly 直接地, “Here …”. This one word, much like with “whether” (Issue) and “general rule” (Rule), is an important, purposeful 有目的的；刻意的 word choice that signals 表明；标志 this section is definitively 明确地；肯定地 the Apply section of the IRAC analysis. Try also to use the word “because” as a clear signal to the reader that you are forming a direct link 建立直接关联 between two things, such as the facts and Rule. Such purposeful word choice, despite 尽管；不管 its brevity 简洁；简短 and succinctness 简明；简练, is what defines 界定；定义 American lawyers (and, increasingly 越来越多地；日益, non-American lawyers worldwide 全球范围内；全世界). Put simply 简而言之, words matter 至关重要；有意义, and words are key components 关键组成部分 of the lawyer’s craft 职业技能；技艺 and profession 职业；行业.
+
+[.my2]
+在书面表述和用词方面，该部分通常使用的开头语要么是“在本案中……”，要么更直接地用“本案中……”。这个词和法律问题部分的“是否”、法律规则部分的“一般规则”一样，是经过刻意选择的重要词汇，它明确标志着本部分就是IRAC分析中的规则适用部分。同时还应尽量使用“因为”一词，向读者清晰表明你正在将两件事物（例如案件事实与法律规则）建立直接关联。尽管这类用词简洁明了，但正是这种刻意的措辞选择，界定了美国律师的专业特质（并且，这种特质也日益体现在全球范围内的非美国律师身上）。简而言之，用词至关重要，语言是律师职业技能与行业素养的关键组成部分。
+
+Which of the two following answers would generally be considered better?
+
+[.my2]
+以下两个答案中，哪一个通常会被认为更优？
+
+A: Here, Mr. and Mrs. Smith discussed 讨论；商议 buying property 财产；资产. Mr. Smith offered a price, although it was unclear 不清楚的；不明确的 whether Mrs. Smith agreed on 同意；认可 the price.
+
+B: Here, Mr. and Mrs. Smith discussed the possible sale and purchase 买卖；交易 of Mr. Smith’s car. After some discussion, Mr. Smith offered to sell his car for $20,000. Mrs. Smith laughed 笑；发笑 when hearing this, and was silent 沉默的；不说话的 thereafter 之后；随后. The general rule is that both a valid offer and acceptance are needed to form 形成；构成 mutual assent in a contract. Neither laughter nor silence constitutes 构成；成为 a valid acceptance. Therefore 因此；所以, neither valid acceptance nor mutual assent existed in this case because Mrs. Smith did not express 表达；表明 a clear intent 意图；意向 to accept Mr. Smith’s $20,000 car sale.
+
+[.my2]
+A：本案中，史密斯夫妇曾商议购买财产事宜。史密斯先生给出了一个价格，但不清楚史密斯太太是否同意该价格。 +
+B：本案中，史密斯夫妇曾商议史密斯先生汽车的潜在买卖事宜。经过一番讨论，史密斯先生提出以2万美元的价格出售其汽车。史密斯太太听到后笑了笑，随后便保持沉默。一般规则是，合同中要形成双方合意，必须同时具备有效的要约与承诺。笑和沉默都不构成有效的承诺。因此，本案中既不存在有效的承诺，也不存在双方合意，因为史密斯太太并未明确表达出接受史密斯先生以2万美元出售汽车的意向。
+
+Answer A is short but arguably 可以说；按理说 not succinct 简洁的；简明的 because it lacks 缺乏；缺少 certain key details 关键细节. For instance 例如, the term “property” could instead have been more specifically written as “Mr. Smith’s car” or simply as “car.” The general term “price” could instead have been more specifically written as “$20,000,” and Mrs. Smith’s reaction 反应；回应 to Mr. Smith’s offer by laughing and then staying silent could also have been used. All such textual changes could have been done without adding much if any unneeded wording 不必要的措辞. Answer B is lengthier 更长的；篇幅更长的 but arguably better because it effectively 有效地；有力地 incorporates 包含；融入 key facts, such as the $20,000 offered car sale price as well as Mrs. Smith’s action 行为 and inaction 不作为 of laughter and silence, respectively 分别地；各自地, after hearing Mr. Smith’s suggested 提议的；建议的 car sale price. As a result, relatively speaking 相对而言, Answer B is the better answer.
+
+[.my2]
+答案A篇幅较短，但可以说并不简明，因为它缺少某些关键细节。例如，“财产”一词本可以更具体地写成“史密斯先生的汽车”或直接写成“汽车”；“价格”这一笼统的表述本可以更具体地写成“2万美元”，而且史密斯太太对史密斯先生要约的反应——先是发笑随后保持沉默——也本应写入其中。所有这些文本修改都无需添加太多不必要的措辞，甚至可以说完全不用添加。答案B篇幅更长，但可以说更优，因为它有效地融入了关键事实，例如2万美元的汽车售价要约，以及史密斯太太听到史密斯先生的售车提议后，分别做出的发笑这一行为和沉默这一不作为。因此，相对而言，答案B是更优的回答。
+
+=== Conclusion
+
+The Conclusion section succinctly 简洁地；简明地 answers the Issue (legal question raised 提出；引发). It represents 代表；体现 the final outcome 结果；结局 based on 基于 the IRAC’s analytical framework. In terms of textual writing and word choice, the Conclusion should generally begin with a “Yes” or “No” directly followed by 紧随其后的是 the Issue (written in a statement 陈述句 rather than 而不是 question form 疑问句形式). Put simply, the conclusion’s written structure 结构；架构 would be: “[YES]/[NO], [ISSUE].”
+
+[.my2]
+结论（Conclusion） +
+结论部分简洁地回答法律问题（即提出的法律疑问）。它是基于IRAC分析框架得出的最终结果。在书面表述和用词方面，结论通常应以“是”或“否”开头，后面直接跟上法律问题（需以陈述句形式呈现，而非疑问句形式）。简而言之，结论的书面结构应为：“[是/否]，[法律问题（陈述句）]。”
+
+As a final example related to IRAC, which of the following two answers would be better?
+
+[.my2]
+作为与IRAC相关的最后一个例子，以下两个答案哪一个更合适？
+
+A: No, mutual assent did not exist between Mr. and Mrs. Smith related to 关于；涉及 Mr. Smith’s car.
+
+B: The conclusion for this case depends on 取决于；依靠 several criteria 标准；准则, which this court 法院 has fully considered 充分考虑；全面考量, as would be the case in a contractual dispute 合同纠纷 of this nature 性质；类型, as seen in this particular 特定的；具体的 considered case. As such 因此；于是, and given 考虑到；鉴于 the facts in this case, and considering the totality of the circumstances 综合所有情况；全盘考量, including Mr. and Mrs. Smith’s intent 意图；目的 and actions related to the said 上述的；该 property, it can be said that, for legal purposes 出于法律目的；从法律角度而言 under the purview 权限范围；管辖范围 of this court, and the powers vested in 赋予；授予 it, that mutual assent did not exist due to 由于；因为 most notably 尤其；最显著地 Mrs. Smith’s action and inaction in reaction to 对……的反应 Mr. Smith’s action.
+
+[.my2]
+A：否，史密斯夫妇之间就史密斯先生的汽车事宜不存在双方合意。 +
+B：本案的结论取决于若干项标准，本院已对这些标准进行了充分考量——此类性质的合同纠纷均应如此处理，本案亦是如此。因此，考虑到本案事实，并综合所有情况（包括史密斯夫妇就上述财产所抱有的意图及采取的行为），从本院的管辖范围及其被赋予的职权角度出发，出于法律目的可以认定，由于史密斯太太针对史密斯先生行为所做出的作为与不作为（这一点尤为显著），双方之间不存在合意。
+
+Unlike the previous example, the gap 差距；差异 between Answers A and B is wider 更明显的；更悬殊的. For the layperson 外行；非法律专业人士 (nonlegal expert or nonlawyer), Answer B may have the look and feel of seeming more legal 具有法律感的；显得专业的. After all 毕竟；终究, it has long sentences with obtuse 晦涩的；难懂的 wording 措辞；用语 that seems a bit indecipherable 难以理解的；晦涩难懂的, but does legalese 法律术语；法律行话 always equate to 等同于；相当于 legal sense 法律合理性；法律逻辑? No, not always.
+
+[.my2]
+与之前的例子不同，答案A和答案B之间的差距更为悬殊。对外行（即非法律专家或非律师）而言，答案B可能看起来和感觉上更具法律专业性。毕竟，它使用了冗长的句子和晦涩的措辞，让人有些难以理解，但法律术语就一定等同于严谨的法律逻辑吗？答案是，并非如此。
+
+For the answer choices, Answer B’s style 风格；文体 and substance 实质内容；核心要义 begins to resemble 类似于；像 more of the beginning of a legal treatise 法律专著；法学论著 than a simple Conclusion section, whereas 然而；而 Answer A accomplishes 完成；实现 in one sentence what Answer B barely 勉强；几乎不 accomplishes or does not accomplish in several lengthy 冗长的；过长的 sentences. So Answer A is better in terms of 就……而言 grammatical style 语法风格；行文结构. In terms of legal substance 法律实质；核心法律内容, Answer A also accomplishes in one sentence what Answer B took several sentences to declare 阐明；表述 in terms of zooming in on 聚焦于；着重阐述 the key terminology 关键术语 of offer 要约, acceptance 承诺, and mutual acceptance 双方合意. As a result, Answer A is generally considered the better answer.
+
+[.my2]
+从这两个答案来看，答案B的风格和内容更像是法律专著的开篇，而非简洁的结论部分；而答案A用一句话就完成了答案B用好几句冗长表述都没能说清，甚至根本没说明白的内容。因此，就语法风格而言，答案A更胜一筹。在法律实质层面，答案A同样只用一句话，就聚焦并阐明了要约、承诺和双方合意这些关键术语，而这一点答案B却用了多个句子才勉强表述清楚。综上，答案A通常被认为是更优的选项。
+
+This section discussed the IRAC analytical framework 分析框架 to provide 提供；呈现 not only an effective 有效的；高效的 means 方法；途径 to synthesize 综合；整合 cases but also a sense of 一种……的认知 how American lawyers think. While 尽管；虽然 textual wording 文本措辞 and word choice 用词选择 writing frameworks were provided specific to 针对；专属于 the IRAC analytical framework, the next section discusses in more detail 更详细地 how American lawyers write.
+
+[.my2]
+本节探讨了IRAC分析框架，不仅为案件的综合分析提供了一种有效方法，还让读者了解了美国律师的思维方式。虽然上文已经给出了针对IRAC分析框架的文本措辞和用词选择框架，但下一节将更详细地探讨美国律师的写作方式。
+
+Contrary to 与……相反 what many people may think, the modern trend 现代趋势；主流倾向 in American law schools and the legal profession 法律行业；法律界 is toward 趋向于；致力于 writing in plain English 简洁直白的英语；通俗英语. The next section discusses plain English and provides basic strategies 基本策略 combined with 结合；辅以 examples.
+
+[.my2]
+与许多人的认知相反，美国法学院和法律界的现代趋势是倡导使用简洁直白的英语进行写作。下一节将对通俗英语写作展开探讨，并结合实例介绍相关的基本策略。
+
+=== Plain English
+
+How do American lawyers write? This question also links to 关联到；涉及 how American lawyers think. The modern trend is for lawyers, and thus 因此；故而 law students, to write in plain English and to not use writing that incorporates 包含；使用 a lot of legal jargon 法律行话；专业术语.
+
+[.my2]
+通俗英语写作 +
+美国律师是如何写作的？这个问题同样与美国律师的思维方式息息相关。现代趋势要求律师——进而也要求法学院学生——使用简洁直白的英语进行写作，避免在文本中堆砌大量法律行话。
+
+The rationale 理由；依据 for this approach 方法；方式 is that writing in plain English is a sign of effective 高效的；有说服力的 legal writing. Plain English is clear 清晰的 and concise 简洁的 language without the use of unnecessary 不必要的；冗余的 legal jargon. Plain English is more appealing to 对……更具吸引力 a wider audience 更广泛的受众, because it uses everyday terms 日常用语 to the greatest extent possible 尽可能地 rather than relying on 依赖；依靠 technical terminology 专业术语. Put another way 换句话说；换言之, plain English is more reader friendly 读者友好的；通俗易懂的. Being more reader friendly is important, because legal opinions 法律意见书 should ideally 理想情况下 be accessible for 易于被……理解 the general public 普通大众—including the layperson—as well as legal professionals 法律专业人士.
+
+[.my2]
+这种写作方式的核心依据在于，使用通俗英语写作是高效法律文书的标志。通俗英语是一种清晰简洁的语言，不夹杂冗余的法律行话。它对更广泛的受众更具吸引力，因为它会尽可能使用日常用语，而非依赖专业术语。换句话说，通俗英语更通俗易懂。通俗易懂的特点十分重要，因为法律意见书在理想情况下不仅要让法律专业人士看懂，也应让普通大众——包括外行人士——能够理解。
+
+Directly reflecting 直接体现；反映 this principle 原则；准则, some U.S. states now require 要求 that certain contracts 特定合同 be written in plain English, which could include 可能包括 rental agreements 租赁协议 between landlords 房东 and tenants 租客. Because many actual 实际的 and potential 潜在的 tenants who sign 签署 such agreements are presumed to be 被认定为；被假定为 nonlegal experts, writing agreements in plain English helps to make them more understandable 更容易理解的 and lower the chances of 降低……的可能性 one side taking advantage of 利用；占便宜 another side.
+
+[.my2]
+为了直接体现这一原则，美国部分州现已规定，特定合同必须使用通俗英语撰写，其中就包括房东与租客之间的租赁协议。由于签署这类协议的众多实际租客和潜在租客都被认定为非法律专业人士，因此用通俗英语撰写协议有助于提升其可读性，同时降低某一方利用信息差损害另一方利益的可能性。
+
+Entire books have been written on 有关于……的专著 how to write in plain English. One such book is Richard Wydick’s Plain English for Lawyers (Carolina Academic Press, 1998). Rather than trying to duplicate 复制；照搬 this and other related works 相关著作, following are some plain English rules 规则 and examples from Wydick’s Plain English for Lawyers that may be useful in 对……有用 your legal writing 法律文书写作 while studying or practicing 执业；从事 American law. Readers who are interested in improving their legal writing skills 法律写作能力 should certainly 无疑；当然 read Wydick’s entire book, which has many more rules and examples. The following are the top 10 rules for writing in plain English:
+
+[.my2]
+市面上已经有不少关于通俗英语写作的专著。理查德·威迪克所著的《律师通俗英语写作指南》（卡罗来纳学术出版社，1998年版）就是其中之一。本文不会试图复制该书及其他相关著作的内容，而是从威迪克的这本著作中选取了一些通俗英语写作规则和实例，这些内容对于你学习或执业美国法律过程中的文书写作可能会有所帮助。有意提升自身法律写作能力的读者，无疑应当通读全书，其中包含了更多的写作规则和实例。以下是通俗英语写作的十大核心规则：
+
+. Delete surplus words 删减冗余词汇
+. Use a Subject-Verb-Object sentence structure 采用主谓宾句式结构
+. Use base verbs (not nominalizations) 使用基础动词（而非名词化形式）
+. Use the active voice 使用主动语态
+. Keep sentences short 保持句子简短
+. Use bullet points and tabs (when conveying mass information) 使用项目符号和制表符（传递大量信息时）
+. Put modifying words next to the words being modified 将修饰词置于被修饰词附近
+. Prefer the singular number and the present tense 优先使用单数形式和一般现在时
+. Use familiar and succinct words (avoiding lawyerisms) 使用常见且简洁的词汇（避免法律腔）
+. Avoid sexist language 避免使用性别歧视性语言
+
+=== Plain English Rule 1: Delete Surplus Words
+
+Example (without plain English): In many instances 许多情况下；在诸多情形中, insofar as 就……而言；至于 the jurors 陪审员 are concerned, the jury instructions 陪审团指示 are not understandable 难以理解的 because they are too poorly written 写得太差；表述拙劣.
+
+[.my2]
+通俗英语写作规则一：删减冗余词汇 +
+非通俗英语示例：在诸多情形中，就陪审员而言，陪审团指示之所以难以理解，是因为其写得太过拙劣。
+
+Example (with plain English): Often jury instructions are too poorly written for the jurors to understand.
+
+[.my2]
+通俗英语示例：陪审团指示往往写得过于拙劣，让陪审员无法理解。
+
+
+
+
+=== Plain English Rule 2: Use a Subject-Verb-Object sentence structure
+
+Example (without plain English): There were no reasons 理由；原因 offered by the court 法院 for denying 拒绝；驳回 punitive damages 惩罚性赔偿金.
+
+[.my2]
+非通俗英语示例：法院并未给出任何驳回惩罚性赔偿金的理由。
+
+Example (with plain English): The court offered no reasons for denying punitive damages.
+
+[.my2]
+通俗英语示例：法院未给出驳回惩罚性赔偿金的任何理由。
+
+=== Plain English Rule 3: Use base verbs (not nominalizations) 基础动词（而非名词化形式）
+
+Example (without plain English): We are in agreement with 同意；赞同 your position 立场；观点, but if it is your intention 意图；打算 to cause delay 造成延误；拖延, we will stand in opposition to 反对；抵制 you.
+
+[.my2]
+非通俗英语示例：我们同意你的立场，但如果你有意拖延，我们将会对你采取反对态度。
+
+Example (with plain English): We agree with your position, but if you intend to cause delay, we will oppose you.
+
+[.my2]
+通俗英语示例：我们同意你的立场，但如果你有意拖延，我们会反对你。
+
+=== Plain English Rule 4: Use the active voice 主动语态
+
+Example (without plain English): This agreement 协议；合约 may be terminated 终止；解除 by either party 任何一方 by defendant manufacturers 被告制造商, and it was agreed that all sales 销售；交易 would be made at list prices 标价；定价 or above 以上；更高.
+
+[.my2]
+非通俗英语示例：本协议可由任何一方或被告制造商终止，且双方约定所有交易均需按标价或高于标价的价格进行。
+
+Example (with plain English): Either party may terminate this agreement by giving 30 days’ notice 通知；告知 to the other party 另一方.
+
+[.my2]
+通俗英语示例：任何一方只需提前30天通知另一方，即可终止本协议。
+
+=== Plain English Rule 5: Keep sentences short 保持句子简短
+
+Example (without plain English): While there are instances 情形；情况 in which consumer abuse 侵害消费者权益 and exploitation 剥削；压榨 result from 源于；起因于 advertising 广告 that is false 虚假的, misleading 误导性的, or irrelevant 无关的；不相关的, it does not necessarily follow that these cases 案件 need to be remedied 纠正；补救 by governmental intervention 政府干预 in the marketplace 市场, because it is possible for consumers’ interests 消费者利益 to be protected 保护 through resort to 诉诸；依靠 the courts 法院, either by consumers themselves or by those competing sellers 竞争卖家 who see their market shares 市场份额 decline 下降；减少 in the face of 面对 inroads 侵蚀；侵占 based on such advertising.
+
+[.my2]
+非通俗英语示例：虽然确实存在消费者因虚假、误导性或无关广告而遭受权益侵害和剥削的情况，但这并不意味着此类案件必须通过政府干预市场来解决，因为无论是消费者本人，还是那些因这类广告导致市场份额被侵占而下滑的竞争卖家，都可以通过诉诸法院来维护消费者的利益。
+
+Example (with plain English): Consumers are sometimes abused and exploited by false, misleading, or irrelevant advertising, but that does not necessarily require the government to intrude into 介入；干预 the marketplace. Consumers themselves can go to court, as can competing sellers who lose business 流失客源 because of such advertising.
+
+[.my2]
+通俗英语示例：消费者有时会因虚假、误导性或无关广告遭受权益侵害和剥削，但这并不一定需要政府介入市场。消费者本人可以诉诸法院，那些因这类广告流失客源的竞争卖家也可以这么做。
+
+=== Plain English Rule 6: Use bullet points 项目符号 and tabs 制表符 (when conveying mass information 传递大量信息时)
+
+Example (without plain English): Venue 管辖地；审判地 would be proper 适当的；合法的, unless the claim 诉讼请求 is framed as 界定为；归类为 a federal question 联邦问题案件, in the Southern District of New York 纽约南区联邦地区法院, if that is where the plaintiff 原告 resides 居住；定居, or in the Eastern District of California 加利福尼亚东区联邦地区法院, assuming that 假如；假设 the defendant 被告 does business 开展业务 in that judicial district 司法管辖区, or in the Northern District of Illinois 伊利诺伊北区联邦地区法院, if that turns out to be 结果是；证明为 the place where the events in question 涉案事件 happened.
+
+[.my2]
+非通俗英语示例：除非该诉讼请求被界定为联邦问题案件，否则若原告居住在纽约南区联邦地区法院辖区，或被告在加利福尼亚东区联邦地区法院辖区开展业务，又或涉案事件发生在伊利诺伊北区联邦地区法院辖区，那么相应的辖区法院均为合法的管辖法院。
+
+Example (with plain English): Unless the claim is framed as a federal question, venue would be proper in any of these judicial districts:
+
+- The Southern District of New York, if the plaintiff resides there; or
+- The Eastern District of California, if the defendant does business there; or
+- The Northern District of Illinois, if the events in question took place 发生 there.
+
+[.my2]
+通俗英语示例：除非该诉讼请求被界定为联邦问题案件，否则以下任一司法管辖区的法院均拥有合法管辖权：
+- 若原告在纽约南区居住，管辖法院为纽约南区联邦地区法院；或
+- 若被告在加利福尼亚东区开展业务，管辖法院为加利福尼亚东区联邦地区法院；或
+- 若涉案事件在伊利诺伊北区发生，管辖法院为伊利诺伊北区联邦地区法院。
+
+=== Plain English Rule 7: Put modifying words 修饰词 next to the words being modified 被修饰词
+
+Example (without plain English): The plaintiff’s pain 痛苦；病痛 can be alleviated 缓解；减轻 only by expensive therapy 昂贵的治疗方案；高价疗法.
+
+[.my2]
+非通俗英语示例：原告的病痛只能通过昂贵的治疗方案来缓解。
+
+Example (with plain English): Only expensive therapy can alleviate the plaintiff’s pain.
+
+[.my2]
+通俗英语示例：只有昂贵的治疗方案才能缓解原告的病痛。
+
+=== Plain English Rule 8: Prefer the singular number 单数形式 and the present tense 一般现在时
+
+Example (without plain English): Persons 人们；个人 must not discharge 发射；燃放 firearms 枪支；火器 inside city limits 城市范围内；市区内.
+
+[.my2]
+非通俗英语示例：人们不得在城市范围内发射枪支。
+
+Example (with plain English): A person must not discharge a firearm inside city limits.
+
+[.my2]
+通俗英语示例：个人不得在城市范围内发射枪支。
+
+=== Plain English Rule 9: Use familiar 常见的；熟悉的 and succinct 简洁的；简明的 words (avoiding lawyerisms 法律腔；律师行话)
+
+Example (without plain English): This agreement 协议；合约，unless revocation 撤销；取消 has occurred 发生；出现 at an earlier date 更早日期；提前，shall expire 到期；失效 on November 11, 2016.
+
+[.my2]
+非通俗英语示例：本协议，除非在更早日期已发生撤销，否则将于 2016 年 11 月 11 日到期。
+
+Example (with plain English): Unless sooner revoked 提前撤销，this agreement expires on November 11, 2016.
+
+[.my2]
+通俗英语示例：本协议除非提前撤销，否则将于 2016 年 11 月 11 日到期。
+
+=== Plain English Rule 10: Avoid sexist language 性别歧视语言
+
+Example (without plain English): Blue-collar work 蓝领工作；体力工作 involving 涉及；包含 heavy lifting 重体力搬运 and construction 建筑施工 requires a manly effort 男性化的努力；体力上的强硬付出，whereby 因此；据此 a judge 法官 will surely 必定；无疑 apply 适用；采用 a reasonable man’s legal standard 理性人的法律标准 to the case 案件.
+
+[.my2]
+非通俗英语示例：涉及重体力搬运和建筑施工的蓝领工作，需要男性化的努力，据此法官必定会对该案件适用 “理性男性” 的法律标准。
+
+Example (with plain English): Blue-collar work involving heavy lifting and construction requires physically strenuous effort 体力上的繁重付出，whereby a judge will surely apply a reasonable person’s legal standard to the case.
+
+[.my2]
+通俗英语示例：涉及重体力搬运和建筑施工的蓝领工作，需要体力上的繁重付出，据此法官必定会对该案件适用 “理性人” 的法律标准。
+
+=== Summary 总结
+
+To understand the hardware 硬件；基础架构 of the American legal system 美国法律体系，the software 软件；运行逻辑 of the American legal system and its legal professionals 法律专业人士 must first be examined 审视；研究 in terms of 从…… 角度；就…… 而言 the thinking process 思维过程 underlying 构成…… 的基础；潜在的 it. So how does an American lawyer think? Although many factors 因素；要素 exist, American lawyers are generally driven by 受…… 驱动 issues (legal questions 法律问题) in a particular 特定的；具体的 case 案件 or lawsuit 诉讼案件.
+
+[.my2]
+总结 +
+要理解美国法律体系的 “硬件”（基础架构），首先必须从其背后的思维过程角度，审视美国法律体系及其法律专业人士的 “软件”（运行逻辑）。那么，美国律师是如何思考的？尽管影响因素众多，但美国律师在处理具体案件或诉讼时，通常以 “法律问题” 为核心驱动。
+
+The IRAC—Issue, Rule (of law), Apply, and Conclusion—legal method 法律方法 used by many law students 法学院学生 and legal professionals incorporates 包含；纳入 the Issue component 组成部分 as the lead component 核心组成部分. The Rule (of law) in the IRAC system requires the writer—whether a law student or legal professional—to know and write the general rule of law 一般法律规则 specifically related to 与…… 具体相关的 the issue. The Apply section 部分 synthesizes 综合；整合 and incorporates the general rule with the facts 事实 in the case, and the Conclusion section 部分 provides 给出；提供 a clear 明确的 yes or no answer 是或否的答案 to the issue presented 提出的.
+
+[.my2]
+许多法学院学生和法律专业人士所使用的 IRAC 法律分析方法 —— 即 “法律问题（Issue）、法律规则（Rule of law）、规则适用（Apply）、结论（Conclusion）”—— 将 “法律问题” 作为核心组成部分。在 IRAC 框架中，“法律规则” 要求撰写者（无论是法学院学生还是法律专业人士）掌握并写出与该法律问题具体相关的一般法律规则；“规则适用” 部分将一般法律规则与案件事实进行综合整合；“结论” 部分则针对提出的法律问题，给出明确的 “是” 或 “否” 的答案。
+
+How American lawyers write 写作方式 is a direct reflection 直接体现 of how American lawyers think. The modern trend 现代趋势 in American law 美国法律领域 is to write in plain English 通俗英语；简洁直白的英语. Several rules 规则 are provided in this chapter 本章 as a general framework 总体框架 on how American lawyers and other legal professionals write for their domestic 国内的 and increasingly 日益；逐渐 global audience 全球受众.
+
+[.my2]
+美国律师的写作方式，是其思维方式的直接体现。美国法律领域的现代趋势是采用通俗英语进行写作。本章提供了若干规则，作为美国律师及其他法律专业人士为其国内受众（且日益扩展至全球受众）进行写作的总体框架。
+
+
+
+
+'''
+
+
+== pure
+
+
+1  HOW TO THINK LIKE AN AMERICAN LAWYER
+
+How do American (U.S.-licensed) lawyers think? What is the objective of American law schools? The two questions are interrelated. American law school education aspires to teach students how to think like a lawyer. For many students, this mandate is murky. Many of them arrive at law school with the assumption that the objective of a U.S. law school is to teach the law. But is it?
+
+The short answer is yes and no. Yes, American law schools do teach the law, but the instruction of the law is often equally valued with how to use the law. To use the law, a future American lawyer must know not only what the law is, but also how to use and apply the law. Put simply, the difference is similar to the difference in understanding and memorizing the rules of a game versus knowing the process and strategy of how to play the game.
+
+As a modern 21st century analogy of explaining the thinking process and how it relates to the American legal system, think of the American legal system—including the law itself within this legal system—as the system’s hardware. The ability and skill set to process and effectively leverage this system in a value-added way is thinking like a lawyer, which represents the American lawyer’s software.
+
+So how do American lawyers think? American lawyers think through a structured analytical approach that allows them to filter vast types of relevant and irrelevant information and data to ultimately arrive at a recommended course of action vis-à-vis this structured analysis.
+
+The IRAC approach reflects one, but not all, of the main ways that American lawyers think. The IRAC legal method is described as follows:
+
+- Issue: Legal question is presented.
+- Rule (of law): Rule of law that applies to the Issue is determined.
+- Apply: Rule (of law) is applied to the case’s specific facts.
+- Conclusion: A yes or no answer to the Issue is given.
+
+Each of the IRAC components can generally be written in one sentence. The exception is for the Apply section, which can be anywhere from several sentences to several paragraphs.
+
+The IRAC analytical framework can be and is used in different ways. It is generally used to synthesize and summarize a legal case in a clear, succinct, and efficient way. With IRAC, a legal case of either 10 or 10,000 words can generally be condensed to a simple page or two written in plain English (more on this topic later). This process helps because condensing the legal case requires prioritizing and editing case sections that are relatively less important (a form of proactive legal learning). This, in turn, requires that the reader must know the material, not just be able to read and understand the material (a form of passive legal learning). The IRAC process is also beneficial after the fact, because the IRAC version of the legal case only has the bare essentials of the case, which is a clear and concise reference point for law students and/or legal professionals.
+
+Let’s now look at each of the specific parts of the IRAC process.
+
+=== Issue
+
+The Issue is the legal question presented (and, as such, to be analyzed and answered). The Issue is essentially the leader of the IRAC team. This is because all of the other IRAC components (Rule, Apply, and Conclusion) directly relate to the Issue. So, if the Issue is correct, this increases the chances of the other sections also being correct. If the Issue is partially or completely incorrect, then the chances are relatively high that the IRAC in whole and in its component parts will also be partially or completely incorrect, which is not a good thing.
+
+Because the Issue is the first IRAC component, the IRAC method is issue-driven. This is also in part why American law schools, lawyers, and other legal professionals are also issue-driven. It is thus critically important to focus on and find the correct Issue(s) in the American lawyer’s legal analysis. This is a very important point, and it cannot be stressed enough.
+
+With the IRAC method, one key takeaway is to place a great deal of focus on the Issue, generally and specifically, in terms of word choice. As lawyers who follow a logical scientific process, the importance of asking the right questions can often apply to American law, the legal method related to thinking about the law, and general lawyering.
+
+In terms of textual writing and word choice for the Issue, generally the word “whether” should be the first or one of the first trigger words in the sentence. Specifically, the Issue can be written as either “The issue is whether …” or more directly “Whether …” Other words with similar meanings and functionality can also be used, but at least for the early stages of understanding the IRAC process and how American lawyers think, staying consistent and focused on the word “whether” will have more benefits than drawbacks.
+
+In your early days of learning how to IRAC a law case, several issues may seem appropriate. As a general rule, which may have exceptions, the more specific the Issue is, the more likely it is to be exact. Think of hitting the right Issue like a game of archery. The archer’s goal in the game is to maximize her point total, with more points earned by being closer to the exact center of the target. Maximizing points is most efficiently done by hitting a bull’s-eye, because it gives the archer maximum points for the shot. In the same way, the goal for the IRAC method should be to hit an Issue that scores a bull’s-eye—that is, an Issue that is finely targeted to hit the exact center of the target, not just shot anywhere broadly or approximately around it.
+
+For example, which of the following issues would be better?
+
+
+A: The issue is whether a contract existed between Mr. and Mrs. Smith. +
+B: The issue is whether Mrs. Smith accepted Mr. Smith’s offer to sell Mr. Smith’s car to Mrs. Smith for $20,000. +
+
+
+Both issues relate to contracts (discussed in link:americanlaw101ch03.html#ch03[Chapters 3] and link:americanlaw101ch04.html#ch04[4]). As a result, both issues are at least partially correct, but relatively speaking, Answer B is more exact than Answer A (assuming that the facts reflect the latter half of Answer B related to a contractual offer and acceptance of a car for a $20,000 sale and purchase price between Mr. and Mrs. Smith). Note also that the chosen Issue was written in one sentence.
+
+=== Rule (of Law)
+
+The Rule of law is the specific “black letter law” that directly and specifically applies to the Issue. The source of the Rule can be from various sources, ranging from court decisions to statutes. In terms of textual writing and word choice, the Rule should generally begin with the words, “The general rule is …” Much like the Issue, the Rule should ideally be written in one sentence. Also like the Issue, the Rule should be as exact and directly applicable to the Issue as possible.
+
+Let’s look at the previous example with Mr. and Mrs. Smith. Which of the following two Rules (of law) would be better?
+
+
+A: The general rule is that a valid offer and acceptance are needed to reflect mutual assent within a contract. +
+B: The general rule is that a “meeting of the minds” must exist within a contract.
+
+
+Much like with the previous choices related to choosing the best Issue, the two choices for choosing the best Rule both seem at least somewhat correct. The gap between the two answers here is small. Answer B relates to a famous contract law passage, “meeting of the minds,” which is often seen as evidence of mutual assent (more on this in the book’s Contracts chapters), but Answer A hits closer to the bull’s-eye zone by incorporating offer and acceptance, which are predecessors to mutual assent (that is, offer and acceptance must first exist to subsequently have mutual assent). Assuming that offer and acceptance components existed in the case facts, Answer A would be more exact and directly related to the Issue. As a result, in this example, Answer A is the better Rule.
+
+=== Apply
+
+The Apply section synthesizes the Rule of law to the Issue and case facts. In other words, it applies the Rule, which is meant to be used in a variety of factual contexts, to the specific facts presented. This is done as part of the IRAC analytical framework to arrive at the Conclusion. Because the facts, Issue, and Rule are all synthesized and integrated in the Apply section, each of these components is often included in this section. This is also why the Apply section is typically not just one sentence, as is often the case with the Issue, Rule, and Conclusion.
+
+In terms of textual writing and word choice, the first term that is generally used is either, “Here in this case …” or more directly, “Here …”. This one word, much like with “whether” (Issue) and “general rule” (Rule), is an important, purposeful word choice that signals this section is definitively the Apply section of the IRAC analysis. Try also to use the word “because” as a clear signal to the reader that you are forming a direct link between two things, such as the facts and Rule. Such purposeful word choice, despite its brevity and succinctness, is what defines American lawyers (and, increasingly, non-American lawyers worldwide). Put simply, words matter, and words are key components of the lawyer’s craft and profession.
+
+Which of the two following answers would generally be considered better?
+
+
+A: Here, Mr. and Mrs. Smith discussed buying property. Mr. Smith offered a price, although it was unclear whether Mrs. Smith agreed on the price.
+
+B: Here, Mr. and Mrs. Smith discussed the possible sale and purchase of Mr. Smith’s car. After some discussion, Mr. Smith offered to sell his car for $20,000. Mrs. Smith laughed when hearing this, and was silent thereafter. The general rule is that both a valid offer and acceptance are needed to form mutual assent in a contract. Neither laughter nor silence constitutes a valid acceptance. Therefore, neither valid acceptance nor mutual assent existed in this case because Mrs. Smith did not express a clear intent to accept Mr. Smith’s $20,000 car sale.
+
+
+Answer A is short but arguably not succinct because it lacks certain key details. For instance, the term “property” could instead have been more specifically written as “Mr. Smith’s car” or simply as “car.” The general term “price” could instead have been more specifically written as “$20,000,” and Mrs. Smith’s reaction to Mr. Smith’s offer by laughing and then staying silent could also have been used. All such textual changes could have been done without adding much if any unneeded wording. Answer B is lengthier but arguably better because it effectively incorporates key facts, such as the $20,000 offered car sale price as well as Mrs. Smith’s action and inaction of laughter and silence, respectively, after hearing Mr. Smith’s suggested car sale price. As a result, relatively speaking, Answer B is the better answer.
+
+=== Conclusion
+
+The Conclusion section succinctly answers the Issue (legal question raised). It represents the final outcome based on the IRAC’s analytical framework. In terms of textual writing and word choice, the Conclusion should generally begin with a “Yes” or “No” directly followed by the Issue (written in a statement rather than question form). Put simply, the conclusion’s written structure would be: “[YES]/[NO], [ISSUE].”
+
+As a final example related to IRAC, which of the following two answers would be better?
+
+
+A: No, mutual assent did not exist between Mr. and Mrs. Smith related to Mr. Smith’s car.
+
+B: The conclusion for this case depends on several criteria, which this court has fully considered, as would be the case in a contractual dispute of this nature, as seen in this particular considered case. As such, and given the facts in this case, and considering the totality of the circumstances, including Mr. and Mrs. Smith’s intent and actions related to the said property, it can be said that, for legal purposes under the purview of this court, and the powers vested in it, that mutual assent did not exist due to most notably Mrs. Smith’s action and inaction in reaction to Mr. Smith’s action.
+
+
+
+Unlike the previous example, the gap between Answers A and B is wider. For the layperson (nonlegal expert or nonlawyer), Answer B may have the look and feel of seeming more legal. After all, it has long sentences with obtuse wording that seems a bit indecipherable, but does legalese always equate to legal sense? No, not always.
+
+For the answer choices, Answer B’s style and substance begins to resemble more of the beginning of a legal treatise than a simple Conclusion section, whereas Answer A accomplishes in one sentence what Answer B barely accomplishes or does not accomplish in several lengthy sentences. So Answer A is better in terms of grammatical style. In terms of legal substance, Answer A also accomplishes in one sentence what Answer B took several sentences to declare in terms of zooming in on the key terminology of offer, acceptance, and mutual acceptance. As a result, Answer A is generally considered the better answer.
+
+This section discussed the IRAC analytical framework to provide not only an effective means to synthesize cases but also a sense of how American lawyers think. While textual wording and word choice writing frameworks were provided specific to the IRAC analytical framework, the next section discusses in more detail how American lawyers write.
+
+Contrary to what many people may think, the modern trend in American law schools and the legal profession is toward writing in plain English. The next section discusses plain English and provides basic strategies combined with examples.
+
+=== Plain English
+
+How do American lawyers write? This question also links to how American lawyers think. The modern trend is for lawyers, and thus law students, to write in plain English and to not use writing that incorporates a lot of legal jargon.
+
+The rationale for this approach is that writing in plain English is a sign of effective legal writing. Plain English is clear and concise language without the use of unnecessary legal jargon. Plain English is more appealing to a wider audience, because it uses everyday terms to the greatest extent possible rather than relying on technical terminology. Put another way, plain English is more reader friendly. Being more reader friendly is important, because legal opinions should ideally be accessible for the general public—including the layperson—as well as legal professionals.
+
+Directly reflecting this principle, some U.S. states now require that certain contracts be written in plain English, which could include rental agreements between landlords and tenants. Because many actual and potential tenants who sign such agreements are presumed to be nonlegal experts, writing agreements in plain English helps to make them more understandable and lower the chances of one side taking advantage of another side.
+
+Entire books have been written on how to write in plain English. One such book is Richard Wydick’s Plain English for Lawyers (Carolina Academic Press, 1998). Rather than trying to duplicate this and other related works, following are some plain English rules and examples from Wydick’s Plain English for Lawyers that may be useful in your legal writing while studying or practicing American law. Readers who are interested in improving their legal writing skills should certainly read Wydick’s entire book, which has many more rules and examples. The following are the top 10 rules for writing in plain English:
+
+. Delete surplus words
+. Use a Subject-Verb-Object sentence structure
+. Use base verbs (not nominalizations)
+. Use the active voice
+. Keep sentences short
+. Use bullet points and tabs (when conveying mass information)
+. Put modifying words next to the words being modified
+. Prefer the singular number and the present tense
+. Use familiar and succinct words (avoiding lawyerisms)
+. Avoid sexist language
+
+=== Plain English Rule 1: Delete Surplus Words
+
+Example (without plain English): In many instances, insofar as the jurors are concerned, the jury instructions are not understandable because they are too poorly written.
+
+Example (with plain English): Often jury instructions are too poorly written for the jurors to understand.
+
+=== Plain English Rule 2: Use a Subject-Verb-Object sentence structure
+
+Example (without plain English): There were no reasons offered by the court for denying punitive damages.
+
+Example (with plain English): The court offered no reasons for denying punitive damages.
+
+=== Plain English Rule 3: Use base verbs (not nominalizations)
+
+Example (without plain English): We are in agreement with your position, but if it is your intention to cause delay, we will stand in opposition to you.
+
+Example (with plain English): We agree with your position, but if you intend to cause delay, we will oppose you.
+
+=== Plain English Rule 4: Use the active voice
+
+Example (without plain English): This agreement may be terminated by either party by defendant manufacturers, and it was agreed that all sales would be made at list prices or above.
+
+Example (with plain English): Either party may terminate this agreement by giving 30 days’ notice to the other party.
+
+=== Plain English Rule 5: Keep sentences short
+
+Example (without plain English): While there are instances in which consumer abuse and exploitation result from advertising that is false, misleading, or irrelevant, it does not necessarily follow that these cases need to be remedied by governmental intervention in the marketplace, because it is possible for consumers’ interests to be protected through resort to the courts, either by consumers themselves or by those competing sellers who see their market shares decline in the face of inroads based on such advertising.
+
+Example (with plain English): Consumers are sometimes abused and exploited by false, misleading, or irrelevant advertising, but that does not necessarily require the government to intrude into the marketplace. Consumers themselves can go to court, as can competing sellers who lose business because of such advertising.
+
+=== Plain English Rule 6: Use bullet points and tabs (when conveying mass information)
+
+Example (without plain English): Venue would be proper, unless the claim is framed as a federal question, in the Southern District of New York, if that is where the plaintiff resides, or in the Eastern District of California, assuming that the defendant does business in that judicial district, or in the Northern District of Illinois, if that turns out to be the place where the events in question happened.
+
+Example (with plain English): Unless the claim is framed as a federal question, venue would be proper in any of these judicial districts:
+
+- The Southern District of New York, if the plaintiff resides there; or
+- The Eastern District of California, if the defendant does business there; or
+- The Northern District of Illinois, if the events in question took place there.
+
+=== Plain English Rule 7: Put modifying words next to the words being modified
+
+Example (without plain English): The plaintiff’s pain can be alleviated only by expensive therapy.
+
+Example (with plain English): Only expensive therapy can alleviate the plaintiff’s pain.
+
+=== Plain English Rule 8: Prefer the singular number and the present tense
+
+Example (without plain English): Persons must not discharge firearms inside city limits.
+
+Example (with plain English): A person must not discharge a firearm inside city limits.
+
+=== Plain English Rule 9: Use familiar and succinct words (avoiding lawyerisms)
+
+Example (without plain English): This agreement, unless revocation has occurred at an earlier date, shall expire on November 11, 2016.
+
+Example (with plain English): Unless sooner revoked, this agreement expires on November 11, 2016.
+
+=== Plain English Rule 10: Avoid sexist language
+
+Example (without plain English): Blue-collar work involving heavy lifting and construction requires a manly effort, whereby a judge will surely apply a reasonable man’s legal standard to the case.
+
+Example (with plain English): Blue-collar work involving heavy lifting and construction requires physically strenuous effort, whereby a judge will surely apply a reasonable person’s legal standard to the case.
+
+=== Summary
+
+To understand the hardware of the American legal system, the software of the American legal system and its legal professionals must first be examined in terms of the thinking process underlying it. So how does an American lawyer think? Although many factors exist, American lawyers are generally driven by issues (legal questions) in a particular case or lawsuit.
+
+The IRAC—Issue, Rule (of law), Apply, and Conclusion—legal method used by many law students and legal professionals incorporates the Issue component as the lead component. The Rule (of law) in the IRAC system requires the writer—whether a law student or legal professional—to know and write the general rule of law specifically related to the issue. The Apply section synthesizes and incorporates the general rule with the facts in the case, and the Conclusion section provides a clear yes or no answer to the issue presented.
+
+How American lawyers write is a direct reflection of how American lawyers think. The modern trend in American law is to write in plain English. Several rules are provided in this chapter as a general framework on how American lawyers and other legal professionals write for their domestic and increasingly global audience.
+
+'''
+
+
+
