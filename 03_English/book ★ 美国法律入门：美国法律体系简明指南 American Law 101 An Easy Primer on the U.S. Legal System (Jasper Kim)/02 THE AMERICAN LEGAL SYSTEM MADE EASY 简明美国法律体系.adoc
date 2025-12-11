@@ -12,36 +12,178 @@
 
 2 THE AMERICAN LEGAL SYSTEM MADE EASY
 
-Chapter 1 discussed the software 软件；体系 of the American lawyer (i.e., in terms of the thinking process 思维过程 operating 运作；起作用 within the minds of U.S.-licensed legal professionals 法律从业者). This chapter, in contrast 相比之下；与此相反, examines 审视；考察 the hardware 硬件；基础架构 in terms of the conceptual 概念的 component parts 组成部分 within the software of the American lawyer and legal system 法律体系. Specifically 具体来说, the hardware is based in part on the black letter law 黑体字法律；成文法 embedded 嵌入；根植于 within the American legal infrastructure 法律基础设施, which this chapter will now briefly overview 概述；简述.
+Chapter 1 discussed the software 软件；体系 of the American lawyer (i.e. 即，也就是, in terms of _the thinking process_ 思维过程 后定说明 operating (v.) 运作；起作用 within the minds of _U.S.-licensed (a.) 得到许可的 legal professionals_ 法律从业者).  +
+This chapter, in contrast 相比之下；与此相反, examines (v.) 审视；考察 the hardware 硬件；基础架构 in terms of _the conceptual 概念的，观念的 component parts_ 组成部分 within the software of the American lawyer and legal system 法律体系.  +
+Specifically 具体来说, the hardware *is based* (v.)  _in part_ *on* the black letter law 黑体字法律；成文法 embedded (v.) 嵌入；根植于 within the American legal infrastructure 法律基础设施, which `主` this chapter `谓` will now briefly overview (v.) 概述；简述.
 
 [.my2]
 第一章探讨了美国律师的“软件”（即持有美国执照的法律从业者的思维运作模式）。相比之下，本章将从美国律师与法律体系, 这一“软件”的概念组成部分入手，剖析其对应的“硬件”。具体而言，这一硬件部分, 建立在美国法律基础设施中的成文法之上，本章接下来将对其进行简要概述。
 
-=== Common Law Versus Other Domestic Laws
+=== _Common Law_ 普通法 Versus （比较两种不同想法、选择等）与……相对（比） Other _Domestic Laws_ 国内法
 
-American law is based on common law 普通法 from the United Kingdom as one of its core legal pillars 核心法律支柱 (which is then buttressed 支撑；加固 by, among other sources 除其他来源外, the U.S. Constitution 美国宪法, court cases 法庭判例, statutes 成文法规, restatements 法律重述, decrees 法令；政令, treatises 专著；论述, and various other rules and regulations 规章制度).
+
+American law is based on _common law_ 普通法(一种以法官判例为基础的法律体系) from the United Kingdom /as one of its core legal pillars 核心法律支柱 (which is then buttressed (v.) 支撑；加固;扶壁 by, among other sources 除其他来源外, the U.S. Constitution 美国宪法, court cases 法庭判例, statutes 成文法规, restatements 法律重述,再次声明, decrees 法令；政令, treatises 专著；论述, and various (a.) 各种各样的；迥异的 other rules and regulations 规章制度).
 
 [.my2]
 **美国法律**以**源自英国的"普通法"**为核心法律支柱之一，*同时还以美国宪法、法庭判例、成文法规、法律重述、法令、专著, 以及各类规章制度等, 作为补充支撑。*
 
-Common law follows the principle 原则 of stare decisis 遵循先例原则 (Latin 拉丁语, meaning “stand by your decision”). Stare decisis is a legal principle stating that prior 先前的 court decisions 法院判决 (e.g., holdings 判决要点, conclusions 结论, rulings 裁定) must be recognized as precedent case law 先例判例法. If a case is deemed 被认为；被视为 a precedent case, then lower courts 下级法院 are compelled 被迫；必须 to rule 裁决 in the same way as the precedent case. This applies 适用 only if the precedent case is binding 有约束力的 or mandatory 强制性的. The rationale 基本原理；理由 for stare decisis and precedent cases is judicial efficiency 司法效率, fairness 公平 to the parties 当事人, predictability 可预见性, and a check and balance 制衡机制 on arbitrary behavior 任意行为；武断行为.
+[.my1]
+.案例
+====
+.Restatement (法律重述)
+
+*##Restatements of the Law（法律重述）##是指由美国法律协会 (American Law Institute, ALI) #组织著名法学教授、法官和律师, 撰写的一系列有影响力的、权威性的书籍。#*
+
+
+含义： *##Restatements 不是法律本身，而是对特定领域（如合同法、侵权法、财产法等）的"判例法" (Common Law) 规则的权威性、系统性的总结和阐述。##它们旨在澄清和简化美国各州"判例法"中发现的规则。*
+
+作用： **#它们试图说明“最好的规则”（即多数州正在使用的规则或被认为最有道理的规则），#**而不是简单列出所有州的规则。*它们对法院不具有约束力，但由于其作者的权威性和专业性，法官在审理案件时经常将其视为极具说服力的次级权威 (Secondary Authority)。如果法院采纳了 Restatement 中的某条规则，那么这条规则就会成为该辖区的判例法 (Case Law)。*
+
+
+- 与判例法 (Common Law) 的关系： #*"Common Law 判例法"是法院在具体案件中做出的裁决；Restatements 是对这些裁决背后规则的总结和提炼。*#
+
+- 与法规 (Statutes) 的关系： 法规是立法机关（如国会或州议会）制定和通过的成文法，具有法律约束力；Restatements 是私营组织撰写的说服性著作。
+
+.Decree (判决令/法令)
+
+*Decrees（判决令或法令）通常是指由法院（特别是衡平法院或联邦法院）或行政机构, 签发或发布的具有法律效力的正式命令。*
+
+
+含义： 在法律语境中，**"Decree" 最常见的意思, 是法院的最终裁决或命令，尤其是在"衡平法" (Equity) 领域（如离婚、禁令）。它要求或禁止某方做某事，具有法律约束力，违反它可能导致藐视法庭。**例如，Consent Decree（同意令/和解法令）是政府机构与当事方达成的和解协议，经法院批准后生效。
+
+作用： 它们是强制执行的法律命令，用于解决特定的法律争议，确定当事人的权利和义务，或实施特定的救济措施。
+
+
+- 它与法院案例 (Court Cases) 的关系： Decree 是法院判决的结果或最终命令，是判例法的一部分，但它比法院的意见 (Opinion) 更侧重于强制性的执行或救济。
+
+- 它与法规 (Statutes) 的关系： *法规是普遍适用的规则，由立法机关制定；Decree 是针对特定当事人和特定案件的命令，由司法机关（或授权的行政机构）发布。*
+
+- 它与行政规则 (Regulations) 的关系： **Administrative Decree（行政法令）是行政机构在其权限内发布的命令，**与行政法规 (Regulations) 类似，都是行政法的一部分，但 Decree 通常更侧重于特定行动的命令。
+
+[.my3]
+[options="autowidth" cols="1a,1a,1a,1a"]
+|===
+|来源 (Source)|制定/发布者 (Issuer)|性质 (Nature)|约束力 (Binding Power)
+
+|U.S. Constitution|制宪会议/人民|国家的最高根本法|最高约束力，优于一切法律
+|Statutes (法规)|立法机关 (国会/州议会)|普遍适用的成文法|法律约束力 (在宪法之下)
+|Court Cases (判例法)|司法机关 (法院)|对特定事实的裁决和法律解释|法律约束力 (遵循先例原则)
+|Restatements|美国法律协会 (ALI)|对判例法的权威性总结|说服性 (法院采纳后具约束力)
+|Decrees (判决令)|司法机关/行政机构|针对特定案件的强制性命令|法律约束力 (针对特定当事人)
+|Treatises (专著)|法律学者|对法律主题的深度学术分析|说服性 (次级权威)
+|===
+
+我将用一个虚构的交通意外案例，来通俗易懂地比较美国法律体系中的几个核心法律来源是如何共同作用的。
+
+在这个例子中，假设有一位卡车司机（简称“司机”）在州际公路上开车时，因边看手机边开车而撞上了另一辆小轿车（简称“受害者”）。
+
+[.my3]
+[options="autowidth" cols="1a,1a,1a,1a"]
+|===
+|法律来源|制定者/来源|具体例子/应用|扮演的角色
+
+|U.S. Constitution (美国宪法)|人民/制宪会议|司机被州警察逮捕。他援引宪法第四修正案，主张警方在搜查他的卡车以获取手机使用证据时，必须有合理理由 (Probable Cause)。|最高法则：设定政府权力（包括警察和法院）的基本界限和公民的基本权利。
+
+|Statutes (法规/成文法)|立法机关 (州议会)|州议会通过了《禁止分心驾驶法》，规定在驾驶重型车辆时使用手持电子设备, 属于违法行为，并设定了罚款和吊销执照的处罚。|普遍规则：设立明确、普遍适用的规则和惩罚。这个是司机被罚款的直接依据。
+
+|Court Cases (判例法/普通法)|司法机关 (法院)|州最高法院在三年前的 Smith v. Jones 案中裁定，在确定过失时，驾驶员如果违反了《禁止分心驾驶法》，则构成疏忽本身 (Negligence Per Se)。|先例：解释和应用成文法，*并在没有"成文法"的地方, 建立新规则*（如“过失”的定义）。
+
+|Restatements (法律重述)|美国法律协会 (ALI)|受害者律师引用《侵权法重述（第三版）》中的某一条款，该条款总结了美国大多数州法院关于“分心驾驶即构成过失”的判例规则。|次级权威/澄清：*帮助法官和律师理解和总结分散的判例法规则，说服法院采纳“最佳”的法律原则。*
+
+|Decrees (判决令/法令)|司法机关 (法院)|*案件审理后，法官签发禁令 (Injunction)，要求司机立即停止驾驶重型车辆，直到他通过重新培训和心理评估。*|强制执行命令：*针对特定当事人（司机）和特定案件的最终、具有强制力的命令。*
+
+|Regulations (行政法规)|行政机构 (交通部)|"州交通部"发布了关于卡车司机休息时间、车辆维护的具体行政规则，规定了卡车必须安装特定的免提设备。|具体实施细则：*将立法机关笼统的法规，转换为细节丰富、可操作的规则。*
+|===
+
+
+想象一下法律体系是一座房子：
+
+- 美国宪法 (Constitution) 是地基：它决定了这座房子能建多高，以及谁有权进入。
+
+- 法规 (Statutes) 是房子的主体结构：它们建立了墙壁、房间和布局，规定了大部分生活规则（如禁止偷窃、禁止分心驾驶）。
+
+- *判例法 (Court Cases) 是房子的内部装饰和装修：法院不断地解释和定义法规的含义，并填补法规没有涵盖的空白。*
+
+- **法律重述 (Restatements) 是建筑师手册：它不是房子本身的一部分，但它是最权威的专家对“最好的装修和建筑方法”的总结，**法官和律师会经常参考它。
+
+- 判决令 (Decrees) 是房子的维修通知书：法官发布给特定居民（当事人），要求他们做或不做某事，以修复或解决特定的问题。
+
+====
+
+Common law follows the principle 原则 of _stare 凝视，盯着看 decisis_ 遵循先例原则 (Latin 拉丁语, meaning “*stand (v.) by your decision* (决定，抉择；判决，裁定) 坚持你的决定”).  +
+
+_Stare decisis_ is a legal principle 法律原则  *stating (v.) 说明；叙述 that* `主` prior 先前的 court decisions 法院判决 (e.g., holdings 判决要点, conclusions 结论, rulings 裁定) `谓` must *be recognized as* _precedent case_ law 先例判例法.
+
+If a case is deemed 被认为；被视为 a _precedent case_ 判例, then lower courts 下级法院 are compelled 被迫；必须 to rule (v.) 裁决 *in the same way 与……一样；像……一样 as* _the precedent case_.
+This applies (v.)适用 *only if* 只有在……的情况下才能 _the precedent case_ is binding (a.)(协议，承诺）有约束力的，必须遵守的 or mandatory (a.)强制性的，义务的.
+
+`主` The rationale (n.)<正式>根本原因，逻辑依据;基本原理；理由 for _stare decisis_ 先例约束 and _precedent (a.n.)先例，前例;在先的，前面的 cases_ `系` is ① judicial efficiency 司法效率, ② fairness 公平 to the parties 当事人, ③ predictability 可预见性, ④ and a _check and balance_ 制衡机制 on _arbitrary behavior_ 任意行为；武断行为.
 
 [.my2]
 ##**"普通法"遵循“遵循先例”原则，**##该原则的拉丁语表述意为“恪守己决”。##**这一法律原则规定，法院先前做出的判决（如判决要点、结论、裁定）必须被视为"先例判例法"。若某一案件被认定为"先例案件"，那么下级法院就必须做出与"先例案件"相同的裁决，但这仅适用于"该先例案件具备约束力或强制性"的情况。**##遵循先例原则, 及先例案件的存在，**#是为了保障#**司法效率、维护当事人权益、##**提升判决的可预见性，并对"司法武断行为"形成制衡。**##
 
-In common law countries, juries 陪审团 and oral arguments 口头辩论 by lawyers often can take a greater or more visible role 更重要或更显著的作用 compared to in civil law countries 大陆法系国家 (which may not have jury trials 陪审团审判), in which the judge 法官 can play a more central 核心的 and prominent 突出的 role (of course 当然, exceptions 例外 can exist).
+[.my1]
+.案例
+====
+.Stare Decisis
+#*Stare Decisis*# 是一个完整的拉丁语短语，其全称为 stem:[ Stare \ decisis \ et \ non \ quieta \ movere]，*#字面意思是：“坚持已决的事情，不要扰乱已确立的事物”#。*
+
+**它是一个法律原则，要求法院在审理"与以前已判决案件事实相似的案件"时，应当遵循先前法院的裁决。**这正是你所说的“*遵循先例*”的意思。
+
+Decisis 是拉丁语 stem:[ decidere]（意为“决定、解决”）的完成时分词的复数属格形式（或称“已决之事”）。
+
+- Stare (来自 stāre): 动词“站立、坚持”。
+- Decisis (来自 decīsum): 名词“已决之事、裁决”。
+- 所以 Stare  decisis 连在一起，就是“坚持已决之事”的意思。
+
+.Precedent Case (先例案件)
+**先例案件, 是指先前已被法院裁决, 并建立了法律规则的特定案件。**它是载体。
+
+.Precedent Case Law (先例判例法)
+#*先例判例法, 是指从 precedent case 中提炼出来的、具有约束力或说服力的法律规则本身。它是内容。*#
+
+例子： 从 Smith v. Jones 案中提炼出的“分心驾驶构成疏忽本身”的法律规则，就是 precedent case law。
+
+"先例判例法"的核心, 是法院意见中的 ratio decidendi（判决理由，即判决的法律依据, 或核心规则），而不是 obiter dicta（附带意见，即法官在判决中附带的、与裁决结果不直接相关的意见）。即, 只有 ratio decidendi 才具有约束力。
+
+.This applies (v.) *only if* _the precedent case_ is binding (a.) or mandatory (a.).
+
+*这句话的意思是：并非所有"先例"都能约束所有法院。只有当一个先例被视为"有约束力的" (binding) 或"强制性的" (mandatory) 时，下级法院才必须遵循它。*
+
+- #*有约束力的先例 (Binding Precedent)： 也称为"强制性先例"。它指由上级法院或同一法院, 在同一管辖区内作出的裁决。*#
+- **##无约束力的先例 (Non-Binding Precedent)： 也称为"说服性先例" (Persuasive Precedent)。它指由同一级别法院（但不在同一管辖区，如另一个州的法院）或下级法院, 作出的裁决。##下级法院或平级法院可以参考它，但不必遵循它。**
+
+原因 (The Rationale): +
+为什么必须要有这个限制？原因在于法院的"层级结构"和"地域管辖"：
+
+- 法院层级结构 (Judicial Hierarchy)：
+.. 原因： 这是为了维护法律体系的统一性和权威性。#*上级法院的裁决, 代表着其管辖区内对法律的最终解释。如果下级法院可以"自由否决"上级法院的裁决，那么法律体系将陷入混乱。*#
+.. 例子： *"联邦上诉法院" (Circuit Court) 的裁决, 对该巡回区内的所有"联邦地方法院" (District Court) 具有约束力。*
+
+- 地域管辖 (Jurisdiction)：
+.. 原因： #*即使是最高法院（如"州最高法院"），其判决也只对其本州内的法院具有约束力。一个州没有权力为另一个州制定法律。*#
+.. 例子： 加利福尼亚州"最高法院"的判决, 对德克萨斯州的所有法院来说，只是"说服性先例"，不具有"强制约束力"。
+
+##**因此，Stare decisis 原则不是一个绝对的命令，而是一个受制于"法院等级"和"地域管辖"的原则。**##它确保了在保持法律的"公平性"、"可预测性"和"效率"的同时，也尊重了联邦制和司法体系的结构。
+
+
+====
+
+
+
+In _common law_ 英美普通法系,习惯法 countries, `主` juries 陪审团 and _oral arguments_ 口头辩论 by lawyers `谓` often can *take a greater or more visible role* 更重要或更显著的作用 *compared to* 与（某事物）相比 in _civil law_ 欧陆法系,大陆法系,民法学 countries 大陆法系国家 (which may not have _jury trials_ 陪审团审判), in which `主` the judge 法官 `谓` can *play a more central 核心的 and prominent 突出的,重要的，著名的 role* (of course 当然, *exceptions 例外 can exist* (v.) ).
 
 [.my2]
 #*在"普通法系"国家，律师参与的"陪审团制度"与"口头辩论", 往往会发挥更重要或更显著的作用；而在"大陆法系"国家（这类国家可能没有"陪审团审判制度"），法官的角色则更为核心和突出*#（当然，也存在例外情况）。
 
-link:[]Examples of jurisdictions 司法管辖区 that use the common law system include the following:
+`主` Examples of jurisdictions 司法管辖区 that use (v.) the common law system `谓` include (v.) the following:
 
-- United Kingdom except Scotland
+- United Kingdom except 除……外，不包括 Scotland
 - United States except Louisiana
 - Ireland
-- Former British colony 前英国殖民地 and/or Commonwealth territories/countries 英联邦领土/国家, including India except Goa, Australia, New Zealand, Singapore, and Canada except Quebec
+- Former British colony 前英国殖民地 and/or Commonwealth （用于某些政治上相互有联系的国家集团的名称）联合体 territories/countries 英联邦领土/国家, including India except Goa 果阿（印度邦名）, Australia, New Zealand, Singapore, and Canada except Quebec
 - Pakistan
-- Bangladesh
+- Bangladesh  孟加拉国
 
 [.my2]
 **#采用"普通法系"#**的司法管辖区, 示例如下： +
@@ -52,14 +194,93 @@ link:[]Examples of jurisdictions 司法管辖区 that use the common law system 
 - 巴基斯坦 +
 - 孟加拉国 +
 
-In contrast, generally under civil law 大陆法 (derived from 源自 the French-German legal tradition 法德法律传统), statutes and other similar legal sources represent relatively greater legal authority 法律权威 than does case law. Under civil law, neither precedent cases nor stare decisis exist. The rationale for this is greater judicial freedom 司法自主权 to decide cases on a case-by-case basis 逐案审理. Some people argue 主张；认为, however, that this system may come at the cost of 以……为代价 less predictability and consistency 一致性 regarding case law conclusions (with similar legal issues 法律问题 and/or facts 事实).
+[.my1]
+.案例
+====
+路易斯安那州 (Louisiana)、苏格兰 (Scotland) 和魁北克 (Quebec) 不主要施行普通法系 (Common Law)，是因为它们在历史上曾受欧陆法系 (Civil Law) 或罗马法 (Roman Law) 的深刻影响。
+
+这三个地区施行的法律体系, 通常被称为"混合法系" (Mixed Legal Systems)，它们将"欧陆法系"（尤其是私法领域）的特点, 与周围地区的"普通法系"（通常是公法和刑法）结合在一起。
+
+[.my3]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|Louisiana :
+|**在加入美国联邦之前，路易斯安那州曾是法国和西班牙的殖民地。法国在拿破仑时期颁布了著名的《法国民法典》（拿破仑法典），**这是欧陆法系的典范。路易斯安那州沿用了基于法国和西班牙传统（都属于欧陆法系）的《路易斯安那民法典》。
+
+混合之处：
+
+- 其民事私法（如财产、合同）遵循法典模式（欧陆法系）。 +
+- 但其公法（如宪法、刑法、诉讼程序）受到美国联邦的影响，遵循普通法系原则。
+
+|Quebec
+|**魁北克是加拿大唯一曾是法国殖民地的省份，**直到 1763 年英国统治该地区。 +
+为了保护当地法国居民的文化和法律传统，英国在 1774 年通过《魁北克法案》，允许他们在私法领域继续沿用法国欧陆法系。 +
+**魁北克拥有自己的《魁北克民法典》，**这是受法国法典启发的。
+
+混合之处：
+
+- 私法（如合同、继承、物权）基于《魁北克民法典》（欧陆法系）。
+- 公法、刑法、以及联邦层级的法律, 则基于加拿大联邦的"普通法系"。
+
+|Scotland
+|苏格兰与欧洲大陆（尤其是法国和荷兰）的法律学者有着更紧密的联系，因此其法律受到了罗马法的强烈影响。 +
+与英格兰相比，苏格兰更早地将法律原则, 系统化地写成法学著作，而不是完全依赖法院的判例。
+
+混合之处：
+
+- 苏格兰的私法, 根源于罗马法和欧陆法系的法学著作。
+- 然而，由于其地理位置, 和与英格兰在政治上的结合，苏格兰的刑法、证据法、公司法, 以及诉讼程序等许多方面, 受到了"普通法系"的强烈影响。
+|===
+
+====
+
+In contrast 相反地,相比之下, generally under civil law 大陆法 (derived from 源自 the French-German legal tradition 法德法律传统), `主` statutes 成文法 and other similar legal sources `谓` represent (v.) relatively 相当地，相对地 greater _legal authority_ 法律权威 *than* does (v.) _case law_ 案例法.
+
+Under civil law 大陆法系, *neither* precedent cases *nor* _stare decisis_  遵循先例原则 exist (v.).  `主` The rationale 根本原因，逻辑依据 for this `系` is greater judicial freedom 司法自主权 to decide (v.) cases _on a case-by-case 具体分析；个例 basis_ (基础，要素) 逐案审理.
+
+Some people *argue* 主张；认为, however, *that* /`主` this system `谓` may come (v.) *at the cost of* 以……为代价 less ① _predictability_ (n.) 可预测性；可预言 and ② _consistency_ 一致性 regarding 关于，至于 _case law_ 判例法,案例法 conclusions (with similar legal issues 法律问题 and/or facts 事实).
 
 [.my2]
 相比之下，**在"大陆法系"（源自"法,德"法律传统）下，成文法规, 及其他类似法律渊源, 通常比"判例法"具有更高的法律权威。#"大陆法系"既不存在"先例案件"，也不遵循“遵循先例”原则，其设计初衷是赋予法官更大的司法自主权，以便对案件进行逐案审理。#**不过，也有人认为，#*这种制度可能会导致同类法律问题及事实的判例结论, 缺乏"可预见性"与"一致性"。*#
 
-Examples of jurisdictions that use the civil law system include the following:
 
-- Most European Union (EU) nations 欧盟成员国, including Germany and France where civil law was derived 起源地, but not the United Kingdom, Ireland, or Cyprus
+[.my1]
+.案例
+====
+.`主` The rationale for this `系` is _greater judicial freedom_ 后定说明 to decide (v.) ) cases _on a case-by-case basis_.
+
+这句话的意思是：欧陆法系赋予法官更大的自由，可以根据每个案件的具体情况来做出裁决。
+
+欧陆法系不存在强制的先例约束： #*由于欧陆法系不承认 stare decisis（遵循先例）原则，下级法院的法官在审理案件时，不必像"普通法系"那样，必须遵循"上级法院"在类似案件中的判决。*#
+欧陆法系中，法官的首要任务, 是直接将法典 (Codes) 和成文法 (Statutes) 适用于眼前的事实。
+
+- 其优点是:
+这使得法官能够更灵活，**避免被过时的或僵硬的先例所束缚。** (换言之, 自由裁量权太大, 容易故意制造冤案.)
+
+- 但其缺点就是这句话:  this system may come (v.)  *at the cost of* _less predictability and consistency_ regarding _case law conclusions_ (with _similar legal issues and/or facts_). +
+*这种制度的代价是，对于案情和法律问题相似的案件，其判决结果的"可预测性"和"一致性"可能会降低。*
+
+[.my3]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|可预测性 (Predictability) 下降：
+|- 在普通法系中，律师可以查阅先例，几乎能预测法官在类似案件中会如何裁决，从而指导当事人是否和解或打官司。
+- **在欧陆法系中，由于法官的自由度高，且不强制遵循先例，**律师更难向当事人保证一个案件的最终结果。*法官可能在几乎相同的案件中, 做出不同的判决。*
+
+|一致性 (Consistency) 下降：
+|##**缺乏 stare decisis 原则，可能导致不同法官, 在处理相同法律问题时, 采取不同的解释, 和适用方式。**##这使得法律规则的适用标准, 在不同的法院和不同的时间, 可能不统一，从而损害了"法律面前人人平"等的感知（尽管实际上他们都依照法典判案）。
+|===
+
+====
+
+
+`主` Examples of jurisdictions 司法管辖区；行政辖区 that use (v.) the civil law system `谓` include the following:
+
+- Most European Union (EU) nations 欧盟成员国, including Germany and France /where civil law was derived 起源地, but not the United Kingdom, Ireland, or Cyprus
 - Most of continental Latin America 拉丁美洲大陆 except Guyana and Belize
 - Congo
 - Azerbaijan
@@ -67,7 +288,7 @@ Examples of jurisdictions that use the civil law system include the following:
 - Russia
 - Turkey
 - Egypt
-- Madagascar
+- Madagascar 马达加斯加岛（非洲岛国）
 - Lebanon
 - Switzerland
 - Indonesia
@@ -95,13 +316,13 @@ Examples of jurisdictions that use the civil law system include the following:
 
 image:/img/004.png[,100%]
 
-The factors 因素 used in determining 判定 whether to apply stare decisis include the following:
+`主` The factors 因素 used (v.) in determining (v.) 判定 whether to apply (v.) _stare decisis_ `谓` include the following:
 
 - Similarity 相似性 of legal issue(s)/legal principle(s) 法律问题/法律原则
-- Whether the precedent case was ruled on by a court recognized as a leading one 主导法院 in the relevant subject area 相关法律领域
-- Whether the precedent case was well-reasoned 论证充分的 and articulated 清晰阐述的 (in the court’s legal opinion 法院法律意见书)
-- Whether the precedent case was issued from 由……作出 a court in the same jurisdiction 同一司法管辖区
-- Whether the precedent case was issued from a higher-level court 上级法院
+- Whether the _precedent case_ was ruled (v.) on by a court *recognized as* a leading one 主导法院 in the relevant 有关的，切题的 subject area 相关法律领域
+- Whether the _precedent case_ was well-reasoned 论证充分的 and articulated 清晰阐述的;铰接式的；清晰的；组织缜密的；有关节的 (in the court’s _legal opinion_ 法院法律意见书)
+- Whether the _precedent case_ was issued 由……作出 from a court /in the same jurisdiction 同一司法管辖区
+- Whether the _precedent case_ was issued from a higher-level court 上级法院
 
 [.my2]
 *判定是否适用“遵循先例”原则, 需考量以下因素：* +
