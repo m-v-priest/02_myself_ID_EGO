@@ -2,7 +2,7 @@
 
 document.addEventListener('DOMContentLoaded', () => {
     // ----------------------------------------------------------------
-    // 0. DOM 元素获取
+    // 0. DOM 元素获取 (保持不变)
     // ----------------------------------------------------------------
     const svg = document.getElementById('timeline-svg');
     const container = document.getElementById('timeline-container');
@@ -13,53 +13,52 @@ document.addEventListener('DOMContentLoaded', () => {
     const maxYearInput = document.getElementById('max-year');
     const fontSizeInput = document.getElementById('font-size');
     const dotSizeInput = document.getElementById('dot-size');
+    const modernZoomInput = document.getElementById('modern-zoom');
 
     // ----------------------------------------------------------------
-    // 1. 全局配置、默认值 与 localStorage加载
+    // 1. 全局配置、默认值 与 localStorage加载 (保持不变)
     // ----------------------------------------------------------------
-    let eventData = {}; // 存储 JSON 数据
-    const YEAR_INTERVAL_NORMAL = 100; // 基础间隔：100年
-    const YEAR_INTERVAL_FINE = 10;   // 精细间隔：10年
-    const FINE_GRAIN_START_YEAR = 1800; // 切换到 10 年间隔的年份
-    const YEAR_SPACING_UNIT = 50; // SVG中每100年对应的像素高度（作为缩放基准）
+    let eventData = {};
+    const YEAR_INTERVAL_NORMAL = 100;
+    const YEAR_INTERVAL_FINE = 10;
+    const FINE_GRAIN_START_YEAR = 1800;
+    const YEAR_SPACING_UNIT = 50;
 
-    // 定义默认值
+    const MODERN_START_YEAR = 1800;
+    const DEFAULT_MODERN_ZOOM = 2.0;
+
     const DEFAULT_ZOOM = 1.0;
     const DEFAULT_FONT_SIZE = 12;
     const DEFAULT_DOT_SIZE = 4;
     const DEFAULT_MIN_YEAR = -300;
     const DEFAULT_MAX_YEAR = 1000;
 
-    // 从 localStorage 加载参数，如果没有则使用默认值
     let currentZoom = parseFloat(localStorage.getItem('timelineZoom')) || DEFAULT_ZOOM;
     let currentMinYear = parseInt(localStorage.getItem('timelineMinYear')) || DEFAULT_MIN_YEAR;
     let currentMaxYear = parseInt(localStorage.getItem('timelineMaxYear')) || DEFAULT_MAX_YEAR;
+    let currentModernZoomFactor = parseFloat(localStorage.getItem('modernZoomFactor')) || DEFAULT_MODERN_ZOOM;
 
-    // 将加载的参数应用到输入框，覆盖 HTML 中的默认值
     minYearInput.value = currentMinYear;
     maxYearInput.value = currentMaxYear;
     fontSizeInput.value = parseInt(localStorage.getItem('timelineFontSize')) || DEFAULT_FONT_SIZE;
     dotSizeInput.value = parseInt(localStorage.getItem('timelineDotSize')) || DEFAULT_DOT_SIZE;
+    modernZoomInput.value = currentModernZoomFactor;
+
+    let maxRequiredXEver = 0;
 
 
-    // ----------------------------------------------------------------
-    // 2. 数据加载函数
-    // ----------------------------------------------------------------
+    // ... (loadData 和 wrapText 函数 保持不变) ...
     async function loadData() {
         try {
             const response = await fetch('data.json');
-
             if (!response.ok) {
                 throw new Error(`无法获取 data.json。状态码: ${response.status}。请确认文件是否存在并检查网络。`);
             }
-
             eventData = await response.json();
-
             if (Object.keys(eventData).length === 0) {
                 container.innerHTML = '<p style="color: orange; text-align: center;">警告：data.json 文件已加载，但其中没有事件数据。</p>';
                 return;
             }
-
             drawTimeline();
         } catch (error) {
             console.error('加载 JSON 数据时出错:', error);
@@ -73,26 +72,95 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
+    function wrapText(text, maxWidth, fontSize) {
+        if (!text || text.length === 0) return [""];
+        if (maxWidth <= 0) return [text];
+
+        const lines = [];
+        let currentLine = '';
+
+        const CHAR_WIDTH_APPROX = fontSize * 1.05;
+        const maxCharsPerLine = Math.floor(maxWidth / CHAR_WIDTH_APPROX);
+
+        if (text.length <= maxCharsPerLine) {
+            return [text];
+        }
+
+        let words = Array.from(text);
+
+        for (let i = 0; i < words.length; i++) {
+            const char = words[i];
+
+            if ((currentLine.length + 1) * CHAR_WIDTH_APPROX > maxWidth && currentLine.length > 0) {
+                lines.push(currentLine);
+                currentLine = char;
+            } else {
+                currentLine += char;
+            }
+        }
+
+        if (currentLine.length > 0) {
+            lines.push(currentLine);
+        }
+
+        return lines.slice(0, 5);
+    }
+
     // ----------------------------------------------------------------
-    // 3. 核心绘图函数 (使用 SVG)
+    // 3. 核心绘图函数 (drawTimeline) - 关键修改在这里
     // ----------------------------------------------------------------
+
     function drawTimeline() {
-        // 清空旧的SVG内容
         svg.innerHTML = '';
 
-        // --- 参数获取 ---
-        const fontSize = parseInt(fontSizeInput.value);
+        // --- 核心配置 ---
+        const baseFontSize = parseInt(fontSizeInput.value); // 用户设定的基础字号
         const dotSize = parseInt(dotSizeInput.value);
-        const spacing = YEAR_SPACING_UNIT * currentZoom;
+        const axisX = 100;
+        const X_OFFSET = 10;
+        const PADDING = 40;
+        const containerWidth = container.offsetWidth;
 
-        const minYearToDraw = currentMinYear;
+        // ⭐ 新增：主刻度字号比基础字号大 10px
+        const majorTickFontSize = baseFontSize + 10;
 
-        // 计算 SVG 的总高度（Y轴表示年份）
-        let totalYears = currentMaxYear - minYearToDraw;
-        const svgHeight = (totalYears / YEAR_INTERVAL_NORMAL) * spacing + 50;
-        svg.setAttribute('height', svgHeight + 'px');
+        const spacingAncient = YEAR_SPACING_UNIT * currentZoom;
+        const spacingModern = spacingAncient * currentModernZoomFactor;
 
-        const axisX = 100; // 时间轴垂直线所在的 X 坐标
+        // --- 动态 Y 坐标计算函数 (保持不变) ---
+        function getYPos(year) {
+            if (year < MODERN_START_YEAR) {
+                return (year - currentMinYear) / YEAR_INTERVAL_NORMAL * spacingAncient;
+            } else {
+                const yPosAncientEnd = (MODERN_START_YEAR - currentMinYear) / YEAR_INTERVAL_NORMAL * spacingAncient;
+                return yPosAncientEnd + (year - MODERN_START_YEAR) / YEAR_INTERVAL_NORMAL * spacingModern;
+            }
+        }
+
+        // --- 动态计算 SVG 总高度 (保持不变) ---
+        let svgHeight;
+        if (currentMaxYear < MODERN_START_YEAR) {
+            svgHeight = (currentMaxYear - currentMinYear) / YEAR_INTERVAL_NORMAL * spacingAncient + 100;
+        } else {
+            const heightAncient = (MODERN_START_YEAR - currentMinYear) / YEAR_INTERVAL_NORMAL * spacingAncient;
+            const heightModern = (currentMaxYear - MODERN_START_YEAR) / YEAR_INTERVAL_NORMAL * spacingModern;
+            svgHeight = heightAncient + heightModern + 100;
+        }
+
+
+        // --- 换行宽度设置 (保持不变) ---
+        const MIN_SAFE_TEXT_WIDTH = 300;
+        let currentMaxWidth = containerWidth - axisX - (X_OFFSET * 2) - PADDING;
+
+        if (currentMaxWidth < MIN_SAFE_TEXT_WIDTH) {
+            currentMaxWidth = MIN_SAFE_TEXT_WIDTH;
+        }
+
+
+        // --- 绘图变量 ---
+        let finalYMax = 0;
+        let requiredMaxX = 0;
+
 
         // --- 绘制主时间轴线 ---
         const mainLine = document.createElementNS('http://www.w3.org/2000/svg', 'line');
@@ -104,15 +172,13 @@ document.addEventListener('DOMContentLoaded', () => {
         mainLine.setAttribute('stroke-width', 2);
         svg.appendChild(mainLine);
 
-        // 💡 刻度线和年份标签绘制子函数 (支持不同间隔和长度)
+        // --- 绘制刻度线和年份标签子函数 (关键修改在这里) ---
         function drawTick(year, interval) {
-            // Y 坐标始终基于 100 年间隔来计算
-            const yPos = (year - minYearToDraw) / YEAR_INTERVAL_NORMAL * spacing;
-
-            // 刻度线的长度：100年间隔长一点，10年间隔短一点
+            const yPos = getYPos(year);
             const tickLength = (interval === YEAR_INTERVAL_NORMAL) ? 10 : 5;
 
-            // 1. 绘制刻度线
+            if (yPos > svgHeight) return;
+
             const tick = document.createElementNS('http://www.w3.org/2000/svg', 'line');
             tick.setAttribute('x1', axisX - tickLength);
             tick.setAttribute('y1', yPos);
@@ -122,27 +188,25 @@ document.addEventListener('DOMContentLoaded', () => {
             tick.setAttribute('stroke-width', 1);
             svg.appendChild(tick);
 
-            // 2. 绘制年份标签
-
-            // Condition 1: 100年刻度 (Major ticks)
+            // 判断是否是主要刻度（100年间隔）
             const isMajorTickLabel = (year % YEAR_INTERVAL_NORMAL === 0);
 
-            // Condition 2: 1800年后的10年刻度，但不是100年的整数倍 (Minor labels)
-            // 确保只在精细划分区域 (>= 1800) 绘制 10, 20, 30... 刻度标签
+            // 判断是否是细分刻度（10年间隔，且不是100年间隔）
             const isMinorTickLabel = (year >= FINE_GRAIN_START_YEAR && year % YEAR_INTERVAL_FINE === 0 && year % YEAR_INTERVAL_NORMAL !== 0);
 
             if (isMajorTickLabel || isMinorTickLabel) {
                 const label = document.createElementNS('http://www.w3.org/2000/svg', 'text');
-
-                // 将标签放置在刻度线左侧
                 const labelXOffset = (tickLength + 5);
 
                 label.setAttribute('x', axisX - labelXOffset);
-                label.setAttribute('y', yPos + (fontSize / 3));
+                label.setAttribute('y', yPos + (baseFontSize / 3));
                 label.setAttribute('text-anchor', 'end');
-                label.setAttribute('font-size', fontSize);
 
-                // ⭐ 关键修改：为 10年刻度设置绿色，100年刻度设置黑色
+                // ⭐ 关键修改：根据是否是主刻度来设置字号
+                let currentFontSize = isMajorTickLabel ? majorTickFontSize : baseFontSize;
+                label.setAttribute('font-size', currentFontSize);
+
+                // 颜色区分 (保持不变)
                 if (isMinorTickLabel) {
                     label.setAttribute('fill', 'green');
                 } else {
@@ -154,25 +218,16 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         }
 
-        // --- 绘制间隔线和年份标签 ---
-
-        // 1. 绘制 1800 年之前 (100 年间隔)
-        // 从设定的起点开始，到精细划分的起点前一个 100 年刻度结束
-        const normalEndYear = Math.floor((FINE_GRAIN_START_YEAR - 1) / YEAR_INTERVAL_NORMAL) * YEAR_INTERVAL_NORMAL;
-
-        for (let year = minYearToDraw; year <= normalEndYear; year += YEAR_INTERVAL_NORMAL) {
-            drawTick(year, YEAR_INTERVAL_NORMAL);
-        }
-
-        // 2. 绘制 1800 年及之后 (10 年间隔)
-        for (let year = FINE_GRAIN_START_YEAR; year <= currentMaxYear; year += YEAR_INTERVAL_FINE) {
-            drawTick(year, YEAR_INTERVAL_FINE);
+        // --- 绘制间隔线和年份标签 (保持不变) ---
+        for (let year = currentMinYear; year <= currentMaxYear; year += YEAR_INTERVAL_FINE) {
+            if (year % YEAR_INTERVAL_FINE === 0 || year % YEAR_INTERVAL_NORMAL === 0) {
+                 drawTick(year, year >= FINE_GRAIN_START_YEAR && year % YEAR_INTERVAL_NORMAL !== 0 ? YEAR_INTERVAL_FINE : YEAR_INTERVAL_NORMAL);
+            }
         }
 
 
-        // --- 绘制历史事件点和说明 ---
-        let currentYOffset = 0; // 用于错开事件说明文字的垂直位置
-        const X_OFFSET = 10;
+        // --- 绘制历史事件点和说明 (保持不变) ---
+        let currentYOffset = 0;
 
         const sortedEvents = Object.keys(eventData).sort((a, b) => Number(a) - Number(b));
 
@@ -180,119 +235,154 @@ document.addEventListener('DOMContentLoaded', () => {
             const year = Number(yearStr);
             const [description, color] = eventData[yearStr];
 
-            // 确保事件在用户设定的范围内
-            if (year > currentMaxYear || year < minYearToDraw) return;
+            if (year > currentMaxYear || year < currentMinYear) return;
 
-            // 计算事件点在 SVG 中的 Y 坐标 (基于 100 年间隔)
-            const yPos = (year - minYearToDraw) / YEAR_INTERVAL_NORMAL * spacing;
+            const yPos = getYPos(year);
 
-            // 错位逻辑：确保事件文字不重叠
-            if (yPos < currentYOffset + fontSize + 5) {
-                currentYOffset += fontSize + 5;
+            // 1. 分割文本并计算多行高度
+            const parts = description.split(' / ');
+            const yearText = parts[0];
+            const eventDesc = parts.length > 1 ? parts.slice(1).join(' / ') : parts[0];
+            const fullText = yearText + ' / ' + eventDesc;
+
+            const textLines = wrapText(fullText, currentMaxWidth, baseFontSize);
+            const totalTextHeight = textLines.length * (baseFontSize + 3);
+
+            // 估算文本块的理论最右边界 X 坐标
+            const textXEnd = axisX + (X_OFFSET * 2) + currentMaxWidth + (PADDING / 2);
+            requiredMaxX = Math.max(requiredMaxX, textXEnd);
+
+            // 2. 错位逻辑
+            let newYOffsetStart;
+            if (yPos < currentYOffset) {
+                newYOffsetStart = currentYOffset;
             } else {
-                currentYOffset = yPos;
+                newYOffsetStart = yPos;
             }
 
-            // 1. 绘制小黑圆点
+            const textYBottom = newYOffsetStart + totalTextHeight;
+            currentYOffset = textYBottom + 5;
+
+            // 3. 绘制圆点
             const dot = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
             dot.setAttribute('cx', axisX);
             dot.setAttribute('cy', yPos);
             dot.setAttribute('r', dotSize);
-            // 圆点颜色跟随文字颜色
             dot.setAttribute('fill', color || 'black');
-
             svg.appendChild(dot);
 
-            // 2. 绘制指向事件说明的箭头线
+            // 4. 绘制指向文本起始点的箭头线
             const lineToText = document.createElementNS('http://www.w3.org/2000/svg', 'line');
             lineToText.setAttribute('x1', axisX);
             lineToText.setAttribute('y1', yPos);
             lineToText.setAttribute('x2', axisX + X_OFFSET + 5);
-            lineToText.setAttribute('y2', currentYOffset);
+            lineToText.setAttribute('y2', newYOffsetStart);
             lineToText.setAttribute('stroke', 'gray');
             lineToText.setAttribute('stroke-width', 1);
             svg.appendChild(lineToText);
 
-            // 3. 绘制历史事件说明文字
-            const text = document.createElementNS('http://www.w3.org/2000/svg', 'text');
-            text.setAttribute('x', axisX + X_OFFSET * 2);
-            text.setAttribute('y', currentYOffset + (fontSize / 3));
-            text.setAttribute('font-size', fontSize);
-            text.setAttribute('fill', color || 'black');
-            const yearText = year >= 0 ? year + '年' : '前' + Math.abs(year) + '年';
+            // 5. 绘制多行文本
+            const textElement = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+            textElement.setAttribute('x', axisX + X_OFFSET * 2);
+            textElement.setAttribute('y', newYOffsetStart + (baseFontSize / 3));
+            textElement.setAttribute('font-size', baseFontSize); // 使用基础字号
+            textElement.setAttribute('fill', color || 'black');
 
-            // 提取事件描述部分
-            const eventDesc = description.includes(' / ') ? description.split(' / ')[1] : description;
-            text.textContent = yearText + ' / ' + eventDesc;
-            svg.appendChild(text);
+            textLines.forEach((line, index) => {
+                const tspan = document.createElementNS('http://www.w3.org/2000/svg', 'tspan');
+                tspan.setAttribute('x', axisX + X_OFFSET * 2);
+                tspan.setAttribute('dy', (index === 0 ? 0 : baseFontSize + 3));
+                tspan.textContent = line;
+                textElement.appendChild(tspan);
+            });
+
+            svg.appendChild(textElement);
+
+            finalYMax = Math.max(finalYMax, currentYOffset);
         });
+
+        // --- 最终更新 SVG 宽度和高度 (保持不变) ---
+        if (requiredMaxX > maxRequiredXEver) {
+            maxRequiredXEver = requiredMaxX;
+        }
+
+        svg.setAttribute('width', maxRequiredXEver + 'px');
+        svg.setAttribute('height', finalYMax + 50 + 'px');
+        mainLine.setAttribute('y2', finalYMax + 50);
     }
 
     // ----------------------------------------------------------------
-    // 4. 交互功能 (缩放、样式、范围) - 包含 localStorage 保存逻辑
+    // 4. 交互功能 (保持不变)
     // ----------------------------------------------------------------
 
-    // 缩放函数
     function handleZoom(factor) {
         currentZoom = Math.max(0.5, currentZoom * factor);
         currentZoom = Math.min(50.0, currentZoom);
-
-        // 保存缩放级别
         localStorage.setItem('timelineZoom', currentZoom.toFixed(2));
-
+        maxRequiredXEver = 0;
         drawTimeline();
     }
 
-    // 更新时间轴范围函数
     function handleUpdate() {
         let newMinYear = parseInt(minYearInput.value);
         let newMaxYear = parseInt(maxYearInput.value);
+        let newModernZoom = parseFloat(modernZoomInput.value);
 
-        // 确保最小年份是 100 的倍数，向下取整
+        if (newMaxYear <= newMinYear) {
+             alert("最大年份必须大于起始年份！");
+             return;
+        }
+        if (newModernZoom < 1.0) {
+             alert("近代放大倍数 n 必须大于或等于 1.0！");
+             modernZoomInput.value = currentModernZoomFactor;
+             return;
+        }
+
         if (newMinYear % YEAR_INTERVAL_NORMAL !== 0) {
             newMinYear = Math.floor(newMinYear / YEAR_INTERVAL_NORMAL) * YEAR_INTERVAL_NORMAL;
             minYearInput.value = newMinYear;
         }
 
-        // 确保最大年份是 100 的倍数，向上取整
         if (newMaxYear % YEAR_INTERVAL_NORMAL !== 0) {
             newMaxYear = Math.ceil(newMaxYear / YEAR_INTERVAL_NORMAL) * YEAR_INTERVAL_NORMAL;
             maxYearInput.value = newMaxYear;
         }
 
-        // 简单校验：确保最大年份大于最小年份
-        if (newMaxYear <= newMinYear) {
-            alert("最大年份必须大于起始年份！");
-            return;
-        }
-
         currentMinYear = newMinYear;
         currentMaxYear = newMaxYear;
+        currentModernZoomFactor = newModernZoom;
 
-        // 保存最小和最大年份
         localStorage.setItem('timelineMinYear', currentMinYear);
         localStorage.setItem('timelineMaxYear', currentMaxYear);
+        localStorage.setItem('modernZoomFactor', currentModernZoomFactor.toFixed(1));
 
+        maxRequiredXEver = 0;
         drawTimeline();
     }
 
-    // 监听器
     zoomInBtn.addEventListener('click', () => handleZoom(1.2));
     zoomOutBtn.addEventListener('click', () => handleZoom(1 / 1.2));
 
-    // 监听样式变化，并保存到 localStorage
-    fontSizeInput.addEventListener('change', () => {
-        localStorage.setItem('timelineFontSize', fontSizeInput.value);
-        drawTimeline();
+    modernZoomInput.addEventListener('change', () => {
+        handleUpdate();
     });
 
+    fontSizeInput.addEventListener('change', () => {
+        localStorage.setItem('timelineFontSize', fontSizeInput.value);
+        maxRequiredXEver = 0;
+        drawTimeline();
+    });
     dotSizeInput.addEventListener('change', () => {
         localStorage.setItem('timelineDotSize', dotSizeInput.value);
         drawTimeline();
     });
-
     updateBtn.addEventListener('click', handleUpdate);
 
-    // 初始加载数据和绘图
+    let resizeTimer;
+    window.addEventListener('resize', () => {
+        clearTimeout(resizeTimer);
+        resizeTimer = setTimeout(drawTimeline, 200);
+    });
+
     loadData();
 });
