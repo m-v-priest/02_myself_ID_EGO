@@ -1,0 +1,107 @@
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="p9780738612614e" version="2.0">
+<metadata>
+<dc:title>AP® World History: Modern Crash Course, For the New 2020 Exam, Book + Online</dc:title>
+<dc:date>2019</dc:date>
+<dc:identifier id="p9780738612614e">6129932</dc:identifier>
+<dc:format>203 pages</dc:format>
+<dc:type>Text</dc:type>
+<dc:rights>© 2020 by Research &amp; Education Association, Inc.</dc:rights>
+<dc:publisher>Research &amp; Education Association</dc:publisher>
+<dc:source>9780738612614</dc:source>
+<dc:language>en</dc:language>
+<dc:creator id="creator1">Harmon, Jay P.;</dc:creator>
+<meta content="cover-image" name="cover"/>
+</metadata>
+<manifest>
+<item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+<item href="css/epub.css" id="css" media-type="text/css"/>
+<item href="xhtml/00_Cover_Page.html" id="nav_00" media-type="application/xhtml+xml"/>
+<item href="xhtml/01_Title_Page.html" id="nav_01" media-type="application/xhtml+xml"/>
+<item href="xhtml/02_Copyright_Page.html" id="nav_02" media-type="application/xhtml+xml"/>
+<item href="xhtml/03_Halftitle_Page.html" id="nav_03" media-type="application/xhtml+xml"/>
+<item href="xhtml/04_Table_of_Contents.html" id="nav_04" media-type="application/xhtml+xml"/>
+<item href="xhtml/05_About_Our_Book.html" id="nav_05" media-type="application/xhtml+xml"/>
+<item href="xhtml/06_About_Our_Author.html" id="nav_06" media-type="application/xhtml+xml"/>
+<item href="xhtml/07_PART__I_Introduction.html" id="nav_07" media-type="application/xhtml+xml"/>
+<item href="xhtml/08_Chapter_1_Eight_Keys_to_Success.html" id="nav_08" media-type="application/xhtml+xml"/>
+<item href="xhtml/09_Chapter_2_Concepts__Themes__and.html" id="nav_09" media-type="application/xhtml+xml"/>
+<item href="xhtml/10_Chapter_3_AP__World_History__Mod.html" id="nav_10" media-type="application/xhtml+xml"/>
+<item href="xhtml/11_PART_II_Chronological_Review.html" id="nav_11" media-type="application/xhtml+xml"/>
+<item href="xhtml/12_Chapter_4_Unit_1__The_Global_Tap.html" id="nav_12" media-type="application/xhtml+xml"/>
+<item href="xhtml/13_Chapter_5_Unit_2__Networks_of_Ex.html" id="nav_13" media-type="application/xhtml+xml"/>
+<item href="xhtml/14_Chapter_6_Unit_3__Land_Based_Emp.html" id="nav_14" media-type="application/xhtml+xml"/>
+<item href="xhtml/15_Chapter_7_Unit_4__Transoceanic_I.html" id="nav_15" media-type="application/xhtml+xml"/>
+<item href="xhtml/16_Chapter_8_Unit_5__Revolutions__c.html" id="nav_16" media-type="application/xhtml+xml"/>
+<item href="xhtml/17_Chapter_9_Unit_6__Consequences_o.html" id="nav_17" media-type="application/xhtml+xml"/>
+<item href="xhtml/18_Chapter_10_Unit_7__Global_Confli.html" id="nav_18" media-type="application/xhtml+xml"/>
+<item href="xhtml/19_Chapter_11_Unit_8__Cold_War_and.html" id="nav_19" media-type="application/xhtml+xml"/>
+<item href="xhtml/20_Chapter_12_Unit_9__Globalization.html" id="nav_20" media-type="application/xhtml+xml"/>
+<item href="xhtml/21_PART_III_Review_Charts.html" id="nav_21" media-type="application/xhtml+xml"/>
+<item href="xhtml/22_Chapter_13_Art__Architecture__an.html" id="nav_22" media-type="application/xhtml+xml"/>
+<item href="xhtml/23_Chapter_14_Important_Civilizatio.html" id="nav_23" media-type="application/xhtml+xml"/>
+<item href="xhtml/24_Chapter_15_Important_Migration_a.html" id="nav_24" media-type="application/xhtml+xml"/>
+<item href="xhtml/25_Chapter_16_Important_Technology.html" id="nav_25" media-type="application/xhtml+xml"/>
+<item href="xhtml/26_PART_IV_Test_Taking_Strategies_a.html" id="nav_26" media-type="application/xhtml+xml"/>
+<item href="xhtml/27_Chapter_17_Strategies_for_the_Mu.html" id="nav_27" media-type="application/xhtml+xml"/>
+<item href="xhtml/28_Chapter_18_Practice_Multiple_Cho.html" id="nav_28" media-type="application/xhtml+xml"/>
+<item href="xhtml/29_Chapter_19_Tackling_the_Short_An.html" id="nav_29" media-type="application/xhtml+xml"/>
+<item href="xhtml/30_Chapter_20_Mastering_the_Documen.html" id="nav_30" media-type="application/xhtml+xml"/>
+<item href="xhtml/31_Chapter_21_Tips_for_Writing_the.html" id="nav_31" media-type="application/xhtml+xml"/>
+<item href="xhtml/32_Chapter_22_Countdown_Calendar.html" id="nav_32" media-type="application/xhtml+xml"/>
+<item href="xhtml/33_Practice_Exam.html" id="nav_33" media-type="application/xhtml+xml"/>
+<item href="img/133_1.jpg" id="a133_1" media-type="image/jpeg"/>
+<item href="img/171_1.jpg" id="a171_1" media-type="image/jpeg"/>
+<item href="img/172_1.jpg" id="a172_1" media-type="image/jpeg"/>
+<item href="img/174_1.jpg" id="a174_1" media-type="image/jpeg"/>
+<item href="img/cover.jpg" id="cover-image" media-type="image/jpeg"/>
+<item href="img/203_1.jpg" id="a203_1" media-type="image/jpeg"/>
+<item href="img/203_2.jpg" id="a203_2" media-type="image/jpeg"/>
+<item href="img/2_1.jpg" id="a2_1" media-type="image/jpeg"/>
+<item href="img/32_1.jpg" id="a32_1" media-type="image/jpeg"/>
+<item href="img/3_1.jpg" id="a3_1" media-type="image/jpeg"/>
+<item href="img/45_1.jpg" id="a45_1" media-type="image/jpeg"/>
+<item href="img/46_1.jpg" id="a46_1" media-type="image/jpeg"/>
+<item href="img/51_1.jpg" id="a51_1" media-type="image/jpeg"/>
+<item href="img/4_2.jpg" id="a4_2" media-type="image/jpeg"/>
+</manifest>
+<spine toc="ncx">
+<itemref idref="nav_00"/>
+<itemref idref="nav_01"/>
+<itemref idref="nav_02"/>
+<itemref idref="nav_03"/>
+<itemref idref="nav_04"/>
+<itemref idref="nav_05"/>
+<itemref idref="nav_06"/>
+<itemref idref="nav_07"/>
+<itemref idref="nav_08"/>
+<itemref idref="nav_09"/>
+<itemref idref="nav_10"/>
+<itemref idref="nav_11"/>
+<itemref idref="nav_12"/>
+<itemref idref="nav_13"/>
+<itemref idref="nav_14"/>
+<itemref idref="nav_15"/>
+<itemref idref="nav_16"/>
+<itemref idref="nav_17"/>
+<itemref idref="nav_18"/>
+<itemref idref="nav_19"/>
+<itemref idref="nav_20"/>
+<itemref idref="nav_21"/>
+<itemref idref="nav_22"/>
+<itemref idref="nav_23"/>
+<itemref idref="nav_24"/>
+<itemref idref="nav_25"/>
+<itemref idref="nav_26"/>
+<itemref idref="nav_27"/>
+<itemref idref="nav_28"/>
+<itemref idref="nav_29"/>
+<itemref idref="nav_30"/>
+<itemref idref="nav_31"/>
+<itemref idref="nav_32"/>
+<itemref idref="nav_33"/>
+</spine>
+<guide>
+<reference href="xhtml/00_Cover_Page.html" title="cover" type="text"/>
+<reference href="xhtml/01_Title_Page.html" title="title" type="title"/>
+</guide>
+</package>

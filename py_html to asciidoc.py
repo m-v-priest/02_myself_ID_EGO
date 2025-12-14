@@ -66,8 +66,13 @@ def html_to_asciidoc(html_text):
 # 主程序：读取 HTML → 转换 → 保存
 # ---------------------------
 
-input_path = r"C:\Users\priest\Desktop\html.html"
-output_path = r"C:\Users\priest\Desktop\asciidoc.adoc"
+# 公司电脑
+# input_path = r"C:\Users\priest\Desktop\html.html"
+# output_path = r"C:\Users\priest\Desktop\asciidoc.adoc"
+
+#家里电脑
+input_path = r"C:\Users\\mvpri\Desktop\html.html"
+output_path = r"C:\Users\\mvpri\Desktop\asciidoc.adoc"
 
 with open(input_path, "r", encoding="utf-8") as f:
     html_content = f.read()
