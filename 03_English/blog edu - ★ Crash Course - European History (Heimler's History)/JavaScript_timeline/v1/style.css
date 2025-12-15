@@ -1,4 +1,4 @@
-/* style.css (最终稳定版 - 完整代码) */
+/* style.css */
 
 /* --- 1. 全局和主体设置 --- */
 body {
@@ -10,14 +10,13 @@ body {
     /* 确保 body 允许水平内容溢出并显示滚动条 */
     overflow-x: auto;
 
-    /* ⭐ 关键 1：为固定面板预留足够空间 (适配四行布局) */
-    padding-top: 250px;
+    /* ⭐ 关键修复：为固定面板预留空间。四行控制，200px 是一个安全值。 */
+    padding-top: 200px;
 }
 
 .header {
     /* 头部内容在固定面板内，但样式保持不变 */
     background-color: #fff;
-    /* 注意：padding-top/bottom 在 .controls-panel 的子元素上调整 */
     padding: 10px 20px;
     border-bottom: 1px solid #ccc;
     margin-bottom: 0;
@@ -30,19 +29,14 @@ h1 {
 
 /* --- 2. 控制面板样式 (固定定位) --- */
 .controls-panel {
-    /* 关键修复 2：移除容器本身的 padding，改为在子元素上设置 */
-    padding: 0;
+    padding: 0 20px;
 
-    /* 关键修复 3：将元素固定在视口中 */
+    /* 关键修复：将元素固定在视口中 */
     position: fixed;
     top: 0;
-
-    /* ⭐ 恢复美观 UI：让面板占据整个视口宽度 */
     left: 0;
     width: 100%;
-    margin: 0; /* 确保没有外部 margin */
-
-    z-index: 999;
+    z-index: 1000;
 
     /* 样式美化 */
     background-color: #fff;
@@ -50,38 +44,30 @@ h1 {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-/* --- 3. 控制面板内部布局 (重新应用 padding 和 flex) --- */
+/* --- 3. 控制面板内部布局 --- */
 
-/* 头部元素：恢复内部 padding */
-.header {
-    padding: 10px 20px;
-    border-bottom: 1px solid #ccc;
-    margin-bottom: 0;
-}
-
-/* 统一设置所有行：恢复内部 padding，并设置 flex 布局 */
+/* 统一设置所有行 */
 .controls-row-1,
 .controls-row-2,
 .controls-row-3,
 .controls-row-4 {
-    /* 关键修复 4：恢复内部水平 padding，保持内容不贴边 */
-    padding: 8px 20px;
-
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: wrap; /* 允许在小屏幕上换行 */
     align-items: center;
-    gap: 15px;
-    border-bottom: 1px solid #eee;
+    padding: 8px 0;
+    gap: 15px; /* 行内元素间距 */
+    border-bottom: 1px solid #eee; /* 每行之间的分隔线 */
 }
 
-/* 移除最后一行分隔线 */
+/* 移除最后一行分隔线，避免多余 */
 .controls-row-4 {
     border-bottom: none;
-    padding-bottom: 12px;
+    padding-bottom: 12px; /* 略微增大底部填充 */
 }
 
 
-/* --- 4. 控件和按钮样式 (保持不变) --- */
+/* --- 4. 控件和按钮样式 --- */
+
 label {
     font-weight: bold;
     color: #555;
@@ -107,14 +93,14 @@ button:hover {
     background-color: #0056b3;
 }
 
-/* --- 5. 快速定位链接样式 (修复间距) --- */
+/* --- 5. 快速定位链接样式 (新增) --- */
 #quick-jump-links {
     display: flex;
     flex-wrap: wrap;
+    gap: 10px 15px; /* 上下 10px，左右 15px 间距 */
 
-    /* 修复 5：确保间距存在，恢复中间的空格效果 */
-    gap: 10px 15px;
-
+    /* ⭐ 关键修复 1：移除或增大 max-height，确保内容完全显示 */
+    /* 推荐直接移除 max-height 或将其设置为 none，并调整 controls-panel 的 padding-top */
     max-height: none;
     overflow-y: hidden;
 }
@@ -124,13 +110,10 @@ button:hover {
     color: #007bff;
     font-weight: bold;
     font-size: 14px;
-
-    /* 增加左右内边距，让每个链接看起来有分隔 */
-    padding: 2px 8px;
-
+    padding: 2px 4px;
     border-radius: 3px;
     transition: background-color 0.1s;
-    white-space: nowrap;
+    white-space: nowrap; /* 确保年份数字不被拆开 */
 }
 
 #quick-jump-links a:hover {
@@ -139,31 +122,30 @@ button:hover {
 }
 
 
-/* --- 6. 时间轴容器和 SVG 样式 (解决滚动条遮挡的关键) --- */
+/* --- 6. 时间轴容器和 SVG 样式 --- */
 #timeline-container {
     background-color: #fff;
-
-    /* 容器左右两侧的外部边距，保持 20px 缩进 */
-    margin-left: 20px;
-
-    /* ⭐ 关键修复 6：让容器右侧有足够的外部边距，避开 fixed 元素的遮挡 */
-    /* 30px > 20px (控制面板的 padding) + ~17px (滚动条宽度) */
-    margin-right: 50px;
-
+    margin: 0 20px;
     border: 1px solid #ccc;
 
-    /* 确保垂直滚动条由容器控制 */
+    /* 允许垂直滚动条 */
     overflow-y: auto;
+
+    /* 隐藏容器的水平滚动条，让 body 来控制整个页面的水平滚动 */
     overflow-x: hidden;
 
-    /* 确保容器有固定高度 */
+    /* min-height: 500px; 保持，但增加关键的 height 属性 */
+
+    /* ⭐ 关键修复 1：设置容器的高度，确保内容溢出时能产生滚动条 */
+    /* 100vh 是视口高度。减去 250px 是为了给顶部固定面板留出足够的空间 (200px padding-top + 边距) */
     height: calc(100vh - 250px);
 
-    /* 容器内部 padding */
     padding: 20px;
 }
 
 #timeline-svg {
+    /* SVG 必须是 block 元素 */
     display: block;
+    /* SVG 宽度由 JS 动态设置 */
     min-width: 100%;
 }

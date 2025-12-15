@@ -7,11 +7,12 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<div class="header">
-    <h1>交互式历史时间轴</h1>
-</div>
 
 <div class="controls-panel">
+    <div class="header">
+        <h1>交互式历史时间轴</h1>
+    </div>
+
     <div class="controls-row-1">
         <button id="zoom-in">放大时间轴</button>
         <button id="zoom-out">缩小时间轴</button>
@@ -21,8 +22,6 @@
 
         <label for="dot-size">圆点大小:</label>
         <input type="number" id="dot-size" value="4" min="1" max="20">
-
-
     </div>
 
     <div class="controls-row-2">
@@ -40,6 +39,12 @@
             近代放大倍数 (n)
         </label>
         <input type="number" id="modern-zoom" value="2.0" step="0.1" min="1.0">
+    </div>
+
+    <div class="controls-row-4">
+        <label>快速定位 (百年间隔):</label>
+        <div id="quick-jump-links">
+            </div>
     </div>
 </div>
 

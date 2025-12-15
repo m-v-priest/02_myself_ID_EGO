@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx version="2005-1" xml:lang="en-US" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+<head>
+<meta name="dtb:uid" content="9780738689265" />
+<meta name="dtb:depth" content="3" />
+<meta name="dtb:totalPageCount" content="387" />
+<meta name="dtb:maxPageNumber" content="387" />
+</head>
+<docTitle><text>AP&#x00AE; European History Crash Course, For the New 2020 Exam, Book + Online</text></docTitle>
+<docAuthor><text>Larry Krieger</text></docAuthor>
+<navMap>
+<navPoint id="nav1" playOrder="1"><navLabel><text>Cover </text></navLabel><content src="xhtml/00_Cover_Page.html" /></navPoint>
+<navPoint id="nav2" playOrder="2"><navLabel><text>Title</text></navLabel><content src="xhtml/01_Title_Page.html" /></navPoint>
+<navPoint id="nav3" playOrder="3"><navLabel><text>Copyright Page</text></navLabel><content src="xhtml/02_Copyright_Page.html" /></navPoint>
+<navPoint id="nav4" playOrder="4"><navLabel><text>Contents </text></navLabel><content src="xhtml/04_Contents.html" /></navPoint>
+<navPoint id="nav5" playOrder="5"><navLabel><text>About Our Author</text></navLabel><content src="xhtml/05_About_Our_Author.html" /></navPoint>
+<navPoint id="nav6" playOrder="6"><navLabel><text>About Our Book</text></navLabel><content src="xhtml/06_About_Our_Book.html" /></navPoint>
+<navPoint id="nav7" playOrder="7"><navLabel><text>PART I INTRODUCTION</text></navLabel><content src="xhtml/07_PART_I_INTRODUCTION.html" />
+<navPoint id="nav8" playOrder="8"><navLabel><text>Chapter 1 Seven Keys for Success on the AP&#x00AE; European History Exam</text></navLabel><content src="xhtml/08_Chapter_1Seven_Keys_for_Success.html" /></navPoint>
+<navPoint id="nav9" playOrder="9"><navLabel><text>Chapter 2 Key Terms</text></navLabel><content src="xhtml/09_Chapter_2Key_Terms.html" /></navPoint></navPoint>
+<navPoint id="nav10" playOrder="10"><navLabel><text>PART II CHRONOLOGICAL REVIEW</text></navLabel><content src="xhtml/10_PART_II_CHRONOLOGICALREVIEW.html" />
+<navPoint id="nav11" playOrder="11"><navLabel><text>UNIT 1 | Renaissance and Exploration (c. 1450 to c. 1648)</text></navLabel><content src="xhtml/11_UNIT_1___Renaissance_and_Explora.html" />
+<navPoint id="nav12" playOrder="12"><navLabel><text>Chapter 3 The Italian Renaissance</text></navLabel><content src="xhtml/12_Chapter_3The_Italian_Renaissance.html" /></navPoint>
+<navPoint id="nav13" playOrder="13"><navLabel><text>Chapter 4 The Northern Renaissance</text></navLabel><content src="xhtml/13_Chapter_4The_Northern_Renaissanc.html" /></navPoint>
+<navPoint id="nav14" playOrder="14"><navLabel><text>Chapter 5 The New Monarchs</text></navLabel><content src="xhtml/14_Chapter_5The_New_Monarchs.html" /></navPoint>
+<navPoint id="nav15" playOrder="15"><navLabel><text>Chapter 6 The Age of Exploration and the Commercial Revolution</text></navLabel><content src="xhtml/15_Chapter_6The_Age_of_Exploration.html" /></navPoint></navPoint>
+<navPoint id="nav16" playOrder="16"><navLabel><text>UNIT 2 | Age of Reformation (c. 1450 to c. 1648)</text></navLabel><content src="xhtml/16_UNIT_2___Age_of_Reformation__c.html" />
+<navPoint id="nav17" playOrder="17"><navLabel><text>Chapter 7 The Protestant Reformation</text></navLabel><content src="xhtml/17_Chapter_7The_Protestant_Reformat.html" /></navPoint>
+<navPoint id="nav18" playOrder="18"><navLabel><text>Chapter 8 The Catholic Reformation</text></navLabel><content src="xhtml/18_Chapter_8The_Catholic_Reformatio.html" /></navPoint>
+<navPoint id="nav19" playOrder="19"><navLabel><text>Chapter 9 The Wars of Religion</text></navLabel><content src="xhtml/19_Chapter_9The_Wars_of_Religion.html" /></navPoint></navPoint>
+<navPoint id="nav20" playOrder="20"><navLabel><text>UNIT 3 | Absolutism and Constitutionalism (c. 1648 to c. 1815)</text></navLabel><content src="xhtml/20_UNIT_3__Absolutism_and_Constitut.html" />
+<navPoint id="nav21" playOrder="21"><navLabel><text>Chapter 10 The Dutch Golden Age, 1600&#x2013;1700</text></navLabel><content src="xhtml/21_Chapter_10The_Dutch_Golden_Age.html" /></navPoint>
+<navPoint id="nav22" playOrder="22"><navLabel><text>Chapter 11 England: The Emergence of a Parliamentary Monarch, 1600&#x2013;1688</text></navLabel><content src="xhtml/22_Chapter_11England__The_Emergence.html" /></navPoint>
+<navPoint id="nav23" playOrder="23"><navLabel><text>Chapter 12 Absolutism in Western Europe: France and Spain, 1589&#x2013;1715</text></navLabel><content src="xhtml/23_Chapter_12Absolutism_in_Western.html" /></navPoint>
+<navPoint id="nav24" playOrder="24"><navLabel><text>Chapter 13 Absolutism in Eastern Europe, 1600&#x2013;1725</text></navLabel><content src="xhtml/24_Chapter_13Absolutism_in_Eastern.html" /></navPoint></navPoint>
+<navPoint id="nav25" playOrder="25"><navLabel><text>UNIT 4 | Scientific, Philosophical, and Political Developments (c. 1648 to c. 1815)</text></navLabel><content src="xhtml/25_UNIT_4___Scientific__Philosophic.html" />
+<navPoint id="nav26" playOrder="26"><navLabel><text>Chapter 14 The Scientific Revolution</text></navLabel><content src="xhtml/26_Chapter_14The_Scientific_Revolut.html" /></navPoint>
+<navPoint id="nav27" playOrder="27"><navLabel><text>Chapter 15 The Enlightenment</text></navLabel><content src="xhtml/27_Chapter_15The_Enlightenment.html" /></navPoint>
+<navPoint id="nav28" playOrder="28"><navLabel><text>Chapter 16 Peace, War, and Enlightened Despots, 1715&#x2013;1789</text></navLabel><content src="xhtml/28_Chapter_16Peace__War__and_Enligh.html" /></navPoint>
+<navPoint id="nav29" playOrder="29"><navLabel><text>Chapter 17 Life and Culture in Eighteenth-Century Europe</text></navLabel><content src="xhtml/29_Chapter_17Life_and_Culture_in_Ei.html" /></navPoint></navPoint>
+<navPoint id="nav30" playOrder="30"><navLabel><text>UNIT 5 | Conflict, Crisis, and Reaction in the Late Eighteenth Century (c. 1648 to c. 1815)</text></navLabel><content src="xhtml/30_UNIT_5___Conflict__Crisis__and_R.html" />
+<navPoint id="nav31" playOrder="31"><navLabel><text>Chapter 18 The French Revolution and Napoleon, 1789&#x2013;1799</text></navLabel><content src="xhtml/31_Chapter_18The_French_Revolution.html" /></navPoint>
+<navPoint id="nav32" playOrder="32"><navLabel><text>Chapter 19 The Rise and Fall of Napoleon</text></navLabel><content src="xhtml/32_Chapter_19The_Rise_and_Fall_of_N.html" /></navPoint>
+<navPoint id="nav33" playOrder="33"><navLabel><text>Chapter 20 Restoration and Romanticism, 1815&#x2013;1848</text></navLabel><content src="xhtml/33_Chapter_20Restoration_and_Romant.html" /></navPoint></navPoint>
+<navPoint id="nav34" playOrder="34"><navLabel><text>UNIT 6 | Industrialization and Its Effects (c. 1815 to c. 1914)</text></navLabel><content src="xhtml/34_UNIT_6___Industrialization_and_I.html" />
+<navPoint id="nav35" playOrder="35"><navLabel><text>Chapter 21 The Industrial Revolution in Great Britain</text></navLabel><content src="xhtml/35_Chapter_21The_Industrial_Revolut.html" /></navPoint>
+<navPoint id="nav36" playOrder="36"><navLabel><text>Chapter 22 The Second Wave of Industrialization</text></navLabel><content src="xhtml/36_Chapter_22The_Second_Wave_of_Ind.html" /></navPoint>
+<navPoint id="nav37" playOrder="37"><navLabel><text>Chapter 23 Restoration and Revolution</text></navLabel><content src="xhtml/37_Chapter_23Restoration_and_Revolu.html" /></navPoint></navPoint>
+<navPoint id="nav38" playOrder="38"><navLabel><text>UNIT 7 | Nineteenth-Century Perspectives and Political Developments (c. 1815 to c. 1914)</text></navLabel><content src="xhtml/38_UNIT_7___Nineteenth_Century_Pers.html" />
+<navPoint id="nav39" playOrder="39"><navLabel><text>Chapter 24 Nationalism, Realpolitik, and Realism, 1850&#x2013;1871</text></navLabel><content src="xhtml/39_Chapter_24Nationalism__Realpolit.html" /></navPoint>
+<navPoint id="nav40" playOrder="40"><navLabel><text>Chapter 25 Society, Mass Politics, and Culture, 1871&#x2013;1914</text></navLabel><content src="xhtml/40_Chapter_25Society__Mass_Politics.html" /></navPoint>
+<navPoint id="nav41" playOrder="41"><navLabel><text>Chapter 26 The New Imperialism</text></navLabel><content src="xhtml/41_Chapter_26The_New_Imperialism.html" /></navPoint></navPoint>
+<navPoint id="nav42" playOrder="42"><navLabel><text>UNIT 8 | Twentieth-Century Global Conflicts (c. 1914 to Present)</text></navLabel><content src="xhtml/42_UNIT_8__Twentieth_Century_Global.html" />
+<navPoint id="nav43" playOrder="43"><navLabel><text>Chapter 27 War and Revolution</text></navLabel><content src="xhtml/43_Chapter_27War_and_Revolution.html" /></navPoint>
+<navPoint id="nav44" playOrder="44"><navLabel><text>Chapter 28 The Age of Anxiety</text></navLabel><content src="xhtml/44_Chapter_28The_Age_of_Anxiety.html" /></navPoint>
+<navPoint id="nav45" playOrder="45"><navLabel><text>Chapter 29 Depression, Dictators, and World War II</text></navLabel><content src="xhtml/45_Chapter_29Depression__Dictators.html" /></navPoint></navPoint>
+<navPoint id="nav46" playOrder="46"><navLabel><text>UNIT 9 | Cold War and Contemporary Europe (c. 1914 to Present)</text></navLabel><content src="xhtml/46_UNIT_9___Cold_War_and_Contempora.html" />
+<navPoint id="nav47" playOrder="47"><navLabel><text>Chapter 30 The Cold War, 1946&#x2013;1991</text></navLabel><content src="xhtml/47_Chapter_30The_Cold_War__1946_199.html" /></navPoint>
+<navPoint id="nav48" playOrder="48"><navLabel><text>Chapter 31 Key Trends in Post&#x2013;Cold War Europe</text></navLabel><content src="xhtml/48_Chapter_31Key_Trends_in_Post_Col.html" /></navPoint></navPoint></navPoint>
+<navPoint id="nav49" playOrder="49"><navLabel><text>PART III KEY THEMES AND FACTS</text></navLabel><content src="xhtml/49_PART_III_KEYTHEMES_AND_FACTS.html" />
+<navPoint id="nav50" playOrder="50"><navLabel><text>Chapter 32 Key Figures in European Intellectual History</text></navLabel><content src="xhtml/50_Chapter_32Key_Figures_in_Europea.html" /></navPoint>
+<navPoint id="nav51" playOrder="51"><navLabel><text>Chapter 33 Key Events in European Diplomatic History</text></navLabel><content src="xhtml/51_Chapter_33Key_Events_in_European.html" /></navPoint>
+<navPoint id="nav52" playOrder="52"><navLabel><text>Chapter 34 Key Events, Trends, and Figures in European Women&#x2019;s History</text></navLabel><content src="xhtml/52_Chapter_34Key_Events__Trends__an.html" /></navPoint></navPoint>
+<navPoint id="nav53" playOrder="53"><navLabel><text>PART IV TEST-TAKING STRATEGIES AND PRACTICE QUESTIONS</text></navLabel><content src="xhtml/53_PART_IV_TEST_TAKING_STRATEGIES_A.html" />
+<navPoint id="nav54" playOrder="54"><navLabel><text>Chapter 35 Strategies for the Multiple-Choice Questions</text></navLabel><content src="xhtml/54_Chapter_35Strategies_for_the_Mul.html" /></navPoint>
+<navPoint id="nav55" playOrder="55"><navLabel><text>Chapter 36 Practice Multiple-Choice Questions</text></navLabel><content src="xhtml/55_Chapter_36Practice_Multiple_Choi.html" /></navPoint>
+<navPoint id="nav56" playOrder="56"><navLabel><text>Chapter 37 Strategies for the Short-Answer Questions</text></navLabel><content src="xhtml/56_Chapter_37Strategies_for_the_Sho.html" /></navPoint>
+<navPoint id="nav57" playOrder="57"><navLabel><text>Chapter 38 Strategies for the Document-Based Essay Question</text></navLabel><content src="xhtml/57_Chapter_38Strategies_for_the_Doc.html" /></navPoint>
+<navPoint id="nav58" playOrder="58"><navLabel><text>Chapter 39 Strategies for the Long-Essay Question</text></navLabel><content src="xhtml/58_Chapter_39Strategies_for_the_Lon.html" /></navPoint></navPoint>
+<navPoint id="nav59" playOrder="59"><navLabel><text>Notes</text></navLabel><content src="xhtml/59_Notes.html" /></navPoint>
+<navPoint id="nav60" playOrder="60"><navLabel><text>Practice Exam</text></navLabel><content src="xhtml/60_Practice_Exam.html" /></navPoint>
+</navMap>
+</ncx>
