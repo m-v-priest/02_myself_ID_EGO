@@ -1,0 +1,122 @@
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="p9780738689142" version="2.0">
+  <metadata>
+    <dc:title>AP® U.S. Government &amp; Politics Crash Course, For the 2020 Exam, Book + Online</dc:title>
+    <dc:date>2019</dc:date>
+    <dc:identifier id="p9780738689142">5889403</dc:identifier>
+    <dc:format>339 pages</dc:format>
+    <dc:type>Text</dc:type>
+    <dc:rights>© 2020 by Research &amp; Education Association, Inc.</dc:rights>
+    <dc:publisher>Research &amp; Education Association</dc:publisher>
+    <dc:source>9780738689142</dc:source>
+    <dc:language>en</dc:language>
+    <dc:creator id="creator1">Fenton, Nancy;Olson-Goldman, Katherine;</dc:creator>
+    <meta content="cover-image" name="cover"/>
+</metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="css/epub.css" id="css" media-type="text/css"/>
+    <item href="xhtml/oebps-page-map.xml" id="pages" media-type="application/oebps-page-map+xml"/>
+    <item href="xhtml/00_Cover.html" id="nav_00" media-type="application/xhtml+xml"/>
+    <item href="xhtml/01_Title_Page.html" id="nav_01" media-type="application/xhtml+xml"/>
+    <item href="xhtml/02_Copyright_Page.html" id="nav_02" media-type="application/xhtml+xml"/>
+    <item href="xhtml/03_Halftitle_Page.html" id="nav_03" media-type="application/xhtml+xml"/>
+    <item href="xhtml/04_Table_of_Contents.html" id="nav_04" media-type="application/xhtml+xml"/>
+    <item href="xhtml/05_About_Our_Book.html" id="nav_05" media-type="application/xhtml+xml"/>
+    <item href="xhtml/06_About_Our_Authors.html" id="nav_06" media-type="application/xhtml+xml"/>
+    <item href="xhtml/07_PART_I_Introduction.html" id="nav_07" media-type="application/xhtml+xml"/>
+    <item href="xhtml/08_Chapter_1__Seven_Keys_for_Succes.html" id="nav_08" media-type="application/xhtml+xml"/>
+    <item href="xhtml/09_Chapter_2__Key_Terms.html" id="nav_09" media-type="application/xhtml+xml"/>
+    <item href="xhtml/10_PART_II_Content_Review.html" id="nav_10" media-type="application/xhtml+xml"/>
+    <item href="xhtml/11_UNIT_1__FOUNDATIONS_OF_AMERICAN.html" id="nav_11" media-type="application/xhtml+xml"/>
+    <item href="xhtml/12_Chapter_3__Foundational_Concepts.html" id="nav_12" media-type="application/xhtml+xml"/>
+    <item href="xhtml/13_Chapter_4__Federalism.html" id="nav_13" media-type="application/xhtml+xml"/>
+    <item href="xhtml/14_UNIT_2__INTERACTIONS_AMONG_BRANC.html" id="nav_14" media-type="application/xhtml+xml"/>
+    <item href="xhtml/15_Chapter_5__The_Legislative_Branc.html" id="nav_15" media-type="application/xhtml+xml"/>
+    <item href="xhtml/16_Chapter_6__The_Executive_Branch.html" id="nav_16" media-type="application/xhtml+xml"/>
+    <item href="xhtml/17_Chapter_7__The_Federal_Bureaucra.html" id="nav_17" media-type="application/xhtml+xml"/>
+    <item href="xhtml/18_Chapter_8__The_Judicial_Branch.html" id="nav_18" media-type="application/xhtml+xml"/>
+    <item href="xhtml/19_UNIT_3__CIVIL_LIBERTIES_AND_CIVI.html" id="nav_19" media-type="application/xhtml+xml"/>
+    <item href="xhtml/20_Chapter_9__Civil_Liberties.html" id="nav_20" media-type="application/xhtml+xml"/>
+    <item href="xhtml/21_Chapter_10__Civil_Rights.html" id="nav_21" media-type="application/xhtml+xml"/>
+    <item href="xhtml/22_UNIT_4__AMERICAN_POLITICAL_IDEOL.html" id="nav_22" media-type="application/xhtml+xml"/>
+    <item href="xhtml/23_Chapter_11__American_Political_I.html" id="nav_23" media-type="application/xhtml+xml"/>
+    <item href="xhtml/24_Chapter_12__Political_Data_and_P.html" id="nav_24" media-type="application/xhtml+xml"/>
+    <item href="xhtml/25_UNIT_5__POLITICAL_PARTICIPATION.html" id="nav_25" media-type="application/xhtml+xml"/>
+    <item href="xhtml/26_Chapter_13__Political_Parties__I.html" id="nav_26" media-type="application/xhtml+xml"/>
+    <item href="xhtml/27_Chapter_14__Voter_Behavior_and_E.html" id="nav_27" media-type="application/xhtml+xml"/>
+    <item href="xhtml/28_Chapter_15__The_Media.html" id="nav_28" media-type="application/xhtml+xml"/>
+    <item href="xhtml/29_PART_III_Key_Documents__Court_Ca.html" id="nav_29" media-type="application/xhtml+xml"/>
+    <item href="xhtml/30_Chapter_16__Required_Foundationa.html" id="nav_30" media-type="application/xhtml+xml"/>
+    <item href="xhtml/31_Chapter_17__Required_Supreme_Cou.html" id="nav_31" media-type="application/xhtml+xml"/>
+    <item href="xhtml/32_Chapter_18__Important_Laws.html" id="nav_32" media-type="application/xhtml+xml"/>
+    <item href="xhtml/33_PART_IV_Test_Taking_Strategies_a.html" id="nav_33" media-type="application/xhtml+xml"/>
+    <item href="xhtml/34_Chapter_19__Mastering_the_Multip.html" id="nav_34" media-type="application/xhtml+xml"/>
+    <item href="xhtml/35_Chapter_20__Practice_Multiple_Ch.html" id="nav_35" media-type="application/xhtml+xml"/>
+    <item href="xhtml/36_Chapter_21__Mastering_the_Free_R.html" id="nav_36" media-type="application/xhtml+xml"/>
+    <item href="xhtml/37_Notes.html" id="nav_37" media-type="application/xhtml+xml"/>
+    <item href="xhtml/38_Back_Matter.html" id="nav_38" media-type="application/xhtml+xml"/>
+    <item href="img/120_1.jpg" id="a120_1" media-type="image/jpeg"/>
+    <item href="img/18_1.jpg" id="a18_1" media-type="image/jpeg"/>
+    <item href="img/1_1.jpg" id="cover-image" media-type="image/jpeg"/>
+    <item href="img/292_1.jpg" id="a292_1" media-type="image/jpeg"/>
+    <item href="img/293_1.jpg" id="a293_1" media-type="image/jpeg"/>
+    <item href="img/295_2.jpg" id="a295_2" media-type="image/jpeg"/>
+    <item href="img/2_3.jpg" id="a2_3" media-type="image/jpeg"/>
+    <item href="img/300_1.jpg" id="a300_1" media-type="image/jpeg"/>
+    <item href="img/301_1.jpg" id="a301_1" media-type="image/jpeg"/>
+    <item href="img/313_1.jpg" id="a313_1" media-type="image/jpeg"/>
+    <item href="img/320_1.jpg" id="a320_1" media-type="image/jpeg"/>
+    <item href="img/329_2.jpg" id="a329_2" media-type="image/jpeg"/>
+    <item href="img/339_2.jpg" id="a339_2" media-type="image/jpeg"/>
+    <item href="img/3_1.jpg" id="a3_1" media-type="image/jpeg"/>
+    <item href="img/4_1.jpg" id="a4_1" media-type="image/jpeg"/>
+    <item href="img/51_1.jpg" id="a51_1" media-type="image/jpeg"/>
+    <item href="fonts/ZapfDingbats.ttf" id="font_f1" media-type="application/vnd.ms-opentype"/>
+    </manifest>
+  <spine toc="ncx">
+    <itemref idref="nav_00"/>
+    <itemref idref="nav_01"/>
+    <itemref idref="nav_02"/>
+    <itemref idref="nav_03"/>
+    <itemref idref="nav_04"/>
+    <itemref idref="nav_05"/>
+    <itemref idref="nav_06"/>
+    <itemref idref="nav_07"/>
+    <itemref idref="nav_08"/>
+    <itemref idref="nav_09"/>
+    <itemref idref="nav_10"/>
+    <itemref idref="nav_11"/>
+    <itemref idref="nav_12"/>
+    <itemref idref="nav_13"/>
+    <itemref idref="nav_14"/>
+    <itemref idref="nav_15"/>
+    <itemref idref="nav_16"/>
+    <itemref idref="nav_17"/>
+    <itemref idref="nav_18"/>
+    <itemref idref="nav_19"/>
+    <itemref idref="nav_20"/>
+    <itemref idref="nav_21"/>
+    <itemref idref="nav_22"/>
+    <itemref idref="nav_23"/>
+    <itemref idref="nav_24"/>
+    <itemref idref="nav_25"/>
+    <itemref idref="nav_26"/>
+    <itemref idref="nav_27"/>
+    <itemref idref="nav_28"/>
+    <itemref idref="nav_29"/>
+    <itemref idref="nav_30"/>
+    <itemref idref="nav_31"/>
+    <itemref idref="nav_32"/>
+    <itemref idref="nav_33"/>
+    <itemref idref="nav_34"/>
+    <itemref idref="nav_35"/>
+    <itemref idref="nav_36"/>
+    <itemref idref="nav_37"/>
+    <itemref idref="nav_38"/>
+  </spine>
+<guide>
+<reference href="xhtml/00_Cover.html" title="cover" type="cover"/>
+<reference href="xhtml/01_Title_Page.html" title="title" type="text"/>
+<reference href="xhtml/04_Table_of_Contents.html" title="contents" type="toc"/>
+</guide>
+</package>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx version="2005-1" xml:lang="en-US" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+<head>
+<meta name="dtb:uid" content="9780738612690" />
+<meta name="dtb:depth" content="2" />
+<meta name="dtb:totalPageCount" content="355" />
+<meta name="dtb:maxPageNumber" content="355" />
+</head>
+<docTitle><text>AP&#x00AE; U.S. History Crash Course, For the 2020 Exam, Book + Online</text></docTitle>
+<docAuthor><text>Larry Krieger</text></docAuthor>
+<navMap>
+<navPoint id="nav1" playOrder="1"><navLabel><text>Cover </text></navLabel><content src="xhtml/Cover.html" /></navPoint>
+<navPoint id="nav2" playOrder="2"><navLabel><text>Title Page</text></navLabel><content src="xhtml/00_Title_Page.html" /></navPoint>
+<navPoint id="nav3" playOrder="3"><navLabel><text>Copyright Page</text></navLabel><content src="xhtml/01_Copyright_Page.html" /></navPoint>
+<navPoint id="nav4" playOrder="4"><navLabel><text>Contents </text></navLabel><content src="xhtml/03_Contents.html" /></navPoint>
+<navPoint id="nav5" playOrder="5"><navLabel><text>About Our Book</text></navLabel><content src="xhtml/04_About_Our_Book.html" /></navPoint>
+<navPoint id="nav6" playOrder="6"><navLabel><text>A Letter from Our Author</text></navLabel><content src="xhtml/05_A_Letter_from_Our_Author.html" /></navPoint>
+<navPoint id="nav7" playOrder="7"><navLabel><text>About Our Author</text></navLabel><content src="xhtml/06_About_Our_Author.html" /></navPoint>
+<navPoint id="nav8" playOrder="8"><navLabel><text>Introduction</text></navLabel><content src="xhtml/07_INTRODUCTION.html" />
+<navPoint id="nav9" playOrder="9"><navLabel><text>Chapter 1: Seven Keys for Success on the AP&#x00AE; U.S. History Exam</text></navLabel><content src="xhtml/07_INTRODUCTION.html#id_1" /></navPoint>
+<navPoint id="nav10" playOrder="10"><navLabel><text>Chapter 2: Key Terms</text></navLabel><content src="xhtml/08_Chapter_2_Key_Terms.html" /></navPoint></navPoint>
+<navPoint id="nav11" playOrder="11"><navLabel><text>Content Review</text></navLabel><content src="xhtml/09_CONTENT_REVIEW.html" />
+<navPoint id="nav12" playOrder="12"><navLabel><text>Unit 1 | Period 1: 1491&#x2013;1607</text></navLabel><content src="xhtml/09_CONTENT_REVIEW.html#id_2" />
+<navPoint id="nav13" playOrder="13"><navLabel><text>Chapter 3: A New World</text></navLabel><content src="xhtml/10_Chapter_3_A_New_World.html" /></navPoint></navPoint>
+<navPoint id="nav14" playOrder="14"><navLabel><text>Unit 2 | Period 2: 1607&#x2013;1754</text></navLabel><content src="xhtml/11_UNIT_2___PERIOD_2__1607_1754.html" />
+<navPoint id="nav15" playOrder="15"><navLabel><text>Chapter 4: English North America</text></navLabel><content src="xhtml/12_Chapter_4_English_North_America.html" /></navPoint>
+<navPoint id="nav16" playOrder="16"><navLabel><text>Chapter 5: Key Trends in Colonial Life and Thought</text></navLabel><content src="xhtml/13_Chapter_5_Key_Trends_in_Colonial.html" /></navPoint></navPoint>
+<navPoint id="nav17" playOrder="17"><navLabel><text>Unit 3 | Period 3: 1754&#x2013;1800</text></navLabel><content src="xhtml/14_UNIT_3___PERIOD_3__1754_1800.html" />
+<navPoint id="nav18" playOrder="18"><navLabel><text>Chapter 6: Severing Ties with Great Britain</text></navLabel><content src="xhtml/15_Chapter_6_Severing_Ties_with_Gre.html" /></navPoint>
+<navPoint id="nav19" playOrder="19"><navLabel><text>Chapter 7: Creating a New National Government</text></navLabel><content src="xhtml/16_Chapter_7_Creating_a_New_Nationa.html" /></navPoint>
+<navPoint id="nav20" playOrder="20"><navLabel><text>Chapter 8: The Federalist Era</text></navLabel><content src="xhtml/17_Chapter_8_The_Federalist_Era.html" /></navPoint></navPoint>
+<navPoint id="nav21" playOrder="21"><navLabel><text>Unit 4 | Period 4: 1800&#x2013;1848</text></navLabel><content src="xhtml/18_UNIT_4___PERIOD_4__1800_1848.html" />
+<navPoint id="nav22" playOrder="22"><navLabel><text>Chapter 9: The Early Republic</text></navLabel><content src="xhtml/19_Chapter_9_The_Early_Republic.html" /></navPoint>
+<navPoint id="nav23" playOrder="23"><navLabel><text>Chapter 10: The Age of Jackson</text></navLabel><content src="xhtml/20_Chapter_10_The_Age_of_Jackson.html" /></navPoint>
+<navPoint id="nav24" playOrder="24"><navLabel><text>Chapter 11: The Old South</text></navLabel><content src="xhtml/21_Chapter_11_The_Old_South.html" /></navPoint>
+<navPoint id="nav25" playOrder="25"><navLabel><text>Chapter 12: A Burst of Change</text></navLabel><content src="xhtml/22_Chapter_12_A_Burst_of_Change.html" /></navPoint>
+<navPoint id="nav26" playOrder="26"><navLabel><text>Chapter 13: Religion, Reform, and Romanticism</text></navLabel><content src="xhtml/23_Chapter_13_Religion__Reform__and.html" /></navPoint></navPoint>
+<navPoint id="nav27" playOrder="27"><navLabel><text>Unit 5 | Period 5: 1844&#x2013;1877</text></navLabel><content src="xhtml/24_UNIT_5___PERIOD_5__1844_1877.html" />
+<navPoint id="nav28" playOrder="28"><navLabel><text>Chapter 14: Territorial Expansion</text></navLabel><content src="xhtml/25_Chapter_14_Territorial_Expansion.html" /></navPoint>
+<navPoint id="nav29" playOrder="29"><navLabel><text>Chapter 15: The Road to Disunion</text></navLabel><content src="xhtml/26_Chapter_15_The_Road_to_Disunion.html" /></navPoint>
+<navPoint id="nav30" playOrder="30"><navLabel><text>Chapter 16: The Civil War</text></navLabel><content src="xhtml/27_Chapter_16_The_Civil_War.html" /></navPoint>
+<navPoint id="nav31" playOrder="31"><navLabel><text>Chapter 17: Reconstruction and the New South</text></navLabel><content src="xhtml/28_Chapter_17_Reconstruction_and_th.html" /></navPoint></navPoint>
+<navPoint id="nav32" playOrder="32"><navLabel><text>Unit 6 | Period 6: 1865&#x2013;1898</text></navLabel><content src="xhtml/29_UNIT_6___PERIOD_6__1865_1898.html" />
+<navPoint id="nav33" playOrder="33"><navLabel><text>Chapter 18: The New West</text></navLabel><content src="xhtml/30_Chapter_18_The_New_West.html" /></navPoint>
+<navPoint id="nav34" playOrder="34"><navLabel><text>Chapter 19: Industry and Labor</text></navLabel><content src="xhtml/31_Chapter_19_Industry_and_Labor.html" /></navPoint>
+<navPoint id="nav35" playOrder="35"><navLabel><text>Chapter 20: Urban America</text></navLabel><content src="xhtml/32_Chapter_20_Urban_America.html" /></navPoint></navPoint>
+<navPoint id="nav36" playOrder="36"><navLabel><text>Unit 7 | Period 7: 1890&#x2013;1945</text></navLabel><content src="xhtml/33_UNIT_7___PERIOD_7__1890_1945.html" />
+<navPoint id="nav37" playOrder="37"><navLabel><text>Chapter 21: Populists and Progressives</text></navLabel><content src="xhtml/34_Chapter_21_Populists_and_Progres.html" /></navPoint>
+<navPoint id="nav38" playOrder="38"><navLabel><text>Chapter 22: Becoming a World Power</text></navLabel><content src="xhtml/35_Chapter_22_Becoming_a_World_Powe.html" /></navPoint>
+<navPoint id="nav39" playOrder="39"><navLabel><text>Chapter 23: The New Era</text></navLabel><content src="xhtml/36_Chapter_23_The_New_Era.html" /></navPoint>
+<navPoint id="nav40" playOrder="40"><navLabel><text>Chapter 24: The Great Depression and the New Deal</text></navLabel><content src="xhtml/37_Chapter_24_The_Great_Depression.html" /></navPoint>
+<navPoint id="nav41" playOrder="41"><navLabel><text>Chapter 25: The United States and the World</text></navLabel><content src="xhtml/38_Chapter_25_The_United_States_and.html" /></navPoint></navPoint>
+<navPoint id="nav42" playOrder="42"><navLabel><text>Unit 8 | Period 8: 1945&#x2013;1980</text></navLabel><content src="xhtml/39_UNIT_8___PERIOD_8__1945_1980.html" />
+<navPoint id="nav43" playOrder="43"><navLabel><text>Chapter 26: Truman, the Cold War, and the Second Red Scare</text></navLabel><content src="xhtml/40_Chapter_26_Truman__the_Cold_War.html" /></navPoint>
+<navPoint id="nav44" playOrder="44"><navLabel><text>Chapter 27: The Eisenhower Era</text></navLabel><content src="xhtml/41_Chapter_27_The_Eisenhower_Era.html" /></navPoint>
+<navPoint id="nav45" playOrder="45"><navLabel><text>Chapter 28: The 1960s</text></navLabel><content src="xhtml/42_Chapter_28_The_1960s.html" /></navPoint>
+<navPoint id="nav46" playOrder="46"><navLabel><text>Chapter 29: The 1970s</text></navLabel><content src="xhtml/43_Chapter_29_The_1970s.html" /></navPoint></navPoint>
+<navPoint id="nav47" playOrder="47"><navLabel><text>Unit 9 | Period 9: 1980&#x2013;Present</text></navLabel><content src="xhtml/44_UNIT_9___PERIOD_9__1980_PRESENT.html" />
+<navPoint id="nav48" playOrder="48"><navLabel><text>Chapter 30: The Reagan&#x2013;Bush Era</text></navLabel><content src="xhtml/45_Chapter_30_The_Reagan_Bush_Era.html" /></navPoint>
+<navPoint id="nav49" playOrder="49"><navLabel><text>Chapter 31: Key Events and Trends in Post&#x2013;Cold War America</text></navLabel><content src="xhtml/46_Chapter_31_Key_Events_and_Trends.html" /></navPoint></navPoint>
+<navPoint id="nav50" playOrder="50"><navLabel><text>Test-Taking Strategies and Practice Questions</text></navLabel><content src="xhtml/47_TEST_TAKING_STRATEGIES_AND_PRACT.html" />
+<navPoint id="nav51" playOrder="51"><navLabel><text>Chapter 32: Strategies for the Multiple-Choice Questions</text></navLabel><content src="xhtml/47_TEST_TAKING_STRATEGIES_AND_PRACT.html#id_3" /></navPoint>
+<navPoint id="nav52" playOrder="52"><navLabel><text>Chapter 33: Practice Multiple-Choice Questions</text></navLabel><content src="xhtml/48_Chapter_33_Practice_Multiple_Cho.html" /></navPoint>
+<navPoint id="nav53" playOrder="53"><navLabel><text>Chapter 34: Strategies for the Short-Answer Questions</text></navLabel><content src="xhtml/49_Chapter_34_Strategies_for_the_Sh.html" /></navPoint>
+<navPoint id="nav54" playOrder="54"><navLabel><text>Chapter 35: Strategies for the Document-Based Essay Question</text></navLabel><content src="xhtml/50_Chapter_35_Strategies_for_the_Do.html" /></navPoint>
+<navPoint id="nav55" playOrder="55"><navLabel><text>Chapter 36: Strategies for the Long-Essay Question</text></navLabel><content src="xhtml/51_Chapter_36_Strategies_for_the_Lo.html" /></navPoint></navPoint></navPoint>
+<navPoint id="nav56" playOrder="56"><navLabel><text>Practice Test</text></navLabel><content src="xhtml/52_PRACTICE_TEST.html" /></navPoint>
+</navMap>
+</ncx>
