@@ -1,0 +1,9 @@
+编写一个python程序, 让我输入两个参数, 参数1是一个是网页地址, 参数2是一个 adoc扩展名文件的位置路径.
+
+ 执行以下功能:  我会传入一个网址(即参数1), 比如:
+
+
+
+https://openstax.org/books/american-government-4e/pages/1-3-engagement-in-a-democracy
+
+这个网页上, 页面是我上传图片这样的, 右边绿框里 ,是文章的正文. 你来分析以下这个网页的源代码, 提取出正文部分的html代码(即页面右侧绿框里的这块的内容), 把它们改成相应的 asciidoc格式 , 即将html中的标题, 列表, 表格等等, 改成 asciidoc格式的.  然后存到我的电脑桌面上(即参数2), 参数2的默认值是: C:\Users\priest\Desktop\adoc.adoc

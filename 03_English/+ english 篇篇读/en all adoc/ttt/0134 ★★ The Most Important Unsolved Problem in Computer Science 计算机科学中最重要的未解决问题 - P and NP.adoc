@@ -1,0 +1,863 @@
+
+= 0134. The Most Important Unsolved Problem in Computer Science 计算机科学中最重要的未解决问题 : P & NP
+:toc: left
+:toclevels: 3
+:sectnums:
+
+'''
+
+== 哥德尔"不完备定理"
+
+==== 妈咪叔的解说
+
+*一个逻辑系统, 至少要满足4个性质, 其中两个性质是:*
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|自洽性
+|*即在一个逻辑系统内, 任一公理或定理, 都不能和其他公理或定理相矛盾.*
+
+|完备性
+|*即系统中不存在"无法证明或证伪的有效命题". 也就是说, 我说了一个命题, 那么在这个逻辑系统中, 一定要能够证明它是对的, 或者证明它是错的.*
+|===
+
+*一句话概括"哥德尔不完备定理"就是 : 任何一个包含自然数公理的算数形式系统中 (注意是包括"自然数"),这个系统, 不可能同时满足"自洽性"和"完备性".*
+
+这个定理, 后人总结了两个版本, 分别叫做第一和第二不完备性定理.
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|第一"不完备性定理"
+|*任何一个包含"自然数"算数公理(皮亚诺算数公理)的公理体系, 如果它是自洽的, 那在这个体系内, 就一定存在某个命题, 既不能被证明, 也不能被证伪.* +
+
+这里的"自洽", 还有你们可能看过的"一致的"、"相容的"、"无矛盾的", 都代表同一个意思, 只是翻译不同.  +
+两个真命题之间不能相矛盾, 这叫"自洽". 能证明或者能证伪, 就是"完备性". +
+
+*所以"第一不完备定理"就可以理解成  : 包含"自然数公理"的公理体系, 如果它是自洽(不矛盾)的, 那它就是不完备(无法证明或证伪)的.*
+
+咱们抛开自然数举个例子, 比如说谎者悖论 : “我现在说的这句话是谎话”. 这句话就是典型的不能被证明, 也不能被证伪.
+
+|第二"不完备性定理"
+|*任何一个包含"自然数算数公理"的公理体系, 如果它是无矛盾的, 那它的无矛盾性, 就不可能在这个公理系统内得到证明.*
+
+|===
+
+*讲到这你发现了重点了吧? "可证明(完备性)"和"是否正确"(无矛盾, 自洽性)这是两码事. 之前人们都觉得住何一个命题肯定能证明它的真伪啊, 哥德尔说不一定!* 后来人们发现 "goodstein定理" 就是一个活生生例子. 还有, 比如说"选择公理"和"连续统假设", 在"集合论"中, 就不能被证明, 也不能被证伪.
+
+
+还有现在仍然没有证明出来的"黎曼猜想", 也有可能就是哥德尔所说这种不能够被证明的定理. 但是你换过来想, 如果它要是这样的, 那"黎曼猜想"某种程度上说就是对的, 因为它要是错的, 就一定知道错哪了, 也就是可以证明它错了. 但是如果"黎曼猜想"不能被"证明"或者"证伪", 那根据"不完备性定理", 它就是对的了.
+
+但是最后说一点, 哥德尔并不是想说数学系统有漏洞, 他是想说明, *在有限步骤内, 是无法通过公理来证明公理的一致性的.* 咱们特意强调了是"在包含自然数公理的系统内".
+
+'''
+
+==== youtube 上的科普解说
+
+自古希腊以来, 我们就相信在任何正确的数学命题, 都将有一个证明. 但这也许会很难. 比如"费马大定理"的证明花了350年的时间. 我想**很多人都会以往任何"正确"的命题, 都存在"证明方法". 但哥德尔在[正确]与[可证]之间, 划下了一道鸿沟. **
+
+20世纪, 大卫·希尔伯特 David Hilbert, 提出了23个挑战数学界的问题. 第二个便是"数学具有一致性, 包括每一个真命题都应该得到证明". 但是30年后, 奥地利逻辑学家"库尔特·哥德尔"的想法完全震惊了他, *哥德尔认为, 如果数学具有一致性, 那么在任何数学系统中, 都存在着无法证明的真命题.*
+
+*所以人脑不是计算机 (实际上这一点, 也暗示了为什么人类的意识不仅仅是一台模拟计算机), 因为一台模拟的计算机怎么能把自己拉出那个困住它的系统呢? 而我们作为人类, 可以把自己置身于系统之外来思考问题, 然后又回到系统之中证明其不可被证明.* (*所以这也就意味着, 人一旦意识上传到电脑, 变成数字化的人, 就失去了科学突破的创造力, 因为程序代码无法突破自己的程序算法*.)
+
+哥德尔的结论之一就是, 我们无法证明数学自身没有矛盾.  这同样也是十分使人不安的.
+
+
+
+
+
+
+
+
+
+
+
+'''
+
+== 基础知识: 什么是 P 与 NP 问题
+
+==== 解释1
+
+简单的说, *P是一个分类, 基本上包括所有可以用相当快的程序能解决的问题*, 如乘法或人名排序.
+
+image:/img/p and np 001.png[,45%]
+
+*还有一个NP分类, 是只要你能得到正确的解决方案, 就可以在一个合理的时间量里, 来检验这个解决方案是否正确.* +
+NP类太令人疯狂了, 因为它包含了许多重要的问题.
+
+image:/img/p and np 002.png[,45%]
+image:/img/p and np 003.png[,45%]
+
+*如果很幸运, 你也可能发现某个NP问题其实是属于P的, 那么这个问题就有了快速的解决方式, 即我们能用编程程序来解决它.*
+
+image:/img/p and np 004.png[,45%]
+
+但其它很多问题, 就没那么幸运了. +
+於是**人们开始怀疑, 是否所有的NP问题其实都是P? 或者NP中的问题, 是否真的比P的那些更难? 这就是P与NP问题.**
+
+image:/img/p and np 005.png[,45%]
+image:/img/p and np 006.png[,45%]
+
+*若所有NP问题, 其实都是P问题的话, 那么很多重要但未解的谜题, 就可以用电脑编程来轻易解决了. 特别是生物学和治疗癌症的难题, 以及商业和经济里的难题, 就可以在一夜之间得到奇迹一般的解答.* 或是破解网路金融的加密, 因为它是基于NP问题的.
+
+可以把NP里问题, 看作是像“填字谜题”, 比如数独. 解数独需要很长的时间, 但若我给你已经解决了问题的"数独网格表", 你能很快验证它(即答案)是否正确.
+
+image:/img/p and np 007.png[,45%]
+
+*还有一种比NP更难的问题, 甚至连检查答案的对错都很难. 像是棋局下一步怎么下最好? 我可以告诉你答案,但你怎么会知道到底对不对? 这个问题大到我们永远无法做出一套算法来解决.* 对我们来说, 这就不是一个很好的谜题, 因为我们不可能知道是否已经真正解决了它.
+
+而在P类的谜题中, 检查答案的时间, 都是合理的. 在NP类, 检查答案也是可以的.
+
+*所以问题就是: 如果能快速地检验答案, 是否代表也有快速的方法, 来破解问题呢?* 没人知道答案. 但搞清楚这件事, 能让我们知道一些计算的本质问题.
+
+*P : 代表“多项式时间”P类的问题中, 解决问题的步数.  +
+所需要的时间, 可以依问题大小, 用"多项式函数"表达*
+
+image:/img/p and np 009.png[,45%]
+image:/img/p and np 010.png[,45%]
+
+几乎每个人都认为NP问题, 比P更多.  但我们还没有能够证明这一点.
+
+image:/img/p and np 011.png[,45%]
+
+在1970年代初, 找快速解法这件事传来坏消息, 复杂度研究发现, *好多的NP问题其实基本上都卡在相同问题上! 可用简单的多项式时间转换, 这些相同的问题称为"NP-complete".* 我们把数独和蛋白质折叠问题, 就加入这一类中. +
+
+*NP-complete 数学术语它的意思是: 这些问题是所有NP问题中真正困难的部分. 如果可找到解决任何NP-complete 问题的快速程序, 就可以解决所有NP问题.*
+
+
+
+image:/img/p and np 012.png[,45%]
+
+所以数独之所以这么难, 就是因为它和蛋白质折叠, 有着相同的NP-complete问题. 如果你可以想出一个数独的快速解, 一定要让人知道好不好? 因为快速的解决"蛋白质折叠"问题, 将有助于我们治疗癌症.
+
+*那么为什么证明"P与NP是不是相等"这么难呢? 有趣的是, "证明"本身就是个NP问题.*
+
+*除了NP, 还有更难搞的“EXP”(指数)类问题.* 像是"下棋的最佳棋路?", 运算和险查, 都要耗费指数时间.
+
+image:/img/p and np 013.png[,45%]
+
+这上面一整块区域, 至少都比 NP-complete 难, 被称为“NP-hard".
+
+image:/img/p and np 014.png[,45%]
+
+另外还有“CO-NP”类, 不像NP是能容易检查正确答案, 但它很容易排除错误答案.
+
+image:/img/p and np 015.png[,45%]
+
+还有“P-SPACE”类的问题, 这些问题是若给无限时间, 只使多项式数量存储空间单位的话, 就可以解决.
+
+image:/img/p and np 016.png[,45%]
+
+还有在多项式时间内, 有几率被解决的问题. 这类被称为“BPP”, 它也是可能跟实际上P类相等的一类. BPP的量子计算模拟称为BQP.
+
+image:/img/p and np 017.png[,45%]
+image:/img/p and np 018.png[,45%]
+
+image:/img/p and np 019.png[,45%]
+
+这个地方有很多不同定义的小类, 其中的一些被证明是问题的无限层叠, 会比它们之下的稍困难一些.
+
+image:/img/p and np 020.png[,45%]
+image:/img/p and np 021.png[,45%]
+image:/img/p and np 022.png[,45%]
+
+*这整个复杂度大观园, 它们共同核心真正的主题其实就是: 在给定空间和时间下, 什么可以计算的出来?*
+
+
+
+'''
+
+==== 解释2
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|P问题 (解决的时间, 呈"多项式"增长)
+|P问题，或者可以在"多项式"时间内解决的问题,是计算机相对容易解决的问题类型。 +
+我们每天使用电脑做的绝大部分事情, 你可以把它想象成解P中的各种向题。
+
+
+image:/img/p and np 029.png[,40%] +
+
+多项式是一种数学函数, 比如: latexmath:[ f(n) = n^2] +
+image:/img/p and np 030.png[,40%]
+
+
+**计算机解决"P问题"所需的时间呈"多项式"增长, 随着输入量而增加。 **+
+如果有足够的计算能力, P问题中的所有问题, 都可以用计算机在实际的时间内解决。
+
+image:/img/p and np 031.png[,40%]
+
+
+|NP问题 (解决的时间, 呈"指数级"增长)
+|NP问题是一类具有唯一特征的问题。如果给出了解决方案，那么验证它是否正确, 就变得又快又容易。 +
+*易解的"P问题", 包含在所有"NP问题"的类别中. 因为它们也可以在"多项式时间"内相对较快地得到验证。* +
+image:/img/p and np 032.png[,40%]
+
+然而，有一类NP问题很容易检验, 然而似乎很难在第一时间解决。比如数独和填字游戏, "验证答案"的速度比"解决答案"的速度要快得多。*它们的复杂性, 随着输入的增加, 呈"指数增长".* +
+image:/img/p and np 033.png[,40%]
+image:/img/p and np 034.png[,40%]
+
+这样, 大量输入增加的复杂性, 很快就会超过计算机的极限. 单靠暴力破解就几乎是不可能的了。 所花的时间到宇宙毁灭, 也不够解决出问题. +
+image:/img/p and np 035.png[,40%]
+
+科学家证明了一些NP问题, 其实是属于更简单的P类. 这样, 计算机程序就能用来解决这些问题. 这就引出了一个疑问, 是否所有的NP问题都属于P问题吗? 换言之, 今天的计算机, 能解决人类所有看起来难以解决的问题吗? +
+如果能证明 NP=P, 则这会带来深远的影响, 人类就能用电脑(包括人工智能)解决世上几乎所有的问题. 同样, 这也意味着, 所有现有的加密方法, 都能被破解. 各国的军事机密, 你的在线隐私, 加密钱包, 安全保障会立即失效.
+
+科学家也发现了**"NP完备性"的现象, 即: 几乎所有NP中众所周知的难题, 实际上都是等价的。 这意味着, 如果你能证明其中一个NP 等于 P, 就等于你解决了所有NP问题. ** +
+image:/img/p and np 036.png[,40%]
+image:/img/p and np 037.png[,40%]
+
+已知的"NP完全问题"有数百个, 找到一个单一的解决方案, 就能在多个方面取得突破, 包括物理学、经济学和生物学。 +
+"NP完全问题"包括一系列你可能听说过的著名问题, 包括: +
+image:/img/p and np 038.png[,40%]
+image:/img/p and np 039.png[,40%]
+image:/img/p and np 040.png[,40%]
+
+然而，大多数计算机科学研究人员认为, P不等于NP。证明"P不等于NP"是最难的问题之一.
+
+|===
+
+
+
+
+
+
+
+==== 解释3
+
+image:/img/0124.svg[,80%]
+
+
+
+*"时间复杂度"并不是表示一个程序解决问题需要花多少时间，而是当问题规模扩大后，程序需要的时间长度, 增长得有多快。* +
+也就是说，对于高速处理数据的计算机来说，处理某一个特定数据的效率, 不能衡量一个程序的好坏，而应该看当这个数据的规模变大到数百倍后，程序运行时间是否还是一样，或者也跟着慢了数百倍，或者变慢了数万倍。
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|时间复杂度 |解释
+
+|O(1)的时间复杂度 /常数级复杂度
+|*不管数据有多大，程序处理花的时间始终是那么多的*，我们就说这个程序很好，具有 O(1)的时间复杂度，也称"常数级复杂度"
+
+|O(n)
+|*数据规模变得有多大，花的时间也跟着变得有多长，这个程序的时间复杂度就是 O(n).* +
+比如找n个数中的最大值；而像冒泡排序、插入排序等
+
+image:/img/p and np 023.png[,40%]
+
+
+|latexmath:[ O(n^2)]
+|数据扩大2倍，时间变慢4倍的，属于 latexmath:[ O(n^2)] 的复杂度。
+
+image:/img/p and np 024.png[,40%]
+
+
+|latexmath:[ O(n^n)]
+|还有一些穷举类的算法，*所需时间长度成几何阶数上涨*，这就是  latexmath:[ O(n^n)] 的**"指数级"复杂度**，甚至  stem:[ O(n!)] 的**"阶乘级"复杂度**。
+
+image:/img/p and np 025.png[,40%]
+
+
+不会存在  latexmath:[ O(2n^2)] 的复杂度，因为前面的那个“2”是系数，根本不会影响到整个程序的时间增长。 +
+image:/img/p and np 026.png[,40%]
+
+同样地，  latexmath:[ O(n^3 + n^2)]  的复杂度也就是  latexmath:[ O(n^3)] 的复杂度。 +
+image:/img/p and np 027.png[,40%]
+
+
+我们会说，一个 latexmath:[ O(0.01 n^3)]  的程序的效率比 latexmath:[ O(100 n^2)] 的效率低，尽管在 n 很小的时候，前者优于后者，但后者时间, 随数据规模增长得慢，最终 latexmath:[ O(n^3)] 的复杂度将远远超过 latexmath:[ O(n^2)] 。 +
+image:/img/p and np 028.png[,40%]
+
+
+我们也说， latexmath:[ O(n^{100})] 的复杂度小于 latexmath:[ O(1.01^n)] 的复杂度。 +
+image:/img/p and np 041.png[,40%]
+
+
+|===
+
+容易看出，前面的几类复杂度, 被分为两种级别，其中后者的复杂度, 无论如何都远远大于前者： +
+-> 一种是   latexmath:[ O(1), O(log(n)), O(n^a)]  等，我们把它叫做"多项式级"的复杂度，因为它的规模n出现在"底数"的位置； +
+-> 另一种是 latexmath:[ O(a^n), O(n!)]  型复杂度，它是**"非多项式级"的，其复杂度计算机往往不能承受。**
+
+image:/img/p and np 042.png[,40%]
+
+*当我们在解决一个问题时，我们选择的算法通常都需要是"多项式级"的复杂度，*"非多项式级"的复杂度需要的时间太多，往往会超时，除非是数据规模非常小。
+
+自然地，人们会想到一个问题：**会不会所有的问题, 都可以找到复杂度为"多项式级"的算法呢？**很遗憾，答案是否定的。有些问题甚至根本不可能找到一个正确的算法来，这称之为“不可解问题”(Undecidable Decision Problem)。
+
+例如, Hamilton回路。问题是这样的：给你一个图，问你能否找到一条经过每个顶点一次且恰好一次（不遗漏也不重复）最后又走回来的路（满足这个条件的路径叫做 Hamilton回路 ）。这个问题现在还没有找到"多项式级"的算法。事实上，这个问题就是我们后面要说的"NPC问题"。 +
+image:/img/Hamilton回路.webp[,20%]
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|P类问题
+|**如果一个问题, 可以找到一个能在"多项式"的时间里解决它的算法，那么这个问题就属于P问题。** +
+**P是英文单词"多项式"的第一个字母。** +
+
+哪些问题是P类问题呢？通常 NOI (全国青少年信息学奥林匹克"竞赛") 和 NOIP (全国青少年信息学奥林匹克"联赛") 不会出不属于"P类问题"的题目。我们常见到的一些信息奥赛的题目, 都是P问题。道理很简单，一个用穷举换来的"非多项式级时间"的超时程序, 不会涵盖任何有价值的算法。
+
+|NP类问题
+|NP问题不是非P类问题。**"NP问题"是指"可以在多项式的时间里, 验证一个解"的问题。**NP问题的另一个定义是，*"可以在多项式的时间里, 猜出一个解"的问题。* +
+
+在这类题中，找到一个解很困难，但验证一个解很容易。比如验证一个解只需要O(n)的时间复杂度. +
+*对于不是"NP问题"的问题，即你猜到了解, 但是没用，因为你不能在多项式的时间里去验证它。*
+
+很显然，前面所说的"Hamilton回路"就是NP问题，因为验证"一条路是否恰好经过了每一个顶点"非常容易。但我要把问题换成这样：试问一个图中, 是否不存在"Hamilton回路"。这样问题, 就没法在"多项式的时间里"进行验证了，因为除非你试过所有的路，否则你不敢断定它“没有Hamilton回路”。
+
+**之所以要定义NP问题，是因为通常只有"NP问题"才可能找到"多项式"的算法。**我们不会指望一个连"多项式地验证一个解都不行"的问题, 存在一个"能解决该问题的多项式级的算法"。信息学中的号称最困难的问题——“NP问题”，实际上是在探讨NP问题与P类问题的关系。
+
+很显然，**所有的P类问题, 都是NP问题。也就是说，能"多项式地解决一个问题"，必然能"多项式地验证一个问题的解"**——既然正解都出来了，验证任意给定的解, 也只需要比较一下就可以了。
+
+
+关键是，**人们想知道 : 是否所有的"NP问题", 都是"P类问题"?**我们可以再用集合的观点来说明。如果把所有P类问题归为一个集合P中，把所有 NP问题划进另一个集合NP中，那么，显然有P属于NP。现在，*所有对NP问题的研究都集中在一个问题上，即究竟是否有P=NP？通常所谓的“NP问题”，其实就一句话：证明或推翻P=NP。*
+
+目前为止这个问题还“啃不动”。但是，**人们普遍认为，P=NP不成立，**也就是说，多数人相信，存在至少一个不可能有多项式级复杂度的算法的NP问题。**人们如此坚信P≠NP是有原因的，就是在研究NP问题的过程中, 找出了一类非常特殊的NP问题, 叫做"NP-完全问题"，也即所谓的"NPC问题"。C是英文单词“完全 complete ”的第一个字母。**
+
+|NPC问题
+|为了说明NPC问题，我们先引入一个概念——约化(Reducibility，有的资料上叫“归约”)。 +
+简单地说，*一个问题A可以"约化为"问题B的含义即是 : 可以用问题B的解法, 来解决问题A. 或者说，问题A可以“变成”问题B。*
+
+**“问题A可约化为问题B”有一个重要的直观意义：B的时间复杂度, 高于或者等于A的时间复杂度。**也就是说，问题A不比问题B难。这很容易理解。既然问题A能用问题B来解决，倘若B的时间复杂度比A的时间复杂度还低了，那A的算法就可以改进为B的算法，两者的时间复杂度还是相同。正如解一元二次方程比解一元一次方程难，因为解决前者的方法可以用来解决后者。
+
+好了，**从约化的定义中我们看到，一个问题约化为另一个问题，"时间复杂度"增加了，问题的应用范围也增大了。通过对某些问题的不断约化，我们能够不断寻找复杂度更高，但应用范围更广的算法, 来代替复杂度虽然低，但只能用于很小的一类问题的算法。**
+
+*很显然，约化具有一项重要的性质：约化具有传递性。如果问题A可约化为问题B，问题B可约化为问题C，则问题A一定可约化为问题C。*
+
+当然，*我们所说的“可约化”是指的可“多项式地”约化(Polynomial-time Reducible)，即变换输入的方法是能在"多项式的时间里"完成的。约化的过程只有用"多项式的时间完成"才有意义。*
+
+再回想前面讲的P和NP问题，联想起"约化"的"传递性"，自然地，**我们会想问，如果不断地"约化"上去，不断找到能“通吃”若干小NP问题的一个稍复杂的大NP问题，那么最后, 是否有可能找到一个"时间复杂度"最高，并且能“通吃”所有的 NP问题的这样一个超级NP问题？答案居然是肯定的。** +
+
+**也就是说，存在这样一个NP问题，所有的NP问题都可以约化成它。换句话说，只要解决了这个问题，那么所有的NP问题都解决了。这种问题的存在难以置信，并且更加不可思议的是，这种问题不只一个，它有很多个，它是一类问题。这一类问题就是传说中的"NPC 问题"，也就是"NP-完全问题"。**
+
+NPC问题的出现, 使整个NP问题的研究得到了飞跃式的发展。我们有理由相信，NPC问题是最复杂的问题。再次回到全文开头，我们可以看到，**人们想表达一个问题不存在"多项式"的高效算法时, 应该说它“属于NPC问题”。**此时，我的目的终于达到了，*我已经把NP问题和NPC问题区别开了。*
+
+*"NPC问题"的定义非常简单。同时满足下面两个条件的问题, 就是NPC问题: 首先，它得是一个NP问题；然后，所有的NP问题都可以约化到它。* +
+证明"一个问题是NPC问题"也很简单。先证明它至少是一个NP问题，再证明其中一个已知的NPC问题能约化到它（由约化的传递性，则NPC问题定义的第二条也得以满足；至于第一个NPC问题是怎么来的，下文将介绍），这样就可以说它是NPC问题了。
+
+**既然所有的NP问题都能约化成NPC问题，那么只要任意一个NPC问题找到了一个多项式的算法，那么所有的NP问题都能用这个算法解决了，NP也就等于P 了。**因此，给NPC找一个多项式算法太不可思议了。因此，前文才说，“正是NPC问题的存在，使人们相信P≠NP”。我们可以就此直观地理解，*NPC问题目前没有多项式的有效算法，只能用指数级甚至阶乘级复杂度的搜索。*
+
+|NP-Hard问题
+|**"NP-Hard问题"是这样一种问题 : 它满足"NPC问题"定义的第二条, 但不一定要满足第一条（就是说，"NP-Hard问题"要比 "NPC问题"的范围广）。** +
+
+**"NP-Hard问题"同样难以找到"多项式"的算法，**但它不列入我们的研究范围，因为**它不一定是NP问题。 也就是说, 即使"NPC问题"发现了"多项式级"的算法，"NP-Hard问题"有可能仍然无法得到"多项式级"的算法。**
+
+事实上，由于NP-Hard 放宽了限定条件，它将有可能比所有的"NPC问题"的时间复杂度更高, 从而更难以解决。
+
+NP-Hard 问题：若问题A不属于 "NP 问题"，已知某—"NPC 问题"可在多项式时间之内转化为问题A，则称A为NP-Hard难题。例如，“TSP”(旅行商问题) 是 NP-Hard问题.
+
+**"NP-Hard问题"难以找到一个有效的算法，并且认为, 这类问题的大型实例不能用精确算法求解，必须寻求这类问题的有效的近似算法，**比如最短路径（TSP(旅行商问题)、VRP(车辆路径问题)等）. *验证其中某一个解是否为最优都是很难的一件事情，除非全部试验一遍.*
+
+- 旅行商问题 (Traveling Salesman Problem，TSP)，又叫货郎担问题，它是图论中一个经典的组合优化问题。经典的TSP可以描述为：**一个商品推销员要去若干个城市推销商品，**该推销员从一个城市出发，需要经过所有城市一次并且仅一次之后，回到出发城市。*问他应如何选择在城市之间的行程路线，以使他走过的总路程最短。* +
+image:/img/p and np 043.jpg[,30%]
+
+- 车辆路径问题（vehicle routing problem, VRP），它是指一定数量的客户，各自有不同数量的货物需求. **配送中心向客户提供货物，**由一个车队负责分送货物，组织适当的行车路线，目标是使得客户的需求得到满足，并能在一定的约束下，*达到诸如路程最短、成本最小、耗费时间最少等目的。* +
+
+image:/img/Classical-Vehicle-Routing-Problem.png[,50%]
+
+逻辑电路问题, 是NPC类问题的“鼻祖”。有了第一个NPC问题后，一大堆NPC问题就出现了，因为**再证明一个新的NPC问题, 只需要将一个已知的NPC问题约化到它就行了。**后来，Hamilton 回路成了NPC问题，TSP问题也成了NPC问题。*现在被证明是NPC问题的有很多，对于任何一个, 只要找到了多项式算法的话, 那么所有的NP问题都可以完美解决了。*
+
+|===
+
+'''
+
+==== 解释4
+
+"公理化方法"是说，我们可以这样来开创一个数学分支∶ **先是构建一套基本假设——“公理”，然后从这套公理出发进行逻辑推导，从而产生出这个数学分支中的所有事实。这样，"真理"就化归为“能从公理出发而得到证明的东西”。**这个数学观点最早是由古希腊数学家泰勒斯于公元前700年前后提出的.  +
+例如，欧几里得在他著作《原理》中，就是首先列出 5条基本公理，然后从这些公理出发, 推导出所有的定理, 来阐述几何学的。
+
+公理化方法的问题在于，如何“构建”公理，这并不容易。欧几里得的“平行”公设就引发了人们数百年的争论，这导致了数学家研究出各种“非欧几何”。
+
+直到19世纪后期，希尔伯特进行了一次严密的研究，一套完整的几何公理才得以建立起来。之后, 希尔伯特提出，对于数学的任何其他分支, 都能够“构建出”一套公理，这一想法后来被称为"希尔伯特计划"。*希尔伯特希望在数学的任何领域，写出一套基本的假设（公理），而这个数学分支中的所有事实, 都可以由这套公理推出，这在理论上可行的。*
+
+1931年，**哥德尔的"不完备定理"（不完全性定理）**令整个数学界为之震惊。**他的发现就是这个假设并不成立。他证明在数学的任何包含初等算术的部分中，不论你写出多少条公理，总是会存在一些正确的陈述无法从这些公理出发而得到证明。这彻底粉碎了希尔伯特计划。**
+
+
+设想你是一位推销员，你的大本营在A城市。你必须驾车去B、C和D这三个城市推销商品，从A出发，最后还要回到A。如何安排路线, 才能使你走过的总路程尽可能地短? +
+这相当于是个全排列: 即一共有 latexmath:[ 3! = 3*2=6] 种不同的路径选择. +
+
+image:/img/p and np 044.webp[,30%]
+
+如果是要去10个城市呢? 就是 latexmath:[ 10!=3.6288\times 10^6 ]
+
+由于"阶乘数"增长得如此之快，还没增加几个城市，计算机也不堪重负了。
+
+替代的解决方法有两种:
+
+1. 一种方法是寻求"近似解"。我们不是去寻找一条总路程最小的路线，而是去寻找一条与最佳路线的长度偏差落在（比方说）5%以内的路线。
+2. 另一种方法是, 只对一些特定的城市组合(即子集), 来寻求一个准确的答案，以减少可能路线的数目。但这种方法有个明显的缺点，就是你得到的答案只适用于特定"某个组"的情况。增加或减少一个城市(即子集变动了)，就得重头再来算。
+
+在工业制造种, 比如汽车制造中, 也面临着相同的问题(计算所有"工序所需的最长耗时"). 我们也是用"分组"(分成一个个子集)来解决.  一旦你将这些工作分了组，使得每组工作, 可以与所有其他组同时进行，那么计算"总时间", 你只需将每组中的工作时间加起来，然后在这些时间中找出一个最长的。
+
+数学家进一步思考的是: 能否证明一个问题"真的不存在有效的解法"（不考虑近似方法）? 如果能证明"一个问题的确实现不了能求得精确解", 那么一开始就去花费大量的时间和计算资源来试图解决它, 就是没有意义的了。
+
+*即, 能否找出一种方法, 来度量在一台计算机上执行一项特定任务, 需要多长时间?*
+以推销员问题为例，答案（至少）依赖两样东西∶ 所使用的计算机, 和城市的数量。
+
+很明显，**一个问题所涉及的数据越多，花费在计算上的时间也越长。但是长出多少呢？**如果数据总量增加了一个确定的数量，计算时间会增加多少呢？例如，如果我们将数据总量翻一番，计算时间是不是也会翻一番？ *我们要做的, 是弄清楚这个计算所涉及的基本步骤有多少。这就把问题从"度量时间"转化为对"基本步骤"计数了。*
+
+**什么是一个基本步骤？以算术为例，一个"基本步骤"就是"将两个单独的数相加或相乘"。**算上进位，把两个N位数相加至多涉及3N个基本步骤。例如，将两个4位数相加需要3×4=12个基本步骤。
+
+
+把两个N位数相乘的标准方法涉及N^2个基本的整数对乘法，最多再加上处理进位的N个加法。一共最多有N^2＋N个基本运算。注意到表达式N^2＋N的值总是小于N^2＋N^2，即2N^2。于是，两个N位数相乘所涉及的基本运算少于2N^2个。
+
+image:/img/p and np 045.webp[,40%]
+
+
+既然我们只是同意用"基本步骤"来进行分析，而不是用"计算时间"进行分析，我们或许应该称之为“线性基本步骤”而不是“线性时间”。但是由于这类分析的原本目的是要了解计算机执行一个特定任务需要花多少时间，所以最初采用了“线性时间”，这就固定了下来。
+
+我们可以假定，任何基本运算都需要相同的固定时间，那么基本步骤的数目就直接对应于计算所花的时间。
+
+词组“线性时间”中的“线性”是指，如果你画出"步骤数目"与"数据规模"之间关系的图像，那将是一条直线。（直线的方程式将是S=CN，S是步骤数目。）
+
+相应地，乘法是一个"平方时间"过程。一般来说，如果一个过程, 对规模为N的数据, 至多需要C×N^2个步骤来完成，其中C是某个固定的数，那么它就被说成是以平方时间运行。
+
+*一个比"线性时间过程"和"平方时间过程"更为一般的概念, 是“多项式时间过程”，一个"多项式时间过程", 是对规模为N的数据, 至多需要 C×N^k 个基本运算的过程，其中C和k是某两个固定的数。*
+
+*所有的算术四则运算（加、减、乘、除）, 都是"多项式时间过程"。*
+
+**当面对一个计算过程时，理论工作者就寻找这样一个代数表达式（例如CN、CN^2或CN^k），它能给出这一过程"对于规模已知为N的数据来说，所需要的基本步骤数目"的一个上界估计。**他们称这样的表达式为**这个过程的"时间复杂性函数"。**
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|多项式时间过程
+|多项式时间过程, 是以"多项式表达式"为"时间复杂性函数"的过程。
+
+大致而言，多项式时间过程, 是计算机能有效处理的一种过程。**如果那两个固定的数C和k都十分巨大，那么计算时间可达数亿年。**不过在实际上，日常生活中往往会产生的"多项式时间过程"所具有的C和k的值, 是完全适度的，k一般是个一位数，因此它们确实能被计算机有效地处理。
+
+|指数时间过程
+|*还有一个类型称为“指数时间过程”，当数据规模为N时，需要2^N个基本步骤来完成的过程*（底数也可以是某个大于2的数）。
+
+**"指数时间过程"几乎无法在计算机上运行，因为随着N的增大，步骤增加速度太快。**如果在一个国际象棋盘上以2^N的规律放硬币，那么最后一格硬币的高度能一直伸到半人马座的比邻星（37万亿千米）。
+
+对于在工业和商业中产生的**几乎所有的"指数时间过程"，即使要处理规模相当适度的数据，也要让世界上最快的计算机花上比宇宙寿命还要长的时间。**
+
+显而易见，*如果对于一个特定的问题，你所知道的唯一解决方法是使用"指数时间过程"，那么你将不可能解决这个问题，除非数据规模非常小。*
+|===
+
+
+NP问题
+
+"多项式时间过程"与"指数时间过程"之间的鸿沟, 也说明了这种分类的一个明显缺点∶它太过粗略了。数学家意识到了这一点后，便寻找中间尺度的过程复杂性。他们注意到，**对于像求解推销员问题的过程来说，困难并不是由于复杂的计算。**使得问题几乎无法解决的原因，*是需要检查的可能性的数量之多，使得完成全部过程所需要的时间长得令人绝望。*
+
+为了试图把这种过程, 与一种真正"复杂计算"的过程, 区分出来，数学家提出了第三种类型∶"非确定性多项式时间过程"，或简称"NP过程"。由于通常的计算机都是确定性的，所以采用“非确定性”这个词会给人们一个暗示，即这个新概念是一个理论的东西，与实际的计算基本无关。下面是它的大致思想。
+
+设想你有一台这样的计算机，它能在一次计算的某些阶段, 从许多备选的数中作出一个完全随机的选择。比方说，当面对推销员问题的一个具体例子的时候，这台计算机能从这位推销员可以走的所有可能的路线中, 随机地选出一条。为了解出这个问题，这台计算机选出一条路线, 并算出相应的总距离。这条选出的路线不是最短路线的概率是极大的。但假定这台特别的计算机, 具有好得不可思议的运气，使得它总是作出最佳的选择。于是它会在多项式时间内解决这个问题。作出一个随机猜测并能幸运地猜中的本领，使得我们避开了可能性的数量大得令人绝望这个难题。
+
+**一般说来，如果一个问题或任务, 可以用一台非确定性计算机在"多项式时间"内解出或完成，我们就说它是NP型的，**而非确定性计算机, 就是能从一系列备选对象中, 作出一个随机选择, 而且能极其幸运地选中的计算机。
+
+*但要注意的是，这种计算机必须要检验它的猜测的正确性。NP类的本质在于，仅仅是"可能性的巨大数量"造成了困难。对于一个NP问题，"检验一个给定的答案是否正确"这件事, 必须是能在"多项式时间内"完成的。*
+
+从直觉上说，NP问题介于"多项式时间问题"（简称P问题）与"指数时间问题"之间。因为NP概念建立在一个完全不现实的想法上，即有一种计算机能老是作出最佳的随机选择，所以它是纯理论的。然而它显示出相当大的重要性。一个理由是，*在工业和管理中出现的大多数"指数时间问题"都是NP型的。使得它们很难解决的原因, 并不是有关的计算很复杂，而是必须对极其大量的实质上相同的情况, 重复执行一种相对容易的计算。*
+
+当NP分类于20世纪60年代第一次被提出时，计算机科学家臆断P类与NP类并不是同一个类——**虽然每个P问题当然都是NP问题，但是有一些NP问题肯定不属于P类。**理由是，看来一台运行"多项式时间"算法的标准计算机, 无论如何也不可能表现得像一台想象的非确定性计算机作准确猜测时那样。例如，专家们认为，如果没有一台假想的非确定性计算机的准确猜测能力，推销员问题也许根本不可能在多项式时间内解决。
+
+人人都认为这只是个时间问题∶迟早有人会给出某个可证明不属于P类的NP问题——不是推销员问题，就是其他什么问题——从而证明P和NP是不同的问题类。但这件事至今没有发生。也没有人能证明相反的结论。于是，P对NP问题产生了。
+
+20世纪60年代后期，这个问题已相当重要。*工业与管理中的许多重要问题, 都被证实是NP问题。如果能证明P就是NP，那无疑将激发人们以极大的努力去找出解决这些重要问题的有效过程。*
+
+我应该指出，**即使证明了NP与P相同，这本身并不能导致人们得出解决具体的NP问题的有效过程。它表明的只是任何NP问题在原则上可用一个多项式时间过程解决。**关于这样的一个过程可能是什么样的，它不一定会提供什么线索。
+
+这时，库克登场了。**库克证明存在一个特殊的NP问题，它具有一种奇特的性质∶如果这个特殊的问题能用多项式时间过程解决，那么其他任何的NP问题也能。**这是一个关于什么类型的任务可以在一台非确定性计算机上执行的问题。
+
+库克证明其结论的方法是∶他显示了怎样可以将任意给出的NP问题转化成他这个特殊的问题，这样，如果他这个问题能在多项式时间内解决，那么通过转换，那个给出的NP问题也能。库克将这个性质命名为"NP完全性"。根据库克的定义，对于一个NP问题，如果发现了一个可以解决它的"多项式时间过程", 将意味着，NP类中的每一个问题都可以用一个多项式时间过程解决，则这个NP问题被称为"NP完全"的。
+
+虽然库克的问题是一个来自形式逻辑的高度理论性的问题，但没过多久，卡普等人就证明了其他许多更为令人熟悉的NP问题也具有这个NP完全性，其中包括推销员问题。
+
+对工业界人士而言，发现能解决诸如推销员问题的有效过程就意味着利润大幅增长。这并不是说NP完全性就意味着一个问题肯定不能有效地解决。准确点说，证明一个特定的问题是NP 完全的，就对它的难度，以及你将找到一个多项式时间过程来解决它的不可能程度给出了一个尺度。下面解释一下。
+
+现在假设你发现你的NP问题事实上是NP完全的。那么大多数专家就把此作为一个不值得花费时间和精力来为它寻找一个完整解的充足理由。他们转而把自己的精力用在寻找一个好的近似通解上。因此，尽管NP分类具有高度的人为性质，但它的确有助于管理者决定把他们的研究精力投在什么地方。
+
+
+
+
+
+
+但是未被解决的P对NP问题依然潜伏在每一件事情后面。一个关于P与NP相同的证明将在原则上使得关于NP 完全性的所有研究都变得徒劳。这样的证明还会对互联网的安全产生严重的后果。因为破译RSA密码是一个NP问题。人们还不知道RSA加密系统的破译问题是不是NP完全的（很可能不是），因此，用不着证明P与NP相同，也许就会研究出这个问题的一个多项式时间解法。而另一方面，如果证明了P与NP相同，那么立即就说明RSA系统的破译问题可以在多项式时间内解决。那样的话，整个互联网的安全系统将处于极不可靠的状态。
+
+P vs NP
+
+
+
+
+
+P与NP是相同还是不同？发现有许多问题是NP完全的，就意味着数学家有许多种方法来试图证明P=NP。无论哪一个NP完全问题，只要找到一个能解决它的多项式时间过程，那么就立即得到P=NP。例如，一个解决推销员问题的多项式时间过程，就是关于P=NP的一个证明。
+
+不过，要证明P与NP不同，你必须去找一个你能证明不存在多项式时间过程解法的NP问题。这个问题可以是一个已知的问题。例如，如果你能证明推销员问题肯定无法用多项式时间过程解决，那么你就证明了P与NP并不相同。
+
+这并不像你想的那样简单。取某个能解决推销员问题的特殊过程并且证明它不是多项式时间过程，这是不够的。证明迄今研究出的所有过程没有一个是以多项式时间运行，也是不够的。确切地说，你必须证明不可能存在以多项式时间解决这个问题的过程。这意味着你的证明必须考虑可以解决这个问题的任何过程，不仅仅是那些已知的，还要包括将来可能发现的任何过程。
+
+在圈外人看来这也许有些奇怪，但是数学家已在某些情况下能证明关于这种未知的对象集合的结果。库克对NP完全性的证明就是这样一种结果。他证明了如果他那个特殊的NP问题可以在多项式时间内解决，那么包括所有尚未发现的NP问题在内的任何其他NP问题都同样可以在多项式时间内解决。然而，在证明P≠NP的情况中，没人能证明存在某个NP问题，它无法用多项式时间过程求解。这就是P对NP问题为什么会成为一个千禧难题。
+
+
+https://www.zhihu.com/question/67578069
+
+'''
+
+https://www.scientificamerican.com/article/the-most-important-unsolved-problem-in-computer-science/
+
+
+
+== The Most Important Unsolved Problem in Computer Science  计算机科学中最重要的未解决问题
+
+
+Here’s a look at *the million-dollar math problem* at *the heart of computation* When the Clay Mathematics Institute *put* individual 单独的；个别的;一个人的；供一人用的 $1-million prize bounties *on* seven unsolved mathematical problems, they may have undervalued 低估…的价值 one entry  参赛作品；竞赛答题 — by a lot. +
+下面是计算核心的百万美元数学问题。当克莱数学研究所针对七个未解决的数学问题单独颁发 100 万美元奖金时，他们可能低估了其中一项条目的价值——大大低估了。 +
+
+If mathematicians 数学家 were to resolve, in the right way, computer science’s “P versus NP” question, the result *could be worth worlds* more than $1 million — they’d be cracking most online-security systems, revolutionizing  (v.)彻底改变；完全变革 science and even mechanistically 机械地 solving the other six of the so-called Millennium 一千年,千年期 Problems, all of which were chosen in the year 2000. +
+如果数学家以正确的方式解决了计算机科学的“P 与 NP”问题，其结果可能价值超过 100 万美元——它将破解大多数在线安全系统，彻底改变科学，甚至机械地解决其他六个所谓的千年问题. 它们都是在 2000 年被选出来的。 +
+
+
+[.my1]
+.案例
+====
+.If mathematicians were to resolve,
+**表示对"将来情况"的假设时，从句的谓语动词, 用过去式(be动词用were)或者“should/were to+动词原形”的形式，**主句的谓语动词用“should/would/could/might+动词原形”的形式. +
+-  *If it were to rain tomorrow*, the sports meeting would be put off. 如果明天下雨, 运动会就会延期。
+
+.the result could be worth worlds more than $1 million
+在这句话中，"worlds" 的意思是比喻性的，表示价值非常大、远远超过一百万美元。换句话说，这个结果的价值相当于世界上的很多东西的总和，是一个强调巨大价值的说法。
+====
+
+*It’s hard to overstate (v.)夸大；夸张；言过其实 the stakes* （在公司、计划等中的）重大利益，重大利害关系 surrounding the most important unsolved problem in computer science. +
+对这个围绕计算机科学中最重要的未解决问题, 其重大利益怎么强调都不为过。 +
+
+P versus NP concerns (v.)影响，涉及，牵涉（某人） *the apparent (a.)显而易见；明白易懂；显然 asymmetry* (n.)不对称 between *finding solutions to problems* and *verifying solutions to problems*. +
+P 与 NP 问题,  涉及"寻找问题的解决方案" 和"验证问题的解决方案"之间明显的不对称性。 +
+
+For example, imagine (v.) *you’re planning a world tour* to promote (v.) your new book. +
+例如，假设您正在计划一次世界巡演, 来宣传您的新书。 +
+
+You pull up 停下来，停车 Priceline 一家线上旅游服务公司 and start testing routes, but *each one you try* blows (v.)（在某事物上）花大钱，挥霍;炸开 your total trip budget. +
+您打开 Priceline 并开始测试路线，但您尝试的每一条路线都会超出您的总旅行预算。 +
+
+
+[.my1]
+.案例
+====
+.blow
+[ VN] ~ sth (on sth) : ( informal ) to spend or waste a lot of money on sth （在某事物上）花大钱，挥霍
+====
+
+Unfortunately, as *the number of cities* grows (v.) on your worldwide tour, `主` *the number of possible routes* to check `谓` skyrockets (v.)飞涨；猛涨 exponentially (ad.)以指数方式, rapidly *making it infeasible* 不易实行的, 不可行的 even for computers *to exhaustively 彻底地，耗尽一切地 search (v.) through* every case. +
+不幸的是，随着你的环球旅行中, 城市数量的增加，可能的检查路线数量呈指数级增长，很快就使得计算机都无法穷尽所有情况, 来进行搜索。 +
+
+But when you complain 抱怨；埋怨；发牢骚, your agent *writes (v.) back* with a solution sequence of flights. +
+但是当您抱怨时，您的代理人会回信并提供航班的解决方案序列。 +
+
+You can easily verify (v.) *whether or not their route stays (v.) in budget* by simply checking (v.) that *it hits every city* and *summing (v.) the fares* to compare (v.) against the budget limit. +
+您只需检查路线是否到达每个城市, 并将票价相加, 以与预算限制进行比较，即可轻松验证其路线是否在预算之内。 +
+
+Notice (v.) the asymmetry here: *finding a solution* is hard, but *verifying a solution* is easy. +
+请注意这里的"不对称性"："找到解决方案"很困难，但"验证解决方案"则很容易。 +
+
+
+*The P versus NP question* asks (v.) *whether this asymmetry* is real or an illusion. +
+P 与 NP 问题, 询问: 这种不对称性, 是真实的, 还是幻觉? +
+
+If you can efficiently verify (v.) a solution to a problem, does that imply (v.) that *you can also efficiently find a solution*? Perhaps *a clever shortcut* can circumvent (v.)设法回避；规避;绕过；绕行；绕道旅行 *searching (v.) through* zillions 很大量 of potential routes. +
+如果你可以"有效地验证问题的解决方案"，是否意味着, 你也可以"有效地找到解决方案"？也许一条聪明的捷径可以绕过无数条潜在路线的搜索。 +
+
+For example, if your agent instead *wanted you to find a sequence of flights* between two specific remote airports *while obeying the budget*, you might also *throw up your hands* 没办法处理；放弃；退出(竞争)  at the similarly immense  极大的；巨大的 number of possible routes to check, but in fact, this problem contains enough structure that computer scientists *have developed a fast procedure  （正常）程序，手续，步骤 (algorithm  算法；计算程序) for it* that bypasses (v.) the need for exhaustive (a.)详尽的；彻底的；全面的 search. +
+例如，如果您的代理人希望您, 在遵守预算的情况下, 找到两个特定偏远机场之间的一系列航班，您也可能会尝试同样大量的可能路线来检查，但事实上，这个问题包含足够的结构, 使得计算机科学家为其开发了一种快速程序（算法），从而绕过了"穷举搜索"的需要。 +
+
+
+[.my1]
+.案例
+====
+.throw up one's hands
+表示没办法处理；放弃；退出(竞争)
+====
+
+You might think *this asymmetry is obvious*: of course *one would sometimes have a harder time* finding a solution to a problem *than* verifying it. +
+您可能认为这种"不对称性"是显而易见的：当然，有时"找到问题的解决方案", 比"验证问题"更困难。 +
+
+But *researchers have been surprised before* in thinking that *that’s the case*, only *to discover last-minute that* the solution is just as easy. +
+但研究人员之前曾惊讶地认为, 情况确实如此，但在最后一刻才发现, 解决方案同样简单。 +
+
+So `主` every attempt *in which they try to resolve this question* for any single scenario  设想；方案；预测 `谓` only further exposes (v.) *how monumentally (ad.)（用于表述负面性质）极端地，极度地 difficult it is* to prove one way or another. +
+因此，他们试图"在任何单一设想下来解决这个问题"的每一次尝试, 都只会进一步暴露出"以某种方式来证明它"是多么困难。 +
+
+P versus NP also *rears (v.)尤指可怖地）巍然耸立 its head* everywhere we look in the computational 使用计算机的；与计算机有关的 world *well beyond* the specifics of our travel scenario — so much *so that* it has come to symbolize (v.)象征；是…的象征；代表 *a holy grail* 圣杯（据信为耶稣离世前所用）;渴望但永远得不到的东西；努力追求但永远不可能实现的目标（或理想） in our understanding of computation. +
+P 与 NP问题,  在计算世界中随处可见，远远超出了我们旅行场景的具体情况，以至于它已经成为我们理解计算的圣杯的象征。 +
+
+
+[.my1]
+.案例
+====
+.rear
+[ V] ( of sth large 大的东西 ) to seem to lean over you, especially in a threatening way （尤指可怖地）巍然耸立 +
+• The great bulk of the building *reared (v.) up* against the night sky. 夜幕下，巨大的高楼显得阴森森的。
+====
+
+In the subfield of *theoretical computer science* called *complexity 复杂性；难懂 theory*, researchers try to *pin (v.) down* how easily computers can solve (v.) various types of problems. +
+在理论计算机科学的子领域（称为复杂性理论）中，研究人员试图确定"计算机解决各种类型问题的容易程度"。 +
+
+P *represents (v.) the class of problems* they can solve efficiently, such as *sorting a column of numbers* in a spreadsheet or *finding the shortest path* between two addresses 住址；地址；通信处 on a map. +
+P类问题,  代表是他们可以有效解决的问题类别，例如对电子表格中的一列数字进行排序, 或查找地图上两个地址之间的最短路径。  +
+
+*NP represents (v.) the class of problems* for which computers can verify (v.) solutions efficiently. +
+NP类问题,  代表计算机可以"有效验证其解决方案是否正确"的问题类别。 +
+
+Our book tour problem, called *the Traveling Salesperson Problem* by academics, *lives in NP* because *we have an efficient procedure* for verifying (v.) that *our agent’s solution worked (v.)*. +
+我们的卖书问题，被学术界称为"旅行推销员问题"，存在于 NP 中，因为我们有一个有效的程序, 来验证我们代理的解决方案是否有效。 +
+
+Notice that *NP actually contains (v.) P as a subset* because *solving a problem outright* (ad.)完全彻底；干净利落 is one way *to verify (v.) a solution to it*. +
+请注意，NP 实际上包含 P 来作为子集，因为"彻底解决问题"只是"验证问题解决方案"中的一种方法。 +
+
+For example, *how would you verify (v.) that* 27 x 89 = 2,403? *You would solve the multiplication  乘；相乘；增加 problem yourself* and *check (v.) that* your answer matches (v.) the claimed one. +
+例如，您如何验证 27 x 89 = 2,403？您可以自己解决乘法问题，并检查您的答案是否与所要求的答案相符。 +
+
+We typically *depict (v.)描绘；描画 the relationship* between P and NP *with* a simple Venn diagram: +
+我们通常用一个简单的维恩图, 来描述 P 和 NP 之间的关系： +
+
+image:/img/PvsNP_graphic_m.webp[,30%]]
+
+
+`主` The region inside of NP *but not inside of P* `谓` contains problems *that can’t be solved (v.) with any known efficient algorithm*. +
+在NP内部 但不在P内部 的区域, 包含任何"已知有效算法"都无法解决的问题。 +
+
+(Theoretical 理论上的 computer scientists *use (v.) a technical definition for “efficient”* that can be debated （各自发表不同意见的）争论，辩论，讨论, but *it serves (v.) as* a useful proxy 代理人；受托人；代表 for the *colloquial (a.)会话的；口语的 concept*.) But we don’t know if that’s because *such algorithms don’t exist* or *we just haven’t mustered (v.)找寻，聚集，激起（支持、勇气等）;集合，召集，集结（尤指部队） the ingenuity (n.)独创力；聪明才智；心灵手巧 to discover them*. +
+（理论计算机科学家使用的“高效”技术定义, 是有争议的，但它可以作为"口语化的概念"的有用代表。）但我们不知道这是因为这样的算法不存在，还是因为我们还没有我发挥了聪明才智来发现它们。 +
+
+Here’s another way *to phrase (v.)（以某种方式）表达，措辞，推敲 the P versus NP question*: Are these classes actually distinct (a.)截然不同的；有区别的；不同种类的;确定无疑的；确实的；确切的? Or does the Venn diagram *collapse (v.) into* one circle? Do all NP problems *admit (v.) efficient algorithms*? Here are *some examples of problems in NP* that are not currently known (v.) to be in P: +
+这是 P 与 NP 问题的另一种表达方式：这些类实际上是不同的吗？或者维恩图会塌陷成一个圆圈吗？所有 NP 问题都承认高效算法吗？以下是 NP 中目前未知的 P 问题的一些示例： +
+
+- Given a social network, is there *a group of a specified size* in which *all of the people in it* are friends with one another?
+- Given *a varied collection 一批物品；一群人 of boxes* to be shipped, can all of them *be fit into* a specified number of trucks?
+- Given a sudoku (*generalized (v.)扩大…的运用；将…类推到（较大的范围） to* n x n puzzle grids), does it have a solution?
+- Given a map, can *the countries be colored with only three colors* such that 以至于;使得满足…的条件 no *two neighboring countries* are the same color?
+
+
+[.my1]
+.案例
+====
+.generalize
+[ VN] [ often passive] ~ sth (to sth)( formal ) to apply a theory, idea, etc. to a wider group or situation than the original one 扩大…的运用；将…类推到（较大的范围） +
+• These conclusions cannot *be generalized (v.) to the whole country*. 这些结论不可能推及全国。
+====
+
+Ask yourself ① *how you would verify (v.) proposed solutions* to some of the problems above *and then* ② *how you would find a solution*. +
+
+给定一个社交网络，是否存在一个指定规模的群体，其中的所有人都是彼此的朋友？ +
+考虑到要运输的箱子种类繁多，是否可以将所有这些箱子装入指定数量的卡车中？ +
+给定一个数独（概括为 n x n 谜题网格），它有解决方案吗？ +
+给定一张地图，是否可以只用三种颜色对这些国家进行着色，使得没有两个邻国的颜色相同？
+
+问问自己如何验证针"对上述某些问题提出的解决方案"，然后如何找到解决方案。 +
+
+Note (v.) that `主` *approximating (v.)近似；接近 a solution* or *solving a small instance* (most of us *can solve (v.) a 9 x 9 sudoku*) `谓` doesn’t suffice. +
+请注意，近似解决方案或解决小实例（我们大多数人都可以解决 9 x 9 数独）是不够的。 +
+
+*To qualify  (v.)取得资格（或学历）；合格 as* solving a problem, an algorithm *needs to find an exact 精确的；准确的 solution* on all instances, including *very large ones*. +
+为了有资格解决问题，算法需要在所有实例（包括非常大的实例）上找到精确的解决方案。 +
+
+
+Each of the problems *can be solved* via *brute-force search* (e.g., try every possible coloring of the map *and* check if any of them work), but `主` the number of cases to try `谓` *grows (v.) exponentially* with the size of the problem. +
+每个问题, 都可以通过"暴力搜索"来解决（例如，尝试地图的所有可能的颜色, 并检查它们是否有效），但是要尝试的案例数量, 会随着问题的大小, 呈"指数级增长"。 +
+
+*This means that* if we *call* (v.) the size of the problem *n* (e.g., the number of countries on the map *or* the number of boxes to pack into trucks), then the number of cases to check *looks something like 2n*. +
+这意味着，如果我们将问题的规模称为 n（例如，地图上的国家/地区数量或装入卡车的箱子数量），则要检查的案件数量类似于 2n。 +
+
+The world’s fastest supercomputers *have no hope against* exponential growth. +
+世界上最快的超级计算机, 都无法处理呈"指数级增长"的数据。 +
+
+Even when *n equals 300*, *a tiny input size* by modern data standards, latexmath:[2^{300}] exceeds (v.) *the number of atoms* in the observable universe. +
+即使 n 等于 300（按照现代数据标准来看，这是一个很小的输入大小），latexmath:[2^{300}] 也超过了可观测宇宙中的原子数量。 +
+
+After *hitting (v.) “go”* on such an algorithm, your computer would display *a spinning （使）快速旋转 pinwheel* 风车 that would outlive (v.)比…活得长 you and your descendants. +
+在这样的算法上点击“开始”后，你的计算机会显示一个旋转的风车，它会比你和你的后代活得更久 (即要运行很漫长的时间)。 +
+
+
+[.my1]
+.案例
+====
+.pinwheel = windmill or Catherine wheel
+
+.windmill
+image:/img/windmill.jpg[,20%]
+
+.Catherine wheel
+image:/img/Catherine wheel.jpg[,20%]
+
+====
+
+Thousands of other problems *belong on our list*. +
+我们的清单上, 还有数以千计的其他问题。 +
+
+*From* cell biology *to* game theory, the P versus NP question *reaches (v.) into far corners* of science and industry. +
+从细胞生物学到博弈论，P 与 NP 问题深入到科学和工业的各个角落。 +
+
+If P = NP (i.e., our Venn diagram *dissolves (v.)使（固体）溶解 into* a single circle) and we obtain *fast algorithms* for these seemingly hard problems, then the whole digital economy would become vulnerable to collapse. +
+如果 P = NP（即我们的维恩图分解为一个圆圈）并且我们获得了解决这些看似困难的问题的快速算法，那么整个数字经济将变得容易崩溃。 +
+
+This is because `主` *much of the cryptography* 密码学；密码术 that secures (v.) *such* things *as* your credit card number and passwords `谓` works (v.) by *shrouding* (v.)隐瞒；保密 private information *behind* computationally difficult problems *that can only become easy to solve* if you know the secret key. +
+这是因为，大部分加密技术 -- 即用来保护信用卡号和密码等信息的 --  都是通过将私人信息隐藏在计算"困难的问题"后面，而只有知道密钥，才能轻松地来解决这些问题。 +
+
+
+[.my1]
+.title
+====
+.cryptography
+--> crypto-,隐藏，-graphy,写，记录。
+====
+
+`主` Online security *as we know it* `谓` rests (v.) on 依靠；依赖 unproven mathematical assumptions *that crumble (v.)（使）破碎，成碎屑;坍塌；损坏；崩裂 if P = NP*. +
+我们知道，网络安全技术, 依赖于未经证实的数学假设，如果 P = NP，则这些假设就会崩溃(即难题也会变得容易解出来了, 所以加密技术就会被攻破)。 +
+
+Amazingly, we can even *cast* (v.)把某人描写成；把某人表现为 math itself *as* an NP problem *because we can program (v.) computers* to efficiently verify (v.) proofs  证据；证明;证明；求证；验算. +
+令人惊讶的是，我们甚至可以将数学本身视为 NP 问题，因为我们可以对计算机进行编程来有效地验证证明。 +
+
+
+[.my1]
+.title
+====
+.cast
+[ VN] *~ sb (as sth) | ~ sb (in sth)* : to describe or present sb in a particular way 把某人描写成；把某人表现为
+• *He cast himself as* the innocent victim of a hate campaign. 他把自己说成是一场诋毁声誉行为的无辜受害者。
+====
+
+
+In fact, legendary mathematician Kurt Gödel *first posed (v.)造成（威胁、问题等）；引起；产生 the P versus NP problem* in a letter to his colleague John von Neumann in 1956, and he expressed (in older terminology  （某学科的）术语) that P = NP “would have consequences of the greatest importance. +
+事实上，传奇数学家库尔特·哥德尔 (Kurt Gödel) 在 1956 年给同事约翰·冯·诺依曼 (John von Neumann) 的一封信中, 首次提出了 P 与 NP 问题，他表示（用较旧的术语）P = NP“将产生最重要的后果。 +
+
+Namely, it would obviously mean that … *the mental work* of *a mathematician concerning  关于；涉及 yes-or-no questions* could be completely replaced (v.) by a machine.” +
+也就是说，这显然意味着…… 数学家关于是或否问题的脑力工作, 可以完全被机器取代。” +
+
+If you’re a mathematician *worried for your job*, *rest assured that* 请放心 most experts believe that *P does not equal NP*. +
+如果您是一位担心自己工作的数学家，请放心，大多数专家都认为,  P 不等于 NP。 +
+
+
+[.my1]
+.title
+====
+.You can rest assured that ……
+是一个用于安抚他人的一个特定句式。意思是“让人对某事放心或确信”( to be certain or confident about something)，对所述情况无需担心（to make someone feel safe or less worried about something）。 +
+句式中的情态动词 can 有时也可用 may 替代。 +
+- *You can rest assured that* the children will be well looked after here. 你可以放心，孩子们在这里会得到很好的照料。
+
+
+有时，也可将 you can rest assured 置于句末。 +
+- We will take your views into consideration, *you may rest assured*. 你尽管放心，我们一定会考虑你的意见的。
+
+*用于 and、but、so等引导的分句时, (you can) rest assured that 中的 you can 可以省略。* +
+- I can completely understand your feelings, *but rest assured that* I'll do my best to deal with the case. 我完全理解你们的心情，但你们放心好了，我会尽力处理好这件案子的。
+
+
+这一句式常可简化成祈使句：（Please）rest assured that …… 或 Rest assured, …… 。
+====
+
+*Aside from* the intuition 直觉力;（一种）直觉 that sometimes *solutions should be harder to find* than *to verify*, thousands of the hardest NP problems *that are not known to be in P* have sat (v.) unsolved *across disparate fields*, glowing (v.) with incentives (n.)激励；刺激；鼓励 of fame and fortune, and yet *not one person* has designed an efficient algorithm *for a single one of them*. +
+除了有时"找到解决方案"比"验证"更难的直觉之外，数以千计的最难的 NP 问题, 它们尚未被证明属于P类问题，在不同的领域中还尚未得到解决，这些问题在名利的激励下熠熠生辉，但至今没有一个人设计出有效的算法来解决其中任何一个。 +
+
+Of course, `主` *gut feeling* 直觉 and *a lack of counterexamples* 反例 `谓` don’t constitute a proof. +
+当然，直觉和缺乏反例, 并不能构成证据。 +
+
+*To prove that* P is different from NP, you somehow have to *rule (v.) out* 不考虑; 排除 all potential algorithms for all of the hardest NP problems, a task *that appears out of reach* for current mathematical techniques. +
+为了证明 P 与 NP 不同，您必须以某种方式排除所有最难的 NP 问题的所有潜在算法，这是当前数学技术似乎无法完成的任务。 +
+
+In fact, the field *has coped* (v.)（成功地）对付，处理 by proving so-called barrier  屏障；障碍物 theorems, which say that `主` entire categories of *tempting (a.)吸引人的；诱人的；有吸引力的 proof strategies* to resolve P versus NP `谓` cannot succeed. +
+事实上，该领域已经通过证明所谓的"屏障定理"来应对，该定理表明，用于解决 P 与 NP 问题的整个类别的诱人的证明策略, 都无法成功。 +
+
+*Not only* have we failed to find a proof *but* we also have no clue what an eventual proof *might look like*. +
+我们不仅未能找到证明，而且对最终的证明可能是什么样子也毫无头绪。
+
+
+
+'''
+
+== The Most Important Unsolved Problem in Computer Science
+
+Here’s a look at the million-dollar math problem at the heart of computation.
+
+When the Clay Mathematics Institute put individual $1-million prize bounties on seven unsolved mathematical problems, they may have undervalued one entry—by a lot. If mathematicians were to resolve, in the right way, computer science’s “P versus NP” question, the result could be worth worlds more than $1 million—they’d be cracking most online-security systems, revolutionizing science and even mechanistically solving the other six of the so-called Millennium Problems, all of which were chosen in the year 2000. It’s hard to overstate the stakes surrounding the most important unsolved problem in computer science.
+
+P versus NP concerns the apparent asymmetry between finding solutions to problems and verifying solutions to problems. For example, imagine you’re planning a world tour to promote your new book. You pull up Priceline and start testing routes, but each one you try blows your total trip budget. Unfortunately, as the number of cities grows on your worldwide tour, the number of possible routes to check skyrockets exponentially, rapidly making it infeasible even for computers to exhaustively search through every case. But when you complain, your agent writes back with a solution sequence of flights. You can easily verify whether or not their route stays in budget by simply checking that it hits every city and summing the fares to compare against the budget limit. Notice the asymmetry here: finding a solution is hard, but verifying a solution is easy.
+
+The P versus NP question asks whether this asymmetry is real or an illusion. If you can efficiently verify a solution to a problem, does that imply that you can also efficiently find a solution? Perhaps a clever shortcut can circumvent searching through zillions of potential routes. For example, if your agent instead wanted you to find a sequence of flights between two specific remote airports while obeying the budget, you might also throw up your hands at the similarly immense number of possible routes to check, but in fact, this problem contains enough structure that computer scientists have developed a fast procedure (algorithm) for it that bypasses the need for exhaustive search.
+
+You might think this asymmetry is obvious: of course one would sometimes have a harder time finding a solution to a problem than verifying it. But researchers have been surprised before in thinking that that’s the case, only to discover last-minute that the solution is just as easy. So every attempt in which they try to resolve this question for any single scenario only further exposes how monumentally difficult it is to prove one way or another. P versus NP also rears its head everywhere we look in the computational world well beyond the specifics of our travel scenario—so much so that it has come to symbolize a holy grail in our understanding of computation.
+
+In the subfield of theoretical computer science called complexity theory, researchers try to pin down how easily computers can solve various types of problems. P represents the class of problems they can solve efficiently, such as sorting a column of numbers in a spreadsheet or finding the shortest path between two addresses on a map. NP represents the class of problems for which computers can verify solutions efficiently. Our book tour problem, called the Traveling Salesperson Problem by academics, lives in NP because we have an efficient procedure for verifying that our agent’s solution worked.
+
+Notice that NP actually contains P as a subset because solving a problem outright is one way to verify a solution to it. For example, how would you verify that 27 x 89 = 2,403? You would solve the multiplication problem yourself and check that your answer matches the claimed one. We typically depict the relationship between P and NP with a simple Venn diagram:
+
+The region inside of NP but not inside of P contains problems that can’t be solved with any known efficient algorithm. (Theoretical computer scientists use a technical definition for “efficient” that can be debated, but it serves as a useful proxy for the colloquial concept.) But we don’t know if that’s because such algorithms don’t exist or we just haven’t mustered the ingenuity to discover them. Here’s another way to phrase the P versus NP question: Are these classes actually distinct? Or does the Venn diagram collapse into one circle? Do all NP problems admit efficient algorithms? Here are some examples of problems in NP that are not currently known to be in P:
+
+- Given a social network, is there a group of a specified size in which all of the people in it are friends with one another?
+
+- Given a varied collection of boxes to be shipped, can all of them be fit into a specified number of trucks?
+
+- Given a sudoku (generalized to n x n puzzle grids), does it have a solution?
+
+- Given a map, can the countries be colored with only three colors such that no two neighboring countries are the same color?
+
+Ask yourself how you would verify proposed solutions to some of the problems above and then how you would find a solution. Note that approximating a solution or solving a small instance (most of us can solve a 9 x 9 sudoku) doesn’t suffice. To qualify as solving a problem, an algorithm needs to find an exact solution on all instances, including very large ones.
+
+Each of the problems can be solved via brute-force search (e.g., try every possible coloring of the map and check if any of them work), but the number of cases to try grows exponentially with the size of the problem. This means that if we call the size of the problem n (e.g., the number of countries on the map or the number of boxes to pack into trucks), then the number of cases to check looks something like 2n. The world’s fastest supercomputers have no hope against exponential growth. Even when n equals 300, a tiny input size by modern data standards, latexmath:[2^{300}] exceeds the number of atoms in the observable universe. After hitting “go” on such an algorithm, your computer would display a spinning pinwheel that would outlive you and your descendants.
+
+Thousands of other problems belong on our list. From cell biology to game theory, the P versus NP question reaches into far corners of science and industry. If P = NP (i.e., our Venn diagram dissolves into a single circle) and we obtain fast algorithms for these seemingly hard problems, then the whole digital economy would become vulnerable to collapse. This is because much of the cryptography that secures such things as your credit card number and passwords works by shrouding private information behind computationally difficult problems that can only become easy to solve if you know the secret key. Online security as we know it rests on unproven mathematical assumptions that crumble if P = NP.
+
+Amazingly, we can even cast math itself as an NP problem because we can program computers to efficiently verify proofs. In fact, legendary mathematician Kurt Gödel first posed the P versus NP problem in a letter to his colleague John von Neumann in 1956, and he expressed (in older terminology) that P = NP “would have consequences of the greatest importance. Namely, it would obviously mean that ... the mental work of a mathematician concerning yes-or-no questions could be completely replaced by a machine.”
+
+If you’re a mathematician worried for your job, rest assured that most experts believe that P does not equal NP. Aside from the intuition that sometimes solutions should be harder to find than to verify, thousands of the hardest NP problems that are not known to be in P have sat unsolved across disparate fields, glowing with incentives of fame and fortune, and yet not one person has designed an efficient algorithm for a single one of them.
+
+Of course, gut feeling and a lack of counterexamples don’t constitute a proof. To prove that P is different from NP, you somehow have to rule out all potential algorithms for all of the hardest NP problems, a task that appears out of reach for current mathematical techniques. In fact, the field has coped by proving so-called barrier theorems, which say that entire categories of tempting proof strategies to resolve P versus NP cannot succeed. Not only have we failed to find a proof but we also have no clue what an eventual proof might look like.
+
+'''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'''
+
+
+==

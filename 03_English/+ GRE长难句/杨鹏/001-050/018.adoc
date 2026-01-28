@@ -1,0 +1,60 @@
+= 018
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../../../../myAdocCss.css
+
+'''
+
+- (018.) The physicist 物理学家 rightly 正确地；恰当地；公正地；合适地 dreads (v.)惧怕；担心 precise argument 论据，理由, since `主` #an argument# _that is convincing (a.)令人信服的，有说服力的 *only if* it is precise_ `谓` #loses# (v.) all its force /if `主` #the assumptions# 假设；假定 on which it is based `谓` #are slightly changed#, whereas 然而；反之 `主` an argument _that is convincing (a.) though  虽然，尽管 imprecise_ 虽不精确但令人信服的论点 `系` may well be stable /under small perturbations 扰动；干扰 of its underlying assumptions 基本假设. +
+
+....
+【第一部分：关于精确论证】
+主句： [The physicist] [rightly dreads (v.) ] [precise argument]
+          │
+          └─ 原因从句 (由 since 引导)：
+              主语： [an argument]
+                     │
+                     └─ 定语从句 (由 that 引导) 修饰 argument：
+                         [that is convincing (a.) only if it is precise]
+                                        │
+                                        └─ 条件从句 (only if 引导)： [if it is precise]
+              谓语： [loses (v.) all its force]
+                     │
+                     └─ 条件从句 (由 if 引导)：
+                         [if the assumptions] [are slightly changed]
+                                     │
+                                     └─ 定语从句 (由 on which 引导) 修饰 assumptions：
+                                         [on which it is based]
+
+【对比连词】 [whereas]
+
+【第二部分：关于不精确论证】
+主句： [an argument] [may well be] [stable]
+          │
+          └─ 定语从句 (由 that 引导) 修饰 argument：
+              [that is convincing (a.) though imprecise]
+                            │
+                            └─ 让步状语 (though 引导)： [though imprecise]
+          │
+          └─ 条件状语 (介词短语 under...):
+              [under small perturbations of its underlying assumptions]
+....
+
+
+
+
+[.my1]
+.案例
+====
+- (018.) The physicist rightly dreads precise argument, since an argument that is convincing only if it is precise loses all its force if the assumptions on which it is based are slightly changed, whereas an argument that is convincing though imprecise may well be stable under small perturbations of its underlying assumptions.
+
+物理学家有理由害怕"精确的论证"，因为一个只有在精确时才具说服力的论证，一旦其所依据的假设稍有改变，便会完全失去效力。然而，一个"即使不精确却仍然令人信服"的论证，在其基本假设受到微小扰动时，很可能保持稳定。
+
+这句话揭示了理论物理学的工作哲学。它推崇的是 “robustness 稳健性，健壮性；耐用性;鲁棒性”.
+
+记住: 在考试现场去一层层分析句子的语法结构, 是只有呆子才会去干的事情。读者们惟一要干的事情，就是反复阅读这句话，什么时候练到不必去想其语法结构,就能按原文顺序读懂，才算初步掌握；再进一步把它读顺，直到你看不出这个句子有什么特别的地方，看上去还挺舒服，就算训练成功。
+====
+
+
+'''

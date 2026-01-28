@@ -1,0 +1,42 @@
+<svg height="210" viewBox="0 0 484 210" xmlns="http://www.w3.org/2000/svg" width="484" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs/>
+    <g transform="translate(-396.00,-169.00)">
+        <g id="shape1" transform="translate(511.00,288.00)">
+            <path fill="#ffffff" d="M.0,.0L132.0,.0L132.0,28.0L.0,28.0L.0,.0z" stroke="#323232" fill-rule="nonzero"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="22.5" y="19.5">Spanish writer</tspan>
+            </text>
+        </g>
+        <g id="shape2" transform="translate(397.00,350.00)">
+            <path fill="#ffffff" d="M.0,.0L132.0,.0L132.0,28.0L.0,28.0L.0,.0z" stroke="#323232" fill-rule="nonzero"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="18.0" y="19.5">Mexican carpas</tspan>
+            </text>
+        </g>
+        <g id="shape3" transform="translate(511.00,302.00)">
+            <path fill="none" d="M.0,.0L-48.0,.0L-48.0,42.0" stroke="#191919"/>
+            <path fill="#191919" stroke-linecap="round" stroke-width="1" d="M-45.0,42.0L-48.0,48.0L-51.0,42.0L-45.0,42.0" stroke="#191919"/>
+        </g>
+        <g id="shape4" transform="translate(614.00,237.00)">
+            <path fill="#ffffff" d="M.0,.0L236.0,.0L236.0,28.0L.0,28.0L.0,.0z" stroke="#323232" fill-rule="nonzero"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="9.0" y="19.5">Italian commedia dell’arte troupes</tspan>
+            </text>
+        </g>
+        <g id="shape5" transform="translate(614.00,251.00)">
+            <path fill="none" d="M.0,.0L-37.0,.0L-37.0,31.0" stroke="#191919"/>
+            <path fill="#191919" stroke-linecap="round" stroke-width="1" d="M-34.0,31.0L-37.0,37.0L-40.0,31.0L-34.0,31.0" stroke="#191919"/>
+        </g>
+        <path fill="none" id="shape6" stroke-dasharray="6,4" d="M.0,.0L388.0,.0L388.0,137.0L.0,137.0L.0,.0z" stroke="#323232" transform="translate(491.00,203.00)"/>
+        <g id="shape7" transform="translate(479.00,203.00)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="35.5" y="19.5">in Spain</tspan>
+            </text>
+        </g>
+        <g id="shape8" transform="translate(625.00,170.00)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="6.0" y="21.1">影响链条 传递方向</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,43 @@
+
+不保留本地的修改，直接覆盖
+git reset --hard
+git pull origin master
+
+
+
+----
+
+== 报错 error: The following untracked working tree files would be overwritten by merge
+
+解决:
+git clean -d -fx
+git pull origin master
+
+
+---
+
+
+== pull时报错: warning: Cannot merge binary files ... Automatic merge failed; fix conflicts and then commit the result.
+
+这个报错, 无法直接用 git reset --hard 来解决, 我们要如下带上参数, 才能解决:
+
+解决:
+git reset --hard FETCH_HEAD   //即完全放弃本地修改.
+git pull origin master
+
+
+
+
+---
+
+== pull时报错: Please move or remove them before you can merge
+
+解决:
+git clean -d -fx  //这是强制清除本地的未上传文件，清除后不可恢复，如果本地有重要文件未上传，慎用！
+git pull origin master
+
+---
+
+== 强制 push
+
+git push -u origin master -f

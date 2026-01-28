@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="772" xmlns:xlink="http://www.w3.org/1999/xlink" height="492" viewBox="0 0 772 492">
+    <defs/>
+    <g transform="translate(-117.00,-169.00)">
+        <path fill="none" id="shape1" transform="translate(118.00,170.00)" d="M.0,.0L770.0,.0L770.0,473.0L.0,473.0L.0,.0z" stroke="#afafaf"/>
+        <g id="shape2" transform="translate(227.00,189.00)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="4.0" y="19.0">Although `主` fiction `谓`  </tspan>
+                <tspan x="162.0" style="font-weight:bold">assuredly springs from</tspan>
+                <tspan x="313.0"> </tspan>
+                <tspan x="4.0" y="38.0">political circumstances, </tspan>
+                <tspan x="4.0" y="76.0">`主` its authors `谓` </tspan>
+                <tspan x="123.0" style="font-weight:bold">react (v.) to</tspan>
+                <tspan x="201.0"> those circumstances </tspan>
+                <tspan x="4.0" y="95.0">方式状 in ways 后定说明  </tspan>
+                <tspan x="156.0" style="font-weight:bold">other than</tspan>
+                <tspan x="225.0"> ideological, </tspan>
+                <tspan x="4.0" y="133.0">and `主` </tspan>
+                <tspan x="56.0" style="fill:#42c181">talking about</tspan>
+                <tspan x="137.0"> novels and stories </tspan>
+                <tspan x="255.0" style="font-weight:bold">primarily</tspan>
+                <tspan x="316.0"> </tspan>
+                <tspan x="320.0" style="font-weight:bold">as</tspan>
+                <tspan x="334.0"> </tspan>
+                <tspan x="4.0" y="152.0">instruments of ideology  (</tspan>
+                <tspan x="162.0" style="fill:#42c181">动名词短语</tspan>
+                <tspan x="227.0">)</tspan>
+                <tspan x="4.0" y="171.0">`谓` circumvents (v.)  much of the fictional enterprise. </tspan>
+                <tspan x="4.0" y="190.0">小说事业的许多部分/本质</tspan>
+            </text>
+        </g>
+        <g id="shape3" transform="translate(586.00,303.00)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="4.0" y="19.0">← 它不是和某个单词或短语并列，而是和一个</tspan>
+                <tspan x="4.0" y="38.0">完整的主句并列。</tspan>
+                <tspan x="4.0" y="57.0">准确地说，是：</tspan>
+                <tspan x="4.0" y="76.0">[its authors react...]and [talking about </tspan>
+                <tspan x="4.0" y="95.0">novels... circumvents...]</tspan>
+                <tspan x="4.0" y="133.0">所以，and连接了两个完整的观点：</tspan>
+                <tspan x="4.0" y="152.0">- 观点一（关于作者）： 作者的反应方式是非意</tspan>
+                <tspan x="4.0" y="171.0">识形态的。</tspan>
+                <tspan x="4.0" y="190.0">- 观点二（关于批评方法）： （因此）将小说主</tspan>
+                <tspan x="4.0" y="209.0">要当作意识形态工具来谈论，会错过小说的核</tspan>
+                <tspan x="4.0" y="228.0">心。</tspan>
+                <tspan x="4.0" y="266.0">逻辑关系：这两个观点是递进和因果关系。</tspan>
+            </text>
+        </g>
+        <g id="shape4" transform="translate(213.00,340.00)">
+            <path fill="none" d="M.0,.0L-66.0,.0L-66.0,-76.0L-6.0,-76.0" stroke="#191919"/>
+            <path stroke-linecap="round" fill="#191919" stroke-width="1" d="M-6.0,-79.0L.0,-76.0L-6.0,-73.0L-6.0,-79.0" stroke="#191919"/>
+            <rect width="39.0" fill="#ffffff" x="-79.5" height="19.0" y="-44.5"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="-79.5" y="-29.5">并列句</tspan>
+            </text>
+        </g>
+        <g id="shape5" transform="translate(303.00,454.00)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="4.0" style="fill:#42c181" y="19.0">为什么 “talking” 要用动名词？</tspan>
+                <tspan x="4.0" y="38.0">核心原因：当一个动词需要充当一个句子</tspan>
+                <tspan x="4.0" y="57.0">的“主语”或“宾语”等名词性成分时，就</tspan>
+                <tspan x="4.0" y="76.0">必须使用它的名词形式——动名词 (-ing) 或</tspan>
+                <tspan x="4.0" y="95.0">不定式 (to do)。</tspan>
+                <tspan x="4.0" y="133.0">Talking about novels... circumvents </tspan>
+                <tspan x="4.0" y="152.0">much...</tspan>
+                <tspan x="4.0" y="171.0">(谈论小说... 这一行为 绕开了... )</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

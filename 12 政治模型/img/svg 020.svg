@@ -1,0 +1,166 @@
+<svg width="755" viewBox="0 0 755 559" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="559">
+    <defs/>
+    <g transform="translate(-471.00,0.00)">
+        <g id="shape1" transform="translate(472.00,57.00)">
+            <path stroke-opacity="0.00" d="M753.0,340.0L753.0,.0L.0,.0L.0,340.0L753.0,340.0z" fill="#d7d7d7" stroke="#000000" fill-rule="nonzero"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="19.0" x="337.5">类似英国国会</tspan>
+            </text>
+        </g>
+        <g id="shape2" transform="translate(926.33,470.00)">
+            <path d="M120.0,54.0L120.0,.0L.0,.0L.0,54.0L120.0,54.0z" fill="#d0d9f1" stroke="#323232" fill-rule="nonzero"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="23.0" x="40.5">执政官</tspan>
+                <tspan y="42.0" x="17.0">(代表君主因素)</tspan>
+            </text>
+        </g>
+        <g id="shape3" transform="translate(511.00,136.29)">
+            <path d="M264.0,203.4L264.0,.0L.0,.0L.0,203.4L264.0,203.4z" fill="#fedad0" stroke="#323232" fill-rule="nonzero"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="19.0" x="112.5">元老院</tspan>
+                <tspan y="38.0" x="89.0">(代表贵族因素)</tspan>
+            </text>
+        </g>
+        <g id="shape4" transform="translate(919.00,139.40)">
+            <path d="M286.7,200.3L286.7,.0L.0,.0L.0,200.3L286.7,200.3z" fill="#b0ddc1" stroke="#323232" fill-rule="nonzero"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="19.0" x="117.3">平民大会</tspan>
+                <tspan y="38.0" x="93.8">(代表民主制因素)</tspan>
+            </text>
+        </g>
+        <g id="shape5" transform="translate(986.33,316.00)">
+            <path d="M.0,.0L-0.0,148.0" fill="none" stroke="#191919"/>
+            <path stroke-linecap="round" d="M3.0,148.0L-0.0,154.0L-3.0,148.0L3.0,148.0" stroke-width="1" fill="#191919" stroke="#191919"/>
+            <rect y="60.6" x="-18.5" width="39.0" fill="#ffffff" height="19.0"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="75.6" x="-18.5">选举出</tspan>
+            </text>
+        </g>
+        <g id="shape6" transform="translate(1046.33,470.00)">
+            <path d="M152.0,54.0L152.0,.0L.0,.0L.0,54.0L152.0,54.0z" fill="#ffffff" stroke="#323232" fill-rule="nonzero"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="23.0" x="35.0">→ 临时独裁官</tspan>
+                <tspan y="42.0" x="13.5">(国家进入紧急状态时)</tspan>
+            </text>
+        </g>
+        <g id="shape7" transform="translate(603.50,102.00)">
+            <path d="M.0,.0L79.0,.0L79.0,30.0L.0,30.0L.0,.0z" fill="none" stroke="#000000"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="20.5" x="7.0">类似上议院</tspan>
+            </text>
+        </g>
+        <g id="shape8" transform="translate(1017.00,102.00)">
+            <path d="M.0,.0L79.0,.0L79.0,30.0L.0,30.0L.0,.0z" fill="none" stroke="#000000"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="20.5" x="7.0">类似下议院</tspan>
+            </text>
+        </g>
+        <g id="shape9" transform="translate(946.83,528.00)">
+            <path d="M.0,.0L79.0,.0L79.0,30.0L.0,30.0L.0,.0z" fill="none" stroke="#000000"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="20.5" x="13.5">类似首相</tspan>
+            </text>
+        </g>
+        <g id="shape10" transform="translate(548.00,263.00)">
+            <path d="M.0,27.0C.0,12.1,12.1,.0,27.0,.0C41.9,.0,54.0,12.1,54.0,27.0C54.0,41.9,41.9,54.0,27.0,54.0C12.1,54.0,.0,41.9,.0,27.0z" fill="#ffffff" stroke="#323232" fill-rule="nonzero"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:8.00pt" xml:space="preserve">
+                <tspan y="23.0" x="16.0">政府</tspan>
+                <tspan y="39.0" x="10.5">预算权</tspan>
+            </text>
+        </g>
+        <g id="shape11" transform="translate(630.50,246.00)">
+            <path d="M.0,56.0C.0,25.1,25.1,.0,56.0,.0C86.9,.0,112.0,25.1,112.0,56.0C112.0,86.9,86.9,112.0,56.0,112.0C25.1,112.0,.0,86.9,.0,56.0z" fill="#ffffff" stroke="#323232" fill-rule="nonzero"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:8.00pt" xml:space="preserve">
+                <tspan y="36.0" x="17.5">最高司法审判权</tspan>
+                <tspan y="52.0" x="4.5">(相当于把美国最高法</tspan>
+                <tspan y="68.0" x="6.5">院的权力也握在自己</tspan>
+                <tspan y="84.0" x="37.5">手里了)</tspan>
+            </text>
+        </g>
+        <g id="shape12" transform="translate(959.33,262.00)">
+            <path d="M.0,27.0C.0,12.1,12.1,.0,27.0,.0C41.9,.0,54.0,12.1,54.0,27.0C54.0,41.9,41.9,54.0,27.0,54.0C12.1,54.0,.0,41.9,.0,27.0z" fill="#ffffff" stroke="#323232" fill-rule="nonzero"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:8.00pt" xml:space="preserve">
+                <tspan y="23.0" x="10.5">选举出</tspan>
+                <tspan y="39.0" x="10.5">执政官</tspan>
+            </text>
+        </g>
+        <g id="shape13" transform="translate(1118.00,262.00)">
+            <path d="M.0,27.0C.0,12.1,12.1,.0,27.0,.0C41.9,.0,54.0,12.1,54.0,27.0C54.0,41.9,41.9,54.0,27.0,54.0C12.1,54.0,.0,41.9,.0,27.0z" fill="#ffffff" stroke="#323232" fill-rule="nonzero"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:8.00pt" xml:space="preserve">
+                <tspan y="31.0" x="5.0">颁布法律</tspan>
+            </text>
+        </g>
+        <g id="shape14" transform="translate(1035.33,189.00)">
+            <path d="M.0,27.0C.0,12.1,12.1,.0,27.0,.0C41.9,.0,54.0,12.1,54.0,27.0C54.0,41.9,41.9,54.0,27.0,54.0C12.1,54.0,.0,41.9,.0,27.0z" fill="#2e8d5d" stroke="#323232" fill-rule="nonzero"/>
+            <text style="fill:#ffffff;font-family:Microsoft YaHei;font-size:8.00pt" xml:space="preserve">
+                <tspan y="23.0" x="10.5">(主席:)</tspan>
+                <tspan y="39.0" x="10.5">保民官</tspan>
+            </text>
+        </g>
+        <g id="shape15" transform="translate(1035.33,216.00)">
+            <path d="M.0,.0L-62.3,.0L-62.3,-65.0L-6.0,-65.0" fill="none" stroke="#2e8d5d"/>
+            <path stroke-linecap="round" d="M-6.0,-68.0L.0,-65.0L-6.0,-62.0L-6.0,-68.0" stroke-width="1" fill="#2e8d5d" stroke="#2e8d5d"/>
+            <rect y="-45.1" x="-83.3" width="44.0" fill="#ffffff" height="16.0"/>
+            <rect y="-29.1" x="-83.3" width="44.0" fill="#ffffff" height="16.0"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:8.00pt" xml:space="preserve">
+                <tspan y="-33.1" x="-83.3">有权召开</tspan>
+                <tspan y="-17.1" x="-83.3">平民大会</tspan>
+            </text>
+        </g>
+        <g id="shape16" transform="translate(1089.33,216.00)">
+            <path d="M.0,.0L.0,-3.0L55.7,-3.0L55.7,40.0" fill="none" stroke="#2e8d5d"/>
+            <path stroke-linecap="round" d="M58.7,40.0L55.7,46.0L52.7,40.0L58.7,40.0" stroke-width="1" fill="#2e8d5d" stroke="#2e8d5d"/>
+            <rect y="6.9" x="23.7" width="66.0" fill="#ffffff" height="16.0"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:8.00pt" xml:space="preserve">
+                <tspan y="18.9" x="23.7">有权立法动议</tspan>
+            </text>
+        </g>
+        <g id="shape17" transform="translate(1059.20,242.82)">
+            <path d="M.0,.0L.0,195.2L-46.7,195.2L-46.7,221.2" fill="none" stroke="#2e8d5d"/>
+            <path stroke-linecap="round" d="M-43.7,221.2L-46.7,227.2L-49.7,221.2L-43.7,221.2" stroke-width="1" fill="#2e8d5d" stroke="#2e8d5d"/>
+            <rect y="105.0" x="-21.0" width="44.0" fill="#ffffff" height="16.0"/>
+            <rect y="121.0" x="-43.0" width="88.0" fill="#ffffff" height="16.0"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:8.00pt" xml:space="preserve">
+                <tspan y="117.0" x="-21.0">有权否决</tspan>
+                <tspan y="133.0" x="-43.0">执政官颁布的命令</tspan>
+            </text>
+        </g>
+        <g id="shape18" transform="translate(1041.53,233.21)">
+            <path d="M.0,.0L-234.5,.0L-234.5,-0.1L-260.5,-0.1" fill="none" stroke="#2e8d5d"/>
+            <path stroke-linecap="round" d="M-260.5,2.9L-266.5,-0.1L-260.5,-3.1L-260.5,2.9" stroke-width="1" fill="#2e8d5d" stroke="#2e8d5d"/>
+            <rect y="-16.0" x="-224.5" width="77.0" fill="#ffffff" height="16.0"/>
+            <rect y="0.0" x="-213.5" width="55.0" fill="#ffffff" height="16.0"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:8.00pt" xml:space="preserve">
+                <tspan y="-4.0" x="-224.5">有权否决元老院</tspan>
+                <tspan y="12.0" x="-213.5">颁布的命令</tspan>
+            </text>
+        </g>
+        <g id="shape19" transform="translate(919.00,177.86)">
+            <path d="M.0,.0L-112.0,.0L-112.0,-0.1L-138.0,-0.1" fill="none" stroke="#191919"/>
+            <path stroke-linecap="round" d="M-138.0,2.9L-144.0,-0.1L-138.0,-3.1L-138.0,2.9" stroke-width="1" fill="#191919" stroke="#191919"/>
+            <rect y="-16.0" x="-104.5" width="66.0" fill="#ffffff" height="16.0"/>
+            <rect y="0.0" x="-93.5" width="44.0" fill="#ffffff" height="16.0"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:8.00pt" xml:space="preserve">
+                <tspan y="-4.0" x="-104.5">拥有对元老院</tspan>
+                <tspan y="12.0" x="-93.5">的否决权</tspan>
+            </text>
+        </g>
+        <g id="shape20" transform="translate(747.54,339.71)">
+            <path d="M.0,.0L.0,157.3L172.8,157.3" fill="none" stroke="#191919"/>
+            <path stroke-linecap="round" d="M172.8,154.3L178.8,157.3L172.8,160.3L172.8,154.3" stroke-width="1" fill="#191919" stroke="#191919"/>
+            <rect y="128.8" x="43.0" width="78.0" fill="#ffffff" height="19.0"/>
+            <rect y="147.8" x="43.0" width="78.0" fill="#ffffff" height="19.0"/>
+            <rect y="166.8" x="30.0" width="104.0" fill="#ffffff" height="19.0"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="143.8" x="43.0">执政官颁布的</tspan>
+                <tspan y="162.8" x="43.0">各种重要事项</tspan>
+                <tspan y="181.8" x="30.0">都需要元老院同意</tspan>
+            </text>
+        </g>
+        <g id="shape21" transform="translate(788.50,1.00)">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="33.5" x="21.0">古罗马共和国</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,1288 @@
+
+= 351-400 句
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../../myAdocCss.css
+
+'''
+
+
+== 释义
+
+
+- 351. `主` Virginia Woolf's #provocative (a.) statement# /about her intentions 后定说明 in writing (v.) Mrs. Dalloway  /`谓` #has regularly been ignored# by the critics, /since it highlights (v.) _an aspect_ of her literary interests /_very different from_ the traditional picture of _the “poetic” novelist /后定说明 **concerned with**_ examining (v.) states of reverie and vision /_**and with**_ following (v.) the intricate (a.) pathways of individual consciousness.
+
+image:/img/svg 351.svg[,100%]
+
+
+[.my1]
+.案例
+====
+- 351. `主` _Virginia Woolf_'s #provocative (a.)挑衅的；煽动性的；挑逗的，激发性欲的；引发思考的，启发性的 statement#  声明，报告/about her intentions  (n.)目的，意向，意图；打算 in writing (v.) Mrs. Dalloway 小说名 /`谓` #has regularly been ignored# by the critics 评论家；批评者；吹毛求疵的人, /since 因为 `主` #it `谓` highlights# (v.)突出,强调 an aspect of her literary interests 文学兴趣 /*very different from* the traditional picture 传统的形象,描绘 of the “poetic” (a.)诗歌的；充满诗情画意的，富有想象力的 novelist 小说家 /后定说明 ① #*concerned (v.) with*# 与…有关；涉及;关注于,专注于 examining (v.) states of reverie (n.)幻想；白日梦 and vision 幻觉、景象 / ② #and *with*# following (v.) the intricate (a.)复杂的；错综复杂的 pathways of individual consciousness (个体意识) 追随个体意识的复杂路径.
+
+
+弗吉尼亚·伍尔夫关于她在创作《达洛维夫人》时的意图, 所作的引人深思的声明，一直被评论家们忽视，因为该声明突出地展现了她文学兴趣的一个方面，而这个方面, 与传统上“诗意”小说家——那种专注于审视梦幻和幻觉状态、并追随个体意识复杂路径的——的形象, 大相径庭。
+
+原书作者翻译: +
+评论家一贯忽视了Virginia Woolf在《戴洛维夫人》一书中有关创作意图的具有挑衅意味的言论。因为它强调了她文学兴趣的一个方面，她的这种兴趣不同于传统的关于“诗意”小说家的理解，这些传统的“诗意”小说家所关注的是审视白日梦和幻影的状态, 并且关注通向个体意识的复杂道路。
+
+.Virginia Woolf (弗吉尼亚·伍尔夫)
+
+20世纪英国著名的现代主义（Modernist）作家，是意识流小说的主要倡导者和实践者之一。她的作品以其深刻的心理描写、独特的叙事技巧和对女性经验的关注而闻名。
+
+.Mrs. Dalloway (《达洛维夫人》)
+
+弗吉尼亚·伍尔夫的代表作之一.
+
+._Intricate (a.) Pathways_ of _Individual Consciousness_ (个体意识的复杂路径)
+
+这是意识流（Stream of Consciousness）小说的核心特征。它指的是小说通过模拟人类思维的非线性、跳跃性、多层次的流动过程, 来展现人物的内心世界，而非传统的线性叙事。伍尔夫是这方面的先驱。
+
+
+
+
+
+====
+
+- 352. The physicist rightly dreads precise argument, since an argument that is convincing only if it is precise loses all its force if the assumptions on which it is based are slightly changed, whereas an argument that is convincing though imprecise may well be stable under small perturbations of its underlying assumptions.
+
+image:/img/svg 352.svg[,100%]
+
+
+[.my1]
+.案例
+====
+- 352. `主` The physicist 物理学家 `谓` rightly 正当地；理由充分地 dreads (v.)害怕，担忧 _precise argument_ (论据；理由；论点) 精确的论证, /since 因为 `主` #an argument# /that is convincing (a.)令人信服的，有说服力的  /表条件 only if it is precise /`谓` #loses (v.) all its force# /if `主` the assumptions  假定，设想 /*on* which it *is based* /`谓` are slightly 稍微，轻微地 changed (v.), /whereas （表示对比）但是，然而 `主` #an argument# /that is convincing (a.) /though 虽然，尽管 imprecise  (a.)不精确的；不严密的/ `谓` #may well be stable#  (a.)稳定的，牢固的 /under small perturbations (n.)扰动；干扰 of its underlying (a.)根本的，潜在的；表面下的，下层的 assumptions.
+
+#*物理学家, 理所当然地畏惧"精确的论证"，因为一个"只有在精确时才令人信服的论证"，一旦其所基于的假设略微改变，就会失去全部力量；然而，一个尽管不精确, 却依然令人信服的论证，在其基本假设发生微小扰动时，却很可能保持稳定。*#
+
+这句话的核心思想, 是物理学（以及许多科学领域）中, 模型和理论的"鲁棒性"（robustness）。
+
+物理学家**警惕那种"过度依赖特定精确条件的论证"。**
+这种论证看似完美，但其有效性, 建立在极其严格且可能难以完全验证的假设之上。**而在现实世界中，任何物理模型的假设, 都只是对复杂现实的简化。因此如果一个理论的结论, 对这些简化假设的微小变动, 极其敏感，那么它在实际应用中, 就非常不可靠，**其解释力也大打折扣。物理学家知道, 他们的模型总会是近似的，基础假设总会有些许偏差。
+
+物理学家更推崇的品质：鲁棒性（robustness）。
+
+“不精确却依然令人信服”： 这指的是在一定误差范围内，或者在某种简化模型下，理论依然能够解释现象、做出预测，并且具有直观的物理图像。它可能没有数学上的绝对精确，但在物理概念上是深刻和有力的。
+
+**“在其基本假设发生微小扰动时，却很可能保持稳定”： 这是鲁棒性的关键。**这意味着即使我们对现实的简化有所偏差，或者测量数据存在少量误差，理论的预测和解释能力也不会崩溃。它能在一定的不确定性下依然有效。
+
+总结： 物理学追求的不是纸面上的完美精确，而是在一定误差和不确定性下, 仍然能有效运作的理论。**一个对初始条件或假设极度敏感的“精确”理论，在真实世界的复杂性和不确定性面前, 往往不堪一击。**相反，一个能承受一些“模糊性”和“近似性”的理论，反而更能揭示自然的本质。
+====
+
+- 353. Is _it_ not tyrannical (a.), in Pascal's sense, _to insist (v.) that_ /`主` #those# who *excel (v.) in* “_sensitivity_” or “_the ability_ to express (v.) compassion” /`谓`  *#merit (v.) equal wealth /with#* those who *excel (v.) in* _qualities_ (插入语 such as “the capacity for hard work”) 后定说明 _essential_ (a.) in producing (v.) wealth?
+
+image:/img/svg 353.svg[,100%]
+
+
+[.my1]
+.案例
+====
+- 353. Is it not tyrannical  (a.)残暴的；暴君的；专横的, in Pascal's sense （对重大事情的）感觉，意识, to insist (v.) that /`主` #those# who *excel (v.)擅长；善于；突出 in* “_sensitivity_” （对细节或质量的）感知，觉察；（对新情况的）灵敏度；敏感 /_or “the ability_ to express (v.) compassion” (n.)同情，怜悯 /`谓` #merit (v.)值得,应受；应受赏（或罚） equal wealth# /with those who *excel (v.) in* _qualities_ 品级；品质；特性 (such as “the capacity for hard work”) 后定说明 _essential_ (a.)必不可少的，非常重要的 in producing (v.) wealth?
+
+在帕斯卡看来，坚持让那些在“敏感性”或“表达同情心能力”方面表现出色的人，与 在（例如“勤奋工作能力”等）创造财富方面至关重要的品质上表现出色的人, 获得同等财富，难道不是一种暴政吗？
+
+
+.excel
+[ V] *~ (in/at sth/at doing sth)* : to be very good at doing sth 擅长；善于；突出 +
+•She has always *excelled in* foreign languages. 她的外语从来都是出类拔萃。 +
+•The team *excels at* turning defence into attack. 这个队善于打防守反击。 +
+•As a child he *excelled at* music and art. 他小时候擅长音乐和美术。 +
+
+
+
+这句话提出了一个深刻的财富分配和社会公平问题，并引用了帕斯卡的哲学思想, 来加重其批判性。
+
+1.帕斯卡（Blaise Pascal）的“暴政”观：
+
+- 帕斯卡是17世纪法国的数学家、物理学家和哲学家。他的著作《思想录》（Pensées）中，讨论了人类理性、信仰和权力。
+
+- *在帕斯卡看来，“暴政”指的是将一套规则或标准, 不恰当地应用于不属于其范围的事物，或者说，用一种领域的特权, 去支配另一个领域。* +
+比如，一个数学家试图用其数学权威, 去指导绘画，或者**一个国王试图用武力, 去统治思想，这些在帕斯卡看来都是一种“暴政”。他认为每个领域都有其固有的、正当的权威范围。**
+
+2.原句中提出的核心问题：
+
+作者提出的疑问是: 如果强行用财富这一单一标准, 来衡量所有不同领域的贡献，或者强行将不直接创造物质财富的贡献, 与物质财富的创造者同等对待（在财富分配上），可能就是对不同领域内在价值的一种混淆和侵犯。
+
+这引发了关于社会应如何评价和奖励不同形式的价值的讨论：是只看物质贡献，还是也包括非物质贡献？如果包括，应该如何量化和分配？这触及了**功劳制（meritocracy）、平等主义（egalitarianism）和公正分配（distributive justice）**等复杂的社会哲学议题。
+====
+
+- 354. In the early 1950's, `主` #historians# /who studied preindustrial Europe (非限制性定语从句，用括号括起来，提供额外信息 which we may define (v.) here as Europe /in the period from roughly 1300 to 1800) / `谓` #began#, 插入语 for the first time /in large numbers, #to investigate# *more* of the preindustrial European population *than* the 2 or 3 percent /who comprised (v.) the political and social elite: (同位语) the kings, generals, judges, nobles, bishops, and local magnates /who *had* hitherto *usually filled* (v.) history books.
+
+image:/img/svg 354.svg[,100%]
+
+
+[.my1]
+.案例
+====
+- 354. In the early 1950's, `主` #historians# /who studied preindustrial (a.)工业化前的；未工业化的 Europe (非限制性定语从句，用括号括起来，提供额外信息 which we may *define* (v.) here *as* Europe /in the period from roughly 1300 to 1800) /`谓` #began#, #(插入语)# for the first time /in large numbers 首次以大量人数（或首次大规模地）进行此行动, /#to investigate# (v.) *#more#* of the preindustrial 工业化前的；未工业化的 European population *#than#* the 2 or 3 percent /who comprised (v.)组成；构成 the political and social elite 精英：/ #(同位语)# the kings, generals  将军；上将, judges, nobles, bishops 主教, and local magnates 大亨；巨头 /who *had* hitherto (ad.)迄今；到目前为止 usually *filled* (v.) history books 迄今为止通常占据历史书中.
+
+在20世纪50年代早期，研究前工业时代欧洲（我们在这里, 可以将其定义为大约1300年至1800年间的欧洲）的历史学家们，首次大规模地开始调查, 前工业欧洲人口中更广大的部分，而不仅仅是那占2%或3%、由国王、将军、法官、贵族、主教和地方权贵, 组成的政治和社会精英 ——这些人在那之前, 通常是历史书中的主要内容。
+
+简而言之： 这句话讲述了20世纪50年代，历史学界发生了一个重要转向：研究欧洲前工业史的学者们开始将目光投向更广泛的普通民众，而不是仅仅关注过去历史书中记载的少数上层精英。
+
+
+
+
+====
+
+- 355. `主` #A long-held view# of the history of English colonies /that became the United States /`谓`  #has been that# /`主` *England's policy* toward these colonies before 1763 /`谓` *was dictated* by commercial interests /#and that# `主` *a change* to a more imperial policy, dominated by _expansionist (a.) militarist (a.) objectives_, `谓` *generated* the tensions .that ultimately *led to* the American Revolution.
+
+
+image:/img/svg 355.svg[,100%]
+
+
+[.my1]
+.案例
+====
+- 355. `主` ##A long-held 长期持有的 view## of _the history_ of English colonies /that became the United States /`谓` ① #has been that# /`主` _England's policy_ toward these colonies before 1763 `谓` was dictated (v.)口述;（尤指以令人不快的方式）指使，强行规定 by 由……决定 _commercial interests_ 商业利益 /② #and that# `主` #a change# to _a more imperial 帝国的 policy_, /dominated (v.)控制，支配；处于支配地位 by _expansionist (a.n.)扩张主义的 militarist (a.n.)军国主义的 objectives_ 目标，目的, `谓` #generated# (v.) the tensions /that ultimately *led to* the American Revolution.
+
+关于"后来成为美国的 那些英国殖民地历史" 的一个长期观点是：1763年之前，英国对这些殖民地的政策, 是由商业利益所支配的；而后来, 政策转变为更具帝国主义色彩（并以扩张主义的军事目标为主导），这才产生了最终导致美国独立战争的紧张关系。
+
+
+====
+
+- 356. Thus, `主` what _in contrast to_ the Puritan colonies `谓` *appears to* Davis *to be* peculiarly Southern — 同位语 `主` #acquisitiveness#, a strong interest (n.) in politics and the law, and a tendency *to cultivate (v.) metropolitan (a.) cultural (a.) models* — `系` #was not only# *more* typically English *than* the cultural patterns /exhibited (v.) by Puritan Massachusetts and Connecticut, #but also# almost certainly characteristic (n.) of most other early modern British colonies /*from* Barbados north *to* Rhode Island and New Hampshire.
+
+[.my1]
+.案例
+====
+- 356. Thus 因此、从而(引出结论或推论), `主` what *in contrast to* 与……形成对比；与……相反 the Puritan (a.)清教徒的，清教主义的 colonies /`谓` *appears to* Davis *to be* peculiarly Southern 在戴维斯看来，这些特征显得​​特别具有南方独特性 — (由破折号引导的同位语) `主` #acquisitiveness# (n.)占有欲;贪婪；物欲, _a strong interest_ (n.) in politics and the law, and a tendency 经常性行为，偏好；趋势，趋向 *to cultivate* (v.)开垦，耕作；栽培，培育 _metropolitan (a.)大都市的 cultural (a.)文化的，与文化有关的 models_ (都市文化模式) 培养都市文化模式的倾向 — `系` #was *not only*# *more* typically English 典型的英国式 *than* the _cultural patterns_ 文化模式 exhibited (v.)展出；表现出 by Puritan Massachusetts and Connecticut, #*but also*# almost certainly characteristic (n.)特征，特点，特色 of most other _early modern British colonies_ /*from* Barbados north *to* Rhode Island and New Hampshire.
+
+
+“因此，戴维斯认为, 与清教徒殖民地形成鲜明对比、独具南方特色的那些方面——比如贪婪、对政治和法律的强烈兴趣、以及培养都市文化模式的倾向——不仅比清教徒马萨诸塞州和康涅狄格州所展现的文化模式, 更具典型的英式特征，而且几乎可以肯定地, 也是从巴巴多斯往北, 直到罗德岛和新罕布什尔州的 大多数其他早期现代英国殖民地 的共同特点。”
+
+简而言之： 这句话的核心观点是，戴维斯认为, 南方殖民地的某些“独特”特征（如追求财富、关注政治法律、模仿都市文化），实际上在更广阔的视角下，不仅比清教徒殖民地更接近英国本土文化，而且也是其他许多早期英国殖民地的普遍特征，并非南方独有。
+
+.appears to Davis *to be* peculiarly Southern: 从句的谓语动词短语。 +
+#*appears to X to be Y：对X来说，Y似乎是……*#   +
+本句的意思是 : 在戴维斯（Davis）看来，这些特征显得​​特别具有南方独特性​​。 +
+
+appears to Davis​​“在戴维斯看来/戴维斯认为” +
+to be peculiarly Southern 表示“特有的南方特色”。指“​​南方特有的​​”（即其他地区没有的）。
+
+在上下文中的完整含义：​​ +
+戴维斯认为，某些特征（如对财富的追求、热衷政治与法律、模仿都市文化）是​​美国南方殖民地独有的​​（与北方清教徒殖民地形成对比）。但作者随后反驳：这些特征其实​​更接近英国主流文化​​，且普遍存在于其他早期英国殖民地（如巴巴多斯、罗德岛等）。
+
+- 戴维斯的观点​​： +
+南方殖民地文化（如弗吉尼亚） vs 清教徒殖民地（如马萨诸塞） +
+他认为南方文化有​​独特性​​（ peculiarly Southern）。 +
+
+- 作者的反驳​​： +
+这些特征​​并非南方独有​​： +
+更符合​​英国本土文化​​（more typically English）； +
+也存在于​​其他英国殖民地​​（从加勒比的巴巴多斯, 到北方的罗德岛）。 +
+
+为什么用 "appears to" 而非 "is"？​​ +
+​​#*appears to​​ 暗示作者对Davis观点的​​保留态度​​（后文会做反驳）。*#
+类似中文的“看似……实则……”。
+
+
+​​Puritan colonies​​（清教徒殖民地）：
+指新英格兰地区（如马萨诸塞、康涅狄格），以宗教严格、重视社区为特点。 +
+​​Southern colonies​​（南方殖民地）：
+如弗吉尼亚、南卡罗来纳，以种植园经济、贵族文化为特点。 +
+​​metropolitan cultural models​​（都市文化模式）：
+指模仿英国伦敦的精英生活方式（如礼仪、建筑、教育）。
+
+翻译建议： +
+因此，戴维斯眼中那些与清教徒殖民地形成鲜明对比、​​看似南方独有的特征​​——对财富的追求、对政治与法律的强烈兴趣，以及效仿"都市文化"的倾向——其实不仅比清教徒主导的马萨诸塞和康涅狄格的文化模式​​更符合英国传统​​，而且几乎肯定是其他大多数早期英国殖民地（从巴巴多斯向北至罗德岛和新罕布什尔）的普遍特征。
+
+====
+
+
+- 362. `主` _The “deindustrialization” thesis_ of Bluestone and Harrison `谓` asserts (v.) that /`主` #the replacement# of domestic #with# foreign manufacturing /后定说明 begun by United States corporations in the late 1960s /`谓` #resulted in# a “hollowing out” of American industry, /whereby `主` #workers# 后定说明 displaced from _manufacturing jobs_ /through _massive plant closings_ (n.) /`谓`  #found (v.) themselves# *moving* (v.) more or less permanently *into* _lower-paying (a.), less secure (a.) jobs_ *or into* unemployment.
+
+image:/img/svg 362.svg[,100%]
+
+
+[.my1]
+.案例
+====
+- 362. `主` #The “deindustrialization”  (国家或地区)限制工业化 thesis# 论点；命题 of Bluestone and Harrison `谓` #asserts (v.)断言,主张 that# /`主` _##the replacement##_ of domestic _with_ foreign manufacturing 用国外制造业取代国内制造业 /begun by United States corporations 公司，企业 in the late 1960s /`谓` #resulted in# a “hollowing (v.) out” 挖空（某物）；挖出（孔、洞） of American industry, whereby  凭此，借此；通过 which `主` #workers# /后定说明 displaced (v.)取代；替代；置换 from manufacturing jobs 制造业工作 through massive plant closings  (n.（工厂、学校等的）关闭；倒闭) 大量工厂关闭  /`谓`  #found#  (v.)  themselves *moving* (v.) more or less permanently 或多或少永久地 *into* lower-paying, less secure (a.) jobs 低薪、不稳定的工作 or *into* unemployment.
+
+布鲁斯通和哈里森的“去工业化”论点主张：美国企业在20世纪60年代末期开始的 "用国外制造业, 取代国内制造业"的做法，导致了美国工业的“空心化”；由此，那些因大规模工厂倒闭而失去制造业工作的工人, 发现自己或多或少 永久地转入了收入更低、更不稳定的工作，或者陷入了失业。
+
+====
+
+- 363. Pocock's assertion that Jefferson's attacks on the commercial policies of the Federalists simply echo the language of the Tory opposition in England is at odds with the fact that Jefferson rejected the elitist implications of that group's notion of virtue and asserted the right of all to participate in commercial society.
+
+
+
+[.my1]
+.案例
+====
+- 363. Pocock's assertion 断言；主张 that Jefferson's attacks on the commercial policies of the Federalists simply echo 呼应；效仿 the language of the Tory opposition in England is at odds with 与……不一致 the fact that Jefferson rejected the elitist 精英主义的 implications of that group's notion of virtue and asserted the right of all to participate in commercial society.
+
+====
+
+- 364. Herbert Shaw argues that /because `主` scientists have underestimated (v.) the input of _substantial amounts of_ energy /后定说明 from _extraterrestrial impactors_ (asteroids and comets 后定说明 striking (v.) Earth), they have difficulty (n.) 后定说明 *accounting for* the difference /*#between#* _the quantity of energy_ 后定说明 produced from sources 后定说明 *intrinsic (a.) to* Earth /*#and#* that 后定 involved in plate tectonics.
+
+image:/img/svg 364.svg[,100%]
+
+
+[.my1]
+.案例
+====
+- 364. Herbert Shaw argues that /because scientists have underestimated (v.)低估，对……估计不足；轻视 the input of _substantial  大量的，价值巨大的 amounts of energy_ 大量能量的输入 from _extraterrestrial 地球外的 impactors_ 撞击物 (同位语 asteroids 小行星 and comets 彗星 后定说明 striking (v.) Earth), they have difficulty (n.)  *accounting for* 解释；说明 the difference /*between* _the quantity of energy_ 后定说明  produced from sources *intrinsic (a.)固有的；内在的 to*  Earth /*and* that involved in 牵涉到 plate tectonics ([建] 构造学，[地质] 构造地质学) 板块构造学.
+
+赫伯特·肖主张：由于科学家们低估了来自地外撞击体（撞击地球的小行星和彗星）所输入的大量能量，他们难以解释 地球内在能源产生的能量, 与涉及板块构造的能量 之间的差异。
+
+.they have difficulty accounting (v.) for the difference...
+have difficulty (in) doing something 是固定搭配，意为“在做某事方面有困难”。
+====
+
+- 365. Critiquing (v.) the movement's assumption /that lawyers can offer (v.) special insights into literature /that *deals with* legal matters, /`主`  Posner `谓` *points out that* /`主` writers of literature `谓` use (v.) the law loosely /#to convey# (v.) a particular idea /#or *as* a metaphor# for the workings of the society 后定说明 envisioned (v.) in their fiction.
+
+image:/img/svg 365.svg[,100%]
+
+
+[.my1]
+.案例
+====
+- 365. 状语 Critiquing (v.)批评；评论 the movement's assumption (n.)假设,前提 /that `主` lawyers `谓` can offer (v.) special insights 洞察力；眼力；深刻见解 into literature 后定说明 that *deals with* legal matters 法律事务, /`主` #Posner `谓`  *points out that*# /`主` writers of literature 文学作家  `谓` use (v.) the law loosely /to convey (v.)传送，运输；表达，传递 a particular idea /or *as a metaphor* 隐喻 for _the workings of the society_ 社会的运作 后定说明 envisioned (v.)展望；想象 in their fiction 小说；虚构的事.
+
+波斯纳批判“法律与文学”运动中的“律师能对涉及法律事务的文学作品, 提供特殊见解”这一假设，同时指出，文学作家使用法律, 是松散的，旨在传达一个特定的思想，或是作为 他们虚构作品中所设想的社会运作的 一种隐喻。
+
+
+.Gemini 的解说:
+这句话的核心, 是法律与文学研究领域中的一个"方法论争议"。
+
+- “法律与文学运动”（Law and Literature movement）：这是一个跨学科领域，*研究法律与文学之间的关系，包括文学作品中的法律主题、法律制度对文学的影响、文学对法律思维的启发等。* +
+该运动的“假设”：*通常认为，由于律师对法律有专业的理解，他们能够比普通读者或文学评论家, 更深入地洞察文学作品中涉及法律的层面。*
+
+- 波斯纳（Posner）的批判：理查德·波斯纳（Richard Posner）是美国著名的法官和法律学者，对“法律与文学”运动有深入研究。他在这里批判的是上述假设的合理性。
+
+批判的理由：
+
+- 文学中法律的“松散使用”：*波斯纳指出，#文学作家在使用法律时，往往不像律师那样追求精确性、严谨性或法律条文的字面意义。他们关注的不是法律的实际运作或技术细节。#*
+
+- 文学的目的：*作家使用法律, 是为了达到文学目的：*
+.. *传达特定思想：法律可能成为表达作者哲学、道德或社会观点的工具。*
+.. *##作为社会运作的隐喻：法律制度或法律事件, 在小说中可能象征着社会的结构、权力关系、人性的冲突等。##它是一种艺术手法，而非对现实法律的忠实再现。*
+
+总结： 波斯纳认为，律师的专业法律知识, 在分析文学作品时可能作用有限，甚至可能误导，因为文学作品中的“法律”, 往往是服务于艺术表达和主题探讨的，而非法律本身的严格定义和应用。他强调了法律作为艺术素材, 与法律作为专业实践 之间的根本区别。
+
+
+
+
+====
+
+- 366. `主` One such _novel idea_ `系` is _that of_ *inserting (v.) [into* the chromosomes of plants] _discrete genes_ /that are not a part of the plants' natural constitution: specifically, the idea of *inserting [into* nonleguminous plants] _the genes_, if they can be identified and isolated, that fit (v.) the leguminous plants *to be* hosts (n.) for _nitrogen-fixing bacteria_. Hence, _the intensified (a.) research_ on legumes.
+
+image:/img/svg 366.svg[,100%]
+
+[.my1]
+.案例
+====
+- 366. One such novel 新颖的 idea is that of *#inserting# (v.) into* the chromosomes (n.)染色体 of plants _##discrete 离散的；不连续的 genes##_ (这里有倒装) /后定说明 that are not a part of the plants' natural constitution 构成；构造;组成；形成: (后面对部分可看做是一个同位语) specifically, the idea of *#inserting# (v.) into* nonleguminous 非豆科的 plants #the genes#, if they can be identified (v.) and isolated , 后定说明 that fit (v.)使……适合 the leguminous 豆科的 plants *to be* hosts 寄主，宿主 for _nitrogen-fixing bacteria_ 固氮细菌. Hence, _the intensified (a.)加强的；增强的 research_ 强化的研究 on legumes 豆科植物.
+
+其中一个新颖的想法是：将不属于植物天然构成的离散基因, 插入到植物的染色体中。具体来说，这个想法是指，如果能识别并分离出那些使"豆科植物"能够成为"固氮细菌宿主"的基因，就可以将其插入到"非豆科植物"中。因此，对豆科植物的研究得到了加强。
+
+.One such novel idea is #that of# inserting (v.)  ......
+​​that​​：指代前文的 ​​"novel idea"​​（避免重复名词）。 +
+​​of​​：表示“属于”或“关于”，引出该想法的​​具体内容​​。
+
+等效改写​​：
+One such novel idea is ​​_the idea​​ of_ inserting...
+（“这样一个新想法就是​​那个关于​​插入……的想法”）
+
+其他例句​:
+
+- The cost of electric cars is *much* higher *than* ​​_that of_​​ gasoline cars.
+（“电动汽车的成本比​​燃油车的​​高得多。”） +
+​​*that of​​ = the cost of*
+
+- Her teaching style is similar to ​​_that of_​​ her mentor.
+（“她的教学风格与她导师​​的​​相似。”） +
+​​*that of​​ = the teaching style of*
+
+总结​:  +
+#*​that of​​ = “关于……的（那个想法/事物）*#
+
+
+.#inserting# (v.) [into the chromosomes of plants] #discrete genes# /that are not ...
+*宾语倒装。inserting 的直接宾语为 discrete genes。*
+
+.the idea of #inserting# (v.) [into nonleguminous plants] #the genes#
+*宾语倒装。the genes 是 inserting 的直接宾语。*
+
+
+.legume
+-> #来自legere,收集，词源同collect#.因要把豆子用手择出来而得名。
+
+
+.Gemini 的讲解
+- *基因工程 (Genetic Engineering) / 转基因 (Transgenic Technology): 将目标基因从一个生物体中提取出来，经过处理后导入到另一个生物体中，从而改变受体生物体的性状。*
+
+- 染色体 (Chromosomes): 细胞核内携带有遗传信息（基因）的结构。
+
+- 豆科植物 (Leguminous Plants) 与固氮作用 (Nitrogen Fixation): **豆科植物（如大豆、花生、豌豆）的一个显著特征是, 它们能与根瘤菌（一种"固氮细菌"）形成"共生关系"。##根瘤菌在植物根部形成根瘤，将大气中植物无法直接利用的氮气,转化为氨，供植物生长，##而植物则为细菌提供生存环境和养分。**这种能力, 使得豆科植物在贫瘠土壤中也能生长良好，并且能提高土壤肥力，是农业生态系统中的重要组成部分。
+
+- 非豆科植物 (Nonleguminous Plants): 除了豆科植物以外的其他植物。#*大多数农作物（如玉米、小麦、水稻）是"非豆科植物"，它们无法像豆科植物那样"自然固氮"，需要大量施用氮肥。*#
+
+- “新颖的想法”： 句中提出的“新颖想法”吗是基因工程在农业领域的一个前沿构想——**##通过将豆科植物的"固氮基因"（或使其能与"固氮细菌"共生的基因）转移到非豆科植物中，使非豆科植物也具备"固氮能力"。##如果成功，这将显著减少对化肥的依赖，**对环境和农业生产都具有巨大意义。
+
+- “强化研究”： 正是由于这种潜在的巨大应用价值，使得科学家们对豆科植物自身的固氮机制, 进行了更深入、更集中的研究，以便更好地理解, 和最终复制这些关键基因，实现非豆科植物的固氮改造。
+
+====
+
+- 367. Some geologists, however, on the basis of observations concerning mantle xenoliths, argue that the mantle is not layered, but that heterogeneity is created by fluids rich in “incompatible elements” (elements tending toward liquid rather than solid state) percolating upward and transforming portions of the upper mantle irregularly, according to the vagaries of the fluids' pathways.
+
+[.my1]
+.案例
+====
+- 367. Some geologists, however, on the basis of observations concerning mantle xenoliths 地幔捕虏体, argue that the mantle is not layered, but that heterogeneity 非均质性；异质性 is created by fluids rich in “incompatible elements” (elements tending toward liquid rather than solid state) percolating 渗透；渗入 upward and transforming portions of the upper mantle irregularly, according to the vagaries 变幻莫测；反复无常 of the fluids' pathways.
+
+====
+
+- 368. It is possible /to make _specific complementary DNA_'s (cDNA's) 后定说明 that can *serve as* molecular probes /*to seek out* the messenger RNA's (mRNA's) of the peptide hormones.  +
+If `主` brain cells `谓` are making the hormones, the cells will contain (v.) these mRNA's.  +
+If `主` the products 后定说明 the brain cells make `谓` resemble (v.) the hormones /but are not identical (a.) to them, then the cDNA's should still *bind to* these mRNA's, but should not *bind* _as tightly as they would_ *to* mRNA's /for the true hormones.
+
+[.my1]
+.案例
+====
+- 368. It is possible /to make _specific complementary (a.)（基因序列、核苷酸等）互补的 DNA's_ (cDNA's) /that can *serve as* _molecular probes_ 分子探针 /to seek out _the messenger RNA_'s (mRNA's) of _the peptide 肽 hormones_ 肽激素.  +
+If _brain cells_ are making the hormones, the cells will contain (v.)包含，容纳 these mRNA's.  +
+If the products 后定说明 the _brain cells_ make `谓` resemble (v.) the hormones /but are not identical (a.)完全相同的；同一的 to them, then the cDNA's should still *#bind (v.) to#* these mRNA's, but should not *#bind#* (v.) *as tightly as* they would *#to#* mRNA's 后定说明 for the true hormones.
+
+
+可以制造出特定的互补DNA（cDNA），它们可以作为"分子探针"，用来寻找"肽激素"的信使RNA（mRNA）。如果脑细胞正在制造这些激素，那么这些细胞就会含有这些mRNA。如果脑细胞制造的产物, 与这些激素相似, 但并不完全相同，那么cDNA仍应该能与这些mRNA结合，但结合的紧密程度, 将不如它们与真实激素的mRNA结合得那么紧密。
+
+
+
+
+这段话描述了分子生物学中利用"核酸杂交"（Nucleic Acid Hybridization）技术, 来检测基因表达的原理，具体应用在激素研究中：
+
+- #*中心法则：DNA → mRNA → 蛋白质（激素）。细胞先根据DNA的指令, 合成mRNA，再由mRNA指导蛋白质（激素）的合成。*#
+
+- cDNA作为探针： +
+**cDNA（互补DNA） **是通过"逆转录酶", 以mRNA为模板合成的DNA片段。*它的碱基序列, 与目标mRNA的序列是互补的。 +*
+*##这种互补性, 使得cDNA能够作为"分子探针"，像一把钥匙一样, ##去“寻找”并“结合”到细胞中特定的mRNA上。*
+
+- 检测激素生产： +
+*如果脑细胞制造某种激素：说明该激素的基因, 在脑细胞中被表达了。表达的过程, 会产生该激素的mRNA。因此，#用该激素的cDNA探针, 去检测脑细胞，就能找到并结合到这些mRNA上。#*
+
+- 检测"相似但不完全相同的产物"： +
+如果脑细胞制造的产物, 与目标激素相似, 但并非完全相同（例如，只是部分序列相同，或者有小的变异）：
+.. cDNA仍然会结合：因为存在一定程度的互补性，cDNA仍然能够与这些“相似”的mRNA结合。
+.. 结合不那么紧密：由于序列不完全匹配，结合的强度（即杂交的稳定性）会降低，不如cDNA与完全互补的“真实”激素mRNA 结合得那么紧密。 +
++
+科学家可以通过调节结合（杂交）和洗脱的条件（如温度、盐浓度），来区分完全匹配和部分匹配的结合，从而判断细胞是制造了“真”激素，还是仅仅是“类似物”或有变异的产物。
+
+
+====
+
+- 369. `主` The increase /in the numbers of married women /employed outside the home /in the twentieth century /`谓` #*had less to do with*# the mechanization of housework /and _an increase in leisure time_ for these women /#*than it did with*# their own _economic necessity_ /#*and with*# high _marriage rates_ /that shrank (v.) _the available pool_ of single women workers, previously, in many cases, the only women 后定说明 employers would hire.
+
+[.my1]
+.案例
+====
+- 369. The increase /in the numbers of married women 已婚妇女 后定说明 _employed (v.) outside the home_ in the twentieth century /`谓` *#had less to do with#* 与……关系不大 _the mechanization 机械化 of housework_ and _an increase in leisure time_ for these women *#than it did with#* their own economic necessity 经济需求 /#*and with*# high marriage rates 高结婚率 /that shrank (v.)缩小；减少 _the available pool_ of single women workers, (同位语) previously, in many cases, the only women 后定说明 employers would hire.
+
+
+20世纪, 已婚女性外出就业人数的增加，与家务机械化以及这些女性闲暇时间的增多, 关系不大，而与她们自身的经济需求, 以及高结婚率的关系更大；高结婚率缩小了可用的单身女工劳动力池，而这些单身女工在此之前，在许多情况下，是雇主唯一会雇佣的女性。
+
+
+.The increase in the numbers of married women ... *had less to do with* the mechanization of housework ... *than it did with* their own economic necessity
+
+#*had less to do with X /than it did with Y: 这是一个固定搭配的比较结构，意为“与 X 的关系不大，而与 Y 的关系更大”。*#
+
+.previously, in many cases, the only women employers would hire.
+
+- employers would hire: **这是一个省略了关系代词 that/whom 的定语从句，修饰 women，**表示“雇主会雇佣的”。
+- would 表示过去的一种习惯或倾向。
+
+
+.核心观点
+这句话挑战了关于20世纪已婚女性进入职场原因的某些流行观念，提出了更深层的经济和社会驱动因素：
+
+驳斥的观点 (X)：
+
+- 家务机械化：人们可能认为，洗衣机、吸尘器等家用电器的普及大大减轻了家务负担，从而让女性有了更多时间外出工作。
+
+- 闲暇时间增加：认为女性因此有了更多闲暇，选择追求事业。
+
+真正的原因 (Y)：
+
+- 经济需求：这被认为是首要原因。家庭需要更多收入来维持或提高生活水平，促使已婚女性外出就业。
+
+- 高结婚率对劳动力市场的影响：
+.. 缩小了单身女工池：*过去，许多雇主倾向于只雇佣单身女性*（因为认为她们没有家庭负担、更稳定，或避免因怀孕而离职等）。*高结婚率意味着单身女性数量减少，导致这个传统的劳动力来源枯竭。*
+.. 迫使雇主改变雇佣策略：**由于单身女性劳动力不足，雇主不得不开始雇佣已婚女性，**从而打开了已婚女性就业的大门。
+
+
+
+====
+
+- 370. `主` _The Analytical Review_'s _rather arch dismissal_ (n.) of _novels by women_ `谓` has all too often *been reflected* (v.) in the literary histories of English fiction, where it has been popular /*to view* (v.) the rise of the novel *as* _the exclusive history_ of “the five greats” (Defoe, Richardson, Fielding, Smollett, and Sterne) /and to ignore (v.) /or _at best_ to minimize (v.) the contributions of eighteenth-century women novelists.
+
+[.my1]
+.案例
+====
+- 370. `主` _The Analytical 善于分析的；分析的，分析性的 Review_'s #rather  (ad.)颇，相当 arch (a.)调皮的；淘气的;傲慢自大的 dismissal# (n.)不予考虑，摒弃 of novels by women /`谓` #has# all too often *#been reflected#* (v.) in the literary histories 文学史 of English fiction, where it has been popular *to view* (v.) the rise of the novel *as* 将...视为 _the exclusive (a.)独有的，不含……的；排外的 history_ of “the five greats” (Defoe, Richardson, Fielding, Smollett, and Sterne) /and to ignore (v.) /or _at best_ 在最好的情况下,至多 to minimize (v.) the contributions of eighteenth-century women novelists.
+
+《分析评论》对女性小说那种故作高傲的轻蔑态度，太频繁地反映在了英国小说的文学史中；在这些文学史中，普遍流行将小说的兴起, 仅仅视为“五大巨匠”（笛福、理查森、菲尔丁、斯摩莱特和斯特恩）的专属历史，并因此忽视，或者至多是最小化了18世纪女性小说家的贡献。
+
+总结：
+作者指出，从《分析评论》时代开始，这种对女性小说带有偏见的看法（认为其不值得重视）一直延续到了后来的英国小说文学史中。结果是，文学史在描绘小说兴起时，只把男性作家作为核心，而系统性地忽视或贬低了18世纪女性小说家所扮演的角色和她们的贡献。
+
+.The Analytical Review 《分析评论》
+这是一份18世纪末期在英国出版的重要期刊，其评论往往具有影响力，反映了一部分精英阶层对文学的看法。其对女性小说的“arch dismissal”（故作高傲的轻蔑）表明当时一些权威评论机构, 对女性作家的作品持不屑一顾的态度。
+
+
+====
+
+- 371. They #were fighting# (v.), albeit discreetly, *to open* (v.) the intellectual world *to* the new science /and *to liberate* (v.) intellectual life *from* ecclesiastical philosophy /and #*envisioned*# (v.) their work *as* contributing to _the growth_, *not* _of philosophy_, *but* _of research_ in mathematics and physics.
+
+[.my1]
+.案例
+====
+- 371. #They `谓` were fighting# (v.), albeit 尽管；虽然 discreetly (ad.)谨慎地；小心地, *to open* (v.) the intellectual world 思想界、知识界 *to* the new science /and *to liberate* (v.) intellectual life *from* ecclesiastical (a.)教会的 philosophy /`并列句谓` #and *envisioned*# (v.)展望；设想 their work *as* 作为 contributing to #the growth#, *not* #of# philosophy, *but* #of# research (n.) in mathematics and physics.
+
+他们正在战斗，尽管是谨慎地，以期向新科学开放思想界，并将思想生活,从教会哲学中解放出来；他们设想, 自己的工作将有助于增长的不是哲学，而是数学和物理学的研究。
+
+.ecclesiastic
+-> ##ec-, 向外。-cles, 召唤，词源同call. 用于神学术语，##即召集民众到教堂来传道的圣职人员。
+
+.and envisioned their work as contributing to _the growth_, *not* _of philosophy_, *but* _of research_ in mathematics and physics.
+
+这是一个并列结构（not X, but Y），修饰 the growth.
+
+
+====
+
+- 372. Under the force of this view, it was perhaps inevitable (a.) /that `主` the art of rhetoric `谓` should pass (v.) #from# the status of *being regarded as* _of questionable worth_ /(because although it might be *both* a source of pleasure /*and* a means (n.)  to urge (v.) people to right action, it might also be a means (n.) to distort (v.) truth /and a source of misguided action) /#to# the status of _being wholly condemned_ (v.).
+
+[.my1]
+.案例
+====
+- 372. Under the force of this view, it was perhaps inevitable (a.)必然发生的，不可避免的 /that the art of rhetoric 修辞学 should 理应,必然会 pass (v.) *from* the status /of *being regarded as* _of questionable 可疑的；不确定的，有问题的；可能不诚实(或不道德)的，别有用心的 worth_ (because although  虽然，尽管 it might be *both* a source of pleasure *and* a means /to urge (v.) people to right action, it might also be a means /to distort (v.)歪曲；扭曲 truth /and a source of misguided 被误导的 action) /*to* the status of being wholly  完全地，全部地 condemned (v.)谴责；指责.
+
+在这种观点的作用下，修辞艺术的地位, 从“被认为价值可疑”（因为尽管它既可能是快乐的源泉，又是促使人们采取正确行动的手段，但也可能是歪曲真相的手段, 和误导行为的来源）, 转变为完全被谴责，这也许是不可避免的。
+
+- 修辞的定义：修辞是一种说话或写作的艺术，旨在说服、影响或取悦听众/读者。它包括语言的运用、论证的技巧、以及情感的调动。
+
+- 修辞的矛盾性/“价值可疑”：
+
+.. 积极面：它可以是“快乐的源泉”（通过优美的语言和表达带来审美愉悦），也可以是“促使人们采取正确行动的手段”（通过有力的说服力, 引导人们走向善）。
+
+.. 消极面：然而，它也具有**“歪曲真相的手段”（通过花言巧语、诡辩来掩盖事实）和“误导行为的来源”**（煽动情绪，引导人们走向错误的方向）的潜力。正是这种两面性，使得修辞的价值一开始被认为是“可疑的”。
+
+.这句里的 being regarded as #of questionable worth# 为什么中间要有个of? 直接写成 being regarded as questionable worth 可以吗
+
+*这里的 "of" 是必需的，不能省略。*
+这里的 "of" 表示属性、特性或价值。当我们要表达某物具有某种品质、价值或类型时，常常会用 "of + 名词" 的结构来作表语或宾语补语。
+
+"worth" 作名词时表示「价值」，但​​不能直接用形容词修饰​​（不像 "great value"）。
+必须通过 ​​"of + [形容词] + worth"​​ 结构（类似中文「具有…的价值」）。
+
+
+of great worth（极有价值的）√  +
+of little worth（价值微小的） √ +
+great worth（错误搭配） × +
+
+"worth" 在这里作名词使用，意为“价值、价钱”。 +
+例如：This painting is of great worth. (这幅画价值很高。) +
+This is a person of integrity. (这是个有品格的人。) +
+The decision was of no consequence. (这个决定无关紧要。) +
+
+
+
+
+====
+
+- 373. `主` #The resurgence# of multiple ethnic groups within a single state, Hill says, `系` #is not# “potentially threatening (a.) to _the sovereign jurisdiction_ of the state,” as Urban and Sherzer suggest; /rather, `主` #the assertion# of cultural differences `谓` #threatens# (v.) ① #to reveal# (v.) ethnocentric beliefs and practices /upon which _conquest states_ were historically founded (v.) /and thus ② #to open up# the possibility for a “nations-state” /in which `主` conquered ethnic groups `谓` *enjoy* (v.) _equal rights_ *with* _the conquering ethnic group_ /but do not face (v.) the threat of _persecution_ /or _cultural assimilation_ into _the dominant ethnic group_.
+
+image:/img/svg 373.svg[,100%]
+
+
+
+
+[.my1]
+.案例
+====
+- 373. `主` #The resurgence# 复苏；复兴 of _multiple ethnic  （有关）种族的，民族的；少数民族的 groups_ within a single state, Hill says, `系`  #is not “potentially threatening# (a.) to _the sovereign  (a.)（国家）有主权的 jurisdiction_ (司法权，审判权；管辖权) 主权管辖 of the state,” as Urban and Sherzer suggest; /rather 恰恰相反，而是, `主` #the assertion# 声称；使用；主张 of cultural differences  文化差异的彰显,主张 `谓` #threatens# (v.) #① to reveal# (v.) _ethnocentric (a.)种族优越感的；民族中心主义的 beliefs and practices_ /upon which _conquest states_ 征服国(指通过军事征服建立起来的国家，通常伴随着对被征服民族的统治和压迫) were historically founded  (v.)建立；创立 /##② and thus *to open up* ## 打开 the possibility for a “nations-state” /in which _conquered (a.) ethnic groups_ 被征服的族裔群体 *enjoy* (v.) _equal rights_ *with* _the conquering (a.) ethnic group_ /but do not face (v.) the threat of persecution 迫害 or _cultural assimilation_ 文化同化 into _the dominant ethnic group_.
+
+
+希尔说，单一国家内, 多个族裔群体的复兴，并非像乌尔班和舍策尔所暗示的那样，“潜在地威胁到国家的主权管辖”；相反，文化差异的彰显, 威胁要"揭示征服国家历史上赖以建立的那些民族中心主义的信仰和实践"，从而为一种“民族-国家”的可能性, 敞开大门——在这种国家中，被征服的族裔群体, 与征服族裔群体, 享有平等的权利，且不面临被迫害, 或被主导族裔群体文化同化的威胁。
+
+.assertion
+[ UC]the act of stating, using or claiming sth strongly 声称；使用；主张 +
+•the assertion of his authority 对他权威的维护 +
+•The demonstration was _an assertion_ of the right (n.) to peaceful protest. 这次示威游行, 是使用和平抗议权。
+
+
+
+.Gemini 解说
+这句话涉及到民族主义、国家构建和多文化主义的复杂议题：
+
+- 乌尔班和舍策尔的观点：他们可能代表了传统观点，认为单一国家内, 少数族裔群体的文化复兴（或身份认同的强化）, 是对国家主权和统一的潜在威胁，因为它可能导致分裂主义或内部冲突。
+
+- 希尔的反驳：希尔不同意这种观点，他认为真正的“威胁”不在于族裔复兴本身，而在于它所揭示的更深层问题：
+
+.. 揭露民族中心主义：许多历史上的“征服国家”（通过军事扩张和殖民建立的帝国或国家）往往建立在某种民族中心主义的信仰和实践之上，即认为征服民族的文化、制度, 优于被征服民族。族裔群体的文化复兴, 会挑战这种“内在的”不平等，迫使人们重新审视国家成立的基础。
+
+.. “民族-国家”的可能性：希尔认为，这种挑战, 反而为一种更理想的“民族-国家”（nations-state）模式提供了机会。这个词通常写作“nation-state”，但此处的引号和连字符“nations-state”, 可能强调的是多个民族（nations，作为文化实体）在一个国家（state）框架内, 实现"平等共存"的理想状态。 +
+在这种理想状态下，被征服的族裔（historically conquered ethnic groups）, 将获得与征服者（conquering ethnic group）同等的权利，不再面临历史上的迫害（persecution）或"文化同化"（cultural assimilation）的威胁。
+
+总结： 希尔的观点更积极地看待族裔复兴，认为它并非威胁国家主权，而是对历史不公的纠正，并可能引导国家走向一种更具包容性、尊重多元文化的“民族-国家”形态。
+
+====
+
+- 374. Because `主` _the increased (a.) awareness_ of _civil rights_ in these decades /`谓` helped reinforce (v.) the belief /that `主` life on reservations  *prevented* Native Americans *from* exercising (v.) the rights /guaranteed (a.) to citizens /under the United States Constitution, /`主`  #the readjustment movement `谓` advocated# (v.) the end of the federal government's involvement /in Native American affairs /#and encouraged# (v.) the assimilation of Native Americans *as* individuals into mainstream society.
+
+[.my1]
+.案例
+====
+- 374. Because `主` the increased awareness of civil rights /in these decades /`谓` helped reinforce 加强；巩固 the belief /that `主` life on reservations 保留地 `谓` *prevented* Native Americans *from* exercising (v.)行使；使用；运用 the rights /guaranteed (a.)被保障的;肯定的，保障的 to citizens /under the United States Constitution 宪法, /`主` #the readjustment movement `谓` ① advocated# 提倡；主张 the end of the federal government's involvement 参与，介入 /in Native American affairs /② #and encouraged# (v.) the assimilation 吸收；接受;同化 of Native Americans /as individuals into mainstream society.
+
+由于这几十年民权意识的增强，帮助强化了这样一种信念，即保留地的生活, 阻碍了美洲原住民行使美国宪法赋予公民的权利，因此，“调整运动”主张, 结束联邦政府对美洲原住民事务的干预，并鼓励美洲原住民作为个体, 融入主流社会。
+
+====
+
+- 375. `主` The people's liberty `谓` consists (n.) *not* in their _original responsibility_ for what exists, *but* merely in #the faculty# (n.) /they have acquired /#of# abolishing (v.) any detail /that may distress (v.) or wound (v.) them, /#and of# imposing (v.) any new measure, /`主`  which, seen _against the background of_ existing laws, `谓` may *commend (v.) itself* _from time to time_ *to* their instinct and mind.
+
+
+image:/img/svg 375.svg[,100%]
+
+[.my1]
+.案例
+====
+- 375. `主` The people's liberty 自由，自由权 `谓` consists (v.)由……构成；由……组成 *not* in their original responsibility 原始责任 for what exists 现存的东西,事物, *but* merely 仅仅,只不过 in #the faculty# (n.)能力；才能 /they have acquired /#of# abolishing 废除；废止 any detail /that may distress (v.)使悲伤，使忧虑；痛苦 or wound (v.) them, /#and of# imposing (v.) any new measure 推行任何新措施, `主` which, seen *against the background 在……背景下 of* existing laws 现有法律, `谓` may *commend (v.) 赞扬，赞许；推荐 itself* 可能得到认可,自我推荐 _from time to time_ 不时地,时常 *to* their instinct 本能，天性；直觉；天分 and mind 得到他们的本能和理智的认可.
+
+人民的自由, 不在于他们从一开始就"对现有事物负有原始责任"，而仅仅在于他们获得了"废除任何可能使其痛苦或受害的细节"，以及推行任何新措施的能力——这些新措施, 在现有法律背景下，可能不时地得到他们本能和思想的认可。
+
+.but merely in #the faculty# /they have acquired /#of# abolishing (v.) any detail /that may distress (v.) or wound (v.) them, /#and of# imposing (v.) any new measure,
+
+of abolishing (v.) any detail: 修饰 faculty，说明这种能力是关于“废除任何细节”的。 +
+of imposing (v.) any new measure: 修饰 faculty，说明能力是关于“推行任何新措施”的。
+
+.commend
+(v.) *~ sb/sth (to sb)* : ( formal ) to recommend sb/sth to sb 推荐；举荐 +
+•She is an excellent worker /and I *commend (v.) her to you* without reservation. 她工作出色，我毫无保留地把她推荐给你。 +
+•The movie has little to commend it (= it has few good qualities) . 这部电影乏善可陈。 +
+
+3.( formal ) if #sth *commends itself to* sb#, they approve of it 受到赞同；得到认可 +
+•His outspoken behaviour did not *commend (v.) itself to* his colleagues. 他直言不讳的行为不受他同事的欢迎。 +
+
+4.*~ sb/sth to sb* :( formal ) to give sb/sth to sb /in order to be taken care of 把…托付给（或委托于） +
+•We *commend* (v.) her soul *to* God. 我们把她的灵魂托付给上帝。 +
+
+====
+
+- 376. `主系` There is, however, `表` #considerable disagreement# /among cultural historians /#regarding# _public attitudes_ toward the railroad, *both* at its inception in the 1830s *and* during #the half century# between 1880 and 1930, #when# `主` the national rail system `谓` was completed (v.) and *reached (v.) the zenith of its popularity* in the United States.
+
+image:/img/svg 376.svg[,%]
+
+[.my1]
+.案例
+====
+- 376. `主系` There is, however, `表` ##considerable 相当大的，相当重要的 disagreement## among cultural historians 文化史学家 / #regarding# _public attitudes_ 公众态度 toward the railroad, *both* at its inception （机构、组织等的）开端，创始 in the 1830s /*and* during #the half century# between 1880 and 1930, 后定说明 #when# `主` the national rail system `谓` was completed (v.) and reached (v.) the zenith (n.)顶峰；顶点 of its popularity 流行，普及，受欢迎 /in the United States.
+
+然而，文化历史学家之间, 在公众对铁路的态度上, 存在相当大的分歧，无论是在铁路于19世纪30年代诞生之初，还是在1880年至1930年这半个世纪里——彼时国家铁路系统已建成，并在美国达到了其受欢迎程度的顶峰。
+
+
+====
+
+
+- 382. `主` #Readers# of African American autobiography then and now `谓` #have too readily accepted# (v.) the presumption of these eighteenth- and nineteenth-century editors /that `主` _experiential facts_ 后定说明 recounted (v.) orally /`谓` could *be recorded (v.) and sorted* (v.) by an amanuensis-editor, *taken out of* their original contexts, *and then published* with _editorial prefaces, footnotes, and appended commentary_, *all without compromising* (v.) the validity of the narrative *as* a product of an African American consciousness.
+
+image:/img/svg 382.svg[,100%]
+
+[.my1]
+.案例
+====
+- 382. `主` Readers of _African American autobiography_ 自传；自传体写作 then and now /`谓`  *have too readily  (ad.)轻而易举地，迅速地；乐意地，欣然地 accepted* (v.) the presumption 假设；假定 of these eighteenth- and nineteenth-century #editors# /that `主` _experiential 经验的 facts_ 经验事实 后定说明 *recounted (v.)详述，叙述 orally* (ad.口头上地；口述地) 口头叙述的 `谓` #could be recorded /and sorted# (v.)整理；把…分类;妥善处理；安排妥当 by an amanuensis 抄写员；文书助理-editor 记录编辑, #taken out of# their original contexts 被取出其原始语境, #and then published# (v.) with editorial prefaces 开场白；序文, footnotes 脚注；附注；表下注释, and appended (a.)附加的 commentary 注释；解释；评注；评论, #all without compromising# (v.)损害（名声）；违背（原则）；达不到（标准）；使陷入危险 the validity  （法律上的）有效，合法，认可；真实性，正确性 of the narrative 记叙文，叙述 /as 作为 a product of an African American consciousness 觉察；感觉；意识;观念；看法.
+
+非洲裔美国人自传的读者，无论过去还是现在，都过于轻易地接受了18世纪和19世纪那些编辑的假设：即口头叙述的经验事实，可以由笔录者兼编辑, 记录和整理，脱离其原始语境，然后带着编辑前言、脚注和附加评论出版，所有这一切都不会损害该叙述作为"非洲裔美国人意识产物"的有效性。
+
+
+.sort
+(v.) +
+1.*~ sth (into sth)* : to arrange things in groups /or in a particular order /according to their type, etc.; to separate things of one type from others 整理；把…分类 +
+•sorting (v.) the mail 分理信件 +
+•The computer _sorts (v.) the words_ into alphabetical order. 计算机按字母顺序排列这些单词。 +
+•Rubbish can easily be separated and *sorted (v.) into* plastics, glass and paper. 垃圾很容易分开并归入塑料、玻璃和纸三类。 +
+——see also sort-out +
+
+2.[ often passive] ( informal ) ( especially BrE ) to deal with a problem successfully or organize sth/sb properly 妥善处理；安排妥当 +
+•Don't worry. We'll soon *have this sorted* (v.). 不用担心，我们马上找人把这弄好。 +
+•It's our problem. *We'll get it sorted* . 这是我们的问题。我们来处理。 +
+•*It's all sorted* (v.). 一切都办妥了。 +
+•It's time *you got yourself sorted* (v.). 现在你该把自己的事好好安排一下了。 +
+
+.amanuensis
+(n.) +
+1.a person who writes down your words /when you cannot write, for example if you are injured and have an exam 代笔人；抄写员 +
+2.an assistant, especially one /who writes or types (v.)打字 for sb 助手；（尤指）秘书 +
+
+-> 前缀a-同ab-, 从，从...离开。词根##man, 手，见## manual, 手册。原指协助主人抄写，发布命令等。 +
+
+
+.Gemini 解说
+- 非洲裔美国人自传的特殊性：在18、19世纪，许多非洲裔美国人的自传（特别是奴隶叙事）是由他们口述，再由白人编辑笔录和整理出版的。
+
+- 编辑的“假设”：##**当时的编辑们（和后来的读者）普遍认为，他们可以将口述的“经验事实, 进行标准化处理——记录、整理、甚至添加自己的评论和背景信息，而不认为, 这会影响到叙述的真实性或其作为“非洲裔美国人意识产物”的有效性。**##他们可能认为事实是客观的，不分语境和编辑手法的。
+
+- 作者认为, 这种假设“过于轻易地被接受”了。编辑的行为（脱离原始语境、添加外部评论）, 有可能会损害叙述的真实有效性（validity）。原因:
+
+.. “脱离其原始语境”（taken out of their original contexts）：**口述叙事, 往往与特定的表演情境、听众互动、情感表达方式紧密相关。**一旦被书面化，这些语境信息就会丢失。
+
+.. “编辑前言、脚注和附加评论”（editorial prefaces, footnotes, and appended commentary）：这些外部材料, 虽然旨在帮助读者理解，但也可能强加编辑的视角和解释，甚至歪曲原叙述者的意图，因为它不再是纯粹的自传主体（非洲裔美国人）的“意识产物”，而是混入了编辑（通常是白人）的意识。
+
+
+====
+
+- 383. Thus, for instance, it may come as a shock /to mathematicians /#to learn that# `主` _the Schrodinger equation_ for _the hydrogen atom_ `系` is *not* _a literally correct description_ of this atom, *but* only _an approximation_ to _a somewhat more correct equation_ /*taking account of* spin, magnetic dipole, and _relativistic effects_; /#and that# `主` this _corrected equation_ `系` is itself only _an imperfect approximation_ /to _an infinite (a.) set_ of _quantum field-theoretical equations_.
+
+image:/img/svg 383.svg[,100%]
+
+[.my1]
+.案例
+====
+- 383. Thus, for instance, it may come as a shock 可能会令人震惊 to mathematicians 数学家 /#to learn that# /`主` the Schrodinger equation 薛定谔方程 for the hydrogen atom 氢原子 `系` is *not* _a literally  (ad.)按照字面意义地，真正地，确实地 correct (a.) description_ of this atom, /*but* only an approximation 近似值 to a somewhat 稍微，有点 more correct equation  等式，方程（式） /*taking account of* 考虑到了，顾及 spin 自旋,（使）快速旋转, magnetic dipole (偶极；双极子) 磁偶极子, and relativistic (a.)相对的；相对论的 effects; /#and that# /`主` this corrected (a.) equation `系` is itself  本身也只是 only _an imperfect approximation_ (粗略估计，近似值) 不完美的近似 to an infinite (a.)无限的，无穷尽的；（数量或程度上）极大的 set of quantum field-theoretical 量子场论 equations.
+
+因此，举例来说，数学家们可能会震惊地得知，描述氢原子的薛定谔方程, 并非对该原子字面意义上的精确描述，而只是一个对某种更正确方程的近似，这个更正确的方程, 考虑了自旋、磁偶极子, 和相对论效应；而且，这个经过修正的方程本身, 也只是一个对无限量子场论方程组的不完美近似。
+
+即氢原子的薛定谔方程并非完全精确，而仅仅是更完整理论的近似，且该“更完整理论”本身也是一个无限方程组的不完美近似。
+
+总的来说，**这句话是想表达：即使是看起来很精确的物理方程（如描述氢原子的薛定谔方程），在科学研究的更深层次和更高精度要求下，也只是一种近似。要达到更完美的描述，需要引入更复杂的因素（如自旋、相对论效应），而这些“更精确”的理论本身，最终也只是更基础、更全面的理论（如量子场论）的近似。**这反映了物理学理论层层递进、不断逼近真实的特点。
+
+
+.薛定谔方程 (Schrödinger equation)
+
+这是量子力学中的一个基本方程，由奥地利物理学家埃尔温·薛定谔在1926年提出。
+
+*#它描述了微观粒子（如电子、原子）的行为，特别是它们随时间演化的状态#。在经典力学中，我们用牛顿定律描述宏观物体的运动轨迹；#在量子力学中，"薛定谔方程"则描述了粒子的"波函数"（wave function）如何随时间变化，而"波函数"包含了粒子所有可能的信息（比如它在某个位置出现的概率）。#*
+
+可以理解为，它是量子世界的“牛顿定律”。
+
+.氢原子 (hydrogen atom)
+
+**最简单的原子。**它由一个质子（在原子核中）和一个电子（围绕原子核运动）组成。
+
+**#由于其结构简单，"氢原子"常被用作"量子力学理论"的第一个应用和验证对象。#**对其的研究对理解原子结构和量子现象至关重要。
+
+.字面意义上的正确描述 (literally correct description)
+
+这里指的是绝对精确、毫无偏差的描述。在科学语境中，尤其是在数学家看来，如果一个模型或方程是“字面意义上正确”的，那它就应该能完全、无遗漏地反映被描述对象的每一个细节。
+
+.近似 (approximation)
+
+在科学和数学中，近似是指一个值、一个函数或一个模型, 接近但不完全等于"真实值"、"真实函数"或"真实现象"。
+
+*在物理学中，由于实际系统的复杂性，我们常常使用"近似模型"来简化问题，以便进行计算和分析。这些近似, 在特定条件下是足够准确和有用的，但并非对现实的完美复制。*
+
+.自旋 (spin)
+
+*##这是粒子的一种内在量子属性，##可以理解为粒子自身的一种“自转”倾向，但它并非经典意义上的旋转。*
+
+自旋是粒子固有的角动量，*##它会产生磁矩，对粒子的"能级"和"相互作用"产生影响。##电子、质子、中子等都有自旋。*
+
+.磁偶极子 (magnetic dipole)
+
+由电流回路, 或一对南北磁极, 产生的磁场源。
+
+在原子物理中，*粒子的自旋（以及电子的轨道运动）会产生一个微小的磁场，使其具有"磁偶极矩"。这个磁偶极子会与外部磁场, 或其他粒子的磁场, 相互作用，从而影响原子的能级。*
+
+.相对论效应 (relativistic effects)
+
+*指当物体的速度接近光速时，根据爱因斯坦的"相对论"（特别是"狭义相对论"）所产生的物理现象，例如时间膨胀、长度收缩、质量随速度增加等。*
+
+*##在原子内部，电子在原子核周围高速运动，虽然远未达到光速，但其速度已经足以产生不可忽略的"相对论效应"，##这些效应会微调原子的能级。*
+
+.量子场论 (quantum field-theoretical equations)
+
+现代物理学最基本、最成功的理论框架之一，*它将"粒子"视为"量子场的激发"。*
+
+*##与"量子力学"主要处理固定数量的粒子不同，"量子场论"能够自然地描述粒子的产生和湮灭。它结合了量子力学和狭义相对论，##是描述基本粒子（如电子、光子、夸克）及其相互作用（如电磁力、强核力、弱核力）的理论基础。*
+
+这句话中提到“无限的量子场论方程组”，这暗示了其理论的复杂性和深邃性，它可能包含无限多个自由度和更精细的相互作用。
+
+
+
+====
+
+- 384. `主` Islam, on the other hand, `谓` represented (v.) _a radical breakaway_ from _the Arab paganism_ /that preceded (v.) it; `主` Islamic law `系` is the result of _an examination_, from a religious angle, _of_ legal subject matter /that was *far from* uniform (a.), comprising (v.) *as it did*  _the various components_ of the laws of pre-Islamic Arabia /and _numerous legal elements_ 后定说明 *taken over* from _the non-Arab peoples_ of _the conquered territories_.
+
+
+image:/img/svg 384.svg[,100%]
+
+[.my1]
+.案例
+====
+- 384. Islam, on the other hand, represented (v.)代表 _a radical 根本的，彻底的；激进的，极端的 breakaway_ (脱离，独立) 彻底分离 from _the Arab paganism_ 异教；多神教 后定说明 that preceded (v.)处在……之前，先于 it; Islamic law is the result of #an examination# (审查；调查；考查；考察) 是……审视的结果, from a religious angle, #of# _legal subject 法律主体 matter_ /后定说明 that was *far from* 远非,根本不 uniform (a.)一致的；统一的；一律的, comprising (v.)包含；包括 *as it did* 因为它确实包含着,正如它所包含的 ① _the various components 各组成部分 of the laws_ of pre-Islamic Arabia 前伊斯兰时期的阿拉伯（通常指公元7世纪伊斯兰教兴起之前的阿拉伯半岛） /and ② _numerous legal elements_ 众多法律元素 后定说明 taken over 接管 from the non-Arab peoples of the conquered territories 被征服的领土.
+
+另一方面，伊斯兰教代表着对先前阿拉伯异教信仰的彻底决裂；伊斯兰教法, 是从宗教角度对远非统一的法律素材进行审视的结果，这些素材, 既包含前伊斯兰时期阿拉伯各部落的法律成分，也吸纳了被征服领土上非阿拉伯民族的诸多法律元素。
+
+伊斯兰教法在发展过程中，并没有完全废除被征服地区的原有法律和习俗，而是在伊斯兰教义的指导下，吸收和改造了其中符合或不冲突伊斯兰原则的部分。这种法律的融合与多元化, 是伊斯兰文明发展的重要特征之一。
+
+====
+
+- 385. These questions are political /in the sense that `主` the debate over them `谓` will inevitably be #less# an exploration of _abstract matters_ /*in a spirit of* disinterested (a.) inquiry /#than# an academic power struggle /in which `主` the careers and _professional fortunes_ of many women scholars — only now entering (v.) the academic profession _in substantial numbers_ — `系` will be *at stake*, and with them the chances for _a distinctive contribution_ to humanistic understanding, a contribution /that **might be** _an important influence_ against sexism in our society.
+
+image:/img/svg 385.svg[,100%]
+
+[.my1]
+.案例
+====
+- 385. These questions are political /in the sense 在……的意义上 that  /`主` the debate over them 围绕这些问题的辩论 `谓` will inevitably 不可避免地，必然地 be #*less*# _an exploration of abstract matters_ /in a spirit of 以……的精神；以……的态度 _disinterested (a.)无私的；公正的 inquiry_ 调查，审查;探索、研究 /#*than*# an academic _power struggle_ (#*这里有个比较结构（less X than Y），意为“与其说是X，不如说是Y”*#) /in which `主` the careers 职业；事业；职业生涯 and professional fortunes 专业前途 of many women scholars — only now 现在才 entering (v.) the academic profession _in substantial 大量的 numbers_ — `谓` will be *at stake* 处于危险中,利害攸关, /and with them 随之而来的还有,伴随着这些 the chances for _a distinctive (a.)独特的，与众不同的 contribution_ 独特贡献 to _humanistic (a.)人文主义的；人道主义的 understanding_ 人文主义的理解, a contribution /that might be _an important influence_ against sexism (n.)（尤指对女性的）性别歧视，性别偏见 in our society.
+
+这些问题之所以具有政治性，是因为围绕它们的辩论，将不可避免地与其说是"在一种不带偏见的探究精神下, 对抽象事物的探索"，不如说是一场"学术权力斗争"——在这场斗争中，许多女性学者（她们现在才开始大量进入学术界）的职业生涯, 和专业前途, 将面临风险，随之而来的, 还有她们对人文学术做出独特贡献的机会，而这种贡献, 可能会成为我们社会中反对"性别歧视"的重要影响力量。
+
+这句话，其核心是“X is political /*in the sense that* Y will be less A than B, and with B comes C and D”的结构
+
+
+
+.Gemini 的解说
+这句话揭示了学术界中某些“问题”的本质，它们看似是纯粹的学术探讨，实则牵涉到复杂的权力动态, 和社会影响。
+
+具体来说，这句话指出了以下几个核心要点：
+
+这些被讨论的“问题”之所以是政治性的，是因为这些辩论与其说是在一种客观、不带个人偏见的精神下（“不带偏见的探究精神”）对抽象概念的深入探讨，不如说它更像一场权力之争。这意味着，讨论的目的可能不是为了追求普遍真理，而是为了争夺某些话语权和控制权。
+
+当这些“问题”成为权力斗争的焦点时，女性学者的职业前途就会面临风险。这可能意味着她们的研究方向、晋升机会、学术认可等都将受到影响，取决于这场斗争的结果。
+
+女性学者做出独特贡献，这种独特的贡献被视为对社会中性别歧视（sexism）的重要对抗力量。如果女性学者的声音和视角被压制，那么这种对抗性别歧视的潜力也将难以发挥。
+
+总结一下:
+这句话实际上是在批判一种看似中立的学术辩论，揭示其背后隐藏的权力结构和不平等。它认为，围绕某些议题的学术讨论，本质上是关于谁来定义知识、谁来主导话语权的一场较量。而在这场较量中，新近进入学术界的女性学者及其所能带来的独特、批判性的视角（尤其是关于性别歧视的视角），正处于危险之中。最终，这不仅仅是学术圈的小事，它关乎社会能否真正迈向一个更公正、更平等的未来。
+
+
+====
+
+
+- 386. `主` #Calculations# of _the density of alloys_ 后定说明 *based on* _Bernal-type models_ of _the alloys metal component_ /`谓`  #*agreed (v.) fairly well with*# the experimentally determined (a.) _values_ 后定说明 from _measurements on alloys_ 后定说明 *consisting of* a _noble metal *together with* a metalloid_, /such as _alloys of palladium and silicon_, or _alloys 后定说明 *consisting of* iron, phosphorus, and carbon_, /although `主` small discrepancies (n.) `谓` remained (v.).
+
+image:/img/svg 386.svg[,100%]
+
+
+[.my1]
+.案例
+====
+- 386. `主` #Calculations# 计算，运算；估算，预测  of the density of alloys 合金 /*based on* _Bernal-type models_ of the alloys _metal component_ (组成部分，成分，部件) /`谓` #*agreed* （在数、性或人称上与…）一致 fairly well *with*# 相当吻合 _the experimentally (ad.)实验上；用实验方法 determined_ (查明；测定；准确算出)   values 实验确定的值 /后定说明 from _measurements on alloys_ (说明这些值是如何得来的: 来自对合金的测量） / (后定修饰 alloys) **consisting of **由……组成 a _noble metal_  贵金属 *together with* a metalloid (类金属,准金属) 由“贵金属和类金属”组成, /such as _alloys of palladium 钯 and silicon_ 硅, /or alloys 后定说明 *consisting of* iron, phosphorus 磷, and carbon, /although 尽管,虽然 small discrepancies (n.)差异；不一致 remained (v.).
+
+基于合金金属组分的"伯纳尔型模型", 计算出的合金密度，与对由贵金属和类金属（例如钯和硅的合金）组成的合金，或由铁、磷和碳组成的合金, 进行测量所实验确定的数值，吻合得相当好，尽管仍存在细微差异。
+
+这段话的核心意思是：
+
+科学家们发现，通过一种名为“伯纳尔型模型”的理论方法, 计算出的合金密度，与实际通过实验测量得出的合金密度数据, 非常吻合，即使两种数据之间仍存在一些微小的差异。
+
+.alloy
+al-加强意义 +## loy(=-ly-)捆,约束 → 多种元素捆在一起 → 合金 ## +
+前缀al-同ad-. -loy同词根lig, 绑，组合。特指把贵金属和贱金属合在一起冶炼。
+
+.metalloid
+( BrE alsosemi·metal ) ( chemistry 化) a chemical element which has properties both of metals and of other solid substances 准金属 +
+-> #metal,金属，-oid, 类，准，词源同 android.#
+
+.phosphorus
+-> 来自希腊语Phosphoros,启明星，#来自phos,光，phoros,携带者#，词源同bring.后用作化学物质磷。
+
+
+.合金 (Alloys)
+
+专业术语: **#由两种或多种化学元素组成，其中至少有一种是金属，#**并且具有金属特性（如导电性、导热性、光泽、延展性等）的混合物。合金通常通过将熔融的组分, 混合制成。
+
+相关知识: **##合金的性能（如强度、硬度、耐腐蚀性）往往优于其纯组分金属，##因此在工程和工业中应用广泛。**常见的合金有钢（铁和碳的合金）、黄铜（铜和锌的合金）、青铜（铜和锡的合金）等。
+
+
+.metal component
+
+*#金属组分 (metal component) 在合金的语境下，指的是构成合金的各种金属元素。#* +
+*简单来说，#合金是两种或多种元素混合在一起形成的，其中至少要有一种是金属。这些金属元素, 就是合金的“金属组分”。#*
+
+举个例子： +
+*黄铜是一种合金，它主要由铜和锌这两种金属元素组成。那么，铜和锌就是黄铜的金属组分。* +
+不锈钢是一种铁合金，它的主要金属组分是铁，同时还可能包含铬、镍等其他金属元素。
+
+*需要注意的是，有些合金中除了金属组分，还会添加"非金属元素"*（比如钢中的碳，或者上面例子中的磷），这些非金属元素, 也会对合金的性能产生重要影响。但**通常我们说“金属组分”，指的还是其中的金属元素部分。**
+
+所以，在原文中提到的 "Bernal-type models of the alloys metal component"，就是指**"伯纳尔模型"主要关注的, 是合金中, 那些"金属原子"是如何排列和堆积的，因为它们的结构, 对合金的整体密度, 起着决定性作用。**
+
+.noble metal
+*#贵金属. 指那些在空气中或潮湿条件下, 不易被氧化或腐蚀的金属，通常化学性质稳定，稀有且价格昂贵。#*
+
+相关知识: 常见的贵金属包括: 金（Au）、银（Ag）、铂（Pt）、钯（Pd）、铑（Rh）、钌（Ru）、铱（Ir）、锇（Os）。*它们因其优异的耐腐蚀性、导电性和美观性，在珠宝、电子、催化剂等领域有广泛应用。*
+
+.类金属 (metalloid)
+
+- 专业术语: *#指那些性质介于"金属"和"非金属"之间的元素。它们在某些条件下表现出"金属"的特性，在另一些条件下则表现出"非金属"的特性。#*
+
+- 相关知识: 常见的类金属包括: 硼（B）、硅（Si）、锗（Ge）、砷（As）、锑（Sb）、碲（Te）、钋（Po）。*硅是其中最重要的，因其"半导体特性", 而成为电子工业的核心材料。*
+
+.钯 (Palladium)
+
+专业术语: 一种银白色的贵金属，属于铂族元素。
+
+相关知识: **钯具有良好的催化性能、耐腐蚀性，**常用于汽车催化转化器、珠宝、牙科材料和电子元件中。
+
+.硅 (Silicon)
+
+专业术语: *一种常见的"类金属"元素。*
+
+相关知识: **硅在地壳中含量丰富，是半导体材料的核心，**广泛应用于电子芯片、太阳能电池、建筑材料（如玻璃、水泥）等领域。硅与钯的合金, 可能具有特殊的结构和性能。
+
+
+
+.Gemini 的解说
+
+具体来说，它强调了以下几点：
+
+1.研究对象：这段话主要关注的是合金的密度。*合金是由多种元素（至少一种是金属）混合而成的材料。*
+
+2.两种方法进行比较：
+
+- **理论计算方法：他们使用了一种叫做“伯纳尔型模型”的理论方法, 来预测合金的密度。**这个模型关注的是合金中"金属组分"的结构排列（比如它们是如何紧密堆积的）。
+
+- *实验测量方法：他们也通过实际的实验测量，得到了这些合金的真实密度值。*
+
+
+
+
+3.比较结果：
+
+- 吻合度高：两种方法得出的结果“吻合得相当好”（agreed fairly well）。这意味着"伯纳尔型模型", 在预测这类合金密度方面, 是比较准确和有效的。
+
+- 存在小差异：尽管吻合度高，但作者也承认“仍存在细微差异”（small discrepancies remained）。这表明理论模型并非完美无缺，可能还有未考虑到的因素，或者实验测量本身有误差。
+
+4.研究的具体合金类型：为了使结论更具体，作者列举了两种被研究的合金类型：
+
+- 一种是由贵金属和类金属组成的合金，例如“钯和硅的合金”。
+- 另一种是由铁、磷和碳组成的合金。
+
+总而言之，这段话是关于材料科学领域中，一种理论模型（伯纳尔型模型）在预测特定合金密度方面的有效性及其与实验数据之间的吻合程度的描述。它告诉我们，这个模型在解释某些复杂合金的结构和性质方面是成功的，但并非绝对完美。
+
+====
+
+- 387. `主` The traditional view `谓` #*supposes (v.) that*# /`主` the upper mantle of the earth `谓` *behaves (v.) as* a liquid /when it *is subjected (v.) to* small forces for long periods /#and that# `主` differences in temperature _under oceans and continents_ `系` are sufficient (a.) /*to produce (v.) convection* in the mantle of the earth /伴随状 with _rising (a.) convection currents_ under the mid-ocean ridges and _sinking (a.) currents_ under the continents.
+
+[.my1]
+.案例
+====
+- 387. `主` The traditional view `谓` #supposes (v.)假设,猜想,认为 that# /`主` the upper mantle 地幔 of the earth `谓` *behaves (v.) as* a liquid /when it *is subjected (v.)使遭受；使从属；受…影响 to* 被……作用,遭受 small forces  小的作用力 for long periods /#and that# `主` differences in temperature _under oceans and continents_ 大陆，大洲 `系` are sufficient (a.)足够的，充足的 *to produce (v.) convection* 〔气体、液体的〕对流；传送 in the mantle of the earth / (伴随状语，用 with 引出，描述对流的具体形式) with _rising (a.) convection currents_ (对流气流) 上升的对流（热）流 under the mid-ocean ridges (大洋中脊)在大洋中脊之下 and _sinking (a.) currents_ 下沉的（冷）流 under the continents  在大陆之下.
+
+**传统的观点认为，地球的"上地幔"在长时间受到微小作用力时，会表现得像液体一样；而且，海洋和大陆下方的温度差异, 足以在地幔中产生对流，**具体表现为: 大洋中脊下方, 有上升的"对流热流"，而大陆下方, 有下沉的"对流冷流"。
+
+这段话到底说了什么？ +
+这段话详细阐述了传统地质学/地球物理学中关于地球内部，特别是"上地幔"行为的两个核心假设。它勾勒出了一个关于板块构造驱动力的经典图景。
+
+1.上地幔的性质（在特定条件下）：
+
+- 像液体一样：*#传统观点认为，尽管地球的"上地幔", 在短期内看起来是固体（我们可以在上面行走，地震波也可以通过它传播），但如果给它施加微小但持续时间很长的力，它就会表现得像液体一样，可以缓慢流动和变形。这类似于沥青，在短时间作用力下是固体，但长时间受力会缓慢流淌。#*
+
+2.地幔对流的驱动力与表现：
+
+- 温差驱动对流：*传统观点认为，地球表面海洋下和大陆下的温度, 存在差异。具体来说，地幔深处的热量上升，在地幔中形成温度不均匀分布。*
+
+- 足以产生对流：*#这些温差, 足以驱动地幔物质的缓慢循环流动，这就是"地幔对流"。#*
+
+- 对流模式： +
+.. **在大洋中脊（mid-ocean ridges）下方，地幔物质受热上升，形成上升的"对流热流"。**大洋中脊是海底山脉，也是新洋壳形成的地方，这与"上升热流"的观点相符。
+
+.. 而在大陆（或大洋深处的海沟）下方，地幔物质冷却下沉，形成下沉的"对流冷流"。大陆下方地壳较厚，散热可能不同，或者它代表了板块俯冲带，物质在此处下沉。
+
+核心解读：
+
+这段话, 总结了"板块构造理论"中, 关于"地幔对流"如何驱动"地球表面板块运动"的早期或经典解释。它描绘了一个动态的地球内部，其中, 热量驱动地幔物质, 像厚重的液体一样循环，这种循环, 在大洋中脊处上升，在大陆或俯冲带处下沉，从而推动了地球表面的大陆漂移, 和海洋扩张等宏大地质现象。
+
+然而，随着地球物理学研究的深入和地震层析成像等技术的发展，科学家们对地幔的内部结构和对流模式有了更复杂、更精细的认识。*#现在的新观点，或者说更被广泛接受的理论，是地幔对流可能以多种模式并存，并且更为复杂，不仅仅是简单的单层对流。#*
+
+以下是一些主要的“新观点”或现代"地幔对流模型"的特点：
+
+[.my3]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|1.分层对流, 与混合对流
+|这是与传统"单层对流"模式最主要的区别和发展。
+
+- 传统单层对流：认为地幔从地核-地幔边界到地壳底部, 是一个整体的循环对流。
+
+- 分层对流：*早期有观点认为, 地幔内部存在一个或多个屏障*（例如在410公里和660公里地震波间断面处），*将地幔对流, 分为上地幔对流, 和下地幔对流，两者之间物质交换有限。*
+
+- *混合对流 (Mixed Convection)：##这是目前更被普遍接受的观点。它认为地幔对流不是单一的模式，而是混合的。在某些区域，地幔物质可能实现"全地幔对流"（从地核-地幔边界, 一直到地表）；而在另一些区域，则可能发生"分层对流"，##尤其是在地幔内部的"相变间断面"（如660公里间断面）处，#物质交换会受到一定阻碍，形成局部或暂时的分层。#* +
+证据：地震层析成像技术, 能够探测地幔内部的温度和密度异常，揭示了地幔深部的地质结构。**研究发现，一些俯冲的板块, 可以穿透660公里间断面, 进入"下地幔"，支持"全地幔对流"；而另一些区域, 则显示出"分层"的迹象。**近期的一些研究也为"地幔混合对流模式"提供了关键证据。
+
+image:/img/Convection currents in the Earth´s mantle.jpg[,100%]
+
+
+
+|2.地幔柱 (Mantle Plumes)
+|地幔柱理论, 是"地幔对流模型"的重要补充，解释了远离板块边界的热点火山活动（如夏威夷群岛）。
+
+- 概念：#*"地幔柱"是地核-地幔边界附近, 极热物质形成的、向上狭窄的、持续上升的热流。它们像烟囱一样，穿透整个地幔，在地表形成长期稳定的火山活动，这些热点不随板块移动。*#
+
+- 补充了"板块构造理论"：#*传统的板块构造理论, 主要解释了板块边界的地震和火山活动，但对板内（即板块内部）的火山活动解释不足。"地幔柱理论"为这些热点提供了动力学解释。*#
+
+image:/img/Mantle Plumes.jpg[,100%]
+
+
+
+|3.岩石圈的力学性质和应力
+|现代研究, 更深入地探讨了"地幔对流"如何与地球最外层的岩石圈（包括地壳和上地幔的坚硬部分）相互作用。
+
+- 岩石圈的屈服应力：**研究表明，岩石圈的强度（即屈服应力）, 对其下方的地幔对流模式, 有深远影响。不同强度的岩石圈, 会导致不同的对流模式，**例如从非板块活动, 到活跃的板块构造模式。
+
+- 板块拖曳, 与俯冲拉力：虽然"地幔对流"提供了基本驱动力，但**现代观点更强调板块自身的重力作用, 在地幔对流中的重要性。**例如，当冷的、致密的洋壳, 在俯冲带下沉时，它产生的拉力（“板片拉力”）, 被认为是驱动板块运动最主要的力之一。
+
+|4.地幔物质的复杂性
+|*地幔不仅仅是均匀的硅酸盐流体，其内部存在复杂的化学成分、相变（物质在不同压力和温度下发生的晶体结构变化）和黏滞性变化。这些因素都会影响对流的模式和效率。*
+
+- 间断面的成因：410公里和660公里间断面, 不仅仅是温度变化引起的相变，在某些区域也可能是化学分界面，这进一步支持了地幔对流的复杂性和分层特征。
+
+|===
+
+总结来说，与简单化的“传统观点”相比，现代对"地幔对流"的理解, 更加精细和复杂，认识到它可能是一种混合模式（既有全地幔对流，也有分层对流），并受到地幔柱、岩石圈力学性质, 以及"地幔内部物质复杂性"的共同影响。这些新观点, 主要基于地震波层析成像、高压高温实验、"地球动力学"数值模拟等先进研究手段, 所获得的大量数据和理论进展。
+
+
+====
+
+- 388. While `主` #historians of literature `谓` have always been aware (a.) that# /`主` #writers `谓` work# (v.) within particular traditions, /`主`  #the application# of this notion *to* the history of political ideas `谓` #forms (v.) a sharp contrast *to*# the assumptions of the 1950s, /when *it was naively thought (v.) that* /`主` #the close reading# (n.) of a text /by an analytic philosopher /`系` #was sufficient# (a.) to establish (v.) its meaning, /even if `主` #the philosopher `谓` *had no knowledge of*# the period of the text's composition.
+
+image:/img/svg 388.svg[,100%]
+
+
+[.my1]
+.案例
+====
+- 388. While 尽管,虽然 #historians of literature 文学史家 have always been aware (a.) that# /`主` #writers `谓`  work# (v.) within particular traditions 在特定传统中创作,  `主` _##the application## of this notion_ *to* _the history of political ideas_ 将这一观念,应用于政治思想 /`谓` #forms (v.) a sharp contrast 鲜明对比 to# _the assumptions of the 1950s_, when *it was naively 天真地 thought (v.) that* /`主` #the close reading# 对文本的细读 of a text /by an analytic philosopher 分析哲学家 /`系` #was sufficient# (a.) to establish (v.) its meaning 确立其意义, /even if `主` #the philosopher `谓` had no knowledge of# 对……一无所知 the period of the text's composition (创作，作曲) 文本创作的时期.
+
+尽管文学史家们一直都清楚, 作家是在特定传统中进行创作的，但将这一观念应用于政治思想史，却与20世纪50年代的假设, 形成了鲜明对比——当时天真地认为，分析哲学家对文本的细读，即使对文本创作时期的背景一无所知，也足以确立(能了解)其(作者的本意)意义。
+
+这句话说的其实是: 任何作家都不是凭空创作的，他们的作品必然受到其所处时代和特定文学传统的制约和影响。要理解一部文学作品，就必须把它放回其创作的传统和语境中去考察。 +
+而50年代时的旧观点, 却没能做到这一点. 当时的一种流行观点（被作者称之为“天真地认为”）是：只要一位分析哲学家（这类哲学家通常强调逻辑分析、概念清晰和语言精确性）对某个文本进行“细读”（close reading）——即深入、仔细地分析文本本身的字面意义和逻辑结构——就足以完全确立这个文本的真实意义。
+====
+
+- 389. Many choose jobs entailing little challenge or responsibility or those offering flexible scheduling, often available only in poorly paid positions, while other working mothers, although willing and able to assume as much responsibility as people without children, find that their need to spend regular and predictable time with their children inevitably causes them to lose career opportunities to those without such demands.
+
+[.my1]
+.案例
+====
+- 389. `主` Many `谓` choose (v.) jobs /entailing (v.)牵涉；需要；使必要 little challenge or responsibility 涉及很少挑战或责任的工作 /or those offering (v.) flexible scheduling 或者那些提供灵活时间安排的工作, (伴随状) often available /only in poorly paid positions 薪水很低的职位, /while 然而 `主` #other _working mothers_# 职业母亲, although willing (v.) and able to assume (v.)承担（责任）；就（职）；取得（权力） *as much responsibility as* people without children, `谓` #find (v.) that# /`主` their need *to spend* (v.) regular and predictable time 定期且可预测的时间 *with* their children /`谓`  *inevitably causes (v.) them* to lose (v.) career opportunities to those 后定说明 without such demands 没有这种要求（指代陪伴孩子的要求）.
+
+
+许多人选择那些挑战性或责任较小的工作，或者那些提供灵活时间安排的工作（这些工作通常薪水很低）；而另一些职业母亲，尽管愿意, 并有能力承担与"没有孩子的人"一样多的责任，却发现, 她们需要定期且可预测地陪伴孩子，这不可避免地导致她们在职业机会上, 输给那些没有这种要求的人。
+
+.entail
+[ VN -ing] to involve sth that cannot be avoided 牵涉；需要；使必要 +
+SYN involve +
+[ VN] +
+•The job entails (v.) a lot of hard work. 这工作需要十分艰苦的努力。 +
+•The girls learn exactly what *is entailed (v.) in* caring for a newborn baby. 姑娘们学的正是怎样照看新生儿。 +
+
+[ V -ing] +
+•It will entail (v.) driving a long distance every day. 这意味着每天都要长途开车。 +
+
+-> ##en-, 进入，使。-tail, 砍，切，##词源同retail, tailor. 来自法律用语，切下来的一块，留给后人继承的遗产，特指继承者继承的不能转让的房产或庄园，其继承权利受到一定的限制。引申义使必要。
+====
+
+- 390. O##bserving (v.) that## /`主` species 后定说明 found on high ground `系` are different from those on low ground /and #knowing (v.) that# in the Amazon `主` lowlands are drier than uplands, `主` he `谓` proposed that /during the ice ages `主` #the Amazon lowlands `系` became# a near-desert arid plain; meanwhile, `主` #the more elevated (a.) regions `系` became# islands of moisture /and hence *served (v.) as* refuges *for* the fauna and flora of the rain forest.
+
+image:/img/svg 390.svg[,100%]
+
+
+[.my1]
+.案例
+====
+- 390. #Observing (v.) that# `主` species 后定说明 found (v.) on high ground `系` *are different from* those on low ground /#and knowing (v.) that# /in the Amazon `主` *lowlands 低地 `系` are drier than* uplands, /he proposed (v.) that /during the ice ages `主` the Amazon lowlands `系` became _a near-desert 半沙漠区，似沙漠区 arid (a.)（土地或气候）干燥的，干旱的 plain_ （大）平原; /meanwhile, `主` the more elevated (a.)高出地面的 regions `系` became islands of moisture (潮气，水分)变成了湿润的孤岛 /and hence *served as* refuges 避难所；庇护所 for the fauna 动物群 and flora 植物群 of the rain forest.
+
+观察到高地物种与低地物种不同，并且了解到在亚马逊地区, "低地"比"高地"更干燥，他提出, 在冰河时期, 亚马逊低地变成了一片近乎沙漠的干旱平原；与此同时，地势较高的区域, 则变成了湿润的孤岛，因此充当了雨林动植物的避难所。
+
+.arid
+发音释义：['ærɪd] adj.干旱的；不毛的，[农] 荒芜的  +
+结构分析：arid = #ar（干的）+id（形容词后缀）→干旱的# 词源解释：ar←拉丁语arere（干的）←原始印欧词根as（燃烧、发光） #同源词：ash（灰烬）#，ardent（热情的） 衍生词：aridity（干旱、乏味）
+
+====
+
+- 391. Perhaps, recognizing (v.) the success of a movement /后定说明 that, in the past, *has singled (v.) him out* for abuse, he is attempting to appease (v.) his detractors, *paying* obeisance (n.) *to* the movements institutional success /by declaring (v.) that `主` _it “deserves (v.) a place_ in legal research” /while *leaving (v.)  it to others* to draw (v.) #the conclusion# from his cogent analysis /#that# it is an entirely factitious undertaking, *deserving (a.) of* no _intellectual respect_ whatsoever.
+
+[.my1]
+.案例
+====
+- 391. Perhaps, recognizing (v.) the success of a movement /后定说明 that, in the past, *has singled (v.)单独挑出 him out /for* abuse 过去曾将他列为攻击目标,对他施加辱骂, `主` he `谓` is attempting to appease (v.)安抚；平息；缓解 his detractors 诋毁者；批评者, *paying obeisance (n.)敬意；致敬 to* 表示敬意,表示顺从 the movement's institutional success /by declaring that `主` *it `谓` “deserves (v.)应得,值得  a place* in legal research” 理应在法律研究中占有一席之地 /while leaving (v.) it to others /to draw #the conclusion# 得出结论 from his _cogent (a.)有说服力的；令人信服的 analysis_ /#that# it is _an entirely factitious (a.)虚构的；人为的 undertaking_ 事业、任务, *deserving (a.)值得的；应得的 of* no _intellectual respect_ whatsoever 任何，无论什么;丝毫（用于强调否定句）.
+
+
+也许，他认识到一项运动（这项运动, 过去曾将他列为攻击目标）的成功，正试图安抚他的批评者，通过宣称这项运动“理应在法律研究中占有一席之地”, 来向其体制上的成功表示敬意，同时却任由他人从他那令人信服的分析中得出结论——即这项运动完全是一项虚假的、根本不值得任何知识尊重的事业。
+
+这段话描述了一个人物为了应对复杂局面而采取的圆滑且具策略性的行为。他面对一个过去伤害过自己但如今已然成功的力量，没有直接对抗或完全屈服。他选择了一种“曲线救国”的方式：
+
+- 明面上：他表达了恭敬和认可，以平息批评，承认既成事实。
+
+- 暗地里/策略上：他通过提供自己的“深刻分析”（可能是逻辑严谨但结论隐晦的），让第三方（读者或其他评论者）自行得出他真正想表达的、对这项运动的彻底否定和轻蔑。
+
+.*single (v.) sb/sth←→ˈout (for sth/as sb/sth)*
+(v.) to choose sb/sth from a group for special attention 单独挑出
+•She *was singled (v.) out* for criticism. 把她单挑出来进行批评。
+•He *was singled out* as the outstanding performer of the games. 他被评选为这次运动会表现最出色的运动员。
+
+.cogent
+-> #co-, 强调。-ag, 驱动，做#，词源同agent.
+
+.deserving
+(a.)  *~ (of sth)* ( formal ) that deserves help, praise, a reward, etc. 值得的；应得的 +
+•to give money to a deserving (a.) cause 把钱捐给值得赞助的事业 +
+•This family is one of the most deserving (a.) cases. 这是最应当得到帮助的一户人家。 +
+•an issue *deserving (a.) of* attention 值得注意的问题 +
+====
+
+- 392. `主` The history of _global diversity_ `谓` can be summarized as follows: after _the initial flowering_ (n.) of multicellular animals, `主` *there `系` was* _a swift (a.) rise_ in the number of species /in early _Paleozoic times_ (between 600 and 430 million years ago), /#then# _plateaulike stagnation_ for _the remaining 200 million years_ of _the Paleozoic era_, /#and finally# _a slow but steady climb_ through _the Mesozoic and Cenozoic eras_ to _diversity's all-time high_.
+
+[.my1]
+.案例
+====
+- 392. The history of global diversity 多样性，多样化 can *be summarized* as follows 如下: after _the initial flowering_ (n.)繁荣时期，鼎盛时期 of multicellular (a.)多细胞的 animals, there was _a swift (a.)迅速的，立刻的 rise_  迅速增长 in the number of species in early _Paleozoic 古生代的 times_ (between 600 and 430 million years ago), then _plateaulike 像高原一样平缓的,平稳的,没有增长的 stagnation_ (面(（一国经济的）不景气，停滞；（水）不流动) 停滞；不发展)  高原状的停滞,停滞不前 for _the remaining 200 million years_ of _the Paleozoic (a.)古生代的 era_ , and finally _a slow but steady climb_ /through _the Mesozoic 中生代的 and Cenozoic 新生代的 eras_ /to diversity's 多样性，多样化  _all-time high_ (历史最高点) 达到多样性的历史最高点.
+
+全球多样性的历史, 可以总结如下：在多细胞动物最初繁盛之后，早古生代时期（距今6亿至4.3亿年前）物种数量迅速增长，接着在古生代剩余的2亿年里停滞不前，最终在中生代和新生代缓慢但稳步攀升，达到多样性的历史最高点。
+
+这段话用简洁明了的方式，概述了地球上物种多样性（或生命多样性）在显生宙（Phanerozoic Eon）的主要演变历程，将其分为了三个显著阶段：
+
+- 第一阶段：早期古生代大爆发 (Swift (a.) Rise ) +
+在多细胞动物出现（“initial flowering”，可能指的是寒武纪大爆发）之后，大约在6亿到4.3亿年前的**早古生代，地球上的物种数量经历了一次快速而显著的增长。**这是生命形式从简单到复杂、从少到多的一次飞跃。
+
+- 第二阶段："古生代"中后期的停滞 (Plateaulike Stagnation) +
+**在早期的快速增长之后，古生代的剩余2亿年里（从4.3亿年前到古生代结束），物种多样性并没有继续快速增长，而是进入了一个“高原状的停滞”期。**这可能意味着增长速度大大放缓，甚至停滞不前，达到了一定饱和度。
+
+- 第三阶段：中生代和新生代的缓慢但稳步增长 (Slow but Steady Climb to All-Time High) +
+*古生代结束后，进入中生代（恐龙时代）和新生代（哺乳动物时代，直到现在），全球物种多样性经历了一个持续的、虽然速度不快,但非常稳定的增长过程。* +
+最终，这种增长使得地球上的物种多样性达到了有史以来的最高水平，也就是我们今天所看到的高度多样化的生命世界。
+
+
+
+====
+
+- 393. Though historically `主` *there `系` is* a discernible break *between* _Jewish law_ #of# _the sovereign state_ of ancient Israel #*and* of# the Diaspora (the dispersion of Jewish people /after the conquest of Israel), `主` #the spirit# of _the legal matter_ in later parts of _the Old Testament_ `系` *#is very close to#* that of _the Talmud_, one of _the primary codifications_ of _Jewish law_ in the Diaspora.
+
+[.my1]
+.案例
+====
+- 393. Though historically /`主`** there `系` is** a discernible 可辨别的；可识别的 break /*between* _Jewish law_ #of# _the sovereign (a.)（国家）有主权的，完全独立的；掌握全部权力的 state_ of ancient Israel /#*and* of# the Diaspora (n.)（犹太人的）大流散;（任何民族的）大移居 (the dispersion 分散；离散 of Jewish people /after the conquest of Israel), /`主` #the spirit# of _the legal matter_ 法律事项 in later parts of _the Old Testament_ (基督教的《旧约全书》) 在《旧约》的后面部分 `系` *#is very close to#* that of the Talmud 塔木德, one of _the primary codifications 编纂；汇编 of Jewish law_ in the Diaspora.
+
+尽管从历史上看，在古代以色列主权国家的犹太法律, 与散居地（犹太人在以色列被征服后的分散）的犹太法律之间, 存在一个可辨别的断裂，但《旧约》后期部分的法律精神, 与《塔木德》（散居地犹太法律的主要法典之一）的精神非常接近。
+
+这句话探讨了犹太法律发展过程中的连续性与断裂性，特别是在其历史语境和文本来源方面。
+
+1.历史上的断裂：
+
+作者首先承认，从历史角度来看，*古代以色列作为一个主权国家时期的犹太法律（即《旧约》时期），与后来犹太人被征服并分散到世界各地（散居地，Diaspora）之后所形成的犹太法律之间，确实存在着一个清晰可辨的“断裂”或区别。*
+
+
+2.精神上的延续与联系：
+
+*然而，尽管存在历史断裂，作者强调了一个重要的连续性：《旧约》后期部分的“法律精神”（the spirit of the legal matter）与《塔木德》的“法律精神”非常接近。*
+
+**《旧约》：指《希伯来圣经》（即基督教的《旧约圣经》），**包含了摩西律法等犹太法律的早期渊源。
+
+**《塔木德》：是犹太教口头律法（Oral Torah）和拉比文献的汇编，是散居时期犹太法律和伦理道德的主要法典，**对后世犹太人生活影响深远。
+
+====
+
+- 394. `主` None of these translations to screen and stage, however, `谓` dramatize (v.) the anarchy (n.) /at the conclusion of _A Connecticut Yankee_, /_which_ *ends (v.) with* _the violent overthrow_ of Morgan's three-year-old _progressive order_ /and his return (n.) to _the nineteenth century, /where_ he apparently *commits (v.) suicide* /after *being labeled* (v.) a lunatic (n.) /for _his incoherent babblings_ (n.) about drawbridges and battlements.
+
+image:/img/svg 394.svg[,]
+
+
+[.my1]
+.案例
+====
+- 394. #None of these translations# 翻译,改编作品 to screen and stage （改编成屏幕/影视剧和舞台剧）, however 然而, `谓` #dramatize# (v.)改编成戏剧；使戏剧化 the anarchy 无政府状态；混乱 /at the conclusion 在……的结束时刻 of _A Connecticut Yankee_, which *ends (v.) with* _the violent overthrow_ 推翻；颠覆 of _Morgan's three-year-old progressive order_ 进步秩序 /and _his return_ (n.) to the nineteenth century, where he apparently *commits (v.) suicide* 自杀 /after *being labeled* (v.) a lunatic 疯子；狂人;精神病患者 /for _his incoherent (a.)语无伦次的；不连贯的 babblings_ (n.)胡言乱语;婴儿发出的咿哑声 about drawbridges 吊桥 and battlements 碉堡上的城垛.
+
+然而，所有这些被改编成影视剧或舞台剧的作品，都没有戏剧化《康涅狄格州的美国佬》结局时的无政府状态——该书以摩根三年进步秩序的被暴力推翻, 以及他回到19世纪, 而告终，在那里, 他因胡言乱语关于吊桥和城垛, 而被贴上疯子的标签, 之后显然是自杀了。
+
+然而，这些影视和舞台改编作品都未展现《康州美国佬在亚瑟王朝》结局的无政府状态——原著结尾处，摩根历时三年建立的进步秩序被暴力推翻，他重返十九世纪后，因喋喋不休地念叨吊桥、城垛等胡话被当作疯子，最终显然以自杀收场。
+
+这段话的核心观点是，对于马克·吐温的《康涅狄格州的美国佬》, 现有的改编作品大多未能捕捉到原著结局中现代性尝试的失败、理性的局限, 以及主人公个人毁灭的残酷现实。
+
+.lunatic
+-> ##来自拉丁语luna,月亮，##词源同lunar.因西方古代医学认为月相的盈亏可引发暂时的神经错乱，也就是月亮效应
+
+====
+
+- 395. `主` #The discovery# /that `主` Haydn's and Mozart's symphonies `谓` were conducted /during their lifetimes /by a pianist /who played (v.) the chords /to keep the orchestra together /`谓`  #*has given rise to*# early music recordings /in which `主` a piano `谓` can be heard (v.) obtrusively in the foreground, /despite evidence (n.) 后定说明 indicating (v.) that /`主` the orchestral piano `系` was virtually inaudible (a.) to audiences /at eighteenth-century concerts /#and# *was dropped* (v.) as musically unnecessary /when `主` #a better way# 后定说明 to beat (v.) time `谓` #was found#.
+
+
+image:/img/svg 395.svg[,100%]
+
+
+
+
+[.my1]
+.案例
+====
+- 395. `主` #The discovery# /that Haydn's and Mozart's symphonies 交响曲 were conducted (v.)管理;引导；指挥 /during their lifetimes 一生 /by a pianist /who played the chords 和弦 /*to keep* the orchestra 管弦乐队 *together* /`谓` #has given rise to# 引发；导致 early music recordings 早期音乐录音 /in which `主` a piano `谓` can be heard (v.) obtrusively 突兀地；刺耳地 in the foreground 前景；最显著的位置, despite evidence /indicating (v.)表明，要求；暗示 that `主` the orchestral piano `系` was virtually 事实上，几乎 inaudible 听不见的；听不到的 to audiences /at eighteenth-century concerts 音乐会；演唱会  /and *was dropped*  被淘汰,被放弃 as musically unnecessary 作为音乐上不必要的（因素） /when `主` #a better way# 后定说明 to beat (v.) time 打拍子,保持节奏 `谓`## was found##.
+
+一项发现表明，海顿和莫扎特交响乐, 在他们生前, 是由一位"弹奏和弦"以保持乐团同步的钢琴师指挥的。这一发现, 促使了"早期音乐录音"的出现，在这些录音中，钢琴声突兀地出现在前景中，尽管有证据表明，在18世纪的音乐会中，乐队中的钢琴对观众来说几乎是听不见的，并且当找到更好的打拍子方式后，它作为音乐上的不必要因素, 就被淘汰了。
+
+.despite evidence 后定说明 indicating that...
+这里, "evidence" 并没有谓语。 +
+可以理解为：尽管有**“表明……的证据”**。这里的 "indicating" 是描述性成分，而不是主句的谓语动词。
+
+
+.Gemini 的解说
+核心论点是：
+
+一个历史发现：*人们发现，在海顿和莫扎特生活的时代，交响乐队的指挥, 并非现代意义上的指挥家，而是由一位钢琴师来承担。这位钢琴师的主要职责是"弹奏和弦"，帮助乐团成员保持节奏和音准，确保同步。这是一种早期的乐队“指挥”方式。*
+
+由发现引起的录音实践：由于有了这个发现，一些致力于“早期音乐”的录音制作人, 便在他们的录音中特意突出钢琴的存在，让钢琴的声音在混音中“突兀地”（obtrusively）出现在前景中，仿佛它是一个重要的独奏或伴奏乐器。
+
+作者的批判：然而，作者随即提出了一个反驳，指出这种录音实践, 是不符合历史真相的：
+
+历史证据：**有证据表明，在18世纪的实际音乐会中，这位作为“指挥”的钢琴师所弹奏的和弦，对现场观众来说几乎是听不见的（virtually inaudible）。**它的作用主要是内部协调，而非表演突出。
+
+淘汰的原因：更进一步，**当后来找到了更好的方式来保持乐团节奏（比如"现代指挥家"出现, 或使用其他更有效的打拍子方法）时，这种乐队中的钢琴, 就被彻底淘汰了，**因为它在音乐上被认为是“不必要的”了。
+
+核心解读：
+
+这段话是在批评一种过度解读历史信息, 并将其误用于当代实践的现象。**它指出，虽然发现了18世纪乐队演奏中, 钢琴师扮演的角色，但一些早期音乐录音, 却错误地将这种功能性的、背景性的演奏，变成了前景中突出的声音，从而歪曲了18世纪音乐会的真实听觉体验。作者暗示，这种录音可能没有真正理解历史演奏实践的语境，反而制造了一种不准确的“历史重现”。**这反映了在艺术复原和历史研究中，不仅要发现“是什么”，更要理解“为什么”以及“在什么情境下”。
+====
+
+- 396. In what, as one reviewer put it, was “clearly intended to be a realistic novel,” many reviewers perceived violations of the conventions of the realistic novel form, pointing out variously that late in the book, the narrator protagonist Celie and her friends are propelled toward a happy ending with more velocity than credibility, that the letters from Nettie to her sister Celie intrude into the middle of the main action with little motivation or warrant, and that the device of Celie's letters to God is especially unrealistic inasmuch as it forgoes the concretizing details that traditionally have given the epistolary novel (that is, a novel composed of letters) its peculiar verisimilitude: the ruses to enable mailing letters, the cache, and especially the letters received in return.
+
+[.my1]
+.案例
+====
+- 396. In #what# (what 在这里引导一个名词性从句，作为介词 In 的宾语，意为“在……之中”), (插入语) as one reviewer  评论者，评论家 put (v.) it 正如一位评论家所说, #was “clearly intended 预期的，打算中的 to be# a realistic novel 现实主义小说,” `主` many reviewers `谓` perceived (v.)感知；认为；领会 violations 违反；违背 of the conventions 惯例；常规 of the realistic novel form （存在的）形态，形式, *#pointing (v.) out variously 以各种方式;不同地；多方面地 ① that#* late in the book, `主` the narrator （小说或电影的）叙述者，叙事人 protagonist 主角 Celie and her friends `谓` *are propelled (v.) 推进；驱使 toward* a happy ending /with *more* velocity 速度 *than* credibility (可信度) 速度快得超过了可信度/缺乏可信度, #② that# `主` the letters from Nettie to her sister Celie `谓` intrude (v.)闯入；侵扰 into the middle of the _main action_ 主要情节 /with little motivation 动机 or warrant 正当理由；依据, #③ and that# `主` the device 手法；技巧；花招 of Celie's letters to God 写给上帝的信件 `系` is especially unrealistic /*inasmuch (ad.) as* 就……而言；因为；由于 it forgoes (v.)放弃；抛弃 the concretizing 具体化的 details /that traditionally have given the epistolary (a.)书信的；书信体的 novel 书信体小说 (that is, a novel *composed of* letters) its peculiar verisimilitude (n.)逼真；真实感: _the ruses_ (n.)诡计；策略 后定说明 to enable (v.) _mailing letters_ (寄信) 为寄信而设的计谋,花招, _the cache_ 藏匿处;隐藏处，秘窖, and especially _the letters_ 后定说明 received in return 尤其是收到的回信.
+
+正如一位评论家所说，在这部“显然旨在成为一部现实主义小说”的作品中，许多评论家却察觉到, 其违反了现实主义小说形式的惯例，他们纷纷指出：在书的后期，叙述者主人公西莉和她的朋友们, 被推向幸福结局的速度, 快得缺乏可信度；内蒂写给她姐姐西莉的信件，在缺乏足够动机或理由的情况下，闯入了主要情节的中间；而且，西莉写给上帝的信件这一手法, 尤其不现实，因为它放弃了传统上赋予书信体小说（即由信件构成的小说）特殊逼真性的具体化细节：那些为寄信而设的计谋、信件藏匿之处，以及尤其是收到的回信。
+
+这段话的核心观点是，一部号称“现实主义小说”的作品，却在叙事手法和情节安排上背离了现实主义的关键原则，特别是在追求结局的“可信度”和书信体形式的“逼真性”方面存在缺陷。评论家们认为，这种“不现实”的处理削弱了作品作为现实主义小说的说服力，尤其是在情感转折的自然性、情节发展的逻辑性以及书信体小说的真实感构建方面。
+
+.inasmuch as
+used to introduce a phrase that explains why or how much something described in another part of the sentence is true *由於;就…而言* +
+- *Inasmuch as* you are their commanding officer, you are responsible for the behaviour of these men.
+**由於**你是這些士兵的指揮官，你就要對他們的行為負責。
+
+.forgo
+(v.)( forego ) [ VN] ( formal ) to decide not to have or do sth that you would like to have or do 放弃，弃绝（想做的事或想得之物） +
+•No one was prepared (v.) *to forgo (v.) their lunch hour* /to attend (v.) the meeting. 谁都不愿意放弃午餐时间, 出席会议。 +
+-> ##for-, 完全的。go, 走，离开。##引申词义放弃，弃绝。
+
+.epistle
+(n.)[ U] ( formal ) the quality of seeming (v.) to be true or real 貌似真实；逼真
+SYN authenticity +
+•*To add (v.) verisimilitude* (n.), the stage is covered with sand /for the desert scenes. 为了更加逼真，舞台上铺满了沙子作为沙漠的场景。 +
+-> ##epi-, 在上，朝向。-stle, 放置，送出，##词源同 stand, stall, apostle.原指信息，书信，后来特指基督门徒书信。
+
+.verisimilitude
+-> ##ver-,真实的，非常的，词源同 very, similar,相似的。##即非常相似的，逼真的。
+
+.cache
+(v.) 1.to store (v.) things in a secret place, especially weapons 匿藏，隐藏（尤指武器） +
+
+2.( computing 计) to store (v.) data /in a cache 把（数据）存入高速缓冲存储器；高速缓存 +
+•This page is cached (v.). 这一页存入高速缓冲存储器了。 +
+
+-> 来自拉丁词 coactare, #压缩，堆放。co-, 强调，-act, 做，压紧。#
+====
+
+
+'''
+
+== pure
+
+
+- 351. Virginia Woolf's provocative statement about her intentions in writingMrs. Dallowayhas regularly been ignored by the critics, since it highlights an aspect of her literary interests very different from the traditional picture of the “poetic” novelist concerned with examining states of reverie and vision and with following the intricate pathways of individual consciousness.
+
+- 352. The physicist rightly dreads precise argument, since an argument that is convincing only if it is precise loses all its force if the assumptions on which it is based are slightly changed, whereas an argument that is convincing though imprecise may well be stable under small perturbations of its underlying assumptions.
+
+- 353. Is it not tyrannical, in Pascal's sense, to insist that those who excel in “sensitivity” or “the ability to express compassion” merit equal wealth with those who excel in qualities (such as “the capacity for hard work”) essential in producing wealth?
+
+- 354. In the early 1950's, historians who studied preindustrial Europe (which we may define here as Europe in the period from roughly 1300 to 1800) began, for the first time in large numbers, to investigate more of the preindustrial European population than the 2 or 3 percent who comprised the political and social elite: the kings, generals, judges, nobles, bishops, and local magnates who had hitherto usually filled history books.
+
+- 355. A long-held view of the history of English colonies that became the United States has been that England's policy toward these colonies before 1763 was dictated by commercial interests and that a change to a more imperial policy, dominated by expansionist militarist objectives, generated the tensions that ultimately led to the American Revolution.
+
+- 356. Thus, what in contrast to the Puritan colonies appears to Davis to be peculiarly Southern—acquisitiveness, a strong interest in politics and the law, and a tendency to cultivate metropolitan cultural models—was not only more typically English than the cultural patterns exhibited by Puritan Massachusetts and Connecticut, but also almost certainly characteristic of most other early modern British colonies from Barbados north to Rhode Island and New Hampshire.
+
+- 357. The physicist rightly dreads precise argument, since an argument that is convincing only if it is precise loses all its force if the assumptions on which it is based are slightly changed, whereas an argument that is convincing though imprecise may well be stable under small perturbations of its underlying assumptions.
+
+- 358. Is it not tyrannical, in Pascal's sense, to insist that those who excel in “sensitivity” or “the ability to express compassion” merit equal wealth with those who excel in qualities (such as “the capacity for hard work”) essential in producing wealth?
+
+- 359. In the early 1950's, historians who studied preindustrial Europe (which we may define here as Europe in the period from roughly 1300 to 1800) began, for the first time in large numbers, to investigate more of the preindustrial European population than the 2 or 3 percent who comprised the political and social elite: the kings, generals, judges, nobles, bishops, and local magnates who had hitherto usually filled history books.
+
+- 360. A long-held view of the history of English colonies that became the United States has been that England's policy toward these colonies before 1763 was dictated by commercial interests and that a change to a more imperial policy, dominated by expansionist militarist objectives, generated the tensions that ultimately led to the American Revolution.
+
+- 361. Thus, what in contrast to the Puritan colonies appears to Davis to be peculiarly Southern—acquisitiveness, a strong interest in politics and the law, and a tendency to cultivate metropolitan cultural models—was not only more typically English than the cultural patterns exhibited by Puritan Massachusetts and Connecticut, but also almost certainly characteristic of most other early modern British colonies from Barbados north to Rhode Island and New Hampshire.
+
+- 362. The “deindustrialization” thesis of Bluestone and Harrison asserts that the replacement of domestic with foreign manufacturing begun by United States corporations in the late 1960s resulted in a “hollowing out” of American industry, whereby workers displaced from manufacturing jobs through massive plant closings found themselves moving more or less permanently into lower-paying, less secure jobs or into unemployment.
+
+- 363. Pocock's assertion that Jefferson's attacks on the commercial policies of the Federalists simply echo the language of the Tory opposition in England is at odds with the fact that Jefferson rejected the elitist implications of that group's notion of virtue and asserted the right of all to participate in commercial society.
+
+- 364. Herbert Shaw argues that because scientists have underestimated the input of substantial amounts of energy from extraterrestrial impactors (asteroids and comets striking Earth), they have difficulty accounting for the difference between the quantity of energy produced from sources intrinsic to Earth and that involved in plate tectonics.
+
+- 365. Critiquing the movement's assumption that lawyers can offer special insights into literature that deals with legal matters, Posner points out that writers of literature use the law loosely to convey a particular idea or as a metaphor for the workings of the society envisioned in their fiction.
+
+- 366. One such novel idea is that of inserting into the chromosomes of plants discrete genes that are not a part of the plants' natural constitution: specifically, the idea of inserting into nonleguminous plants the genes, if they can be identified and isolated, that fit the leguminous plants to be hosts for nitrogen-fixing bacteria. Hence, the intensified research on legumes.
+
+- 367. Some geologists, however, on the basis of observations concerning mantle xenoliths, argue that the mantle is not layered, but that heterogeneity is created by fluids rich in “incompatible elements” (elements tending toward liquid rather than solid state) percolating upward and transforming portions of the upper mantle irregularly, according to the vagaries of the fluids' pathways.
+
+- 368. It is possible to make specific complementary DNA's (cDNA's) that can serve as molecular probes to seek out the messenger RNA's (mRNA's) of the peptide hormones. If brain cells are making the hormones, the cells will contain these mRNA's. If the products the brain cells make resemble the hormones but are not identical to them, then the cDNA's should still bind to these mRNA's, but should not bind as tightly as they would to mRNA's for the true hormones.
+
+- 369. The increase in the numbers of married women employed outside the home in the twentieth century had less to do with the mechanization of housework and an increase in leisure time for these women than it did with their own economic necessity and with high marriage rates that shrank the available pool of single women workers, previously, in many cases, the only women employers would hire.
+
+- 370. The Analytical Review's rather arch dismissal of novels by women has all too often been reflected in the literary histories of English fiction, where it has been popular to view the rise of the novel as the exclusive history of “the five greats” (Defoe, Richardson, Fielding, Smollett, and Sterne) and to ignore or at best to minimize the contributions of eighteenthcentury women novelists.
+
+- 371. They were fighting, albeit discreetly, to open the intellectual world to the new science and to liberate intellectual life from ecclesiastical philosophy and envisioned their work as contributing to the growth, not of philosophy, but of research in mathematics and physics.
+
+- 372. Under the force of this view, it was perhaps inevitable that the art of rhetoric should pass from the status of being regarded as of questionable worth (because although it might be both a source of pleasure and a means to urge people to right action, it might also be a means to distort truth and a source of misguided action) to the status of being wholly condemned.
+
+- 373. 2. The resurgence of multiple ethnic groups within a single state, Hill says, is not “potentially threatening to the sovereign jurisdiction of the state,” as Urban and Sherzer suggest; rather, the assertion of cultural differences threatens to reveal ethnocentric beliefs and practices upon which conquest states were historically founded and thus to open up the possibility for a “nations-state” in which conquered ethnic groups enjoy equal rights with the conquering ethnic group but do not face the threat of persecution or cultural assimilation into the dominant ethnic group.
+
+- 374. Because the increased awareness of civil rights in these decades helped reinforce the belief that life on reservations prevented Native Americans from exercising the rights guaranteed to citizens under the United States Constitution, the readjustment movement advocated the end of the federal government's involvement in Native American affairs and encouraged the assimilation of Native Americans as individuals into mainstream society.
+
+- 375. 4. The people's liberty consists not in their original responsibility for what exists, but merely in the faculty they have acquired of abolishing any detail that may distress or wound them, and of imposing any new measure, which, seen against the background of existing laws, may commend itself from time to time to their instinct and mind.
+
+- 376. There is, however, considerable disagreement among cultural historians regarding public attitudes toward the railroad, both at its inception in the 1830s and during the half century between 1880 and 1930, when the national rail system was completed and reached the zenith of its popularity in the United States.
+
+- 377. Under the force of this view, it was perhaps inevitable that the art of rhetoric should pass from the status of being regarded as of questionable worth (because although it might be both a source of pleasure and a means to urge people to right action, it might also be a means to distort truth and a source of misguided action) to the status of being wholly condemned.
+
+- 378. The resurgence of multiple ethnic groups within a single state, Hill says, is not “potentially threatening to the sovereign jurisdiction of the state,” as Urban and Sherzer suggest; rather, the assertion of cultural differences threatens to reveal ethnocentric beliefs and practices upon which conquest states were historically founded and thus to open up the possibility for a “nations-state” in which conquered ethnic groups enjoy equal rights with the conquering ethnic group but do not face the threat of persecution or cultural assimilation into the dominant ethnic group.
+
+- 379. Because the increased awareness of civil rights in these decades helped reinforce the belief that life on reservations prevented Native Americans from exercising the rights guaranteed to citizens under the United States Constitution, the readjustment movement advocated the end of the federal government's involvement in Native American affairs and encouraged the assimilation of Native Americans as individuals into mainstream society.
+
+- 380. The people's liberty consists not in their original responsibility for what exists, but merely in the faculty they have acquired of abolishing any detail that may distress or wound them, and of imposing any new measure, which, seen against the background of existing laws, may commend itself from time to time to their instinct and mind.
+
+- 381. There is, however, considerable disagreement among cultural historians regarding public attitudes toward the railroad, both at its inception in the 1830s and during the half century between 1880 and 1930, when the national rail system was completed and reached the zenith of its popularity in the United States.
+
+- 382. Readers of African American autobiography then and now have too readily accepted the presumption of these eighteenth- and nineteenth-century editors that experiential facts recounted orally could be recorded and sorted by an amanuensis-editor, taken out of their original contexts, and then published with editorial prefaces, footnotes, and appended commentary, all without compromising the validity of the narrative as a product of an African American consciousness.
+
+- 383. Thus, for instance, it may come as a shock to mathematicians to learn that the Schrodinger equation for the hydrogen atom is not a literally correct description of this atom, but only an approximation to a somewhat more correct equation taking account of spin, magnetic dipole, and relativistic effects; and that this corrected equation is itself only an imperfect approximation to an infinite set of quantum field-theoretical equations.
+
+- 384. Islam, on the other hand, represented a radical breakaway from the Arab paganism that preceded it; Islamic law is the result of an examination, from a religious angle, of legal subject matter that was far from uniform, comprising as it did the various components of the laws of pre-Islamic Arabia and numerous legal elements taken over from the non-Arab peoples of the conquered territories.
+
+- 385. These questions are political in the sense that the debate over them will inevitably be less an exploration of abstract matters in a spirit of disinterested inquiry than an academic power struggle in which the careers and professional fortunes of many women scholars—only now entering the academic profession in substantial numbers—will be at stake, and with them the chances for a distinctive contribution to humanistic understanding, a contribution that might be an important influence against sexism in our society.
+
+- 386. Calculations of the density of alloys based on Bernal-type models of the alloys metal component agreed fairly well with the experimentally determined values from measurements on alloys consisting of a noble metal together with a metalloid, such as alloys of palladium and silicon, or alloys consisting of iron, phosphorus, and carbon, although small discrepancies remained.
+
+- 387. The traditional view supposes that the upper mantle of the earth behaves as a liquid when it is subjected to small forces for long periods and that differences in temperature under oceans and continents are sufficient to produce convection in the mantle of the earth with rising convection currents under the mid-ocean ridges and sinking currents under the continents.
+
+- 388. While historians of literature have always been aware that writers work within particular traditions, the application of this notion to the history of political ideas forms a sharp contrast to the assumptions of the 1950s, when it was naively thought that the close reading of a text by an analytic philosopher was sufficient to establish its meaning, even if the philosopher had no knowledge of the period of the text's composition.
+
+- 389. Many choose jobs entailing little challenge or responsibility or those offering flexible scheduling, often available only in poorly paid positions, while other working mothers, although willing and able to assume as much responsibility as people without children, find that their need to spend regular and predictable time with their children inevitably causes them to lose career opportunities to those without such demands.
+
+- 390. Observing that species found on high ground are different from those on low ground and knowing that in the Amazon lowlands are drier than uplands, he proposed that during the ice ages the Amazon lowlands became a near-desert arid plain; meanwhile, the more elevated regions became islands of moisture and hence served as refuges for the fauna and flora of the rain forest.
+
+- 391. Perhaps, recognizing the success of a movement that, in the past, has singled him out for abuse, he is attempting to appease his detractors, paying obeisance to the movements institutional success by declaring that it “deserves a place in legal research” while leaving it to others to draw the conclusion from his cogent analysis that it is an entirely factitious undertaking, deserving of no intellectual respect whatsoever.
+
+- 392. The history of global diversity can be summarized as follows: after the initial flowering of multicellular animals, there was a swift rise in the number of species in early Paleozoic times (between 600 and 430 million years ago), then plateaulike stagnation for the remaining 200 million years of the Paleozoic era, and finally a slow but steady climb through the Mesozoic and Cenozoic eras to diversity's all-time high.
+
+- 393. Though historically there is a discernible break between Jewish law of the sovereign state of ancient Israel and of the Diaspora (the dispersion of Jewish people after the conquest of Israel), the spirit of the legal matter in later parts of theOld Testamentis very close to that of theTalmud, one of the primary codifications of Jewish law in the Diaspora.
+
+- 394. None of these translations to screen and stage, however, dramatize the anarchy at the conclusion ofA Connecticut Yankee, which ends with the violent overthrow of Morgan's three-year-old progressive order and his return to the nineteenth century, where he apparently commits suicide after being labeled a lunatic for his incoherent babblings about drawbridges and battlements.
+
+- 395. The discovery that Haydn's and Mozart's symphonies were conducted during their lifetimes by a pianist who played the chords to keep the orchestra together has given rise to early music recordings in which a piano can be heard obtrusively in the foreground, despite evidence indicating that the orchestral piano was virtually inaudible to audiences at eighteenth-century concerts and was dropped as musically unnecessary when a better way to beat time was found.
+
+- 396. 5. In what, as one reviewer put it, was “clearly intended to be a realistic novel,” many reviewers perceived violations of the conventions of the realistic novel form, pointing out variously that late in the book, the narrator protagonist Celie and her friends are propelled toward a happy ending with more velocity than credibility, that the letters from Nettie to her sister Celie intrude into the middle of the main action with little motivation or warrant, and that the device of Celie's letters to God is especially unrealistic inasmuch as it forgoes the concretizing details that traditionally have given the epistolary novel (that is, a novel composed of letters) its peculiar verisimilitude: the ruses to enable mailing letters, the cache, and especially the letters received in return.
+
+- 397. The history of global diversity can be summarized as follows: after the initial flowering of multicellular animals, there was a swift rise in the number of species in early Paleozoic times (between 600 and 430 million years ago), then plateaulike stagnation for the remaining 200 million years of the Paleozoic era, and finally a slow but steady climb through the Mesozoic and Cenozoic eras to diversity's all-time high.
+
+- 398. Though historically there is a discernible break between Jewish law of the sovereign state of ancient Israel and of the Diaspora (the dispersion of Jewish people after the conquest of Israel), the spirit of the legal matter in later parts of theOld Testamentis very close to that of theTalmud, one of the primary codifications of Jewish law in the Diaspora.
+
+- 399. None of these translations to screen and stage, however, dramatize the anarchy at the conclusion ofA Connecticut Yankee, which ends with the violent overthrow of Morgan's three-year-old progressive order and his return to the nineteenth century, where he apparently commits suicide after being labeled a lunatic for his incoherent babblings about drawbridges and battlements.
+
+- 400. The discovery that Haydn's and Mozart's symphonies were conducted during their lifetimes by a pianist who played the chords to keep the orchestra together has given rise to early music recordings in which a piano can be heard obtrusively in the foreground, despite evidence indicating that the orchestral piano was virtually inaudible to audiences at eighteenth-century concerts and was dropped as musically unnecessary when a better way to beat time was found.
+
+- 401. In what, as one reviewer put it, was “clearly intended to be a realistic novel,” many reviewers perceived violations of the conventions of the realistic novel form, pointing out variously that late in the book, the narrator protagonist Celie and her friends are propelled toward a happy ending with more velocity than credibility, that the letters from Nettie to her sister Celie intrude into the middle of the main action with little motivation or warrant, and that the device of Celie's letters to God is especially unrealistic inasmuch as it forgoes the concretizing details that traditionally have given the epistolary novel (that is, a novel composed of letters) its peculiar verisimilitude: the ruses to enable mailing letters, the cache, and especially the letters received in return.

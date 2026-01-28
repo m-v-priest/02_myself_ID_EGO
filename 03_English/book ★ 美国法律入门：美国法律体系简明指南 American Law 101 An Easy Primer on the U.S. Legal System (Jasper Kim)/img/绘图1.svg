@@ -1,0 +1,75 @@
+<svg viewBox="0 0 1102 322" xmlns:xlink="http://www.w3.org/1999/xlink" height="322" width="1102" xmlns="http://www.w3.org/2000/svg">
+    <defs/>
+    <g transform="translate(-312.76,-66.00)">
+        <g transform="translate(314.26,200.00)" id="shape1">
+            <path fill="#3f5cb8" fill-rule="nonzero" stroke="#3f5cb8" stroke-width="3" d="M4.0,.0L92.0,.0C94.2,.0,96.0,1.8,96.0,4.0L96.0,50.0C96.0,52.2,94.2,54.0,92.0,54.0L4.0,54.0C1.8,54.0,.0,52.2,.0,50.0L.0,4.0C.0,1.8,1.8,.0,4.0,.0z"/>
+            <text xml:space="preserve" style="fill:#ffffff;font-family:Microsoft YaHei;font-size:9.00pt">
+                <tspan x="24.8" y="32.0">中心主题</tspan>
+            </text>
+        </g>
+        <g transform="translate(473.26,79.50)" id="shape2">
+            <path fill="#eaebf1" fill-rule="nonzero" stroke="#eaebf1" stroke-width="3" d="M4.0,.0L262.0,.0C264.2,.0,266.0,1.8,266.0,4.0L266.0,53.0C266.0,55.2,264.2,57.0,262.0,57.0L4.0,57.0C1.8,57.0,.0,55.2,.0,53.0L.0,4.0C.0,1.8,1.8,.0,4.0,.0z"/>
+            <text xml:space="preserve" style="fill:#303030;font-family:Microsoft YaHei;font-size:9.00pt">
+                <tspan x="22.8" y="25.0">让步状语从句</tspan>
+                <tspan x="22.8" y="42.0">While there are </tspan>
+                <tspan x="115.8" style="fill:#42c181">instances </tspan>
+                <tspan x="172.8" style="fill:#000000">存在一些情况</tspan>
+            </text>
+        </g>
+        <g transform="translate(764.26,67.50)" id="shape3">
+            <path fill="none" stroke="#696969" stroke-width="3" d="M.0,81.0L271.0,81.0"/>
+            <text xml:space="preserve" style="fill:#454545;font-family:Microsoft YaHei;font-size:9.00pt">
+                <tspan x="11.8" y="19.5">后定 </tspan>
+                <tspan x="11.8" y="36.5">in which consumer abuse and exploitation </tspan>
+                <tspan x="11.8" y="53.5">`谓` result (v.)  from </tspan>
+                <tspan x="128.8" style="fill:#42c181">advertising</tspan>
+                <tspan x="11.8" y="70.5">（在这些情况中，消费者侵害源于广告）</tspan>
+            </text>
+        </g>
+        <g transform="translate(1060.26,76.00)" id="shape4">
+            <path fill="none" stroke="#696969" stroke-width="3" d="M.0,64.0L237.0,64.0"/>
+            <text xml:space="preserve" style="fill:#454545;font-family:Microsoft YaHei;font-size:9.00pt">
+                <tspan x="11.8" y="19.5">后定</tspan>
+                <tspan x="11.8" y="36.5">that is false, misleading, or irrelevant</tspan>
+                <tspan x="11.8" y="53.5">（那些虚假、误导或不相关的广告）</tspan>
+            </text>
+        </g>
+        <g transform="translate(473.26,181.50)" id="shape5">
+            <path fill="#eaebf1" fill-rule="nonzero" stroke="#eaebf1" stroke-width="3" d="M4.0,.0L252.0,.0C254.2,.0,256.0,1.8,256.0,4.0L256.0,53.0C256.0,55.2,254.2,57.0,252.0,57.0L4.0,57.0C1.8,57.0,.0,55.2,.0,53.0L.0,4.0C.0,1.8,1.8,.0,4.0,.0z"/>
+            <text xml:space="preserve" style="fill:#303030;font-family:Microsoft YaHei;font-size:9.00pt">
+                <tspan x="22.8" y="25.0">It does not follow that...</tspan>
+                <tspan x="22.8" y="42.0">这并不意味着…”、“由此不能推断出…</tspan>
+            </text>
+        </g>
+        <g transform="translate(754.26,186.50)" id="shape6">
+            <path fill="none" stroke="#696969" stroke-width="3" d="M.0,47.0L424.0,47.0"/>
+            <text xml:space="preserve" style="fill:#454545;font-family:Microsoft YaHei;font-size:9.00pt">
+                <tspan x="11.8" y="19.5">`主` these cases `谓` need to be remedied (补救,治疗,纠正) 需要被补救 </tspan>
+                <tspan x="11.8" y="36.5">by governmental intervention 被政府干预 in the marketplace,</tspan>
+            </text>
+        </g>
+        <g transform="translate(473.26,283.50)" id="shape7">
+            <path fill="#eaebf1" fill-rule="nonzero" stroke="#eaebf1" stroke-width="3" d="M4.0,.0L396.0,.0C398.2,.0,400.0,1.8,400.0,4.0L400.0,87.0C400.0,89.2,398.2,91.0,396.0,91.0L4.0,91.0C1.8,91.0,.0,89.2,.0,87.0L.0,4.0C.0,1.8,1.8,.0,4.0,.0z"/>
+            <text xml:space="preserve" style="fill:#303030;font-family:Microsoft YaHei;font-size:9.00pt">
+                <tspan x="22.8" y="25.0">原因状</tspan>
+                <tspan x="22.8" y="42.0">because it is possible </tspan>
+                <tspan x="22.8" y="59.0">for consumers’ interests to be protected </tspan>
+                <tspan x="22.8" y="76.0">方式状 through </tspan>
+                <tspan x="112.8" style="font-weight:bold">resort (v.)  to</tspan>
+                <tspan x="193.8"> 求助于 the courts,  通过诉诸法院</tspan>
+            </text>
+        </g>
+        <g transform="translate(898.26,271.50)" id="shape8">
+            <path fill="none" stroke="#696969" stroke-width="3" d="M.0,115.0L515.0,115.0"/>
+            <text xml:space="preserve" style="fill:#454545;font-family:Microsoft YaHei;font-size:9.00pt;font-weight:bold">
+                <tspan x="11.8" y="19.5">either</tspan>
+                <tspan x="47.8" style="font-weight:normal"> by consumers themselves  选项一，“由消费者自己”</tspan>
+                <tspan x="11.8" y="53.5">or</tspan>
+                <tspan x="24.8" style="font-weight:normal"> by those competing sellers 选项二，“由那些竞争商家”</tspan>
+                <tspan x="11.8" y="70.5" style="font-weight:normal"> who see their market shares decline (v.) 看到他们的市场份额下降  </tspan>
+                <tspan x="11.8" y="87.5" style="font-weight:normal">in the face of inroads 在面对（市场的）入侵时 based on such advertising 基于此类广告</tspan>
+                <tspan x="11.8" y="104.5" style="font-weight:normal">的</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

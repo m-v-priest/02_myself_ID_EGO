@@ -1,0 +1,38 @@
+= 002
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../../../../myAdocCss.css
+
+'''
+
+
+- Hardy’s weakness #*derived 起源；源自；来自 from*# his apparent 显而易见的；明显的 inability 无能；无力；不能 to control (v.) the _comings and goings_ 来来往往 of these divergent 有分歧的；不同的；相异的 impulses 冲动；突如其来的念头 /#*and from*# his unwillingness 不情愿；不愿意 *to cultivate 培养；培育；养成 and sustain* (v.) 维持；保持；支撑 _the energetic 精力充沛的；充满活力的 and risky 有风险的；危险的 ones_.
+
+[.my1]
+.案例
+====
+- (002.) Hardy’s weakness derived from his apparent inability to control the comings and goings of these divergent impulses and from his unwillingness to cultivate and sustain the energetic and risky ones.
+
+哈代的弱点, 源于他显然无法控制这些不同冲动的来去，也源于他不愿培养和维持那些充满活力且具有风险的冲动。
+
+.这句话中的 cultivate and sustain 怎么理解? 如果翻译成 "源于他不愿培养和维持那些充满活力且具有风险的冲动", 意思上会很奇怪, 难道说他的弱点, 是源于不愿培养和维持冲动? 反过来说, 难道是要他培养和维持有风险的冲动, 他才能没有弱点?
+
+▶ gemini:
+
+这句话出自一篇文学批评（常见于 GRE / GMAT 阅读理解文章），讨论 Thomas Hardy（托马斯·哈代）作为小说家的弱点。上下文是：哈代的创作冲动（impulses）众多,且 divergent（互相矛盾、方向不同），他全部 indulge（放纵、纵容）了它们，但这些冲动并不总是和谐共存，导致小说质量不均（unevenness）。
+
+cultivate and sustain 的准确理解: 是“刻意去强化并长期保持那些充满活力（energetic）、敢于冒险（risky）的创作冲动”。
+
+- energetic：指那些有力量、激情、能推动小说达到高潮或深刻张力的冲动（比如大胆的悲剧视野、强烈的社会批判）。
+- risky：指那些可能让作品显得极端、不安全、容易失败或招致争议的冲动（比如彻底的宿命论、打破常规的叙事、过于黑暗的结局）。
+
+批评者认为，哈代有这些“强劲而危险”的冲动，但他不愿意去主动培育它们、让它们成为主导，反而随波逐流（submitted to first one and then another），哪个冲动来了就跟着走（the spirit blew where it listed），结果导致作品内部不协调、强弱不均。
+
+你译成“源于他不愿培养和维持那些充满活力,且具有风险的冲动”确实会让人困惑，因为听起来像“他不培养冲动 → 所以弱”，好像鼓励他去“养大那些危险的东西”才好。
+
+*问题出在中文“培养冲动”这个表达太字面了，容易误解成“把冲动养成习惯”或“放纵冲动”。* +
+*但##原文的 cultivate and sustain 带有主动选择、精雕细琢、坚持到底的意味，更接近艺术家对某种创作倾向的有意识强化和持久投入。##*
+====
+
+'''

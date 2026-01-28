@@ -1,0 +1,536 @@
+
+= 002-5 Constitutional Change 宪法变更
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../../myAdocCss.css
+
+
+'''
+
+
+== 释义
+
+
+
+
+We can broadly divide the provisions of the Bill of Rights into three categories. The First, Second, Third, and Fourth Amendments protect basic individual freedoms; the Fourth (partly), Fifth, Sixth, Seventh, and Eighth protect people suspected or accused of criminal activity or facing civil litigation; and the Ninth and Tenth, are consistent with the framers’ view that the Bill of Rights is not necessarily an exhaustive list of all the rights people have and guarantees a role for state as well as federal government (Figure 4.5).
+
+[.my2]
+##**我们可以大致将"权利法案"的条款分为三类。**##第一、第二、第三和第四修正案, #*保护基本的个人自由*#；第四（部分）、第五、第六、第七和第八修正案, #*保护"被怀疑或被指控犯罪, 或面临民事诉讼的人"*#；第九和第十修正案则, 与制宪者的观点一致，即##**"权利法案"并非详尽列举人们拥有的所有权利，并保障了"州政府和联邦政府的职能"**##（ 图 4.5 ）。
+
+A Venn Diagram labeled “Categories of Rights and Protections”. The top circle of the diagram is labeled “Criminal”, the circle on the left is labeled “Procedural”, and the circle on the right is labeled “Individual Freedoms”. The values “Fifth Amendment” and “Sixth Amendment” are shown in the center of the diagram where all three circles overlap. The values “Fourth Amendment” and “Tenth Amendment” are shown in the circle on the left labeled “Procedural”. The values “First Amendment”, “Seventh Amendment”, and “Eighth Amendment” are shown at the bottom of the diagram where the circles labeled “Procedural” and “Individual Freedoms” overlap. The values “Second Amendment”, “Third Amendment”, and “Ninth Amendment” are shown in the circle on the right labeled “Individual Freedoms”.
+
+[.my2]
+标有“权利和保护类别”的维恩图。图中最上面的圆圈被标记为“犯罪”，左边的圆圈被标记为“程序”，右边的圆圈被标记为“个人自由”。值“第五修正案”和“第六修正案”显示在图的中心，所有三个圆圈重叠。值“第四修正案”和“第十修正案”显示在左侧标有“程序”的圆圈中。数值“第一修正案”、“第七修正案”和“第八修正案”显示在图的底部，圆圈标记为“P”
+
+image:/img/022.webp[,100%]
+
+
+
+Figure 4.5
+
+[.my2]
+图 4.5
+
+The First Amendment protects the right to freedom of religious conscience and practice and the right to free expression, particularly of political and social beliefs. The Second Amendment—perhaps the most controversial today—protects the right to defend yourself in your home or other property, and, until the establishment of the National Guard, the collective right to self-defense as part of a militia. The Third Amendment prohibits the government from commandeering people’s homes to house soldiers, particularly in peacetime. Finally, the Fourth Amendment prevents the government from searching one's person or property or taking evidence without a warrant issued by a judge, with certain exceptions.
+
+[.my2]
+*第一修正案, 保护"宗教信仰自由"和"实践自由"，以及"言论自由"，特别是政治和社会信仰的"言论自由"。第二修正案——或许是当今最具争议的修正案——##保护公民在住宅或其他财产中, 自卫的权利.##并且在国民警卫队成立之前，还保护公民作为民兵组织成员, 进行"集体自卫"的权利。第三修正案, ##禁止"政府征用公民住宅,来安置士兵"，尤其是在和平时期。##最后，第四修正案, ##禁止政府在没有法官签发的搜查令的情况下, 搜查公民的人身或财产，或搜集证据，##但某些例外情况除外。*
+
+'''
+
+
+=== THE FIRST AMENDMENT
+
+[.my2]
+第一修正案
+
+The First Amendment is perhaps the most famous provision of the Bill of Rights. It is arguably also the most extensive, because it guarantees both religious freedoms and the right to express your views in public. Specifically, the First Amendment says:
+
+[.my2]
+第一修正案或许是《"权利法案"》中最著名的条款。它也可以说是最全面的条款，因为它既保障了宗教自由，也保障了"公开表达观点"的权利。具体而言，第一修正案规定：
+
+“Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.”
+
+[.my2]
+“国会不得制定任何法律来确立国教，或禁止宗教自由；不得剥夺言论自由或出版自由；不得剥夺人民和平集会, 和向政府请愿伸冤的权利。”
+
+Given the broad scope of this amendment, it is helpful to break it into its two major parts.
+
+[.my2]
+鉴于这项修正案的范围很广，将其分为两个主要部分会很有帮助。
+
+The first portion deals with religious freedom. However, it actually protects two related sorts of freedom: first, it protects people from having a set of religious beliefs imposed on them by the government, and second, it protects people from having their own religious beliefs restricted by government authorities.
+
+[.my2]
+第一部分涉及宗教自由。然而，它实际上保护两种相关的自由：首先，它保护人们"免受政府强加的宗教信仰"；其次，它保护人们"免受政府当局对其自身宗教信仰的限制"。
+
+'''
+
+==== The Establishment Clause
+
+[.my2]
+政教分离条款
+
+The first of these two freedoms is known as the establishment clause. Congress is prohibited from creating or promoting a state-sponsored religion (this now includes the states). When the United States was founded, most countries around the world had an established church or religion—an officially sponsored set of religious beliefs and values. In Europe, bitter wars were fought between and within states, often because the established church of one territory was in conflict with that of another. Wars and civil strife were common, particularly between states with Protestant and Catholic churches that had differing interpretations of Christianity. Even in recent years, the legacy of these wars remains, most notably in Ireland, where complications from Brexit have rekindled tensions between a mostly Catholic south and a largely Protestant north that were simmering for nearly a century.
+
+[.my2]
+这两项自由中的第一项, 被称为**“ 政教分离条款” 。国会被禁止"设立或推广国家支持的宗教"（现在也包括各州）。**美国建国之初，世界上大多数国家都有国教或国教——一套官方认可的宗教信仰和价值观。在欧洲，国家之间以及国家内部爆发了激烈的战争，通常是因为一个地区的国教, 与另一个地区的国教存在冲突。战争和内乱十分常见，尤其是在"新教"和"天主教"国家之间，因为这些国家对基督教的解读存在差异。即使在近些年，这些战争的遗留影响依然存在，最显著的例子是爱尔兰。英国脱欧带来的种种问题, 重新点燃了爱尔兰南部（"天主教徒"占多数）和北部（"新教徒"占多数）之间持续近一个世纪的紧张关系。
+
+Many settlers in the United States came to this continent as refugees from such wars; others came to find a place where they could follow their own religion with like-minded people in relative peace. Even if the early United States had wanted to establish a single national religion, the diversity of religious beliefs within and between the colonies would have made this quite impossible. Nonetheless the differences were small; most people were of European origin and professed some form of Christianity (although in private some of the founders, most notably Thomas Jefferson, Thomas Paine, and Benjamin Franklin, held what today would be seen as more pluralistic Unitarian or deistic views). So for much of U.S. history, the establishment clause was not particularly important—the vast majority of citizens were Protestant Christians of some form, and since the federal government was relatively uninvolved in the day-to-day lives of the people, there was little opportunity for conflict. That said, there were some citizenship and office-holding restrictions on Jews within some of the states.
+
+[.my2]
+许多美国移民, 是作为战乱难民来到这片大陆的；另一些人则是为了寻找一个可以与志同道合的人一起, 相对和平地信奉自己宗教的地方。即使早期的美国想要建立单一的国教，各殖民地内部, 及殖民地之间宗教信仰的多样性, 也使得这几乎不可能实现。尽管如此，这些差异并不大；大多数人是欧洲裔，信奉某种形式的基督教（尽管私下里，一些开国元勋，尤其是托马斯·杰斐逊、托马斯·潘恩, 和本杰明·富兰克林，持有今天看来更为多元化的"基督教一神论"或"自然神论"观点）。因此，在美国历史的大部分时期，"政教分离条款"并不特别重要——绝大多数公民都是某种形式的基督教新教徒，而且由于联邦政府相对不干预民众的日常生活，冲突的机会也很少。即便如此，一些州仍然对犹太人的公民身份和担任公职, 有所限制。
+
+Worry about state sponsorship of religion in the United States began to reemerge in the latter part of the nineteenth century. An influx of immigrants from Ireland and eastern and southern Europe brought large numbers of Catholics. Fearing the new immigrants and their children would not assimilate, states passed laws forbidding government aid to religious schools. New religious organizations, such as The Church of Jesus Christ of Latter-day Saints, Seventh-day Adventists, Jehovah’s Witnesses, and many others, also emerged, blending aspects of Protestant beliefs with other ideas and teachings at odds with the more traditional Protestant churches of the era. At the same time, public schooling was beginning to take root on a wide scale. Since most states had traditional Protestant majorities and most state officials were Protestants themselves, the public school curriculum incorporated many Protestant features; at times, these features would come into conflict with the beliefs of children from other Christian sects or from other religious traditions.
+
+[.my2]
+**19世纪后期，**美国政府对宗教的资助问题, 再次引发担忧。**来自爱尔兰、东欧和南欧的大量移民, 带来了众多天主教徒。由于担心这些新移民及其子女无法融入主流社会，各州纷纷立法禁止政府资助宗教学校。**与此同时，诸如耶稣基督后期圣徒教会、基督复临安息日会、耶和华见证人等新兴宗教组织, 也应运而生，它们融合了"新教"信仰的某些方面，并吸收了与当时较为传统的基督教"新教"教会相悖的其他思想和教义。此外，*公立学校教育也开始大规模普及。由于大多数州的新教徒占多数，且大多数州政府官员本身也是新教徒，公立学校的课程设置融入了许多新教元素；有时，这些元素会与"其他基督教派别或宗教传统的信徒"产生冲突。*
+
+The establishment clause today tends to be interpreted a bit more broadly than in the past; it not only forbids the creation of a “Church of the United States” or “Church of Ohio” it also forbids the government from favoring one set of religious beliefs over others or favoring religion (of any variety) over non-religion. Thus, the government cannot promote, say, Islamic beliefs over Sikh beliefs or belief in God over atheism or agnosticism (Figure 4.6).
+
+[.my2]
+如今，*宪法第一修正案中的"政教分离条款"*, 往往比以往, 解释得更为宽泛；它不仅**禁止设立“美国教会”或“俄亥俄州教会”，**还禁止政府偏袒任何一种宗教信仰, 而歧视其他宗教信仰，或偏袒任何形式的宗教, 而歧视非宗教。因此，政府不能推行伊斯兰教信仰,而歧视锡克教信仰，也不能推崇对上帝的信仰,而歧视无神论或不可知论（ 图 4.6 ）。
+
+
+[.my2]
+Figure 4.6 In this illustration from a contemporary manuscript, Henry Bolingbroke (i.e., Henry IV) claims the throne in 1399 surrounded by the Lords Spiritual and Temporal (secular). While the Lords Spiritual have been a minority in the House of Lords since the time of Henry VIII, and religion does not generally play a large role in British politics today, the Church of England nevertheless remains represented in Parliament by twenty-six bishops.
+
+[.my2]
+图 4.6 在这幅出自同时代手稿的插图中，亨利·博林布鲁克（即亨利四世）于 1399 年在世俗贵族（包括属灵贵族和属世贵族）的簇拥下宣称继承王位。虽然自亨利八世时期以来，属灵贵族在英国上议院中一直处于少数地位，而且宗教在当今英国政治中通常也不扮演重要角色，但**英国国教仍然在议会中拥有 26 位主教代表。**
+
+The key question that faces the courts is whether the establishment clause should be understood as imposing, in Thomas Jefferson’s words, “a wall of separation between church and state.” In a 1971 case known as Lemon v. Kurtzman, the Supreme Court established the Lemon test for deciding whether a law or other government action that might promote a particular religious practice should be allowed to stand. The Lemon test has three criteria that must be satisfied for such a law or action to be found constitutional and remain in effect:
+
+[.my2]
+法院面临的关键问题是，是否应将"政教分离条款"理解为如托马斯·杰斐逊所言，在政教之间筑起一道“隔离墙”。在 1971 年的 “莱蒙诉库兹曼案”（Lemon v. Kurtzman） 中，*最高法院确立了“莱蒙检验标准”，用于判断一项可能促进特定宗教活动的法律, 或其他政府行为, 是否应被允许有效。  “莱蒙检验标准”包含三项必须满足的条件，才能认定此类法律或行为合宪, 并继续有效：*
+
+1.The action or law must not lead to excessive government entanglement with religion; in other words, policing the boundary between government and religion should be relatively straightforward and not require extensive effort by the government.
+
+[.my2]
+1.该行动或法律, 不得导致政府过度干预宗教；换句话说，划定政府与宗教之间的界限, 应该相对简单直接，不需要政府付出大量努力。
+
+2.The action or law cannot either inhibit or advance religious practice; it should be neutral in its effects on religion.
+
+[.my2]
+2.#*该行为或法律, 既不能抑制, 也不能促进宗教活动；它对宗教的影响, 应当保持中立。*#
+
+3.The action or law must have some secular purpose; there must be some non-religious justification for the law.
+
+[.my2]
+3.**该行为或法律, 必须具有某种"世俗目的" ；**该法律必须具有某种"非宗教的理由"。
+
+For example, imagine your state decides to fund a school voucher program that allows children to attend private and parochial schools at public expense; the vouchers can be used to pay for school books and transportation to and from school. Would this voucher program be constitutional?
+
+[.my2]
+例如，假设你所在的州, 决定资助一项"学校代金券"计划，允许儿童自费就读私立学校和教会学校；这些代金券可用于支付课本费, 和往返学校的交通费。这项代金券计划, 是否符合宪法？
+
+Let’s start with the secular-purpose prong of the test. Educating children is a clear, non-religious purpose, so the law has a secular purpose. The law would neither inhibit nor advance religious practice, so that prong would be satisfied. The remaining question—and usually the one on which court decisions turn—is whether the law leads to excessive government entanglement with religious practice. Given that transportation and school books generally have no religious purpose, there is little risk that paying for them would lead the state to much entanglement with religion. The decision would become more difficult if the funding were unrestricted in use or helped to pay for facilities or teacher salaries; if that were the case, it might indeed be used for a religious purpose, and it would be harder for the government to ensure that it wasn’t without audits or other investigations that could lead to too much government entanglement with religion.
+
+[.my2]
+我们先来看测试中的"世俗目的"这一要素。教育儿童是一个明确的非宗教目的，因此该法律具有世俗目的。该法律既不会抑制, 也不会促进宗教活动，因此这一要素也得到了满足。剩下的问题——通常也是法院判决的关键所在——是该法律是否会导致政府过度干预宗教活动。鉴于交通和教科书通常不涉及宗教目的，因此支付这些费用, 不太可能导致国家过度干预宗教活动。**如果资金用途不受限制，或者用于支付设施或教师工资，那么判断就会变得更加困难；在这种情况下，资金确实有可能被用于宗教目的，而政府若不进行审计或其他调查，就很难确保资金没有被用于宗教目的，**而这些审计, 或其他调查本身, 就可能导致政府过度干预宗教活动。
+
+The use of education as an example is not an accident; in fact, many of the court’s cases dealing with the establishment clause have involved education, particularly public education, because school-age children are considered a special and vulnerable population. Perhaps no subject affected by the First Amendment has been more controversial than the issue of prayer in public schools. Discussion about school prayer has been particularly fraught because in many ways it appears to bring the two religious liberty clauses into conflict with each other. The free exercise clause, discussed below, guarantees the right of individuals to practice their religion without government interference—and while the rights of children are not as extensive in all areas as those of adults, the courts have consistently ruled that the free exercise clause’s guarantee of religious freedom applies to children as well.
+
+[.my2]
+##**以教育为例并非偶然；事实上，法院审理的许多涉及"政教分离条款"的案件, 都与教育，特别是公立教育有关，因为学龄儿童被视为特殊且易受伤害的群体(中国的中共意识形态和秽史教育,对小孩的洗脑伤害最大)。**##或许在所有受宪法第一修正案影响的议题中，没有比"公立学校祈祷"问题更具争议性的了。关于学校祈祷的讨论, 尤其充满争议，因为它在许多方面, 似乎使两项"宗教自由"条款相互冲突。下文将讨论的"宗教自由条款"保障"个人在不受政府干预的情况下, 进行宗教活动"的权利——虽然儿童的权利在所有方面, 都不及成人那样广泛，但法院一贯裁定，"宗教自由"条款对"宗教自由"的保障, 同样适用于儿童。
+
+
+At the same time, however, government actions that require or encourage particular religious practices might infringe upon children’s rights to follow their own religious beliefs and thus, in effect, be unconstitutional establishments of religion. For example, a teacher, an athletic coach, or even a student reciting a prayer in front of a class or leading students in prayer as part of the organized school activities constitutes an illegal establishment of religion. Yet a school cannot prohibit voluntary, non-disruptive prayer by its students, because that would impair the free exercise of religion. So although the blanket statement that “prayer in schools is illegal” or unconstitutional is incorrect, the establishment clause does limit official endorsement of religion, including prayers organized or otherwise facilitated by school authorities, even as part of off-campus or extracurricular activities.
+
+[.my2]
+然而，与此同时，政府要求或鼓励特定宗教活动的行为, 可能侵犯儿童"遵循自身宗教信仰"的权利，从而实际上构成违宪的宗教设立。例如，教师、体育教练, 甚至学生在课堂上诵读祷文, 或带领学生祈祷，作为学校组织活动的一部分，都构成"非法设立宗教"。  然而，学校不能禁止学生自愿进行的、不扰乱课堂秩序的祈祷，因为这会损害"宗教自由"。因此，尽管“"在学校祈祷是'非法的'或'违宪的'"笼统说法, 是不正确的，但"政教分离条款"确实限制了官方对宗教的支持，包括学校当局组织的,或以其他方式促成的祈祷，即使是在校外或课外活动中进行的祈祷。
+
+But some laws that may appear to establish certain religious practices are allowed. For example, the courts have permitted religiously inspired blue laws that limit working hours or even shutter businesses on Sunday, the Christian day of rest, because by allowing people to practice their (Christian) faith, such rules may help ensure the “health, safety, recreation, and general well-being” of citizens. They have allowed restrictions on the sale of alcohol and sometimes other goods on Sunday for similar reasons. Such laws in Bergen County, New Jersey, and especially its borough of Paramus, shutter many retail stores every Sunday, despite Bergen having one of the largest concentrations of retail space in the nation and five large enclosed shopping malls. While various political figures, including former governor Chris Christie, have proposed repealing the laws, town and county officials have vowed to keep them in place as a "quality of life" element. Many citizens support them, while others cite the difficulty in doing their own shopping and the impact on smaller retailers in their rationale for eliminating the restrictions.
+
+[.my2]
+但有些看似旨在"规范特定宗教活动"的法律, 却被允许。例如，法院允许一些受宗教启发而制定的 “蓝色法律 ”生效 ，这些法律限制周日（基督教的休息日）的工作时间，甚至要求商家关门歇业。法院认为，允许人们践行（基督教）信仰，有助于保障公民的“健康、安全、娱乐和整体福祉”。出于类似的原因，法院也允许限制周日 酒类及其他商品的销售。在新泽西州卑尔根县，尤其是其帕拉姆斯区，此类法律导致许多零售商店每周日都关门歇业，尽管卑尔根县拥有全美最集中的零售空间之一，以及五座大型室内购物中心。包括前州长克里斯·克里斯蒂在内的多位政治人物, 都曾提议废除这些法律，但城镇和县政府官员誓言要保留它们，认为这是“生活质量”的体现。许多市民支持这些法律，而另一些人则认为，这些法律给他们的购物带来了不便，并对小型零售商造成了影响，因此他们希望取消这些限制。
+
+The meaning of the establishment clause has been controversial at times because, as a matter of course, government officials acknowledge that we live in a society with vigorous religious practice where most people believe in God—even if we disagree on what God is. Disputes often arise over how much the government can acknowledge this widespread religious belief. The courts have generally allowed for a certain tolerance of what is described as ceremonial deism, an acknowledgement of God or a creator that generally lacks any substantive religious content. For example, the national motto “In God We Trust,” which appears on our coins and paper money (Figure 4.7), is seen as more an acknowledgment that most citizens believe in God than any serious effort by government officials to promote religious belief and practice. This reasoning has also been used to permit the inclusion of the phrase “under God” in the Pledge of Allegiance—a change that came about during the early years of the Cold War as a means of contrasting the United States with the “godless” Soviet Union.
+
+[.my2]
+由于政府官员理所当然地承认, 我们生活在一个宗教活动活跃的社会，**大多数人都信仰上帝——即便我们对上帝的本质存在分歧，**因此，"政教分离条款"的含义有时颇具争议。政府在多大程度上可以承认这种普遍存在的宗教信仰，常常引发争议。**法院通常允许对所谓的“仪式性自然神论”保持一定的容忍度，这种"**自然神论"承认上帝或造物主的存在，但**通常缺乏任何实质性的宗教内容。(也就是说, 法院允许徒具形式, 而无实质内涵的宗教言论. 即只有张皮, 而无实际骨肉的. 比如中国人喜欢过圣诞节, 但这个圣诞节时的活动已经和原始的西方圣诞节没有任何关系了. 在中国只是个商家促销的噱头.)**例如，印在硬币和纸币上的国家格言“我们信仰上帝”（ 图 4.7 ）更多地被视为对大多数公民信仰上帝的认可，而非政府官员为推广宗教信仰和实践, 所做的任何严肃努力。这种逻辑也被用来允许在效忠誓词中加入“在上帝之下”的短语——这一改变发生在冷战初期，旨在将美国,与“无神论”的苏联形成对比。
+
+In addition, the courts have allowed some religiously motivated actions by government agencies, such as clergy delivering prayers to open city council meetings and legislative sessions, on the presumption that—unlike school children—adult participants can distinguish between the government’s allowing someone to speak and endorsing that person’s speech. Yet, while some displays of religious codes (e.g., Ten Commandments) are permitted in the context of showing the evolution of law over the centuries (Figure 4.7), in other cases, these displays have been removed after state supreme court rulings. In Oklahoma, the courts ordered the removal of a Ten Commandments sculpture at the state capitol when other groups, including Satanists and the Church of the Flying Spaghetti Monster, attempted to get their own sculptures allowed there.
+
+[.my2]
+此外，法院允许政府机构采取一些出于宗教动机的行动，例如神职人员在"市议会会议"和"立法会议"开始时进行祈祷。其推定是，**与学童不同，成年参与者能够区分政府"允许某人发言"和"认可该人的言论"这两种情况。**然而，虽然一些宗教法典（如《十诫》）的展示, 在体现数个世纪以来法律演变的背景下是被允许的（图4.7），但在其他情况下，经"州最高法院"裁决后，这些展示已被移除。在俄克拉荷马州，当包括"撒旦教徒"和"飞面神教"在内的其他团体, 试图让自己的雕塑也被允许放置在州议会大厦时，法院下令移除了那里的一座《十诫》雕塑。
+
+
+image:/img/023.webp[,100%]
+
+Photo A is of a close up of an U.S. coin. The words “In God we trust” can be seen on the coin. Photo B is of a sculpture that lists the Ten Commandments. There is a building with a dome in the background.
+
+[.my2]
+照片A是一枚美国硬币的特写。硬币上有“我们信仰上帝”的字样。照片B是一个列有"十诫"的雕塑。背景中有一座圆顶建筑。
+
+Figure 4.7 The motto “In God We Trust” has appeared intermittently on U.S. coins since the 1860s (a), yet it was not mandated on paper currency until 1957. The Ten Commandments are prominently displayed on the grounds of the Texas State Capitol in Austin (b), though a similar sculpture was ordered to be removed in Oklahoma. (credit a: modification of work by Kevin Dooley)
+
+[.my2]
+图 4.7 “我们信仰上帝”的格言, 自 19 世纪 60 年代以来, 就断断续续地出现在美国硬币上 (a)，但直到 1957 年才被强制要求印在纸币上。"十诫"醒目地展示在"德克萨斯州"奥斯汀的州议会大厦 (b) 上，尽管俄克拉荷马州的一座类似雕塑, 被勒令移除。（图片来源 a：改编自 Kevin Dooley 的作品）
+
+'''
+
+==== The Free Exercise Clause
+
+[.my2]
+"自由行使"条款
+
+The free exercise clause, on the other hand, limits the ability of the government to control or restrict religious practices. This portion of the First Amendment regulates not the government’s promotion of religion, but rather government suppression of religious beliefs and practices. Much of the controversy surrounding the free exercise clause reflects the way laws or rules that apply to everyone might apply to people with particular religious beliefs. For example, can a Jewish police officer whose religious belief, if followed strictly, requires them to observe Shabbat be compelled to work on a Friday night or during the day on Saturday? Or must the government accommodate this religious practice, even if it means the general law or rule in question is not applied equally to everyone?
+
+[.my2]
+另一方面， "宗教自由"条款, 限制了政府控制或限制宗教活动的权力。第一修正案的这一部分, 并非规范"政府对宗教的推广"，而是规范"政府对宗教信仰和活动的压制" 。#*围绕"宗教自由"条款的诸多争议，反映了适用于所有人的法律或规则, 如何适用于具有特定宗教信仰的人。例如，一位犹太裔警察，如果严格遵守其宗教信仰，就必须遵守安息日，那么政府是否可以强迫他在周五晚上或周六白天工作？或者，政府是否必须迁就这种宗教习俗，即使这意味着相关法律或规则无法平等地适用于所有人？*# (换了中国, 那就是即使你有宗教规定, 到了厂里也必须接受厂规规定.)
+
+In the 1930s and 1940s, cases involving Jehovah’s Witnesses demonstrated the difficulty of striking the right balance. In addition to following their church’s teaching that they should not participate in military combat, members refuse to participate in displays of patriotism, including saluting the flag and reciting the Pledge of Allegiance, and they regularly engage in door-to-door evangelism to recruit converts. These activities have led to frequent conflict with local authorities. Jehovah’s Witness children were punished in public schools for failing to salute the flag or recite the Pledge of Allegiance, and members attempting to evangelize were arrested for violating laws against door-to-door solicitation of customers. In early legal challenges brought by Jehovah’s Witnesses, the Supreme Court was reluctant to overturn state and local laws that burdened their religious beliefs. However, in later cases, the court was willing to uphold the rights of Jehovah’s Witnesses to proselytize and refuse to salute the flag or recite the Pledge.
+
+[.my2]
+20 世纪 30 年代和 40 年代，"耶和华见证人"的案例表明，在"宗教信仰"和"政治立场"之间找到平衡点, 并非易事。**除了遵循教会教义不参与军事战斗外，耶和华见证人成员, 还拒绝参与任何爱国主义活动，例如向国旗敬礼, 和背诵效忠誓词，并且经常挨家挨户传福音, 以招募信徒。**这些活动导致他们与地方当局频繁发生冲突。耶和华见证人的孩子因未向国旗敬礼或背诵效忠誓词, 而在公立学校受到惩罚，试图传福音的成员, 则因**违反"禁止上门招揽顾客"的法律**(该法律具体是什么?),而被捕。在耶和华见证人早期提起的法律诉讼中，最高法院不愿推翻那些"限制其宗教信仰的州和地方法律"。  然而，在后来的案例中，法院愿意维护耶和华见证人"传教"的权利，以及"拒绝向国旗敬礼或背诵效忠誓词"的权利 。
+
+The rights of conscientious objectors—individuals who claim the right to refuse to perform military service on the grounds of freedom of thought, conscience, or religion—have also been controversial, although many conscientious objectors have contributed service as non-combatant medics during wartime. To avoid serving in the Vietnam War, many people claimed to have a conscientious objection to military service on the basis that they believed this particular war was unwise or unjust. However, the Supreme Court ruled in Gillette v. United States that to claim to be a conscientious objector, a person must be opposed to serving in any war, not just some wars.
+
+[.my2]
+"良心拒服兵役者"的权利 —— 即**那些声称有权"以思想、良心或宗教自由为由, 拒绝服兵役"的人——也一直备受争议(服兵役是国民的义务, 是法律规定)，**尽管许多良心拒服兵役者, 在战时曾作为"非战斗医务人员"为国家做出贡献。**为了避免参加越南战争，许多人声称自己是出于良心,拒服兵役，**理由是他们认为这场战争不明智或不公正。然而，**最高法院**在"吉列诉美国案"中**裁定， #要声称自己是"良心拒服兵役者"，一个人必须反对参加任何战争，而不仅仅是某些战争。# **
+
+Establishing a general framework for deciding whether a religious belief can trump general laws and policies has been a challenge for the Supreme Court. In the 1960s and 1970s, the court decided two cases in which it laid out a general test for deciding similar cases in the future. In both Sherbert v. Verner, a case dealing with unemployment compensation, and Wisconsin v. Yoder, which dealt with the right of Amish parents to homeschool their children, the court said that for a law to be allowed to limit or burden a religious practice, the government must meet two criteria. It must demonstrate both that it had a “compelling governmental interest” in limiting that practice and that the restriction was “narrowly tailored.” In other words, it must show there was a very good reason for the law in question and that the law was the only feasible way of achieving that goal. This standard became known as the Sherbert test. Since the burden of proof in these cases was on the government, the Supreme Court made it very difficult for the federal and state governments to enforce laws against individuals that would infringe upon their religious beliefs.
+
+[.my2]
+建立一个通用框架, 来决定"宗教信仰是否可以凌驾于一般法律和政策之上"，一直是最高法院面临的挑战。在20世纪60年代和70年代，法院审理了两起案件，并在其中提出了处理类似案件的通用测试标准。在涉及失业补偿的 Sherbert v. Verner 案，以及涉及阿米什父母在家教育子女权利的 Wisconsin v. Yoder 案中，法院表示，如果一项法律要限制或妨碍宗教实践，政府必须满足两个标准：首先，必须证明其在限制该实践方面具有“令人信服的政府利益”；其次，这种限制必须是“严格量身定制的”。换句话说，政府必须证明, 相关法律的理由非常充分，并且该法律是实现这一目标的唯一可行方式。这一标准被称为 Sherbert 测试。由于在这些案件中, "举证责任"在于政府，最高法院使得联邦和州政府, 很难对"可能侵犯个人宗教信仰的个人", 执行相关法律。
+
+In 1990, the Supreme Court made a controversial decision substantially narrowing the Sherbert test in Employment Division v. Smith, more popularly known as “the peyote case.” This case involved two men who were members of the Native American Church, a religious organization that uses the hallucinogenic peyote plant as part of its sacraments. After being arrested for possession of peyote, the two men were fired from their jobs as counselors at a private drug rehabilitation clinic. When they applied for unemployment benefits, the state refused to pay on the basis that they had been dismissed for work-related reasons. The men appealed the denial of benefits and were initially successful, since the state courts applied the Sherbert test and found that the denial of unemployment benefits burdened their religious beliefs. However, the Supreme Court ruled in a 6–3 decision that the “compelling governmental interest” standard should not apply; instead, so long as the law was not designed to target a person’s religious beliefs in particular, it was not up to the courts to decide that those beliefs were more important than the law in question.
+
+[.my2]
+1990 年，最高法院在“就业部诉史密斯案 ”（Employment Division v. Smith ，俗称“佩奥特案”）中做出了一项颇具争议的裁决，大幅缩小了"谢伯特检验标准"的适用范围。  该案涉及两名美洲原住民教会成员，该教会是一个使用致幻植物佩奥特, 作为圣礼一部分的宗教组织。两人因持有佩奥特被捕后，被一家私人戒毒诊所解雇，他们当时是咨询师。当他们申请失业救济金时，州政府以他们"因工作原因被解雇"为由, 拒绝支付。两人对"救济金被拒"的决定提出上诉，并一度胜诉，因为"州法院"适用"谢伯特检验标准"，认定"拒绝支付失业救济金"对他们的宗教信仰造成了负担。然而，最高法院以 6 比 3 的投票结果裁定，“令人信服的政府利益”标准不应适用；相反，*只要法律并非专门针对个人的宗教信仰，法院就无权决定"这些信仰"比"相关法律"更重要。*
+
+On the surface, a case involving the Native American Church seems unlikely to arouse much controversy. But because it replaced the Sherbert test with one that allowed more government regulation of religious practices, followers of other religious traditions grew concerned that state and local laws, even ones neutral on their face, might be used to curtail their religious practices. In 1993, in response to this decision, Congress passed a law known as the Religious Freedom Restoration Act (RFRA), which was followed in 2000 by the Religious Land Use and Institutionalized Persons Act after part of the RFRA was struck down by the Supreme Court. In addition, since 1990, twenty-one states have passed state RFRAs that include the Sherbert test in state law, and state court decisions in eleven states have enshrined the Sherbert test’s compelling governmental interest interpretation of the free exercise clause into state law.
+
+[.my2]
+表面上看，涉及"美洲原住民教会"的案件, 似乎不太可能引起太大争议。但由于该案以允许政府对宗教活动进行更多监管的新标准, 取代了"谢伯特检验"，其他宗教传统的信徒开始担心，即使是表面上中立的州和地方法律，也可能被用来限制他们的宗教活动。1993 年，为了应对这一判决，国会通过了《 宗教自由恢复法案》 （RFRA）。2000 年，最高法院推翻了 RFRA 的部分条款后，又通过了《 宗教土地使用和机构化人员法案》 。此外，自 1990 年以来 ，已有 21 个州通过了包含"谢伯特检验"的州级 RFRA，并且有 11 个州的州法院, 判决将"谢伯特检验"中关于"政府利益"的强制性解释, 写入了州法律。
+
+However, the RFRA itself has not been without its critics. While it has been relatively uncontroversial as applied to the rights of individuals, debate has emerged about whether businesses and other groups can be said to have religious liberty. In explicitly religious organizations, such as an Orthodox Union congregation or the Roman Catholic Church, it is fairly obvious members have a meaningful, shared religious belief. But the application of the RFRA has become more problematic in businesses and non-profit organizations whose owners or organizers may share a religious belief while the organization has some secular, non-religious purpose.
+
+[.my2]
+然而，《宗教自由恢复法案》（RFRA）本身也并非没有批评者。虽然该法案在保障"个人权利"方面争议不大，但关于企业和其他团体是否享有"宗教自由"的争论, 却日益激烈。在诸如东正教联合会, 或罗马天主教会等明确的宗教组织中，成员拥有共同的、有意义的宗教信仰, 是显而易见的。但对于企业和非营利组织而言，如果其所有者或组织者可能拥有宗教信仰，而该组织本身又具有某种世俗的、非宗教的目的，那么《宗教自由恢复法案》的适用, 就变得更加复杂。
+
+Such a conflict emerged in the 2014 Supreme Court case known as Burwell v. Hobby Lobby. The Hobby Lobby chain of stores sells arts and crafts merchandise at hundreds of stores and its founder, David Green, is a fundamentalist Christian whose beliefs include opposition to abortion and contraception. Consistent with these beliefs, he used his business to object to a provision of the Patient Protection and Affordable Care Act (ACA or Obamacare) requiring employer-backed insurance plans to include no-charge access to the morning-after pill, a form of emergency contraception, arguing that this requirement infringed on his conscience. Based in part on the federal RFRA, the Supreme Court agreed 5–4 with Green and Hobby Lobby’s position and said that Hobby Lobby and other closely held businesses did not have to provide employees free access to emergency contraception or other birth control if doing so would violate the religious beliefs of the business’ owners, because there were other less restrictive ways the government could ensure access to these services for Hobby Lobby’s employees (e.g., paying for them directly).
+
+[.my2]
+这种冲突在 2014 年最高法院审理的 “伯韦尔诉霍比罗比案”（Burwell v. Hobby Lobby） 中有所体现。  霍比罗比连锁店在数百家门店, 销售工艺品，其创始人戴维 ·格林是一位基督教原教旨主义者，反对堕胎和避孕。基于这些信仰，他利用自己的商业利益, 反对《 患者保护与平价医疗法案》 （ACA，又称奥巴马医改）中的一项条款，该条款要求雇主提供的保险计划, 必须包含免费提供"事后避孕药"（一种紧急避孕措施）的途径。格林辩称，这项要求违背了他的良心。最高法院, 部分依据联邦《宗教自由恢复法案》(RFRA)，以 5 比 4 的投票结果, 同意了格林和 Hobby Lobby 的立场，并表示，如果向员工免费提供"紧急避孕药"或其他避孕措施, 会违反企业所有者的宗教信仰，那么 Hobby Lobby 和其他私营企业不必这样做，因为政府可以通过其他限制性较小的方式, 确保 Hobby Lobby 的员工获得这些服务（例如，直接支付费用）。
+
+In 2015, state RFRAs became controversial when individuals and businesses that provided wedding services (e.g., catering and photography) were compelled to provide these for same-sex weddings in states where the practice had been newly legalized (Figure 4.8). Proponents of state RFRA laws argued that people and businesses ought not be compelled to endorse practices that their religious beliefs hold to be immoral or indecent. They also indicated concerns that clergy might be compelled to officiate same-sex marriages against their religion’s teachings. Opponents of RFRA laws argued that individuals and businesses should be required, per Obergefell v. Hodges, to serve same-sex marriages on an equal basis as a matter of ensuring the civil rights of gay and lesbian people, just as they would be obliged to cater or photograph an interracial marriage. In 2023, the Supreme Court ruled that a Colorado graphic artist was not obligated to create wedding websites for same-sex couples, despite a state law barring discrimination based on sexual orientation. It should be noted that religious organizations and clergy are not homogeneous in their view of marriage. For example, same-sex marriage is supported by Episcopalians, a sizable number of Methodists, and many leaders in the Jewish and Hindu faiths.
+
+[.my2]
+2015 年，各州的《宗教自由恢复法案》（RFRA）引发争议，因为在一些新近将同性婚姻合法化的州，提供婚礼服务（例如餐饮和摄影）的个人和企业, 被强制要求为同性婚礼提供服务（ 图 4.8 ）。州 RFRA 法案的支持者认为，个人和企业不应被迫支持其宗教信仰认为不道德或不雅的行为。他们还担心，神职人员可能会被迫违背其宗教教义, 主持同性婚姻。RFRA 法案的反对者则认为，根据 “奥贝格费尔诉霍奇斯案”（Obergefell v. Hodges） 的判例，为了保障同性恋者的公民权利，个人和企业应该被要求平等地为同性婚姻提供服务，就像他们有义务为跨种族婚姻提供餐饮或摄影服务一样。  2023 年，最高法院裁定，尽管科罗拉多州有一项法律, 禁止"基于性取向的歧视"，但该州的一位平面设计师没有义务为同性伴侣制作婚礼网站 。 **值得注意的是，宗教组织和神职人员对婚姻的看法, 并不完全一致。**例如，圣公会教徒、相当一部分卫理公会教徒, 以及许多犹太教和印度教的领袖, 都支持同性婚姻 。
+
+
+Figure   数字 4.8 One of the cases related to the free exercise clause involved an Oregon bakery whose owners refused to bake a wedding cake for a lesbian couple in January 2013, citing the owners’ religious beliefs. The couple was eventually awarded $135,000 in damages as a result of the ongoing dispute. However, in a similar case, Masterpiece Cakeshop v. Colorado Civil Rights Commission, the U.S. Supreme Court ruled in favor of the baker's rights. In the 2023 Creative LLC v. Elenis decision, the Court ruled in favor of a website designer who refused to create a site for a same-sex couple. (credit: modification of work by Bev Sykes)
+
+[.my2]
+其中一起与"宗教自由"条款相关的案件, 涉及俄勒冈州一家面包店，该店店主于 2013 年 1 月以宗教信仰为由, 拒绝为一对女同性恋伴侣制作结婚蛋糕。最终，这对伴侣因持续的纠纷获得 13.5 万美元的赔偿。然而，在类似的 “杰作蛋糕店诉科罗拉多州民权委员会案”（Masterpiece Cakeshop v. Colorado Civil Rights Commission ）中，美国最高法院裁定面包师享有权利。在 2023 年的“创意有限责任公司诉埃莱尼斯案” （Creative LLC v. Elenis） 中，法院裁定一位网站设计师胜诉，该设计师拒绝为一对同性伴侣制作网站。（图片来源：改编自贝芙·赛克斯的作品）
+
+Despite ongoing controversy, however, the courts have consistently found some public interests sufficiently compelling to override the free exercise clause. For example, since the late nineteenth century, the courts have consistently held that people’s religious beliefs do not exempt them from the general laws against polygamy, drug use, or human sacrifice. Yet, the public interest did not trump individual rights during the COVID-19 pandemic, when the Supreme Court overturned California's ban on indoor gatherings. Other potential acts in the name of religion that are also out of the question are drug use and human sacrifice.
+
+[.my2]
+**尽管争议不断，但##法院始终认为, 某些公共利益足以凌驾于"宗教自由"条款之上。##**例如，自 19 世纪末以来，法院一直认为，##**人们的宗教信仰, 并不能使他们免受"禁止一夫多妻制、吸毒或活人献祭"等一般法律的约束。**##然而，在新冠疫情期间，"公共利益"并未凌驾于"个人权利"之上，最高法院推翻了加州"禁止室内集会"的禁令。 其他一些以宗教名义实施的、同样被禁止的行为包括:吸毒和活人献祭。
+
+'''
+
+==== Freedom of Expression
+
+[.my2]
+言论自由
+
+
+Although the remainder of the First Amendment protects four distinct rights—free speech, press, assembly, and petition—we generally think of these rights today as encompassing a right to freedom of expression, particularly since the world’s technological evolution has blurred the lines between oral and written communication (i.e., speech and press) in the centuries since the First Amendment was written and adopted.
+
+[.my2]
+尽管第一修正案的其余部分, 保护了四项不同的权利——言论自由、新闻自由、集会自由, 和请愿自由——但我们今天通常认为, 这些权利涵盖了表达自由的权利，尤其是在第一修正案制定和通过后的几个世纪里，世界技术的发展, 模糊了口头和书面交流（即言论和新闻）之间的界限。
+
+Controversies over freedom of expression were rare until the 1900s, even though government censorship was quite common. For example, during the Civil War, the Union post office refused to deliver newspapers that opposed the war or sympathized with the Confederacy, while allowing pro-war newspapers to be mailed. The emergence of photography and movies, in particular, led to new public concerns about morality, causing both state and federal politicians to censor lewd and otherwise improper content. At the same time, writers became more ambitious in their subject matter by including explicit references to sex and using obscene language, leading to government censorship of books and magazines.
+
+[.my2]
+**直到20世纪初，关于"言论自由"的争议并不多见，尽管"政府审查制度"十分普遍。**例如，南北战争期间，联邦邮局拒绝投递"反对战争或同情南方邦联的报纸"，却允许邮寄"支持战争的报纸"。摄影和电影的出现，尤其引发了公众对道德的新关注，导致州和联邦政府都对淫秽或其他不当内容进行审查。与此同时，作家们在题材选择上也更加大胆，开始在作品中加入露骨的性描写和使用粗俗的语言，这也导致了政府对书籍和杂志的审查。
+
+Censorship reached its height during World War I. The United States was swept up in two waves of hysteria. Anti-German feeling was provoked by the actions of Germany and its allies leading up to the war, including the sinking of the RMS Lusitania and the Zimmerman Telegram, an effort by the Germans to conclude an alliance with Mexico against the United States. This concern was compounded in 1917 by the Bolshevik revolution against the more moderate interim government of Russia; the leaders of the Bolsheviks, most notably Vladimir Lenin, Leon Trotsky, and Joseph Stalin, withdrew from the war against Germany and called for communist revolutionaries to overthrow the capitalist, democratic governments in western Europe and North America.
+
+[.my2]
+**第一次世界大战期间，审查制度达到了顶峰。**美国经历了两次歇斯底里的浪潮。德国及其盟国在战前采取的行动，包括击沉卢西塔尼亚号邮轮, 和齐默尔曼电报（德国试图与墨西哥结盟对抗美国），激起了反德情绪。1917 年，布尔什维克革命推翻了较为温和的俄国临时政府，加剧了这种担忧；布尔什维克领导人，尤其是弗拉基米尔·列宁、列昂·托洛茨基, 和约瑟夫·斯大林，宣布退出对德战争，并号召共产主义革命者推翻西欧和北美的资本主义民主政府。
+
+Americans who vocally supported the communist cause or opposed the war often found themselves in jail. In Schenck v. United States, the Supreme Court ruled that people encouraging young men to dodge the draft could be imprisoned for doing so, arguing that recommending that people disobey the law was tantamount to “falsely shouting fire in a theatre and causing a panic” and thus presented a “clear and present danger” to public order. Similarly, communists and other revolutionary anarchists and socialists during the Red Scare after the war were prosecuted under various state and federal laws for supporting the forceful or violent overthrow of government. This general approach to political speech remained in place for the next fifty years.
+
+[.my2]
+**"公开支持共产主义事业, 或反对战争"的美国人, 常常锒铛入狱。**在 “申克诉美国案” 中，**最高法院裁定，鼓励年轻人逃避兵役的人, 应被监禁，理由是,** 建议人们违抗法律, 等同于“在剧院里谎称着火, 并引发恐慌”，因此**对公共秩序构成“明显且迫在眉睫的危险”。**  同样，在战后“红色恐慌”期间，共产党人, 和其他革命无政府主义者和社会主义者, 也因支持以武力或暴力推翻政府, 而受到各州和联邦法律的起诉。这种对待政治言论的普遍态度, 在接下来的五十年里一直延续至今。
+
+In the 1960s, however, the Supreme Court’s rulings on free expression became more liberal, in response to the Vietnam War and the growing antiwar movement. In a 1969 case involving the Ku Klux Klan, Brandenburg v. Ohio, the Supreme Court found that only speech or writing that constituted a direct call or plan to imminent lawless action, an illegal act in the immediate future, could be suppressed; the mere advocacy of a hypothetical revolution was not enough. The Supreme Court also found that various forms of symbolic speech—wearing clothing like an armband that carried a political symbol or raising a fist in the air, for example—were subject to the same protections as written and spoken communication. More recently, symbolic speech related to the U.S. flag has engendered intense debate. Whether one should kneel during the national anthem, or ought to be able to burn the U.S. flag, are key questions.
+
+[.my2]
+然而，在 20 世纪 60 年代，由于越南战争和日益高涨的反战运动，最高法院对"言论自由"的裁决, 变得更加自由。在 1969 年涉及三 K 党的“ 布兰登堡诉俄亥俄州案”中，#*最高法院裁定，只有构成"直接号召"或"计划即将发生"的非法行为（即在不久的将来实施的非法行为）的言论或文字, 才能被压制；仅仅鼓吹假想的革命, 并不足以构成压制。*#  最高法院还裁定，各种形式的象征性言论 ——例如佩戴带有政治标志的臂章, 或高举拳头——与书面和口头交流一样，都受到同样的保护。近年来，与美国国旗相关的象征性言论, 引发了激烈的辩论。人们是否应该在奏国歌时下跪，或者是否应该被允许焚烧美国国旗，都是关键问题。
+
+Milestone
+
+[.my2]
+里程碑
+
+Burning the U.S. Flag
+
+[.my2]
+焚烧美国国旗
+
+Perhaps no act of symbolic speech has been as controversial in U.S. history as the burning of the flag (Figure 4.9). Citizens tend to revere the flag as a unifying symbol of the country in much the same way most people in Britain would treat the reigning queen (or king). States and the federal government have long had laws protecting the flag from being desecrated—defaced, damaged, or otherwise treated with disrespect. Perhaps in part because of these laws, people who have wanted to drive home a point in opposition to U.S. government policies have found desecrating the flag a useful way to gain public and press attention to their cause.
+
+[.my2]
+在美国历史上，或许没有任何象征性言论, 比"焚烧国旗"更具争议性（ 图 4.9 ）。美国民众往往像英国民众对待在位女王（或国王）一样，将国旗视为国家统一的象征。各州和联邦政府长期以来都制定了法律，保护国旗免遭亵渎——包括污损、损坏或其他不敬行为。或许正是由于这些法律的存在，那些想要表达"反对美国政府政策观点"的人发现，亵渎国旗是吸引公众和媒体关注的有效手段。
+
+
+One such person was Gregory Lee Johnson, a member of various pro-communist and antiwar groups. In 1984, as part of a protest near the Republican National Convention in Dallas, Texas, Johnson set fire to a U.S. flag that another protestor had torn from a flagpole. He was arrested, charged with “desecration of a venerated object” (among other offenses), and eventually convicted of that offense. However, in 1989, the Supreme Court decided in Texas v. Johnson that burning the flag was a form of symbolic speech protected by the First Amendment and found the law, as applied to flag desecration, to be unconstitutional.
+
+[.my2]
+格雷戈里·李· 约翰逊就是这样一个人，他是多个"亲共,反战"团体的成员。1984 年，在德克萨斯州达拉斯市共和党全国代表大会附近的一次抗议活动中，约翰逊点燃了一面美国国旗，这面国旗是另一名抗议者从旗杆上扯下来的。他因此被捕，并被控“亵渎神圣物品”（以及其他罪名），最终被判有罪。然而，*1989 年，最高法院在 “德克萨斯州诉约翰逊案” 中裁定，焚烧国旗是一种受"宪法第一修正案"保护的"象征性言论"，并认定该法律在适用于亵渎国旗行为时违宪。*
+
+This court decision was strongly criticized, and Congress responded by passing a federal law, the Flag Protection Act, intended to overrule it; the act, too, was struck down as unconstitutional in 1990. Since then, Congress has tried and failed on several occasions to propose constitutional amendments allowing the states and federal government to re-criminalize flag desecration.
+
+[.my2]
+*#这一法院判决受到了强烈批评，国会随即通过了一项联邦法律——《 国旗保护法》 ，旨在推翻这一判决；该法也在 1990 年被裁定违宪 ("最高法院"判决"国会"的《 国旗保护法》违宪? 这里体现了两大权力分支的互相制衡) 。 此后，国会曾多次尝试提出宪法修正案，允许各州和联邦政府重新将"亵渎国旗的行为"定为犯罪，但均以失败告终。#*
+
+Should we amend the Constitution to allow Congress or the states to pass laws protecting the U.S. flag from desecration? Should we protect other national symbols as well, such as standing for the national anthem? Why or why not?
+
+[.my2]
+我们是否应该修改宪法，允许国会或各州通过法律, 保护美国国旗免遭亵渎？我们是否也应该保护其他国家象征，例如在奏国歌时起立？为什么？
+
+Freedom of the press is an important component of the right to free expression as well. In Near v. Minnesota, an early case regarding press freedoms, the Supreme Court ruled that the government generally could not engage in prior restraint; that is, states and the federal government could not in advance prohibit someone from publishing something without a very compelling reason. This standard was reinforced in 1971 in the Pentagon Papers case, in which the Supreme Court found that the government could not prohibit the New York Times and Washington Post newspapers from publishing the Pentagon Papers. These papers included materials from a secret history of the Vietnam War that had been compiled by the military. More specifically, the papers were compiled at the request of Secretary of Defense Robert McNamara and provided a study of U.S. political and military involvement in Vietnam from 1945 to 1967. Daniel Ellsberg famously released passages of the Papers to the press to show that the United States had secretly enlarged the scope of the war by bombing Cambodia and Laos among other deeds while lying to the American public about doing so.
+
+[.my2]
+"新闻自由"也是"言论自由"的重要组成部分。**在早期**关于新闻自由的案例“尼尔诉明尼苏达州案”（Near v. Minnesota） 中，*最高法院裁定, 政府通常不得进行事先审查 ；也就是说，各州和联邦政府不得在没有非常充分的理由的情况下, 事先禁止他人发表某些内容。*  1971 年的“五角大楼文件案”（Pentagon Papers）进一步强化了这一标准。在该案中，**最高法院裁定, 政府不得禁止《 纽约时报》 和 《华盛顿邮报》 刊登 “五角大楼文件” 。  这些文件包括军方编纂的越战秘密历史资料(这不军事泄密了吗? 危害了国家安全)。**更具体地说，这些文件是应国防部长罗伯特· 麦克纳马拉的要求汇编的，研究了 1945 年至 1967 年美国在越南的政治和军事介入情况。丹尼尔 ·埃尔斯伯格曾向媒体公布了这些文件的部分内容，以揭露美国在秘密扩大战争规模的同时，还对美国公众撒谎，例如轰炸柬埔寨和老挝。
+
+Although people who leak secret information to the media can still be prosecuted and punished, this does not generally extend to reporters and news outlets that pass that information on to the public. The Edward Snowden case is another good case in point. Snowden himself, rather than those involved in promoting the information that he shared, is the object of criminal prosecution.
+
+[.my2]
+**虽然向媒体泄露机密信息的人, 仍可能受到起诉和惩罚，但这通常不适用于将这些信息传递给公众的记者和新闻机构。**爱德华· 斯诺登的案例就是一个很好的例子。*斯诺登本人，而不是那些参与传播他所分享信息的人，才是刑事诉讼的对象 (法不责众了)。*
+
+Furthermore, the courts have recognized that government officials and other public figures might try to silence press criticism and avoid unfavorable news coverage by threatening a lawsuit for defamation of character. In the 1964 New York Times v. Sullivan case, the Supreme Court decided that public figures needed to demonstrate not only that a negative press statement about them was untrue but also that the statement was published or made with either malicious intent or “reckless disregard” for the truth. This ruling made it much harder for politicians to silence potential critics or to bankrupt their political opponents through the courts.
+
+[.my2]
+此外，法院也认识到，**政府官员和其他公众人物, 可能会试图通过威胁"提起诽谤诉讼", 来压制媒体批评，**避免不利的新闻报道。在 1964 年的 《纽约时报诉沙利文案》中，*最高法院裁定，公众人物不仅需要证明有关他们的负面新闻报道不实，还需要证明该报道的发表或发布, 带有恶意或“罔顾事实”的意图。*  这项裁决使得政客更难通过诉讼, 来压制潜在的批评者, 或使政治对手破产。
+
+The right to freedom of expression is not absolute; several key restrictions limit our ability to speak or publish opinions under certain circumstances. We have seen that the Constitution protects most forms of offensive and unpopular expression, particularly political speech; however, incitement of a criminal act, “fighting words,” and genuine threats are not protected. So, for example, you can’t point at someone in front of an angry crowd and shout, “Let’s beat up that guy!” And the Supreme Court has allowed laws that ban threatening symbolic speech, such as burning a cross on the lawn of an African American family’s home (Figure 4.10). Finally, as we’ve just seen, defamation of character—whether in written form (libel) or spoken form (slander)—is not protected by the First Amendment, so people who are subject to false accusations can sue to recover damages, although criminal prosecutions of libel and slander are uncommon.
+
+[.my2]
+**"言论自由权"并非绝对；**一些关键限制, 会在某些情况下, 约束我们发表意见或发表观点的能力。我们已经看到，#*宪法保护大多数形式的"冒犯性和不受欢迎的言论"，尤其是"政治言论"；然而， "煽动犯罪行为"、“挑衅性言论”和"真正的威胁", 并不受保护。例如，你不能在愤怒的人群面前指着某人大喊：“我们揍他一顿！”(这会对某人带来真正的威胁.)*# 最高法院也允许通过法律, 禁止"威胁性的象征性言论"，例如在非裔美国家庭的草坪上焚烧十字架（ 图 4.10 ）。  最后，正如我们刚才看到的，##**诽谤——无论是书面形式（诽谤）还是口头形式（诋毁）——都不受第一修正案的保护，因此，遭受虚假指控的人, 可以提起诉讼以获得损害赔偿，**##尽管对诽谤和诋毁的刑事诉讼并不常见。
+
+
+
+[.my2]
+Figure 4.10 The Supreme Court has allowed laws that ban threatening symbolic speech, such as burning crosses on the lawns of African American families, an intimidation tactic used by the Ku Klux Klan, pictured here at a meeting in Gainesville, Florida, on December 31, 1922.
+
+[.my2]
+图 4.10 *最高法院允许制定法律，禁止"威胁性的象征性言论"*，例如在非裔美国家庭的草坪上焚烧十字架，这是三 K 党使用的恐吓策略，如图所示，该党于 1922 年 12 月 31 日在佛罗里达州盖恩斯维尔举行会议。
+
+
+
+
+Another key exception to the right to freedom of expression is obscenity, acts or statements that are extremely offensive under current societal standards. Defining obscenity has been something of a challenge for the courts; Supreme Court Justice Potter Stewart famously said of obscenity, having watched pornography in the Supreme Court building, “I know it when I see it.” Into the early twentieth century, written work was frequently banned as being obscene, including works by noted authors such as James Joyce and Henry Miller, although today it is rare for the courts to uphold obscenity charges for written material alone. In 1973, the Supreme Court established the Miller test for deciding whether something is obscene: “(a) whether the average person, applying contemporary community standards, would find that the work, taken as a whole, appeals to the prurient interest, (b) whether the work depicts or describes, in a patently offensive way, sexual conduct specifically defined by the applicable state law; and (c) whether the work, taken as a whole, lacks serious literary, artistic, political, or scientific value.” However, the application of this standard has at times been problematic. In particular, the concept of “contemporary community standards” raises the possibility that obscenity varies from place to place; many people in New York or San Francisco might not bat an eye at something people in Memphis or Salt Lake City would consider offensive. The one form of obscenity that has been banned almost without challenge is child pornography, although even in this area the courts have found exceptions.
+
+[.my2]
+言论自由权的另一项重要例外, 是淫秽内容 ，即根据现行社会标准, 极其冒犯的行为或言论。**对法院而言，界定淫秽内容一直是一个难题；**最高法院大法官波特 ·斯图尔特曾在最高法院大楼内观看过色情作品，*他曾就淫秽内容发表过一句名言：“我一眼就能认出来。”* 直到 20 世纪初，许多文字作品, 仍因被认定为淫秽而被禁，其中包括詹姆斯·乔伊斯和亨利·米勒等著名作家的作品。*不过，如今法院很少会仅凭文字材料就认定其淫秽。* 1973 年，**#最高法院确立了"米勒检验标准" ，用于判断某事物是否淫秽：“（a）根据当代社会标准，普通人是否会认为该作品整体上迎合了淫欲；（b）该作品是否以明显冒犯的方式, 描绘或描述了适用州法律明确定义的性行为；以及（c）该作品整体上是否缺乏严肃的文学、艺术、政治或科学价值。”#  然而，这一标准的适用, 有时存在问题。特别是，“当代社会标准”的概念, 使得淫秽的定义, 可能因地域而异；**纽约或旧金山的许多人可能对孟菲斯或盐湖城的人们认为冒犯的内容习以为常。儿童色情制品几乎未受挑战地"被禁止"，但即使在这一领域，法院也发现了例外情况。
+
+The courts have allowed censorship of less-than-obscene content when it is broadcast over the airwaves, particularly when it is available for anyone to receive. In general, these restrictions on indecency—a quality of acts or statements that offend societal norms or may be harmful to minors—apply only to radio and television programming broadcast when children might be in the audience, although most cable and satellite channels follow similar standards for commercial reasons. An infamous case of televised indecency occurred during the halftime show of the 2004 Super Bowl, during a performance by singer Janet Jackson in which a part of her clothing was removed by fellow performer Justin Timberlake, revealing her right breast. The network responsible for the broadcast, CBS, was ultimately presented with a fine of $550,000 by the Federal Communications Commission, the government agency that regulates television broadcasting. However, CBS was not ultimately required to pay.
+
+[.my2]
+法院允许对通过无线电波传播的、并非淫秽的内容进行审查，尤其是在任何人都可以接收的情况下。一般来说，这些对不雅内容的限制——"不雅内容"是指冒犯社会规范, 或可能对未成年人有害的行为或言论——仅适用于儿童可能在场的广播电视节目，尽管出于商业原因，大多数有线和卫星频道也遵循类似的标准。2004 年超级碗中, 场秀上发生了一起臭名昭著的电视不雅事件：歌手珍妮·杰克逊表演时，她的部分衣服, 被同台表演的贾斯汀·汀布莱克扯掉，露出了她的右胸。负责转播的哥伦比亚广播公司（CBS）, 最终被联邦通信委员会（FCC，负责监管电视广播的政府机构）处以 55 万美元的罚款。然而，CBS 最终并未被要求支付罚款。
+
+On the other hand, in 1997, the NBC network showed a broadcast of Schindler’s List, a film depicting events during the Holocaust in Nazi Germany, without any editing, so it included graphic nudity and depictions of violence. NBC was not fined or otherwise punished, suggesting there is no uniform standard for indecency. Similarly, in the 1990s Congress compelled television broadcasters to implement a television ratings system, enforced by a “V-Chip” in televisions and cable boxes, so parents could better control the television programming their children might watch. However, similar efforts to regulate indecent content on the Internet to protect children from pornography have largely been struck down as unconstitutional. This outcome suggests that technology has created new avenues for obscene material to be disseminated. The Children’s Internet Protection Act, however, requires K–12 schools and public libraries receiving Internet access using special E-rate discounts to filter or block access to obscene material and other material deemed harmful to minors, with certain exceptions.
+
+[.my2]
+另一方面，1997 年，美国全国广播公司（NBC）未经任何剪辑地播出了电影《 辛德勒的名单》 。这部电影讲述了纳粹德国时期犹太人大屠杀的惨状，因此包含了露骨的裸露镜头和暴力画面。NBC 并未因此受到罚款或其他处罚，这表明对于“不雅内容”并没有统一的标准。同样，在 20 世纪 90 年代，国会强制要求电视台实施"电视分级制度"，并通过电视机和机顶盒中的“V 芯片”来执行，以便家长更好地控制孩子观看的电视节目。然而，类似的旨在监管互联网上不雅内容、保护儿童免受色情侵害的努力，大多被认定为违宪, 而遭到否决。这一结果表明，科技为淫秽内容的传播开辟了新的途径。然而，《 儿童互联网保护法》 要求, 使用特殊 E-rate 折扣获得互联网接入的 K-12 学校和公共图书馆, 过滤或阻止访问淫秽材料, 和其他被认为对未成年人有害的材料，但也有一些例外情况。
+
+The courts have also allowed laws that forbid or compel certain forms of expression by businesses, such as laws that require the disclosure of nutritional information on food and beverage containers and warning labels on tobacco products (Figure 4.11). The federal government requires the prices advertised for airline tickets to include all taxes and fees. Many states regulate advertising by lawyers. And, in general, false or misleading statements made in connection with a commercial transaction can be illegal if they constitute fraud.
+
+[.my2]
+法院也允许制定法律, 禁止或强制企业进行某些形式的表达，例如, 要求在食品和饮料容器上,披露营养信息, 以及在烟草制品上,贴上警示标签（ 图 4.11 ）。联邦政府要求航空公司广告机票的价格, 必须包含所有税费。许多州对"律师的广告活动"进行监管。此外，一般来说，在商业交易中作出的虚假或误导性陈述，如果构成欺诈，则可能属于违法行为。
+
+image:/img/024.webp[,49%]
+
+
+A photo of a cigarette box and two cigarettes. The cigarettes are resting in an ashtray. Text on the cigarette box reads “Surgeon General’s Warning: Smoking causes lung cancer, heart disease, emphysema, and may complicate pregnancy”.
+
+[.my2]
+一张香烟盒和两支香烟的照片。香烟放在烟灰缸里。香烟盒上的文字写着：“卫生总监警告：*吸烟会导致肺癌、心脏病、肺气肿，并可能使怀孕复杂化。*”
+
+
+
+Figure 4.11 The surgeon general’s warning label on a box of cigarettes is mandated by the Food and Drug Administration. The United States was the first nation to require a health warning on cigarette packages. (credit: Debora Cartagena, Centers for Disease Control and Prevention)
+
+[.my2]
+图 4.11 美国食品药品监督管理局 (FDA),  强制要求在香烟盒上贴上卫生局局长的警示标签。*美国是第一个要求在香烟包装上印制健康警示的国家。*（图片来源：Debora Cartagena，美国疾病控制与预防中心）
+
+
+Furthermore, the courts have ruled that, although public school officials are government actors, the First Amendment freedom of expression rights of children attending public schools are somewhat limited. In particular, in Tinker v. Des Moines (1969) and Hazelwood v. Kuhlmeier (1988), the Supreme Court has upheld restrictions on speech that creates “substantial interference with school discipline or the rights of others” or is “reasonably related to legitimate pedagogical concerns.” For example, the content of school-sponsored activities like school newspapers and speeches delivered by students can be controlled, either for the purposes of instructing students in proper adult behavior or to deter conflict between students.
+
+[.my2]
+此外，法院裁定，尽管公立学校官员, 属于政府机构，但**就读公立学校的学生的言论自由权（受宪法第一修正案保护）在一定程度上受到限制。**尤其是在 “廷克诉得梅因独立学区案”（1969 年）和 “黑泽尔伍德诉库尔迈尔案” （1988 年）中，**最高法院支持对“严重干扰学校纪律或侵犯他人权利” ,  或“与合法的教学考量合理相关”  的言论, 进行限制。**例如，学校主办的活动（如校报和学生演讲）的内容可以受到控制，其目的既可以是为了教导学生正确的成人行为，也可以是为了防止学生之间的冲突。
+
+Free expression includes the right to assemble peaceably and the right to petition government officials. This right even extends to members of groups whose views most people find abhorrent, such as American Nazis and the vehemently anti-LGBTQ Westboro Baptist Church, whose members have become known for their protests at the funerals of U.S. soldiers who have died fighting in the war on terror. Free expression—although a broad right—is subject to certain constraints to balance it against the interests of public order. In particular, the nature, place, and timing of protests—but not their substantive content—are subject to reasonable limits. The courts have ruled that while people may peaceably assemble in a place that is a public forum, not all public property is a public forum. For example, the inside of a government office building or a college classroom—particularly while someone is teaching—is not generally considered a public forum.
+
+[.my2]
+**"言论自由"包括"和平集会"的权利, 和"向政府官员请愿"的权利。**这项权利, 甚至延伸到那些观点被大多数人视为令人憎恶的团体成员，例如美国纳粹分子, 和强烈反对 LGBTQ 群体的韦斯特伯勒浸信会（Westboro Baptist Church） ，后者因在反恐战争中阵亡的美国士兵葬礼上进行抗议, 而臭名昭著。  #*言论自由——尽管是一项广泛的权利——也受到某些限制，以平衡其与"公共秩序"的利益。特别是，抗议活动的性质、地点和时间——而非其实质内容——都受到合理的限制。法院裁定，虽然人们可以在"公共场所"和平集会，但并非所有公共场所都是"法律认可的公共场所"。例如，政府办公楼内部, 或大学教室——尤其是在有人授课时——通常不被视为"公共场所"。*#
+
+Rallies and protests on land that has other dedicated uses, such as roads and highways, can be limited to groups that have secured a permit in advance, and those organizing large gatherings may be required to give sufficient notice so government authorities can ensure there is enough security available. However, any such regulation must be viewpoint-neutral; the government may not treat one group differently than another because of its opinions or beliefs. For example, the government can’t permit a rally by a group that favors a government policy but forbid opponents from staging a similar rally. In a related 2024 case that could have implications for political expression, City of Grants Pass v. Johnson, the Supreme Court ruled on the rights of the homeless to live in encampments on subnational public lands, holding that removing and fining them was not cruel and unusual punishment and pushing consideration of the right to gather to the states. The encampment question has been an important one around recent U.S. college campus protests pertaining to the Israeli-Palestinian conflict.
+
+[.my2]
+在具有其他专用用途的土地（如道路和高速公路）上举行集会和抗议活动，可能仅限于已提前获得许可的团体，而组织大型集会的人, 可能需要提前发出充分通知，以便政府当局能够确保有足够的安保力量。然而，任何此类规定, 都必须保持观点中立；政府不得因不同团体的观点或信仰, 而区别对待。例如，政府不能允许"支持某项政府政策的团体举行集会"，却禁止"反对者举行类似的集会"。在 2024 年一起可能对政治表达产生影响的相关案件 ——格兰茨帕斯市诉约翰逊案中，最高法院就无家可归者在"地方公共土地上搭建营地"的权利, 作出裁决，认为驱逐和罚款并不构成"残酷和不寻常的惩罚"，并将"集会权的考量权"下放至各州。营地问题一直是近期美国大学校园内,与巴以冲突相关的抗议活动中的一个重要议题 。
+
+Finally, there have been controversial situations in which government agencies have established free-speech zones for protesters during political conventions, presidential visits, and international meetings in areas that are arguably selected to minimize their public audience or to ensure that the subjects of the protests do not have to encounter the protesters.
+
+[.my2]
+最后，也出现过一些争议情况，政府机构在政治集会、总统访问, 和国际会议期间，在可能是为了"尽量减少公众观众"或"确保抗议对象,不必与抗议者接触"而选择的区域，设立了言论自由区。
+
+'''
+
+=== THE SECOND AMENDMENT
+
+
+[.my2]
+第二修正案
+
+There has been increased conflict over the Second Amendment in recent years due to school shootings and gun violence. As a result, gun rights have become a highly charged political issue. The text of the Second Amendment is among the shortest of those included in the Constitution:
+
+[.my2]
+近年来，由于校园枪击案和枪支暴力事件频发，围绕宪法第二修正案的争议日益加剧。因此，"枪支权利"已成为一个高度敏感的政治议题。第二修正案的文本, 是宪法中最短的修正案之一：
+
+“A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed.”
+
+[.my2]
+“*一支训练有素的民兵队伍, 对于一个自由州的安全是必要的，人民持有和携带武器的权利不得侵犯。*”
+
+But the relative simplicity of its text has not kept it from controversy; arguably, the Second Amendment has become controversial in large part because of its text. Is this amendment merely a protection of the right of the states to organize and arm a “well regulated militia” for civil defense, or is it a protection of a “right of the people” as a whole to individually bear arms?
+
+[.my2]
+但其文本相对简单, 并未使其免于争议；可以说，第二修正案之所以引发争议，很大程度上正是因为其文本本身。#*该修正案仅仅是保护各州组织和武装“训练有素的民兵”, 进行"民防"的权利，还是保护全体人民个人"持有武器"的权利？*#
+
+Before the Civil War, this would have been a nearly meaningless distinction. In most states at that time, White males of military age were considered part of the militia, liable to be called for service to put down rebellions or invasions, and the right “to keep and bear Arms” was considered a common-law right inherited from English law that predated the federal and state constitutions. The Constitution was not seen as a limitation on state power, and since the states expected all free men to keep arms as a matter of course, what gun control there was mostly revolved around ensuring enslaved people (and their abolitionist allies) didn’t have guns.
+
+[.my2]
+**在内战之前，这种区别几乎毫无意义。**当时大多数州, 都将适龄白人男性视为民兵，随时可能被征召镇压叛乱, 或入侵。**“持有和携带武器”的权利, 被视为一项"普通法"权利， 继承自早于联邦和州宪法的英国法律。**宪法并未被视为对"州权力"的限制，*而且由于各州理所当然地认为, 所有"自由人"(相对于奴隶这种"非自由人"来说)都应该持有武器，因此当时的枪支管制, 主要集中在确保奴隶（及其废奴主义盟友）无法拥有枪支。*
+
+With the beginning of selective incorporation after the Civil War, debates over the Second Amendment were reinvigorated. In the meantime, as part of their Black codes designed to reintroduce most of the trappings of slavery, several southern states adopted laws that restricted the carrying and ownership of weapons by formerly enslaved people. Despite acknowledging a common-law individual right to keep and bear arms, in 1876 the Supreme Court declined, in United States v. Cruickshank, to intervene to ensure the states would respect it.
+
+[.my2]
+内战结束后，随着选​​择性合并的开始，关于第二修正案的辩论再次升温。与此同时，一些南方州为了恢复奴隶制的大部分特征，在其“黑人法典”中, 通过了限制前奴隶携带和拥有武器的法律。尽管承认"普通法"赋予个人持有和携带武器的权利，但在 1876 年的 “美国诉克鲁克香克案” 中，最高法院拒绝介入, 以确保各州尊重这一权利。
+
+In the following decades, states gradually began to introduce laws to regulate gun ownership. Federal gun control laws began to be introduced in the 1930s in response to organized crime, with stricter laws that regulated most commerce and trade in guns coming into force in the wake of the street protests of the 1960s. In the early 1980s, following an assassination attempt on President Ronald Reagan, laws requiring background checks for prospective gun buyers were passed. During this period, the Supreme Court’s decisions regarding the meaning of the Second Amendment were ambiguous at best. In United States v. Miller, the Supreme Court upheld the 1934 National Firearms Act’s prohibition of sawed-off shotguns, largely on the basis that possession of such a gun was not related to the goal of promoting a “well regulated militia.” This finding was generally interpreted as meaning that the Second Amendment protected the right of the states to organize a militia, rather than an individual right, and thus lower courts generally found most firearm regulations—including some city and state laws that virtually outlawed the private ownership of firearms—to be constitutional.
+
+[.my2]
+*在接下来的几十年里，各州逐渐开始出台法律, 来规范枪支拥有。*"联邦枪支管制法"于 20 世纪 30 年代开始出台，, 以应对有组织犯罪。20 世纪 60 年代的街头抗议活动之后，更为严格的法律生效，规范了大部分枪支的商业和贸易。20 世纪 80 年代初，在罗纳德·里根总统遭遇暗杀未遂后，**各州通过了要求"对潜在购枪者进行背景调查"的法律。**在此期间，最高法院对第二修正案含义的解释, 充其量也只能说是含糊不清。在 “美国诉米勒案” 中，*最高法院维持了 1934 年 《国家枪支法》 对短管霰弹枪的禁令，主要理由是持有此类枪支, 与建立“训练有素的民兵”的目标无关。  这一发现通常被解释为"第二修正案保护的是各州组织民兵的权利，而不是个人的权利"*，因此下级法院通常认为, 大多数"枪支管制条例"——包括一些实际上"禁止私人拥有枪支"的城市和州法律——是合宪的。
+
+However, in 2008, in a narrow 5–4 decision on District of Columbia v. Heller, the Supreme Court found that at least some gun control laws did violate the Second Amendment and that this amendment does protect an individual’s right to keep and bear arms, at least in some circumstances—in particular, “for traditionally lawful purposes, such as self-defense within the home.” Because the District of Columbia is not a state, this decision immediately applied the right only to the federal government and territorial governments. Two years later, in McDonald v. Chicago, the Supreme Court overturned the Cruickshank decision (5–4) and again found that the right to bear arms was a fundamental right incorporated against the states, meaning that state regulation of firearms might, in some circumstances, be unconstitutional. In 2015, however, the Supreme Court allowed several of San Francisco’s strict gun control laws to remain in place, suggesting that—as in the case of rights protected by the First Amendment—the courts will not treat gun rights as absolute (Figure 4.12). Elsewhere in the political system, the gun issue remains similarly unsettled. However, in the wake of especially traumatic shootings at a Las Vegas outdoor concert and at a school in Parkland, Florida, there was increased activism around gun control and community safety, especially among the young.
+
+[.my2]
+*然而，2008 年，最高法院在* “哥伦比亚特区诉赫勒案”（District of Columbia v. Heller） 中, *以 5 比 4 的微弱优势裁定，至少部分枪支管制法律, 确实违反了第二修正案，并且##该修正案确实保护"个人持有和携带武器"的权利，至少在某些情况下如此——特别是“出于传统合法目的，例如在家中进行自卫”。  由于"哥伦比亚特区"并非"州"，该裁决立即将该权利,仅适用于联邦政府和领地政府。##* 两年后，在 “麦克唐纳诉芝加哥案”（McDonald v. Chicago） 中，最高法院以 5 比 4 的微弱优势, 推翻了 “克鲁克香克案”（Cruickshank）的裁决，并再次裁定，持有武器的权利是一项基本权利，不受各州管辖，这意味着"州政府对枪支的管制"在某些情况下可能违宪。然而，2015 年，"最高法院"允许旧金山几项严格的"枪支管制法律"继续有效，这表明——就像第一修正案保护的权利一样——法院不会将"枪支权利"视为绝对权利（ 图 4.12 ）。  在其他政治领域，枪支问题同样悬而未决。然而，在拉斯维加斯户外音乐会, 和佛罗里达州帕克兰学校, 发生令人痛心的枪击事件后，围绕"枪支管制"和"社区安全"的行动主义有所增强，尤其是在年轻人中。
+
+
+image:/img/025.webp[,49%]
+
+
+Figure 4.12 A “No Firearms” sign is posted at Binghamton Park in Memphis, Tennessee, demonstrating that the right to possess a gun is not absolute. (credit: modification of work by Thomas R Machnitzki)
+
+[.my2]
+图 4.12 "田纳西州"孟菲斯市, 宾厄姆顿公园, 张贴着“禁止携带枪支”的标志，表明"拥有枪支的权利"并非绝对。（图片来源：改编自 Thomas R Machnitzki 的作品）
+
+'''
+
+=== THE THIRD AMENDMENT
+
+[.my2]
+第三修正案
+
+The Third Amendment says in full:
+
+[.my2]
+第三修正案全文如下：
+
+“No Soldier shall, in time of peace be quartered in any house, without the consent of the Owner, nor in time of war, but in a manner to be prescribed by law.”
+
+[.my2]
+“和平时期，未经房主同意，任何士兵不得被安置在任何房屋内；战争时期，未经法律规定，任何士兵也不得被安置在任何房屋内。”
+
+Most people consider this provision of the Constitution obsolete and unimportant. However, it is worthwhile to note its relevance in the context of the time: citizens remembered having their cities and towns occupied by British soldiers and mercenaries during the Revolutionary War, and they viewed the British laws that required the colonists to house soldiers particularly offensive, to the point that it had been among the grievances listed in the Declaration of Independence.
+
+[.my2]
+大多数人认, 为宪法的这一条款已经过时, 且无关紧要。然而，值得注意的是它在当时的背景下的重要性：公民们还记得在独立战争期间，他们的城镇被英国士兵和雇佣兵占领，他们认为, 英国要求殖民地居民为士兵提供住所的法律, 尤其令人愤慨，以至于它被列入了《独立宣言》中列举的不满事项之一。
+
+Today it seems unlikely the federal government would need to house military forces in civilian lodgings against the will of property owners or tenants; however, perhaps in the same way we consider the Second and Fourth amendments, we can think of the Third Amendment as reflecting a broader idea that our homes lie within a “zone of privacy” that government officials should not violate unless absolutely necessary.
+
+[.my2]
+如今，联邦政府似乎不太可能需要违背房主或租户的意愿，将军队安置在民用住所中；然而，或许我们可以像看待第二修正案和第四修正案那样，将第三修正案视为反映了一种更广泛的理念，*即我们的家属于“隐私区”，政府官员除非绝对必要，否则不应侵犯。*
+
+
+'''
+
+
+=== THE FOURTH AMENDMENT
+
+[.my2]
+第四修正案
+
+The Fourth Amendment sits at the boundary between general individual freedoms and the rights of those suspected of crimes. We saw earlier that perhaps it reflects James Madison’s broader concern about establishing an expectation of privacy from government intrusion at home. Another way to think of the Fourth Amendment is that it protects us from overzealous efforts by law enforcement to root out crime by ensuring that police have good reason before they intrude on people’s lives with criminal investigations.
+
+[.my2]
+第四修正案位于"个人自由"与"犯罪嫌疑人权利"的交界处。我们之前已经看到，它或许反映了詹姆斯·麦迪逊更广泛的关切，*即确立"公民在家中免受政府侵犯"的隐私权。换句话说，第四修正案保护我们免受执法部门"过度执法"的侵害，确保警方在进行"刑事调查"之前, 必须有充分的理由, 才能介入民众生活。*
+
+The text of the Fourth Amendment is as follows:
+
+[.my2]
+第四修正案的文本如下：
+
+“The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized.”
+
+[.my2]
+“'人民的人身、住宅、文件和财产, 不受无理搜查和扣押'的权利, 不得侵犯；除有合理理由，并经'宣誓'或'代誓词'支持，且详细说明搜查地点和扣押的人或物外，不得签发搜查令。”
+
+The amendment places limits on both searches and seizures: Searches are efforts to locate documents and contraband. Seizures are the taking of these items by the government for use as evidence in a criminal prosecution (or, in the case of a person, the detention or taking of the person into custody).
+
+[.my2]
+*该修正案对"搜查"和"扣押"都做出了限制：搜查是指"寻找文件和违禁品"的行动。扣押是指政府为了在刑事诉讼中用作证据, 而没收这些物品（或者，如果是人，则指拘留或羁押该人）。*
+
+In either case, the amendment indicates that government officials are required to apply for and receive a search warrant prior to a search or seizure; this warrant is a legal document, signed by a judge, allowing police to search and/or seize persons or property. Since the 1960s, however, the Supreme Court has issued a series of rulings limiting the warrant requirement in situations where a person can be said to lack a “reasonable expectation of privacy” outside the home. Police can also search and/or seize people or property without a warrant if the owner or renter consents to the search, if there is a reasonable expectation that evidence may be destroyed or tampered with before a warrant can be issued (i.e., exigent circumstances), or if the items in question are in plain view of government officials.
+
+[.my2]
+无论哪种情况，**##该修正案都表明，政府官员在进行搜查或扣押之前, 必须申请并获得"搜查令" ；该"搜查令"是由法官签署的法律文件，允许警方搜查和/或扣押人员或财产。##然而，**自 20 世纪 60 年代以来，*最高法院发布了一系列裁决，限制了在个人被认为缺乏“合理隐私期待”的情况下对"搜查令"的要求。#如果业主或租户同意搜查，或者有合理理由预期在"搜查令"签发之前, 证据可能被销毁或篡改（例如，紧急情况），或者相关物品在政府官员的视线范围内，警方也可以在没有"搜查令"的情况下, 搜查和/或扣押人员或财产。#*
+
+Furthermore, the courts have found that police do not generally need a warrant to search the passenger compartment of a car (Figure 4.13), or to search people entering the United States from another country. When a warrant is needed, law enforcement officers do not need enough evidence to secure a conviction, but they must demonstrate to a judge that there is probable cause to believe a crime has been committed or evidence will be found. Probable cause is the legal standard for determining whether a search or seizure is constitutional or a crime has been committed; it is a lower threshold than the standard of proof at a criminal trial.
+
+[.my2]
+此外，法院裁定，警方通常无需"搜查令"即可搜查汽车的乘客舱（ 图 4.13 ），或搜查从其他国家入境美国的人员。 如果需要"搜查令"，执法人员无需提供足以定罪的证据，但必须向法官证明, 有合理理由相信已发生犯罪或将找到相关证据。 **"合理理由"是判断搜查或扣押是否"合宪", 或是否构成犯罪的法律标准；**其门槛低于刑事审判中的证明标准。
+
+Critics have argued that this requirement is not very meaningful because law enforcement officers are almost always able to get a search warrant when they request one. On the other hand, since we wouldn’t expect the police to waste their time or a judge’s time trying to get search warrants that are unlikely to be granted, perhaps the high rate at which they get them should not be so surprising. The use of "no-knock" warrants based on the premise that a suspect would destroy drug evidence has recently been curtailed after the wrongful killing of Breonna Taylor by police serving such a warrant.
+
+[.my2]
+批评者认为，这一要求并没有太大意义，因为执法人员在申请"搜查令"时，几乎总能成功获批。但另一方面，我们不应指望警方会浪费自己或法官的时间, 去申请那些不太可能获批的"搜查令"，因此他们的"搜查令获批率"高, 或许并不那么令人惊讶。基于嫌疑人可能会销毁毒品证据这一前提, 而使用的“不敲门”搜查令，在警察依据此类搜查令执行任务, 并误杀布蕾娜·泰勒后，最近已受到限制。
+
+
+
+What happens if the police conduct an illegal search or seizure without a warrant and find evidence of a crime? In the 1961 Supreme Court case Mapp v. Ohio, the court decided that evidence obtained without a warrant that didn’t fall under one of the exceptions mentioned above could not be used as evidence in a state criminal trial, giving rise to the broad application of what is known as the exclusionary rule, which was first established in 1914 on a federal level in Weeks v. United States. The exclusionary rule doesn’t just apply to evidence found or to items or people seized without a warrant (or falling under an exception noted above); it also applies to any evidence developed or discovered as a result of the illegal search or seizure.
+
+[.my2]
+**如果警方在没有"搜查令"的情况下, 进行非法搜查或扣押，并发现了犯罪证据，会发生什么？**在 1961 年最高法院审理的“马普诉俄亥俄州案” （Mapp v. Ohio） 中，**法院裁定，未经"搜查令"获得的证据，如果不符合上述例外情况，则不能在"州刑事审判"中使用。这导致了所谓的 “排除规则” 的广泛适用。**该规则最初于 1914 年在联邦层面的 “威克斯诉美国案”（Weeks v. United States） 中确立。  *"排除规则"不仅适用于未经"搜查令"（或不符合上述例外情况）而发现的证据、物品或人员，也适用于因非法搜查或扣押, 而获得或发现的任何证据。*
+
+For example, if police search your home without a warrant, find bank statements showing large cash deposits on a regular basis, and discover you are engaged in some other crime in which they were previously unaware (e.g., blackmail, drugs, or prostitution), they can neither use the bank statements as evidence of criminal activity, nor prosecute you for the crimes they discovered during the illegal search. This extension of the exclusionary rule is sometimes called the “fruit of the poisonous tree,” because just as the metaphorical tree (i.e., the original search or seizure) is poisoned, so is anything that grows out of it.
+
+[.my2]
+**例如，如果警方在没有"搜查令"的情况下, 搜查了你的住所，发现"银行对账单"显示你定期有大量现金存款，并且发现你从事了他们之前并不知晓的其他犯罪活动（例如敲诈勒索、毒品交易或卖淫），那么他们既不能将这些"银行对账单"作为犯罪活动的证据，也不能就非法搜查中发现的犯罪行为起诉你。这种排除规则的扩展, 有时被称为“毒树之果”，因为正如象征意义上的“毒树”（即最初的搜查或扣押）本身有毒一样，从中长出的任何东西也同样有毒。 **
+
+However, like the requirement for a search warrant, the exclusionary rule does have exceptions. The courts have allowed evidence to be used that was obtained without the necessary legal procedures in circumstances where police executed warrants they believed were correctly granted but in fact were not (“good faith” exception), and when the evidence would have been found anyway had they followed the law (“inevitable discovery”).
+
+[.my2]
+然而，与"搜查令要求"一样，"排除规则"也有例外。在某些情况下，法院允许使用"未经必要法律程序获得的证据"，例如警方执行了他们认为合法有效的搜查令，但实际上并非如此（“善意”例外）；以及即使警方遵循法律程序，这些证据也必然会被发现（“必然发现”）。
+
+The requirement of probable cause also applies to arrest warrants. A person cannot generally be detained by police or taken into custody without a warrant, although most states allow police to arrest someone suspected of a felony crime without a warrant so long as probable cause exists, and police can arrest people for minor crimes or misdemeanors they have witnessed themselves.
+
+[.my2]
+*"逮捕令"同样需要具备合理理由。#一般来说，警方不能在没有"逮捕令"的情况下, 拘留或逮捕任何人. 但大多数州允许警方在有合理理由的情况下，无需"逮捕令"即可逮捕涉嫌"重罪"的人；警方也可以逮捕他们亲眼目睹的轻罪或违规行为的嫌疑人。#*
+
+The Supreme Court's 2012 and 2018 decisions in United States v. Jones and Carpenter v. United States extended the prohibition of illegal search and seizure to warrantless location tracking, either by installing a GPS device, as in the Jones case, or by accessing that information provided to cellular companies, as in Carpenter.
+
+[.my2]
+最高法院在 2012 年和 2018 年, 分别就"美国诉琼斯案"和"卡彭特诉美国案"作出的裁决，将禁止非法搜查和扣押的范围, 扩大到未经授权的"位置追踪"，无论是通过安装 GPS 设备（如琼斯案），还是通过访问"提供给移动通信公司的信息"（如卡彭特案 ）。
+
+'''

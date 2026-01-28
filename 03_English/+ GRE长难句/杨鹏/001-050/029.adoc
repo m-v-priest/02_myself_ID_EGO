@@ -1,0 +1,67 @@
+= 029
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../../../../myAdocCss.css
+
+'''
+
+
+
+- (029.) Perhaps `主` #the fact# /that many of these first studies considered (v.) 考虑，斟酌；认为 only algae 水藻，海藻 of _a size 后定说明 that could be collected in a net_ (net phytoplankton 浮游植物（群落）), `同位语` a practice that overlooked 忽视；忽略 the smaller phytoplankton (nannoplankton 微型浮游生物) that we now know `主` grazers 食草动物 `系` are most likely *to feed on* 以……为食物, `谓` #*led to*# a deemphasis (n.)降低重要性；不予强调；淡化 of _the role of grazers_ 食草动物的作用 in subsequent 随后的；后来的 research. +
+
+[.my1]
+.案例
+====
+- (029.) Perhaps the fact that many of these first studies considered only algae of a size that could be collected in a net (net phytoplankton), a practice that overlooked the smaller phytoplankton (nannoplankton) that we now know grazers are most likely to feed on, led to a deemphasis of the role of grazers in subsequent research.
+
+也许是这样一个事实, 导致了后续研究中对捕食者作用的低估：许多早期研究, 只考虑了可以用网收集的藻类（网状浮游植物），这种做法忽略了我们现在知道捕食者最可能捕食的更小的浮游植物（纳米浮游植物）。
+
+可能/这样一个事实，{那就是很多这样的最初的研究/只/考虑了［（那些能够/用网/捞起来的）尺寸的］水藻（net phytoplankton）}，这样一个［忽视了（我们现在知道是食草浮游动物最有可能吃的）更小的浮游植物（nannoplankton）］的做法，导致/了在接下来的研究中,对于食草浮游动物的作用的贬低。
+
+
+.DeepSeek:
+
+....
+【主干】
+主语： [the fact]
+谓语： [led to]
+宾语： [a deemphasis of the role of grazers]
+状语： [in subsequent research]
+
+【主语部分（the fact的修饰）】
+同位语从句： [that many of these first studies considered only algae]
+     │
+     ├─ 后置定语1（修饰algae）： [of a size]
+     │     │
+     │     └─ 定语从句（修饰size）： [that could be collected in a net]
+     │
+     └─ 同位语（补充说明）： [a practice]
+          │
+          └─ 定语从句（修饰 practice）： [that overlooked the smaller phytoplankton]
+               │
+               └─ 定语从句（修饰 phytoplankton）： [that we now know grazers are most likely to feed on]
+....
+
+
+这句话解释了为什么早期研究低估了食草动物的作用： +
+早期研究的方法局限：只采集"能被网收集的藻类"（net phytoplankton） +
+忽略的关键对象：忽略了更小的藻类（nannoplankton） +
+
+关键发现：现在我们知道，食草动物主要吃这些"更小的藻类" +
+导致后果：因为没研究食草动物的主要食物，所以低估了它们的作用 +
+
+原文中虽然没有破折号，但 a practice that... 这个同位语相当于插入解释，说明前面"只考虑网采藻类"这种做法具体忽略在哪里。中文翻译时用破折号更清晰。
+
+这里有多个that从句的嵌套关系——每个that指代的对象不同，需要根据上下文判断。这种句式在科学文献中常见，用于表达复杂的因果关系, 或解释性内容。
+
+
+- 其实句子的主干很简单，就是the fact *led to* a de-emphasis of the role of grazers。
+- 但句子的主语非常长，在最后一个逗号后的led以前，全是主语.
+- 主语 the fact 后面的修饰成分也很长: 先是个定语从句. 定语从句中又套了一个定语从句。然后
+逗号后面的 a practice 引导的部分, 是前面的主语的"同位语兼作插入语". practice后面的修饰它一大堆东西,又是定语从句套着定语从句。
+
+本句是典型的层层修饰的结构。
+====
+
+'''

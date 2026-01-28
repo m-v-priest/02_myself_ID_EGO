@@ -1,0 +1,478 @@
+
+= 04 CONTRACTS II (Consideration and Beyond)
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../../myAdocCss.css
+
+'''
+
+
+== 释义
+
+
+
+
+
+4.CONTRACTS II (Consideration and Beyond)
+
+This chapter focuses on the elements needed for a contract above and beyond mutual assent 合意 (covered in xref:americanlaw101_ch03.html#ch03[Chapter 3]). Specifically, the initial part of this chapter focuses on the remaining required contract elements of consideration 对价, legality 合法性, and capacity 缔约能力. The remaining sections focus on issues that relate to contracts, either directly or indirectly, regarding these four needed contract elements.
+
+[.my2]
+4. 合同法（二）：对价及其他要素
+本章聚焦于合同除合意之外的其他必备构成要素（合意相关内容详见本书第三章）。具体而言，本章开篇部分将论述合同剩余的三项必备要素——对价、合法性与缔约能力，其余章节则围绕与这四项合同要素直接或间接相关的合同问题展开。
+
+---
+
+=== Consideration 对价
+
+Consideration is defined as a “bargained-for exchange 经协商的交换” of promises and/or acts. Regarding interpretation 解释层面, consideration has been defined broadly, not narrowly, by American courts. So what qualifies as 构成；符合 consideration? Consideration can consist of some right, interest, profit, or benefit accruing to 归于；产生于 the other party, or some forbearance 弃权, detriment 损害, loss, or responsibility given, suffered, or undertaken by 承担 by the other party. In other words, a promisor 允诺人 does not have to receive a benefit for valid consideration 有效对价. A waiver 放弃 of any legal right at the request of the other party to the contract can be sufficient consideration 充分对价 for a promise. Put simply, consideration under American law can be either a benefit 利益 or detriment 损害 related to the promisor (offeror 要约人) and promisee 受允诺人 (offeree 受要约人).
+
+[.my2]
+对价的定义是对允诺和/或行为的“经协商的交换”。在解释层面，美国法院对“对价”的定义采用广义标准，而非狭义标准。那么，哪些内容可以构成对价？对价可以是归于合同另一方的某种权利、利益、收益或好处，也可以是合同另一方所作出的弃权、所遭受的损害、损失，或所承担的责任。换句话说，允诺人并非必须获得利益才能构成有效对价。应合同相对方的要求而放弃任何合法权利，都可以构成一项允诺的充分对价。简而言之，美国法律项下的对价，可以是与允诺人（要约人）和受允诺人（受要约人）相关的利益或损害。
+
+Why is consideration so broad under American law? Various factors exist, but one rationale 根本原因 is the need to allow for flexibility 灵活性 in terms of free market exchange 自由市场交易 under a “freedom to contract 合同自由” principle. This principle in effect gives due deference to 充分尊重 those involved in the contracts to determine what contract terms and conditions best serve their respective interests 各自利益. Now that we know that consideration can be interpreted broadly—to include both benefits and detriments to the other parties—the next pertinent question 相关问题 will be discussed.
+
+[.my2]
+为何美国法律对“对价”的界定如此宽泛？原因有很多，其中一个根本原因是：基于“合同自由”原则，需要为自由市场交易预留足够的灵活性。这一原则的核心是充分尊重合同当事人的意愿，由其自主决定最符合各自利益的合同条款。既然我们已经明确对价的解释采用广义标准——既包括合同相对方获得的利益，也包括其遭受的损害，接下来将探讨下一个相关问题。
+
+Must the exchange of consideration, which is needed for a validly binding contract 具有有效约束力的合同, be “equal 对等”? In other words, does valid consideration exist if inequality in consideration 对价不对等 between the contract parties exists? The short answer is generally yes. In the same spirit underlying 秉承……的精神 the freedom to contract principle, inequality of consideration generally can constitute valid consideration, with some exceptions discussed later.
+
+[.my2]
+具有有效约束力的合同所要求的对价交换，必须是“对等”的吗？换句话说，若合同当事人之间存在对价不对等的情形，是否仍存在有效对价？简短回答通常是是的。秉承合同自由原则的精神，对价不对等的情形一般可以构成有效对价，但存在一些例外情形，将在后续内容中论述。
+
+The rationale exists in the following way: Even when inequality of consideration exists, the parties to a contract are free to make a bargain 达成交易, even if the consideration exchanged is unequal. Under American law, it is enough that something of “real value in the eyes of the law 法律认可的真实价值” was exchanged as consideration. Courts will generally not ask whether the thing that forms the consideration is of any substantial value 实质价值 to anyone else besides the parties to the contract. In other words, the determination of value 价值判定 is subjective 主观的, in many ways, as seen from the eyes of the parties to the contract. This approach reflects the general notion 理念 that it is best for the contractual parties to decide the economics of the transaction 交易的经济条款 (e.g., the exact monetary value of the goods or services being exchanged), not the courts.
+
+[.my2]
+该规则的逻辑如下：即便存在对价不对等的情形，合同当事人仍有权自主达成交易，无论交换的对价是否对等。在美国法律项下，只要交换的内容具备“法律认可的真实价值”，即可构成对价。法院一般不会审查该对价标的对合同当事人之外的其他人是否具有实质价值。换句话说，价值判定在很大程度上是从合同当事人的角度出发的主观判断。这一裁判思路体现了一项基本理念：交易的经济条款（例如所交换的商品或服务的具体货币价值），理应由合同当事人自主决定，而非由法院干预。
+
+Here is an example of inequality of consideration as valid consideration:
+
+[.my2]
+以下是一则“对价不对等仍构成有效对价”的示例：
+
+- Facts 事实: A law school professor gives a copy of her recently published law textbook 最新出版的法学教材 (retailing for 零售价为 $100) to a student. In exchange, the same student gives the law school professor $50 for the textbook.
+- Issue 争议焦点: Whether adequacy of valid consideration 有效对价的充分性 exists.
+- Rule 法律规则: The general rule is that inequality of consideration 对价不对等 can constitute valid consideration.
+- Conclusion 结论: Yes, valid consideration exists (i.e., generally, a $100 retail value law school textbook in exchange for $50 constitutes valid consideration, despite inequality of consideration in terms of fair market value 公允市场价值).
+
+[.my2]
+- 事实：一位法学院教授将一本自己最新出版的法学教材（零售价100美元）交给一名学生，作为交换，该学生向教授支付50美元购买这本教材。
+- 争议焦点：本案是否存在充分的有效对价？
+- 法律规则：一般规则是，对价不对等的情形可以构成有效对价。
+- 结论：存在有效对价。（即：尽管从公允市场价值来看对价不对等，但通常而言，一本零售价100美元的法学教材与50美元的交换，仍构成有效对价。）
+
+Now that we know that consideration can be unequal between the parties, the next question becomes how unequal can consideration be? One exception to this general rule is if the exchange is grossly disproportionate 严重失衡 to constitute nominal consideration 象征性对价. In a case involving nominal consideration, in which a disproportionately small consideration amount is given, a risk exists that the courts may not deem 认定 the thing exchanged as sufficient valid consideration.
+
+[.my2]
+既然我们已经明确当事人之间的对价可以不对等，接下来的问题是：对价的不对等程度可以达到何种限度？该一般规则的一项例外情形是：若对价交换严重失衡，则可能构成象征性对价。在涉及象征性对价的案件中，由于一方所支付的对价金额与标的价值严重不符，法院可能会认定该交换内容不构成充分的有效对价。
+
+As one example, exchanging a car for a house is not equal in value, but if both parties entered the exchange knowingly 明知且自愿地参与交换, the courts may interpret the exchange to constitute valid consideration. However, exchanging $1 for a $1 million valued home may be construed as 被解释为 nominal consideration, depending on the case circumstances 具体案情. This is mainly because the transaction resembles more of a “something for nothing” situation 近乎“无偿赠与”的情形 than a “something for something” (in Latin, quid pro quo 对价交换) bargained-for exchange between the parties. Thus, for reasons already discussed, nominal consideration will generally not be deemed as valid consideration under American law.
+
+[.my2]
+举个例子：用一辆汽车交换一套房屋，两者的价值并不对等，但如果双方是明知且自愿地参与该交换，法院可能会认定该交换构成有效对价。但如果用1美元交换一套价值100万美元的房屋，则可能会根据具体案情被解释为象征性对价。这主要是因为该交易更接近“无偿赠与”的情形，而非当事人之间“一物换一物”的经协商交换（拉丁语中称为对价交换）。因此，基于前文所述的理由，在美国法律项下，象征性对价通常不被认定为有效对价。
+
+Can consideration given in the past be valid consideration for a contract in the present or future? The short answer is no. The general rule is that past consideration 过去对价 does not constitute valid consideration under American law. Past consideration is generally interpreted as a benefit or detriment that would form a bargained-for exchange, as discussed earlier. However, past consideration is consideration that has been given before any contract was agreed upon 达成协议. Thus, past consideration is not deemed sufficient valid consideration to bind a contract 使合同产生约束力.
+
+[.my2]
+过去提供的对价，能否作为当前或未来合同的有效对价？简短回答是不能。一般规则是，过去对价在美国法律项下不构成有效对价。过去对价从性质上看，虽然也符合前文所述的“利益或损害”的对价构成要件，但关键在于，过去对价是在任何合同达成协议之前就已经提供的。因此，过去对价不被认定为使合同产生约束力的充分有效对价。
+
+Here is an example of invalid past consideration:
+
+[.my2]
+以下是一则“过去对价不构成有效对价”的示例：
+
+- Facts 事实: A couple has a son. The couple names the child after the mother’s grandfather 以孩子外祖父的名字为其命名. The grandfather later (following, not at or before, the child’s naming 孩子取名之后、而非当时或之前) asks the couple to name the child after him (the grandfather’s name). In exchange, the grandfather promises to pay for the son’s future college expenses 未来的大学学费. Based on this promise, the couple agrees. The grandfather later revokes 撤销 his earlier promise.
+- Issue 争议焦点: Whether the parents can enforce 强制执行 the grandfather’s promise.
+- Rule 法律规则: The general rule is that past consideration is not valid consideration 过去对价不构成有效对价. Because the couple’s naming of the child occurred before the grandfather made the offer, it was past consideration. Thus, the couple cannot bind the grandfather to his (earlier) promise.
+- Conclusion 结论: No, the parents cannot enforce the grandfather’s promise.
+
+[.my2]
+- 事实：一对夫妇生下一个儿子，并以孩子外祖父的名字为其命名。之后（孩子取名之后、而非当时或之前），外祖父提出要求，让这对夫妇用自己的名字为孩子命名，并承诺将承担孩子未来的大学学费。夫妇二人基于该承诺表示同意。但此后，外祖父撤销了他之前作出的承诺。
+- 争议焦点：夫妇二人能否强制执行外祖父的承诺？
+- 法律规则：一般规则是，过去对价不构成有效对价。由于夫妇二人给孩子取名的行为发生在外祖父作出要约之前，该行为属于过去对价。因此，夫妇二人无法依据该对价要求外祖父履行其承诺。
+- 结论：夫妇二人不能强制执行外祖父的承诺。
+
+Here is an example of valid consideration:
+
+[.my2]
+以下是一则“有效对价”的示例：
+
+- Case 案件: _Hamer v. Sidway_, 124 N.Y. 538, 27 N.E. 256 (1891)
+- Facts 事实: An uncle promises to pay his nephew $5,000 to not smoke, swear, or gamble until the nephew was 21 years old (assume that all of these acts are legal at the time and jurisdiction of this case 假设在本案的案发时间及司法管辖区内，这些行为均属合法). The nephew fully performed on his side 完全履行了自己的义务. When the nephew turned 21, he wrote to his uncle that he was entitled to 有权获得 the $5,000 per their earlier agreement. The uncle agreed. However, the uncle offered to keep the money for the nephew until the nephew would be ready to receive the money. The nephew agreed. The uncle died soon after, without giving the nephew the $5,000. The nephew made a claim to 向……主张权利 the executor 遗产执行人 that was administrating 管理 the uncle’s assets 遗产 after his death, Sidway, for the $5,000 plus interest 利息. The nephew’s request was rejected by Sidway. The nephew then filed suit 提起诉讼.
+- Issue 争议焦点: Whether giving up smoking, swearing, and gambling is valid consideration?
+- Rule 法律规则: The general rule is that consideration for a promise to a contract may consist of, among other things, not just a benefit, but also the abandonment of a legal right 放弃合法权利.
+- Apply 规则适用: Here, the nephew had the legal right to the actions he chose to give up in the form of smoking, swearing, and gambling in exchange for the uncle’s promise. Thus, the nephew’s forbearance 弃权 of his legal rights to these acts was sufficient consideration for the promise of $5,000. Applying the general rule, any damage, suspension 中止, or forbearance of a legal right is sufficient to sustain 支撑 a promise to a contract. As a result, it is sufficient that the nephew in this case restricted his lawful right 合法权利 to smoke, drink, and gamble in exchange for his uncle’s promise to pay him $5,000. In other words, generally, a waiver of a legal right at the request of the counterparty 合同相对方 to the contract is sufficient consideration for a promise.
+- Conclusion 结论: Yes, the giving up of smoking, swearing, and gambling is valid consideration.
+
+[.my2]
+- 案件：哈默诉西德韦案，124 N.Y. 538，27 N.E. 256（1891年）
+- 事实：一位叔叔向侄子承诺，若侄子在年满21岁前不吸烟、不说脏话、不赌博，就会给他5000美元（假设在本案的案发时间及司法管辖区内，这些行为均属合法）。侄子完全履行了自己的义务。当侄子年满21岁时，他写信给叔叔，主张依据双方此前的协议，自己有权获得这5000美元。叔叔对此表示同意，但提出由自己代为保管这笔钱，待侄子准备好后再交付，侄子表示应允。不久后，叔叔去世，并未向侄子支付这笔5000美元。侄子遂向叔叔的遗产执行人西德韦主张权利，要求其支付5000美元及相应利息，但该请求遭到西德韦拒绝。随后，侄子提起诉讼。
+- 争议焦点：放弃吸烟、说脏话和赌博的行为，是否构成有效对价？
+- 法律规则：一般规则是，一项合同允诺的对价，除利益之外，还可以包括放弃合法权利。
+- 规则适用：本案中，侄子原本享有吸烟、说脏话和赌博的合法权利，他应叔叔的要求放弃了这些权利，以此作为对叔叔允诺的交换。因此，侄子对这些合法权利的弃权行为，构成了叔叔5000美元允诺的充分对价。根据前述一般规则，任何对合法权利的损害、中止或弃权行为，都足以支撑一项合同允诺的效力。因此，本案中侄子为换取叔叔支付5000美元的允诺，而限制自己吸烟、饮酒和赌博的合法权利，这一行为已构成充分对价。换句话说，一般而言，应合同相对方的要求而放弃合法权利，即可构成一项允诺的充分对价。
+- 结论：放弃吸烟、说脏话和赌博的行为，构成有效对价。
+
+The next question becomes whether a promise to provide a gift 赠与承诺 is an enforceable contract 具有强制执行力的合同. The short answer is no, gratuitous promises 无偿允诺 are not enforceable, because a bargained-for exchange of consideration does not exist. This promise is referred to as an unenforceable gratuitous promise 无强制执行力的无偿允诺. For instance, a promise made by a family member purporting to be a gift 声称是赠与的允诺 is considered a gratuity 无偿赠与. Because a gratuity is a gratuitous promise, it is not an enforceable contract. One rationale for this rule of law is that gratuitous promises, or gifts, are generally not intended to be a binding contract 具有约束力的合同.
+
+[.my2]
+接下来的问题是：赠与承诺是否属于具有强制执行力的合同？简短回答是不属于，无偿允诺不具有强制执行力，因为其不存在经协商的对价交换。此类允诺被称为无强制执行力的无偿允诺。例如，家庭成员作出的、声称是赠与的允诺，即属于无偿赠与。由于无偿赠与的性质是无偿允诺，因此其不构成具有强制执行力的合同。该法律规则的一项根本原因是：无偿允诺或赠与，通常不具有创设具有约束力合同的意图。
+
+
+---
+
+
+=== Consideration for Contract Modifications 合同变更的对价
+
+As many readers will understand, in an ever-changing legal and economic environment 法律与经济环境, contracts may need to be modified 变更 after contract formation 合同成立后. The question then becomes whether modifying material terms and conditions 实质性条款 to a contract require additional consideration 额外对价 for additional changes. The short answer is yes, contract modification to material terms and conditions to a contract generally does require additional consideration.
+
+[.my2]
+正如许多读者所知，在瞬息万变的法律与经济环境中，合同成立后可能需要进行变更。随之而来的问题是，变更合同的实质性条款是否需要为新增的变更内容提供额外对价？简短回答是需要，对合同实质性条款进行变更，通常需要提供额外对价。
+
+The rationale for the need for additional consideration to modify a contract exists in the preexisting duty rule 先存义务规则, which states that a bargained-for exchange for something that a party is already legally bound to do 已负有法定履行义务的事项 is not valid consideration. Although promising a preexisting duty is not valid consideration, a similar but not preexisting performance 类似但非先存的履行行为 can be deemed as valid consideration, if it differs from what was required by the preexisting duty in a way that reflects more than a pretense of a bargain 不仅仅是表面上的协商交换. In plain English, the new performance must be more than superficially different 不只是表面上的差异 than the preexisting (performance) duty.
+
+[.my2]
+合同变更需要额外对价的法理依据在于先存义务规则，该规则规定：就一方当事人已负有法定履行义务的事项进行协商交换，不构成有效对价。尽管履行先存义务的允诺不构成有效对价，但如果某一履行行为与先存义务要求的内容相似，但存在实质性差异，而非仅仅是表面上的协商交换，则该履行行为可被认定为有效对价。通俗地讲，新的履行行为与先存履行义务之间不能只有表面上的差异。
+
+At least one exception to the preexisting duty rule exists: A contract modification may be enforceable 具有强制执行力 even if a preexisting duty existed and no additional consideration was provided, only if all of the following criteria 标准 are met:
+
+1. The parties voluntarily agreed 自愿达成合意 to the modification.
+2. The promise modifying the original contract was made before the contract was fully performed 合同未被完全履行 on either side.
+3. The underlying circumstances 背景情况 that prompted the contract modification were unanticipated 无法预见的 by the parties.
+4. The contract modification is fair and equitable 公平合理的 to the parties.
+
+[.my2]
+先存义务规则存在至少一项例外情形：即便存在先存义务且未提供额外对价，合同变更仍可具有强制执行力，但需同时满足以下全部标准：
+1.  合同当事人自愿就变更达成合意。
+2.  变更原合同的允诺是在合同任何一方均未完全履行义务之前作出的。
+3.  促使合同变更的背景情况是当事人无法预见的。
+4.  合同变更对各方当事人而言是公平合理的。
+
+Here is an example of a contract modification:
+
+[.my2]
+以下是一则合同变更的相关案例：
+
+- Case 案件: _Angel v. Murray_, 322 A.2d 630 (R.I. 1974)
+- Facts 事实: A garbage disposal company 垃圾处理公司 and a city made a long-term contract 签订长期合同 for the disposal of the city’s garbage. A contract modification was made in which the payment by the city to the disposal company was increased, but without additional consideration.
+- Issue 争议焦点: Whether the contract modification was enforceable, even if no additional consideration was provided to support the increase in payment.
+- Rule 法律规则: The general rule is that contract modifications require additional consideration pursuant to 依据 the preexisting duty rule 先存义务规则. However, an exception to the general rule exists in which no additional consideration is needed for a contract modification, only if all of the aforementioned criteria 前述标准 are met: (1) the parties voluntarily agreed to the modification; (2) the promise modifying the original contract was made before the contract was fully performed on either side; (3) the underlying circumstances that prompted the contract modification were unanticipated by the parties; and (4) the contract modification is fair and equitable to the parties.
+- Apply 规则适用: Here, the exception to the general rule existed because (1) the contract modification was made due to unexpected hardships 意外困境, where the city’s population increased rapidly over a short time period, which was unanticipated 无法预见的 by both parties; (2) the parties voluntarily agreed 自愿达成合意 to the contract modification; (3) the promise modifying the original contract was made before 合同履行完毕前 the contract was fully performed by either party to the contract; and (4) the contract modification was fair and equitable 公平合理的 to the parties.
+- Conclusion 结论: Yes, the contract modification was enforceable, even if no additional consideration was provided to support the increase in payment.
+
+[.my2]
+- 案件：安吉尔诉默里案，322 A.2d 630（罗得岛州最高法院，1974年）
+- 事实：一家垃圾处理公司与某城市签订了一份处理城市垃圾的长期合同。双方随后对合同进行了变更，约定由城市提高向垃圾处理公司支付的费用，但未为此提供额外对价。
+- 争议焦点：在未提供额外对价以支撑费用上调的情况下，该合同变更是否具有强制执行力？
+- 法律规则：一般规则是，依据先存义务规则，合同变更需要额外对价。但该一般规则存在例外情形，即满足前述全部标准时，合同变更无需额外对价：（1）当事人自愿就变更达成合意；（2）变更原合同的允诺在任何一方完全履行合同义务前作出；（3）促使合同变更的背景情况是当事人无法预见的；（4）合同变更对各方公平合理。
+- 规则适用：本案符合一般规则的例外情形，理由如下：（1）合同变更是因意外困境引发——该城市人口在短期内急剧增长，这是双方均无法预见的情况；（2）当事人自愿就合同变更达成合意；（3）变更原合同的允诺是在合同任何一方均未完全履行义务之前作出的；（4）该合同变更对双方而言是公平合理的。
+- 结论：即便未提供额外对价以支撑费用上调，该合同变更仍具有强制执行力。
+
+So far, the general requirement for valid consideration of a validly binding contract has been covered, but can an enforceable contract exist without consideration 无对价? In other words, does an exception exist to the general rule that valid consideration is needed for a validly binding contract? The short answer is yes, in certain narrow circumstances 特定的有限情形下. One circumstance (and thus, an exception to the general rule requiring valid consideration) exists if the promisee 受允诺人 can show detrimental reliance 信赖利益受损 upon the promise made by the promisor 允诺人. This exception based on detrimental reliance is known as promissory estoppel 允诺禁反言.
+
+[.my2]
+前文已经论述了具有有效约束力的合同对有效对价的一般要求，但无对价的合同是否可以具有强制执行力？换句话说，有效对价是有效合同必备要素的一般规则，是否存在例外情形？简短回答是存在，但仅适用于特定的有限情形。其中一种例外情形（即有效对价一般规则的例外）是：受允诺人能够证明其对允诺人的允诺存在信赖利益受损。这种基于信赖利益受损的例外规则被称为允诺禁反言。
+
+Promissory estoppel is a promise that the promisor should reasonably expect 合理预期 to induce action or forbearance 促使作为或不作为 on the part of the promisee (reasonable expectation of reliance 合理信赖预期) and that actually does induce 实际促成 action or forbearance (in which reasonable expectation of reliance is in fact acted on by the promisee). In these circumstances, the agreement is binding—even if consideration does not exist—if injustice can be avoided 能够避免不公 with the enforcement of the promise between the promisor and promisee.
+
+[.my2]
+允诺禁反言是指这样一种允诺：允诺人应当合理预期该允诺会促使受允诺人作出某种作为或不作为（即存在合理信赖预期），且该允诺实际促成了受允诺人的作为或不作为（即受允诺人确实基于该合理信赖预期采取了行动）。在此情形下，即便不存在对价，只要强制执行该允诺能够避免当事人之间的不公，该协议即具有约束力。
+
+Importantly, because the courts understand that a slippery slope 滑坡效应 can exist—in which an exception to the general rule requiring valid consideration for a binding contract can be overused and even abused 被滥用—promissory estoppel is not easily awarded 不会轻易适用 by the courts. Still, it is an important exception to know. Moreover, even when American courts utilize promissory estoppel to enforce a contract that may not be enforceable without promissory estoppel, the promise in question is enforced only to the extent that it is necessary to prevent injustice 仅在避免不公的必要范围内强制执行.
+
+[.my2]
+需要重点说明的是，法院深知该规则存在滑坡效应的风险——即有效对价是有效合同必备要素这一一般规则的例外情形可能被过度适用甚至滥用，因此法院不会轻易适用允诺禁反言规则。尽管如此，这仍是一项需要掌握的重要例外规则。此外，即便美国法院适用允诺禁反言规则，强制执行那些若无该规则则无法执行的合同，也仅会在避免不公的必要范围内对相关允诺予以强制执行。
+
+Here is an example of promissory estoppel:
+
+[.my2]
+以下是一则允诺禁反言的相关案例：
+
+- Case 案件: _Feinberg v. Pfeiffer Co_., 22 S.W.2d 163 (1959)
+- Facts 事实: Feinberg worked for Pfeiffer from the time she (Feinberg) was 17 years old. After many years of working for Pfeiffer, the board 董事会 adopted a resolution 通过一项决议 that would increase Feinberg’s salary to $400 and create retirement benefits 退休金福利 of $200 per month for the rest of her life when she chose to retire. Feinberg continued to work for Pfeiffer for another two years, and then she retired 退休. Pfeiffer promptly began paying Feinberg her retirement benefits on the first day of every month. Pfeiffer’s president died in 1949 and was replaced by Pfeiffer’s wife, until her son-in-law took over the company 接管公司 in 1953. The son-in-law decided to start sending only $100 per month, rather than $200 per month, beginning on April 1956. Feinberg declined to cash the check 拒绝兑现支票 and sued based on her argument that a contractual obligation existed to pay her $200 per month in retirement benefits.
+- Issue 争议焦点: Whether detrimental reliance 信赖利益受损 existed to create an enforceable contract based on promissory estoppel.
+- Rule 法律规则: The general rule is that valid consideration is required for an enforceable contract. However, an exception to the general rule exists if detrimental reliance based on promissory estoppel 允诺禁反言 exists.
+- Apply 规则适用: Here, the promise to pay Feinberg $200 per month in retirement payment is legally enforceable because (1) Feinberg detrimentally relied 存在信赖利益受损 on Pfeiffer’s promise to pay benefits when she made her decision to retire from Pfeiffer; (2) Pfeiffer’s promise to pay Feinberg the additional amount in retirement benefits induced 促使 Feinberg to retire (when without inducement, she would have continued to work, based on the court’s findings 法院认定); and (3) injustice can be avoided 能够避免不公 by enforcing the contract (to pay Feinberg $200 in retirement benefits).
+- Conclusion 结论: Yes, detrimental reliance existed to create an enforceable contract based on promissory estoppel.
+
+[.my2]
+- 案件：范伯格诉法伊弗公司案，22 S.W.2d 163（1959年）
+- 事实：范伯格17岁起就在法伊弗公司工作。在公司任职多年后，董事会通过一项决议：将范伯格的薪资上调至每月400美元，且在她选择退休后，为其提供每月200美元的终身退休金福利。范伯格继续在该公司工作了两年后选择退休。法伊弗公司随即开始在每月1日向范伯格支付退休金。1949年，法伊弗公司总裁去世，由其妻子接任，直至1953年其女婿接管公司。1956年4月起，该女婿决定将每月的退休金从200美元降至100美元。范伯格拒绝兑现该支票，并提起诉讼，主张公司负有每月向其支付200美元退休金的合同义务。
+- 争议焦点：是否存在信赖利益受损的情形，从而基于允诺禁反言规则成立具有强制执行力的合同？
+- 法律规则：一般规则是，具有强制执行力的合同需要有效对价。但如果存在基于允诺禁反言的信赖利益受损情形，则构成该一般规则的例外。
+- 规则适用：本案中，向范伯格每月支付200美元退休金的允诺具有法律强制执行力，理由如下：（1）范伯格在决定从法伊弗公司退休时，对公司支付退休金的允诺存在信赖利益受损；（2）法伊弗公司关于增加退休金福利的允诺促使范伯格作出了退休决定（法院认定，若无该允诺，范伯格本会继续工作）；（3）强制执行该合同（即每月支付200美元退休金）能够避免不公。
+- 结论：存在信赖利益受损的情形，基于允诺禁反言规则成立具有强制执行力的合同。
+
+---
+
+=== Legality and Capacity 合法性与缔约能力
+
+The third element needed for a contract is legality. In other words, the agreement must not violate the public policy 公共政策 and/or any related rules and regulations 相关规章制度 of the relevant jurisdiction 相关司法管辖区. This element is generally more clear compared to consideration and mutual assent, but it is still useful to provide some examples. For instance, an agreement to buy a car in exchange for $10,000 may likely satisfy the legality element. However, an agreement related to gambling 赌博, prostitution 卖淫, and violent acts 暴力行为 against certain persons may likely violate legality in most American jurisdictions.
+
+[.my2]
+合法性与缔约能力 +
+合同的第三项构成要素是合法性。换句话说，协议内容不得违反相关司法管辖区的公共政策及/或任何相关规章制度。相较于对价和合意，合法性要素的认定通常更为明确，但仍有必要举例说明。例如，以10000美元购买一辆汽车的协议，通常符合合法性要求。但在大多数美国司法管辖区内，与赌博、卖淫以及针对特定人员的暴力行为相关的协议，很可能违反合法性要求。
+
+The fourth element needed for a contract is contractual capacity 缔约能力. In other words, the parties to the contract must be able to understand both the rights (real and/or potential benefits 实际或潜在利益) and responsibilities (real and/or potential risks 实际或潜在风险) of the agreement. Most persons are deemed to have contractual capacity, but certain classes of persons 特定人群 are not, such as minors 未成年人 (under age 18), intoxicated persons 醉酒者, and persons of unsound mind 精神不健全者.
+
+[.my2]
+合同的第四项构成要素是缔约能力。换句话说，合同当事人必须能够理解协议所涉的权利（包括实际或潜在利益）与义务（包括实际或潜在风险）。大多数人被推定为具有缔约能力，但特定人群不具备该能力，例如未成年人（未满18周岁）、醉酒者以及精神不健全者。
+
+
+
+
+=== Defenses and Exceptions: To Enforcement of a Bargained-for Exchange  抗辩与例外情形：协商交换协议的执行阻却事由
+
+Suppose that one of the parties to an agreement believes that a contract has been formed in which all of the elements for a valid contract are met. Assume also that the other party to the agreement wants to dispute the fact that the contract is enforceable. What would be the best legal arguments to support the position that the agreement should not be enforced?
+
+[.my2]
+假设协议的一方当事人认为，一份具备有效合同全部构成要素的合同已经成立，但另一方当事人却主张该合同不具有强制执行力。那么，支持“协议不应被执行”这一立场的最佳法律论据是什么？
+
+The short answer is that several arguments could be used under American law. Legal arguments exist in the form of defenses and exceptions to the enforcement of a bargained-for exchange. One example is to argue that the agreement is unconscionable (i.e., grossly unfair, in favor of one side). If an agreement is deemed as unconscionable, the court may refuse to enforce the entire agreement, or enforce only the remainder of the contract without the unconscionable provision(s) of the agreement.
+
+[.my2]
+在美国法律项下，存在多种可援引的论据，这些论据以协商交换协议执行的抗辩与例外情形的形式存在。其中一种论据是主张协议显失公平（即协议内容极不公平，明显偏袒一方）。若协议被认定为显失公平，法院可拒绝执行整个协议，或剔除协议中的显失公平条款后，仅执行剩余部分。
+
+Factors considered when deciding on the unconscionability of a contract include the following:
+
+[.my2]
+法院认定合同是否显失公平时，会考量以下因素：
+- Community norms and reasonableness  社会公序良俗与合理性
+- Quality (overall equality) of the bargaining process  协商过程的公平性（整体对等程度）
+- Use of deceptive or high-pressure techniques or strategies  是否采用欺诈或高压手段
+- Confusing or hidden language in the written agreement  书面协议中是否存在晦涩或隐藏条款
+
+Here is an example of an unconscionable agreement:
+
+[.my2]
+以下是一则显失公平协议的相关案例：
+
+- Case 案件: _Jones v. Star Credit Co_., 59 Misc. 2d 189, 298 N.Y.S.2d 264 (1969)
+- Facts 事实: Plaintiff was a welfare recipient 福利救济领取者. Defendant was an office represented by a salesperson who visited the plaintiff. Plaintiff purchased a home freezer from the salesperson for $900. After various charges above and beyond the $900 purchase price assessed by the salesperson, the final price for the home freezer was $1,234.80. The retail market price for the home freezer was $300.
+- Issue 争议焦点: Whether the agreement’s terms and conditions were unconscionable, and thus, an unenforceable contract.
+- Rule 法律规则: The general rule is that unconscionable (grossly unfair or unequal) agreements are not enforceable contracts. Here, a great price difference existed between the home freezer’s retail market price of $300 and the $900 sales price by the salesperson. Although some price increase is reasonable in a free market economy, a substantial price increase that is multiples of the retail price is “exorbitant on its face 表面上即存在过高溢价.” This leads to the belief that the salesperson took advantage of 利用 the plaintiff. Moreover, an unequal bargaining power gap 议价能力差距 clearly existed between the defendant (a lower-income retail customer) and the plaintiff (a large corporation).
+- Conclusion 结论: Yes, the agreement was unconscionable, thus the remainder of the agreement should no longer be enforced.
+
+[.my2]
+- 案件：琼斯诉星辰信贷公司案，59 Misc. 2d 189，298 N.Y.S.2d 264（1969年）
+- 事实：原告是一名福利救济领取者，被告公司的销售人员上门拜访了原告。原告从该销售人员处购买了一台家用冰柜，标价900美元。销售人员在900美元售价之外又加收了多项费用，最终该冰柜的总价达到1234.80美元，而该款冰柜的市场零售价仅为300美元。
+- 争议焦点：该协议的条款是否显失公平，进而构成不可执行的合同？
+- 法律规则：一般规则是，显失公平（即极不公平或权利义务不对等）的协议不具有强制执行力。本案中，冰柜300美元的市场零售价与销售人员900美元的售价之间存在巨大差距。尽管在自由市场经济中，一定幅度的加价具有合理性，但加价幅度达到零售价数倍的情形，属于“表面上即存在过高溢价”。这足以表明销售人员利用了原告的弱势地位。此外，作为低收入消费者的原告与作为大型企业的被告之间，存在明显的议价能力差距。
+- 结论：该协议构成显失公平，因此协议的剩余部分不应再被执行。
+
+Duress 胁迫 is another defense to a contract to argue that the contract should not be enforceable. Duress is formally defined as “any unlawful threat or coercion used … to induce another to act (or not act).” More simply, duress is undue pressure 不正当压力 placed on a person to coerce that person to perform an act or enter into an agreement that he or she would ordinarily not perform.
+
+[.my2]
+胁迫是另一种主张合同不可执行的抗辩事由。胁迫的正式定义是“以非法威胁或强制手段……迫使他人作出（或不作出）某种行为”。简而言之，胁迫是指对他人施加不正当压力，迫使对方实施其通常不会实施的行为，或签订其通常不会签订的协议。
+
+Here is an example of duress:
+
+[.my2]
+以下是一则胁迫的相关案例：
+
+- Case 案件: _Alaska Packers’ Association v. Domenico_, U.S. Court of Appeals, 9th Circuit, 117 F. 99 (1909)
+- Facts 事实: On March 26, 1900, the parties entered into a contract under which the plaintiffs/appellees 原被告（被上诉人） (Domenico) agreed to sail on a ship to Alaska for the 1900 fishing season 捕鱼季. After the ship arrived in Alaska, the plaintiffs/appellees stopped working. The workers demanded an increase in their wages, or else they (the workers) would stop working. The ship’s superintendent 管理人 eventually yielded to 屈服于 the workers’ demands. However, upon the ship’s return, the plaintiff/appellees were informed that they would be paid only the amount originally agreed upon in March, not reflecting the increase in wages, as demanded by the workers after the ship arrived in Alaska.
+- Issue 争议焦点: Whether the contract modification for workers’ wage increases was unenforceable due to duress?
+- Rule 法律规则: The general rule is that duress, if proven, is a valid defense to a contract not being enforced. Here, the defendant/appellant’s 被告（上诉人） (Alaska Packers’ Association) consent to the contract modification for higher worker wages was made under duress. Because contracts, including modification(s) to a contract, under duress are generally not enforceable contracts, the contract modification made under duress is not an enforceable contract.
+- Conclusion 结论: Yes, the contract modification for workers’ wage increases is unenforceable due to duress.
+
+[.my2]
+- 案件：阿拉斯加捕鱼协会诉多梅尼科案，美国第九巡回上诉法院，117 F. 99（1909年）
+- 事实：1900年3月26日，双方签订合同，约定原告/被上诉人（多梅尼科一方）将乘船前往阿拉斯加，参与1900年的捕鱼季作业。船只抵达阿拉斯加后，原告/被上诉人停止工作，并要求涨薪，否则将罢工。船只管理人最终被迫同意了工人的涨薪要求。但在船只返航后，原告/被上诉人却被告知，公司仅会按照3月原合同约定的金额支付工资，不会兑现船只抵达阿拉斯加后工人要求的涨薪部分。
+- 争议焦点：因胁迫而作出的涨薪合同变更，是否不具有强制执行力？
+- 法律规则：一般规则是，胁迫一经证实，即可作为主张合同不可执行的有效抗辩事由。本案中，被告/上诉人（阿拉斯加捕鱼协会）是在受胁迫的情况下，同意了工人的涨薪合同变更要求。由于受胁迫签订的合同（包括合同变更）通常不具有强制执行力，因此该胁迫情形下的合同变更不构成可执行的合同。
+- 结论：因胁迫而作出的涨薪合同变更，不具有强制执行力。
+
+What if the issue in this case related to contract modification/preexisting duty, rather than duress? Would an enforceable contract exist? The short answer is probably yes. In the original version of the case, apart from the fact that the modification was made under duress, no additional consideration was given to make the contract modification enforceable. Also, the ship workers already had a preexisting duty to work. However, if the ship workers promised something additional or new, such as to work more hours or perform extra duties, additional performance promises above and beyond those that already existed under the preexisting duty rule 先存义务规则 may have been considered as a similar but different promise from the original preexisting promise to constitute additional consideration. Thus, contract modification under these circumstances may have been deemed an enforceable contract under American law.
+
+[.my2]
+若本案的争议焦点不是胁迫，而是合同变更/先存义务规则，那么该合同变更是否具有强制执行力？简短回答是很可能具有。在本案的原始情形中，除了合同变更是受胁迫作出这一因素外，该变更也未提供额外对价，因此不具备可执行性。此外，船员原本就负有工作的先存义务。但如果船员承诺提供额外或新的履约内容，例如延长工作时长或承担额外职责，那么这些超出先存义务规则要求的额外履约承诺，会被视为与原先存义务承诺相似但存在实质差异的新承诺，进而构成额外对价。在此情形下，根据美国法律，该合同变更可能会被认定为具有强制执行力的合同。
+
+Illusory promises 虚幻允诺 can also be used in arguing that a contract should not be enforced. Simply put, an illusory promise is a promise with no mutuality of obligation 无义务对等性, although it may seem as if bilateral promises exist superficially. In this case, neither party to the agreement involving an illusory promise is bound to his or her promise. This is because an illusory promise gives a “free way out 免责漏洞” of the promise, which in effect is not a binding promise needed for a binding contract. So, to stress-test whether a promise is an illusory promise, the issue is whether one or more of the parties to the contract are free to perform, or to withdraw, from the agreement at his or her own discretion 自行决定. If so, then the promise may likely be deemed as an illusory promise, which is not a form of valid consideration. Thus, with no valid consideration, no valid contract is formed.
+
+[.my2]
+虚幻允诺也可被用于主张合同不可执行。简而言之，虚幻允诺是指无义务对等性的允诺，尽管其表面上看似存在双向允诺。在此情形下，涉及虚幻允诺的协议双方均不受其允诺的约束。这是因为虚幻允诺存在“免责漏洞”，其本质并非有效合同所要求的具有约束力的允诺。因此，判断一项允诺是否为虚幻允诺的关键标准是：合同一方或多方是否可自行决定履行或退出协议。若答案是肯定的，则该允诺很可能被认定为虚幻允诺，而虚幻允诺不构成有效对价。因此，缺乏有效对价的协议，无法成立有效合同。
+
+Here is an example of an illusory promise:
+
+[.my2]
+以下是一则虚幻允诺的相关案例：
+
+- Case 案件: _Rehm-Zeiher Co. v. F.G. Walker Co_., 56 Ky. 6, 160 S.W. 777 (Ky. 1913)
+- Facts 事实: The parties to the contract were in the business of buying and selling whiskey (a type of alcohol). Part of the contract between the parties stated: “If for any unforeseen reason, the party of the second part finds that they cannot use the full amount of the [whiskey], the party of the first part agrees to release them from the contract for the amount desired by the party of the second part.”
+- Issue 争议焦点: Whether the contract (in particular, the contract provision noted above) is an illusory promise, and thus, an unenforceable contract?
+- Rule 法律规则: The general rule is that a contract based on an illusory promise is an unenforceable contract. Specifically, in the contract between the parties, no mutuality of obligation exists. Thus, the promise in the contract is an illusory promise. As a result, the contract is not binding because it gives a “free way out” for the parties to the contract.
+- Conclusion 结论: Yes, an illusory promise exists, and thus, the agreement is an unenforceable contract.
+
+[.my2]
+- 案件：雷姆-蔡赫尔公司诉F.G.沃克公司案，56 Ky. 6，160 S.W. 777（1913年）
+- 事实：合同双方从事威士忌（一种酒精饮品）买卖业务。合同中有一条款约定：“若因任何不可预见的原因，合同乙方发现无法使用全部威士忌，则合同甲方同意免除乙方对应数量的合同义务。”
+- 争议焦点：该合同（尤其是上述条款）是否构成虚幻允诺，进而成为不可执行的合同？
+- 法律规则：一般规则是，基于虚幻允诺的合同不具有强制执行力。具体到本案合同，其条款不具有义务对等性，因此该合同中的允诺属于虚幻允诺。正因如此，该合同不具有约束力，因为其为合同当事人设置了“免责漏洞”。
+- 结论：本案协议存在虚幻允诺，因此该协议不具有强制执行力。
+
+---
+
+=== Summary 小结
+
+Contracts are a critical part of our everyday lives. Four elements are needed to form a validly binding legal contract: (1) mutual assent 合意, (2) consideration 对价, (3) legality 合法性, and (4) capacity 缔约能力. Consideration is a bargained-for exchange that reflects the need for a quid pro quo (Latin for “something for something”). Consideration can be a benefit and/or a detriment. This means that consideration is defined very broadly and flexibly under American law. However, nominal consideration is normally not considered valid consideration, because it may be interpreted to not be a true bargained-for quid pro quo exchange. Moreover, the agreement must not violate the public policy of the contract’s jurisdiction. Finally, the parties to the contract must have contractual capacity. This means the parties must be capable of understanding both the rights and responsibilities of the agreement.
+
+[.my2]
+小结 +
+合同是日常生活中至关重要的组成部分。一份具有法律约束力的有效合同，需要具备四项构成要素：（1）合意；（2）对价；（3）合法性；（4）缔约能力。对价是一种协商交换，体现了“一物换一物”（拉丁语“quid pro quo”）的要求。对价可以是利益，也可以是损害，这意味着美国法律对“对价”的定义极为宽泛且灵活。但需要注意的是，象征性对价通常不被视为有效对价，因为其可能被认定为不构成真实的协商交换。此外，协议不得违反其管辖地的公共政策。最后，合同当事人必须具备缔约能力，即当事人必须能够理解协议所涉的权利与义务。
+
+
+
+
+
+
+'''
+
+
+== pure
+
+4.CONTRACTS II (Consideration and Beyond)
+
+This chapter focuses on the elements needed for a contract above and beyond mutual assent (covered in xref:americanlaw101_ch03.html#ch03[Chapter 3]). Specifically, the initial part of this chapter focuses on the remaining required contract elements of consideration, legality, and capacity. The remaining sections focus on issues that relate to contracts, either directly or indirectly, regarding these four needed contract elements.
+
+---
+
+=== Consideration
+
+Consideration is defined as a “bargained-for exchange” of promises and/or acts. Regarding interpretation, consideration has been defined broadly, not narrowly, by American courts. So what qualifies as consideration? Consideration can consist of some right, interest, profit, or benefit accruing to the other party, or some forbearance, detriment, loss, or responsibility given, suffered, or undertaken by the other party. In other words, a promisor does not have to receive a benefit for valid consideration. A waiver of any legal right at the request of the other party to the contract can be sufficient consideration for a promise. Put simply, consideration under American law can be either a benefit or detriment related to the promisor (offeror) and promisee (offeree).
+
+Why is consideration so broad under American law? Various factors exist, but one rationale is the need to allow for flexibility in terms of free market exchange under a “freedom to contract” principle. This principle in effect gives due deference to those involved in the contracts to determine what contract terms and conditions best serve their respective interests. Now that we know that consideration can be interpreted broadly—to include both benefits and detriments to the other parties—the next pertinent question will be discussed.
+
+Must the exchange of consideration, which is needed for a validly binding contract, be “equal”? In other words, does valid consideration exist if inequality in consideration between the contract parties exists? The short answer is generally yes. In the same spirit underlying the freedom to contract principle, inequality of consideration generally can constitute valid consideration, with some exceptions discussed later.
+
+The rationale exists in the following way: Even when inequality of consideration exists, the parties to a contract are free to make a bargain, even if the consideration exchanged is unequal. Under American law, it is enough that something of “real value in the eyes of the law” was exchanged as consideration. Courts will generally not ask whether the thing that forms the consideration is of any substantial value to anyone else besides the parties to the contract. In other words, the determination of value is subjective, in many ways, as seen from the eyes of the parties to the contract. This approach reflects the general notion that it is best for the contractual parties to decide the economics of the transaction (e.g., the exact monetary value of the goods or services being exchanged), not the courts.
+
+Here is an example of inequality of consideration as valid consideration:
+
+- Facts: A law school professor gives a copy of her recently published law textbook (retailing for $100) to a student. In exchange, the same student gives the law school professor $50 for the textbook.
+- Issue: Whether adequacy of valid consideration exists.
+- Rule: The general rule is that inequality of consideration can constitute valid consideration.
+- Conclusion: Yes, valid consideration exists (i.e., generally, a $100 retail value law school textbook in exchange for $50 constitutes valid consideration, despite inequality of consideration in terms of fair market value).
+
+Now that we know that consideration can be unequal between the parties, the next question becomes how unequal can consideration be? One exception to this general rule is if the exchange is grossly disproportionate to constitute nominal consideration. In a case involving nominal consideration, in which a disproportionately small consideration amount is given, a risk exists that the courts may not deem the thing exchanged as sufficient valid consideration.
+
+As one example, exchanging a car for a house is not equal in value, but if both parties entered the exchange knowingly, the courts may interpret the exchange to constitute valid consideration. However, exchanging $1 for a $1 million valued home may be construed as nominal consideration, depending on the case circumstances. This is mainly because the transaction resembles more of a “something for nothing” situation than a “something for something” (in Latin, quid pro quo) bargained-for exchange between the parties. Thus, for reasons already discussed, nominal consideration will generally not be deemed as valid consideration under American law.
+
+Can consideration given in the past be valid consideration for a contract in the present or future? The short answer is no. The general rule is that past consideration does not constitute valid consideration under American law. Past consideration is generally interpreted as a benefit or detriment that would form a bargained-for exchange, as discussed earlier. However, past consideration is consideration that has been given before any contract was agreed upon. Thus, past consideration is not deemed sufficient valid consideration to bind a contract.
+
+Here is an example of invalid past consideration:
+
+- Facts: A couple has a son. The couple names the child after the mother’s grandfather. The grandfather later (following, not at or before, the child’s naming) asks the couple to name the child after him (the grandfather’s name). In exchange, the grandfather promises to pay for the son’s future college expenses. Based on this promise, the couple agrees. The grandfather later revokes his earlier promise.
+- Issue: Whether the parents can enforce the grandfather’s promise.
+- Rule: The general rule is that past consideration is not valid consideration. Because the couple’s naming of the child occurred before the grandfather made the offer, it was past consideration. Thus, the couple cannot bind the grandfather to his (earlier) promise.
+- Conclusion: No, the parents cannot enforce the grandfather’s promise.
+
+Here is an example of valid consideration:
+
+- Case: _Hamer v. Sidway_, 124 N.Y. 538, 27 N.E. 256 (1891)
+- Facts: An uncle promises to pay his nephew $5,000 to not smoke, swear, or gamble until the nephew was 21 years old (assume that all of these acts are legal at the time and jurisdiction of this case). The nephew fully performed on his side. When the nephew turned 21, he wrote to his uncle that he was entitled to the $5,000 per their earlier agreement. The uncle agreed. However, the uncle offered to keep the money for the nephew until the nephew would be ready to receive the money. The nephew agreed. The uncle died soon after, without giving the nephew the $5,000. The nephew made a claim to the executor that was administrating the uncle’s assets after his death, Sidway, for the $5,000 plus interest. The nephew’s request was rejected by Sidway. The nephew then filed suit.
+- Issue: Whether giving up smoking, swearing, and gambling is valid consideration?
+- Rule: The general rule is that consideration for a promise to a contract may consist of, among other things, not just a benefit, but also the abandonment of a legal right.
+- Apply: Here, the nephew had the legal right to the actions he chose to give up in the form of smoking, swearing, and gambling in exchange for the uncle’s promise. Thus, the nephew’s forbearance of his legal rights to these acts was sufficient consideration for the promise of $5,000. Applying the general rule, any damage, suspension, or forbearance of a legal right is sufficient to sustain a promise to a contract. As a result, it is sufficient that the nephew in this case restricted his lawful right to smoke, drink, and gamble in exchange for his uncle’s promise to pay him $5,000. In other words, generally, a waiver of a legal right at the request of the counterparty to the contract is sufficient consideration for a promise.
+- Conclusion: Yes, the giving up of smoking, swearing, and gambling is valid consideration.
+
+The next question becomes whether a promise to provide a gift is an enforceable contract. The short answer is no, gratuitous promises are not enforceable, because a bargained-for exchange of consideration does not exist. This promise is referred to as an unenforceable gratuitous promise. For instance, a promise made by a family member purporting to be a gift is considered a gratuity. Because a gratuity is a gratuitous promise, it is not an enforceable contract. One rationale for this rule of law is that gratuitous promises, or gifts, are generally not intended to be a binding contract.
+
+---
+
+=== Consideration for Contract Modifications
+
+As many readers will understand, in an ever-changing legal and economic environment, contracts may need to be modified after contract formation. The question then becomes whether modifying material terms and conditions to a contract require additional consideration for additional changes. The short answer is yes, contract modification to material terms and conditions to a contract generally does require additional consideration.
+
+The rationale for the need for additional consideration to modify a contract exists in the preexisting duty rule, which states that a bargained-for exchange for something that a party is already legally bound to do is not valid consideration. Although promising a preexisting duty is not valid consideration, a similar but not preexisting performance can be deemed as valid consideration, if it differs from what was required by the preexisting duty in a way that reflects more than a pretense of a bargain. In plain English, the new performance must be more than superficially different than the preexisting (performance) duty.
+
+At least one exception to the preexisting duty rule exists: A contract modification may be enforceable even if a preexisting duty existed and no additional consideration was provided, only if all of the following criteria are met:
+
+1. The parties voluntarily agreed to the modification.
+2. The promise modifying the original contract was made before the contract was fully performed on either side.
+3. The underlying circumstances that prompted the contract modification were unanticipated by the parties.
+4. The contract modification is fair and equitable to the parties.
+
+Here is an example of a contract modification:
+
+- Case: _Angel v. Murray_, 322 A.2d 630 (R.I. 1974)
+- Facts: A garbage disposal company and a city made a long-term contract for the disposal of the city’s garbage. A contract modification was made in which the payment by the city to the disposal company was increased, but without additional consideration.
+- Issue: Whether the contract modification was enforceable, even if no additional consideration was provided to support the increase in payment.
+- Rule: The general rule is that contract modifications require additional consideration pursuant to the preexisting duty rule. However, an exception to the general rule exists in which no additional consideration is needed for a contract modification, only if all of the aforementioned criteria are met: (1) the parties voluntarily agreed to the modification; (2) the promise modifying the original contract was made before the contract was fully performed on either side; (3) the underlying circumstances that prompted the contract modification were unanticipated by the parties; and (4) the contract modification is fair and equitable to the parties.
+- Apply: Here, the exception to the general rule existed because (1) the contract modification was made due to unexpected hardships, where the city’s population increased rapidly over a short time period, which was unanticipated by both parties; (2) the parties voluntarily agreed to the contract modification; (3) the promise modifying the original contract was made before the contract was fully performed by either party to the contract; and (4) the contract modification was fair and equitable to the parties.
+- Conclusion: Yes, the contract modification was enforceable, even if no additional consideration was provided to support the increase in payment.
+
+So far, the general requirement for valid consideration of a validly binding contract has been covered, but can an enforceable contract exist without consideration? In other words, does an exception exist to the general rule that valid consideration is needed for a validly binding contract? The short answer is yes, in certain narrow circumstances. One circumstance (and thus, an exception to the general rule requiring valid consideration) exists if the promisee can show detrimental reliance upon the promise made by the promisor. This exception based on detrimental reliance is known as promissory estoppel.
+
+Promissory estoppel is a promise that the promisor should reasonably expect to induce action or forbearance on the part of the promisee (reasonable expectation of reliance) and that actually does induce action or forbearance (in which reasonable expectation of reliance is in fact acted on by the promisee). In these circumstances, the agreement is binding—even if consideration does not exist—if injustice can be avoided with the enforcement of the promise between the promisor and promisee.
+
+Importantly, because the courts understand that a slippery slope can exist—in which an exception to the general rule requiring valid consideration for a binding contract can be overused and even abused—promissory estoppel is not easily awarded by the courts. Still, it is an important exception to know. Moreover, even when American courts utilize promissory estoppel to enforce a contract that may not be enforceable without promissory estoppel, the promise in question is enforced only to the extent that it is necessary to prevent injustice.
+
+Here is an example of promissory estoppel:
+
+- Case: _Feinberg v. Pfeiffer Co_., 22 S.W.2d 163 (1959)
+- Facts: Feinberg worked for Pfeiffer from the time she (Feinberg) was 17 years old. After many years of working for Pfeiffer, the board adopted a resolution that would increase Feinberg’s salary to $400 and create retirement benefits of $200 per month for the rest of her life when she chose to retire. Feinberg continued to work for Pfeiffer for another two years, and then she retired. Pfeiffer promptly began paying Feinberg her retirement benefits on the first day of every month. Pfeiffer’s president died in 1949 and was replaced by Pfeiffer’s wife, until her son-in-law took over the company in 1953. The son-in-law decided to start sending only $100 per month, rather than $200 per month, beginning on April 1956. Feinberg declined to cash the check and sued based on her argument that a contractual obligation existed to pay her $200 per month in retirement benefits.
+- Issue: Whether detrimental reliance existed to create an enforceable contract based on promissory estoppel.
+- Rule: The general rule is that valid consideration is required for an enforceable contract. However, an exception to the general rule exists if detrimental reliance based on promissory estoppel exists.
+- Apply: Here, the promise to pay Feinberg $200 per month in retirement payment is legally enforceable because (1) Feinberg detrimentally relied on Pfeiffer’s promise to pay benefits when she made her decision to retire from Pfeiffer; (2) Pfeiffer’s promise to pay Feinberg the additional amount in retirement benefits induced Feinberg to retire (when without inducement, she would have continued to work, based on the court’s findings); and (3) injustice can be avoided by enforcing the contract (to pay Feinberg $200 in retirement benefits).
+- Conclusion: Yes, detrimental reliance existed to create an enforceable contract based on promissory estoppel.
+
+---
+
+=== Legality and Capacity
+
+The third element needed for a contract is legality. In other words, the agreement must not violate the public policy and/or any related rules and regulations of the relevant jurisdiction. This element is generally more clear compared to consideration and mutual assent, but it is still useful to provide some examples. For instance, an agreement to buy a car in exchange for $10,000 may likely satisfy the legality element. However, an agreement related to gambling, prostitution, and violent acts against certain persons may likely violate legality in most American jurisdictions.
+
+The fourth element needed for a contract is contractual capacity. In other words, the parties to the contract must be able to understand both the rights (real and/or potential benefits) and responsibilities (real and/or potential risks) of the agreement. Most persons are deemed to have contractual capacity, but certain classes of persons are not, such as minors (under age 18), intoxicated persons, and persons of unsound mind.
+
+---
+
+=== Defenses and Exceptions: To Enforcement of a Bargained-for Exchange
+
+Suppose that one of the parties to an agreement believes that a contract has been formed in which all of the elements for a valid contract are met. Assume also that the other party to the agreement wants to dispute the fact that the contract is enforceable. What would be the best legal arguments to support the position that the agreement should not be enforced?
+
+The short answer is that several arguments could be used under American law. Legal arguments exist in the form of defenses and exceptions to the enforcement of a bargained-for exchange. One example is to argue that the agreement is unconscionable (i.e., grossly unfair, in favor of one side). If an agreement is deemed as unconscionable, the court may refuse to enforce the entire agreement, or enforce only the remainder of the contract without the unconscionable provision(s) of the agreement.
+
+Factors considered when deciding on the unconscionability of a contract include the following:
+
+- Community norms and reasonableness
+- Quality (overall equality) of the bargaining process
+- Use of deceptive or high-pressure techniques or strategies
+- Confusing or hidden language in the written agreement
+
+Here is an example of an unconscionable agreement:
+
+- Case: _Jones v. Star Credit Co_., 59 Misc. 2d 189, 298 N.Y.S.2d 264 (1969)
+- Facts: Plaintiff was a welfare recipient. Defendant was an office represented by a salesperson who visited the plaintiff. Plaintiff purchased a home freezer from the salesperson for $900. After various charges above and beyond the $900 purchase price assessed by the salesperson, the final price for the home freezer was $1,234.80. The retail market price for the home freezer was $300.
+- Issue: Whether the agreement’s terms and conditions were unconscionable, and thus, an unenforceable contract.
+- Rule: The general rule is that unconscionable (grossly unfair or unequal) agreements are not enforceable contracts. Here, a great price difference existed between the home freezer’s retail market price of $300 and the $900 sales price by the salesperson. Although some price increase is reasonable in a free market economy, a substantial price increase that is multiples of the retail price is “exorbitant on its face.” This leads to the belief that the salesperson took advantage of the plaintiff. Moreover, an unequal bargaining power gap clearly existed between the defendant (a lower-income retail customer) and the plaintiff (a large corporation).
+- Conclusion: Yes, the agreement was unconscionable, thus the remainder of the agreement should no longer be enforced.
+
+Duress is another defense to a contract to argue that the contract should not be enforceable. Duress is formally defined as “any unlawful threat or coercion used … to induce another to act (or not act).” More simply, duress is undue pressure placed on a person to coerce that person to perform an act or enter into an agreement that he or she would ordinarily not perform.
+
+Here is an example of duress:
+
+- Case: _Alaska Packers’ Association v. Domenico_, U.S. Court of Appeals, 9th Circuit, 117 F. 99 (1909)
+- Facts: On March 26, 1900, the parties entered into a contract under which the plaintiffs/appellees (Domenico) agreed to sail on a ship to Alaska for the 1900 fishing season. After the ship arrived in Alaska, the plaintiffs/appellees stopped working. The workers demanded an increase in their wages, or else they (the workers) would stop working. The ship’s superintendent eventually yielded to the workers’ demands. However, upon the ship’s return, the plaintiff/appellees were informed that they would be paid only the amount originally agreed upon in March, not reflecting the increase in wages, as demanded by the workers after the ship arrived in Alaska.
+- Issue: Whether the contract modification for workers’ wage increases was unenforceable due to duress?
+- Rule: The general rule is that duress, if proven, is a valid defense to a contract not being enforced. Here, the defendant/appellant’s (Alaska Packers’ Association) consent to the contract modification for higher worker wages was made under duress. Because contracts, including modification(s) to a contract, under duress are generally not enforceable contracts, the contract modification made under duress is not an enforceable contract.
+- Conclusion: Yes, the contract modification for workers’ wage increases is unenforceable due to duress.
+
+What if the issue in this case related to contract modification/preexisting duty, rather than duress? Would an enforceable contract exist? The short answer is probably yes. In the original version of the case, apart from the fact that the modification was made under duress, no additional consideration was given to make the contract modification enforceable. Also, the ship workers already had a preexisting duty to work. However, if the ship workers promised something additional or new, such as to work more hours or perform extra duties, additional performance promises above and beyond those that already existed under the preexisting duty rule may have been considered as a similar but different promise from the original preexisting promise to constitute additional consideration. Thus, contract modification under these circumstances may have been deemed an enforceable contract under American law.
+
+Illusory promises can also be used in arguing that a contract should not be enforced. Simply put, an illusory promise is a promise with no mutuality of obligation, although it may seem as if bilateral promises exist superficially. In this case, neither party to the agreement involving an illusory promise is bound to his or her promise. This is because an illusory promise gives a “free way out” of the promise, which in effect is not a binding promise needed for a binding contract. So, to stress-test whether a promise is an illusory promise, the issue is whether one or more of the parties to the contract are free to perform, or to withdraw, from the agreement at his or her own discretion. If so, then the promise may likely be deemed as an illusory promise, which is not a form of valid consideration. Thus, with no valid consideration, no valid contract is formed.
+
+Here is an example of an illusory promise:
+
+- Case: _Rehm-Zeiher Co. v. F.G. Walker Co_., 56 Ky. 6, 160 S.W. 777 (Ky. 1913)
+- Facts: The parties to the contract were in the business of buying and selling whiskey (a type of alcohol). Part of the contract between the parties stated: “If for any unforeseen reason, the party of the second part finds that they cannot use the full amount of the [whiskey], the party of the first part agrees to release them from the contract for the amount desired by the party of the second part.”
+- Issue: Whether the contract (in particular, the contract provision noted above) is an illusory promise, and thus, an unenforceable contract?
+- Rule: The general rule is that a contract based on an illusory promise is an unenforceable contract. Specifically, in the contract between the parties, no mutuality of obligation exists. Thus, the promise in the contract is an illusory promise. As a result, the contract is not binding because it gives a “free way out” for the parties to the contract.
+- Conclusion: Yes, an illusory promise exists, and thus, the agreement is an unenforceable contract.
+
+---
+
+=== Summary
+
+Contracts are a critical part of our everyday lives. Four elements are needed to form a validly binding legal contract: (1) mutual assent, (2) consideration, (3) legality, and (4) capacity. Consideration is a bargained-for exchange that reflects the need for a quid pro quo (Latin for “something for something”). Consideration can be a benefit and/or a detriment. This means that consideration is defined very broadly and flexibly under American law. However, nominal consideration is normally not considered valid consideration, because it may be interpreted to not be a true bargained-for quid pro quo exchange. Moreover, the agreement must not violate the public policy of the contract’s jurisdiction. Finally, the parties to the contract must have contractual capacity. This means the parties must be capable of understanding both the rights and responsibilities of the agreement.
+

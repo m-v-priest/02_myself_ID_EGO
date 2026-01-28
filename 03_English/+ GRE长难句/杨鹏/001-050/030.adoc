@@ -1,0 +1,50 @@
+= 030
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../../../../myAdocCss.css
+
+'''
+
+(030.) Studies by Hargrave and Geen 谓 estimated 估计，估算 natural community 自然群落生物,自然群集 _grazing rates_ 摄食率 *#by measuring#* (v.) _feeding rates_ 摄食率 of individual _zooplankton 浮游动物 species_ 物种；种类 in the laboratory / *#and then computing#* (v.) _community grazing （在草地上）吃青草 rates_ 牧食率 for field conditions (现场条件)针对野外实际环境 using (v.) the known 已知的 _population density_ 种群密度,人口密度 of grazers 食草动物.
+
+
+
+[.my1]
+.案例
+====
+- (030.) Studies by Hargrave and Geen estimated natural community grazing rates bymeasuring feeding rates of individual zooplankton species in the laboratory andthen computing community grazing rates for field conditions using the knownpopulation density of grazers.
+
+哈格雷夫和吉恩的研究通过测量实验室中单个浮游动物物种的摄食率，然后利用已知的捕食者种群密度计算野外条件下的群落捕食率，从而估算了自然群落的捕食率。
+
+（Hargrave和Geen所做的研究）估计了自然群体的捕食速 率，/是通过首先测量了 实验室中的浮游动物品种的个体的捕食速率/， 然后/ /再用 已知的捕食者的种群密度/计算出其野外的群体捕食速率。
+
+
+.grazing rates（摄食速率）, feeding rates（摄食速率）
+
+grazing rates（摄食速率）和feeding rates（摄食速率）在生态学语境中基本是同义词，都指
+单位时间内, 食草动物（或浮游动物）摄食藻类或植物的速率
+，通常用"单位时间、单位个体（或单位生物量）摄食的食物量"来表示。
+
+- grazing rates：更常用于描述食草动物（如浮游动物、草食性鱼类、陆生食草动物）对植物/藻类的摄食
+- feeding rates：使用范围更广，可指任何动物的摄食行为（包括捕食、滤食等）
+
+在本句中对浮游动物研究语境中，这两个术语基本可以互换，都指"单位时间内, 浮游动物摄食(v.)藻类的量"。
+
+
+.DeepSeek:
+
+这句话描述的是Hargrave和Geen两位研究者, 通过实验室"个体测量"与"野外种群密度"推算相结合的方法，来估算"自然群落"中浮游动物的"摄食速率"。
+
+- 实验室测量：在控制条件下, 测量"单个
+浮游动物物种"的"摄食速率"（feeding rates）
+- 野外推算：利用野外调查, 获得的浮游动物"种群密度"数据，将实验室测得的"个体摄食速率", 换算成"整个群落的摄食速率"
+- 逻辑链条：#*个体摄食速率 × 种群密度 = 群落"总摄食速率"*#
+
+这里可能有局限性:
+
+- 假设风险：假设实验室测得的"摄食速率", 能准确代表野外真实情况（实际上野外环境更复杂，温度、食物浓度、捕食压力等, 都会影响摄食行为）.
+- 忽略种间关系：简单相加, 可能忽略了物种间的竞争、捕食等相互作用.
+====
+
+'''

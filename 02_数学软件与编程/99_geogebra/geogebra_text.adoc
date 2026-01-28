@@ -1,0 +1,163 @@
+
+:toc:
+:toclevels: 3
+:sectnums:
+
+---
+
+官方文档
+https://wiki.geogebra.org/en/Text_Commands
+
+
+== ★ 重要
+
+==== 修改小数点显示的精度位数
+
+image:img_geogebra/104.png[]
+
+
+
+---
+
+
+
+==== #将小数显示成"分数"形式 -> FractionText( <Number> )#
+
+....
+如, 先创建一个点:
+A=(1.33,0.8)
+
+把它显示成分数(文本)形式:
+FractionText(A)
+....
+
+
+image:img_geogebra/geogebra_82.png[]
+
+---
+
+==== 使用根号和分数形式, 来表示无理数 -> SurdText( <Number> )
+
+....
+SurdText(2.414213562373095)
+....
+
+image:img_geogebra/geogebra_86.png[]
+
+
+
+---
+
+== 其他
+
+=== 使用科学计数法 -> ScientificText( <Number> )
+
+....
+ScientificText(0.002)
+....
+
+image:img_geogebra/geogebra_84.png[]
+
+....
+ScientificText(e,5)
+....
+
+要指定小数点后位数, 可以写在第二个参数中:: ScientificText( <Number>, <Precision> )
+
+image:img_geogebra/geogebra_85.png[]
+
+---
+
+=== 创建连分数 -> ContinuedFraction( <Number> )
+
+....
+如:
+ContinuedFraction(5.45)
+....
+
+image:img_geogebra/geogebra_80.png[]
+
+若只想保留3层的话, 可以带上第二个参数::
+....
+ContinuedFraction(5.45, 3) //连分数只保留3层.
+....
+
+image:img_geogebra/geogebra_81.png[]
+
+---
+
+=== 旋转文本 -> RotateText( <Text>, <Angle> )
+
+....
+RotateText("a = 5", 45°)
+....
+
+image:img_geogebra/geogebra_83.png[]
+
+---
+
+=== 表格文本形式 -> TableText( <List>, <List>, ... )
+
+Creates a text that contains a table of the list objects.
+
+....
+TableText({x^2, 4}, {x^3, 8}, {x^4, 16})
+....
+
+image:img_geogebra/geogebra_87.png[]
+
+---
+
+==== 把每个list, 竖过来显示 -> TableText( <List>, <List>, ..., "v")
+
+image:img_geogebra/geogebra_88.png[]
+
+---
+
+==== #把每个list, 竖过来显示, 并右对齐 -> TableText( <List>, <List>, ..., "vr")#
+
+....
+TableText({11.2, 123.1, 32423.9, "234.0"}, "vr")
+....
+
+image:img_geogebra/geogebra_89.png[]
+
+---
+
+==== #把每个list, 竖过来显示, 并按小数点对齐 -> TableText( <List>, <List>, ..., "v.")#
+
+creates a text whose elements are aligned on decimal points.
+
+....
+TableText({{2011.56, 2, 3.7, 4}, {1, 4.2, 9, 16.365}}, "v.")
+....
+
+image:img_geogebra/geogebra_90.png[]
+
+---
+
+==== 把每个list, 竖过来, 以百分比显示, 并按小数点对齐 -> TableText( <List>, <List>, ..., "v%")
+
+creates a text whose elements are converted to a percentage, and aligned on decimal points
+
+....
+TableText({{2011.56, 2, 3.7, 4}, {1, 4.2, 9, 16.365}}, "v%")
+....
+
+image:img_geogebra/geogebra_91.png[]
+
+---
+
+==== #显示为"联立公式"形式 -> TableText({{"公式1","公式2"}},"{v")#
+
+....
+TableText({{"2x+3y=5","5x+8y=12"}},"{v")
+....
+
+image:img_geogebra/geogebra_92.png[]
+
+---
+
+==== 其他的 list显示效果, 见官方文档
+
+https://wiki.geogebra.org/en/TableText_Command

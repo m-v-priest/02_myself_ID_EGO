@@ -1,0 +1,336 @@
+
+
+= 0048 Deductive reasoning vs. inductive reasoning
+:toc: left
+:toclevels: 3
+:sectnums:
+
+'''
+
+== Deductive reasoning vs. inductive reasoning
+
+*Here's a look at* the differences between *deductive 演绎的；推论的；推理的 reasoning*  推想；推理；理性的观点；论证 and *inductive 归纳法的；归纳的 reasoning*, with examples of each type of scientific reasoning.
+
+You don't have to be Sherlock Holmes /to use your powers of deductive reasoning … or would that be inductive reasoning?
+
+So what's the difference between inductive and deductive reasoning?
+
+During the scientific process, deductive reasoning is used to reach a logical and true conclusion. Another type of reasoning, inductive, is also commonly used. People often *confuse* (v.) deductive reasoning *with* inductive reasoning; however, important distinctions *separate* (v.) these two pathways *to* a logical conclusion.
+
+
+
+[.my1]
+.标题
+====
+.deductive
+演绎的；推论的；推理的 +
+-> de-下降,减少 + -duct-引导 + -ive
+
+.reasoning
+[ U] the process of thinking about things in a logical way; opinions and ideas that are based on logical thinking 推想；推理；理性的观点；论证
+
+image:img/inductive reasoning.jpg[,350px]
+
+下面介绍了"演绎推理"和"归纳推理"之间的区别，并提供了每种科学推理的示例。
+
+您不必成为夏洛克·福尔摩斯, 就可以使用您的演绎推理能力……或者那是归纳推理吗？ +
+那么"归纳推理"和"演绎推理"有什么区别呢？
+
+在科学过程中，"演绎推理"用于得出合乎逻辑的真实结论。另一种类型的推理，"归纳法"，也很常用。人们经常将演绎推理与归纳推理混淆；然而，重要的区别, 将这两种途径区分开来得出一个合乎逻辑的结论。
+
+====
+
+.WHAT IS DEDUCTIVE REASONING?
+
+Deductive reasoning, also *known as* deduction, is a basic form of reasoning. It *starts (v.) out with* a general statement, or hypothesis （有少量事实依据但未被证实的）假说，假设, and examines (v.) the possibilities to reach a specific, logical conclusion, according to Norman Herr, a professor of *secondary education* 中学的,中等教育 at California State University in Northridge. The scientific method uses (v.) deduction /to test (v.) hypotheses and theories, which predict (v.) certain outcomes /if they are correct, said Dr. Sylvia Wassertheil-Smoller, a researcher and *professor emerita* （尤指女性从大学）退休后保留头衔的，荣誉退休的 at Albert Einstein College of Medicine.
+
+"We go *from* the general — the theory — *to* the specific — the observations," Wassertheil-Smoller told *Live Science*.
+
+
+[.my1]
+.标题
+====
+.emerita
+/ɪˈmerɪtə/
+
+
+
+什么是演绎推理？
+
+演绎推理，也称为演绎，是推理的一种基本形式。北岭加州州立大学中学教育教授诺曼·赫尔 (Norman Herr) 表示，它从"一般性陈述"或"假设"开始，并检验得出特定、合乎逻辑的结论的可能性。阿尔伯特·爱因斯坦医学院的研究员兼名誉教授西尔维亚·瓦瑟希尔-斯莫勒 (Sylvia Wassertheil-Smoller) 博士说，科学方法使用"演绎法"来检验假设和理论，这些"假设"和"理论"可以预测某些结果是否正确。
+
+“我们从一般的理论, 到具体的观察，”Wassertheil-Smoller 告诉 Live Science。
+====
+
+In deductive reasoning /there is a first premise
+(n.)前提，假设, then a second premise /and finally an inference 推断的结果；结论 (a conclusion /based on reasoning and evidence). A common form of deductive reasoning /is the syllogism 三段论, in which two statements — *a major premise* and *a minor premise* — together reach (v.) a logical conclusion. For example, the major premise "Every A is B" *could be followed by* the minor premise, "This C is A." Those statements would *lead to* the conclusion "This C is B." Syllogisms are considered a good way to test (v.) deductive reasoning /to make sure the argument is valid.
+
+For example, "All spiders have eight legs. A tarantula 狼蛛 is a spider. Therefore, tarantulas have eight legs." *For* deductive reasoning *to be sound* (a.)明智的；合理的；正确的；可靠的, the hypothesis must be correct. *It is assumed 假定的；假设的 that* `主` the statements, "All spiders have eight legs" and "a tarantula is a spider" `系`  are true. Therefore, the conclusion is logical and true. In deductive reasoning, if something *is true of* 适当的；对……而言是正确的 a class of things in general, it is also true /for all members of that class.
+
+Deductive conclusions are reliable /provided 如果；假如；在…条件下 the premises are true, according to Herr. `主` The argument, "All bald men are grandfathers. Harold is bald. Therefore, Harold is a grandfather," `系`  is valid logically, but it is untrue /because the original premise is false 错误的；不正确的；不真实的.
+
+
+[.my1]
+.标题
+====
+.syllogism
+/ˈsɪlədʒɪzəm/ +
+-> syl-,一起，集中，-log,说话，思考，辩证，词源同 dialogue,logistic.
+
+.tarantula
+/təˈræntʃələ/
+
+
+
+在演绎推理中，有第一个前提，然后是第二个前提，最后是推理（基于推理和证据的结论）。演绎推理的一种常见形式, 是"三段论"，其中两个陈述——一个大前提和一个小前提 ——共同得出一个合乎逻辑的结论。例如，大前提“每个 A 都是 B”可以跟随小前提“ C 是 A”, 则这些陈述就能得出结论“这个 C 就是 B”。三段论被认为是测试"演绎推理"以确保论证有效的好方法。
+
+例如，“所有蜘蛛都有八条腿。狼蛛是蜘蛛。因此，狼蛛有八条腿。”为了使演绎推理合理，假设必须正确。假设“所有蜘蛛都有八条腿”和“狼蛛是蜘蛛”这两个陈述是正确的。因此，结论是合乎逻辑和真实的。在演绎推理中，如果某件事对一类事物普遍适用，那么它也适用于该类的所有成员。
+
+Herr 认为，只要前提为真，演绎结论就是可靠的。 “所有秃头男人都是祖父(这是个前提, 但这个前提说的显然是错误的)。哈罗德是秃头。因此，哈罗德是祖父”的论点在逻辑上是有效的，但它是不正确的，因为原始前提是错误的。
+====
+
+
+
+
+.WHAT IS INDUCTIVE REASONING
+
+
+While deductive reasoning begins with a premise /that is proven 被证明的；已证实的 through observations, inductive reasoning *extracts* (v.) a likely (but not certain) premise *from* specific 明确的；具体的,特定的 and limited observations 观察；观测. There is data, and then conclusions are drawn (v.) from the data; this is called inductive logic, according to the University of Illinois in Springfield.
+
+"In inductive inference 推断的结果；结论, we go *from* the specific *to* the general. We make many observations, discern (v.)觉察出；识别；了解 a pattern, *make a generalization* 概括；归纳；泛论, and *infer (v.)推断；推论；推理 an explanation* or a theory," Wassertheil-Smoller told Live Science. "In science, there is a constant interplay 相互影响（或作用） *between* inductive inference (based on observations) *and* deductive inference (based on theory), until we *get closer and closer to* the 'truth,' which we can only approach (v.) /but not ascertain (v.) [with complete certainty]."
+
+In other words, `主` the reliability 可靠性；可信度 of a conclusion /made with inductive logic /`谓` depends on the completeness 完整；完全 of the observations. For instance, let's say that /you have a bag of coins; you pull three coins from the bag, and each coin is a penny. Using inductive logic, you might then propose that /all of the coins in the bag are pennies."*Even though* `主` all of the initial observations — that each coin taken from the bag was a penny — `系` are correct, inductive reasoning *does not guarantee (v.) that* {the conclusion will be true}.
+
+
+[.my1]
+.标题
+====
+.discern
+-> dis-, 分开，散开。-cern, 分开，词源同concern, certain. 即分散开，识别。
+
+.infer
+(v.)~ sth (from sth) : to reach an opinion or decide that sth is true /on the basis of information /that is available 推断；推论；推理 +
+-> in-向内 + -fer-拿取 → 向里面拿 → 探究其深层意义 → 推断
+
+什么是归纳推理
+
+演绎推理, 从通过观察证明的前提开始，而归纳推理, 从特定和有限的观察中, 提取可能（但不确定）的前提。有了数据，再从数据中得出结论；根据位于斯普林菲尔德的伊利诺伊大学的说法，这被称为归纳逻辑。
+
+**“在归纳推理中，我们从"具体现象",上升到"一般规律"。**我们进行多次观察，辨别一种模式，进行概括，并推断出一种解释或理论，”Wassertheil-Smoller 告诉 Live Science。 “在科学中，归纳推理（基于观察）和演绎推理（基于理论）之间, 存在不断的相互作用，直到我们越来越接近‘真相’. 而对于‘真相’, 我们只能接近它, 但不能完全确定它。 “
+
+
+换句话说，**归纳逻辑得出的结论的可靠性, 取决于观察的完整性。**例如，假设您有一袋硬币；你从袋子里拿出三枚硬币，每枚硬币是一分钱。使用归纳逻辑，你可能会提出袋子里的所有硬币都是便士。”尽管所有最初的观察——从袋子里取出的每枚硬币都是一便士——都是正确的，但归纳推理并不能保证结论将一定是真实的。 (*无论我们观测到多少白天鹅, 我们也不能保证说一定"所有的天鹅都是白天鹅"这个结论, 直到发现了一只黑天鹅为止*)
+
+
+
+====
+
+
+Here's another example: "Penguins 企鹅 are birds. Penguins can't fly. Therefore, all birds can't fly." The conclusion does not follow logically from the statements.
+
+Nevertheless, inductive reasoning has its place /in the scientific method, and scientists use it /to form hypotheses and theories. Deductive reasoning then allows them *to apply* (v.) the theories *to* specific situations.
+
+
+
+[.my1]
+.标题
+====
+这是另一个例子：“企鹅是鸟。企鹅不会飞。因此，所有的鸟都不会飞。”从陈述中得出的结论不符合逻辑。
+
+尽管如此，归纳推理在科学方法中占有一席之地，科学家们用它来形成假设和理论。然后再用"演绎推理"来将他们的理论, 下放应用到特定情况。
+====
+
+.DEDUCTIVE REASONING EXAMPLES
+
+Here are some examples of deductive reasoning:
+
+Major premise: All mammals 哺乳动物 have backbones 脊梁骨；脊柱.
+Minor premise: Humans are mammals.
+Conclusion: Humans have backbones.
+
+Major premise: All birds lay eggs.
+Minor premise: Pigeons are birds.
+Conclusion: Pigeons lay eggs.
+
+Major premise: All plants perform (v.) photosynthesis  光合作用.
+Minor premise: A cactus 仙人掌科植物；仙人掌 is a plant.
+Conclusion: A cactus performs photosynthesis.
+
+
+[.my1]
+.标题
+====
+演绎推理的例子
+
+以下是演绎推理的一些例子：
+
+大前提：所有哺乳动物都有脊椎。 +
+小前提：人是哺乳动物。 +
+结论：人是有骨气的。
+
+大前提：所有的鸟都下蛋。 +
+小前提：鸽子是鸟。 +
+结论：鸽子下蛋。
+
+大前提：所有植物都进行光合作用。 +
+小前提：仙人掌是一种植物。 +
+结论：仙人掌进行光合作用。
+====
+
+.INDUCTIVE REASONING EXAMPLES
+
+Here are some examples of inductive reasoning:
+
+Data: I see fireflies 萤火虫 in my backyard every summer. +
+Hypothesis: This summer, I will probably see fireflies in my backyard.
+
+Data: I tend to *catch colds* /when people (around me) are sick. +
+Hypothesis: Colds are infectious (a.)传染性的，感染的（尤指通过呼吸）.
+
+Data: Every dog I meet /is friendly. +
+Hypothesis: Most dogs are usually friendly.
+
+
+[.my1]
+.标题
+====
+归纳推理示例
+
+以下是"归纳推理"的一些示例：
+
+数据：每年夏天, 我都会在后院看到萤火虫。 +
+假设：今年夏天，我可能会在后院看到萤火虫。 +
+
+数据：当我周围的人生病时，我容易感冒。 +
+假设：感冒具有传染性。 +
+
+数据：我遇到的每只狗都很友善。 +
+假设：大多数狗通常都很友善。
+====
+
+
+.WHAT IS *ABDUCTIVE 诱导的,溯因 REASONING*
+
+`主` Another form of scientific reasoning /that diverges from inductive and deductive reasoning /`系`  is abductive. *Abductive reasoning* usually *starts* [with an obviously incomplete set of observations and proceeds] *to* the likeliest possible explanation for the data, according to Butte College in Oroville, California. It is based on making and testing (v.) hypotheses /using the best information available. It often entails (v.)牵涉；需要；使必要 *making an educated guess* 有根据的猜测 /after observing a phenomenon /for which there is no clear explanation.
+
+For example, a person /walks into their living room /and finds torn-up 磨损的,磨耗的 papers all over the floor. The person's dog has been alone in the apartment all day. The person concludes that /the dog *tore up* the papers /because it is the most likely scenario  (n.)设想；方案；预测. It's possible that /a family member with a key to the apartment /destroyed the papers, or it may have been done /by the landlord, but the dog theory /is the most likely conclusion.
+
+Abductive reasoning is useful /for forming hypotheses to be tested. Abductive reasoning is often used by doctors /who make a diagnosis /based on test results, and by jurors 陪审团成员；陪审员 /who make decisions /based on the evidence presented to them.
+
+
+[.my1]
+.标题
+====
+.abductive reasoning
+
+image:img/abductive reasoning.png[,450px]
+
+
+.entail
+[ VN -ing] to involve sth that cannot be avoided 牵涉；需要；使必要 +
+-> en-, 进入，使。-tail, 砍，切，词源同retail, tailor. 来自法律用语，切下来的一块，留给后人继承的遗产，特指继承者继承的不能转让的房产或庄园，其继承权利受到一定的限制。引申义使必要。
+
+-  The job entails a lot of hard work. 这工作需要十分艰苦的努力。
+
+.scenario
+/səˈnærioʊ/ (n.) a description of how things might happen in the future 设想；方案；预测 +
+-> 来自意大利语 scenario,情节，来自拉丁语 scenarius,舞台情节，场景，来自 scena,舞台布景， 场景，词源同 scene.引申词义设想，方案。
+
+另一种不同于"归纳"和"演绎推理"的科学推理形式, 是"溯因推理"。根据加州奥罗维尔巴特学院的说法，溯因推理通常从一组明显不完整的观察开始，然后对数据进行最可能的解释。它基于使用可用的最佳信息, 做出和测试假设。它通常需要在观察到没有明确解释的现象后, 做出有根据的猜测。(概率?)
+
+例如，一个人走进他们的客厅，发现地板上到处都是被撕毁的文件。该人的狗一整天都在公寓里。该人得出结论，狗撕毁了文件，因为这是最有可能发生的情况。有可能是持有公寓钥匙的家庭成员销毁了文件，也可能是房东所为，但狗理论是最有可能的结论。
+
+"归纳推理"对于形成待检验的假设很有用。根据测试结果做出诊断的医生, 以及根据提供给他们的证据做出决定的陪审员, 经常使用溯因推理。
+
+
+====
+
+
+'''
+
+== <pure> Deductive reasoning vs. inductive reasoning
+
+
+
+Here's a look at the differences between deductive reasoning and inductive reasoning, with examples of each type of scientific reasoning.
+
+You don't have to be Sherlock Holmes to use your powers of deductive reasoning … or would that be inductive reasoning?
+
+So what's the difference between inductive and deductive reasoning?
+
+During the scientific process, deductive reasoning is used to reach a logical and true conclusion. Another type of reasoning, inductive, is also commonly used. People often confuse deductive reasoning with inductive reasoning; however, important distinctions separate these two pathways to a logical conclusion.
+
+
+
+.WHAT IS DEDUCTIVE REASONING?
+
+Deductive reasoning, also known as deduction, is a basic form of reasoning. It starts out with a general statement, or hypothesis, and examines the possibilities to reach a specific, logical conclusion, according to Norman Herr, a professor of secondary education at California State University in Northridge. The scientific method uses deduction to test hypotheses and theories, which predict certain outcomes if they are correct, said Dr. Sylvia Wassertheil-Smoller, a researcher and professor emerita at Albert Einstein College of Medicine.
+
+"We go from the general — the theory — to the specific — the observations," Wassertheil-Smoller told Live Science.
+
+
+In deductive reasoning there is a first premise, then a second premise and finally an inference (a conclusion based on reasoning and evidence). A common form of deductive reasoning is the syllogism, in which two statements — a major premise and a minor premise — together reach a logical conclusion. For example, the major premise "Every A is B" could be followed by the minor premise, "This C is A." Those statements would lead to the conclusion "This C is B." Syllogisms are considered a good way to test deductive reasoning to make sure the argument is valid.
+
+For example, "All spiders have eight legs. A tarantula is a spider. Therefore, tarantulas have eight legs." For deductive reasoning to be sound, the hypothesis must be correct. It is assumed that the statements, "All spiders have eight legs" and "a tarantula is a spider" are true. Therefore, the conclusion is logical and true. In deductive reasoning, if something is true of a class of things in general, it is also true for all members of that class.
+
+Deductive conclusions are reliable provided the premises are true, according to Herr. The argument, "All bald men are grandfathers. Harold is bald. Therefore, Harold is a grandfather," is valid logically, but it is untrue because the original premise is false.
+
+
+
+.WHAT IS INDUCTIVE REASONING
+
+While deductive reasoning begins with a premise that is proven through observations, inductive reasoning extracts a likely (but not certain) premise from specific and limited observations. There is data, and then conclusions are drawn from the data; this is called inductive logic, according to the University of Illinois in Springfield.
+
+"In inductive inference, we go from the specific to the general. We make many observations, discern a pattern, make a generalization, and infer an explanation or a theory," Wassertheil-Smoller told Live Science. "In science, there is a constant interplay between inductive inference (based on observations) and deductive inference (based on theory), until we get closer and closer to the 'truth,' which we can only approach but not ascertain with complete certainty."
+
+In other words, the reliability of a conclusion made with inductive logic depends on the completeness of the observations. For instance, let's say that you have a bag of coins; you pull three coins from the bag, and each coin is a penny. Using inductive logic, you might then propose that all of the coins in the bag are pennies."Even though all of the initial observations — that each coin taken from the bag was a penny — are correct, inductive reasoning does not guarantee that the conclusion will be true.
+
+Here's another example: "Penguins are birds. Penguins can't fly. Therefore, all birds can't fly." The conclusion does not follow logically from the statements.
+
+Nevertheless, inductive reasoning has its place in the scientific method, and scientists use it to form hypotheses and theories. Deductive reasoning then allows them to apply the theories to specific situations.
+
+
+
+.DEDUCTIVE REASONING EXAMPLES
+
+Here are some examples of deductive reasoning:
+
+Major premise: All mammals have backbones. +
+Minor premise: Humans are mammals. +
+Conclusion: Humans have backbones.
+
+Major premise: All birds lay eggs. +
+Minor premise: Pigeons are birds. +
+Conclusion: Pigeons lay eggs.
+
+Major premise: All plants perform photosynthesis. +
+Minor premise: A cactus is a plant. +
+Conclusion: A cactus performs photosynthesis.
+
+
+
+.INDUCTIVE REASONING EXAMPLES
+
+Here are some examples of inductive reasoning:
+
+Data: I see fireflies in my backyard every summer. +
+Hypothesis: This summer, I will probably see fireflies in my backyard.
+
+Data: I tend to catch colds when people around me are sick. +
+Hypothesis: Colds are infectious.
+
+Data: Every dog I meet is friendly. +
+Hypothesis: Most dogs are usually friendly.
+
+
+
+.WHAT IS ABDUCTIVE REASONING
+
+Another form of scientific reasoning that diverges from inductive and deductive reasoning is abductive. Abductive reasoning usually starts with an obviously incomplete set of observations and proceeds to the likeliest possible explanation for the data, according to Butte College in Oroville, California. It is based on making and testing hypotheses using the best information available. It often entails making an educated guess after observing a phenomenon for which there is no clear explanation.
+
+For example, a person walks into their living room and finds torn-up papers all over the floor. The person's dog has been alone in the apartment all day. The person concludes that the dog tore up the papers because it is the most likely scenario. It's possible that a family member with a key to the apartment destroyed the papers, or it may have been done by the landlord, but the dog theory is the most likely conclusion.
+
+Abductive reasoning is useful for forming hypotheses to be tested. Abductive reasoning is often used by doctors who make a diagnosis based on test results, and by jurors who make decisions based on the evidence presented to them.
+
+
+'''

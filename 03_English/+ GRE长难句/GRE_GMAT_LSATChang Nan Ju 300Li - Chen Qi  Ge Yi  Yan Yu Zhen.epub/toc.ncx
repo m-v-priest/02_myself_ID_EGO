@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zho">
+  <head>
+    <meta name="dtb:uid" content="e11a5bb4-4c8a-4c18-89b6-efe49b61fba6"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (7.20.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>GRE/GMAT/LSAT长难句300例精讲精练</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="0" class="chapter">
+      <navLabel>
+        <text>目录</text>
+      </navLabel>
+      <content src="text/part0000.html#0-56f93062fdae477dbc4d5934e7d7a9ac"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="1" class="chapter">
+      <navLabel>
+        <text>序言</text>
+      </navLabel>
+      <content src="text/part0002.html#1T140-56f93062fdae477dbc4d5934e7d7a9ac"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="2" class="chapter">
+      <navLabel>
+        <text>长难句阅读障碍之重新定义</text>
+      </navLabel>
+      <content src="text/part0003.html#2RHM0-56f93062fdae477dbc4d5934e7d7a9ac"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="3" class="chapter">
+      <navLabel>
+        <text>使用说明</text>
+      </navLabel>
+      <content src="text/part0004.html#3Q280-56f93062fdae477dbc4d5934e7d7a9ac"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="4" class="chapter">
+      <navLabel>
+        <text>特色说明</text>
+      </navLabel>
+      <content src="text/part0005.html#4OIQ0-56f93062fdae477dbc4d5934e7d7a9ac"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="5" class="chapter">
+      <navLabel>
+        <text>Unit 01</text>
+      </navLabel>
+      <content src="text/part0006.html#5N3C0-56f93062fdae477dbc4d5934e7d7a9ac"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="6" class="chapter">
+      <navLabel>
+        <text>Unit 02</text>
+      </navLabel>
+      <content src="text/part0022.html#KVCC0-56f93062fdae477dbc4d5934e7d7a9ac"/>
+    </navPoint>
+    <navPoint id="num_8" playOrder="7" class="chapter">
+      <navLabel>
+        <text>Unit 03</text>
+      </navLabel>
+      <content src="text/part0038.html#147LC0-56f93062fdae477dbc4d5934e7d7a9ac"/>
+    </navPoint>
+    <navPoint id="num_9" playOrder="8" class="chapter">
+      <navLabel>
+        <text>Unit 04</text>
+      </navLabel>
+      <content src="text/part0054.html#1JFUC0-56f93062fdae477dbc4d5934e7d7a9ac"/>
+    </navPoint>
+    <navPoint id="num_10" playOrder="9" class="chapter">
+      <navLabel>
+        <text>Unit 05</text>
+      </navLabel>
+      <content src="text/part0070.html#22O7C0-56f93062fdae477dbc4d5934e7d7a9ac"/>
+    </navPoint>
+    <navPoint id="num_11" playOrder="10" class="chapter">
+      <navLabel>
+        <text>Unit 06</text>
+      </navLabel>
+      <content src="text/part0086.html#2I0GC0-56f93062fdae477dbc4d5934e7d7a9ac"/>
+    </navPoint>
+    <navPoint id="num_12" playOrder="11" class="chapter">
+      <navLabel>
+        <text>Unit 07</text>
+      </navLabel>
+      <content src="text/part0102.html#318PC0-56f93062fdae477dbc4d5934e7d7a9ac"/>
+    </navPoint>
+    <navPoint id="num_13" playOrder="12" class="chapter">
+      <navLabel>
+        <text>Unit 08</text>
+      </navLabel>
+      <content src="text/part0118.html#3GH2C0-56f93062fdae477dbc4d5934e7d7a9ac"/>
+    </navPoint>
+    <navPoint id="num_14" playOrder="13" class="chapter">
+      <navLabel>
+        <text>Unit 09</text>
+      </navLabel>
+      <content src="text/part0134.html#3VPBC0-56f93062fdae477dbc4d5934e7d7a9ac"/>
+    </navPoint>
+    <navPoint id="num_15" playOrder="14" class="chapter">
+      <navLabel>
+        <text>Unit 10</text>
+      </navLabel>
+      <content src="text/part0150.html#4F1KC0-56f93062fdae477dbc4d5934e7d7a9ac"/>
+    </navPoint>
+    <navPoint id="num_16" playOrder="15" class="chapter">
+      <navLabel>
+        <text>Unit 11</text>
+      </navLabel>
+      <content src="text/part0166.html#4U9TC0-56f93062fdae477dbc4d5934e7d7a9ac"/>
+    </navPoint>
+    <navPoint id="num_17" playOrder="16" class="chapter">
+      <navLabel>
+        <text>Unit 12</text>
+      </navLabel>
+      <content src="text/part0182.html#5DI6C0-56f93062fdae477dbc4d5934e7d7a9ac"/>
+    </navPoint>
+    <navPoint id="num_18" playOrder="17" class="chapter">
+      <navLabel>
+        <text>Unit 13</text>
+      </navLabel>
+      <content src="text/part0198.html#5SQFC0-56f93062fdae477dbc4d5934e7d7a9ac"/>
+    </navPoint>
+    <navPoint id="num_19" playOrder="18" class="chapter">
+      <navLabel>
+        <text>Unit 14</text>
+      </navLabel>
+      <content src="text/part0214.html#6C2OC0-56f93062fdae477dbc4d5934e7d7a9ac"/>
+    </navPoint>
+    <navPoint id="num_20" playOrder="19" class="chapter">
+      <navLabel>
+        <text>Unit 15</text>
+      </navLabel>
+      <content src="text/part0230.html#6RB1C0-56f93062fdae477dbc4d5934e7d7a9ac"/>
+    </navPoint>
+    <navPoint id="num_21" playOrder="20" class="chapter">
+      <navLabel>
+        <text>Unit 16</text>
+      </navLabel>
+      <content src="text/part0246.html#7AJAC0-56f93062fdae477dbc4d5934e7d7a9ac"/>
+    </navPoint>
+    <navPoint id="num_22" playOrder="21" class="chapter">
+      <navLabel>
+        <text>Unit 17</text>
+      </navLabel>
+      <content src="text/part0262.html#7PRJC0-56f93062fdae477dbc4d5934e7d7a9ac"/>
+    </navPoint>
+    <navPoint id="num_23" playOrder="22" class="chapter">
+      <navLabel>
+        <text>Unit 18</text>
+      </navLabel>
+      <content src="text/part0278.html#893SC0-56f93062fdae477dbc4d5934e7d7a9ac"/>
+    </navPoint>
+    <navPoint id="num_24" playOrder="23" class="chapter">
+      <navLabel>
+        <text>Unit 19</text>
+      </navLabel>
+      <content src="text/part0294.html#8OC5C0-56f93062fdae477dbc4d5934e7d7a9ac"/>
+    </navPoint>
+    <navPoint id="num_25" playOrder="24" class="chapter">
+      <navLabel>
+        <text>Unit 20</text>
+      </navLabel>
+      <content src="text/part0310.html#97KEC0-56f93062fdae477dbc4d5934e7d7a9ac"/>
+    </navPoint>
+  </navMap>
+</ncx>

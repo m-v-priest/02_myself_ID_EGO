@@ -1,0 +1,376 @@
+
+= eco 2019.12 (09-10)
+:toc:
+
+---
+
+
+== 基础知识: Tobin`s Q 理论
+
+*Tobin`s Q值 = 公司的市值 / 资产重置成本*
+
+-> 分子上 : 是公司的金融市场价值, 包括公司股票的市值和债务资本的市场价值。 +
+-> 分母上 : 重置成本是指今天要用多少钱才能买下所有上市公司的资产，也就是指如果我们不得不从零开始再来一遍，创建该公司需要花费多少钱。 +
+所谓"重置成本", 又称"现行成本"，是指按照当前市场条件，重新取得同样一项资产, 所需支付的现金或现金等价物金额。
+
+---
+
+
+== 09. Are anti-competitive firms killing American innovation?
+
+Thomas Philippon’s “The Great Reversal(n.)”(`=a change of sth so that it is the opposite of what it was 颠倒；彻底转变；反转；倒置`) spies in tech giants (这里少了个系动词 is ?) a risk to economic dynamism(n.)(`=energy and enthusiasm to make new things happen or to make things succeed 精力；活力；劲头`)
+
+反竞争的公司, 正在扼杀美国的创新吗? +
+托马斯•菲利蓬(Thomas Philippon)在科技巨头中进行的“大逆转”间谍活动, 对经济活力构成了威胁
+
+Dec 12th 2019 |
+
+
+WHEN THOMAS PHILIPPON *moved from* France *to* America in 1999 *to begin a PhD* in economics, he *found* a consumer paradise （某些宗教所指的）天堂，天国.
+
+Domestic flights *were* dazzlingly(`=to impress sb a lot with your beauty, skill, etc. （美貌、技能等）使倾倒，使赞叹不已，使眼花缭乱 /（强光等）使目眩，使眼花`) cheap.
+
+Household electronics 家用电器 were a relative bargain(`=a thing bought for less than the usual price 减价品；便宜货`).
+
+[In the days of dial-up 拨号上网的 modems] Americans, who *were charged* a flat rate for local calls, *paid* far less than Europeans *to get online*.
+
+But over the past two decades, Mr Philippon *writes* in “The Great Reversal”, this paradise *has been lost*.
+
+Europeans now *enjoy* cheap cross-continent flights, high-street(`=The high street of a town is the main street where most of the stores and banks are. 主要街道`) banking, and phone and internet services; Americans are often *at the mercy(`=a kind or forgiving attitude towards sb that you have the power to harm or right to punish 仁慈；宽恕`) of*(`=*AT THE MERCY OF SB/STH* : not able to stop sb/sth harming you because they have power or control over you 任…处置；对…无能为力；任由…摆布`) indifferent corporate giants.
+
+*Perking up*(`=to become or to make sb become more cheerful or lively, especially after they have been ill/sick or sad （使）振奋，活跃，快活; /to increase, or to make sth increase in value, etc. 上扬；增加；使增值`) their economy *might mean* cutting those giants down to(`=*cut sth down (to...) / cut down (on sth)* : to reduce the size, amount or number of sth 削减，缩小（尺寸、数量或数目）`) size.
+
+====
+- *cut sth down (to...) / cut down (on sth)* :
+to reduce the size, amount or number of sth 削减，缩小（尺寸、数量或数目） +
+-> We need *to cut the article down to 1 000 words*. 我们得把这篇文章压缩到1 000 字。 +
+-> The doctor told him *to cut down [on his drinking]*. 医生劝他少喝酒。
+====
+
+1999年，当托马斯•菲利蓬(THOMAS PHILIPPON)从法国搬到美国攻读经济学博士学位时，他发现了一个消费者天堂。美国国内航班便宜得令人眼花缭乱。家用电器相对便宜。在拨号调制解调器盛行的年代，美国人的本地电话收费是统一的，他们上网的费用远低于欧洲人。但是在过去的二十年里，菲利蓬在《大逆转》中写道，这个天堂已经消失了。欧洲人现在享受着廉价的跨洲航班、商业银行、电话和互联网服务; 而美国人则经常受到冷漠的大公司的摆布。振兴他们的经济可能意味着削减这些巨头的规模。
+
+`主` Much (*that has happened to* the American economy since the 1990s) `谓` *has not been to* the typical worker’s advantage.
+
+Growth in output, wages and productivity *has slowed*.
+
+Inequality *has risen*, as *have* the market share and profitability 盈利能力；收益性；利益率 of the most dominant firms.
+
+Economics journals *are packed with* papers on these trends, many of which *argue that* the dominance of big firms *bears* some blame *for* other ills(`= a problem or harmful thing; an illness 问题；弊端；疾病`).
+
+Between 1987 and 2016 `主` the share of employment (*accounted for*(`=to be a particular amount or part of sth （数量上、比例上）占`) [by firms with over 5,000 employees]) `谓` *rose from 28% to 34%*.
+
+Between 1997 and 2012, this newspaper *reported* in 2016, `主` the average share of revenues(`=the money that a government receives from taxes or that an organization, etc. receives from its business 财政收入；税收收入；收益`) *accounted for by* the top four firms in each of 900 economic sectors `谓` *grew from 26% to 32%*.
+
+自20世纪90年代以来，美国经济中发生的许多事情并没有给典型的普通工人带来好处。产出、工资和生产率的增长已经放缓。不平等加剧了，最具主导地位的公司的市场份额和盈利能力也在上升。经济学期刊上充斥着关于这些趋势的论文，其中许多认为, 大公司的主导地位应该为其他弊病承担部分责任。1987年至2016年，员工人数超过5000人的公司占就业人数的比例,从28%上升到34%。这个报纸2016年报道，1997至2012年间，在900个经济行业中，排名前四的公司在每个行业的平均收入份额, 从26%上升到32%。
+
+
+Two rival stories *vie*(v.)(`=~ (with sb) (for sth) ( formal ) to compete strongly with sb in order to obtain or achieve sth 激烈竞争；争夺`) *to explain* the rise in concentration(`=a lot of sth in one place 集中；聚集`).
+
+====
+- vie => 缩写自拉丁语 invitare,挑战，竞争，词源同 invite.
+====
+
+One is that domestic competition *has been weakened by* ① lax antitrust(a.)(`=preventing companies or groups of companies from controlling prices unfairly 反托拉斯的；反垄断的`) enforcement 执行，实施, ② anticompetitive practices and ③ regulatory changes(n.) (friendly to powerful firms). This is Mr Philippon’s view.
+
+Some economists *reckon*, though, *that* concentration *is rising* because of the success of superstar firms -- highly innovative and productive companies that *have shoved(`=to push sb/sth in a rough way 猛推；乱挤；推撞`) aside* unfit(`=not of an acceptable standard; not suitable 不合格的；不适合的；不适宜的; /not in good physical condition; not fit, because you have not taken exercise 健康状况欠佳；身体状态差`) competitors.
+
+Either explanation *could account for*(`=to give an explanation of sth 解释；说明`) the size and persistent(`=continuing for a long period of time without interruption, or repeated frequently, especially in a way that is annoying and cannot be stopped 连绵的；持续的；反复出现的`) profitability of industry-dominating companies.
+
+But the implications of each for future growth -- and policy -- *differ(v.)(`=to be different from sb/sth 相异；有区别；不同于`) greatly*. Which is right?
+
+====
+- shove => 词源同 shovel,shuffle.可能相关于 PIE skek,摇动，晃动，词源同 shake,shock.
+====
+两个相互竞争的故事, 争相来解释集中度的上升。一个是, 美国国内的竞争, 已经被宽松的反垄断执法、反竞争做法, 和对实力雄厚的公司有利的监管改革所削弱。这是Philippon先生的观点。然而，还一些经济学家认为，这种集中度正在上升，是因为超级明星公司的成功 -- 这些极具创新性和生产力的公司, 已经将不合适的竞争对手挤到了一边。任何一种解释都可以解释占行业主导地位的公司的规模和持续盈利能力。但这两种理论解释, 却对未来的经济增长, 究竟该采取哪种政策, 有截然不同的指导意义。那究竟哪一个理论解释是对的？
+
+If concentration *is caused* by ultra-productive firms *outcompeting* 超过；胜出 weaker rivals, then investment *ought to rise* as those firms *scale up* to exploit(v.) their competitive edge.
+
+Investment, however, *has been disappointing* across the American economy.
+
+In the 1990s a statistic called Tobin’s Q (a measure of a firm’s market value *relative to* the cost of replacing its assets, *named after* an economist, James Tobin) *closely tracked* rates of net investment.
+
+A high Tobin’s Q *indicates that* future profits *are likely to be high* relative to the cost of expanding production.
+
+That *suggests* leading firms *should scale up* or *see* a flood(`=~ (of sth) : a very large number of things or people that appear at the same time 大批，大量（的人或事物）`) of investment by competitors *seeking* to divert(v.)(`=to make sb/sth change direction 使转向；使绕道；转移`) part of that profit stream.
+
+如果集中度是由生产能力超强的公司,在与实力较弱的竞争对手的竞争中, 胜出造成的，那么随着这些公司扩大规模以利用其竞争优势，它们的投资应该会上升。然而，整个美国经济的投资却一直令人失望。20世纪90年代，一项名为Tobin’s Q的统计数据(以经济学家詹姆斯•托宾的名字命名，衡量一家公司的市场价值与资产重置成本之比), 密切追踪了净投资率。较高的托宾Q值表明，相对于扩大生产的成本，未来利润可能会很高。这表明，领先的公司应该扩大规模，或者看到竞争对手大举投资，以分流一部分利润流。
+
+
+In this millennium 一千年，千年期（尤指公元纪年）, however, investment *has lagged(`=~ (behind sb/sth) /~ (behind) : to move or develop slowly or more slowly than other people, organizations, etc. 缓慢移动；发展缓慢；滞后；落后于`) behind* what one *would expect*, *given* the level of Tobin’s Q across the economy.
+
+然而，考虑到托宾Q值在整个经济中的水平，在这个新千年，投资已经落后于人们的预期。
+
+A finer-grained analysis *shows that* the most concentrated sectors *account for* nearly all the investment shortfall(`=~ (in sth) if there is a shortfall in sth, there is less of it than you need or expect 缺口；差额；亏空`).
+
+The change *could be caused in part by* a shift in investment *from* tangible capital, such as buildings and machines, *to* harder-to-measure intangible capital, such as intellectual property, brand value and firm culture.
+
+Superstar firms *may invest more in* intangible capital.
+
+But *accounting for* intangibles, says Mr Philippon, *narrows* but *does not close* the investment gap.
+
+更细致(细粒度)的分析表明，最集中的行业几乎占了所有的投资缺口的比例。造成这种变化的部分原因可能是, 投资从建筑物和机器等有形资本, 转向更难衡量的无形资本，如知识产权、品牌价值, 和企业文化。超级明星公司可能会在无形资本上投入更多。但菲利蓬表示，计入无形资产虽然缩小了投资差距，但并没有关闭这一差距。
+
+Then there is productivity. If concentration *is mainly caused by* the triumph of superstar firms, it *should be rising*. Here the data are murkier(`=murky 的比较级. not clear; dark or dirty with mud or another substance 浑浊的；污浊的; / ( of people's actions or character 人的行为或性格 ) not clearly known and suspected of not being honest 隐晦的；含糊的；暧昧可疑的`).
+
+然后是生产力。如果集中主要是由超级明星公司的成功造成的，那么这种集中应该会上升。这里的数据更加模糊。
+
+The authors of “The fall of the labour share /and the rise of superstar firms”, a forthcoming(`=going to happen, be published, etc. very soon 即将发生（或出版等）的`) paper in the Quarterly Journal of Economics, *find a clear link between* size *and* productivity (bigger firms *are* more productive) and *between* industry concentration *and* patenting 得到…专利 (which they *use as* a proxy(`=~ for sth ( formal ) something that you use to represent sth else that you are trying to measure or calculate （测算用的）代替物，指标`) for innovation).
+
+But the relationship between concentration and measures of productivity *is less clear*, particularly outside manufacturing.
+
+即将发表在“经济学季刊”上的一篇论文“劳动力份额的下降,和超级明星公司的崛起”的作者们发现，规模和生产率(越大的公司生产效率越高)、行业集中度和专利(他们将其作为创新的代表)之间存在明确的联系。但集中度和生产率指标之间的关系不太清楚，特别是在制造业以外。
+
+Mr Philippon, on the other hand, *finds* a positive and statistically significant relationship between concentration and productivity in the 1990s *but not more recently*.
+
+What seems clear *is that* even as concentration *has risen [across the economy]* over the past two decades, the rate of productivity growth *has not*. If superstar firms *are* indeed a force for concentration, their unique capabilities *have not translated into* broader gains(`=an advantage or improvement 好处；利益；改进 /an increase in the amount of sth, especially in wealth or weight （尤指财富、重量的）增值，增加 /financial profit 利润；经济收益`) for the American economy.
+
+
+
+另一方面，Philippon发现, 在20世纪90年代, 集中度和生产率之间存在着一种积极且具有统计学意义的关系，但这种关系并没有延续到在最近。清楚的是，尽管过去20年整个经济的集中度有所提高，但生产率的增长率却没有提高。如果超级明星公司确实是一股能造成行业集中度的力量，那么它们独特的能力, 并没有转化为给美国经济带来更广泛的收益。
+
+
+Few economists -- or Americans -- *would deny that* there are problems with competition in certain sectors, including health care, finance, telecoms and air travel.
+
+The most heated(`=full of anger and excitement 愤怒的；激烈的；十分激动的; /made warmer using a heater （用加热器）加热了的`) arguments about corporate power, however, *concern*(`=to affect sb; to involve sb 影响，涉及，牵涉（某人）/ to worry sb 让（某人）担忧`) tech giants.
+
+They *have not, for the most part, used* their market power *to raise prices*; on the contrary, much of what they provide to consumers *is* free.
+
+The most aggressive *invest heavily* and *eke out*(`=*EKE STH OUT* : to make a small supply of sth such as food or money last longer by using only small amounts of it （靠节省用量）使…的供应持久；节约使用 / *~ a living, etc.* : to manage to live with very little money 竭力维持生计；勉强度日`) rather modest(`=not very large, expensive, important, etc. 些许的；不太大（或太贵、太重要等）的`) profit margins(`=*profit margin* : the difference between the cost of buying or producing sth and the price that it is sold for 利润；利润幅度；毛利`).
+
+很少有经济学家——或美国人——会否认某些行业存在竞争问题，包括医疗、金融、电信和航空旅行。然而，关于企业权力最激烈的争论, 与科技巨头有关。在很大程度上，它们没有利用自己的市场力量来抬高价格;相反，他们提供给消费者的大部分东西都是免费的。最激进的投资者大举投资，勉强维持着相当微薄的利润率。
+
+
+Comparisons(n.)(`= ~ (with sb/sth) the process of comparing two or more people or things 比较`) with Europe *are not* very helpful, since the continent *has mostly failed to produce* big and innovative rivals to Google, Apple and Amazon. Would *it* really be wise for America *to carve up*(`=*CARVE STH UP* : to divide a company, an area of land, etc. into smaller parts in order to share it between people 瓜分`) its tech champions?
+
+与欧洲进行比较并不是很有帮助，因为欧洲大陆大多未能产生出谷歌、苹果和亚马逊的强大而创新的竞争对手。对美国来说，瓜分其科技冠军企业真的是明智之举吗？
+
+The harder they fall
+
+*As* Mr Philippon *notes*, economic power *is not* all that matters. America’s tech giants *have gobbled(`=~ sth (up/down) to eat sth very fast, in a way that people consider rude or greedy 狼吞虎咽；贪婪地吃`) up* competitors and *spent lavishly(`=large in amount, or impressive, and usually costing a lot of money 大量的；给人印象深刻的；耗资巨大的`) on* political donations and lobbying.
+
+*There is no guarantee that* `主` superstars, 分词作状语 *having achieved* dominance, `谓` *will defend it* through innovation and investment *rather than* anti-competitive behaviour.
+
+And even if large platform firms *are* perfectly efficient, economically speaking(就...来说) 很有效率, 比如说在经济上, Americans *might worry about* their influence over communities, social norms and politics.
+
+====
+- gobble => 来自gob, 嘴。-le, 表反复。
+====
+摔得越重 +
+正如Philippon所指出的，经济实力并不是最重要的。美国的科技巨头已经吞并了竞争对手，并在政治捐款和游说上花费巨资。没有人能保证，取得了主导地位的超级明星会通过创新和投资而不是反竞争行为来捍卫它。即使大型平台公司在经济上非常高效，美国人也会担心他们对社区、社会规范和政治的影响。
+
+
+There is no obvious right answer to the question tech giants *pose*(`= to create a threat, problem, etc. that has to be dealt with 造成（威胁、问题等）；引起；产生`).
+
+It was far from clear, in 1984, whether *dismembering*(`=to cut or tear the dead body of a person or an animal into pieces 分割…的躯体；肢解`) AT&T(`=American Telephone & Telegraph Company 美国电话电报公司`) *would be remembered as* a triumph, a fiasco(`=something that does not succeed, often in a way that causes embarrassment 惨败；可耻的失败；尴尬的结局`) -- or simply nothing much.
+
+对于科技巨头所带来的问题, 没有明显的正确答案。在1984年的时候，人们还不清楚，肢解atamp是否会被视为一场胜利、一场惨败——或者仅仅是无关紧要的小事。
+
+The choice facing American regulators *is* harder now, precisely(`=exactly 准确地；恰好地`) because of America’s lack of dynamism.
+
+Since innovative, productivity-boosting, socially useful firms *come along(`=they occur or arrive by chance. 偶然出现; 不期而至`) so rarely*, *it* seems risky *to tackle*(`=to make a determined effort to deal with a difficult problem or situation 应付，处理，解决（难题或局面）; /（橄榄球或美式足球）擒抱摔倒，阻截`) tech behemoths(`=a very big and powerful company or organization 巨头（指规模庞大、实力雄厚的公司或机构）`) too vigorously 精神旺盛地，活泼地, lest(`=in order to prevent sth from happening 免得；以免`) `主` doing so `谓` *weaken* the economy’s most vibrant(`=full of life and energy 充满生机的；生气勃勃的；精力充沛的`) parts.
+
+But that reticence 沉默寡言;缄默 *may prove* a recipe(`=~ for sth a method or an idea that seems likely to have a particular result 方法；秘诀；诀窍 /烹饪法；食谱`) *for* long-run(`=relating to or extending over a relatively long time 长期的`) stagnation 停滞；滞止.
+
+====
+- dismember => dis-, 分开，散开。member, 肢体，成员。
+- fiasco => 来自flask的意大利语拼写形式，瓶子，酒瓶。引申词义惨败，可能来自一种游戏，由输者支付酒钱，因而得名。
+- recipe => re-,向后，往回，-cip,抓住，词源同 receive,participate.引申词义食谱，秘诀。
+====
+美国监管机构现在面临的选择更加困难，正是因为美国缺乏活力。由于创新的、提高生产力的、对社会有用的公司很少出现，过于积极地应对科技巨头似乎是有风险的，以免削弱经济中最具活力的部分。但这种沉默可能会导致长期的经济停滞。
+
+---
+
+== 09. Are anti-competitive firms killing American innovation? 纯净版
+
+Thomas Philippon’s “The Great Reversal” spies in tech giants a risk to economic dynamism
+
+Dec 12th 2019 |
+
+
+WHEN THOMAS PHILIPPON moved from France to America in 1999 to begin a PhD in economics, he found a consumer paradise. Domestic flights were dazzlingly cheap. Household electronics were a relative bargain. In the days of dial-up modems Americans, who were charged a flat rate for local calls, 分词做状语 paid far less than Europeans to get online. But over the past two decades, Mr Philippon writes in “The Great Reversal”, this paradise has been lost. Europeans now enjoy cheap cross-continent flights, high-street banking, and phone and internet services; Americans are often at the mercy of indifferent corporate giants. Perking up their economy might mean cutting those giants down to size.
+
+Much (that has happened to the American economy since the 1990s) has not been to the typical worker’s advantage. Growth in output, wages and productivity has slowed. Inequality has risen, as have the market share and profitability of the most dominant firms. Economics journals are packed with papers on these trends, many of which argue that {the dominance of big firms bears some blame for other ills}. Between 1987 and 2016 the share of employment (accounted for [by firms with over 5,000 employees]) rose(v.) from 28% to 34%. Between 1997 and 2012, this newspaper reported in 2016, the average share of revenues (accounted for by the top four firms in each of 900 economic sectors) grew from 26% to 32%.
+
+Two rival stories vie(v.) to explain the rise in concentration. One is that domestic competition has been weakened by ① lax antitrust enforcement, ② anticompetitive practices and ③ regulatory changes friendly to powerful firms. This is Mr Philippon’s view. Some economists reckon, though, that {concentration is rising because of the success of superstar firms -- highly innovative and productive companies that have shoved aside unfit competitors}. Either explanation could account for the size and persistent profitability of industry-dominating companies. But the implications of each for future growth -- and policy -- differ(v.) greatly. Which is right?
+
+If concentration is caused by ultra-productive firms outcompeting weaker rivals, then investment ought to rise [as those firms scale up to exploit their competitive edge]. Investment, however, has been disappointing across the American economy. In the 1990s a statistic called Tobin’s Q (a measure of a firm’s market value relative to the cost of replacing its assets, named after an economist, James Tobin) closely tracked(v.) rates of net investment. A high Tobin’s Q indicates that future profits are likely to be high relative to the cost of expanding production. That suggests {leading firms should scale up or see a flood of investment by competitors seeking to divert(v.) part of that profit stream}. In this millennium, however, investment has lagged behind what one would expect, given the level of Tobin’s Q across the economy. A finer-grained analysis shows that {the most concentrated sectors `谓` account for nearly all the investment shortfall(n.)}. The change could be caused in part by a shift in investment *from* tangible capital, such as buildings and machines, *to* harder-to-measure intangible capital, such as intellectual property, brand value and firm culture. Superstar firms may invest more in intangible capital. But accounting for intangibles, says Mr Philippon, narrows but does not close the investment gap.
+
+Then there is productivity. If concentration is mainly caused by the triumph of superstar firms, it should be rising. Here the data are murkier. `主` The authors of “The fall of the labour share and the rise of superstar firms”, a forthcoming paper in the Quarterly Journal of Economics, `谓` find a clear link *between* size *and* productivity (bigger firms are more productive) and *between* industry concentration *and* patenting (which they use as a proxy for innovation). But the relationship between concentration and measures of productivity `系` is less clear, particularly outside manufacturing. Mr Philippon, on the other hand, finds a positive and statistically significant relationship between concentration and productivity in the 1990s but not more recently. What seems clear is that even as concentration has risen across the economy over the past two decades, the rate of productivity growth has not. If superstar firms are indeed a force for concentration, their unique capabilities have not translated into broader gains for the American economy.
+
+Few economists -- or Americans -- would deny that there are problems with competition in certain sectors, including health care, finance, telecoms and air travel. The most heated arguments about corporate power, however, concern(v.) tech giants. They have not, for the most part, used their market power to raise prices; on the contrary, much of what they provide to consumers is free. The most aggressive invest(v.) heavily and eke out rather modest profit margins. Comparisons with Europe are not very helpful, since the continent has mostly failed to produce big and innovative rivals to Google, Apple and Amazon. Would *it* really be wise for America *to carve up* its tech champions?
+
+The harder they fall
+
+As Mr Philippon notes, economic power is not all that matters. America’s tech giants have gobbled up competitors and spent(v.) lavishly on political donations and lobbying. There is no guarantee that superstars, having achieved dominance, will defend it [through innovation and investment] rather than [anti-competitive behaviour]. And even if large platform firms are perfectly efficient, economically speaking, Americans might worry about their influence over communities, social norms and politics.
+
+There is no obvious right answer to the question (tech giants pose(v.)). It was far from clear, in 1984, whether dismembering AT&T would be remembered as a triumph, a fiasco -- or simply nothing much. `主` The choice facing American regulators `系` is harder now, precisely because of America’s lack of dynamism. Since `主` innovative, productivity-boosting, socially useful firms `谓` come along so rarely, it seems risky to tackle tech behemoths too vigorously, lest `主` doing so `谓` weaken(v.) the economy’s most vibrant parts. But that reticence may prove a recipe for long-run stagnation.
+
+---
+
+== 基础知识
+
+==== 结核病 Tuberculosis
+
+- 是由结核杆菌感染引起的 *慢性传染病*。人与人之间呼吸道传播, 是本病传染的主要方式。
+- 结核菌可能侵入人体全身各种器官，但 *主要侵犯肺脏*，称为肺结核病。潜伏期4～8周。其中80%发生在肺部，其他部位（颈淋巴、脑膜、腹膜、肠、皮肤、骨骼）也可继发感染。
+- 除少数发病急促外，临床上多呈慢性过程。常有低热、乏力等全身症状和咳嗽、咯血等呼吸系统表现。
+
+---
+
+====  分枝杆菌属 Mycobacterium
+
+分枝杆菌种类较多，可分为三类:
+
+1. *结核分枝杆菌复合群（M. tuberculosis） : 又分为4类. 其中的"结核分枝杆菌", 俗称"结核杆菌"或"结核菌"，是引起结核病的病原菌。可侵犯全身各器官，但以肺结核为最多见（因为喜氧性）。结核病为传染病。*
+2. *麻风分枝杆菌（M. laprae）: 俗称麻风杆菌，引起麻风，是一种慢性传染病。*
+3. 非结核分枝杆菌（nontuberculosis mycobacteria）: 是指 结核分枝杆菌、牛分枝杆菌, 与麻风分枝杆菌 以外的分枝杆菌。
+
+
+---
+
+== 10. Tuberculosis kills more people than any other pathogenic illness
+
+Tuberculosis 结核病 *kills* more people than any other pathogenic illness
+
+New drugs, vaccines and tests offer hope, though
+
+====
+- Tuberculosis (tuber-culo-sis) => tubercle,肺结核结节，-osis,表疾病。引申词义结核病。tuber,块茎，-cle,小词后缀。引申诸相关词义。
+====
+
+
+Dec 14th 2019 |
+
+
+IN 1882, WHEN Robert Koch *discovered* Mycobacterium 分直杆菌属细菌 tuberculosis 肺结核；结核病, the microbe(`=an extremely small living thing that you can only see under a microscope and that may cause disease 微生物`) that *causes* tuberculosis, the disease *caused* one in seven *deaths* in America and Europe.
+
+*Transmitted through* droplets(`=a small drop of a liquid 小滴`) *from* coughs 咳嗽, sneezes 打喷嚏 or just talking, tuberculosis *felled*(`=to make sb fall to the ground 击倒，打倒（某人）; /砍伐（树木）`) rich and poor alike.
+
+In the century that followed, TB (as the illness *is called* for short(`=*short for sth* : being a shorter form of a name or word 简略的；缩写的`)) *beat a retreat*(`= *beat a (hasty) retreat* : to go away or back quickly, especially to avoid sth unpleasant （仓促）逃走；（慌忙）撤退`) *thanks to* antibiotics and a vaccine that protected infants. By the 1990s wiping it out completely seemed tantalisingly within reach.
+
+====
+- mycobacterium (myco-bac-te-rium) => myco- + bacterium
+- microbe =>  -micro-微,小 + -o- + be(-bi-)生命,生物
+====
+
+
+Since then, however, progress has been glacial. New cases are falling by just 1-2% a year. Today, M. tuberculosis kills more people than any other single pathogen (see chart). The World Health Organisation (WHO) estimates that 10m people fall ill with it each year and 1.5m die. This is more than three times the number of those who succumb to malaria. A recent wave of scientific breakthroughs is, though, starting to bear fruit, and there is now widespread optimism that things will change dramatically over the next decade. “It is the first year in which we have some hope,” says Lucica Ditiu, head of the Stop TB Partnership, a global alliance of antituberculosis organisations.
+
+
+
+Realising that hope will need money, however. And on December 10th, at a meeting in Jakarta, Indonesia, the partnership published an estimate of how much. The goal, set by the UN in 2018, is to end tuberculosis by 2030. To have any hope of that, the partnership says, will require $15.6bn a year to be spent over the next five years. This is a doubling of the annual treatment and prevention budget to $13bn, and a tripling of the R&amp;D budget to $2.6bn a year.
+
+One reason TB has been hard to crack is that M. tuberculosis has an unusual life cycle. When someone inhales the bug it is either killed by the immune system right away or takes up residence in the lungs. Instead of causing immediate symptoms, though, it usually remains dormant—a state called latent infection that is not contagious. About a quarter of the world’s population has such latent TB. But only about 10% of those so infected ever go on to develop symptoms. Often, those who do have weakened immune systems. People infected with HIV are at particular risk (about 40% of deaths among HIV-positive individuals are caused by TB). Others with higher than average risk of becoming symptomatic are the malnourished, smokers and alcoholics.
+
+Latent problems
+
+Two developments have complicated the fight against TB since the 1990s. One is the spread of HIV. The other is the emergence of antibiotic-resistant strains of M. tuberculosis. Nearly 500,000 of 2018’s new cases were untreatable with standard first-line drugs. And 6% of those cases are classed as extensively drug-resistant—meaning that few or no drugs work for them. Drug-resistant TB has taken a particularly strong hold in Russia and other former communist countries, where it accounts for roughly one in five new cases.
+
+At the moment, the standard treatment for drug-resistant TB involves taking highly toxic medicaments for as long as two years. A patient may have to swallow as many as 20 pills a day, and receive injections with nasty side-effects, such as permanent deafness. Even this regime, however, has a cure rate of only 25-50%. But shorter and safer drug combinations tested in recent years are now being introduced.
+
+They may get shorter still. In August America’s drug regulator approved pretomanid, a medicine developed by the TB Alliance, a non-profit organisation with a research centre in South Africa’s capital, Pretoria, after which the drug is named. Used in combination with other drugs, pretomanid shortens treatment of the most drug-resistant forms of TB to just six months, with an 89% success rate and no injections. Trials are now under way to check whether simpler regimens that include pretomanid can work for strains of TB that are resistant to fewer of the standard drugs.
+
+Treating those who fall ill promptly is crucial to preventing the spread of M. tuberculosis. Someone with active TB may, according to the WHO, infect as many as 15 others in the course of a year. But, the WHO reckons, roughly a third of new cases in 2018 went undiagnosed. That is partly because the most widely employed diagnostic method today remains the one Koch himself used: examining a patient’s sputum under a microscope to look for telltale bacteria. This procedure, which Barry Bloom of Harvard University, a doyen of the field, calls “an embarrassment to science”, detects only about half of active TB cases. And on top of this, the most common test for drug resistance is also ancient: growing a sample in a Petri dish and sprinkling it with antibiotics to check whether they work. This is an exercise that can take up to 12 weeks to provide an answer.
+
+
+
+Fancier diagnostic machines that detect M. tuberculosis genes in sputum samples—and can determine whether they are of the drug-resistant variety—have been available for about a decade. These provide results in less than two hours. But at $10 a test they are out of the reach of most health centres in those countries which host the bulk of TB cases. A urine dipstick test for active TB is available, but it works reliably only for people who also have HIV. The pipeline of new tests, however, is packed. According to Stop TB, 18 new diagnostic products may be ready for evaluation by the WHO in 2020.
+
+Moreover, some of the old-fashioned tools are having a makeover. Diagnosing TB is made trickier by the fact that symptoms, such as a long-lasting cough, often do not present themselves during the early stage of illness. Someone who is seemingly healthy can thus be infecting others.
+
+Chest X-rays can nab such early-stage TB. Scanning people en masse in places where TB is common is therefore a sensible way to slow down transmission. A promising innovation on that front are mobile x-ray machines in which reading of the scans is delegated to artificial-intelligence technology. Vans containing such machines now roam around Africa and Asia.
+
+But the hardest problem to crack is predicting who among those with latent TB are likely to become ill—in order to treat them pre-emptively. Research in this area is concentrating on identifying patterns of gene expression in blood cells (which can be retrieved by pinprick) that might appear six months to a year before active TB develops. Those at risk can then be treated, for a single drug taken once a week for three months will clear their latent infection.
+
+Killing a killer
+
+In the end, the biggest hope for beating TB is a new vaccine. The only one now available is BCG (Bacillus Calmette-Guerin), which goes back to 1921. It is effective in preventing the most severe forms of TB in children, such as brain inflammation. But it is unreliable against TB of the lungs—the most common form of the illness in adults.
+
+Now, a century after the development of BCG, there seems to be light at the end of the vaccine-search tunnel. At least seven candidates are in advanced clinical trials. A particularly promising one, code-named M72/AS01E, has been developed by GlaxoSmithKline, a big drug company. In trials in Africa, the latest results of which were published in October, it was about 50% effective in preventing TB of the lungs in people with latent infection (a group in which no other candidate vaccine has worked). This seemingly low efficacy is in fact good news for a disease that kills so many people a year, says Dr Bloom.
+
+GlaxoSmithKline has not yet said whether it will proceed with the further trials needed to put M72/AS01E on the market. Who would pay for these is an important question, for the $500m price tag involved is commercially unattractive. The firm says it is in discussions with outside organisations about the matter, and that saying anything more at this stage would “compromise” progress. Observers worry, though, that delay will mean the stockpile of vaccine available for trials will expire—and that creating more will add to costs. Money, as Cicero observed, is the sinews of war, and human beings have been at war with M. tuberculosis for a long time. It does look now, however, as if the weapons needed to bring the conflict to an end are being forged. Whether people have the appetite to pay for them remains to be seen.
+
+Correction (December 12th 2019): The original version of this article suggested that the TB Alliance is based in Pretoria. In fact, that is where it has a research centre. The organisation’s headquarters are in New York.
+
+
+---
+
+== 10. Tuberculosis kills more people than any other pathogenic illness 纯净版
+
+New drugs, vaccines and tests offer hope, though
+
+Dec 14th 2019 |
+
+
+IN 1882, WHEN Robert Koch discovered Mycobacterium tuberculosis, the microbe that causes tuberculosis, the disease caused one in seven deaths in America and Europe. Transmitted through droplets from coughs, sneezes or just talking, tuberculosis felled rich and poor alike. In the century that followed, TB (as the illness is called for short) beat a retreat thanks to antibiotics and a vaccine that protected infants. By the 1990s wiping it out completely seemed tantalisingly within reach.
+
+Since then, however, progress has been glacial. New cases are falling by just 1-2% a year. Today, M. tuberculosis kills more people than any other single pathogen (see chart). The World Health Organisation (WHO) estimates that 10m people fall ill with it each year and 1.5m die. This is more than three times the number of those who succumb to malaria. A recent wave of scientific breakthroughs is, though, starting to bear fruit, and there is now widespread optimism that things will change dramatically over the next decade. “It is the first year in which we have some hope,” says Lucica Ditiu, head of the Stop TB Partnership, a global alliance of antituberculosis organisations.
+
+
+
+Realising that hope will need money, however. And on December 10th, at a meeting in Jakarta, Indonesia, the partnership published an estimate of how much. The goal, set by the UN in 2018, is to end tuberculosis by 2030. To have any hope of that, the partnership says, will require $15.6bn a year to be spent over the next five years. This is a doubling of the annual treatment and prevention budget to $13bn, and a tripling of the R&amp;D budget to $2.6bn a year.
+
+One reason TB has been hard to crack is that M. tuberculosis has an unusual life cycle. When someone inhales the bug it is either killed by the immune system right away or takes up residence in the lungs. Instead of causing immediate symptoms, though, it usually remains dormant—a state called latent infection that is not contagious. About a quarter of the world’s population has such latent TB. But only about 10% of those so infected ever go on to develop symptoms. Often, those who do have weakened immune systems. People infected with HIV are at particular risk (about 40% of deaths among HIV-positive individuals are caused by TB). Others with higher than average risk of becoming symptomatic are the malnourished, smokers and alcoholics.
+
+Latent problems
+
+Two developments have complicated the fight against TB since the 1990s. One is the spread of HIV. The other is the emergence of antibiotic-resistant strains of M. tuberculosis. Nearly 500,000 of 2018’s new cases were untreatable with standard first-line drugs. And 6% of those cases are classed as extensively drug-resistant—meaning that few or no drugs work for them. Drug-resistant TB has taken a particularly strong hold in Russia and other former communist countries, where it accounts for roughly one in five new cases.
+
+At the moment, the standard treatment for drug-resistant TB involves taking highly toxic medicaments for as long as two years. A patient may have to swallow as many as 20 pills a day, and receive injections with nasty side-effects, such as permanent deafness. Even this regime, however, has a cure rate of only 25-50%. But shorter and safer drug combinations tested in recent years are now being introduced.
+
+They may get shorter still. In August America’s drug regulator approved pretomanid, a medicine developed by the TB Alliance, a non-profit organisation with a research centre in South Africa’s capital, Pretoria, after which the drug is named. Used in combination with other drugs, pretomanid shortens treatment of the most drug-resistant forms of TB to just six months, with an 89% success rate and no injections. Trials are now under way to check whether simpler regimens that include pretomanid can work for strains of TB that are resistant to fewer of the standard drugs.
+
+Treating those who fall ill promptly is crucial to preventing the spread of M. tuberculosis. Someone with active TB may, according to the WHO, infect as many as 15 others in the course of a year. But, the WHO reckons, roughly a third of new cases in 2018 went undiagnosed. That is partly because the most widely employed diagnostic method today remains the one Koch himself used: examining a patient’s sputum under a microscope to look for telltale bacteria. This procedure, which Barry Bloom of Harvard University, a doyen of the field, calls “an embarrassment to science”, detects only about half of active TB cases. And on top of this, the most common test for drug resistance is also ancient: growing a sample in a Petri dish and sprinkling it with antibiotics to check whether they work. This is an exercise that can take up to 12 weeks to provide an answer.
+
+
+
+Fancier diagnostic machines that detect M. tuberculosis genes in sputum samples—and can determine whether they are of the drug-resistant variety—have been available for about a decade. These provide results in less than two hours. But at $10 a test they are out of the reach of most health centres in those countries which host the bulk of TB cases. A urine dipstick test for active TB is available, but it works reliably only for people who also have HIV. The pipeline of new tests, however, is packed. According to Stop TB, 18 new diagnostic products may be ready for evaluation by the WHO in 2020.
+
+Moreover, some of the old-fashioned tools are having a makeover. Diagnosing TB is made trickier by the fact that symptoms, such as a long-lasting cough, often do not present themselves during the early stage of illness. Someone who is seemingly healthy can thus be infecting others.
+
+Chest X-rays can nab such early-stage TB. Scanning people en masse in places where TB is common is therefore a sensible way to slow down transmission. A promising innovation on that front are mobile x-ray machines in which reading of the scans is delegated to artificial-intelligence technology. Vans containing such machines now roam around Africa and Asia.
+
+But the hardest problem to crack is predicting who among those with latent TB are likely to become ill—in order to treat them pre-emptively. Research in this area is concentrating on identifying patterns of gene expression in blood cells (which can be retrieved by pinprick) that might appear six months to a year before active TB develops. Those at risk can then be treated, for a single drug taken once a week for three months will clear their latent infection.
+
+Killing a killer
+
+In the end, the biggest hope for beating TB is a new vaccine. The only one now available is BCG (Bacillus Calmette-Guerin), which goes back to 1921. It is effective in preventing the most severe forms of TB in children, such as brain inflammation. But it is unreliable against TB of the lungs—the most common form of the illness in adults.
+
+Now, a century after the development of BCG, there seems to be light at the end of the vaccine-search tunnel. At least seven candidates are in advanced clinical trials. A particularly promising one, code-named M72/AS01E, has been developed by GlaxoSmithKline, a big drug company. In trials in Africa, the latest results of which were published in October, it was about 50% effective in preventing TB of the lungs in people with latent infection (a group in which no other candidate vaccine has worked). This seemingly low efficacy is in fact good news for a disease that kills so many people a year, says Dr Bloom.
+
+GlaxoSmithKline has not yet said whether it will proceed with the further trials needed to put M72/AS01E on the market. Who would pay for these is an important question, for the $500m price tag involved is commercially unattractive. The firm says it is in discussions with outside organisations about the matter, and that saying anything more at this stage would “compromise” progress. Observers worry, though, that delay will mean the stockpile of vaccine available for trials will expire—and that creating more will add to costs. Money, as Cicero observed, is the sinews of war, and human beings have been at war with M. tuberculosis for a long time. It does look now, however, as if the weapons needed to bring the conflict to an end are being forged. Whether people have the appetite to pay for them remains to be seen.
+
+Correction (December 12th 2019): The original version of this article suggested that the TB Alliance is based in Pretoria. In fact, that is where it has a research centre. The organisation’s headquarters are in New York.
+
+---
+
+
+死于结核病的人比死于其他任何疾病的人都多
+然而，新的药物、疫苗和试验带来了希望
+2019年12月14日
+1882年，罗伯特·科赫(Robert Koch)发现了结核分枝杆菌(Mycobacterium tuberculosis)，这是一种导致结核病的微生物。肺结核通过咳嗽、打喷嚏或说话时产生的飞沫传播，无论是富人还是穷人都死于肺结核。在随后的一个世纪里，多亏了抗生素和一种保护婴儿的疫苗，结核病(简称结核病)的发病率有所下降。到了20世纪90年代，将其完全消灭似乎是可望而不可即的。
+然而，从那时起，进展就十分缓慢。每年新增病例仅下降1-2%。今天，死于结核分枝杆菌的人数超过了任何其他单一病原体(见图表)。世界卫生组织(WHO)估计，每年有1000万人因此患病，150万人死亡。这是死于疟疾人数的三倍多。然而，最近一波的科学突破正开始结出硕果，人们普遍乐观地认为，情况将在未来十年发生巨大变化。“这是我们第一次有了一些希望，”控制结核伙伴关系的负责人Lucica Ditiu说。控制结核伙伴关系是一个全球反结核组织联盟。
+然而，意识到希望需要钱。12月10日，在印度尼西亚雅加达的一次会议上，该合作组织公布了一项估算。联合国在2018年制定的目标是在2030年消灭结核病。该合作伙伴表示，要想实现这一目标，需要在未来5年每年投入156亿美元。这是治疗和预防年度预算的两倍，达到130亿美元，是研发预算的三倍，达到26亿美元。
+结核病难以攻克的一个原因是结核分枝杆菌有一个不寻常的生命周期。当一个人吸入了这种病菌，它要么被免疫系统立即杀死，要么在肺部定居下来。然而，它通常不会立即引起症状，而是处于休眠状态——这种状态被称为潜伏感染，不具传染性。世界上大约四分之一的人口患有这种潜伏性结核病。但只有10%的感染者会出现症状。通常，这些人的免疫系统较弱。感染艾滋病毒的人尤其危险(艾滋病毒阳性个体中约40%的死亡是由结核病引起的)。营养不良、吸烟和酗酒者出现症状的风险高于平均水平。
+潜在的问题
+自上世纪90年代以来，有两项进展使抗击结核病的工作复杂化。一个是艾滋病的传播。另一个是耐抗生素的结核分枝杆菌菌株的出现。2018年新增病例中，有近50万例无法用标准的一线药物治疗。这些病例中有6%被归类为广泛的药物抵抗，这意味着很少或没有药物对他们有效。在俄罗斯和其他前共产主义国家，耐药结核病的发病率尤其高，约占新发病例的五分之一。
+目前，耐药结核病的标准治疗包括服用剧毒药物长达两年。患者每天可能要吞下多达20粒药片，还要接受注射，注射会产生严重的副作用，比如永久性耳聋。然而，即使是这种疗法，治愈率也只有25-50%。但近年来试验的更短、更安全的药物组合现在正在引入。
+它们可能会变得更短。今年8月，美国药品监管机构批准了由非营利性组织结核病联盟(TB Alliance)开发的普雷托马尼德(pretomanid)，该组织在南非首都比勒陀利亚设有一个研究中心，普雷托马尼德的名字就是以该药物命名的。与其他药物联合使用，pretomanid可将耐药性最强的结核病的治疗缩短至6个月，成功率为89%，无需注射。目前正在进行试验，以验证包括pretomanid在内的更简单的治疗方案是否适用于对较少标准药物产生耐药性的结核菌株。
+
+
+
+及时治疗那些患病的人对预防结核分枝杆菌的传播至关重要。根据世界卫生组织的说法，患有活动性结核病的人可能在一年内感染多达15人。但是，世界卫生组织估计，2018年大约有三分之一的新病例没有得到诊断。这在一定程度上是因为现今最广泛使用的诊断方法仍然是科赫本人使用的方法:在显微镜下检查病人的痰液以寻找泄密的细菌。该领域的元老、哈佛大学的巴里•布鲁姆(Barry Bloom)称之为“科学的尴尬”。最重要的是，最常见的耐药性测试也是古老的:在培养皿中培养样本，并向其喷洒抗生素，以检查它们是否有效。这个练习可能需要12周才能给出答案。
+更先进的诊断机器在痰标本中检测出结核分枝杆菌基因，并能确定它们是否具有耐药性，这种机器已经问世大约十年了。这些在不到两小时内提供结果。但是，在结核病病例最多的那些国家，10美元的检测费用超出了大多数卫生中心的承受能力。现在有一种检测活动性结核病的尿液试纸，但它只对同时感染了艾滋病病毒的人有效。然而，新的测试已经排满了。根据控制结核，到2020年，世界卫生组织可能准备评估18种新的诊断产品。
+此外，一些老式的工具正在改头换面。诊断结核病变得更加棘手，因为在疾病的早期阶段，诸如长期咳嗽等症状通常不会出现。因此，看似健康的人也可能感染他人。
+胸部x光可以查出这种早期结核病。因此，对结核病流行地区的人群进行集体扫描是减缓结核病传播的一种明智方法。在这方面一项有前景的创新是移动x光机，它将扫描的读取委托给人工智能技术。装有这种机器的货车现在在非洲和亚洲各地漫游。
+但是最难解决的问题是预测潜伏性结核病患者中谁有可能患病——以便对他们进行先发制人的治疗。这一领域的研究主要集中在识别活动性结核病发生前6个月到1年的血细胞(可以通过pinprick检索)中的基因表达模式。那些有感染风险的人可以得到治疗，因为每周服用一种药物，持续三个月，就可以清除他们的潜伏感染。
+
+杀死一个杀手
+最后，战胜结核病的最大希望是一种新疫苗。现在唯一可用的是卡介苗(卡介苗)，它可以追溯到1921年。它可以有效地预防儿童中最严重的结核病，如脑炎。但它对肺部结核病(成人中最常见的一种疾病)并不可靠。
+如今，在卡介苗发展一个世纪之后，疫苗搜索隧道的尽头似乎出现了曙光。至少有7名候选人正在进行高级临床试验。一个特别有前途的代号为M72/AS01E的系统是由大型制药公司葛兰素史克(GlaxoSmithKline)开发的。去年10月发表的最新结果显示，在非洲进行的试验中，该疫苗在预防潜伏感染人群肺部结核病方面的有效性约为50%(在这一人群中，没有其他候选疫苗起作用)。布鲁姆博士说，这种看似低效的治疗方法实际上对一种每年导致如此多人死亡的疾病来说是个好消息。
+葛兰素史克尚未表示是否会继续进行将M72/AS01E投入市场所需的进一步试验。谁将为这些项目买单是一个重要的问题，因为5亿美元的标价在商业上没有吸引力。该公司表示，它正在与外部组织就此事进行讨论，在这个阶段再说任何话都会“损害”进展。然而，观察家们担心，这种延迟将意味着可用于试验的疫苗库存将会耗尽，而生产更多的疫苗将增加成本。正如西塞罗所指出的，金钱是战争的动力，人类与结核分枝杆菌的战争由来已久。然而，现在看来，结束冲突所需的武器似乎正在制造。人们是否有兴趣为它们买单，仍有待观察。□
+更正(2019年12月12日):这篇文章的最初版本表明，结核病联盟的总部设在比勒陀利亚。事实上，那里有一个研究中心。该组织的总部设在纽约。
+
+
+
+

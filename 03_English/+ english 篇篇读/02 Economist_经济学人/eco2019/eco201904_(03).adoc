@@ -1,0 +1,390 @@
+
+= eco 2019.04 (03)
+:toc:
+
+
+---
+
+== 基础知识：洲际弹道导弹 vs 巡航导弹
+
+
+|===
+| 巡航导弹 | 洲际弹道导弹
+
+| 弹道类似飞机飞行轨迹
+| 弹道是一条抛物线
+
+| 始终在大气层内飞行
+| 能脱离大气层飞行
+
+| 种类繁多，功能复杂
+| 除少数能打击大型移动目标，大部分只能打击大型固定目标，比如对方的航母或城市
+|===
+
+
+
+
+---
+
+== 03. Gliding missiles that fly faster than Mach 5 are coming
+
+
+Gliding missiles that fly faster than Mach (`=a measurement of speed, used especially for aircraft. Mach 1 is the speed of sound. 马赫，马赫数（速度单位，常用于计算飞行速度，1 马赫等于音速）`) 5 `系` are coming
+
+They *combine* the speed of intercontinental (`=between continents 洲际的；洲与洲之间的`) ballistic (`=connected with ballistics 弹道（学）的；发射的`) missiles 洲际弹道导弹 *with* the accuracy of cruise missiles
+
+速度超过 5 马赫的滑翔导弹，即将问世 +
+他们把洲际弹道导弹的速度，和巡航导弹的精度，结合了起来
+
+Apr 6th 2019 | BERLIN AND WASHINGTON, DC
+
+‘Once the rockets *are* up, who *cares* where they come down?/ That’s not my department!’ says Wernher von Braun.
+
+TOM LEHRER’S satirical 讽刺的；讥讽的 ditty (n.)(`=a short simple song 小曲；小调`) on the Nazi-turned-American rocketeer 火箭设计者；火箭专家 *was faithful 忠实的；忠诚的 to* the essence (`=the most important quality or feature of sth, that makes it what it is 本质；实质；精髓`) of early missile development, whose principal (`=most important; main 最重要的；主要的`) challenge *was hoisting*(`=to raise or pull sth up to a higher position, often using ropes or special equipment 吊起；提升；拉高`) the weapons *into* the sky. Gravity *did* most of the rest.
+
+`主` The first warheads （导弹的）弹头 *capable of* steering (v.) 驾驶（船、汽车等）；掌控方向盘 on descent (n.)(`= an action of coming or going down 下降；下倾`) `谓` *did not arrive* until the 1980s.
+
+Even they *were limited* in how much they could move around, *making* it pretty easy *to predict* their target area.
+
+====
+- ditty => 来自拉丁语 dictatum, 说，说唱，词源同 diction.
+====
+
+汤姆・莱勒 (Tom Lehrer) 对这位纳粹出身的美国火箭学家的讽刺小曲，其实忠实地反映了早期导弹研发的本质。当时导弹发展面临的主要挑战是将武器升上天空。剩下的大部分工作都是由地心引力完成的。直到 20 世纪 80 年代，第一批能够在下降过程中操纵方向的弹头，才出现。即使是它们，其活动范围也很有限，因此很容易预测它们落点的目标区域。
+
+A new generation of hypersonic (a.) 极超音速的，超出五倍音速（5 马赫）的 missiles *is changing* all that.
+
+Some *might be capable of* gliding (v.)(`=to move smoothly and quietly, especially as though it takes no effort 滑行；滑动；掠过`) across continents at great speed, their target *unpredictable* until seconds before impact (`=to hit sth with great force 冲击；撞击`).
+
+Russia *claims* to have a hypersonic glider (`=a light aircraft that flies without an engine 滑翔机`) on the cusp (`=a pointed end where two curves meet （两曲线相交的）尖点，会切点，交点`) of deployment (n.)(`=The deployment of troops, resources, or equipment is the organization and positioning of them so that they are ready for quick action. 部署`); others *are redoubling*(`=redouble : to increase sth or make it stronger 加倍；增加；加强`) their efforts.
+
+Many *are likely to start entering(v.) service* in the 2020s. All this *opens up* new military possibilities -- and problems.
+
+====
+- cusp => 来自 PIE sker, 切，砍，词源同 shear,carnal. +
+image:../+ img_单词图片/c/cusp.jpg[250,250]
+====
+新一代的极超音速导弹, 正在改变这一切。其中一些可能能够以极快的速度横跨大陆，他们的目标直到撞击前几秒钟才能预测。俄罗斯声称即将部署一架高超声速滑翔机；其他国家正在加倍努力。许多飞机可能会在本世纪20年代开始投入使用。所有这些都带来了新的军事可能性和问题。
+
+Missiles that *travel* at speeds greater than Mach 5 (five times the speed of sound, or about 1.5km per second), *have existed* for some time.
+
+Intercontinental ballistic missiles (ICBMs) *re-enter* the atmosphere *at* up to 8km per second.
+
+`主` What is different about the hypersonic weapons in the pipeline `系` *is that* they are designed to sustain such speeds over long distances, *manoeuvre*(`=to move or turn skilfully or carefully; to move or turn sth skilfully or carefully （使谨慎或熟练地）移动，运动；转动`) as they do so and, in some cases, *hit targets* with pinpoint(a.)(`=if sth is done with pinpoint accuracy , it is done exactly and in exactly the right position 准确的；精确的`) accuracy.
+
+飞行速度大于5马赫(5倍音速，每秒约1.5公里)的导弹, 已经存在了一段时间。洲际弹道导弹(洲际弹道导弹)以每秒高达8公里的速度重新进入大气层。与在管道(炮管?)中的超声速武器不同之处在于，它们被设计成在长距离中保持这样的速度，并能在这样做的同时进行机动，在某些情况下，还可以精确击中目标。
+
+“`主` Manoeuvrable missiles *travelling* at many times the speed of sound `谓` *barely leave time for* considered(v.) human responses,” *warned* Heiko Maas, Germany’s foreign minister, in March.
+
+Such weapons *may also elude*(`=to manage to avoid or escape from sb/sth, especially in a clever way （尤指机敏地）避开，逃避，躲避`) today’s arms-control agreements, which *were written for* an earlier generation of weapons.
+
+====
+- elude => e-, 向外。-lud, 玩耍，欺骗，词源同allude, collude.引申义逃走，逃避。
+====
+德国外交部长海科•马斯(Heiko Maas)今年3月警告称:“机动导弹以数倍于音速的速度飞行，几乎没有时间考虑人类的反应。”这些武器也可能逃脱今天的军备控制协议，这些协议是为上一代武器而制定的。
+
+There are two basic designs: cruise missiles and gliders.
+
+Hypersonic cruise missiles *are* essentially  本质上；根本上；基本上 faster versions of existing ones but *powered*(v.)(`=to supply a machine or vehicle with the energy that makes it work 驱动，推动（机器或车辆）`) by very different jet engines.
+
+Gliders *are* pricier and *harder to build*, but *can travel* faster and farther, and so *are receiving* more attention.
+
+Like ICBMs and von Braun’s V-2s, they *are lofted*(`=to hit, kick or throw a ball very high into the air 向高处击（或踢、掷）`) *into space* and *fall to* earth [unpowered 无动力的].
+
+有两种基本设计:巡航导弹和滑翔机。高超音速巡航导弹,本质上是现有导弹的更快版本，但由不同的喷气发动来机提供动力。滑翔机价格更高，制造难度更大，但飞行速度更快，飞行距离更远，因此越来越受到关注。就像ICBMs和冯·布劳恩的v-2一样，它们被发射到太空中，然后在没有动力的情况下坠落到地球上。
+
+But unlike the old-fashioned projectiles(`=any object that is thrown as a weapon （作为武器的）发射物；导弹`), they *do not follow* a predictable, parabolic 抛物线状的 arc *through* the sky.
+
+Instead, a hypersonic glide vehicle (HGV) 高超音速滑翔飞行器 *detache*(`=*~ (sth) (from sth)* :to remove sth from sth larger; to become separated from sth 拆卸；（使）分开，脱离`) *from the rocket* while it *is still ascending*(`=to rise; to go up; to climb up 上升；升高；登高`) and *either* skips(v.) along the upper atmosphere *or*, having re-entered(v.), *glides through it* for hundreds or thousands of kilometres.
+
+====
+- hypersonic glide vehicle +
+image:../+ img_单词图片/h/Hypersonic Glide Vehicle.png[250,250]
+====
+但与老式的抛射不同的是，它们在天空中, 并不遵循可预测的抛物线轨迹飞行。相反，高超音速滑翔飞行器(HGV), 在火箭仍在上升时, 就与火箭分离，要么沿着大气层上层进行跳跃，要么重新进入大气层, 并在大气层中滑行数百或数千公里。
+
+Such gliders *have* several advantages.
+
+Ballistic missiles 弹道导弹 *are* less agile(`=able to move quickly and easily （动作）敏捷的，灵活的`) and *tend not to be* very accurate.
+
+`主` A Minuteman(n.)(`= (during the American Revolution) a member of a group of men who were not soldiers but who were ready to fight immediately when they were needed （美国革命时期的）即召民兵`) III ICBM, the backbone(`=the most important part of a system, an organization, etc. that gives it support and strength 支柱；骨干；基础; /the row of small bones that are connected together down the middle of the back 脊梁骨；脊柱`) of America’s nuclear arsenal(`=a collection of weapons such as guns and explosives （统称）武器`), `谓` *has* a “circular error probable(a.)(`=likely to happen, to exist or to be true 很可能发生（或存在等）的`)” 圆形概率误差 of roughly 120m, *meaning* only half the missiles fired *are expected* to land(v.) within 120m of the impact point.
+
+====
+- circular error probable : 圆形公算误差（英文简称CEP），是弹道学中的一种测量武器系统精确度的项目。其定义是 *以目标为圆心划一个圆圈。如果武器命中此圆圈的机率最少有一半，则此圆圈的半径就是"圆形公算误差"。举例来说，美军三叉戟二型导弹的圆形公算误差是90米，则一枚此型导弹有50%的机率会落在目标90米以内。*
+====
+
+*That is fine* for nuclear bombs *but useless for* hitting a ship or runway.
+
+Today’s cruise missiles, on the other hand, *are* very accurate -- one *could be sent* through a window -- but much slower.
+
+这样的滑翔机有几个优点。弹道导弹不太灵活，而且往往不太精确。美国核武库的支柱--民兵III型洲际弹道导弹的“圆形误差可能”约为120米，这意味着预计只有一半发射的导弹, 能落在落点120米以内。这对核弹来说很好，但对于想要击中船只或跑道来说, 就没什么用了。另一方面，今天的巡航导弹非常精确 -- 它可以通过窗口发射, 但速度要慢得多。
+
+
+HGVs *combine* the speed of ballistic missiles *with* the manoeuvrability 机动性；可移动；操纵的灵敏性 and accuracy of cruise missiles.
+
+“You *can fly*, you *can shape* your trajectory （射体在空中的）轨道，弹道，轨迹, you *can turn*,” says Will Roper, the US Air Force acquisitions(n.)(`=a company, piece of land, etc. bought by sb, especially another company; the act of buying it 购置物；收购的公司；购置的产业；购置；收购`) chief.
+
+====
+- trajectory =>  tra-横过,越过 + -ject-投,射 + -ory
+====
+HGVs, 将弹道导弹的速度, 与巡航导弹的机动性和精确性, 结合起来。美国空军采购主管威尔•罗珀(Will Roper)表示:“你能让它飞，你能改变它的轨迹，你能让它转弯。”
+
+The key *is* their trajectory.
+
+An unpowered 无动力的; 非机动的 ICBM(`=洲际弹道导弹（Intercontinental Ballistic Missile）`) warhead *spends* most of its time in the vacuum 真空 of space where it *cannot duck*(`=to move your head or body downwards to avoid being hit or seen 低下头，弯下身（以免被打中或看见）; /to avoid sth by moving your head or body out of the way 躲闪；躲避`) or *dive*(`=to go steeply down through the air 俯冲;/下潜;潜水`), but HGVs *spend* 80% of their time below 100km, *allowing* them *to manoeuvre* for most of their flight.
+
+They *can also dodge*(`=to move quickly and suddenly to one side in order to avoid sb/sth 闪开；躲开；避开`) ground-based radar for longer *by hiding behind* the curvature(`=the state of being curved; the amount that sth is curved 弯曲；曲度；曲率`) of the Earth.
+
+Whereas(`=used to compare or contrast two facts （用以比较或对比两个事实）然而，但是，尽管;/（用于正式文件中句子的开头）鉴于`) American ICBMs *must fly over* Russia *to hit* China -- which *could lead to* dangerous misunderstandings -- gliders *could take* more circuitous(`=(of a route or journey 路线或旅程) long and not direct 迂回的；绕道的；曲折的`) routes, *avoiding* missile defences and *leaving* adversaries(`=adversary : a person that sb is opposed to and competing with in an argument or a battle （辩论、战斗中的）敌手，对手`) *uncertain(a.) of* the target.
+
+====
+- dodge => 可能来自dodder, 摇摆，蹒跚，引申词义摇摇晃晃的闪开。
+- adversary => ad-朝,向 + -vers-转 + -ary名词词尾,人 → 转向反面
+====
+关键是它们的飞行轨迹。一枚无动力的洲际弹道导弹的弹头, 大部分时间都在真空中，既不能躲闪也不能潜降，但HGVs 80%的时间都在100公里以下，这使得它们在大部分飞行中都可以操纵。它们还可以躲在地球表面的曲率后面，从而延长躲避地面雷达的时间。然而美国洲际弹道导弹, 必须飞越俄罗斯才能打击中国——这可能导致危险的误解——而滑翔机可以采取更迂回的路线，避开导弹防御，让对手无法确定其目标。
+
+
+Hypersonic gliders *are* almost a century in the making.
+
+The first rocket-boosted glider *flew* in Germany in 1928.
+
+During the second world war, German engineers *tried to extend the range of* von Braun’s V-2 *by having it glide*.
+
+After the war, America and the Soviet Union *pilfered*(`=pilfer : to steal things of little value or in small quantities, especially from the place where you work 偷窃（小东西）；小偷小摸；（尤指员工）偷窃`) German rocketry(`=the area of science which deals with rockets and with sending rockets into space; the use of rockets 火箭学；火箭技术`), *leading to* a series of technological leaps 跳跃.
+
+Alpha Draco, an American HGV, *was tested to* hypersonic speeds in the 1950s and hypersonic gliding *was refined*(`=to improve sth by making small changes to it 改进；改善；使精练; /精炼；提纯；去除杂质`) by the space race: the space shuttle *was* a hypersonic glider, in its way.
+
+====
+- pilfer => 来自古法语pelfre,抢劫，战利品，词源不详，可能同 pillage. => 来自古法语pilage,抢劫，来自拉丁语pilare, *扯住头发*，剥皮，来自pilus,头发，毛发，词源同pile,depilatory.
+====
+高超音速滑翔机的研制, 已经进行了近一个世纪。1928年，第一架由火箭推进的滑翔机, 在德国飞行。在第二次世界大战期间，德国工程师试图通过让冯·布劳恩的V-2 滑翔, 来扩大它的射程。战后，美国和苏联窃取了德国的火箭技术，带来了一系列的技术飞跃。20世纪50年代，美国HGV阿尔法·德拉科(Alpha Draco)进行了高超音速测试，太空竞赛使得高超音速滑翔技术得了改进: 在某种程度上, 航天飞机就是一种高超音速滑翔机。
+
+War at Mach 5
+
+5马赫的战争
+
+Why, then, *have* hypersonic missiles *taken so long to arrive*?
+
+`主` *Extended* hypersonic flight `谓` *presents* fiendish(`=cruel and unpleasant 恶魔般的；残忍的；令人憎恶的; /extremely difficult 极其困难的; /extremely clever and complicated, often in an unpleasant way （常令人不快地）巧妙复杂的`) scientific and engineering challenges.
+
+====
+- fiendish +
+- a fiendish(a.cruel and unpleasant 恶魔般的；残忍的；令人憎恶的) act 残忍的行为 +
+- a fiendish(`=extremely difficult 极其困难的`) problem 大难题 +
+- a fiendish(`=extremely clever and complicated, often in an unpleasant way （常令人不快地）巧妙复杂的`) plan 巧妙复杂的计划
+====
+那么，为什么高超音速导弹, 要花这么长时间才能研制出来呢? 因为高超音速飞行提出了极难的科学和工程的挑战。
+
+
+The lift-to-drag ratio 升阻比 of the space shuttle at hypersonic speeds *is* around one, *notes* James Acton of the Carnegie Endowment(n.)(`=money that is given to a school, a college or another institution to provide it with an income; the act of giving this money 捐款；捐赠；资助`), a think-tank; an advanced glider *would require* over twice that.
+
+智库卡内基基金会(Carnegie Endowment)的詹姆斯·阿克顿指出，航天飞机在高超音速下的升阻比, 约为1; 而一架先进的滑翔机需要两倍以上的升阻比。
+====
+- lift-to-drag ratio 升阻比 : *是指飞行器在飞行过程中，在同一迎角的升力与阻力（也即升力系数与阻力系数）的比值。 = lift/drag*.  是表示飞机气动效率的一个重要参数。 +
+其值与飞行器迎角、飞行速度等参数有关，*此值愈大, 说明飞行器的空气动力性能愈好。* 对一般的飞机而言，低速和亚音速飞机可达17～18，跨音速飞机可达10～12，马赫数为2的超声速飞机约为4～8。
+====
+
+Higher lift-to-drag ratios *require* sharp(a.)锋利的；锐利的；尖的 leading edges 前沿, which, *combined with* extreme velocities(`=velocity : the speed of sth in a particular direction （沿某一方向的）速度`), *can generate* surface temperatures *up to* 2,000ºC.
+
+That *can erode* a glider’s protective coating(`=a thin layer of a substance covering a surface （薄的）覆盖层，涂层`), *fry*(`= to be burnt by the sun （被阳光）灼伤，晒伤`) its electronics 电子电路；电子器件 and *bend it out of shape*.
+
+America’s test of one prototype 原型；雏形；最初形态 in 2011 *failed* when the skin blistered(`=blistered : to form blisters ; to make sth form blisters （使）起疱，起泡 /when a surface blisters or sth blisters it, it swells and cracks （使表皮等）涨破，爆裂`) and *peeled off*(`=(of a covering 覆盖层) to come off in strips or small pieces 脱落；剥落`).
+
+The resulting shockwaves *overwhelmed*(`=to defeat sb completely 压倒；击败；征服`) control systems in less than two seconds.
+
+====
+- blister => 词源同ball, 指鼓起来的。
+====
+更高的升阻比需要锋利的前缘，再加上极高的速度，可以产生高达2000ºC的表面温度，这可能会侵蚀滑翔机的保护层，烧毁它的电子设备，并使其变形。美国在2011年对一种原型机的测试失败了，因为它的外壳起泡并脱落。由此产生的冲击波, 在不到两秒的时间内就使控制系统不堪重负。
+
+`主` The only thing that *seems to work*, says an expert at an arms company that *is developing* gliders, `系` *is* `表` *to cover* the vehicle 交通工具；车辆 in cork  木栓，软木（一种地中海橡树皮）.
+
+But that *is vaporised* 汽化；蒸发 in minutes or less, so *does not work for* long-range(`=travelling a long distance 远距离的；远程的`) missiles.
+
+`主` *Dissipating*(`=dissipate : to gradually become or make sth become weaker until it disappears （使）消散，消失；驱散`) *heat* as quickly as *it is built up* `系` *is* `表` “daunting”(a.)(`=to make sb feel nervous and less confident about doing sth 使胆怯；使气馁；使失去信心`) and “perhaps impossible” above Mach 10, he says.
+
+====
+- daunt => 来自拉丁语domitare, 统治，驯服，词源同dominate, tame. 拼写参照同源词danger.
+====
+一家正在开发滑翔机的武器公司的专家说，唯一有效的方法是用软木覆盖飞机。但它在几分钟或更短时间内就会汽化掉，因此对远程导弹并不适用。他说，在10马赫以上的速度下，要想迅速散热, 是“令人生畏的”难，并且“可能是不可能做到的”。
+
+Great speeds *also break up* molecules 分子 in the atmosphere, *creating* a field of charged particles 带电粒子 (or “plasma”(`=等离子体；等离子气体`)) around the glider, which *disrupts* GPS and other signals *required for* guiding(v.) the missile to its target.
+
+Researchers “*still don’t completely understand* the physics of hypersonic flight”, *wrote* Ivett Leyva of America’s Air Force Office of Scientific Research in a 2017 paper.
+
+高速飞行还会破坏大气中的分子，在滑翔机周围形成带电粒子(或“等离子体”)场，从而对GPS, 及其他引导导弹到达目标所需要的信号,  会造成干扰。美国空军科研办公室的伊维特·莱瓦(Ivett Leyva), 在2017年的一篇论文中写道，研究人员“仍然并不完全理解在高超音速飞行时的物理原理”。
+
+The big powers *have all made some progress* in surmounting(v.)(`=surmount : to deal successfully with a difficulty 克服；解决`) these challenges.
+
+Thomas Bussing, who *heads* missile development for Raytheon 公司名, an arms company, *says* there has been a “step change”(`=*step change* : a big change or improvement in sth 巨大变化；显著进步（或改善）`) over the past decade, *thanks to* advances in computational fluid dynamics 计算流体力学, new materials and electronic and guidance(`=the process of controlling the direction of a rocket , etc., using electronic equipment （火箭等的）制导，导航`) systems.
+
+`主` America, which *set aside*(`=If you set something aside for a special use or purpose, you keep it available for that use or purpose. 省出; 抽出`) $2.6bn for hypersonic weapons in the Pentagon’s 2020 budget, `系` *is* probably farthest ahead.
+
+It *tested* a wedge-shaped(`=楔形的；V形的`) glider in 2010 and 2011, a more successful cone-shaped 锥形的 design in 2011, 2014 and 2017 (the Alternate Re-entry System) and *is working* on tactical(`=connected with the particular method you use to achieve sth 战术上的；策略上的`) systems that *use* smaller, cheaper rockets and *could be launched from* ships and aircraft.
+
+====
+- wedge-shaped +
+image:../+ img_单词图片/w/wedge-shaped.png[250,250]
+
+- cone => 来自PIE ak, 尖，刺，词源同acid, coin, cuneiform.
+
+- cone-shaped +
+image:../+ img_单词图片/c/cone-shaped.png[250,250]
+====
+大国在克服这些挑战方面, 都取得了一些进展。Thomas Bussing是雷神武器公司导弹研发的负责人，他说在过去的十年里，由于计算流体动力学、新材料、电子和制导系统的发展，已经出现了“巨大的进步”。 +
+五角大楼在2020年的预算中, 为高超音速武器拨出了26亿美元。美国可能已遥遥领先。它在2010年和2011年测试了一种楔形滑翔机，在2011年、2014年和2017年, 又测试了一种更成为功的锥形形状(替代再入系统), 能作为战术系统，用更小、更便宜的火箭，来从船只和飞机上发射。
+
+
+Russia *has been working on* hypersonics for decades, haltingly 迟疑不决地；犹豫地.
+
+Its flagship Avangard glider *was flaunted*(`=to show sth you are proud of to other people, in order to impress them 炫耀；夸示；夸耀；卖弄`) *publicly* by President Vladimir Putin in March 2018 and *tested* to great fanfare(n.)(`=a large amount of activity and discussion on television, in newspapers, etc. to celebrate sb/sth （为庆祝而在媒体上的）喧耀`) in December, after which it *was declared* ready for service this year -- somewhat implausibly 难以置信地, say experts.
+
+====
+- fanfare => 拟声词，模仿号角齐鸣的声音。
+- plausible =>  -plaus-拍手 + -ible形容词词尾,被动意义 → 值得鼓掌的
+====
+
+Pavel Podvig of the United Nations Institute for Disarmament 裁军，裁减军备（尤指核武器） Research *points out that* very few of the glider’s tests *were successful* and that the programme *was nearly shut down* four years ago.
+
+几十年来，俄罗斯一直在断断续续地研究超音速。它的旗舰Avangard滑翔机, 在2018年3月被俄罗斯总统弗拉基米尔·普京公开炫耀，并在12月大张旗鼓地进行了测试，之后它被宣布, 准备今年投入使用 ——专家说, 这有点难以置信。联合国裁军研究所的帕维尔·波德维格(Pavel Podvig)指出，滑翔机的试验很少成功，而且该项目在四年前几乎已被关闭。
+
+China *has tested* its own DF-ZF HGV at least nine times since 2014. Almost nothing is publicly known about its nimbleness(n.)(`=able to move quickly and easily 灵活的；敏捷的`) or accuracy.
+
+Australia, India, France and Japan *are all chasing* the pack(`=a set of different things that are supplied together for a particular purpose （一起供应的）全套东西`).
+
+“We *have lost our technical advantage* in hypersonics,” *warned* General Paul Selva, America’s highest-ranking air-force officer in January.
+
+China *has built* two to three times *as many* hypersonics-related facilities *as* America, *including* the world’s fastest wind tunnel （试验飞机等用的）风洞，风道 for testing, and *pumped  用泵（或泵样器官等）输送 out*(`=to produce sth in large amounts 大量生产（或制造）`) the most public research on the technology (716 publications in 2017, *compared with* 207 from America and 76 from Russia).
+
+自2014年以来，中国已经至少9次测试自己的DF-ZF HGV。几乎没有人知道它的灵活性或准确性。澳大利亚、印度、法国和日本都紧随其后。 +
+“我们已经失去了在超音速方面的技术优势，”美国最高级空军官员保罗·塞尔瓦将军, 在一月份警告说。中国已经建造了两到三倍于美国的与hypersonics相关的设施，包括世界上最快的用于测试的风洞，并对此技术, 进行了最多次数的公开研究(2017年发表了716篇论文，相比之下美国有207篇，俄罗斯有76篇)。
+
+Even so, Mr Acton *suggests that* the Chinese programme *is probably less advanced than* America’s. For one thing, America *is testing* its gliders over significantly(`=in a way that is large or important enough to have an effect on sth or to be noticed 有重大意义地；显著地；明显地`) longer ranges(`=the distance over which a gun or other weapon can hit things 射程；射击距离`) than China is.
+
+It *is also solving* a different, harder, problem. America *wants* the ability *to deliver* conventional warheads *over* continental distances. It is because ICBMs *are not accurate enough for this* that it *wants* HGVs.
+
+Russia and China *are keener on* nuclear-tipped(`=tip : to cover the end or edge of sth with a colour, a substance, etc. （用颜色、物质等）覆盖…的末端，遮盖…的边; 焊接在尖头上的，镶齿的`) ones, partly because they *fear* their existing nukes *might one day be stopped by* improvements in America’s missile-defence shield. Their own gliders *need not be* so precise.
+
+即便如此，阿克顿先生认为, 中国的项目可能不如美国的先进。首先，美国正在测试的滑翔机, 其航程比中国远得多。同时它还在解决另一个不同的、更困难的问题。美国希望有能力, 在大陆范围内运送常规弹头, 因为洲际弹道导弹在这方面不够精确，所以它想要HGV能做到这一点。俄罗斯和中国则更热衷于核弹头武器，部分原因在于, 他们担心自己现有的核武器, 将来有一天会因为美国导弹防御系统的改进, 而被失效。而他们研发滑翔机就不需要这么精确了。
+
+Douglas Barrie, an expert at the International Institute for Strategic Studies, a think-tank, *forecasts that* hypersonic gliders *are likely to start entering service* in the early 2020s. The result *might be* twitchier(a.)(`=twitchy : nervous or anxious about sth 神经紧张的；焦急的；焦虑不安的`) decision-makers and a more frenzied(`=involving a lot of activity and strong emotions in a way that is often violent or frightening and not under control 疯狂的；狂暴的`) battlefield.
+
+智库国际战略研究所(International Institute for Strategic Studies)专家道格拉斯•巴里(Douglas Barrie)预测，高超音速滑翔机, 很可能在本世纪20年代初开始服役。结果可能是使决策者们更加紧张，和战场更加疯狂。
+
+Area defences, which *guard* broad swathes(`=swathe : a large strip or area of sth 一长条；一长片`) of territory like continental America, *rely on* shooting down missiles midcourse(n.)中途，航程中段 and on a straightforward(`=easy to do or to understand; not complicated 简单的；易懂的；不复杂的;明确的；径直的`) trajectory 轨道，轨线.
+
+Gliders *do not go as high* and *are less predictable*, hence Mr Putin’s *boast that* the Avangard *is “invulnerable to interception”*(`=拦截，截住；截断`) (some *reckon that* `主` interceptors *placed in space* `谓` *might have* a shot(`=~ (at sb/sth) the act of firing a gun; the sound this makes 射击；开枪（或炮）；枪（或炮）声`) as super-hot gliders *should stand out*(`=to be easily seen; to be noticeable 显眼；突出`) *to* infra-red 红外线的 sensors （探测光、热、压力等的）传感器，敏感元件，探测设备).
+
+守卫像美洲大陆这样大片领土的区域防御系统，依赖于在中途就击落来犯的导弹，并且该导弹的飞行轨迹相当直接。而滑翔机则不会飞得那么高，也更难预测，因此普京吹嘘说，Avangard是“无懈可击的”(但一些人认为，放置在太空中的拦截器可能会有机会拦截，因为超热滑翔机会在红外传感器面前暴露出来)。
+
+`主` Point defences, which *guard* individual sites *against* shorter-range missiles, `谓` *might have* more luck. Gliders *must slow down* as they *approach* their targets. Systems like America’s THAAD *have a proven(a.)被证明的；已证实的 ability* to shoot down ballistic missiles, which *close in*(`=*close in (on sb/sth)* : to move nearer to sb/sth, especially in order to attack them （尤指为了进攻）逼近，靠近`) *[more quickly]*.
+
+保护各个地点免受短程导弹袭击的点防御系统, 可能会有更好的运气。滑翔机在接近目标时必须减速。像美国的萨德这样的系统, 已经被证明有能力击落更快接近的弹道导弹。
+
+“The world *has changed dramatically*,” says Mr Bussing. “These systems *are very, very difficult to counter*(`=to do sth to reduce or prevent the bad effects of sth 抵制；抵消`) and *fundamentally*(`=in every way that is important; completely 根本上；完全地`) *give the holder* a tremendous(`=very great 巨大的；极大的`) advantage over the states that don’t have them. `主` The sense of urgency *to develop ways(n.) to counter them* `系` is an imperative.”(`=a thing that is very important and needs immediate attention or action 重要紧急的事；必要的事`)
+
+====
+- imperative => 词源同empire,帝国，帝权。即皇帝的命令，引申词义重要的，迫切的。
+====
+“世界发生了巨大的变化，”Bussing先生说。他说:“这些系统非常、非常难以对付，从根本上说，这些系统让持有者比没有这些系统的国家, 拥有了巨大的优势。我们迫切需要制定应对措施，这是当务之急。“”
+
+One American military official *suggests that* humans *will have to hand* ever more control *to* defences(n.)(`=something that provides protection against attack from enemies, the weather, illness, etc. 防御物；防务；防御能力`) that *are* already semi-autonomous 自主的；有自主权的: “*There will be no time at all* for a man in the loop.”(`= *in the loop / out of the loop* : part of a group of people that is dealing with sth important; not part of this group 属（处理要务的）圈内／圈外人士`)
+
+The uncertain payload of gliders *is* another problem. If targets *could not tell the difference between* conventional(`=not nuclear 非核的；常规的`) *and* nuclear gliders, or *feared that* conventional ones, *through* accuracy and kinetic(a.)(`=of or produced by movement 运动的；运动引起的`) energy 动能 *alone*, *could threaten* important targets, they *might choose to launch their own nuclear forces* to avoid losing them.
+
+
+====
+- kinetic => 单词movie（电影）和move（移动）同源，本义是“运动的图片”，这也是电影最初的原理；同样地，cinema（电影院）也和“运动”相关，kinetic（运动的；动力学的）与之同源。这里涉及到c、k通转，再如曾经发过的porcelain（瓷器）和pork（猪肉）的同源关系。
+====
+一位美国军方官员表示，人类将不得不把更多的控制权, 交给已经处于半自治状态的防御系统本身: “根本没有时间让一个圈内人参与其中。” “不确定滑翔机的有效载荷, 是另一个问题。如果被滑翔机袭击的目标, 不能分辨出来犯的滑翔机到底是属于常规类型的, 还是核武器类型的, 或者目标担心即使是常规滑翔机, 仅通过准确性和动能, 就能威胁到重要目标，那么他们(指目标)可能会选择发射核力量, 以避免失去它们(被滑翔机摧毁)。
+
+There are also wider implications(`=a possible effect or result of an action or a decision 可能的影响（或作用、结果）`) for arms control.
+
+The impending(`=that is going to happen very soon 即将发生的；迫在眉睫的`) collapse of the Intermediate-Range Nuclear Forces (INF) Treaty, which *barred* America and Russia *from possessing*(`=to have or own sth 有；拥有`) land-based missiles of 500km-500km ranges, *clears the way for* both countries *to develop and deploy*(v.)部署，调度（军队或武器）new ground-launched hypersonic missiles.
+
+A separate treaty, New START(`=战略武器削减条约 (Strategic Arms Reduction Treaties)`), *caps*(`=to cover the top or end of sth with sth 用…覆盖顶部（或端部）`) the number of longer-range weapons, but *is* up(`=*up for sth* : being considered for sth, especially as a candidate 正被考虑，被提名（作候选人等）`) for renewal(`=the act of making a contract, etc. valid for a further period of time after it has finished （对合同等的）有效期延长，展期，续订，更新`) in 2021 and *looking shaky*(a.)(`=not firm or safe; not certain 不稳固的；不牢靠的；摇晃的；不确切的; /not seeming very successful; likely to fail 不大出色的；成问题的；可能失败的`).
+
+When it *was negotiated* 谈判；磋商；协商 in 2010, America and Russia *implicitly 含蓄地；暗中地 agreed that* gliders *would not be covered*. Former officials *say* that was a mistake.
+
+军备控制还有更广泛的含义。《中程核力量条约》(INF)即将崩溃，该条约禁止美国和俄罗斯拥有500公里至5500公里射程的陆基导弹，该条约的瓦解, 为两国开发和部署新型陆射高超声速导弹, 扫清了道路。另一份名为《新削减战略武器条约》(New START)的条约, 为远程武器的数量设定了上限，该条约将于2021年续签，到目前看来并不可靠。2010年谈判时，美国和俄罗斯含蓄地同意滑翔机不包括在条约范围之内。前官员表示，这是一个错误。
+
+Germany *convened*(`= to arrange for people to come together for a formal meeting 召集，召开（正式会议）`) an arms-control conference in Berlin on March 15th *to kick-start*(`=to do sth to help a process or project start more quickly 促使…开始；使（项目）尽快启动; /用脚踏启动（摩托车）`) a discussion on *taming*(`=tame : to make sth tame or easy to control 驯化；驯服；使易于控制`) the risks *posed by* futuristic(`=extremely modern and unusual in appearance, as if belonging to a future time 极其现代的；未来派的`) weapons, *including* hypersonic missiles, *through diplomacy* 外交；外交技巧；外交手腕.
+
+Mr Maas *called for* an “international missiles dialogue” *to discuss* the challenge.
+
+3月15日，德国在柏林召开了一场军备控制会议，旨在通过外交手段，启动一场关于控制未来武器(包括高超音速导弹)风险的讨论。Maas呼吁展开“国际导弹对话”，讨论这一挑战。
+
+The UN’s disarmament 裁军，裁减军备（尤指核武器） office *has proposed that* rivals *could swap information* on test flights and *take* other confidence-building measures.
+
+Corentin Brustlein of IFRI, a French think-tank, *suggests* capping(v.) glider numbers.
+
+Yet America and Russia *are enmeshed*(a.)(`=If you are *enmeshed in* or *with* something, usually something bad, you are involved in it and cannot easily escape from it. 被缠住的; 落入圈套的`) *in* worsening(a.)日益恶化的 disputes 争论；辩论；争端；纠纷 over today’s weapons, *let alone* 更不用说 tomorrow’s, and China *shows little interest in* tying(v.)(`=tie : （用线、绳等）系，拴，绑，捆，束`) its hands.
+
+Gliders *are likely(a.) to enjoy* a fair(a.)(`=quite large in number, size or amount （数量、大小）相当大的`) geopolitical wind.
+
+====
+- enmesh => en-, 进入，使。mesh, 网。
+====
+联合国裁军办公室提议，竞争对手可以交换试飞信息，并采取其他建立信任的措施。法国智库IFRI的Corentin Brustlein建议, 限制滑翔机的数量。然而，美国和俄罗斯在今天的武器问题上, 已陷入日益恶化的争端中，更不用说明天的武器了，而中国对捆绑自己的手脚, 也没有表现出多少兴趣。滑翔机可能会受到相当大的地缘政治风向的影响。
+
+---
+
+== 03. Gliding missiles that fly faster than Mach 5 are coming 纯净版
+
+They *combine* the speed of intercontinental ballistic missiles *with* the accuracy of cruise missiles
+
+
+Apr 6th 2019 | BERLIN AND WASHINGTON, DC
+
+‘Once the rockets *are up*, who *cares* where they come down?/ That’*s not* my department!’ says Wernher von Braun.
+
+`主` TOM LEHRER’S satirical ditty(n.) on the Nazi-turned-American rocketeer `系` *was faithful to* the essence of early missile development, whose principal challenge *was hoisting* the weapons *into the sky*. Gravity *did* most of the rest. `主` The first warheads *capable of* steering on descent `谓` *did not arrive* until the 1980s. Even they *were limited in* how much they could move around, *making it* pretty easy *to predict* their target area.
+
+A new generation of hypersonic missiles *is changing all that*. Some *might be capable of* gliding across continents at great speed, their target *unpredictable* until seconds before impact. Russia *claims* to have a hypersonic glider on the cusp of deployment; others *are redoubling* their efforts. Many *are likely to start entering service* in the 2020s. All this *opens up* new military possibilities -- and problems.
+
+`主` Missiles that *travel* at speeds greater than Mach 5 (five times the speed of sound, or about 1.5km per second), `谓` *have existed* for some time. Intercontinental ballistic missiles (ICBMs) *re-enter the atmosphere* at up to 8km per second. `主` What is different about the hypersonic weapons in the pipeline `系` *is that* they are designed to sustain(v.) such speeds over long distances, *manoeuvre* as they do so and, in some cases, *hit targets* with pinpoint accuracy.
+
+“`主` Manoeuvrable missiles *travelling* [at many times the speed of sound] `谓` *barely leave time for* considered(v.) human responses,” *warned* Heiko Maas, Germany’s foreign minister, in March. Such weapons *may also elude* today’s arms-control agreements, which *were written* for an earlier generation of weapons.
+
+There are two basic designs: cruise missiles and gliders. Hypersonic cruise missiles *are essentially* faster versions of existing ones but powered by very different jet engines. Gliders *are pricier* and *harder to build*, but *can travel faster and farther*, and so *are receiving more attention*. Like ICBMs and von Braun’s V-2s, they *are lofted into space* and *fall to earth [unpowered]*. But unlike the old-fashioned projectiles, they *do not follow a predictable, parabolic arc* through the sky. Instead, a hypersonic glide vehicle (HGV) *detaches from the rocket* while *it is still ascending* and either *skips along the upper atmosphere* or, *having re-entered, glides through it* for hundreds or thousands of kilometres.
+
+Such gliders *have several advantages*. Ballistic missiles *are less agile* and *tend not to be very accurate*. A Minuteman III ICBM, the backbone of America’s nuclear arsenal, *has* a “circular error probable” of roughly 120m, *meaning* only half the missiles (fired) *are expected to land within* 120m of the impact point. *That is fine* for nuclear bombs *but useless for* hitting(v.) a ship or runway. Today’s cruise missiles, on the other hand, *are very accurate* -- one *could be sent through a window* -- but much slower. HGVs *combine* the speed of ballistic missiles *with* the manoeuvrability and accuracy of cruise missiles. “You can fly, you can shape your trajectory, you can turn,” says Will Roper, the US Air Force acquisitions chief.
+
+The key *is* their trajectory. An unpowered ICBM warhead *spends most of its time* in the vacuum of space where *it cannot duck or dive*, but HGVs *spend 80% of their time* below 100km, *allowing them to manoeuvre* for most of their flight. They can also *dodge(v.) ground-based radar* for longer *by hiding behind* the curvature of the Earth. Whereas American ICBMs *must fly over Russia* to hit China -- which *could lead to* dangerous misunderstandings -- gliders *could take* more circuitous routes, *avoiding* missile defences and *leaving* adversaries *uncertain of the target*.
+
+Hypersonic gliders *are almost a century* in the making. The first rocket-boosted glider *flew in Germany* in 1928. During the second world war, German engineers *tried to extend the range of* von Braun’s V-2 *by having it glide*. After the war, America and the Soviet Union *pilfered* German rocketry, *leading to* a series of technological leaps. Alpha Draco, an American HGV, *was tested to hypersonic speeds* in the 1950s and hypersonic gliding *was refined by the space race*: the space shuttle *was* a hypersonic glider, in its way.
+
+War at Mach 5
+
+Why, then, *have* hypersonic missiles *taken so long to arrive*? `主` *Extended* hypersonic flight `谓` *presents* fiendish scientific and engineering challenges. The lift-to-drag ratio of the space shuttle at hypersonic speeds *is* around one, *notes* James Acton of the Carnegie Endowment, a think-tank; an advanced glider *would require* over twice that. Higher lift-to-drag ratios *require* sharp leading edges, which, *combined with* extreme velocities, *can generate* surface temperatures *up to 2,000ºC*. That *can erode* a glider’s protective coating, *fry its electronics* and *bend it out of shape*. America’s test of one prototype in 2011 *failed* when the skin *blistered and peeled off*. The resulting shockwaves *overwhelmed* control systems [in less than two seconds].
+
+`主` The only thing that *seems to work*, says an expert at an arms company (that *is developing gliders*), `谓` *is* to cover(v.) the vehicle [in cork]. But *that is vaporised* in minutes or less, so *does not work for* long-range missiles. `主` *Dissipating* heat [as quickly as *it is built up*] `系` *is* “daunting” and “perhaps impossible” above Mach 10, he says.
+
+Great speeds also *break up* molecules in the atmosphere, *creating* a field of charged particles (or “plasma”) around the glider, which *disrupts* GPS and other signals *required for* guiding(v.) the missile to its target. Researchers “*still don’t completely understand* the physics of hypersonic flight”, *wrote* Ivett Leyva of America’s Air Force Office of Scientific Research in a 2017 paper.
+
+The big powers *have all made some progress* in surmounting(v.) these challenges. Thomas Bussing, who *heads* missile development for Raytheon, an arms company, *says* there has been a “step change” over the past decade, *thanks to* advances in computational fluid dynamics, new materials and electronic and guidance systems. `主` America, which *set aside* $2.6bn *for* hypersonic weapons in the Pentagon’s 2020 budget, `系` is probably farthest ahead. It *tested* a wedge-shaped glider in 2010 and 2011, a more successful cone-shaped design in 2011, 2014 and 2017 (the Alternate Re-entry System) and *is working on* tactical systems that *use* smaller, cheaper rockets and *could be launched from ships and aircraft*.
+
+Russia *has been working on hypersonics* for decades, *haltingly*. Its flagship Avangard glider *was flaunted publicly* by President Vladimir Putin in March 2018 and *tested to great fanfare* in December, after which *it was declared* ready for service(v.) this year -- somewhat implausibly, say experts. Pavel Podvig of the United Nations Institute for Disarmament Research *points out that* very few of the glider’s tests *were successful* and *that* the programme *was nearly shut down* four years ago.
+
+China *has tested* its own DF-ZF HGV at least nine times since 2014. Almost nothing *is publicly known* about its nimbleness or accuracy. Australia, India, France and Japan *are all chasing the pack*. “We *have lost* our technical advantage in hypersonics,” *warned* General Paul Selva, America’s highest-ranking air-force officer in January. China *has built* two to three times *as many* hypersonics-related facilities *as* America, including the world’s fastest wind tunnel for testing, and *pumped out* the most public research on the technology (716 publications in 2017, *compared with* 207 from America and 76 from Russia).
+
+Even so, Mr Acton *suggests that* the Chinese programme *is probably less advanced than* America’s. For one thing, America *is testing* its gliders over significantly longer ranges than China is. It *is also *solving* a different, harder, problem. America *wants* the ability *to deliver conventional warheads* over continental distances. It is because ICBMs *are not accurate enough* for this *that it wants HGVs*. Russia and China *are keener on* nuclear-tipped ones, partly because they *fear* their existing nukes *might one day be stopped by* improvements in America’s missile-defence shield. Their own gliders *need not be* so precise.
+
+Douglas Barrie, an expert at the International Institute for Strategic Studies, a think-tank, *forecasts that* hypersonic gliders *are likely to start entering service* in the early 2020s. The result *might be* twitchier decision-makers and a more frenzied battlefield.
+
+
+Area defences, which *guard* broad swathes of territory like continental America, *rely on* shooting down missiles [midcourse] and *on* a straightforward trajectory. Gliders *do not go as high* and *are less predictable*, hence Mr Putin’s *boast that* the Avangard *is “invulnerable to interception”* (some *reckon that* `主` interceptors placed in space `谓` *might have a shot* 原因状 as super-hot gliders *should stand out to* infra-red sensors).
+
+`主` Point defences, which *guard* individual sites *against* shorter-range missiles, `谓` *might have* more luck. Gliders *must slow down* [as they *approach* their targets]. `主` Systems like America’s THAAD `谓` *have a proven ability* to shoot down ballistic missiles, which *close in [more quickly]*.
+
+“The world *has changed dramatically*,” says Mr Bussing. “These systems *are very, very difficult to counter*(v.) and *fundamentally give the holder* a tremendous advantage over the states that don’t have them. `主` The sense of urgency *to develop ways to counter them* `系` *is* an imperative.”
+
+One American military official *suggests that* humans *will have to hand ever more control to defences* that are already semi-autonomous: “There *will be no time at all* for a man in the loop.” The uncertain payload of gliders *is* another problem. If targets *could not tell the difference between* conventional *and* nuclear gliders, or *feared that* `主` conventional ones, *through* accuracy and kinetic energy *alone*, `谓` *could threaten* important targets, they *might choose* to launch(v.) their own nuclear forces *to avoid losing them*.
+
+*There are also wider implications* for arms control. The impending(a.) collapse of the Intermediate-Range Nuclear Forces (INF) Treaty, which *barred* America and Russia *from* possessing land-based missiles of 500km-5,500km ranges, *clears the way for* both countries *to develop and deploy* new ground-launched hypersonic missiles. A separate treaty, New START, *caps* the number of longer-range weapons, but *is up for renewal* in 2021 and *looking shaky*. When it *was negotiated* in 2010, America and Russia *implicitly agreed that* gliders *would not be covered*. Former officials *say* that was a mistake.
+
+Germany *convened* an arms-control conference in Berlin on March 15th *to kick-start a discussion on* taming the risks *posed by* futuristic weapons, including hypersonic missiles, through diplomacy. Mr Maas *called for* an “international missiles dialogue” *to discuss* the challenge.
+
+The UN’s disarmament office *has proposed that* rivals *could swap information on* test flights and *take other confidence-building measures*. Corentin Brustlein of IFRI, a French think-tank, *suggests* capping(v.) glider numbers. Yet America and Russia *are enmeshed(a.) in worsening(a.) disputes over* today’s weapons, *let alone* tomorrow’s, and China *shows little interest in* tying its hands. Gliders *are likely(a.) to enjoy* a fair geopolitical wind.
+
+---

@@ -1,0 +1,52 @@
+= 014
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../../../../myAdocCss.css
+
+'''
+
+
+- (014.) Although some experiments show (v.) that, as an object becomes familiar, `主` its _internal 内部的，体内的 representation_ 表征；表现  `谓`  *becomes more holistic* 整体的，全面的 /and the _recognition process_ 识别过程 *correspondingly 相应地 more parallel* (a.)并行的，同时发生的, _the weight of evidence_ 证据的分量;综合来看证据倾向于 seems to support (v.) the _serial 一连串（系列）的 hypothesis_ 串行假说, at least for objects that are not notably (adv.)明显地，显著地；尤其，特别 simple and familiar. +
+
+[.my1]
+.案例
+====
+- (014.) Although some experiments show that, as an object becomes familiar, its internal representation becomes more holistic and the recognition process correspondingly more parallel, the weight of evidence seems to support the serial hypothesis, at least for objects that are not notably simple and familiar.
+
+尽管一些实验表明，随着一个物体变得熟悉，其内部表征变得更加整体化，识别过程也相应地更加并行，但现有证据似乎支持"序列假说"，至少对于那些"并非特别简单和熟悉的物体"而言。
+
+.*the weight of evidence* seems to support (v.) ...
+
+在这里，weight 不是物理重量，而是 “重要性、影响力、说服力”​ 的隐喻。
+
+the weight of：...的分量/重要性。 +
+evidence：证据。 +
+**组合起来：“证据所具有的分量”。**这意味着说话者已经权衡了正反两方面的证据。
+
+所以，当你看到 the weight of evidence 时，可以理解成：“经过慎重考量，目前更有力的证据指向...”。
+
+
+.这句话表达了什么?
+
+
+这句话探讨的是: 我们的大脑是如何“认出”一个物体的？
+具体来说，它在争论大脑是**“一截一截地看”（串行处理），还是“一眼看全局”**（并行/整体处理）。
+
+- 串行处理：​ 像一份检查清单，大脑依次分析物体的各个特征或部分，最后汇总得出结论。速度较慢，需要注意力。
+- 并行处理：​ 像一张同时展开的网络，大脑同时处理物体的所有特征。速度极快，几乎是自动的。
+
+- "虽然"观点： 一些实验发现，当我们对一个物体越来越熟悉（familiar）时，大脑对它的印象（internal representation）会变得"更整体化"（holistic）。这时候，识别过程会变得"更并行化"（parallel）。 +
+
+.. 例子： 你刚认识一个新同事，可能要盯着他的鼻子、眼睛看半天才能确认；但看到你老妈，哪怕只是一个模糊的背影，你也能瞬间认出来。 +
+.. 整体化：​ 指大脑不再将物体分解为独立的特征（如眼睛、鼻子、轮子、把手），而是将其作为一个统一的整体“完形”来存储和调用。就像认出一个老朋友的脸，你不是先看眼睛再看鼻子，而是瞬间认出“那是张三”。
+
+- "但是"观点： 尽管有上述发现，但证据的权重（weight of evidence）似乎还是支持“串行假说（serial hypothesis）”。 +
+适用范围： 这种“串行扫描”的模式，尤其适用于那些"不特别简单, 且不特别熟悉的物体"。
+
+
+
+
+====
+
+'''

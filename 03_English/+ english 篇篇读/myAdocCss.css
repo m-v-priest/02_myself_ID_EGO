@@ -1,0 +1,300 @@
+/* 下面是我自定义的全局变量 */
+:root {
+    --myGrayColor: rgb(240, 240, 240);
+    /* 背景颜色 */
+    --myGrayColor2: rgb(190, 190, 190);
+    /*字体颜色*/
+    --myFontSmallSize: 0.7em;
+}
+
+
+/* toc类, 专门用于将目录居左侧固定, 而不是固定在页面头部.
+注意: 这个自定义类, 在网页预览时是不错的, 但在用chrome打印成 pdf时, 所有页面左侧也会有toc部分, 浪费空间.
+ 所以, 你在打印pdf时, 必须把这个自定义toc类, 去掉, 使用 asciidoc 自带默认的 toc 才行.*/
+
+/*.toc {
+/*    position: fixed;
+/*    left: 0;
+/*    top: 0;
+/*    width: 250px; /* 目录栏宽度 */
+/*    height: 100vh; /* 占满整个屏幕高度 */
+/*    background: #f8f9fa;
+/*    padding: 20px;
+/*    overflow-y: auto;
+/*    border-right: 1px solid #ddd;
+/*}
+
+/* sect1 是页面正文包含的所有内容, 即你编辑的所有图文内容部分. */
+/*.sect1 {
+/*    margin-left: 270px; /* 让内容从 TOC 右侧开始 */
+/*    padding: 40px;
+/*}
+
+
+
+
+
+
+/* 移动正文，避免被 TOC 遮挡 */
+body {
+    margin: 0 !important;       /* 保持 body 不偏移 */
+    padding: 0 !important;
+}
+
+#content {
+    margin-left: 270px !important;  /* 只移动正文 */
+    padding: 20px !important;
+    
+    /* === 关键修正：新增/修改以下行 === */
+    /* 计算可用空间：100vw（视口宽度）减去 270px 的 TOC 宽度。 
+       同时减去左右 20px 的 padding (20px * 2 = 40px) */
+    max-width: calc(100vw - 270px - 40px) !important; 
+    
+    /* 强制隐藏任何可能残留的水平滚动条，交给子元素处理 */
+    overflow-x: hidden !important;
+}
+
+
+
+
+#toc ul li, .toc ul li {
+    margin: 5px 0 !important;
+}
+#toc a, .toc a {
+    text-decoration: none !important;
+    color: #333 !important;
+}
+#toc a:hover, .toc a:hover {
+    color: #007bff !important;
+}
+
+
+
+
+/* my1类, 专门用于单词高阶双解 */
+.my1 {
+    font-size: var(--myFontSmallSize);
+    /* 设置my1类的 字号大小 */
+    background-color: var(--myGrayColor);
+    border-style: solid;
+    border-color: var(--myGrayColor2);
+    border-width: 1px;
+    padding: 10px;
+    margin-left: 20%;
+}
+
+
+/* my2类, 专门用于中文翻译参考 */
+.my2 {
+    font-size: var(--myFontSmallSize);
+    /* 设置my1类的 字号大小 */
+    color: var(--myGrayColor2);
+    margin-block-start: -1.2em;
+    margin-left: 20%;
+}
+
+
+
+/* my1类, 专门用于表格 */
+.my3 {
+    font-size: 12;
+    /* 设置my1类的 字号大小 */
+    background-color: var(--myGrayColor);
+    border-style: solid;
+    border-color: var(--myGrayColor2);
+    border-width: 1px;
+    padding: 10px;
+    /* margin-left: 20%;*/
+}
+
+
+/* my4类, 专门用于表格 */
+.my4 {
+    font-size: var(--myFontSmallSize);
+    /* 设置my1类的 字号大小 */
+    border-style: solid;
+    border-color: var(--myGrayColor2);
+    border-width: 1px;
+    padding: 10px;
+    /* margin-left: 20%;*/
+}
+
+
+.myRed {
+    color: white;
+    /* 白色字体 */
+    background-color: #e34838;
+    /* 红色背景 */
+
+}
+
+
+/*斜体字*/
+em {
+    color: rgb(0, 0, 0);
+    /* 白色字体 */
+    background-color: #98beb47a;
+    /* 红色背景 */
+}
+
+
+
+.underline {
+    text-decoration: underline;
+}
+
+.title {
+    border-top: dashed 1px var(--myGrayColor2);
+    color: #2c38ba;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+p {
+    line-height: 150%;
+}
+
+
+
+/* 给文字加边框. 在asciidoc文件中, 写的时候要这样写: I [.boxed]#like# you */
+.boxed {
+  border: 1px solid #000;
+  padding: 2px 2px;
+  border-radius: 0px;
+}
+
+
+
+
+
+
+
+/* 针对所有表格容器 */
+.tableblock {
+    /* 1. 确保表格容器不会超过其父元素（#content）的可用宽度 */
+    max-width: 100% !important; 
+    
+    /* 2. 当表格内容超出时，让容器自身出现横向滚动条 */
+    overflow-x: auto !important; 
+    
+    /* 3. 隐藏垂直滚动条，如果不需要的话 */
+    overflow-y: hidden !important; 
+}
+
+/* 确保表格自身不要被强制设定为 100% 宽度，使其能超宽 */
+table {
+    width: auto !important; 
+    min-width: 100% !important; /* 如果表格内容少，至少占满容器 */
+    /* 移除任何可能固定表格宽度的设置 */
+}
+
+
+
+
+
+
+
+/* 1) TOC 容器：允许横向 + 纵向滚动（出现横向滚动条在底部） */
+#toc, .toc {
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 250px !important;
+    height: 100vh !important;
+    /* 允许横向与纵向滚动（必要时显示横向滚动条） */
+    overflow-x: auto !important;
+    overflow-y: auto !important;
+    background-color: #f8f9fa !important;
+    border-right: 1px solid #ddd !important;
+    padding: 20px !important;
+    box-sizing: border-box !important;
+    z-index: 9999 !important;
+    /* 防止滚动时出现水平滚动条遮挡最后一行（可选） */
+    -webkit-overflow-scrolling: touch !important;
+}
+
+/* 2) 目录项不换行：整行显示，文本超宽时可横向滚动 */
+#toc a, .toc a {
+    display: inline-block !important;    /* 保证 white-space 生效 */
+    white-space: nowrap !important;       /* 禁止换行 */
+    overflow: visible !important;         /* 让文字超出时不会被截断 */
+    text-overflow: clip !important;       /* 不显示省略号，直接横向滚动 */
+    text-decoration: none !important;
+    color: #333 !important;
+}
+
+/* 如果你希望链接整体是块级元素（整行可点击），也可使用：
+#toc a { display: block; white-space: nowrap; }
+*/
+
+/* 3) 为嵌套 UL 保留缩进，但不要让它把内容挤成多行 */
+#toc ul { padding-left: 0 !important; list-style: none !important; }
+#toc ul ul { padding-left: 48px !important; }
+#toc ul ul ul { padding-left: 48px !important; }
+#toc ul ul ul ul { padding-left: 48px !important; }
+
+/* 4) 条目行高与间距微调（可按需调整） */
+#toc li { margin: 4px 0 !important; line-height: 1.2 !important; }
+
+
+
+
+
+/* 打印模式下调整 TOC 位置 */
+@media print {
+
+  /* 1️⃣ 让 TOC 出现在页面顶部 */
+  #toc, .toc {
+    display: block !important;            /* 显示 TOC */
+    position: relative !important;        /* 不固定在侧边，而是随页面流动 */
+    width: 100% !important;               /* 占满页面宽度 */
+    height: auto !important;              /* 高度自适应内容 */
+    background-color: #f8f9fa !important;
+    border: 1px solid #ddd !important;
+    padding: 10px 20px !important;
+    margin-bottom: 20px !important;       /* 和正文间隔 */
+    box-sizing: border-box !important;
+    overflow: visible !important;
+  }
+
+  /* 2️⃣ 调整 TOC 内部列表格式，使其水平或紧凑显示 */
+  #toc ul, .toc ul {
+    list-style: none !important;
+    padding-left: 48px !important;
+  }
+
+  #toc li, .toc li {
+    display: block !important;    /* ✔ 每个目录占一整行，按行排 */
+    margin-right: 15px !important;
+  }
+
+  /* 3️⃣ 让正文不被挤压 */
+  #content {
+    margin: 0 !important;          /* 取消 margin-left */
+    padding: 0 20px !important;    /* 左右 padding 可自行调整 */
+    max-width: 100% !important;    /* 占满页面宽度 */
+  }
+
+  /* 4️⃣ 页面背景设为白色（打印友好） */
+  body {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  
+  
+  
+  /* 确保打印 PDF 时目录的链接保留可点击 */
+  a[href^="#"] {
+    text-decoration: underline !important;
+    color: blue !important;
+  }
+}

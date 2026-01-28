@@ -1,0 +1,1254 @@
+
+
+= 2025.03.10 The WTO is in trouble. Econ 101 to the rescue
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: myAdocCss.css
+
+'''
+
+== 释义
+
+=== 开场与背景介绍
+The World Trade Organization is really struggling 挣扎；努力. The last major effort 重大努力 by its member countries 成员国 to do big multilateral negotiations 多边谈判, the Doha Round 多哈回合, fell flat 失败；落空. Doha had to be abandoned 放弃；丢弃 without a deal 协议；交易 after more than a decade of talks 超过十年的谈判. Frustrated 感到沮丧；受挫 in the early 2010s, major member countries started looking elsewhere 到别处寻找出路. Things like TPP (Trans-Pacific Partnership 跨太平洋伙伴关系协定), TTIP (Transatlantic Trade and Investment Partnership 跨大西洋贸易与投资伙伴协定), and RCEP (Regional Comprehensive Economic Partnership 区域全面经济伙伴关系协定)—big mega-regional deals 大型区域性协议—were where countries went to negotiate 谈判 instead of the WTO, to try to tackle 解决；处理 all of the new trade issues 新贸易问题 that weren’t going anywhere 毫无进展 in Geneva 日内瓦.
+
+中文翻译：
+
+*世界贸易组织正面临严峻的挣扎。其成员国最后一次重大努力，即进行大型多边谈判的"多哈回合"，以失败告终。经过超过十年的谈判，多哈回合不得不被放弃，未达成任何协议。在2010年代初感到沮丧的主要成员国, 开始到别处寻找出路。诸如"跨太平洋伙伴关系协定"（TPP）、"跨大西洋贸易与投资伙伴协定"（TTIP）和"区域全面经济伙伴关系协定"（RCEP）这样的大型区域性协议，成为各国选择谈判的替代方案，而非世界贸易组织，以试图解决在日内瓦毫无进展的各种新贸易问题。*
+
+[.my1]
+.title
+====
+.Doha Round
+The Doha Development Round or Doha Development Agenda (DDA) is the trade-negotiation round of the World Trade Organization (WTO) which commenced in November 2001 under then director-general Mike Moore. Its objective was to lower trade barriers around the world, and thus increase global trade.
+
+多哈发展回合或多哈发展议程( DDA ) 是世界贸易组织(WTO) 的贸易谈判回合，于2001 年 11 月在时任总干事迈克·摩尔的领导下启动。其目标是降低全球贸易壁垒，从而增加全球贸易。2008年 7 月谈判破裂后，谈判进展停滞。
+====
+
+More recently 最近, you have China 中国 and worries 担忧；忧虑 that its massive 非凡的；巨大的 non-market economy 非市场经济 is just so different 如此不同 that maybe China doesn’t fit into 适应；融入 the rules-based trading system 基于规则的贸易体系. Maybe the United States 美国 needed to push for 推动；争取 some other non-WTO way 非WTO方式 of dealing with 处理；应对 China. And then there is climate change 气候变化. Member countries have failed to engage 未能参与；未能调动 the WTO on that pivotal 关键的；枢纽的 global issue 全球议题. The WTO really is under threat 受到威胁.
+
+中文翻译：
+
+**最近，人们对中国及其巨大的"非市场经济"表示担忧，**因其与众不同，**可能无法适应基于规则的贸易体系。或许美国需要推动某种非WTO的方式来应对中国。**此外，**还有气候变化这一问题。成员国未能成功调动WTO参与这一关键的全球议题。**世界贸易组织确实正面临威胁。
+
+To help us think about the future 未来 and ways 方法；途径 to fix 修复；解决 the WTO, I wanted to better understand 更好地理解 its past 过去. This episode 这一集 explores 探索；探讨 the economic principles 经济原则 behind the World Trade Organization 世界贸易组织, as well as its predecessor 前身, the GATT—the General Agreement on Tariffs and Trade 关税及贸易总协定—the basic Econ 101 经济学基础 of the WTO, why we need it 为什么需要它, and how it works 它如何运作.
+
+中文翻译：
+
+为了帮助我们思考未来, 以及修复WTO的方法，我希望更好地理解其过去。这一集探讨了"世界贸易组织"背后的经济原则，以及其前身——"关税及贸易总协定"（GATT），包括WTO的经济学基础知识、我们为何需要它以及它如何运作。
+
+To help us do all that 做到这一切, I will be joined by 加入；陪伴 a very special guest 非常特别的嘉宾. “How long have you been an economist 经济学家?”
+
+“I got my PhD 博士学位 in 1985, so it’s been a long, long time 很长很长时间.”
+
+That is Bob Staiger 鲍勃·斯泰格. Bob is an economics professor 经济学教授 at Dartmouth College 达特茅斯学院. No economist has written more about 撰写更多关于 the WTO over the last 30 years 在过去30年中 than Bob Staiger. And Bob has an incredible 难以置信的；惊叹的 new book titled 标题为 A World Trading System for the 21st Century 21世纪的世界贸易体系, some of which I have asked him to share with us 与我们分享 today 今天.
+
+“Hi, Bob!”
+
+“Hi, Chad!”
+
+You are listening to 收听 an episode 这一集 of Trade Talks 贸易对话, a podcast 播客 about the economics 经济学 of trade 贸易 and policy 政策. I’m your host 主持人, Chad Bown 查德·鲍恩, the Reginald Jones Senior Fellow 雷金纳德·琼斯高级研究员 at the Peterson Institute for International Economics 彼得森国际经济研究所在 Washington 华盛顿. For our listeners 听众, if you make it all the way to 坚持到 the end of this episode 这一集的结尾, you will hear more about 听到更多关于 my own personal relationship 个人关系 with Bob Staiger.
+
+中文翻译：
+
+为了帮助我们做到这一切，我将邀请一位非常特别的嘉宾加入。“你做经济学家多久了？”
+
+“我在1985年获得了博士学位，所以已经过去了很长很长时间。”
+
+这就是鲍勃·斯泰格。鲍勃是达特茅斯学院的经济学教授。在过去30年中，没有哪位经济学家比鲍勃·斯泰格撰写了更多关于WTO的内容。鲍勃有一本令人惊叹的新书，标题为《21世纪的世界贸易体系》，我邀请他今天与我们分享其中的部分内容。
+
+“嗨，鲍勃！”
+
+“嗨，查德！”
+
+您正在收听《贸易对话》播客的这一集，这是一个关于"贸易"和"政策经济学"的节目。我是您的主持人查德·鲍恩，华盛顿"彼得森国际经济研究所"的雷金纳德·琼斯高级研究员。对于我们的听众，如果您坚持听到这一集的结尾，您将了解到更多关于我与鲍勃·斯泰格个人关系的内容。
+
+=== 第一部分：WTO背后的经济理论
+[Music]
+
+“Part one: the economic theory 经济理论 behind the WTO. I want to begin by talking about free trade 自由贸易. Maybe let’s start with 从……开始 the WTO itself 本身. Does the World Trade Organization indicate 表明；显示 anywhere 任何地方 that its objective 目标 is to get countries 使国家 to impose 施加；实施 zero tariffs 零关税 and get them all the way to 完全达到 free trade 自由贸易?”
+
+“The short answer 简短的回答 to that question is no 否. If you look at 查看 the WTO website WTO网站, you’ll find 发现 a tab 标签 that says ‘What We Stand For 我们代表什么,’ and you might expect 期待 a statement 声明 there 那里. But in fact 事实上, that statement never mentions 从未提及 the goal 目标 of free trade 自由贸易. It does mention 确实提到 the goal of freer trade 更自由的贸易, but never says 从未说 free trade is the goal, even aspirationally 甚至作为愿望. And then a bit more authoritative 更权威的 source 来源 would be to go to 查阅 the actual legal text 实际法律文本 of the WTO or the GATT and look at 查看 the preamble 前言. The preamble is the legal statement 法律声明 by the member governments 成员国政府 of what exactly their objectives are 他们的目标究竟是什么, and in the preamble, there is no mention 没有提及 of free trade as a goal 作为目标. There’s a mention of reducing tariffs 提到降低关税—substantially 大幅地 reducing tariffs—but no mention of free trade 没有提及自由贸易.”
+
+中文翻译：
+
+第一部分：WTO背后的经济理论。我想从讨论自由贸易开始。或许我们可以从WTO本身入手。*"世界贸易组织"在任何地方表明, 其目标是使国家实施零关税, 并完全达到自由贸易吗？*
+
+对这个问题的简短**回答是否定的。**如果您查看**WTO网站，您会发现一个标签写着‘我们代表什么’，**您可能会期待那里有一份声明。但事实上，**该声明从未提及"自由贸易"的目标。**它确实提到了"更自由的贸易"这一目标，但从未说"自由贸易"是目标，甚至作为一种愿望也没有。*然后，一个更权威的来源是, 查阅WTO或GATT的实际法律文本，并查看其中的前言。前言是成员国政府关于其目标究竟是什么的法律声明，在前言中，没有提及"自由贸易"作为目标。提到了"降低关税"——大幅降低关税*——但没有提及"自由贸易"。
+
+“So the WTO doesn’t say free trade 自由贸易 anywhere 任何地方. Maybe it’s not at all about 完全不关于 economics 经济学 then 那么. Maybe it’s all about 完全关于 lawyers 律师 or diplomats 外交官 or military alliances 军事联盟?”
+
+“That’s certainly possible 当然可能, but I think it would be pretty weird 相当奇怪 if that were true 如果那是真的, for at least three reasons 至少三个理由. First of all 首先, the WTO is about the international economic relations 国际经济关系 between countries 国家之间, and so if it did not have some economic principles 经济原则, that would be quite strange 相当奇怪. Second of all 其次, if we look at 查看 the 75-year history 75年历史 of the GATT, it’s been extremely successful 极其成功 in liberalizing trade 贸易自由化, and so if there weren’t some economic principles behind it 如果背后没有一些经济原则, that would be surprising 令人惊讶. And third 第三, a principal architect 主要设计师 of the GATT was the economist 经济学家 and future Nobel laureate 未来的诺贝尔奖得主 James Meade 詹姆斯·米德. So again 因此再次, the idea 想法 that economics is not behind it 经济学并非其基础 seems unlikely 不太可能.”
+
+中文翻译：
+
+所以WTO在任何地方都没有提到"自由贸易"。那么，它可能完全不关于经济学吗？也许它完全是关于律师、外交官或军事联盟？
+
+这当然是可能的，但我认为如果那是真的，会相当奇怪，至少有三个理由。**首先，WTO关注的是国家之间的国际经济关系，**因此如果它没有一些经济原则，那会相当奇怪。其次，如果我们查看GATT的75年历史，它在"贸易自由化"方面极其成功，因此如果背后没有一些经济原则，那会令人惊讶。第三，**GATT的主要设计师是经济学家、**未来的诺贝尔奖得主詹姆斯·米德。因此再次认为"经济学并非其基础"的想法, 似乎不太可能。
+
+“These are clues 线索 that there is likely to be 很可能存在 some serious economics 严肃的经济学 behind the GATT and behind the WTO. But the idea 想法 that the WTO is not about the economic efficiency 经济效率 case for free trade 自由贸易的案例—is that a good or a bad thing 好事还是坏事?”
+
+“So as an economist 经济学家, I actually think 实际上认为 it’s a good thing 好事 that the WTO, and GATT before it 在它之前, is not based on 以……为基础 the case for free trade 自由贸易的案例. Because that case, as economists know 如经济学家所知, is based on a lot of strong assumptions 许多强假设 that typically 通常 are not going to hold 不会成立 in the real world 现实世界 for many of the member countries 许多成员国 of the GATT and the WTO. Those assumptions include 包括 things like governments could not be wanting to use tariffs 政府不想使用关税 for distributional purposes 分配目的—income distribution 收入分配—either because they don’t care about 不关心 the income distribution in their country 国内收入分配 or because they have better instruments 更好的工具 to achieve that 实现这一点. And while some governments may 一些政府可能—well, the US could be a good example 美国可能是一个好例子, possibly Europe 可能还有欧洲—many of the WTO member governments 许多WTO成员国政府, two-thirds of which are developing countries 其中三分之二是发展中国家, are not going to have these instruments 不会有这些工具. So the assumptions that are required for 需要用于 the economist’s case for free trade 经济学家关于自由贸易的案例 are really suspect 真正可疑 when applied to 应用于 the WTO membership WTO成员国. And if that were the basis 如果那是基础 for the WTO’s claim of legitimacy 合法性主张 as the constitution 宪法 of the world trading system 世界贸易体系, I would be suspicious of 怀疑 that claim 那种主张.”
+
+中文翻译：
+
+这些是线索，表明GATT和WTO背后, 很可能存在一些严肃的经济学。但WTO并非基于自由贸易的经济效率案例这一想法——是好事还是坏事？
+
+作为一名经济学家，我实际上认为, WTO及其之前的GATT, **不以"自由贸易"的案例为基础, 是一件好事。因为**如经济学家所知，**这一案例建立在许多强假设之上，这些假设在现实世界中对GATT和WTO的许多成员国, 通常不会成立。**这些假设包括, "政府不想使用关税来实现分配目的——收入分配——要么是因为他们不关心国内的收入分配，要么是因为他们有更好的工具来实现这一点。"虽然一些政府可能——比如美国可能是一个好例子，可能还有欧洲——但许多WTO成员国政府，其中三分之二是发展中国家，不会有这些工具。因此，经济学家关于自由贸易案例所需的假设, 在应用于WTO成员国时确实是可疑的。如果那是WTO作为世界贸易体系"宪法合法性"主张的基础，我会对这种主张表示怀疑。
+
+“If the economic basis 经济基础 for the WTO is not free trade 自由贸易, then what is it 那么是什么?”
+
+“I think the basis 基础 for the WTO, in terms of economics 经济学角度, is something far more general 更为通用的 than the case for free trade 自由贸易的案例. And that is the case for countries 国家 to internalize 内化；吸收 the externalities 外部性；外部效应 that they impose 施加；强加 on each other 彼此 when they choose their trade policies 贸易政策. And by externalities 外部性；外部效应, what I mean is the effects 影响；效应 that are imposed on other countries 对其他国家施加 when a country unilaterally 单方面地 makes tariff 关税 choices 选择. And when a country takes account of 考虑；顾及 the international externalities 国际外部效应 that it’s imposing on its trading partners 贸易伙伴 through its tariff choices 通过其关税选择, that’s going to naturally 自然地 lead the country to adopt 采纳；采取 lower tariffs 较低的关税. But there’s no necessary reason 没有必然理由 why those tariffs should be driven all the way to 完全达到 zero 零.”
+
+中文翻译：
+
+“如果WTO的经济基础不是自由贸易，那么是什么？”
+
+我认为，从经济学角度看，WTO的基础, 比自由贸易的案例要更为通用。那就是国家需要内化它们在选择贸易政策时, 彼此施加的外部效应。我所说的外部效应，是指一个国家单方面做出关税选择时, 对其他国家施加的影响。当一个国家考虑通过其关税选择, 对其贸易伙伴施加的国际外部效应时，这将自然引导该国采取较低的关税。*但没有必然的理由说明, 这些关税必须完全达到零。*
+
+“The economic case 经济案例 for the WTO requires imagining 想象 a world without it 没有它的世界. Without a WTO, governments would implement 执行；实施 policies 政策—things like tariffs 关税—that impose costs 施加成本 on their trading partners 贸易伙伴. Some of these costs are externalities 外部性；外部效应; these are costs the country is not thinking about 不考虑；不顾及 when it makes its tariff decisions 关税决定. The economic purpose 经济目的 of the WTO is to get rid of 消除；摆脱 those costs.”
+
+中文翻译：
+
+“WTO的经济案例, 需要我们想象一个没有它的世界。如果没有WTO，政府会实施政策——比如关税——从而对贸易伙伴施加成本。其中一些成本是外部效应；这些是该国在做出关税决定时不考虑的成本。WTO的经济目的是消除这些成本。”
+
+“Okay, let’s be specific 具体的 then 那么 and walk through 详细讲解；逐步分析 a trade policy 贸易政策 example to really understand 真正理解 how this international externality 国际外部效应 can come up 出现；发生. Let’s suppose 假设 I’m the European Union 欧盟, you’re the United States 美国. You export 出口 automobiles 汽车 to me, and I, the European Union, am thinking about imposing 施加；强加 a tariff 关税.”
+
+“Well, the European Union will be thinking about its own interests 利益 and how it’s affecting its import-competing 进口竞争的 car producers 汽车生产商 and its workers 工人 and various other things 其他各种事物. But what it’s not probably thinking about 可能不会考虑 is how it’s impacting 影响；冲击 the US. And on the US side 美国这边, the car producers who were exporting cars to Europe 向欧洲出口汽车的生产商 are going to be hurt by 受到……的伤害 those tariffs, and the workers who are working in the industries 行业 that are producing cars and car parts 汽车零部件 for export to Europe 为出口到欧洲 are going to be hurt by those tariffs. And that’s an international externality 国际外部效应 that the European Union is not naturally 自然地 going to take account of 考虑；顾及 in its decision 决定.”
+
+中文翻译：
+
+好吧，那么让我们具体一些，详细讲解一个贸易政策例子，以真正理解这种"国际外部效应"是如何发生的。*假设我是欧盟，你是美国。你向我出口汽车，而我，欧盟，正在考虑施加一个关税。*
+
+**那么，欧盟会考虑自身的利益，以及这如何影响其与进口竞争的本国汽车生产商、工人和其他各种事物。但它可能不会考虑这对美国的影响。在美国这边，向欧洲出口汽车的生产商, 将受到这些关税的伤害，**而在生产汽车和汽车零部件, 以出口到欧洲的行业中工作的工人, 也将受到这些关税的伤害。*这就是欧盟在其决定中, 自然不会考虑的"国际外部效应"。*
+
+“That international externality 国际外部效应 arises 出现；产生 because, in the absence of 缺乏；没有 a WTO, Europe imposes a tariff 关税 that is too high 过高. If there were no forum 论坛；平台 for the US government 美国政府 to come to Brussels 布鲁塞尔 and tell the European Union 欧盟, ‘Hey, you’re hurting our car producers and our car workers 你在伤害我们的汽车生产商和工人,’ then the EU would naturally 自然地 choose a tariff that doesn’t take that foreign harm 外国损害 into account 考虑；顾及. The EU would impose a tariff that is just too high 过高. The forum that the GATT-WTO provides is exactly a forum 正是这样一个论坛 where the US can give voice to 表达；提出 those complaints 投诉；抱怨 to the European Union when it’s making its tariff decisions 关税决定.”
+
+中文翻译：
+
+**这种"国际外部效应"之所以出现，是因为在缺乏WTO的情况下，欧洲施加的关税过高。如果没有一个论坛让美国政府前往布鲁塞尔并对欧盟说，‘嘿，你们正在伤害我们的汽车生产商和工人’，那么欧盟自然会选择一个不考虑外国损害的关税。欧盟会施加一个过高的关税。**GATT-WTO提供的论坛, 正是这样一个平台，美国可以在欧盟做出关税决定时, 向其表达这些投诉。
+
+“Of course 当然, if the US just says 只是说, ‘You’re hurting us 你在伤害我们,’ that’s not going to affect 影响；改变 the European Union’s decision 决定. So the US has to have some way 有某种方式 to make an offer 提出提议 to the European Union of something of value 有价值的东西 that the European Union will accept 接受 in exchange for 作为……的交换 lowering its tariffs 降低关税 from what it otherwise would choose 否则会选择的水平.”
+
+“The US would need to make Europe an offer 提议. Starting in 1947 从1947年开始, that is how the GATT worked GATT是这样运作的. Countries like the US and those in Europe 美国和欧洲国家 would get together 聚集；聚会 periodically 定期地 in something called negotiating rounds 谈判回合 to coordinate 协调 mutual 相互的 tariff reductions 关税削减.”
+
+中文翻译：
+
+*当然，如果美国只是说，‘你们在伤害我们’，这不会影响欧盟的决定。因此，美国必须有某种方式向欧盟提出一个有价值的东西的提议，欧盟会接受这个提议，以换取降低其原本会选择的关税。*
+
+美国需要向欧洲提出一个提议。从1947年开始，*这就是GATT的运作方式。像美国和欧洲国家这样的国家会定期聚集在一起，在所谓的"谈判回合"中, 协调相互的关税削减。*
+
+“Well, it could well be 很可能 that the US is also making tariff decisions 关税决定 of its own 自己的 that are harming 伤害 European Union interests 欧盟利益. And it’s exactly that reciprocal 相互的 exchange 交换 of tariff cuts 关税削减 that the two countries could negotiate 谈判 in a GATT-WTO forum GATT-WTO论坛 that is the basis 基础 of the way that the GATT and the WTO internalize 内化；吸收 these international policy externalities 国际政策外部效应.”
+
+中文翻译：
+
+*很可能，美国也在做出自己的关税决定，从而伤害欧盟的利益。正是这种相互的关税削减交换，两个国家可以在GATT-WTO论坛中进行谈判，这是GATT和WTO内化这些国际政策外部效应的基础。*
+
+“So it seems like 看起来像, from the way we’ve framed it 我们构建的方式, that this negotiation 谈判 could be beneficial 有益的 to both countries 两国—both the United States and the EU 美国和欧盟. But how do we know 我们怎么知道? What would it take 需要什么 for us to actually be sure 真正确定 that there are gains 收益 to be made here 这里可以获得 and that we really do need 我们确实需要 a WTO to solve a problem 解决问题?”
+
+“That’s an important question 重要的问题, and the reason that it’s an important question 它重要的原因 is that there has to be some inefficiency 某种低效率 that can be corrected 可以被纠正 by these negotiations 这些谈判 if both countries are going to walk away happy 如果两国都能满意地离开. Because otherwise 否则, you can’t make the pie bigger 无法把蛋糕做大, and both countries can’t get a bigger slice of the pie 两国都无法分到更大的蛋糕. Unfortunately 不幸的是, the kind of international externalities 国际外部效应 that I’m describing 我描述的 are what economists call 经济学家称之为 pecuniary externalities 货币外部效应. They travel through 通过 markets 市场, and they travel through prices 价格. So they’re different than 与……不同 the externalities 外部效应 that we might be considering 考虑 in a global carbon agreement 全球碳协议, where the externality travels through the atmosphere 通过大气—it doesn’t travel through prices 不通过价格.”
+
+中文翻译：
+
+“所以，从我们构建的方式来看，这场谈判似乎对两国——美国和欧盟——都有益。但我们怎么知道呢？需要什么才能让我们真正确定这里可以获得收益，并且我们确实需要WTO来解决问题？”
+
+这是一个重要的问题，它重要的原因在于，如果两国都能满意地离开，**这些谈判必须能够纠正某种低效率。**因为**否则，如果你无法把蛋糕做大，两国就都无法分到更大的蛋糕。**不幸的是，我描述的这种国际外部效应, 是经济学家称之为"货币外部效应"的东西。它们通过市场和价格传播。因此，它们与我们在全球碳协议中可能考虑的"外部效应"不同，后者的"外部效应"通过大气传播，而不是通过价格。
+
+“In trade 贸易, these externalities 外部效应 that we’re talking about here 我们这里讨论的—when the European Union 欧盟 is imposing a tariff 施加关税 that is blocking 阻碍 imports 进口 from the US 从美国 and therefore 因此 hurting US car producers 伤害美国汽车生产商 and US workers 美国工人—that’s traveling through trade 通过贸易 and therefore traveling through markets 通过市场. But economists know 经济学家知道 that pecuniary externalities 货币外部效应 don’t normally 通常不 cause inefficiencies 导致低效率.”
+
+“So the key remaining question 关键的剩余问题是: where is the inefficiency 低效率在哪里 that could create the basis 创造基础 for a mutually beneficial 互利 agreement 协议 in the GATT-WTO? And the answer is 答案是, there is one special case 一种特殊情况 where the pecuniary externalities 货币外部效应 associated with 与……相关的 a country’s tariff choices 国家的关税选择 do create inefficiencies 确实导致低效率. And that’s when the country choosing the tariff 选择关税的国家 is large enough 足够大 in world markets 世界市场 to be able to affect 影响 foreign exporter prices 外国出口商价格—or, in other words 换句话说, the country has market power 市场力量 in world markets 世界市场.”
+
+中文翻译：
+
+在贸易中，我们这里讨论的这些"外部效应"——当欧盟施加关税, 阻碍从美国的进口，从而伤害美国汽车生产商和美国工人时——是通过贸易传播的，因此是通过市场传播的。*但经济学家知道，"货币外部效应"通常不会导致低效率。*
+
+**因此，关键的剩余问题是：低效率在哪里，**它能为GATT-WTO中的互利协议创造基础吗？*答案是，有一种特殊情况*，与国家关税选择相关的货币外部效应, *确实会导致低效率。那就是当选择关税的国家在世界市场上足够大，能够影响外国出口商价格时——换句话说，该国在世界市场上拥有市场力量。*
+
+“This is incredibly important 极其重要. The key purpose 关键目的 of the GATT and WTO is to create a forum 创建一个论坛 for big countries 大国 that have buying power 购买力 in world markets 世界市场 to get together 聚集在一起. In the absence of 缺乏；没有 that forum 那个论坛, each country would implement 执行；实施 its own import tariff 进口关税 that was too high 过高. Each would impose a ‘beggar-thy-neighbor’ policy ‘以邻为壑’政策 that creates costs 产生成本—an international externality 国际外部效应—on its trading partner 贸易伙伴.”
+
+中文翻译：
+
+这极其重要。*GATT和WTO的关键目的, 是为在世界市场拥有购买力的大国, 创建一个聚集在一起的论坛。如果缺乏那个论坛，每个国家会实施过高的进口关税。每个国家会施加一种‘以邻为壑’政策，对其贸易伙伴产生成本——即国际外部效应。*
+
+“So, back to 回到 our original example 最初的例子, I, as the EU 作为欧盟, would have to be a big consumer 大消费者 of automobiles 汽车. So that when I raised my tariffs 提高关税, the impact 影响 on you, the American exporter 美国出口商, was you had to accept 不得不接受 a lower price 较低价格 for the cars that you’re selling into my market 你卖到我市场的汽车. I’m a really big consumer 大消费者 of these cars.”
+
+“Exactly 正是如此. And what you’ve just described 你刚刚描述的 is a monopsony power 垄断买方力量 of an import demander 进口需求者 who’s forcing down 压低 the price 价格 of the firms 公司 that are selling to it 卖给它的. And what that does in the international context 在国际背景下 is allow the EU 允许欧盟, in our example here 在我们这里的例子中, to shift some of the cost 转移部分成本 of its protection 保护 onto foreign countries 外国— in this case 在此例中, onto US producers 美国生产商—because it’s getting a lower export price 获得较低的出口价格 in exchange for 作为……的交换 the tariffs that it’s imposed 它施加的关税. And that international cost-shifting 国际成本转移 is very naturally 非常自然地 going to lead the EU to choose higher tariffs 引导欧盟选择更高的关税 than it otherwise would 否则会选择的.”
+
+中文翻译：
+
+所以，回到我们最初的例子，**我，作为欧盟，必须是汽车的大消费者。因此，当我提高关税时，对你——美国出口商——的影响是, 你不得不接受你卖到我市场的汽车的较低价格。(消费者是金主, 甲方是乙方的老大)**我是这些汽车的真正大消费者。
+
+正是如此。**你刚刚描述的是一种"进口需求者"的垄断买方力量，它压低了卖给它的公司的价格。**这在国际背景下使得欧盟，在我们这里的例子中，能够将其保护的部分成本, 转移到外国——在此例中是美国生产商——因为它通过施加的关税, 获得了较低的出口价格。这种国际成本转移, 非常自然地引导欧盟选择比它原本会选择的更高的关税。
+
+“So at the end of the day 归根结底, I would argue 主张；辩称 that, according to 根据 the WTO, it’s not about free trade 自由贸易. But it’s about how much market access 市场准入 a country is comfortable 感到舒适 providing to its trading partners 贸易伙伴 once it is stripped of 被剥夺 its international cost-shifting incentives 国际成本转移动机.”
+
+中文翻译：
+
+所以归根结底，我会主张，根据WTO的观点，它不是关于自由贸易。而是关于一个国家在被剥夺其"国际成本转移"动机后，*愿意向其贸易伙伴提供多少市场准入。*
+
+
+=== 第二部分：互助性（Reciprocity）与WTO的运作方式
+[Music]
+
+“Part two: reciprocity 互助性；互惠, or how the WTO makes this work. The WTO is not about free trade. The WTO is about how much market access 市场准入 a country is comfortable providing to its trading partners once the country is stripped of its international cost-shifting incentives 国际成本转移激励.”
+
+中文翻译:
+
+第二部分：互助性（reciprocity）或世界贸易组织（WTO）如何运作。*WTO的重点不在于"自由贸易"，而在于一个国家在剥离其"国际成本转移"激励后，愿意向其贸易伙伴提供多少市场准入。*
+
+“Your research has done more than just motivate 激励；激发 the existence of the WTO. It’s actually looked at some of the specific principles 原则 that are embedded 嵌入；根植 in the legal texts and how countries seem to operate 运作. One of those is reciprocity 互助性；互惠.”
+
+中文翻译:
+
+你的研究不仅仅激励了WTO的存在，还深入探讨了嵌入其法律文本中的一些具体原则, 以及各国似乎如何运作。其中一个原则是"互助性"。
+
+“Reciprocity 互助性；互惠 is GATT’s way of neutralizing 中和；抵消 the international cost-shifting incentives 国际成本转移激励 of its member governments. And reciprocity 互助性；互惠 is defined in an interesting way in the GATT, in the WTO. You might think that reciprocity 互助性；互惠, as it’s kind of colloquially 口语化地 meant, would say, ‘Well, we should have equal tariffs 关税 across countries.’ That essentially 本质上 was the definition of reciprocity 互助性；互惠 that the Trump administration was hoping to achieve 实现. But GATT and the WTO define reciprocity 互助性；互惠 in a very different way. Jagdish Bhagwati, among others, once defined it as ‘first-difference reciprocity 第一差异互惠.’ It’s about reciprocity 互助性；互惠 in changes in tariffs 关税, not levels of tariffs 关税水平.”
+
+中文翻译:
+
+互助性是《关税及贸易总协定》（GATT）用来中和其成员国政府"国际成本转移激励"的方式。在GATT和WTO中，互助性被定义得很有趣。**你可能认为，互助性按其口语化的含义，应该是“各国之间应当有平等的关税”。**这本质上是特朗普政府希望实现的互助性定义。**但GATT和WTO对"互助性"的定义截然不同。**Jagdish Bhagwati等人曾将其定义为“第一差异互惠”，*指的是"关税变化"中的互助性，而非"关税水平"的互助性。*
+
+“And in particular 尤其, reciprocity 互助性；互惠 is thought to be satisfied 满足 within the GATT-WTO when a country’s tariff 关税 changes, when combined with the tariff 关税 changes of its trading partners, lead to 导致 a change in the volume 数量 of its imports 进口 which is essentially 本质上 matched by 匹配 the change in the volume 数量 of its exports 出口.”
+
+中文翻译:
+
+尤其是在GATT-WTO框架内，*#当"一个国家的关税变化", 与"其贸易伙伴的关税变化"相结合，导致其"进口数量的变化", 本质上与其"出口数量的变化"相匹配时，"互助性"被认为得到了满足。#*
+
+“The economics of reciprocity 互助性；互惠, then, in the context 背景下 of the WTO, is that a tariff 关税 change by me and a tariff 关税 change by you lead to 导致 equal changes in our imports 进口 and exports 出口 with respect to 关于 each other.”
+
+中文翻译:
+
+因此，在WTO的背景下，*互助性的经济学原理在于，我和你各自的关税变化, 导致我们相互之间的进口和出口发生相等的变化。*
+
+“Now, there’s multiple places in the WTO, or the GATT before it, where this might come up 出现. The first would be when countries are thinking about lowering 降低 their tariffs 关税—reducing their tariffs 关税. Countries want reciprocal 互助的；互惠的 outcomes 结果 at the end of one of those negotiating rounds 谈判轮次.”
+
+中文翻译:
+
+现在，在WTO或之前的GATT中, 有多个地方可能会涉及这一点。首先是当各国考虑降低其关税——减少关税时。*各国希望在一轮谈判结束时, 获得"互助"的结果。*
+
+“When countries are thinking about lowering 降低 their tariffs 关税, they typically 通常 seek 寻求 reciprocity 互助性；互惠 in the outcome 结果 of the negotiation 谈判. So, for example, if the EU is going to lower 降低 its tariff 关税 on imported cars, it would like to find tariff 关税 changes from other countries that would ensure 确保 that the increase in its import volume 进口数量 is matched by 匹配 the increase in its export volume 出口数量 to those other countries.”
+
+中文翻译:
+
+当各国考虑降低关税时，它们通常寻求谈判结果中的互助性。*例如，如果欧盟打算降低对进口汽车的关税，它希望找到其他国家的关税变化，以确保其进口数量的增加, 与向这些国家的出口数量的增加, 相匹配。(即利益交换, 我让你赚了, 你也要让我赚. 不能只我降低关税我吃亏.)*
+
+“That kind of balancing 平衡 is going to change the calculation 计算 of the tariff 关税 choices of the EU in terms of the unilateral 单方面的 choice. Because now, if the EU agrees to lower 降低 its tariff 关税 on car imports from the US, well, it’s giving up 放弃 some of the cost-shifting 成本转移, and those exporter prices 出口价格 from the US are going to tend to 倾向于 rise 上涨. And when the US is lowering 降低 its tariffs 关税 reciprocally 互助地；互惠地 on imports from the EU, those exporter prices 出口价格 from the EU to the US are going to rise 上涨. And those two things, from the EU perspective 观点, can just offset 抵消 each other. So the EU no longer has any net incentive 净激励 to be raising tariffs 关税 in order to shift costs onto other countries.”
+
+中文翻译:
+
+这种平衡, 将改变欧盟在单方面选择关税时的计算。因为现在，*##如果欧盟同意降低从美国进口汽车的关税，##它将放弃一些成本转移，而##来自美国的出口价格将倾向于上涨(即美国出口厂商的利润会上升)。当美国"互助地"降低从欧盟进口的关税时，从欧盟到美国的出口价格也将上涨(即欧盟出口厂商的利润也会上升)。从欧盟的观点来看，这两件事可以相互抵消。因此，欧盟不再有任何净激励, 通过"提高关税"将成本转移到其他国家。##*
+
+“And notice that the amount by which the EU is incentivized 激励；激发 to lower 降低 its tariffs 关税 on cars is all about one thing—and that is the market power 市场力量 that it was exerting 施加 and the cost-shifting 成本转移 that it was initially 最初 engaging in 从事 in its initial tariff levels 初始关税水平. And that’s exactly what should be given up 放弃 in a negotiation 谈判—is that part of the tariff 关税. What’s left is then the underlying 根本的 domestic incentives 国内激励 that the EU has to impose 施加 tariffs 关税 on cars, and on the flip side 另一方面, the underlying 根本的 domestic incentives 国内激励 that the US might have to impose 施加 tariffs 关税 on EU exports 出口. And that’s why, even at the end of those negotiations 谈判, you may not end up with 最终获得 free trade on either side of the market. What you do end up with 最终获得 is the underlying 根本的 domestic reasons 国内原因 for tariffs 关税 that countries are imposing 施加.”
+
+中文翻译:
+
+请注意，欧盟被激励降低汽车关税的程度, 完全取决于一件事——即它最初施加的市场力量, 和在其初始关税水平下从事的成本转移。这正是在谈判中应当放弃的那部分关税。剩下的则是欧盟施加汽车关税的根本国内激励，以及另一方面，美国可能对欧盟出口施加关税的根本国内激励。这就是为什么即使在谈判结束时，市场的任何一方, 可能都无法最终获得自由贸易。你最终获得的是各国施加关税的根本国内原因。
+
+[Music]
+
+“Countries may impose 施加 tariffs 关税 for domestic reasons 国内原因. Maybe a government wants to use a tariff 关税 to redistribute 重新分配 income from consumers to some companies or some workers. Maybe this was the result of the government being lobbied 游说；疏通. Or maybe, as Bob mentioned is the case for a lot of developing countries, an import tariff 进口关税 may be the most efficient 高效的 policy instrument 政策工具 the government has to raise 筹集 tax revenue 税收.”
+
+中文翻译:
+
+各国可能出于国内原因, 施加关税。**或许政府希望通过关税, 将收入从消费者, 重新分配给某些公司或工人。**或许这是政府受到游说的结果。或者，正如Bob提到的，对于许多发展中国家来说，*进口关税可能是政府筹集税收的最有效的政策工具。*
+
+“The point is, that is the country’s own sovereign 主权的 domestic business 国内事务. That part of the tariff 关税 remains 保留.”
+
+中文翻译:
+
+关键在于，*这是国家自身的主权国内事务。那部分关税得以保留。*
+
+[Music]
+
+“But what reciprocity 互助性；互惠 does get rid of 消除 is the other part of the tariff 关税—the international externality 国际外部性 part coming from importing countries’ market power 市场力量 that imposed 施加 a cost on trading partners.”
+
+中文翻译:
+
+但"互助性"消除的, 是关税的另一部分——即进口国市场力量带来的国际外部性部分，这部分对贸易伙伴施加了成本。
+
+“A second place where reciprocity 互助性；互惠 comes up 出现 is when countries want to raise 提高 their tariffs 关税. Maybe because something unexpected 意外的 changed at home, the government needs to increase 增加 a tariff 关税, but the country still wants to follow 遵循 GATT-WTO rules. Reciprocity 互助性；互惠 plays a very important role in this second circumstance 情况.”
+
+中文翻译:
+
+互助性出现的第二个场合, 是**当国家希望提高关税时。可能是因为国内发生了意外变化，政府需要增加关税，但该国仍希望遵循GATT-WTO规则。在这种情况下，"互助性"发挥了非常重要的作用。**
+
+“And this circumstance 情况 is critical 关键的 because, as was anticipated 预期 by the GATT and the WTO design, circumstances 情况 change after negotiations 谈判 have occurred 发生. We know the world doesn’t stay the way it was, and countries may want to rethink 重新考虑 the commitments 承诺 that they made in terms of market access 市场准入. And so, importantly 重要的是, a question arises 出现 as to what are the procedures 程序 by which countries can move away from 偏离 the commitments 承诺 they made at an earlier stage 早期阶段.”
+
+中文翻译:
+
+这种情况至关重要，**因为**正如GATT和WTO设计所预期的，*##谈判发生后情况会发生变化。我们知道世界并非一成不变，各国可能希望重新考虑它们在市场准入方面所做的承诺。##因此，一个重要的问题出现了，即各国可以通过哪些程序, 偏离其早期阶段所做的承诺。*
+
+“Well, in the legal literature 法律文献, there are two ways that a commitment 承诺 can be protected 保护. It can either be protected 保护 as a property rule 财产规则—meaning that if two countries or two people negotiate 谈判 some contract 合同, then one side of that contract 合同 can’t get out of 退出 the contract commitments 合同承诺 unless the other side agrees to let that happen. And that’s a property rule 财产规则, which can make renegotiation 重新谈判 very difficult.”
+
+中文翻译:
+
+*在法律文献中，承诺可以通过两种方式受到保护。第一种: 它可以作为"财产规则"受到保护——这意味着如果两个国家或两个人谈判, 达成了某项合同，那么合同的一方除非另一方同意，否则无法退出合同承诺。这就是"财产规则"，它可能使重新谈判变得非常困难。*
+
+“A second way that the contract 合同 can be protected 保护 is through a liability rule 责任规则. And under a liability rule 责任规则, if one side of the contract 合同 wants to get out of 退出 that contract 合同, it can do so as long as it is willing to pay a particular price 特定代价 that is specified 规定. Well, in the GATT-WTO, that price is reciprocal withdrawal 互助撤回 of market access commitments 市场准入承诺 on the other side. And so, as long as a country is willing to let its trading partners raise 提高 their tariffs 关税 reciprocally 互助地；互惠地 if it wants to raise 提高 its tariffs 关税, it can go ahead and do that.”
+
+中文翻译:
+
+**合同也可以通过第二种方式——责任规则——受到保护。#在"责任规则"下，如果合同的一方希望退出该合同，只要它愿意支付规定的特定代价，就可以这样做。#**在GATT-WTO中，这个代价是另一方互助撤回市场准入承诺。*因此，#只要一个国家愿意让其贸易伙伴在它提高关税时, "互助地"提高关税，它就可以继续这样做。#*
+
+“The WTO has multiple places where countries are allowed to raise 提高 their tariffs 关税, subject to 受制于 certain rules. An important one is GATT Article 28—Modification of Schedules 附件修改. That’s the part of the WTO that a country can use when its government needs to back away from 退出 an earlier market access commitment 早期市场准入承诺.”
+
+中文翻译:
+
+**WTO有多个地方, 允许各国在"特定规则"约束下, 提高关税。其中一个重要部分是GATT第28条——附件修改。**这是WTO中, 一个国家在其政府需要退出早期市场准入承诺时, 可以使用的部分。
+
+“Here, there is a liability rule 责任规则, and it is reciprocity 互助性；互惠.”
+
+中文翻译:
+
+在这里，有一个责任规则，那就是"互助性"。
+
+“How would that work?”
+
+中文翻译:
+
+这将如何运作？
+
+“The way it would work is, if a country felt, because of some new developments 新发展, that it needed to raise 提高 its tariffs 关税 and reduce 减少 the market access 市场准入 that it originally 最初 committed to 承诺, it is free to do that. But it can’t do that in isolation 孤立地—and that’s very important. Because if it could do it in isolation 孤立地, we’d be right back in the unilateral 单方面的 cost-shifting 成本转移 problem that the GATT-WTO negotiations 谈判 were supposed to solve 解决.”
+
+中文翻译:
+
+其运作方式是，如果一个国家因某些新发展的情况, 而感到需要提高关税, 并减少其最初承诺的市场准入，它可以自由这样做。但它不能孤立地这样做——这一点非常重要。因为如果它能孤立地这样做，我们就会回到GATT-WTO谈判本应解决的"单方面成本转移问题"。
+
+“So if the US decided that it wanted to raise 提高 its tariffs 关税 on imported steel 进口钢材, and there were no possibility of foreign countries to respond to 回应 that, the US could go ahead and raise 提高 its tariffs 关税 on imported steel 进口钢材 and lower 降低 the costs of steel into its markets, and therefore shift 转移 some of the costs onto foreigners. Well, the WTO allows the US to go ahead and raise 提高 its tariffs 关税 on steel 钢材, but in doing that, it allows other countries to reciprocate 互助回应. And what that does is face the US with the right incentives 正确的激励 to decide whether it really does want to raise 提高 those tariffs 关税 on steel 钢材.”
+
+中文翻译:
+
+**因此，如果美国决定提高对进口钢材的关税，且外国没有回应这一举动的可能性，美国可以继续提高对进口钢材的关税, **并降低其市场中的钢材成本，从而将一些成本转移给外国人。然而，**#WTO允许美国提高对钢材的关税，但与此同时，它也允许其他国家"互助"回应。#**这使得美国面临正确的激励，以决定是否真正希望提高对钢材的关税。
+
+“Those incentives 激励 are right because, while its raising of a tariff 关税 on steel 钢材 might well lower 降低 the exporter prices 出口价格 of steel 钢材 into its market, other countries are going to be able to reciprocally 互助地；互惠地 raise 提高 their tariffs 关税 on US exports 出口. That’s going to lower 降低 the US exporter prices 出口价格 into their markets. And under reciprocity 互助性；互惠, those two effects essentially 本质上 balance out 平衡. And so countries face the right incentives 正确的激励 to decide whether they truly want to back off on 退出 their commitments 承诺. Those incentives 激励 are going to be colored by 受……影响 their own domestic situations 国内情况, but not by the international cost-shifting 国际成本转移, which is the source of the inefficiency 无效率 that the WTO is trying to correct 纠正.”
+
+中文翻译:
+
+这些激励之所以正确，是因为尽管美国提高对钢材的关税, 很可能会降低进入其市场的钢材出口价格，其他国家将能够"互助地"提高对美国出口的关税。这将降低美国进入它们市场的出口价格。在互助性下，这两个效应本质上相互平衡。因此，各国面临正确的激励, 来决定是否真正希望退出它们的承诺。这些激励将受到各国自身国内情况的影响，但不会受到国际成本转移的影响，而后者正是WTO试图纠正的"低效率"的根源。
+
+=== 第三部分：经济证据
+[Music]
+
+“Part three: the economic evidence 经济证据. We have this amazing economic theory 经济理论 motivating 激励；激发 the WTO and its principle 原则 of reciprocity 互助性；互惠. Bob’s book makes this case intuitively 直观地, but also using formal 正式的 economic models 经济模型 and lots of mathematical equations 数学方程. Next, I wanted to turn to 转向 the evidence 证据.”
+
+中文翻译:
+
+第三部分：经济证据。**我们有一个令人惊叹的经济理论, 激励着WTO及其"互助性原则"。**Bob的书直观地阐述了这一点，同时也**使用了正式的"经济模型", 和大量的数学方程。接下来，我想转向证据。**
+
+“There are lots of places to look for whether the evidence 证据 confirms 证实 or rejects 驳斥 this theory 理论 that the WTO solves 解决 the market power 市场力量 and international externalities 国际外部性 problem. To start, there are the tariffs 关税 of countries who were not part of the WTO.”
+
+中文翻译:
+
+*有很多地方可以寻找证据，以证实或驳斥WTO解决市场力量和"国际外部性问题"的理论。首先，可以看看那些不是WTO成员国的国家的关税。*
+
+“First, we want evidence 证据 that when countries are unconstrained 不受约束的 by a trade agreement 贸易协定, they have market power 市场力量 and they use it when choosing their tariffs 关税. This better be true, because if that’s not true, then there’s no inefficiency 无效率 created by the pecuniary externalities 金钱外部性 of tariff 关税 choices, and there’s nothing for a trade agreement 贸易协定 to do.”
+
+中文翻译:
+
+首先，我们希望有证据表明，当国家不受"贸易协定约束"时，它们拥有市场力量, 并在选择关税时使用它。这是必须成立的，因为如果这不是真的，那么关税选择的金钱外部性, 就不会造成低效率，贸易协定也就无事可做。
+
+“So there is evidence 证据 of this, but as you might imagine 想象, you have to look in the right places. In today’s world, most countries are members of the WTO—164. So we have to go back in history 回顾历史, at least a little bit, to find countries who were not constrained 不受约束的 by trade agreements 贸易协定, and in particular 尤其 by their WTO membership. And we can do that. China and Taiwan joined the WTO in 2001, Saudi Arabia joined in 2005, Ukraine joined in 2008, Russia joined in 2012. There’s a host of 一系列 countries that were not GATT members originally 最初 and were not members of the WTO when it was formed 成立 in 1995.”
+
+中文翻译:
+
+因此，确实有这方面的证据，但正如你可能想象的那样，你必须在正确的地方寻找。在当今世界，大多数国家是WTO的成员国——共有164个。所以我们必须回顾历史，至少稍微回顾一下，以找到那些不受贸易协定，尤其是WTO成员身份约束的国家。我们可以做到这一点。中国和台湾在2001年加入WTO，沙特阿拉伯在2005年加入，乌克兰在2008年加入，俄罗斯在2012年加入。有一系列国家最初不是GATT成员，在1995年WTO成立时也不是其成员。
+
+“So those are the places where one would want to look to see whether those countries have market power 市场力量 in their unilateral 单方面的 tariff 关税 choices and whether they use it to set 设定 their tariffs 关税. When looking at the tariffs 关税 those countries were setting 设定 before they joined the WTO, what was the evidence 证据? Did market power 市场力量 matter 重要?”
+
+中文翻译:
+
+因此，这些地方是我们希望查看的地方，以了解这些国家在其"单方面关税选择"中是否拥有市场力量，以及它们是否利用这种力量来设定关税。在观察这些国家加入WTO之前设定的关税时，证据是什么？市场力量是否重要？
+
+“The evidence 证据 is pretty strong that that market power 市场力量 does exist 存在. In fact, it exists 存在 in some surprising 令人惊讶的 places. It’s not only China and the Chinas of the world that are large that seem to be able to exert 施加 their market power 市场力量 with their tariffs 关税, but even countries that are relatively 相对地 small on the world stage 世界舞台—Saudi Arabia, Ukraine—tend to 倾向于 be big in at least certain sectors 行业 and certain regions 地区 and have enough size 规模 to be able to exert 施加 market power 市场力量 when they choose their tariffs 关税. And the evidence 证据 suggests 表明 that the tariffs 关税 that they did choose before they joined the WTO did in fact 事实上 reflect 反映 that market power 市场力量.”
+
+中文翻译:
+
+证据相当有力地表明，这种市场力量确实存在。事实上，它存在于一些令人惊讶的地方。不仅仅是像中国这样的大国似乎能够通过关税, 施加其市场力量，甚至在世界舞台上相对较小的国家——如沙特阿拉伯、乌克兰——也倾向于在某些行业和地区足够大，拥有足够的规模，能够在选择关税时, 施加市场力量。证据表明，它们在加入WTO之前所选择的关税, 确实反映了这种市场力量。
+
+“That’s evidence 证据 from countries not yet in the World Trade Organization. Now, once countries are in the trade agreement 贸易协定—and you pointed this out 指出—the thing that we’re looking for, whether they’re exerting 施加 market power 市场力量 through their tariff 关税 choices, if the WTO is doing its job, that should disappear 消失. So we shouldn’t find it. So we shouldn’t look there either. But what about through the process 过程 of countries negotiating 谈判 to get into 加入 the trade agreement 贸易协定? Is there evidence 证据 from that setting 环境?”
+
+中文翻译:
+
+**这是来自尚未加入世界贸易组织的国家的证据。现在，一旦国家加入了贸易协定——正如你所指出的——我们寻找的是它们是否通过关税, 选择施加市场力量。如果WTO发挥了作用，这种情况应该消失。**所以我们不应该找到它，也不应该在那里寻找。*但通过国家谈判加入贸易协定的过程呢？在那种环境下有证据吗？*
+
+“So here again, there is evidence 证据, but again, you have to look in the right places. And in this case, the issue 问题 is that there’s been eight multilateral 多边的 negotiating rounds 谈判轮次 that were sponsored 主办 by the GATT, the final round 最后一轮—the Uruguay Round 乌拉圭回合—creating 创建 the WTO. And all along 一直, countries who were members from the very first round 第一轮 in 1947 have been liberalizing 自由化 their tariffs 关税. So it’s a subtle 微妙的 question as to how much of the liberalization 自由化 that occurred 发生 was taken account of 考虑 the market power 市场力量 effect of those countries, and how much was taken account of 考虑 other things. And that’s what we want to know—is whether that liberalization 自由化 can be explained 解释 by the market power 市场力量 of those countries.”
+
+中文翻译:
+
+因此，这里再次有证据，但同样，你必须在正确的地方寻找。在这种情况下，问题是**GATT主办了八轮多边谈判，最后一轮——乌拉圭回合——创建了WTO。**一直以来，从1947年第一轮开始的成员国, 一直在自由化其关税。因此，这是一个微妙的问题，即发生的自由化, 有多少是考虑了这些国家的市场力量效应，有多少是考虑了其他因素。我们想知道的是，这种自由化, 是否可以通过这些国家的市场力量来解释。
+
+“So one way to get around 绕过 that is to focus on 集中于 these very same countries that I mentioned a minute ago 一分钟前—the Chinas, the Taiwans, the Saudi Arabias, Ukraines, Russia, etc.—that joined the WTO after its creation 创建 in 1995. By the time the WTO was created 创建, the member countries who had been members had done a lot of liberalizing 自由化, and most of the liberalizing 自由化 that they were going to do on goods 商品, and were asking the new members in a one-off negotiation 一次性谈判 to get rid of 消除 all of the bad parts of the tariffs 关税 that are supposed to be gotten rid of 消除 in the WTO.”
+
+中文翻译:
+
+因此，绕过这个问题的一个方法是, 集中于我一分钟前提到的那些国家——中国、台湾、沙特阿拉伯、乌克兰、俄罗斯等——这些国家在1995年WTO创建后加入。到WTO创建时，已有的成员国已经进行了大量的自由化，并且对商品的大部分自由化已经完成，它们通过一次性谈判, 要求新成员消除WTO中应当消除的所有关税的不良部分。
+
+“What did you find? For all those countries acceding to 加入 the WTO after 1995, were the bad parts of their tariffs 关税—the parts that they got rid of 消除 through accession negotiations 加入谈判—were those related to 相关 their market power 市场力量?”
+
+中文翻译:
+
+你发现了什么？对于所有在1995年后加入WTO的国家来说，它们通过加入谈判消除的关税的不良部分, 是否与它们的市场力量相关？
+
+“So we found that there is quite a strong positive correlation 正相关 between the market power 市场力量 that the countries who were joining the WTO had, in terms of the sectors 行业 that they were offering tariff cuts 关税削减 on, and the size of those tariff cuts 关税削减规模. So sectors 行业 for a country that is quite small and didn’t seem to have much power over foreign exporter prices 外国出口价格—they didn’t do much tariff cutting 关税削减. And in a way 以某种方式, that makes complete intuitive sense 完全直观合理, because the only way that countries are going to be asked to cut their tariffs 削减关税 is if there’s some exporter 出口商 out there who cares enough about that tariff 关税 to tell its government that that tariff 关税 should be cut 削减, and that’s something that that government needs to do.”
+
+中文翻译:
+
+因此，我们发现，加入WTO的国家的市场力量, 与它们在某些行业提供的关税削减之间, 存在相当强的正相关，这些行业的关税削减规模, 也与此相关。**对于一个相当小的国家来说，如果它在外国出口价格上似乎没有太多影响力，它们就不会进行太多的关税削减。**以某种方式来说，这完全直观合理，因为只有当某个出口商足够关心那个关税，并告诉其政府该关税应当削减时，国家才会被要求削减关税，而那是政府需要做的事情。
+
+“So at the end of the day 最终, for those countries and those sectors 行业, what seems to be left is not free trade 自由贸易. There’s lots of variation 变化 in the tariffs 关税 that remained 保留 after those countries joined the WTO. But what seems to be extracted 提取 from the original tariffs 原始关税 is the component 组成部分 that reflected 反映 market power 市场力量.”
+
+中文翻译:
+
+因此，最终，对于这些国家和这些行业，剩下的似乎不是自由贸易。在这些国家加入WTO后保留的关税, 存在很多变化。但从原始关税中提取出的, 似乎是反映市场力量的组成部分。
+
+“There is evidence 证据 for countries outside of the WTO that the size of their tariffs 关税规模 at the time reflected 反映 their market power 市场力量. Then, when they accede 加入 and join the WTO, there’s additional 额外的 evidence 证据 that that market power 市场力量 gets expunged 清除 through the tariff reduction requests 关税削减要求 that existing 现有的 WTO members made.”
+
+中文翻译:
+
+对于WTO之外的国家，有证据表明, 其当时的关税规模反映了它们的市场力量。然后，当它们加入WTO时，有额外的证据表明，这种市场力量, 通过现有WTO成员提出的关税削减要求, 被清除。
+
+[Music]
+
+“Next, let’s turn to 转向 the evidence 证据 on reciprocity 互助性；互惠 under the GATT. There are at least two places during the GATT period GATT时期 where we can look for evidence 证据 on reciprocity 互助性；互惠—as the outcomes 结果 of the negotiating rounds 谈判轮次, as well as 以及 the actual bargaining behavior 实际谈判行为 of countries during those rounds 轮次.”
+
+中文翻译:
+
+接下来，让我们转向GATT下的互助性证据。在GATT时期，至少有两个地方, 可以寻找关于"互助性"的证据——谈判轮次的结果，以及这些轮次期间各国的实际谈判行为。
+
+“Let’s start with 从……开始 the outcomes 结果 of the negotiating rounds 谈判轮次. Does the evidence 证据 suggest 表明 that bargaining outcomes 谈判结果 were reciprocal 互助的；互惠的?”
+
+中文翻译:
+
+让我们从谈判轮次的结果开始。证据是否表明谈判结果是互助的？
+
+“There is evidence 证据 that bargaining outcomes 谈判结果 do conform to 符合 a definition of reciprocity 互助性；互惠 that’s broadly consistent 广泛一致 with what we’ve discussed here. And that evidence 证据 is there for the US and for the EU in the Uruguay Round 乌拉圭回合, and it’s for other countries that have been looked at as well. And what this evidence 证据 amounts to 意味着 is looking to see whether the negotiated tariff cuts 谈判达成的关税削减 that countries agreed to have led individual countries to anticipate 预期 increases in their import volumes 进口数量 that are approximately 大约 equal to 平等 the increases in their export volumes 出口数量.”
+
+中文翻译:
+
+有证据表明，谈判结果确实符合我们这里讨论的互助性定义，这一定义在广义上是一致的。这种证据在美国和欧盟在乌拉圭回合中存在，也在其他被研究的国家中存在。这种证据意味着, *要查看各国同意的谈判达成的"关税削减", 是否让各国预期"其进口数量的增加", 大约等于其"出口数量的增加"。*
+
+“In fact, historically 历史上, for example, the US routinely 常规地 did reciprocity calculations 互助性计算 at the end of each bargaining round 谈判轮次 in the GATT to see whether reciprocity 互助性；互惠 was indeed 的确 satisfied 满足 by the bargaining outcomes 谈判结果. In the early days 早期 of the GATT, like during the Torquay Round 托基回合 in 1951, the State Department 国务院 was negotiating 谈判 for the United States—the Office of the US Trade Representative 美国贸易代表办公室 wasn’t established 建立 until 1963. Later, the International Trade Commission 国际贸易委员会—the ITC—was also involved in 参与 the assessments 评估 of the rounds 轮次 to look for evidence 证据 of reciprocity 互助性；互惠.”
+
+中文翻译:
+
+事实上，历史上，例如，**美国在GATT的每一轮谈判结束时, 都会常规地进行"互助性"计算，以查看谈判结果是否的确满足了"互助性"。**在GATT的早期，如1951年的托基回合，美国国务院代表美国进行谈判——美国贸易代表办公室直到1963年才建立。后来，国际贸易委员会（ITC）也参与了对这些轮次的评估，以寻找互助性的证据。
+
+“What sorts of calculations 计算 were these government agencies 政府机构 doing, and why?”
+
+中文翻译:
+
+**这些政府机构在进行哪类计算，**为什么？
+
+“The ITC has done these calculations 计算, and before that, the State Department 国务院 did these calculations 计算. And there were some relatively 相对地 sophisticated 复杂的 attempts 尝试 to make these calculations 计算 that took account of 考虑 not only the direct effects 直接效应 of tariff cuts 关税削减 that the US had bargained with certain trading partners 贸易伙伴, but also the indirect effects 间接效应 that third-party bargaining 第三方谈判 in the round 轮次 would have on US exporters 出口商.”
+
+中文翻译:
+
+国际贸易委员会进行了这些计算，在此之前，国务院也进行了这些计算。这些计算中有一些相对复杂的尝试，*不仅考虑了美国与某些贸易伙伴谈判达成的"关税削减"的"直接效应"，还考虑了该轮次中, 第三方谈判对美国出口商的"间接效应"。*
+
+“The State Department 国务院 did these calculations 计算 and said, ‘10% of the export increases 出口增加 we’re going to get are due to 由于 third-party bargains 第三方交易 in the Torquay Round 托基回合.’ It’s like Germany and France negotiating 谈判 something, but we’re going to get MFN—that’s part of our export 出口. And they’re adding up 计算, you know, how much our export volume 出口数量’s going to increase versus 对照 how much import 进口. And the ITC did actually, you know, try to use elasticities 弹性 and try to actually calculate 计算, ‘What do we anticipate 预期 will be the change in our exports 出口 and the change in our imports 进口 by sector 行业 from these rounds 轮次?’”
+
+中文翻译:
+
+国务院进行了这些计算并表示：“我们在托基回合中获得的10%的出口增加, 是由于第三方的交易。”就像德国和法国谈判了一些东西，但我们将获得"最惠国待遇"——这是我们出口的一部分。他们在计算，你知道，我们的出口数量将增加多少，与进口相比如何。而国际贸易委员会确实尝试使用弹性，并尝试实际计算：“*我们预期这些轮次中, 按行业划分的出口和进口会有什么变化？*”
+
+“And one could argue 争辩, well, it was partly 部分地 for political cover 政治掩护—that Congress 国会 wanted, you know, this was supposed to be reciprocal 互助的；互惠的, right? And they wanted to make sure 确保, ‘Well, we can say that, yes, our exports 出口 are going to expand 扩大 by as much as 像……一样多 our imports 进口.’”
+
+中文翻译:
+
+有人可能会争辩，嗯，这部分是为了政治掩护——国会希望，你知道，这应该是互助的，对吧？他们想确保，“嗯，我们可以说，是的，*我们的出口, 将像我们的进口一样多地扩大。*”
+
+“Reciprocity 互助性；互惠 was an important outcome 结果 of the negotiating rounds 谈判轮次.”
+
+中文翻译:
+
+互助性是谈判轮次的一个重要结果。
+
+“A second place that reciprocity 互助性；互惠 could also be important was as a norm 规范 that shaped 塑造 the bargaining behavior 谈判行为 of countries during these GATT rounds 轮次. Just thinking about it in principle 原则上, at least 至少, countries could pursue 追求 all kinds of negotiating strategies 谈判策略—maybe they make a lowball offer 低价出价 and see what they can get for free 免费获得, or maybe they try to act tough 强硬表现. Can you explain 解释 the basic theory 基本理论 of how reciprocity 互助性；互惠 was expected to work in creating 创建 a norm 规范 for trade negotiating behavior 贸易谈判行为 under the GATT?”
+
+中文翻译:
+
+**互助性可能重要的第二个地方, 是作为塑造这些GATT轮次期间, 各国谈判行为的规范。至少在原则上考虑，各国可能追求各种谈判策略**——也许他们会提出低价出价，看看能免费获得什么，或者他们可能会尝试强硬表现。你能解释一下互助性如何在GATT下, 被预期通过创建贸易谈判行为的规范, 而发挥作用的基本理论吗？
+
+“If countries are holding themselves rigidly 严格地 to a reciprocity norm 互助性规范—that they’re demanding 要求 reciprocity 互助性；互惠 as an outcome 结果 of their bargain 交易—and if they’re also bargaining 谈判 under an MFN restraint 最惠国约束 that says the tariffs 关税 we bargain over 谈判 are non-discriminatory 非歧视性的, they’re MFN tariffs 最惠国关税, then it turns out 结果是 that that can go a long way to killing 消除 the strategic incentives 战略激励 the countries might otherwise 否则 have to make lowball initial offers 低价初始出价, to try to act tough 强硬表现 in a bargain 交易 in order to get a better deal 更好的交易.”
+
+中文翻译:
+
+如果各国严格遵守"互助性规范"——它们要求交易结果具有"互助性"——并且它们还在最惠国约束下进行谈判，即我们谈判的关税, 是非歧视性的最惠国关税，那么结果是，这可以在很大程度上消除各国可能有的战略激励，即做出低价初始出价，或在交易中尝试"强硬表现"以获得更好的交易。
+
+“And the reason is very intuitive 直观的. Well, if reciprocity 互助性；互惠 is the norm 规范 that says, ‘I expect 预期 that whatever we agree to 同意, if I’m going to cut 削减 my tariffs 关税, you’re going to have to cut 削减 your tariffs 关税 in a reciprocal way 互助的方式,’ then there’s very little else to bargain over 谈判. It’s not like 我不能说, ‘Well, I’m going to hope 希望 that if I offer you a lowball tariff cut 低价关税削减 of my own, I can force 迫使 you to give me a big tariff cut 大幅关税削减,’ because that would violate 违反 reciprocity 互助性；互惠. So if we’ve come into the negotiations 谈判 already agreeing 同意 that reciprocity 互助性；互惠 is the norm 规范, then that kind of strategic behavior 战略行为 should fall by the wayside 靠边站, and we should just cut right to the chase 直奔主题.”
+
+中文翻译:
+
+**原因非常直观。嗯，如果"互助性"是这样一个规范，即“我预期无论我们同意什么，如果我要削减我的关税，你也必须以互助的方式削减你的关税，”那么就没有太多其他东西可供谈判。**我不能说，“嗯，我希望如果我自己提出一个低价关税削减，我能迫使你给我一个大幅关税削减，”因为那会违反互助性。所以，*如果我们进入谈判时已经同意"互助性是规范"，那么那种"谈判策略"行为, 就应该靠边站，我们应该直奔主题。*
+
+“So that’s the theory 理论. But what happened? How are researchers able to even examine 检查 bargaining behavior 谈判行为 during those GATT rounds 轮次 of negotiations 谈判?”
+
+中文翻译:
+
+这就是理论。但实际情况如何？研究人员如何能够检查那些GATT谈判轮次中的谈判行为？
+
+“In most situations 情况, you do not get data 数据 on actual bargaining 实际谈判 between parties 各方 in the GATT rounds 轮次. And as I mentioned 提到, there were eight of them. The actual bargaining 实际谈判 that occurred 发生, especially 尤其 for the older rounds 较早的轮次, was all done not on computers 计算机 and not with tablets 平板电脑, but on legal pads 法律便笺簿 and paper 纸张. And so all of the offers 出价 and counteroffers 还价 were painstakingly 煞费苦心地 written down 写下—sector by sector 按行业, product by product 按产品, country by country 按国家—and exchanged 交换 in physical form 物理形式 between the countries in their bargaining 谈判.”
+
+中文翻译:
+
+**在大多数情况下，你无法获得GATT轮次中, 各方之间实际谈判的数据。**正如我提到的，有八轮这样的谈判。发生的实际谈判，尤其是较早的轮次，都不是在计算机或平板电脑上完成的，而是在法律便笺簿和纸张上完成的。因此，所有的出价和还价, 都是煞费苦心地写下的——按行业、按产品、按国家——并在各国谈判中以物理形式交换。
+
+“So the WTO website actually has many of the rounds 轮次 of bargaining data 谈判数据 up on its website 网站. These are in PDF form PDF格式; they’re in the raw form 原始形式 that the countries actually bargained in 谈判—different languages 不同语言, different industrial classifications 不同行业分类, not easy to use 不易使用, but they can be used 可以被使用. And there has been research 研究 that looks at one of the rounds 轮次, which is the Torquay Round 托基回合 from 1950 to 1951, and the bargaining data 谈判数据 in that round 轮次.”
+
+中文翻译:
+
+因此，**WTO网站实际上在其网站上提供了许多轮次的谈判数据。这些数据以PDF格式呈现，**是各国实际谈判的原始形式——使用不同语言、不同行业分类，不易使用，但可以被使用。已经有研究关注了其中一轮，即1950年至1951年的托基回合，以及该轮次的谈判数据。
+
+“You have this incredible 难以置信的 data 数据 from 1951 of the offers 出价 and counteroffers 还价 being made in the Torquay Round 托基回合. So what do you find? Does the bargaining behavior 谈判行为 look like 看起来像 what we might expect 预期 if it were satisfying 满足 the GATT norms 规范 of reciprocity 互助性；互惠 and MFN 最惠国?”
+
+中文翻译:
+
+你有1951年托基回合中, 难以置信的出价和还价数据。那么你发现了什么？谈判行为看起来像我们可能预期的、满足GATT"互助性"和最惠国规范的情况吗？
+
+“The short answer is, in many striking 引人注目的 ways, it does. In particular 尤其, there’s a very striking 引人注目的 lack 缺乏 of seeming strategic behavior 战略行为, in the sense that 在某种意义上 the first offers 首次出价 that are made by countries are essentially 本质上 their last offers 最后出价. Countries do not seem to 似乎不 make lowball offers 低价出价 at the start 开始 and then, through the back-and-forth 来回 of the bargain 交易 over the months of the round 轮次中的几个月, finally get to 最终到达 some middle ground 中间立场 between what one country started with 一个国家开始时的立场 and another country started with 另一个国家开始时的立场.”
+
+中文翻译:
+
+简短的回答是，在许多引人注目的方面，确实如此。尤其引人注目的是，似乎缺乏战略行为，在某种意义上，各国提出的首次出价, 本质上就是它们的最后出价。各国似乎不在开始时提出低价出价，然后通过轮次中几个月的交易来回，最终到达"一个国家开始时的立场与另一个国家开始时的立场, 之间的中间立场"。
+
+“Instead 相反, each country, for the most part 大部分, seems to make its initial offers 初始出价 as those offers 出价 that it truly wants 真正想要, without any kind of strategic interaction 战略互动. Then the back-and-forth 来回 is really more about 更多关于 making sure 确保 that reciprocity 互助性；互惠 ultimately 最终 holds 成立. Because you, Chad, might come to the table 来到谈判桌 hoping for 希望 a really big deal 一个大交易—a reciprocal deal 互助交易, but a really big tariff cut 大幅关税削减—and I might come to the table 来到谈判桌 in this bargaining 谈判 with you hoping for 希望 a much smaller deal 一个小得多的交易. And so we do have to figure out 弄清楚 who’s going to prevail 获胜 on that basis 在此基础上. But in terms of the balance 平衡 of the deal 交易, we’re not bargaining over 谈判 reciprocity 互助性；互惠—that’s just a norm 规范.”
+
+中文翻译:
+
+相反，大部分情况下，每个国家似乎都将其"初始出价", 作为它们真正想要的出价，没有任何在"谈判战略"上的你来我往。然后，来回的过程, 更多是关于确保"互助性"最终成立。因为你，Chad，可能来到谈判桌, 希望达成一个大交易——一个互助交易，但涉及大幅关税削减——而我可能在这次与你的谈判中, 来到谈判桌, 希望达成一个小的多的交易。所以我们必须弄清楚, 谁将在此基础上获胜。但就交易的平衡而言，我们不是在谈判"互助性"——那只是一个规范。
+
+“For countries negotiating 谈判 under the GATT, reciprocity 互助性；互惠 was the norm 规范. Another way to see this was through the bargaining behavior 谈判行为 of new countries 新国家. The Torquay Round 托基回合 was the third time 第三次 that countries were getting together 聚集 to negotiate 谈判 under the GATT. How did countries who were new at the negotiating table 在谈判桌上新的, joining for the first time 首次加入 during the Torquay Round 托基回合—how did they bargain 谈判 differently 不同地 when it came to 涉及 this reciprocity norm 互助性规范?”
+
+中文翻译:
+
+对于在GATT下谈判的国家，互助性是规范。另一种看到这一点的方式, 是通过新国家的谈判行为。托基回合是各国在GATT下第三次聚集谈判。在"托基回合"期间首次加入、在谈判桌上新的国家——它们在涉及这一互助性规范时, 是如何不同地谈判的？
+
+“Interestingly 有趣的是, it was noted 注意到 at the time of the Torquay Round 托基回合 that there were some new members 新成员 who were joining 加入 that didn’t necessarily 未必 understand 理解 the way that the bargaining 谈判 worked under reciprocity 互助性；互惠 and MFN 最惠国 in the GATT. And those countries—including Austria 奥地利, West Germany 西德, Korea 韩国, Peru 秘鲁, the Philippines 菲律宾, and Turkey 土耳其—who were joining the GATT during the Torquay Round 托基回合, those countries came into the bargains 交易 thinking 认为 that these were like normal bargains 正常交易 where they could make lowball offers 低价出价 and hope 希望 to be tough 强硬 and get a good deal 好交易.”
+
+中文翻译:
+
+有趣的是，在"托基回合"时注意到，一些加入的新成员, 未必理解GATT下互助性和最惠国条件下的谈判方式。这些国家——包括奥地利、西德、韩国、秘鲁、菲律宾和土耳其——在托基回合期间加入GATT，这些国家进入交易时认为, 这就像正常交易一样，它们可以提出低价出价, 并希望通过"强硬态度"获得好交易。
+
+“And they failed to do that 未能做到. They either had to walk away 离开 with a small trade deal 小型贸易交易 because others took their offers 出价 at face value 按表面价值接受, or they had to give up 放弃 on their strategizing 策略 and just reveal 揭示 what they actually wanted 实际想要, just like 就像 the other countries.”
+
+中文翻译:
+
+但它们未能做到这一点。它们要么因为其他国家"按表面价值接受它们的出价, 而不得不带着小型贸易交易离开"，要么"不得不放弃策略，直接揭示它们实际想要的东西"，就像其他国家一样。
+
+[Music]
+
+“There’s lots of evidence 证据, then, that the WTO would sort of 有几分 line up with 与……一致 how economists 经济学家 think about 考虑 it, including through reciprocity 互助性；互惠. But is the evidence 证据 universal 通用的?”
+
+中文翻译:
+
+因此，有很多证据表明，WTO有几分与经济学家考虑的方式一致，包括通过互助性。但这些证据是通用的吗？
+
+“So I would say that the evidence 证据 is strong but not universal 通用的. And a good example of counterevidence 反证据—or at least seeming counterevidence 看似反证据—is in the recent 最近的 Trump trade wars 特朗普贸易战. And in particular 尤其, there’s been a lot of studying 研究 of the foreign exporter price effects 外国出口价格效应 of tariffs 关税 that were imposed 施加 both by the US and by China and other countries as well. And what this evidence 证据 seems to suggest 似乎表明 is that, at least so far 到目前为止, it’s very difficult to find depression 压低 of foreign exporter prices 外国出口价格 that result from 由……引起 tariff increases 关税增加.”
+
+中文翻译:
+
+**所以我会说，证据是强有力的，但并非通用的。**一个反证据的好例子——或者至少是看似反证据——是在最近的特朗普贸易战中。尤其是有很多研究关注美国、中国, 以及其他国家施加的关税的"外国出口价格效应"。这些证据似乎表明，至少到目前为止，很难发现由于关税增加, 而导致的外国出口价格的压低。
+
+“So that would run counter to 与……相反 the evidence 证据 that I’ve been talking about in the context 背景下 of trade agreements 贸易协定. And it would be a serious challenge 严重挑战 for the view 观点 that the WTO and GATT before it exist 存在 in order to eliminate 消除 the incentive 激励 countries have to use their market power 市场力量 to depress 压低 foreign exporter prices 外国出口价格. Under this view 观点—that WTO negotiations 谈判 lead 导致 countries to constrain 约束 their tariffs 关税 in ways that limit 限制 their market power 市场力量—we might have expected 预期 foreign exporters 外国出口商 to lower 降低 their prices 价格 when hit with 遭遇 the new trade war tariffs 贸易战关税. And we’re not yet seeing a lot of evidence 证据 of this.”
+
+中文翻译:
+
+因此，这将与我在贸易协定背景下讨论的证据相反。这对于WTO及其之前的GATT存在的观点——即为了消除"各国利用其市场力量压低外国出口价格的激励"——将是一个严重挑战。在这一观点下——即WTO谈判导致各国以限制其市场力量的方式约束其关税——我们可能预期, 外国出口商在遭遇新的贸易战关税时, 会降低价格。但我们尚未看到很多这方面的证据。
+
+“What are some other potential 潜在的 explanations 解释 for these puzzling 令人困惑的 results 结果?”
+
+中文翻译:
+
+*对于这些令人困惑的结果，还有哪些潜在的解释？*
+
+“Partly 部分地, the evidence 证据 is very short-run 短期的, as it has to be 必须如此, because we haven’t had a lot of time since the Trump trade wars 特朗普贸易战 to look at 审视 the data 数据. Secondly 其次, a reasonable 合理的 interpretation 解释 of the Trump tariffs 特朗普关税 themselves is that they were always meant to be temporary 临时的 and used as bargaining tariffs 谈判关税 to try to get other countries to lower 降低 their tariffs 关税. And to the extent that 在某种程度上 they were viewed as 被视为 temporary 临时的, then the exporter price effects 出口价格效应 of those tariffs 关税 are not nearly as clear 不那么明显 as they would be if these were expected 预期 to be permanent 永久的.”
+
+中文翻译:
+
+**部分原因是，证据是短期的，**这也是必须如此，因为自特朗普贸易战以来, 我们没有太多时间来审视数据。*其次，对特朗普关税本身的一个合理解释是，它们始终被打算作为临时的，并用作谈判关税，以试图让其他国家降低关税*。在某种程度上，*如果它们被视为临时的，那么这些关税的出口价格效应, 就不如预期为永久时那么明显。*
+
+“But the short answer is, this new evidence 证据 raises 提出 questions 问题 that still need to be sorted out 解决. And over time 随着时间, that process 过程 of sorting out 解决 will help clarify 澄清 how this evidence 证据 fits with 与……吻合 the earlier evidence 早期证据. And as an interesting aside 顺便一提, of course, President Trump certainly 当然 believed 相信 that foreign exporters 外国出口商 were going to pay the cost of 承担……的成本 these tariffs 关税. It’s simply that 只是 the economic research 经济研究 that has been done on his tariffs 关税 doesn’t support 支持 that view 观点.”
+
+中文翻译:
+
+**但简短的回答是，这一新证据提出了仍需解决的问题。**随着时间的推移，解决的过程将有助于澄清这些证据如何与早期证据吻合。顺便一提，*当然，特朗普总统显然相信, 外国出口商将承担这些关税的成本。只是对他的关税进行的经济研究, 并不支持这一观点。*
+
+=== 第四部分：中国与WTO
+“Part four: China and the WTO. President Trump’s trade war 贸易战 with China has kicked off 启动 a tense 紧张的 period 时期 in trade relations 贸易关系—not only between China and the United States, but also for the WTO. There have been calls 号召 for the US and China to decouple 分离. Some have even proposed 提议 kicking China out of 逐出 the WTO.”
+
+中文翻译:
+
+第四部分：中国与WTO。特朗普总统与中国的贸易战, 开启了贸易关系中的一个紧张时期——不仅限于中国和美国之间，也影响到WTO。有人号召美国和中国分离。甚至有人提议将中国逐出WTO。
+
+“The argument 论点 is that the WTO can’t work for a non-market economy 非市场经济 like China—a state-run economy 国有经济 with lots of subsidies 补贴, state-owned enterprises 国有企业, five-year plans 五年计划, and industrial policy 产业政策. We’re going to focus 集中 on purely 纯粹地 the issues 问题 associated with 关联 China being a non-market economy 非市场经济 for now. We’re going to put to the side 搁置 what might be legitimate 合法的 concerns 担忧 over democracy 民主 or human rights 人权 or China’s use of trade policy 贸易政策 as an instrument 工具 of economic coercion 经济胁迫.”
+
+中文翻译:
+
+**论点是，WTO无法适用于像中国这样的非市场经济——一个拥有大量补贴、国有企业、**五年计划和**产业政策的国有经济。**目前我们将纯粹集中于与中国作为"非市场经济"相关的问题。我们将暂时搁置对民主、人权或中国将贸易政策作为经济胁迫工具的合法担忧。
+
+“The big question 大问题 for the trading system 贸易体系 is: can the WTO potentially 潜在地 accommodate 适应 non-market economies 非市场经济 like China? Bob’s answer may surprise 使惊讶 you.”
+
+中文翻译:
+
+**对于贸易体系的大问题是：WTO能否潜在地适应像中国这样的"非市场经济"？**Bob的回答可能会让你感到惊讶。
+
+“Once we take the view 采取观点 that it’s not about free trade 自由贸易 but about how much market access 市场准入 a country is comfortable 舒适的 providing to its trading partners 贸易伙伴 once it’s stripped of 剥离 its international cost-shifting incentives 国际成本转移激励, accommodating 适应 a non-market economy 非市场经济 such as China becomes quite consistent 一致 with the WTO principles 原则.”
+
+中文翻译:
+
+一旦我们采取这样的观点，即这不是关于自由贸易，而是关于一个国家在剥离其国际成本转移激励后，愿意向其贸易伙伴提供多少市场准入，那么适应像中国这样的非市场经济, 就变得与WTO的原则相当一致。
+
+“Accommodating 适应 China could be consistent 一致 with WTO principles 原则, but it won’t be easy. It will require 要求 some work. Making progress 取得进展, though, requires 要求 understanding 理解 exactly 确切地 what it is about the current 当前的 market access approach 市场准入方法 of the WTO that doesn’t work when it comes to 涉及 China.”
+
+中文翻译:
+
+适应中国可能与WTO原则一致，但这并不容易。它将要求一些努力。然而，要取得进展，需要确切地理解WTO当前的市场准入方法, 在涉及中国时哪里出了问题。
+
+“Of course, there are immense 巨大的 challenges 挑战. The GATT and the WTO were created 创建 with market economies 市场经济 in mind 以……为目标. And the rules 规则 of the GATT-WTO are built on 以……为基础 the principle 原则 that when a country cuts 削减 a tariff 关税, that tariff cut 关税削减 has price effects 价格效应 which are going to lead 导致 consumers 消费者 and firms 公司 to do certain things that a market economy 市场经济 would predict 预测 they would do. And in a non-market economy 非市场经济, that link 联系 is severed 切断. And when that link 联系 is severed 切断, that creates 创建 a problem 问题 for the GATT or the WTO.”
+
+中文翻译:
+
+当然，存在巨大的挑战。**GATT和WTO是以"市场经济"为目标创建的。GATT-WTO的规则建立在这样的原则基础上，即当一个国家削减关税时，该关税削减会产生价格效应，这将导致消费者和公司做出市场经济预测它们会做的事情 (即有明确的因果链关系)。而在"非市场经济"中，这种(因果链)联系被切断。**当这种联系被切断时，就为GATT或WTO创建了一个问题。
+
+“But that problem 问题 is not as fundamental 根本的 as many people think, I believe. Because ultimately 最终, China has the same possibility 可能性 of exerting 施加 its monopsony power 买方垄断力量 on foreign exporters 外国出口商 to lower 降低 their costs 成本 and therefore has the same temptation 诱惑 to engage in 从事 international cost-shifting 国际成本转移 of its policies 政策 as does any other country. It’s just that 只是 within China’s borders 边界内, the amount of production 生产量 and consumption 消费量—and therefore the volume 数量 of its imports 进口 and the volume 数量 of its exports 出口—those things are not determined 决定 by price signals 价格信号 in the way that they would be in a market economy 市场经济.”
+
+中文翻译:
+
+但我相信，这个问题并不像许多人认为的那样根本。因为最终，中国有同样的可能性, 通过对"外国出口商"施加其"买方垄断力量"来降低它们的成本，因此与中国以外的任何国家一样，有同样的诱惑从事其政策的"国际成本转移"。只是，在中国边界内，生产量和消费量——以及因此其进口数量和出口数量——这些事情不像在"市场经济"中那样由"价格信号"决定。
+
+“Why is this potentially 潜在地 not a problem 问题 for the WTO?”
+
+中文翻译:
+
+为什么这潜在地对WTO不是一个问题？
+
+“The problem 问题 is not the market access focus 市场准入焦点 of the WTO in terms of its commitments 承诺. The problem 问题 is how to get China to honor 履行 its market access commitments 市场准入承诺 when it’s not a market economy 非市场经济. And the structure 结构 of the GATT-WTO is to allow 允许 countries to make market access commitments 市场准入承诺 through tariff cuts 关税削减 and through other rules 规则—the articles 条款 of the GATT and the WTO that shore up 支持 those tariff commitments 关税承诺 in terms of their market access implications 市场准入含义.”
+
+中文翻译:
+
+问题不在于WTO在承诺方面的市场准入焦点。问题在于如何让中国在"非市场经济"的情况下, 履行其市场准入承诺。GATT-WTO的结构,是允许各国通过关税削减,和其他规则——GATT和WTO的条款——来做出市场准入承诺，这些条款支持这些关税承诺在市场准入含义上的作用。
+
+[Music]
+
+“For market economies 市场经济 like the United States or Japan or the EU, those other articles 条款 of the GATT and WTO have typically 通常 been enough 足够. One WTO member can translate 翻译 whether another is living up to 达到 its market access commitments 市场准入承诺, for the most part 大部分, by looking at 审视 their policies 政策—whether their tariffs 关税 and their subsidies 补贴 are following 遵循 the rules 规则 are usually enough 通常足够 to tell us whether they are following through with 贯彻 their market access commitments 市场准入承诺.”
+
+中文翻译:
+
+对于像美国、日本或欧盟这样的市场经济，GATT和WTO的其他条款通常已经足够。一个WTO成员大部分可以通过审视另一个成员的政策——它们的关税和补贴是否遵循规则——来判断其是否达到了市场准入承诺，这些通常足够告诉我们, 它们是否贯彻了市场准入承诺。
+
+“But for China, that has not been enough 足够. Because China is a non-market economy 非市场经济, commitments 承诺 over its tariffs 关税 and other WTO rules 规则 did not lead to 导致 reciprocal 互助的；互惠的 market access 市场准入.”
+
+中文翻译:
+
+但对于中国来说，这还不够。*因为中国是"非市场经济"，对其关税和其他WTO规则的承诺, 并未导致"互助"的市场准入。*
+
+[Music]
+
+“So what should countries tell China?”
+
+中文翻译:
+
+那么各国应该对中国说些什么？
+
+“The first thing that I would say is, it is not the case 情况 that China should be told that its non-market features 非市场特征 are incompatible 不相容的 with WTO commitments 承诺. Rather 相反, what China should be told is that, like every other WTO member, it needs to honor 履行 its reciprocal commitments 互助承诺—and in particular 尤其, its reciprocal market access commitments 互助市场准入承诺. And so it needs to find a way 方法 to make those reciprocal market access commitments 互助市场准入承诺 in a credible 可信的 way 方法. And so far 到目前为止, I think many observers 观察者 agree 同意 that the articles 条款 of the WTO and the GATT before it are not working 起作用 to deliver 实现 that.”
+
+中文翻译:
+
+我想说的第一件事是，不应该告诉中国其"非市场特征"与WTO承诺不相容。相反，**应该告诉中国的是，像其他WTO成员一样，它需要履行其"互助"承诺——尤其是其"互助市场准入"承诺。**因此，它需要找到一种可信的方式来实现这些互助市场准入承诺。到目前为止，我认为许多观察者都同意，WTO及其之前的GATT的条款, 并未能实现这一点。
+
+“So that raises 提出 the question 问题: what would work 起作用 to do that? Well, first of all 首先, that’s a very different question 问题 than the question 问题 that many observers 观察者, I think, are raising 提出—which is, if China can’t evolve 演变 toward a market economy 市场经济, it has no role 角色 in the WTO.”
+
+中文翻译:
+
+**这就提出了一个问题：什么方法会起作用？**嗯，首先，这是一个与许多观察者提出的问题截然不同的问题——他们的问题是，*如果中国不能向市场经济演变，它在WTO中就没有角色。*
+
+“So for the question 问题 that I’m raising 提出, China could continue 继续 to have its own economic system 经济体系 as it chooses 选择, but it needs to find ways 方法 to make credible 可信的 market access commitments 市场准入承诺.”
+
+中文翻译:
+
+所以对于**我提出的问题，中国可以继续拥有它所选择的经济体系，但它需要找到方法, 来做出可信的市场准入承诺。**
+
+“If the goal 目标 is to get China, a non-market economy 非市场经济, to make secure 安全的 market access commitments 市场准入承诺, there is an historical precedent 历史先例 in the multilateral trading system 多边贸易体系. And here, history 历史 provides 提供 an interesting example 例子. China is not the first non-market economy 非市场经济 to join 加入 the GATT or the WTO. There were a number 一些, and one interesting example 例子 here is the case 情况 of Poland 波兰, who joined the GATT in 1967—at a time when Poland was not expected 预期 to evolve 演变 toward a market economy 市场经济.”
+
+中文翻译:
+
+如果目标是让中国这个非市场经济, 做出安全的市场准入承诺，多边贸易体系中有一个历史先例。这里，历史提供了一个有趣的例子。中国不是第一个加入GATT或WTO的非市场经济。有一些这样的例子，其中一个有趣的例子是波兰的情况，波兰在1967年加入GATT，当时并未预期波兰会向"市场经济"演变。
+
+“So Poland and the rest of the GATT members 其他GATT成员 had to figure out 弄清楚 a way 方法 that Poland could make market access commitments 市场准入承诺 that would satisfy 满足 the reciprocity norm 互助性规范 that all GATT members 所有GATT成员 had to satisfy 满足. And the way 方法 that this was solved 解决 in the case 情况 of Poland was a very simple 简单的 one- or two-paragraph 一两段的 accession agreement 加入协议 that essentially 本质上 said that Poland agreed 同意 to a quantity commitment 数量承诺 to grow 增长 its imports 进口 from member countries 成员国 of the GATT by a certain percentage per year 每年一定百分比 that reflected 反映 the expectation 预期 of member countries 成员国 of how much Poland’s exports 出口 would grow 增长 to them. That’s the reciprocity norm 互助性规范 that countries are trying to achieve 实现, whether they’re market economies 市场经济 or non-market economies 非市场经济, in the GATT.”
+
+中文翻译:
+
+因此，波兰和其他GATT成员必须弄清楚一种方法，使波兰能够做出满足所有GATT成员必须满足的"互助性规范"的市场准入承诺。在波兰的情况下，这一问题通过一个非常简单的一"两段加入协议"解决，该协议本质上表示，波兰同意通过每年一定百分比的数量承诺, 增加从GATT成员国的进口，这一百分比反映了成员国对波兰对它们的出口增长的预期。这就是各国在GATT中试图实现的互助性规范，无论它们是市场经济, 还是非市场经济。
+
+“Now, that said 话虽如此, Poland was a medium-sized 中等规模的 non-market economy 非市场经济 at the time 那时候. China is a very large 非常大的 non-market economy 非市场经济. So I’m not suggesting 建议 that one could adopt 采纳 the solution 解决方案 that was adopted 采纳 by GATT for the case 情况 of Poland and simply 简单地 apply it to 应用于 the case 情况 of China. But what does seem indicated 表明 by that example 例子 is that non-market economies 非市场经济 can indeed 的确 be good citizens 好公民 in the GATT and the WTO. And the key 关键 is that they find ways 方法 to maintain 维持 reciprocity 互助性；互惠—and reciprocity of market access commitments 市场准入承诺的互助性. And there is nothing about 是否 whether the economy 经济 is a market economy 市场经济 or non-market economy 非市场经济 that necessarily 必然地 precludes 排除 that.”
+
+中文翻译:
+
+话虽如此，当时波兰是一个中等规模的非市场经济。而中国是一个非常大的非市场经济。所以我不是建议可以采纳GATT为波兰情况采用的解决方案, 并简单地应用于中国的情况。但这个例子似乎表明，非市场经济的确可以在GATT和WTO中成为好公民。关键是它们找到方法, 来维持互助性——特别是市场准入承诺的互助性。经济是"市场经济"还是"非市场经济", 并不会必然排除这一点。
+
+“Building on 以……为基础 the example 例子 of Poland’s agreement 协议 to join 加入 the GATT in 1967, part of the answer 答案的一部分 may be for China to grow 增长 its imports 进口 from WTO members 成员 by the same amount 相同数量 that it is growing 增长 its exports 出口—though this sounds similar to 听起来类似于 President Trump’s Phase One agreement 第一阶段协议 with China in 2020, it would be different 不同 in some very important ways 重要方面.”
+
+中文翻译:
+
+以波兰在1967年加入GATT的协议为例，*答案的一部分可能是, 让中国从WTO成员国的"进口增长", 与它"出口增长"的相同数量——尽管这听起来类似于特朗普总统在2020年与中国的第一阶段协议，但它在一些重要方面会有所不同。*
+
+“It’s interesting 有趣的 to think about 考虑 what the Trump administration 特朗普政府 was trying to do here. They did try to force 迫使 China to abide by 遵守 quantity commitments 数量承诺 to increase 增加 imports 进口 from the US. But here, I would say there were several very important differences 差异. One was, these were commitments 承诺 that were of a bilateral 双边的 nature 本质 and not a multilateral 多边的 nature 本质. There were commitments 承诺 that China was being asked to agree to 同意 on US exports 出口 to China, and that is very different 不同 from a multilateral commitment 多边承诺 that China might make in the context 背景下 of WTO negotiations 谈判, where it makes commitments 承诺 to market access 市场准入 and increased imports 增加进口 from WTO member countries 成员国 as a whole 作为一个整体.”
+
+中文翻译:
+
+考虑特朗普政府在这里试图做什么, 是很有趣的。他们确实试图迫使中国遵守"增加从美国进口"的数量承诺。但在这里，我会说**有几个非常重要的差异。其中之一是，这些承诺是"双边性质"的，而不是"多边性质"的。**这些是中国被要求同意的关于美国对华出口的承诺，这与WTO谈判背景下中国可能做出的多边承诺, 截然不同，在后者中，中国对WTO成员国整体, 做出"市场准入"和"增加进口"的承诺。
+
+“It’s also true 也是真的 that the Trump attempt 尝试 was not a rules-based 基于规则的 attempt 尝试 in any sense of the word 在任何意义上, in that 因为 it occurred 发生 in the context 背景下 of the Trump trade war 特朗普贸易战. And that is a very different 不同的 environment 环境 than what would be a typical 典型的 negotiation 谈判 in a WTO context 背景下.”
+
+中文翻译:
+
+特朗普的尝试, 在任何意义上也不是基于规则的尝试，这也是真的，因为它发生在特朗普贸易战的背景下。这与WTO背景下的典型谈判环境截然不同。
+
+“So this would not be a commitment 承诺 by China to buy 购买 an additional 额外的 $200 billion of exports 出口 from the United States alone 仅仅从美国. The reciprocal market access 互助市场准入 idea 想法 here is to make sure 确保 China’s import increases 进口增加 from the world 世界 are balanced 平衡 with its increases in exports 出口增加.”
+
+中文翻译:
+
+因此，这不会是中国承诺仅仅从美国购买额外的2000亿美元出口的承诺。*这里的互助市场准入想法, 是确保中国从世界的"进口增加"与其"出口增加"保持平衡。*
+
+“And let me be clear 让我清楚—I’m not advocating 主张 that a quantity agreement 数量协议 is the right way 方法 to go for China. I think the more important 更重要的 point 观点 is that, once one accepts 接受 the view 观点 that a necessary condition 必要条件 for China to be a good WTO member 好WTO成员 does not necessarily 未必 mean it has to relinquish 放弃 its non-market system 非市场体系, then many things may be possible 可能. And China itself may know 知道 the best way 方法 to make these market access commitments 市场准入承诺 if it’s pitched in a way 以某种方式提出 that says China is just being asked to do what every other member country 每个其他成员国 does—which is to abide by 遵守 reciprocity 互助性；互惠 in its market access commitments 市场准入承诺.”
+
+中文翻译:
+
+让我清楚——我不是主张数量协议是对中国正确的方法。我认为更重要的一点是，一旦接受这样的观点，即中国成为一个好的WTO成员的必要条件, 未必意味着它必须放弃其"非市场体系"，那么许多事情都可能成为可能。如果以某种方式提出，即**中国只是被要求做每个其他成员国所做的事情——即在其"市场准入承诺"中, 遵守"互助性"，**那么中国本身可能知道做出这些"市场准入承诺"的最佳方法。
+
+“For a WTO desperately 迫切地 in need of 需要 new negotiating approaches 谈判方法, this is a super interesting 超级有趣的 idea 想法. I will write it up 写下来, hand it to 交给 USTR 美国贸易代表, to DG Trade in Brussels 布鲁塞尔贸易总司, to MOFCOM 商务部, to the Chinese negotiators 谈判代表 in Beijing 北京, to the folks 人们 in the WTO Secretariat 秘书处 in Geneva 日内瓦, and see if this might at least 至少 get them back to 返回 the negotiating table 谈判桌.”
+
+中文翻译:
+
+对于迫切需要新谈判方法的WTO来说，这是一个超级有趣的想法。我会把它写下来，交给美国贸易代表、布鲁塞尔贸易总司、商务部、北京的中国谈判代表、日内瓦的WTO秘书处的人们，看看这是否至少能让他们返回谈判桌。
+
+=== 第五部分：WTO规则与应对气候变化的政策
+
+“Part five: WTO rules and policies to tackle 解决；处理 climate change 气候变化. Climate change 气候变化 is another problem that Bob grapples with 努力解决；设法处理 in his new book. Climate change 气候变化 is one of the biggest global policy issues of our time. Some have argued that WTO rules are outdated 过时的；落伍的—that WTO rules are simply too tight and discourage 阻止；劝阻 countries from adopting 采用；采纳 domestic 国内的；本国的 clean energy policies like carbon taxes.”
+
+“To Bob, some potentially 潜在地；可能地 very important climate change mitigation 缓解；减轻 policies, like carbon taxes, could achieve 实现；达到 their goals without causing problems for the WTO.”
+
+“I think the observation 观察；评论 that the WTO commitments 承诺；保证 are about market access 市场准入 rather than a commitment 承诺；保证 to free trade 自由贸易 is really important here. And the reason is that, when countries are faced with 面临；面对 a climate issue like global warming 全球变暖 and need to think about domestic 国内的；本国的 policies that might address 解决；处理 that issue, in the WTO, they are not necessarily wedded to 忠实于；执着于 the existing tariff commitments 现有的关税承诺 that they’ve made. Instead, what they are wedded to 忠实于；执着于 is the existing market access commitments 现有的市场准入承诺 that they have made. And as we’ve talked about, if they want to renegotiate 重新谈判；重新协商 those, they can do so.”
+
+“But when a country considers—as, say, the EU is considering—imposing 实施；推行 carbon taxes or the equivalent on its producers, that’s going to have market access implications 市场准入影响 for the existing tariffs 现有的关税 that the EU has committed to. And in particular, it will likely disadvantage 使处于不利地位 EU producers and, at the existing tariffs 现有的关税, lead to what economists call carbon leakage 碳泄漏—that is, movements of production of the dirtier goods that the EU produces out of the EU system and into countries that perhaps don’t have those carbon taxes and/or are using dirtier technologies.”
+
+“That fear of carbon leakage 碳泄漏 may be preventing 阻止；防止 the EU and other countries from imposing 实施；推行 domestic 国内的；本国的 carbon taxes in the first place. And the source of that fear makes sense. If the EU thinks it can’t change its import tariffs 进口关税, and so if the EU were held to 遵守；信守 the tariffs 关税 that it had committed to in WTO negotiations, when it imposes 实施；推行 a system of carbon taxes, it would actually be being asked by its WTO tariff commitments 关税承诺 to now offer more market access 市场准入 than it had originally offered—because it is disadvantaging 使处于不利地位 its domestic 国内的；本国的 producers with these carbon taxes at the expense of 以…为代价 foreign producers.”
+
+“And I don’t think that reflects 反映；显示 the logic of the market access commitments 市场准入承诺 that the WTO tries to administer 管理；执行. In particular, there’s an opportunity here for the EU to raise its tariffs 提高关税 to offset 抵消；弥补 the competitive effect 竞争效应 of its carbon taxes. And in a sense, that’s very similar to what we might think of as a carbon border adjustment 碳边境调整.”
+
+“But there are some differences that are important in what I’ve just said relative to 相对于；与…相比, say, the current CBAM proposal 碳边境调整机制提案 of the EU. And a key difference is that what I just described is the possibility of an MFN tariff increase 最惠国待遇关税增长 that the EU could impose 实施；推行 as it imposes 实施；推行 carbon taxes that would offset 抵消；弥补 the market access implications 市场准入影响 of its carbon taxes.”
+
+“Take a heavy carbon-emitting industry like steel. Suppose the EU imposes 实施；推行 a carbon tax on its steel industry. Then the industry’s costs go up. For the same amount of local demand in the EU, if the EU’s import tariff 进口关税 is unchanged, the local steel industry’s cost going up will lead to an increase in EU steel imports. The EU has inadvertently 不经意地；无意地 increased its market access 市场准入. That is basic Econ 101.”
+
+“So if the EU were to impose 实施；推行 carbon taxes in a way that disadvantaged 使处于不利地位 its steel producers, under this thinking, the EU could raise its MFN tariff 最惠国待遇关税 on steel to just offset 抵消；弥补 the disadvantage 不利条件；劣势 that its steel producers were now facing because of the carbon tax, and preserve 保护；维护 the market access 市场准入 that it had originally—before the carbon taxes were imposed 实施；推行—offered to other countries.”
+
+“Well, that’s very consistent with 与…一致 the market access orientation 市场准入导向 of the WTO. And I don’t think there’s anything that would argue for 支持；主张 a carbon border adjustment 碳边境调整 that were designed in that kind of way to just maintain 保持；维持 the market access commitments 市场准入承诺 of a member country.”
+
+“What might be more controversial 有争议的—and what this CBAM proposal 碳边境调整机制提案 seems to be leaning toward 倾向于；偏向—is to make those carbon border adjustments 碳边境调整 a function of 取决于；是…的函数 the carbon of the foreign exporting countries. And notice that what I said was that the MFN tariff 最惠国待遇关税 that the EU could raise would be WTO-consistent, in my view, if it raised its MFN tariff 最惠国待遇关税 in a way that just offset 抵消；弥补 the market access implications 市场准入影响 of its carbon tax. Well, that depends on how dirty the production is within the EU—because those are the firms that are going to have to pay this carbon tax. And the dirtier the industry, the higher the tax they’re going to have to pay, and that would suggest that, for those industries, the MFN tariff adjustment 最惠国待遇关税调整 should be higher as a result.”
+
+“But that has nothing to do with the dirtiness of the production outside the EU. If the MFN tariff 最惠国待遇关税 is raised to offset 抵消；弥补 the market access implications 市场准入影响 of the carbon tax within the EU, foreign exporters—whether they be from China or from India or from the US, and whether their exports are dirty or modestly 适度地；稍微地 dirty or clean—should have no bearing on 与…有关；对…有影响 the tariff 关税 they face selling into the EU.”
+
+[Music]
+
+“One type of carbon border adjustment 碳边境调整 would seem to be completely WTO-consistent—this MFN kind, at least from the perspective of countries making market access commitments 市场准入承诺 through the WTO. What is likely to be more controversial 有争议的, from the perspective of the WTO’s current rules, are other CBAM approaches 碳边境调整机制方法 that would differentiate 区分；区别 between foreign sources based on their carbon emissions.”
+
+“That latter dimension 后者—if you were going to use your tariffs 关税 to actually incentivize 激励；鼓励 the dirtiest countries who are selling to you to clean up their act—that’s part of what the CBAM proposal 碳边境调整机制提案 seems to be aimed at. And I think that’s a more controversial 有争议的 dimension 方面；维度 of carbon border adjustments 碳边境调整, because it doesn’t just offset 抵消；弥补 the market access implications 市场准入影响 of the carbon tax for a country, but in fact it uses the border adjustments 边境调整 to try to incentivize 激励；鼓励 other countries to clean up their act in terms of carbon emissions as well.”
+
+“I think the EU believes that its CBAM proposal 碳边境调整机制提案 will be WTO-consistent, but that hasn’t been tested in the WTO. And my own sense, as an economist, is that I think an MFN carbon border adjustment 最惠国待遇碳边境调整 of the kind that I first described would be perfectly consistent with WTO rules. But a carbon border adjustment 碳边境调整 that was based on the carbon content of the foreign exporting country is likely to face greater challenges in the WTO.”
+
+“And in part, this is because countries like China and India feel that this would be an illegal way for the EU to discriminate against 歧视；区别对待 them for a purpose which falls outside the fundamental 基本的；根本的 market access focus 市场准入重点 of the WTO—namely, to help solve the climate problem. And I think one can argue whether that purpose itself is legitimate 合法的；正当的 or not, but in my view, it does fall outside the market access issues 市场准入问题 that are the central purpose of the WTO.”
+
+“To be clear here, Bob is not advocating for 提倡；主张 one type of carbon border adjustment 碳边境调整 over another to address 解决；处理 the climate problem. What he is explaining, as an economist, is that there’s a key distinction 关键区别 between the two from the perspective of 从…角度看 the current WTO rules and norms 现行的世贸组织规则和规范 that member countries have already agreed to.”
+
+“So let me summarize 总结；概述 and be clear here. I’m not saying that using tariffs 关税 that are based on the carbon content of foreign exporters is necessarily 不一定；未必 not something that countries want to do in order to help solve the climate problem. What I am saying is, I think it’s very useful to separate these two issues. First, using tariffs 关税 to just offset 抵消；弥补 the market access implications 市场准入影响 of your own carbon taxes—and there, I think those tariffs 关税 could be MFN 最惠国待遇 and they could be completely non-controversial 无争议的；不会引起争论的 in terms of 从…方面说 WTO rules and rulings. And then, second, the more controversial issue 有争议的问题 is: do you want to use your tariffs 关税 to incentivize 激励；鼓励 other countries to clean up the carbon in their production?”  
+
+“I think by identifying 识别；确定 those two issues, one could at least separate out the non-controversial part 无争议的部分 and allow some carbon taxes to go through without any qualifications 无条件地 in the WTO. And then the question is left for the more controversial aspects 有争议的方面 of those carbon taxes.”
+
+“Let’s turn to proposals 提案；建议 that are even more controversial 有争议的. William Nordhaus has a proposal for a climate club 气候俱乐部. And there are different versions, but the rough proposal 粗略的提案 has the cool kids in the club—the ones with low carbon emissions—applying 应用；实施 low import tariffs 进口关税 toward each other. And countries with higher emissions—the ones that are outside of the club—they would be hit with 遭受；受到 higher import tariffs 进口关税. The motivation 动机；原因 is that the climate crisis 气候危机 is so important, governments need to do everything they can to incentivize 激励；鼓励 high-emitting countries to reduce their carbon emissions.”
+
+“The Nordhaus climate club proposal 诺德豪斯气候俱乐部提案 is a good illustration 说明；例证 of the point I’m trying to make. I think that proposal—which would essentially 基本上；本质上 have countries agree to a common set of carbon policies and then low tariffs 关税 among them, with the idea that countries that don’t agree to those policies would face very severe tariffs 严厉的关税—that seems very clearly to me to be in violation of 违反；违背 many WTO obligations 义务；职责.”
+
+“Now, that said, it could be that the severity 严重性；剧烈程度 of the climate problem warrants 值得；使显得必要 that. So I’m not saying that that’s not necessarily 不一定；未必 something that ultimately 最终；根本上 shouldn’t happen. What I am saying is that there are a number of important things that could be done on climate policy that are not inherently 本质上；固有地 inconsistent with 与…不符 the WTO. And the attempt to use carbon border adjustments 碳边境调整 to offset 抵消；弥补 the market access implications 市场准入影响 of a country’s own carbon policies is something that I think is fully consistent with 与…完全一致 WTO policies, if done in the right way.”
+
+“As my last question for you, there are a lot more examples in your book about new 21st-century issues we haven’t had time to go through them all—but things like global value chains 全球价值链, services trade 服务贸易, digital trade 数字贸易, lots more. If you had to summarize 总结；概述 where you would come down on 对…作出结论 the role of the World Trade Organization in tackling 解决；处理 the litany of 大量；一连串 new issues that are out there today, what would you say?”
+
+“I would say that there’s a strong basis in economics 经济学基础 for the legitimacy 合法性；正当性 of the GATT-WTO to serve as 充当；担任 the constitution 章程；宪法 of the world trading system. And there’s a lot at stake in 处于危险之中 that statement, because while the features of the GATT-WTO reflect 反映；显示 the shallow approach 浅层次的方法 to integration 融合；一体化 that the GATT-WTO has adopted 采用；采纳—focusing on market access commitments 市场准入承诺 and on negotiations 谈判；协商 over tariffs 关税 and other border measures 边境措施 as a primary means 主要手段 to make those commitments—there are alternative approaches 替代方法 out there that focus on far deeper reforms 更深层次的改革 of international integration 国际融合, such as some of the mega-regional agreements 大型区域协定 that have been in the news more recently, and require countries to negotiate over many behind-the-border policies 境内政策 that have been traditionally 传统上；惯例上 considered the purview 范围；权限 of national governments.”
+
+“Therefore, there’s a real choice in the world in terms of 就…而言 what constitutes 构成；组成 the best design for trade agreements. And while the GATT is far from perfect, I’m arguing that, from economic principles, it has a strong claim on legitimacy 合法性；正当性 that should not be dismissed lightly 轻视；忽视.”
+
+“So if you had a motto 座右铭；格言 for the way that policymakers 决策者 should think about the WTO as we address 解决；处理 these 21st-century challenges, what would it be?”
+
+“What I would not advocate 提倡；主张 is Mark Zuckerberg’s famous statement, ‘Move fast and break things.’ But instead, the motto 座右铭；格言 I would probably embrace 拥抱；接受 would be the now-ubiquitous 无处不在的；普遍存在的 motto 座右铭；格言 from Britain in World War II, which is: ‘Keep calm and carry on.’”
+
+“Bob, thank you very much.”
+
+“Thanks for having me.”
+
+[Music]
+
+气候变化是 Bob 在新书中探讨的另一个重要问题。它是当今全球政策领域最重大的议题之一。有些人认为 WTO 的规则已经过时——这些规则过于严格，阻碍各国采取国内清洁能源政策，比如"碳税"。
+
+对 Bob 来说，一些潜在的重要"气候变化缓解政策"（如碳税）可以实现其目标，同时不会对 WTO 造成问题。
+
+市场准入 vs. 自由贸易
+
+我认为，**理解 WTO 的承诺, 主要涉及"市场准入"，而非"自由贸易"，这一点至关重要。**原因在于，当各国面临全球变暖等气候问题，并需要制定相关的国内政策时，WTO 的规则并不完全限制他们调整既有的关税承诺。相反，各国真正受约束的, 是他们所作出的"市场准入承诺"。如果他们想重新谈判这些承诺，是可以做到的。
+
+然而，*当一个国家考虑实施"碳税"或类似措施*（例如欧盟正在考虑的方案），这将对其既有的"市场准入承诺"产生影响。特别是，这可能会使欧盟的国内生产商处于不利地位，并**在现有关税水平下, 导致碳泄漏（即污染较严重的产品生产, 转移到不受"碳税"约束的国家**）。
+
+碳泄漏的担忧
+
+这种"碳泄漏"的担忧, 可能是欧盟及其他国家迟迟未实施国内"碳税"的原因。这种担忧并非毫无道理——*如果欧盟认为自己无法改变"进口关税"，而 WTO 又要求其遵守既有的关税承诺，那么当欧盟实施"碳税"后，实际上是在无意间给予外国生产商更大的市场准入空间，从而损害本国企业的竞争力。*
+
+但这种结果并不符合 WTO 设立"市场准入承诺"的逻辑。因此，**欧盟可以利用关税调整, 来抵消"碳税"带来的竞争影响。**在某种程度上，这类似于"碳边境调节机制"（CBAM）。
+
+WTO 兼容的碳边境调整 vs. 争议性 CBAM 方案
+
+然而，我刚才描述的这种关税调整, 与欧盟当前的 CBAM 方案仍存在关键区别。具体来说，*我提到的做法是, 提高最惠国（MFN）关税，以抵消"碳税"对市场准入的影响，而 CBAM 方案则更倾向于根据出口国的碳排放水平, 来调整关税。*
+
+例如，假设欧盟对钢铁行业征收"碳税"，这将推高本地生产成本。如果欧盟的"进口关税"保持不变，本地钢铁企业的竞争力将下降，从而导致钢铁进口增加，进而无意中扩大了市场准入。这是经济学的基本原理（Econ 101）。
+
+*因此，如果欧盟希望在征收"碳税"的同时, 保护本国钢铁行业的竞争力，它可以提高该行业的 MFN 关税，以抵消"碳税"带来的不利影响，同时保持原有的"市场准入"水平。*
+
+这一做法完全符合 WTO 的市场准入规则，不存在法律障碍。而更具争议性的 CBAM 方案, 则涉及基于出口国碳排放水平的差异化关税。这意味着欧盟可能会根据外国企业的碳排放情况, 调整关税，这在 WTO 规则下存在更大争议。
+
+CBAM 的争议点
+
+如果 MFN 关税调整, 仅仅是为了抵消国内"碳税"对市场准入的影响，那么无论外国出口商来自中国、印度还是美国，也无论其产品污染程度如何，他们所面临的关税都不应受到影响。
+
+然而，**如果欧盟的 CBAM 方案基于出口国的碳排放水平, 进行关税调整，则可能面临 WTO 规则的挑战。**部分国家（如中国和印度）认为，这种做法实际上是在以非市场准入的理由, 对它们进行歧视，*而 WTO 规则的核心是市场准入，而非直接干预成员国的环境政策。*
+
+WTO 规则下的碳政策选择
+
+Bob 并不主张某种特定的 CBAM 方案，而是从经济学角度说明, 两者在 WTO 规则下的区别。我们可以将这一问题拆分为两个部分：
+
+非争议性措施：仅仅用于抵消碳税对市场准入的影响的 MFN 关税调整——这在 WTO 规则下是可行的。 +
+争议性措施：利用关税, 来激励其他国家减少碳排放——这在 WTO 规则下存在法律风险。 +
+将这两个问题区分开来，或许可以确保一些碳税政策顺利实施，而不受到 WTO 的质疑，同时将争议部分留待进一步讨论。
+
+Nordhaus 气候俱乐部的 WTO 挑战
+
+接下来，我们讨论**更具争议的提案。**例如，William Nordhaus 提出的**"气候俱乐部"构想——该方案设想“低碳排放国家”之间实施低关税，而“高碳排放国家”则面临更高的进口关税。其逻辑是，为了应对气候危机，政府应尽可能激励高排放国家减少碳排放。**
+
+这个提案很好地说明了 WTO 规则的限制。*"气候俱乐部"本质上要求成员国遵守共同的碳政策，并在内部实行低关税，同时对非成员国施加高关税。这显然违反了 WTO 的许多核心义务。*
+
+WTO 规则 vs. 深度一体化
+
+**这并不是说这种方案不应该被考虑，而是说有许多不违反 WTO 规则的替代方案。**例如，利用碳边境调整, 来抵消国内"碳税"对市场准入的影响，完全符合 WTO 的政策。
+
+WTO 作为全球贸易体系的宪法，仍然具有经济上的合理性。尽管 GATT-WTO 的模式侧重于市场准入承诺，而不是深度经济一体化，但这一模式仍有其优势，而不是可以轻易忽视的。
+
+WTO 在 21 世纪贸易挑战中的作用
+
+在应对 21 世纪的贸易挑战时，我们需要谨慎思考 WTO 的作用。*WTO 采用的“浅层经济一体化”模式，主要聚焦于市场准入承诺和边境措施的谈判，而不是国内政策的深度协调。这与近期一些“超大区域贸易协定”（如 CPTPP 和 RCEP）的模式不同，后者要求成员国在许多国内政策上进行深度协调。*
+
+因此，全球贸易体系的设计, 仍然存在多种选择。尽管 WTO 并不完美，但从经济学角度来看，它在全球贸易治理中仍具有重要的合法性。
+
+总结：WTO 未来的方向
+
+如果用一句话概括 WTO 在 21 世纪挑战中的作用，我不会采用 Mark Zuckerberg 的口号“快速行动，打破常规”（Move fast and break things）。相反，我更倾向于二战时期英国的著名口号：
+
+“保持冷静，继续前行”（Keep calm and carry on）。
+
+=== 结尾与个人故事
+
+“To wrap up 总结；结束 this episode, I wanted to share two other things. First, Bob Staiger was my graduate school adviser 研究生导师. Bob was a professor 教授 when I was at the University of Wisconsin as a PhD student in the 1990s. So I have known Bob for almost 30 years.”
+
+“Bob was the best sort of adviser 导师. I am one of his many former students who would all probably say the same thing. He is not only a clear thinker and a remarkable contributor 杰出的贡献者 to the economics profession, but he is a caring and kind human being. He is an incredible role model 榜样；典范. I am grateful 感激的；感谢的 for his support over my entire professional career.”
+
+“This was therefore a pretty tough episode for me to do. Bob is pretty special to me. I wanted to make sure I got everything just right.”
+
+“But second, I wanted to tell one other little story. This is a special treat for our listeners. Did you know—”
+
+“You are the only economist to have made me cry.”
+
+“Wow, I didn’t know that. Did I give you really, really strong comments on one of your early chapters? So I’m glad that you don’t remember this story.”
+
+“This was my fourth year of graduate school. My wife—an amazing woman; we have been married now a very, very, very long time—she was getting sick of the Wisconsin winters, and she had just gotten a job in Northern California. And I desperately 拼命地；极度地 wanted to go on the job market that year. And I came into your office, and I’d sent you papers ahead of time, and you’d read them. And I said, ‘Bob, am I ready to go on the market?’”
+
+“And you looked at me kindly and you said, ‘Chad, not yet.’ And I, at least internally, broke down 崩溃；瓦解 in your office—devastated 极度悲伤的；震惊的. But you were right. I wasn’t ready. I stayed another year and made my papers hopefully even better. But it was a memorable experience 难忘的经历.”
+
+“Wow, I had no recollection 记忆；回忆 that I was so cruel 残酷的；残忍的 in my younger years. I’m now apologizing to you.”
+
+“Oh no, no, it was—you did absolutely the right thing. If I had gone out on the market at that point in time, there may have never been Trade Talks—overlining.”
+
+“And that is all for Trade Talks. A huge thanks to Bob Staiger at Dartmouth College. Do check out his brand-new book titled A World Trading System for the 21st Century. Thanks to Melina CB, our supervising producer 监制；督导； thanks to Sarah too, on digital; as always, thanks to Colin Warren, our audio guy. Do follow us on Twitter or Mastodon—we’re on TradeCoreTalks—that’s not one but two ‘core’—at TradeTalks.”
+
+“为了结束本期节目，我想分享另外两件事。首先，鲍勃·斯泰格是我的研究生导师。鲍勃是教授，我在1990年代在威斯康星大学读博士时认识他。所以我认识鲍勃已经快30年了。”
+
+“鲍勃是最好的导师。他的许多以前的学生都会说同样的话。他不仅是一位思维清晰的人，也是经济学界一位杰出的贡献者，而且他还是一位充满关爱和善良的人。他是一位令人难以置信的榜样。我感谢他在我整个职业生涯中给予的支持。”
+
+“因此，这对我来说是一次非常艰难的节目。鲍勃对我来说非常特别。我想确保我做的一切都正确无误。”
+
+“但第二，我想讲另一个小故事。这对我们的听众来说是一份特别的礼物。你知道吗——”
+
+“你是我唯一一个让我哭泣的经济学家。”
+
+“哇，我不知道。我在你早期章节的其中一章里, 给了你非常非常严厉的评论吗？所以我很高兴你不记得这个故事了。”
+
+“那是我读研究生的第四年。我的妻子——一位了不起的女人；我们结婚已经很久很久了——她厌倦了威斯康星州的冬天，她刚刚在北加州找到一份工作。我非常渴望那一年进入就业市场。我来到你的办公室，我提前给你发了论文，你读了。我说，‘鲍勃，我准备好进入市场了吗？’”
+
+“你和蔼地看着我说，‘查德，还没准备好。’我至少在内心崩溃了——非常沮丧。但你是对的。我还没准备好。我多留了一年，希望我的论文更好。但这是一次难忘的经历。”
+
+“哇，我不记得我年轻时如此残忍。我现在向你道歉。”
+
+“哦，不，不，你做得完全正确。如果我当时进入市场，可能就不会有《贸易对话》了——底线。”
+
+“《贸易对话》到此结束。非常感谢达特茅斯学院的鲍勃·斯泰格。请务必查看他的新书《21世纪的世界贸易体系》。感谢我们的监制梅利娜·CB；感谢萨拉的数字工作；一如既往，感谢我们的音频负责人科林·沃伦。请在推特或Mastodon上关注我们——我们的账号是TradeCoreTalks——不是一个“core”而是两个——@TradeTalks。”
+
+
+== pure
+
+=== 开场与背景介绍
+The World Trade Organization is really struggling. The last major effort by its member countries to do big multilateral negotiations, the Doha Round, fell flat. Doha had to be abandoned without a deal after more than a decade of talks. Frustrated in the early 2010s, major member countries started looking elsewhere. Things like TPP, TTIP, and RCEP—big mega-regional deals—were where countries went to negotiate instead of the WTO, to try to tackle all of the new trade issues that weren’t going anywhere in Geneva.
+
+More recently, you have China and worries that its massive non-market economy is just so different that maybe China doesn’t fit into the rules-based trading system. Maybe the United States needed to push for some other non-WTO way of dealing with China. And then there is climate change. Member countries have failed to engage the WTO on that pivotal global issue. The WTO really is under threat.
+
+To help us think about the future and ways to fix the WTO, I wanted to better understand its past. This episode explores the economic principles behind the World Trade Organization, as well as its predecessor, the GATT—the General Agreement on Tariffs and Trade—the basic Econ 101 of the WTO, why we need it, and how it works.
+
+To help us do all that, I will be joined by a very special guest. “How long have you been an economist?”
+
+“I got my PhD in 1985, so it’s been a long, long time.”
+
+That is Bob Staiger. Bob is an economics professor at Dartmouth College. No economist has written more about the WTO over the last 30 years than Bob Staiger. And Bob has an incredible new book titled A World Trading System for the 21st Century, some of which I have asked him to share with us today.
+
+“Hi, Bob!”
+
+“Hi, Chad!”
+
+You are listening to an episode of Trade Talks, a podcast about the economics of trade and policy. I’m your host, Chad Bown, the Reginald Jones Senior Fellow at the Peterson Institute for International Economics in Washington. For our listeners, if you make it all the way to the end of this episode, you will hear more about my own personal relationship with Bob Staiger.
+
+=== 第一部分：WTO背后的经济理论
+[Music]
+
+“Part one: the economic theory behind the WTO. I want to begin by talking about free trade. Maybe let’s start with the WTO itself. Does the World Trade Organization indicate anywhere that its objective is to get countries to impose zero tariffs and get them all the way to free trade?”
+
+“The short answer to that question is no. If you look at the WTO website, you’ll find a tab that says ‘What We Stand For,’ and you might expect a statement there. But in fact, that statement never mentions the goal of free trade. It does mention the goal of freer trade, but never says free trade is the goal, even aspirationally. And then a bit more authoritative source would be to go to the actual legal text of the WTO or the GATT and look at the preamble. The preamble is the legal statement by the member governments of what exactly their objectives are, and in the preamble, there is no mention of free trade as a goal. There’s a mention of reducing tariffs—substantially reducing tariffs—but no mention of free trade.”
+
+“So the WTO doesn’t say free trade anywhere. Maybe it’s not at all about economics then. Maybe it’s all about lawyers or diplomats or military alliances?”
+
+“That’s certainly possible, but I think it would be pretty weird if that were true, for at least three reasons. First of all, the WTO is about the international economic relations between countries, and so if it did not have some economic principles, that would be quite strange. Second of all, if we look at the 75-year history of the GATT, it’s been extremely successful in liberalizing trade, and so if there weren’t some economic principles behind it, that would be surprising. And third, a principal architect of the GATT was the economist and future Nobel laureate James Meade. So again, the idea that economics is not behind it is something that seems unlikely.”
+
+“These are clues that there is likely to be some serious economics behind the GATT and behind the WTO. But the idea that the WTO is not about the economic efficiency case for free trade—is that a good or a bad thing?”
+
+“So as an economist, I actually think it’s a good thing that the WTO, and GATT before it, is not based on the case for free trade. Because that case, as economists know, is based on a lot of strong assumptions that typically are not going to hold in the real world for many of the member countries of the GATT and the WTO. Those assumptions include things like governments could not be wanting to use tariffs for distributional purposes—income distribution—either because they don’t care about the income distribution in their country or because they have better instruments to achieve that. And while some governments may—well, the US could be a good example, possibly Europe—many of the WTO member governments, two-thirds of which are developing countries, are not going to have these instruments. So the assumptions that are required for the economist’s case for free trade are really suspect when applied to the WTO membership. And if that were the basis for the WTO’s claim of legitimacy as the constitution of the world trading system, I would be suspicious of that claim.”
+
+“If the economic basis for the WTO is not free trade, then what is it?”
+
+“I think the basis for the WTO, in terms of economics, is something far more general than the case for free trade. And that is the case for countries to internalize the externalities that they impose on each other when they choose their trade policies. And by externalities, what I mean is the effects that are imposed on other countries when a country unilaterally makes tariff choices. And when a country takes account of the international externalities that it’s imposing on its trading partners through its tariff choices, that’s going to naturally lead the country to adopt lower tariffs. But there’s no necessary reason why those tariffs should be driven all the way to zero.”
+
+“The economic case for the WTO requires imagining a world without it. Without a WTO, governments would implement policies—things like tariffs—that impose costs on their trading partners. Some of these costs are externalities; these are costs the country is not thinking about when it makes its tariff decisions. The economic purpose of the WTO is to get rid of those costs.”
+
+“Okay, let’s be specific then and walk through a trade policy example to really understand how this international externality can come up. Let’s suppose I’m the European Union, you’re the United States. You export automobiles to me, and I, the European Union, am thinking about imposing a tariff.”
+
+“Well, the European Union will be thinking about its own interests and how it’s affecting its import-competing car producers and its workers and various other things. But what it’s not probably thinking about is how it’s impacting the US. And on the US side, the car producers who were exporting cars to Europe are going to be hurt by those tariffs, and the workers who are working in the industries that are producing cars and car parts for export to Europe are going to be hurt by those tariffs. And that’s an international externality that the European Union is not naturally going to take account of in its decision.”
+
+“That international externality arises because, in the absence of a WTO, Europe imposes a tariff that is too high. If there were no forum for the US government to come to Brussels and tell the European Union, ‘Hey, you’re hurting our car producers and our car workers,’ then the EU would naturally choose a tariff that doesn’t take that foreign harm into account. The EU would impose a tariff that is just too high. The forum that the GATT-WTO provides is exactly a forum where the US can give voice to those complaints to the European Union when it’s making its tariff decisions.”
+
+“Of course, if the US just says, ‘You’re hurting us,’ that’s not going to affect the European Union’s decision. So the US has to have some way to make an offer to the European Union of something of value that the European Union will accept in exchange for lowering its tariffs from what it otherwise would choose.”
+
+“The US would need to make Europe an offer. Starting in 1947, that is how the GATT worked. Countries like the US and those in Europe would get together periodically in something called negotiating rounds to coordinate mutual tariff reductions.”
+
+“Well, it could well be that the US is also making tariff decisions of its own that are harming European Union interests. And it’s exactly that reciprocal exchange of tariff cuts that the two countries could negotiate in a GATT-WTO forum that is the basis of the way that the GATT and the WTO internalize these international policy externalities.”
+
+“So it seems like, from the way we’ve framed it, that this negotiation could be beneficial to both countries—both the United States and the EU. But how do we know? What would it take for us to actually be sure that there are gains to be made here and that we really do need a WTO to solve a problem?”
+
+“That’s an important question, and the reason that it’s an important question is that there has to be some inefficiency that can be corrected by these negotiations if both countries are going to walk away happy. Because otherwise, you can’t make the pie bigger, and both countries can’t get a bigger slice of the pie. Unfortunately, the kind of international externalities that I’m describing are what economists call pecuniary externalities. They travel through markets, and they travel through prices. So they’re different than the externalities that we might be considering in a global carbon agreement, where the externality travels through the atmosphere—it doesn’t travel through prices.”
+
+“In trade, these externalities that we’re talking about here—when the European Union is imposing a tariff that is blocking imports from the US and therefore hurting US car producers and US workers—that’s traveling through trade and therefore traveling through markets. But economists know that pecuniary externalities don’t normally cause inefficiencies.”
+
+“So the key remaining question is: where is the inefficiency that could create the basis for a mutually beneficial agreement in the GATT-WTO? And the answer is, there is one special case where the pecuniary externalities associated with a country’s tariff choices do create inefficiencies. And that’s when the country choosing the tariff is large enough in world markets to be able to affect foreign exporter prices—or, in other words, the country has market power in world markets.”
+
+“This is incredibly important. The key purpose of the GATT and WTO is to create a forum for big countries that have buying power in world markets to get together. In the absence of that forum, each country would implement its own import tariff that was too high. Each would impose a ‘beggar-thy-neighbor’ policy that creates costs—an international externality—on its trading partner.”
+
+“So, back to our original example, I, as the EU, would have to be a big consumer of automobiles. So that when I raised my tariffs, the impact on you, the American exporter, was you had to accept a lower price for the cars that you’re selling into my market. I’m a really big consumer of these cars.”
+
+“Exactly. And what you’ve just described is a monopsony power of an import demander who’s forcing down the price of the firms that are selling to it. And what that does in the international context is allow the EU, in our example here, to shift some of the cost of its protection onto foreign countries—in this case, onto US producers—because it’s getting a lower export price in exchange for the tariffs that it’s imposed. And that international cost-shifting is very naturally going to lead the EU to choose higher tariffs than it otherwise would.”
+
+“So at the end of the day, I would argue that, according to the WTO, it’s not about free trade. But it’s about how much market access a country is comfortable providing to its trading partners once it is stripped of its international cost-shifting incentives.”
+
+=== 第二部分：互助性（Reciprocity）与WTO的运作方式
+[Music]
+
+“Part two: reciprocity, or how the WTO makes this work. The WTO is not about free trade. The WTO is about how much market access a country is comfortable providing to its trading partners once the country is stripped of its international cost-shifting incentives.”
+
+“Your research has done more than just motivate the existence of the WTO. It’s actually looked at some of the specific principles that are embedded in the legal texts and how countries seem to operate. One of those is reciprocity.”
+
+“Reciprocity is GATT’s way of neutralizing the international cost-shifting incentives of its member governments. And reciprocity is defined in an interesting way in the GATT, in the WTO. You might think that reciprocity, as it’s kind of colloquially meant, would say, ‘Well, we should have equal tariffs across countries.’ That essentially was the definition of reciprocity that the Trump administration was hoping to achieve. But GATT and the WTO define reciprocity in a very different way. Jagdish Bhagwati, among others, once defined it as ‘first-difference reciprocity.’ It’s about reciprocity in changes in tariffs, not levels of tariffs.”
+
+“And in particular, reciprocity is thought to be satisfied within the GATT-WTO when a country’s tariff changes, when combined with the tariff changes of its trading partners, lead to a change in the volume of its imports which is essentially matched by the change in the volume of its exports.”
+
+“The economics of reciprocity, then, in the context of the WTO, is that a tariff change by me and a tariff change by you lead to equal changes in our imports and exports with respect to each other.”
+
+“Now, there’s multiple places in the WTO, or the GATT before it, where this might come up. The first would be when countries are thinking about lowering their tariffs—reducing their tariffs. Countries want reciprocal outcomes at the end of one of those negotiating rounds.”
+
+“When countries are thinking about lowering their tariffs, they typically seek reciprocity in the outcome of the negotiation. So, for example, if the EU is going to lower its tariff on imported cars, it would like to find tariff changes from other countries that would ensure that the increase in its import volume is matched by the increase in its export volume to those other countries.”
+
+“That kind of balancing is going to change the calculation of the tariff choices of the EU in terms of the unilateral choice. Because now, if the EU agrees to lower its tariff on car imports from the US, well, it’s giving up some of the cost-shifting, and those exporter prices from the US are going to tend to rise. And when the US is lowering its tariffs reciprocally on imports from the EU, those exporter prices from the EU to the US are going to rise. And those two things, from the EU perspective, can just offset each other. So the EU no longer has any net incentive to be raising tariffs in order to shift costs onto other countries.”
+
+“And notice that the amount by which the EU is incentivized to lower its tariffs on cars is all about one thing—and that is the market power that it was exerting and the cost-shifting that it was initially engaging in in its initial tariff levels. And that’s exactly what should be given up in a negotiation—is that part of the tariff. What’s left is then the underlying domestic incentives that the EU has to impose tariffs on cars, and on the flip side, the underlying domestic incentives that the US might have to impose tariffs on EU exports. And that’s why, even at the end of those negotiations, you may not end up with free trade on either side of the market. What you do end up with is the underlying domestic reasons for tariffs that countries are imposing.”
+
+[Music]
+
+“Countries may impose tariffs for domestic reasons. Maybe a government wants to use a tariff to redistribute income from consumers to some companies or some workers. Maybe this was the result of the government being lobbied. Or maybe, as Bob mentioned is the case for a lot of developing countries, an import tariff may be the most efficient policy instrument the government has to raise tax revenue.”
+
+“The point is, that is the country’s own sovereign domestic business. That part of the tariff remains.”
+
+[Music]
+
+“But what reciprocity does get rid of is the other part of the tariff—the international externality part coming from importing countries’ market power that imposed a cost on trading partners.”
+
+“A second place where reciprocity comes up is when countries want to raise their tariffs. Maybe because something unexpected changed at home, the government needs to increase a tariff, but the country still wants to follow GATT-WTO rules. Reciprocity plays a very important role in this second circumstance.”
+
+“And this circumstance is critical because, as was anticipated by the GATT and the WTO design, circumstances change after negotiations have occurred. We know the world doesn’t stay the way it was, and countries may want to rethink the commitments that they made in terms of market access. And so, importantly, a question arises as to what are the procedures by which countries can move away from the commitments they made at an earlier stage.”
+
+“Well, in the legal literature, there are two ways that a commitment can be protected. It can either be protected as a property rule—meaning that if two countries or two people negotiate some contract, then one side of that contract can’t get out of the contract commitments unless the other side agrees to let that happen. And that’s a property rule, which can make renegotiation very difficult.”
+
+“A second way that the contract can be protected is through a liability rule. And under a liability rule, if one side of the contract wants to get out of that contract, it can do so as long as it is willing to pay a particular price that is specified. Well, in the GATT-WTO, that price is reciprocal withdrawal of market access commitments on the other side. And so, as long as a country is willing to let its trading partners raise their tariffs reciprocally if it wants to raise its tariffs, it can go ahead and do that.”
+
+“The WTO has multiple places where countries are allowed to raise their tariffs, subject to certain rules. An important one is GATT Article 28—Modification of Schedules. That’s the part of the WTO that a country can use when its government needs to back away from an earlier market access commitment.”
+
+“Here, there is a liability rule, and it is reciprocity.”
+
+“How would that work?”
+
+“The way it would work is, if a country felt, because of some new developments, that it needed to raise its tariffs and reduce the market access that it originally committed to, it is free to do that. But it can’t do that in isolation—and that’s very important. Because if it could do it in isolation, we’d be right back in the unilateral cost-shifting problem that the GATT-WTO negotiations were supposed to solve.”
+
+“So if the US decided that it wanted to raise its tariffs on imported steel, and there were no possibility of foreign countries to respond to that, the US could go ahead and raise its tariffs on imported steel and lower the costs of steel into its markets, and therefore shift some of the costs onto foreigners. Well, the WTO allows the US to go ahead and raise its tariffs on steel, but in doing that, it allows other countries to reciprocate. And what that does is face the US with the right incentives to decide whether it really does want to raise those tariffs on steel.”
+
+“Those incentives are right because, while its raising of a tariff on steel might well lower the exporter prices of steel into its market, other countries are going to be able to reciprocally raise their tariffs on US exports. That’s going to lower the US exporter prices into their markets. And under reciprocity, those two effects essentially balance out. And so countries face the right incentives to decide whether they truly want to back off on their commitments. Those incentives are going to be colored by their own domestic situations, but not by the international cost-shifting, which is the source of the inefficiency that the WTO is trying to correct.”
+
+=== 第三部分：经济证据
+[Music]
+
+“Part three: the economic evidence. We have this amazing economic theory motivating the WTO and its principle of reciprocity. Bob’s book makes this case intuitively, but also using formal economic models and lots of mathematical equations. Next, I wanted to turn to the evidence.”
+
+“There are lots of places to look for whether the evidence confirms or rejects this theory that the WTO solves the market power and international externalities problem. To start, there are the tariffs of countries who were not part of the WTO.”
+
+“First, we want evidence that when countries are unconstrained by a trade agreement, they have market power and they use it when choosing their tariffs. This better be true, because if that’s not true, then there’s no inefficiency created by the pecuniary externalities of tariff choices, and there’s nothing for a trade agreement to do.”
+
+“So there is evidence of this, but as you might imagine, you have to look in the right places. In today’s world, most countries are members of the WTO—164. So we have to go back in history, at least a little bit, to find countries who were not constrained by trade agreements, and in particular by their WTO membership. And we can do that. China and Taiwan joined the WTO in 2001, Saudi Arabia joined in 2005, Ukraine joined in 2008, Russia joined in 2012. There’s a host of countries that were not GATT members originally and were not members of the WTO when it was formed in 1995.”
+
+“So those are the places where one would want to look to see whether those countries have market power in their unilateral tariff choices and whether they use it to set their tariffs. When looking at the tariffs those countries were setting before they joined the WTO, what was the evidence? Did market power matter?”
+
+“The evidence is pretty strong that that market power does exist. In fact, it exists in some surprising places. It’s not only China and the Chinas of the world that are large that seem to be able to exert their market power with their tariffs, but even countries that are relatively small on the world stage—Saudi Arabia, Ukraine—tend to be big in at least certain sectors and certain regions and have enough size to be able to exert market power when they choose their tariffs. And the evidence suggests that the tariffs that they did choose before they joined the WTO did in fact reflect that market power.”
+
+“That’s evidence from countries not yet in the World Trade Organization. Now, once countries are in the trade agreement—and you pointed this out—the thing that we’re looking for, whether they’re exerting market power through their tariff choices, if the WTO is doing its job, that should disappear. So we shouldn’t find it. So we shouldn’t look there either. But what about through the process of countries negotiating to get into the trade agreement? Is there evidence from that setting?”
+
+“So here again, there is evidence, but again, you have to look in the right places. And in this case, the issue is that there’s been eight multilateral negotiating rounds that were sponsored by the GATT, the final round—the Uruguay Round—creating the WTO. And all along, countries who were members from the very first round in 1947 have been liberalizing their tariffs. So it’s a subtle question as to how much of the liberalization that occurred was taken account of the market power effect of those countries, and how much was taken account of other things. And that’s what we want to know—is whether that liberalization can be explained by the market power of those countries.”
+
+“So one way to get around that is to focus on these very same countries that I mentioned a minute ago—the Chinas, the Taiwans, the Saudi Arabias, Ukraines, Russia, etc.—that joined the WTO after its creation in 1995. By the time the WTO was created, the member countries who had been members had done a lot of liberalizing, and most of the liberalizing that they were going to do on goods, and were asking the new members in a one-off negotiation to get rid of all of the bad parts of the tariffs that are supposed to be gotten rid of in the WTO.”
+
+“What did you find? For all those countries acceding to the WTO after 1995, were the bad parts of their tariffs—the parts that they got rid of through accession negotiations—were those related to their market power?”
+
+“So we found that there is quite a strong positive correlation between the market power that the countries who were joining the WTO had, in terms of the sectors that they were offering tariff cuts on, and the size of those tariff cuts. So sectors for a country that is quite small and didn’t seem to have much power over foreign exporter prices—they didn’t do much tariff cutting. And in a way, that makes complete intuitive sense, because the only way that countries are going to be asked to cut their tariffs is if there’s some exporter out there who cares enough about that tariff to tell its government that that tariff should be cut, and that’s something that that government needs to do.”
+
+“So at the end of the day, for those countries and those sectors, what seems to be left is not free trade. There’s lots of variation in the tariffs that remained after those countries joined the WTO. But what seems to be extracted from the original tariffs is the component that reflected market power.”
+
+“There is evidence for countries outside of the WTO that the size of their tariffs at the time reflected their market power. Then, when they accede and join the WTO, there’s additional evidence that that market power gets expunged through the tariff reduction requests that existing WTO members made.”
+
+[Music]
+
+“Next, let’s turn to the evidence on reciprocity under the GATT. There are at least two places during the GATT period where we can look for evidence on reciprocity—as the outcomes of the negotiating rounds, as well as the actual bargaining behavior of countries during those rounds.”
+
+“Let’s start with the outcomes of the negotiating rounds. Does the evidence suggest that bargaining outcomes were reciprocal?”
+
+“There is evidence that bargaining outcomes do conform to a definition of reciprocity that’s broadly consistent with what we’ve discussed here. And that evidence is there for the US and for the EU in the Uruguay Round, and it’s for other countries that have been looked at as well. And what this evidence amounts to is looking to see whether the negotiated tariff cuts that countries agreed to have led individual countries to anticipate increases in their import volumes that are approximately equal to the increases in their export volumes.”
+
+“In fact, historically, for example, the US routinely did reciprocity calculations at the end of each bargaining round in the GATT to see whether reciprocity was indeed satisfied by the bargaining outcomes. In the early days of the GATT, like during the Torquay Round in 1951, the State Department was negotiating for the United States—the Office of the US Trade Representative wasn’t established until 1963. Later, the International Trade Commission—the ITC—was also involved in the assessments of the rounds to look for evidence of reciprocity.”
+
+“What sorts of calculations were these government agencies doing, and why?”
+
+“The ITC has done these calculations, and before that, the State Department did these calculations. And there were some relatively sophisticated attempts to make these calculations that took account not only of the direct effects of tariff cuts that the US had bargained with certain trading partners, but also the indirect effects that third-party bargaining in the round would have on US exporters.”
+
+“The State Department did these calculations and said, ‘10% of the export increases we’re going to get are due to third-party bargains in the Torquay Round.’ It’s like Germany and France negotiating something, but we’re going to get MFN—that’s part of our export. And they’re adding up, you know, how much our export volume’s going to increase versus how much import. And the ITC did actually, you know, try to use elasticities and try to actually calculate, ‘What do we anticipate will be the change in our exports and the change in our imports by sector from these rounds?’”
+
+“And one could argue, well, it was partly for political cover—that Congress wanted, you know, this was supposed to be reciprocal, right? And they wanted to make sure, ‘Well, we can say that, yes, our exports are going to expand by as much as our imports.’”
+
+“Reciprocity was an important outcome of the negotiating rounds.”
+
+“A second place that reciprocity could also be important was as a norm that shaped the bargaining behavior of countries during these GATT rounds. Just thinking about it in principle, at least, countries could pursue all kinds of negotiating strategies—maybe they make a lowball offer and see what they can get for free, or maybe they try to act tough. Can you explain the basic theory of how reciprocity was expected to work in creating a norm for trade negotiating behavior under the GATT?”
+
+“If countries are holding themselves rigidly to a reciprocity norm—that they’re demanding reciprocity as an outcome of their bargain—and if they’re also bargaining under an MFN restraint that says the tariffs we bargain over are non-discriminatory, they’re MFN tariffs, then it turns out that that can go a long way to killing the strategic incentives the countries might otherwise have to make lowball initial offers, to try to act tough in a bargain in order to get a better deal.”
+
+“And the reason is very intuitive. Well, if reciprocity is the norm that says, ‘I expect that whatever we agree to, if I’m going to cut my tariffs, you’re going to have to cut your tariffs in a reciprocal way,’ then there’s very little else to bargain over. It’s not like I can say, ‘Well, I’m going to hope that if I offer you a lowball tariff cut of my own, I can force you to give me a big tariff cut,’ because that would violate reciprocity. So if we’ve come into the negotiations already agreeing that reciprocity is the norm, then that kind of strategic behavior should fall by the wayside, and we should just cut right to the chase.”
+
+“So that’s the theory. But what happened? How are researchers able to even examine bargaining behavior during those GATT rounds of negotiations?”
+
+“In most situations, you do not get data on actual bargaining between parties in the GATT rounds. And as I mentioned, there were eight of them. The actual bargaining that occurred, especially for the older rounds, was all done not on computers and not with tablets, but on legal pads and paper. And so all of the offers and counteroffers were painstakingly written down—sector by sector, product by product, country by country—and exchanged in physical form between the countries in their bargaining.”
+
+“So the WTO website actually has many of the rounds of bargaining data up on its website. These are in PDF form; they’re in the raw form that the countries actually bargained in—different languages, different industrial classifications, not easy to use, but they can be used. And there has been research that looks at one of the rounds, which is the Torquay Round from 1950 to 1951, and the bargaining data in that round.”
+
+“You have this incredible data from 1951 of the offers and counteroffers being made in the Torquay Round. So what do you find? Does the bargaining behavior look like what we might expect if it were satisfying the GATT norms of reciprocity and MFN?”
+
+“The short answer is, in many striking ways, it does. In particular, there’s a very striking lack of seeming strategic behavior, in the sense that the first offers that are made by countries are essentially their last offers. Countries do not seem to make lowball offers at the start and then, through the back-and-forth of the bargain over the months of the round, finally get to some middle ground between what one country started with and another country started with.”
+
+“Instead, each country, for the most part, seems to make its initial offers as those offers that it truly wants, without any kind of strategic interaction. Then the back-and-forth is really more about making sure that reciprocity ultimately holds. Because you, Chad, might come to the table hoping for a really big deal—a reciprocal deal, but a really big tariff cut—and I might come to the table in this bargaining with you hoping for a much smaller deal. And so we do have to figure out who’s going to prevail on that basis. But in terms of the balance of the deal, we’re not bargaining over reciprocity—that’s just a norm.”
+
+“For countries negotiating under the GATT, reciprocity was the norm. Another way to see this was through the bargaining behavior of new countries. The Torquay Round was the third time that countries were getting together to negotiate under the GATT. How did countries who were new at the negotiating table, joining for the first time during the Torquay Round—how did they bargain differently when it came to this reciprocity norm?”
+
+“Interestingly, it was noted at the time of the Torquay Round that there were some new members who were joining that didn’t necessarily understand the way that the bargaining worked under reciprocity and MFN in the GATT. And those countries—including Austria, West Germany, Korea, Peru, the Philippines, and Turkey—who were joining the GATT during the Torquay Round, those countries came into the bargains thinking that these were like normal bargains where they could make lowball offers and hope to be tough and get a good deal.”
+
+“And they failed to do that. They either had to walk away with a small trade deal because others took their offers at face value, or they had to give up on their strategizing and just reveal what they actually wanted, just like the other countries.”
+
+[Music]
+
+“There’s lots of evidence, then, that the WTO would sort of line up with how economists think about it, including through reciprocity. But is the evidence universal?”
+
+“So I would say that the evidence is strong but not universal. And a good example of counterevidence—or at least seeming counterevidence—is in the recent Trump trade wars. And in particular, there’s been a lot of studying of the foreign exporter price effects of tariffs that were imposed both by the US and by China and other countries as well. And what this evidence seems to suggest is that, at least so far, it’s very difficult to find depression of foreign exporter prices that result from tariff increases.”
+
+“So that would run counter to the evidence that I’ve been talking about in the context of trade agreements. And it would be a serious challenge for the view that the WTO and GATT before it exist in order to eliminate the incentive countries have to use their market power to depress foreign exporter prices. Under this view—that WTO negotiations lead countries to constrain their tariffs in ways that limit their market power—we might have expected foreign exporters to lower their prices when hit with the new trade war tariffs. And we’re not yet seeing a lot of evidence of this.”
+
+“What are some other potential explanations for these puzzling results?”
+
+“Partly, the evidence is very short-run, as it has to be, because we haven’t had a lot of time since the Trump trade wars to look at the data. Secondly, a reasonable interpretation of the Trump tariffs themselves is that they were always meant to be temporary and used as bargaining tariffs to try to get other countries to lower their tariffs. And to the extent that they were viewed as temporary, then the exporter price effects of those tariffs are not nearly as clear as they would be if these were expected to be permanent.”
+
+“But the short answer is, this new evidence raises questions that still need to be sorted out. And over time, that process of sorting out will help clarify how this evidence fits with the earlier evidence. And as an interesting aside, of course, President Trump certainly believed that foreign exporters were going to pay the cost of these tariffs. It’s simply that the economic research that has been done on his tariffs doesn’t support that view.”
+
+=== 第四部分：中国与WTO
+“Part four: China and the WTO. President Trump’s trade war with China has kicked off a tense period in trade relations—not only between China and the United States, but also for the WTO. There have been calls for the US and China to decouple. Some have even proposed kicking China out of the WTO.”
+
+“The argument is that the WTO can’t work for a non-market economy like China—a state-run economy with lots of subsidies, state-owned enterprises, five-year plans, and industrial policy. We’re going to focus purely on the issues associated with China being a non-market economy for now. We’re going to put to the side what might be legitimate concerns over democracy or human rights or China’s use of trade policy as an instrument of economic coercion.”
+
+“The big question for the trading system is: can the WTO potentially accommodate non-market economies like China? Bob’s answer may surprise you.”
+
+“Once we take the view that it’s not about free trade but about how much market access a country is comfortable providing to its trading partners once it’s stripped of its international cost-shifting incentives, accommodating a non-market economy such as China becomes quite consistent with the WTO principles.”
+
+“Accommodating China could be consistent with WTO principles, but it won’t be easy. It will require some work. Making progress, though, requires understanding exactly what it is about the current market access approach of the WTO that doesn’t work when it comes to China.”
+
+“Of course, there are immense challenges. The GATT and the WTO were created with market economies in mind. And the rules of the GATT-WTO are built on the principle that when a country cuts a tariff, that tariff cut has price effects which are going to lead consumers and firms to do certain things that a market economy would predict they would do. And in a non-market economy, that link is severed. And when that link is severed, that creates a problem for the GATT or the WTO.”
+
+“But that problem is not as fundamental as many people think, I believe. Because ultimately, China has the same possibility of exerting its monopsony power on foreign exporters to lower their costs and therefore has the same temptation to engage in international cost-shifting of its policies as does any other country. It’s just that within China’s borders, the amount of production and consumption—and therefore the volume of its imports and the volume of its exports—those things are not determined by price signals in the way that they would be in a market economy.”
+
+“Why is this potentially not a problem for the WTO?”
+
+“The problem is not the market access focus of the WTO in terms of its commitments. The problem is how to get China to honor its market access commitments when it’s not a market economy. And the structure of the GATT-WTO is to allow countries to make market access commitments through tariff cuts and through other rules—the articles of the GATT and the WTO that shore up those tariff commitments in terms of their market access implications.”
+
+[Music]
+
+“For market economies like the United States or Japan or the EU, those other articles of the GATT and WTO have typically been enough. One WTO member can translate whether another is living up to its market access commitments, for the most part, by looking at their policies—whether their tariffs and their subsidies are following the rules are usually enough to tell us whether they are following through with their market access commitments.”
+
+“But for China, that has not been enough. Because China is a non-market economy, commitments over its tariffs and other WTO rules did not lead to reciprocal market access.”
+
+[Music]
+
+“So what should countries tell China?”
+
+“The first thing that I would say is, it is not the case that China should be told that its non-market features are incompatible with WTO commitments. Rather, what China should be told is that, like every other WTO member, it needs to honor its reciprocal commitments—and in particular, its reciprocal market access commitments. And so it needs to find a way to make those reciprocal market access commitments in a credible way. And so far, I think many observers agree that the articles of the WTO and the GATT before it are not working to deliver that.”
+
+“So that raises the question: what would work to do that? Well, first of all, that’s a very different question than the question that many observers, I think, are raising—which is, if China can’t evolve toward a market economy, it has no role in the WTO.”
+
+“So for the question that I’m raising, China could continue to have its own economic system as it chooses, but it needs to find ways to make credible market access commitments.”
+
+“If the goal is to get China, a non-market economy, to make secure market access commitments, there is an historical precedent in the multilateral trading system. And here, history provides an interesting example. China is not the first non-market economy to join the GATT or the WTO. There were a number, and one interesting example here is the case of Poland, who joined the GATT in 1967—at a time when Poland was not expected to evolve toward a market economy.”
+
+“So Poland and the rest of the GATT members had to figure out a way that Poland could make market access commitments that would satisfy the reciprocity norm that all GATT members had to satisfy. And the way that this was solved in the case of Poland was a very simple one- or two-paragraph accession agreement that essentially said that Poland agreed to a quantity commitment to grow its imports from member countries of the GATT by a certain percentage per year that reflected the expectation of member countries of how much Poland’s exports would grow to them. That’s the reciprocity norm that countries are trying to achieve, whether they’re market economies or non-market economies, in the GATT.”
+
+“Now, that said, Poland was a medium-sized non-market economy at the time. China is a very large non-market economy. So I’m not suggesting that one could adopt the solution that was adopted by GATT for the case of Poland and simply apply it to the case of China. But what does seem indicated by that example is that non-market economies can indeed be good citizens in the GATT and the WTO. And the key is that they find ways to maintain reciprocity—and reciprocity of market access commitments. And there is nothing about whether the economy is a market economy or non-market economy that necessarily precludes that.”
+
+“Building on the example of Poland’s agreement to join the GATT in 1967, part of the answer may be for China to grow its imports from WTO members by the same amount that it is growing its exports—though this sounds similar to President Trump’s Phase One agreement with China in 2020, it would be different in some very important ways.”
+
+“It’s interesting to think about what the Trump administration was trying to do here. They did try to force China to abide by quantity commitments to increase imports from the US. But here, I would say there were several very important differences. One was, these were commitments that were of a bilateral nature and not a multilateral nature. There were commitments that China was being asked to agree to on US exports to China, and that is very different than a multilateral commitment that China might make in the context of WTO negotiations, where it makes commitments to market access and increased imports from WTO member countries as a whole.”
+
+“It’s also true that the Trump attempt was not a rules-based attempt in any sense of the word, in that it occurred in the context of the Trump trade war. And that is a very different environment than what would be a typical negotiation in a WTO context.”
+
+“So this would not be a commitment by China to buy an additional $200 billion of exports from the United States alone. The reciprocal market access idea here is to make sure China’s import increases from the world are balanced with its increases in exports.”
+
+“And let me be clear—I’m not advocating that a quantity agreement is the right way to go for China. I think the more important point is that, once one accepts the view that a necessary condition for China to be a good WTO member does not necessarily mean it has to relinquish its non-market system, then many things may be possible. And China itself may know the best way to make these market access commitments if it’s pitched in a way that says China is just being asked to do what every other member country does—which is to abide by reciprocity in its market access commitments.”
+
+“For a WTO desperately in need of new negotiating approaches, this is a super interesting idea. I will write it up, hand it to USTR, to DG Trade in Brussels, to MOFCOM, to the Chinese negotiators in Beijing, to the folks in the WTO Secretariat in Geneva, and see if this might at least get them back to the negotiating table.”
+
+=== 第五部分：WTO规则与应对气候变化的政策
+“Part five: WTO rules and policies to tackle climate change. Climate change is another problem that Bob grapples with in his new book. Climate change is one of the biggest global policy issues of our time. Some have argued that WTO rules are outdated—that WTO rules are simply too tight and discourage countries from adopting domestic clean energy policies like carbon taxes.”
+
+“To Bob, some potentially very important climate change mitigation policies, like carbon taxes, could achieve their goals without causing problems for the WTO.”
+
+“I think the observation that the WTO commitments are about market access rather than a commitment to free trade is really important here. And the reason is that, when countries are faced with a climate issue like global warming and need to think about domestic policies that might address that issue, in the WTO, they are not necessarily wedded to the existing tariff commitments that they’ve made. Instead, what they are wedded to is the existing market access commitments that they have made. And as we’ve talked about, if they want to renegotiate those, they can do so.”
+
+“But when a country considers—as, say, the EU is considering—imposing carbon taxes or the equivalent on its producers, that’s going to have market access implications for the existing tariffs that the EU has committed to. And in particular, it will likely disadvantage EU producers and, at the existing tariffs, lead to what economists call carbon leakage—that is, movements of production of the dirtier goods that the EU produces out of the EU system and into countries that perhaps don’t have those carbon taxes and/or are using dirtier technologies.”
+
+“That fear of carbon leakage may be preventing the EU and other countries from imposing domestic carbon taxes in the first place. And the source of that fear makes sense. If the EU thinks it can’t change its import tariffs, and so if the EU were held to the tariffs that it had committed to in WTO negotiations, when it imposes a system of carbon taxes, it would actually be being asked by its WTO tariff commitments to now offer more market access than it had originally offered—because it is disadvantaging its domestic producers with these carbon taxes at the expense of foreign producers.”
+
+“And I don’t think that reflects the logic of the market access commitments that the WTO tries to administer. In particular, there’s an opportunity here for the EU to raise its tariffs to offset the competitive effect of its carbon taxes. And in a sense, that’s very similar to what we might think of as a carbon border adjustment.”
+
+“But there are some differences that are important in what I’ve just said relative to, say, the current CBAM proposal of the EU. And a key difference is that what I just described is the possibility of an MFN tariff increase that the EU could impose as it imposes carbon taxes that would offset the market access implications of its carbon taxes.”
+
+“Take a heavy carbon-emitting industry like steel. Suppose the EU imposes a carbon tax on its steel industry. Then the industry’s costs go up. For the same amount of local demand in the EU, if the EU’s import tariff is unchanged, the local steel industry’s cost going up will lead to an increase in EU steel imports. The EU has inadvertently increased its market access. That is basic Econ 101.”
+
+“So if the EU were to impose carbon taxes in a way that disadvantaged its steel producers, under this thinking, the EU could raise its MFN tariff on steel to just offset the disadvantage that its steel producers were now facing because of the carbon tax, and preserve the market access that it had originally—before the carbon taxes were imposed—offered to other countries.”
+
+“Well, that’s very consistent with the market access orientation of the WTO. And I don’t think there’s anything that would argue for a carbon border adjustment that were designed in that kind of way to just maintain the market access commitments of a member country.”
+
+“What might be more controversial—and what this CBAM proposal seems to be leaning toward—is to make those carbon border adjustments a function of the carbon of the foreign exporting countries. And notice that what I said was that the MFN tariff that the EU could raise would be WTO-consistent, in my view, if it raised its MFN tariff in a way that just offset the market access implications of its carbon tax. Well, that depends on how dirty the production is within the EU—because those are the firms that are going to have to pay this carbon tax. And the dirtier the industry, the higher the tax they’re going to have to pay, and that would suggest that, for those industries, the MFN tariff adjustment should be higher as a result.”
+
+“But that has nothing to do with the dirtiness of the production outside the EU. If the MFN tariff is raised to offset the market access implications of the carbon tax within the EU, foreign exporters—whether they be from China or from India or from the US, and whether their exports are dirty or modestly dirty or clean—should have no bearing on the tariff they face selling into the EU.”
+
+[Music]
+
+“One type of carbon border adjustment would seem to be completely WTO-consistent—this MFN kind, at least from the perspective of countries making market access commitments through the WTO. What is likely to be more controversial, from the perspective of the WTO’s current rules, are other CBAM approaches that would differentiate between foreign sources based on their carbon emissions.”
+
+“That latter dimension—if you were going to use your tariffs to actually incentivize the dirtiest countries who are selling to you to clean up their act—that’s part of what the CBAM proposal seems to be aimed at. And I think that’s a more controversial dimension of carbon border adjustments, because it doesn’t just offset the market access implications of the carbon tax for a country, but in fact it uses the border adjustments to try to incentivize other countries to clean up their act in terms of carbon emissions as well.”
+
+“I think the EU believes that its CBAM proposal will be WTO-consistent, but that hasn’t been tested in the WTO. And my own sense, as an economist, is that I think an MFN carbon border adjustment of the kind that I first described would be perfectly consistent with WTO rules. But a carbon border adjustment that was based on the carbon content of the foreign exporting country is likely to face greater challenges in the WTO.”
+
+“And in part, this is because countries like China and India feel that this would be an illegal way for the EU to discriminate against them for a purpose which falls outside the fundamental market access focus of the WTO—namely, to help solve the climate problem. And I think one can argue whether that purpose itself is legitimate or not, but in my view, it does fall outside the market access issues that are the central purpose of the WTO.”
+
+“To be clear here, Bob is not advocating for one type of CBAM over another to address the climate problem. What he is explaining, as an economist, is that there’s a key distinction between the two from the perspective of the current WTO rules and norms that member countries have already agreed to.”
+
+“So let me summarize and be clear here. I’m not saying that using tariffs that are based on the carbon content of foreign exporters is necessarily not something that countries want to do in order to help solve the climate problem. What I am saying is, I think it’s very useful to separate these two issues. First, using tariffs to just offset the market access implications of your own carbon taxes—and there, I think those tariffs could be MFN and they could be completely non-controversial in terms of WTO rules and rulings. And then, second, the more controversial issue is: do you want to use your tariffs to incentivize other countries to clean up the carbon in their production?”
+
+“I think by identifying those two issues, one could at least separate out the non-controversial part and allow some carbon taxes to go through without any qualifications in the WTO. And then the question is left for the more controversial aspects of those carbon taxes.”
+
+“Let’s turn to proposals that are even more controversial. William Nordhaus has a proposal for a climate club. And there are different versions, but the rough proposal has the cool kids in the club—the ones with low carbon emissions—applying low import tariffs toward each other. And countries with higher emissions—the ones that are outside of the club—they would be hit with higher import tariffs. The motivation is that the climate crisis is so important, governments need to do everything they can to incentivize high-emitting countries to reduce their carbon emissions.”
+
+“The Nordhaus climate club proposal is a good illustration of the point I’m trying to make. I think that proposal—which would essentially have countries agree to a common set of carbon policies and then low tariffs among them, with the idea that countries that don’t agree to those policies would face very severe tariffs—that seems very clearly to me to be in violation of many WTO obligations.”
+
+“Now, that said, it could be that the severity of the climate problem warrants that. So I’m not saying that that’s not necessarily something that ultimately shouldn’t happen. What I am saying is that there are a number of important things that could be done on climate policy that are not inherently inconsistent with the WTO. And the attempt to use carbon border adjustments to offset the market access implications of a country’s own carbon policies is something that I think is fully consistent with WTO policies, if done in the right way.”
+
+“As my last question for you, there are a lot more examples in your book about new 21st-century issues we haven’t had time to go through them all—but things like global value chains, services trade, digital trade, lots more. If you had to summarize where you would come down on the role of the World Trade Organization in tackling the litany of new issues that are out there today, what would you say?”
+
+“I would say that there’s a strong basis in economics for the legitimacy of the GATT-WTO to serve as the constitution of the world trading system. And there’s a lot at stake in that statement, because while the features of the GATT-WTO reflect the shallow approach to integration that the GATT-WTO has adopted—focusing on market access commitments and on negotiations over tariffs and other border measures as a primary means to make those commitments—there are alternative approaches out there that focus on far deeper reforms of international integration, such as some of the mega-regional agreements that have been in the news more recently, and require countries to negotiate over many behind-the-border policies that have been traditionally considered the purview of national governments.”
+
+“Therefore, there’s a real choice in the world in terms of what constitutes the best design for trade agreements. And while the GATT is far from perfect, I’m arguing that, from economic principles, it has a strong claim on legitimacy that should not be dismissed lightly.”
+
+“So if you had a motto for the way that policymakers should think about the WTO as we address these 21st-century challenges, what would it be?”
+
+“What I would not advocate is Mark Zuckerberg’s famous statement, ‘Move fast and break things.’ But instead, the motto I would probably embrace would be the now-ubiquitous motto from Britain in World War II, which is: ‘Keep calm and carry on.’”
+
+“Bob, thank you very much.”
+
+“Thanks for having me.”
+
+[Music]
+
+
+
+=== 结尾与个人故事
+“To wrap up this episode, I wanted to share two other things. First, Bob Staiger was my graduate school adviser. Bob was a professor when I was at the University of Wisconsin as a PhD student in the 1990s. So I have known Bob for almost 30 years.”
+
+“Bob was the best sort of adviser. I am one of his many former students who would all probably say the same thing. He is not only a clear thinker and a remarkable contributor to the economics profession, but he is a caring and kind human being. He is an incredible role model. I am grateful for his support over my entire professional career.”
+
+“This was therefore a pretty tough episode for me to do. Bob is pretty special to me. I wanted to make sure I got everything just right.”
+
+“But second, I wanted to tell one other little story. This is a special treat for our listeners. Did you know—”
+
+“You are the only economist to have made me cry.”
+
+“Wow, I didn’t know that. Did I give you really, really strong comments on one of your early chapters? So I’m glad that you don’t remember this story.”
+
+“This was my fourth year of graduate school. My wife—an amazing woman; we have been married now a very, very, very long time—she was getting sick of the Wisconsin winters, and she had just gotten a job in Northern California. And I desperately wanted to go on the job market that year. And I came into your office, and I’d sent you papers ahead of time, and you’d read them. And I said, ‘Bob, am I ready to go on the market?’”
+
+“And you looked at me kindly and you said, ‘Chad, not yet.’ And I, at least internally, broke down in your office—devastated. But you were right. I wasn’t ready. I stayed another year and made my papers hopefully even better. But it was a memorable experience.”
+
+“Wow, I had no recollection that I was so cruel in my younger years. I’m now apologizing to you.”
+
+“Oh no, no, it was—you did absolutely the right thing. If I had gone out on the market at that point in time, there may have never been Trade Talks—overlining.”
+
+“And that is all for Trade Talks. A huge thanks to Bob Staiger at Dartmouth College. Do check out his brand-new book titled A World Trading System for the 21st Century. Thanks to Melina CB, our supervising producer; thanks to Sarah too, on digital; as always, thanks to Colin Warren, our audio guy. Do follow us on Twitter or Mastodon—we’re on TradeCoreTalks—that’s not one but two ‘core’—at TradeTalks.”
+
+
+
+'''
+
+

@@ -1,0 +1,482 @@
+
+= 08 INTERNATIONAL BUSINESS LAW: AN AMERICAN LAW PERSPECTIVE
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../../myAdocCss.css
+
+'''
+
+
+== 释义
+
+8.INTERNATIONAL BUSINESS LAW: AN AMERICAN LAW PERSPECTIVE 国际商法：美国法视角
+
+International business law is the division of international law that deals primarily with the rights and regulations of multinational enterprises (MNEs) 跨国企业, individuals, and nongovernmental organizations (NGOs) 非政府组织 as it relates to their cross-border dealings 跨境交易. International business law (IBL) 国际商法 and international public law (IPL) 国际公法 share substantial common ground 大量共同点. For example, much like with IPL, IBL rests on 基于 the common foundation of general international law principles 国际法基本原则.
+
+[.my2]
+国际商法是国际法的一个分支，主要调整跨国企业、个人以及非政府组织在跨境交易中所涉及的权利与相关规制问题。国际商法（IBL）与国际公法（IPL）存在大量共同点，例如，和国际公法一样，国际商法也以国际法基本原则作为共同的理论基础。
+
+IBL and IPL can be distinguished in terms of 从……角度区分 actor types 主体类型 and the types of activities in which actors engage 主体参与的活动类型. IBL focuses more attention on the rights and responsibilities of MNEs, states, individuals, and NGOs. Some examples of IBL include contracts 合同, money and banking 货币与银行, finance 金融, securities regulation 证券监管, intellectual property 知识产权, antitrust 反垄断, and taxation 税收.
+
+[.my2]
+国际商法与国际公法可以从主体类型和主体参与的活动类型这两个角度进行区分。国际商法更侧重于关注跨国企业、国家、个人以及非政府组织的权利与责任。国际商法的涵盖领域包括合同、货币与银行、金融、证券监管、知识产权、反垄断以及税收等。
+
+---
+
+=== When International Law Is Binding 国际法何时具有约束力
+
+The issue of when international law is binding 具有约束力的 is the same whether for IBL or IPL. Specifically, the general rule is that international law is binding only upon those parties 当事方 that consent to 同意 the jurisdiction of international law 国际法管辖权. Jurisdiction is defined as the court’s legal authority 法定权限 to hear 审理 a particular legal dispute 特定法律纠纷 between two or more parties.
+
+[.my2]
+无论对于国际商法还是国际公法而言，国际法何时具有约束力这一问题的答案都是相同的。具体来说，一般规则是：国际法仅对同意接受其管辖权的当事方具有约束力。管辖权的定义是，法院审理两方或多方之间特定法律纠纷的法定权限。
+
+In addition to the consent issue with the International Court of Justice (ICJ) 国际法院, consent is also, but not always, required for jurisdiction relating to other tribunals 其他裁判机构. The use of arbitration panels 仲裁庭 is especially relevant for IBL, in which MNEs, NGOs, and individuals may have standing 诉讼资格 to bring forth a suit 提起诉讼. In addition to the ICJ, municipal domestic courts 国内法院 also have the option to apply 适用 IBL. Specifically relating to IBL cases, some domestic courts, most notably 尤其 U.S. courts, can establish jurisdiction 确立管辖权 over parties that do not expressly consent to its jurisdiction.
+
+[.my2]
+除了国际法院管辖权涉及的同意问题之外，其他裁判机构的管辖权通常也需要当事方同意，但并非所有情况都是如此。仲裁庭的运用与国际商法的关联尤为密切，在仲裁程序中，跨国企业、非政府组织以及个人都可能具备提起诉讼的资格。除国际法院外，各国国内法院也有权选择适用国际商法。具体到国际商法案件，部分国家的国内法院——尤其是美国法院——能够对未明确同意接受其管辖的当事方确立管辖权。
+
+---
+
+=== International Business Law: Entity Types 国际商法：主体类型
+
+As previously mentioned 如前所述, IBL is composed of several smaller categories 子类别, including MNEs, foreign investment 外商投资, securities regulation, money and banking, and trade 贸易. Each of these categories could be discussed at an intricate level 深入细致的层面, but for purposes of this chapter 就本章内容而言, a broad overview 概述 of each category is given, from the perspective of entity types 主体类型的视角.
+
+[.my2]
+如前所述，国际商法包含多个子类别，涵盖跨国企业、外商投资、证券监管、货币与银行以及贸易等领域。这些领域的每一个都可以展开深入细致的探讨，但就本章内容而言，将从主体类型的视角对每个领域进行概述。
+
+---
+
+==== Multinational Enterprises 跨国企业
+
+A multinational enterprise (MNE) is defined as an entity 实体 that conducts business 开展业务 in two or more states 国家. The irony 讽刺之处在于 of an MNE is that this entity begins at the domestic level 国内层面 under municipal domestic law 国内法, not under international law. Moreover, in theory 理论上, an entity’s principal place of business (PPB) 主营业地 (i.e., the physical building(s) 实体办公场所 and employees of the entity) and state of registration 注册地 (filing of an entity’s articles of incorporation 提交公司章程 to a particular state-level agency 特定州级机构) may be in the same state (e.g., Delaware 特拉华州). In practice 实践中, however, an entity’s PPB and state of registration can be in separate states 不同的国家. The most common example is in the U.S. case 美国的情况, whereby many MNEs are registered in the state of Delaware, with a PPB in the state of New York or New Jersey 新泽西州.
+
+[.my2]
+跨国企业（MNE）的定义是在两个或两个以上国家开展业务的实体。跨国企业的讽刺之处在于，这类实体的设立依据是国内法而非国际法，其初始阶段属于国内层面的主体。此外，理论上，一个实体的主营业地（即实体的办公场所及员工所在地）与注册地（向特定州级机构提交公司章程的地点）可能位于同一个州（例如特拉华州）。但在实践中，实体的主营业地与注册地可以分属不同的州。最常见的例子就是美国的情况，许多跨国企业在特拉华州注册，而主营业地却位于纽约州或新泽西州。
+
+Regarding MNEs, the type of business structure 企业组织形式 that various organizations are registered as represents a critical IBL issue 关键的国际商法问题. In total, three types of business structures exist, as follows:
+
+1. Sole proprietorships 个人独资企业
+2. Partnerships 合伙企业
+3. Stock corporations 股份有限公司
+
+Each of these three types is discussed in following sections 后续章节. As background 作为背景信息, when focusing on the three various business structure types, four critical issues exist to distinguish one business type from another 区分不同企业类型的四个关键问题. The first critical issue is the level of liability 责任程度; that is, whether the person(s) involved in the business structure have limited or unlimited liability 有限责任或无限责任. The second critical issue is how much each investor/owner receives for her or his financial contributions 出资 to this business type. The third critical issue is whether the owner/investor(s) involved are distinguishable or indistinguishable from the business entity itself 与企业实体本身是否可分. The fourth and final critical issue is the tax treatment type 税收待遇类型 that the business entity is subject to 适用的 and/or entitled to receive 有权享受的.
+
+[.my2]
+对于跨国企业而言，各类组织所采用的企业组织形式是一个关键的国际商法问题。企业组织形式主要分为以下三类：
+1. 个人独资企业
+2. 合伙企业
+3. 股份有限公司
+
+这三类组织形式将在后续章节中分别论述。作为背景信息，区分这三种企业组织形式的关键问题有四个。第一个关键问题是责任程度，即参与企业运营的相关人员承担的是有限责任还是无限责任。第二个关键问题是，每位投资者/所有者根据其对企业的出资额能获得多少收益。第三个关键问题是，所有者/投资者是否与企业实体本身相互独立。第四个也是最后一个关键问题是，企业实体所适用的以及有权享受的税收待遇类型。
+
+===== _Sole Proprietorships_ 个人独资企业
+
+Sole proprietorships exist when a single person forms an entity to conduct a business (i.e., as a service or goods provider 服务或商品提供者). In a sole proprietorship, depending on the jurisdiction 取决于司法管辖区的规定, the sole proprietor 独资经营者 may or may not need to file registration documents 提交注册文件 with a particular state agency.
+
+[.my2]
+个人独资企业是由单个自然人设立并开展经营活动的实体（即作为服务或商品提供者）。在个人独资企业的设立流程中，根据司法管辖区的不同规定，独资经营者可能需要、也可能不需要向特定的州级机构提交注册文件。
+
+In terms of liability 就责任而言, the sole proprietor generally has unlimited liability 无限责任 relating to any gains/losses 收益或亏损 of the sole proprietorship. This means that if a sole proprietor invests $100, then the sole proprietor is subject to 承担 any amount of liability (i.e., below, at, or exceeding $100). The upside 优势在于 exists in that a sole proprietor receives any and all financial returns 经济回报 from the sole proprietorship (i.e., below, at, or above the sole proprietor’s original $100 financial contribution). Moreover, the sole proprietor is viewed as indistinguishable from the sole proprietorship 与个人独资企业视为一体. In other words, the sole owner/investor can generally be viewed as one and the same as 视为同一主体 his or her sole proprietorship, which links into the next and final critical issue.
+
+[.my2]
+就责任承担而言，独资经营者需要对个人独资企业的所有收益或亏损承担无限责任。这意味着，如果独资经营者投资了100美元，那么他需要承担的责任金额没有上限，既可能低于100美元，也可能等于或超过100美元。但这种企业形式的优势在于，独资经营者可以获得个人独资企业产生的全部经济回报，无论该回报低于、等于还是高于其最初投入的100美元。此外，独资经营者与个人独资企业本身被视为不可分割的一体。换句话说，独资所有者/投资者通常与他所经营的个人独资企业被认定为同一主体，这一点也关联到下一个也是最后一个关键问题。
+
+In terms of tax treatment 就税收待遇而言, the sole proprietorship and the sole proprietor generally do not pay separate taxes 分开缴税. Instead, the two are merged 合并申报 so that the sole proprietor pays and files only one tax return 提交一份纳税申报表. This means that any gains/losses from the sole proprietorship are simply placed onto 计入 that sole proprietor’s individual tax returns 个人纳税申报表. The rationale 理论依据 is that this approach is a simpler and easier method by which to file taxes 报税 from the perspectives of both the sole proprietor and the sole proprietorship.
+
+[.my2]
+就税收待遇而言，个人独资企业与独资经营者通常不需要分开缴税。相反，二者的税务申报是合并进行的，独资经营者仅需提交一份纳税申报表即可。这意味着，个人独资企业的所有收益或亏损都会直接计入独资经营者的个人纳税申报表中。这种税务处理方式的理论依据是，无论是对于独资经营者还是个人独资企业而言，这都是一种更简便易行的报税方式。
+
+===== _Partnerships_ 合伙企业
+
+Partnerships exist when two or more individuals decide to form a business together that is not incorporated 非公司制的.
+
+[.my2]
+合伙企业是由两名或两名以上自然人共同决定设立的非公司制企业。
+
+In general, the following two types of partnerships exist:
+
+1. Limited partnerships 有限合伙企业
+2. Unlimited (general) partnerships 普通合伙企业
+
+In a limited partnership, the partnership is typically composed of 由……组成 at least one or more individual(s) who maintain limited liability 承担有限责任 (i.e., where liability is capped at 上限为 the amount of the partner’s monetary contribution 合伙人的出资额) and at least one or more person(s) who maintain unlimited liability 承担无限责任 (i.e., where liability is not capped, and thus, can potentially exceed 可能超过 the partner’s monetary contribution).
+
+[.my2]
+合伙企业通常分为以下两类：
+1. 有限合伙企业
+2. 普通合伙企业
+
+在有限合伙企业中，企业的合伙人通常分为两类，一类是至少一名或多名承担有限责任的合伙人，其责任上限为自身的出资额；另一类是至少一名或多名承担无限责任的合伙人，这类合伙人的责任没有上限，因此实际承担的责任可能会超过其出资额。
+
+
+In terms of determining partnership payments 合伙收益分配, a legal document known as a partnership agreement 合伙协议 governs 规范 the partnership. The partnership agreement is effectively a legal contract 法律合同, and much like a contract, the partnership agreement sets forth 规定 the terms and conditions 条款 of how the partnership will operate at a practical level 实际运营层面. For example, a typical partnership agreement may set forth such things as the partnership’s mission statement 宗旨说明, the induction 入伙 and exit process 退伙流程 of partners, the amount of required monetary contribution 出资额 by each partner, the dissolution 解散 of the partnership, and processes for amending 修改 the partnership agreement.
+
+[.my2]
+在确定合伙收益分配的问题上，合伙企业由一份名为合伙协议的法律文件进行规范。合伙协议本质上属于法律合同，和普通合同类似，它规定了合伙企业在实际运营层面需要遵循的各项条款。例如，一份标准的合伙协议通常会载明企业的宗旨说明、合伙人的入伙与退伙流程、每位合伙人的法定出资额、合伙企业的解散条件，以及合伙协议的修改程序等内容。
+
+Typically, however, an unlimited liability (general) partner 无限责任（普通）合伙人 who is exposed to 面临 potentially unlimited legal and economic risk 潜在的无限法律与经济风险 is rewarded vis-à-vis 相对于 a higher potential monetary benefit 更高的潜在经济收益, as set forth in the partnership agreement. Similarly, a limited liability partner 有限责任合伙人 who is exposed to relatively less legal and economic risk will therefore most likely be entitled to 有权获得 a smaller potential monetary benefit, as set forth in the partnership agreement. In other words, much like the principles underlying 蕴含的原则 the free market system 自由市场体系, a partner will invest in a particular partnership based on the view that the potential benefits outweigh 大于 the potential costs of that particular association 合伙关系.
+
+[.my2]
+不过，根据合伙协议的约定，需要承担潜在无限法律与经济风险的无限责任（普通）合伙人，通常会获得相对更高的潜在经济收益作为回报。同理，面临的法律与经济风险相对较小的有限责任合伙人，其能获得的潜在经济收益大概率也会更低。换句话说，这和自由市场体系蕴含的原则是相通的——合伙人之所以选择投资某一家合伙企业，是因为他们认为参与该合伙关系能带来的潜在收益大于潜在成本。
+
+Moreover, the partners in this business type are generally not viewed as strictly separate from 与……严格区分 the partnership, much like in the case with sole proprietors 个人独资经营者 who are not viewed as distinct from 区别于 their sole proprietorships. From a tax perspective 从税务角度而言, however, the partnership is taxed as an entity separate and distinct from the partners, although partners should include in their personal taxes (separate from the partnership’s tax) any and all income gained from the partnership.
+
+[.my2]
+此外，这类企业形式的合伙人通常不会被认定为与合伙企业本身严格区分的主体，这一点和个人独资经营者与其个人独资企业不可分割的性质是一致的。但从税务角度而言，合伙企业会被视为独立于合伙人的纳税主体单独计税，同时合伙人还需要将从合伙企业获得的全部收益计入个人所得税申报表中，与企业的税务申报分开进行。
+
+===== _Public Stock Corporations_ 公众股份有限公司
+
+A public stock corporation is a business entity type that is incorporated 注册成立的, can raise money 筹集资金 through the international financial markets 国际金融市场, and whose owners are separate and distinct from the corporate entity itself 与公司实体相互独立.
+
+[.my2]
+公众股份有限公司是一种注册成立的企业实体，它能够通过国际金融市场筹集资金，且其所有者与公司实体本身是相互独立的。
+
+To form a public stock corporation, an entity must file 提交 a legal document known as the entity’s articles of incorporation 公司章程 with a specific state business registration agency 特定州级企业注册机构 in what is referred to as incorporation 公司设立程序. The purpose of articles of incorporation is to effectively create and define 设立并明确 the public stock corporation. The rationale behind this procedure 该程序的理论依据 is to provide the state with relevant information related to the business entity in the event that an inquiry must be made 当需要开展调查时. Another rationale is that because a public stock corporation can acquire funding 获得资金 through the marketplace, these entities can potentially render greater harm to the public 对公众造成更大损害. Therefore, the state focuses relatively greater scrutiny 更严格的审查 toward public stock corporations in comparison to partnerships and sole proprietorships.
+
+[.my2]
+要设立一家公众股份有限公司，企业需要通过公司设立程序，向特定的州级企业注册机构提交一份名为公司章程的法律文件。公司章程的作用是正式设立并明确公众股份有限公司的法律地位与运营依据。该程序的理论依据之一，是在政府需要对企业开展调查时，能够获取与该企业实体相关的各类信息。另一个依据则是，由于公众股份有限公司可以通过市场募集资金，这类企业一旦出现问题，可能会对公众造成更大的损害。因此，相较于合伙企业和个人独资企业，政府会对公众股份有限公司实施更严格的审查。
+
+Public stock corporations also benefit from 受益于 having the option to acquire funding through financial (capital) markets 金融（资本）市场. In this way, public stock corporations are distinguishable from 有别于 partnerships and sole proprietorships, in which both are unable to procure 获得 direct external funding 直接外部融资. A typical example of acquiring funding is when an issuer 发行人 (i.e., the business entity that is issuing a financial instrument 发行金融工具) issues shares 发行股票 (i.e., equity ownership 股权 of the issuer) to global investors 全球投资者 in exchange for 换取 a predetermined amount of money 预定数额的资金.
+
+[.my2]
+公众股份有限公司的另一个优势是可以通过金融（资本）市场筹集资金。这一点也是其与合伙企业和个人独资企业的核心区别——后两者都无法获得直接的外部融资。筹集资金的典型方式是，发行人（即发行金融工具的企业实体）向全球投资者发行股票（代表对发行人的股权），以此换取预定数额的资金。
+
+A share, also referred to as stock or equity 股票或股权, essentially represents 代表 a designated percentage ownership interest 特定比例的所有权权益 of the issuer. In form 从形式上看, a share is merely a piece of paper that states relevant information about the issuer and the product (share) itself. In substance 从本质上看, a share is a type of legal agreement 法律协议 between the issuer and the legal owner of the share (shareholder 股东). For example, hypothetically speaking 假设而言, if Samsung Electronics issues 100 shares, and Investor A buys 10 shares (and assuming that Samsung Electronics has 100 total outstanding shares 流通股 upon issue date), then Investor A effectively owns 10 percent of Samsung Electronics (i.e., 10 shares out of a possible 100 total outstanding shares).
+
+[.my2]
+股票，也被称为股份或股权，本质上代表着股东对发行人享有的特定比例的所有权权益。从形式上看，股票只是一张载明了发行人及股票本身相关信息的凭证；但从本质上看，股票是发行人与股票合法所有者（股东）之间的一种法律协议。举个例子，假设三星电子发行了100股股票，而投资者A购买了其中10股（且假设三星电子在发行日的流通股总数为100股），那么投资者A实际上就持有了三星电子10%的股份（即100股流通股中的10股）。
+
+In a public stock corporation structure, the legal owners (shareholders) are viewed as separate and distinct from the corporate entity itself, whereby a corporate entity is referred to as a juridical entity 法人实体, from the court’s view 从法院的角度而言. For this reason, the shareholders have limited liability 有限责任, and furthermore, the shareholders have a legal right to bring suit against 对……提起诉讼 the corporate (juridical) entity itself, referred to as a shareholder’s derivative suit 股东派生诉讼, in the event of 当发生……时 egregious 严重的 and/or willful misconduct 故意不当行为 on behalf of a corporate entity. For example, if Investor A (shareholder) owns 10 percent of Company A’s shares, valued at $1 million, then Investor A's maximum loss amount 最大损失额 is generally capped at 上限为 no more than $1 million.
+
+[.my2]
+在公众股份有限公司的组织架构下，法律意义上的所有者（股东）被认定为与公司实体相互独立的主体，从法院的角度而言，公司实体属于法人实体。正因为这一点，股东仅需承担有限责任；此外，当公司出现严重或故意的不当行为时，股东有权对公司（法人）实体本身提起诉讼，这类诉讼被称为股东派生诉讼。例如，如果投资者A（股东）持有A公司价值100万美元的10%股份，那么其承担的最大损失额通常不会超过100万美元。
+
+The main benefits 主要优势 of a public stock corporation are greater funding opportunities vis-à-vis financial markets and limited liability of owners/shareholders. The main downsides 主要劣势 of a public stock corporation are increased state and/or regulatory scrutiny 政府及监管机构更严格的审查, the requirement of disclosing 披露要求 the corporation’s financial statements 财务报表 to the public, and potential shareholder derivative suits (i.e., a lawsuit in which a corporate shareholder sues the directors 董事, management 管理层, or other shareholders of the issuer corporate entity).
+
+[.my2]
+公众股份有限公司的主要优势在于，能够通过金融市场获得更多的融资机会，且所有者/股东仅需承担有限责任。而其主要劣势则包括：需要接受政府及监管机构更严格的审查、负有向公众披露公司财务报表的法定义务，以及可能面临股东派生诉讼（即公司股东对发行人的董事、管理层或其他股东提起的诉讼）。
+
+Examples of MNEs and IBL in practice exist in several landmark cases 具有里程碑意义的案例. In _Puerto Rico v. Russell_, the U.S. Supreme Court considered the issue of whether a sociedad en commandita (from Spanish, meaning “limited partnership” 有限合伙企业) under civil law 大陆法系 had standing 诉讼资格 to bring suit in U.S. courts under common law 英美法系. The second issue considered was whether Russell, an entity created under the laws of Puerto Rico, not the United States, constituted a juridical entity, whereby the entity’s owners are distinct from the company itself. The court’s conclusion was a no ruling 作出否定裁决 to both issues. Thus, the U.S. Supreme Court refused to hear the case 拒绝审理该案 and remanded the case to 将案件发回 the Puerto Rican Insular Court (i.e., back to the Puerto Rican municipal courts 波多黎各当地法院).
+
+[.my2]
+在实践中，有多个具有里程碑意义的案例涉及跨国企业与国际商法的相关问题。在“波多黎各诉拉塞尔案”中，美国最高法院需要审理两个核心问题：其一，大陆法系下的“有限合伙企业”是否具备在英美法系的美国法院提起诉讼的资格；其二，依据波多黎各法律而非美国法律设立的拉塞尔公司，是否属于所有者与公司相互独立的法人实体。美国最高法院对这两个问题均作出了否定裁决，因此拒绝审理该案，并将案件发回波多黎各联邦法院（即波多黎各当地法院）。
+
+A separate case, known as _Barcelona, Traction, Light, and Power Company, Ltd, (Belgium v. Spain)_ I.C.J. 1970 I.C.J. 3, represents another seminal 开创性的 IBL case. In the Barcelona case, the ICJ 国际法院 considered whether Belgium had standing (i.e., a legal right to bring forth a suit 提起诉讼的法定权利) against Spain for losses suffered by Belgium shareholders 比利时股东遭受的损失, whereby the Belgium shareholders owned a combined total of 88 percent of Barcelona Traction’s total outstanding shares. Much like in the Russell case, the ICJ in the Barcelona case considered the issue of whether the entity, Barcelona Traction, constituted a juridical entity. If the ICJ had held yes to this issue 对该问题作出肯定裁决, then Belgium would have had standing to bring suit in the ICJ. The rationale is that with a juridical entity, only the state in which the entity is registered and incorporated 注册成立地所在国 has standing to bring suit. In the case, Barcelona Traction was incorporated in Canada, not Belgium. Therefore, only Canada had standing to bring forth suit in the ICJ. Thus, the case was dismissed 案件被驳回.
+
+[.my2]
+另一个具有开创性的国际商法案例是1970年国际法院审理的“巴塞罗那电车、电灯与电力有限公司案（比利时诉西班牙）”。在该案中，国际法院需要判断的是，比利时是否有权就本国股东遭受的损失对西班牙提起诉讼——这些比利时股东合计持有巴塞罗那电车公司88%的流通股。与拉塞尔案类似，国际法院首先需要认定巴塞罗那电车公司是否属于法人实体。如果国际法院对此作出肯定裁决，那么比利时就具备在国际法院提起诉讼的资格。这背后的法理依据是，对于法人实体而言，只有其注册成立地所在国才有权提起相关诉讼。而在本案中，巴塞罗那电车公司是在加拿大注册成立的，并非比利时。因此，只有加拿大才具备在国际法院提起诉讼的资格，最终该案被驳回。
+
+---
+
+==== Foreign Investment 外商投资
+
+Foreign investment is a strategy 策略 used by various countries to help with capital flows 资本流入 into local economies 本土经济. Put simply 简而言之, foreign investment occurs when foreign entities (i.e., states, MNEs, and/or individuals) invest in another country’s markets 他国市场. The rationale for this is that the additional capital into a local economy will help with domestic job creation 本土就业岗位创造 and technology transfer 技术转移. The downside 弊端 is the argument that foreign capital may lead to undue influence 不当影响 on the local economy, displace local jobs 挤占本土就业岗位, and disrupt local industries 扰乱本土产业.
+
+[.my2]
+外商投资是各国为促进资本流入本土经济而采用的一种策略。简而言之，当外国实体（包括国家、跨国企业及个人）在他国市场进行投资时，就构成了外商投资。支持外商投资的理论依据是，流入本土经济的额外资本有助于创造本土就业岗位，同时推动技术转移。而反对的观点则认为，外国资本可能会对本土经济造成不当影响，挤占本土就业岗位，扰乱本土产业的发展。
+
+As a result of arguments relating to foreign investment, both pros and cons 正反两方观点, different policy initiatives 政策举措 exist. These policies are typically set by a state’s government, because governments represent the state’s predominant gatekeeper 主要监管者 that can allow or not allow foreign capital into its borders 国境. Two main strategies exist to bring foreign capital into a domestic economy. The first strategy is the implementation 设立 of free zones 自由区, which include such things as free trade areas 自由贸易区, free trade zones 自由港区, subzones 分区, and export processing zones 出口加工区. The second strategy is the implementation of various guarantees 各类保障措施, which include such things as foreign investment guarantees 外商投资保障, repatriation guarantees 资本汇回保障, and nondiscrimination guarantees 非歧视性保障.
+
+[.my2]
+正是由于外商投资存在正反两方的争议，各国才出台了不同的政策举措。这些政策通常由各国政府制定，因为政府是国家的主要监管者，有权决定是否允许外国资本进入本国国境。吸引外国资本流入本土经济的主要策略有两种：第一种是设立自由区，包括自由贸易区、自由港区、分区以及出口加工区等类型；第二种是实施各类保障措施，包括外商投资保障、资本汇回保障以及非歧视性保障等内容。
+
+===== _Free Zones_ 自由区
+
+A free zone is a government-designated 政府划定的 geographic area 地理区域 that is free from customs 关税, import taxes 进口税, and tariffs 关税. In this area, goods can be imported and exported free of import and export restrictions 进出口限制 that would normally be placed in nonfree zones 非自由区.
+
+[.my2]
+自由区是由政府划定的特定地理区域，在该区域内免征关税、进口税及其他各类税费。在自由区内，商品的进出口不受通常适用于非自由区的各类进出口限制。
+
+A free trade area (FTA) 自由贸易区 is a designated geographic area agreed upon by two or more states 由两个或多个国家协商划定的. Within FTAs, customs and tariffs are either reduced or eliminated 降低或免除 relating to predetermined goods and services 特定商品及服务 between the two states. In other words, an FTA functions in much the same way as a free zone, except that an FTA occurs between two states at the international level 国际层面, whereas a free zone exchange of goods and/or services can occur at the national or international level 国家或国际层面. A free trade zone (FTZ) 自由港区 is simply a free zone located in or near a port city 港口城市内或周边. A subzone 分区 is a free zone type that closely resembles 类似于 an FTZ but is geographically distinct from it 地理位置相互独立.
+
+[.my2]
+自由贸易区是由两个或多个国家协商划定的特定地理区域，在区域内，各国之间针对特定商品及服务的关税会被降低或免除。换句话说，自由贸易区的运作模式与自由区大致相同，区别在于自由贸易区是在国际层面由多国共同设立的，而自由区的商品及服务交易既可以在国家层面进行，也可以在国际层面进行。自由港区就是指位于港口城市内或周边的自由区。分区则是一种与自由港区高度相似的自由区类型，二者的地理位置相互独立。
+
+An export processing zone (EPZ) 出口加工区 is a subzone type in which foreign goods are manufactured 生产制造 near border cities 边境城市 for export to another country free of customs, tariffs, and duties 税费. EPZs are popular particularly with developing economies 发展中经济体 to attract foreign MNEs into their markets. A classic EPZ example exists in the maquiladora programs 边境加工厂项目 along the Mexico–U.S. border 美墨边境, in which many U.S. firms have set up manufacturing bases 设立生产基地 on the Mexican side of the border for cheap labor 廉价劳动力 and custom-free export of goods into the U.S. market 免税出口商品至美国市场. The United States gains because MNEs can manufacture their products relatively cheaper, leveraging 利用 cheaper labor costs and lower or no imposed customs 较低或零关税. Mexico also gains because the creation of U.S. manufacturing centers in Mexico provides much-needed jobs 急需的就业岗位 for the Mexican economy.
+
+[.my2]
+出口加工区是一种特殊的分区类型，在这类区域内，企业在边境城市附近生产外国商品，并可以免税将商品出口至其他国家。出口加工区尤其受到发展中经济体的青睐，因为它能够吸引外国跨国企业进入本国市场。出口加工区的典型案例是美墨边境的“边境加工厂项目”——许多美国企业在墨西哥边境一侧设立生产基地，既可以利用当地的廉价劳动力，又能将商品免税出口至美国市场。对美国而言，跨国企业能够利用更低的劳动力成本和较低或零关税的优势，以相对更低的成本生产产品；对墨西哥而言，美国在当地设立的生产中心为墨西哥经济提供了大量急需的就业岗位。
+
+_Nissan Motor Mfg. Corp. USA v. United States_ represents a famous case relating to free zones. In the case, a U.S. federal court held 裁定 that Nissan (plaintiff 原告) must pay customs duties 缴纳关税 to the United States for the import of certain high-tech automobile manufacturing machinery 高科技汽车制造设备 into a subzone. The court’s rationale was that the import of machinery did not fall under 不属于 the many custom exemptions 关税豁免条款 listed in the Free Trade Zones Act of 1934 《1934年自由贸易区法案》 and its subsequent 后续的 1950 amendment 修正案. As a result, Nissan had to pay approximately \$3 million in assessed duties 核定关税.
+
+[.my2]
+“美国日产汽车制造公司诉美国案”是一起与自由区相关的著名案例。在该案中，美国联邦法院裁定，日产公司（原告）向某分区进口特定的高科技汽车制造设备时，必须向美国政府缴纳关税。法院的判决依据是，该类设备的进口不属于《1934年自由贸易区法案》及其1950年修正案中列明的各类关税豁免范畴。最终，日产公司不得不缴纳约300万美元的核定关税。
+
+===== _Guarantees_ 保障措施
+
+Two main types of guarantees exist to help bring foreign investment into a particular local economy. The first type is called a repatriation guarantee 资本汇回保障, which ensures that any foreign investor (individual, MNE, or government) can repatriate 汇回 any capital and profit earned from an investment 投资所得的资本及利润. The second type is called a nondiscrimination guarantee 非歧视性保障, which ensures that foreign investors will be treated in the same way as 享有与……同等的待遇 the host state’s 东道国 local investors 本土投资者. A host nation government may provide guarantees either separately or together 单独或同时提供保障 based on its sole discretion 全权酌情决定.
+
+[.my2]
+目前有两类主要的保障措施用于吸引外商投资流入特定的本土经济。第一类是资本汇回保障，它确保外国投资者（包括个人、跨国企业及政府）能够将投资所得的资本及利润汇回本国。第二类是非歧视性保障，它确保外国投资者能够享有与东道国本土投资者同等的待遇。东道国政府可以根据自身的全权酌情权，单独或同时提供这两类保障措施。
+
+==== Securities Regulation 证券监管
+
+Securities regulation is defined as the body of laws and rules 法律规范体系 that oversee 监管 securities. Securities are traded in what is called the securities market 证券市场. A security is broadly defined as a share 股票, participation 参股权益, bond 债券, or any other interest in an entity or other property 实体或其他财产的权益. A stock (equity) 股票（股权）, as mentioned, represents a certain percentage ownership interest 特定比例所有权权益 of a particular issuing company 发行公司. As a result, certain rights and obligations 权利与义务 exist in relating to owning a stock, such as the right to vote in shareholder meetings 股东会议投票权 and distribution of assets 资产分配权 upon dissolution of the issuing company 发行公司解散时. A bond is effectively a contractual obligation 合同义务 by the issuer 发行人 to repay the bondholder 债券持有人 the principal amount 本金 (at the bond’s maturity date 债券到期日) and interest payments 利息 (at specified interest payment periods 在债券存续期内的特定付息期 during the bond’s life).
+
+[.my2]
+证券监管是指监管证券的法律规范体系。证券在证券市场中进行交易。证券的广义定义是股票、参股权益、债券，或是与某一实体或其他财产相关的各类权益。如前文所述，股票（股权）代表着持有人对特定发行公司享有的特定比例所有权权益。因此，持有股票会附带相应的权利与义务，例如股东会议投票权以及发行公司解散时的资产分配权等。债券本质上是发行人的一项合同义务，即需在债券到期日向债券持有人偿还本金，并在债券存续期内的特定付息期支付利息。
+
+An alternative way to think of a bond is as a loan 贷款 given to the issuer by the bondholder. The bondholder has an economic incentive 经济动机 in the form of interest payments to make a loan. Here, the bond issuer has an incentive to pay the interest amount, because the issuer takes the view that paying extra interest later to receive the loan principal amount now is worthwhile 值得的. Thus, both parties can potentially benefit, which is the ideal situation 理想状态 in any securities transaction 证券交易.
+
+[.my2]
+另一种理解债券的方式是，将其视为债券持有人向发行人提供的一笔贷款。债券持有人发放这笔贷款的经济动机，是获取利息作为回报。而发行人也愿意支付利息，因为发行人认为，通过未来支付额外利息的方式换取当下的贷款本金，是一笔划算的交易。因此，双方都能从中获益，这也是任何证券交易都追求的理想状态。
+
+A securities exchange 证券交易所 is the marketplace forum 交易平台 where securities are bought and sold. When a party enters into transactions 进行交易 in a securities exchange, the party is typically either a buyer or a seller. The securities exchange effectively acts as the meeting place 交易场所 at which buyers and sellers can get together and trade. Within any given trade, the buyer takes the view that he or she can resell 转售 the security at a higher price than his or her purchase price 买入价 in the short or long run 短期或长期内. Conversely 相反地, the seller is effectively either profit-taking 获利了结 by selling the security (i.e., by selling at a price higher than the security’s purchase price) or minimizing losses 减少损失 (i.e., has lost money on the security’s sale, but is selling now because he or she is taking the view that losses may be greater later than now by not selling now).
+
+[.my2]
+证券交易所是买卖证券的交易平台。当某一方在证券交易所进行交易时，其身份通常不是买方就是卖方。证券交易所实际上扮演着交易场所的角色，为买卖双方提供交易的渠道。在任何一笔交易中，买方的预期是，能够在短期或长期内以高于买入价的价格将证券转售获利。相反，卖方进行交易的目的要么是通过卖出证券获利了结（即以高于买入价的价格出售），要么是为了减少损失（即虽然卖出证券会亏损，但卖方认为如果现在不卖，未来的损失可能会更大）。
+
+In terms of case law 判例法 relating to securities regulation, two classic cases exist. In _Batchelder v. Kawamoto_, a U.S. federal court ruled on 裁决 a dispute relating to the holder of American depository receipts 美国存托凭证 (ADRs), which reflects ownership of shares 代表股权, relating to a foreign entity 外国实体, Honda Japan 日本本田公司. The interesting aspect of the Kawamoto case is that, in its legal analysis 法律分析, the U.S. court referred to 参考 and applied 适用 Japanese business law 日本商法 in the case, in addition to U.S. (New York) law 美国（纽约州）法律. Specifically, the court analyzed Article 267 of the Japanese Commercial Code 日本商法典第267条 that regulated shareholder rights 规范股东权利 to see if an ADR holder was a shareholder under that provision 条款. This case demonstrates that U.S. courts can apply non-U.S. foreign law 美国以外的外国法律 in addition to U.S. law with regards to at least securities regulation, reflecting the international flavor 国际化属性 of financial transactions 金融交易 today. This case also typifies 体现 how business, including international finance 国际金融, and legal issues can intersect 交织 in the international arena 国际舞台 in both theory and practice.
+
+[.my2]
+在证券监管相关的判例法中，有两个经典案例。在“巴彻尔德诉川本案”中，美国联邦法院裁决了一起与美国存托凭证持有人相关的纠纷，该存托凭证代表着持有人对外国实体日本本田公司享有的股权。这起案件的有趣之处在于，美国法院在进行法律分析时，除了适用美国（纽约州）法律外，还参考并适用了日本商法。具体来说，法院对规范股东权利的日本商法典第267条进行了分析，以此判断美国存托凭证持有人是否属于该条款所定义的股东。这一案例表明，至少在证券监管领域，美国法院可以在适用本国法律的同时适用其他国家的法律，这也体现了当今金融交易的国际化属性。该案例还体现出，包括国际金融在内的商业活动与法律问题，在国际舞台上的理论和实践层面都是相互交织的。
+
+The second notable case 著名案例 relating to securities regulation is _United States v. O’Hagan_. In the O’Hagan case, the court expanded 扩大 the definition of “insider” 内幕人员 relating to a U.S. federal insider trading law 联邦内幕交易法, under 10(b) and (10)(b)(5) of the Securities and Exchange Act of 1934 《1934年证券交易法》. The case involved O’Hagan (defendant 被告), who was a lawyer working for a law firm 律师事务所 that represented 代理 an American firm (Pillsbury 皮尔斯伯里公司), although O’Hagan was not the lawyer working on behalf of Pillsbury. In the case, Grand Met 大都会公司 (a non-U.S. firm 非美国公司) was in negotiations 处于谈判阶段 for the takeover of 收购 Pillsbury. These negotiations constituted 构成 confidential nonpublic information 机密未公开信息 that should not have been used for personal gain 谋取私利 under the above laws, but O’Hagan, contrary to these laws 违反上述法律, used this confidential nonpublic information to purchase substantial amounts of 大量购买 Pillsbury shares and other interests. Thereafter 此后, O’Hagan sold the Pillsbury shares for a \$4.3 million profit 获利430万美元. The U.S. Supreme Court ruled for 作出有利于……的裁决 the United States (plaintiff 原告) and against O’Hagan (defendant), and in the process, notably expanded the definition of “insider” to include, among others, lawyers 律师, accountants 会计师, and consultants 顾问 (above and beyond typical corporate directors 除了典型的公司董事 and similar parties 及类似主体之外).
+
+[.my2]
+与证券监管相关的第二个著名案例是“美国诉奥黑根案”。在该案中，法院针对《1934年证券交易法》第10(b)条及第10(b)(5)条所规定的联邦内幕交易法，扩大了“内幕人员”的定义范围。案件的被告奥黑根是一家律师事务所的律师，该律所代理美国皮尔斯伯里公司，但奥黑根本人并非负责该公司业务的律师。在案件中，非美国公司大都会公司正处于收购皮尔斯伯里公司的谈判阶段。根据上述法律规定，这些谈判信息属于机密未公开信息，不得被用于谋取私利，但奥黑根违反了这一法律规定，利用该机密未公开信息大量购买了皮尔斯伯里公司的股票及其他权益。此后，奥黑根将这些股票卖出，获利430万美元。美国最高法院作出了有利于原告美国政府、不利于被告奥黑根的裁决，并在裁决中显著扩大了“内幕人员”的定义范围，将律师、会计师、顾问等主体也纳入其中（除了典型的公司董事及类似主体之外）。
+
+---
+
+==== Money and Banking 货币与银行
+
+A landmark American law case 具有里程碑意义的美国法律案例 relating to money and banking exists with the U.S. Supreme Court’s ruling in _Republic of Argentina v. Weltover_. This case focuses on two overlapping issues 相互交织的问题 of money and banking, as well as choice of law tribunals 法律选择与裁判机构. In this case, the U.S. Supreme Court considered the issue of whether it had jurisdiction 管辖权 over a dispute in which all parties (both plaintiff 原告 and defendant 被告) were non-U.S. residents 非美国居民.
+
+[.my2]
+在货币与银行领域，有一起具有里程碑意义的美国法律案例，即美国最高法院对“阿根廷共和国诉韦尔托弗案”作出的裁决。该案聚焦于货币与银行领域的两个相互交织的问题，同时也涉及法律选择与裁判机构的相关内容。在这起案件中，美国最高法院需要判断的是，对于一起双方当事人（原告和被告）均为非美国居民的纠纷，联邦法院是否具有管辖权。
+
+The dispute related to the Republic of Argentina’s bond issuance 债券发行 (Defendant Issuer 被告发行人) to several global bondholders 全球债券持有人 (Plaintiff Investors 原告投资者) and Defendant Issuer’s subsequent failure to pay debts 未能偿还债务 owed under bond instruments 债券协议 to the Plaintiff Investors. The court held that even if all litigants 诉讼当事人 were non-U.S. residents, U.S. federal courts could still exercise jurisdiction 行使管辖权 in the case to subsequently hear the dispute on its merits 对案件实体问题进行审理.
+
+[.my2]
+这起纠纷的核心是，阿根廷共和国（被告发行人）向若干全球债券持有人（原告投资者）发行了债券，但之后未能按照债券协议向原告投资者偿还债务。美国最高法院裁定，即便所有诉讼当事人均为非美国居民，美国联邦法院仍然可以对该案行使管辖权，并进而对案件的实体问题进行审理。
+
+Another aspect of money and banking is the international financial system 国际金融体系. The international financial system can be separated into two distinct time periods 不同时期: pre- and post–gold bullion standard system periods 金本位制时期与后金本位制时期.
+
+[.my2]
+货币与银行领域的另一项重要内容是国际金融体系。该体系可以划分为两个截然不同的时期，即金本位制时期与后金本位制时期。
+
+The pre–gold bullion standard period 金本位制时期 officially ended in 1976, when the International Monetary Fund 国际货币基金组织 (IMF), an international organization created in 1944, passed its IMF Second Amendment system 《国际货币基金协定第二次修正案》, which allowed states to value their currency 对本国货币进行估值 in terms of nongold references 以非黄金为参照标准. Up to that point 在此之前, many states relied on the gold standard system 金本位制, where a state’s national currency’s value was fixed to 与……挂钩 a predetermined amount of gold bullion 预定数量的黄金. The main benefit of the gold bullion standard was supposed international monetary stability 国际货币稳定, because printed currency 发行的货币 had to be supported by a certain amount of gold reserves 黄金储备. Thus, the greater a state’s gold reserves, the more national currency a state could print. Conversely, a state that had relatively fewer gold reserves would be more restricted 受到更多限制 in terms of how much national currency it could print.
+
+[.my2]
+金本位制时期于1976年正式终结，在这一年，1944年成立的国际组织——国际货币基金组织通过了《国际货币基金协定第二次修正案》，该修正案允许各国以非黄金为参照标准对本国货币进行估值。在此之前，许多国家都采用金本位制，即本国货币的价值与预定数量的黄金挂钩。金本位制的主要优势在于，它本应能够保障国际货币稳定，因为各国发行的货币必须有一定数量的黄金储备作为支撑。因此，一个国家的黄金储备越多，其能够发行的货币量就越大；相反，黄金储备相对较少的国家，其货币发行量会受到更多限制。
+
+The gold bullion standard worked fine 运行良好 in both theory and practice up until World War I (1914–1919) 第一次世界大战（1914-1919年） and the Great Depression (1930s) 大萧条（20世纪30年代）. One rationale for the gold standard’s success, apart from those two main time periods 除了这两个主要时期之外, is that the system was never stress-tested 经受压力测试. In all other time periods, apart from World War I and the Great Depression in the early 20th century, there existed relative economic stability 相对的经济稳定. The advent of 来临 World War I and the Great Depression, however, brought out a glaring weakness 明显缺陷 in the gold bullion system. The system was too rigid and inflexible 僵化且缺乏灵活性 in times of financial uncertainty 金融动荡时期 because of the following issues:
+
+- Printed money was constrained by 受限于 the amount of gold held 持有的黄金数量.
+- Governments tend to increase national spending 增加国家开支 and, therefore, print more money in times of financial uncertainty.
+- The world’s gold supply was fixed 固定的, but a nation’s printed money supply was not fixed, meaning that the rigid system when placed under severe economic pressure 承受严重经济压力 would ultimately collapse 崩溃 when trying to print more money to stimulate the economy 刺激经济. Because of the gold bullion system, however, a government’s gold supply could not keep pace with 跟上 its printing of money, and thus, must either decide whether to opt out of 退出 the gold bullion system or cease printing 停止发行 more needed money due to the inherent constraints 内在限制 of the gold standard.
+
+[.my2]
+在第一次世界大战（1914-1919年）和大萧条（20世纪30年代）爆发之前，金本位制在理论和实践层面都运行良好。除了这两个时期之外，金本位制能够成功的一个原因是，该体系从未经受真正的压力测试。在20世纪初的一战和大萧条之外的其他时期，全球经济都处于相对稳定的状态。然而，一战和大萧条的来临，暴露了金本位制的一个明显缺陷：该体系在金融动荡时期过于僵化且缺乏灵活性，具体原因如下：
+- 货币发行量受限于国家持有的黄金数量。
+- 在金融动荡时期，各国政府往往会增加国家开支，因此需要发行更多货币。
+- 全球黄金供应量是固定的，但一个国家的货币发行量却没有上限，这意味着当僵化的体系承受严重经济压力时，政府若试图通过增发货币刺激经济，该体系最终会崩溃。但在金本位制下，政府的黄金储备无法跟上货币发行的速度，因此，政府只能在两个选项中作出抉择：要么退出金本位制，要么由于金本位制的内在限制，停止发行经济发展所需的更多货币。
+
+Both options seemed unfeasible 不可行的, so many states such as Great Britain pulled out of 退出 the gold bullion system during severe economic cycle periods 严重经济周期阶段. In effect 实际上, the IMF Second Amendment in 1976 put into writing 以书面形式确认 what many states already clearly understood: The gold bullion system simply did not work 行不通. Furthermore, a more flexible system 更灵活的体系 was needed in which a state’s national currency could be valued in nongold terms 以非黄金为计价标准. This event, therefore, marked a defining moment 标志性时刻 within the world’s international financial infrastructure 国际金融体系, which affected world markets 全球市场, including the global trade regime 全球贸易体系.
+
+[.my2]
+这两个选项看起来都不具有可行性，因此，包括英国在内的许多国家，都在严重的经济周期阶段退出了金本位制。实际上，1976年通过的《国际货币基金协定第二次修正案》，以书面形式确认了许多国家早已达成的共识：金本位制根本行不通。此外，国际社会需要一个更灵活的体系，让各国能够以非黄金为计价标准对本国货币进行估值。因此，这一事件成为了全球国际金融体系发展的标志性时刻，并对包括全球贸易体系在内的世界市场产生了深远影响。
+
+---
+
+=== The World Trade Organization (WTO) and International Trade 世界贸易组织（WTO）与国际贸易
+
+International trade law (ITL) 国际贸易法 is a subdivision 分支 of IBL and can be defined as the body of rules and regulations 规则体系 relating to the fostering 促进 and regulation 监管 of exchanging goods and services 商品与服务交换. The main distinguishing characteristic 核心区别特征 from IBL is that ITL focuses primarily on the World Trade Organization 世界贸易组织 (WTO), an international organization created to help foster international trade 促进国际贸易. The WTO’s foundation 成立 also marks the beginning of modern ITL 现代国际贸易法的开端. Thus, to understand modern ITL, an understanding of the WTO and its various functions 各项职能 are beneficial 有益的 and value-added skill sets 具有价值的技能储备.
+
+[.my2]
+国际贸易法（ITL）是国际商法的一个分支，其定义是规范商品与服务交换的促进与监管活动的规则体系。它与国际商法的核心区别特征在于，国际贸易法主要聚焦于世界贸易组织（WTO）——这是一个为促进国际贸易而成立的国际组织。世界贸易组织的成立，也标志着现代国际贸易法的开端。因此，要理解现代国际贸易法，掌握世界贸易组织及其各项职能的相关知识，是一项有益且具有价值的技能储备。
+
+As background 作为背景信息, the WTO’s predecessor 前身 existed in the form of the General Agreement on Trade and Tariffs 关税及贸易总协定 (GATT), which was formed shortly after the end of World War II (1945) 第二次世界大战（1945年）结束后不久, and governed under the auspices of 由……管辖 a legal instrument 法律文件 called GATT 1947 《1947年关税及贸易总协定》. GATT was replaced 取代 after the GATT Uruguay Round 乌拉圭回合谈判 (related to trade negotiations 贸易谈判 held in Uruguay) in 1994 by the WTO. The WTO is governed under the auspices of a legal instrument known as the WTO Agreement 《世界贸易组织协定》.
+
+[.my2]
+作为背景信息，世界贸易组织的前身是关税及贸易总协定（GATT），该协定于第二次世界大战（1945年）结束后不久成立，由《1947年关税及贸易总协定》这一法律文件管辖。1994年，经过关税及贸易总协定乌拉圭回合谈判（在乌拉圭举行的贸易谈判）后，关税及贸易总协定被世界贸易组织取代。世界贸易组织由《世界贸易组织协定》这一法律文件管辖。
+
+The WTO has four distinct purposes 四个明确宗旨:
+
+1. Implement and carry out 实施 the WTO Agreement.
+2. Act as a multilateral forum 多边平台 for international trade negotiations.
+3. Serve as a dispute resolution tribunal 争端解决机构.
+4. Review the trade policies and practices 贸易政策与实践 of the WTO and its members 成员国.
+
+[.my2]
+世界贸易组织有四个明确宗旨：
+1.  实施《世界贸易组织协定》。
+2.  作为国际贸易谈判的多边平台。
+3.  充当争端解决机构。
+4.  审议世界贸易组织及其成员国的贸易政策与实践。
+
+One European case 欧洲案例 that focuses on international trade law and GATT 1947's application to domestic law 适用于国内法 relates to Finance Ministry v. Manifattura. In the case, the Italian Court of Cassation 意大利最高法院 considered the issue of whether GATT 1947 was directly effective 直接适用 on Italian domestic law 意大利国内法. If an international agreement 国际协定, including GATT 1947, is considered to be directly effective, then no domestic legislation 国内立法 is generally needed to make the provisions of an international agreement part of that signatory state's domestic municipal law 缔约国国内法. Conversely, if an international agreement, including GATT 1947, is considered not to be directly effective, then domestic legislation is generally needed to make provisions of an international agreement part of that signatory state's domestic law. The Italian court, applying international trade law 适用国际贸易法, concluded that GATT 1947 was directly effective, and therefore was not a simple declaration of principle 原则声明.
+
+[.my2]
+有一起欧洲案例聚焦于国际贸易法以及《1947年关税及贸易总协定》在国内法中的适用问题，即“意大利财政部诉马尼法图拉案”。在该案中，意大利最高法院需要判断的是，《1947年关税及贸易总协定》是否可以直接适用于意大利国内法。一项国际协定（包括《1947年关税及贸易总协定》）若被认定为可直接适用，那么通常无需通过国内立法，就能将该国际协定的条款纳入缔约国的国内法范畴；相反，若国际协定被认定为不可直接适用，则需要通过国内立法，才能使其条款成为缔约国国内法的一部分。意大利法院在适用国际贸易法后作出结论，认定《1947年关税及贸易总协定》具有直接适用性，因此它并非一份简单的原则声明。
+
+=== Summary 小结
+
+International business law (IBL) from an American law perspective 从美国法视角来看 is defined as the division of international law that deals primarily with the rights and regulations of multinational enterprises 跨国企业, states, individuals, and nongovernmental organizations 非政府组织 as it relates to their cross-border dealings 跨境交易. Examples of IBL include foreign investment 外商投资, securities regulation, money and banking, and trade. Because IBL actors 主体 are having a more profound influence 深远影响 on global affairs 全球事务, the overlapping features 交叉特征 of IBL provide a unique and value-added skill set 独特且具有价值的技能储备, which can be effectively leveraged 运用 from both an academic 学术 and professional perspective 专业角度. This unique knowledge skill set includes the keen knowledge of IBL issues, such as entity business types 企业组织形式, securities regulations, cross-border financial transactions 跨境金融交易, and international trade agreements 国际贸易协定, which, viewed separately and collectively 单独审视与综合考量, can positively impact 积极影响 many organizations and events around the world.
+
+[.my2]
+从美国法视角来看，国际商法（IBL）是国际法的一个分支，主要调整跨国企业、国家、个人及非政府组织在跨境交易中涉及的权利与相关规制问题。国际商法的涵盖领域包括外商投资、证券监管、货币与银行以及贸易等。由于国际商法的各类主体对全球事务的影响愈发深远，国际商法的交叉特征能够为从业者提供一套独特且具有价值的技能储备，这套技能在学术和专业领域都能得到有效运用。该知识技能储备包括对国际商法各类核心问题的深入理解，例如企业组织形式、证券监管、跨境金融交易以及国际贸易协定等，这些内容无论单独审视还是综合考量，都能对全球范围内的诸多组织与事件产生积极影响。
+
+
+
+
+
+'''
+
+
+== pure
+
+8.INTERNATIONAL BUSINESS LAW: AN AMERICAN LAW PERSPECTIVE
+
+International business law is the division of international law that deals primarily with the rights and regulations of multinational enterprises (MNEs), individuals, and nongovernmental organizations (NGOs) as it relates to their cross-border dealings. International business law (IBL) and international public law (IPL) share substantial common ground. For example, much like with IPL, IBL rests on the common foundation of general international law principles.
+
+IBL and IPL can be distinguished in terms of actor types and the types of activities in which actors engage. IBL focuses more attention on the rights and responsibilities of MNEs, states, individuals, and NGOs. Some examples of IBL include contracts, money and banking, finance, securities regulation, intellectual property, antitrust, and taxation.
+
+---
+
+=== When International Law Is Binding
+
+The issue of when international law is binding is the same whether for IBL or IPL. Specifically, the general rule is that international law is binding only upon those parties that consent to the jurisdiction of international law. Jurisdiction is defined as the court’s legal authority to hear a particular legal dispute between two or more parties.
+
+In addition to the consent issue with the International Court of Justice (ICJ), consent is also, but not always, required for jurisdiction relating to other tribunals. The use of arbitration panels is especially relevant for IBL, in which MNEs, NGOs, and individuals may have standing to bring forth a suit. In addition to the ICJ, municipal domestic courts also have the option to apply IBL. Specifically relating to IBL cases, some domestic courts, most notably U.S. courts, can establish jurisdiction over parties that do not expressly consent to its jurisdiction.
+
+---
+
+=== International Business Law: Entity Types
+
+As previously mentioned, IBL is composed of several smaller categories, including MNEs, foreign investment, securities regulation, money and banking, and trade. Each of these categories could be discussed at an intricate level, but for purposes of this chapter, a broad overview of each category is given, from the perspective of entity types.
+
+---
+
+==== Multinational Enterprises
+
+A multinational enterprise (MNE) is defined as an entity that conducts business in two or more states. The irony of an MNE is that this entity begins at the domestic level under municipal domestic law, not under international law. Moreover, in theory, an entity’s principal place of business (PPB) (i.e., the physical building(s) and employees of the entity) and state of registration (filing of an entity’s articles of incorporation to a particular state-level agency) may be in the same state (e.g., Delaware). In practice, however, an entity’s PPB and state of registration can be in separate states. The most common example is in the U.S. case, whereby many MNEs are registered in the state of Delaware, with a PPB in the state of New York or New Jersey.
+
+Regarding MNEs, the type of business structure that various organizations are registered as represents a critical IBL issue. In total, three types of business structures exist, as follows:
+
+1. Sole proprietorships
+2. Partnerships
+3. Stock corporations
+
+Each of these three types is discussed in following sections. As background, when focusing on the three various business structure types, four critical issues exist to distinguish one business type from another. The first critical issue is the level of liability; that is, whether the person(s) involved in the business structure have limited or unlimited liability. The second critical issue is how much each investor/owner receives for her or his financial contributions to this business type. The third critical issue is whether the owner/investor(s) involved are distinguishable or indistinguishable from the business entity itself. The fourth and final critical issue is the tax treatment type that the business entity is subject to and/or entitled to receive.
+
+
+===== _Sole Proprietorships_
+
+Sole proprietorships exist when a single person forms an entity to conduct a business (i.e., as a service or goods provider). In a sole proprietorship, depending on the jurisdiction, the sole proprietor may or may not need to file registration documents with a particular state agency.
+
+In terms of liability, the sole proprietor generally has unlimited liability relating to any gains/losses of the sole proprietorship. This means that if a sole proprietor invests $100, then the sole proprietor is subject to any amount of liability (i.e., below, at, or exceeding $100).  The upside exists in that a sole proprietor receives any and all financial returns from the sole proprietorship (i.e., below, at, or above the sole proprietor’s original $100 financial contribution). Moreover, the sole proprietor is viewed as indistinguishable from the sole proprietorship. In other words, the sole owner/investor can generally be viewed as one and the same as his or her sole proprietorship, which links into the next and final critical issue.
+
+In terms of tax treatment, the sole proprietorship and the sole proprietor generally do not pay separate taxes. Instead, the two are merged so that the sole proprietor pays and files only one tax return. This means that any gains/losses from the sole proprietorship are simply placed onto that sole proprietor’s individual tax returns. The rationale is that this approach is a simpler and easier method by which to file taxes from the perspectives of both the sole proprietor and the sole proprietorship.
+
+===== _Partnerships_
+
+Partnerships exist when two or more individuals decide to form a business together that is not incorporated.
+
+In general, the following two types of partnerships exist:
+
+1. Limited partnerships
+2. Unlimited (general) partnerships
+
+In a limited partnership, the partnership is typically composed of at least one or more individual(s) who maintain limited liability (i.e., where liability is capped at the amount of the partner’s monetary contribution) and at least one or more person(s) who maintain unlimited liability (i.e., where liability is not capped, and thus, can potentially exceed the partner’s monetary contribution).
+
+In terms of determining partnership payments, a legal document known as a partnership agreement governs the partnership. The partnership agreement is effectively a legal contract, and much like a contract, the partnership agreement sets forth the terms and conditions of how the partnership will operate at a practical level. For example, a typical partnership agreement may set forth such things as the partnership’s mission statement, the induction and exit process of partners, the amount of required monetary contribution by each partner, the dissolution of the partnership, and processes for amending the partnership agreement.
+
+Typically, however, an unlimited liability (general) partner who is exposed to potentially unlimited legal and economic risk is rewarded vis-à-vis a higher potential monetary benefit, as set forth in the partnership agreement. Similarly, a limited liability partner who is exposed to relatively less legal and economic risk will therefore most likely be entitled to a smaller potential monetary benefit, as set forth in the partnership agreement. In other words, much like the principles underlying the free market system, a partner will invest in a particular partnership based on the view that the potential benefits outweigh the potential costs of that particular association.
+
+Moreover, the partners in this business type are generally not viewed as strictly separate from the partnership, much like in the case with sole proprietors who are not viewed as distinct from their sole proprietorships. From a tax perspective, however, the partnership is taxed as an entity separate and distinct from the partners, although partners should include in their personal taxes (separate from the partnership’s tax) any and all income gained from the partnership.
+
+===== _Public Stock Corporations_
+
+A public stock corporation is a business entity type that is incorporated, can raise money through the international financial markets, and whose owners are separate and distinct from the corporate entity itself.
+
+To form a public stock corporation, an entity must file a legal document known as the entity’s articles of incorporation with a specific state business registration agency in what is referred to as incorporation. The purpose of articles of incorporation is to effectively create and define the public stock corporation. The rationale behind this procedure is to provide the state with relevant information related to the business entity in the event that an inquiry must be made. Another rationale is that because a public stock corporation can acquire funding through the marketplace, these entities can potentially render greater harm to the public. Therefore, the state focuses relatively greater scrutiny toward public stock corporations in comparison to partnerships and sole proprietorships.
+
+Public stock corporations also benefit from having the option to acquire funding through financial (capital) markets. In this way, public stock corporations are distinguishable from partnerships and sole proprietorships, in which both are unable to procure direct external funding. A typical example of acquiring funding is when an issuer (i.e., the business entity that is issuing a financial instrument) issues shares (i.e., equity ownership of the issuer) to global investors in exchange for a predetermined amount of money.
+
+A share, also referred to as stock or equity, essentially represents a designated percentage ownership interest of the issuer. In form, a share is merely a piece of paper that states relevant information about the issuer and the product (share) itself. In substance, a share is a type of legal agreement between the issuer and the legal owner of the share (shareholder). For example, hypothetically speaking, if Samsung Electronics issues 100 shares, and Investor A buys 10 shares (and assuming that Samsung Electronics has 100 total outstanding shares upon issue date), then Investor A effectively owns 10 percent of Samsung Electronics (i.e., 10 shares out of a possible 100 total outstanding shares).
+
+In a public stock corporation structure, the legal owners (shareholders) are viewed as separate and distinct from the corporate entity itself, whereby a corporate entity is referred to as a juridical entity, from the court’s view. For this reason, the shareholders have limited liability, and furthermore, the shareholders have a legal right to bring suit against the corporate (juridical) entity itself, referred to as a shareholder’s derivative suit, in the event of egregious and/or willful misconduct on behalf of a corporate entity. For example, if Investor A (shareholder) owns 10 percent of Company A’s shares,  valued at $1 million, then Investor A's maximum loss amount is generally capped at no more than $1 million.
+
+The main benefits of a public stock corporation are greater funding opportunities vis-à-vis financial markets and limited liability of owners/shareholders. The main downsides of a public stock corporation are increased state and/or regulatory scrutiny, the requirement of disclosing the corporation’s financial statements to the public, and potential shareholder derivative suits (i.e., a lawsuit in which a corporate shareholder sues the directors, management, or other shareholders of the issuer corporate entity).
+
+Examples of MNEs and IBL in practice exist in several landmark cases. In _Puerto Rico v. Russell_, the U.S. Supreme Court considered the issue of whether a sociedad en commandita (from Spanish, meaning “limited partnership”) under civil law had standing to bring suit in U.S. courts under common law. The second issue considered was whether Russell, an entity created under the laws of Puerto Rico, not the United States, constituted a juridical entity, whereby the entity’s owners are distinct from the company itself. The court’s conclusion was a no ruling to both issues. Thus, the U.S. Supreme Court refused to hear the case and remanded the case to the Puerto Rican Insular Court (i.e., back to the Puerto Rican municipal courts).
+
+A separate case, known as _Barcelona, Traction, Light, and Power Company, Ltd, (Belgium v. Spain)_ I.C.J. 1970 I.C.J. 3, represents another seminal IBL case. In the Barcelona case, the ICJ considered whether Belgium had standing (i.e., a legal right to bring forth a suit) against Spain for losses suffered by Belgium shareholders, whereby the Belgium shareholders owned a combined total of 88 percent of Barcelona Traction’s total outstanding shares. Much like in the Russell case, the ICJ in the Barcelona case considered the issue of whether the entity, Barcelona Traction, constituted a juridical entity. If the ICJ had held yes to this issue, then Belgium would have had standing to bring suit in the ICJ. The rationale is that with a juridical entity, only the state in which the entity is registered and incorporated has standing to bring suit. In the case, Barcelona Traction was incorporated in Canada, not Belgium. Therefore, only Canada had standing to bring forth suit in the ICJ. Thus, the case was dismissed.
+
+---
+
+==== Foreign Investment
+
+Foreign investment is a strategy used by various countries to help with capital flows into local economies. Put simply, foreign investment occurs when foreign entities (i.e., states, MNEs, and/or individuals) invest in another country’s markets. The rationale for this is that the additional capital into a local economy will help with domestic job creation and technology transfer. The downside is the argument that foreign capital may lead to undue influence on the local economy, displace local jobs, and disrupt local industries.
+
+As a result of arguments relating to foreign investment, both pros and cons, different policy initiatives exist. These policies are typically set by a state’s government, because governments represent the state’s predominant gatekeeper that can allow or not allow foreign capital into its borders. Two main strategies exist to bring foreign capital into a domestic economy. The first strategy is the implementation of free zones, which include such things as free trade areas, free trade zones, subzones, and export processing zones. The second strategy is the implementation of various guarantees, which include such things as foreign investment guarantees, repatriation guarantees, and nondiscrimination guarantees.
+
+===== _Free Zones_
+
+A free zone is a government-designated geographic area that is free from customs, import taxes, and tariffs. In this area, goods can be imported and exported free of import and export restrictions that would normally be placed in nonfree zones.
+
+A free trade area (FTA) is a designated geographic area agreed upon by two or more states. Within FTAs, customs and tariffs are either reduced or eliminated relating to predetermined goods and services between the two states. In other words, an FTA functions in much the same way as a free zone, except that an FTA occurs between two states at the international level, whereas a free zone exchange of goods and/or services can occur at the national or international level. A free trade zone (FTZ) is simply a free zone located in or near a port city. A subzone is a free zone type that closely resembles an FTZ but is geographically distinct from it.
+
+An export processing zone (EPZ) is a subzone type in which foreign goods are manufactured near border cities for export to another country free of customs, tariffs, and duties. EPZs are popular particularly with developing economies to attract foreign MNEs into their markets. A classic EPZ example exists in the maquiladora programs along the Mexico–U.S. border, in which many U.S. firms have set up manufacturing bases on the Mexican side of the border for cheap labor and custom-free export of goods into the U.S. market. The United States gains because MNEs can manufacture their products relatively cheaper, leveraging cheaper labor costs and lower or no imposed customs. Mexico also gains because the creation of U.S. manufacturing centers in Mexico provides much-needed jobs for the Mexican economy.
+
+_Nissan Motor Mfg. Corp. USA v. United States_ represents a famous case relating to free zones. In the case, a U.S. federal court held that Nissan (plaintiff) must pay customs duties to the United States for the import of certain high-tech automobile manufacturing machinery into a subzone. The court’s rationale was that the import of machinery did not fall under the many custom exemptions listed in the Free Trade Zones Act of 1934 and its subsequent 1950 amendment. As a result, Nissan had to pay approximately \$3 million in assessed duties.
+
+===== _Guarantees_
+
+Two main types of guarantees exist to help bring foreign investment into a particular local economy. The first type is called a repatriation guarantee, which ensures that any foreign investor (individual, MNE, or government) can repatriate any capital and profit earned from an investment. The second type is called a nondiscrimination guarantee, which ensures that foreign investors will be treated in the same way as the host state’s local investors. A host nation government may provide guarantees either separately or together based on its sole discretion.
+
+---
+
+==== Securities Regulation
+
+Securities regulation is defined as the body of laws and rules that oversee securities. Securities are traded in what is called the securities market. A security is broadly defined as a share, participation, bond, or any other interest in an entity or other property. A stock (equity), as mentioned, represents a certain percentage ownership interest of a particular issuing company. As a result, certain rights and obligations exist in relating to owning a stock, such as the right to vote in shareholder meetings and distribution of assets upon dissolution of the issuing company. A bond is effectively a contractual obligation by the issuer to repay the bondholder the principal amount (at the bond’s maturity date) and interest payments (at specified interest payment periods during the bond’s life).
+
+An alternative way to think of a bond is as a loan given to the issuer by the bondholder. The bondholder has an economic incentive in the form of interest payments to make a loan. Here, the bond issuer has an incentive to pay the interest amount, because the issuer takes the view that paying extra interest later to receive the loan principal amount now is worthwhile. Thus, both parties can potentially benefit, which is the ideal situation in any securities transaction.
+
+A securities exchange is the marketplace forum where securities are bought and sold. When a party enters into transactions in a securities exchange, the party is typically either a buyer or a seller. The securities exchange effectively acts as the meeting place at which buyers and sellers can get together and trade. Within any given trade, the buyer takes the view that he or she can resell the security at a higher price than his or her purchase price in the short or long run. Conversely, the seller is effectively either profit-taking by selling the security (i.e., by selling at a price higher than the security’s purchase price) or minimizing losses (i.e., has lost money on the security’s sale, but is selling now because he or she is taking the view that losses may be greater later than now by not selling now).
+
+In terms of case law relating to securities regulation, two classic cases exist. In _Batchelder v. Kawamoto_, a U.S. federal court ruled on a dispute relating to the holder of American depository receipts (ADRs), which reflects ownership of shares, relating to a foreign entity, Honda Japan. The interesting aspect of the Kawamoto case is that, in its legal analysis, the U.S. court referred to and applied Japanese business law in the case, in addition to U.S. (New York) law. Specifically, the court analyzed Article 267 of the Japanese Commercial Code that regulated shareholder rights to see if an ADR holder was a shareholder under that provision. This case demonstrates that U.S. courts can apply non-U.S. foreign law in addition to U.S. law with regards to at least securities regulation, reflecting the international flavor of financial transactions today. This case also typifies how business, including international finance, and legal issues can intersect in the international arena in both theory and practice.
+
+The second notable case relating to securities regulation is _United States v. O’Hagan_. In the O’Hagan case, the court expanded the definition of “insider” relating to a U.S. federal insider trading law, under 10(b) and (10)(b)(5) of the Securities and Exchange Act of 1934. The case involved O’Hagan (defendant), who was a lawyer working for a law firm that represented an American firm (Pillsbury), although O’Hagan was not the lawyer working on behalf of Pillsbury. In the case, Grand Met (a non-U.S. firm) was in negotiations for the takeover of Pillsbury. These negotiations constituted confidential nonpublic information that should not have been used for personal gain under the above laws, but O’Hagan, contrary to these laws, used this confidential nonpublic information to purchase substantial amounts of Pillsbury shares and other interests. Thereafter, O’Hagan sold the Pillsbury shares for a \$4.3 million profit. The U.S. Supreme Court ruled for the United States (plaintiff) and against O’Hagan (defendant), and in the process, notably expanded the definition of “insider” to include, among others, lawyers, accountants, and consultants (above and beyond typical corporate directors and similar parties).
+
+---
+
+==== Money and Banking
+
+A landmark American law case relating to money and banking exists with the U.S. Supreme Court’s ruling in _Republic of Argentina v. Weltover_. This case focuses on two overlapping issues of money and banking, as well as choice of law tribunals. In this case, the U.S. Supreme Court considered the issue of whether it had jurisdiction over a dispute in which all parties (both plaintiff and defendant) were non-U.S. residents.
+
+The dispute related to the Republic of Argentina’s bond issuance (Defendant Issuer) to several global bondholders (Plaintiff Investors) and Defendant Issuer’s subsequent failure to pay debts owed under bond instruments to the Plaintiff Investors. The court held that even if all litigants were non-U.S. residents, U.S. federal courts could still exercise jurisdiction in the case to subsequently hear the dispute on its merits.
+
+Another aspect of money and banking is the international financial system. The international financial system can be separated into two distinct time periods: pre- and post–gold bullion standard system periods.
+
+The pre–gold bullion standard period officially ended in 1976, when the International Monetary Fund (IMF), an international organization created in 1944, passed its IMF Second Amendment system, which allowed states to value their currency in terms of nongold references. Up to that point, many states relied on the gold standard system, where a state’s national currency’s value was fixed to a predetermined amount of gold bullion. The main benefit of the gold bullion standard was supposed international monetary stability, because printed currency had to be supported by a certain amount of gold reserves. Thus, the greater a state’s gold reserves, the more national currency a state could print. Conversely, a state that had relatively fewer gold reserves would be more restricted in terms of how much national currency it could print.
+
+The gold bullion standard worked fine in both theory and practice up until World War I (1914–1919) and the Great Depression (1930s). One rationale for the gold standard’s success, apart from those two main time periods, is that the system was never stress-tested. In all other time periods, apart from World War I and the Great Depression in the early 20th century, there existed relative economic stability. The advent of World War I and the Great Depression, however, brought out a glaring weakness in the gold bullion system. The system was too rigid and inflexible in times of financial uncertainty because of the following issues:
+
+- Printed money was constrained by the amount of gold held.
+- Governments tend to increase national spending and, therefore, print more money in times of financial uncertainty.
+- The world’s gold supply was fixed, but a nation’s printed money supply was not fixed, meaning that the rigid system when placed under severe economic pressure would ultimately collapse when trying to print more money to stimulate the economy. Because of the gold bullion system, however, a government’s gold supply could not keep pace with its printing of money, and thus, must either decide whether to opt out of the gold bullion system or cease printing more needed money due to the inherent constraints of the gold standard.
+
+Both options seemed unfeasible, so many states such as Great Britain pulled out of the gold bullion system during severe economic cycle periods. In effect, the IMF Second Amendment in 1976 put into writing what many states already clearly understood: The gold bullion system simply did not work. Furthermore, a more flexible system was needed in which a state’s national currency could be valued in nongold terms. This event, therefore, marked a defining moment within the world’s international financial infrastructure, which affected world markets, including the global trade regime.
+
+---
+
+=== The World Trade Organization (WTO) and International Trade
+
+International trade law (ITL) is a subdivision of IBL and can be defined as the body of rules and regulations relating to the fostering and regulation of exchanging goods and services. The main distinguishing characteristic from IBL is that ITL focuses primarily on the World Trade Organization (WTO), an international organization created to help foster international trade. The WTO’s foundation also marks the beginning of modern ITL. Thus, to understand modern ITL, an understanding of the WTO and its various functions are beneficial and value-added skill sets.
+
+As background, the WTO’s predecessor existed in the form of the General Agreement on Trade and Tariffs (GATT), which was formed shortly after the end of World War II (1945) and governed under the auspices of a legal instrument called GATT 1947. GATT was replaced after the GATT Uruguay Round (related to trade negotiations held in Uruguay) in 1994 by the WTO. The WTO is governed under the auspices of a legal instrument known as the WTO Agreement.
+
+The WTO has four distinct purposes:
+
+1. Implement and carry out the WTO Agreement.
+2. Act as a multilateral forum for international trade negotiations.
+3. Serve as a dispute resolution tribunal.
+4. Review the trade policies and practices of the WTO and its members.
+
+One European case that focuses on international trade law and GATT 1947's application to domestic law relates to Finance Ministry v. Manifattura. In the case, the Italian Court of Cassation considered the issue of whether GATT 1947 was directly effective on Italian domestic law. If an international agreement, including GATT 1947, is considered to be directly effective, then no domestic legislation is generally needed to make the provisions of an international agreement part of that signatory state's domestic municipal law. Conversely, if an international agreement, including GATT 1947, is considered not to be directly effective, then domestic legislation is generally needed to make provisions of an international agreement part of that signatory state's domestic law. The Italian court, applying international trade law, concluded that GATT 1947 was directly effective, and therefore was not a simple declaration of principle.
+
+=== Summary
+
+International business law (IBL) from an American law perspective is defined as the division of international law that deals primarily with the rights and regulations of multinational enterprises, states, individuals, and nongovernmental organizations as it relates to their cross-border dealings. Examples of IBL include foreign investment, securities regulation, money and banking, and trade. Because IBL actors are having a more profound influence on global affairs, the overlapping features of IBL provide a unique and value-added skill set, which can be effectively leveraged from both an academic and professional perspective. This unique knowledge skill set includes the keen knowledge of IBL issues, such as entity business types, securities regulations, cross-border financial transactions, and international trade agreements, which, viewed separately and collectively, can positively impact many organizations and events around the world.

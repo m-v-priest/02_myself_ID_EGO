@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx version="2005-1" xml:lang="en-US" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="9780738689142" />
+    <meta name="dtb:depth" content="3" />
+    <meta name="dtb:totalPageCount" content="339" />
+    <meta name="dtb:maxPageNumber" content="339" />
+  </head>
+  <docTitle>
+    <text>AP&#x00AE; U.S. Government &amp; Politics - Crash Course</text>
+  </docTitle>
+  <docAuthor>
+    <text>Katherine Olson-Goldman, J.D. &#38; Nancy Fenton, M.A.</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="nav1" playOrder="1">
+      <navLabel>
+        <text>Cover</text>
+      </navLabel>
+      <content src="xhtml/00_Cover.html" />
+    </navPoint>
+    <navPoint id="nav2" playOrder="2">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src="xhtml/01_Title_Page.html" />
+    </navPoint>
+    <navPoint id="nav3" playOrder="3">
+      <navLabel>
+        <text>Copyright Page</text>
+      </navLabel>
+      <content src="xhtml/02_Copyright_Page.html" />
+    </navPoint>
+    <navPoint id="nav4" playOrder="4">
+      <navLabel>
+        <text>Contents</text>
+      </navLabel>
+      <content src="xhtml/04_Table_of_Contents.html" />
+    </navPoint>
+    <navPoint id="nav5" playOrder="5">
+      <navLabel>
+        <text>About Our Book</text>
+      </navLabel>
+      <content src="xhtml/05_About_Our_Book.html" />
+    </navPoint>
+    <navPoint id="nav6" playOrder="6">
+      <navLabel>
+        <text>About Our Authors</text>
+      </navLabel>
+      <content src="xhtml/06_About_Our_Authors.html" />
+    </navPoint>
+    <navPoint id="nav7" playOrder="7">
+      <navLabel>
+        <text>Part I: Introduction</text>
+      </navLabel>
+      <content src="xhtml/07_PART_I_Introduction.html" />
+      <navPoint id="nav8" playOrder="8">
+        <navLabel>
+          <text>Chapter 1: Seven Keys for Success on the AP&#x00AE; U.S. Government and Politics Exam</text>
+        </navLabel>
+        <content src="xhtml/08_Chapter_1__Seven_Keys_for_Succes.html" />
+      </navPoint>
+      <navPoint id="nav9" playOrder="9">
+        <navLabel>
+          <text>Chapter 2: Key Terms</text>
+        </navLabel>
+        <content src="xhtml/09_Chapter_2__Key_Terms.html" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="nav10" playOrder="10">
+      <navLabel>
+        <text>Part II: Content Review</text>
+      </navLabel>
+      <content src="xhtml/10_PART_II_Content_Review.html" />
+      <navPoint id="nav11" playOrder="11">
+        <navLabel>
+          <text>Unit 1: Foundations of American Democracy</text>
+        </navLabel>
+        <content src="xhtml/11_UNIT_1__FOUNDATIONS_OF_AMERICAN.html" />
+        <navPoint id="nav12" playOrder="12">
+          <navLabel>
+            <text>Chapter 3: Foundational Concepts and Documents</text>
+          </navLabel>
+          <content src="xhtml/12_Chapter_3__Foundational_Concepts.html" />
+        </navPoint>
+        <navPoint id="nav13" playOrder="13">
+          <navLabel>
+            <text>Chapter 4: Federalism</text>
+          </navLabel>
+          <content src="xhtml/13_Chapter_4__Federalism.html" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="nav14" playOrder="14">
+        <navLabel>
+          <text>Unit 2: Interactions Among Branches of Government</text>
+        </navLabel>
+        <content src="xhtml/14_UNIT_2__INTERACTIONS_AMONG_BRANC.html" />
+        <navPoint id="nav15" playOrder="15">
+          <navLabel>
+            <text>Chapter 5: The Legislative Branch</text>
+          </navLabel>
+          <content src="xhtml/15_Chapter_5__The_Legislative_Branc.html" />
+        </navPoint>
+        <navPoint id="nav16" playOrder="16">
+          <navLabel>
+            <text>Chapter 6: The Executive Branch</text>
+          </navLabel>
+          <content src="xhtml/16_Chapter_6__The_Executive_Branch.html" />
+        </navPoint>
+        <navPoint id="nav17" playOrder="17">
+          <navLabel>
+            <text>Chapter 7: The Federal Bureaucracy</text>
+          </navLabel>
+          <content src="xhtml/17_Chapter_7__The_Federal_Bureaucra.html" />
+        </navPoint>
+        <navPoint id="nav18" playOrder="18">
+          <navLabel>
+            <text>Chapter 8: The Judicial Branch</text>
+          </navLabel>
+          <content src="xhtml/18_Chapter_8__The_Judicial_Branch.html" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="nav19" playOrder="19">
+        <navLabel>
+          <text>Unit 3: Civil Liberties and Civil Rights</text>
+        </navLabel>
+        <content src="xhtml/19_UNIT_3__CIVIL_LIBERTIES_AND_CIVI.html" />
+        <navPoint id="nav20" playOrder="20">
+          <navLabel>
+            <text>Chapter 9: Civil Liberties</text>
+          </navLabel>
+          <content src="xhtml/20_Chapter_9__Civil_Liberties.html" />
+        </navPoint>
+        <navPoint id="nav21" playOrder="21">
+          <navLabel>
+            <text>Chapter 10: Civil Rights</text>
+          </navLabel>
+          <content src="xhtml/21_Chapter_10__Civil_Rights.html" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="nav22" playOrder="22">
+        <navLabel>
+          <text>Unit 4: American Political Ideologies and Beliefs</text>
+        </navLabel>
+        <content src="xhtml/22_UNIT_4__AMERICAN_POLITICAL_IDEOL.html" />
+        <navPoint id="nav23" playOrder="23">
+          <navLabel>
+            <text>Chapter 11: American Political Ideologies and Beliefs</text>
+          </navLabel>
+          <content src="xhtml/23_Chapter_11__American_Political_I.html" />
+        </navPoint>
+        <navPoint id="nav24" playOrder="24">
+          <navLabel>
+            <text>Chapter 12: Political Data and Polling</text>
+          </navLabel>
+          <content src="xhtml/24_Chapter_12__Political_Data_and_P.html" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="nav25" playOrder="25">
+        <navLabel>
+          <text>Unit 5: Political Participation</text>
+        </navLabel>
+        <content src="xhtml/25_UNIT_5__POLITICAL_PARTICIPATION.html" />
+        <navPoint id="nav26" playOrder="26">
+          <navLabel>
+            <text>Chapter 13: Political Parties, Interest Groups, and Campaign Finance</text>
+          </navLabel>
+          <content src="xhtml/26_Chapter_13__Political_Parties__I.html" />
+        </navPoint>
+        <navPoint id="nav27" playOrder="27">
+          <navLabel>
+            <text>Chapter 14: Voter Behavior and Elections</text>
+          </navLabel>
+          <content src="xhtml/27_Chapter_14__Voter_Behavior_and_E.html" />
+        </navPoint>
+        <navPoint id="nav28" playOrder="28">
+          <navLabel>
+            <text>Chapter 15: The Media</text>
+          </navLabel>
+          <content src="xhtml/28_Chapter_15__The_Media.html" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="nav29" playOrder="29">
+      <navLabel>
+        <text>Part III: Key Documents, Court Cases, and Laws</text>
+      </navLabel>
+      <content src="xhtml/29_PART_III_Key_Documents__Court_Ca.html" />
+      <navPoint id="nav30" playOrder="30">
+        <navLabel>
+          <text>Chapter 16: Required Foundational Documents</text>
+        </navLabel>
+        <content src="xhtml/30_Chapter_16__Required_Foundationa.html" />
+      </navPoint>
+      <navPoint id="nav31" playOrder="31">
+        <navLabel>
+          <text>Chapter 17: Required Supreme Court Cases</text>
+        </navLabel>
+        <content src="xhtml/31_Chapter_17__Required_Supreme_Cou.html" />
+      </navPoint>
+      <navPoint id="nav32" playOrder="32">
+        <navLabel>
+          <text>Chapter 18: Important Laws</text>
+        </navLabel>
+        <content src="xhtml/32_Chapter_18__Important_Laws.html" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="nav33" playOrder="33">
+      <navLabel>
+        <text>Part IV: Test-Taking Strategies and Practice Questions</text>
+      </navLabel>
+      <content src="xhtml/33_PART_IV_Test_Taking_Strategies_a.html" />
+      <navPoint id="nav34" playOrder="34">
+        <navLabel>
+          <text>Chapter 19: Mastering the Multiple-Choice Questions</text>
+        </navLabel>
+        <content src="xhtml/34_Chapter_19__Mastering_the_Multip.html" />
+      </navPoint>
+      <navPoint id="nav35" playOrder="35">
+        <navLabel>
+          <text>Chapter 20: Practice Multiple-Choice Questions</text>
+        </navLabel>
+        <content src="xhtml/35_Chapter_20__Practice_Multiple_Ch.html" />
+      </navPoint>
+      <navPoint id="nav36" playOrder="36">
+        <navLabel>
+          <text>Chapter 21: Mastering the Free-Response Questions</text>
+        </navLabel>
+        <content src="xhtml/36_Chapter_21__Mastering_the_Free_R.html" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="nav37" playOrder="37">
+      <navLabel>
+        <text>Notes</text>
+      </navLabel>
+      <content src="xhtml/37_Notes.html" />
+    </navPoint>
+    
+  </navMap>
+</ncx>

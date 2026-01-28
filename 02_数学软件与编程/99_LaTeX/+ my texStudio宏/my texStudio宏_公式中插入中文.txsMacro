@@ -1,0 +1,17 @@
+{
+    "abbrev": "",
+    "description": [
+        ""
+    ],
+    "formatVersion": 1,
+    "menu": "",
+    "name": "33 公式中插入中文",
+    "shortcut": "Ctrl+M,Ctrl+T",
+    "tag": [
+        "%SCRIPT",
+        "txt = cursor.selectedText()",
+        "editor.write(\"\\\\text{\"+txt+\"}\")",
+        "cursor.clearSelection()"
+    ],
+    "trigger": ""
+}

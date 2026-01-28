@@ -1,0 +1,909 @@
+
+= 05 TORTS
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../../myAdocCss.css
+
+'''
+
+
+== 释义
+
+5.TORTS
+
+Imagine a superstar athlete 运动员 has a broken foot 脚骨折. The athlete goes to the doctor 医生 for help 寻求帮助. The doctor promises 承诺 the athlete a “perfect foot 完好的脚” after surgery 外科手术. After the consultation meeting 会诊 with the doctor, the athlete decides to go ahead with 着手进行；继续推进 the foot surgery. However, after the surgery, the athlete’s foot remains 保持；仍然处于 in the same condition 状况；情形. So, the foot has not improved 改善；好转 and certainly 无疑；肯定 has not met 达到；满足 the “perfect foot” standard 标准 promised by the doctor. As a result 因此；结果, let’s assume 假定；假设 that the superstar athlete is no longer able to 不能够 play competitively 竞技性地参赛 within the athlete’s professional league 职业联赛 for the upcoming season 即将到来的赛季.
+
+[.my2]
+试想一位超级明星运动员脚部骨折，他前往医生处寻求帮助。医生承诺术后能让他拥有一只“完好的脚”。与医生会诊后，这位运动员决定接受脚部手术。然而术后，他的脚伤并未好转，显然也没有达到医生承诺的“完好”标准。因此，我们不妨假定这位超级明星运动员将无法参加职业联赛下一季的竞技赛事。
+
+The athlete retains 聘请；雇用 you as legal counsel 法律顾问. What type of claim 索赔；诉讼请求 would you seek 提出；寻求? The previous chapter 上一章 covered 涵盖；论述 American contract law 美国合同法, so suing for 起诉；控告 breach of a contract 违约 could be one option 选择；方案. Are there any other options? The short answer 简短的答案 is yes. It is possible that 有可能 a legal claim 法律诉讼 could also be brought 提起 under American tort law 美国侵权法. This then begs the question 引出一个问题, what exactly 究竟；到底 is a tort 侵权行为?
+
+[.my2]
+这位运动员聘请你担任他的法律顾问。你会提出哪种类型的诉讼请求？上一章我们论述了美国合同法，因此以违约为由提起诉讼或许是一种选择。除此之外还有其他途径吗？答案是肯定的。依据美国侵权法提起法律诉讼也是有可能的。这就引出了一个问题：究竟什么是侵权行为？
+
+To get to an answer for 找到……的答案 the case scenario 案例场景, we begin with 从……入手 what a tort is. The term “tort” (meaning “twisted 扭曲的；反常的”) is a civil wrong 民事不法行为, other than 除了……之外 a breach of contract, for which the law provides 规定；提供 a remedy 救济；补救措施. The party 一方当事人 committing 实施；犯下 the tort is referred to as 被称为 the tortfeasor 侵权行为人 (wrongdoer 不法行为人；作恶者). The field 领域 of tort law 侵权法 is important for a variety of reasons 出于多种原因, including that 包括 the majority of 大多数 legal claims in American courts 美国法院 are brought under tort law.
+
+[.my2]
+要找到这个案例场景的答案，我们首先要弄清楚什么是侵权行为。“侵权行为”一词（字面意思是“扭曲的”）是一种除违约之外的民事不法行为，法律会为此类行为提供救济措施。实施侵权行为的一方当事人被称为侵权行为人。侵权法领域之所以重要，出于多种原因，其中就包括美国法院受理的大多数法律诉讼都是依据侵权法提起的。
+
+Three types of torts exist as follows 如下：
+
+- Intentional torts 故意侵权行为 (e.g., intentionally 故意地 hitting 击打 a person)
+- Negligent torts 过失侵权行为 (e.g., causing 造成 an accident 事故 by failing to 未能 obey 遵守 traffic rules 交通规则)
+- Strict liability torts 严格责任侵权行为 (e.g., liability 责任 for making 生产 and selling 销售 defective products 有缺陷的产品)
+
+[.my2]
+侵权行为分为以下三种类型：
+- 故意侵权行为（例如，故意击打他人）
+- 过失侵权行为（例如，因未遵守交通规则而引发事故）
+- 严格责任侵权行为（例如，生产和销售有缺陷产品所产生的责任）
+
+What then is the difference 区别；差异 between the various types of 各类的 torts? One important difference is the intent 意图；故意 underlying 构成……的基础；隐含于 each tort. Intentional torts—as the term suggests 顾名思义—require 要求 intent to commit 实施 the wrongful act 不法行为. However, negligence 过失；疏忽 and strict liability 严格责任 do not require intent.
+
+[.my2]
+那么各类侵权行为之间有何区别？其中一个重要区别在于每类侵权行为背后的主观意图。顾名思义，故意侵权行为要求行为人具有实施不法行为的主观故意。但过失侵权和严格责任侵权则不要求主观故意。
+
+---
+
+=== Intentional Torts 故意侵权行为
+
+Intentional tort types include the following 包括以下几种：
+
+- Battery 殴打（侵权法概念）
+- Assault 威胁伤害；恐吓（侵权法概念）
+- False imprisonment 非法拘禁
+- Intentional infliction of emotional distress 故意造成精神损害
+
+[.my2]
+故意侵权行为的类型包括以下几种：
+- 殴打
+- 威胁伤害
+- 非法拘禁
+- 故意造成精神损害
+
+With torts, and especially 尤其 intentional torts, what type of burden 举证责任 must be met 满足；达到 to support 证明；佐证 a particular fact 特定事实 or proposition 主张；观点? The answer relates to 涉及；关乎 the concept of 概念 establishing 确立；构建 a prima facie case 表面证据确凿的案件. _Prima facie_ is a Latin expression 拉丁语表达 meaning “on its first appearance 初次显现时,” or “by first instance 从表面判断.” From a litigation strategy perspective 从诉讼策略的角度来看, meeting the burden of proof 履行举证责任 requires the plaintiff 原告 to prove that a prima facie case has been established. A prima facie case is a case sufficient on its face 表面上充分的 that establishes 提供；确立 at least 至少 the minimum requisite evidence 最低必要证据 to support a particular proposition or fact.
+
+[.my2]
+对于侵权行为，尤其是故意侵权行为，要证明某一特定事实或主张成立，需要履行何种举证责任？答案涉及“表面证据确凿的案件”这一概念。“表面证据确凿”是一个拉丁语表达，意为“初次显现时”或“从表面判断”。从诉讼策略的角度来看，履行举证责任要求原告证明案件已达到表面证据确凿的程度。表面证据确凿的案件，是指从表面来看证据充分，能够提供至少最低必要的证据来佐证某一特定主张或事实的案件。
+
+#### Battery 殴打
+
+In establishing a prima facie case of battery, the plaintiff must prove that (1) the defendant 被告 intended to cause 造成 a harmful 有害的 or offensive 冒犯性的 contact 接触 and (2) that contact actually occurred 发生；出现. Thus, the elements 构成要件 for battery (an intentional tort) are (a) intent and (b) harmful or offensive contact.
+
+[.my2]
+要确立殴打行为的表面证据确凿案件，原告必须证明以下两点：（1）被告具有造成有害或冒犯性接触的主观意图；（2）该接触行为确实发生。因此，殴打（一种故意侵权行为）的构成要件包括：（a）主观故意；（b）有害或冒犯性的接触。
+
+The concept of intent related to torts was introduced 介绍；阐述 earlier in this section 本节前文. To go further 进一步来说, intent is often interpreted as 被解释为 the desire 意愿；渴望 to cause the specific result 特定结果 in question 所涉及的；讨论中的. However, courts 法院 may infer 推断；推定 intent, even when no clear desire to cause a specific result exists. Two concepts are related to inferred intent by the courts. The first type of inferred intent is constructive intent 推定故意, which is the knowledge 明知 or substantial certainty 高度确定性 that the result in question will occur. Thus, simply knowing that something may occur and acting in a way so that the result may occur may constitute 构成 intent from the court’s perspective 从法院的角度来看. The second type of inferred intent is transferred intent 转移故意, which allows for 允许 a lawsuit 诉讼 by a third party 第三方 when the tortfeasor X meant to strike 击打 Y, but actually ended up hitting 击中 a third party Z.
+
+[.my2]
+与侵权相关的主观意图概念已在本节前文阐述。进一步来说，主观意图通常被解释为造成所涉特定结果的意愿。不过，即便行为人没有造成特定结果的明确意愿，法院也可能推定其具有主观意图。与法院推定意图相关的概念有两个。第一种推定意图是推定故意，即明知或高度确定所涉结果将会发生。因此，从法院的角度来看，只要明知某一结果可能发生，并且实施了可能导致该结果发生的行为，就可能构成主观故意。第二种推定意图是转移故意，具体是指当侵权行为人X本打算击打Y，却最终击中了第三方Z时，允许Z提起诉讼。
+
+The term “harmful,” when used to establish that a battery occurred, can be interpreted as 被解读为 bodily harm 身体伤害 in the form of 以……的形式 any physical impairment 身体机能损伤 of the condition of another’s body 他人的身体状况, or physical pain 身体疼痛 or illness 疾病. It can also be interpreted to include 包括 alterations 改动；处置 that may cause harm, such as a doctor improperly 不当地；不合适地 removing 切除 a wart 疣.
+
+[.my2]
+在认定殴打行为是否成立时，“有害的”一词可被解读为对他人身体状况造成的任何形式的身体机能损伤、身体疼痛或疾病等身体伤害。该词也可被解读为包含可能造成伤害的处置行为，例如医生不当切除疣的行为。
+
+The next step 下一步 to establish that a battery occurred is to analyze 分析 the term “offensive.” By what measure 依据什么标准 do courts determine 判定 if an act 行为 and/or result 结果 was offensive? Generally 通常来说, an act is considered 被认定为 offensive when it offends 冒犯 a reasonable person’s 理性人的 sense of dignity 尊严感. It may be unwarranted by 无正当理由的；不符合 particular social norms 特定社会规范 and usages 惯例 prevalent 普遍存在的；盛行的 at the time and place in question 在所涉的时间和地点. Thus, the interpretation 解释 involves 涉及 yet again 再次 another reasonable person standard 理性人标准 (covered in xref:americanlaw101_ch03.html#ch03[Chapter 3]). Finally, a contact must occur for battery to be established. This requisite 必要的 contact can, but does not always have to 不一定, be body-to-body physical contact 身体与身体的直接接触. For example, cigarette smoke 香烟烟雾 may generally not constitute a contact sufficient to 足以 establish that a battery occurred (as of this writing 撰写本文时). However, cigarette smoke that was intentionally and offensively blown 吹 into someone’s face 某人脸上 by the tortfeasor may constitute battery.
+
+[.my2]
+要认定殴打行为成立，下一步是分析“冒犯性的”这一术语。法院依据什么标准判定某一行为及/或结果具有冒犯性？通常来说，若某一行为冒犯了理性人的尊严感，则会被认定为具有冒犯性。这种冒犯性行为可能不符合所涉时间和地点普遍存在的特定社会规范与惯例。因此，其解释再次涉及理性人标准（详见本书第三章）。最后，殴打行为的成立必须以存在接触为前提。这种必要的接触可以是身体与身体的直接接触，但并非必须如此。例如，一般情况下，香烟烟雾不构成足以认定殴打行为成立的接触（撰写本文时的观点）。但如果侵权行为人故意将烟雾冒犯性地吹向他人面部，则可能构成殴打。
+
+#### Assault 威胁伤害
+
+To establish a prima facie case of assault, the plaintiff must prove that (1) the defendant intended to cause a harmful or offensive contact and (2) the plaintiff was put in 陷入；处于 imminent 即将发生的；迫在眉睫的 apprehension 恐惧；担忧 of contact. Thus, the elements to establish a prima facie case of assault are (a) intent, (b) harmful or offensive contact, and (c) imminent apprehension of contact by the plaintiff. One step in determining assault is to analyze the term “imminent.” Imminent is interpreted to mean that the apprehension of the contact by the tortfeasor must be within the same moment 同一时刻；即刻. However, insults 侮辱 and mere words 单纯的言语 usually do not constitute assault alone 单独；仅凭自身, regardless of 无论；不管 how foul 恶劣的；无礼的 or incendiary 煽动性的 they may be.
+
+[.my2]
+要确立威胁伤害行为的表面证据确凿案件，原告必须证明以下两点：（1）被告具有造成有害或冒犯性接触的主观意图；（2）原告陷入了对即将发生接触的恐惧之中。因此，确立威胁伤害表面证据确凿案件的构成要件包括：（a）主观故意；（b）有害或冒犯性的接触；（c）原告对即将发生接触的恐惧。判定威胁伤害行为的一个环节是分析“即将发生的”这一术语。该词被解释为，侵权行为人的接触行为所引发的恐惧必须是即刻发生的。不过，侮辱性言辞和单纯的言语通常不足以单独构成威胁伤害，无论其内容多么恶劣或具有煽动性。
+
+It may appear that 看起来似乎 battery and assault are very similar 非常相似 in terms of 就……而言 establishing a prima facie case. Do any differences exist 存在? One similarity 相似之处 is that both battery and assault require (a) intentionality 故意性 or (b) harmful or offensive contact. The difference 区别, however, is whether an actual contact occurred 实际接触是否发生. To establish a prima facie case of assault, the plaintiff must reasonably believe 合理相信—using a reasonable person standard—that an imminent apprehension of contact existed, but with a prima facie case of battery, actual physical contact must occur.
+
+[.my2]
+就确立表面证据确凿案件的构成要件而言，殴打和威胁伤害看起来似乎非常相似。二者之间是否存在区别？相似之处在于，殴打和威胁伤害都要求具备（a）主观故意性和（b）有害或冒犯性的接触。但二者的区别在于，是否存在实际的接触行为。要确立威胁伤害的表面证据确凿案件，原告必须依据理性人标准，合理相信自己对即将发生的接触产生了恐惧；而要确立殴打行为的表面证据确凿案件，则必须存在实际的身体接触。
+
+
+#### False Imprisonment 非法拘禁
+
+To establish 确立；构建 a prima facie case 表面证据确凿的案件 of false imprisonment 非法拘禁, the plaintiff 原告 must show that (1) the defendant 被告 intended to 意图；打算 confine 限制；禁锢 the plaintiff; (2) the defendant’s acts 行为 caused 导致 the plaintiff to be confined; and (3) the plaintiff was either conscious of 意识到 or harmed by 遭受损害 the confinement 禁锢；限制.
+
+[.my2]
+要确立非法拘禁的表面证据确凿案件，原告必须证明以下三点：（1）被告具有限制原告人身自由的主观意图；（2）被告的行为直接导致原告被限制人身自由；（3）原告要么意识到自己被禁锢，要么因被禁锢而遭受了损害。
+
+Acts “intending to confine” must be within the same moment 同一时刻 (simultaneous occurrence 同时发生 must exist). Thus, confining someone the next day does not normally meet 满足；符合 this element 构成要件. At the same time 与此同时, simple but evocative 令人触动的；能引起反应的 words, such as “Don’t move” or “I’ll shoot (you)!” can be interpreted as 被解读为 an act intended to confine if the person is actually confined due to 由于；因为 the defendant’s words. Furthermore 此外；而且, the confinement must be complete 完全的；彻底的. This means that if a victim 受害者 has a reasonable way out 合理的逃脱途径 and is aware of it 知晓该途径 (e.g., an open door 敞开的门 or back exit 后门), then it is generally not actual confinement 实际的禁锢. However 然而, the person being confined is not required to 不必 look for an escape 寻找逃脱途径.
+
+[.my2]
+“意图限制人身自由”的行为必须具有即时性（即行为与限制结果必须同时发生）。因此，若次日才限制某人的人身自由，通常不符合这一构成要件。与此同时，一些简单却带有威慑性的话语，例如“不许动”或“我要开枪了！”，只要这些话语确实导致当事人被限制人身自由，就可以被解读为具有限制意图的行为。此外，人身自由的限制必须是完全的。这意味着，如果受害者有合理的逃脱途径且知晓该途径（例如一扇敞开的门或后门），那么这种情况通常不构成实际的非法拘禁。不过，被限制人身自由的人并无义务主动寻找逃脱途径。
+
+#### Intentional Infliction of Emotional Distress (IIED) 故意造成精神损害
+
+The final example 最后一个例子 covered 涵盖；论述 in this section 本节 regarding 关于 intentional torts 故意侵权行为 is intentional infliction of emotional distress (IIED) 故意造成精神损害. To establish a prima facie case of IIED, the plaintiff must prove that 证明 the defendant acted with 实施了 outrageous 令人发指的；极端无礼的 or extreme conduct 极端行为 that recklessly 轻率地；罔顾后果地 or intentionally 故意地 caused severe emotional distress 严重精神损害 to another 对他人.
+
+[.my2]
+本节论述的最后一种故意侵权行为是故意造成精神损害（IIED）。要确立故意造成精神损害的表面证据确凿案件，原告必须证明被告实施了令人发指或极端的行为，且该行为轻率或故意地对他人造成了严重精神损害。
+
+The terms 术语 “outrageous or extreme conduct” are words or actions 言语或行为 that exceed 超出；逾越 all standards of decency 体面标准；道德底线. In terms of 就……而言 word usage 言语表述, mere insults 单纯的侮辱 or blackmail 敲诈勒索 generally do not meet the standard of 达到……的标准 being outrageous or extreme. In terms of physical acts 身体行为, acts of possible but not actual violence 可能但未实际发生的暴力行为 (e.g., raising a fist 举起拳头 or weapon 武器) generally do not meet the standard of being outrageous or extreme. For example 例如, throwing a dead body 尸体 in someone’s front yard 前院 or delivery 交付 of the wrong body 错误的尸体 by a funeral home 殡仪馆 have been ruled to 被裁定 not constitute 构成 outrageous or extreme conduct.
+
+[.my2]
+“令人发指或极端行为”这一术语，指的是逾越所有体面标准与道德底线的言语或行为。就言语表述而言，单纯的侮辱或敲诈勒索通常达不到令人发指或极端的标准。就身体行为而言，可能但未实际发生的暴力行为（例如举起拳头或武器），一般也不满足该标准。例如，将尸体扔到他人前院，或是殡仪馆错送尸体这类行为，都曾被法院裁定不构成令人发指或极端的行为。
+
+So far 到目前为止 in this chapter 本章, the elements 构成要件 needed by the plaintiff in a tort case 侵权案件 have been covered. The next section 下一节 takes the opposite viewpoint 从相反的角度出发 in terms of 就……而言 explaining affirmative defenses 积极抗辩 that can be used when faced with 面临 tort action causes of action 侵权诉讼的诉由.
+
+[.my2]
+本章到目前为止，已经论述了侵权案件中原告需要证明的各项构成要件。下一节将从相反的角度出发，阐释在面临侵权诉讼诉由时可以援引的积极抗辩事由。
+
+---
+
+=== Affirmative Defenses 积极抗辩
+
+An affirmative defense 积极抗辩 is made after 在……之后提出 the plaintiff successfully proves 成功证明 a prima facie case for an intentional tort. At this point 此时, the burden of proof 举证责任 then shifts from 从……转移到 the plaintiff to the defendant. An affirmative defense is also known as 也被称为 a “privilege 特权；豁免权”.
+
+[.my2]
+积极抗辩是在原告成功证明故意侵权的表面证据确凿案件之后提出的抗辩事由。此时，举证责任便从原告转移至被告。积极抗辩也被称为“特权抗辩”。
+
+Affirmative defenses include the following 包括以下几种：
+
+- Consent 同意
+- Necessity 紧急避险
+- Self-defense 正当防卫
+- Defense of others 防卫他人
+- Defense of property 防卫财产
+
+[.my2]
+积极抗辩事由包括以下几种：
+- 同意
+- 紧急避险
+- 正当防卫
+- 防卫他人
+- 防卫财产
+
+#### Consent 同意
+
+Consent 同意 is the willingness in fact 事实上的意愿 for the conduct 行为 to occur. Thus 因此, even if 即使 the plaintiff proves a prima facie case, the defendant can argue that 主张 the plaintiff consented to 同意 the act. Consent can be communicated directly to 直接传达给 the defendant, but it does not always have to be 不一定要 communicated to the defendant. In the latter case 在后一种情况下, the defendant can argue that implied consent 默示同意 existed.
+
+[.my2]
+同意是指当事人事实上愿意让某一行为发生。因此，即便原告证明了表面证据确凿的案件，被告仍可以主张原告是同意该行为的。同意可以直接传达给被告，但并非必须如此。在后一种情况下，被告可以主张存在默示同意。
+
+Here is an example of 一则……的例子 implied consent:
+
+- Case 案件: _O’Brien v. Cunard Steamship_, 154 Mass. 272, 28 N.E. 266 (1891)
+- Facts 事实: A woman sued 起诉 a boat company 轮船公司 for battery 殴打 related to 关于 the boat company’s action of 行为 injecting 注射 her with a medical vaccination 疫苗接种. However, the facts show that 表明 she was not forced to 被迫 take the medical vaccination (i.e., it was optional 自愿的, not obligatory 强制的).
+- Issue 争议焦点: Whether implied consent existed, and whether a tortious act 侵权行为 was committed 实施.
+- Rule 法律规则: The general rule is that 一般规则是 consent can exist in the form of 以……的形式 implied consent 默示同意.
+- Apply 规则适用: The court decided that 裁定 the woman (plaintiff), while knowing that 明知 she would be vaccinated 接种疫苗, raised her arm 抬起手臂 to receive the vaccination 接受接种. Thus, the plaintiff’s voluntary physical 自愿的身体动作 raising of her arm to receive the vaccination was a form of implied consent to receive the vaccination. Thus, even if she proved a prima facie case of battery, the defendant had a valid 有效的 affirmative defense in the form of 以……的形式 implied consent to the vaccination.
+- Conclusion 结论: Yes, implied consent existed, thus no tortious act was committed.
+
+[.my2]
+以下是一则默示同意的案例：
+- 案件：奥布莱恩诉丘纳德轮船公司案，154 Mass. 272，28 N.E. 266（1891年）
+- 事实：一名女子以殴打为由起诉某轮船公司，理由是该公司为她注射了疫苗。但事实表明，她并非被迫接种疫苗（即接种是自愿的，而非强制的）。
+- 争议焦点：本案是否存在默示同意，以及被告是否实施了侵权行为。
+- 法律规则：一般规则是，同意可以以默示同意的形式存在。
+- 规则适用：法院裁定，该名女子（原告）在明知自己将要接种疫苗的情况下，主动抬起手臂接受接种。因此，原告自愿抬起手臂接受接种的身体动作，构成了对接种行为的默示同意。由此，即便原告证明了殴打行为的表面证据确凿案件，被告仍可以原告默示同意接种为由，提出有效的积极抗辩。
+- 结论：本案存在默示同意，因此被告未实施侵权行为。
+
+Another subset 另一分支 of consent within affirmative defenses is the concept of 概念 emergency consent 紧急情况下的同意. An affirmative defense of emergency consent is acknowledged 被认可 if (1) the plaintiff was unable to 无法 consider the matter 考量相关事宜; (2) an immediate decision 即时的决定 was necessary 必要的; (3) no reason existed for 不存在理由 the plaintiff to object to 反对 the emergency consent; and (4) a reasonable person 理性人 would not have objected to 不会反对 the emergency consent.
+
+[.my2]
+积极抗辩事由中，同意的另一分支是紧急情况下的同意这一概念。在满足以下条件时，紧急情况下的同意抗辩可以被认可：（1）原告当时无法考量相关事宜；（2）必须作出即时决定；（3）原告没有理由反对该紧急情况下的同意；（4）理性人也不会反对该紧急情况下的同意。
+
+Furthermore 此外, much like 很像 a sports game of litigation volleyball 诉讼中的攻防转换游戏, defenses to the affirmative defense of consent exist 针对同意这一积极抗辩的抗辩事由是存在的. Specifically 具体而言, examples of defenses to consent 针对同意的抗辩事由 include (1) coercion 胁迫 (in providing consent 作出同意时), (2) distress 危难；困境, and (3) fraud 欺诈. As a result 因此, even if 即使 the defendant proves that 证明 consent was given 同意已作出, consent generally cannot normally be deemed 被认定为 a proper defense 正当的抗辩事由 if it was coerced 被胁迫作出的 or given under distress 迫于危难作出的 or fraud 基于欺诈作出的. For instance 例如, in the previous case example 在前述案例中 involving 涉及 implied consent, if the woman (plaintiff) provided evidence that 提供证据证明 she was coerced by 被胁迫 the doctor (or other staff 工作人员), then the court may have upheld 维持 the decision for the plaintiff 有利于原告的判决 by ruling that 裁定 no consent, including implied consent 包括默示同意, was given by the plaintiff.
+
+[.my2]
+此外，就像诉讼中的攻防转换游戏一样，针对同意这一积极抗辩事由，也存在相应的抗辩理由。具体而言，针对同意的抗辩事由包括：（1）作出同意时受到胁迫；（2）作出同意时处于危难困境；（3）作出同意时受到欺诈。因此，即便被告证明原告确实作出了同意，但若该同意是被胁迫、迫于危难或基于欺诈而作出的，通常也不能被认定为正当的抗辩事由。例如，在前述默示同意的案例中，如果该名女子（原告）能够提供证据证明自己是被医生（或其他工作人员）胁迫的，那么法院就可能裁定原告并未作出任何同意（包括默示同意），进而维持有利于原告的判决。
+
+Consent is generally deemed as 被认定为 not a proper defense 非正当抗辩事由 when it is given under the following circumstances 在以下情形下作出的: (1) lack of capacity to consent 缺乏同意能力 (e.g., consent by minors 未成年人 under 18 years of age 未满18周岁); (2) lack of mental capacity 缺乏民事行为能力 (e.g., intoxicated persons 醉酒者); and (3) consent to a criminal act 同意参与犯罪行为 (e.g., slavery 奴隶制 or indentured servitude 契约劳役).
+
+[.my2]
+在以下情形下作出的同意，通常会被认定为非正当的抗辩事由：（1）缺乏同意能力（例如未满18周岁的未成年人作出的同意）；（2）缺乏民事行为能力（例如醉酒者作出的同意）；（3）同意参与犯罪行为（例如同意参与奴隶制或契约劳役）。
+
+#### Necessity 紧急避险
+
+Necessity 紧急避险 exists when 存在于以下情形 the defendant is privileged 享有特权；获得豁免 (legally allowed 法律允许的) to enter or remain on 进入或滞留于 another’s land 他人土地, which would normally be deemed as 被认定为 trespassing 非法侵入, or allowed to trespass to 非法侵犯 the chattel 动产 of another, if it is, or reasonably appears to be 或合理看起来是, necessary to 有必要 prevent serious harm 防止严重损害. For example 例如, assume a situation where 假设存在这样一种情形 a defendant was sued for 被起诉 throwing away 丢弃 the plaintiff’s barrel of wine 一桶葡萄酒 on a ferry boat 渡轮 in an attempt to 试图 save the boat and its passengers 船员和乘客 amid a storm 暴风雨中. Could the defendant argue that 主张 necessity existed?
+
+[.my2]
+紧急避险的适用情形是：被告为防止严重损害的发生（或合理认为有必要防止严重损害发生），而进入或滞留于他人土地——这类行为通常会被认定为非法侵入，或非法侵犯他人动产，此时被告的行为可获得法律豁免。例如，假设存在这样一种情形：在暴风雨中，被告为挽救渡轮及船上的船员和乘客，将原告的一桶葡萄酒扔下船，随后被告因此被起诉。那么被告是否可以主张存在紧急避险事由？
+
+In a case with such facts 在此类事实的案件中, based on 基于 the famous _Mouse Case_ 著名的《老鼠案》 (12 Co. 63 (1608)), the court held that 裁定 yes, the privilege of necessity 紧急避险特权 did exist. The court’s rationale 理由 was that 在于 the defendant’s acts were necessary for 对……是必要的 the defendant to throw away the barrel of wine to prevent serious harm (e.g., saving the boat from sinking 防止船只沉没 and its passengers from drowning 防止乘客溺水). Moreover 此外, the barrel of wine would have been lost anyway 终究会被损毁 if the boat sank 船只沉没.
+
+[.my2]
+在具有此类事实的案件中，法院会依据著名的1608年《老鼠案》（12 Co. 63）裁定，被告确实享有紧急避险特权。法院的裁判理由是，被告将葡萄酒桶扔下船的行为，对于防止严重损害的发生是必要的（例如防止船只沉没、避免乘客溺水）。此外，即便不将酒桶扔下船，一旦船只沉没，这桶葡萄酒终究也会被损毁。
+
+
+
+#### Self-Defense 正当防卫
+
+In deciding 判定；裁决 whether to grant 准予；认可 self-defense, American courts 美国法院 will consider 考量 the forces 武力；暴力 used by the plaintiff 原告 (as the alleged attacker 被指控的攻击者) and the defendant 被告 (as the alleged victim 被指控的受害者). It is important that 至关重要的是 the victim uses reasonable force 合理武力 that is deemed 被认定为 appropriate 恰当的；合适的 in the situation 具体情形下. Thus 因此, if A tried to 试图 hit 击打 B, and B kills 杀死 A in response 作为回应, B’s act 行为 cannot constitute 构成 self-defense, because it would not be deemed as “reasonable force.”
+
+[.my2]
+美国法院在判定是否准予正当防卫抗辩时，会考量原告（被指控的攻击者）与被告（被指控的受害者）所使用的武力。至关重要的一点是，受害者使用的武力必须是在具体情形下被认定为恰当的合理武力。因此，若A试图击打B，而B却将A杀死作为回应，那么B的行为不构成正当防卫，因为该行为不属于“合理武力”的范畴。
+
+What then is the difference 区别 between nondeadly force 非致命武力 and deadly force 致命武力? Distinguishing between 区分 the two types of force is often needed when deciding on 判定 the reasonableness 合理性 of the force used by the alleged victim (defendant). In plain English 通俗地说, deadly force can cause 造成 death 死亡 or serious bodily harm 严重身体伤害. Everything else 其他所有情形 can generally default to 默认为 nondeadly force.
+
+[.my2]
+那么非致命武力与致命武力之间有何区别？在判定被指控的受害者（被告）所使用武力的合理性时，往往需要对这两种武力进行区分。通俗地说，致命武力是指可能造成死亡或严重身体伤害的武力，其他所有情形下使用的武力通常默认为非致命武力。
+
+A person can generally use 运用 deadly force as self-defense only when 只有在……的情况下 a reasonable belief 合理相信 exists that 认为 the tortfeasor 侵权行为人 is about to 即将 intentionally 故意地 inflict 施加；造成 death or serious bodily harm that can be prevented 预防 only by the immediate use of force 立即使用武力, and the person is either within his or her household 身处自家住宅内 or has nowhere to retreat 无处可退. A person can generally use nondeadly force as self-defense only when a reasonable belief exists that the other party 另一方 will intentionally inflict unprivileged harm 无权实施的伤害 to him or her. Much like with 与……十分相似 the other defenses 其他抗辩事由, nondeadly force must be reasonable.
+
+[.my2]
+一般情况下，只有当某人合理相信侵权行为人即将故意施加死亡或严重身体伤害，且只有立即使用武力才能阻止该伤害发生，同时自己身处自家住宅内或无处可退时，才可以运用致命武力进行正当防卫。而使用非致命武力进行正当防卫的情形是，某人合理相信另一方即将故意对自己施加无权实施的伤害。与其他抗辩事由的要求一致，非致命武力的使用也必须具备合理性。
+
+#### Defense of Others 防卫他人
+
+Here 在此情形下, the defense of others varies greatly 差异很大 from state to state 各州之间. The majority view 多数观点 is that the defendant has a privilege 享有抗辩权 to defend 保护 another person only if 只有当 that person had the privilege of self-defense 享有正当防卫权. If the defendant was mistaken about 对……存在误解 the need to defend 防卫的必要性, then no privilege exists 不享有抗辩权. Thus, if A points 指向 a water gun 水枪 at B, and C thinks that 认为 B is in danger 身处险境 and shoots 射击 A with a real gun 真枪, C is not privileged 不享有抗辩权. The minority view 少数观点 is that the defendant is privileged to defend another if the defendant reasonably believes that the other would be privileged to defend him or herself if able to do so 若有能力保护自己的话. Even if 即便 mistaken 存在误解, the defendant might still have the privilege if the belief was deemed as reasonable 被认定为合理的. Thus, in the previous water gun case 前述水枪案例中 under the minority view 依据少数观点, C may be privileged if he reasonably believed that A was about to shoot B with a real gun.
+
+[.my2]
+防卫他人这一抗辩事由在各州之间的规定差异很大。多数观点认为，只有当被保护人本身享有正当防卫权时，被告才享有保护他人的抗辩权。如果被告对防卫的必要性存在误解，那么其不享有抗辩权。例如，若A拿水枪指着B，而C误以为B身处险境并用真枪射击了A，那么C不享有抗辩权。少数观点则认为，如果被告合理相信被保护人若有能力保护自己，就享有正当防卫权，那么被告即可享有保护他人的抗辩权。即便被告存在误解，只要该误解被认定为合理的，其仍可能享有抗辩权。因此，在前述水枪案例中，依据少数观点，如果C合理相信A即将用真枪射击B，那么C可能享有抗辩权。
+
+In terms of 就……而言 distinguishing between 区分 deadly and nondeadly force, the same methodology 方法；原则 as used with self-defense is used, and similarly 同样地, the force used must be reasonable.
+
+[.my2]
+就区分致命武力与非致命武力而言，所采用的原则与正当防卫的相关原则一致，同样，所使用的武力也必须具备合理性。
+
+#### Defense of Property 防卫财产
+
+The final affirmative defense 最后一项积极抗辩事由 covered 涵盖 in this section is the defense of property. A person can use deadly force as a defense of property 防卫财产 only when he or she reasonably believes that an intruder 侵入者, unless forced out 除非被驱逐, is likely to 可能 cause death or serious bodily harm. A person can use nondeadly force as a defense of property only when (1) the intrusion 侵入行为 was not privileged 不具有合法性；无权实施; (2) the defendant reasonably believed that the intrusion could only be prevented 阻止 by force 武力; and (3) the defendant first requested 要求 the intruder to desist 停止；终止, or the defendant reasonably believed that a request would be useless 徒劳的 even if stated to the intruder 即便向侵入者提出.
+
+[.my2]
+本节涵盖的最后一项积极抗辩事由是防卫财产。只有当某人合理相信侵入者若不被驱逐，就可能造成死亡或严重身体伤害时，才可以使用致命武力防卫财产。而使用非致命武力防卫财产需满足以下三个条件：（1）侵入行为不具有合法性；（2）被告合理相信只有使用武力才能阻止侵入行为；（3）被告事先要求侵入者停止侵入，或者被告合理相信即便提出要求，侵入者也不会停止。
+
+---
+
+=== Res Ipsa Loquitur 事实自证原则
+
+How do you prove 证明 a tort case 侵权案件 without direct evidence 直接证据? One legal strategy 法律策略 would be to apply 适用 res ipsa loquitur 事实自证原则, which is used when the plaintiff does not have direct evidence of the act that caused injury 造成损害的行为. This concept 概念 is often employed by 被……采用 the plaintiff’s legal counsel 原告的法律顾问 when direct evidence is missing 缺失 or incomplete 不完整. For instance 例如, imagine walking down the street 沿街行走 in New York City 纽约市. You are then hit by 被……砸中 a large and heavy bucket 沉重的大桶 filled with paint 装满油漆的 from somewhere above you 在你上方某处 in the building next to you 旁边的建筑物里. After a long search 经过长时间调查, you believe you find the tortfeasor 侵权行为人, but you do not have direct evidence to prove 证明 the person’s negligent behavior 过失行为.
+
+[.my2]
+在缺乏直接证据的情况下，如何证明一起侵权案件？其中一种法律策略是适用事实自证原则，该原则适用于原告无法提供造成损害行为的直接证据的情形。当直接证据缺失或不完整时，原告的法律顾问往往会采用这一原则。例如，假设你正在纽约市的街头行走，突然被旁边建筑物里掉下来的一个装满油漆的沉重大桶砸中。经过长时间调查，你认为自己找到了侵权行为人，却没有直接证据证明该人的过失行为。
+
+With _res ipsa loquitur_, even if 即便 the plaintiff cannot identify 确定 exactly 确切地 what the defendant did in being negligent 存在过失的具体行为, the plaintiff is not necessarily precluded from 未必被剥夺……的权利 recovering legal damages 获得法律赔偿 where negligence is apparent 过失显而易见的情形下. To prove res ipsa loquitur, the plaintiff must demonstrate 证明 that (1) generally 一般而言, the accident 事故 would not have occurred but for the defendant’s negligence 若非被告的过失则不会发生; and (2) the cause of harm 损害原因 was in the defendant’s exclusive control 排他性控制之下.
+
+[.my2]
+依据事实自证原则，即便原告无法确定被告存在过失的具体行为，在过失显而易见的情形下，原告未必会被剥夺获得法律赔偿的权利。要证明事实自证原则的适用条件成立，原告必须证明以下两点：（1）一般而言，若非被告的过失，该事故本不会发生；（2）造成损害的原因处于被告的排他性控制之下。
+
+As another example 再举一个例子, one case 案件 involving 涉及 _res ipsa loquitur_ involved a waitress 女服务员 who had a Coca-Cola bottle 可乐瓶 burst 爆裂 while she held it in her hands 拿在手中, causing her physical injury 造成身体伤害. The waitress-plaintiff 身为原告的女服务员 used _res ipsa loquitur_ to argue that 主张 the defendant’s (Coca-Cola) negligence caused her hand injury 手部损伤. The waitress-plaintiff used _res ipsa loquitur_ and demonstrated that (1) the bottle no longer existed 已不复存在; and (2) she could not provide any actual evidence 提供任何实质证据 of negligence by the defendant, because the defendant had exclusive control over the manufacturing process 生产流程 of the Coca-Cola bottles (based on 基于 _Escola v. Coca-Cola Bottling Co_., 24 Cal. 2d 453 (1944)).
+
+[.my2]
+再举一个适用事实自证原则的案例：一名女服务员手中的可乐瓶突然爆裂，导致其身体受伤。身为原告的女服务员援引事实自证原则，主张被告（可口可乐公司）的过失导致了自己的手部损伤。该女服务员援引这一原则，并证明了以下两点：（1）涉事可乐瓶已不复存在；（2）自己无法提供任何证明被告存在过失的实质证据，因为可乐瓶的生产流程完全处于被告的排他性控制之下（基于1944年的埃斯科拉诉可口可乐瓶装公司案，判例号：24 Cal. 2d 453）。
+
+---
+
+=== Causation 因果关系
+
+To decide 判定 whether negligence existed 存在过失, American courts generally use 采用 the “but for” causation test “若非”因果关系测试法. For example 例如, if A violated 违反 a traffic law 交通法规 and B died because of 死于 a heart attack 心脏病发作 in another country 在另一个国家, A is not liable for 对……不承担责任 B’s death because A’s acts (even if negligent 即便存在过失) did not directly cause 直接导致 B’s death. Applying 适用 the “but for” causation test, the issue 问题在于 is whether A’s negligent act was the “but for cause” 若非原因 of B’s death, or would B have died “but for” (as a result of 由于) A’s negligence? The short answer 简短的答案是 is no. The rationale 理由是 that B would have died regardless of 无论；不管 A’s negligent acts. Thus, A is not the “but for cause” of B’s death, so A is not liable for B’s death.
+
+[.my2]
+美国法院在判定是否存在过失时，通常会采用“若非”因果关系测试法。例如，若A违反了交通法规，而B却在另一个国家死于心脏病发作，那么A无需对B的死亡承担责任，因为A的行为（即便存在过失）并未直接导致B的死亡。适用“若非”因果关系测试法来分析，问题的核心在于A的过失行为是否是B死亡的“若非原因”，或者说，B是否是“因为”A的过失才死亡的？答案是否定的。理由是，无论A是否存在过失，B都会死亡。因此，A的行为不是B死亡的“若非原因”，A无需对B的死亡承担责任。
+
+A separate but related 独立但相关的 causation test 因果关系测试法 used by American courts is the proximate cause test 近因测试法. Even if 即便 A’s act is deemed 被认定为 the “but for” cause 若非原因 for B’s injury 损害, a court can subsequently 随后 apply the proximate cause test, often to ensure that 以确保 the damages awarded 判处的赔偿金 are fair 公正的 and not overly disproportionate to 与……不至于过分失衡 the injury caused 造成的损害. The determination of 对……的认定 proximate cause 近因 is a question for the jury 由陪审团裁定的事实问题 (i.e., it is a question of fact 事实问题 for the jury in a jury trial 陪审团审判中, rather than 而非 a question of law 法律问题 for the judge 由法官裁定). In a jury trial, the jury’s role 职责 is to decide whether the defendant’s negligence was a cause close enough 足够密切的原因 to have injured the plaintiff 对原告造成损害. Thus, another informal way to think about 理解 proximate cause is the “close enough” cause “足够密切”的原因. In doing so 在这一过程中, the jury often considers 考量 whether the injury was reasonably foreseeable 具有合理可预见性 or not.
+
+[.my2]
+美国法院采用的另一种独立但相关的因果关系测试法是近因测试法。即便A的行为被认定为B遭受损害的“若非原因”，法院也可能随后适用近因测试法，这通常是为了确保判处的赔偿金公正合理，与造成的损害不至于过分失衡。对近因的认定属于由陪审团裁定的事实问题（即在陪审团审判中，该问题由陪审团判定，而非由法官裁定的法律问题）。在陪审团审判中，陪审团的职责是判定被告的过失是否是与原告所受损害足够密切的原因。因此，理解近因的另一种通俗方式，就是将其视为“足够密切”的原因。在判定近因时，陪审团通常会考量损害结果是否具有合理可预见性。
+
+Here is an example of 一则关于……的例子 “but for” and proximate cause:
+
+- Facts 事实: A hits 撞击 B in a traffic accident 交通事故中. It is clear that 很明显 A hit B after violating a traffic law 违反交通法规之后.
+- Issue 争议焦点: Whether A’s act was negligent 存在过失 under the “but for” and proximate cause test 依据“若非”与近因测试法.
+- Rule 法律规则: The general rule 一般规则是 is that A’s act must be deemed the “but for” and proximate cause of B’s injury to determine if A’s act was negligent.
+- Apply 规则适用: Here 本案中, A’s act was the “but for” cause, and A’s act was a proximate cause of B’s injury.
+- Conclusion 结论: Yes, A was negligent 存在过失.
+
+[.my2]
+以下是一则关于“若非”原因与近因的案例：
+- 事实：A在一场交通事故中撞伤了B，且很明显，A是在违反交通法规之后撞到B的。
+- 争议焦点：依据“若非”与近因测试法，A的行为是否存在过失？
+- 法律规则：一般规则是，只有当A的行为被认定为B所受损害的“若非”原因与近因时，才能判定A的行为存在过失。
+- 规则适用：本案中，A的行为既是B所受损害的“若非”原因，也是其近因。
+- 结论：A的行为存在过失。
+
+Here is another example of proximate cause 近因的另一则案例：
+
+- Facts 事实: A hits a tree 撞到一棵树 with his car 驾驶他的汽车. The tree then falls on top of 倒在 a dog, which starts barking 开始狂吠. The barking dog alarms 惊吓到 a nearby cat 附近的一只猫, which bites 咬伤 B. The cat bite injures B 猫的咬伤导致B受伤.
+- Issue 争议焦点: Whether A is negligently liable for 对……承担过失责任 B’s injury?
+- Rule 法律规则: The general rule is that A’s act must be the proximate cause of B’s injury to be negligently liable.
+- Apply 规则适用: Here, the events 事件 between A’s act of hitting a tree and B’s injury by the cat bite are too remote 过于遥远 and not reasonably foreseeable 不具有合理可预见性.
+- Conclusion 结论: No, A is not negligently liable for B’s injury 无需对B的损害承担过失责任.
+
+[.my2]
+以下是另一则关于近因的案例：
+- 事实：A开车撞到了一棵树，树随后倒在一只狗身上，狗开始狂吠。狂吠的狗惊吓到了附近的一只猫，猫随后咬伤了B，这一咬伤导致B受伤。
+- 争议焦点：A是否需要对B的损害承担过失责任？
+- 法律规则：一般规则是，只有当A的行为被认定为B所受损害的近因时，A才需要承担过失责任。
+- 规则适用：本案中，从A撞树的行为到B被猫咬伤这一系列事件的关联性过于遥远，且该损害结果不具有合理可预见性。
+- 结论：A无需对B的损害承担过失责任。
+
+---
+
+
+
+=== Injury 损害；伤害
+
+The previous hypotheticals 假设情形；假定事例 involved acts leading to injury 损害；伤害. Broadly speaking 广义而言；概括地说, many people may think that they know what an injury 损害；伤害 is, such as physical 身体的；肉体的 injury 损害；伤害 or harm 伤害；损害. But would emotional 情感的；情绪的 harm 伤害；损害 constitute 构成；组成 an injury 损害；伤害? What about economic 经济的 harm 伤害；损害? The short answer 简短的答案 is that both emotional 情感的；情绪的 and economic 经济的 harm 伤害；损害 can be considered 视为；看作 an injury 损害；伤害 in certain 特定的；某种的 cases 情况；情形.
+
+[.my2]
+前述假设情形均涉及导致损害的行为。广义而言，很多人可能认为自己清楚损害的定义，比如身体上的损伤或伤害。但情感伤害是否构成损害？经济损失又是否算作损害呢？简而言之，在特定情况下，情感伤害和经济损失都可被认定为损害。
+
+The two main 主要的 types 类型 of nonphysical 非身体的；非物质的 injury 损害；伤害 cases 情况；情形 are the following 如下的；下述的:
+
+[.my2]
+非人身损害案件主要有以下两类：
+
+- Negligent 过失的；疏忽的 Infliction 施加；造成 of Emotional 情感的；情绪的 Distress 痛苦；苦恼 (NIED)
+- Negligent 过失的；疏忽的 Infliction 施加；造成 of Economic 经济的 Harm 伤害；损害 (NIEH)
+
+[.my2]
+- 过失致人精神损害（NIED）
+- 过失致人经济损失（NIEH）
+
+#### Negligent Infliction of Emotional Distress (NIED)
+
+[.my2]
+过失致人精神损害（NIED）
+
+NIED is considered 视为；看作 when mental 精神的；心理的 or emotional 情感的；情绪的 distress 痛苦；苦恼 exists 存在 as a result of 由于；作为……的结果 the defendant’s 被告的 negligence 过失；疏忽, but without any physical 身体的；肉体的 injury 损害；伤害. Imagine 设想；想象 a case 情况；情形 where a child is hit by a car. The child’s family would go through 经历；遭受 a great deal of 大量的；许多的 emotional 情感的；情绪的 distress 痛苦；苦恼. Thus 因此；所以, the issue 问题；议题 of NIED is whether the family can receive remedies 补救措施；赔偿 for emotional 情感的；情绪的 harm 伤害；损害.
+
+[.my2]
+当被告的过失行为导致原告遭受精神或情感痛苦，但未造成任何身体损伤时，便会涉及过失致人精神损害的认定。设想这样一种情形：一名儿童被汽车撞倒，其家人必然会承受巨大的精神痛苦。因此，过失致人精神损害所要解决的核心问题是，该儿童的家人能否就其所遭受的情感伤害获得赔偿。
+
+#### Negligent Infliction of Economic Harm (NIEH)
+
+[.my2]
+过失致人经济损失（NIEH）
+
+A defendant 被告 is negligent 过失的；疏忽的 under NIEH when she causes both physical 身体的；肉体的 and economic 经济的 harm 伤害；损害 to a plaintiff 原告. Under NIEH, physical 身体的；肉体的 harm 伤害；损害 includes both injury 损害；伤害 to a person or to her property 财产；财物. However 然而；可是, the general rule 一般规则；常规 is that the plaintiff 原告 must suffer 遭受；蒙受 physical 身体的；肉体的 harm 伤害；损害 in addition to 除……之外（还） economic 经济的 harm 伤害；损害 to recover 获得；得到 damages 损害赔偿金. Without physical 身体的；肉体的 harm 伤害；损害, economic 经济的 damages 损害赔偿金 cannot be recovered 获得；得到 under NIEH, which has been considered 视为；看作 as arguably 可论证地；可争辩地 too strict 严格的；严厉的 by some commentators 评论员；评论家 and courts 法院 due to 由于；因为 the physical 身体的；肉体的 harm 伤害；损害 element 要素；要件 requirement 要求；必要条件.
+
+[.my2]
+在过失致人经济损失的情形下，若被告的过失行为同时对原告造成人身伤害和经济损失，即可认定被告存在过失。该情形中的人身伤害既包括对原告本人的身体损伤，也包括对其财产的损害。然而，一般规则规定，原告必须在遭受经济损失之外还伴有人身伤害，才能获得损害赔偿金。如果不存在人身伤害，原告则无法依据过失致人经济损失的相关规定主张经济赔偿金。部分评论员和法院认为，由于该项规定将人身伤害列为必备要件，其严苛程度有待商榷。
+
+---
+
+=== Employer-Employee Relationships 关系 (Applying 适用；应用 Vicarious 替代的；转承的 Liability 责任；义务)
+
+[.my2]
+雇佣关系（转承责任的适用）
+
+Strict 严格的；绝对的 liability 责任；义务 is liability 责任；义务 without fault 过错；过失. (Strict 严格的；绝对的 liability 责任；义务 not involving 涉及；牵涉 vicarious 替代的；转承的 liability 责任；义务 will be discussed 讨论 again later 稍后；随后 in this chapter 章节.) With strict 严格的；绝对的 liability 责任；义务, intent 故意；意图 is a nonissue 无关紧要的事情；无需考虑的问题. If the act 行为 was committed 实施；做出, regardless of 不管；不顾 the defendant’s 被告的 intent 故意；意图, liability 责任；义务 is established 确立；认定.
+
+[.my2]
+严格责任是指无需认定过错即可成立的责任。（本章后续将另行讨论不涉及转承责任的严格责任。）在严格责任原则下，行为人的主观故意并非考量因素。只要相关行为已实施，无论行为人主观上是否存在故意，均需承担相应责任。
+
+Vicarious 替代的；转承的 liability 责任；义务—also known as 被称为；被称作 _respondeat superior_ 雇主责任原则— is a form 形式 of strict 严格的；绝对的 liability 责任；义务. Many cases 案件 involving 涉及；牵涉 vicarious 替代的；转承的 liability 责任；义务 relate to 涉及；与……相关 employer-employee liability 责任；义务 issues 问题；议题. For instance 例如；比如, an employer 雇主 may be vicariously 替代地；转承地 liable 负有责任的；应承担责任的 for harm 伤害；损害 caused by 由……造成 an employee 雇员 where the employee 雇员 is negligent 过失的；疏忽的, but the employer 雇主 is not liable 负有责任的；应承担责任的.
+
+[.my2]
+转承责任（又称“雇主责任原则”）是严格责任的一种形式。许多涉及转承责任的案件均与雇佣责任相关。例如，当雇员因自身过失致人损害时，雇主可能需要为该雇员的行为承担转承责任，即便雇主本身并无过错。
+
+The policy 政策 rationale 理由；依据 for vicarious 替代的；转承的 liability 责任；义务 is to (1) make businesses 企业 internalize 使内在化；使内化 the cost 成本 of safety 安全 and (2) encourage 鼓励 businesses 企业 to run 运营；经营 more safely 安全地 and efficiently 高效地. In vicarious 替代的；转承的 liability 责任；义务 cases 案件, the defendant 被告 (employer 雇主) can recover 获得；得到 damages 损害赔偿金 from the employee 雇员 who was deemed 被认为；被视为 negligent 过失的；疏忽的 through a legal 法律的 process 程序 known as 被称为；被称作 indemnification 赔偿；追偿.
+
+[.my2]
+转承责任的政策依据有两点：一是促使企业将安全成本内部化，二是激励企业更安全、高效地运营。在转承责任案件中，被告（雇主）在承担赔偿责任后，可通过一种名为“追偿”的法律程序，向被认定存在过失的雇员追讨已支付的损害赔偿金。
+
+Under vicarious 替代的；转承的 liability 责任；义务, to hold 认定；判定 an employer 雇主 vicariously 替代地；转承地 liable 负有责任的；应承担责任的, the person who committed 实施；做出 the negligent 过失的；疏忽的 act 行为 must have been an employee 雇员 of the company 公司. Thus 因此；所以, the issue 问题；议题 would be how to determine 确定；判定 whether the particular 特定的；具体的 person was an “employee 雇员” of the company 公司 or not. To get to an answer 答案, a master-servant 主仆 relationship 关系 test 测试；判定标准 can be applied 适用；应用. The first question 问题 would be if the person was a servant 雇员；仆从 or an independent 独立的 contractor 承包人；承包商. Employers 雇主 are generally 通常；一般 only liable 负有责任的；应承担责任的 for the acts 行为 of their servant-type 仆从型的 employees 雇员, and not independent 独立的 contractors 承包人；承包商. As one threshold 关键性的；入门级的 stress-test 考验；检验, the higher the degree 程度 of control 控制 the employer 雇主 has over the particular 特定的；具体的 person, the more likely 可能的 the courts 法院 will determine 确定；判定 that the particular 特定的；具体的 person is an employee 雇员 of the employer 雇主.
+
+[.my2]
+要依据转承责任原则判定雇主需承担转承责任，前提是实施过失行为的主体必须是该雇主的雇员。因此，核心问题在于如何认定该特定主体是否属于雇主的“雇员”。要解答这一问题，可适用主仆关系判定标准。首要问题是判断该主体属于雇员还是独立承包商。通常情况下，雇主仅需对其雇员的行为负责，而无需对独立承包商的行为承担责任。作为一项关键性的判定标准，雇主对该主体的控制程度越高，法院就越有可能将其认定为雇主的雇员。
+
+The next question 问题 would be, “Assuming 假设；假定 the person is an employee 雇员 of the employer 雇主, was the employee 雇员 acting 行事；行为 ‘within the scope 范围 of employment 雇佣’ during the tortious 侵权的 (wrongful 违法的；不正当的) act 行为?” This question 问题 related to 涉及；与……相关 the scope 范围 of the employee’s 雇员的 employment 雇佣 is decided by 由……决定 the judge 法官 or jury 陪审团. Generally 通常；一般, the acts 行为 that were carried out 执行；实施 while furthering 促进；推进 the business 业务；事务 of the employer 雇主 are often considered 视为；看作 as acting 行事；行为 within the scope 范围 of employment 雇佣.
+
+[.my2]
+接下来的问题是：“假设该主体为雇主的雇员，那么其在实施侵权（违法）行为时，是否处于‘雇佣职责范围之内’？” 这一与雇员职责范围相关的问题，由法官或陪审团予以判定。通常而言，雇员为促进雇主业务开展而实施的行为，往往会被认定为属于雇佣职责范围之内的行为。
+
+If, however 然而；可是, a servant-type 仆从型的 employee 雇员 decides to 决定 “frolic and detour” 擅自离岗；偏离职责 from his normal 正常的；常规的 scope 范围 of employment 雇佣, then courts 法院 generally 通常；一般 construe 解释；解读 these actions 行为 as not within the scope 范围 of his employment 雇佣. For example 例如；比如, an employee 雇员 committing 实施；做出 a tortious 侵权的 act 行为 during lunchtime 午餐时间 at his personal 个人的 home would generally 通常；一般 be considered 视为；看作 a “frolic and detour” 擅自离岗；偏离职责, and thus 因此；所以, acting 行事；行为 outside of 超出……的范围 the scope 范围 of his employment 雇佣.
+
+[.my2]
+然而，若雇员擅自脱离其正常的雇佣职责范围行事，法院通常会将此类行为认定为超出雇佣职责范围。例如，某雇员在午餐时间于其私人住所实施侵权行为，该行为通常会被视为“擅自离岗”，即超出了其雇佣职责范围。
+
+As mentioned 提及；说到 in this section 部分；节, the general rule 一般规则；常规 is that employers 雇主 are not liable 负有责任的；应承担责任的 for the negligent 过失的；疏忽的 acts 行为 of independent 独立的 contractors 承包人；承包商. However 然而；可是, exceptions 例外 exist 存在 when the employer 雇主 does the following 如下的；下述的, as decided by 由……决定 the judge 法官 or jury 陪审团:
+
+[.my2]
+正如本节所述，一般规则为雇主无需对独立承包商的过失行为承担责任。但在以下情形中，存在例外规定，具体由法官或陪审团判定：
+
+- Was negligent 过失的；疏忽的 in supervising 监督；管理 the independent 独立的 contractor 承包人；承包商
+- Required 要求；规定 the independent 独立的 contractor 承包人；承包商 to do an inherently 固有地；本质上地 dangerous 危险的 activity 活动
+- Gave an independent 独立的 contractor 承包人；承包商 a nondelegable 不可委托的 duty 职责；义务
+
+[.my2]
+- 对独立承包商的监管存在过失
+- 要求独立承包商从事具有固有危险性的活动
+- 将一项不可委托的职责交由独立承包商履行
+
+---
+
+=== Duty 责任；义务 to Rescue 救助；营救
+
+[.my2]
+救助义务
+
+Imagine 设想；想象 that you are relaxing 放松；休闲 next to a beautiful 美丽的 swimming pool 游泳池. You then notice 注意到；察觉到 a baby 婴儿 crawling 爬行 toward 朝着 the swimming pool 游泳池. If you do nothing 什么都不做, the baby 婴儿 will likely 很可能 fall into 掉入；跌入 the swimming pool 游泳池 and then drown 溺水；淹死. No one else 其他人 is nearby 附近；在旁边. Does a duty 责任；义务 to rescue 救助；营救 the baby 婴儿 exist 存在?
+
+[.my2]
+设想你正在一个漂亮的游泳池边休憩，随后发现一名婴儿正朝着泳池方向爬去。如果你袖手旁观，这名婴儿很可能会跌入泳池并溺水身亡。此时周围没有其他任何人，那么你是否负有救助这名婴儿的义务？
+
+Our moral 道德的 or emotional 情感的；情绪的 side 方面 may tell us that surely 肯定；无疑 we should help 帮助 by trying to 试图；努力 save 拯救 the baby 婴儿 from drowning 溺水；淹死, but under American common law 普通法；习惯法, which gives 赋予；给予 the freedom 自由 to states 州 to pass 通过 state laws 州法律 to the contrary 相反的；相悖的, no duty 责任；义务 to rescue 救助；营救 generally 通常；一般 exists 存在. Thus 因此；所以, even if 即使；即便 you see 看见 the baby 婴儿 will be in great 极大的；重大的 danger 危险, no duty 责任；义务 to rescue 救助；营救 the baby 婴儿 would exist 存在 under common law 普通法；习惯法. This general rule 一般规则；常规 also applies to 适用于 medical 医疗的；医学的 professionals 专业人士, which may be surprising 令人惊讶的 to many people 人们. Thus 因此；所以, for instance 例如；比如, medical 医疗的；医学的 doctors 医生 who are not under a contractual 合同的；契约的 duty 责任；义务 otherwise 除此之外 have no duty 责任；义务 to rescue 救助；营救.
+
+[.my2]
+从道德或情感层面而言，我们肯定会认为理应伸出援手，拯救这名溺水婴儿。但根据美国普通法——该法律赋予各州通过相反法律规定的自由——通常情况下并不存在救助义务。因此，即便你明知婴儿将面临巨大危险，依据普通法，你也不负有救助该婴儿的义务。这一一般规则同样适用于医疗专业人士，这一点可能会让很多人感到惊讶。例如，那些未承担任何合同救助义务的医生，便没有法定的救助责任。
+
+Exceptions 例外 exist 存在, however 然而；可是, in which a duty 责任；义务 to rescue 救助；营救 prevails 占上风；适用. If a person falls under an exception 例外, in which a duty 责任；义务 to rescue 救助；营救 does exist 存在, then the person's inaction 不作为 or failure 未履行 to rescue 救助；营救 would be deemed 被认为；被视为 as a negligent 过失的；疏忽的 act 行为 under tort law 侵权法. Under three jurisdictions 司法管辖区—Michigan, Rhode Island, and Vermont—a duty 责任；义务 to rescue 救助；营救 exists 存在 (at the time of this writing 撰写本文时). Moreover 此外；而且, when a person begins to 开始 rescue 救助；营救, he or she must complete 完成 the action 行为 (i.e., the rescue 救助；营救 cannot be done halfway 半途而废).
+
+[.my2]
+不过，也存在一些适用救助义务的例外情形。如果某人符合存在救助义务的例外情形，那么其不作为或未实施救助的行为，在侵权法下会被认定为过失行为。在三个司法管辖区——密歇根州、罗德岛州和佛蒙特州，救助义务是明确存在的（撰写本文时）。此外，一旦某人开始实施救助行为，就必须将其完成（即救助行为不得半途而废）。
+
+The majority 大多数 of U.S. states 州 have adopted 采纳；采用 versions 版本 of the Good Samaritan law 善良撒玛利亚人法；见义勇为法, which protects 保护 the rescuer 救助者 from negligence 过失的；疏忽的 liability 责任；义务 that may occur 发生 during the rescue 救助；营救, in a case where an individual 个人 attempts to 试图；努力 rescue 救助；营救 a person although 尽管 no legal 法律的 duty 责任；义务 exists 存在 to do so. Another exception 例外 exists 存在 when the victim 受害人 reasonably 合理地 relied on 依赖；依靠 the rescuer 救助者, but the rescuer 救助者 did not end up 最终未 performing 履行 the rescue 救助；营救. For example 例如；比如, if A was in a car accident 车祸 and B told A, “I'll be back with help 帮助 to rescue 救助；营救 you!” but never returns 回来, then B may be liable 负有责任的；应承担责任的 for A's injury 损害；伤害. Another exception 例外 is when A creates 造成 the need 必要性 to be rescued 被救助；被营救. For example 例如；比如, if B were the driver 司机 of the car that A was the passenger 乘客 in when A was injured 受伤的, and B was not injured 受伤的, then B would generally 通常；一般 have a duty 责任；义务 to rescue 救助；营救 A under Good Samaritan laws 善良撒玛利亚人法；见义勇为法.
+
+[.my2]
+美国大多数州都已采纳了《善良撒玛利亚人法》的相关版本，该法律规定，若某人在没有法定救助义务的情况下主动实施救助，可豁免其在救助过程中可能产生的过失责任。另一种例外情形是，当受害人合理信赖救助者会实施救助，但救助者最终却未施救时，救助义务即告成立。例如，若A遭遇车祸，B向A承诺“我会回去找人来救你！”，但最终却一去不返，那么B可能需要对A的损害承担责任。还有一种例外情形是，当A陷入险境是由某人造成时，该人便负有救助义务。例如，若A乘车时遭遇车祸受伤，而司机B并未受伤，那么依据《善良撒玛利亚人法》，B通常负有救助A的义务。
+
+
+
+=== Landowner Liability 土地所有人责任；业主责任
+
+What are the duties 责任；义务 when entering property 不动产；物业, as either a landowner 土地所有人；业主 or the person entering the premises 场所；场地? This section 部分；节 provides 提供 a general 总体的；一般的 legal 法律的 landscape 格局；概况 for thinking about 思考 and getting to 得出 the answers 答案 regarding 关于 such issues 问题 under American law 美国法律.
+
+[.my2]
+无论是作为土地所有人还是进入他人场地的人员，在进入不动产时各自负有何种责任？本节将从美国法律的角度，为思考并解答此类问题提供总体的法律框架。
+
+=== Trespasser 非法侵入者；擅自进入者
+
+A trespasser 非法侵入者；擅自进入者 is defined as 被定义为 a person who enters another's property 不动产；物业 without the privilege 权利；特许 to do so, assuming 假定 no owner 所有人 consent 同意；许可 was given (2nd Restatement of Torts 第二次《侵权法重述》). Generally 通常；一般而言, a landowner 土地所有人；业主 does not owe 负有（义务） a duty 责任；义务 to unforeseen 无法预见的 trespassers 非法侵入者；擅自进入者, although 尽管 exceptions 例外 can exist 存在.
+
+[.my2]
+非法侵入者指未经所有人同意、无合法权利擅自进入他人不动产的人员（依据第二次《侵权法重述》）。通常情况下，土地所有人对无法预见的非法侵入者不负有责任，但存在例外情形。
+
+There are different types 类型 of trespassers 非法侵入者；擅自进入者. Constant 经常性的 trespassers 非法侵入者；擅自进入者 are those who are (1) constantly 经常性地 on an owner's land 土地 as a trespasser 非法侵入者；擅自进入者 to land 土地 and (2) someone the landowner 土地所有人；业主 knows or should know 应当知道 who constantly 经常性地 trespasses 擅自进入 on a limited 有限的 area 区域 of the owner's land 土地. For example 例如；比如, let's say 假设 a path 小路 exists 存在 on A's land 土地, and B has been using 使用 this path 小路 for the past 20 years. B would thus 因此 be a constant trespasser 经常性非法侵入者, because she meets 符合 the constant trespasser 经常性非法侵入者 criteria 标准；条件: (1) B has been constant 经常性的 on the land 土地; and (2) A knows or should have known 本应知道 that B was constantly 经常性地 on the owner's land 土地.
+
+[.my2]
+非法侵入者分为不同类型。经常性非法侵入者需满足两个条件：（1）经常性地擅自进入他人土地；（2）土地所有人知道或应当知道此人在其土地的特定区域内频繁擅自出入。例如，假设A的土地上有一条小路，B在过去20年间一直使用这条小路穿行，那么B就属于经常性非法侵入者，因为她满足了相关标准：一是B经常性地进入该土地，二是A知道或本应知道B在其土地上频繁出入。
+
+In the case of 就……而言 constant trespassers 经常性非法侵入者, liability 责任 for the landowner 土地所有人；业主 occurs 产生 when each of the following 以下各项 exists 存在:
+
+[.my2]
+对于经常性非法侵入者，当同时满足以下所有条件时，土地所有人需承担相应责任：
+
+- An artificial 人为的；人造的 condition 状况；设施 is created 创设；建造 by the landowner 土地所有人；业主 (an artificial 人为的；人造的 condition 状况；设施 is any condition 状况；设施 that is not natural 天然的). Thus 因此, anything created 建造的事物 by the landowner 土地所有人；业主 would generally 通常 be deemed 被认定为 an artificial 人为的；人造的 condition 状况；设施 by the courts 法院.
+- The landowner 土地所有人；业主 knows or has reason to know 有理由知道 of the constant trespasser 经常性非法侵入者.
+- The artificial 人为的；人造的 condition 状况；设施 may cause 导致 death 死亡 or serious 严重的 injury 伤害；损害.
+- The landowner 土地所有人；业主 has reason to believe 有理由相信 that the trespasser 非法侵入者 will not discover 发现 the artificial 人为的；人造的 condition 状况；设施.
+- The landowner 土地所有人；业主 has not exercised 履行；采取 reasonable 合理的 care 注意义务 to warn 警告 the trespasser 非法侵入者 of the artificial 人为的；人造的 condition 状况；设施 and the risk 风险 involved 涉及的；相关的.
+
+[.my2]
+- 该土地上存在由土地所有人创设的人为设施（人为设施指任何非天然形成的设施）。因此，法院通常会将土地所有人建造的任何事物认定为人为设施。
+- 土地所有人知道或有理由知道存在该经常性非法侵入者。
+- 该人为设施可能导致他人死亡或严重伤害。
+- 土地所有人有理由相信，该非法侵入者不会发现该人为设施的存在。
+- 土地所有人未履行合理注意义务，未就该人为设施及其相关风险向非法侵入者发出警告。
+
+Another type 类型 of trespasser 非法侵入者；擅自进入者 is a known 已知的 trespasser 非法侵入者；擅自进入者. A known 已知的 trespasser 非法侵入者；擅自进入者 is a trespasser 非法侵入者；擅自进入者 who is not a constant 经常性的 trespasser 非法侵入者；擅自进入者, but who is seen 看见；发现 by the landowner 土地所有人；业主.
+
+[.my2]
+另一种非法侵入者类型是已知非法侵入者。已知非法侵入者不属于经常性非法侵入者，而是指被土地所有人发现的擅自进入者。
+
+In the case of 就……而言 known trespassers 已知非法侵入者, liability 责任 for the landowner 土地所有人；业主 occurs 产生 when each of the following 以下各项 exists 存在:
+
+[.my2]
+对于已知非法侵入者，当同时满足以下所有条件时，土地所有人需承担相应责任：
+
+- An artificial 人为的；人造的 condition 状况；设施 is maintained 维护；保有 by the landowner 土地所有人；业主.
+- The artificial 人为的；人造的 condition 状况；设施 involves 涉及 a risk 风险 of death 死亡 or serious 严重的 bodily 身体的 harm 伤害.
+- The landowner 土地所有人；业主 knows or has reason to know 有理由知道 of the trespasser's 非法侵入者的 presence 出现；在场 in dangerous 危险的 proximity 接近；靠近 to the artificial 人为的；人造的 condition 状况；设施.
+- The known 已知的 trespasser 非法侵入者 will likely 很可能 not discover 发现 the risk 风险.
+- The landowner 土地所有人；业主 fails to 未能 exercise 履行；采取 reasonable 合理的 care 注意义务 to warn 警告 the known 已知的 trespasser 非法侵入者.
+
+[.my2]
+- 土地所有人维护或保有某一人为设施。
+- 该人为设施存在导致他人死亡或严重人身伤害的风险。
+- 土地所有人知道或有理由知道，该非法侵入者正处于靠近该人为设施的危险区域内。
+- 该已知非法侵入者很可能无法发现该风险。
+- 土地所有人未能履行合理注意义务，未向该已知非法侵入者发出警告。
+
+American tort law 美国侵权法 has also created 确立；创设 a separate 单独的；独立的 duty 责任；义务 for children 儿童 regarding 关于 landowner liability 土地所有人责任, referred to as 被称为 the attractive nuisance doctrine 诱人妨害原则 (also known as 又称 the turntable doctrine 旋转台原则).
+
+[.my2]
+美国侵权法还针对儿童群体，确立了一项关于土地所有人责任的单独规则，即诱人妨害原则（又称旋转台原则）。
+
+In the case of 就……而言 attractive nuisance 诱人妨害, liability 责任 for the landowner 土地所有人；业主 exists 存在 when each of the following 以下各项 arise 出现；成立:
+
+[.my2]
+对于诱人妨害情形，当同时满足以下所有条件时，土地所有人需承担相应责任：
+
+- An artificial 人为的；人造的 condition 状况；设施 exists 存在 on the land 土地.
+- The child 儿童 is too young 年幼的 to appreciate 意识到；理解 the danger 危险 of the artificial 人为的；人造的 condition 状况；设施.
+- The landowner 土地所有人；业主 knows or has reason to know 有理由知道 that the child 儿童 is likely to 可能会 trespass 擅自进入 on her land 土地.
+- The landowner 土地所有人；业主 realizes 意识到 or should realize 应当意识到 that an unreasonable 不合理的 risk 风险 of death 死亡 or serious 严重的 bodily 身体的 harm 伤害 exists 存在 to children 儿童.
+- The utility 效用；益处 of maintaining 维护 the artificial 人为的；人造的 condition 状况；设施 and burden 负担 of eliminating 消除 the danger 危险 are slight 轻微的 compared to 与……相比 the risk 风险 to the child 儿童.
+- The landowner 土地所有人；业主 failed to 未能 use 履行；采取 reasonable 合理的 care 注意义务 to eliminate 消除 the danger 危险 or to protect 保护 the child 儿童 (or children 儿童).
+
+[.my2]
+- 该土地上存在某一人为设施。
+- 儿童年龄过小，无法意识到该人为设施存在的危险。
+- 土地所有人知道或有理由知道，儿童有可能擅自进入其土地。
+- 土地所有人已经意识到或应当意识到，该人为设施对儿童存在不合理的死亡或严重人身伤害风险。
+- 与该设施对儿童构成的风险相比，维护该人为设施的效用以及消除该危险所需承担的负担均较为轻微。
+- 土地所有人未能履行合理注意义务，未消除该危险或未对儿童（或多名儿童）采取保护措施。
+
+One example 例子 of applying 适用 the attractive nuisance doctrine 诱人妨害原则 involves 涉及 a swimming pool 游泳池, which is a type 类型 of artificial 人为的；人造的 condition 状况；设施 under American tort law 美国侵权法. Landowners 土地所有人；业主 are at times 有时 liable 负有责任的 for not exercising 履行 reasonable 合理的 care 注意义务 or eliminating 消除 the risk 风险 of the danger 危险 posed by 由……构成的 the swimming pool 游泳池.
+
+[.my2]
+诱人妨害原则的一个适用案例与游泳池相关——在美国侵权法中，游泳池属于人为设施的一种。土地所有人有时会因未履行合理注意义务、未消除游泳池构成的危险风险而承担责任。
+
+=== Invitee 被邀请人；受邀者
+
+Separate from 区别于 these types 类型 of trespassers 非法侵入者；擅自进入者 is the concept 概念 of an invitee 被邀请人；受邀者 entering a landowner's 土地所有人的 property 不动产；物业. An invitee 被邀请人；受邀者 is a person whom the landowner 土地所有人；业主 invited 邀请 (consented 同意；许可) to enter the landowner's premises 场所；场地. An invitee 被邀请人；受邀者 includes 包括 members of the public 公众成员, business visitors 商业访客, and employees 雇员, to name a few 举几个例子；等等. For invitees 被邀请人；受邀者, the landowner 土地所有人；业主 has a duty 责任；义务 to protect 保护 invitees 被邀请人；受邀者 from all unreasonable 不合理的 risks 风险.
+
+[.my2]
+与上述各类非法侵入者不同的是被邀请人进入土地所有人不动产的情形。被邀请人指经土地所有人邀请（同意）后进入其场地的人员，包括公众成员、商业访客以及雇员等。对于被邀请人，土地所有人负有保护其免受一切不合理风险侵害的责任。
+
+In the case of 就……而言 invitees 被邀请人；受邀者, liability 责任 for the landowner 土地所有人；业主 exists 存在 when each of the following 以下各项 exists 存在:
+
+[.my2]
+对于被邀请人，当同时满足以下所有条件时，土地所有人需承担相应责任：
+
+- The landowner 土地所有人；业主 knew or should have known 本应知道 that a condition 状况；设施 involved 涉及 an unreasonable 不合理的 risk 风险 of harm 伤害 to the invitee 被邀请人；受邀者.
+- The landowner 土地所有人；业主 should have expected 应当预料到 the invitee 被邀请人；受邀者 to not discover 发现 or realize 意识到 the danger 危险 or to fail to 未能 protect 保护 him or herself against 防范 the danger 危险.
+- The landowner 土地所有人；业主 failed to 未能 exercise 履行；采取 reasonable 合理的 care 注意义务 to protect 保护 the invitee 被邀请人；受邀者 against 防范 danger 危险.
+
+[.my2]
+- 土地所有人知道或本应知道，某一设施或状况对被邀请人存在不合理的伤害风险。
+- 土地所有人应当预料到，被邀请人无法发现或意识到该危险，或者无法自行采取措施防范该危险。
+- 土地所有人未能履行合理注意义务，未采取措施保护被邀请人免受该危险侵害。
+
+
+
+=== Licensee
+
+Another type of invited person onto a landowner's premises 场地 is a licensee 被许可人. A licensee is a person who has permission (landowner consent 同意) to enter the landowner's premises, but only for particular purposes (e.g., as a social guest 社交访客). For licensees, a landowner has a duty to warn of known dangerous conditions 危险状况 and does not have a duty to protect licensees from all unreasonable risks 不合理风险.
+
+[.my2]
+另一类被邀请进入土地所有者场地的人是被许可人。被许可人指获得许可（经土地所有者同意）进入土地所有者场地，但仅为特定目的（例如作为社交访客）的人。对于被许可人，土地所有者有义务就已知的危险状况发出警告，但无义务保护被许可人免受所有不合理风险的侵害。
+
+=== Strict Liability 严格责任
+
+Strict liability represents the strictest type of duty in torts 侵权行为. Strict liability is a legal doctrine 法律原则 that makes a person liable for damages 损害赔偿 and loss suffered by his or her acts and omissions 作为与不作为, regardless of culpability 过错责任. Strict liability applies not only in torts (e.g., product liability cases 产品责任案件) but also in criminal law 刑法 (covered in Chapter 7).
+
+[.my2]
+严格责任是侵权法中最严苛的一种责任类型。严格责任是一项法律原则，指无论行为人是否存在过错，均需对其作为与不作为所造成的损害赔偿和损失承担责任。严格责任不仅适用于侵权领域（例如产品责任案件），也适用于刑法领域（详见第七章）。
+
+What elements 构成要件 are needed for strict liability? The plaintiff 原告 needs only to prove that the tort actually happened and that the defendant 被告 was responsible for the act. Neither good faith 善意 nor the fact that the defendant took all possible care and precaution 谨慎与预防措施 to prevent the harm or suffering is a valid defense 有效抗辩 under strict liability (hence the term strict liability). For this reason, strict liability is sometimes called absolute liability 绝对责任.
+
+[.my2]
+严格责任的构成要件有哪些？原告只需证明侵权行为确实发生，且被告应对该行为负责即可。在严格责任原则下，即便被告出于善意，或已采取一切可能的谨慎与预防措施以避免损害发生，均不能构成有效抗辩（这也是“严格责任”这一术语的由来）。因此，严格责任有时也被称为绝对责任。
+
+When does strict liability apply? The earlier paragraph noted that strict liability can apply to product liability cases, and further, it is also often used in cases involving the handling of hazardous 危险的 or inherently dangerous activities 固有危险行为. A classic law school example of this involves the owner of a tiger rehabilitation center 老虎康复中心. No matter how strong the tiger cages 虎笼 are, if the tiger improbably escapes 意外逃脱 and causes damage and injury to others, then the tiger owner will generally be held liable 承担责任 under strict liability. Another example is a contractor 承包商 hiring a demolition subcontractor 拆除分包商 that lacks proper insurance 相应保险 for doing the job. If the demolition subcontractor makes a mistake, then the contractor is generally strictly liable for any damages that occur as a result.
+
+[.my2]
+严格责任适用于哪些情形？前文提到严格责任可适用于产品责任案件，此外，它还常用于涉及危险物品处理或固有危险行为的案件。法学院的一个经典案例是关于一家老虎康复中心的所有者。无论虎笼多么坚固，一旦老虎意外逃脱并对他人造成损害和伤害，老虎的所有者通常需根据严格责任原则承担责任。另一个例子是，承包商雇佣了一家缺乏相应作业保险的拆除分包商。若拆除分包商出现失误，承包商通常需对由此产生的一切损害承担严格责任。
+
+Given the severity 严苛性 of strict liability, what would be the policy rationale 政策依据 for it? First, it discourages reckless behavior 鲁莽行为 and needless loss 不必要损失 by forcing potential defendants to take every possible precaution to avoid possible harm. Second, strict liability simplifies litigation 诉讼 and allows the victim to “become whole” 恢复原状 more quickly (i.e., puts back the plaintiff to the position he or she would have been in if the wrongful act 不法行为 had not occurred).
+
+[.my2]
+鉴于严格责任的严苛性，其政策依据是什么？首先，它通过迫使潜在被告采取一切可能的预防措施以避免潜在损害，从而遏制鲁莽行为和不必要的损失。其次，严格责任简化了诉讼流程，能让受害者更快地“恢复原状”（即让原告回到不法行为未发生时的状态）。
+
+=== Damages 损害赔偿金
+
+Two main types of tort damages exist. The first type is compensatory (actual) damages 补偿性（实际）损害赔偿金, which relate directly to the tortious act 侵权行为. The second type is punitive (exemplary) damages 惩罚性（惩戒性）损害赔偿金, which are awarded 裁定赔付 above and beyond compensatory damages as a clear disapproval of the tortious acts committed in the present case and as a disincentive 遏制手段 for future potential tortious acts.
+
+[.my2]
+侵权损害赔偿金主要分为两类。第一类是补偿性（实际）损害赔偿金，其与侵权行为直接相关。第二类是惩罚性（惩戒性）损害赔偿金，该赔偿金的裁定赔付高于补偿性损害赔偿金，既是对本案所涉侵权行为的明确否定，也是对未来潜在侵权行为的一种遏制手段。
+
+=== Summary
+
+Torts is a noncriminal, noncontract field of civil law 民法. Most lawsuits 诉讼案件 in the American legal system 法律体系 relate directly or indirectly to tort law 侵权法 in terms of the number of cases filed 案件数量. Thus, it is an important area of American law, given its sheer prevalence 广泛存在性 within the American judicial system 司法体系. Tort types include intentional torts 故意侵权, negligent torts 过失侵权, and strict liability torts 严格责任侵权.
+
+[.my2]
+侵权法是民法体系下一个既非刑事领域、也非合同领域的分支。从案件数量来看，美国法律体系中的大多数诉讼案件都直接或间接与侵权法相关。因此，鉴于其在美国司法体系中的广泛存在性，侵权法是美国法律的一个重要领域。侵权行为的类型包括故意侵权、过失侵权和严格责任侵权。
+
+Examples of intentional torts include assault 威胁伤害 and battery 殴打他人. Affirmative defenses 积极抗辩 can be used in the event that tort actions are raised 侵权诉讼提起. Affirmative defenses include consent to the acts 对行为的同意, necessity for the acts 行为的必要性, self-defense 正当防卫, defense of others 保护他人, and defense of property 保护财产. Legal concepts 法律概念 such as res ipsa loquitur 事实自证原则, “but for” causation 若非因果关系, and proximate causation 近因原则 relate to proving negligence 证明过失 in a court of law 法庭.
+
+[.my2]
+故意侵权的例子包括威胁伤害和殴打他人。在侵权诉讼被提起的情况下，可以援引积极抗辩。积极抗辩的情形包括对行为的同意、行为的必要性、正当防卫、保护他人以及保护财产。事实自证原则、“若非”因果关系和近因原则等法律概念，均与在法庭上证明过失相关。
+
+Regarding whether negligence led to injury 损害, American courts can take a relatively expansive view 较为宽泛的认定角度 in terms of what constitutes an injury 构成损害的情形. Physical harm 身体损害, emotional harm 精神损害 (under Negligent Inflection of Emotional Distress, or NIED 过失致人精神损害), and economic harm 经济损害 (under Negligent Infliction of Economic Harm, or NIEH 过失致人经济损害) may qualify as injury in certain cases.
+
+[.my2]
+关于过失是否导致损害这一问题，美国法院对于构成损害的情形可以采取较为宽泛的认定角度。在特定案件中，身体损害、精神损害（依据过失致人精神损害原则，即NIED）以及经济损害（依据过失致人经济损害原则，即NIEH）都可能被认定为损害。
+
+Employers also have certain potential liability under vicarious liability 替代责任 (a form of strict liability), while landowners also can have certain potential liability and duties to both trespassers 非法侵入者 and nontrespassers 非非法侵入者. Finally, in terms of liability, strict liability is the most severe type of liability imposed 适用 under American tort law, often used in product liability cases, as well as cases involving hazardous or inherently dangerous activities.
+
+[.my2]
+雇主需根据替代责任（严格责任的一种形式）承担一定的潜在责任，而土地所有者则需对非法侵入者和非非法侵入者承担相应的潜在责任与义务。最后，就责任类型而言，严格责任是美国侵权法所适用的最严苛的责任类型，通常适用于产品责任案件以及涉及危险物品或固有危险行为的案件。
+
+
+'''
+
+
+== pure
+
+5.TORTS
+
+Imagine a superstar athlete has a broken foot. The athlete goes to the doctor for help. The doctor promises the athlete a “perfect foot” after surgery. After the consultation meeting with the doctor, the athlete decides to go ahead with the foot surgery. However, after the surgery, the athlete’s foot remains in the same condition. So, the foot has not improved and certainly has not met the “perfect foot” standard promised by the doctor. As a result, let’s assume that the superstar athlete is no longer able to play competitively within the athlete’s professional league for the upcoming season.
+
+The athlete retains you as legal counsel. What type of claim would you seek? The previous chapter covered American contract law, so suing for breach of a contract could be one option. Are there any other options? The short answer is yes. It is possible that a legal claim could also be brought under American tort law. This then begs the question, what exactly is a tort?
+
+To get to an answer for the case scenario, we begin with what a tort is. The term “tort” (meaning “twisted”) is a civil wrong, other than a breach of contract, for which the law provides a remedy. The party committing the tort is referred to as the tortfeasor (wrongdoer). The field of tort law is important for a variety of reasons, including that the majority of legal claims in American courts are brought under tort law.
+
+Three types of torts exist as follows:
+
+- Intentional torts (e.g., intentionally hitting a person)
+- Negligent torts (e.g., causing an accident by failing to obey traffic rules)
+- Strict liability torts (e.g., liability for making and selling defective products)
+
+What then is the difference between the various types of torts? One important difference is the intent underlying each tort. Intentional torts—as the term suggests—require intent to commit the wrongful act. However, negligence and strict liability do not require intent.
+
+---
+
+=== Intentional Torts
+
+Intentional tort types include the following:
+
+- Battery
+- Assault
+- False imprisonment
+- Intentional infliction of emotional distress
+
+With torts, and especially intentional torts, what type of burden must be met to support a particular fact or proposition? The answer relates to the concept of establishing a prima facie case. _Prima facie_ is a Latin expression meaning “on its first appearance,” or “by first instance.” From a litigation strategy perspective, meeting the burden of proof requires the plaintiff to prove that a prima facie case has been established. A prima facie case is a case sufficient on its face that establishes at least the minimum requisite evidence to support a particular proposition or fact.
+
+#### Battery
+
+In establishing a prima facie case of battery, the plaintiff must prove that (1) the defendant intended to cause a harmful or offensive contact and (2) that contact actually occurred. Thus, the elements for battery (an intentional tort) are (a) intent and (b) harmful or offensive contact.
+
+The concept of intent related to torts was introduced earlier in this section. To go further, intent is often interpreted as the desire to cause the specific result in question. However, courts may infer intent, even when no clear desire to cause a specific result exists. Two concepts are related to inferred intent by the courts. The first type of inferred intent is constructive intent, which is the knowledge or substantial certainty that the result in question will occur. Thus, simply knowing that something may occur and acting in a way so that the result may occur may constitute an intent from the court’s perspective. The second type of inferred intent is transferred intent, which allows for a lawsuit by a third party when the tortfeasor X meant to strike Y, but actually ended up hitting a third party Z.
+
+The term “harmful,” when used to establish that a battery occurred, can be interpreted as bodily harm in the form of any physical impairment of the condition of another’s body, or physical pain or illness. It can also be interpreted to include alterations that may cause harm, such as a doctor improperly removing a wart.
+
+The next step to establish that a battery occurred is to analyze the term “offensive.” By what measure do courts determine if an act and/or result was offensive? Generally, an act is considered offensive when it offends a reasonable person’s sense of dignity. It may be unwarranted by particular social norms and usages prevalent at the time and place in question. Thus, the interpretation involves yet again another reasonable person standard (covered in xref:americanlaw101_ch03.html#ch03[Chapter 3]). Finally, a contact must occur for battery to be established. This requisite contact can, but does not always have to, be body-to-body physical contact. For example, cigarette smoke may generally not constitute a contact sufficient to establish that a battery occurred (as of this writing). However, cigarette smoke that was intentionally and offensively blown into someone’s face by the tortfeasor may constitute battery.
+
+#### Assault
+
+To establish a prima facie case of assault, the plaintiff must prove that (1) the defendant intended to cause a harmful or offensive contact and (2) the plaintiff was put in imminent apprehension of contact. Thus, the elements to establish a prima facie case of assault are (a) intent, (b) harmful or offensive contact, and (c) imminent apprehension of contact by the plaintiff. One step in determining assault is to analyze the term “imminent.” Imminent is interpreted to mean that the apprehension of the contact by the tortfeasor must be within the same moment. However, insults and mere words usually do not constitute assault alone, regardless of how foul or incendiary they may be.
+
+It may appear that battery and assault are very similar in terms of establishing a prima facie case. Do any differences exist? One similarity is that both battery and assault require (a) intentionality or (b) harmful or offensive contact. The difference, however, is whether an actual contact occurred. To establish a prima facie case of assault, the plaintiff must reasonably believe—using a reasonable person standard—that an imminent apprehension of contact existed, but with a prima facie case of battery, actual physical contact must occur.
+
+#### False Imprisonment
+
+To establish a prima facie case of false imprisonment, the plaintiff must show that (1) the defendant intended to confine the plaintiff; (2) the defendant’s acts caused the plaintiff to be confined; and (3) the plaintiff was either conscious of or harmed by the confinement.
+
+Acts “intending to confine” must be within the same moment (simultaneous occurrence must exist). Thus, confining someone the next day does not normally meet this element. At the same time, simple but evocative words, such as “Don’t move” or “I’ll shoot (you)!” can be interpreted as an act intended to confine if the person is actually confined due to the defendant’s words. Furthermore, the confinement must be complete. This means that if a victim has a reasonable way out and is aware of it (e.g., an open door or back exit), then it is generally not actual confinement. However, the person being confined is not required to look for an escape.
+
+#### Intentional Infliction of Emotional Distress (IIED)
+
+The final example covered in this section regarding intentional torts is intentional infliction of emotional distress (IIED). To establish a prima facie case of IIED, the plaintiff must prove that the defendant acted with outrageous or extreme conduct that recklessly or intentionally caused severe emotional distress to another.
+
+The terms “outrageous or extreme conduct” are words or actions that exceed all standards of decency. In terms of word usage, mere insults or blackmail generally do not meet the standard of being outrageous or extreme. In terms of physical acts, acts of possible but not actual violence (e.g., raising a fist or weapon) generally do not meet the standard of being outrageous or extreme. For example, throwing a dead body in someone’s front yard or delivery of the wrong body by a funeral home have been ruled to not constitute outrageous or extreme conduct.
+
+So far in this chapter, the elements needed by the plaintiff in a tort case have been covered. The next section takes the opposite viewpoint in terms of explaining affirmative defenses that can be used when faced with tort action causes of action.
+
+---
+
+=== Affirmative Defenses
+
+An affirmative defense is made after the plaintiff successfully proves a prima facie case for an intentional tort. At this point, the burden of proof then shifts from the plaintiff to the defendant. An affirmative defense is also known as a “privilege.”
+
+Affirmative defenses include the following:
+
+- Consent
+- Necessity
+- Self-defense
+- Defense of others
+- Defense of property
+
+#### Consent
+
+Consent is the willingness in fact for the conduct to occur. Thus, even if the plaintiff proves a prima facie case, the defendant can argue that the plaintiff consented to the act. Consent can be communicated directly to the defendant, but it does not always have to be communicated to the defendant. In the latter case, the defendant can argue that implied consent existed.
+
+Here is an example of implied consent:
+
+- Case: _O’Brien v. Cunard Steamship_, 154 Mass. 272, 28 N.E. 266 (1891)
+- Facts: A woman sued a boat company for battery related to the boat company’s action of injecting her with a medical vaccination. However, the facts show that she was not forced to take the medical vaccination (i.e., it was optional, not obligatory).
+- Issue: Whether implied consent existed, and whether a tortious act was committed.
+- Rule: The general rule is that consent can exist in the form of implied consent.
+- Apply: The court decided that the woman (plaintiff), while knowing that she would be vaccinated, raised her arm to receive the vaccination. Thus, the plaintiff’s voluntary physical raising of her arm to receive the vaccination was a form of implied consent to receive the vaccination. Thus, even if she proved a prima facie case of battery, the defendant had a valid affirmative defense in the form of implied consent to the vaccination.
+- Conclusion: Yes, implied consent existed, thus no tortious act was committed.
+
+Another subset of consent within affirmative defenses is the concept of emergency consent. An affirmative defense of emergency consent is acknowledged if (1) the plaintiff was unable to consider the matter; (2) an immediate decision was necessary; (3) no reason existed for the plaintiff to object to the emergency consent; and (4) a reasonable person would not have objected to the emergency consent.
+
+Furthermore, much like a sports game of litigation volleyball, defenses to the affirmative defense of consent exist. Specifically, examples of defenses to consent include (1) coercion (in providing consent), (2) distress, and (3) fraud. As a result, even if the defendant proves that consent was given, consent generally cannot normally be deemed a proper defense if it was coerced or given under distress or fraud. For instance, in the previous case example involving implied consent, if the woman (plaintiff) provided evidence that she was coerced by the doctor (or other staff), then the court may have upheld the decision for the plaintiff by ruling that no consent, including implied consent, was given by the plaintiff.
+
+Consent is generally deemed as not a proper defense when it is given under the following circumstances: (1) lack of capacity to consent (e.g., consent by minors under 18 years of age); (2) lack of mental capacity (e.g., intoxicated persons); and (3) consent to a criminal act (e.g., slavery or indentured servitude).
+
+#### Necessity
+
+Necessity exists when the defendant is privileged (legally allowed) to enter or remain on another’s land, which would normally be deemed as trespassing, or allowed to trespass to the chattel of another, if it is, or reasonably appears to be, necessary to prevent serious harm. For example, assume a situation where a defendant was sued for throwing away the plaintiff’s barrel of wine on a ferry boat in an attempt to save the boat and its passengers amid a storm. Could the defendant argue that necessity existed?
+
+In a case with such facts, based on the famous _Mouse Case_ (12 Co. 63 (1608)), the court held that, yes, the privilege of necessity did exist. The court’s rationale was that the defendant’s acts were necessary for the defendant to throw away the barrel of wine to prevent serious harm (e.g., saving the boat from sinking and its passengers from drowning). Moreover, the barrel of wine would have been lost anyway if the boat sank.
+
+#### Self-Defense
+
+In deciding whether to grant self-defense, American courts will consider the forces used by the plaintiff (as the alleged attacker) and the defendant (as the alleged victim). It is important that the victim uses reasonable force that is deemed appropriate in the situation. Thus, if A tried to hit B, and B kills A in response, B’s act cannot constitute self-defense, because it would not be deemed as “reasonable force.”
+
+What then is the difference between nondeadly force and deadly force? Distinguishing between the two types of force is often needed when deciding on the reasonableness of the force used by the alleged victim (defendant). In plain English, deadly force can cause death or serious bodily harm. Everything else can generally default to nondeadly force.
+
+A person can generally use deadly force as self-defense only when a reasonable belief exists that the tortfeasor is about to intentionally inflict death or serious bodily harm that can be prevented only by the immediate use of force, and the person is either within his or her household or has nowhere to retreat. A person can generally use nondeadly force as self-defense only when a reasonable belief exists that the other party will intentionally inflict unprivileged harm to him or her. Much like with the other defenses, nondeadly force must be reasonable.
+
+#### Defense of Others
+
+Here, the defense of others varies greatly from state to state. The majority view is that the defendant has a privilege to defend another person only if that person had the privilege of self-defense. If the defendant was mistaken about the need to defend, then no privilege exists. Thus, if A points a water gun at B, and C thinks that B is in danger and shoots A with a real gun, C is not privileged. The minority view is that the defendant is privileged to defend another if the defendant reasonably believes that the other would be privileged to defend him or herself if able to do so. Even if mistaken, the defendant might still have the privilege if the belief was deemed as reasonable. Thus, in the previous water gun case under the minority view, C may be privileged if he reasonably believed that A was about to shoot B with a real gun.
+
+In terms of distinguishing between deadly and nondeadly force, the same methodology as used with self-defense is used, and similarly, the force used must be reasonable.
+
+#### Defense of Property
+
+The final affirmative defense covered in this section is the defense of property. A person can use deadly force as a defense of property only when he or she reasonably believes that an intruder, unless forced out, is likely to cause death or serious bodily harm. A person can use nondeadly force as a defense of property only when (1) the intrusion was not privileged; (2) the defendant reasonably believed that the intrusion could only be prevented by force; and (3) the defendant first requested the intruder to desist, or the defendant reasonably believed that a request would be useless even if stated to the intruder.
+
+---
+
+=== Res Ipsa Loquitur
+
+How do you prove a tort case without direct evidence? One legal strategy would be to apply res ipsa loquitur, which is used when the plaintiff does not have direct evidence of the act that caused injury. This concept is often employed by the plaintiff’s legal counsel when direct evidence is missing or incomplete. For instance, imagine walking down the street in New York City. You are then hit by a large and heavy bucket filled with paint from somewhere above you in the building next to you. After a long search, you believe you find the tortfeasor, but you do not have direct evidence to prove the person’s negligent behavior.
+
+With _res ipsa loquitur_, even if the plaintiff cannot identify exactly what the defendant did in being negligent, the plaintiff is not necessarily precluded from recovering legal damages where negligence is apparent. To prove res ipsa loquitur, the plaintiff must demonstrate that (1) generally, the accident would not have occurred but for the defendant’s negligence; and (2) the cause of harm was in the defendant’s exclusive control.
+
+As another example, one case involving _res ipsa loquitur_ involved a waitress who had a Coca-Cola bottle burst while she held it in her hands, causing her physical injury. The waitress-plaintiff used _res ipsa loquitur_ to argue that the defendant’s (Coca-Cola) negligence caused her hand injury. The waitress-plaintiff used _res ipsa loquitur_ and demonstrated that (1) the bottle no longer existed; and (2) she could not provide any actual evidence of negligence by the defendant, because the defendant had exclusive control over the manufacturing process of the Coca-Cola bottles (based on _Escola v. Coca-Cola Bottling Co_., 24 Cal. 2d 453 (1944)).
+
+---
+
+=== Causation
+
+To decide whether negligence existed, American courts generally use the “but for” causation test. For example, if A violated a traffic law and B died because of a heart attack in another country, A is not liable for B’s death because A’s acts (even if negligent) did not directly cause B’s death. Applying the “but for” causation test, the issue is whether A’s negligent act was the “but for cause” of B’s death, or would B have died “but for” (as a result of) A’s negligence? The short answer is no. The rationale is that B would have died regardless of A’s negligent acts. Thus, A is not the “but for cause” of B’s death, so A is not liable for B’s death.
+
+A separate but related causation test used by American courts is the proximate cause test. Even if A’s act is deemed the “but for” cause for B’s injury, a court can subsequently apply the proximate cause test, often to ensure that the damages awarded are fair and not overly disproportionate to the injury caused. The determination of proximate cause is a question for the jury (i.e., it is a question of fact for the jury in a jury trial, rather than a question of law for the judge). In a jury trial, the jury’s role is to decide whether the defendant’s negligence was a cause close enough to have injured the plaintiff. Thus, another informal way to think about proximate cause is the “close enough” cause. In doing so, the jury often considers whether the injury was reasonably foreseeable or not.
+
+Here is an example of “but for” and proximate cause:
+
+- Facts: A hits B in a traffic accident. It is clear that A hit B after violating a traffic law.
+- Issue: Whether A’s act was negligent under the “but for” and proximate cause test.
+- Rule: The general rule is that A’s act must be deemed the “but for” and proximate cause of B’s injury to determine if A’s act was negligent.
+- Apply: Here, A’s act was the “but for” cause, and A’s act was a proximate cause of B’s injury.
+- Conclusion: Yes, A was negligent.
+
+Here is another example of proximate cause:
+
+- Facts: A hits a tree with his car. The tree then falls on top of a dog, which starts barking. The barking dog alarms a nearby cat, which bites B. The cat bite injures B.
+- Issue: Whether A is negligently liable for B’s injury?
+- Rule: The general rule is that A’s act must be the proximate cause of B’s injury to be negligently liable.
+- Apply: Here, the events between A’s act of hitting a tree and B’s injury by the cat bite are too remote and not reasonably foreseeable.
+- Conclusion: No, A is not negligently liable for B’s injury.
+
+---
+
+=== Injury
+
+The previous hypotheticals involved acts leading to injury. Broadly speaking, many people may think that they know what an injury is, such as physical injury or harm. But would emotional harm constitute an injury? What about economic harm? The short answer is that both emotional and economic harm can be considered an injury in certain cases.
+
+The two main types of nonphysical injury cases are the following:
+
+- Negligent Infliction of Emotional Distress (NIED)
+- Negligent Infliction of Economic Harm (NIEH)
+
+#### Negligent Infliction of Emotional Distress (NIED)
+
+NIED is considered when mental or emotional distress exists as a result of the defendant’s negligence, but without any physical injury. Imagine a case where a child is hit by a car. The child’s family would go through a great deal of emotional distress. Thus, the issue of NIED is whether the family can receive remedies for emotional harm.
+
+#### Negligent Infliction of Economic Harm (NIEH)
+
+A defendant is negligent under NIEH when she causes both physical and economic harm to a plaintiff. Under NIEH, physical harm includes both injury to a person or to her property. However, the general rule is that the plaintiff must suffer physical harm in addition to economic harm to recover damages. Without physical harm, economic damages cannot be recovered under NIEH, which has been considered as arguably too strict by some commentators and courts due to the physical harm element requirement.
+
+---
+
+=== Employer-Employee Relationships (Applying Vicarious Liability)
+
+Strict liability is liability without fault. (Strict liability not involving vicarious liability will be discussed again later in this chapter.) With strict liability, intent is a nonissue. If the act was committed, regardless of the defendant’s intent, liability is established.
+
+Vicarious liability—also known as _respondeat superior_—is a form of strict liability. Many cases involving vicarious liability relate to employer-employee liability issues. For instance, an employer may be vicariously liable for harm caused by an employee where the employee is negligent, but the employer is not liable.
+
+The policy rationale for vicarious liability is to (1) make businesses internalize the cost of safety and (2) encourage businesses to run more safely and efficiently. In vicarious liability cases, the defendant (employer) can recover damages from the employee who was deemed negligent through a legal process known as indemnification.
+
+Under vicarious liability, to hold an employer vicariously liable, the person who committed the negligent act must have been an employee of the company. Thus, the issue would be how to determine whether the particular person was an “employee” of the company or not. To get to an answer, a master-servant relationship test can be applied. The first question would be if the person was a servant or an independent contractor. Employers are generally only liable for the acts of their servant-type employees, and not independent contractors. As one threshold stress-test, the higher the degree of control the employer has over the particular person, the more likely the courts will determine that the particular person is an employee of the employer.
+
+The next question would be, “Assuming the person is an employee of the employer, was the employee acting ‘within the scope of employment’ during the tortious (wrongful) act?” This question related to the scope of the employee’s employment is decided by the judge or jury. Generally, the acts that were carried out while furthering the business of the employer are often considered as acting within the scope of employment.
+
+If, however, a servant-type employee decides to “frolic and detour” from his normal scope of employment, then courts generally construe these actions as not within the scope of his employment. For example, an employee committing a tortious act during lunchtime at his personal home would generally be considered a “frolic and detour,” and thus, acting outside of the scope of his employment.
+
+As mentioned in this section, the general rule is that employers are not liable for the negligent acts of independent contractors. However, exceptions exist when the employer does the following, as decided by the judge or jury:
+
+- Was negligent in supervising the independent contractor
+- Required the independent contractor to do an inherently dangerous activity
+- Gave an independent contractor a nondelegable duty
+
+---
+
+=== Duty to Rescue
+
+Imagine that you are relaxing next to a beautiful swimming pool. You then notice a baby crawling toward the swimming pool. If you do nothing, the baby will likely fall into the swimming pool and then drown. No one else is nearby. Does a duty to rescue the baby exist?
+
+Our moral or emotional side may tell us that surely we should help by trying to save the baby from drowning, but under American common law, which gives the freedom to states to pass state laws to the contrary, no duty to rescue generally exists. Thus, even if you see the baby will be in great danger, no duty to rescue the baby would exist under common law. This general rule also applies to medical professionals, which may be surprising to many people. Thus, for instance, medical doctors who are not under a contractual duty otherwise have no duty to rescue.
+
+Exceptions exist, however, in which a duty to rescue prevails. If a person falls under an exception, in which a duty to rescue does exist, then the person's inaction or failure to rescue would be deemed as a negligent act under tort law. Under three jurisdictionsâ€”Michigan, Rhode Island, and Vermontâ€”a duty to rescue exists (at the time of this writing). Moreover, when a person begins to rescue, he or she must complete the action (i.e., the rescue cannot be done halfway).
+
+The majority of U.S. states have adopted versions of the Good Samaritan law, which protects the rescuer from negligence liability that may occur during the rescue, in a case where an individual attempts to rescue a person although no legal duty exists to do so. Another exception exists when the victim reasonably relied on the rescuer, but the rescuer did not end up performing the rescue. For example, if A was in a car accident and B told A, â€œI'll be back with help to rescue you!â€ but never returns, then B may be liable for A's injury. Another exception is when A creates the need to be rescued. For example, if B were the driver of the car that A was the passenger in when A was injured, and B was not injured, then B would generally have a duty to rescue A under Good Samaritan laws.
+
+=== Landowner Liability
+
+What are the duties when entering property, as either a landowner or the person entering the premises? This section provides a general legal landscape for thinking about and getting to the answers regarding such issues under American law.
+
+=== Trespasser
+
+A trespasser is defined as a person who enters another's property without the privilege to do so, assuming no owner consent was given (2nd Restatement of Torts). Generally, a landowner does not owe a duty to unforeseen trespassers, although exceptions can exist.
+
+There are different types of trespassers. Constant trespassers are those who are (1) constantly on an owner's land as a trespasser to land and (2) someone the landowner knows or should know who constantly trespasses on a limited area of the owner's land. For example, let's say a path exists on A's land, and B has been using this path for the past 20 years. B would thus be a constant trespasser, because she meets the constant trespasser criteria: (1) B has been constant on the land; and (2) A knows or should have known that B was constantly on the owner's land.
+
+In the case of constant trespassers, liability for the landowner occurs when each of the following exists:
+
+- An artificial condition is created by the landowner (an artificial condition is any condition that is not natural). Thus, anything created by the landowner would generally be deemed an artificial condition by the courts.
+- The landowner knows or has reason to know of the constant trespasser.
+- The artificial condition may cause death or serious injury.
+- The landowner has reason to believe that the trespasser will not discover the artificial condition.
+- The landowner has not exercised reasonable care to warn the trespasser of the artificial condition and the risk involved.
+
+Another type of trespasser is a known trespasser. A known trespasser is a trespasser who is not a constant trespasser, but who is seen by the landowner.
+
+In the case of known trespassers, liability for the landowner occurs when each of the following exists:
+
+- An artificial condition is maintained by the landowner.
+- The artificial condition involves a risk of death or serious bodily harm.
+- The landowner knows or has reason to know of the trespasser's presence in dangerous proximity to the artificial condition.
+- The known trespasser will likely not discover the risk.
+- The landowner fails to exercise reasonable care to warn the known trespasser.
+
+American tort law has also created a separate duty for children regarding landowner liability, referred to as the attractive nuisance doctrine (also known as the turntable doctrine).
+
+In the case of attractive nuisance, liability for the landowner exists when each of the following arise:
+
+- An artificial condition exists on the land.
+- The child is too young to appreciate the danger of the artificial condition.
+- The landowner knows or has reason to know that the child is likely to trespass on her land.
+- The landowner realizes or should realize that an unreasonable risk of death or serious bodily harm exists to children.
+- The utility of maintaining the artificial condition and burden of eliminating the danger are slight compared to the risk to the child.
+- The landowner failed to use reasonable care to eliminate the danger or to protect the child (or children).
+
+One example of applying the attractive nuisance doctrine involves a swimming pool, which is a type of artificial condition under American tort law. Landowners are at times liable for not exercising reasonable care or eliminating the risk of the danger posed by the swimming pool.
+
+=== Invitee
+
+Separate from these types of trespassers is the concept of an invitee entering a landowner's property. An invitee is a person whom the landowner invited (consented) to enter the landowner's premises. An invitee includes members of the public, business visitors, and employees, to name a few. For invitees, the landowner has a duty to protect invitees from all unreasonable risks.
+
+In the case of invitees, liability for the landowner exists when each of the following exists:
+
+- The landowner knew or should have known that a condition involved an unreasonable risk of harm to the invitee.
+- The landowner should have expected the invitee to not discover or realize the danger or to fail to protect him or herself against the danger.
+- The landowner failed to exercise reasonable care to protect the invitee against danger.
+
+
+=== Licensee
+
+Another type of invited person onto a landowner's premises is a licensee. A licensee is a person who has permission (landowner consent) to enter the landowner's premises, but only for particular purposes (e.g., as a social guest). For licensees, a landowner has a duty to warn of known dangerous conditions and does not have a duty to protect licensees from all unreasonable risks.
+
+=== Strict Liability
+
+Strict liability represents the strictest type of duty in torts. Strict liability is a legal doctrine that makes a person liable for damages and loss suffered by his or her acts and omissions, regardless of culpability. Strict liability applies not only in torts (e.g., product liability cases) but also in criminal law (covered in Chapter 7).
+
+What elements are needed for strict liability? The plaintiff needs only to prove that the tort actually happened and that the defendant was responsible for the act. Neither good faith nor the fact that the defendant took all possible care and precaution to prevent the harm or suffering is a valid defense under strict liability (hence the term strict liability). For this reason, strict liability is sometimes called absolute liability.
+
+When does strict liability apply? The earlier paragraph noted that strict liability can apply to product liability cases, and further, it is also often used in cases involving the handling of hazardous or inherently dangerous activities. A classic law school example of this involves the owner of a tiger rehabilitation center. No matter how strong the tiger cages are, if the tiger improbably escapes and causes damage and injury to others, then the tiger owner will generally be held liable under strict liability. Another example is a contractor hiring a demolition subcontractor that lacks proper insurance for doing the job. If the demolition subcontractor makes a mistake, then the contractor is generally strictly liable for any damages that occur as a result.
+
+Given the severity of strict liability, what would be the policy rationale for it? First, it discourages reckless behavior and needless loss by forcing potential defendants to take every possible precaution to avoid possible harm. Second, strict liability simplifies litigation and allows the victim to â€œbecome wholeâ€ more quickly (i.e., puts back the plaintiff to the position he or she would have been in if the wrongful act had not occurred).
+
+=== Damages
+
+Two main types of tort damages exist. The first type is compensatory (actual) damages, which relate directly to the tortious act. The second type is punitive (exemplary) damages, which are awarded above and beyond compensatory damages as a clear disapproval of the tortious acts committed in the present case and as a disincentive for future potential tortious acts.
+
+=== Summary
+
+Torts is a noncriminal, noncontract field of civil law. Most lawsuits in the American legal system relate directly or indirectly to tort law in terms of the number of cases filed. Thus, it is an important area of American law, given its sheer prevalence within the American judicial system. Tort types include intentional torts, negligent torts, and strict liability torts.
+
+Examples of intentional torts include assault and battery. Affirmative defenses can be used in the event that tort actions are raised. Affirmative defenses include consent to the acts, necessity for the acts, self-defense, defense of others, and defense of property. Legal concepts such as res ipsa loquitur, â€œbut forâ€ causation, and proximate causation relate to proving negligence in a court of law.
+
+Regarding whether negligence led to injury, American courts can take a relatively expansive view in terms of what constitutes an injury. Physical harm, emotional harm (under Negligent Inflection of Emotional Distress, or NIED), and economic harm (under Negligent Infliction of Economic Harm, or NIEH) may qualify as injury in certain cases.
+
+Employers also have certain potential liability under vicarious liability (a form of strict liability), while landowners also can have certain potential liability and duties to both trespassers and nontrespassers. Finally, in terms of liability, strict liability is the most severe type of liability imposed under American tort law, often used in product liability cases, as well as cases involving hazardous or inherently dangerous activities.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

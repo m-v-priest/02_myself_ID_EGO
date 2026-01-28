@@ -1,0 +1,140 @@
+
+= eco 2020-06-13
+:toc:
+
+---
+
+== Automobiles
+
+(eco 2020-6-13 / Technology Quarterly / Automobiles: Road block)
+
+Driverless cars show the limits of today’s AI
+
+They, and many other such systems, still struggle to handle the unexpected
+
+Jun 11th 2020 |
+
+
+IN MARCH Starsky Robotics, a self-driving lorry firm based in San Francisco, closed down. Stefan Seltz-Axmacher, its founder, gave several reasons for its failure. Investors’ interest was already cooling, owing to a run of poorly performing tech-sector IPOs and a recession in the trucking business. His firm’s focus on safety, he wrote, did not go down well with impatient funders, who preferred to see a steady stream of whizzy new features. But the biggest problem was that the technology was simply not up to the job. “Supervised machine learning doesn’t live up to the hype. It isn’t actual artificial intelligence akin to c-3PO [a humanoid robot from the “Star Wars” films]. It’s a sophisticated pattern-matching tool.”
+
+Policing social media, detecting fraud and defeating humans at ancient games are all very well. But building a vehicle that can drive itself on ordinary roads is—along with getting computers to conduct plausible conversations—one of the grand ambitions of modern AI. Some imagined driverless cars could do away with the need for car ownership by letting people summon robotaxis at will. They believe they would be safer, too. Computers never tire, and their attention never wanders. According to the WHO, over a million people a year die in car accidents caused by fallible human drivers. Advocates hoped to cut those numbers drastically.
+
+And they would do it soon. In 2015 Elon Musk, the boss of Tesla, an electric-car maker, predicted the arrival of “complete autonomy” by 2018. Cruise, a self-driving firm acquired by General Motors in 2016, had planned to launch self-driving taxis in San Francisco by 2019. Chris Urmson, then the boss of Waymo, a Google subsidiary widely seen as the market leader, said in 2015 that he hoped his son, then 11 years old, would never need a driving licence.
+
+But progress has lagged. In 2018 a self-driving car being tested by Uber, a ride-hailing service, became the first to kill a pedestrian when it hit a woman pushing a bicycle across a road in Arizona. Users of Tesla’s “Autopilot” software must, despite its name, keep their hands on the wheel and their eyes on the road (several who seem to have failed to do so have been killed in crashes). The few firms that carry passengers, such as Waymo in America and WeRide in China, are geographically limited and rely on human safety drivers. Mr Urmson, who has since left Waymo, now thinks that adoption will be slower and more gradual.
+
+Black swans and bitter lessons
+
+Self-driving cars work in the same way as other applications of machine learning. Computers crunch huge piles of data to extract general rules about how driving works. The more data, at least in theory, the better the systems perform. Tesla’s cars continuously beam data back to headquarters, where it is used to refine the software. On top of the millions of real-world miles logged by its cars, Waymo claims to have generated well over a billion miles-worth of data using ersatz driving in virtual environments.
+
+The problem, says Rodney Brooks, an Australian roboticist who has long been sceptical of grand self-driving promises, is deep-learning approaches are fundamentally statistical, linking inputs to outputs in ways specified by their training data. That leaves them unable to cope with what engineers call “edge cases”—unusual circumstances that are not common in those training data. Driving is full of such oddities. Some are dramatic: an escaped horse in the road, say, or a light aircraft making an emergency landing on a highway (as happened in Canada in April). Most are trivial, such as a man running out in a chicken suit. Human drivers usually deal with them without thinking. But machines struggle.
+
+One study, for instance, found that computer-vision systems were thrown when snow partly obscured lane markings. Another found that a handful of stickers could cause a car to misidentify a “stop” sign as one showing a speed limit of 45mph. Even unobscured objects can baffle computers when seen in unusual orientations: in one paper a motorbike was classified as a parachute or a bobsled. Fixing such issues has proved extremely difficult, says Mr Seltz-Axmacher. “A lot of people thought that filling in the last 10% would be harder than the first 90%”, he says. “But not that it would be ten thousand times harder.”
+
+Mary “Missy” Cummings, the director of Duke University’s Humans and Autonomy Laboratory, says that humans are better able to cope with such oddities because they can use “top-down” reasoning about the way the world works to guide them in situations where “bottom-up” signals from their senses are ambiguous or incomplete. AI systems mostly lack that capacity and are, in a sense, working with only half a brain. Though they are competent in their comfort zone, even trivial changes can be problematic. In the absence of the capacity to reason and generalise, computers are imprisoned by the same data that make them work in the first place. “These systems are fundamentally brittle,” says Dr Cummings.
+
+This narrow intelligence is visible in areas beyond just self-driving cars. Google’s “Translate” system usually does a decent job at translating between languages. But in 2018 researchers noticed that, when asked to translate 18 repetitions of the word “dog” into Yoruba (a language spoken in parts of Nigeria and Benin) and then back into English, it came up with the following: “Doomsday Clock is at three minutes to twelve. We are experiencing characters and dramatic developments in the world, which indicate that we are increasingly approaching the end times and Jesus’ return.”
+
+Gary Marcus, a professor of psychology at New York University, says that, besides its comedy value, the mistranslation highlights how Google’s system does not understand the basic structure of language. Concepts like verbs or nouns are alien, let alone the notion that nouns refer to physical objects in a real world. Instead, it has constructed statistical rules linking strings of letters in one language with strings of letters in another, without any understanding of the concepts to which those letters refer. Language processing, he says, is therefore still baffled by the sorts of questions a toddler would find trivial.
+
+How much those limitations matter varies from field to field. An automated system does not have to be better than a professional human translator to be useful, after all (Google’s system has since been tweaked). But it does set an upper bound on how useful chatbots or personal assistants are likely to become. And for safety-critical applications like self-driving cars, says Dr Cummings, AI’s limitations are potentially show-stopping.
+
+Researchers are beginning to ponder what to do about the problem. In a conference talk in December Yoshua Bengio, one of AI’s elder statesmen, devoted his keynote address to it. Current machine-learning systems, said Dr Bengio, “learn in a very narrow way, they need much more data to learn a new task than [humans], they need humans to provide high-level concepts through labels, and they still make really stupid mistakes”.
+
+Beyond deep learning
+
+Different researchers have different ideas about how to try to improve things. One idea is to widen the scope, rather than the volume, of what machines are taught. Christopher Manning, of Stanford University’s AI Lab, points out that biological brains learn from far richer data-sets than machines. Artificial language models are trained solely on large quantities of text or speech. But a baby, he says, can rely on sounds, tone of voice or tracking what its parents are looking at, as well as a rich physical environment to help it anchor abstract concepts in the real world. This shades into an old idea in AI research called “embodied cognition”, which holds that if minds are to understand the world properly, they need to be fully embodied in it, not confined to an abstracted existence as pulses of electricity in a data-centre.
+
+Biology offers other ideas, too. Dr Brooks argues that the current generation of AI researchers “fetishise” models that begin as blank slates, with no hand-crafted hints built in by their creators. But “all animals are born with structure in their brains,” he says. “That’s where you get instincts from.”
+
+Dr Marcus, for his part, thinks machine-learning techniques should be combined with older, “symbolic AI” approaches. These emphasise formal logic, hierarchical categories and top-down reasoning, and were most popular in the 1980s. Now, with machine-learning approaches in the ascendancy, they are a backwater.
+
+But others argue for persisting with existing approaches. Last year Richard Sutton, an AI researcher at the University of Alberta and DeepMind, published an essay called “The Bitter Lesson”, arguing that the history of AI shows that attempts to build human understanding into computers rarely work. Instead most of the field’s progress has come courtesy of Moore’s law, and the ability to bring ever more brute computational force to bear on a problem. The “bitter lesson” is that “the actual contents of [human] minds are tremendously, irredeemably complex…They are not what should be built in [to machines].”
+
+“This less ambitious stuff—I think that’s much more realistic”
+
+Away from the research labs, expectations around driverless cars are cooling. Some Chinese firms are experimenting with building digital guide rails into urban infrastructure, in an attempt to lighten the cognitive burden on the cars themselves. Incumbent carmakers, meanwhile, now prefer to talk about “driver-assistance” tools such as automatic lane-keeping or parking systems, rather than full-blown autonomous cars. A new wave of startups has deliberately smaller ambitions, hoping to build cars that drive around small, limited areas such as airports or retirement villages, or vehicles which trundle slowly along pavements, delivering packages under remote human supervision. “There’s a scientific reason we’re not going to get to full self-driving with our current technology,” says Dr Cummings. “This less ambitious stuff—I think that’s much more realistic.”
+
+
+---
+
+== Automobiles
+
+Driverless cars show the limits of today’s AI
+
+They, and many other such systems, still struggle to handle the unexpected
+
+Jun 11th 2020 |
+
+
+IN MARCH Starsky Robotics, a self-driving lorry firm based in San Francisco, closed down. Stefan Seltz-Axmacher, its founder, gave several reasons for its failure. Investors’ interest was already cooling, owing to a run of poorly performing tech-sector IPOs and a recession in the trucking business. His firm’s focus on safety, he wrote, did not go down well with impatient funders, who preferred to see a steady stream of whizzy new features. But the biggest problem was that the technology was simply not up to the job. “Supervised machine learning doesn’t live up to the hype. It isn’t actual artificial intelligence akin to c-3PO [a humanoid robot from the “Star Wars” films]. It’s a sophisticated pattern-matching tool.”
+
+Policing social media, detecting fraud and defeating humans at ancient games are all very well. But building a vehicle that can drive itself on ordinary roads is—along with getting computers to conduct plausible conversations—one of the grand ambitions of modern AI. Some imagined driverless cars could do away with the need for car ownership by letting people summon robotaxis at will. They believe they would be safer, too. Computers never tire, and their attention never wanders. According to the WHO, over a million people a year die in car accidents caused by fallible human drivers. Advocates hoped to cut those numbers drastically.
+
+And they would do it soon. In 2015 Elon Musk, the boss of Tesla, an electric-car maker, predicted the arrival of “complete autonomy” by 2018. Cruise, a self-driving firm acquired by General Motors in 2016, had planned to launch self-driving taxis in San Francisco by 2019. Chris Urmson, then the boss of Waymo, a Google subsidiary widely seen as the market leader, said in 2015 that he hoped his son, then 11 years old, would never need a driving licence.
+
+But progress has lagged. In 2018 a self-driving car being tested by Uber, a ride-hailing service, became the first to kill a pedestrian when it hit a woman pushing a bicycle across a road in Arizona. Users of Tesla’s “Autopilot” software must, despite its name, keep their hands on the wheel and their eyes on the road (several who seem to have failed to do so have been killed in crashes). The few firms that carry passengers, such as Waymo in America and WeRide in China, are geographically limited and rely on human safety drivers. Mr Urmson, who has since left Waymo, now thinks that adoption will be slower and more gradual.
+
+Black swans and bitter lessons
+
+Self-driving cars work in the same way as other applications of machine learning. Computers crunch huge piles of data to extract general rules about how driving works. The more data, at least in theory, the better the systems perform. Tesla’s cars continuously beam data back to headquarters, where it is used to refine the software. On top of the millions of real-world miles logged by its cars, Waymo claims to have generated well over a billion miles-worth of data using ersatz driving in virtual environments.
+
+The problem, says Rodney Brooks, an Australian roboticist who has long been sceptical of grand self-driving promises, is deep-learning approaches are fundamentally statistical, linking inputs to outputs in ways specified by their training data. That leaves them unable to cope with what engineers call “edge cases”—unusual circumstances that are not common in those training data. Driving is full of such oddities. Some are dramatic: an escaped horse in the road, say, or a light aircraft making an emergency landing on a highway (as happened in Canada in April). Most are trivial, such as a man running out in a chicken suit. Human drivers usually deal with them without thinking. But machines struggle.
+
+One study, for instance, found that computer-vision systems were thrown when snow partly obscured lane markings. Another found that a handful of stickers could cause a car to misidentify a “stop” sign as one showing a speed limit of 45mph. Even unobscured objects can baffle computers when seen in unusual orientations: in one paper a motorbike was classified as a parachute or a bobsled. Fixing such issues has proved extremely difficult, says Mr Seltz-Axmacher. “A lot of people thought that filling in the last 10% would be harder than the first 90%”, he says. “But not that it would be ten thousand times harder.”
+
+Mary “Missy” Cummings, the director of Duke University’s Humans and Autonomy Laboratory, says that humans are better able to cope with such oddities because they can use “top-down” reasoning about the way the world works to guide them in situations where “bottom-up” signals from their senses are ambiguous or incomplete. AI systems mostly lack that capacity and are, in a sense, working with only half a brain. Though they are competent in their comfort zone, even trivial changes can be problematic. In the absence of the capacity to reason and generalise, computers are imprisoned by the same data that make them work in the first place. “These systems are fundamentally brittle,” says Dr Cummings.
+
+This narrow intelligence is visible in areas beyond just self-driving cars. Google’s “Translate” system usually does a decent job at translating between languages. But in 2018 researchers noticed that, when asked to translate 18 repetitions of the word “dog” into Yoruba (a language spoken in parts of Nigeria and Benin) and then back into English, it came up with the following: “Doomsday Clock is at three minutes to twelve. We are experiencing characters and dramatic developments in the world, which indicate that we are increasingly approaching the end times and Jesus’ return.”
+
+Gary Marcus, a professor of psychology at New York University, says that, besides its comedy value, the mistranslation highlights how Google’s system does not understand the basic structure of language. Concepts like verbs or nouns are alien, let alone the notion that nouns refer to physical objects in a real world. Instead, it has constructed statistical rules linking strings of letters in one language with strings of letters in another, without any understanding of the concepts to which those letters refer. Language processing, he says, is therefore still baffled by the sorts of questions a toddler would find trivial.
+
+How much those limitations matter varies from field to field. An automated system does not have to be better than a professional human translator to be useful, after all (Google’s system has since been tweaked). But it does set an upper bound on how useful chatbots or personal assistants are likely to become. And for safety-critical applications like self-driving cars, says Dr Cummings, AI’s limitations are potentially show-stopping.
+
+Researchers are beginning to ponder what to do about the problem. In a conference talk in December Yoshua Bengio, one of AI’s elder statesmen, devoted his keynote address to it. Current machine-learning systems, said Dr Bengio, “learn in a very narrow way, they need much more data to learn a new task than [humans], they need humans to provide high-level concepts through labels, and they still make really stupid mistakes”.
+
+Beyond deep learning
+
+Different researchers have different ideas about how to try to improve things. One idea is to widen the scope, rather than the volume, of what machines are taught. Christopher Manning, of Stanford University’s AI Lab, points out that biological brains learn from far richer data-sets than machines. Artificial language models are trained solely on large quantities of text or speech. But a baby, he says, can rely on sounds, tone of voice or tracking what its parents are looking at, as well as a rich physical environment to help it anchor abstract concepts in the real world. This shades into an old idea in AI research called “embodied cognition”, which holds that if minds are to understand the world properly, they need to be fully embodied in it, not confined to an abstracted existence as pulses of electricity in a data-centre.
+
+Biology offers other ideas, too. Dr Brooks argues that the current generation of AI researchers “fetishise” models that begin as blank slates, with no hand-crafted hints built in by their creators. But “all animals are born with structure in their brains,” he says. “That’s where you get instincts from.”
+
+Dr Marcus, for his part, thinks machine-learning techniques should be combined with older, “symbolic AI” approaches. These emphasise formal logic, hierarchical categories and top-down reasoning, and were most popular in the 1980s. Now, with machine-learning approaches in the ascendancy, they are a backwater.
+
+But others argue for persisting with existing approaches. Last year Richard Sutton, an AI researcher at the University of Alberta and DeepMind, published an essay called “The Bitter Lesson”, arguing that the history of AI shows that attempts to build human understanding into computers rarely work. Instead most of the field’s progress has come courtesy of Moore’s law, and the ability to bring ever more brute computational force to bear on a problem. The “bitter lesson” is that “the actual contents of [human] minds are tremendously, irredeemably complex…They are not what should be built in [to machines].”
+
+“This less ambitious stuff—I think that’s much more realistic”
+
+Away from the research labs, expectations around driverless cars are cooling. Some Chinese firms are experimenting with building digital guide rails into urban infrastructure, in an attempt to lighten the cognitive burden on the cars themselves. Incumbent carmakers, meanwhile, now prefer to talk about “driver-assistance” tools such as automatic lane-keeping or parking systems, rather than full-blown autonomous cars. A new wave of startups has deliberately smaller ambitions, hoping to build cars that drive around small, limited areas such as airports or retirement villages, or vehicles which trundle slowly along pavements, delivering packages under remote human supervision. “There’s a scientific reason we’re not going to get to full self-driving with our current technology,” says Dr Cummings. “This less ambitious stuff—I think that’s much more realistic.”
+
+---
+
+
+
+汽车
+无人驾驶汽车显示了当今人工智能的局限性
+它们和许多其他此类系统仍然难以处理意外情况
+2020年6月11日|
+今年3月，总部位于旧金山的自动驾驶卡车公司Starsky Robotics倒闭。公司创始人斯特凡•塞尔茨-阿克塞马赫(Stefan Seltz-Axmacher)给出了公司失败的几个原因。由于科技股ipo表现不佳以及卡车运输业务衰退，投资者的兴趣已经降温。他写道，他的公司对安全的关注，并没有受到不耐烦的投资者的欢迎，他们更希望看到源源不断的新功能。但最大的问题是，这项技术根本不能胜任这项工作。“监督机器学习没有炒作的那么好。它并不是像c-3PO(《星球大战》中的人形机器人)那样的人工智能机器人。这是一个复杂的模式匹配工具。”
+监控社交媒体，发现欺诈行为，在古代游戏中击败人类，这些都很好。但是，制造一辆能在普通道路上自动驾驶的汽车，以及让计算机进行合理的对话，是现代人工智能的宏伟目标之一。一些人设想，无人驾驶汽车可以让人们随心所欲地召唤自动出租车，从而消除人们对汽车的需求。他们也相信自己会更安全。电脑从不疲倦，它们的注意力从不分散。根据世界卫生组织的数据，每年有超过一百万人死于由易犯错误的人类司机引起的车祸。支持者希望能大幅减少这一数字。
+他们很快就会这么做的。2015年，电动汽车制造商特斯拉的老板埃隆·马斯克预言“完全自主”将在2018年到来。2016年被通用汽车(General Motors)收购的自动驾驶公司克鲁斯(Cruise)曾计划2019年在旧金山推出自动驾驶出租车。克里斯•厄姆森(Chris Urmson)曾在2015年表示，他希望当时11岁的儿子永远都不需要驾照。
+但进展滞后。2018年，叫车服务优步(Uber)正在测试的一辆自动驾驶汽车，在亚利桑那州撞上了一名推着自行车过马路的女子，成为第一辆撞死行人的汽车。尽管名为“Autopilot”，但特斯拉(Tesla)的“Autopilot”软件的用户必须把手放在方向盘上，眼睛盯着路面(有些似乎未能做到这一点的用户已在车祸中丧生)。为数不多的载客公司，如美国的Waymo和中国的WeRide，地理位置有限，需要依靠人力安全驾驶。厄姆森已经离开了Waymo，现在他认为收养过程将会更加缓慢和渐进。
+黑天鹅和惨痛的教训
+自动驾驶汽车的工作方式与机器学习的其他应用相同。计算机对大量数据进行处理，以提取有关驾驶工作的一般规则。至少在理论上，数据越多，系统运行得越好。特斯拉的汽车不断将数据传回总部，用于改进软件。Waymo声称，在其汽车记录的数百万英里的真实行驶里程之外，还利用虚拟驾驶环境生成了价值超过10亿英里的数据。
+澳大利亚机器人专家罗德尼•布鲁克斯(Rodney Brooks)长期以来一直对大自动驾驶的前景表示怀疑。他表示，问题在于，深度学习方法基本上是统计性的，以训练数据指定的方式将输入与输出联系起来。这让他们无法应对工程师们所说的“边缘情况”——在这些培训数据中不常见的不寻常情况。开车是一件很奇怪的事。有些是戏剧性的:比如，在路上脱缰的马，或者一架轻型飞机在高速公路上紧急降落(就像4月份在加拿大发生的那样)。大多数都是鸡毛蒜皮的小事，比如一个穿着小鸡装的男人跑出去了。人类司机通常不假思索地处理它们。但机器斗争。
+例如，一项研究发现，当积雪部分模糊了车道标记时，计算机视觉系统就会崩溃。另一项研究发现，少量的停车贴纸可能会让汽车把“停车”的标志误认为是限速45英里/小时的标志。即使是不显眼的物体也会在不寻常的方向上干扰电脑:在一篇论文中，一辆摩托车被归类为降落伞或雪橇。塞尔茨-阿克塞马赫表示，事实证明，解决这些问题极其困难。他说:“很多人认为最后10%的考试要比前90%的考试难。”“但这并不是说要困难一万倍。”
+
+杜克大学(Duke University)人类与自主实验室(Humans and Autonomy Laboratory)主任玛丽·“密西”·卡明斯(Mary“Missy”Cummings)说，人类能够更好地应对这些奇怪的现象，因为在来自感官的“自下而上”信号不明确或不完整的情况下，人类可以用“自上而下”的方式来推理世界的运行方式，从而指导自己。人工智能系统大多缺乏这种能力，从某种意义上说，它们只需要半个大脑就能工作。尽管他们在自己的舒适区很有能力，但即使是微不足道的变化也会带来问题。在缺乏推理和归纳能力的情况下，计算机被最初使其工作的相同数据所束缚。卡明斯博士说:“这些系统从根本上来说很脆弱。”
+这种狭隘的智能不仅仅在自动驾驶汽车上可见。谷歌的“翻译”系统在语言之间的翻译方面通常做得不错。但在2018年，研究人员注意到，当被要求将18次重复的“狗”这个词翻译成约鲁巴语(尼日利亚和贝宁部分地区使用的一种语言)，然后再翻译回英语时，它会得到如下结果:“末日时钟是差3分12秒。”我们正在经历世界上的人物和戏剧性的发展，这表明我们越来越接近末日和耶稣的回归。”
+纽约大学的心理学教授Gary Marcus说，除了它的喜剧价值之外，这种误译突出了谷歌系统是如何不理解语言的基本结构的。像动词或名词这样的概念是陌生的，更不用说名词指的是现实世界中的物理对象。相反，它构建了统计规则，将一种语言的字母串与另一种语言的字母串连接起来，而不理解这些字母所指的概念。他说，因此语言处理仍然被那些孩子认为微不足道的问题所困扰。
+这些限制的重要性因领域而异。毕竟，一个自动化的翻译系统并不一定要比一个专业的人工翻译更好(谷歌的系统后来进行了调整)。但它确实为聊天机器人或个人助理的用处设定了上限。卡明斯博士说，对于像自动驾驶汽车这样对安全至关重要的应用，人工智能的局限性可能会引起人们的注意。
+研究人员开始考虑如何解决这个问题。在去年12月的一次会议上，人工智能的资深政治家之一Yoshua Bengio将他的主题演讲专注于此。Bengio博士说，目前的机器学习系统“以一种非常狭隘的方式学习，它们需要比(人类)更多的数据来学习新任务，它们需要人类通过标签提供高级概念，而且它们仍然会犯非常愚蠢的错误”。
+深度学习之外
+不同的研究人员对如何改进有不同的想法。一种想法是拓宽机器教学的范围，而不是范围。斯坦福大学人工智能实验室的克里斯托弗·曼宁(Christopher Manning)指出，生物大脑从比机器丰富得多的数据集学习。人工语言模型只在大量的文本或语音上进行训练。但他说，婴儿可以依靠声音、语调或追踪父母在看什么，以及丰富的物理环境来帮助它在现实世界中锚定抽象概念。这就变成了人工智能研究中一个叫做“具身认知”(具身认知)的旧观念，该观念认为，如果大脑要正确地理解世界，它们就需要完全体现在世界中，而不是局限于数据中心的电脉冲那样的抽象存在。
+生物学也提供了其他的想法。布鲁克斯博士认为，当前这一代的人工智能研究人员“盲目崇拜”的模型一开始就像空白的纸板，没有创作者手工制作的暗示。但是“所有的动物都是天生就有大脑结构的，”他说。“这就是你的本能。”
+
+马库斯博士认为，机器学习技术应该与老式的“象征性人工智能”方法结合起来。这些强调形式逻辑、等级分类和自上而下的推理，在20世纪80年代最为流行。如今，随着机器学习方法的崛起，它们成了一潭死水。
+但其他人主张坚持现有的方法。去年，阿尔伯塔大学(University of Alberta)和DeepMind的人工智能研究员理查德•萨顿(Richard Sutton)发表了一篇题为《痛苦的教训》(the Bitter lessons)的文章，指出人工智能的历史表明，试图在计算机中构建人类理解能力的尝试很少奏效。相反，该领域的大部分进展都归功于摩尔定律，以及将更强大的计算力量用于解决问题的能力。“痛苦的教训”是，“(人类)大脑的实际内容是极其复杂的，不可挽回的……它们不应该被构建在(机器)里面。”
+“这种不那么雄心勃勃的东西——我认为它更现实”
+在研究实验室之外，人们对无人驾驶汽车的期待正在降温。一些中国公司正在尝试将数字导轨纳入城市基础设施，试图减轻汽车本身的认知负担。与此同时，现有的汽车制造商现在更喜欢谈论“驾驶员辅助”工具，如自动车道保持或停车系统，而不是真正的自动驾驶汽车。新一波创业公司有意缩小了雄心，希望制造出能在机场或退休村等狭小、有限区域内行驶的汽车，或者能在人的远程监督下缓慢行驶在人行道上递送包裹的汽车。卡明斯博士说:“我们目前的技术无法实现完全的自动驾驶是有科学原因的。”“这种不那么雄心勃勃的东西——我认为要现实得多。”
+

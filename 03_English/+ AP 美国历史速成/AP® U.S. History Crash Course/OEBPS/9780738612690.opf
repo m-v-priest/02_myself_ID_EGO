@@ -1,0 +1,145 @@
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="p9780738612690p" version="2.0">
+<metadata>
+<dc:title>AP&amp;#174;  U.S. History Crash Course, For the 2020 Exam, Book + Online</dc:title>
+<dc:date>2019</dc:date>
+<dc:identifier id="p9780738612690p">9780738612690</dc:identifier>
+<dc:format>355 pages</dc:format>
+<dc:type>Text</dc:type>
+<dc:rights>© 2020 by Research &amp; Education Association, Inc.</dc:rights>
+<dc:publisher>Research &amp; Education Association</dc:publisher>
+<dc:source>9780738612690</dc:source>
+<dc:language>en</dc:language>
+<dc:creator id="creator1">Larry Krieger</dc:creator>
+<meta content="cover-image" name="cover"/>
+<description xmlns="http://purl.org/dc/elements/1.1/">&lt;P&gt;&lt;I&gt;&lt;B&gt;For the 2020 Exam!&lt;BR /&gt; AP&amp;#174; &lt;/B&gt;&lt;/I&gt;&lt;B&gt;U.S. History&lt;/B&gt;&lt;I&gt;&lt;B&gt; Crash Course&amp;#174;&lt;/B&gt;&lt;/I&gt;&lt;BR /&gt;&lt;B&gt;A Higher Score in Less Time!&lt;/B&gt;&lt;BR /&gt; At REA, we invented the quick-review study guide for AP&amp;#174; exams. A decade later, REA&amp;#8217;s Crash Course&amp;#174; remains the top choice for AP&amp;#174; students who want to make the most of their study time and earn a high score.&lt;BR /&gt; Here&amp;#8217;s why more AP&amp;#174; teachers and students turn to REA&amp;#8217;s AP&amp;#174; U.S. History Crash Course&amp;#174; than any other study guide of its kind:&lt;BR /&gt;&lt;B&gt;Targeted Review - Study Only What You Need to Know. &lt;/B&gt;REA&amp;#8217;s all-new&amp;#160;5th edition addresses all the latest test revisions. Our &lt;I&gt;Crash Course&lt;/I&gt;&amp;#174; is based on an in-depth analysis of the revised AP&amp;#174; U.S.History course and exam description and sample AP&amp;#174; test questions. We cover only the information tested on the exam, so you can make the most of your valuable study time.&lt;BR /&gt;&lt;B&gt;Expert Test-taking Strategies and...</description>
+</metadata>
+<manifest>
+<item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+<item href="css/epub.css" id="css" media-type="text/css"/>
+
+<item href="xhtml/Cover.html" id="cover-page" media-type="application/xhtml+xml"/>
+<item href="xhtml/00_Title_Page.html" id="nav_00" media-type="application/xhtml+xml"/>
+<item href="xhtml/01_Copyright_Page.html" id="nav_01" media-type="application/xhtml+xml"/>
+<item href="xhtml/02_Halftitle_Page.html" id="nav_02" media-type="application/xhtml+xml"/>
+<item href="xhtml/03_Contents.html" id="nav_03" media-type="application/xhtml+xml"/>
+<item href="xhtml/04_About_Our_Book.html" id="nav_04" media-type="application/xhtml+xml"/>
+<item href="xhtml/05_A_Letter_from_Our_Author.html" id="nav_05" media-type="application/xhtml+xml"/>
+<item href="xhtml/06_About_Our_Author.html" id="nav_06" media-type="application/xhtml+xml"/>
+<item href="xhtml/07_INTRODUCTION.html" id="nav_07" media-type="application/xhtml+xml"/>
+<item href="xhtml/08_Chapter_2_Key_Terms.html" id="nav_09" media-type="application/xhtml+xml"/>
+<item href="xhtml/09_CONTENT_REVIEW.html" id="nav_10" media-type="application/xhtml+xml"/>
+<item href="xhtml/10_Chapter_3_A_New_World.html" id="nav_12" media-type="application/xhtml+xml"/>
+<item href="xhtml/11_UNIT_2___PERIOD_2__1607_1754.html" id="nav_13" media-type="application/xhtml+xml"/>
+<item href="xhtml/12_Chapter_4_English_North_America.html" id="nav_14" media-type="application/xhtml+xml"/>
+<item href="xhtml/13_Chapter_5_Key_Trends_in_Colonial.html" id="nav_15" media-type="application/xhtml+xml"/>
+<item href="xhtml/14_UNIT_3___PERIOD_3__1754_1800.html" id="nav_16" media-type="application/xhtml+xml"/>
+<item href="xhtml/15_Chapter_6_Severing_Ties_with_Gre.html" id="nav_17" media-type="application/xhtml+xml"/>
+<item href="xhtml/16_Chapter_7_Creating_a_New_Nationa.html" id="nav_18" media-type="application/xhtml+xml"/>
+<item href="xhtml/17_Chapter_8_The_Federalist_Era.html" id="nav_19" media-type="application/xhtml+xml"/>
+<item href="xhtml/18_UNIT_4___PERIOD_4__1800_1848.html" id="nav_20" media-type="application/xhtml+xml"/>
+<item href="xhtml/19_Chapter_9_The_Early_Republic.html" id="nav_21" media-type="application/xhtml+xml"/>
+<item href="xhtml/20_Chapter_10_The_Age_of_Jackson.html" id="nav_22" media-type="application/xhtml+xml"/>
+<item href="xhtml/21_Chapter_11_The_Old_South.html" id="nav_23" media-type="application/xhtml+xml"/>
+<item href="xhtml/22_Chapter_12_A_Burst_of_Change.html" id="nav_24" media-type="application/xhtml+xml"/>
+<item href="xhtml/23_Chapter_13_Religion__Reform__and.html" id="nav_25" media-type="application/xhtml+xml"/>
+<item href="xhtml/24_UNIT_5___PERIOD_5__1844_1877.html" id="nav_26" media-type="application/xhtml+xml"/>
+<item href="xhtml/25_Chapter_14_Territorial_Expansion.html" id="nav_27" media-type="application/xhtml+xml"/>
+<item href="xhtml/26_Chapter_15_The_Road_to_Disunion.html" id="nav_28" media-type="application/xhtml+xml"/>
+<item href="xhtml/27_Chapter_16_The_Civil_War.html" id="nav_29" media-type="application/xhtml+xml"/>
+<item href="xhtml/28_Chapter_17_Reconstruction_and_th.html" id="nav_30" media-type="application/xhtml+xml"/>
+<item href="xhtml/29_UNIT_6___PERIOD_6__1865_1898.html" id="nav_31" media-type="application/xhtml+xml"/>
+<item href="xhtml/30_Chapter_18_The_New_West.html" id="nav_32" media-type="application/xhtml+xml"/>
+<item href="xhtml/31_Chapter_19_Industry_and_Labor.html" id="nav_33" media-type="application/xhtml+xml"/>
+<item href="xhtml/32_Chapter_20_Urban_America.html" id="nav_34" media-type="application/xhtml+xml"/>
+<item href="xhtml/33_UNIT_7___PERIOD_7__1890_1945.html" id="nav_35" media-type="application/xhtml+xml"/>
+<item href="xhtml/34_Chapter_21_Populists_and_Progres.html" id="nav_36" media-type="application/xhtml+xml"/>
+<item href="xhtml/35_Chapter_22_Becoming_a_World_Powe.html" id="nav_37" media-type="application/xhtml+xml"/>
+<item href="xhtml/36_Chapter_23_The_New_Era.html" id="nav_38" media-type="application/xhtml+xml"/>
+<item href="xhtml/37_Chapter_24_The_Great_Depression.html" id="nav_39" media-type="application/xhtml+xml"/>
+<item href="xhtml/38_Chapter_25_The_United_States_and.html" id="nav_40" media-type="application/xhtml+xml"/>
+<item href="xhtml/39_UNIT_8___PERIOD_8__1945_1980.html" id="nav_41" media-type="application/xhtml+xml"/>
+<item href="xhtml/40_Chapter_26_Truman__the_Cold_War.html" id="nav_42" media-type="application/xhtml+xml"/>
+<item href="xhtml/41_Chapter_27_The_Eisenhower_Era.html" id="nav_43" media-type="application/xhtml+xml"/>
+<item href="xhtml/42_Chapter_28_The_1960s.html" id="nav_44" media-type="application/xhtml+xml"/>
+<item href="xhtml/43_Chapter_29_The_1970s.html" id="nav_45" media-type="application/xhtml+xml"/>
+<item href="xhtml/44_UNIT_9___PERIOD_9__1980_PRESENT.html" id="nav_46" media-type="application/xhtml+xml"/>
+<item href="xhtml/45_Chapter_30_The_Reagan_Bush_Era.html" id="nav_47" media-type="application/xhtml+xml"/>
+<item href="xhtml/46_Chapter_31_Key_Events_and_Trends.html" id="nav_48" media-type="application/xhtml+xml"/>
+<item href="xhtml/47_TEST_TAKING_STRATEGIES_AND_PRACT.html" id="nav_49" media-type="application/xhtml+xml"/>
+<item href="xhtml/48_Chapter_33_Practice_Multiple_Cho.html" id="nav_51" media-type="application/xhtml+xml"/>
+<item href="xhtml/49_Chapter_34_Strategies_for_the_Sh.html" id="nav_52" media-type="application/xhtml+xml"/>
+<item href="xhtml/50_Chapter_35_Strategies_for_the_Do.html" id="nav_53" media-type="application/xhtml+xml"/>
+<item href="xhtml/51_Chapter_36_Strategies_for_the_Lo.html" id="nav_54" media-type="application/xhtml+xml"/>
+<item href="xhtml/52_PRACTICE_TEST.html" id="nav_55" media-type="application/xhtml+xml"/>
+<item href="img/2_1.jpg" id="a2_1" media-type="image/jpeg"/>
+<item href="img/30_1.jpg" id="a30_1" media-type="image/jpeg"/>
+<item href="img/313_1.jpg" id="a313_1" media-type="image/jpeg"/>
+<item href="img/321_1.jpg" id="a321_1" media-type="image/jpeg"/>
+<item href="img/336_1.jpg" id="a336_1" media-type="image/jpeg"/>
+<item href="img/355_1.jpg" id="a355_1" media-type="image/jpeg"/>
+<item href="img/355_2.jpg" id="a355_2" media-type="image/jpeg"/>
+<item href="img/3_1.jpg" id="a3_1" media-type="image/jpeg"/>
+<item href="img/4_2.jpg" id="a4_2" media-type="image/jpeg"/> 
+<item href="img/cover.jpg" id="cover-image" media-type="image/jpeg"/>
+</manifest>
+<spine toc="ncx">
+<itemref idref="cover-page"/>
+<itemref idref="nav_00"/>
+<itemref idref="nav_01"/>
+<itemref idref="nav_02"/>
+<itemref idref="nav_03"/>
+<itemref idref="nav_04"/>
+<itemref idref="nav_05"/>
+<itemref idref="nav_06"/>
+<itemref idref="nav_07"/>
+<itemref idref="nav_09"/>
+<itemref idref="nav_10"/>
+<itemref idref="nav_12"/>
+<itemref idref="nav_13"/>
+<itemref idref="nav_14"/>
+<itemref idref="nav_15"/>
+<itemref idref="nav_16"/>
+<itemref idref="nav_17"/>
+<itemref idref="nav_18"/>
+<itemref idref="nav_19"/>
+<itemref idref="nav_20"/>
+<itemref idref="nav_21"/>
+<itemref idref="nav_22"/>
+<itemref idref="nav_23"/>
+<itemref idref="nav_24"/>
+<itemref idref="nav_25"/>
+<itemref idref="nav_26"/>
+<itemref idref="nav_27"/>
+<itemref idref="nav_28"/>
+<itemref idref="nav_29"/>
+<itemref idref="nav_30"/>
+<itemref idref="nav_31"/>
+<itemref idref="nav_32"/>
+<itemref idref="nav_33"/>
+<itemref idref="nav_34"/>
+<itemref idref="nav_35"/>
+<itemref idref="nav_36"/>
+<itemref idref="nav_37"/>
+<itemref idref="nav_38"/>
+<itemref idref="nav_39"/>
+<itemref idref="nav_40"/>
+<itemref idref="nav_41"/>
+<itemref idref="nav_42"/>
+<itemref idref="nav_43"/>
+<itemref idref="nav_44"/>
+<itemref idref="nav_45"/>
+<itemref idref="nav_46"/>
+<itemref idref="nav_47"/>
+<itemref idref="nav_48"/>
+<itemref idref="nav_49"/>
+<itemref idref="nav_51"/>
+<itemref idref="nav_52"/>
+<itemref idref="nav_53"/>
+<itemref idref="nav_54"/>
+<itemref idref="nav_55"/>
+</spine>
+<guide>
+<reference href="xhtml/Cover.html" title="cover" type="text"/>
+<reference href="xhtml/02_Halftitle_Page.html" title="title" type="title"/>
+</guide>
+</package>

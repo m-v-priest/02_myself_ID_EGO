@@ -1,0 +1,80 @@
+
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{myPreamble}
+
+
+
+\usepackage{makecell} % 让表格内支持手动换行, 需使用代码 \makecell{ 上一行 \\ 下一行 }
+
+\usepackage{tipa}% 这里用于支持音标显示。此包必须在ctex宏包之前，否则会报错。
+
+
+\usepackage{picinpar, graphicx} % 导入这个库后,就能支持插入表格
+\graphicspath {{img_math/},{img2/}} %图片目录在当前目录的 img 和 img2文件夹下
+\usepackage{float} 
+\usepackage{subfigure}
+
+\usepackage{algorithm, algorithmic, amsmath, amssymb,bm} % 支持数学公式输入
+% \usepackage[fleqn]{amsmath} % 公式左对齐
+
+\usepackage{ctex} % 支持字体加粗效果, 代码为 \textbf{加粗}
+
+
+\usepackage{multicol} %用于实现在同一页中实现不同的分栏
+\usepackage{wrapfig} %用于实现图文混排
+\setlength{\parindent}{0pt} % 放在段首，之后的所有段落都将取消首行缩进
+
+% 页面边距设置
+\usepackage{geometry} %导入版面设置的宏包
+\geometry{left=1.5cm, right=1.5cm, top=2cm, bottom=2cm} % 使用命令：\geometry{left=左边距,right=右边距,top=上边距,bottom=下边距}
+
+
+%导入版面设置的宏包
+\usepackage{geometry}
+\geometry{papersize={18cm, 32cm}} % 使用命令：\geometry{papersize={宽, 高}}
+
+
+
+\usepackage[skins]{tcolorbox} % 导入该包, 才能支持彩色文本框效果.  必须标注skin，才能使用shadow命令显示阴影
+
+\usepackage{soul} % 支持英文高亮
+\usepackage{xcolor} 
+\newcommand{\mathcolorbox}[2]{\colorbox{#1}{$\displaystyle #2$}}
+
+%支持修改公式中字体的颜色
+\usepackage{xcolor}
+
+% 支持直接打字希腊字母
+%\usepackage{fontspec}
+%\setmainfont{CMU Serif}
+
+% 支持输入实心五角星 ★, 命令是 \ding{72}, 注意: 这个命令不需要用$$来括起来
+\usepackage{pifont}
+
+
+
+\tcbuselibrary{breakable} % breakable：让tcolorbox支持跨页
+\tcbuselibrary{skins} % 让tcolorbox的跨页, 能去掉跨页中间的上下黑线
+\newenvironment{myEnvSample}
+{ 
+	\begin{tcolorbox}[title = {例},boxrule={0.1em},colframe={black!10}, colback={black!3},colbacktitle={black!10},coltitle={black},breakable,enhanced jigsaw]
+		%		\begin{align*}  % 注意, 加上这句代码, 似乎通不过, 不加则能通过.
+		}
+		{		
+			%		\end{align*}
+	\end{tcolorbox}
+}
+
+
+
+\usepackage{subfiles} %  支持将"子页面"导入本"主文件"中. 本语句要放在头部设置的最后 Best loaded last in the preamble
+
+
+\usepackage{lipsum} %  支持输出 乱数假文 lorem段落. 比如用命令:   \lipsum[1-5] 来生成一段以“Lorem ipsum”开头的无意义文字的第一至第五自然段
+
+\usepackage{pdfpages} %支持导入pdf
+
+
+\usepackage{hyperref} % 支持超链接
+
+

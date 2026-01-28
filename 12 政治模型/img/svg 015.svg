@@ -1,0 +1,50 @@
+<svg width="262" viewBox="0 0 262 223" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="223">
+    <defs/>
+    <g transform="translate(-336.00,-288.00)">
+        <g id="shape1" transform="translate(477.00,289.00)">
+            <path d="M120.0,46.0L120.0,.0L.0,.0L.0,46.0L120.0,46.0z" fill="#ffffff" stroke="#323232" fill-rule="nonzero"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="28.5" x="47.0">政府</tspan>
+            </text>
+        </g>
+        <g id="shape2" transform="translate(477.00,464.00)">
+            <path d="M120.0,46.0L120.0,.0L.0,.0L.0,46.0L120.0,46.0z" fill="#ffffff" stroke="#323232" fill-rule="nonzero"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="28.5" x="47.0">人民</tspan>
+            </text>
+        </g>
+        <g id="shape3" transform="translate(537.00,464.00)">
+            <path d="M.0,.0L.0,-123.0" fill="none" stroke="#191919"/>
+            <path stroke-linecap="round" d="M-3.0,-123.0L.0,-129.0L3.0,-123.0L-3.0,-123.0" stroke-width="1" fill="#191919" stroke="#191919"/>
+            <rect y="-73.4" x="-51.0" width="104.0" fill="#ffffff" height="19.0"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="-58.4" x="-51.0">政府要具有合法性</tspan>
+            </text>
+        </g>
+        <g id="shape4" transform="translate(337.00,340.00)">
+            <path d="M120.0,46.0L120.0,.0L.0,.0L.0,46.0L120.0,46.0z" fill="#ffffff" stroke="#323232" fill-rule="nonzero"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="19.0" x="34.0">暴力资源</tspan>
+                <tspan y="38.0" x="20.0">(军队, 警察等)</tspan>
+            </text>
+        </g>
+        <g id="shape5" transform="translate(477.00,312.00)">
+            <path d="M.0,.0L-80.0,.0L-80.0,22.0" fill="none" stroke="#191919"/>
+            <path stroke-linecap="round" d="M-77.0,22.0L-80.0,28.0L-83.0,22.0L-77.0,22.0" stroke-width="1" fill="#191919" stroke="#191919"/>
+            <rect y="-9.5" x="-60.7" width="26.0" fill="#ffffff" height="19.0"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="5.5" x="-60.7">垄断</tspan>
+            </text>
+        </g>
+        <g id="shape6" transform="translate(397.00,386.00)">
+            <path d="M.0,.0L.0,101.0L74.0,101.0" fill="none" stroke="#191919"/>
+            <path stroke-linecap="round" d="M74.0,98.0L80.0,101.0L74.0,104.0L74.0,98.0" stroke-width="1" fill="#191919" stroke="#191919"/>
+            <rect y="37.9" x="-52.5" width="107.0" fill="#ffffff" height="19.0"/>
+            <rect y="56.9" x="-44.5" width="91.0" fill="#ffffff" height="19.0"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="52.9" x="-52.5">不具合法性的政府,</tspan>
+                <tspan y="71.9" x="-44.5">维稳成本会很高</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

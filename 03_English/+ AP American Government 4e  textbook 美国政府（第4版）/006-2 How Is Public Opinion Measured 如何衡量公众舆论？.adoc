@@ -1,0 +1,244 @@
+
+= 006-2 How Is Public Opinion Measured 如何衡量公众舆论？
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../../myAdocCss.css
+
+
+'''
+
+
+== 释义
+
+
+
+
+Polling has changed over the years. The first opinion poll was taken in 1824; it asked voters how they voted as they left their polling places. Informal polls are called straw polls, and they informally collect opinions of a non-random population or group. Newspapers and social media continue the tradition of unofficial polls, mainly because interested readers want to know how elections will end. Facebook and online newspapers often offer informal, pop-up quizzes that ask a single question about politics or an event. The poll is not meant to be formal, but it provides a general idea of what the readership thinks.
+
+[.my2]
+民意调查随着时间的推移而发生了变化。第一次民意调查是在 1824 年进行的，当时询问选民在离开投票站时他们的投票意向。非正式民意调查被称为“非正式民意调查 ” （straw poll ），它非正式地收集非随机人群或群体的意见。报纸和社交媒体延续了非正式民意调查的传统，主要是因为感兴趣的读者想知道选举结果。Facebook 和在线报纸经常提供非正式的弹出式测验，提出一个关于政治或事件的问题。这种民意调查并非正式，但它可以大致反映读者的想法。
+
+Modern public opinion polling is relatively new, only eighty years old. These polls are far more sophisticated than straw polls and are carefully designed to probe what we think, want, and value. The information they gather may be relayed to politicians or newspapers, and is analyzed by statisticians and social scientists. As the media and politicians pay more attention to the polls, an increasing number are put in the field every week.
+
+[.my2]
+现代民意调查相对较新，仅有八十年历史。这些调查远比非正式的民意调查复杂得多，经过精心设计，旨在探究我们的想法、需求和价值观。收集到的信息可能会传递给政客或报纸，并由统计学家和社会科学家进行分析。随着媒体和政客越来越重视民意调查，每周开展调查的人数也在不断增加。
+
+TAKING A POLL  进行民意调查
+Most public opinion polls aim to be accurate, but this is not an easy task. Political polling is a science. From design to implementation, polls are complex and require careful planning and care. Mitt Romney’s campaign polls are only a recent example of problems stemming from polling methods. Our history is littered with examples of polling companies producing results that incorrectly predicted public opinion due to poor survey design or bad polling methods.
+
+[.my2]
+大多数民意调查都力求准确，但这并非易事。政治民调是一门科学。从设计到实施，民调都非常复杂，需要精心策划和周密执行。米特 ·罗姆尼竞选民调只是近期民调方法出现问题的一个例子。历史上不乏民调公司因调查设计不佳或方法错误而导致民意预测失实的例子。
+
+In 1936, Literary Digest continued its tradition of polling citizens to determine who would win the presidential election. The magazine sent opinion cards to people who had a subscription, a phone, or a car registration. Only some of the recipients sent back their cards. The result? Alf Landon was predicted to win 55.4 percent of the popular vote; in the end, he received only 38 percent.31 Franklin D. Roosevelt won another term, but the story demonstrates the need to be scientific in conducting polls.
+
+[.my2]
+1936 年， 《文学文摘》 延续了其民意调查的传统，以此预测总统选举的胜负。该杂志向订阅用户、拥有电话或车辆登记证的人寄送了意见卡。但只有部分收件人寄回了意见卡。结果如何呢？据预测，阿尔夫·兰登将赢得 55.4%的普选票；而最终，他只获得了 38%的选票。富兰克林· 罗斯福最终连任，但这个故事表明，民意调查必须科学严谨。
+
+A few years later, Thomas Dewey lost the 1948 presidential election to Harry Truman, despite polls showing Dewey far ahead and Truman destined to lose (Figure 6.8). More recently, John Zogby, of Zogby Analytics, went public with his prediction that John Kerry would win the presidency against incumbent president George W. Bush in 2004, only to be proven wrong on election night. These are just a few cases, but each offers a different lesson. In 1948, pollsters did not poll up to the day of the election, relying on old numbers that did not include a late shift in voter opinion. Zogby’s polls did not represent likely voters and incorrectly predicted who would vote and for whom. These examples reinforce the need to use scientific methods when conducting polls, and to be cautious when reporting the results.
+
+[.my2]
+几年后，托马斯· 杜威在 1948 年总统大选中败给了哈里· 杜鲁门 ，尽管民调显示杜威遥遥领先，而杜鲁门注定落败（ 图 6.8 ）。再往后，佐格比分析公司的约翰·佐格比曾公开预测约翰 ·克里将在 2004 年总统大选中击败时任总统乔治·W· 布什 ，但最终在选举之夜被证明是错误的。这些只是几个例子，但每个例子都给我们带来了不同的教训。1948 年，民调机构并没有在选举日当天进行民调，而是依赖于旧的数据，这些数据并未反映出选民意见的后期变化。佐格比的民调未能代表所有可能的选民，并且错误地预测了谁会投票以及会投给谁。这些例子强调了在进行民意调查时采用科学方法的重要性，以及在报告结果时保持谨慎的必要性。
+
+Photo shows Harry S. Truman displaying a newspaper whose headline states “Dewey Defeats Truman.”
+Figure 6.8 Polling process errors can lead to incorrect predictions. On November 3, the day after the 1948 presidential election, a jubilant Harry S. Truman triumphantly displays the inaccurate headline of the Chicago Daily Tribune announcing Thomas Dewey’s supposed victory (credit: David Erickson/Flickr).
+
+[.my2]
+图 6.8 民意调查过程中的误差可能导致错误的预测。1948 年总统大选后的第二天，即 11 月 3 日，欣喜若狂的哈里·S·杜鲁门得意洋洋地展示着 《芝加哥论坛报》 宣布托马斯·杜威所谓胜利的不准确头条新闻（图片来源：David Erickson/Flickr）。
+Most polling companies employ statisticians and methodologists trained in conducting polls and analyzing data. A number of criteria must be met if a poll is to be completed scientifically. First, the methodologists identify the desired population, or group, of respondents they want to interview. For example, if the goal is to project who will win the presidency, citizens from across the United States should be interviewed. If we wish to understand how voters in Colorado will vote on a proposition, the population of respondents should only be Colorado residents. When surveying on elections or policy matters, many polling houses will interview only respondents who have a history of voting in previous elections, because these voters are more likely to go to the polls on Election Day. Politicians are more likely to be influenced by the opinions of proven voters than of everyday citizens. Once the desired population has been identified, the researchers will begin to build a sample that is both random and representative.
+
+[.my2]
+大多数民调机构都聘用受过民调开展和数据分析培训的统计学家和方法学家。一项民调若要科学严谨地完成，必须满足一系列标准。首先，方法学家会确定他们想要采访的目标人群或群体。例如，如果目标是预测谁将赢得总统大选，则应该采访来自美国各地的公民。如果我们想了解科罗拉多州的选民将如何就某项提案投票，那么受访者群体应该仅限于科罗拉多州居民。在进行有关选举或政策问题的调查时，许多民调机构只会采访那些在以往选举中投过票的受访者，因为这些选民更有可能在选举日当天前往投票站投票。相比普通公民，政客更容易受到已投票选民意见的影响。一旦确定了目标人群，研究人员就会开始构建一个既随机又具有代表性的样本。
+
+A random sample consists of a limited number of people from the overall population, selected in such a way that each has an equal chance of being chosen. In the early years of polling, telephone numbers of potential respondents were arbitrarily selected from various areas to avoid regional bias. While landline phones allow polls to try to ensure randomness, the increasing use of cell phones makes this process difficult. Cell phones, and their numbers, are portable and move with the owner. To prevent errors, polls that include known cellular numbers may screen for zip codes and other geographic indicators to prevent regional bias. A representative sample consists of a group whose demographic distribution is similar to that of the overall population. For example, nearly 51 percent of the U.S. population is female.32 To match this demographic distribution of women, any poll intended to measure what most Americans think about an issue should survey a sample containing slightly more women than men.
+
+[.my2]
+随机样本是指从总体中随机抽取有限数量的个体，抽样方式应确保每个人被选中的概率均等。在民意调查的早期，为了避免地域偏差，潜在受访者的电话号码是从各个地区随机抽取的。虽然固定电话可以帮助民意调查尽可能地确保随机性，但手机的日益普及使得这一过程变得困难。手机及其号码具有便携性，会随着用户的移动而移动。为了防止误差，包含已知手机号码的民意调查可能会筛选邮政编码和其他地理指标，以避免地域偏差。 代表性样本是指人口统计分布与总体人口相似的群体。例如，美国人口中近 51%是女性。 32 为了与女性的人口统计分布相匹配，任何旨在衡量大多数美国人对某一问题看法的民意调查都应该调查一个女性略多于男性的样本。
+
+Pollsters try to interview a set number of citizens to create a reasonable sample of the population. This sample size will vary based on the size of the population being interviewed and the level of accuracy the pollster wishes to reach. If the poll is trying to reveal the opinion of a state or group, such as the opinion of Wisconsin voters about changes to the education system, the sample size may vary from five hundred to one thousand respondents and produce results with relatively low error. For a poll to predict what Americans think nationally, such as about the White House’s policy on climate change, the sample size should be larger.
+
+[.my2]
+民调机构会尝试采访一定数量的公民，以建立一个合理的总体样本。样本量会根据受访总体规模和民调机构希望达到的准确度而有所不同。如果民调旨在揭示某个州或群体的意见，例如威斯康星州选民对教育体系改革的看法，那么样本量可能在五百到一千人之间，并能得出误差相对较低的结果。如果民调旨在预测美国民众的全国性看法，例如对白宫气候变化政策的看法，则样本量应该更大。
+
+The sample size varies with each organization and institution due to the way the data are processed. Gallup often interviews only five hundred respondents, while Rasmussen Reports and Pew Research often interview one thousand to fifteen hundred respondents.33 Academic organizations, like the American National Election Studies, have interviews with over twenty-five-hundred respondents.34 A larger sample makes a poll more accurate, because it will have relatively fewer unusual responses and be more representative of the actual population. Pollsters do not interview more respondents than necessary, however. Increasing the number of respondents will increase the accuracy of the poll, but once the poll has enough respondents to be representative, increases in accuracy become minor and are not cost-effective.35
+由于数据处理方式不同，各组织和机构的样本量也各不相同。盖洛普通常只采访五百名受访者，而拉斯穆森报告和皮尤研究中心则通常采访一千到一千五百名受访者。 33 像美国国家选举研究这样的学术机构，其受访者人数超过两千五百人。 34 更大的样本量能使民意调查更加准确，因为异常回答相对较少，更能代表实际人群。然而，民意调查机构不会采访超过必要的受访者人数。增加受访者数量会提高民意调查的准确性，但一旦民意调查的受访者人数足够多，具有代表性，准确性的提升就微乎其微，而且不划算。 35
+
+When the sample represents the actual population, the poll’s accuracy will be reflected in a lower margin of error. The margin of error is a number that states how far the poll results may be from the actual opinion of the total population of citizens. The lower the margin of error, the more predictive the poll. Large margins of error are problematic. For example, if a poll that claims Elizabeth Warren is likely to win 30 percent of the vote in the 2020 Massachusetts Democratic primary has a margin of error of +/-6, it tells us that Warren may receive as little as 24 percent of the vote (30 – 6) or as much as 36 percent (30 + 6). A lower of margin of error is clearly desirable because it gives us the most precise picture of what people actually think or will do.
+
+[.my2]
+当样本能够代表实际总体时，民调的准确性会体现在较低的误差幅度上。 误差幅度是指民调结果与全体公民实际意见之间的偏差程度。误差幅度越小，民调的预测性就越强。较大的误差幅度会带来问题。例如，如果一项民调显示伊丽莎白·沃伦在 2020 年马萨诸塞州民主党初选中可能赢得 30%的选票，而其误差幅度为±6%，则意味着沃伦可能只获得 24%的选票（30-6），也可能获得 36%的选票（30+6）。显然，较低的误差幅度更为理想，因为它能更精确地反映人们的真实想法和行为。
+
+With many polls out there, how do you know whether a poll is a good poll and accurately predicts what a group believes? First, look for the numbers. Polling companies include the margin of error, polling dates, number of respondents, and population sampled to show their scientific reliability. Was the poll recently taken? Is the question clear and unbiased? Was the number of respondents high enough to predict the population? Is the margin of error small? It is worth looking for this valuable information when you interpret poll results. While most polling agencies strive to create quality polls, other organizations want fast results and may prioritize immediate numbers over random and representative samples. For example, instant polling is often used by news networks to quickly assess how well candidates are performing in a debate.
+
+[.my2]
+市面上民调众多，如何判断一项民调是否可靠，能否准确预测群体观点？首先，要关注数据。民调机构通常会提供误差范围、调查日期、受访者人数和样本人群等信息，以证明其科学性。这项民调是近期进行的吗？问题是否清晰且无偏见？受访者人数是否足以代表总体？误差范围是否较小？在解读民调结果时，这些重要信息都值得关注。虽然大多数民调机构都致力于开展高质量的民调，但也有一些机构追求快速结果，可能更注重即时数据而非随机且具有代表性的样本。例如，新闻网络经常使用即时民调来快速评估候选人在辩论中的表现。
+
+Insider Perspective  内部视角
+The Ins and Outs of Polls
+民意调查的来龙去脉
+Ever wonder what happens behind the polls? To find out, we posed a few questions to Scott Keeter, Director of Survey Research at Pew Research Center.
+
+[.my2]
+你是否好奇过民意调查背后究竟发生了什么？为了找到答案，我们向皮尤研究中心调查研究主任斯科特·基特提出了一些问题。
+
+Q: What are some of the most common misconceptions about polling?
+问：关于民意调查，最常见的误解有哪些？
+
+A: A couple of them recur frequently. The first is that it is just impossible for one thousand or fifteen hundred people in a survey sample to adequately represent a population of 250 million adults. But of course it is possible. Random sampling, which has been well understood for the past several decades, makes it possible. If you don’t trust small random samples, then ask your doctor to take all of your blood the next time you need a diagnostic test.
+
+[.my2]
+答：其中有几个问题经常被提及。首先，有人认为，仅凭一千或一千五百人的调查样本，根本无法充分代表两亿五千万成年人口。但实际上，这并非不可能。随机抽样技术在过去几十年里已被广泛应用，正是实现这一点的关键。如果您不信任小样本的随机抽样，那么下次需要进行诊断测试时，不妨请医生抽取您全身的血液样本。
+
+The second misconception is that it is possible to get any result we want from a poll if we are willing to manipulate the wording sufficiently. While it is true that question wording can influence responses, it is not true that a poll can get any result it sets out to get. People aren’t stupid. They can tell if a question is highly biased and they won’t react well to it. Perhaps more important, the public can read the questions and know whether they are being loaded with words and phrases intended to push a respondent in a particular direction. That’s why it’s important to always look at the wording and the sequencing of questions in any poll.
+
+[.my2]
+第二个误解是，只要我们愿意充分操纵措辞，就能从民意调查中获得任何我们想要的结果。虽然问题的措辞确实会影响回答，但民意调查并不能得到任何它想要的结果。人们并不傻。他们能够分辨出问题是否带有强烈的偏见，并且不会对此做出积极的反应。或许更重要的是，公众能够阅读问题，并判断其中是否包含旨在引导受访者做出特定选择的词语和短语。因此，在任何民意调查中，仔细审查问题的措辞和顺序都至关重要。
+
+Q: How does your organization choose polling topics?
+问：贵组织如何选择投票主题？
+
+A: We choose our topics in several ways. Most importantly, we keep up with developments in politics and public policy, and try to make our polls reflect relevant issues. Much of our research is driven by the news cycle and topics that we see arising in the near future. We also have a number of projects that we do regularly to provide a look at long-term trends in public opinion. For example, we’ve been asking a series of questions about political values since 1987, which has helped to document the rise of political polarization in the public. Another is a large (thirty-five thousand interviews) study of religious beliefs, behaviors, and affiliations among Americans. We released the first of these in 2007, and a second in 2015. Finally, we try to seize opportunities to make larger contributions on weighty issues when they arise. When the United States was on the verge of a big debate on immigration reform in 2006, we undertook a major survey of Americans’ attitudes about immigration and immigrants. In 2007, we conducted the first-ever nationally representative survey of Muslim Americans.
+
+[.my2]
+答：我们选择调查主题的方式有多种。最重要的是，我们会密切关注政治和公共政策的发展动态，力求使我们的民调反映出相关的热点问题。我们的大部分研究都受到新闻周期和我们预见的近期热点话题的驱动。此外，我们还有一些定期开展的项目，旨在了解公众舆论的长期趋势。例如，自1987年以来，我们一直在进行一系列关于政治价值观的调查，这有助于记录公众政治极化的加剧。另一个项目是对美国人的宗教信仰、行为和宗教派别进行的大规模研究（访谈量达3.5万人）。我们分别于2007年和2015年发布了该研究的第一份报告和第二份报告。最后，我们努力抓住机会，在重要议题出现时做出更大的贡献。2006年，当美国即将就移民改革展开一场激烈的辩论时，我们开展了一项关于美国人对移民和移民态度的大型调查。 2007 年，我们开展了有史以来第一次具有全国代表性的美国穆斯林调查。
+
+Q: What is the average number of polls you oversee in a week?
+问：您平均每周负责多少次民意调查？
+
+A: It depends a lot on the news cycle and the needs of our research groups. We almost always have a survey in progress, but sometimes there are two or three going on at once. At other times, we are more focused on analyzing data already collected or planning for future surveys.
+
+[.my2]
+答：这很大程度上取决于新闻周期和我们研究团队的需求。我们几乎总是在进行一项调查，但有时会同时进行两到三项。其他时候，我们则更专注于分析已收集的数据或规划未来的调查。
+
+Q: Have you placed a poll in the field and had results that really surprised you?
+问：您是否进行过实地调查，并得到了令您感到非常意外的结果？
+
+A: It’s rare to be surprised because we’ve learned a lot over the years about how people respond to questions. But here are some findings that jumped out to some of us in the past:
+答：我们很少会感到惊讶，因为多年来我们已经了解了很多关于人们如何回答问题的信息。但以下是一些我们过去发现的特别之处：
+
+1) In 2012, we conducted a survey of people who said their religion is “nothing in particular.” We asked them if they are “looking for a religion that would be right” for them, based on the expectation that many people without an affiliation—but who had not said they were atheists or agnostic—might be trying to find a religion that fit. Only 10 percent said that they were looking for the right religion.
+
+[.my2]
+1）2012年，我们对那些自称“没有特定宗教信仰”的人进行了一项调查。我们询问他们是否“正在寻找适合自己的宗教”，因为我们预期许多没有宗教信仰——但又没有自称是无神论者或不可知论者——的人可能正在努力寻找一种适合自己的宗教。结果显示，只有10%的人表示他们正在寻找合适的宗教。
+
+2) We—and many others—were surprised that public opinion about Muslims became more favorable after the 9/11 terrorist attacks. It’s possible that President Bush’s strong appeal to people not to blame Muslims in general for the attack had an effect on opinions.
+
+[.my2]
+2）我们和许多其他人一样，都对9/11恐怖袭击后公众对穆斯林的看法变得更加友好感到惊讶。布什总统强烈呼吁民众不要将袭击事件归咎于穆斯林群体，这可能对舆论产生了影响。
+
+3) It’s also surprising that basic public attitudes about gun control (whether pro or anti) barely move after highly publicized mass shootings.
+
+[.my2]
+3）令人惊讶的是，在发生广为人知的大规模枪击事件后，公众对枪支管制的基本态度（无论是支持还是反对）几乎没有改变。
+
+Were you surprised by the results Scott Keeter reported in response to the interviewer’s final question? Why or why not? Conduct some research online to discover what degree plans or work experience would help a student find a job in a polling organization.
+
+[.my2]
+斯科特·基特在回答面试官最后一个问题时所报告的结果是否让你感到惊讶？为什么？请上网搜索相关信息，了解哪些学位计划或工作经验有助于学生在民意调查机构找到工作。
+
+TECHNOLOGY AND POLLING  技术与民意调查
+The days of randomly walking neighborhoods and phone book cold-calling to interview random citizens are gone. Scientific polling has made interviewing more deliberate. Historically, many polls were conducted in person, yet this was expensive and yielded problematic results.
+
+[.my2]
+过去那种随意走访街区、通过电话簿挨个拨打电话采访市民的日子已经一去不复返了。科学的民意调查方法使采访更加有计划。历史上，许多民意调查都是面对面进行的，但这成本高昂，而且结果也存在问题。
+
+In some situations and countries, face-to-face interviewing still exists. Exit polls, focus groups, and some public opinion polls occur in which the interviewer and respondents communicate in person (Figure 6.9). Exit polls are conducted in person, with an interviewer standing near a polling location and requesting information as voters leave the polls. Focus groups often select random respondents from local shopping places or pre-select respondents from Internet or phone surveys. The respondents show up to observe or discuss topics and are then surveyed.
+
+[.my2]
+在某些地区和国家，面对面访谈仍然存在。出口民调、焦点小组访谈和一些民意调查中，访谈员和受访者会进行面对面的交流（ 图 6.9 ）。出口民调是现场进行的，访谈员站在投票站附近，在选民离开投票站时询问相关信息。焦点小组访谈通常从当地购物场所随机抽取受访者，或者预先从网络或电话调查中筛选受访者。受访者到场观察或讨论相关话题，然后接受调查。
+
+An image of four people standing in front of a table.
+
+[.my2]
+Figure 6.9 On November 6, 2012, the Connect2Mason.com team conducts exit surveys at the polls on the George Mason University campus. (credit: Mason Votes/Flickr).
+
+[.my2]
+图 6.9 2012 年 11 月 6 日，Connect2Mason.com 团队在乔治梅森大学校园的投票站进行出口调查。（图片来源：Mason Votes/Flickr）
+When organizations like Gallup or Roper decide to conduct face-to-face public opinion polls, however, it is a time-consuming and expensive process. The organization must randomly select households or polling locations within neighborhoods, making sure there is a representative household or location in each neighborhood.36 Then it must survey a representative number of neighborhoods from within a city. At a polling location, interviewers may have directions on how to randomly select voters of varied demographics. If the interviewer is looking to interview a person in a home, multiple attempts are made to reach a respondent if they do not answer. Gallup conducts face-to-face interviews in areas where less than 80 percent of the households in an area have phones, because it gives a more representative sample.37 News networks use face-to-face techniques to conduct exit polls on Election Day.
+
+[.my2]
+然而，当盖洛普或罗珀等机构决定进行面对面民意调查时，这是一个耗时且成本高昂的过程。这些机构必须在社区内随机选择家庭或投票站，确保每个社区都有具有代表性的家庭或地点。 36 然后，他们必须调查城市内具有代表性的社区数量。在投票站，访员可能会收到如何随机选择不同人口统计特征选民的指示。如果访员想要采访某户人家，如果受访者没有回应，他们会多次尝试联系。盖洛普会在电话普及率低于 80%的地区进行面对面访谈，因为这样可以获得更具代表性的样本。 37 新闻网络在选举日也使用面对面访谈的方式进行出口民调。
+
+Most polling now occurs over the phone or through the Internet. Some companies, like Harris Interactive, maintain directories that include registered voters, consumers, or previously interviewed respondents. If pollsters need to interview a particular population, such as political party members or retirees of a specific pension fund, the company may purchase or access a list of phone numbers for that group. Other organizations, like Gallup, use random-digit-dialing (RDD), in which a computer randomly generates phone numbers with desired area codes. Using RDD allows the pollsters to include respondents who may have unlisted and cellular numbers.38 Questions about ZIP code or demographics may be asked early in the poll to allow the pollsters to determine which interviews to continue and which to end early.
+
+[.my2]
+现在大多数民意调查都是通过电话或网络进行的。一些公司，例如哈里斯互动公司（Harris Interactive），维护着包含已登记选民、消费者或之前接受过采访的受访者的名录。如果民调机构需要采访特定人群，例如政党成员或特定养老基金的退休人员，该公司可能会购买或获取该人群的电话号码列表。其他机构，例如盖洛普公司（Gallup），则使用随机拨号（RDD），即计算机随机生成具有所需区号的电话号码。使用 RDD 可以让民调机构采访那些可能拥有未公开号码或手机号码的受访者。民调初期可能会询问一些关于邮政编码或人口统计信息的问题，以便民调机构确定哪些采访需要继续，哪些需要提前结束。
+
+The interviewing process is also partly computerized. Many polls are now administered through computer-assisted telephone interviewing (CATI) or through robo-polls. A CATI system calls random telephone numbers until it reaches a live person and then connects the potential respondent with a trained interviewer. As the respondent provides answers, the interviewer enters them directly into the computer program. These polls may have some errors if the interviewer enters an incorrect answer. The polls may also have reliability issues if the interviewer goes off the script or answers respondents’ questions.
+
+[.my2]
+访谈过程也部分实现了计算机化。许多民意调查现在都采用计算机辅助电话访谈（CATI）或自动语音访谈的方式进行。CATI 系统会随机拨打电话号码，直到接通真人，然后将潜在受访者与经过培训的访谈员连接起来。受访者回答问题后，访谈员会将答案直接输入计算机程序。如果访谈员输入了错误的答案，这些民意调查可能会出现一些误差。如果访谈员偏离脚本或回答受访者的问题，民意调查的可靠性也可能受到影响。
+
+Robo-polls are entirely computerized. A computer dials random or pre-programmed numbers and a prerecorded electronic voice administers the survey. The respondent listens to the question and possible answers and then presses numbers on the phone to enter responses. Proponents argue that respondents are more honest without an interviewer. However, these polls can suffer from error if the respondent does not use the correct keypad number to answer a question or misunderstands the question. Robo-polls may also have lower response rates, because there is no live person to persuade the respondent to answer. There is also no way to prevent children from answering the survey. Lastly, the Telephone Consumer Protection Act (1991) made automated calls to cell phones illegal, which leaves a large population of potential respondents inaccessible to robo-polls.39
+机器人民意调查完全由电脑完成。电脑拨打随机或预设号码，并由预先录制的电子语音进行调查。受访者听完问题和可能的答案后，按下电话上的数字键输入答案。支持者认为，没有访谈员在场，受访者会更诚实。然而，如果受访者没有使用正确的键盘数字回答问题，或者误解了问题，这些民意调查就可能出现误差。机器人民意调查的回复率也可能较低，因为没有真人来劝说受访者作答。此外，也无法阻止儿童参与调查。最后，《 电话消费者保护法》 （1991 年）规定，使用自动拨号系统拨打手机属于违法行为，这使得大量潜在受访者无法参与机器人民意调查 。39
+
+The latest challenges in telephone polling come from the shift in phone usage. A growing number of citizens, especially younger citizens, use only cell phones, and their phone numbers are no longer based on geographic areas. The Millennial generation (those born between 1981 and 1996) and Generation Z (those born between 1997 and 2012) are also more likely to text than to answer an unknown call, so it is harder to interview this demographic group. Polling companies now must reach out to potential respondents using email and social media to ensure they have a representative group of respondents.
+
+[.my2]
+电话民意调查面临的最新挑战源于电话使用习惯的转变。越来越多的公民，尤其是年轻一代，只使用手机，而且他们的电话号码不再基于地理位置。千禧一代（1981 年至 1996 年出生）和 Z 世代（1997 年至 2012 年出生）也更倾向于发短信而不是接听陌生来电，因此，对这一群体进行访谈变得更加困难。民意调查公司现在必须通过电子邮件和社交媒体联系潜在受访者，以确保获得具有代表性的受访者群体。
+
+Yet, the technology required to move to the Internet and handheld devices presents further problems. Web surveys must be designed to run on a varied number of browsers and handheld devices. Online polls cannot detect whether a person with multiple email accounts or social media profiles answers the same poll multiple times, nor can they tell when a respondent misrepresents demographics in the poll or on a social media profile used in a poll. These factors also make it more difficult to calculate response rates or achieve a representative sample. Yet, many companies are working with these difficulties, because it is necessary to reach younger demographics in order to provide accurate data.40
+然而，向互联网和手持设备过渡所需的技术又带来了新的问题。网络调查必须设计成能够在各种浏览器和手持设备上运行。在线调查无法检测拥有多个电子邮件帐户或社交媒体账号的人是否多次回答同一份调查问卷，也无法判断受访者是否在调查问卷或用于调查的社交媒体账号上虚报人口统计信息。这些因素也使得计算回复率或获得具有代表性的样本变得更加困难。然而，许多公司仍在努力克服这些困难，因为为了获得准确的数据，必须触达更年轻的群体 。40
+
+PROBLEMS IN POLLING  民意调查中的问题
+For a number of reasons, polls may not produce accurate results. Two important factors a polling company faces are timing and human nature. Unless you conduct an exit poll during an election and interviewers stand at the polling places on Election Day to ask voters how they voted, there is always the possibility the poll results will be wrong. The simplest reason is that if there is time between the poll and Election Day, a citizen might change their mind, lie, or choose not to vote at all. Timing is very important during elections, because surprise events can shift enough opinions to change an election result. Of course, there are many other reasons why polls, even those not time-bound by elections or events, may be inaccurate.
+
+[.my2]
+由于多种原因，民意调查可能无法得出准确结果。 民调公司面临的两大重要因素是时间因素和人性因素。除非在选举期间进行出口民调 ，并在选举日当天安排调查员在投票站询问选民的投票情况，否则民调结果始终存在出错的可能性。最简单的原因是，如果民调和选举日之间有时间差，选民可能会改变主意、撒谎，或者干脆放弃投票。选举期间，时间因素至关重要，因为突发事件足以改变民意，从而影响选举结果。当然，民调结果不准确的原因还有很多，即使是那些不受选举或事件时间限制的民调也可能存在这个问题。
+
+Link to Learning  学习链接
+Created in 2003 to survey the American public on all topics, Rasmussen Reports is a new entry in the polling business. Rasmussen also conducts exit polls for each national election.
+
+[.my2]
+拉斯穆森民调公司成立于 2003 年，旨在就所有议题对美国公众进行调查，是民调行业的新兴力量 。拉斯穆森还为每次全国大选进行出口民调。
+
+Polls begin with a list of carefully written questions. The questions need to be free of framing, meaning they should not be worded to lead respondents to a particular answer. For example, take two questions about presidential approval. Question 1 might ask, “Given the high unemployment rate, do you approve of the job President Biden is doing?” Question 2 might ask, “Do you approve of the job President Biden is doing?” Both questions want to know how respondents perceive the president’s success, but the first question sets up a frame for the respondent to believe the economy is doing poorly before answering. This is likely to make the respondent’s answer more negative. Similarly, the way we refer to an issue or concept can affect the way listeners perceive it. The phrase “estate tax” did not rally voters to protest the inheritance tax, but the phrase “death tax” sparked debate about whether taxing estates imposed a double tax on income.41
+民意调查始于一份精心设计的问卷。这些问题必须避免框架效应，也就是说，措辞不应引导受访者得出特定答案。例如，假设有两个关于总统支持率的问题。问题 1 可能是：“鉴于高失业率，您是否认可拜登总统的工作表现？”问题 2 可能是：“您是否认可拜登总统的工作表现？”这两个问题都想了解受访者如何看待总统的政绩，但第一个问题在受访者回答之前就预设了经济形势不佳的框架。这很可能导致受访者的回答更加负面。同样，我们提及某个问题或概念的方式也会影响听众的理解。“遗产税”这个词并没有激起选民抗议继承税，但“死亡税”这个词却引发了关于对遗产征税是否构成双重征税的辩论。 41
+
+Many polling companies try to avoid leading questions, which lead respondents to select a predetermined answer, because they want to know what people really think. Some polls, however, have a different goal. Their questions are written to guarantee a specific outcome, perhaps to help a candidate get press coverage or gain momentum. These are called push polls. In the 2016 presidential primary race, MoveOn tried to encourage Senator Elizabeth Warren (D-MA) to enter the race for the Democratic nomination (Figure 6.10). Its poll used leading questions for what it termed an “informed ballot,” and, to show that Warren would do better than Hillary Clinton, it included ten positive statements about Warren before asking whether the respondent would vote for Clinton or Warren.42 The poll results were blasted by some in the media for being fake.
+
+[.my2]
+许多民调机构都力求避免使用引导性问题 ， 即引导受访者选择预设答案的问题，因为他们想了解人们的真实想法。然而，有些民调却另有目的。它们的问题旨在确保出现特定结果，或许是为了帮助候选人获得媒体曝光或提升支持率。这类民调被称为“推式民调”。在 2016 年总统初选中，MoveOn 试图鼓励马萨诸塞州民主党参议员伊丽莎白· 沃伦 （Elizabeth Warren）参加民主党总统候选人提名竞选（ 图 6.10 ）。该民调使用了引导性问题，并称之为“知情投票”。为了表明沃伦会比希拉里 ·克林顿表现更好，该民调在询问受访者会投票给克林顿还是沃伦之前，列出了十条关于沃伦的正面陈述。 42 一些媒体抨击该民调结果造假。
+
+Photo A shows Joseph P. Kennedy, Elizabeth Warren, and Barney Frank. Image B shows Hillary Clinton at a podium.
+
+[.my2]
+Figure 6.10 Senator Elizabeth Warren (a) poses with Massachusetts representatives Joseph P. Kennedy III (left) and Barney Frank (right) at the 2012 Boston Pride Parade. Senator Hillary Clinton (b) during her 2008 presidential campaign in Concord, New Hampshire (credit a: modification of work by “ElizabethForMA”/Flickr; credit b: modification of work by Marc Nozell)
+图 6.10 伊丽莎白·沃伦参议员 (a) 与马萨诸塞州众议员约瑟夫·P·肯尼迪三世（左）和巴尼·弗兰克（右）在 2012 年波士顿骄傲游行上合影。希拉里·克林顿参议员 (b) 在 2008 年总统竞选期间于新罕布什尔州康科德市（图片来源：a：改编自“ElizabethForMA”/Flickr 的作品；b：改编自 Marc Nozell 的作品）
+Sometimes lack of knowledge affects the results of a poll. Respondents may not know that much about the polling topic but are unwilling to say, “I don’t know.” For this reason, surveys may contain a quiz with questions that determine whether the respondent knows enough about the situation to answer survey questions accurately. A poll to discover whether citizens support changes to the Affordable Care Act or Medicaid might first ask who these programs serve and how they are funded. Polls about China's threats against Taiwan or prospects for renewing the Iran Nuclear Deal may include a set of questions to determine whether the respondent reads or hears any international news. Respondents who cannot answer correctly may be excluded from the poll, or their answers may be separated from the others.
+
+[.my2]
+有时，知识匮乏会影响民意调查的结果。受访者可能对调查主题了解不多，但又不愿承认“我不知道”。因此，调查问卷中可能会包含一个测试题，以判断受访者是否对相关情况有足够的了解，从而能够准确回答问题。例如，一项旨在了解民众是否支持修改《 平价医疗法案》 或医疗补助计划的民意调查，可能会首先询问这些计划的服务对象以及资金来源。关于中国对台湾的威胁或伊朗核协议续签前景的民意调查，可能会包含一系列问题，以确定受访者是否阅读或收听国际新闻。无法正确回答问题的受访者可能会被排除在调查之外，或者他们的答案可能会与其他答案分开。
+
+People may also feel social pressure to answer questions in accordance with the norms of their area or peers.43 If they are embarrassed to admit how they would vote, they may lie to the interviewer. In the 1982 governor’s race in California, Tom Bradley was far ahead in the polls, yet on Election Day he lost. This result was nicknamed the Bradley effect, on the theory that voters who answered the poll were afraid to admit they would not vote for a Black man because it would appear politically incorrect and racist. In the 2016 presidential election, the level of support for Republican nominee Donald Trump may have been artificially low in the polls due to the fact that some respondents did not want to admit they were voting for Trump.
+
+[.my2]
+人们也可能感受到社会压力，不得不按照所在地区或同龄人的规范来回答问题。 43 如果他们不好意思承认自己的投票意向，他们可能会对面试官撒谎。在 1982 年加州州长竞选中，汤姆· 布拉德利在民调中遥遥领先，但在选举日却落败。这一结果被称为“ 布拉德利效应” ，其理论依据是，参与民调的选民害怕承认自己不会投票给一位黑人，因为这会被视为政治不正确和种族歧视。在 2016 年总统大选中，共和党候选人唐纳德·特朗普的支持率在民调中可能被人为压低，原因可能是部分受访者不愿承认自己会投票给特朗普。
+
+In 2010, Proposition 19, which would have legalized and taxed marijuana in California, met with a new version of the Bradley effect. Nate Silver, a political blogger, noticed that polls on the marijuana proposition were inconsistent, sometimes showing the proposition would pass and other times showing it would fail. Silver compared the polls and the way they were administered, because some polling companies used an interviewer and some used robo-calling. He then proposed that voters speaking with a live interviewer gave the socially acceptable answer that they would vote against Proposition 19, while voters interviewed by a computer felt free to be honest (Figure 6.11).44 While this theory has not been proven, it is consistent with other findings that interviewer demographics can affect respondents’ answers. African Americans, for example, may give different responses to interviewers who are White than to interviewers who are African American.45
+2010 年，加州第 19 号提案 （旨在将大麻合法化并征税）遭遇了新版的布拉德利效应。政治博主内特·西尔弗注意到，关于大麻提案的民意调查结果并不一致，有时显示提案会通过，有时则显示会失败。西尔弗比较了这些民调及其执行方式，因为一些民调公司采用的是人工访谈，而另一些则采用的是自动拨号。他随后提出，与真人访谈员交谈的选民会给出符合社会规范的答案，即他们会投票反对第 19 号提案，而接受电脑访谈的选民则更倾向于说出真实想法（ 图 6.11 ）。 44 虽然这一理论尚未得到证实，但它与其他研究结果相符，即访谈员的人口统计特征会影响受访者的回答。例如，非裔美国人对白人访谈员的回答可能与对非裔美国人访谈员的回答有所不同。 45
+
+Chart shows the support of marijuana legalization by the type of poll conducted. When using a live operator poll, opposition is about –2 for Reuters/lpsos, about –1 for PPIC, and about –4 for Field Poll. The results from robo-polls show favorability at about 14 for Survey USA (April), about 10 for Survey USA (July) and about 16 for PPP. At the bottom of the chart, a source is cited: “Silver, Nate. “The Broadus Effect? Social Desirability Bias and California Proposition 19.” FiveThirtyEightPolitics. July 27, 2010”.
+
+[.my2]
+Figure 6.11 In 2010, polls about California’s Proposition 19 were inconsistent, depending on how they were administered, with voters who spoke with a live interviewer declaring they would vote against Proposition 19 and voters who were interviewed via a computer declaring support for the legislation. The measure was defeated on Election Day.
+
+[.my2]
+图 6.11 显示，2010 年，关于加州第 19 号提案的民意调查结果并不一致，这取决于调查方式的不同：与真人访谈员交谈的选民表示会投票反对第 19 号提案，而通过电脑进行访谈的选民则表示支持该提案。该提案最终在选举日被否决。
+PUSH POLLS  推拉
+One of the newer byproducts of polling is the creation of push polls, which consist of political campaign information presented as polls. Respondents is called and asked a series of questions about their position or candidate selections. If a respondent’s answers are for the wrong candidate, the next questions will give negative information about the candidate in an effort to change the voter’s mind.
+
+[.my2]
+民意调查的新兴副产品之一是 “推送式民调 ” ，这种民调以民意调查的形式呈现政治竞选信息。受访者接到电话，被问及一系列关于其立场或候选人选择的问题。如果受访者的回答支持错误的候选人，接下来的问题就会提供关于该候选人的负面信息，试图改变选民的想法。
+
+In 2014, a fracking ban was placed on the ballot in a town in Texas. Fracking, which includes injecting pressurized water into drilled wells, helps energy companies collect additional gas from the earth. It is controversial, with opponents arguing it causes water pollution, sound pollution, and earthquakes. During the campaign, a number of local voters received a call that polled them on how they planned to vote on the proposed fracking ban.46 If the respondent was unsure about or planned to vote for the ban, the questions shifted to provide negative information about the organizations proposing the ban. One question asked, “If you knew the following, would it change your vote . . . two Texas railroad commissioners, the state agency that oversees oil and gas in Texas, have raised concerns about Russia’s involvement in the anti-fracking efforts in the U.S.?” The question played upon voter fears about Russia and international instability in order to convince them to vote against the fracking ban.
+
+[.my2]
+2014 年，德克萨斯州一个小镇将一项禁止水力压裂法的提案提交选民投票。水力压裂法是将高压水注入钻井，帮助能源公司从地下开采更多天然气。这项技术备受争议，反对者认为它会导致水污染、噪音污染和地震。在竞选期间，一些当地选民接到电话，询问他们对这项拟议的水力压裂法禁令的投票意向。 46 如果受访者不确定或计划投票支持该禁令，问题就会转向提供有关提议该禁令的组织的负面信息。其中一个问题是：“如果您知道以下情况，您会改变投票意向吗……德克萨斯州铁路委员会的两名委员（该州负责监管德克萨斯州石油和天然气的机构）对俄罗斯参与美国反水力压裂法活动表示担忧？” 这个问题利用了选民对俄罗斯和国际局势不稳定的担忧，试图说服他们投票反对水力压裂法禁令。
+
+These techniques are not limited to issue votes; candidates have used them to attack their opponents. The hope is that voters will think the poll is legitimate and believe the negative information provided by a “neutral” source.
+
+[.my2]
+这些技巧并非仅限于议题投票；候选人也曾利用它们攻击对手。其目的是让选民认为民调合法，并相信这个“​​中立”来源提供的负面信息。
+
+'''

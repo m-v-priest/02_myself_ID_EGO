@@ -1,0 +1,154 @@
+
+= 0057 How to Use the Air Quality Index
+如何使用空气质量指数
+:toc: left
+:toclevels: 3
+:sectnums:
+
+'''
+
+== How to Use the Air Quality Index
+如何使用空气质量指数
+
+what do those *air quality alerts* mean (v.)? `主` The color-coded 间接表达的,编码的 Air Quality Index categories 类别，种类 /you’ll find (v.) on the Environmental Protection Agency’s AirNow website / `谓` rank (v.) *air quality* on a 500-point scale /and are meant 意味；打算 to give the public an easy way /to understand the health effects of the air /around them daily. `主` The lowest numbers on the scale `谓` indicate (v.)表明；显示;象征；暗示 healthy air, and the high end /is hazardous 危险的；有害的.
+
+
+
+[.my1]
+.标题
+====
+
+这些空气质量警报意味着什么？  +
+您可以在环境保护局的 AirNow 网站上, 找到颜色编码的空气质量指数类别，以 500 分制, 对空气质量进行排名，旨在让公众轻松了解周围空气每天对健康的影响。刻度上, 数字最低, 表示空气对人体健康; 而数字越高, 则是危险的。
+
+https://www.airnow.gov/
+
+image:../../img/AQI_graphic_d.webp[,500]
+====
+
+The Air Quality Index considers (v.)考虑，认为 five measurements 测量；度量 of air pollution: *ground-level 底层 ozone* 地面臭氧, particle pollution, carbon monoxide  一氧化物, **sulfur 硫磺 dioxide**二氧化物 and *nitrogen 氮 dioxide* 二氧化物. These pollutants 污染物 have health impacts, typically involving irritation 刺激 and inflammation 炎症 of the respiratory 呼吸的 system, which can, in turn 依次，轮流, contribute to the development of conditions /such as asthma 哮喘，气喘 and heart disease.
+
+
+[.my1]
+.标题
+====
+.dioxide
+->  di-二,双 + ox(-oxy-)氧 + -ide名词词尾
+
+空气质量指数, 考虑了五种空气污染测量值：地面臭氧、颗粒物污染、一氧化碳、二氧化硫, 和二氧化氮。这些污染物对健康有影响，通常涉及刺激和刺激呼吸系统，进而导致哮喘和心脏病等疾病的发展。
+====
+
+
+
+
+Levels on the scale /are based on how much of the pollutant is present in the air, measured in *parts per million* 百万分之一, over a specific time period — either an hour, eight hours /or 24 hours depending on the pollutant. In cases /where one pollutant is more concentrated 密集的；集中的 than the others, the final air quality category /is based on the worst pollutant. AirNow’s interactive 交互式的 map /allows users to check levels of *particulate matter* of different sizes, as well as ozone, because these types of pollutants /can have slightly different health effects.
+
+
+[.my1]
+.标题
+====
+.parts per million
+百万分之一：用于表示浓度的单位，表示每百万份中有一份。常用于描述空气、水等环境中污染物的浓度。
+
+
+量表上的水平, 基于特定时间段内, 空气中污染物的含量，以百万分之几为单位——一小时、八小时或 24 小时，具体取决于污染物。在一种污染物比其他污染物浓度更高的情况下，最终的空气质量类别, 基于最严重的污染物。 AirNow 的交互式地图, 允许用户检查不同大小的颗粒物, 以及臭氧的水平，因为这些类型的污染物, 对健康的影响可能略有不同。
+====
+
+`主`  The smallest particles /tracked in the Air Quality Index —those with a diameter 直径 of 2.5 microns 微米 or smaller —`系`  are also the most dangerous /because they can *be inhaled (v.)吸入 deep into the lungs* /and even enter (v.) the blood. Exposure to wildfire smoke /raises (v.) the risk of both cardiovascular 心血管的 and respiratory disease, according to the EPA.
+
+
+
+[.my1]
+.标题
+====
+.cardiovascular
+→ card, 心脏。-vas, 管，容器，词源同vase, vessel.
+
+
+空气质量指数中, 追踪的最小颗粒——直径为 2.5 微米或更小的颗粒——也是最危险的，因为它们可以被吸入肺部深处，甚至进入血液。据美国环保署称，接触野火烟雾, 会增加患心血管疾病和呼吸系统疾病的风险。
+====
+
+
+Green is between 0 and 50 on this scale: in this category, air quality is good, with little or no risk from air pollution.
+
+From 51 to 100, the air quality is moderate 适度的；中等的, or yellow, which is considered safe for most people, though some very sensitive groups may be impacted （对某事物）有影响，有作用,冲击；撞击.
+
+Between 101 and 150, members of sensitive groups, such as the very young, the very old /and people with asthma (n.)气喘；哮喘, or heart or lung disease, start to feel the effects of air pollution. This level is color 后定 coded (v.) as orange on the air-quality map. Those individuals who fall into the sensitive group /will want to spend less time outdoors, take more breaks when active outdoors /and *watch for* 留意，注意 *shortness 缺乏,不足 of breath* and coughing, AirNow says.
+
+
+[.my1]
+.标题
+====
+
+在此范围内，绿色介于 0 和 50 之间：在此类别中，空气质量良好，几乎没有或没有空气污染风险。从 51 到 100，空气质量为中等或黄色，这对大多数人来说被认为是安全的，尽管一些非常敏感的群体可能会受到影响。
+
+在 101 到 150 之间，敏感群体的成员，例如非常年轻、非常年老和患有哮喘、心脏病或肺病的人，开始感受到空气污染的影响。该级别在空气质量地图上用颜色编码为橙色。 AirNow 说，那些属于敏感群体的人会希望减少在户外的时间，在户外活动时多休息，注意呼吸急促和咳嗽。
+====
+
+From 151 to 200, air quality enters (v.) the red zone, which is unhealthy for members of the general public, who can minimize (v.)使减少到最低限度 health risks /by reducing long or intense 很大的；十分强烈的 outdoor activities.
+
+The next stage, from 201 to 300, is purple, at which point /the health risk increases (v.) for all groups. The EPA 环境保护局 suggests (v.) everyone avoid spending long periods of time outside /at this level.
+
+At 301 or more, air quality *is classified (v.)把……分类，把……分级 as* hazardous 危险的；有害的, represented as maroon 褐红色；紫褐色, at which point /the recommendation 正式建议；提议 is for everyone to avoid physical activity outside. For sensitive groups, a hazardous level means (v.) *not only* staying indoors /but following tips for reducing particle levels indoors.
+
+
+[.my1]
+.标题
+====
+.EPA
+abbr. 环境保护局（Environmental Protection Agency）
+
+从151到200，空气质量进入红色区域，这对公众健康不利，他们可以通过减少长时间或剧烈的户外活动, 来最大程度地降低健康风险。
+
+下一阶段，从 201 到 300，是紫色的，此时所有群体的健康风险都会增加。 EPA 建议每个人避免在这个级别的户外长时间呆着。
+
+在 301 或更高时，空气质量被归类为危险，以栗色表示，此时建议每个人避免在户外进行身体活动。对于敏感群体，危险级别不仅意味着待在室内，还意味着遵循减少室内颗粒物水平的提示。
+====
+
+
+“Moderate means (v.) air quality is a concern （尤指许多人共同的）担心，忧虑 for people /who are extra sensitive to air pollution, [and] all people should avoid (v.) *strenuous 劲头十足的；奋力的；顽强的,费力的 physical activity* outdoors,” says Purvi Parikh, an allergist 过敏症专科医师 and immunologist 免疫学者 with the Allergy 过敏反应，过敏症 & Asthma 哮喘，气喘 Network, “whereas （用以比较或对比两个事实）然而，但是，尽管 hazardous level means (v.) all people should avoid being outdoors.”
+
+
+[.my1]
+.标题
+====
+
+“中等, 意味着空气质量是对空气污染特别敏感的人的担忧，[并且]所有人都应该避免在户外进行剧烈的体育活动，”过敏与哮喘网络的过敏症专家和免疫学家 Purvi Parikh 说，“ 而危险水平, 意味着所有人都应该避免在户外。”
+====
+
+When *air quality alerts* are active, `主` the best way to protect your health `系`  is to stay inside, Parikh says. `主` Children, the elderly, people who are pregnant or immunocompromised (a.)免疫功能不全的 /and those with underlying 根本的；潜在的；隐含的 heart or respiratory conditions /`系`  are the most at risk, but at the levels 后定 present in the Northeast, no one should exercise (v.) or work (v.) outside, Parikh says. `主` Running a high-efficiency *particulate 微粒的,微粒 air (HEPA) filter* /and keeping windows closed /`谓` can help keep indoor air safe, she says, while KN95 or N95 masks can block (v.) particulate matter outdoors.
+
+
+[.my1]
+.标题
+====
+
+Parikh 说，当空气质量警报处于活动状态时，保护健康的最佳方法是呆在室内。 Parikh 说，儿童、老人、孕妇, 或免疫功能低下的人, 以及患有潜在心脏或呼吸系统疾病的人, 面临的风险最大，但在东北部目前的水平下，任何人都不应该在户外锻炼或工作。她说，运行高效微粒空气 (HEPA) 过滤器, 并保持窗户关闭, 有助于保持室内空气安全. 而 KN95 或 N95 口罩, 可以阻挡室外的微粒物质。
+====
+
+
+'''
+
+== How to Use the Air Quality Index
+
+what do those air quality alerts mean?
+
+The color-coded Air Quality Index categories you’ll find on the Environmental Protection Agency’s AirNow website rank air quality on a 500-point scale and are meant to give the public an easy way to understand the health effects of the air around them daily. The lowest numbers on the scale indicate healthy air, and the high end is hazardous.
+
+
+The Air Quality Index considers five measurements of air pollution: ground-level ozone, particle pollution, carbon monoxide, sulfur dioxide and nitrogen dioxide. These pollutants have health impacts, typically involving irritation and inflammation of the respiratory system, which can, in turn, contribute to the development of conditions such as asthma and heart disease.
+
+
+Levels on the scale are based on how much of the pollutant is present in the air, measured in parts per million, over a specific time period—either an hour, eight hours or 24 hours depending on the pollutant. In cases where one pollutant is more concentrated than the others, the final air quality category is based on the worst pollutant. AirNow’s interactive map allows users to check levels of particulate matter of different sizes, as well as ozone, because these types of pollutants can have slightly different health effects.
+
+The smallest particles tracked in the Air Quality Index—those with a diameter of 2.5 microns or smaller—are also the most dangerous because they can be inhaled deep into the lungs and even enter the blood. Exposure to wildfire smoke raises the risk of both cardiovascular and respiratory disease, according to the EPA.
+
+
+Green is between 0 and 50 on this scale: in this category, air quality is good, with little or no risk from air pollution. From 51 to 100, the air quality is moderate, or yellow, which is considered safe for most people, though some very sensitive groups may be impacted. Between 101 and 150, members of sensitive groups, such as the very young, the very old and people with asthma, or heart or lung disease, start to feel the effects of air pollution. This level is color coded as orange on the air-quality map. Those individuals who fall into the sensitive group will want to spend less time outdoors, take more breaks when active outdoors and watch for shortness of breath and coughing, AirNow says.
+
+From 151 to 200, air quality enters the red zone, which is unhealthy for members of the general public, who can minimize health risks by reducing long or intense outdoor activities. The next stage, from 201 to 300, is purple, at which point the health risk increases for all groups. The EPA suggests everyone avoid spending long periods of time outside at this level. At 301 or more, air quality is classified as hazardous, represented as maroon, at which point the recommendation is for everyone to avoid physical activity outside. For sensitive groups, a hazardous level means not only staying indoors but following tips for reducing particle levels indoors.
+
+“Moderate means air quality is a concern for people who are extra sensitive to air pollution, [and] all people should avoid strenuous physical activity outdoors,” says Purvi Parikh, an allergist and immunologist with the Allergy & Asthma Network, “whereas hazardous level means all people should avoid being outdoors.”
+
+When air quality alerts are active, the best way to protect your health is to stay inside, Parikh says. Children, the elderly, people who are pregnant or immunocompromised and those with underlying heart or respiratory conditions are the most at risk, but at the levels present in the Northeast, no one should exercise or work outside, Parikh says. Running a high-efficiency particulate air (HEPA) filter and keeping windows closed can help keep indoor air safe, she says, while KN95 or N95 masks can block particulate matter outdoors.
+

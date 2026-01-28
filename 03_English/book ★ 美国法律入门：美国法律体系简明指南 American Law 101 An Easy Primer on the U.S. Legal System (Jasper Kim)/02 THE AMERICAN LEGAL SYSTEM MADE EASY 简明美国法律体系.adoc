@@ -1,0 +1,1411 @@
+
+= 02 THE AMERICAN LEGAL SYSTEM MADE EASY 简明美国法律体系
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../../myAdocCss.css
+
+'''
+
+
+== 释义
+
+2 THE AMERICAN LEGAL SYSTEM MADE EASY
+
+Chapter 1 discussed the software 软件；体系 of the American lawyer (i.e. 即，也就是, in terms of _the thinking process_ 思维过程 后定说明 operating (v.) 运作；起作用 within the minds of _U.S.-licensed (a.) 得到许可的 legal professionals_ 法律从业者).  +
+This chapter, in contrast 相比之下；与此相反, examines (v.) 审视；考察 the hardware 硬件；基础架构 in terms of _the conceptual 概念的，观念的 component parts_ 组成部分 within the software of the American lawyer and legal system 法律体系.  +
+Specifically 具体来说, the hardware *is based* (v.)  _in part_ *on* the black letter law 黑体字法律；成文法 embedded (v.) 嵌入；根植于 within the American legal infrastructure 法律基础设施, which `主` this chapter `谓` will now briefly overview (v.) 概述；简述.
+
+[.my2]
+第一章探讨了美国律师的“软件”（即持有美国执照的法律从业者的思维运作模式）。相比之下，本章将从美国律师与法律体系, 这一“软件”的概念组成部分入手，剖析其对应的“硬件”。具体而言，这一硬件部分, 建立在美国法律基础设施中的成文法之上，本章接下来将对其进行简要概述。
+
+=== _Common Law_ 普通法 Versus （比较两种不同想法、选择等）与……相对（比） Other _Domestic Laws_ 国内法
+
+
+American law is based on _common law_ 普通法(一种以法官判例为基础的法律体系) from the United Kingdom /as one of its core legal pillars 核心法律支柱 (which is then buttressed (v.) 支撑；加固;扶壁 by, among other sources 除其他来源外, the U.S. Constitution 美国宪法, court cases 法庭判例, statutes 成文法规, restatements 法律重述,再次声明, decrees 法令；政令, treatises 专著；论述, and various (a.) 各种各样的；迥异的 other rules and regulations 规章制度).
+
+[.my2]
+**美国法律**以**源自英国的"普通法"**为核心法律支柱之一，*同时还以美国宪法、法庭判例、成文法规、法律重述、法令、专著, 以及各类规章制度等, 作为补充支撑。*
+
+[.my1]
+.案例
+====
+.Restatement (法律重述)
+
+*##Restatements of the Law（法律重述）##是指由美国法律协会 (American Law Institute, ALI) #组织著名法学教授、法官和律师, 撰写的一系列有影响力的、权威性的书籍。#*
+
+
+含义： *##Restatements 不是法律本身，而是对特定领域（如合同法、侵权法、财产法等）的"判例法" (Common Law) 规则的权威性、系统性的总结和阐述。##它们旨在澄清和简化美国各州"判例法"中发现的规则。*
+
+作用： **#它们试图说明“最好的规则”（即多数州正在使用的规则或被认为最有道理的规则），#**而不是简单列出所有州的规则。*它们对法院不具有约束力，但由于其作者的权威性和专业性，法官在审理案件时经常将其视为极具说服力的次级权威 (Secondary Authority)。如果法院采纳了 Restatement 中的某条规则，那么这条规则就会成为该辖区的判例法 (Case Law)。*
+
+
+- 与判例法 (Common Law) 的关系： #*"Common Law 判例法"是法院在具体案件中做出的裁决；Restatements 是对这些裁决背后规则的总结和提炼。*#
+
+- 与法规 (Statutes) 的关系： 法规是立法机关（如国会或州议会）制定和通过的成文法，具有法律约束力；Restatements 是私营组织撰写的说服性著作。
+
+.Decree (判决令/法令)
+
+*Decrees（判决令或法令）通常是指由法院（特别是衡平法院或联邦法院）或行政机构, 签发或发布的具有法律效力的正式命令。*
+
+
+含义： 在法律语境中，**"Decree" 最常见的意思, 是法院的最终裁决或命令，尤其是在"衡平法" (Equity) 领域（如离婚、禁令）。它要求或禁止某方做某事，具有法律约束力，违反它可能导致藐视法庭。**例如，Consent Decree（同意令/和解法令）是政府机构与当事方达成的和解协议，经法院批准后生效。
+
+作用： 它们是强制执行的法律命令，用于解决特定的法律争议，确定当事人的权利和义务，或实施特定的救济措施。
+
+
+- 它与法院案例 (Court Cases) 的关系： Decree 是法院判决的结果或最终命令，是判例法的一部分，但它比法院的意见 (Opinion) 更侧重于强制性的执行或救济。
+
+- 它与法规 (Statutes) 的关系： *法规是普遍适用的规则，由立法机关制定；Decree 是针对特定当事人和特定案件的命令，由司法机关（或授权的行政机构）发布。*
+
+- 它与行政规则 (Regulations) 的关系： **Administrative Decree（行政法令）是行政机构在其权限内发布的命令，**与行政法规 (Regulations) 类似，都是行政法的一部分，但 Decree 通常更侧重于特定行动的命令。
+
+[.my3]
+[options="autowidth" cols="1a,1a,1a,1a"]
+|===
+|来源 (Source)|制定/发布者 (Issuer)|性质 (Nature)|约束力 (Binding Power)
+
+|U.S. Constitution|制宪会议/人民|国家的最高根本法|最高约束力，优于一切法律
+|Statutes (法规)|立法机关 (国会/州议会)|普遍适用的成文法|法律约束力 (在宪法之下)
+|Court Cases (判例法)|司法机关 (法院)|对特定事实的裁决和法律解释|法律约束力 (遵循先例原则)
+|Restatements|美国法律协会 (ALI)|对判例法的权威性总结|说服性 (法院采纳后具约束力)
+|Decrees (判决令)|司法机关/行政机构|针对特定案件的强制性命令|法律约束力 (针对特定当事人)
+|Treatises (专著)|法律学者|对法律主题的深度学术分析|说服性 (次级权威)
+|===
+
+我将用一个虚构的交通意外案例，来通俗易懂地比较美国法律体系中的几个核心法律来源是如何共同作用的。
+
+在这个例子中，假设有一位卡车司机（简称“司机”）在州际公路上开车时，因边看手机边开车而撞上了另一辆小轿车（简称“受害者”）。
+
+[.my3]
+[options="autowidth" cols="1a,1a,1a,1a"]
+|===
+|法律来源|制定者/来源|具体例子/应用|扮演的角色
+
+|U.S. Constitution (美国宪法)|人民/制宪会议|司机被州警察逮捕。他援引宪法第四修正案，主张警方在搜查他的卡车以获取手机使用证据时，必须有合理理由 (Probable Cause)。|最高法则：设定政府权力（包括警察和法院）的基本界限和公民的基本权利。
+
+|Statutes (法规/成文法)|立法机关 (州议会)|州议会通过了《禁止分心驾驶法》，规定在驾驶重型车辆时使用手持电子设备, 属于违法行为，并设定了罚款和吊销执照的处罚。|普遍规则：设立明确、普遍适用的规则和惩罚。这个是司机被罚款的直接依据。
+
+|Court Cases (判例法/普通法)|司法机关 (法院)|州最高法院在三年前的 Smith v. Jones 案中裁定，在确定过失时，驾驶员如果违反了《禁止分心驾驶法》，则构成疏忽本身 (Negligence Per Se)。|先例：解释和应用成文法，*并在没有"成文法"的地方, 建立新规则*（如“过失”的定义）。
+
+|Restatements (法律重述)|美国法律协会 (ALI)|受害者律师引用《侵权法重述（第三版）》中的某一条款，该条款总结了美国大多数州法院关于“分心驾驶即构成过失”的判例规则。|次级权威/澄清：*帮助法官和律师理解和总结分散的判例法规则，说服法院采纳“最佳”的法律原则。*
+
+|Decrees (判决令/法令)|司法机关 (法院)|*案件审理后，法官签发禁令 (Injunction)，要求司机立即停止驾驶重型车辆，直到他通过重新培训和心理评估。*|强制执行命令：*针对特定当事人（司机）和特定案件的最终、具有强制力的命令。*
+
+|Regulations (行政法规)|行政机构 (交通部)|"州交通部"发布了关于卡车司机休息时间、车辆维护的具体行政规则，规定了卡车必须安装特定的免提设备。|具体实施细则：*将立法机关笼统的法规，转换为细节丰富、可操作的规则。*
+|===
+
+
+想象一下法律体系是一座房子：
+
+- 美国宪法 (Constitution) 是地基：它决定了这座房子能建多高，以及谁有权进入。
+
+- 法规 (Statutes) 是房子的主体结构：它们建立了墙壁、房间和布局，规定了大部分生活规则（如禁止偷窃、禁止分心驾驶）。
+
+- *判例法 (Court Cases) 是房子的内部装饰和装修：法院不断地解释和定义法规的含义，并填补法规没有涵盖的空白。*
+
+- **法律重述 (Restatements) 是建筑师手册：它不是房子本身的一部分，但它是最权威的专家对“最好的装修和建筑方法”的总结，**法官和律师会经常参考它。
+
+- 判决令 (Decrees) 是房子的维修通知书：法官发布给特定居民（当事人），要求他们做或不做某事，以修复或解决特定的问题。
+
+====
+
+Common law follows the principle 原则 of _stare 凝视，盯着看 decisis_ 遵循先例原则 (Latin 拉丁语, meaning “*stand (v.) by your decision* (决定，抉择；判决，裁定) 坚持你的决定”).  +
+
+_Stare decisis_ is a legal principle 法律原则  *stating (v.) 说明；叙述 that* `主` prior 先前的 court decisions 法院判决 (e.g., holdings 判决要点, conclusions 结论, rulings 裁定) `谓` must *be recognized as* _precedent case_ law 先例判例法.
+
+If a case is deemed 被认为；被视为 a _precedent case_ 判例, then lower courts 下级法院 are compelled 被迫；必须 to rule (v.) 裁决 *in the same way 与……一样；像……一样 as* _the precedent case_.
+This applies (v.)适用 *only if* 只有在……的情况下才能 _the precedent case_ is binding (a.)(协议，承诺）有约束力的，必须遵守的 or mandatory (a.)强制性的，义务的.
+
+`主` The rationale (n.)<正式>根本原因，逻辑依据;基本原理；理由 for _stare decisis_ 先例约束 and _precedent (a.n.)先例，前例;在先的，前面的 cases_ `系` is ① judicial efficiency 司法效率, ② fairness 公平 to the parties 当事人, ③ predictability 可预见性, ④ and a _check and balance_ 制衡机制 on _arbitrary behavior_ 任意行为；武断行为.
+
+[.my2]
+##**"普通法"遵循“遵循先例”原则，**##该原则的拉丁语表述意为“恪守己决”。##**这一法律原则规定，法院先前做出的判决（如判决要点、结论、裁定）必须被视为"先例判例法"。若某一案件被认定为"先例案件"，那么下级法院就必须做出与"先例案件"相同的裁决，但这仅适用于"该先例案件具备约束力或强制性"的情况。**##遵循先例原则, 及先例案件的存在，**#是为了保障#**司法效率、维护当事人权益、##**提升判决的可预见性，并对"司法武断行为"形成制衡。**##
+
+[.my1]
+.案例
+====
+.Stare Decisis
+#*Stare Decisis*# 是一个完整的拉丁语短语，其全称为 stem:[ Stare \ decisis \ et \ non \ quieta \ movere]，*#字面意思是：“坚持已决的事情，不要扰乱已确立的事物”#。*
+
+**它是一个法律原则，要求法院在审理"与以前已判决案件事实相似的案件"时，应当遵循先前法院的裁决。**这正是你所说的“*遵循先例*”的意思。
+
+Decisis 是拉丁语 stem:[ decidere]（意为“决定、解决”）的完成时分词的复数属格形式（或称“已决之事”）。
+
+- Stare (来自 stāre): 动词“站立、坚持”。
+- Decisis (来自 decīsum): 名词“已决之事、裁决”。
+- 所以 Stare  decisis 连在一起，就是“坚持已决之事”的意思。
+
+.Precedent Case (先例案件)
+**先例案件, 是指先前已被法院裁决, 并建立了法律规则的特定案件。**它是载体。
+
+.Precedent Case Law (先例判例法)
+#*先例判例法, 是指从 precedent case 中提炼出来的、具有约束力或说服力的法律规则本身。它是内容。*#
+
+例子： 从 Smith v. Jones 案中提炼出的“分心驾驶构成疏忽本身”的法律规则，就是 precedent case law。
+
+"先例判例法"的核心, 是法院意见中的 ratio decidendi（判决理由，即判决的法律依据, 或核心规则），而不是 obiter dicta（附带意见，即法官在判决中附带的、与裁决结果不直接相关的意见）。即, 只有 ratio decidendi 才具有约束力。
+
+.This applies (v.) *only if* _the precedent case_ is binding (a.) or mandatory (a.).
+
+*这句话的意思是：并非所有"先例"都能约束所有法院。只有当一个先例被视为"有约束力的" (binding) 或"强制性的" (mandatory) 时，下级法院才必须遵循它。*
+
+- #*有约束力的先例 (Binding Precedent)： 也称为"强制性先例"。它指由上级法院或同一法院, 在同一管辖区内作出的裁决。*#
+- **##无约束力的先例 (Non-Binding Precedent)： 也称为"说服性先例" (Persuasive Precedent)。它指由同一级别法院（但不在同一管辖区，如另一个州的法院）或下级法院, 作出的裁决。##下级法院或平级法院可以参考它，但不必遵循它。**
+
+原因 (The Rationale): +
+为什么必须要有这个限制？原因在于法院的"层级结构"和"地域管辖"：
+
+- 法院层级结构 (Judicial Hierarchy)：
+.. 原因： 这是为了维护法律体系的统一性和权威性。#*上级法院的裁决, 代表着其管辖区内对法律的最终解释。如果下级法院可以"自由否决"上级法院的裁决，那么法律体系将陷入混乱。*#
+.. 例子： *"联邦上诉法院" (Circuit Court) 的裁决, 对该巡回区内的所有"联邦地方法院" (District Court) 具有约束力。*
+
+- 地域管辖 (Jurisdiction)：
+.. 原因： #*即使是最高法院（如"州最高法院"），其判决也只对其本州内的法院具有约束力。一个州没有权力为另一个州制定法律。*#
+.. 例子： 加利福尼亚州"最高法院"的判决, 对德克萨斯州的所有法院来说，只是"说服性先例"，不具有"强制约束力"。
+
+##**因此，Stare decisis 原则不是一个绝对的命令，而是一个受制于"法院等级"和"地域管辖"的原则。**##它确保了在保持法律的"公平性"、"可预测性"和"效率"的同时，也尊重了联邦制和司法体系的结构。
+
+
+====
+
+
+
+In _common law_ 英美普通法系,习惯法 countries, `主` juries 陪审团 and _oral arguments_ 口头辩论 by lawyers `谓` often can *take a greater or more visible role* 更重要或更显著的作用 *compared to* 与（某事物）相比 in _civil law_ 欧陆法系,大陆法系,民法学 countries 大陆法系国家 (which may not have _jury trials_ 陪审团审判), in which `主` the judge 法官 `谓` can *play a more central 核心的 and prominent 突出的,重要的，著名的 role* (of course 当然, *exceptions 例外 can exist* (v.) ).
+
+[.my2]
+#*在"普通法系"国家，律师参与的"陪审团制度"与"口头辩论", 往往会发挥更重要或更显著的作用；而在"大陆法系"国家（这类国家可能没有"陪审团审判制度"），法官的角色则更为核心和突出*#（当然，也存在例外情况）。
+
+`主` Examples of jurisdictions 司法管辖区 that use (v.) the common law system `谓` include (v.) the following:
+
+- United Kingdom except 除……外，不包括 Scotland
+- United States except Louisiana
+- Ireland
+- Former British colony 前英国殖民地 and/or Commonwealth （用于某些政治上相互有联系的国家集团的名称）联合体 territories/countries 英联邦领土/国家, including India except Goa 果阿（印度邦名）, Australia, New Zealand, Singapore, and Canada except Quebec
+- Pakistan
+- Bangladesh  孟加拉国
+
+[.my2]
+**#采用"普通法系"#**的司法管辖区, 示例如下： +
+- *#英国（苏格兰地区除外）#* +
+- #*美国（路易斯安那州除外）*# +
+- 爱尔兰 +
+- #*前英国殖民地及/或英联邦领土/国家*#，包括印度（果阿地区除外）、澳大利亚、新西兰、新加坡、加拿大（魁北克省除外） +
+- 巴基斯坦 +
+- 孟加拉国 +
+
+[.my1]
+.案例
+====
+路易斯安那州 (Louisiana)、苏格兰 (Scotland) 和魁北克 (Quebec) 不主要施行普通法系 (Common Law)，是因为它们在历史上曾受欧陆法系 (Civil Law) 或罗马法 (Roman Law) 的深刻影响。
+
+这三个地区施行的法律体系, 通常被称为"混合法系" (Mixed Legal Systems)，它们将"欧陆法系"（尤其是私法领域）的特点, 与周围地区的"普通法系"（通常是公法和刑法）结合在一起。
+
+[.my3]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|Louisiana :
+|**在加入美国联邦之前，路易斯安那州曾是法国和西班牙的殖民地。法国在拿破仑时期颁布了著名的《法国民法典》（拿破仑法典），**这是欧陆法系的典范。路易斯安那州沿用了基于法国和西班牙传统（都属于欧陆法系）的《路易斯安那民法典》。
+
+混合之处：
+
+- 其民事私法（如财产、合同）遵循法典模式（欧陆法系）。 +
+- 但其公法（如宪法、刑法、诉讼程序）受到美国联邦的影响，遵循普通法系原则。
+
+|Quebec
+|**魁北克是加拿大唯一曾是法国殖民地的省份，**直到 1763 年英国统治该地区。 +
+为了保护当地法国居民的文化和法律传统，英国在 1774 年通过《魁北克法案》，允许他们在私法领域继续沿用法国欧陆法系。 +
+**魁北克拥有自己的《魁北克民法典》，**这是受法国法典启发的。
+
+混合之处：
+
+- 私法（如合同、继承、物权）基于《魁北克民法典》（欧陆法系）。
+- 公法、刑法、以及联邦层级的法律, 则基于加拿大联邦的"普通法系"。
+
+|Scotland
+|苏格兰与欧洲大陆（尤其是法国和荷兰）的法律学者有着更紧密的联系，因此其法律受到了罗马法的强烈影响。 +
+与英格兰相比，苏格兰更早地将法律原则, 系统化地写成法学著作，而不是完全依赖法院的判例。
+
+混合之处：
+
+- 苏格兰的私法, 根源于罗马法和欧陆法系的法学著作。
+- 然而，由于其地理位置, 和与英格兰在政治上的结合，苏格兰的刑法、证据法、公司法, 以及诉讼程序等许多方面, 受到了"普通法系"的强烈影响。
+|===
+
+====
+
+In contrast 相反地,相比之下, generally under civil law 大陆法 (derived from 源自 the French-German legal tradition 法德法律传统), `主` statutes 成文法 and other similar legal sources `谓` represent (v.) relatively 相当地，相对地 greater _legal authority_ 法律权威 *than* does (v.) _case law_ 案例法.
+
+Under civil law 大陆法系, *neither* precedent cases *nor* _stare decisis_  遵循先例原则 exist (v.).  `主` The rationale 根本原因，逻辑依据 for this `系` is greater judicial freedom 司法自主权 to decide (v.) cases _on a case-by-case 具体分析；个例 basis_ (基础，要素) 逐案审理.
+
+Some people *argue* 主张；认为, however, *that* /`主` this system `谓` may come (v.) *at the cost of* 以……为代价 less ① _predictability_ (n.) 可预测性；可预言 and ② _consistency_ 一致性 regarding 关于，至于 _case law_ 判例法,案例法 conclusions (with similar legal issues 法律问题 and/or facts 事实).
+
+[.my2]
+相比之下，**在"大陆法系"（源自"法,德"法律传统）下，成文法规, 及其他类似法律渊源, 通常比"判例法"具有更高的法律权威。#"大陆法系"既不存在"先例案件"，也不遵循“遵循先例”原则，其设计初衷是赋予法官更大的司法自主权，以便对案件进行逐案审理。#**不过，也有人认为，#*这种制度可能会导致同类法律问题及事实的判例结论, 缺乏"可预见性"与"一致性"。*#
+
+
+[.my1]
+.案例
+====
+.`主` The rationale for this `系` is _greater judicial freedom_ 后定说明 to decide (v.) ) cases _on a case-by-case basis_.
+
+这句话的意思是：欧陆法系赋予法官更大的自由，可以根据每个案件的具体情况来做出裁决。
+
+欧陆法系不存在强制的先例约束： #*由于欧陆法系不承认 stare decisis（遵循先例）原则，下级法院的法官在审理案件时，不必像"普通法系"那样，必须遵循"上级法院"在类似案件中的判决。*#
+欧陆法系中，法官的首要任务, 是直接将法典 (Codes) 和成文法 (Statutes) 适用于眼前的事实。
+
+- 其优点是:
+这使得法官能够更灵活，**避免被过时的或僵硬的先例所束缚。** (换言之, 自由裁量权太大, 容易故意制造冤案.)
+
+- 但其缺点就是这句话:  this system may come (v.)  *at the cost of* _less predictability and consistency_ regarding _case law conclusions_ (with _similar legal issues and/or facts_). +
+*这种制度的代价是，对于案情和法律问题相似的案件，其判决结果的"可预测性"和"一致性"可能会降低。*
+
+[.my3]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|可预测性 (Predictability) 下降：
+|- 在普通法系中，律师可以查阅先例，几乎能预测法官在类似案件中会如何裁决，从而指导当事人是否和解或打官司。
+- **在欧陆法系中，由于法官的自由度高，且不强制遵循先例，**律师更难向当事人保证一个案件的最终结果。*法官可能在几乎相同的案件中, 做出不同的判决。*
+
+|一致性 (Consistency) 下降：
+|##**缺乏 stare decisis 原则，可能导致不同法官, 在处理相同法律问题时, 采取不同的解释, 和适用方式。**##这使得法律规则的适用标准, 在不同的法院和不同的时间, 可能不统一，从而损害了"法律面前人人平"等的感知（尽管实际上他们都依照法典判案）。
+|===
+
+====
+
+
+`主` Examples of jurisdictions 司法管辖区；行政辖区 that use (v.) the civil law system `谓` include the following:
+
+- Most European Union (EU) nations 欧盟成员国, including Germany and France /where civil law was derived 起源地, but not the United Kingdom, Ireland, or Cyprus
+- Most of continental Latin America 拉丁美洲大陆 except Guyana and Belize
+- Congo
+- Azerbaijan
+- Iraq
+- Russia
+- Turkey
+- Egypt
+- Madagascar 马达加斯加岛（非洲岛国）
+- Lebanon
+- Switzerland
+- Indonesia
+- Vietnam
+- Thailand
+
+[.my2]
+##**采用"大陆法系"**##的司法管辖区示例如下： +
+- ##**大多数欧盟成员国，包括"大陆法系"的起源地德国和法国，**##但不包括英国、爱尔兰和塞浦路斯 +
+- 拉丁美洲大陆的大部分地区（圭亚那和伯利兹除外） +
+- 刚果 +
+- 阿塞拜疆 +
+- 伊拉克 +
+- 俄罗斯 +
+- 土耳其 +
+- 埃及 +
+- 马达加斯加 +
+- 黎巴嫩 +
+- 瑞士 +
+- 印度尼西亚 +
+- 越南 +
+- 泰国 +
+
+
+
+image:/img/004.png[,100%]
+
+`主` The factors 因素 used (v.) in determining (v.) 判定 whether to apply (v.) _stare decisis_ `谓` include the following:
+
+- Similarity 相似性 of legal issue(s)/legal principle(s) 法律问题/法律原则
+- Whether the _precedent case_ was ruled (v.) on by a court *recognized as* a leading one 主导法院 in the relevant 有关的，切题的 subject area 相关法律领域
+- Whether the _precedent case_ was well-reasoned 论证充分的 and articulated 清晰阐述的;铰接式的；清晰的；组织缜密的；有关节的 (in the court’s _legal opinion_ 法院法律意见书)
+- Whether the _precedent case_ was issued 由……作出 from a court /in the same jurisdiction 同一司法管辖区
+- Whether the _precedent case_ was issued from a higher-level court 上级法院
+
+[.my2]
+*判定是否适用“遵循先例”原则, 需考量以下因素：* +
+- *法律问题/法律原则的相似性* +
+- *作出"先例判决"的法院, 是否为相关法律领域内公认的主导法院* +
+- "先例案件"的判决（体现在法院法律意见书中）, *是否论证充分、阐述清晰* +
+- "先例案件"*是否由同一司法管辖区的法院作出* +
+- "先例案件"*是否由"上级法院"作出* +
+
+
+
+Although these factors 因素 are often considered to determine 判定 whether a case is a precedent case 先例案件, thus representing 代表 a binding 有约束力的 and mandatory 强制性的 legal source 法律渊源, a court may not be required to follow:
+
+- Secondary legal sources 次级法律渊源 (i.e., nonprecedent cases 非先例案件, not related to 与……无关 the U.S. Constitution 美国宪法, and the like 诸如此类；等等; see the following paragraph 段落 for further specifics 进一步的细节)
+- Cases that do not align with 与……一致 these factors to determine the precedential value 先例效力 of a case
+
+[.my2]
+尽管法院通常会参考这些因素, 来判定某一案件是否构成"先例案件"（进而成为具有约束力和强制性的法律渊源），*但对于以下两类内容，法院并无遵循的义务：* +
+- 次级法律渊源（即"非先例案件"、与美国宪法无关的法律文件等；具体内容详见下一段） +
+- 不符合这些"先例效力判定因素"的案件 +
+
+Two main types 类型 of legal sources exist in American law: primary 主要的 and secondary 次要的；次级的.
+
+[.my2]
+*美国法律体系中, 存在两类主要的法律渊源，即"主要法律渊源"与"次级法律渊源"。*
+
+. Primary legal sources include the following:
+
+.. U.S. Constitution 美国宪法
+.. Statutes 成文法规
+.. Rules, regulations 规章, and orders 命令
+.. Executive orders 行政命令 and proclamations 公告
+.. Case law 判例法
+
+[.my2]
+主要法律渊源, 包括以下内容：
+- 美国宪法
+- 成文法规
+- 规则、规章与命令
+- 行政命令与公告
+- 判例法
+
+. Secondary legal sources include the following:
+
+.. Treatises 专著；论述
+.. Restatements 法律重述
+.. Law review journals 法律评论期刊
+.. American Law Reports 美国法律报告
+.. Hornbooks 法律基础教材
+.. Legal encyclopedias 法律百科全书
+
+[.my2]
+次级法律渊源, 包括以下内容：
+- 法律专著
+- 法律重述
+- 法律评论期刊
+- 美国法律报告
+- 法律基础教材
+- 法律百科全书
+
+A general hierarchy 层级；体系 also exists in which federal legal sources 联邦法律渊源 are weighed more heavily 被更优先考量 than state legal sources 州法律渊源:
+
+[.my2]
+美国法律渊源, 还存在一个通用的层级体系，在这一体系中，*"联邦法律渊源"的优先级, 高于"州法律渊源"*：
+
+. Federal Legal Sources 联邦法律渊源
+
+.. U.S. Constitution 美国宪法
+.. Federal statutes 联邦成文法规 and treaties 条约
+.. Federal rules and regulations 联邦规则与规章
+.. Federal cases 联邦法院判例
+
+[.my2]
+联邦法律渊源：
+- 美国宪法
+- 联邦成文法规与条约
+- 联邦规则与规章
+- 联邦法院判例
+
+. State Legal Sources 州法律渊源
+
+.. State constitutions 州宪法
+.. State statutes 州成文法规
+.. State rules and regulations 州规则与规章
+.. State law cases 州法院判例
+
+[.my2]
+州法律渊源：
+- 州宪法
+- 州成文法规
+- 州规则与规章
+- 州法院判例
+
+From this list, two interesting points arise 浮现；产生: (1) the U.S. Constitution represents the supreme law of the land 本国最高法律, and (2) a federal supremacy rule 联邦至上原则 applies 适用. This means that federal sources are generally higher than state sources in the legal source hierarchy. This is important to know for both academics 学术界人士 and practitioners 从业者 to determine what legal source should be given greater weight 被赋予更高权重 relative to 相较于 others, which can help in the legal strategy 法律策略 process.
+
+[.my2]
+从这份清单中, 可以得出两个值得关注的结论：其一，美国宪法是本国的最高法律；其二，"联邦至上原则"同样适用。这意味着在法律渊源的层级体系中，"联邦法律渊源"的效力通常高于"州法律渊源"。了解这一点, 对学术界人士和法律从业者都至关重要，他们可以据此判断不同法律渊源的优先适用顺序，进而助力"法律策略"的制定。
+
+=== State Law 州法
+
+Although the United States is one country, from a legal perspective 从法律角度而言, each individual state 各个州 within it has a certain level of discretion 自主权；裁量权 to determine what types of laws best fit 最适合 that particular state’s set of circumstances 具体情况. The concept 概念 of dualism 二元制, in which sources of law exist dually 双重地 at both the federal and state level, is based in part on the view 观点 that decentralization of power 权力下放 is needed. The intent 目的；初衷 of dualism was to provide greater security 保障 that one central source of authority 中央权力机构 would not become overly powerful 过于集权—as was the case with England 英国的情况 at the time of the founding of the United States 美国建国之初.
+
+[.my2]
+尽管美国是一个统一的国家，但##**从法律角度来看，国内各个州都拥有一定的自主权，可自行判定何种法律最契合本州的具体情况。**##法律渊源兼具"联邦"与"州"两个层面的二元制概念，##**其部分理论依据是“权力需要下放”这一观点。**##二元制的设立初衷，*#是为了进一步保障中央权力机构不会走向"过于集权"的状态#——而这正是美国建国之初, 英国所存在的问题。*
+
+
+
+
+
+
+Furthermore, as Chapter 6 discusses in greater detail regarding Constitutional Law 宪法学，the U.S. Constitution 美国宪法 (the nation’s highest legal authority 最高法律权威) has embedded 嵌入；根植于 in it a concept 概念 known as the enumerated powers doctrine 列举权力原则. In the enumerated powers doctrine, the federal government 联邦政府 has only those powers 权力 expressly 明确地；清楚地 conveyed 赋予；授予 to it under the Constitution (under Article I, Section 8 第一条第八款), with all other remaining powers generally belonging to the states 州.
+
+[.my2]
+此外，正如第六章在宪法学相关内容中会更详细探讨的那样，#*美国宪法（国家最高法律权威）中蕴含着一个名为 “列举权力原则” 的概念。根据该原则，联邦政府仅拥有宪法（第一条第八款）明确赋予它的那些权力，其余所有权力通常归各州所有。*#
+
+Thus, state laws 州法律 are actually much more widely encompassing 涵盖；包含 than many people from non–common law countries 非普通法国家 would expect. With this in mind 考虑到这一点，each specific state’s law can vary 不同；有差异 and be different from other state laws. Although diversity 多样性 exists, many state laws are based on 以…… 为基础 certain standardized laws 标准化法律.
+
+[.my2]
+##**因此，州法律的实际涵盖范围，**##比许多非"普通法"国家的人预期的要广泛得多。考虑到这一点，每个州的具体法律可能各不相同，与其他州的法律存在差异。尽管存在这种多样性，但许多州法律, 都以某些"标准化法律"为基础。
+
+Examples of standardized laws that state law can be based on include the following:
+
+- Restatements of law 法律重述，which are used to provide clarity 清晰度；明确性 on certain law matters 法律事务
+.. Prepared 编写；拟定 by the American Law Institute (ALI) 美国法学会
+.. Represents 代表 secondary (nonprimary) legal source/authority 次级（非主要）法律渊源 / 权威
+
+- Uniform acts/Uniform codes 统一法案 / 统一法典，such as the Uniform Commercial Code 统一商法典，or UCC, relating to 涉及；与…… 相关 contract law 合同法
+.. Drafted 起草；草拟 by the Uniform Law Commissioners 统一法律委员会委员
+.. Body 团体；组织 of lawyers and other legal professionals 法律从业者 whose objective 目标；目的 is to standardize 使标准化 laws across the various U.S. states
+.. Offered as 作为…… 提供 legal models 法律范本，which each state can ratify 批准；认可 in whole or in part 全部或部分
+
+- Model penal code (MPC) 模范刑法典，relating to criminal law matters 刑法事务
+.. Prepared by the ALI, much like 很像；与…… 类似 restatements
+.. Objective of updating 更新 and standardizing penal law 刑法 across the various U.S. states
+.. MPC represents what the ALI deems 认为；视作 as the best rules 规则 for the U.S. penal system 刑法体系
+
+[.my2]
+====
+"州法律"可依据的"标准化法律", 示例如下： +
+法律重述：用于明确某些法律事务的内容 +
+由美国法学会（ALI）编写 +
+属于次级（非主要）法律渊源 / 权威 +
+
+统一法案 / 统一法典：例如与"合同法"相关的《统一商法典》（UCC） +
+*由"统一法律委员会"委员起草* +
+由律师及其他法律从业者组成的团体，其**目标是实现美国各州法律的标准化** +
+作为法律范本提供，各州可全部或部分批准采用 +
+
+模范刑法典（MPC）：与刑法事务相关 +
+与"法律重述"类似，*由"美国法学会"编写* +
+*目标是更新并实现美国各州刑法的标准化* +
+*代表"美国法学会"所认为的, 适用于美国刑法体系的最佳规则* +
+====
+
+Much like 很像；与…… 类似 the dual 双重的 federal-state level 联邦与州层面 of legal sources, a similar dual system 双重体系 of federal-state court systems 联邦与州法院体系 exists. Consistent with 与…… 一致 the principle of federalism 联邦制原则，federal courts 联邦法院 rank higher 等级更高 in the judicial court hierarchy 法院层级体系 relative to 相较于 state courts 州法院.
+
+[.my2]
+与"法律渊源"存在"联邦"与"州"双重层面类似，美国的法院体系, 也存在联邦与州双重体系。*依据联邦制原则，在法院层级体系中，"联邦法院"的等级高于"州法院"。*
+
+image:/img/001.jpg[,%]
+
+The Federal Court hierarchy (from highest to lowest 从高到低) is as follows:
+
+- U.S. Supreme Court 美国最高法院
+- Circuit courts 联邦巡回上诉法院
+- District courts 联邦地区法院
+
+[.my2]
+#*联邦法院层级（从高到低）如下： +
+美国最高法院 +
+联邦巡回上诉法院 +
+联邦地区法院*# +
+
+Federal courts consider 审理；处理 the following legal sources 法律渊源：
+
+- Federal (nonstate) statutory issues 联邦（非州层面）成文法问题
+- Diversity cases 跨州案件，such as cases involving 涉及 parties 当事人 from two different states
+- Cases in which the United States is a party 当事人 as plaintiff 原告 or defendant 被告
+- Other cases as specified by law 法律规定的其他案件 (e.g., admiralty 海事法，antitrust 反托拉斯法，maritime 海商法)
+- Removal jurisdiction cases 移送管辖案件，in which the defendant requests 请求 the case to be heard by 由…… 审理 a federal, rather than 而不是 a state, court in the same district 同一辖区
+
+[.my2]
+"联邦法院"审理的案件类型包括： +
+联邦（非"州"层面）成文法问题相关案件 +
+跨州案件：例如涉及来自两个不同州的当事人的案件 +
+美国作为原告或被告参与的案件 +
+法律规定的其他案件（如海事法、反托拉斯法、海商法相关案件） +
+移送管辖案件：被告请求由同一辖区的联邦法院（而非州法院）审理的案件 +
+
+link:[] The U.S. Supreme Court (USSC) is the highest court 最高法院 in the United States. The U.S. Supreme Court generally hears 审理 cases based on appeal 上诉 (when certiorari 调卷令 —or in plain English 通俗地说，review 复审 —is granted 批准 to review the case). In other words 换句话说，the USSC is only in rare circumstances 极少数情况下 the court of first instance 初审法院 having original jurisdiction 初审管辖权 over a case. Of course, exceptions 例外 exist when an issue 问题 is particularly urgent 紧急的. For instance 例如，the Bush v. Gore (2000) case 布什诉戈尔案（2000 年） was heard by the USSC at first instance because its ruling 裁决 could, in effect 实际上，determine 决定 the outcome 结果 of the 2000 U.S. presidential election 美国总统大选.
+
+[.my2]
+#*美国最高法院（USSC）是美国的最高级别法院。该法院通常审理"上诉案件"*#（当调卷令 —— 通俗地说即"复审" —— 获批对案件进行复审时）。##**换句话说，美国最高法院仅在极少数情况下会作为"初审法院"，**##对案件拥有初审管辖权。**当然，当某一问题特别紧急时，也存在例外情况。例如，2000 年的 “布什诉戈尔案” 便由"美国最高法院"进行初审，**因为该案件的裁决, 实际上可能决定 2000 年美国总统大选的结果。
+
+Below 在…… 之下 the USSC in judicial hierarchy 法院层级体系 are the federal circuit courts 联邦巡回上诉法院. The circuit courts generally hear appeals from 审理来自…… 的上诉 the lower district courts 下级地区法院. Unlike 与…… 不同 the USSC, federal circuit courts have original jurisdiction (court of first instance) over orders 裁决；命令 of certain federal agencies 联邦机构. The federal circuit courts are divided geographically 按地理划分 into 13 circuit courts. Circuit courts numbered from 1 to 13 编号 1 至 13 的巡回法院 encompass 涵盖 all of the states (including Hawaii 夏威夷州), with an additional district 额外辖区 for Washington D.C. (which is a federal territory 联邦直辖区，not a U.S. state), and a federal circuit 联邦巡回法院 for certain specialized matters 特定专业领域事务.
+
+[.my2]
+在法院层级体系中，##**位于"美国最高法院"之下的, 是"联邦巡回上诉法院"。该法院通常审理来自下级"地区法院"的上诉案件。**##与"美国最高法院"不同，##**"联邦巡回上诉法院"对某些联邦机构的裁决, 拥有"初审管辖权"（即作为初审法院）。联邦巡回上诉法, 院按地理区域划分为 13 个。**##编号 1 至 13 的巡回法院, 涵盖了美国所有州（包括夏威夷州），此外还为华盛顿哥伦比亚特区（属于联邦直辖区，非美国的州）设有一个额外辖区，并设有一个专门处理特定专业领域事务的"联邦巡回法院"。
+
+
+image:/img/US_Court_of_Appeals_and_District_Court_map.svg.png[,100%]
+
+
+
+Many cases begin at 始于 the state court level 州法院层面 and, if needed 如有需要，are appealed to 上诉至 the federal level 联邦层面 (except for 除…… 之外 the instances 情况 discussed previously 前文讨论过的), in particular 尤其；特别 when a federal (rather than 而不是 a state) issue arises 出现；产生.
+
+[.my2]
+#*许多案件始于"州法院"层面，如有需要，会上诉至"联邦层面"*#（前文讨论过的情况除外），*尤其是当案件涉及"联邦层面"（而非"州层面"）的问题时。*
+
+
+进一步补充阅读: +
+https://opened.cuny.edu/courseware/lesson/277/student/?section=2
+
+
+
+=== State Courts
+
+Most state court systems replicate 复制；模仿 the federal court system. Some state courts have three levels of hierarchy 等级制度；层级体系, whereas 然而；鉴于 other state courts have two levels of hierarchy. Regardless 无论如何；不管怎样, each state court has its own rules of procedure 程序；手续 and set of practices 惯例；做法.
+
+[.my2]
+##**大多数"州法院系统"都效仿"联邦法院系统"。一些"州法院"分为三级层级体系，而另一些"州法院"则为两级层级体系。**##无论层级设置如何，各州法院均有自己的诉讼程序规则, 和惯例体系。
+
+With a three-level state court system, the hierarchy is typically 通常；典型地 the following:
+
+[.my2]
+*三级"州法院系统"的层级设置, 通常如下：*
+
+- State Supreme Court: Hears 审理；听取 appeals 上诉 from state intermediate 中级的 court
+- State court of appeals: Hears appeals from lower trial 审判的 court
+- State trial court: Conducts 开展；实施 fact-finding 事实认定 as well as ruling 裁决；裁定 on the legal issue(s) presented 提出的
+
+[.my2]
+- **州最高法院：**审理来自"州中级法院"的上诉案件
+- **州上诉法院：**审理来自"下级初审法院"的上诉案件
+- **州初审法院：**开展事实认定工作，并就提交的法律争议, 作出裁决
+
+State courts usually can review 审查；复审 almost any case, but exceptions 例外 exist, such as where jurisdiction 管辖权；审判权 is precluded 排除；阻止 by (1) federal statute 成文法；法规; (2) the U.S. Constitution 宪法; or (3) other legal source 渊源；来源, expressly 明确地；明文地 (e.g., admiralty 海事法；海商法, patent 专利；专利权, copyright 版权；著作权) or implicitly 含蓄地；隐晦地 (e.g., antitrust 反垄断的 damages 赔偿金 and injunction 禁令；强制令).
+
+[.my2]
+*州法院通常可以审理几乎所有类型的案件，但也存在例外情况，例如当管辖权被以下情形排除时：*（1）联邦成文法；（2）美国宪法；（3）其他法律渊源，包括明文规定的渊源（如海事法、专利法、版权法相关规定）或隐含的渊源（如反垄断损害赔偿与禁令相关规定）。
+
+=== American Judicial System
+
+The United States has three branches 分支；部门 of government: (1) the legislative 立法的 branch (the Congress, which is composed of 由……组成 the Senate 参议院 and House of Representatives 众议院); (2) the executive 行政的 branch (including the U.S. President), and (3) the judicial 司法的 branch (including the USSC and other courts). The three branches of government are based on the concept 理念；概念 of checks and balances 制衡原则, so that each branch of government does not become too powerful relative to 相对于 the other two branches.
+
+[.my2]
+美国政府分为三个分支：（1）立法分支（即国会，由参议院和众议院组成）；（2）行政分支（包括美国总统）；（3）司法分支（包括美国最高法院, 及其他各级法院）。#*"三权分立"的核心是"制衡原则"，旨在确保三个分支中没有任何一个分支的权力, 凌驾于另外两个分支之上。*#
+
+Related terms 术语 are defined as follows:
+
+[.my2]
+相关术语定义如下：
+
+- Congress: Bicameral 两院制的 institution 机构；体系 that refers to the Senate and the House of Representatives
+
+[.my2]
+国会：由"参议院"和"众议院"组成的"两院制"立法机构
+
+- House of Representatives:
+
+.. Referred to as 被称为；被认为是 the lower house 下议院 (because the legislative process 进程；流程 typically begins here and then proceeds to 推进；进入 the Senate).
+.. The number of Representatives is based on 基于 the population 人口 of each state (thus 因此；因而, the larger and more populated 人口稠密的 states—such as California, Texas, and New York—generally have more Representatives).
+.. House representatives are elected 选举；推选 to two-year terms 任期 and can be reelected 连任；再次当选 continuously 连续地；不间断地.
+
+[.my2]
+====
+#*众议院：*#
+
+.. #*也被称为"下议院"（因为立法程序通常先由"众议院"启动，再提交至"参议院"审议）。*#
+.. *众议员的人数, 依据各州人口数量确定*（因此，加利福尼亚州、得克萨斯州、纽约州等**人口较多的大州，通常拥有更多的"众议员"席位**）。
+.. *众议员任期为两年，可连续连任。*
+====
+
+- Senate:
+
+.. Referred to as the higher chamber 上议院 (because the Senate is the second chamber in the legislative process).
+.. Two senators are elected from each of the 50 states (regardless of 不管；不顾 a state’s population).
+.. Senators are elected to six-year terms with the possibility of 可能性 reelections.
+
+
+[.my2]
+====
+#*参议院：*#
+
+.. #*也被称为"上议院"（因为在立法程序中，参议院是第二个审议机构）。*#
+.. 美国50个州中，#*每个州选举产生两名参议员（与各州人口数量无关）。*#
+.. 参议员**任期为六年，可竞选连任。**
+====
+
+- Government lawyers:
+
+.. Prosecutor 检察官： A government attorney 律师 who prepares and conducts 主持；进行 the prosecution 起诉；检举 of the accused party 被指控方
+.. District Attorney (DA) (or county prosecutor): A government prosecutor representing 代表 a particular state
+.. United States (U.S.) Attorney: A federal prosecutor representing the United States for certain federal districts 辖区；行政区
+
+[.my2]
+====
+政府律师：
+
+.. #*检察官*#：负责准备并##**对"被指控方"提起诉讼 的政府律师。**##
+.. 地区检察官（或县检察官）：代表"特定州"履职的政府检察官。
+.. 联邦检察官：在特定联邦司法辖区, 代表美国政府履职的检察官。
+====
+
+An example of checks and balances in practice 实践中；实际上 could involve an impeachment 弹劾 proceeding 程序；诉讼 against the executive branch. An attempt 尝试；试图 to impeach the U.S. President (executive branch), for instance 例如；比如, would involve the legislative branch placing a check and balance on the executive branch by arguing 主张；争辩, among other things 除其他事项外, that certain actions of the presidency 总统职位；总统职权 allegedly 据称；据说 violated 违反；违背 the U.S. Constitution. The judicial branch (federal courts) can serve as 充当；起……作用 a check and balance if it decides to review the acts of the legislative branch in terms of 依据；按照 constitutionality 合宪性 (i.e., to determine 确定；判定 whether an act by the legislative branch allegedly violated the U.S. Constitution, which all three branches must abide by 遵守；遵循). The federal courts can also review the actions of federal administrative agencies 行政机构. At the same time, the legislative branch (Congress) can review and overrule 推翻；否决 court precedent 先例 under its designated 指定的；规定的 Congressional authority 职权；权限.
+
+[.my2]
+====
+#*"制衡原则"在实践中的一个例子, 是针对行政分支的弹劾程序。*#
+
+- 例如，若要弹劾美国总统（行政分支首脑），#*"立法分支"可通过提出相关主张（如指控总统的某些行为, 涉嫌违反美国宪法等），对"行政分支"形成制衡。*#
+- #*司法分支（联邦法院）若决定依据"合宪性", 来审查"立法分支"的行为*#（##**即判定 立法分支的某项举措, 是否涉嫌违反**##所有分支都必须遵守的##**美国宪法**##），#*也可起到制衡作用。*#
+- #*"联邦法院"还可审查"联邦行政机构"的行为。*#
+- 与此同时，##**立法分支（国会）可**##依据其法定职权，#*审查并推翻"法院的判例"。*#
+====
+
+[.my1]
+.案例
+====
+
+gemini: +
+
+[.small]
+[options="autowidth" cols="1a,1a,1a"]
+|===
+|制衡分支|针对分支|具体制衡手段 (Checks and Balances)
+
+|立法分支 (Congress) ->|行政分支 (Executive)
+|* 弹劾权 (Impeachment Power): #*可弹劾并罢免总统和副总统。*#
+* 批准/否决条约 (Treaty Ratification): #*参议院负责批准"总统签订的条约"。*#
+* 人事批准权 (Confirmation Power): 参议院需**批准总统提名的内阁成员、大使和其他高级行政官员。**
+* 预算与拨款权 (Power of the Purse): 必须通过法律##**对行政部门的行动, 进行拨款。**##
+* 监督与调查 (Oversight and Investigation): #*对行政部门的行为, 进行调查和监督。*#
+* 宣战权 (Declaration of War): *只有国会有"权宣战"。*
+
+|立法分支 (Congress) -> |司法分支 (Judicial)
+|* 宪法修正案 (Constitutional Amendments): #*可提出"宪法修正案"，推翻法院的司法判决*#（例如，推翻关于所得税或公民权的判决）。
+* 创设"下级法院" (Creation of Courts): *可设立"下级联邦法院"。*
+* *确定管辖权* (Jurisdiction): *可限制"最高法院"和"下级法院", 对某些案件的审理权限。*
+* 法官弹劾权 (Judicial Impeachment): *可弹劾并罢免"联邦法官"。*
+* 法官人事批准 (Judicial Confirmation): 参议院需**批准总统提名的"联邦法官"和"最高法院大法官"。**
+
+
+
+
+|行政分支 (Executive) -> |立法分支 (Legislative)
+|* 否决权 (Veto Power): #*总统可否决"国会通过的法案"（但国会可以三分之二多数票, 推翻总统的否决）。*#
+* 召集与休会 (Convene and Adjourn): 总统在特殊情况下, 有权召集"国会"会议，或在两院意见不一时宣布国会休会。
+* 行政命令 (Executive Orders): 总统可发布行政命令, 指导行政部门运作。
+
+|行政分支 (Executive)-> |司法分支 (Judicial)
+|* 法官提名权 (Nomination of Judges): 总统提名联邦法官和最高法院大法官。
+* 特赦权 (Pardon Power): 总统有权对联邦罪行, 给予赦免。
+
+|司法分支 (Judicial) ->
+|立法分支 (Legislative)|* 司法审查权 (Judicial Review): #*可宣布"国会通过的法律违宪"。*#
+
+|司法分支 (Judicial) -> |行政分支 (Executive)
+|* 司法审查权 (Judicial Review): #*可宣布总统或行政部门的行为, 违宪或违法。*#
+* 任期独立 (Independent Tenure): 联邦法官终身任职，不受总统任期影响，保障其独立性。
+|===
+
+
+gemini: +
+我根据您对表格的定制要求（使用 AsciiDoc 格式）以及给出宪法或法律原文的要求，对之前提供的“美国三权分立：互相制衡手段一览”进行补充，给出各项"制衡权力"最直接的美国宪法 (U.S. Constitution) 依据。
+
+请注意：有些制衡手段（如“司法审查权”）是基于"宪法精神"和"早期法院判例"（如 Marbury v. Madison, 1803）确立的，宪法原文中没有直接的语句明确写出“法院可以宣布'法律违宪'”。 +
+此外，“监督与调查”这类权力, 是国会基于其"立法权"延伸出来的固有权力，也无单一宪法条款囊括。
+
+
+
+
+美国三权分立：互相制衡手段与宪法依据
+
+由于您提供的制衡手段, 几乎全部源自**《美国宪法》的正文条款**（Articles and Sections），而不是具体的国会法案（Statutes at Large），我将按照您的要求，在“宪法/法条依据”一栏中，将法律文件的名称明确为 U.S. Constitution (1787)，以提高信息的完整性和准确性。
+
+[.my3]
+[cols="1,1,2,3", options="header"]
+|===
+|制衡分支 |针对分支 |具体制衡手段 (Checks and Balances) |宪法/法条依据 (Source)
+
+
+|立法分支 (Congress) |行政分支 (Executive) |* 弹劾权 (Impeachment Power): 可弹劾并罢免总统和副总统。 |* 英文原文： The House of Representatives... shall have the sole Power of Impeachment. The Senate shall have the sole Power to try all Impeachments... (U.S. Constitution (1787), Article I, Section 2, Clause 5; Article I, Section 3, Clause 6)
+
+中文翻译： 众议院……享有弹劾权。参议院享有审理一切弹劾案的权力……
+
+| | |* 批准/否决条约 (Treaty Ratification): 参议院负责批准总统签订的条约。 |* 英文原文： He shall have Power, by and with the Advice and Consent of the Senate, to make Treaties, provided two thirds of the Senators present concur... (U.S. Constitution (1787), Article II, Section 2, Clause 2)
+
+中文翻译： 他（总统）有权，经过并获得参议院的建议和同意，缔结条约，但须经出席参议员三分之二的同意……
+
+| | |* 人事批准权 (Confirmation Power): 参议院需批准总统提名的内阁成员、大使和其他高级行政官员。 |* 英文原文： He shall nominate, and by and with the Advice and Consent of the Senate, shall appoint Ambassadors, other public Ministers and Consuls, Judges of the supreme Court, and all other Officers of the United States... (U.S. Constitution (1787), Article II, Section 2, Clause 2)
+
+中文翻译： 他（总统）应提名，并经过并获得参议院的建议和同意，任命大使、其他公使和领事、最高法院法官，以及合众国所有其他官员……
+
+| | |* 预算与拨款权 (Power of the Purse): 必须通过法律对行政部门的行动进行拨款。 |* 英文原文： No money shall be drawn from the Treasury, but in Consequence of Appropriations made by Law... (U.S. Constitution (1787), Article I, Section 9, Clause 7)
+
+中文翻译： 非经法律拨款，不得从国库中支取任何款项……
+
+|立法分支 (Congress) |司法分支 (Judicial) |* 宪法修正案 (Constitutional Amendments): 可提出修正案，推翻法院对宪法的解释判决。 |* 英文原文： The Congress, whenever two thirds of both Houses shall deem it necessary, shall propose Amendments to this Constitution... (U.S. Constitution (1787), Article V)
+
+中文翻译： 国会遇两院三分之二议员认为必要时，应提出本宪法的修正案……
+
+| | |* 创设下级法院 (Creation of Courts): 可设立下级联邦法院。 |* 英文原文： The judicial Power of the United States, shall be vested in one supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish. (U.S. Constitution (1787), Article III, Section 1)
+
+中文翻译： 合众国的司法权，属于一个最高法院，以及国会可随时规定设立的下级法院。
+
+| | |* 法官弹劾权 (Judicial Impeachment): 可弹劾并罢免联邦法官。 |* 英文原文： (Applicable to all Civil Officers, including judges): The President, Vice President and all civil Officers of the United States, shall be removed from Office on Impeachment for, and Conviction of, Treason, Bribery, or other high Crimes and Misdemeanors. (U.S. Constitution (1787), Article II, Section 4)
+
+中文翻译： 总统、副总统和合众国所有文职官员，因叛国、贿赂，或其它重罪和轻罪而被弹劾并定罪时，应予免职。
+
+|行政分支 (Executive) |立法分支 (Legislative) |* 否决权 (Veto Power): 总统可否决国会通过的法案（国会可推翻）。 |* 英文原文： Every Bill which shall have passed the House of Representatives and the Senate, shall, before it become a Law, be presented to the President of the United States... If after such Reconsideration two thirds of that House shall agree to pass the Bill... it shall become a Law. (U.S. Constitution (1787), Article I, Section 7, Clause 2)
+
+中文翻译： 凡经众议院和参议院通过的法案，在成为法律前，应呈交合众国总统……该院在复议后，如三分之二的议员同意通过该法案……该法案即成为法律。
+
+|行政分支 (Executive) |司法分支 (Judicial) |* 法官提名权 (Nomination of Judges): 总统提名联邦法官和最高法院大法官。 |* 英文原文： He shall nominate, and by and with the Advice and Consent of the Senate, shall appoint... Judges of the supreme Court... (U.S. Constitution (1787), Article II, Section 2, Clause 2)
+
+中文翻译： 他（总统）应提名，并经过并获得参议院的建议和同意，任命……最高法院法官……
+
+| | |* 特赦权 (Pardon Power): 总统有权对联邦罪行给予赦免。 |* 英文原文： He shall have Power to grant Reprieves and Pardons for Offences against the United States, except in Cases of Impeachment. (U.S. Constitution (1787), Article II, Section 2, Clause 1)
+
+中文翻译： 除弹劾案外，他对合众国的一切犯罪有权颁赐缓刑和赦免。
+
+|司法分支 (Judicial) |立法分支 (Legislative) |* 司法审查权 (Judicial Review): 可宣布国会通过的法律违宪。 |* 英文依据： 宪法没有直接列出此条权力，它通过司法解释确立。权力基础源于宪法： This Constitution, and the Laws of the United States which shall be made in Pursuance thereof... shall be the supreme Law of the Land... (U.S. Constitution (1787), Article VI, Clause 2)
+
+中文翻译： 本宪法和依本宪法所制定之合众国法律……应为全国的最高法律…… *（注：此权力在 Marbury v. Madison (1803) 判例中确立，源于宪法至上原则。）
+
+|司法分支 (Judicial) |行政分支 (Executive) |* 司法审查权 (Judicial Review): 可宣布总统或行政部门的行为违宪或违法。 |* 宪法依据： 与针对立法分支的司法审查权基础相同，源于宪法至上原则（U.S. Constitution (1787), Article VI, Clause 2）和司法分支解释法律的职能。
+
+中文翻译： （同上） *（注：法院通过审查行政部门是否超越宪法或国会授予的权力范围，来行使此制衡。）
+
+|===
+
+补充说明：国会推翻法院判例的宪法基础
+您之前问到的：国会能够推翻法院判例的权力。
+
+推翻法律解释的判例（Statutory Precedent）： 这种制衡的依据是国会拥有立法权（Article I, Section 1: All legislative Powers herein granted shall be vested in a Congress...）。法院解释的是国会的法律，只要不涉及违宪，国会就可以通过新的立法来“纠正”法院的解释，从而使判例失效。
+
+推翻宪法解释的判例（Constitutional Precedent）： 唯一的直接方式是依据**《美国宪法》第五条规定的修宪程序**，如表格所示。
+
+
+
+====
+
+
+
+The American legal system can appear diverse 多样的；形形色色的 and complex 复杂的；错综复杂的. With the overview 概述；总览 provided in this chapter, it is hoped that readers have a better understanding and greater clarity 清晰度；明确性 regarding 关于；至于 the hardware 硬件；基础设施 of American law. This understanding of the American legal infrastructure 基础架构；体系 will help, as the next chapters will fill in the landscape 图景；全貌—section by section 逐一；逐个部分地—that will culminate into 最终形成；达到顶峰 a panoramic 全景的；全面的 primer 入门读物；初级读本 of American law.
+
+[.my2]
+美国法律体系看似纷繁复杂。通过本章的概述，希望读者能够更清晰、更深入地理解美国法律的体系框架。对美国法律基础架构的这份认知, 将大有裨益，因为后续章节会逐一展开细节，最终形成一部全面的美国法律入门指南。
+
+The reading and understanding of cases is important in most, if not all 即使不是全部；多半, jurisdictions 司法管辖区 in the world. The U.S. legal system, which is based on 以……为基础 the common law 普通法 system of England, treats case law 判例法 (law based on the interpretation 解释；阐释 of cases by the judiciary 司法机构；司法部) as especially important. This is based on the previously 先前；此前 mentioned concept of stare decisis 遵循先例原则. Under stare decisis, lower courts often must (as opposed to 而非；与……相反 can) rule and conclude 作出结论；终结 the case in a manner 方式；方法 consistent with 与……一致 higher courts in the same jurisdiction regarding previous cases with similar facts 事实 and issues 争议点；问题 (which links back to 回溯到；关联到 the IRAC legal thinking process 思维过程 covered 涵盖；包含 earlier in Chapter 1).
+
+[.my2]
+在世界上绝大多数司法管辖区，研读和理解判例, 都至关重要。*##美国法律体系以英国"普通法"体系为基础，尤其重视"判例法"（即基于司法机构对"判例阐释"而形成的法律）。这一点源于前文提及的"遵循先例原则"。##根据该原则，对于辖区内事实和争议点相似的既往判例，下级法院通常必须（而非可以）以与上级法院一致的方式, 对案件作出裁决和结论*（这一点与本书第一章介绍的IRAC法律思维模式, 一脉相承）。
+
+
+
+
+The American legal system’s main rationale 根本原因；基本原理 for stare decisis 遵循先例原则 is consistency 一致性 and greater foreseeability 可预见性 of how similar cases may be concluded by the courts. However, with benefits come drawbacks 弊端；缺点. With stare decisis, the drawback is less judicial discretion 司法裁量权 afforded to 赋予 the courts and judges in an effort to 为了 treat each dispute 争议 on a case-by-case basis 具体问题具体分析；逐案处理. What is considered as the drawback of the common law 普通法 system under stare decisis is often viewed as the benefit of the civil law 大陆法 system, in which stare decisis does not apply 适用. This thus gives greater judicial discretion to the courts, at the potential cost of 以……为潜在代价 inconsistent 不一致的 judicial conclusions even within the same jurisdiction 司法管辖区.
+
+[.my2]
+#*美国法律体系采用"遵循先例原则"的主要初衷，是为了保证法院对同类案件判决的"一致性"与"更高的可预见性"。*# +
+##**但凡事皆有利弊，"遵循先例原则"的弊端在于，它会限制法院与法官的"司法裁量权"，难以实现对每个争议案件的"个案化处理"。**##在"遵循先例"原则下被视为"普通法体系"弊端的特点，在不适用该原则的"大陆法体系"中, 却往往被看作优势——#*大陆法体系, 赋予法院更大的"司法裁量权"，但这也可能导致即便在同一司法管辖区内，司法判决也存在"不一致"的情况。*#
+
+So which domestic legal system 国内法律体系 among the two is better: common law or civil law? When students and even practitioners 从业者 pose 提出 this question, a common first answer is that each system has both benefits and costs (as analyzed here), and it is incumbent upon 负有义务；有责任 each jurisdiction to determine which system makes the most sense 合乎情理；切实可行, all things considered 全面考虑；综合各方面因素. The other answer is that an increasing convergent trend 趋同趋势 is now occurring, whereby 凭借；通过 which legal practitioners from both common and civil legal traditions often tend to 倾向于 think more similarly now than in the past, particularly 尤其 in commercial transactions 商业交易 and dealings 业务往来. This convergence 趋同 may be in part 部分原因是 a result of globalization 全球化, technological advancements 技术进步, and students studying internationally—creating a greater exposure 接触；了解 and knowledge base 知识储备 of the common law tradition (as well as civil law and other domestic legal traditions, such as Islamic law 伊斯兰法). (See the Appendices 附录 for further specifics 详情 on the American court system.)
+
+[.my2]
+那么，"普通法"和"大陆法"这两大国内法律体系，哪一个更好呢？当学生乃至法律从业者提出这个问题时，常见的初步答案是：两种体系各有利弊（如前文分析），每个司法管辖区 都有责任综合各方面因素，确定哪种体系最适合自己。 +
+另一种答案则指出，当前两大法系, 正呈现出日益明显的趋同趋势，普通法与大陆法传统下的法律从业者，如今的思维方式 相比过去更为相近，在商业交易与业务往来领域 尤为明显。这种趋同态势的部分原因, 在于全球化进程、技术进步，以及学生的跨国求学——这些因素让人们能够更多地接触并积累"普通法"传统的相关知识，同时也涵盖"大陆法"及"伊斯兰法"等其他国内法律传统的内容。（美国法院体系的更多详情, 参见附录。）
+
+To understand the American legal system, legal cases reflecting case law 判例法 must be understood in great detail 详细地. This is especially critical 至关重要的 given 考虑到 the importance of stare decisis and precedent cases 先例案件 in American law, as discussed earlier. Because of the importance of case law and understanding cases, the next section 章节 provides a more detailed glimpse into 深入了解；初步认识 the main elements 要素 of a case within the American judicial system, including a method of how to read and brief 撰写案件摘要 a case—a vital skill set 关键技能组合 for both the study and practice of American law.
+
+[.my2]
+##**要理解美国法律体系，就必须深入研读体现"判例法"的各类法律案件。**##考虑到前文所述的"遵循先例原则"与"先例案件"在美国法律中的重要地位，这一点尤为关键。正因为"判例法"和"案件解读"至关重要，下一节将详细介绍美国司法体系中一个案件的核心要素，#*包括"如何阅读案件", 与"撰写案件摘要"的方法——这是学习和实践美国法律的一项关键技能。*#
+
+=== How to Read and Brief a Case
+
+With the high level of importance given to stare decisis and precedent cases underlying 构成……的基础 American law, a fundamental knowledge 基础知识 of how to understand and brief a U.S. case is critically important. This is true as a law student as well as a law practitioner who aspires to 渴望；立志于 gain a greater understanding of American law.
+
+[.my2]
+鉴于"遵循先例原则"和"先例案件"是美国法律的核心基石，掌握理解和撰写"美国案件摘要"的基础知识至关重要。无论是法律专业的学生，还是渴望深入了解美国法律的从业者，皆是如此。
+
+To begin, most court decisions 判决 are published 公布；刊发, both at the federal and state level. The court issuing 作出；发布 the opinion 判决书 often has the discretion in deciding whether to publish an opinion it has rendered 作出；出具.
+
+[.my2]
+首先，*##联邦和州层面的大多数法院判决, 都会对外公布。##作出判决的##法院, 通常拥有裁量权，决定是否刊发其出具的判决书。##*
+
+Specific case elements exist in a typical 典型的 case brief, which include the following:
+
+[.my2]
+一份标准的"案件摘要", 包含以下特定要素：
+
+- Case Name and its citation 案件引证；案号 to find and/or reference 查阅；引用 the case
+- Author of the Opinion (the Opinion is the court’s ruling/decision): Generally, the person who authors 撰写 a legal opinion is a judge 法官 or arbitrator 仲裁员 (the concept and role of arbitrators is discussed in greater detail in Chapter 10).
+- Opinion, which generally includes:
+
+.. Case Facts 案件事实 and relevant procedural history 程序历程 of the case, such as past appeals 上诉 and rulings 裁定
+.. Court Conclusion 判决结论, also referred to as 被称为 the case’s holding 核心判决要点
+.. Reasoning 推理过程: Detailing 详述 the rationale 理由；依据, arguments 论据, and other factors considered by the court
+.. Disposition 处理结果: Court action based on the court’s ruling/conclusion (e.g., reversed 撤销原判；改判, affirmed 维持原判, remanded 发回重审.)
+
+[.my2]
+- 案件名称及其案号（用于查找和/或引用该案件）
+- 判决书作者（判决书即法院的裁定/判决）：通常，撰写法律判决书的人员, 为法官或仲裁员（仲裁员的概念与职责, 将在第十章详细论述）
+- 判决书内容，一般包括：
+.. 案件事实与相关程序历程，例如过往的上诉, 与裁定情况
+.. 法院判决结论，也被称为案件的"核心判决要点"
+.. *推理过程：详述法院作出判决所依据的理由、论据, 及考量的其他因素*
+.. 处理结果：基于法院裁定/判决结论, 采取的司法行动（例如：撤销原判、维持原判、发回重审）
+
+The case caption 案件标题 can be thought of as 被视为 a title for a case. Example: Brown v. Board of Education, 347 U.S. 483 (1954). The case caption includes the parties 当事人, case citation (court name, law book 法律典籍 where the opinion is published), and year of the court’s conclusion. In terms of 就……而言 formality 规范性 of writing for a case caption, the party names to the dispute are italicized 用斜体字表示 and/or underlined 加下划线 (the example has the party names italicized). The remaining case caption (e.g., citation/reporter details 判例汇编详情, year that the decision was rendered, and other related details) generally is not italicized or underlined.
+
+[.my2]
+案件标题, 可视为一个案件的名称。例如：布朗诉教育委员会案，《美国判例汇编》第347卷第483页（1954年）。案件标题包含当事人信息、案件引证（作出判决的法院名称、刊发判决书的法律典籍）, 以及法院作出判决的年份。*在"案件标题"的书写规范方面，争议双方当事人的名称, 需使用斜体和/或下划线标注*（上述例子中当事人名称采用斜体）。案件标题的其他内容（如案号/判例汇编详情、判决作出年份, 及其他相关细节）通常无需使用斜体或下划线标注。
+
+=== Reporters
+
+Cases that are published are included in publications called reporters 判例汇编. Each reporter has a volume number 卷号 and page numbers 页码. Some reporters are published by the state, while some are published by commercial institutions 商业机构. For the case citation/reporter relating to the previous example, the case would be found in volume 347 of the United States Reports 《美国判例汇编》 on page 483.
+
+[.my2]
+**已公布的案件, 会被收录在名为“判例汇编”的出版物中。**每一部判例汇编, 都有对应的卷号和页码，部分判例汇编由各州政府出版，另一些则由商业机构发行。对于前文示例中的案件引证/判例汇编信息，该案件可在《美国判例汇编》第347卷第483页中查阅到。
+
+=== Judicial Titles
+
+The author of the court opinion, as mentioned, is typically a judge. In this case, the judge, in his or her capacity as 以……身份 legal opinion author (for the majority 多数意见 or minority opinion 少数意见), is written at the top of the legal opinion, as follows:
+
+[.my2]
+如前所述，法院判决书的作者, 通常为法官。在这种情况下，以判决书作者身份（撰写多数意见或少数意见）的法官姓名，会标注在判决书的顶端，示例如下：
+
+- Example: “Hand, J.” refers to Judge Hand.
+
+[.my2]
+示例：“汉德，J.” 指汉德法官。
+
+- Example: “Holmes J.” is Justice Holmes.
+
+[.my2]
+示例：“霍姆斯 J.” 指霍姆斯大法官。
+
+Some jurisdictions use terms other than “judge,” albeit 尽管 referring to the same judicial decision-rendering 作出判决的 role:
+
+[.my2]
+*部分司法管辖区, 会使用“法官”之外的称谓，但所指代的, 都是履行"司法判决"职责的人员*：
+
+- Example: “Jackson, C.” refers to Chancellor 首席法官；大法官 Jackson.
+
+[.my2]
+示例：“杰克逊，C.” 指杰克逊首席法官。
+
+- Example: “Jackson, V.C.” refers to Vice-Chancellor 副首席法官 Jackson.
+
+[.my2]
+示例：“杰克逊，V.C.” 指杰克逊副首席法官。
+
+- Example: “Jackson, C.J.” refers to Chief Judge 首席法官 Jackson.
+
+[.my2]
+示例：“杰克逊，C.J.” 指杰克逊首席法官。
+
+=== Party Names
+
+In a civil 民事的 (noncriminal 非刑事的) case, the party initiating 提起 the lawsuit 诉讼 is the plaintiff 原告, and the party defending against 应诉；抗辩 the plaintiff’s lawsuit is the defendant 被告 (not coincidentally 并非巧合的是, the term “defendant” has the term “defend” embedded in 包含；嵌入 it). In criminal 刑事的 (noncivil) cases, the party initiating the lawsuit is referred to as 被称为 the state (or similar terminology 术语), because the interests of the state (or other relevantly named party initiating the lawsuit) are presumed 被认为；被假定 greater than one individual (such as by a plaintiff in a civil law case).
+
+[.my2]
+在##**民事（非刑事）**##案件中，提起诉讼的一方为"原告"; 针对原告起诉, 进行"应诉抗辩"的一方为"被告"（#*“被告”一词中包含“抗辩”这个词根，这并非巧合*#）。 +
+在##**刑事（非民事）**##案件中，提起诉讼的一方被称为“国家”（或类似称谓），因为国家（或其他提起诉讼的相关主体）的利益, 被认为高于单个个体的利益（例如民事案件中的原告）。
+
+
+
+
+
+
+
+The plaintiffs 原告 (or state) are usually the first party listed in the caption 案件标题. For the previous caption example, Brown is the plaintiff at the initial stage 初始阶段 (prior to 在……之前 an appeal 上诉, if an appeal is rendered 提出). If a case is heard 审理 on appeal (in which a case is heard for the second time or more), then the party initiating 提起 the appeal is called the appellant 上诉人. The party defending against 抗辩 the appellant’s lawsuit on appeal is called the appellee 被上诉人. Thus, as an example, if the Board of Education in the previous example appealed, then the Board of Education would be the first named party in the caption of the appealed case (rather than 而非 second, as was the case in the original 最初的 lawsuit example).
+
+[.my2]
+原告（或国家）通常是案件标题中列明的首位当事人。在前述案件标题的例子里，布朗在诉讼初始阶段是原告（若后续提出上诉，则指上诉之前的阶段）。*如果一个案件进入"上诉审理程序"（即案件被第二次或多次审理），那么提起上诉的一方, 被称为"上诉人";* 针对上诉人的上诉进行抗辩的一方, 则被称为"被上诉人"。 +
+举个例子，若前述案例中的教育委员会提起上诉，那么在上诉案件的标题中，教育委员会就会成为首位列明的当事人（而不像原审案例中那样位列第二）。
+
+The court’s conclusion 结论 or ruling 裁定 is the court’s legal opinion 法律意见书 and the rationale 理由；依据 given for reaching a particular judgment 判决, finding 裁决结果, or conclusion. Underneath the broad term 广义范畴 of legal opinion, several specific subsets 具体类别 of opinions exist.
+
+- A _concurring （与某人）意见一致，同意；同时发生 opinion_ 附议意见,协同意见书 is an opinion rendered by a judge who would have reached the same conclusion as the majority opinion 多数意见书, but for a different reason (i.e., same destination 结果, but would have chosen a different route 途径 to get to the destination).
+- A plurality opinion 相对多数意见书 is an opinion agreed on by less than the majority of the judges (assuming a panel of judges 法官合议庭), but the opinion agrees with the majority opinion’s conclusion.
+- A dissenting opinion 异议意见书 is an opinion by one or more judges who disagree with the majority opinion’s conclusion.
+
+[.my2]
+====
+法院的结论或裁定，指的是法院出具的法律意见书，以及作出特定判决、裁决结果, 或结论所依据的理由。在“法律意见书”这一广义概念之下，包含多种具体类型的意见书:
+
+- "附议意见 /协同意见书"是由某位法官出具的文书，该法官与"多数意见书"得出的结论相同，但论证理由不同（也就是说，虽然最终结果一致，但推导路径存在差异）。
+- "相对多数意见书"是指未获得法官合议庭中多数法官认同，但结论与"多数意见书"一致的意见书。
+- "异议意见书"则是由一名或多名法官出具的、与"多数意见书"结论相悖的文书。
+====
+
+
+[.my1]
+.案例
+====
+.concurring opinion
+附议意见：在法院中, 与多数法官的判决结果相同，但可能是通过"不同的方式"得出的意见。
+
+
+====
+
+The parties to a lawsuit 诉讼当事人 (at the initial trial court level 初审法院阶段) include the following:
+
+[.my2]
+诉讼当事人（初审法院阶段）包括以下几类：
+
+- Plaintiff 原告: Party initiating the lawsuit
+- Defendant 被告: Party defending against the lawsuit (legal action by plaintiff)
+- Counterclaimant 反诉原告: Defendant’s counterclaim 反诉 against the plaintiff
+- Cross-claimant 交叉诉讼原告: Defendant bringing a lawsuit against a third party 第三方, typically with a view that 基于……的考量 the introduced third party was at least partially responsible/liable 负有部分责任 for owed damages 应付赔偿金 to plaintiff
+- Third-party defendant 第三方被告: Party defending against a cross-claim 交叉诉讼 for alleged damages 被主张的赔偿金 owed to plaintiff
+- Intervenor 介入诉讼人: Interested party 利害关系人 participating in litigation 参与诉讼 with the court’s permission 经法院许可
+
+[.my2]
+- 原告：提起诉讼的一方当事人
+- 被告：针对原告提起的诉讼, 进行抗辩的一方当事人
+- 反诉原告：对原告提起反诉的被告
+- 交叉诉讼原告：对第三方提起诉讼的被告，通常是基于认为"该第三方, 至少需要对原告的应付赔偿金, 负有部分责任"的考量
+- 第三方被告：针对被主张"需向原告支付赔偿金"的交叉诉讼, 进行抗辩的一方当事人
+- 介入诉讼人：经法院许可, 参与诉讼的利害关系人
+
+The parties to a lawsuit (at the noninitial appellate court level 上诉法院阶段) include the following:
+
+[.my2]
+诉讼当事人（上诉法院阶段）包括以下几类：
+
+- Appellant 上诉人: Party appealing a lower court’s ruling (usually the unsuccessful party 败诉方 in the previous lawsuit)
+- Appellee 被上诉人: Party defending against the appellant’s actions
+- Petitioner 申请人: Party challenging 对……提出异议 action, usually in an agency context 行政机关相关案件中
+- Respondent 被申请人: Party defending against petitioner’s actions, usually in an agency context
+- Intervenor 介入诉讼人: Same as intervenor at the trial court level
+- Amicus curiae 法庭之友 (“friend of the court”): Party given court permission to participate in the case
+- U.S. Solicitor 美国司法部律师: Government attorney representing the United States
+
+[.my2]
+- 上诉人：对下级法院裁定, 提起上诉的一方当事人（通常是原审中的败诉方）
+- 被上诉人：针对上诉人的上诉行为, 进行抗辩的一方当事人
+- 申请人：对相关行为提出异议的一方当事人，多见于"行政机关"相关案件
+- 被申请人：针对申请人的异议行为, 进行抗辩的一方当事人，多见于"行政机关"相关案件
+- 介入诉讼人：与初审法院阶段的"介入诉讼人"定义相同
+- 法庭之友：经法院许可, 参与案件的一方当事人
+- 美国司法部律师：代表美国政府履职的公职律师
+
+The parties to a lawsuit (at the highest U.S. Supreme Court level 美国最高法院阶段) include the following:
+
+[.my2]
+诉讼当事人（美国最高法院阶段）包括以下几类：
+
+- Petitioner 请愿人: Party seeking the Supreme Court’s review 寻求最高法院复审, arguing for 主张 the rejection of 驳回 the lower court’s decision
+- Respondent 被请愿人: Party opposing 反对 the Supreme Court’s review, arguing that the lower court’s decision does not warrant review 不值得复审, because the lower court’s conclusion and rationale are legally valid 具有法律效力
+- Intervenor 介入诉讼人: Same as intervenor at the trial/appellate court level
+- Amicus curiae 法庭之友: Same as at the appeals court level
+- U.S. Solicitor 美国司法部律师: Government attorney representing the United States
+
+[.my2]
+- 请愿人：寻求最高法院对案件进行"复审"的一方当事人，主张"驳回下级法院的判决"
+- 被请愿人：反对最高法院对案件进行复审的一方当事人，主张下级法院的判决具有法律效力，因此不值得复审
+- 介入诉讼人：与初审/上诉法院阶段的"介入诉讼人"定义相同
+- 法庭之友：与上诉法院阶段的"法庭之友"定义相同
+- 美国司法部律师：代表美国政府履职的公职律师
+
+=== Court Dispositions—General
+
+[.my2]
+法院处理结果——概述
+
+- Order 法院指令: Court resolution 裁定 of a motion 动议 (filed by 由……提交 one of the parties)
+- Affirmation 维持原判: Court’s decision to uphold 维持 the lower court’s ruling
+- Reversal 撤销原判: Court’s rejection of the lower court’s ruling
+- Remand 发回重审: Court order to return the case to the lower court (or agency 行政机关) for further factual findings 进一步事实认定, or for other resolution 处理 in conformity with 依照 the appellate court’s decision
+- Vacate 宣告无效: Court rejection of the lower court’s ruling, with an order to set aside 撤销 and render the lower court’s ruling as null and void 无效
+- Modification 变更判决: Court’s affirmation of part of the lower court’s decision, with an ordered modification 修正 to the opinion
+
+[.my2]
+- 法院指令：法院针对一方当事人提交的动议, 作出的裁定
+- 维持原判：法院作出的"维持下级法院裁定"的决定
+- 撤销原判：法院作出的"驳回下级法院裁定"的决定
+- 发回重审：法院下达指令，将案件发回下级法院（或行政机关），要求其依照上诉法院的判决, 进一步查明事实，或作出其他相应处理
+- 宣告无效：法院驳回下级法院的裁定，并下达指令, 撤销该裁定，宣告其无效
+- 变更判决：法院维持下级法院判决的部分内容，同时下达指令, 对原判决书内容进行修正
+
+
+
+
+=== Court Dispositions—Appellate Courts
+
+- En Banc Opinion 全席审理意见书:
+
+- Represents an opinion by all members of the court, not just a certain number (panel 合议庭) of sitting 在职的；现任的 judges, to hear a particular case
+- Generally represents a rare exception 例外 rather than the norm 常态；常规
+- Usually seen in issues of 涉及……的问题 extreme importance 极其重要的
+
+[.my2]
+全席审理意见书： +
+由法院全体法官出具，而非仅由特定人数的现任法官合议庭审理特定案件后出具
+通常属于罕见的例外情况，而非常规做法
+多见于涉及极其重要问题的案件
+
+
+=== Court Disposition—Supreme Court
+
+- Plurality Opinion 相对多数意见书:
+
+.. An opinion that more judges sign 签署 than any concurring opinion 协同意见书
+.. Does not constitute 构成 a majority opinion 多数意见书
+.. Does not have the force of 具有……的效力 precedent 先例, because it is not a result of a majority opinion
+
+[.my2]
+相对多数意见书： +
+.. 签署法官人数, 多于任何一份"协同意见书"的意见书 +
+.. 不构成"多数意见书" +
+.. #*不具有"先例效力"，因其并非"多数法官"达成的结论*# +
+
+- Certiorari Granted 调卷令获准:
+
+.. Grant of discretionary review 自由裁量复审权 by the U.S. Supreme Court (often considered the exception rather than the norm because the Supreme Court is unable to grant certiorari 调卷令 to most cases given its limited time and resources 资源)
+.. Does not reverse 撤销 or directly affect 影响 lower court rulings 裁定
+
+[.my2]
+调卷令获准： +
+.. 美国最高法院批准对案件行使"自由裁量复审权"（这通常被视为例外, 而非常态，因为**最高法院受限于时间与资源，无法对大多数案件签发调卷令**） +
+.. 该决定, 不会撤销或直接影响下"级法院"的裁定 +
+
+- Certiorari Denied 调卷令驳回:
+
+.. U.S. Supreme Court’s decision to reject 驳回 discretionary review 自由裁量复审 of a particular lower court ruling 裁定
+.. Does not generally have precedential effect 先例效力
+
+[.my2]
+调卷令驳回： +
+.. 美国最高法院作出的 "驳回对某一下级法院裁定进行自由裁量复审"的决定 +
+.. 一般不具有先例效力 +
+
+In most legal opinions 法律意见书, part of the court’s decision may include analysis 分析 and language 表述 that may not directly be necessary to reach the court’s resolution 裁决 of the legal issue 法律争议. This part of the case is referred to as 被称为 dictum 附带意见. Dictum is not the court’s holding 核心判决要点. In other words, dictum is related, but separate from 独立于, the court’s holding. Given that 考虑到 dictum is not part of a court’s holding, stare decisis 遵循先例原则 does not apply 适用. It may be difficult to distinguish 区分 a court’s dictum from its holding. Still, dictum may be useful for future cases, because it is, at times 有时, a signal 信号 or hint 暗示 of how the court (or at least a judge in the court) may view a case in light of 基于；依据 different legal issues or facts 事实.
+
+[.my2]
+**在大多数"法律意见书"中，法院判决的部分内容, 可能包含一些分析和表述，**这些内容, 对于法院就法律争议作出裁决, 并非直接必要。案件的这部分内容, *被称为"附带意见"。*"**附带意见"并非法院的核心判决要点。**换句话说，"附带意见"与"核心判决要点"相关，但又相互独立。##**由于附带意见不属于法院"核心判决要点"的范畴，因此"遵循先例原则"并不适用于此。**## +
+区分法院的"附带意见"与"核心判决要点", 有时可能存在难度，但"附带意见"对未来的案件, 仍具有一定参考价值，因为**它有时能够反映出法院（或至少是法院中的某位法官）基于不同法律争议或事实, 可能对案件形成的看法。**
+
+=== Summary
+
+The American judicial system 司法体系 is based on 以……为基础 British common law 普通法, which is then buttressed by 由……支撑, among other sources 除其他渊源外, the U.S. Constitution 宪法, court cases 法院判例, statutes 成文法, restatements 法律重述, decrees 法令, treatises 专著, and various other rules and regulations 规章制度. The American legal system is composed of 由……组成 the U.S. Supreme Court 美国最高法院, federal courts 联邦法院, and state courts 州法院. Within both federal and state courts, primary and secondary legal sources 主要与次要法律渊源 are considered 被纳入考量. The U.S. Supreme Court is the highest land of the law 最高司法权威. It can grant certiorari 签发调卷令 to select cases 甄选案件 for various reasons, including whether the issue presented 提出的争议点 is urgent 紧急的 or of vital national interest 关乎国家重大利益. Generally, however, a lawsuit 诉讼 begins in state courts and then, as needed 视需要, is heard on appeal 进入上诉审理程序 by federal (appellate-level 上诉级别的) or state courts. Knowledge of the structure 结构 of the American judicial system is then furthered by 得以深化 understanding how to write and brief 撰写摘要 a law case, which is a vital skill set 关键技能 for law students and practitioners 从业者.
+
+[.my2]
+====
+小结 +
+美国司法体系, 以英国"普通法"为基础，同时辅以美国宪法、法院判例、成文法、法律重述、法令、专著及各类规章制度等其他法律渊源。 +
+美国法律体系, 由美国最高法院、联邦法院, 与州法院构成. 联邦法院和州法院在审理案件时, 都会考量主要与次要法律渊源。
+
+"美国最高法院"是国家最高司法权威，其可基于多种理由甄选案件, 并签发"调卷令"，包括"案件提出的争议点, 是否紧急或关乎国家重大利益"。不过，##**一般而言，诉讼案件首先由"州法院"受理; 之后视需要, 可由"联邦上诉法院"或"州上诉法院"进行上诉审理。**##
+
+掌握撰写"法律案件摘要"的方法，能够深化对美国司法体系结构的理解，这也是法律专业学生与从业者必备的关键技能。
+====
+
+
+
+
+
+'''
+
+
+== pure
+
+
+2
+THE AMERICAN LEGAL SYSTEM MADE EASY
+
+
+Chapter 1 discussed the software of the American lawyer (i.e., in terms of the thinking process operating within the minds of U.S.-licensed legal professionals). This chapter, in contrast, examines the hardware in terms of the conceptual component parts within the software of the American lawyer and legal system. Specifically, the hardware is based in part on the black letter law embedded within the American legal infrastructure, which this chapter will now briefly overview.
+
+=== Common Law Versus Other Domestic Laws
+
+American law is based on common law from the United Kingdom as one of its core legal pillars (which is then buttressed by, among other sources, the U.S. Constitution, court cases, statutes, restatements, decrees, treatises, and various other rules and regulations).
+
+Common law follows the principle of stare decisis (Latin, meaning “stand by your decision”). Stare decisis is a legal principle stating that prior court decisions (e.g., holdings, conclusions, rulings) must be recognized as precedent case law. If a case is deemed a precedent case, then lower courts are compelled to rule in the same way as the precedent case. This applies only if the precedent case is binding or mandatory. The rationale for stare decisis and precedent cases is judicial efficiency, fairness to the parties, predictability, and a check and balance on arbitrary behavior.
+
+In common law countries, juries and oral arguments by lawyers often can take a greater or more visible role compared to in civil law countries (which may not have jury trials), in which the judge can play a more central and prominent role (of course, exceptions can exist).
+
+link:[]Examples of jurisdictions that use the common law system include the following:
+
+- United Kingdom except Scotland
+- United States except Louisiana
+- Ireland
+- Former British colony and/or Commonwealth territories/countries, including India except Goa, Australia, New Zealand, Singapore, and Canada except Quebec
+- Pakistan
+- Bangladesh
+
+In contrast, generally under civil law (derived from the French-German legal tradition), statutes and other similar legal sources represent relatively greater legal authority than does case law. Under civil law, neither precedent cases nor stare decisis exist. The rationale for this is greater judicial freedom to decide cases on a case-by-case basis. Some people argue, however, that this system may come at the cost of less predictability and consistency regarding case law conclusions (with similar legal issues and/or facts).
+
+Examples of jurisdictions that use the civil law system include the following:
+
+- Most European Union (EU) nations, including Germany and France where civil law was derived, but not the United Kingdom, Ireland, or Cyprus
+- Most of continental Latin America except Guyana and Belize
+- Congo
+- Azerbaijan
+- Iraq
+- Russia
+- Turkey
+- Egypt
+- Madagascar
+- Lebanon
+- Switzerland
+- Indonesia
+- Vietnam
+- Thailand
+
+The factors used in determining whether to apply stare decisis include the following:
+
+- Similarity of legal issue(s)/legal principle(s)
+- Whether the precedent case was ruled on by a court recognized as a leading one in the relevant subject area
+- Whether the precedent case was well-reasoned and articulated (in the court’s legal opinion)
+- Whether the precedent case was issued from a court in the same jurisdiction
+- Whether the precedent case was issued from a higher-level court
+
+link:[]Although these factors are often considered to determine whether a case is a precedent case, thus representing a binding and mandatory legal source, a court may not be required to follow:
+
+- Secondary legal sources (i.e., nonprecedent cases, not related to the U.S. Constitution, and the like; see the following paragraph for further specifics)
+- Cases that do not align with these factors to determine the precedential value of a case
+
+Two main types of legal sources exist in American law: primary and secondary.
+
+. Primary legal sources include the following:
+
+.. U.S. Constitution
+.. Statutes
+.. Rules, regulations, and orders
+.. Executive orders and proclamations
+.. Case law
+
+. Secondary legal sources include the following:
+
+.. Treatises
+.. Restatements
+.. Law review journals
+.. American Law Reports
+.. Hornbooks
+.. Legal encyclopedias
+
+
+A general hierarchy also exists in which federal legal sources are weighed more heavily than state legal sources:
+
+. Federal Legal Sources
+
+.. U.S. Constitution
+.. Federal statutes and treaties
+.. Federal rules and regulations
+.. Federal cases
+
+. State Legal Sources
+
+.. State constitutions
+.. State statutes
+.. State rules and regulations
+.. State law cases
+
+
+From this list, two interesting points arise: (1) the U.S. Constitution represents the supreme law of the land, and (2) a federal supremacy rule applies. This means that federal sources are generally higher than state sources in the legal source hierarchy. This is important to know for both academics and practitioners to determine what legal source should be given greater weight relative to others, which can help in the legal strategy process.
+
+=== State Law
+
+Although the United States is one country, from a legal perspective, each individual state within it has a certain level of discretion to determine what types of laws best fit that particular state’s set of circumstances. The concept of dualism, in which sources of law exist dually at both the federal and state level, is based in part on the view that decentralization of power is needed. The intent of dualism was to provide greater security that one central source of authority would not become overly powerful—as was the case with England at the time of the founding of the United States.
+
+Furthermore, as Chapter 6 discusses in greater detail regarding Constitutional Law, the U.S. Constitution (the nation’s highest legal authority) has embedded in it a concept known as the enumerated powers doctrine. In the enumerated powers doctrine, the federal government has only those powers expressly conveyed to it under the Constitution (under Article I, Section 8), with all other remaining powers generally belonging to the states.
+
+Thus, state laws are actually much more widely encompassing than many people from non–common law countries would expect. With this in mind, each specific state’s law can vary and be different from other state laws. Although diversity exists, many state laws are based on certain standardized laws.
+
+Examples of standardized laws that state law can be based on include the following:
+
+- Restatements of law, which are used to provide clarity on certain law matters
+
+.. Prepared by the American Law Institute (ALI)
+.. Represents secondary (nonprimary) legal source/authority
+
+- Uniform acts/Uniform codes, such as the Uniform Commercial Code, or UCC, relating to contract law
+
+.. Drafted by the Uniform Law Commissioners
+.. Body of lawyers and other legal professionals whose objective is to standardize laws across the various U.S. states
+.. Offered as legal models, which each state can ratify in whole or in part
+
+- Model penal code (MPC), relating to criminal law matters
+
+.. Prepared by the ALI, much like restatements
+.. Objective of updating and standardizing penal law across the various U.S. states
+.. MPC represents what the ALI deems as the best rules for the U.S. penal system
+
+Much like the dual federal-state level of legal sources, a similar dual system of federal-state court systems exists. Consistent with the principle of federalism, federal courts rank higher in the judicial court hierarchy relative to state courts.
+
+image:/img/001.jpg[,%]
+
+
+The Federal Court hierarchy (from highest to lowest) is as follows:
+
+- U.S. Supreme Court
+- Circuit courts
+- District courts
+
+Federal courts consider the following legal sources:
+
+- Federal (nonstate) statutory issues
+- Diversity cases, such as cases involving parties from two different states
+- Cases in which the United States is a party as plaintiff or defendant
+- Other cases as specified by law (e.g., admiralty, antitrust, maritime)
+- Removal jurisdiction cases, in which the defendant requests the case to be heard by a federal, rather than a state, court in the same district
+
+link:[]The U.S. Supreme Court (USSC) is the highest court in the United States. The U.S. Supreme Court generally hears cases based on appeal (when certiorari—or in plain English, review—is granted to review the case). In other words, the USSC is only in rare circumstances the court of first instance having original jurisdiction over a case. Of course, exceptions exist when an issue is particularly urgent. For instance, the Bush v. Gore (2000) case was heard by the USSC at first instance because its ruling could, in effect, determine the outcome of the 2000 U.S. presidential election.
+
+Below the USSC in judicial hierarchy are the federal circuit courts. The circuit courts generally hear appeals from the lower district courts. Unlike the USSC, federal circuit courts have original jurisdiction (court of first instance) over orders of certain federal agencies. The federal circuit courts are divided geographically into 13 circuit courts. Circuit courts numbered from 1 to 13 encompass all of the states (including Hawaii), with an additional district for Washington D.C. (which is a federal territory, not a U.S. state), and a federal circuit for certain specialized matters.
+
+Many cases begin at the state court level and, if needed, are appealed to the federal level (except for the instances discussed previously), in particular, when a federal (rather than a state) issue arises.
+
+=== State Courts
+
+Most state court systems replicate the federal court system. Some state courts have three levels of hierarchy, whereas other state courts have two levels of hierarchy. Regardless, each state court has its own rules of procedure and set of practices.
+
+With a three-level state court system, the hierarchy is typically the following:
+
+- State Supreme Court: Hears appeals from state intermediate court
+- State court of appeals: Hears appeals from lower trial court
+- State trial court: Conducts fact-finding as well as ruling on the legal issue(s) presented
+
+State courts usually can review almost any case, but exceptions exist, such as where jurisdiction is precluded by (1) federal statute; (2) the U.S. Constitution; or (3) other legal source, expressly (e.g., admiralty, patent, copyright) or implicitly (e.g., antitrust damages and injunction).
+
+=== American Judicial System
+
+The United States has three branches of government: (1) the legislative branch (the Congress, which is composed of the Senate and House of Representatives); (2) the executive branch (including the U.S. President), and (3) the judicial branch (including the USSC and other courts). The three branches of government are based on the concept of checks and balances, so that each branch of government does not become too powerful relative to the other two branches.
+
+Related terms are defined as follows:
+
+- Congress: Bicameral institution that refers to the Senate and the House of Representatives
+- House of Representatives:
+
+.. Referred to as the lower house (because the legislative process typically begins here and then proceeds to the Senate).
+.. The number of Representatives is based on the population of each state (thus, the larger and more populated states—such as California, Texas, and New York—generally have more Representatives).
+.. House representatives are elected to two-year terms and can be reelected continuously.
+
+- Senate:
+
+.. Referred to as the higher chamber (because the Senate is the second chamber in the legislative process).
+.. Two senators are elected from each of the 50 states (regardless of a state’s population).
+.. Senators are elected to six-year terms with the possibility of reelections.
+
+- Government lawyers:
+
+.. Prosecutor: A government attorney who prepares and conducts the prosecution of the accused party
+.. District Attorney (DA) (or county prosecutor): A government prosecutor representing a particular state
+.. United States (U.S.) Attorney: A federal prosecutor representing the United States for certain federal districts
+
+An example of checks and balances in practice could involve an impeachment proceeding against the executive branch. An attempt to impeach the U.S. President (executive branch), for instance, would involve the legislative branch placing a check and balance on the executive branch by arguing, among other things, that certain actions of the presidency allegedly violated the U.S. Constitution. The judicial branch (federal courts) can serve as a check and balance if it decides to review the acts of the legislative branch in terms of constitutionality (i.e., to determine whether an act by the legislative branch allegedly violated the U.S. Constitution, which all three branches must abide by). The federal courts can also review the actions of federal administrative agencies. At the same time, the legislative branch (Congress) can review and overrule court precedent under its designated Congressional authority.
+
+The American legal system can appear diverse and complex. With the overview provided in this chapter, it is hoped that readers have a better understanding and greater clarity regarding the hardware of American law. This understanding of the American legal infrastructure will help, as the next chapters will fill in the landscape—section by section—that will culminate into a panoramic primer of American law.
+
+The reading and understanding of cases is important in most, if not all, jurisdictions in the world. The U.S. legal system, which is based on the common law system of England, treats case law (law based on the interpretation of cases by the judiciary) as especially important. This is based on the previously mentioned concept of stare decisis. Under stare decisis, lower courts often must (as opposed to can) rule and conclude the case in a manner consistent with higher courts in the same jurisdiction regarding previous cases with similar facts and issues (which links back to the IRAC legal thinking process covered earlier in Chapter 1).
+
+The American legal system’s main rationale for stare decisis is consistency and greater foreseeability of how similar cases may be concluded by the courts. However, with benefits come drawbacks. With stare decisis, the drawback is less judicial discretion afforded to the courts and judges in an effort to treat each dispute on a case-by-case basis. What is considered as the drawback of the common law system under stare decisis is often viewed as the benefit of the civil law system, in which stare decisis does not apply. This thus gives greater judicial discretion to the courts, at the potential cost of inconsistent judicial conclusions even within the same jurisdiction.
+
+So which domestic legal system among the two is better: common law or civil law? When students and even practitioners pose this question, a common first answer is that each system has both benefits and costs (as analyzed here), and it is incumbent upon each jurisdiction to determine which system makes the most sense, all things considered. The other answer is that an increasing convergent trend is now occurring, whereby legal practitioners from both common and civil legal traditions often tend to think more similarly now than in the past, particularly in commercial transactions and dealings. This convergence may be in part a result of globalization, technological advancements, and students studying internationally—creating a greater exposure and knowledge base of the common law tradition (as well as civil law and other domestic legal traditions, such as Islamic law). (See the Appendices for further specifics on the American court system.)
+
+To understand the American legal system, legal cases reflecting case law must be understood in great detail. This is especially critical given the importance of stare decisis and precedent cases in American law, as discussed earlier. Because of the importance of case law and understanding cases, the next section provides a more detailed glimpse into the main elements of a case within the American judicial system, including a method of how to read and brief a case—a vital skill set for both the study and practice of American law.
+
+=== How to Read and Brief a Case
+
+With the high level of importance given to stare decisis and precedent cases underlying American law, a fundamental knowledge of how to understand and brief a U.S. case is critically important. This is true as a law student as well as a law practitioner who aspires to gain a greater understanding of American law.
+
+To begin, most court decisions are published, both at the federal and state level. The court issuing the opinion often has the discretion in deciding whether to publish an opinion it has rendered.
+
+Specific case elements exist in a typical case brief, which include the following:
+
+- Case Name and its citation to find and/or reference the case
+- Author of the Opinion (the Opinion is the court’s ruling/decision): Generally, the person who authors a legal opinion is a judge or arbitrator (the concept and role of arbitrators is discussed in greater detail in Chapter 10).
+- Opinion, which generally includes:
+
+.. Case Facts and relevant procedural history of the case, such as past appeals and rulings
+.. Court Conclusion, also referred to as the case’s holding
+.. Reasoning: Detailing the rationale, arguments, and other factors considered by the court
+.. Disposition: Court action based on the court’s ruling/conclusion (e.g., reversed, affirmed, remanded.)
+
+
+The case caption can be thought of as a title for a case. Example: Brown v. Board of Education, 347 U.S. 483 (1954). The case caption includes the parties, case citation (court name, law book where the opinion is published), and year of the court’s conclusion. In terms of formality of writing for a case caption, the party names to the dispute are italicized and/or underlined (the example has the party names italicized). The remaining case caption (e.g., citation/reporter details, year that the decision was rendered, and other related details) generally is not italicized or underlined.
+
+=== Reporters
+
+Cases that are published are included in publications called reporters. Each reporter has a volume number and page numbers. Some reporters are published by the state, while some are published by commercial institutions. For the case citation/reporter relating to the previous example, the case would be found in volume 347 of the United States Reports on page 483.
+
+=== Judicial Titles
+
+The author of the court opinion, as mentioned, is typically a judge. In this case, the judge, in his or her capacity as legal opinion author (for the majority or minority opinion), is written at the top of the legal opinion, as follows:
+
+Example: “Hand, J.” refers to Judge Hand.
+
+Example: “Holmes J.” is Justice Holmes.
+
+Some jurisdictions use terms other than “judge,” albeit referring to the same judicial decision-rendering role:
+
+Example: “Jackson, C.” refers to Chancellor Jackson.
+
+Example: “Jackson, V.C.” refers to Vice-Chancellor Jackson.
+
+Example: “Jackson, C.J.” refers to Chief Judge Jackson.
+
+=== Party Names
+
+In a civil (noncriminal) case, the party initiating the lawsuit is the plaintiff, and the party defending against the plaintiff’s lawsuit is the defendant (not coincidentally, the term “defendant” has the term “defend” embedded in it). In criminal (noncivil) cases, the party initiating the lawsuit is referred to as the state (or similar terminology), because the interests of the state (or other relevantly named party initiating the lawsuit) are presumed greater than one individual (such as by a plaintiff in a civil law case).
+
+The plaintiffs (or state) are usually the first party listed in the caption. For the previous caption example, Brown is the plaintiff at the initial stage (prior to an appeal, if an appeal is rendered). If a case is heard on appeal (in which a case is heard for the second time or more), then the party initiating the appeal is called the appellant. The party defending against the appellant’s lawsuit on appeal is called the appellee. Thus, as an example, if the Board of Education in the previous example appealed, then the Board of Education would be the first named party in the caption of the appealed case (rather than second, as was the case in the original lawsuit example).
+
+The court’s conclusion or ruling is the court’s legal opinion and the rationale given for reaching a particular judgment, finding, or conclusion. Underneath the broad term of legal opinion, several specific subsets of opinions exist. A concurring opinion is an opinion rendered by a judge who would have reached the same conclusion as the majority opinion, but for a different reason (i.e., same destination, but would have chosen a different route to get to the destination). A plurality opinion is an opinion agreed on by less than the majority of the judges (assuming a panel of judges), but the opinion agrees with the majority opinion’s conclusion. A dissenting opinion is an opinion by one or more judges who disagree with the majority opinion’s conclusion.
+
+link:[]The parties to a lawsuit (at the initial trial court level) include the following:
+
+- Plaintiff: Party initiating the lawsuit
+- Defendant: Party defending against the lawsuit (legal action by plaintiff)
+- Counterclaimant: Defendant’s counterclaim against the plaintiff
+- Cross-claimant: Defendant bringing a lawsuit against a third party, typically with a view that the introduced third party was at least partially responsible/liable for owed damages to plaintiff
+- Third-party defendant: Party defending against a cross-claim for alleged damages owed to plaintiff
+- Intervenor: Interested party participating in litigation with the court’s permission
+
+The parties to a lawsuit (at the noninitial appellate court level) include the following:
+
+- Appellant: Party appealing a lower court’s ruling (usually the unsuccessful party in the previous lawsuit)
+- Appellee: Party defending against the appellant’s actions
+- Petitioner: Party challenging action, usually in an agency context
+- Respondent: Party defending against petitioner’s actions, usually in an agency context
+- Intervenor: Same as intervenor at the trial court level
+- Amicus curiae (“friend of the court”): Party given court permission to participate in the case
+- U.S. Solicitor: Government attorney representing the United States
+
+The parties to a lawsuit (at the highest U.S. Supreme Court level) include the following:
+
+- Petitioner: Party seeking the Supreme Court’s review, arguing for the rejection of the lower court’s decision
+- Respondent: Party opposing the Supreme Court’s review, arguing that the lower court’s decision does not warrant review, because the lower court’s conclusion and rationale are legally valid
+- Intervenor: Same as intervenor at the trial/appellate court level
+- Amicus curiae: Same as at the appeals court level
+- U.S. Solicitor: Government attorney representing the United States
+
+=== Court Dispositions—General
+
+- Order: Court resolution of a motion (filed by one of the parties)
+- Affirmation: Court’s decision to uphold the lower court’s ruling
+- Reversal: Court’s rejection of the lower court’s ruling
+- Remand: Court order to return the case to the lower court (or agency) for further factual findings, or for other resolution in conformity with the appellate court’s decision
+- Vacate: Court rejection of the lower court’s ruling, with an order to set aside and render the lower court’s ruling as null and void
+- Modification: Court’s affirmation of part of the lower court’s decision, with an ordered modification to the opinion
+
+=== Court Dispositions—Appellate Courts
+
+- En Banc Opinion:
+
+Represents an opinion by all members of the court, not just a certain number (panel) of sitting judges, to hear a particular case
+Generally represents a rare exception rather than the norm
+Usually seen in issues of extreme importance
+
+- Represents an opinion by all members of the court, not just a certain number (panel) of sitting judges, to hear a particular case
+- Generally represents a rare exception rather than the norm
+- Usually seen in issues of extreme importance
+
+=== Court Disposition—Supreme Court
+
+- Plurality Opinion:
+
+.. An opinion that more judges sign than any concurring opinion
+.. Does not constitute a majority opinion
+.. Does not have the force of precedent, because it is not a result of a majority opinion
+
+- Certiorari Granted:
+
+.. Grant of discretionary review by the U.S. Supreme Court (often considered the exception rather than the norm because the Supreme Court is unable to grant certiorari to most cases given its limited time and resources)
+.. Does not reverse or directly affect lower court rulings
+
+- Certiorari Denied:
+
+.. U.S. Supreme Court’s decision to reject discretionary review of a particular lower court ruling
+.. Does not generally have precedential effect
+
+
+In most legal opinions, part of the court’s decision may include analysis and language that may not directly be necessary to reach the court’s resolution of the legal issue. This part of the case is referred to as dictum. Dictum is not the court’s holding. In other words, dictum is related, but separate from, the court’s holding. Given that dictum is not part of a court’s holding, stare decisis does not apply. It may be difficult to distinguish a court’s dictum from its holding. Still, dictum may be useful for future cases, because it is, at times, a signal or hint of how the court (or at least a judge in the court) may view a case in light of different legal issues or facts.
+
+=== Summary
+
+The American judicial system is based on British common law, which is then buttressed by, among other sources, the U.S. Constitution, court cases, statutes, restatements, decrees, treatises, and various other rules and regulations. The American legal system is composed of the U.S. Supreme Court, federal courts, and state courts. Within both federal and state courts, primary and secondary legal sources are considered. The U.S. Supreme Court is the highest land of the law. It can grant certiorari to select cases for various reasons, including whether the issue presented is urgent or of vital national interest. Generally, however, a lawsuit begins in state courts and then, as needed, is heard on appeal by federal (appellate-level) or state courts. Knowledge of the structure of the American judicial system is then furthered by understanding how to write and brief a law case, which is a vital skill set for law students and practitioners.
+
+'''
+
+

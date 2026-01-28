@@ -1,0 +1,49 @@
+<svg width="493" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 493 249" xmlns="http://www.w3.org/2000/svg" height="249">
+    <defs/>
+    <g transform="translate(-207.00,-188.00)">
+        <g transform="translate(221.26,192.35)" id="shape1">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="19.0" x="4.4">`主` Even the requirement </tspan>
+                <tspan y="133.0" x="4.4">`谓` can be met by techniques</tspan>
+            </text>
+        </g>
+        <g transform="translate(307.00,248.00)" id="shape2">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="19.0" x="4.0">that `主` </tspan>
+                <tspan style="fill:#c00000" x="58.0">biomaterials</tspan>
+                <tspan x="132.0"> 后定说明 processed from these materials</tspan>
+                <tspan y="38.0" x="4.0"> `系` </tspan>
+                <tspan style="fill:#c00000" x="33.0">be</tspan>
+                <tspan x="48.0"> nontoxic to host tissue</tspan>
+            </text>
+        </g>
+        <g transform="translate(350.00,218.00)" id="shape3">
+            <path d="M.0,.0L.0,22.0" fill="none" stroke="#191919"/>
+            <path d="M3.0,22.0L.0,28.0L-3.0,22.0L3.0,22.0" fill="#191919" stroke="#191919" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <g transform="translate(307.00,362.85)" id="shape4">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="19.0" style="fill:#42c181" x="4.0">derived from</tspan>
+                <tspan x="83.0"> studying the reaction of tissue cultures to </tspan>
+                <tspan y="38.0" x="4.0">biomaterials </tspan>
+                <tspan y="57.0" style="fill:#42c181" x="4.0">or from</tspan>
+                <tspan x="51.0"> short-term implants. </tspan>
+            </text>
+        </g>
+        <g transform="translate(350.00,331.00)" id="shape5">
+            <path d="M.0,.0L.0,22.0" fill="none" stroke="#191919"/>
+            <path d="M3.0,22.0L.0,28.0L-3.0,22.0L3.0,22.0" fill="#191919" stroke="#191919" stroke-linecap="round" stroke-width="1"/>
+        </g>
+        <g transform="translate(317.26,306.85)" id="shape6">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="45.5" x="47.0">后定</tspan>
+            </text>
+        </g>
+        <g transform="translate(317.26,192.35)" id="shape7">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="45.5" x="47.0">同位</tspan>
+            </text>
+        </g>
+        <path d="M.0,.0L491.0,.0L491.0,246.0L.0,246.0L.0,.0z" fill="none" transform="translate(208.00,189.00)" stroke="#868686" id="shape8"/>
+    </g>
+</svg>

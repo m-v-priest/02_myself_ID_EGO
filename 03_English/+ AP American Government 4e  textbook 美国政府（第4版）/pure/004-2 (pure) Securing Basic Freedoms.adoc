@@ -1,0 +1,364 @@
+= 004-2 (pure) Securing Basic Freedoms
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../../myAdocCss.css
+
+'''
+
+[.my1]
+.案例
+====
+== Learning Objectives
+
+
+By the end of this section, you will be able to:
+
+
+* Identify the liberties and rights guaranteed by the first four amendments to the Constitution
+* Explain why in practice these rights and liberties are limited
+* Explain why interpreting some amendments has been controversial
+====
+
+
+We can broadly divide the provisions of the Bill of Rights into three categories. The First, Second, Third, and Fourth Amendments protect basic individual freedoms; the Fourth (partly), Fifth, Sixth, Seventh, and Eighth protect people suspected or accused of criminal activity or facing civil litigation; and the Ninth and Tenth, are consistent with the framers’ view that the Bill of Rights is not necessarily an exhaustive list of all the rights people have and guarantees a role for state as well as federal government (Figure 4.5).
+
+
+
+
+
+
+Figure 
+4.5
+
+The First Amendment protects the right to freedom of religious conscience and practice and the right to free expression, particularly of political and social beliefs. The Second Amendment—perhaps the most controversial today—protects the right to defend yourself in your home or other property, and, until the establishment of the National Guard, the collective right to self-defense as part of a militia. The Third Amendment prohibits the government from commandeering people’s homes to house soldiers, particularly in peacetime. Finally, the Fourth Amendment prevents the government from searching one's person or property or taking evidence without a warrant issued by a judge, with certain exceptions.
+
+
+
+== THE FIRST AMENDMENT
+
+The First Amendment is perhaps the most famous provision of the Bill of Rights. It is arguably also the most extensive, because it guarantees both religious freedoms and the right to express your views in public. Specifically, the First Amendment says:
+
+“Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.”
+
+
+Given the broad scope of this amendment, it is helpful to break it into its two major parts.
+
+
+The first portion deals with religious freedom. However, it actually protects two related sorts of freedom: first, it protects people from having a set of religious beliefs imposed on them by the government, and second, it protects people from having their own religious beliefs restricted by government authorities.
+
+
+
+=== The Establishment Clause
+
+The first of these two freedoms is known as the establishment clause. Congress is prohibited from creating or promoting a state-sponsored religion (this now includes the states). When the United States was founded, most countries around the world had an established church or religion—an officially sponsored set of religious beliefs and values. In Europe, bitter wars were fought between and within states, often because the established church of one territory was in conflict with that of another. Wars and civil strife were common, particularly between states with Protestant and Catholic churches that had differing interpretations of Christianity. Even in recent years, the legacy of these wars remains, most notably in Ireland, where complications from Brexit have rekindled tensions between a mostly Catholic south and a largely Protestant north that were simmering for nearly a century.
+
+
+Many settlers in the United States came to this continent as refugees from such wars; others came to find a place where they could follow their own religion with like-minded people in relative peace. Even if the early United States had wanted to establish a single national religion, the diversity of religious beliefs within and between the colonies would have made this quite impossible. Nonetheless the differences were small; most people were of European origin and professed some form of Christianity (although in private some of the founders, most notably Thomas Jefferson, Thomas Paine, and Benjamin Franklin, held what today would be seen as more pluralistic Unitarian or deistic views). So for much of U.S. history, the establishment clause was not particularly important—the vast majority of citizens were Protestant Christians of some form, and since the federal government was relatively uninvolved in the day-to-day lives of the people, there was little opportunity for conflict. That said, there were some citizenship and office-holding restrictions on Jews within some of the states.
+
+
+Worry about state sponsorship of religion in the United States began to reemerge in the latter part of the nineteenth century. An influx of immigrants from Ireland and eastern and southern Europe brought large numbers of Catholics. Fearing the new immigrants and their children would not assimilate, states passed laws forbidding government aid to religious schools. New religious organizations, such as The Church of Jesus Christ of Latter-day Saints, Seventh-day Adventists, Jehovah’s Witnesses, and many others, also emerged, blending aspects of Protestant beliefs with other ideas and teachings at odds with the more traditional Protestant churches of the era. At the same time, public schooling was beginning to take root on a wide scale. Since most states had traditional Protestant majorities and most state officials were Protestants themselves, the public school curriculum incorporated many Protestant features; at times, these features would come into conflict with the beliefs of children from other Christian sects or from other religious traditions.
+
+The establishment clause today tends to be interpreted a bit more broadly than in the past; it not only forbids the creation of a “Church of the United States” or “Church of Ohio” it also forbids the government from favoring one set of religious beliefs over others or favoring religion (of any variety) over non-religion. Thus, the government cannot promote, say, Islamic beliefs over Sikh beliefs or belief in God over atheism or agnosticism (Figure 4.6).
+
+
+
+
+
+
+
+Figure 
+4.6
+ 
+In this illustration from a contemporary manuscript, Henry Bolingbroke (i.e., Henry IV) claims the throne in 1399 surrounded by the Lords Spiritual and Temporal (secular). While the Lords Spiritual have been a minority in the House of Lords since the time of Henry VIII, and religion does not generally play a large role in British politics today, the Church of England nevertheless remains represented in Parliament by twenty-six bishops.
+
+The key question that faces the courts is whether the establishment clause should be understood as imposing, in Thomas Jefferson’s words, “a wall of separation between church and state.” In a 1971 case known as _Lemon v. Kurtzman_, the Supreme Court established the Lemon test for deciding whether a law or other government action that might promote a particular religious practice should be allowed to stand.12 The Lemon test has three criteria that must be satisfied for such a law or action to be found constitutional and remain in effect:
+
+
+1. The action or law must not lead to _excessive government entanglement_ with religion; in other words, policing the boundary between government and religion should be relatively straightforward and not require extensive effort by the government.
+
+
+2. The action or law cannot either _inhibit_ or _advance_ religious practice; it should be neutral in its effects on religion.
+
+
+3. The action or law must have some _secular purpose_; there must be some non-religious justification for the law.
+
+
+For example, imagine your state decides to fund a school voucher program that allows children to attend private and parochial schools at public expense; the vouchers can be used to pay for school books and transportation to and from school. Would this voucher program be constitutional?
+
+
+Let’s start with the secular-purpose prong of the test. Educating children is a clear, non-religious purpose, so the law has a secular purpose. The law would neither inhibit nor advance religious practice, so that prong would be satisfied. The remaining question—and usually the one on which court decisions turn—is whether the law leads to excessive government entanglement with religious practice. Given that transportation and school books generally have no religious purpose, there is little risk that paying for them would lead the state to much entanglement with religion. The decision would become more difficult if the funding were unrestricted in use or helped to pay for facilities or teacher salaries; if that were the case, it might indeed be used for a religious purpose, and it would be harder for the government to ensure that it wasn’t without audits or other investigations that could lead to too much government entanglement with religion.
+
+
+The use of education as an example is not an accident; in fact, many of the court’s cases dealing with the establishment clause have involved education, particularly public education, because school-age children are considered a special and vulnerable population. Perhaps no subject affected by the First Amendment has been more controversial than the issue of prayer in public schools. Discussion about school prayer has been particularly fraught because in many ways it appears to bring the two religious liberty clauses into conflict with each other. The free exercise clause, discussed below, guarantees the right of individuals to practice their religion without government interference—and while the rights of children are not as extensive in all areas as those of adults, the courts have consistently ruled that the free exercise clause’s guarantee of religious freedom applies to children as well.
+
+
+At the same time, however, government actions that require or encourage particular religious practices might infringe upon children’s rights to follow their own religious beliefs and thus, in effect, be unconstitutional establishments of religion. For example, a teacher, an athletic coach, or even a student reciting a prayer in front of a class or leading students in prayer as part of the organized school activities constitutes an illegal establishment of religion.13 Yet a school cannot prohibit voluntary, non-disruptive prayer by its students, because that would impair the free exercise of religion. So although the blanket statement that “prayer in schools is illegal” or unconstitutional is incorrect, the establishment clause does limit official endorsement of religion, including prayers organized or otherwise facilitated by school authorities, even as part of off-campus or extracurricular activities.14
+
+
+But some laws that may appear to establish certain religious practices are allowed. For example, the courts have permitted religiously inspired blue law*s* that limit working hours or even shutter businesses on Sunday, the Christian day of rest, because by allowing people to practice their (Christian) faith, such rules may help ensure the “health, safety, recreation, and general well-being” of citizens. They have allowed restrictions on the sale of alcohol and sometimes other goods on Sunday for similar reasons. Such laws in Bergen County, New Jersey, and especially its borough of Paramus, shutter many retail stores every Sunday, despite Bergen having one of the largest concentrations of retail space in the nation and five large enclosed shopping malls. While various political figures, including former governor Chris Christie, have proposed repealing the laws, town and county officials have vowed to keep them in place as a "quality of life" element. Many citizens support them, while others cite the difficulty in doing their own shopping and the impact on smaller retailers in their rationale for eliminating the restrictions.
+
+
+The meaning of the establishment clause has been controversial at times because, as a matter of course, government officials acknowledge that we live in a society with vigorous religious practice where most people believe in God—even if we disagree on what God is. Disputes often arise over how much the government can acknowledge this widespread religious belief. The courts have generally allowed for a certain tolerance of what is described as ceremonial deism, an acknowledgement of God or a creator that generally lacks any substantive religious content. For example, the national motto “In God We Trust,” which appears on our coins and paper money (Figure 4.7), is seen as more an acknowledgment that most citizens believe in God than any serious effort by government officials to promote religious belief and practice. This reasoning has also been used to permit the inclusion of the phrase “under God” in the Pledge of Allegiance—a change that came about during the early years of the Cold War as a means of contrasting the United States with the “godless” Soviet Union.
+
+
+In addition, the courts have allowed some religiously motivated actions by government agencies, such as clergy delivering prayers to open city council meetings and legislative sessions, on the presumption that—unlike school children—adult participants can distinguish between the government’s allowing someone to speak and endorsing that person’s speech. Yet, while some displays of religious codes (e.g., Ten Commandments) are permitted in the context of showing the evolution of law over the centuries (Figure 4.7), in other cases, these displays have been removed after state supreme court rulings. In Oklahoma, the courts ordered the removal of a Ten Commandments sculpture at the state capitol when other groups, including Satanists and the Church of the Flying Spaghetti Monster, attempted to get their own sculptures allowed there.
+
+
+
+
+
+
+
+Figure 
+4.7
+ 
+The motto “In God We Trust” has appeared intermittently on U.S. coins since the 1860s (a), yet it was not mandated on paper currency until 1957. The Ten Commandments are prominently displayed on the grounds of the Texas State Capitol in Austin (b), though a similar sculpture was ordered to be removed in Oklahoma. (credit a: modification of work by Kevin Dooley)
+
+
+=== The Free Exercise Clause
+
+
+The free exercise clause, on the other hand, limits the ability of the government to control or restrict religious practices. This portion of the First Amendment regulates not the government’s promotion of religion, but rather government _suppression_ of religious beliefs and practices. Much of the controversy surrounding the free exercise clause reflects the way laws or rules that apply to everyone might apply to people with particular religious beliefs. For example, can a Jewish police officer whose religious belief, if followed strictly, requires them to observe Shabbat be compelled to work on a Friday night or during the day on Saturday? Or must the government accommodate this religious practice, even if it means the general law or rule in question is not applied equally to everyone?
+
+
+In the 1930s and 1940s, cases involving Jehovah’s Witnesses demonstrated the difficulty of striking the right balance. In addition to following their church’s teaching that they should not participate in military combat, members refuse to participate in displays of patriotism, including saluting the flag and reciting the Pledge of Allegiance, and they regularly engage in door-to-door evangelism to recruit converts. These activities have led to frequent conflict with local authorities. Jehovah’s Witness children were punished in public schools for failing to salute the flag or recite the Pledge of Allegiance, and members attempting to evangelize were arrested for violating laws against door-to-door solicitation of customers. In early legal challenges brought by Jehovah’s Witnesses, the Supreme Court was reluctant to overturn state and local laws that burdened their religious beliefs.15 However, in later cases, the court was willing to uphold the rights of Jehovah’s Witnesses to proselytize and refuse to salute the flag or recite the Pledge.16
+
+
+The rights of conscientious objector*s*—individuals who claim the right to refuse to perform military service on the grounds of freedom of thought, conscience, or religion—have also been controversial, although many conscientious objectors have contributed service as non-combatant medics during wartime. To avoid serving in the Vietnam War, many people claimed to have a conscientious objection to military service on the basis that they believed this particular war was unwise or unjust. However, the Supreme Court ruled in _Gillette v. United States_ that to claim to be a conscientious objector, a person must be opposed to serving in _any_ war, not just some wars.17
+
+
+Establishing a general framework for deciding whether a religious belief can trump general laws and policies has been a challenge for the Supreme Court. In the 1960s and 1970s, the court decided two cases in which it laid out a general test for deciding similar cases in the future. In both _Sherbert v. Verner_, a case dealing with unemployment compensation, and _Wisconsin v. Yoder_, which dealt with the right of Amish parents to homeschool their children, the court said that for a law to be allowed to limit or burden a religious practice, the government must meet two criteria.18 It must demonstrate both that it had a “compelling governmental interest” in limiting that practice and that the restriction was “narrowly tailored.” In other words, it must show there was a very good reason for the law in question and that the law was the only feasible way of achieving that goal. This standard became known as the Sherbert test. Since the burden of proof in these cases was on the government, the Supreme Court made it very difficult for the federal and state governments to enforce laws against individuals that would infringe upon their religious beliefs.
+
+
+In 1990, the Supreme Court made a controversial decision substantially narrowing the Sherbert test in _Employment Division v. Smith_, more popularly known as “the peyote case.”19 This case involved two men who were members of the Native American Church, a religious organization that uses the hallucinogenic peyote plant as part of its sacraments. After being arrested for possession of peyote, the two men were fired from their jobs as counselors at a private drug rehabilitation clinic. When they applied for unemployment benefits, the state refused to pay on the basis that they had been dismissed for work-related reasons. The men appealed the denial of benefits and were initially successful, since the state courts applied the Sherbert test and found that the denial of unemployment benefits burdened their religious beliefs. However, the Supreme Court ruled in a 6–3 decision that the “compelling governmental interest” standard should not apply; instead, so long as the law was not designed to target a person’s religious beliefs in particular, it was not up to the courts to decide that those beliefs were more important than the law in question.
+
+
+On the surface, a case involving the Native American Church seems unlikely to arouse much controversy. But because it replaced the Sherbert test with one that allowed more government regulation of religious practices, followers of other religious traditions grew concerned that state and local laws, even ones neutral on their face, might be used to curtail their religious practices. In 1993, in response to this decision, Congress passed a law known as the Religious Freedom Restoration Act (RFRA), which was followed in 2000 by the Religious Land Use and Institutionalized Persons Act after part of the RFRA was struck down by the Supreme Court. In addition, since 1990, twenty-one states have passed state RFRAs that include the Sherbert test in state law, and state court decisions in eleven states have enshrined the Sherbert test’s compelling governmental interest interpretation of the free exercise clause into state law.20
+
+
+However, the RFRA itself has not been without its critics. While it has been relatively uncontroversial as applied to the rights of individuals, debate has emerged about whether businesses and other groups can be said to have religious liberty. In explicitly religious organizations, such as an Orthodox Union congregation or the Roman Catholic Church, it is fairly obvious members have a meaningful, shared religious belief. But the application of the RFRA has become more problematic in businesses and non-profit organizations whose owners or organizers may share a religious belief while the organization has some secular, non-religious purpose.
+
+
+Such a conflict emerged in the 2014 Supreme Court case known as _Burwell v. Hobby Lobby_.21 The Hobby Lobby chain of stores sells arts and crafts merchandise at hundreds of stores and its founder, David Green, is a fundamentalist Christian whose beliefs include opposition to abortion and contraception. Consistent with these beliefs, he used his business to object to a provision of the Patient Protection and Affordable Care Act (ACA or Obamacare) requiring employer-backed insurance plans to include no-charge access to the morning-after pill, a form of emergency contraception, arguing that this requirement infringed on his conscience. Based in part on the federal RFRA, the Supreme Court agreed 5–4 with Green and Hobby Lobby’s position and said that Hobby Lobby and other closely held businesses did not have to provide employees free access to emergency contraception or other birth control if doing so would violate the religious beliefs of the business’ owners, because there were other less restrictive ways the government could ensure access to these services for Hobby Lobby’s employees (e.g., paying for them directly).
+
+
+In 2015, state RFRAs became controversial when individuals and businesses that provided wedding services (e.g., catering and photography) were compelled to provide these for same-sex weddings in states where the practice had been newly legalized (Figure 4.8). Proponents of state RFRA laws argued that people and businesses ought not be compelled to endorse practices that their religious beliefs hold to be immoral or indecent. They also indicated concerns that clergy might be compelled to officiate same-sex marriages against their religion’s teachings. Opponents of RFRA laws argued that individuals and businesses should be required, per _Obergefell v. Hodges_, to serve same-sex marriages on an equal basis as a matter of ensuring the civil rights of gay and lesbian people, just as they would be obliged to cater or photograph an interracial marriage.22 In 2023, the Supreme Court ruled that a Colorado graphic artist was not obligated to create wedding websites for same-sex couples, despite a state law barring discrimination based on sexual orientation.23 It should be noted that religious organizations and clergy are not homogeneous in their view of marriage. For example, same-sex marriage is supported by Episcopalians, a sizable number of Methodists, and many leaders in the Jewish and Hindu faiths.24
+
+
+
+
+
+
+Figure 
+4.8
+ 
+One of the cases related to the free exercise clause involved an Oregon bakery whose owners refused to bake a wedding cake for a lesbian couple in January 2013, citing the owners’ religious beliefs. The couple was eventually awarded $135,000 in damages as a result of the ongoing dispute. However, in a similar case, _Masterpiece Cakeshop v. Colorado Civil Rights Commission_, the U.S. Supreme Court ruled in favor of the baker's rights. In the 2023 _Creative LLC v. Elenis_ decision, the Court ruled in favor of a website designer who refused to create a site for a same-sex couple. (credit: modification of work by Bev Sykes)
+Despite ongoing controversy, however, the courts have consistently found some public interests sufficiently compelling to override the free exercise clause. For example, since the late nineteenth century, the courts have consistently held that people’s religious beliefs do not exempt them from the general laws against polygamy, drug use, or human sacrifice. Yet, the public interest did not trump individual rights during the COVID-19 pandemic, when the Supreme Court overturned California's ban on indoor gatherings.25 Other potential acts in the name of religion that are also out of the question are drug use and human sacrifice.
+
+
+
+
+=== Freedom of Expression
+
+
+Although the remainder of the First Amendment protects four distinct rights—free speech, press, assembly, and petition—we generally think of these rights today as encompassing a right to freedom of expression, particularly since the world’s technological evolution has blurred the lines between oral and written communication (i.e., speech and press) in the centuries since the First Amendment was written and adopted.
+
+
+Controversies over freedom of expression were rare until the 1900s, even though government censorship was quite common. For example, during the Civil War, the Union post office refused to deliver newspapers that opposed the war or sympathized with the Confederacy, while allowing pro-war newspapers to be mailed. The emergence of photography and movies, in particular, led to new public concerns about morality, causing both state and federal politicians to censor lewd and otherwise improper content. At the same time, writers became more ambitious in their subject matter by including explicit references to sex and using obscene language, leading to government censorship of books and magazines.
+
+
+Censorship reached its height during World War I. The United States was swept up in two waves of hysteria. Anti-German feeling was provoked by the actions of Germany and its allies leading up to the war, including the sinking of the RMS _Lusitania_ and the Zimmerman Telegram, an effort by the Germans to conclude an alliance with Mexico against the United States. This concern was compounded in 1917 by the Bolshevik revolution against the more moderate interim government of Russia; the leaders of the Bolsheviks, most notably Vladimir Lenin, Leon Trotsky, and Joseph Stalin, withdrew from the war against Germany and called for communist revolutionaries to overthrow the capitalist, democratic governments in western Europe and North America.
+
+
+Americans who vocally supported the communist cause or opposed the war often found themselves in jail. In _Schenck v. United States_, the Supreme Court ruled that people encouraging young men to dodge the draft could be imprisoned for doing so, arguing that recommending that people disobey the law was tantamount to “falsely shouting fire in a theatre and causing a panic” and thus presented a “clear and present danger” to public order.26 Similarly, communists and other revolutionary anarchists and socialists during the Red Scare after the war were prosecuted under various state and federal laws for supporting the forceful or violent overthrow of government. This general approach to political speech remained in place for the next fifty years.
+
+
+In the 1960s, however, the Supreme Court’s rulings on free expression became more liberal, in response to the Vietnam War and the growing antiwar movement. In a 1969 case involving the Ku Klux Klan, _Brandenburg v. Ohio_, the Supreme Court found that only speech or writing that constituted a direct call or plan to imminent lawless action, an illegal act in the immediate future, could be suppressed; the mere advocacy of a hypothetical revolution was not enough.27 The Supreme Court also found that various forms of symbolic speech—wearing clothing like an armband that carried a political symbol or raising a fist in the air, for example—were subject to the same protections as written and spoken communication. More recently, symbolic speech related to the U.S. flag has engendered intense debate. Whether one should kneel during the national anthem, or ought to be able to burn the U.S. flag, are key questions.
+
+
+
+[.my1]
+.案例
+====
+== Milestone
+
+
+
+=== Burning the U.S. Flag
+
+
+Perhaps no act of symbolic speech has been as controversial in U.S. history as the burning of the flag (Figure 4.9). Citizens tend to revere the flag as a unifying symbol of the country in much the same way most people in Britain would treat the reigning queen (or king). States and the federal government have long had laws protecting the flag from being desecrated—defaced, damaged, or otherwise treated with disrespect. Perhaps in part because of these laws, people who have wanted to drive home a point in opposition to U.S. government policies have found desecrating the flag a useful way to gain public and press attention to their cause.
+
+
+
+
+
+
+
+Figure 
+4.9
+ 
+On the eve of the 2008 election, a U.S. flag was burned in protest in New Hampshire. (credit: modification of work by Jennifer Parr)
+
+One such person was Gregory Lee Johnson, a member of various pro-communist and antiwar groups. In 1984, as part of a protest near the Republican National Convention in Dallas, Texas, Johnson set fire to a U.S. flag that another protestor had torn from a flagpole. He was arrested, charged with “desecration of a venerated object” (among other offenses), and eventually convicted of that offense. However, in 1989, the Supreme Court decided in _Texas v. Johnson_ that burning the flag was a form of symbolic speech protected by the First Amendment and found the law, as applied to flag desecration, to be unconstitutional.28
+
+
+This court decision was strongly criticized, and Congress responded by passing a federal law, the Flag Protection Act, intended to overrule it; the act, too, was struck down as unconstitutional in 1990.29 Since then, Congress has tried and failed on several occasions to propose constitutional amendments allowing the states and federal government to re-criminalize flag desecration.
+
+
+_Should we amend the Constitution to allow Congress or the states to pass laws protecting the U.S. flag from desecration? Should we protect other national symbols as well, such as standing for the national anthem? Why or why not?_
+====
+
+
+Freedom of the press is an important component of the right to free expression as well. In _Near v. Minnesota_, an early case regarding press freedoms, the Supreme Court ruled that the government generally could not engage in prior restraint; that is, states and the federal government could not in advance prohibit someone from publishing something without a very compelling reason.30 This standard was reinforced in 1971 in the Pentagon Papers case, in which the Supreme Court found that the government could not prohibit the _New York Times_ and _Washington Post_ newspapers from publishing the Pentagon Papers.31 These papers included materials from a secret history of the Vietnam War that had been compiled by the military. More specifically, the papers were compiled at the request of Secretary of Defense Robert McNamara and provided a study of U.S. political and military involvement in Vietnam from 1945 to 1967. Daniel Ellsberg famously released passages of the Papers to the press to show that the United States had secretly enlarged the scope of the war by bombing Cambodia and Laos among other deeds while lying to the American public about doing so.
+
+
+Although people who leak secret information to the media can still be prosecuted and punished, this does not generally extend to reporters and news outlets that pass that information on to the public. The Edward Snowden case is another good case in point. Snowden himself, rather than those involved in promoting the information that he shared, is the object of criminal prosecution.
+
+
+Furthermore, the courts have recognized that government officials and other public figures might try to silence press criticism and avoid unfavorable news coverage by threatening a lawsuit for defamation of character. In the 1964 _New York Times v. Sullivan_ case, the Supreme Court decided that public figures needed to demonstrate not only that a negative press statement about them was untrue but also that the statement was published or made with either malicious intent or “reckless disregard” for the truth.32 This ruling made it much harder for politicians to silence potential critics or to bankrupt their political opponents through the courts.
+
+
+The right to freedom of expression is not absolute; several key restrictions limit our ability to speak or publish opinions under certain circumstances. We have seen that the Constitution protects most forms of offensive and unpopular expression, particularly political speech; however, _incitement_ of a criminal act, “fighting words,” and genuine threats are not protected. So, for example, you can’t point at someone in front of an angry crowd and shout, “Let’s beat up that guy!” And the Supreme Court has allowed laws that ban threatening symbolic speech, such as burning a cross on the lawn of an African American family’s home (Figure 4.10).33 Finally, as we’ve just seen, defamation of character—whether in written form (libel) or spoken form (slander)—is not protected by the First Amendment, so people who are subject to false accusations can sue to recover damages, although criminal prosecutions of libel and slander are uncommon.
+
+
+
+
+
+
+
+Figure 
+4.10
+ 
+The Supreme Court has allowed laws that ban threatening symbolic speech, such as burning crosses on the lawns of African American families, an intimidation tactic used by the Ku Klux Klan, pictured here at a meeting in Gainesville, Florida, on December 31, 1922.
+
+Another key exception to the right to freedom of expression is obscenity, acts or statements that are extremely offensive under current societal standards. Defining obscenity has been something of a challenge for the courts; Supreme Court Justice Potter Stewart famously said of obscenity, having watched pornography in the Supreme Court building, “I know it when I see it.” Into the early twentieth century, written work was frequently banned as being obscene, including works by noted authors such as James Joyce and Henry Miller, although today it is rare for the courts to uphold obscenity charges for written material alone. In 1973, the Supreme Court established the Miller test for deciding whether something is obscene: “(a) whether the average person, applying contemporary community standards, would find that the work, taken as a whole, appeals to the prurient interest, (b) whether the work depicts or describes, in a patently offensive way, sexual conduct specifically defined by the applicable state law; and (c) whether the work, taken as a whole, lacks serious literary, artistic, political, or scientific value.”34 However, the application of this standard has at times been problematic. In particular, the concept of “contemporary community standards” raises the possibility that obscenity varies from place to place; many people in New York or San Francisco might not bat an eye at something people in Memphis or Salt Lake City would consider offensive. The one form of obscenity that has been banned almost without challenge is child pornography, although even in this area the courts have found exceptions.
+
+
+The courts have allowed censorship of less-than-obscene content when it is broadcast over the airwaves, particularly when it is available for anyone to receive. In general, these restrictions on indecency—a quality of acts or statements that offend societal norms or may be harmful to minors—apply only to radio and television programming broadcast when children might be in the audience, although most cable and satellite channels follow similar standards for commercial reasons. An infamous case of televised indecency occurred during the halftime show of the 2004 Super Bowl, during a performance by singer Janet Jackson in which a part of her clothing was removed by fellow performer Justin Timberlake, revealing her right breast. The network responsible for the broadcast, CBS, was ultimately presented with a fine of $550,000 by the Federal Communications Commission, the government agency that regulates television broadcasting. However, CBS was not ultimately required to pay.
+
+
+On the other hand, in 1997, the NBC network showed a broadcast of _Schindler’s List_, a film depicting events during the Holocaust in Nazi Germany, without any editing, so it included graphic nudity and depictions of violence. NBC was not fined or otherwise punished, suggesting there is no uniform standard for indecency. Similarly, in the 1990s Congress compelled television broadcasters to implement a television ratings system, enforced by a “V-Chip” in televisions and cable boxes, so parents could better control the television programming their children might watch. However, similar efforts to regulate indecent content on the Internet to protect children from pornography have largely been struck down as unconstitutional. This outcome suggests that technology has created new avenues for obscene material to be disseminated. The Children’s Internet Protection Act, however, requires K–12 schools and public libraries receiving Internet access using special E-rate discounts to filter or block access to obscene material and other material deemed harmful to minors, with certain exceptions.
+
+
+The courts have also allowed laws that forbid or compel certain forms of expression by businesses, such as laws that require the disclosure of nutritional information on food and beverage containers and warning labels on tobacco products (Figure 4.11). The federal government requires the prices advertised for airline tickets to include all taxes and fees. Many states regulate advertising by lawyers. And, in general, false or misleading statements made in connection with a commercial transaction can be illegal if they constitute fraud.
+
+
+
+
+
+
+
+Figure 
+4.11
+ 
+The surgeon general’s warning label on a box of cigarettes is mandated by the Food and Drug Administration. The United States was the first nation to require a health warning on cigarette packages. (credit: Debora Cartagena, Centers for Disease Control and Prevention)
+
+Furthermore, the courts have ruled that, although public school officials are government actors, the First Amendment freedom of expression rights of children attending public schools are somewhat limited. In particular, in _Tinker v. Des Moines_ (1969) and _Hazelwood v. Kuhlmeier_ (1988), the Supreme Court has upheld restrictions on speech that creates “substantial interference with school discipline or the rights of others”35 or is “reasonably related to legitimate pedagogical concerns.”36 For example, the content of school-sponsored activities like school newspapers and speeches delivered by students can be controlled, either for the purposes of instructing students in proper adult behavior or to deter conflict between students.
+
+
+Free expression includes the right to assemble peaceably and the right to petition government officials. This right even extends to members of groups whose views most people find abhorrent, such as American Nazis and the vehemently anti-LGBTQ Westboro Baptist Church, whose members have become known for their protests at the funerals of U.S. soldiers who have died fighting in the war on terror.37 Free expression—although a broad right—is subject to certain constraints to balance it against the interests of public order. In particular, the nature, place, and timing of protests—but not their substantive content—are subject to reasonable limits. The courts have ruled that while people may peaceably assemble in a place that is a public forum, not all public property is a public forum. For example, the inside of a government office building or a college classroom—particularly while someone is teaching—is not generally considered a public forum.
+
+Rallies and protests on land that has other dedicated uses, such as roads and highways, can be limited to groups that have secured a permit in advance, and those organizing large gatherings may be required to give sufficient notice so government authorities can ensure there is enough security available. However, any such regulation must be viewpoint-neutral; the government may not treat one group differently than another because of its opinions or beliefs. For example, the government can’t permit a rally by a group that favors a government policy but forbid opponents from staging a similar rally. In a related 2024 case that could have implications for political expression, _City of Grants Pass v. Johnson_, the Supreme Court ruled on the rights of the homeless to live in encampments on subnational public lands, holding that removing and fining them was not cruel and unusual punishment and pushing consideration of the right to gather to the states. The encampment question has been an important one around recent U.S. college campus protests pertaining to the Israeli-Palestinian conflict.38
+
+
+Finally, there have been controversial situations in which government agencies have established free-speech zones for protesters during political conventions, presidential visits, and international meetings in areas that are arguably selected to minimize their public audience or to ensure that the subjects of the protests do not have to encounter the protesters.
+
+
+
+
+== THE SECOND AMENDMENT
+
+There has been increased conflict over the Second Amendment in recent years due to school shootings and gun violence. As a result, gun rights have become a highly charged political issue. The text of the Second Amendment is among the shortest of those included in the Constitution:
+
+
+“A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed.”
+
+
+But the relative simplicity of its text has not kept it from controversy; arguably, the Second Amendment has become controversial in large part because of its text. Is this amendment merely a protection of the right of the states to organize and arm a “well regulated militia” for civil defense, or is it a protection of a “right of the people” as a whole to individually bear arms?
+
+
+Before the Civil War, this would have been a nearly meaningless distinction. In most states at that time, White males of military age were considered part of the militia, liable to be called for service to put down rebellions or invasions, and the right “to keep and bear Arms” was considered a common-law right inherited from English law that predated the federal and state constitutions. The Constitution was not seen as a limitation on state power, and since the states expected all free men to keep arms as a matter of course, what gun control there was mostly revolved around ensuring enslaved people (and their abolitionist allies) didn’t have guns.
+
+
+With the beginning of selective incorporation after the Civil War, debates over the Second Amendment were reinvigorated. In the meantime, as part of their Black codes designed to reintroduce most of the trappings of slavery, several southern states adopted laws that restricted the carrying and ownership of weapons by formerly enslaved people. Despite acknowledging a common-law individual right to keep and bear arms, in 1876 the Supreme Court declined, in _United States v. Cruickshank_, to intervene to ensure the states would respect it.39
+
+
+In the following decades, states gradually began to introduce laws to regulate gun ownership. Federal gun control laws began to be introduced in the 1930s in response to organized crime, with stricter laws that regulated most commerce and trade in guns coming into force in the wake of the street protests of the 1960s. In the early 1980s, following an assassination attempt on President Ronald Reagan, laws requiring background checks for prospective gun buyers were passed. During this period, the Supreme Court’s decisions regarding the meaning of the Second Amendment were ambiguous at best. In _United States v. Miller_, the Supreme Court upheld the 1934 National Firearms Act’s prohibition of sawed-off shotguns, largely on the basis that possession of such a gun was not related to the goal of promoting a “well regulated militia.”40 This finding was generally interpreted as meaning that the Second Amendment protected the right of the states to organize a militia, rather than an individual right, and thus lower courts generally found most firearm regulations—including some city and state laws that virtually outlawed the private ownership of firearms—to be constitutional.
+
+
+However, in 2008, in a narrow 5–4 decision on _District of Columbia v. Heller_, the Supreme Court found that at least some gun control laws _did_ violate the Second Amendment and that this amendment does protect an individual’s right to keep and bear arms, at least in some circumstances—in particular, “for traditionally lawful purposes, such as self-defense within the home.”41 Because the District of Columbia is not a state, this decision immediately applied the right only to the federal government and territorial governments. Two years later, in _McDonald v. Chicago_, the Supreme Court overturned the _Cruickshank_ decision (5–4) and again found that the right to bear arms was a fundamental right incorporated against the states, meaning that state regulation of firearms might, in some circumstances, be unconstitutional. In 2015, however, the Supreme Court allowed several of San Francisco’s strict gun control laws to remain in place, suggesting that—as in the case of rights protected by the First Amendment—the courts will not treat gun rights as absolute (Figure 4.12).42 Elsewhere in the political system, the gun issue remains similarly unsettled.  However, in the wake of especially traumatic shootings at a Las Vegas outdoor concert and at a school in Parkland, Florida, there was increased activism around gun control and community safety, especially among the young.43
+
+
+
+
+
+
+Figure 
+4.12
+ 
+A “No Firearms” sign is posted at Binghamton Park in Memphis, Tennessee, demonstrating that the right to possess a gun is not absolute. (credit: modification of work by Thomas R Machnitzki)
+
+
+== THE THIRD AMENDMENT
+
+The Third Amendment says in full:
+
+
+“No Soldier shall, in time of peace be quartered in any house, without the consent of the Owner, nor in time of war, but in a manner to be prescribed by law.”
+
+
+Most people consider this provision of the Constitution obsolete and unimportant. However, it is worthwhile to note its relevance in the context of the time: citizens remembered having their cities and towns occupied by British soldiers and mercenaries during the Revolutionary War, and they viewed the British laws that required the colonists to house soldiers particularly offensive, to the point that it had been among the grievances listed in the Declaration of Independence.
+
+
+Today it seems unlikely the federal government would need to house military forces in civilian lodgings against the will of property owners or tenants; however, perhaps in the same way we consider the Second and Fourth amendments, we can think of the Third Amendment as reflecting a broader idea that our homes lie within a “zone of privacy” that government officials should not violate unless absolutely necessary.
+
+
+
+== THE FOURTH AMENDMENT
+
+The Fourth Amendment sits at the boundary between general individual freedoms and the rights of those suspected of crimes. We saw earlier that perhaps it reflects James Madison’s broader concern about establishing an expectation of privacy from government intrusion at home. Another way to think of the Fourth Amendment is that it protects us from overzealous efforts by law enforcement to root out crime by ensuring that police have good reason before they intrude on people’s lives with criminal investigations.
+
+
+The text of the Fourth Amendment is as follows:
+
+
+“The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized.”
+
+
+The amendment places limits on both _searches_ and _seizures_: Searches are efforts to locate documents and contraband. Seizures are the taking of these items by the government for use as evidence in a criminal prosecution (or, in the case of a person, the detention or taking of the person into custody).
+
+
+In either case, the amendment indicates that government officials are required to apply for and receive a search warrant prior to a search or seizure; this warrant is a legal document, signed by a judge, allowing police to search and/or seize persons or property. Since the 1960s, however, the Supreme Court has issued a series of rulings limiting the warrant requirement in situations where a person can be said to lack a “reasonable expectation of privacy” outside the home. Police can also search and/or seize people or property without a warrant if the owner or renter consents to the search, if there is a reasonable expectation that evidence may be destroyed or tampered with before a warrant can be issued (i.e., exigent circumstances), or if the items in question are in plain view of government officials.
+
+
+Furthermore, the courts have found that police do not generally need a warrant to search the passenger compartment of a car (Figure 4.13), or to search people entering the United States from another country.44 When a warrant is needed, law enforcement officers do not need enough evidence to secure a conviction, but they must demonstrate to a judge that there is probable cause to believe a crime has been committed or evidence will be found. Probable cause is the legal standard for determining whether a search or seizure is constitutional or a crime has been committed; it is a lower threshold than the standard of proof at a criminal trial.
+
+
+Critics have argued that this requirement is not very meaningful because law enforcement officers are almost always able to get a search warrant when they request one. On the other hand, since we wouldn’t expect the police to waste their time or a judge’s time trying to get search warrants that are unlikely to be granted, perhaps the high rate at which they get them should not be so surprising. The use of "no-knock" warrants based on the premise that a suspect would destroy drug evidence has recently been curtailed after the wrongful killing of Breonna Taylor by police serving such a warrant.45 , 46
+
+
+
+
+
+
+
+Figure 
+4.13
+ 
+A state police officer conducting a traffic stop near Walla Walla, Washington. (credit: modification of work by Richard Bauer)
+
+What happens if the police conduct an illegal search or seizure without a warrant and find evidence of a crime? In the 1961 Supreme Court case _Mapp v. Ohio_, the court decided that evidence obtained without a warrant that didn’t fall under one of the exceptions mentioned above could not be used as evidence in a state criminal trial, giving rise to the broad application of what is known as the exclusionary rule, which was first established in 1914 on a federal level in _Weeks v. United States_.47 The exclusionary rule doesn’t just apply to evidence found or to items or people seized without a warrant (or falling under an exception noted above); it also applies to any evidence developed or discovered as a result of the illegal search or seizure.
+
+
+For example, if police search your home without a warrant, find bank statements showing large cash deposits on a regular basis, and discover you are engaged in some other crime in which they were previously unaware (e.g., blackmail, drugs, or prostitution), they can neither use the bank statements as evidence of criminal activity, nor prosecute you for the crimes they discovered during the illegal search. This extension of the exclusionary rule is sometimes called the “fruit of the poisonous tree,” because just as the metaphorical tree (i.e., the original search or seizure) is poisoned, so is anything that grows out of it.48
+
+
+However, like the requirement for a search warrant, the exclusionary rule does have exceptions. The courts have allowed evidence to be used that was obtained without the necessary legal procedures in circumstances where police executed warrants they believed were correctly granted but in fact were not (“good faith” exception), and when the evidence would have been found anyway had they followed the law (“inevitable discovery”).
+
+
+The requirement of probable cause also applies to arrest warrants. A person cannot generally be detained by police or taken into custody without a warrant, although most states allow police to arrest someone suspected of a felony crime without a warrant so long as probable cause exists, and police can arrest people for minor crimes or misdemeanors they have witnessed themselves.
+
+
+The Supreme Court's 2012 and 2018 decisions in _United States v. Jones_ and _Carpenter v. United States_ extended the prohibition of illegal search and seizure to warrantless location tracking, either by installing a GPS device, as in the _Jones_ case, or by accessing that information provided to cellular companies, as in _Carpenter_.

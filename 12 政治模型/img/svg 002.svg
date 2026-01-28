@@ -1,0 +1,138 @@
+<svg width="855" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="435" viewBox="0 0 855 435">
+    <defs/>
+    <g transform="translate(-46.00,-190.50)">
+        <g transform="translate(515.00,265.00)" id="shape1">
+            <path fill="#ffffff" stroke="#323232" d="M142.0,49.0L142.0,.0L.0,.0L.0,49.0L142.0,49.0z" fill-rule="nonzero"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="20.5" x="58.0">日本</tspan>
+                <tspan y="39.5" x="45.0">明治政体</tspan>
+            </text>
+        </g>
+        <g transform="translate(515.00,341.00)" id="shape2">
+            <path fill="#ffffff" stroke="#323232" d="M142.0,49.0L142.0,.0L.0,.0L.0,49.0L142.0,49.0z" fill-rule="nonzero"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="20.5" x="45.0">国之元首</tspan>
+                <tspan y="39.5" x="54.0">(天皇)</tspan>
+            </text>
+        </g>
+        <g transform="translate(236.00,466.50)" id="shape3">
+            <path fill="#d7d7d7" stroke="#323232" d="M161.0,70.5L161.0,.0L.0,.0L.0,70.5L161.0,70.5z" fill-rule="nonzero"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="31.3" x="55.5">1.立法权</tspan>
+                <tspan y="50.3" x="8.0">(对标美国国会, 参众两院)</tspan>
+            </text>
+        </g>
+        <g transform="translate(430.74,466.50)" id="shape4">
+            <path fill="#d7d7d7" stroke="#323232" d="M142.0,70.5L142.0,.0L.0,.0L.0,70.5L142.0,70.5z" fill-rule="nonzero"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="22.0" x="46.0">2.司法权</tspan>
+                <tspan y="41.0" x="41.0">(执行法律)</tspan>
+                <tspan y="60.0" x="19.0">对标美国最高法院</tspan>
+            </text>
+        </g>
+        <g transform="translate(618.76,567.00)" id="shape5">
+            <path fill="#ffffff" stroke="#323232" d="M117.5,49.0L117.5,.0L.0,.0L.0,49.0L117.5,49.0z" fill-rule="nonzero"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="20.5" x="39.2">人事权</tspan>
+                <tspan y="39.5" x="15.7">(任免文武官吏)</tspan>
+            </text>
+        </g>
+        <g transform="translate(782.26,466.50)" id="shape6">
+            <path fill="#ffffff" stroke="#323232" d="M117.5,49.0L117.5,.0L.0,.0L.0,49.0L117.5,49.0z" fill-rule="nonzero"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="20.5" x="45.7">军权</tspan>
+                <tspan y="39.5" x="22.2">(统率海陆军)</tspan>
+            </text>
+        </g>
+        <g transform="translate(606.50,466.50)" id="shape7">
+            <path fill="#d7d7d7" stroke="#323232" d="M142.0,70.5L142.0,.0L.0,.0L.0,70.5L142.0,70.5z" fill-rule="nonzero"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="31.3" x="46.0">3.行政权</tspan>
+                <tspan y="50.3" x="15.0">(对标美国联邦政府)</tspan>
+            </text>
+        </g>
+        <g transform="translate(677.50,537.00)" id="shape8">
+            <path fill="none" stroke="#191919" d="M.0,.0L.0,24.0"/>
+            <path fill="#191919" stroke="#191919" stroke-linecap="round" d="M3.0,24.0L.0,30.0L-3.0,24.0L3.0,24.0" stroke-width="1"/>
+        </g>
+        <g transform="translate(236.00,341.00)" id="shape9">
+            <path fill="#ffffff" stroke="#323232" d="M161.0,49.0L161.0,.0L.0,.0L.0,49.0L161.0,49.0z" fill-rule="nonzero"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="30.0" x="61.0">众议院</tspan>
+            </text>
+        </g>
+        <g transform="translate(316.50,390.00)" id="shape10">
+            <path fill="none" stroke="#191919" d="M.0,.0L.0,70.5"/>
+            <path fill="#191919" stroke="#191919" stroke-linecap="round" d="M3.0,70.5L.0,76.5L-3.0,70.5L3.0,70.5" stroke-width="1"/>
+        </g>
+        <g transform="translate(586.00,390.00)" id="shape11">
+            <path fill="none" stroke="#191919" d="M.0,.0L.0,44.5L-238.7,44.5L-238.7,70.5"/>
+            <path fill="#191919" stroke="#191919" stroke-linecap="round" d="M-235.7,70.5L-238.7,76.5L-241.7,70.5L-235.7,70.5" stroke-width="1"/>
+        </g>
+        <g transform="translate(586.00,390.00)" id="shape12">
+            <path fill="none" stroke="#191919" d="M.0,.0L.0,44.5L255.0,44.5L255.0,70.5"/>
+            <path fill="#191919" stroke="#191919" stroke-linecap="round" d="M258.0,70.5L255.0,76.5L252.0,70.5L258.0,70.5" stroke-width="1"/>
+        </g>
+        <g transform="translate(586.00,390.00)" id="shape13">
+            <path fill="none" stroke="#191919" d="M.0,.0L.0,44.5L-84.3,44.5L-84.3,70.5"/>
+            <path fill="#191919" stroke="#191919" stroke-linecap="round" d="M-81.3,70.5L-84.3,76.5L-87.3,70.5L-81.3,70.5" stroke-width="1"/>
+        </g>
+        <g transform="translate(586.00,390.00)" id="shape14">
+            <path fill="none" stroke="#191919" d="M.0,.0L.0,44.5L91.5,44.5L91.5,70.5"/>
+            <path fill="#191919" stroke="#191919" stroke-linecap="round" d="M94.5,70.5L91.5,76.5L88.5,70.5L94.5,70.5" stroke-width="1"/>
+        </g>
+        <g transform="translate(245.50,541.92)" id="shape15">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="19.0" x="12.5">天皇“行使立法权”</tspan>
+                <tspan y="38.0" x="6.0">应该“以帝国议会之协</tspan>
+            </text>
+        </g>
+        <g transform="translate(430.74,541.92)" id="shape16">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="19.0" x="4.1">1.天皇“执行法律”</tspan>
+                <tspan y="38.0" x="4.1">应该由国务大臣“辅弼”</tspan>
+                <tspan y="72.0" x="4.1">2.天皇不得以命令更变法律”</tspan>
+            </text>
+        </g>
+        <g transform="translate(132.00,253.00)" id="shape17">
+            <path fill="#ffffff" stroke="#323232" d="M161.0,49.0L161.0,.0L.0,.0L.0,49.0L161.0,49.0z" fill-rule="nonzero"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="20.5" x="35.0">实际的立法机构</tspan>
+                <tspan y="39.5" x="50.5">(帝国议会)</tspan>
+            </text>
+        </g>
+        <g transform="translate(47.00,341.00)" id="shape18">
+            <path fill="#ffffff" stroke="#323232" d="M161.0,49.0L161.0,.0L.0,.0L.0,49.0L161.0,49.0z" fill-rule="nonzero"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="30.0" x="54.5">以贵族院</tspan>
+            </text>
+        </g>
+        <g transform="translate(212.50,302.00)" id="shape19">
+            <path fill="none" stroke="#191919" d="M.0,.0L.0,23.0L-85.0,23.0L-85.0,33.0"/>
+            <path fill="#191919" stroke="#191919" stroke-linecap="round" d="M-82.0,33.0L-85.0,39.0L-88.0,33.0L-82.0,33.0" stroke-width="1"/>
+        </g>
+        <g transform="translate(212.50,302.00)" id="shape20">
+            <path fill="none" stroke="#191919" d="M.0,.0L.0,23.0L104.0,23.0L104.0,33.0"/>
+            <path fill="#191919" stroke="#191919" stroke-linecap="round" d="M107.0,33.0L104.0,39.0L101.0,33.0L107.0,33.0" stroke-width="1"/>
+        </g>
+        <g transform="translate(757.74,329.00)" id="shape21">
+            <path fill="#ffffff" stroke="#323232" d="M142.0,73.0L142.0,.0L.0,.0L.0,73.0L142.0,73.0z" fill-rule="nonzero"/>
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="23.0" x="45.0">咨询机构</tspan>
+                <tspan y="42.0" x="46.0">(枢密院, </tspan>
+                <tspan y="61.0" x="27.0">1947年被废止)</tspan>
+            </text>
+        </g>
+        <g transform="translate(757.74,365.50)" id="shape22">
+            <path fill="none" stroke="#191919" d="M.0,.0L-94.7,.0"/>
+            <path fill="#191919" stroke="#191919" stroke-linecap="round" d="M-94.7,3.0L-100.7,.0L-94.7,-3.0L-94.7,3.0" stroke-width="1"/>
+        </g>
+        <g transform="translate(443.01,191.50)" id="shape23">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="23.0" x="71.5">是一部君主主权（天皇）</tspan>
+                <tspan y="42.0" x="84.5">与国民主权（议会）</tspan>
+                <tspan y="61.0" x="65.0">并立的双重主权二元制宪法</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

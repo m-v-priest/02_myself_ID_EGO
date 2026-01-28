@@ -1,0 +1,14 @@
+{
+    "abbrev": "",
+    "description": [
+        ""
+    ],
+    "formatVersion": 1,
+    "menu": "",
+    "name": "空行",
+    "shortcut": "",
+    "tag": [
+        "\\vspace{1em} "
+    ],
+    "trigger": ""
+}

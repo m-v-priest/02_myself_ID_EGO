@@ -1,0 +1,65 @@
+
+
+
+== 美国历史 指令
+
+1. 下面是英文视频的字幕, 跟上面没有任何关系, 1.请加入缺失的标点. 注意不要改造原文! 也不要用列表, 不要漏掉任何一句, 直接加入标点即可. 并根据内容来分段. 2.如果有单词拼写错误可以修正. 3.如果有破折号存在的话, 请用 两个短横线" -- " 来表示(前后各留一个空格), 而不要只写成一个横线"-"来表示破折号.  4. 记住: 请用 asciidoc 的原始代码(即非渲染效果)来输出.
+
+2.对下面的这篇英文, 进行改造
+
+
+比如原文是: ① Talking peace suddenly means talking about places like this—this lunar landscape, a titanium mine struggling under the Russian bombardment of Ukraine’s power grid, sometimes with only three hours of power a day.
+
+请你变成这样: ② Talking peace 谓 suddenly means talking about places like this — this lunar 月球的；月亮的 landscape 景观, a titanium 钛 mine 矿，矿井 struggling under the Russian bombardment 轰炸；炮击 of Ukraine’s power grid 电网, sometimes with only three hours of power 电力 a day.
+
+即在英文原文里,把里面的重要单词 (比如托福词汇, 雅思词汇, gre词汇, 专业术语), 惯用语(比如 make a big deal of sth), 短语(比如 go through, take part in 这样的短语动词等等), 后面直接跟上牛津高阶双语学习词典中的中文解释. 即把上面的 ①, 变成 ② 这样的形式. 在原文中这样展示就行了.
+
+注意: 某单词的中文释义如果是有多个词组来解释的, 就不要只写一个中文词组. 比如 tactic 的中文释义是"策略；手段；招数", 你就不要只给出仅一个"策略"的释义, 而要写全这些释义. 即不要只写为"tactic 策略", 而要写成"tactic 策略；手段；招数". 单词的中文解释不需要用小括号括起来. 也不需要再在文章最后单独列出每个单词的释义.
+
+记住: 请用 asciidoc 的原始代码(即非渲染效果)来输出.
+
+
+3.把下面的这篇英文, 完整翻译成中文. 注意: 翻译时不要做总结, 直接按原文来翻译, 不要漏掉任何一句原文. 我再强调一次:不要漏掉任何一句原文!不要漏掉任何一句原文! 并根据内容来分段.
+记住: 请用 asciidoc 的原始代码(即非渲染效果)来输出.
+
+'''
+
+== 脱口秀指令
+
+下面是一篇新的脱口秀,  跟上面没有任何关系, 1.请加入缺失的标点. 注意不要改造原文! 直接加入标点即可. 2.如果有单词错误可以修正. 3.对话前不需要加人名. 4.如果有粗口被消音屏蔽, 请还原这些粗口.
+
+
+下面是一段英文脱口秀, 请解释一下里面所有的笑点和梗
+
+翻译下面的英文, 注意不要漏掉任何一句
+
+'''
+
+
+下面是一段英文脱口秀, 请执行以下操作:
+
+1.它缺乏标点, 请给它加上标点, 并根据内容分段 (分段时, 每段头尾不需要用双引号来包围). 注意: 不要遗漏原文中的任何内容.
+文章里的 [ __ ] 其实是粗口部分, 被屏蔽了, 请你判断它可能是哪些词, 并还原它.
+2.如果里面有单词拼写错误, 请改正它.
+3.去掉里面的口语语气停顿词, 比如 Uh, Um 之类的, 来让语句流畅.
+4.对这篇英文, 进行改造
+
+
+比如原文是: ① Talking peace suddenly means talking about places like this—this lunar landscape, a titanium mine struggling under the Russian bombardment of Ukraine’s power grid, sometimes with only three hours of power a day.
+
+请你变成这样: ② Talking peace 谓 suddenly means talking about places like this — this lunar 月球的；月亮的 landscape 景观, a titanium 钛 mine 矿，矿井 struggling under the Russian bombardment 轰炸；炮击 of Ukraine’s power grid 电网, sometimes with only three hours of power 电力 a day.
+
+即在英文原文里,把里面的重要单词 (比如托福词汇, 雅思词汇, gre词汇, 专业术语), 惯用语(比如 make a big deal of sth), 短语(比如 go through, take part in 这样的短语动词等等), 后面直接跟上牛津高阶双语学习词典中的中文解释. 即把上面的 ①, 变成 ② 这样的形式. 在原文中这样展示就行了, 不需要再在文章最后单独列出每个单词的释义.
+
+5.最后, 把这篇英文, 完整翻译成中文. 注意: 翻译时不要做总结, 直接按原文来翻译, 不要漏掉任何一句原文.
+
+6.请讲解这篇脱口秀里面的所有笑点所在. 尤其是对非美国人的外国人来说, 不容易理解的地方.
+
+
+那么现在, 请用上面的要求, 来处理以下英文:
+
+
+
+
+
+很好, 用上面的要求, 继续来处理下面的英文

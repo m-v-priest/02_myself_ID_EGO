@@ -1,0 +1,234 @@
+
+= 011-1 The Institutional Design of Congress 国会的制度设计
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../../myAdocCss.css
+
+
+'''
+
+
+== 释义
+
+
+
+
+
+The origins of the U.S. Constitution and the convention that brought it into existence are rooted in failure—the failure of the Articles of Confederation. After only a handful of years, the states of the union decided that the Articles were simply unworkable. In order to save the young republic, a convention was called, and delegates were sent to assemble and revise the Articles. From the discussions and compromises in this convention emerged Congress in the form we recognize today. In this section, we will explore the debates and compromises that brought about the bicameral (two-chamber) Congress, made up of a House of Representatives and Senate. We will also explore the goals of bicameralism and how it functions. Finally, we will look at the different ways seats are apportioned in the two chambers.
+
+[.my2]
+美国宪法及其制宪会议的起源都根植于失败——邦联条例的失败。仅仅几年后，联邦各州就认定邦联条例根本行不通。为了拯救这个年轻的共和国，召开了制宪会议，并派遣代表集会修订邦联条例。正是在这次会议上的讨论和妥协中，诞生了我们今天所熟知的国会。在本节中，我们将探讨促成两院制国会（由众议院和参议院组成）的辩论和妥协。我们还将探讨两院制的目标及其运作方式。最后，我们将考察两院席位分配的不同方式。
+
+THE GREAT COMPROMISE AND THE BASICS OF BICAMERALISM
+伟大的妥协与两院制的基本原则
+Only a few years after the adoption of the Articles of Confederation, the republican experiment seemed on the verge of failure. States deep in debt were printing increasingly worthless paper currency, many were mired in interstate trade battles with each other, and in western Massachusetts, a small group of Revolutionary War veterans angry over the prospect of losing their farms broke into armed open revolt against the state, in what came to be known as Shays’ Rebellion. The conclusion many reached was that the Articles of Confederation were simply not strong enough to keep the young republic together. In the spring of 1787, a convention was called, and delegates from all the states (except Rhode Island, which boycotted the convention) were sent to Philadelphia to hammer out a solution to this central problem.
+
+[.my2]
+《邦联条例》通过仅仅几年后，共和政体似乎就濒临崩溃。各州债台高筑，印制的纸币日益贬值；许多州陷入了彼此间的贸易战；在马萨诸塞州西部，一小群参加过独立战争的老兵因担心失去农场而愤怒，发动了武装叛乱，史称谢斯叛乱。许多人由此得出结论： 《邦联条例》 根本不足以维系这个年轻的共和国。1787 年春，召开了制宪会议，除抵制会议的罗德岛州外，所有州的代表都被派往费城，商讨解决这一核心问题的方案。
+
+The meeting these delegates convened became known as the Constitutional Convention of 1787. Although its prescribed purpose was to revise the Articles of Confederation, a number of delegates charted a path toward disposing of the Articles entirely. Under the Articles, the national legislature had been made up of a single chamber composed of an equal number of delegates from each of the states. Large states, like Virginia, felt it would be unfair to continue with this style of legislative institution. As a result, Virginia’s delegates proposed a plan that called for bicameralism, or the division of legislators into two separate assemblies. In this proposed two-chamber Congress, states with larger populations would have more representatives in each chamber. Predictably, smaller states like New Jersey were unhappy with this proposal. In response, they issued their own plan, which called for a single-chamber Congress with equal representation and more state authority (Figure 11.2).
+
+[.my2]
+这些代表召开的会议后来被称为 1787 年制宪会议 。尽管其既定目的是修订《邦联条例》，但一些代表却试图彻底废除该条例。根据《邦联条例》，国家立法机构由一个议院组成，每个州派出相同数量的代表。像弗吉尼亚州这样的大州认为继续沿用这种立法机构模式是不公平的。因此，弗吉尼亚州的代表提出了一项方案，即实行两院制 ，将立法者分成两个独立的议院。在这个拟议的两院制国会中，人口较多的州在每个议院都将拥有更多代表。不出所料，像新泽西州这样的小州对这项提议并不满意。作为回应，他们提出了自己的方案，该方案主张建立一个拥有平等代表权和更大州权的单院制国会（ 图 11.2 ）。
+
+A chart with two columns. The column on the left is labeled “Virginia Plan” and reads “Legislature: Bicameral; Representation: Population based (higher population yields more representation); Role of national government: can legislate for states and veto state law”. The column on the right is labeled “New Jersey Plan” and reads “Legislature: unicameral; Representation: State based (each state equally represented); Role of national government: provides defense but does not override state authority”.
+
+[.my2]
+Figure 11.2 The Virginia or “large state” plan called for a two-chamber legislature, with representation by population in each chamber. The plan proposed by smaller states like New Jersey favored maintaining a one-house Congress in which all states were equally represented.
+
+[.my2]
+图 11.2 弗吉尼亚州或“大州”方案主张设立两院制立法机构，各院代表人数按人口比例分配。而新泽西州等小州提出的方案则倾向于维持一院制国会，所有州在国会中拥有平等的代表权。
+The storm of debate over how to allocate power between large and small states was eventually calmed by a third proposal. The Connecticut Compromise, also called the Great Compromise, proposed a bicameral congress with members apportioned differently in each house. The upper house, the Senate, was to have two members from each state. This soothed the fears of the small states. In the lower house, the House of Representatives, membership would be proportional to the population in each state. This measure protected the interests of the large states.
+
+[.my2]
+关于如何在大小州之间分配权力的激烈辩论最终被第三项提案平息。康涅狄格妥协案，又称大妥协案 ，提议设立两院制国会，两院议员人数比例不同。上议院参议院每个州派出两名议员，这安抚了小州的担忧。下议院众议院的议员人数则与各州人口成比例，这一措施保护了大州的利益。
+
+In the final draft of the U.S. Constitution, the bicameral Congress established by the convention of 1787 was given a number of powers and limitations. These are outlined in Article I (Appendix B). This article describes the minimum age of congresspersons (Section 2), requires that Congress meet at least once a year (Section 4), guarantees members’ pay (Section 6), and gives Congress the power to levy taxes, borrow money, and regulate commerce (Section 8). These powers and limitations were the Constitutional Convention’s response to the failings of the Articles of Confederation.
+
+[.my2]
+在美国宪法的最终草案中，1787 年制宪会议建立的两院制国会被赋予了一系列权力和限制。这些内容概述于第一条 （ 附录 B ）。该条规定了国会议员的最低年龄（第二款），要求国会每年至少召开一次会议（第四款），保障议员的薪酬（第六款），并赋予国会征税、借贷和监管商业的权力（第八款）。这些权力和限制是制宪会议针对《邦联条例》的缺陷而制定的。
+
+Although the basic design of the House and Senate resulted from a political deal between large and small states, the bicameral legislature established by the convention did not emerge from thin air. The concept had existed in Europe as far back as the medieval era. At that time, the two chambers of a legislature were divided based on class and designed to reflect different types of representation. The names of the two houses in the United Kingdom’s bicameral parliament still reflect this older distinction today: the House of Lords and the House of Commons. Likewise, those at the Constitutional Convention purposely structured the U.S. Senate differently from the House of Representatives in the hopes of encouraging different representative memberships in the two houses. Initially, for example, the power to elect senators was given to the state legislatures instead of to the voting public as it is now. The minimum age requirement is also lower for the House of Representatives: A person must be at least twenty-five years old to serve in the House, whereas one must be at least thirty to be a senator.
+
+[.my2]
+尽管众议院和参议院的基本设计源于大小州之间的政治协议，但制宪会议建立的两院制立法机构并非凭空产生。早在中世纪的欧洲，这种概念就已经存在。当时，立法机构的两院是根据阶级划分的，旨在反映不同类型的代表。英国两院制议会的两院名称至今仍体现了这种古老的区分：上议院和下议院。同样，制宪会议的参与者也特意将美国参议院的结构与众议院区分开来，希望鼓励两院拥有不同的代表成员。例如，最初，参议员的选举权赋予了州议会，而不是像现在这样赋予选民。众议院的最低年龄要求也更低：担任众议员的最低年龄为25岁，而担任参议员的最低年龄为30岁。
+
+The bicameral system established at the Constitutional Convention and still followed today requires the two houses to pass identical bills, or proposed items of legislation. This ensures that after all amending and modifying has occurred, the two houses ultimately reach an agreement about the legislation they send to the president. Passing the same bill in both houses is no easy feat, and this is by design. The framers intended there to be a complex and difficult process for legislation to become law. This challenge serves a number of important and related functions. First, the difficulty of passing legislation through both houses makes it less likely, though hardly impossible, that the Congress will act on fleeting instincts or without the necessary deliberation. Second, the bicameral system ensures that large-scale dramatic reform is exceptionally difficult to pass and that the status quo is more likely to win the day. This maintains a level of conservatism in government, something the landed elite at the convention preferred. Third, the bicameral system makes it difficult for a single faction or interest group to enact laws and restrictions that would unfairly favor it.
+
+[.my2]
+制宪会议确立并沿用至今的两院制要求参众两院通过相同的法案 ，即立法提案。这确保了在所有修正和修改之后，两院最终能够就提交给总统的法案达成一致。在两院通过同一项法案绝非易事，而这正是制宪者的初衷。他们希望立法程序复杂而艰难。这种挑战具有多项重要且相互关联的作用。首先，两院通过法案的难度降低了国会仅凭一时冲动或未经必要审议就采取行动的可能性（尽管并非完全不可能）。其次，两院制确保了大规模的重大改革难以通过，现状更有可能得以维持。这维持了政府的保守主义，而这正是制宪会议上的地主精英所希望的。第三，两院制使得任何单一派系或利益集团都难以制定对其自身不公平的法律和限制措施。
+
+Link to Learning  学习链接
+The website of the U.S. Congress Visitor Center contains a number of interesting online exhibits and informational tidbits about the U.S. government’s “first branch” (so called because it is described in Article I of the Constitution).
+
+[.my2]
+美国国会游客中心的网站包含许多有趣的在线展览和有关美国政府“第一分支”（之所以这样称呼，是因为宪法第一条中对此有所描述）的信息。
+
+SENATE REPRESENTATION AND HOUSE APPORTIONMENT
+参议院席位分配和众议院席位分配
+The Constitution specifies that every state will have two senators who each serve a six-year term. Therefore, with fifty states in the Union, there are currently one hundred seats in the U.S. Senate. Senators were originally appointed by state legislatures, but in 1913, the Seventeenth Amendment was approved, which allowed for senators to be elected by popular vote in each state. Seats in the House of Representatives are distributed among the states based on each state’s population and each member of the House is elected by voters in a specific congressional district. Each state is guaranteed at least one seat in the House (Table 11.1).
+
+[.my2]
+宪法规定，每个州拥有两名参议员，任期六年。因此，在联邦五十个州中，目前美国参议院共有一百个席位。参议员最初由各州议会任命，但在 1913 年，第十七修正案获得通过，允许各州选民直接选举参议员。 众议院的席位根据各州人口数量分配，每位众议员由特定选区的选民选举产生。每个州至少保证在众议院拥有一个席位（ 见表 11.1 ）。
+
+The 119th Congress  第119届国会
+House of Representatives
+众议院	Senate  参议院
+Total Number of Members
+成员总数	435	100
+Number of Members per State
+各州成员人数	1 or more, based on population
+根据人口数量，1 或以上	2
+Length of Term of Office
+任期长度	2 years  2年	6 years  6年
+Minimum Age Requirement  最低年龄要求	25	30
+Table 11.1
+表 11.1
+Congressional apportionment today is achieved through the equal proportions method, which uses a mathematical formula to allocate seats based on U.S. Census Bureau population data, gathered every ten years as required by the Constitution. At the close of the first U.S. Congress in 1791, there were sixty-five representatives, each representing approximately thirty thousand citizens. Then, as the territory of the United States expanded, sometimes by leaps and bounds, the population requirement for each new district increased as well. Adjustments were made, but the roster of the House of Representatives continued to grow until it reached 435 members after the 1910 census. Ten years later, following the 1920 census and with urbanization changing populations across the country, Congress failed to reapportion membership because it became deadlocked on the issue. In 1929, an agreement was reached to permanently cap the number of seats in the House at 435.
+
+[.my2]
+如今，国会席位分配采用等比例分配法 ，该方法使用数学公式，根据美国人口普查局每十年一次的人口数据（根据宪法规定）来分配席位。1791 年第一届美国国会结束时，共有 65 名众议员，每位众议员代表约 3 万名公民。随后，随着美国领土的扩张（有时甚至是飞速扩张），每个新选区的人口需求也随之增加。尽管进行了调整，但众议院的席位数量持续增长，直到 1910 年人口普查后达到 435 名。十年后，在 1920 年人口普查之后，随着城市化进程改变着全国各地的人口结构，国会未能就重新分配席位的问题达成一致，因为双方在这个问题上陷入僵局。1929 年，最终达成协议，将众议院的席位数量永久限制在 435 个。
+
+Redistricting occurs every ten years, after the U.S. Census has established how many persons live in the United States and where. The boundaries of legislative districts are redrawn as needed to maintain similar numbers of voters in each while still maintaining a total number of 435 districts. Because local areas can see their population grow as well as decline over time, these adjustments in district boundaries are typically needed after ten years have passed. Currently, there are seven states with only one representative (Alaska, Delaware, Montana, North Dakota, South Dakota, Vermont, and Wyoming), whereas the most populous state, California, has a total of fifty-three congressional districts (Figure 11.3).
+
+[.my2]
+美国每十年进行一次选区重划 ，重划依据是美国人口普查确定美国人口数量和分布情况后进行的。立法选区的边界会根据需要进行重新划分，以保持每个选区的选民人数大致相同，同时确保选区总数为 435 个。由于各地人口会随着时间推移而增长或减少，因此通常每十年需要对选区边界进行一次调整。目前，有七个州只有一个众议员席位（阿拉斯加州、特拉华州、蒙大拿州、北达科他州、南达科他州、佛蒙特州和怀俄明州），而人口最多的加利福尼亚州则共有 53 个国会选区（ 图 11.3 ）。
+
+A map of the United States titled “Congressional Apportionment Changes Based on the 2020 Census”. Oregon, Montana, Colorado, Texas, Florida, and North Carolina are marked as having gained appointments. California, Illinois, Michigan, Ohio, West Virginia, Pennsylvania, and New York are marked as having lost appointments. All remaining states are marked as having no change.
+
+[.my2]
+Figure 11.3 Although the total number of seats in the House of Representatives has been capped at 435, the apportionment of seats by state may change each decade following the official census. In this map, we see the changes in seat reapportionment that followed the 2020 Census.
+
+[.my2]
+图 11.3 虽然众议院的总席位数量上限为 435 个，但各州席位的分配可能会根据每十年一次的人口普查结果而有所变化。在这张地图中，我们可以看到 2020 年人口普查后席位重新分配的变化。
+Two remaining problems in the House are the size of each representative’s constituency—the body of voters who elect the representative—and the challenge of Washington, DC. First, the average number of citizens in a congressional district now tops 700,000. This is arguably too many for House members to remain very close to the people. George Washington advocated for thirty thousand per elected member to retain effective representation in the House. The second problem is that the approximately 675,000 residents of the federal district of Washington (District of Columbia) do not have voting representation. Like those living in the U.S. territories, they merely have a non-voting delegate.1
+众议院目前仍存在两个问题：一是每位众议员的选区规模（即选举该众议员的选民群体），二是华盛顿特区的特殊情况。首先，目前每个国会选区的平均人口超过 70 万。对于众议员而言，如此庞大的人口规模无疑难以使其与民众保持密切联系。乔治·华盛顿曾主张每位当选议员的选区人口应控制在 3 万以内，以确保众议院的有效代表。第二个问题是，华盛顿特区（哥伦比亚特区）约 67.5 万居民没有投票权。与美国领土上的居民一样，他们只有一名不具备投票权的代表。
+
+The stalemate in the 1920s wasn’t the first time reapportionment in the House resulted in controversy (or the last). The first incident took place before any apportionment had even occurred, while the process was being discussed at the Constitutional Convention. Representatives from large slaveholding states believed that enslaved people should be counted as part of their total population. States with few or no enslaved people predictably argued against this. The compromise eventually reached allowed for each enslaved person (who could not vote) to count as three-fifths of a person for purposes of congressional representation. Following the abolition of slavery and the end of Reconstruction, the former slaveholding states in the South took a number of steps to prevent formerly enslaved people and their children from voting. Yet because these formerly enslaved people were now free persons, they were counted fully toward the states’ congressional representation.
+
+[.my2]
+20 世纪 20 年代的僵局并非众议院席位重新分配引发争议的第一次（也并非最后一次）。第一次争议发生在席位重新分配之前，当时制宪会议正在讨论这一问题。来自蓄奴州的代表认为，奴隶应计入其总人口。不出所料，奴隶人口较少或没有奴隶的州对此表示反对。最终达成的妥协方案规定，每位奴隶（没有投票权）在国会席位分配中按五分之三的人口计算。废除奴隶制和重建时期结束后，南方各州采取了一系列措施，阻止前奴隶及其子女投票。然而，由于这些前奴隶如今已是自由人，他们仍然被计入各州的国会席位分配中。
+
+Attempts at African American disenfranchisement continued until the civil rights struggle of the 1960s finally brought about the Voting Rights Act of 1965. The act cleared several final hurdles to voter registration and voting for African Americans. Following its adoption, many Democrats led the charge to create congressional districts that would enhance the power of African American voters. The idea was to create majority-minority districts within states, districts in which African Americans became the majority and thus gained the electoral power to send representatives to Congress.
+
+[.my2]
+剥夺非裔美国人选举权的企图一直持续到 20 世纪 60 年代的民权运动最终促成了 1965 年 《投票权法案》 的通过。该法案扫清了非裔美国人选民登记和投票的最后几道障碍。法案通过后，许多民主党人带头推动创建能够增强非裔美国选民权力的国会选区。其理念是在各州内设立以少数族裔为主的选区 ，使非裔美国人成为这些选区的多数群体，从而获得选举权，向国会输送代表。
+
+While the strangely drawn districts succeeded in their stated goals, nearly quintupling the number of African American representatives in Congress in just over two decades, they have frustrated others who claim they are merely a new form of an old practice, gerrymandering. Gerrymandering is the manipulation of legislative district boundaries as a way of favoring a particular candidate. The term combines the word salamander, a reference to the strange shape of these districts, with the name of Massachusetts governor Elbridge Gerry, who in 1812, signed a redistricting plan designed to benefit his party. Despite the questionable ethics behind gerrymandering, the practice is legal, and both major parties have used it to their benefit. It is only when political redistricting appears to dilute the votes of racial minorities that gerrymandering efforts can be challenged under the Voting Rights Act (Figure 11.4). Other forms of gerrymandering are frequently employed in states where a dominant party seeks to maintain that domination. As we saw in the chapter on political parties, gerrymandering can be a tactic to draw district lines in a way that creates “safe seats” for a particular political party. In states like Maryland, these are safe seats for Democrats. In states like Louisiana, they are safe seats for Republicans.
+
+[.my2]
+尽管这些形状奇特的选区划分实现了其既定目标——在短短二十多年间，非裔美国人在国会的代表人数几乎翻了五倍——但也令一些人感到不满，他们认为这不过是旧伎俩——选区划分不公—— 的新形式。 选区划分不公是指操纵立法选区边界，以偏袒特定候选人。这个词结合了“蝾螈”（salamander）一词（指这些选区形状奇特）和马萨诸塞州州长埃尔布里奇·格里（Elbridge Gerry）的名字。格里于 1812 年签署了一项旨在使其党派受益的选区重划方案。尽管选区划分不公背后的道德问题备受质疑，但这种做法是合法的，而且两大政党都曾利用它为自己谋利。只有当政治选区重划似乎削弱了少数族裔的选票时，才能根据《投票权法案》（ 图 11.4 ）对选区划分不公的行为提出质疑。在那些执政党试图维持其统治地位的州，其他形式的选区划分不公也经常被采用。正如我们在关于政党的章节中所看到的，选区划分不公是一种通过人为划定选区边界来为特定政党创造“安全席位”的策略。在马里兰州等州，这些席位是民主党的安全席位；而在路易斯安那州等州，这些席位则是共和党的安全席位。
+
+A series of three maps titled “Gerrymandering in Austin, TX, 2003-2015”. The map on the left is labeled “2003-2005” and shows four districts outlined around a city labeled “Austin”. The map in the center is labeled “2005-2007” and shows five districts outlined around a city labeled “Austin”. The map on the right is labeled “2013-2015” and shows six districts outlined around a city labeled “Austin”.
+
+[.my2]
+Figure 11.4 These maps show examples of gerrymandering in Texas, where the Republican-controlled legislature has redrawn House districts to reduce the number of Democratic seats by combining voters in Austin with those in surrounding counties, sometimes even several hundred miles away. Today, Austin is represented by six different congressional representatives.
+
+[.my2]
+图 11.4 这些地图展示了德克萨斯州选区划分不公的例子。在德克萨斯州，共和党控制的州议会重新划分了众议院选区，通过将奥斯汀的选民与周边县（有时甚至数百英里之外）的选民合并，来减少民主党的席位。如今，奥斯汀由六位不同的国会众议员代表。
+Finding a Middle Ground
+寻找折衷方案
+Racial Gerrymandering and the Paradox of Minority Representation
+种族选区划分与少数族裔代表权的悖论
+In Ohio, one skirts the shoreline of Lake Erie like a snake. In Louisiana, one meanders across the southern part of the state from the eastern shore of Lake Ponchartrain, through much of New Orleans and north along the Mississippi River to Baton Rouge. And in Illinois, another wraps around the city of Chicago and its suburbs in a wandering line that, when seen on a map, looks like the mouth of a large, bearded alligator attempting to drink from Lake Michigan.
+
+[.my2]
+在俄亥俄州，一条海岸线像蛇一样蜿蜒盘旋在伊利湖畔。在路易斯安那州，一条海岸线从庞恰特雷恩湖东岸起，蜿蜒穿过该州南部，途经新奥尔良的大部分地区，然后沿着密西西比河向北延伸至巴吞鲁日。而在伊利诺伊州，另一条海岸线环绕着芝加哥市及其郊区，蜿蜒曲折，从地图上看，就像一条长着胡须的大鳄鱼张开大嘴，正试图从密歇根湖中饮水。
+
+These aren’t geographical features or large infrastructure projects. Rather, they are racially gerrymandered congressional districts. Their strange shapes are the product of careful district restructuring organized around the goal of enhancing the votes of minority groups. The alligator-mouth District 4 in Illinois, for example, was drawn to bring a number of geographically autonomous Latino groups in Illinois together in the same congressional district.
+
+[.my2]
+这些并非地理特征或大型基础设施项目，而是人为划分的、带有种族歧视色彩的国会选区。它们奇特的形状是精心策划的选区重组的结果，其目的在于提升少数族裔的投票率。例如，伊利诺伊州的第四选区形似鳄鱼嘴，其划分目的就是为了将伊利诺伊州多个地理位置相对独立的拉丁裔群体集中到同一个国会选区。
+
+While the strategy of creating majority-minority districts has been a success for minorities’ representation in Congress, its long-term effect has revealed a disturbing paradox: Congress as a whole has become less enthusiastic about minority-specific issues. How is this possible? The problem is that by creating districts with high percentages of minority constituents, strategists have made the other districts less diverse. The representatives in those districts are under very little pressure to consider the interests of minority groups. As a result, they typically do not.2
+虽然设立少数族裔占多数的选区这一策略在提高少数族裔在国会的代表性方面取得了成功，但其长期影响却揭示了一个令人不安的悖论：国会整体上对少数族裔特定议题的热情有所下降。这怎么可能呢？问题在于，通过设立少数族裔选民比例高的选区，策略制定者降低了其他选区的多样性 。 这些选区的代表几乎没有压力去考虑少数族裔的利益。因此，他们通常不会这样做。
+
+What changes might help correct this problem? Are majority-minority districts no longer an effective strategy for increasing minority representation in Congress? Are there better ways to achieve a higher level of minority representation?
+哪些改变或许有助于解决这个问题？以少数族裔为主的选区是否已不再是提高少数族裔在国会代表人数的有效策略？是否有更好的方法来提高少数族裔的代表性？
+
+CONGRESSIONAL POWERS  国会权力
+The authority to introduce and pass legislation is a very strong power. But it is only one of the many that Congress possesses. In general, congressional powers can be divided into three types: enumerated, implied, and inherent. An enumerated power is a power explicitly stated in the Constitution. An implied power is one not specifically detailed in the Constitution but inferred as necessary to achieve the objectives of the national government. And an inherent power, while not enumerated or implied, must be assumed to exist as a direct result of the country’s existence. In this section, we will learn about each type of power and the foundations of legitimacy they claim. We will also learn about the way the different branches of government have historically appropriated powers not previously granted to them and the way congressional power has recently suffered in this process.
+
+[.my2]
+提出和通过立法的权力是一项非常强大的权力。但这只是国会拥有的众多权力之一。一般来说，国会的权力可以分为三种类型：列举权力、默示权力和固有权力。 列举权力是指宪法中明确规定的权力。 默示权力是指宪法中没有具体列明，但被推断为实现国家政府目标所必需的权力。而固有权力虽然既非列举权力也非默示权力，但必须假定其存在，因为它是国家存在的直接结果。在本节中，我们将了解每种权力及其合法性的基础。我们还将了解历史上政府各部门如何攫取此前未被授予的权力，以及国会权力近年来在这一过程中受到的影响。
+
+Article I, Section 8, of the U.S. Constitution details the enumerated powers of the legislature. These include the power to levy and collect taxes, declare war, raise an army and navy, coin money, borrow money, regulate commerce among the states and with foreign nations, establish federal courts and bankruptcy rules, establish rules for immigration and naturalization, and issue patents and copyrights. Other powers, such as the power of Congress to establish federal courts below the Supreme Court, are found elsewhere in the Constitution (Article III, Section 1). The first of these enumerated powers, to levy taxes, is quite possibly the most important power Congress possesses. Without it, most of the others, whether enumerated, implied, or inherent, would be largely theoretical. The power to levy and collect taxes, along with the appropriations power, gives Congress what is typically referred to as “the power of the purse” (Figure 11.5). This means Congress controls the money.
+
+[.my2]
+美国宪法第一条第八款详细列举了立法机关的各项权力。这些权力包括征税和收取税款、宣战、组建陆军和海军、铸造货币、借贷、监管各州之间以及与外国之间的贸易、设立联邦法院和制定破产规则、制定移民和入籍规则，以及颁发专利和版权。其他权力，例如国会设立最高法院以下联邦法院的权力，则在宪法的其他部分有所规定（第三条第一款）。在这些列举的权力中，征税权或许是国会拥有的最重要的权力。如果没有这项权力，其他大多数权力，无论是列举的、隐含的还是固有的，都将沦为纸上谈兵。征税权与拨款权共同赋予国会通常所说的“财政权”（ 图 11.5 ）。这意味着国会掌控着财政大权。
+
+A pie chart titled “Federal Tax Revenue in Fiscal Year 2024”. The first slice is labeled “Other 5.2%, $253 billion”. The second slice is labeled “Corporate Income 10.8%, $530 billion”. The third slice is labeled “Payroll 34.7%, $1.71 trillion”. The fourth slice is labeled “Individual Income 49.3%, $2.43 trillion”. A callout box reads “total: $4.92 trillion”.
+
+[.my2]
+Figure 11.5 The ability to levy and collect taxes is the first, and most important, of Congress’s enumerated powers. In 2024, U.S. federal tax revenue totaled $4.92 trillion. Source: CBO Historical Tables, January 2025.
+
+[.my2]
+图 11.5 征税权是国会列举的权力中首要且最重要的权力。2024 年，美国联邦税收总额为 4.92 万亿美元。资料来源：国会预算办公室历史表格，2025 年 1 月。
+Some enumerated powers invested in the Congress were included specifically to serve as checks on the other powerful branches of government. These include Congress’s sole power to introduce legislation, the Senate’s final say on many presidential nominations and treaties signed by the president, and the House’s ability to impeach or formally accuse the president or other federal officials of wrongdoing (the first step in removing the person from office; the second step, trial and removal, takes place in the U.S. Senate). Each of these powers also grants Congress oversight of the actions of the president and the administration—that is, the right to review and monitor other bodies such as the executive branch. The fact that Congress has the sole power to introduce legislation effectively limits the power of the president to develop the same laws the president is empowered to enforce. The Senate’s exclusive power to give final approval for many of the president’s nominees, including cabinet members and judicial appointments, compels the president to consider the needs and desires of Congress when selecting top government officials. Finally, removing a president from office who has been elected by the entire country should never be done lightly. Giving this responsibility to a large deliberative body of elected officials ensures it will occur only very rarely.
+
+[.my2]
+赋予国会的某些列举权力，其目的正是为了制衡其他权力强大的政府部门。这些权力包括国会独有的立法提案权、参议院对总统提名和总统签署的条约的最终决定权，以及众议院弹劾或正式指控总统或其他联邦官员不当行为的权力（这是罢免官员的第一步；第二步，即审判和罢免，由美国参议院进行）。每一项权力也赋予国会监督总统和行政部门行为的权力——即审查和监督其他机构（例如行政部门）的权利。国会独有的立法提案权有效地限制了总统制定和执行法律的权力。参议院对总统提名的许多人选（包括内阁成员和司法任命）拥有最终批准权，这迫使总统在选择高级政府官员时必须考虑国会的需求和意愿。最后，罢免一位由全国人民选举产生的总统绝非儿戏。将这项职责赋予一个由众多民选官员组成的审议机构，可以确保这种情况极少发生。
+
+Despite the fact that the Constitution outlines specific enumerated powers, most of the actions Congress takes on a day-to-day basis are not actually included in this list. The reason is that the Constitution not only gives Congress the power to make laws but also gives it some general direction as to what those laws should accomplish. The “necessary and proper clause” directs Congress “to make all Laws which shall be necessary and proper for carrying into Execution the foregoing Powers, and all other Powers vested by this Constitution in the Government of the United States, or in any Department or Officer thereof.” Laws that regulate banks, establish a minimum wage, and allow for the construction and maintenance of interstate highways are all possible because of the implied powers granted by the necessary and proper clause. Today, the overwhelming portion of Congress’s work is tied to the necessary and proper clause.
+
+[.my2]
+尽管宪法列举了具体的权力，但国会日常的大部分行动实际上并不包含在这些权力之中。原因在于，宪法不仅赋予国会立法权，还就这些法律应达成的目标提供了总体指导。“必要且适当条款”指示国会“制定一切为执行上述权力以及本宪法赋予美国政府或其任何部门或官员的所有其他权力所必需且适当的法律”。监管银行、设立最低工资标准以及允许修建和维护州际公路等法律之所以成为可能，正是因为“必要且适当条款”所赋予的隐含权力。如今，国会的绝大部分工作都与“必要且适当条款”息息相关。
+
+Finally, Congress’s inherent powers are unlike either the enumerated or the implied powers. Inherent powers are not only not mentioned in the Constitution, but they do not even have a convenient clause in the Constitution to provide for them. Instead, they are powers Congress has determined it must assume if the government is going to work at all. The general assumption is that these powers were deemed so essential to any functioning government that the framers saw no need to spell them out. Such powers include the power to control borders of the state, the power to expand the territory of the state, and the power to defend itself from internal revolution or coups. These powers are not granted to the Congress, or to any other branch of the government for that matter, but they exist because the country exists.
+
+[.my2]
+最后，国会的固有权力既不同于列举权力，也不同于隐含权力。固有权力不仅未在宪法中提及，甚至连宪法中没有专门的条款来规定它们。相反，这些权力是国会为了确保政府正常运转而必须承担的责任。普遍的观点是，这些权力对于任何有效运作的政府都至关重要，因此制宪者认为没有必要将其明确列出。这些权力包括控制州界的权力、扩张州领土的权力以及抵御内部革命或政变的权力。这些权力并非授予国会，也并非授予任何其他政府部门，而是因为国家的存在而拥有这些权力。
+
+Finding a Middle Ground
+寻找折衷方案
+Understanding the Limits of Congress’s Power to Regulate
+了解国会监管权力的局限性
+One of the most important constitutional anchors for Congress’s implicit power to regulate all manner of activities within the states is the short clause in Article I, Section 8, which says Congress is empowered to “to regulate Commerce with foreign Nations, and among the several States, and with Indian Tribes.” The Supreme Court’s broad interpretation of this so-called commerce clause has greatly expanded the power and reach of Congress over the centuries.
+
+[.my2]
+国会隐含地拥有监管各州境内各种活动的权力，其最重要的宪法依据之一是宪法第一条第八款中的简短条款，该条款规定国会有权“监管与外国、各州之间以及与印第安部落的商业活动”。几个世纪以来，最高法院对这一所谓的“商业条款”的广泛解释极大地扩展了国会的权力和影响力。
+
+From the earliest days of the republic until the end of the nineteenth century, the Supreme Court consistently handed down decisions that effectively broadened the Congress’s power to regulate interstate and intrastate commerce.3 The growing country, the demands of its expanding economy, and the way changes in technology and transportation contributed to the shrinking of space between the states demanded that Congress be able to function as a regulator. For a short period in the 1930s when federal authority was expanded to combat the Great Depression, the Court began to interpret the commerce clause far more narrowly. But after this interlude, the court’s interpretation swung in an even-broader direction. This change proved particularly important in the 1960s, when Congress rolled back racial segregation throughout much of the South and beyond, and in the 1970s, as federal environmental regulations and programs took root.
+
+[.my2]
+从共和国建立之初到十九世纪末，最高法院的判决始终有效地扩大了国会监管州际和州内贸易的权力。 3 国家的不断发展、经济扩张的需求，以及技术和交通运输的变革导致各州之间的距离不断缩小，都要求国会能够履行监管职能。在 20 世纪 30 年代，为了应对大萧条，联邦政府的权力得到了扩张，最高法院曾短暂地对商业条款进行了更为狭义的解释。但在此之后，法院的解释又转向了更为宽泛的方向。这一转变在 20 世纪 60 年代尤为重要，当时国会废除了南方大部分地区及其他地区的种族隔离制度；在 20 世纪 70 年代，随着联邦环境法规和项目的逐步实施，这一转变也发挥了重要作用。
+
+But in United States v. Lopez, a decision issued in 1995, the Court changed course again and, for the first time in half a century, struck down a law as an unconstitutional overstepping of the commerce clause.4 Five years later, the Court did it again, convincing many that the country may be witnessing the beginning of a rollback in Congress’s power to regulate in the states. When the Patient Protection and Affordable Care Act (also known as the ACA, or Obamacare) came before the Supreme Court in 2012, many believed the Court would strike it down. Instead, the justices took the novel approach of upholding the law based on the Congress’s enumerated power to tax, rather than the commerce clause. The decision was a shock to many.5 And, by not upholding the law on the basis of the commerce clause, the Court left open the possibility that it would continue to pursue a narrower interpretation of the clause.
+
+[.my2]
+但在 1995 年 “美国诉洛佩兹案”（United States v. Lopez） 的判决中，最高法院再次改变立场，半个世纪以来首次以违反商业条款为由，裁定一项法律违宪。 五年后，最高法院再次做出类似裁决，令许多人相信，美国可能正在见证国会在各州监管权力的倒退。2012 年，《 患者保护与平价医疗法案》 （Patient Protection and Affordable Care Act，简称 ACA 或奥巴马医改）提交最高法院审理时，许多人认为最高法院会将其推翻。然而，大法官们却采取了一种新颖的做法，即基于国会列举的征税权而非商业条款，支持了该法案。这一裁决令许多人感到震惊。 而且 ，由于最高法院没有依据商业条款支持该法案，因此也留下了继续对该条款进行更狭义解释的可能性。
+
+What are the advantages of the Supreme Court’s broad interpretation of the commerce clause? How do you think this interpretation affects the balance of power between the branches of government? Why are some people concerned that the Court’s view of the clause could change?
+最高法院对商业条款的宽泛解释有哪些优势？你认为这种解释会如何影响政府各部门之间的权力平衡？为什么有些人担心最高法院对该条款的看法可能会改变？
+
+In the early days of the republic, Congress’s role was rarely if ever disputed. However, with its decision in Marbury v. Madison (1803), the Supreme Court asserted its authority over judicial review and assumed the power to declare laws unconstitutional.6 Yet, even after that decision, the Court was reluctant to use this power and didn’t do so for over half a century. Initially, the presidency was also a fairly weak branch of government compared with the legislature. But presidents have sought to increase their power almost from the beginning, typically at the expense of the Congress. By the nature of the enumerated powers provided to the president, it is during wartime that the chief executive is most powerful and Congress least powerful. For example, President Abraham Lincoln, who oversaw the prosecution of the Civil War, stretched the bounds of his legal authority in a number of ways, such as by issuing the Emancipation Proclamation that freed enslaved people in the confederate states.7
+在共和国早期，国会的角色几乎从未受到质疑。然而，随着最高法院在 “马伯里诉麦迪逊案” （1803 年）中的裁决，其确立了对司法审查的权威，并获得了宣布法律违宪的权力。 6 然而，即便在该裁决之后，最高法院仍不愿动用这项权力，并在半个多世纪的时间里都没有这样做。最初，与立法机关相比，总统也是一个权力相对较弱的政府部门。但总统几乎从一开始就试图扩大自己的权力，通常是以牺牲国会的权力为代价。根据总统被赋予的列举权力的性质，在战时，行政首脑的权力最大，而国会的权力最小。例如，领导内战的亚伯拉罕·林肯总统在许多方面都拓展了他的法定权力范围，例如颁布了《解放奴隶宣言》，解放了南部邦联各州的奴隶。 7
+
+In the twentieth century, the modern tussle over power between the Congress and the president really began. There are two primary reasons this struggle emerged. First, as the country grew larger and more complex, the need for the government to assert its regulatory power grew. The executive branch, because of its hierarchical organization with the president at the top, is naturally seen as a more smoothly run governmental machine than the cumbersome Congress. This gives the president advantages in the struggle for power and indeed gives Congress an incentive to delegate authority to the president on processes, such as trade agreements and national monument designations, that would be difficult for the legislature to carry out. The second reason has to do with the president’s powers as commander-in-chief in the realm of foreign policy.
+
+[.my2]
+二十世纪，国会与总统之间现代权力斗争真正开始。这场斗争的出现主要有两个原因。首先，随着国家规模的扩大和复杂性的增加，政府行使监管权力的需求也日益增长。行政部门由于其层级分明的组织结构（总统居首），自然被视为比臃肿的国会运转更为顺畅的政府机器。这使得总统在权力斗争中占据优势，也促使国会倾向于将一些立法机构难以执行的程序（例如贸易协定和国家纪念碑的指定）的权力下放给总统。第二个原因与总统作为三军统帅在外交政策领域的权力有关。
+
+The twin disasters of the Great Depression in the 1930s and World War II, which lasted until the mid-1940s, provided President Franklin D. Roosevelt with a powerful platform from which to expand presidential power. His popularity and his ability to be elected four times allowed him to greatly overshadow Congress. As a result, Congress attempted to restrain the power of the presidency by proposing the Twenty-Second Amendment to the Constitution, which limited a president to only two full terms in office.8 Although this limitation is a significant one, it has not held back the tendency for the presidency to assume increased power.
+
+[.my2]
+20 世纪 30 年代的大萧条和持续到 40 年代中期的第二次世界大战这两场灾难，为富兰克林· 罗斯福总统提供了一个强大的平台，使他得以扩张总统权力。他的高人气和四次连任使他能够极大地凌驾于国会之上。因此，国会试图通过提出宪法第二十二修正案来限制总统权力，该修正案规定总统只能连任两届。尽管这一限制意义重大，但它并未阻止总统权力不断扩张的趋势。
+
+In the decades following World War II, the United States entered the Cold War, a seemingly endless conflict with the Soviet Union without actual war, and therefore a period that allowed the presidency to assert more authority, especially in foreign affairs. In an exercise of this increased power, in the 1950s, President Harry Truman effectively went around an enumerated power of Congress by sending troops into battle in Korea without a congressional declaration of war (Figure 11.6). By the time of the Kennedy administration in the 1960s, the presidency had assumed nearly all responsibility for creating foreign policy, effectively shutting Congress out.
+
+[.my2]
+二战后的几十年里，美国进入了冷战时期，这是一场与苏联之间看似永无休止的无战争冲突，因此总统权力得以进一步扩大，尤其是在外交事务方面。20 世纪 50 年代，哈里·杜鲁门总统正是利用这种权力，绕过国会列举的权力，在没有国会宣战的情况下派遣军队进入朝鲜战场（ 图 11.6 ）。到了 20 世纪 60 年代肯尼迪政府时期，总统几乎包揽了所有外交政策的制定，国会实际上被排除在外。
+
+Following the twin scandals of Vietnam and Watergate in the early 1970s, Congress attempted to assert itself as a coequal branch, even in creating foreign policy, but could not hold back the trend. The War Powers Resolution (covered in the foreign policy chapter) was intended to strengthen congressional war powers but ended up clarifying presidential authority in the first sixty days of a military conflict. The war on terrorism after 9/11 has also strengthened the president’s hand. Today, the seemingly endless bickering between the president and the Congress is a reminder of the ongoing struggle for power between the branches, and indeed between the parties, in Washington, DC. Presidential use of executive orders on domestic policy, and executive agreements on foreign policy, allowed in areas in which Congress has delegated authority to the president, have furthered this trend. When used, they replace legislation and treaties.9
+继 20 世纪 70 年代初的越南战争和水门事件这两大丑闻之后，国会试图确立自身与总统平起平坐的地位，甚至在制定外交政策方面也是如此，但却无法阻止这一趋势。《 战争权力决议 》（在外交政策章节中有所论述）旨在加强国会的战争权力，但最终却明确了总统在军事冲突爆发后最初 60 天内的权力。9·11 事件后的反恐战争也进一步强化了总统的权力。如今，总统与国会之间看似永无休止的争吵，提醒着人们华盛顿特区各部门之间，乃至各党派之间，持续不断的权力斗争。总统在国内政策方面使用行政命令，在外交政策方面使用行政协议（在国会已授权总统的领域 ） ，进一步推动了这一趋势。一旦使用，这些行政命令和协议便取代了立法和条约。
+
+An image of several soldiers surrounding an artillery piece.
+
+[.my2]
+Figure 11.6 President Truman did not think it necessary to go through Congress to prosecute the war in Korea. This action opened the door to an extended era in which Congress has been effectively removed from decisions about whether to go to war, an era that continues today.
+
+[.my2]
+图 11.6 杜鲁门总统认为无需通过国会即可发动朝鲜战争。这一举动开启了一个漫长的时期，在这个时期里，国会实际上被排除在是否发动战争的决策之外，而这一时期一直延续至今。
+
+'''

@@ -1,0 +1,878 @@
+
+= eco 2020 - (34-35)
+:toc:
+
+---
+
+== 背景信息: 美国云法案 : Clarifying Lawful Overseas Use of Data
+
+纵观全球云服务市场，大部分市场都被美国厂商把持。目前为止，欧洲公司的数据主要存储在美国的服务器上，亚马逊、微软和谷歌的云服务主导着世界近75%的市场。然而近年来与美国的贸易冲突，以及对允许美国当局获取海外数据的《美国云法案》的疑虑，迫使欧洲开始考虑中央基础设施的安全性, 和数字世界中的单方面依赖问题。
+
+2018年3月底，美国正式通过云法案，该法案的全称为：《明确数据在海外合法使用》方案（Clarifying 使更清晰易懂；阐明；澄清 Lawful(a.)法定的；法律承认的；合法的 Overseas Use of Data）。
+
+根据法案，要求任何在云上存储数据的公司, 需应要求, 将数据转交给美国政府（如果该公司以任何方式受美国管辖）。任何在美国经营, 或者在美国为客户提供服务的公司，都可能受到云法案的约束。此外，*公司位于美国境内, 但是数据中心在境外的企业，也必须遵守云法案的要求。* +
+*这就意味着，当美国云计算服务提供商在接到美国政府要求之时，必须提供服务器上的相关数据，无论该数据是存放在美国本土还是存放在海外*，此举将产生了重要影响。
+
+毫无疑问，美国云法案对于AWS、微软、Google以及IBM等云计算服务提供商带来了巨大挑战，因为欧洲是这些云计算服务提供商的市场，很多欧洲的企业都在使用这些公司的云服务。
+
+云法案的出台源自于美国联邦调查局的一次毒品调查行动，FBI希望获得微软在爱尔兰一台服务器的访问权限，但是遭到了微软的拒接，微软当时表示不能被迫提供保存在美国境外的数据，并希望FBI往爱尔兰并经爱尔兰法院许可才能拿到该数据。
+
+欧洲议会荷兰议员Sophie in't Veld表示，*美国云法案规定了"治外法权"，这显然违背了欧盟法律*，如果欧盟制定了类似的法案，美国当然不会同意。
+
+事实上，在云法案通过不久，欧盟即版本了GDPR（通用数据保护条例），规定所有从欧盟公民收集数据的企业, 必须遵守欧盟的规则，这两项法律现在存在着冲突的可能。
+
+美国云法案中的条款, 允许美国与各国达成“执行协议”，从而实现信息和数据的相互交换。现在，欧盟希望利用该条款, 从某种程度上来收回部分数据控制权，欧盟委员会希望与美国进一步谈判。
+
+---
+
+
+
+
+== 34. Governments are erecting 建立；建造;竖立；搭起 borders for data
+
+Data sovereignty 主权；最高统治权；最高权威;独立自主 *is rapidly becoming* a big issue
+
+政府正在为数据建立边界 +
+数据主权, 正迅速成为一个大问题
+
+Feb 20th 2020 | +
+eco 2020-2-22 / Special report / Geopolitics: Virtual nationalism
+
+
+SOMEWHERE *DEEP* in the bowels 内部最深处;肠 of Microsoft’s campus in Redmond(`= : 美国华盛顿州城市，微软总部`) near Seattle(`=Seattle :  西雅图`), a jumble 杂乱的一堆；混乱的一团 of more than 100 buildings, there *is* a special kind of room.
+
+The size of a school gym, its walls *are covered with* big screens.
+
+One *shows* the “health” of the firm’s cloud-computing services, *collectively called* 统称为 Azure.
+
+Another *displays* people’s “sentiment” （基于情感的）观点，看法；情绪 about the system, as *expressed* on social media.
+
+A third one, a large map of the world, *tells* visitors `主` how many “denial(n.)(`= : 拒绝给予，剥夺（应有的权利）`)-of-service” (DOS) attacks, which *amount to* 等于；相当于 flooding(v.)（使）灌满水；淹没;大量涌入；蜂拥而出 a customer’s online presence *with* bits *to shut it down*, `谓` *are currently being dealt with*.
+
+The counters 计数器，计算器 on this Thursday morning in early December *show* 80 in Asia, 171 in Europe /and 425 in the Americas.
+
+微软的总部, 位于西雅图附近雷德蒙德(Redmond). 在它的深处，一百多座建筑混杂在一起，在那里有一个特殊的房间。它有着学校体育馆般的大小，墙壁上覆盖着大屏幕。其中一块, 显示着公司云计算服务的“健康状况”，这些云计算服务, 统称为Azure。另一块屏幕, 显示着人们对Azure的态度--他们在社交媒体上表达出来的. 第三块屏幕, 是一张世界大地图，它告诉参观者们, 目前有多少“拒绝服务”(DOS)攻击正在被处理，这些攻击相当于向用户的在线状态中注入大量数据，使其关闭。这个12月初周四的上午, 计数器显示着，来自亚洲的有80个攻击，欧洲有171个，美洲有425个。
+
+*It* would be fair 合理的；恰当的；适当的 *to assume that* the room *is* a NOC, a “network operations centre”, *to manage* Azure.
+
+But nothing *gets controlled* here; that *happens elsewhere*. Instead, the room, *called* the Cloud Collaboration 合作；协作 Centre (CCC), *serves* two other purposes.
+
+One `系` *is*, in the words of Anja Ziegler, who *manages* the location, `表` *to “put* a face on the cloud” -- *giving* customers *an idea* what Azure and the mirror worlds (it *powers*) *are* about.
+
+But more important, the room *serves as* a place *for* Microsoft employees *to discuss* how *to reshape* the cloud *in response to* legal changes in the data economy.
+
+如果你把它假设成是用于管理Azure的网络控制中心(NOC), 也是恰当的. 不过事实上, 这儿不控制任何东西. 控制是在其他房间做出的. 相反, 这个房间, 被称作"云协作中心"(CCC), 是用于两个目的.  +
+第一个目的, 用本处的负责人  Anja Ziegler 的话来说, 是给云服务一个用户界面, 能让用户知道, Azure 和其驱动的数字化镜像世界, 是什么样子的. +
+另一个更重要的目的, 是给微软的雇员们, 提供一个房间, 用来讨论在应对数字经济的法律变化问题时, 该如何调整其云服务.
+
+
+
+`主` One of the first projects *to be tackled* in the CCC `系` *was* how *to make* Azure *compatible 可共存的；可共用的；兼容的 with* the General Data Protection Regulation (GDPR), the EU’s tough privacy law that *went into effect* in 2018.
+
+The room *has only become busier* since: privacy and other data-related legislation *is multiplying*(`=multiply : 成倍增加；迅速增加`) around the world.
+
+Sometimes virtual borders *need to be erected* 竖立；搭起;创立；设立, *so that* data *do not leave* or *enter* a certain country.
+
+Or a new data centre *needs to be built* to give the digital stuff a local home.
+
+If this trend *holds* 保持不变, Microsoft *may soon have to upgrade* the CCC’s world map -- *to show* the planet’s many different data zones, *rather than* just DOS attacks.
+
+CCC首先要解决的项目之一是如何使Azure与通用数据保护条例(GDPR)兼容，这是欧盟严格的隐私法，于2018年生效。自那以后，会议室变得更加繁忙:隐私和其他与数据相关的立法, 在世界各地成倍增长。有时需要建立虚拟边界，这样数据就不会离开或进入某个国家。或者需要建立一个新的数据中心，让数字产品在当地安家。如果这种趋势持续下去，微软可能很快就得升级CCC的世界地图，以显示地球上许多不同的数据区域，而不仅仅是DOS攻击。
+
+The CCC *is* thus a place where another tension of the data economy *is playing out* 发生；出现.
+
+Data *were supposed* to float(v.)浮动；漂流；飘动；飘移 freely around the world *to* where they *are most efficiently crunched*.
+
+But flows *are increasingly blocked* by governments which *seek to protect* their country’s people, sovereignty and economy.
+
+And `主` these first rustlings(n.)瑟瑟声；沙沙声;偷窃牲口 of digital protectionism （贸易）保护主义, *predicts* Ian Hogarth, a noted British entrepreneur and writer, `谓` *could turn into* fully fledged(a.)(`=fledged : able to fly 能飞翔的；羽翼已丰的;/成熟的`) “AI nationalism” 民族主义;国家主义, 当 *as* countries *go beyond* just *defending* their data assets(n.) /and *try to build* a data economy of their own.
+
+因此, CCC就成为了这样一个地方, 在这儿, 数字经济的紧张局势, 正在上演. 数据原本应该在世界上自由流动, 以到达能最有效处理它们的地方. 但是, 越来越多地, 那些寻求保护本国人民, 主权, 与经济安全的政府, 阻挡了数据的流动. +
+Ian Hogarth 是英国一位著名的企业家和作家, 他预测说, 当各国政府的行为程度, 超越了普通的对资产安全的保护, 并进而开始建立起各自的数字经济王国时, 这种数字保护主义, 就会转变成完全成熟的"AI民族主义".
+
+
+*Just as* with the internet itself, there *were not supposed to be* （按规定、习惯、安排等）应当，应，该，须 any trade-offs(n.)（在需要而又相互对立的两者间的）权衡，协调 in the cloud.
+
+The “cosmopolitan(a.)(`=cosmopolitan : containing people of different types or from different countries, and influenced by their culture 世界性的；全球各国的；有各国人的；受各国文化影响的;/接触过许多国家的人（或事物）的；见过世面的；见识广的`) ideal” *was that* the free flow of data *would make* the world *if not* a better place, *at least* a more efficient one, *observes* Andrew Woods of the University of Arizona, who *is writing* a book about data sovereignty.
+
+====
+- cosmopolitan => 来源于希腊语中kosmos和polites组成的复合词kosmopolites. 词根词缀： -cosmo-世界,宇宙 + -polit-城市 + -an名词词尾,人
+====
+
+It *would allow* digital stuff *to end up* 最终成为；最后处于 in data centres *located* in places near many users, with lots of connectivity(n.)(`= : the state of being connected or the degree to which two things are connected 连接（度）；联结（度）`) /and where land and energy *are* cheap(a.) /and the air *cool(a.) and dry*. (Cloud data centres(n.) *can be* several football fields large /and *consume* huge amounts of energy, about half of which *is used for* cooling.)
+
+就像互联网本身一样，在云计算中, 不应该有任何取舍。亚利桑那大学(University of Arizona)的安德鲁•伍兹(Andrew Woods), 正在撰写一本关于数据主权的书，他认为，对世界来说理想的是，数据的自由流动, 即使不能让世界变得更好，至少也能让世界变得更有效率。让数据自由流动, 最终会让数据进入用户附近的数据中心，这些数据中心有大量的连接，并且有着便宜的土地和能源费用，那儿的空气也凉爽干燥。(云数据中心的大小可达几个足球场大小，对能源消耗巨大，但其中大约一半的能源, 专门是用来冷却的。)
+
+Whose cosmopolitan(a.)(`= : containing people of different types or from different countries, and influenced by their culture 世界性的；全球各国的；有各国人的；受各国文化影响的;/接触过许多国家的人（或事物）的；见过世面的；见识广的`) ideal?
+
+谁的世界性的理想?
+
+[In practice 在实践中；实际上，事实上] this *has meant that* the biggest clouds *have risen* over America, which so far *has set* the rules of the data economy.
+
+It not only *boasts* the biggest and most innovative(a.)(`= : introducing or using new ideas, ways of doing sth, etc. 引进新思想的；采用新方法的；革新的；创新的`) tech companies, but plenty of potential customers, fibre-optic 光导纤维的 cables, cheap power and land *to build* cavernous(a.)(`= :  ( of a room or space 房间或空间 ) very large and often empty and/or dark; like a cave 大而空的；又黑又深的；像洞穴的`) data centres.
+
+*To get* an impression of the concentration of computing power in America, one *need only drive* a few hours west of Microsoft’s campus *to* Quincy 昆西（美国马萨诸塞州东部城市）, Washington, a town with a population of not even 8,000.
+
+This *is* home to two dozen 十来个；十几个；十多个 large data centres, many *operated by* Microsoft.
+
+实际上，这意味着最大的乌云已经笼罩在美国上空，迄今为止，美国已经制定了数据经济的规则。它不仅拥有规模最大、最具创新精神的科技公司，而且拥有大量的潜在客户、光纤电缆、廉价的电力和土地, 来建造巨大的数据中心。要了解美国计算机能力的集中程度，只需驱车数小时，从微软的校园向西，来到华盛顿的昆西，一个人口不到8000人的小镇。这里有24个大型数据中心，很多都是由微软运营的。
+
+As long as(`=*as/so long as* : only if 只要; /since; to the extent that 既然；由于；就…来说`) computing clouds *were* small, this uneven(a.)(`= : organized in a way that is not regular and/or fair 不均衡的；不公平的；不规则的`) distribution *did not matter much*.
+
+But, *starting with* the intelligence(n.)（尤指关于敌对国家的）情报；情报人员 *leaks by* the American security expert Edward Snowden in 2013 which *revealed* widespread snooping 窥探；打探；探听 by America’s spy agencies, governments *have begun to understand* the importance of this global infrastructure -- and, by extension(`=*by extension* : taking the argument or situation one stage further 引申；再则;把争论或情况进一步发展`), the data economy.
+
+====
+- *BY EXTENSION* : ( formal ) taking the argument or situation one stage further 引申；再则 +
+-> The blame *lies with* the teachers and, *by extension*, *with* the Education Service. 应受指责的是教师，再则就是教育机构。
+====
+
+Citizens’ privacy *is not* the only worry. Data *may also reveal* things about a country’s defences.
+
+If digital evidence *is stored abroad*, law enforcement(n.)执行 *might be inhibited*(v.)(`=inhibit : to prevent sth from happening or make it happen more slowly or less frequently than normal 阻止；阻碍；抑制`).
+
+Data *should be kept close*(`= : carefully guarded 严加戒备的；守卫严密的`), some governments *think*, *lest* 免得；以免 other countries *benefit from them*.
+
+只要云计算的规模很小，它们不均匀的分布, 就没有多大关系。但是，2013年, 美国安全专家爱德华·斯诺登, 泄露了大量美国间谍机构的情报, 就是从这一年开始, 各国政府认识到全球基础设施的重要性，进而认识到数据经济的重要性。公民的隐私并不是唯一的担忧。数据也可以揭示一个国家的防御情况。如果数字证据储存在国外，执法可能会受到阻碍。一些政府认为，数据应该保密，以免其他国家从中受益。
+
+As a result, in recent years virtual borders *have been going up*(`=*go up* : to be built 被兴建；被建造`) in the digital cloud.
+
+The GDPR(`=General Data Protection Regulation : 欧盟通用数据保护条例`) *allows* personal data *to leave* the EU *only if* firms *have* appropriate(a.)合适的；恰当的 safeguards 安全设施；保护措施 in place(`=*in place* :  in the correct position; ready for sth 在正确位置；准备妥当; /working or ready to work 在工作；准备就绪`) /or *if* the destination country *has* “an adequate(a.)足够的；合格的；合乎需要的 level of protection”.
+
+India *blocks* payment information *from leaving* the country /and *may soon require that* {certain types of personal data *never leave* the country}.
+
+Russia *requires that* data *be processed and stored* on servers within its territory.
+
+China *blocks* most international data flows.
+
+And the EU *is discussing* creation of a single market in data, like the one it *already has* for goods.
+
+因此，近年来，数字云中建立起了虚拟边境. +
+GDPR要求, 只有当公司有适当的保护措施，或者数据去往的目的地国家有“足够程度的保护”时，GDPR才允许个人数据离开欧盟。 +
+印度禁止支付信息出境，并可能很快要求某些类型的个人数据, 永远不要出境。俄罗斯要求, 在其境内的服务器上处理和存储数据。中国封锁了大部分国际数据流。欧盟正在讨论建立一个单一的数据市场，就像它已经建立的商品市场一样。
+
+`主` These growing and unco-ordinated (动作)不协调的;(计划)不协调的 efforts *to regain*  重新获得，恢复（能力或品质等） data sovereignty 主权；最高统治权；最高权威 `谓` *have already triggered* debates(n.) at the highest level of international diplomacy.
+
+In July the G20, a group of 20 developing and rich countries, *launched* the “Osaka Track”, *named after* the Japanese city where the decision *was taken*.
+
+`主` The idea, which Abe Shinzo, Japan’s prime minister, *floated* 提出，提请考虑（想法或计划） early last year `系` *is* *to come up with*(`=*come up with sth* :  to find or produce an answer, a sum of money, etc. 找到（答案）；拿出（一笔钱等）`) some global rules *for* “data governance”, *guided by* the rather fuzzy(a.)（形状或声音）模糊不清的 concept of “free flow of data with trust”.
+
+在恢复数据主权方面，这些日益增长且缺乏协调的努力, 已经在国际外交的最高层引发了辩论。今年7月，由20个发展中国家和富裕国家组成的20国集团(G20), 启动了“大阪轨道”(Osaka Track)谈判框架，名字来自于做出这一决定的所在日本城市。日本首相安倍晋三(Abe Shinzo)去年初提出的想法是，在“数据自由流动和信任”这一相当模糊的概念的指导下，为“数据治理”提出一些全球规则。
+
+*It is still unclear* where all this *will lead*. What *will* the world map in Microsoft’s cloud centre *look like* a decade hence?
+
+*Will* it *resemble* 看起来像；显得像；像 today’s global maps, *showing* as many data zones as(`=*as many as* : (用于数字之前表示数目极大)多达…;和……一样多`) there are countries? Or *will* it *display* a few digital trade zones (*known as* “data spheres”) or something completely different?
+
+目前还不清楚这一切将导致什么结果。十年后，微软云中心的世界地图会是什么样子? 它会像今天的全球地图那样显示出多少个国家就有多少个数据区吗? 或者，它会展示几个数字贸易区(被称为“数据领域”)，还是一些完全不同的东西?
+
+
+`主` The need *to export* data *from* the EU `谓` *has pushed* some *to stricter* data-protection rules
+
+由于需要从欧盟输出数据，一些国家被迫制定了更严格的数据保护规定
+
+The first possibility *is* rather unlikely. *To prevent* all data *from* flowing, countries *would essentially have to cut* their connection to the internet: it *would be* the only way *to ensure that* data *really stays put*(`=*stay put* : if sb/sth *stays put* , they continue to be in the place where they are or where they have been put 待在原地；留在原处`).
+
+Russia *may be willing to accept* the huge economic costs of such a digital secession （地区或集团从所属的国家或上级集团的）退出，脱离. But most countries *will probably shy(v.) away from*(`=*shy away (from sth)* : to avoid doing sth because you are nervous or frightened 畏避；回避；躲避；避免做`) the drawbacks(n.)缺点；不利条件 of even less draconian(a.)(`=draconian :  ( of a law, punishment, etc. 法律、惩罚等 ) extremely cruel and severe 德拉古式的；严酷的；残忍的`) measures.
+
+An overly protectionist 贸易保护主义的 country *could see* cloud-computing providers *refuse to serve* their market because it is too small. *Building* a domestic cloud *is* both tricky 难办的；难对付的 and expensive.
+
+第一种可能性不大。为了阻止所有数据的流动，各国基本上必须切断与互联网的连接: 这是确保数据真正呆在本国的唯一方法。让数据隔离, 会带来的巨大的经济代价, 俄罗斯可能愿意接受它. 但即使对于更缓和一点的严酷措施, 所带来的缺点, 都可能令大多数国家避免这么干.  + 一个国家过度保护主义, 就可能发现云计算供应商拒绝为他们的市场服务，因为这个市场太小了。而想要构建一个本地云, 则既复杂又昂贵。
+
+The second scenario(`=scenario : a description of how things might happen in the future 设想；方案；预测`) *is* far more likely.
+
+====
+- scenario => 来自意大利语 scenario,情节，来自拉丁语 scenarius,舞台情节，场景，来自 scena,舞台布景， 场景，词源同 scene.引申词义设想，方案。 +
+*a description of how things might happen in the future* 设想；方案；预测 +
+-> Let me suggest *a possible scenario* . 我来设想一种可能出现的情况。 +
+-> *The worst-case scenario* (= the worst possible thing that could happen) would be for the factory to be closed down. 最坏的情况可能是工厂关闭。
+====
+
+In fact, this *is already happening*. Coalitions(`=coalition : （尤指多个政治团体的）联合体，联盟`) for different types of data *have begun to form*.
+
+The GDPR’s adequacy(n.)足够；适当；妥善性 requirement *effectively 实际上；事实上;有效地 created* one: `主` the need to export personal data from the EU `谓` *pushed* a dozen countries, including America and Japan, *to agree to* strict data-protection rules.
+
+America *has started* a similar club *with* the Cloud Act, a bill *passed* in 2018 *to allow* the government *to negotiate* reciprocity(`=reciprocity : a situation in which two people, countries, etc. provide the same help or advantages to each other 互惠；互助；互换`) agreements *with* other countries.
+
+====
+-  reciprocity => 来自 reciprocate,回报的，-ity,名词后缀。来自 re-,向后，pro-,往前，-cus,形容词后缀。引申词义互惠的，互利的。
+====
+
+If these *allow* American law enforcement *to access* data (*stored* in partner territory 领土；版图；领地) *more rapidly than* is possible today, agencies in those countries *can get* easier reciprocal(a.) 互惠的；相应的 access, too. Britain *has already signed* such an agreement; the EU *is expected to do so* soon.
+
+第二种情况的可能性要大得多。事实上，这已经发生了。针对不同类型数据的联盟, 已经开始形成。GDPR的充足性要求, 实际上创造了一个:从欧盟出口个人数据的需要，促使包括美国和日本在内的十几个国家, 同意了严格的数据保护规则。美国已经启动了一个类似的俱乐部——云法案，该法案于2018年通过，允许政府与其他国家谈判互惠协议。如果这些协议允许美国执法部门, 比现在更快地访问存储在合作伙伴领土上的数据，那么这些国家的机构也可以更容易地相互访问这些数据。英国已经签署了这样一份协议;预计欧盟很快就会这么做。
+
+Although the Osaka Track talks *are meant to* come up with  找到（答案）；拿出（一笔钱等） global rules, they *could [end up 最终成为；最后处于] creating* another data coalition.
+
+The initiative *started life as* a proposal by the Japanese government *to form* an alliance with America and the EU *to promote* the free flow of data between members /and *to limit* access by countries which *indulge in* data protectionism, notably China.
+
+If that *is* still the agenda, it *could push* China and others *to create* their own data club, *warns* Justin Sherman of New America, a think-tank.
+
+*In an early sign* of what this may mean, India and a few other developing countries *have refused to sign up 报名（参加课程） to* the Osaka Track.
+
+尽管大阪的轨道谈判, 旨在提出全球规则，但它们最终可能会形成另一个数据联盟。该倡议最初是由日本政府提议与美国和欧盟建立联盟，以促进成员国之间数据的自由流动，并限制那些沉迷于数据保护主义的国家(尤其是中国)的访问。智库新美国(New America)的贾斯廷•谢尔曼(Justin Sherman)警告称，如果这仍是议程，它可能会推动中国和其它国家, 建立自己的数据俱乐部。在这可能意味着什么的早期迹象中，印度和其他一些发展中国家, 已经拒绝签署大阪轨道。
+
+The third possible future of the global data sphere 圆球；球状物;范围；领域；阶层；界 *is* again less likely, but the most intriguing(a.)(`=intriguing : very interesting because of being unusual or not having an obvious answer 非常有趣的；引人入胜的；神秘的`).
+
+====
+- intriguing => 来自intrigue,激发，激起好奇心。
+====
+
+Somewhat unexpectedly, it *is rooted* in Germany and *comes* by the name of GAIA-X, *referring to*(`= : to mention or speak about sb/sth 提到；谈及；说起;/to describe or be connected to sb/sth 描述；涉及；与…相关`) the goddess of Earth in Greek mythology, with the X *being* a placeholder for future specialisation 专门化 (GAIA-Health, GAIA-Mobility).
+
+====
+- Gaia-X : 由德国提出, 是一项针对泛欧洲市场的云计划——这个以古希腊神话中大地之神，众神之母"盖亚"来命名的项目Gaia-X，旨在建立一个安全的数据基础架构，以减少欧洲对 Amazon、阿里云等外国云厂商的依赖. 该计划将成立 API 和数据主权规则的联合标准，目标在欧盟内部的云上存储数据。
+====
+
+
+*Rightly feeling that* the country *is behind* in cloud computing(n.) /and risks(n.) *losing* control of its data economy, `主` the German government `谓` first *considered* building(v.) something like an “Airbus Cloud”, like a repeat 重演的事物；重复的事件 of Europe’s successful aeroplane consortium(`=consortium : a group of people, countries, companies, etc. who are working together on a particular project （合作进行某项工程的）财团，银团，联营企业`).
+
+====
+- consortium => con-, 强调。-sort, 种类，类型，词源同series, sort. 即同类型的，形成团体的。
+====
+
+*Realising 认识到；意识到 that* this *would probably fail*, however, the government *has settled on*(`=*settle on sth* : to choose or make a decision about sth after thinking about it 选定；决定`) another approach.
+
+It *hopes* to assemble(v.)(`= :to come together as a group; to bring people or things together as a group 聚集；集合；收集; /装配；组装`) what the Federal Ministry for Economic Affairs *calls* a “federated(a.)(使)结成联邦的 data infrastructure”, essentially a club of clouds whose members *have to comply with* 遵从；服从；顺从 a set of rules and standards.
+
+全球数据领域的第三个可能的未来, 同样不太可能，但却是最有趣的。有点出乎意料的是，它起源于德国，名字叫做GAIA-X，意为希腊神话中的地球女神，X是未来的专门某个领域的占位符(比如 GAIA-Health, GAIA-Mobility)。德国政府正确地感觉到，该国在云计算方面落后了，并有可能失去对其数据经济的控制，因此，它首先考虑建造一种类似“空中客车云”的东西，就像欧洲成功的飞机联盟那样。然而，政府意识到这可能会失败，于是决定采用另一种方法。它希望组建一个联邦经济事务部所称的“联邦数据基础设施”，本质上是一个云俱乐部，其成员必须遵守一套规则和标准。
+
+The main aim *is* still one of industrial policy: *seeding* the formation 组成；形成 of an “über-cloud”(`=über : 德语, 是个介词: 高于,优于, ..以后,超过..., 这里 über-cloud 即 "超云"`), a legal-cum-software layer that *would insulate*(v.)使隔热；使隔音；使绝缘;使免除（不愉快的经历）；使免受（不良影响）；隔离 German firms and government agencies *from* the power of big foreign clouds *by minimising*(`=minimize : 使减少到最低限度`) “lock-in”.
+
+====
+- insulate => 来自拉丁语insula,岛，词源同isle,-ate,使。即使成孤岛的，引申词义隔热，绝缘。
+====
+
+Although details *have yet to be worked out*(`=*work sth out* : to calculate sth 计算；算出;/ to find the answer to sth 找到…的答案；解决;/to plan or think of sth 计划；思考`), it *would probably allow* firms *to move* data /and *computing* workloads(n.)（某一人或组织的）工作量，工作负担 between rival clouds *more easily*.
+
+GAIA-X *could be* a tool *to implement* 使生效；贯彻；执行；实施 granular(a.)(`=granular : 由颗粒构成的；含颗粒的；似颗粒状的`)  national data policy, instead of *resorting(v.) to* 诉诸；求助；采取 crude digital protectionism.
+
+It *could help* solve(v.) the problem of American or Chinese firms *dominating* the global data infrastructure.
+
+The project *also includes* an initiative *called* “International Data Spaces” *to make* data-sharing between firms and across borders *easier*.
+
+该计划的主要目标, 也是德国的产业政策之一 -- 即, 为 über-cloud(超云)的形成, 播下种子. über-cloud 是一个保护层, 有着法律和软件的属性, 它旨在通过最低限度的将数据锁定在本土, 来保护德国的公司和政府机构, 免受强大的国外云的不良影响. 虽然该计划的细节, 尚未制定, 但它可能会让公司企业, 在与超云的竞争对手之间, 更方便地转移数据, 和计算工作负荷.  +
+GAIA-X 能够成为一个工具, 来实施精细化的国家数据政策, 而非只靠粗糙的数据保护主义. 对于现今世界数据基础设施, 已经被美国与中国所霸主的问题, 它也能有助于来解决. 该项目还包括一项名为“国际数据空间”的倡议，以使在公司和跨国间的数据共享, 变得更容易.
+
+
+Yet *it is not clear* how the German government *intends to will* 想要（某事发生）; 立定志向；决心；决意 this über-cloud into existence, *says* Stefan Heumann of the Stiftung Neue Verantwortung, a think-tank in Berlin -- nor how it *does not [end up] being* a lowest 最低的；最小的 common denominator 分母(`=*common denominator* : 公分母`)) /or *held up*(`=*hold sb/sth up* : 延迟；阻碍`)) by lengthy(a.)(`= : very long, and often too long, in time or size 很长的；漫长的；冗长的`) negotiations.
+
+The plan *is* to have a “proof 检验；证实 of concept” ready [by the second quarter of this year], but *don’t hold your breath*(`=*hold one's breath* : endure great anxiety, nervousness or excitement 忍受着忧虑、紧 张或感到兴奋`).
+
+然而，柏林智库Stiftung Neue Verantwortung的斯特凡·豪曼(Stefan Heumann)表示，目前还不清楚德国政府打算如何将这种超级云运作下去，也不清楚它最终它是否不会成为最小公分母，或是否会因漫长的谈判而受阻。虽然计划是在今年第二季度, 来准备好“概念证明”，但你不要抱太大希望。
+
+Still, the idea *may gain* momentum(`=momentum : 推进力；动力；势头`).
+
+The German government *intends to push the concept* when it *takes over* 接替；接任；接管；接手 the presidency of the European Council later this year.
+
+France *has already signalled*(v.)发信号；发暗号；示意 support; other countries *are expected to join*.
+
+And some 100 firms and organisations *have already joined* the effort, *including* the big cloud providers.
+
+The only notable exception, until recently, *had been* Microsoft.
+
+This *was* a surprise: Azure *is* the most compatible 可共用的；兼容的;（因志趣等相投而）关系好的，和睦相处的 with Germany’s vision 视力；视野.
+
+Whether because it *has always had* many governments *as* customers /or *the fact that* it *does not make money* by hoarding(v.)(`=hoard : 贮藏；囤积；（尤指）秘藏`) data, [from the start] Microsoft *has built* its cloud *for* a world *with* a data space *fragmented* （使）碎裂，破裂，分裂 along national lines.
+
+====
+- hoard => 来自古英语hord,宝藏，藏宝处，来自PIE skeu,覆盖，隐藏，词源同 hide, house. 引申词义贮藏，囤积。
+====
+
+不过，这个想法可能会获得支持。德国政府打算在今年晚些时候, 接任欧洲理事会(European Council)主席时，推动这一概念。法国已经表示支持; 预计其他国家也将加入。大约100家公司和组织, 已经加入了这一努力，其中包括大型云服务提供商。直到最近，唯一值得注意的例外是微软。这令人惊讶：Azure(蔚蓝)云, 是与德国的愿景最相容的。无论是因为它一直有许多政府作为客户，还是因为它不通过囤积数据来赚钱，微软从一开始, 就是按着国境线, 来给世界建立各自的数据云区域的.
+
+If the vision of GAIA-X *comes to 达到（某状况，尤指坏的局面） pass*, how *will* Microsoft *display* this [on the screens of its CCC]?
+
+Rather than *showing* a few data “blocs”(`=bloc : a group of countries that work closely together because they have similar political interests （政治利益一致的）国家集团`) in bright colours -- China red, America blue, for instance, *as* during the cold war -- it *may need* lots of shades 浓淡深浅；色度 and other graphic tricks(n.) 引起错觉（或记忆紊乱）的事物;技巧；诀窍；窍门 *to represent* the new diversity 多样性；多样化;差异（性）；不同（点） of the data world.
+
+如果Gaia-X的愿景成为现实，微软将如何将其显示在CCC的屏幕上？它不会像冷战时期那样用鲜艳的颜色显示几个数据“区块”--例如中国红、美国蓝--它可能需要大量的色度, 和其他图形技巧, 来代表数据世界的新多样性。
+
+
+
+---
+
+== 34. Governments are erecting borders for data 纯净版
+
+Data sovereignty *is rapidly becoming* a big issue
+
+Feb 20th 2020 |
+
+
+SOMEWHERE *DEEP* in the bowels of Microsoft’s campus in Redmond near Seattle, a jumble of more than 100 buildings, there *is* a special kind of room. The size of a school gym, its walls *are covered with* big screens. One *shows* the “health” of the firm’s cloud-computing services, *collectively called* Azure. Another *displays* people’s “sentiment” about the system, as *expressed* on social media. A third one, a large map of the world, *tells* visitors `主` how many “denial-of-service” (DOS) attacks, which *amount to* flooding(v.) a customer’s online presence [with bits] *to shut it down*, `谓` *are currently being dealt with*. The counters on this Thursday morning in early December *show* 80 in Asia, 171 in Europe and 425 in the Americas.
+
+*It* would be fair *to assume that* the room *is* a NOC, a “network operations centre”, *to manage* Azure. But nothing *gets controlled* here; that *happens elsewhere*. Instead, the room, *called* the Cloud Collaboration Centre (CCC), *serves* two other purposes. One *is*, in the words of Anja Ziegler, who *manages* the location, *to “put* a face *on* the cloud” -- *giving* customers an idea `主` what Azure and the mirror worlds it powers `系` *are* about. But more important, the room *serves as* a place for Microsoft employees *to discuss* how *to reshape* the cloud *in response to* legal changes in the data economy.
+
+`主` One of the first projects *to be tackled* in the CCC `系` *was* how *to make* Azure compatible with the General Data Protection Regulation (GDPR), the EU’s tough privacy law that *went into effect* in 2018. The room *has only become* busier [since]: privacy and other data-related legislation *is multiplying* around the world. Sometimes virtual borders *need to be erected*, *so that* data *do not leave or enter* a certain country. Or a new data centre *needs to be built* to give the digital stuff 双宾 a local home. If this trend *holds*, Microsoft *may soon have to upgrade* the CCC’s world map -- *to show* the planet’s many different data zones, *rather than* just DOS attacks.
+
+The CCC *is* thus a place where another tension of the data economy *is playing out*. Data *were supposed to float freely* around the world *to* where they *are most efficiently crunched*. But flows *are increasingly blocked* by governments which *seek to protect* their country’s people, sovereignty and economy. And `主` these first rustlings(n.) of digital protectionism, *predicts* Ian Hogarth, a noted British entrepreneur and writer, `谓` *could turn into* fully fledged(a.) “AI nationalism”, *as* countries *go beyond* just defending(v.) their data assets /and *try to build* a data economy of their own.
+
+*Just as* with the internet itself, there *were not supposed to be* any trade-offs(n.) in the cloud. The “cosmopolitan ideal” *was that* {the free flow of data *would make* the world *if not* a better place, *at least* a more efficient one}, *observes* Andrew Woods of the University of Arizona, who *is writing a book* about data sovereignty. It *would allow* digital stuff *to end up* in data centres *located* in places near many users, with lots of connectivity /and where land and energy *are* cheap /and the air 宾补 cool and dry. (Cloud data centres *can be* several football fields large /and *consume* huge amounts of energy, about half of which *is used for* cooling.)
+
+Whose cosmopolitan ideal?
+
+[In practice] this *has meant that* the biggest clouds *have risen* over America, which so far *has set the rules* of the data economy. It [not only] *boasts* the biggest and most innovative tech companies, [but] plenty of potential customers, fibre-optic cables, cheap power and land *to build* cavernous data centres. *To get* an impression of the concentration of computing power in America, one *need only drive a few hours* west of Microsoft’s campus *to* Quincy, Washington, a town with a population of not even 8,000. *This is home to* two dozen large data centres, many *operated by* Microsoft.
+
+*As long as* computing clouds *were* small, this uneven distribution *did not matter much*. But, *starting with* the intelligence(n.) *leaks by* the American security expert Edward Snowden in 2013 which *revealed* widespread snooping by America’s spy agencies, governments *have begun to understand the importance* of this global infrastructure -- and, by extension, the data economy. Citizens’ privacy *is not* the only worry. Data *may also reveal things* about a country’s defences. If digital evidence *is stored abroad*, law enforcement *might be inhibited*. Data *should be kept close*, some governments *think*, *lest* other countries *benefit from them*.
+
+As a result, [in recent years] virtual borders *have been going up* in the digital cloud. The GDPR *allows* personal data *to leave* the EU *only if* firms *have* appropriate(a.) safeguards(n.) in place /or *if* the destination country *has* “an adequate level of protection”. India *blocks* payment information *from leaving* the country /and *may soon require that* certain types of personal data *never leave* the country. Russia *requires that* data *be processed and stored* on servers within its territory. China *blocks* most international data flows. And the EU *is discussing* creation of a single market in data, like the one it *already has* for goods.
+
+`主` These growing and unco-ordinated efforts *to regain* data sovereignty `谓` *have already triggered debates at* the highest level of international diplomacy. In July the G20, a group of 20 developing and rich countries, *launched* the “Osaka Track”, *named after* the Japanese city where the decision *was taken*. `主` The idea, which Abe Shinzo, Japan’s prime minister, *floated* early last year `系` *is* to come up with some global rules for “data governance”, *guided by* the rather fuzzy(a.) concept of “free flow of data with trust”.
+
+*It is still unclear* where all this *will lead*. What *will* the world map in Microsoft’s cloud centre *look like* a decade hence? *Will it resemble*(v.) today’s global maps, *showing* [as] many data zones [as] there are countries? Or *will it display* a few digital trade zones (*known as* “data spheres”) or something completely different?
+
+`主` The need *to export* data *from* the EU `谓` *has pushed* some *to* stricter data-protection rules
+
+The first possibility *is* rather unlikely. *To prevent* all data *from flowing*, countries *would essentially have to cut* their connection to the internet: it *would be* the only way *to ensure that* data *really stays put*. Russia *may be willing to accept* the huge economic costs of such a digital secession. But most countries *will probably shy away from* the drawbacks of even less draconian measures. An overly protectionist country *could see* cloud-computing providers *refuse to serve* their market because it is too small. `主` *Building* a domestic cloud `系` *is* both tricky and expensive.
+
+The second scenario *is* far more likely. In fact, this *is already happening*. Coalitions for different types of data *have begun to form*. The GDPR’s adequacy requirement *effectively created* one: `主` the need *to export* personal data *from* the EU `谓` *pushed* a dozen countries, *including* America and Japan, *to agree* to strict(v.) data-protection rules. America *has started* a similar club [with the Cloud Act], a bill *passed* in 2018 *to allow* the government *to negotiate* reciprocity(n.) agreements [*with* other countries]. If these *allow* American law enforcement *to access* data *stored* in partner territory *more rapidly than* is possible today, agencies in those countries *can get easier* reciprocal(a.) access, too. Britain *has already signed* such an agreement; the EU *is expected to do so* soon.
+
+Although the Osaka Track talks *are meant* to come up with global rules, they *could end up creating* another data coalition. The initiative *started life as* a proposal by the Japanese government *to form* an alliance with America and the EU *to promote* the free flow of data between members and *to limit* access by countries which *indulge in* data protectionism, notably China. If that *is* still the agenda, it *could push* China and others *to create* their own data club, *warns* Justin Sherman of New America, a think-tank. *In an early sign* of what this may mean, India and a few other developing countries *have refused to sign up to* the Osaka Track.
+
+The third possible future of the global data sphere *is* again less likely, but the most intriguing(a.). Somewhat unexpectedly, it *is rooted* in Germany /and *comes* by the name of GAIA-X, *referring to* the goddess of Earth in Greek mythology, with the X *being* a placeholder for future specialisation (GAIA-Health, GAIA-Mobility). *Rightly feeling that* the country *is behind* in cloud computing(n.) /and risks(n.) *losing control of* its data economy, the German government first *considered* building(v.) something like an “Airbus Cloud”, like a repeat of Europe’s successful aeroplane consortium. *Realising that* {this *would probably fail*}, however, the government *has settled on* another approach. It *hopes* to assemble(v.) what the Federal Ministry for Economic Affairs *calls* a “federated data infrastructure”, essentially a club of clouds whose members *have to comply with* a set of rules and standards.
+
+The main aim *is* still one of industrial policy: *seeding* the formation of an “über-cloud”, a legal-cum-software layer that *would insulate* German firms and government agencies *from* the power of big foreign clouds by minimising(v.) “lock-in”. Although details *have yet to be worked out*, it *would probably allow* firms *to move data* and *computing(v.) workloads* between rival clouds *more easily*. GAIA-X *could be* a tool *to implement* granular(a.) national data policy, instead of *resorting to* crude digital protectionism. It *could help solve(v.) the problem* of American or Chinese firms *dominating* the global data infrastructure. The project *also includes* an initiative *called* “International Data Spaces” *to make* data-sharing between firms and across borders *easier*.
+
+Yet *it is not clear* {how the German government *intends* to will(v.) this über-cloud into existence}, *says* Stefan Heumann of the Stiftung Neue Verantwortung, a think-tank in Berlin -- nor {how it *does not end up being* a lowest common denominator /or *held up* by lengthy negotiations}. `主` The plan *is* `表` to have(v.) a “proof of concept” ready [by the second quarter of this year], but *don’t hold your breath*.
+
+Still, the idea *may gain* momentum. The German government *intends to push the concept* when it *takes over* the presidency of the European Council later this year. France *has already signalled* support; other countries *are expected to join*. And some 100 firms and organisations *have already joined* the effort, *including* the big cloud providers. The only notable exception, until recently, *had been* Microsoft. This *was* a surprise: Azure *is* the most compatible with Germany’s vision. Whether because it *has always had* many governments *as* customers /or *the fact that* it *does not make money* by hoarding(v.) data, [from the start] Microsoft *has built* its cloud for a world [*with* a data space *fragmented* along national lines].
+
+If the vision of GAIA-X *comes to* pass, how *will* Microsoft *display* this [on the screens of its CCC]? Rather than *showing* a few data “blocs” in bright colours -- China red, America blue, for instance, as during the cold war -- it *may need* lots of shades and other graphic tricks *to represent* the new diversity of the data world.
+
+---
+
+== 34. Governments are erecting borders for data 词汇解说
+
+1. bowel : n. the bowels of sth [ pl. ] ( literary ) the part that is deepest inside sth 内部最深处 /肠 +
+-> A rumble came from *the bowels of the earth* (= deep underground) . 从地下深处传来隆隆的响声。
+
+1. Redmond 雷德蒙德（美国华盛顿州城市，微软总部）
+
+1. Seattle :  /si'ætl/  西雅图
+
+1. jumble : n. [ sing. ] ~ (of sth) an untidy or confused mixture of things 杂乱的一堆；混乱的一团 +
+-> a jumble of books and paper 一堆杂乱的书和纸
+-> a jumble of more than 100 buildings.
+
+1.  *collectively called* 统称为 Azure.
+
+1.  denial : n. a refusal to allow sb to have sth they have a right to expect 拒绝给予，剥夺（应有的权利） +
+-> *the denial of* basic human rights 剥夺基本人权 +
+-> denial-of-service (DOS) attacks, which *amount to* 等于；相当于 flooding(v.)（使）灌满水；淹没;大量涌入；蜂拥而出 a customer’s online presence *with* bits *to shut it down*
+
+1. fair : a. *~ (to/on sb)* acceptable and appropriate in a particular situation 合理的；恰当的；适当的 +
+-> a fair deal/wage/price/question 公平交易；合理的工资；公道的价格；恰当的问题 +
+-> *It would be fair(a.) to assume that* the room is a NOC, a “network operations centre”, to manage(v.) Azure.
+
+1. get被用来代替助动词be和过去分词连用，构成"被动结构 +
+-> But nothing *gets controlled* here; that *happens elsewhere*.
+
+1. compatible : ( of ideas, methods or things 想法、方法或事物 ) able to exist or be used together without causing problems 可共存的；可共用的；兼容的 +
+-> compatible blood groups 相容的血型 +
+-> how *to make* Azure *compatible(a.) with* the General Data Protection Regulation (GDPR), the EU’s tough privacy law that *went into effect* in 2018.
+
+1. multiply : v. 成倍增加；迅速增加 +
+-> *Our problems have multiplied* since last year. 自去年以来，我们的问题成倍增加。
+
+1. If this trend *holds* 保持不变, ...
+
+1. rustling :  /ˈrʌslɪŋ/ n. the sound of light, dry things moving together 瑟瑟声；沙沙声 / 偷窃牲口 +
+-> *the soft rustling* of leaves 树叶柔和的沙沙声  +
+
+1. protectionism （贸易）保护主义
+
+1. noted : a. ~ (for/as sth) well known because of a special skill or feature （以…）见称，闻名，著名 +
+-> a noted dancer 著名的舞蹈演员 +
+-> a noted British entrepreneur and writer. +
+->  *He is not noted for* his sense of humour. 他没什么幽默感。 +
+
+1. fledged :  /fledʒd/  a. able to fly 能飞翔的；羽翼已丰的;/成熟的 +
+=> 词源同fly. 拼写受-dge影响，见bridge, judge, knowledge +
+-> these first rustlings(n.) of digital protectionism 谓 could turn into *fully fledged(a.) “AI nationalism”*. 这种数字保护主义, 就会转变成完全成熟的"AI民族主义".
+
+1. *BE SUPPOSED TO DO/BE STH* : (1) to be expected or required to do/be sth according to a rule, a custom, an arrangement, etc. （按规定、习惯、安排等）应当，应，该，须 /(2) to be generally believed or expected to be/do sth 一般认为；人们普遍觉得会 +
+-> I thought *we were supposed to be paid* today. 我以为我们今天会领到薪水呢。 +
+-> I haven't seen it myself, but *it's supposed to be a great movie*. 这部电影我没看过，不过人们普遍认为很不错。
++
+*NOT BE SUPPOSED TO DO STH* : to not be allowed to do sth 不准；不应当；不得 +
+-> You'*re not supposed to walk* on the grass. 不准践踏草地。 +
+-> *Just as* with the internet itself, there *were not supposed to be* any trade-offs(n.) in the cloud. 就像互联网本身一样，在云服务中, 不应该有任何权衡取舍。
+
+1. *trade-off* : n. *~ (between sth and sth)* : the act of balancing two things that you need or want but which are opposed to each other （在需要而又相互对立的两者间的）权衡，协调 +
+->  *There is a trade-off(n.) between* the benefits of the drug *and* the risk of side effects. 在这种药的疗效和副作用之间有个权衡利弊的问题。
+
+1. cosmopolitan :  /ˌkɑːzməˈpɑːlɪtən/  a. containing people of different types or from different countries, and influenced by their culture 世界性的；全球各国的；有各国人的；受各国文化影响的;/接触过许多国家的人（或事物）的；见过世面的；见识广的 +
+-> a cosmopolitan city/resort 国际性的都市╱度假胜地 +
+-> people *with a truly cosmopolitan outlook* 真正具有世界眼光的人 +
+-> *The “cosmopolitan(a.) ideal”* was that...
++
+=> 来源于希腊语中kosmos和polites组成的复合词kosmopolites. 词根词缀： -cosmo-世界,宇宙 + -polit-城市 + -an名词词尾, 人
+
+1. connectivity : n.  the state of being connected or the degree to which two things are connected 连接（度）；联结（度） +
+->  *ISDN connectivity* allows computers to communicate over a network. 综合业务数字网连接, 实现了计算机网络通讯。
+
+1. cosmopolitan : /ˌkɑːzməˈpɑːlɪtən/  a. : containing people of different types or from different countries, and influenced by their culture 世界性的；全球各国的；有各国人的；受各国文化影响的;/接触过许多国家的人（或事物）的；见过世面的；见识广的 +
+=>  -cosmo-世界,宇宙 + -polit-城市 + -an名词词尾,人
++
+-> *a cosmopolitan city/resort* 国际性的都市╱度假胜地 +
+-> people *with a truly cosmopolitan outlook* 真正具有世界眼光的人 +
+-> Whose *cosmopolitan ideal*? 谁的世界性的理想?
+
+1. In practice 在实践中；实际上，事实上 +
+-> [*In practice*] this *has meant that* the biggest clouds *have risen* over America. 实际上，这意味着最大的乌云已经笼罩在美国上空
+
+1. innovative : a. introducing or using new ideas, ways of doing sth, etc. 引进新思想的；采用新方法的；革新的；创新的 +
+-> the biggest and most innovative(a.) tech companies.
+
+1. fibre-optic 光导纤维的 cables
+
+1. cavernous  :  /ˈkævərnəs/ a. (of a room or space 房间或空间) very large and often empty and/or dark; like a cave 大而空的；又黑又深的；像洞穴的 +
+-> cavernous(a.) data centres.
+
+1. *as/so long as* : only if 只要; /since; to the extent that 既然；由于；就…来说 +
+-> We'll go *as long as* the weather is good. 只要天气好我们就去。 +
+->  *So long as* there is a demand for these drugs, the financial incentive for drug dealers will be there. 只要对这些毒品有需求，也就存在着对贩毒者的经济诱因。
+
+1. uneven : a. organized in a way that is not regular and/or fair 不均衡的；不公平的；不规则的 +
+-> Her breathing *was quick and uneven*(a.). 她的呼吸急促不匀。 +
+-> uneven teeth 不整齐的牙齿 +
+-> *As long as* computing clouds were small, *this uneven(a.) distribution* did not matter much. 只要云计算的规模很小，它们不均匀的分布, 就没有多大关系。
+
+1. intelligence (n.)（尤指关于敌对国家的）情报；情报人员 +
+-> the intelligence(n.) *leaks by* the American security expert Edward Snowden in 2013.
+
+1. snoop : v. *~ (around/round sth) /~ (on sb)* ( informal disapproving ) to find out private things about sb, especially by looking secretly around a place 窥探；打探；探听 +
+=> 来自辅音丛 sn-,鼻子，闻，嗅，发鼻音，比较 sneer,snore,snicker,sniff,snuff.引申比喻义打探， 打听。
++
+-> Someone'*s been snooping around* my apartment. 有个人一直在我住所周围窥探。 +
+-> journalists *snooping on* politicians 跟踪政治人物的记者
+
+1. *BY EXTENSION* : ( formal ) taking the argument or situation one stage further 引申；再则 +
+-> The blame *lies with* the teachers and, *by extension*, *with* the Education Service. 应受指责的是教师，再则就是教育机构。 +
+-> governments *have begun to understand* the importance of this global infrastructure -- and, *by extension*, the data economy.  +
+各国政府认识到全球基础设施的重要性，进而认识到数据经济的重要性。
+
+1. inhibit : v. to prevent sth from happening or make it happen more slowly or less frequently than normal 阻止；阻碍；抑制 +
+=> in-,进入，使，-hibit,持有，握住，词源同habit,prohibit.引申词义抑制，使拘束。 +
+-> A lack of oxygen *may inhibit(v.) brain development* in the unborn child. 缺氧可能阻碍胎儿的大脑发育 +
+-> If digital evidence *is stored abroad*, law enforcement *might be inhibited*. 如果数字证据储存在国外，国内想要执法可能会受到阻碍。
+
+1. close : a. : carefully guarded 严加戒备的；守卫严密的 +
+-> She *was kept under close arrest* . 她被严密监禁。 +
+-> Data *should be kept close*, some governments *think*, *lest* 免得；以免 other countries *benefit from them*.
+
+1. *go up* : to be built 被兴建；被建造 +
+-> in recent years virtual borders *have been going up* in the digital cloud.
+
+1. GDPR : General Data Protection Regulation : 欧盟通用数据保护条例
+
+1. appropriate : /əˈproʊ-priət/ a. *~ (for/to sth)* suitable, acceptable or correct for the particular circumstances 合适的；恰当的 +
+=> 前缀ap-同ad-. proper, 自己的，合适的。 +
+-> an appropriate response/measure/method 恰如其分的反应；恰当的措施╱方法 +
+-> The GDPR allows personal data to leave the EU *only if firms have appropriate(a.) safeguards(n.) in place* /or if the destination country *has “an adequate(a.) level of protection*”. +
+GDPR要求, 只有当公司有适当的保护措施，或者数据去往的目的地国家有“足够程度的保护”时，GDPR才允许个人数据离开欧盟。
+
+1. *in place* :  in the correct position; ready for sth 在正确位置；准备妥当; /working or ready to work 在工作；准备就绪
+
+1. adequate : (a.)足够的；合格的；合乎需要的 +
+=> ad-来 + -equ-均,等 + -ate形容词词尾 → 与需要的数量相等的 → 刚好够 +
+-> *an adequate supply* of hot water 热水供应充足 +
+-> The space available *is not adequate(a.) for our needs*. 现有的空间不能满足我们的需要。
+
+1.  unco-ordinated : a. (动作)不协调的;(计划)不协调的
+
+1. sovereignty : /ˈsɑːvrənti/  N-UNCOUNT Sovereignty is the power that a country has to govern itself or another country or state. 统治权 +
+-> `主` These growing and *unco-ordinated(a.) efforts to regain(v.)  data sovereignty* `谓` have already triggered(v.) debates(n.) at the highest level of international diplomacy. +
+在重新获得数据主权方面，这些日益增长且缺乏协调的努力, 已经在国际外交的最高层引发了辩论。
+
+1. float : v.to suggest an idea or a plan for other people to consider 提出，提请考虑（想法或计划） +
+-> *They floated the idea* of increased taxes on alcohol. 他们建议提高酒税。 +
+-> `主` The idea, which Abe Shinzo, Japan’s prime minister, *floated*(v.) early last year `系` *is* *to come up with* some global rules *for* “data governance”, *guided by* the rather fuzzy(a.) concept of “free flow of data with trust”. +
+日本首相安倍晋三(Abe Shinzo)去年初提出的想法是，在“给予数据自由流动以信任”这一相当模糊的概念的指导下，为“数据治理”提出一些全球规则。
+
+1. *come up with sth* :  to find or produce an answer, a sum of money, etc. 找到（答案）；拿出（一笔钱等）
+
+1.  fuzzy : (a.)（形状或声音）模糊不清的 /confused and not expressed clearly 糊涂的；含混不清的 +
+-> *The soundtrack is fuzzy* in places. 这电影声带有些地方模糊不清。 +
+-> *fuzzy ideas/thinking* 糊涂的想法╱思想
+
+1. resemble : v. ( not used in the progressive tenses 不用于进行时 ) [ VN ] to look like or be similar to another person or thing 看起来像；显得像；像 +
+-> She *closely resembles*(v.) her sister. 她和她姐姐很像。 +
+-> *Will* it *resemble* today’s global maps, *showing* as many data zones as there are countries? 它会像今天的全球地图那样, 显示出和国家数量一样多的数据区域吗?
+
+1. *as many as* : (用于数字之前表示数目极大)多达…;和……一样多
+
+1. *stay put* : if sb/sth *stays put* , they continue to be in the place where they are or where they have been put 待在原地；留在原处 +
+-> *To prevent* all data *from* flowing, countries *would essentially have to cut* their connection to the internet: it *would be* the only way *to ensure that* data *really stays put*.  +
+为了阻止所有数据的流动，各国基本上必须切断与互联网的连接: 这是确保数据真正呆在本国的唯一方法。
+
+1. secession :  /sɪˈseʃn/ n.（地区或集团从所属的国家或上级集团的）退出，脱离 +
+=>  se-分离 + -cess-行走 + -ion名词词尾 +
+-> Russia may be willing to accept the huge economic costs of *such a digital secession*. But most countries will probably *shy(v.) away from* the drawbacks(n.) of *even less draconian(a.) measures*. +
+俄罗斯可能愿意承受这种数字脱钩, 所要付出的巨大的经济代价. 但即使对于更缓和一点的严酷措施所带来的缺点, 都可能令大多数国家避免这么干.
+
+1. *shy away (from sth)* : to avoid doing sth because you are nervous or frightened 畏避；回避；躲避；避免做
+
+1. drawback (n.)缺点；不利条件
+
+1. draconian : /drəˈkoʊniən/  a.( formal ) ( of a law, punishment, etc. 法律、惩罚等 ) extremely cruel and severe 德拉古式的；严酷的；残忍的 +
+=> “德拉科（Draco）”这一名字，可能来源于创造了一部苛刻法律的雅典第一位立法者Draco。在拉丁语中“Draco”的意思为龙或蛇，同时“Draco”也有天龙座的意思 +
+image:../../+ img_单词图片/d/draconian.jpg[]
+
+1. An overly protectionist 贸易保护主义的 country
+
+1. scenario :  /səˈnærioʊ/  a description of how things might happen in the future 设想；方案；预测 +
+=> 来自意大利语 scenario,情节，来自拉丁语 scenarius,舞台情节，场景，来自 scena,舞台布景， 场景，词源同 scene.引申词义设想，方案。 +
+-> Let me suggest *a possible scenario* . 我来设想一种可能出现的情况。 +
+-> *The worst-case scenario* (= the worst possible thing that could happen) would be for the factory to be closed down. 最坏的情况可能是工厂关闭。
+
+1. coalition :  /ˌkoʊəˈlɪʃn/ （尤指多个政治团体的）联合体，联盟 /a government formed by two or more political parties working together （两党或多党）联合政府 +
+-> *a coalition* of environmental and consumer groups 环境保护和消费者团体的联盟 +
+-> Coalitions for different types of data *have begun to form*.
+
+1. effectively 实际上；事实上;有效地 +
+-> He was very polite but *effectively* he was telling me that I had no chance of getting the job. 他彬彬有礼，但实际上却是在告诉我，我不可能得到这份工作。 +
+-> You dealt with the situation *very effectively*. 你应付那种局面很有一套。 +
+-> The GDPR’s adequacy(n.)足够；适当；妥善性 requirement *effectively 实际上；事实上;有效地 created* one.
+
+1. reciprocity : /ˌresɪˈprɑːsəti/ n.  a situation in which two people, countries, etc. provide the same help or advantages to each other 互惠；互助；互换 +
+=> 来自 reciprocate,回报的，-ity,名词后缀。来自 re-,向后，pro-,往前，-cus,形容词后缀。引申词义互惠的，互利的。 +
+-> a bill passed in 2018 to allow the government to negotiate *reciprocity(n.) agreements* with other countries. +
+该法案于2018年通过，允许政府与其他国家谈判互惠协议。 +
+image:../../+ img_单词图片/r/reciprocity.jpg[]]
+
+1. reciprocal : /rɪˈsɪprəkl/  (a.) involving two people or groups who agree to help each other or behave in the same way to each other 互惠的；相应的 +
+-> The two colleges *have a reciprocal arrangement* whereby students from one college can attend classes at the other. 两所学院有一项互惠协定，允许学生在院际间选课。
++
+-> If these *allow* American law enforcement *to access* data (*stored* in partner territory 领土；版图；领地) *more rapidly than* is possible today, agencies in those countries *can get easier reciprocal(a.) access*, too. +
+如果这些协议允许美国执法部门, 比现在更快地访问存储在合作伙伴领土上的数据，那么这些国家的机构, 也可以更容易地相互访问这些数据。
+
+1. *come up with sth* : [ no passive ] to find or produce an answer, a sum of money, etc. 找到（答案）；拿出（一笔钱等） +
+-> She *came up with a new idea* for increasing sales. 她想出了增加销售量的一个新招儿。 +
+-> How soon can you *come up with the money*? 你什么时候能拿出这笔钱？ +
+-> the Osaka Track talks(n.) are meant to *come up with* global rules. "大阪路线"谈判, 旨在找到一个全球规则.
+
+1. *sign up (for sth)* : to arrange to do a course of study by adding your name to the list of people doing it 报名（参加课程） +
+-> India and a few other developing countries *have refused to sign up to* the Osaka Track.
+
+1. intriguing :  /ɪnˈtriːɡɪŋ/ a. very interesting because of being unusual or not having an obvious answer 非常有趣的；引人入胜的；神秘的 +
+=> 来自intrigue,激发，激起好奇心。 +
+-> He found her *intriguing*. 他觉得她很迷人。 +
+-> These discoveries *raise intriguing questions*. 这些发现带来了非常有趣的问题。 +
+-> The third possible future of the global data sphere 圆球；球状物;范围；领域；阶层；界 is again less likely, but *the most intriguing*(a.). +
+全球数据领域的第三个可能的未来, 同样不太可能，但却是最有趣的。
+
+1. *REFER TO SB/STH (AS STH)* : to mention or speak about sb/sth 提到；谈及；说起;/to describe or be connected to sb/sth 描述；涉及；与…相关 +
+-> The star *refers to*(v.) items which are intended for the advanced learner. 标有星号的项目是给高阶学习者的。 +
+-> This paragraph *refers to(v.) the events of last year*. 这一段说的是去年发生的事。
++
+-> Somewhat unexpectedly, it *is rooted* in Germany and *comes* by the name of GAIA-X, *referring to* the goddess of Earth in Greek mythology, with the X *being* a placeholder for future specialisation 专门化 (GAIA-Health, GAIA-Mobility). +
+有点出乎意料的是，它起源于德国，名字叫做GAIA-X，意为希腊神话中的地球女神，X是未来的专门某个领域的占位符(比如 GAIA-Health, GAIA-Mobility)。 +
+
+1. Gaia-X :  /ˈɡaɪə/  由德国提出, 是一项针对泛欧洲市场的云计划——这个以古希腊神话中大地之神，众神之母"盖亚"来命名的项目Gaia-X，旨在建立一个安全的数据基础架构，以减少欧洲对 Amazon、阿里云等外国云厂商的依赖. 该计划将成立 API 和数据主权规则的联合标准，目标在欧盟内部的云上存储数据。
+
+1. consortium :  /kənˈsɔːr-tiəm/ a group of people, countries, companies, etc. who are working together on a particular project （合作进行某项工程的）财团，银团，联营企业 +
+=> con-, 强调。-sort, 种类，类型，词源同series, sort. 即同类型的，形成团体的。 +
+-> Europe’s successful aeroplane consortium.
+
+1. *settle on sth* : to choose or make a decision about sth after thinking about it 选定；决定 +
+-> Have you *settled on a name* for the baby yet? 你给孩子起好名字没有？ +
+-> Realising that this would probably fail, however, the government *has settled on another approach*. 政府意识到这可能会失败，于是决定采用另一种方法。
+
+1.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+== 35. Who will benefit most from the data economy?
+
+It *is* already unequal /and that inequality(n.)不平等；不平衡；不平均 *could get worse*
+
+谁将从数据经济中获益最多? +
+它已经不平等，并且其不平等程度, 还会变得更糟
+
+Feb 20th 2020 | +
+eco 2020-2-22 / Special report / Policy: And the winner is…
+
+
+THE DATA economy *is* a work in progress 正在进行；在发展中.
+
+Its economics *still have to be worked out*; its infrastructure and its businesses *need to be fully built*; geopolitical arrangements 商定；约定 *must be found*.
+
+But there *is* one final major tension 紧张局势（或关系、状况）;矛盾；对立 : *[between]*(`= : between...and...`) the wealth (the data economy *will create*) *[and]* how it *will be distributed*.
+
+The data economy -- or the “second economy”, *as* Brian Arthur of the Santa Fe Institute *terms*(v.)把…称为；把…叫做 it -- *will make* the world a more productive place [no matter what 无论如何], he *predicts*.
+
+But `主` who *gets* what and how `系` *is* less clear.
+
+“We *will move [from]* an economy (where the main challenge *is* to produce more and more efficiently),” *says* Mr Arthur, “*[to]* one (where distribution of the wealth produced *becomes* the biggest issue).”
+
+数字经济, 正在蓬勃发展. 其经济学情况, 有待研究; 它的基础设施和业务, 要被全面建设. 其地缘政治协定, 也需商定. 但是它存在着一个经济上的主要矛盾, 即, 对于数字经济所创造的财富, 如何来分配它? +
+数字经济, 或者用Santa Fe 机构的 Brian Arthur 的话说, 是"第二经济", 他预测说, 无论如何, 这都将使世界变得更有生产力. 但是, 从中谁得到了什么, 及如何得到, 就不那么清楚了. “我们将从主要挑战在于提高产量和生产效率的经济，转向另一种财富分配成了最大问题的经济。”他说。
+
+
+`主` The data economy (*as* it *exists* today) `系` *is* already very unequal. It *is dominated* by a few big platforms.
+
+In the most recent quarter, Amazon, Apple, Alphabet, Microsoft and Facebook *made* a combined profit of $55bn, *more than* the next five most valuable American tech firms over the past 12 months.
+
+This corporate inequality *is largely the result of* network effects -- economic forces *that mean* {size *begets*(`=beget : 成为…之父;引发；导致`) size}.
+
+A firm that *can collect* a lot of data, for instance, *can make better use of* 使用; 利用 artificial intelligence /and *attract* more users, who [in turn] *supply* more data.
+
+Such firms *can also recruit* the best data scientists /and *have* the cash *to buy* the best AI startups.
+
+
+现有的数据经济已经非常不平等。它由一些大型平台主导。最近一个季度，亚马逊、苹果、Alphabet、微软和Facebook的合并利润达550亿美元，超过市值紧随其后的五家美国高科技公司过去12个月的利润总和。这种“企业不平等”主要缘于网络效应——这种经济力量意味着规模会带来更大的规模。例如，一家可以收集大量数据的公司可以更好地利用人工智能并吸引到更多用户，这些用户继而又给它提供更多数据。这样的公司还可能招募到最杰出的数据科学家，也有现金买下最出色的AI创业公司。
+
+*It* is also becoming clear *that*, *as* the data economy *expands*, these sorts of dynamics *will increasingly apply to* non-tech companies and even countries.
+
+In many sectors, `主` the race *to become* a dominant data platform `系` *is* on.
+
+This *is* the mission 使命；天职 of Compass(`= : 一公司名. 罗盘；指南针`), a startup, in residential 适合居住的；住宅的 property.
+
+It *is* one goal of Tesla in self-driving cars.
+
+And Apple and Google *hope to repeat the trick* 技巧；诀窍 in health care.
+
+As for 关于,至于;就……方面说 countries, America and China *account for* 90% of the market capitalisation 市场总值,市值 of the world’s 70 largest platforms (*see* chart), Africa and Latin America for just 1%.
+
+Economies on both continents *risk*(v.) “*becoming* mere providers of raw data... while *having to pay for* the digital intelligence produced,” the United Nations Conference on Trade and Development *recently warned*.
+
+很清楚, 随着数字经济的扩张, 这种动态趋势, 会越来越在非科技行业的公司甚至国家身上, 反映出来.  +
+在很多领域, 这种要想成为数字平台霸主的竞争, 都在进行中. 这正是Compass的追求的使命, 它是一家服务于地产领域的初创公司. Tesla 也以此为使命之一, 它是一家自动驾驶研发企业.  Apple 和 Google, 也希望在医疗健康领域, 复制这种竞争模式.  +
+在国家层面, 在世界前70大数字平台的总市值中, 美国和中国总计占有90%的份额. 而非洲和拉美只占有1%. +
+联合国贸易和发展会议(United Nations Conference On Trade And Development)最近警告称，非洲和拉美这两大洲的经济, 都面临着风险, 因为它们成为了单纯的原始数据提供方, 却同时还要付费给大平台, 以购买从中分析出的数据情报.
+
+
+Yet it *is* the skewed(a.)(`=skewed :偏的；斜的；歪的;/ 偏向（或偏重）…的;/not accurate or correct 歪曲的；有偏颇的；不准确的`) distribution of income between capital and labour that *may turn out to be* the most pressing(a.)(`= : needing to be dealt with immediately 紧急的；急迫的;/难以推却的；不容忽视的`) problem of the data economy.
+
+====
+- skew => 来自古诺斯法语 eskiuer,逃离，回避，来自古法语 eschiver,逃离，回避，词源同 eschew,askew. 后引申词义误导，偏离，以及比喻义歪曲，歪解等。
+====
+
+*As* it *grows*, more labour *will migrate into* the mirror worlds, *just as* other economic *activity will*.
+
+It *is* [not only] that people *will do more digitally*, [but] they *will perform* actual “data work”: *generating* the digital information *needed to train* and *improve* AI services.
+
+This *can mean* simply *moving about* 走来走去,四处走动 online and *providing* feedback, *as* most people *already do*.
+
+But it *will increasingly include* more active tasks, *such as* ① labelling(v.) pictures, ② *driving* data-gathering vehicles /and perhaps, one day, ③ *putting* one’s digital twin *through its paces*(`=*put sb/sth through their/its paces* : to give sb/sth a number of tasks to perform in order to see what they are capable of doing 考察，考验（某人的能力）`).
+
+This *is* the reason why some *say* AI *should actually be called* “collective 集体的；共有的；共同的;全体成员的；总体的 intelligence”: it *takes in* 吸入，吞入（体内）;包括；包含 a lot of human input -- something big tech firms *hate to admit*.
+
+然而，收入在资本与劳动力之间的不平等分配可能会成为数据经济最紧迫的问题。随着数据经济的增长，更多劳动力将迁移到镜像世界中，就像其他经济活动一样。人们不仅会以数字化的方式做更多事，而且还会执行实际的“数据工作”——生成训练和改善AI服务所需的数字信息。为此他们可能只需要在网上到处晃悠并给出反馈，就像很多人已经在做的那样。但它将越来越多地包含更主动的任务，例如给图片加标签、驾驶收集数据的车辆，也许某天还会测测自己的数字孪生体的技能。这就是为什么有些人说AI实际上应被称为“集体智能”：它需要大量人工投入——这是大型科技公司很不想要承认的。
+
+If history *is* any guide, the risk *is not so much that* humans *will automate*(v.) 使自动化 themselves *away*. Previous technological disruptions 妨碍; 扰乱 *have [at times] even increased* labour’s share of income, *as* new types of jobs *emerged*.
+
+The question *is rather* （提出不同或相反的观点）相反，反而，而是 how much such data workers *will be paid*.
+
+*As things stand* 在目前的情况下；按照现状来看, their work *may become* systematically undervalued(`= :a.v. 低估；对…认识不足；轻视;估价过低的`), *reckons* Glen Weyl of Microsoft.
+
+One reason *is* the structure of online markets: big platforms *are not just* monopolies 垄断, *but* monopsonies(`=monopsony : a situation in which the entire market demand for a product or service consists of only one buyer 买方垄断`), *meaning that* they *have* the power *to hold down* 使保持低水平 wages(n.) for data labour.
+
+Tellingly(ad.)(`=telling  : having a strong or important effect; effective 强有力的；有明显效果的；显著的`), none *has ever really considered* paying(v.) users *for* the data they generate.
+
+The economics of data, too, *put pressure on* the price of data labour: why, for instance, *should* a firm *pay* a high price *for* an individual’s data if it *can infer* 推断；推论；推理 them cheaply *from* another person’s information?
+
+====
+- telling :  adj. *having a strong or important effect; effective* 强有力的；有明显效果的；显著的 +
+-> *a telling argument* 有力的论据 +
+(2) *showing effectively what sb/sth is really like, but often without intending to* 生动的；显露真实面目的，说明问题的（通常并非有意） +
+-> The number of homeless people is *a telling comment* on the state of society. 无家可归者的数量, 是社会状况的生动写照。
+====
+
+如果历史能够提供任何借鉴的话，那么风险主要并不在于人类会因为追求自动化而把自己淘汰掉。以往发生的技术颠覆有时甚至增加了劳动力在收入中所得份额，因为新的工种出现了。问题更多在于这些数据劳动者会被支付多少费用。微软的格伦·韦尔（Glen Weyl）认为，照目前的样子看，他们的劳动价值可能会被系统性地低估。原因之一是线上市场的结构：大平台不仅是垄断者，还是买方垄断者，也就是说它们有能力压低数据工人的工资。很能说明问题的是，还没有哪个平台真正考虑过为用户生成的数据向他们付费。数据的经济运作也给数据劳动力的价格带来了压力。例如，如果一家公司可以花很少的钱从一个人的信息中推断出另一个人的信息，那么它为什么还要出高价买第二个人的数据呢？
+
+
+`主` A data economy in which those who *produce* a large part of the main input *are perennially underpaid* 给……报酬过低 `系` *is* unlikely to be a healthy economy.
+
+`主` Those with the greatest expertise(n.)专门知识；专门技能；专长, such as radiologists 放射科医生,X光科的医生 who *can check* the accuracy of an algorithm that *recognises* medical images, `谓` *might hold back* 拦阻；阻挡;不向（某人）透露情况；隐瞒 their knowledge and *refuse* to participate.
+
+
+`主` Data workers (with low pay) and (no say(n.)决定权；发言权 in the use of the information they generate) `谓` *will increasingly feel* alienated 疏远的；被疏远的, which *could lower* the quality of their work.
+
+And `主` *solving* the problem *through* redistribution 重新分配 -- *as* Gavin Newsom, California’s Democratic governor, *wants to do* with a “digital dividend 红利；股息；股利” *to be levied*(v.)(`=levy : 征收；征（税）`) from tech giants and *disbursed*(`=disburse : to pay money to sb from a large amount that has been collected for a purpose （从资金中）支付，支出`) *to* the state’s citizens -- `谓` *would be* a burden on the data economy and *lead to* trade conflicts.
+
+Such subsidies(`=subsidy : 补贴金`) *would be* vulnerable （身体上或感情上）脆弱的，易受…伤害的 *to cuts* 当 *as* the political winds *change*.
+
+====
+- disburse => dis-, 不，非，使相反。-burse, 钱包，词源同pure, bursary. 即把钱从钱包拿出来，支付。
+====
+
+如果那些生产了数据经济的主要输入的一大部分的人常年拿低薪，这种经济就不大可能是健康的。那些最具专业知识的人，比如放射科专家（他们能检查某个识别医学影像的算法的准确性），可能会对自己的知识有所保留，拒绝参与其中。低薪而又不能决定自己生成的信息如何使用的数据工人会日益感到疏离，而这可能会降低他们的工作质量。而通过再分配来解决这一问题（例如加州民主党州长加文·纽森[Gavin Newsom]想向科技巨头征收“数字红利”并支付给该州民众）会给数据经济带来负担，并导致贸易冲突。随着政治风向的改变，这类补贴很容易被削减。
+
+All these complications 使更复杂化（或更困难）的事物;并发症 *explain* why another proposed 提议；建议 remedy(n.)(`=remedy : 处理方法；改进措施；补偿`) *keeps popping up*: *creating* property rights on personal data *to increase* people’s bargaining power.
+
+====
+- remedy => e-,表强调，-med,救治，词源同 medical,medicine.
+====
+
+
+Yet this in itself *would not help much*.
+
+If most people *understandably 可以理解地；正常地；合乎情理地 ignore* the complex privacy policies(n.) that *come* with online services, how *can* they *be expected* to shop(v.) around 货比三家而后买；比较选购;逛商店 for the best price for their data?
+
+
+And property rights *could actually make* things *worse*.
+
+Since most personal data *are* fundamentally a social construct (*to which* more than one person *has* the right), individuals *could engage in* a race to the bottom(`=*race to the bottom* : 恶性竞争`).
+
+Each member of a family, say, *could sell* their genetic information /and [by doing so] *reveal* much of their relatives’ DNA.
+
+所有这些复杂情形说明了为何另一种修正方案会被反复提出：为个人数据创建产权，以提高人们的议价能力。然而，这本身并没有太大的帮助。如果大多数人都合情合理地忽略了网上服务随附的复杂隐私政策，又如何能期望他们会货比三家来给自己的数据卖个最好的价钱呢？产权实际上还会让事情变得更糟。由于大多数个人数据从根本上来说是一种社会建构，不止一人对此拥有权利，因此个体可能会投入到一种“逐底竞争”中去。举例来说，一个家庭的每个成员都可以出售自己的遗传信息，而这么做透露了亲属的许多DNA信息。
+
+Instead of *giving* citizens individual control over their data, they *should hold it collectively*, *argues* Mr Weyl.
+
+`主` He and an activist  积极分子；活跃分子 organisation he helped found, RadicalxChange, `谓` *want* everyone *to join* what they *call* “data co-operatives” 合作性企业; 合作性组织.
+
+These *would act* much like trade unions in the conventional 传统的；习惯的 economy.
+
+They *would*, among other things, *negotiate* rates *for* data work, *ensure* the quality of members’ digital output, *bill*(v.)给（某人）开账单，发账单（要求付款） data firms that *benefit from* this output, and *distribute*(v.)分发；分配 the proceeds （售物或演出等的）收入，收益，进款.
+
+韦尔认为，与其给予公民对其数据的个人控制权，他们应该集体拥有数据。他和他帮助创建的活动家组织RadicalxChange, 希望每个人都加入他们口中的“数据合作社”。它们会很像常规经济中的工会那样运作。它们会谈判数据工作的报酬，确保会员数据输出的质量，向那些从这一输出中受益的数据公司收费，并分配收益。
+
+*Like* data trusts(`= : an arrangement by which an organization or a group of people has legal control of money or property that has been given to sb, usually until that person reaches a particular age; an amount of money or property that is controlled in this way 委托；信托；信托财产`), robust 强劲的；富有活力的 data co-operatives *will not emerge overnight*.
+
+They *need* support *from* all involved.
+
+There *are* early signs that this *may be* forthcoming(a.) 即将发生（或出版等）的.
+
+Some Western countries *may soon discuss* a “Data Freedom Act”, *based on* a draft by RadicalxChange, which *would create* a new regulated （用规则条例）约束，控制，管理 entity 独立存在物；实体 for that purpose.
+
+In a first for a tech-giant boss, `主` Satya Nadella, the chief executive of Microsoft, at the World Economic Forum in Davos in January `谓` *called on* the industry *to show* more respect for “data dignity” -- *meaning* to give(v.) people more control over their data /and a bigger share of the value these data create.
+
+The public, for its part, *is getting* ever more concerned about what *happens* with its data.
+
+Roughly 大约；大致；差不多 eight in ten 十分之八 Americans, for instance, now *think* they *have* very little or no control over the data which companies *collect* about them.
+
+和数据信托一样，强大的数据合作社不会在一夜之间兴起。它们需要参与其中的所有各方的支持。有早期迹象表明这可能即将发生。某些西方国家可能很快就会讨论基于RadicalxChange的一份草案的《数据自由法案》（Data Freedom Act），将为此创建一个新的受监管实体。 +
+微软首席执行官萨蒂亚·纳德拉（Satya Nadella）1月在达沃斯举行的世界经济论坛上, 成为了第一个行业更尊重“数据尊严”的科技巨头老板。“数据尊严”意味着让人们对自己的数据有更多控制权，并分得这些数据所创造价值的更大份额。 +
+而公众整体已经越来越关心自己的数据发生了什么。例如，大约八成美国人现在认为，他们对公司收集的有关他们个人的数据, 几乎或完全没有控制权。
+
+*Expect* 预料；预期；预计 debates(n.) about *[such]* ideas *[as]* data co-operatives(n.) *to become* more heated(a.)愤怒的；激烈的；十分激动的 [随着 *as* the data economy *grows*].
+
+Encouragingly, *as* Mr Arthur *points out*, humanity *has overcome* a similar conundrum(`=conundrum : 令人迷惑的难题；复杂难解的问题`) before.
+
+In the 1850s, the Industrial Revolution *brought* big increases in production, *along with*(`= : in addition to sb/sth; in the same way as sb/sth 除…以外（还）；与…同样地`) Dickensian(a.)狄更斯文体的；具有狄更斯小说特点的；类似狄更斯笔下描述的 social conditions.
+
+It *took* 100 years for societies *to adapt*; some *never did*.
+
+In the data economy, too, it *will take* a long time *to build* the appropriate mechanisms and institutions.
+
+No one yet *worries that* {revolutions and wars *will be fought* over data}, but there *is* no guarantee(n.)保证；担保.
+
+可以想见，随着数据经济的发展，关于诸如数据合作社之类的方案的辩论会更加激烈。令人鼓舞的是，正如阿瑟指出的那样，人类曾经克服过类似的难题。在1850年代，工业革命大幅提高了产量，同时也带来了狄更斯笔下的那种社会状况。人类社会花了一百年来调整，而有些社会从未适应。在数据经济中，建立适当的机制和机构同样会花费很长的时间。还没有人担心人类会为了数据发生革命和战争，但这一点也说不准呢。
+
+
+
+---
+
+== 35. Who will benefit most from the data economy? 纯净版
+
+It *is* already unequal /and that inequality *could get worse*
+
+Feb 20th 2020 |
+
+
+THE DATA economy *is* a work in progress. Its economics still *have to be worked out*; its infrastructure and its businesses *need to be fully built*; geopolitical arrangements *must be found*. But there *is* one final major tension: *between* the wealth (the data economy will create) *and* how it will be distributed. `主` The data economy -- or the “second economy”, *as* Brian Arthur of the Santa Fe Institute *terms* it -- `谓` *will make* the world a more productive place [no matter what], he *predicts*. But `主` who *gets* what and how `系` *is* less clear. “We *will move* from an economy (where the main challenge *is* to produce more and more efficiently),” *says* Mr Arthur, “*to* one (where distribution of the wealth produced *becomes* the biggest issue).”
+
+The data economy (as it exists today) *is* already very unequal. It *is dominated* by a few big platforms. In the most recent quarter, Amazon, Apple, Alphabet, Microsoft and Facebook *made* a combined profit of $55bn, *more than* the next five most valuable American tech firms over the past 12 months. This corporate inequality *is* largely the result of network effects -- economic forces(n.) *that mean* {size *begets* size}. A firm that *can collect* a lot of data, for instance, *can make* better use of artificial intelligence /and *attract* more users, who [in turn] *supply* more data. Such firms *can also recruit* the best data scientists /and *have* the cash *to buy* the best AI startups.
+
+*It* is also becoming clear *that*, *as* the data economy *expands*, these sorts of dynamics *will increasingly apply to* non-tech companies and even countries. In many sectors, `主` the race *to become* a dominant data platform `系` *is* on. This *is* the mission of Compass, a startup, in residential property. It *is* one goal of Tesla in self-driving cars. And Apple and Google *hope(v.) to repeat the trick* in health care. *As for* countries, America and China *account for* 90% of the market capitalisation of the world’s 70 largest platforms (*see* chart), Africa and Latin America for just 1%. Economies on both continents *risk*(v.) “*becoming* mere providers of raw data... while *having to pay for* the digital intelligence produced,” the United Nations Conference on Trade and Development *recently warned*.
+
+
+
+Yet it *is* the skewed(a.) distribution of income between capital and labour that *may turn out to be* the most pressing problem of the data economy. *As* it *grows*, more labour *will migrate into* the mirror worlds, *just as* other economic *activity will*. *It* is [not only] *that* people *will do more digitally*, [but] they *will perform* actual “data work”: *generating* the digital information *needed* to train and improve AI services. This *can mean* simply moving about [online] /and *providing* feedback, *as* most people *already do*. But it *will increasingly include* more active(a.) tasks, *such as* labelling(v.) pictures, *driving* data-gathering vehicles /and perhaps, one day, *putting* one’s digital twin *through its paces*. This *is* the reason why some *say* {AI *should actually be called* “collective intelligence”}: it *takes in* a lot of human input -- something (big tech firms *hate to admit*).
+
+If history *is* any guide, the risk *is not so much that* humans *will automate themselves away*. Previous technological disruptions *have [at times] even increased* labour’s share of income, *as* new types of jobs *emerged*. The question *is rather* how much such data workers *will be paid*. *As things stand*, their work *may become* systematically undervalued(a.), *reckons* Glen Weyl of Microsoft. One reason *is* the structure of online markets: big platforms *are not* just monopolies, but monopsonies, *meaning that* they *have* the power *to hold down wages* for data labour. Tellingly, none *has ever really considered* paying(v.) users *for* the data they generate. The economics of data, too, *put pressure on* the price of data labour: why, for instance, *should* a firm *pay* a high price *for* an individual’s data if it *can infer* them cheaply *from* another person’s information?
+
+`主` A data economy (in which those `主` who *produce* a large part of the main input `谓` *are perennially underpaid*) `系` *is unlikely to be* a healthy economy. `主` Those with the greatest expertise, *such as* radiologists who *can check* the accuracy of an algorithm (that *recognises* medical images), `谓` *might hold back* their knowledge /and *refuse to participate*. `主` Data workers (with low pay /and no say(n.) in the use of the information they generate) `谓` *will increasingly feel alienated*, which *could lower* the quality of their work. And `主` *solving* the problem *through* redistribution -- *as* Gavin Newsom, California’s Democratic governor, *wants to do* with a “digital dividend” *to be levied from* tech giants /and *disbursed to* the state’s citizens -- `系` *would be* a burden on the data economy /and *lead to* trade conflicts. Such subsidies *would be* vulnerable(a.) *to cuts* 当 *as* the political winds *change*.
+
+All these complications *explain* why another proposed remedy *keeps popping up*: *creating* property rights on personal data *to increase* people’s bargaining power. Yet this in itself *would not help much*. If most people *understandably ignore* the complex privacy policies that *come* with online services, how *can* they *be expected* to shop(v.) around *for* the best price for their data? And property rights *could actually make things worse*. Since most personal data *are* fundamentally a social construct (*to which* more than one person *has the right*), individuals *could engage in* a race to the bottom. Each member of a family, say, *could sell* their genetic information and [by doing so] *reveal* much of their relatives’ DNA.
+
+Instead of *giving* citizens individual control over their data, they *should hold it collectively*, *argues* Mr Weyl. `主` He and an activist organisation he helped found, RadicalxChange, `谓` *want* everyone *to join* what they call “data co-operatives”. These *would act [much like]* trade unions in the conventional economy. They *would*, among other things, *negotiate* rates *for* data work, *ensure* the quality of members’ digital output, *bill*(v.) data firms that *benefit from* this output, and *distribute* the proceeds.
+
+Like data trusts, robust data co-operatives *will not emerge overnight*. They *need* support *from* all involved. There *are* early signs(n.) that this *may be* forthcoming. Some Western countries *may soon discuss* a “Data Freedom Act”, *based on* a draft by RadicalxChange, which *would create* a new regulated entity *for* that purpose. In a first for a tech-giant boss, `主` Satya Nadella, the chief executive of Microsoft, at the World Economic Forum in Davos in January `谓` *called on* the industry *to show* more respect *for* “data dignity” -- *meaning* to give(v.) people more control over their data /and a bigger share of the value these data create. The public, for its part, *is getting ever more concerned about* what *happens* with its data. Roughly *eight in ten* Americans, for instance, now *think* {they *have* very little or no control over the data which companies *collect* about them}.
+
+*Expect* debates(n.) about [such] ideas [as] data co-operatives(n.) *to become* more heated 当 *as* the data economy grows. Encouragingly, *as* Mr Arthur *points out*, humanity *has overcome* a similar conundrum before. In the 1850s, the Industrial Revolution *brought* big increases in production, *along with* Dickensian social conditions. It *took* 100 years for societies *to adapt*; some *never did*. In the data economy, too, it *will take* a long time *to build* the appropriate mechanisms and institutions. No one *yet worries that* {revolutions and wars *will be fought* over data}, but there *is* no guarantee.
+
+
+
+
+
+
+---
+
+
+== 熟听单词
+
+|===
+|word |description
+|Seattle|
+|multiply|
+|fledged|
+|cosmopolitan|
+|*as/so long as*|
+|*by extension*|
+|inhibit|
+|*go up*|
+|General Data Protection Regulation|
+|*in place*|
+|*come up with sth*|
+|*as many as*|
+|*stay put*|
+|*shy away (from sth)*|
+|draconian|
+|scenario|
+|coalition|
+|reciprocity|
+|intriguing|
+|consortium|
+|*settle on sth*|
+|über|
+|minimize|
+|*work sth out*|
+|granular|
+|*common denominator*|
+|*hold sb/sth up*|
+|*hold one's breath*|
+|momentum|
+|hoard|
+|bloc|
+
+|---|---
+
+|beget|
+|skewed|
+|*put sb/sth through their/its paces*|
+|monopsony|
+|telling|
+|levy|
+|disburse|
+|subsidy|
+|remedy|
+|*race to the bottom*|
+|conundrum|
+|===
+
+
+
+
+---
+
+
+get done 用法 get + 过去分词”也能用于被动结构和系表结构，用于被动结构时，它强调动作的发生；用于系表结构时，它强调状态的变化。 一、get被用来代替助动词be和过去分词连用，构成被动结构，表示某一事件或事故的发生，着重强调动作。  1．常见于以下两种情况： ① 谈论某人或某物的客观遭遇，往往表示一种突然的、未曾料到的偶发事件或事故，如： Some glasses got broken when we were moving. 我们搬家的时候有些玻璃杯被打碎了。 He got killed when he was crossing the road. 过马路时他被车撞死了。 ② 谈论设法做到自己称心的事。当主语是人时，常可在get和过去分词之间插入一个反身代词，表示主语对动作的结果负有一定的责任，此时既含有被动意义，同时又含有主动意义，如： Our car gets cleaned about once every two months. 我们的车每两个月大约清洗一次。 She got (herself) paid before she went on a holiday. 她在休假前（设法）领到了工资。 2．“get + 过去分词”与“be + 过去分词”在构成被动结构时的区别： ① 前者多用于口语和非正式文体，而后者则可用于更多的场合。 ② 前者侧重表示动作，而后者既可表动作又可表状态，有时有歧义，如： The chair got broken yesterday. 昨天这把椅子被弄坏了。（表动作） The chair was broken yesterday. 昨天这把椅子被弄坏了。（表动作）或  昨天这把椅子是坏的。（表状态） ③ 前者偶尔带表示动作执行者的by短语，而后者则有时带有时不带，如： My brother got hit by a stone. 我哥哥被一块石头击中了。 She got caught by the police. 她让警察给抓住了。 ④ 前者在表示强调，否定和疑问时需借助助动词do/does/did，而后者则不需，如： He didn’t get beaten yesterday evening. 他昨天晚上没挨打。 Did your letter get answered ? 你收到回信了吗？ ⑤ 前者有时既可表示被动意义，又可表示主动意义；后者则只表示单纯的被动意义，如： I got (myself) invited to lots of parties last holidays. 上次休假期间，我（设法）让人邀请参加了许多社交聚会。 I was invited to lots of parties last holidays. 上次休假期间，我应邀参加了许多社交聚会。 ⑥ 与助动词be相比，和get连用的过去分词仅限于少数，其中多数含有“不顺利；不愉快”之意，如： He got taught a lesson. 他被教训了一顿。 I got rained on as I was coming to work. 我来上班时遭到淋雨。 
+二、get作始动性连系动词，与多数都已形容词化了的过去分词连用，构成系表结构，表示状态的变化（即动作的结果），其中get表示一种状态向另一种状态过渡、变化的动作，其含义等于become； begin to be或come to be，如： 1．常见于以下五种情况： ① 表示使自己进入或变为某种状态，如： We don’t want any of you to get lost. 我们不想你们当中任何人迷路。 He went out and got drunk. 他出去喝醉了酒。 类似这种用法的词组还有：get started（行动起来），get engaged（订婚），get divorced（离婚）等。 ② 表示对自己身体的外表做某事，动作完成后主语所处的状态，此时过去分词多具有反身意义，如： He could not wash himself or get dressed. 他既不会洗澡，也不会穿衣。 She got washed after she got back home from work . 她下班回到家后洗了澡。 类似这种用法的词组还有：get undressed（脱下衣服），get changed（换衣服），get shaved（刮脸；刮胡子）等 。 ③ 表示由一种状态渐渐变为另一种状态，如： She soon got tired of learning English. 很快她就对学英语厌倦了。 You will soon get used to this kind of work.你很快就会习惯这种工作。 ④ 表示引起心理和情感上的变化，如： She got pleased with her new room. 她对她的新房间颇为满意。 I got surprised at the news. 这消息使我吃惊。 ⑤ get与少数形容词化了的过去分词连用，用于祈使句中，着重表达过去分词的内容，用来表示命令、请求、忠告等语气，如： Get dressed! 穿上衣服！ Oh, get lost, will you! I want to study. 噢，给我走开！我要学习了。（此习语用法较粗鲁，只限熟人之间使用。） Get washed! 去洗一洗吧！ Don’t get caught in the rain! 别遭雨淋！   2．“get + 过去分词”与“be + 过去分词”在构成系表结构时的区别： ① 前者表示开始进入某种状态，而后者仅表示一种实际存在的状态，如： The little girl got interested in music. 这个小女孩对音乐产生了兴趣。（原本没有兴趣，后来有了。） The little girl is interested in music. 这个小女孩对音乐感兴趣。（本来就有兴趣。） ② 前者表示状态有进行式，而后者则没有，如： The students are getting prepared for the sports meeting.学生们在为运动会作准备。 She’s getting worried about her exams. 她在为考试发愁。 3．四点应注意的问题： ① get和具体的时间状语连用，表示某一状态在具体时间的某一时刻发生的过渡和变化，如： 
+They are going to get married on New Year’s Day. 他们打算在元旦结婚。 He went out and got drunk yesterday evening. 昨天晚上他出去喝醉了酒。 注 意：get不能和表示时段的状语连用，如不能说：They have got married for five years. 他们结婚5年了。只能说：They have been married for five years. 或They got married five years ago. ② get用于进行时态，表示一种状态向另一种状态过渡的、变化的过程，如： He is getting more and more annoyed.他越来越感到气恼。 I’m getting all mixed up. 我全给闹糊涂了。 ③ get用于现在完成时，表示某一状态过渡动作的结束或结果，如： Edward and I have just got engaged. 爱德华和我刚刚订婚。 They’ve just got married. 他们刚结婚。 ④ 除get以外，become和grow也可和已经形容词化了的过去分词连用，构成系表结构，表示一种状态向另一种状态演变的过程，如： Soon the room became crowded. 不一会儿房里就挤满了人。 He grew amazed when he heard the news. 当他听到这个消息时，他很惊讶。 注意：“become + 过去分词”有时也有被动的含义，强调动作的结果，如： The Canadian climbers became trapped on the mountain last Tuesday. 上周二加拿大登山队员被困在山上了。 The news became known at 10 o’clock.这消息在十点钟被人们知道了

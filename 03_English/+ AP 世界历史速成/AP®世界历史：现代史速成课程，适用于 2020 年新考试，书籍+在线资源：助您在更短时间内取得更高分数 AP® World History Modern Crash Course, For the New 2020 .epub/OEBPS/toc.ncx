@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx version="2005-1" xml:lang="en-US" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+<head>
+<meta name="dtb:uid" content="9780738612614" />
+<meta name="dtb:depth" content="2" />
+<meta name="dtb:totalPageCount" content="203" />
+<meta name="dtb:maxPageNumber" content="203" />
+</head>
+<docTitle><text>AP&#x00AE; World History: Modern Crash Course</text></docTitle>
+<docAuthor><text>Jay P. Harmon</text></docAuthor>
+<navMap>
+<navPoint id="nav1" playOrder="1"><navLabel><text>Cover </text></navLabel><content src="xhtml/00_Cover_Page.html" /></navPoint>
+<navPoint id="nav2" playOrder="2"><navLabel><text>Title Page</text></navLabel><content src="xhtml/01_Title_Page.html" /></navPoint>
+<navPoint id="nav3" playOrder="3"><navLabel><text>Copyright Page</text></navLabel><content src="xhtml/02_Copyright_Page.html" /></navPoint>
+<navPoint id="nav4" playOrder="4"><navLabel><text>Contents </text></navLabel><content src="xhtml/04_Table_of_Contents.html" /></navPoint>
+<navPoint id="nav5" playOrder="5"><navLabel><text>About Our Book</text></navLabel><content src="xhtml/05_About_Our_Book.html" /></navPoint>
+<navPoint id="nav6" playOrder="6"><navLabel><text>About Our Author</text></navLabel><content src="xhtml/06_About_Our_Author.html" /></navPoint>
+<navPoint id="nav7" playOrder="7"><navLabel><text>PART I Introduction</text></navLabel><content src="xhtml/07_PART__I_Introduction.html" />
+<navPoint id="nav8" playOrder="8"><navLabel><text>Chapter 1 Eight Keys to Success on the AP&#x00AE; World History: Modern Exam</text></navLabel><content src="xhtml/08_Chapter_1_Eight_Keys_to_Success.html" /></navPoint>
+<navPoint id="nav9" playOrder="9"><navLabel><text>Chapter 2 Concepts, Themes, and Key Terms</text></navLabel><content src="xhtml/09_Chapter_2_Concepts__Themes__and.html" /></navPoint>
+<navPoint id="nav10" playOrder="10"><navLabel><text>Chapter 3 AP&#x00AE; World History: Modern Course Overview</text></navLabel><content src="xhtml/10_Chapter_3_AP__World_History__Mod.html" /></navPoint></navPoint>
+<navPoint id="nav11" playOrder="11"><navLabel><text>PART II Chronological Review</text></navLabel><content src="xhtml/11_PART_II_Chronological_Review.html" />
+<navPoint id="nav12" playOrder="12"><navLabel><text>Chapter 4 Unit 1: The Global Tapestry, c. 1200 to c. 1450</text></navLabel><content src="xhtml/12_Chapter_4_Unit_1__The_Global_Tap.html" /></navPoint>
+<navPoint id="nav13" playOrder="13"><navLabel><text>Chapter 5 Unit 2: Networks of Exchange, c. 1200 to c. 1450</text></navLabel><content src="xhtml/13_Chapter_5_Unit_2__Networks_of_Ex.html" /></navPoint>
+<navPoint id="nav14" playOrder="14"><navLabel><text>Chapter 6 Unit 3: Land-Based Empires, c. 1450 to c. 1750</text></navLabel><content src="xhtml/14_Chapter_6_Unit_3__Land_Based_Emp.html" /></navPoint>
+<navPoint id="nav15" playOrder="15"><navLabel><text>Chapter 7 Unit 4: Transoceanic Interconnections, c. 1450 to c. 1750</text></navLabel><content src="xhtml/15_Chapter_7_Unit_4__Transoceanic_I.html" /></navPoint>
+<navPoint id="nav16" playOrder="16"><navLabel><text>Chapter 8 Unit 5: Revolutions, c.1750 to c. 1900</text></navLabel><content src="xhtml/16_Chapter_8_Unit_5__Revolutions__c.html" /></navPoint>
+<navPoint id="nav17" playOrder="17"><navLabel><text>Chapter 9 Unit 6: Consequences of Industrialization, c. 1750 to c. 1900</text></navLabel><content src="xhtml/17_Chapter_9_Unit_6__Consequences_o.html" /></navPoint>
+<navPoint id="nav18" playOrder="18"><navLabel><text>Chapter 10 Unit 7: Global Conflict, c. 1900 to the Present</text></navLabel><content src="xhtml/18_Chapter_10_Unit_7__Global_Confli.html" /></navPoint>
+<navPoint id="nav19" playOrder="19"><navLabel><text>Chapter 11 Unit 8: Cold War and Decolonization, c. 1900 to the Present</text></navLabel><content src="xhtml/19_Chapter_11_Unit_8__Cold_War_and.html" /></navPoint>
+<navPoint id="nav20" playOrder="20"><navLabel><text>Chapter 12 Unit 9: Globalization, c. 1900 to the Present</text></navLabel><content src="xhtml/20_Chapter_12_Unit_9__Globalization.html" /></navPoint></navPoint>
+<navPoint id="nav21" playOrder="21"><navLabel><text>PART III Review Charts</text></navLabel><content src="xhtml/21_PART_III_Review_Charts.html" />
+<navPoint id="nav22" playOrder="22"><navLabel><text>Chapter 13 Art, Architecture, and Literature Review</text></navLabel><content src="xhtml/22_Chapter_13_Art__Architecture__an.html" /></navPoint>
+<navPoint id="nav23" playOrder="23"><navLabel><text>Chapter 14 Important Civilizations, Empires, and Dynasties</text></navLabel><content src="xhtml/23_Chapter_14_Important_Civilizatio.html" /></navPoint>
+<navPoint id="nav24" playOrder="24"><navLabel><text>Chapter 15 Important Migration and Trade Routes</text></navLabel><content src="xhtml/24_Chapter_15_Important_Migration_a.html" /></navPoint>
+<navPoint id="nav25" playOrder="25"><navLabel><text>Chapter 16 Important Technology</text></navLabel><content src="xhtml/25_Chapter_16_Important_Technology.html" /></navPoint></navPoint>
+<navPoint id="nav26" playOrder="26"><navLabel><text>PART IV Test-Taking Strategies and Practice Questions</text></navLabel><content src="xhtml/26_PART_IV_Test_Taking_Strategies_a.html" />
+<navPoint id="nav27" playOrder="27"><navLabel><text>Chapter 17 Strategies for the Multiple-Choice Questions</text></navLabel><content src="xhtml/27_Chapter_17_Strategies_for_the_Mu.html" /></navPoint>
+<navPoint id="nav28" playOrder="28"><navLabel><text>Chapter 18 Practice Multiple-Choice Questions</text></navLabel><content src="xhtml/28_Chapter_18_Practice_Multiple_Cho.html" /></navPoint>
+<navPoint id="nav29" playOrder="29"><navLabel><text>Chapter 19 Tackling the Short-Answer Questions</text></navLabel><content src="xhtml/29_Chapter_19_Tackling_the_Short_An.html" /></navPoint>
+<navPoint id="nav30" playOrder="30"><navLabel><text>Chapter 20 Mastering the Document-Based Question</text></navLabel><content src="xhtml/30_Chapter_20_Mastering_the_Documen.html" /></navPoint>
+<navPoint id="nav31" playOrder="31"><navLabel><text>Chapter 21 Tips for Writing the Long Essay</text></navLabel><content src="xhtml/31_Chapter_21_Tips_for_Writing_the.html" /></navPoint>
+<navPoint id="nav32" playOrder="32"><navLabel><text>Chapter 22 Countdown Calendar</text></navLabel><content src="xhtml/32_Chapter_22_Countdown_Calendar.html" /></navPoint></navPoint>
+<navPoint id="nav33" playOrder="33"><navLabel><text>Practice Exam</text></navLabel><content src="xhtml/33_Practice_Exam.html" /></navPoint>
+</navMap>
+</ncx>

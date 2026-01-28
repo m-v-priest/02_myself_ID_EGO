@@ -1,0 +1,149 @@
+
+= 013-3 The Federal Court System 联邦法院系统
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../../myAdocCss.css
+
+
+'''
+
+
+== 释义
+
+
+
+
+
+Congress has made numerous changes to the federal judicial system throughout the years, but the three-tiered structure of the system is quite clear-cut today. Federal cases typically begin at the lowest federal level, the district (or trial) court. Losing parties may appeal their case to the higher courts—first to the circuit courts, or U.S. courts of appeals, and then, if chosen by the justices, to the U.S. Supreme Court. Decisions of the higher courts are binding on the lower courts. The precedent set by each ruling, particularly by the Supreme Court’s decisions, both builds on principles and guidelines set by earlier cases and frames the ongoing operation of the courts, steering the direction of the entire system. Reliance on precedent has enabled the federal courts to operate with logic and consistency that has helped validate their role as the key interpreters of the Constitution and the law—a legitimacy particularly vital in the United States where citizens do not elect federal judges and justices but are still subject to their rulings.
+
+[.my2]
+多年来，国会对联邦司法系统进行了多次改革，但如今该系统的三级结构已相当清晰。联邦案件通常从最低级别的联邦法院——地区法院（或审判法院）开始审理。败诉方可以向更高级别的法院提起上诉——首先是巡回法院，即美国联邦上诉法院，如果大法官们认为合适，还可以上诉至美国最高法院。上级法院的判决对下级法院具有约束力。每一项裁决，特别是最高法院的裁决，所确立的先例 ，既建立在先前案例确立的原则和指导方针之上，又为法院的日常运作奠定了基础，并指引着整个系统的方向。对先例的依赖使得联邦法院能够以逻辑性和一致性的方式运作，这有助于巩固其作为宪法和法律关键解释者的地位——这种合法性在美国尤为重要，因为公民不选举联邦法官，却仍然要接受他们的裁决。
+
+THE THREE TIERS OF FEDERAL COURTS
+联邦法院的三级制度
+There are ninety-four U.S. district courts in the fifty states and U.S. territories, of which eighty-nine are in the states (at least one in each state). The others are in Washington, DC; Puerto Rico; Guam; the U.S. Virgin Islands; and the Northern Mariana Islands. These are the trial courts of the national system, in which federal cases are tried, witness testimony is heard, and evidence is presented. No district court crosses state lines, and a single judge oversees each one. Some cases are heard by a jury, and some are not.
+
+[.my2]
+美国五十个州和属地共设有九十四个联邦地区法院 ，其中八十九个位于各州（每个州至少有一个）。其余的分别位于华盛顿特区、波多黎各、关岛、美属维尔京群岛和北马里亚纳群岛。这些法院是联邦司法体系的审判法院，负责审理联邦案件、听取证人证词和呈堂证据。联邦地区法院不跨越州界，每个法院均由一名法官负责。部分案件由陪审团审理，部分案件则不由陪审团审理。
+
+There are thirteen U.S. courts of appeals, or circuit courts, eleven across the nation and two in Washington, DC (the DC circuit and the federal circuit courts), as illustrated in Figure 13.6. Each court is overseen by a rotating panel of three judges who do not hold trials but instead review the rulings of the trial (district) courts within their geographic circuit. As authorized by Congress, there are currently 179 such judges. The circuit courts are often referred to as the intermediate appellate courts of the federal system, since their rulings can be appealed to the U.S. Supreme Court. Moreover, different circuits can hold legal and cultural views, which can lead to differing outcomes on similar legal questions. In such scenarios, clarification from the U.S. Supreme Court might be needed.
+
+[.my2]
+美国共有 13 个上诉法院 ，或称巡回法院 ，其中 11 个分布在全国各地，2 个位于华盛顿特区（哥伦比亚特区巡回法院和联邦巡回法院），如图 13.6 所示。每个巡回法院由一个轮值法官小组负责，该小组由三名法官组成，他们不进行审判，而是审查其辖区内各级法院（地区法院）的判决。根据国会的授权，目前共有 179 名这样的法官。巡回法院通常被称为联邦体系的中级上诉法院 ，因为它们的判决可以上诉至美国最高法院。此外，不同的巡回法院可能持有不同的法律和文化观点，这可能导致对类似法律问题的判决结果不同。在这种情况下，可能需要美国最高法院的裁决进行澄清。
+
+A map of the Unites States titled “U.S. Courts of Appeals and U.S. District Courts”. The map shows the thirteen courts of appeals and the geographical areas those courts cover. The first region covers the states of Maine, New Hampshire, Massachusetts, and Rhode Island. The second region covers the states of Vermont, New York, and Connecticut. The third region covers the states of Pennsylvania, New Jersey, and Delaware. The fourth region covers the states of Maryland, West Virginia, Virginia, North Carolina, and South Carolina. The fifth region covers the states of Mississippi, Louisiana, and Texas. The sixth region covers the states of Michigan, Ohio, Kentucky, and Tennessee. The seventh region covers the states of Wisconsin, Illinois, and Indiana. The eighth region covers the states of North Dakota, South Dakota, Nebraska, Minnesota, Iowa, Missouri, and Arkansas. The ninth region covers the states of Washington, Montana, Idaho, Oregon, California, Nevada, Hawaii, Alaska, and Arizona. The tenth region covers the states of Wyoming, Utah, Colorado, Kansas, Oklahoma, and New Mexico. The eleventh region covers the states of Alabama, Georgia, and Florida. The twelfth court is labeled “DC Federal Circuit” and the thirteenth court is labeled “DC Supreme Court”.
+
+[.my2]
+Figure 13.6 There are thirteen judicial circuits: eleven in the geographical areas marked on the map and two in Washington, DC.
+
+[.my2]
+图 13.6 共有 13 个司法巡回区：11 个位于地图上标出的地理区域，2 个位于华盛顿特区。
+Today’s federal court system was not an overnight creation; it has been changing and transitioning for more than two hundred years through various acts of Congress. Since district courts are not called for in Article III of the Constitution, Congress established them and narrowly defined their jurisdiction, at first limiting them to handling only cases that arose within the district. Beginning in 1789 when there were just thirteen, the district courts became the basic organizational units of the federal judicial system. Gradually over the next hundred years, Congress expanded their jurisdiction, in particular over federal questions, which enables them to review constitutional issues and matters of federal law. In the Judicial Code of 1911, Congress made the U.S. district courts the sole general-jurisdiction trial courts of the federal judiciary, a role they had previously shared with the circuit courts.37
+今天的联邦法院系统并非一蹴而就；两百多年来，它通过国会的各项法案不断发展演变。由于宪法第三条并未规定设立地区法院，国会便设立了这些法院，并对其管辖权进行了严格的界定，最初仅限于处理辖区内发生的案件。从 1789 年仅有的 13 个地区法院开始，它们逐渐成为联邦司法系统的基本组织单位。在接下来的 100 年中，国会逐步扩大了地区法院的管辖权，尤其是在联邦问题方面，使其能够审查宪法问题和联邦法律事项。 1911 年，国会通过《司法法典》 ，将美国地区法院确立为联邦司法机构中唯一的普通管辖权审判法院，取代了此前由巡回法院共同承担的职能。 37
+
+The circuit courts started out as the trial courts for most federal criminal cases and for some civil suits, including those initiated by the United States and those involving citizens of different states. But early on, they did not have their own judges; the local district judge and two Supreme Court justices formed each circuit court panel. (That is how the name “circuit” arose—judges in the early circuit courts traveled from town to town to hear cases, following prescribed paths or circuits to arrive at destinations where they were needed.38) Circuit courts also exercised appellate jurisdiction (meaning they receive appeals on federal district court cases) over most civil suits that originated in the district courts; however, that role ended in 1891, and their appellate jurisdiction was turned over to the newly created circuit courts, or U.S. courts of appeals. The original circuit courts—the ones that did not have “of appeals” added to their name—were abolished in 1911, fully replaced by these new circuit courts of appeals.39
+巡回法院最初是大多数联邦刑事案件和部分民事诉讼的审判法院，包括由美国政府提起的诉讼以及涉及不同州公民的诉讼。但早期，巡回法院没有自己的法官；每个巡回法院合议庭由当地地区法官和两名最高法院大法官组成。（“巡回”一词由此而来——早期巡回法院的法官们沿着既定路线或巡回路线，从一个城镇前往另一个城镇审理案件。 38 ）巡回法院还对大多数源自地区法院的民事诉讼行使上诉管辖权（即受理联邦地区法院案件的上诉）；然而，这项职能于 1891 年终止，其上诉管辖权移交给了新设立的巡回法院，即美国上诉法院。最初的巡回法院——即名称中未加“上诉”二字的法院——于 1911 年被废除，完全被这些新的巡回上诉法院所取代。 39
+
+While we often focus primarily on the district and circuit courts of the federal system, other federal trial courts exist that have more specialized jurisdictions, such as the Court of International Trade, Court of Federal Claims, and U.S. Tax Court. Specialized federal appeals courts include the Court of Appeals for the Armed Forces and the Court of Appeals for Veterans Claims. Cases from any of these courts may also be appealed to the Supreme Court, although that result is very rare.
+
+[.my2]
+虽然我们通常主要关注联邦司法系统的地区法院和巡回法院，但还有其他一些联邦审判法院拥有更专门的管辖权，例如国际贸易法院、联邦索赔法院和美国税务法院。专门的联邦上诉法院包括军事上诉法院和退伍军人上诉法院。来自这些法院的案件也可以上诉至最高法院，尽管这种情况非常罕见。
+
+The U.S. Supreme Court is composed of nine justices—one chief justice and eight associate justices. Typically, all nine preside over individual cases. There are many more circuit and federal district judges spread across the country, but only a limited number of judges preside over any given case. For example, in circuit courts it is a panel of three justices, while in federal district courts there is only a single judge presiding over a case. As the national court of last resort for all other courts in the system, the Supreme Court plays a vital role in setting the standards of interpretation that the lower courts follow. The Supreme Court’s decisions are binding across the nation and establish the precedent by which future cases are resolved in all the system’s tiers.
+
+[.my2]
+美国最高法院由九名大法官组成——一名首席大法官和八名大法官。通常情况下，所有九名大法官都会共同审理案件。全国各地还有许多巡回法院和联邦地区法院的法官，但审理特定案件的法官人数有限。例如，巡回法院通常由三名大法官组成合议庭，而联邦地区法院则通常由一名法官审理案件。作为整个司法体系中所有其他法院的最终上诉法院，最高法院在制定下级法院遵循的解释标准方面发挥着至关重要的作用。最高法院的判决在全国范围内具有约束力，并确立了未来各级法院审理案件的先例。
+
+The U.S. court system operates on the principle of stare decisis (Latin for stand by things decided), which means that today’s decisions are based largely on rulings from the past, and tomorrow’s rulings rely on what is decided today. Stare decisis is especially important in the U.S. common law system, in which the consistency of precedent ensures greater certainty and stability in law and constitutional interpretation, and it also contributes to the solidity and legitimacy of the court system itself. As former Supreme Court justice Benjamin Cardozo summarized it years ago, “Adherence to precedent must then be the rule rather than the exception if litigants are to have faith in the even-handed administration of justice in the courts.”40
+美国法院系统遵循 “遵循先例”（拉丁语：stare decisis ，意为 “坚持已决事项 ”）原则，这意味着今天的判决主要依据过去的判例，而明天的判决则取决于今天的判决。 遵循先例在美国普通法体系中尤为重要，因为判例的一致性确保了法律和宪法解释的确定性和稳定性，同时也有助于法院系统本身的稳固性和合法性。正如前最高法院大法官本杰明· 卡多佐多年前所总结的那样：“如果诉讼当事人要对法院公正的司法程序抱有信心，那么遵循先例就必须成为规则而非例外。” 40
+
+Link to Learning  学习链接
+With a focus on federal courts and the public, this website reveals the different ways the federal courts affect the lives of U.S. citizens and how those citizens interact with the courts.
+
+[.my2]
+本网站以联邦法院和公众为重点，揭示了联邦法院影响美国公民生活的各种方式 ，以及这些公民如何与法院互动。
+
+When the legal facts of one case are the same as the legal facts of another, stare decisis dictates that they should be decided the same way, and judges are reluctant to disregard precedent without justification. However, that does not mean there is no flexibility or that new precedents or rulings can never be created. They often are. Certainly, court interpretations can change as times and circumstances change—and as the courts themselves change when new judges are selected and take their place on the bench. For example, the membership of the Supreme Court had changed entirely between Plessey v. Ferguson (1896), which brought the doctrine of “separate but equal” and Brown v. Board of Education (1954), which required integration.41
+当一个案件的法律事实与另一个案件的法律事实相同时，遵循先例原则要求以相同的方式判决，法官通常不愿无故无视先例。然而，这并不意味着没有灵活性，或者永远不能产生新的先例或裁决。事实上，这种情况经常发生。当然，随着时代和环境的变化，以及新法官的选拔和就职，法院的解释也会随之改变。例如，最高法院的成员构成在普莱西诉弗格森案 （1896 年）确立了“隔离但平等”原则，而在布朗诉教育委员会案 （1954 年）则要求种族融合之间发生了彻底的改变。 41
+
+THE SELECTION OF JUDGES
+法官的遴选
+Judges fulfill a vital role in the U.S. judicial system and are carefully selected. At the federal level, the president nominates a candidate to a judgeship or justice position, and the nominee must be confirmed by a majority vote in the U.S. Senate, a function of the Senate’s “advice and consent” role. All judges and justices in the national courts serve lifetime terms of office.
+
+[.my2]
+法官在美国司法体系中扮演着至关重要的角色，他们的选拔过程十分严格。在联邦层面，总统提名法官候选人，该候选人必须经美国参议院多数票确认，这是参议院“咨询与同意”职能的一部分。所有国家法院的法官和大法官都终身任职。
+
+The president sometimes chooses nominees from a list of candidates maintained by the American Bar Association, a national professional organization of lawyers.42 The president’s nominee is then discussed (and sometimes hotly debated) in the Senate Judiciary Committee. After a committee vote, the candidate must be confirmed by a majority vote of the full Senate. He or she is then sworn in, taking an oath of office to uphold the Constitution and the laws of the United States.
+
+[.my2]
+总统有时会从美国律师协会 （一个全国性的律师专业组织）维护的候选人名单中挑选提名人选。 42 总统的提名人选随后会在参议院司法委员会进行讨论（有时会引发激烈辩论）。委员会投票后，该候选人必须获得参议院全体多数票的确认。之后，他/她将宣誓就职，承诺维护美国宪法和法律。
+
+When a vacancy occurs in a lower federal court, by custom, the president consults with that state’s U.S. senators before making a nomination. Through such senatorial courtesy, senators exert considerable influence on the selection of judges in their state, especially those senators who share a party affiliation with the president. In many cases, a senator can block a proposed nominee just by voicing opposition. Thus, a presidential nominee typically does not get far without the support of the senators from the nominee’s home state.
+
+[.my2]
+按照惯例，当联邦下级法院出现空缺时，总统在提名人选前会先咨询该州的联邦参议员。通过这种参议员的礼节性举动 ，参议员们对本州法官的遴选施加了相当大的影响力，尤其是那些与总统同属一个党派的参议员。在许多情况下，参议员只需表达反对意见就能阻止一项提名。因此，如果没有来自总统所在州的参议员的支持，总统的提名人选通常很难获得通过。
+
+Most presidential appointments to the federal judiciary go unnoticed by the public, but when a president has the rarer opportunity to make a Supreme Court appointment, it draws more attention. That is particularly true now, when many people get their news primarily from the Internet and social media. It was not surprising to see not only television news coverage but also blogs and tweets about President Obama’s nominees to the high court, Sonia Sotomayor and Elena Kagan, or President Trump's nominees Neil Gorsuch, Brett Kavanaugh, and Amy Coney Barrett. (Figure 13.7).
+
+[.my2]
+大多数总统对联邦司法机构的任命都不会引起公众的注意，但当总统有机会任命最高法院大法官时，则会引起更多关注。如今，许多人主要通过互联网和社交媒体获取新闻，这种情况尤为突出。因此，我们不难理解为什么不仅电视新闻报道，博客和推特上也充斥着对奥巴马总统提名的最高法院大法官索尼娅·索托马约尔和埃琳娜·卡根，以及特朗普总统提名的尼尔·戈萨奇、布雷特·卡瓦诺和艾米·科尼·巴雷特的讨论（ 图 13.7 ）。
+
+Image A is of Justice Elena Kagan. Image B is of Justice Neil Gorsuch. Image C is of Justice Amy Coney Barrett. Image D is of Ketanji Brown Jackson.
+
+[.my2]
+Figure   数字 13.7 President Obama made two appointments to the U.S. Supreme Court, Justices Sonia Sotomayor in 2009 and Elena Kagan (a) in 2010. Since their appointments, both justices have made rulings consistent with a more liberal ideology. President Trump made three appointments to the U.S. Supreme Court, Justice Neil Gorsuch (b) in 2017, Justice Brett Kavanaugh in 2018, and, most recently, Amy Coney Barrett (c) in October 2020, solidifying the Court's conservative majority. President Biden made one appointment to the U.S. Supreme Court, Justice Ketanji Brown Jackson (d) in 2022. (credit a: modification of "Elena Kagan, Associate Justice of the Supreme Court of the United States" by Steve Petteway, Collection of the Supreme Court of the United States/Wikimedia Commons, Public Domain; credit b: modification of "Associate Justice Neil M. Gorsuch" by Franz Jantzen, Supreme Court of the United States/Wikimedia Commons, Public Domain; credit c: modification of "Barrett's official portrait" by United States Supreme Court/Wikimedia Commons, Public Domain; credit d: Official portrait photograph of Justice Ketanji Brown Jackson, by United States Supreme Court, Public Domain)
+奥巴马总统曾两次任命大法官进入美国最高法院，分别是 2009 年的索尼娅 ·索托马约尔和 2010 年的埃琳娜 ·卡根 (a)。自任命以来，两位大法官的裁决都更符合自由主义的意识形态。特朗普总统则三次任命大法官进入美国最高法院，分别是 2017 年的尼尔·戈萨奇(b)、2018 年的布雷特·卡瓦诺，以及最近于 2020 年 10 月任命的艾米·科尼·巴雷特(c)，从而巩固了最高法院的保守派多数。拜登总统于 2022 年任命了凯坦吉·布朗·杰克逊大法官（已故）。（图片来源：a：史蒂夫·佩特韦拍摄的“美国最高法院大法官埃琳娜·卡根”照片，经修改，出自美国最高法院/维基共享资源，公共领域；b：弗朗茨·詹岑拍摄的“美国最高法院大法官尼尔·戈萨奇”照片，经修改，出自美国最高法院/维基共享资源，公共领域；c：美国最高法院拍摄的“巴雷特的官方肖像”照片，经修改，出自美国最高法院/维基共享资源，公共领域；d：凯坦吉·布朗·杰克逊大法官的官方肖像照片，出自美国最高法院，公共领域）
+Presidential nominees for the courts typically reflect the chief executive’s own ideological position. With a confirmed nominee serving a lifetime appointment, a president’s ideological legacy has the potential to live on long after the end of the term.43 President Obama surely considered the ideological leanings of his two Supreme Court appointees, and both Sotomayor and Kagan have consistently ruled in a more liberal ideological direction. The timing of the two nominations also dovetailed nicely with the Democratic Party’s gaining control of the Senate in the 111th Congress of 2009–2011, which helped guarantee their confirmations. Similarly, Republican Donald Trump was able to confirm his three nominees (Neil Gorsuch, Brett Kavanaugh, and Amy Coney Barrett) while Republicans controlled the Senate.
+
+[.my2]
+总统对法院的提名通常反映了总统自身的意识形态立场。由于提名人一旦获得确认，便终身任职，总统的意识形态遗产有可能在其任期结束后长期存在。奥巴马总统无疑考虑了他提名的两位最高法院大法官的意识形态倾向，而索托马约尔和卡根的判决也始终倾向于更自由的意识形态方向。这两项提名的时机也恰逢民主党在 2009 年至 2011 年第 111 届国会中赢得参议院控制权，这在一定程度上确保了他们的提名获得确认。同样，共和党人唐纳德·特朗普在共和党控制参议院期间也成功确认了他的三位提名人（尼尔·戈萨奇、布雷特·卡瓦诺和艾米·科尼·巴雷特）。
+
+But some nominees turn out to be surprises or end up ruling in ways that the president who nominated them did not anticipate. Democratic-appointed judges sometimes side with conservatives, just as Republican-appointed judges sometimes side with liberals. Republican Dwight D. Eisenhower reportedly called his nomination of Earl Warren as chief justice—in an era that saw substantial broadening of civil and criminal rights—“the biggest damn fool mistake” he had ever made. Sandra Day O’Connor, nominated by Republican president Ronald Reagan, often became a champion for women’s rights. David Souter, nominated by Republican George H. W. Bush, more often than not sided with the Court’s liberal wing. Anthony Kennedy, a Reagan appointee who retired in the summer of 2018, was notorious as the Court’s swing vote, sometimes siding with the more conservative justices but sometimes not. Current chief justice John Roberts, though most typically an ardent member of the Court’s more conservative wing, has twice voted to uphold provisions of the Affordable Care Act Current justice Neil Gorsuch at times votes conservatively, then at other times (including on cases related to Native Americans, such as McGirt v. Oklahoma) breaks away to vote with the liberal wing of the court.
+
+[.my2]
+但有些被提名人选最终却出人意料，或者他们的判决结果与提名他们的总统的预期大相径庭。民主党任命的法官有时会与保守派站在一起，正如共和党任命的法官有时会与自由派站在一起一样。据报道，共和党总统德怀特·D· 艾森豪威尔曾称他提名厄尔· 沃伦担任首席大法官——在那个民权和刑事权利大幅扩展的时代——是他犯过的“最大的愚蠢错误”。由共和党总统罗纳德 ·里根提名的桑德拉·戴 ·奥康纳经常成为女性权利的捍卫者。由共和党总统乔治·H·W ·布什提名的戴维· 苏特则常常与最高法院的自由派站在一起。安东尼· 肯尼迪是里根任命的法官，于 2018 年夏天退休，他以最高法院的摇摆票而闻名，有时会支持较为保守的大法官，有时则不然。现任首席大法官约翰· 罗伯茨虽然通常是最高法院保守派的坚定支持者，但他曾两次投票支持《 平价医疗法案》 的条款。现任大法官尼尔·戈萨奇有时投票支持保守派，有时（包括在与美洲原住民有关的案件中，例如麦克吉尔特诉俄克拉荷马州案 ）则会与最高法院的自由派一起投票。
+
+One of the reasons the framers of the U.S. Constitution included the provision that federal judges would be appointed for life was to provide the judicial branch with enough independence such that it could not easily be influenced by the political winds of the time. The nomination of Brett Kavanaugh tested that notion, as the process became intensely partisan within the Senate and with the nominee himself. (Kavanaugh's previous nomination to the U.S. Court of Appeals for the D.C. Circuit by President George W. Bush in 2003 also stalled for three years over charges of partisanship.) Sharp divisions emerged early in the confirmation process and an upset Kavanaugh called out several Democratic senators in his impassioned testimony in front of the Judiciary Committee. The high partisan drama of the Kavanaugh confirmation compelled Chief Justice Roberts to express concerns about the process and decry the threat of partisanship and conflict of interest on the Court.
+
+[.my2]
+美国宪法制定者设立联邦法官终身制条款的原因之一，是为了确保司法部门拥有足够的独立性，使其不易受当时政治风向的影响。布雷特·卡瓦诺的提名考验了这一理念，因为整个过程在参议院内部以及卡瓦诺本人之间都充满了激烈的党派之争。（卡瓦诺此前于 2003 年由乔治·W·布什总统提名为哥伦比亚特区联邦巡回上诉法院法官，也曾因党派偏见指控而搁置三年之久。）确认程序初期就出现了尖锐的分歧，情绪激动的卡瓦诺在司法委员会作证时，公开点名批评了几位民主党参议员。卡瓦诺确认过程中高度的党派冲突迫使首席大法官罗伯茨对这一程序表示担忧，并谴责最高法院可能面临的党派偏见和利益冲突。
+
+Once a justice has started a lifetime tenure on the Court and years begin to pass, many people simply forget which president nominated him or her. For better or worse, sometimes it is only a controversial nominee who leaves a president’s legacy behind. For example, the Reagan presidency is often remembered for two controversial nominees to the Supreme Court—Robert Bork and Douglas Ginsburg, the former accused of taking an overly conservative and “extremist view of the Constitution”44 and the latter of having used marijuana while a student and then a professor at Harvard University (Figure 13.8). President George W. Bush’s nomination of Harriet Miers was withdrawn in the face of criticism from both sides of the political spectrum, questioning her ideological leanings and especially her qualifications, suggesting she was not ready for the job.45 After Miers’ withdrawal, the Senate went on to confirm Bush’s subsequent nomination of Samuel Alito, who remains on the Court today.
+
+[.my2]
+一旦大法官在最高法院开始终身任期，随着时间的流逝，许多人会逐渐忘记是哪位总统提名了他/她。无论好坏，有时只有那些备受争议的提名人才能留下总统的政治遗产。例如，里根总统任期内两位备受争议的最高法院提名人——罗伯特· 博克和道格拉斯· 金斯伯格 ——常常被人们铭记。博克被指责对宪法持有过于保守和“极端主义”的观点 44 ，而金斯伯格则被指控在哈佛大学求学和任教期间吸食过大麻（ 图 13.8 ）。乔治·W·布什总统对哈里特· 米尔斯的提名在遭到来自政治光谱两端的批评后被撤回，这些批评质疑她的意识形态倾向，尤其是她的资历，认为她不胜任这份工作 45 。米尔斯被撤回后，参议院继续确认了布什对塞缪尔· 阿利托的提名，阿利托至今仍在最高法院任职。
+
+Image A is of Robert Bork. Image B is of Douglas Ginsburg. Image C is of Harriet Miers.
+
+[.my2]
+Figure 13.8 Presidential nominations to the Supreme Court sometimes go awry, as illustrated by the failed nominations of Robert Bork (a), Douglas Ginsburg (b), and Harriet Miers (c).
+
+[.my2]
+图 13.8 总统对最高法院的提名有时会出错，罗伯特·博克 (a)、道格拉斯·金斯伯格 (b) 和哈里特·米尔斯 (c) 的提名失败就说明了这一点。
+Presidential legacy and controversial nominations notwithstanding, there is one certainty about the overall look of the federal court system: What was once a predominately White, male, Protestant institution is today much more diverse. As a look at Table 13.3 reveals, the membership of the Supreme Court has changed with the passing years.
+
+[.my2]
+尽管存在总统的政治遗产和备受争议的提名，但联邦法院系统的整体面貌有一点是肯定的：曾经以白人男性和新教徒为主的机构，如今已变得更加多元化。正如表 13.3 所示，最高法院的成员构成随着时间的推移而发生了变化。
+
+Supreme Court Justice Firsts
+最高法院大法官首创
+First Catholic  第一天主教	Roger B. Taney (nominated in 1836)
+罗杰·B· 托尼 （1836 年提名）
+First Jew  第一位犹太人	Louis J. Brandeis (1916)
+路易斯·J· 布兰代斯 （1916 年）
+First (and only) former U.S. President
+第一位（也是唯一一位）前美国总统	William Howard Taft (1921)
+威廉·霍华德· 塔夫脱 （1921 年）
+First African American  第一位非裔美国人	Thurgood Marshall (1967)
+瑟古德· 马歇尔 （1967）
+First Woman  第一位女性	Sandra Day O’Connor (1981)
+桑德拉·戴 ·奥康纳 （1981 年）
+First Hispanic American  第一位西班牙裔美国人	Sonia Sotomayor (2009)
+索尼娅· 索托马约尔 （2009）
+Table 13.3
+表 13.3
+The lower courts are also more diverse today. In the past few decades, the U.S. judiciary has expanded to include more women and minorities at both the federal and state levels.46 However, the number of women and people of color on the courts still lags behind the overall number of White men. As of 2021, the federal judiciary consists of 67 percent men and 33 percent women. In terms of race and ethnicity, 74 percent of federal judges are White, 12 percent African American, 8 percent Latinx, and 4 percent Asian American.47
+如今，下级法院的组成也更加多元化。过去几十年间，美国司法系统在联邦和州两级都扩大了女性和少数族裔的参与度。 46 然而，法院中女性和有色人种的人数仍然远低于白人男性的总数。截至 2021 年，联邦司法系统由 67%的男性和 33%的女性组成。就种族和族裔而言，74%的联邦法官是白人，12%是非裔美国人，8%是拉丁裔，4%是亚裔美国人。 47
+
+'''

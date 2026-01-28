@@ -1,0 +1,219 @@
+
+= chatGPT 基本指令
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: myAdocCss.css
+
+
+'''
+
+== 资源
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|cnn 10 官网:
+|https://www.cnn.com/cnn10
+
+|youtube 上 cnn 10 账号 :
+| https://www.youtube.com/@CNN10
+
+|youtube 视频下载 :
+|google 搜关键词: youtube video downlownloader +
+https://en1.savefrom.net/1-youtube-video-downloader-3vV/
+
+|youtube 上 cc字幕 下载网站 :
+|https://downsub.com/
+
+|cc字幕由于没有标点, 可以让 chatgpt帮你自动生成标点:
+|https://chatgpt.com/
+
+|===
+
+'''
+
+== 各AI 比较
+
+
+英文翻译成中文 : chatGPT 比 deepseek 强太多.
+
+
+
+
+'''
+
+
+
+== 指令
+
+.指令1:
+
+下面的英文是多人对谈节目的视频字幕, 它分段错误, 而且缺少标点, 请你自动判断语句, 给它加上标点. 然后按谈论的主题自动分段. 注意, 如果有单词错误, 也请改正它.
+
+
+下面的英文是多人对谈节目的视频字幕,  请你进行以下操作:
+1.去掉里面的口语语气停顿词, 比如 Uh, Um 之类的, 来让语句流畅.
+2.每段头尾的双引号""也请去掉, 不需要用双引号来包围段落.
+3.如果句子里有标点错误, 请改正它.
+
+
+
+
+用上面的要求, 继续讲解这篇英文.
+
+
+
+
+.指令2:
+你是英语老师, 对给定的英文(是多人对谈节目的视频字幕), 进行如下操作:
+
+比如原文是: ① Talking peace suddenly means talking about places like this—this lunar landscape, a titanium mine struggling under the Russian bombardment of Ukraine’s power grid, sometimes with only three hours of power a day.
+
+请你变成这样: ② Talking peace 谓 suddenly means talking about places like this —this lunar 月球的；月亮的 landscape 景观, a titanium 钛 mine 矿，矿井 struggling under the Russian bombardment 轰炸；炮击 of Ukraine’s power grid 电网, sometimes with only three hours of power 电力 a day.
+
+即, 要求是:
+1.如果文章里面有单词错误或语法错误, 一起修正它.
+2.然后, 直接改造原文. 即在英文原文里,把里面的高级单词 (托福词汇, 雅思词汇, gre词汇, 考研英语词汇,专业术语, 关键词), 惯用语(比如 make a big deal of sth), 短语(比如 go through, take part in 这样的短语动词), 后面直接跟上牛津高阶双语学习词典中的中文解释. 即把上面的 ①, 变成 ② 这样的形式.
+3.注意: 如果一个单词在辞典上是用多个中文词组来解释, 就不要只写一个中文意思, 比如  bombardment, 中文意思是用了两个词"轰炸"；"炮击"来解释该英文单词的, 你就不要只写一个词"轰炸", 而要写全中文单词.
+4. 把每一段落的完整中文翻译, 直接跟在每一段的后面. 即一段英文, 后面就跟一段中文翻译.
+
+那么现在, 请用上面的要求, 来处理以下英文:
+
+
+'''
+
+.指令3:
+对给定的英文(是两人或多人对谈), 进行如下操作:
+
+比如原文是: ① Talking peace suddenly means talking about places like this—this lunar landscape, a titanium mine struggling under the Russian bombardment of Ukraine’s power grid, sometimes with only three hours of power a day.
+
+请你变成这样: ② Talking peace 谓 suddenly means talking about places like this —this lunar 月球的；月亮的 landscape 景观, a titanium 钛 mine 矿，矿井 struggling under the Russian bombardment 轰炸；炮击 of Ukraine’s power grid 电网, sometimes with only three hours of power 电力 a day.
+
+即, 要求是:
+1.先对原文, 按它所探讨的一个个主题, 自动进行分段,  而不要一句就是一段. 注意: 不要有句子遗漏.
+2. 原文是口语对谈, 里面会有一些口语停顿词, 比如 "um, uh", 把这些口语停顿词去掉. 同时, 如果里面有单词错误或语法错误, 也一起修正它.
+3.然后, 直接改造原文. 你要像英文老师一样, 即在英文原文里, 把里面的托福词汇, 雅思词汇, gre词汇, 专业术语, 关键词, 惯用语(比如 make a big deal of sth), 短语(比如 go through, take part in 这样的短语动词), 后面直接跟上牛津高阶双语学习词典中的中文解释. 即把上面的 ①, 变成 ② 这样的形式.
+4.最后, 把这篇英文用中文完整的翻译一遍.
+
+那么现在, 请用上面的要求, 来处理以下英文:
+
+
+
+'''
+
+.指令 4: +
+
+下面我会给出一篇英文新闻视频的字幕内容, 请按下面的步骤来进行操作:
+
+第一步:
+1.它没有标点, 请你自动判断语句, 并给它加上标点. 然后自动分段.
+2.如果有单词拼写错误, 或语法错误, 请也纠正它.
+
+第二步, 再进行如下操作:
+
+比如原文是: ① Talking peace suddenly means talking about places like this—this lunar landscape, a titanium mine struggling under the Russian bombardment of Ukraine’s power grid, sometimes with only three hours of power a day.
+
+请你变成这样: ② Talking peace 谓 suddenly means talking about places like this —this lunar 月球的；月亮的 landscape 景观, a titanium 钛 mine 矿，矿井 struggling under the Russian bombardment 轰炸；炮击 of Ukraine’s power grid 电网, sometimes with only three hours of power 电力 a day.
+
+即, 要求是:
+1.直接改造原文. 即在英文原文里, 把里面的专业术语, 关键词, 短语(比如 go through, take part in 这样的短语动词), 后面直接跟上牛津高阶双语学习词典中的中文解释. 即把上面的 ①, 变成 ② 这样的形式.
+2.再把这些解释的单词的英文释义, 即在牛津高阶双语学习词典中的英文释义, 单独列表在下面.
+4.如果有重要的语法需要说明, 比如虚拟语气, 倒装句等, 也解释一下.
+5.最后, 把这篇英文用中文完整的翻译一遍.
+
+那么现在, 请用上面的要求, 来处理以下英文:
+
+'''
+
+==== think tank 指令
+
+
+
+.指令0: 在grok中:
+
+
+下面是视频的字幕, 是多位专家的对谈节目.
+请你进行以下操作:
+1.它没有分段,  请你根据内容,来分段它. 注意: 不要遗漏原文中的任何内容.
+2.如果里面有单词错误, 请改正它.
+3.去掉里面的口语语气停顿词, 比如 Uh, Um 之类的, 来让语句流畅.
+4.分段时, 每段头尾不需要用双引号来包围.
+
+
+
+先把你的 temperature 参数设置为 0, 保持输出结果的稳定性.
+
+你是英语老师, 请进行以下操作:
+
+比如原文是: ① Talking peace suddenly means talking about places like this—this lunar landscape, a titanium mine struggling under the Russian bombardment of Ukraine’s power grid, sometimes with only three hours of power a day.
+
+请你变成这样: ② Talking peace 谓 suddenly means talking about places like this —this lunar 月球的；月亮的 landscape 景观, a titanium 钛 mine 矿，矿井 struggling under the Russian bombardment 轰炸；炮击 of Ukraine’s power grid 电网, sometimes with only three hours of power 电力 a day.
+
+即, 要求是, 对每一个小故事, 做以下操作 (不要几课混在一起写!):
+1.直接改造原文. 即在英文原文里, 把里面的口语, 俚语, 专业术语, 关键词, 短语(比如 go through, take part in 这样的短语动词), 后面直接跟上牛津高阶双语学习词典中的中文解释. 即把上面的 ①, 变成 ② 这样的形式.
+2.文章里如果有"===="这个符号, 原样保留它.
+3.最后, 把这篇英文用中文完整的翻译一遍. 注意不要漏掉任何一句的翻译. 翻译要完整.
+
+那么现在, 请用你刚刚最近一次的相同操作, 来处理以下英文:
+
+
+==== english pod 指令
+
+下面的每个英文小故事, 都是人物对话. 请进行以下操作:
+
+比如原文是: ① Talking peace suddenly means talking about places like this—this lunar landscape, a titanium mine struggling under the Russian bombardment of Ukraine’s power grid, sometimes with only three hours of power a day.
+
+请你变成这样: ② Talking peace 谓 suddenly means talking about places like this —this lunar 月球的；月亮的 landscape 景观, a titanium 钛 mine 矿，矿井 struggling under the Russian bombardment 轰炸；炮击 of Ukraine’s power grid 电网, sometimes with only three hours of power 电力 a day.
+
+即, 要求是, 对每一个小故事, 做以下操作 (不要几课混在一起写!):
+1.直接改造原文. 即在英文原文里, 把里面的口语, 俚语, 专业术语, 关键词, 短语(比如 go through, take part in 这样的短语动词), 后面直接跟上牛津高阶双语学习词典中的中文解释. 即把上面的 ①, 变成 ② 这样的形式.
+2.再把这些解释的单词的英文释义, 即在牛津高阶双语学习词典中的英文释义, 中文释义, 包括音标, 词性, 把这些内容写在一行上面, 单独列表在下面. 除了名词以外, 其他所有的词或短语, 都要给出两条例句 (包括英文例句和中文解释, 把它们写在一行上). 注意: 名词不需要给例句. 另外, 格式按照这个下面例子输出, 都写在一行上, 比如 dress, 就输出成: dress  : /drɛs/ (noun) clothes for either men or women 衣服.
+3.对口语, 俚语, 专业术语, 也要介绍一下
+4.最后, 把这篇英文用中文完整的翻译一遍.
+
+那么现在, 请用上面的要求, 来处理以下英文:
+
+
+
+
+
+
+==== esl pod 指令
+
+对下面的英文故事, 请进行以下操作:
+
+比如原文是: ① Talking peace suddenly means talking about places like this—this lunar landscape, a titanium mine struggling under the Russian bombardment of Ukraine’s power grid, sometimes with only three hours of power a day.
+
+请你变成这样: ② Talking peace 谓 suddenly means talking about places like this —this lunar 月球的；月亮的 landscape 景观, a titanium 钛 mine 矿，矿井 struggling under the Russian bombardment 轰炸；炮击 of Ukraine’s power grid 电网, sometimes with only three hours of power 电力 a day.
+
+即, 要求是 :
+1.原文没怎么分段, 请先根据原文意思, 来更好地分段它.
+2.直接改造原文. 即在英文原文里, 把里面的口语, 俚语, 专业术语, 关键词, 短语(比如 go through, take part in 这样的短语动词), 后面直接跟上牛津高阶双语学习词典中的中文解释. 即把上面的 ①, 变成 ② 这样的形式.
+3.对非英语母语的人来说, 不太容易理解的口语, 俚语, 专业术语, 也要介绍一下, 及它们的来源.
+4.最后, 把这篇英文用中文完整的翻译一遍.
+
+那么现在, 请用上面的要求, 来处理以下英文:
+
+
+
+
+==== 新概念英语的指令
+
+
+你是英语老师, 正在教英语, 下面的每个英文小故事, 请进行以下操作:
+
+比如原文是: ① Talking peace suddenly means talking about places like this—this lunar landscape, a titanium mine struggling under the Russian bombardment of Ukraine’s power grid, sometimes with only three hours of power a day.
+
+请你变成这样: ② Talking peace 谓 suddenly means talking about places like this —this lunar 月球的；月亮的 landscape 景观, a titanium 钛 mine 矿，矿井 struggling under the Russian bombardment 轰炸；炮击 of Ukraine’s power grid 电网, sometimes with only three hours of power 电力 a day.
+
+即, 要求是, 对每一个小故事, 做以下操作 (不要几课混在一起写!):
+1.直接改造原文. 即在英文原文里, 把里面的口语, 俚语, 专业术语, 关键词, 短语(比如 go through, take part in 这样的短语动词), 后面直接跟上牛津高阶双语学习词典中的中文解释. 即把上面的 ①, 变成 ② 这样的形式.
+2.再把这些解释的单词的英文释义, 即在牛津高阶双语学习词典中的英文释义, 中文释义, 包括音标, 词性, 它分解成词根词缀的记忆方法, 把这些内容写在一行上面, 单独列表在下面. 除了名词以外, 其他所有的词或短语, 都要给出两条例句 (包括英文例句和中文解释, 把它们写在一行上). 注意: 名词不需要给例句. 另外, 格式按照这个下面例子输出, 都写在一行上, 比如 dress, 就输出成: dress  : /drɛs/ (noun) clothes for either men or women 衣服. [词根词缀 → 其原始意义为"放正,放直",来源于拉丁语directus(直的)。 与词根-rect-(正,直)同源]
+3.对口语, 俚语, 专业术语, 也要介绍一下
+4.由于文章是写于几十年前的了, 如果文中有说话方式已经过时了, 或者如今已经不那样说话了, 也请指出来. 并告诉我如今的英美人, 会怎么表达这些意思, 即如今的说话方式是怎样的.
+5.最后, 把这篇英文用中文完整的翻译一遍.
+
+那么现在, 请用上面的要求, 来处理以下英文:

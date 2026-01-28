@@ -1,0 +1,70 @@
+
+
+= 低湿度和高湿度, 适于流感病毒生存. 在50%湿度, 不适于流感病毒生存.
+:toc: left
+:toclevels: 3
+:stylesheet: ../myAdocCss.css
+
+
+
+'''
+
+
+== 流感为什么在冬季爆发?
+
+
+
+Cases 病例 of the flu 流感 peak (v.)达到顶点 in winter in the U.S. But why? A new study suggests it's not the heat 温度, but the humidity 湿度. Or lack thereof 在其中；由此. Because in temperate 温带的 regions, the influenza (n.)流感 virus *fares (v.)进展;进行 best* when the weather is dry. That's according to work 后定 published in the journal PLoS One.
+
+Scientists have long debated (v.)辩论 why flu erupts (v.)爆发 when the days grow chilly 阴冷的;寒冷的. Is it that we spend more time cooped up 禁闭，困住，把…关起来 together indoors? Or is there something about the virus 后定 that likes 喜欢 it cold and dry?
+
+To find out, researchers suspended (v.)悬；挂；吊 influenza virus in a solution 溶液 that mimics (v.)模仿 human mucus 黏液. They incubated 孵化 this infectious (a.)传染性的；有感染力的 soup 汤 at different humidities 湿度  and measured (v.) viral survival.
+
+And they found that /at low humidity 湿度, the fake mucus 粘液；黏液 dries up and the virus does just fine. But when the humidity tops (v.)高于，超过（某一数量） 50%, the droplets 小水滴 only partially evaporate (v.)(使)蒸发;(使)挥发, leaving behind a solution 后定 that's too salty (adj.)含盐的 for the virus to thrive.
+
+Interestingly (adv.)有意思的是, the virus does well again when the humidity，reaches 100 percent, evaporation 蒸发 stops (v.) and _the salinity 盐浓度,含盐量 of the mucus (人体分泌的)黏液 bath_ (盛放溶液的)容器,浴盆；浴缸 is just right. That could explain why the flu prefers (v.) to hit (v.) the tropics 热带地区 in rainy season. And why you should always keep your nose clean, but moist 潮湿的. //以及为什么你应该一直保持鼻子干净，但要保持湿润
+
+
+[.my2]
+====
+在冬季，美国的流感病例达到高峰。但是为什么呢？一项新的研究显示，流感爆发与温度无关，而是与湿度有关。或者说由于缺乏湿度。因为在温带地区，流感病毒在天气干燥时传播地最厉害。这项研究发表在《公共科学图书馆》期刊上。 +
+科学家们一直在争论为什么天气越冷，流感越容易爆发？是因为我们花更多时间一起呆在室内吗？还是因为病毒喜欢寒冷和干燥？为了找到答案，研究人员将流感病毒培育在一种类似于人类粘液的容器内。他们在不同湿度的溶液中培育这种病毒，并测量病毒的存活率。 +
+他们发现在低湿度、“类人粘液”干涸后，病毒的确完好。但是当湿度达到50%，只有部分的液滴蒸发，这种溶液因盐度过大不适于细菌生长。 +
+有趣的是，当湿度达到100%时，病毒会再次生长，此时溶液不再蒸发，粘液的盐度也适中。这就能解释为什么流感倾向于在热带地区的雨季爆发。这也是为什么你总是擤鼻涕，却总也擤不完。
+====
+
+
+[.my1]
+.标题
+====
+.there·of
+adv.   /ˌðeərˈɒv/  ( formal ) ( law 律) of the thing mentioned 在其中；由此 +
+- Is the property or _any part thereof_ used for commercial activity? 这一房产或其中任何部分, 有用于商业活动吗？
+
+.A new study suggests it's not the heat, but the humidity.  Or lack thereof.
+ChatGPT: 在这个句子中，"thereof"是一个代词，指的是前面提到的"humidity"。它的意思是 "of that" 或者 "about that"，用来指代先前提到的东西。因此，在这个句子中，"lack thereof" 意思就是 "缺乏湿度"。
+
+.fare
+[ V] ~ well, badly, better, etc. to be successful/unsuccessful in a particular situation 成功（或不成功、更好等）
+
+- It is unlikely /that the marine industry will fare any better in September... 海运业在9月份不可能有好转。
+
+
+====
+
+'''
+
+== <pure> 流感为什么在冬季爆发?
+
+Cases of the flu peak in winter in the U.S. But why? A new study suggests it's not the heat, but the humidity. Or lack thereof. Because in temperate regions, the influenza virus fares best when the weather is dry. That's according to work published in the journal PLoS One.
+
+Scientists have long debated why flu erupts when the days grow chilly. Is it that we spend more time cooped up together indoors? Or is there something about the virus that likes it cold and dry?
+
+To find out, researchers suspended influenza virus in a solution that mimics human mucus. They incubated this infectious sou at different humidities  and measured viral survival.
+
+And they found that at low humidity, the fake mucus dries up  and the virus does just fine. But when the humidity tops 50%, the droplets only partially evaporate, leaving behind a solution that's too salty for the virus to thrive.
+
+Interestingly, the virus does well again when the humidity，reaches 100 percent, evaporation stops  and the salinity of the mucus bath is just right. That could explain why the flu prefers to hit the tropics [in rainy season]. And why you should always keep your nose clean, but moist.
+
+
+'''

@@ -1,0 +1,15 @@
+{
+    "abbrev": "\\myimg",
+    "description": [
+        ""
+    ],
+    "formatVersion": 1,
+    "menu": "",
+    "name": "12. 插入图片",
+    "shortcut": "",
+    "tag": [
+        "\\includegraphics[width=0.4\\textwidth]{/0000.pdf}",
+        ""
+    ],
+    "trigger": ""
+}

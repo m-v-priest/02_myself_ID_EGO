@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="785" xmlns:xlink="http://www.w3.org/1999/xlink" height="531" viewBox="0 0 785 531">
+    <defs/>
+    <g transform="translate(-0.48,-245.00)">
+        <path fill="none" id="shape1" transform="translate(1.48,246.00)" d="M.0,.0L782.5,.0L782.5,529.0L.0,529.0L.0,.0z" stroke="#868686"/>
+        <g id="shape2" transform="translate(146.00,255.00)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="4.0" y="19.0">Gutman argues (v.) convincingly that </tspan>
+                <tspan x="4.0" y="57.0">`主` the stability of the Black family </tspan>
+                <tspan x="4.0" y="95.0">`谓` </tspan>
+                <tspan x="29.0" style="fill:#42c181">encouraged (v.) the transmission</tspan>
+                <tspan x="229.0"> of</tspan>
+                <tspan x="4.0" y="133.0">--and </tspan>
+                <tspan x="43.0" style="fill:#42c181">so</tspan>
+                <tspan x="57.0"> was crucial in sustaining--   </tspan>
+                <tspan x="4.0" style="fill:#00aeee" y="380.0">the Black heritage</tspan>
+                <tspan x="114.0"> of folklore, music, and </tspan>
+                <tspan x="4.0" y="399.0">religious expression </tspan>
+                <tspan x="4.0" y="418.0">from one generation to another, </tspan>
+                <tspan x="4.0" style="fill:#00aeee" y="456.0">a heritage</tspan>
+                <tspan x="65.0"> that slaves were continually </tspan>
+                <tspan x="4.0" y="475.0">fashioning (v.) out of their African and </tspan>
+                <tspan x="4.0" y="494.0">American experiences. </tspan>
+            </text>
+        </g>
+        <g id="shape3" transform="translate(411.00,369.50)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="4.0" y="19.0">← 插入语，它对主句信息进行补充和强调.插入语，</tspan>
+                <tspan x="4.0" y="38.0">它对主句信息进行补充和强调.</tspan>
+                <tspan x="4.0" style="font-weight:bold" y="76.0">- 这里的 so是代词，指代前面刚刚提到的 “encouraged </tspan>
+                <tspan x="4.0" style="font-weight:bold" y="95.0">the transmission of...” 这件事。</tspan>
+                <tspan x="4.0" y="133.0">- </tspan>
+                <tspan x="14.0" style="fill:#c00000">was crucial in sustaining与 encouraged the transmission </tspan>
+                <tspan x="4.0" style="fill:#c00000" y="152.0">of是并列关系，主语都是 the stability of the Black family。</tspan>
+                <tspan x="4.0" style="fill:#000000;font-weight:bold" y="171.0">所以，插入语把主干扩展为：</tspan>
+                <tspan x="4.0" style="fill:#000000;font-weight:bold" y="190.0">The stability of the Black family </tspan>
+                <tspan x="216.0" style="fill:#c00000;font-weight:bold">encouraged the </tspan>
+                <tspan x="4.0" style="fill:#c00000;font-weight:bold" y="209.0">transmission</tspan>
+                <tspan x="87.0" style="fill:#000000;font-weight:bold"> of the Black heritage... </tspan>
+                <tspan x="246.0" style="fill:#c00000;font-weight:bold">and was crucial </tspan>
+                <tspan x="4.0" style="fill:#c00000;font-weight:bold" y="228.0">in sustaining</tspan>
+                <tspan x="86.0" style="fill:#000000;font-weight:bold"> the Black heritage...</tspan>
+            </text>
+        </g>
+        <g id="shape4" transform="translate(411.00,691.00)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="4.0" y="19.0">← </tspan>
+                <tspan x="21.0" style="fill:#000000">同位语（从句）</tspan>
+                <tspan x="4.0" y="38.0">a heritage是前面 the Black heritage的同位语，对其进行复</tspan>
+                <tspan x="4.0" y="57.0">指和展开说明。</tspan>
+            </text>
+        </g>
+        <g id="shape5" transform="translate(134.48,709.00)">
+            <path fill="none" d="M.0,.0L-47.5,.0L-47.5,-76.0L-6.0,-76.0" stroke="#191919"/>
+            <path stroke-linecap="round" fill="#191919" stroke-width="1" d="M-6.0,-79.0L.0,-76.0L-6.0,-73.0L-6.0,-79.0" stroke="#191919"/>
+            <rect width="39.0" fill="#ffffff" x="-66.0" height="19.0" y="-42.6"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="-66.0" y="-27.6">同位语</tspan>
+            </text>
+        </g>
+        <g id="shape6" transform="translate(134.48,383.00)">
+            <path fill="none" d="M.0,.0L-66.0,.0L-66.0,-76.0L-6.0,-76.0" stroke="#191919"/>
+            <path stroke-linecap="round" fill="#191919" stroke-width="1" d="M-6.0,-79.0L.0,-76.0L-6.0,-73.0L-6.0,-79.0" stroke="#191919"/>
+            <rect width="42.0" fill="#ffffff" x="-86.0" height="19.0" y="-65.5"/>
+            <rect width="107.0" fill="#ffffff" x="-118.5" height="19.0" y="-46.5"/>
+            <rect width="82.0" fill="#ffffff" x="-106.0" height="19.0" y="-27.5"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="-86.0" y="-50.5">插入语,</tspan>
+                <tspan x="-118.5" y="-31.5">相当于另一个谓语,</tspan>
+                <tspan x="-106.0" y="-12.5"> 补充说明主语</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

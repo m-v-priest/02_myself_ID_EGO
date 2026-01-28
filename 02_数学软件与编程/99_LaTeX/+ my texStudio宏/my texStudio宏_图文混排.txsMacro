@@ -1,0 +1,16 @@
+{
+    "abbrev": "\\myImgInRight",
+    "description": [
+        ""
+    ],
+    "formatVersion": 1,
+    "menu": "",
+    "name": "图文混排",
+    "shortcut": "",
+    "tag": [
+        "\\begin{wrapfigure}[5]{r}[0em]{0.5\\textwidth}",
+        "\t\\includegraphics[width=0.5\\textwidth]{j1.jpg}\t",
+        "\\end{wrapfigure}"
+    ],
+    "trigger": ""
+}

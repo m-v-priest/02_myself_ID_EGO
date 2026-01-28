@@ -1,0 +1,65 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="342" viewBox="0 0 469 342" width="469" xmlns="http://www.w3.org/2000/svg">
+    <defs/>
+    <g transform="translate(-269.00,-642.00)">
+        <g transform="translate(270.00,711.00)" id="shape1">
+            <path fill-rule="nonzero" d="M.0,32.0C.0,14.3,14.3,.0,32.0,.0C49.7,.0,64.0,14.3,64.0,32.0C64.0,49.7,49.7,64.0,32.0,64.0C14.3,64.0,.0,49.7,.0,32.0z" fill="#ffffff" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="17.5" y="18.5">信息,</tspan>
+                <tspan x="17.5" y="37.5">史料,</tspan>
+                <tspan x="19.0" y="56.5">新闻</tspan>
+            </text>
+        </g>
+        <g transform="translate(396.50,706.50)" id="shape2">
+            <path fill-rule="nonzero" d="M139.0,73.0L139.0,.0L.0,.0L.0,73.0L139.0,73.0z" fill="#ffffff" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="43.5" y="23.0">信息源 A</tspan>
+                <tspan x="36.5" y="42.0">(中介, 媒体,</tspan>
+                <tspan x="25.0" y="61.0">线人, 情报人员)</tspan>
+            </text>
+        </g>
+        <g transform="translate(396.50,815.00)" id="shape3">
+            <path fill-rule="nonzero" d="M139.0,73.0L139.0,.0L.0,.0L.0,73.0L139.0,73.0z" fill="#ffffff" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="44.0" y="23.0">信息源 B</tspan>
+                <tspan x="36.5" y="42.0">(中介, 媒体,</tspan>
+                <tspan x="25.0" y="61.0">线人, 情报人员)</tspan>
+            </text>
+        </g>
+        <g transform="translate(617.00,767.00)" id="shape4">
+            <path d="M120.0,54.0L120.0,.0L.0,.0L.0,54.0L120.0,54.0z" stroke="#323232" fill="none"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="27.5" y="23.0">发生的事件</tspan>
+                <tspan x="47.0" y="42.0">本身</tspan>
+            </text>
+        </g>
+        <g transform="translate(396.50,743.00)" id="shape5">
+            <path d="M.0,.0L-56.5,.0" stroke="#191919" fill="none"/>
+            <path stroke-linecap="round" d="M-56.5,3.0L-62.5,.0L-56.5,-3.0L-56.5,3.0" stroke-width="1" fill="#191919" stroke="#191919"/>
+        </g>
+        <g transform="translate(396.50,851.50)" id="shape6">
+            <path d="M.0,.0L-94.5,.0L-94.5,-70.5" stroke-dasharray="6,4" stroke="#191919" fill="none"/>
+            <path stroke-linecap="round" d="M-97.5,-70.5L-94.5,-76.5L-91.5,-70.5L-97.5,-70.5" stroke-width="1" fill="#191919" stroke="#191919"/>
+        </g>
+        <g transform="translate(617.00,794.00)" id="shape7">
+            <path d="M.0,.0L-50.0,.0L-50.0,-51.0L-75.5,-51.0" stroke="#191919" fill="none"/>
+            <path stroke-linecap="round" d="M-75.5,-48.0L-81.5,-51.0L-75.5,-54.0L-75.5,-48.0" stroke-width="1" fill="#191919" stroke="#191919"/>
+        </g>
+        <g transform="translate(617.00,794.00)" id="shape8">
+            <path d="M.0,.0L-50.0,.0L-50.0,57.5L-75.5,57.5" stroke="#191919" fill="none"/>
+            <path stroke-linecap="round" d="M-75.5,60.5L-81.5,57.5L-75.5,54.5L-75.5,60.5" stroke-width="1" fill="#191919" stroke="#191919"/>
+        </g>
+        <g transform="translate(400.24,643.00)" id="shape9">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="4.2" y="28.0">1.中间人A可靠吗? </tspan>
+                <tspan x="4.2" y="47.0">他所说的话可靠吗?</tspan>
+            </text>
+        </g>
+        <g transform="translate(400.24,891.00)" id="shape10">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="4.2" y="32.5">2.该消息的信息源, 是否只有A一个</tspan>
+                <tspan x="4.2" y="51.5">孤例存在? 没有其他其他信息源 </tspan>
+                <tspan x="4.2" y="70.5">B,C,D... 也提供相同的信息?</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+{
+    "abbrev": "\\myMathMulLines",
+    "description": [
+        ""
+    ],
+    "formatVersion": 1,
+    "menu": "",
+    "name": "多行公式(带编号)",
+    "shortcut": "",
+    "tag": [
+        "\\begin{align}  % 支持每行编号. 若不需要编号, 就用 align*环境",
+        "\t&  \\\\",
+        "\t&   ",
+        "\\end{align}"
+    ],
+    "trigger": ""
+}

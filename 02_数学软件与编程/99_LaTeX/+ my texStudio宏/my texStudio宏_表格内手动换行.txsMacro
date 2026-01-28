@@ -1,0 +1,14 @@
+{
+    "abbrev": "",
+    "description": [
+        ""
+    ],
+    "formatVersion": 1,
+    "menu": "",
+    "name": "表格内换行",
+    "shortcut": "",
+    "tag": [
+        "\\makecell[l]{ 1 \\\\ 2 }"
+    ],
+    "trigger": ""
+}

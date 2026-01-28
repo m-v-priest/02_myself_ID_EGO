@@ -1,0 +1,21 @@
+<svg width="251" viewBox="0 0 251 251" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="251">
+    <defs/>
+    <g transform="translate(-364.00,-317.00)">
+        <path id="shape1" d="M.0,124.5C.0,55.7,55.7,.0,124.5,.0C193.3,.0,249.0,55.7,249.0,124.5C249.0,193.3,193.3,249.0,124.5,249.0C55.7,249.0,.0,193.3,.0,124.5z" fill="#ffffff" stroke="#323232" transform="translate(365.00,318.00)" fill-rule="nonzero"/>
+        <path id="shape2" d="M.0,9.5C.0,4.3,4.3,.0,9.5,.0C14.7,.0,19.0,4.3,19.0,9.5C19.0,14.7,14.7,19.0,9.5,19.0C4.3,19.0,.0,14.7,.0,9.5z" fill="#ffffff" stroke="#323232" transform="translate(480.00,433.00)" fill-rule="nonzero"/>
+        <g id="shape3" transform="matrix(-0.66,0.75,-0.75,-0.66,566.8,344.9)">
+            <path d="M.0,.0L111.2,.0" fill="none" stroke="#191919"/>
+            <path stroke-linecap="round" d="M111.2,-3.0L117.2,.0L111.2,3.0L111.2,-3.0" stroke-width="1" fill="#191919" stroke="#191919"/>
+        </g>
+        <g id="shape4" transform="translate(519.39,379.17)">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="33.5" x="5.9">r=25-30km</tspan>
+            </text>
+        </g>
+        <g id="shape5" transform="translate(391.63,477.85)">
+            <text style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt" xml:space="preserve">
+                <tspan y="22.0" x="14.4">S=πr^2=1963-2827km^2</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

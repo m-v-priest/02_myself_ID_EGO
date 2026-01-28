@@ -1,0 +1,17 @@
+{
+    "abbrev": "",
+    "description": [
+        ""
+    ],
+    "formatVersion": 1,
+    "menu": "",
+    "name": "34. 高亮",
+    "shortcut": "Ctrl+M,Ctrl+H",
+    "tag": [
+        "%SCRIPT",
+        "txt = cursor.selectedText()",
+        "editor.write(\"\\\\hl{\"+txt+\"}\")",
+        "cursor.clearSelection()"
+    ],
+    "trigger": ""
+}

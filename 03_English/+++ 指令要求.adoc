@@ -1,0 +1,116 @@
+
+== 把没有分段的英文文章, 合理分段
+
+我上传的txt文件, 里面的英文每一章都没有分段, 你来根据内容逻辑, 进行合理分段. 并在每段后面, 再加一个 " + " 字符串 (即 : 空格,加号,空格). 然后段与段之间要加个空行.  处理时  注意不要遗漏任何英文原文. 一定要记住这一点, 不要遗漏任何英文原文的内容. 然后将改造后的txt, 另存一个新的txt让我下载
+
+'''
+
+== 把纯英文文章, 改造成可学习段落
+
+对下面的这篇英文, 进行改造, 要求是:
+
+1. 原文没有分段, 你来根据内容逻辑, 进行合理分段. 并在每段后面, 再加一个 " + " 字符串 (即 : 空格,加号,空格)
+
+2. 给英文原文中的难点单词, 加上单词释义
+
+比如原文是: ① Talking peace suddenly means talking about places like this—this lunar landscape, a titanium mine struggling under the Russian bombardment of Ukraine’s power grid, sometimes with only three hours of power a day.
+
+请你变成这样: ② Talking peace 谓 suddenly means talking about places like this — this lunar 月球的；月亮的 landscape 景观, a titanium 钛 mine 矿，矿井 struggling under the Russian bombardment 轰炸；炮击 of Ukraine’s power grid 电网, sometimes with only three hours of power 电力 a day.
+
+即在英文原文里,把里面的重要单词 (比如托福词汇, 雅思词汇, gre词汇, 专业术语), 惯用语(比如 make a big deal of sth), 短语(比如 go through, take part in 这样的短语动词等等), 后面直接跟上牛津高阶双语学习词典中的中文解释. 即把上面的 ①, 变成 ② 这样的形式. 在原文中这样展示就行了.
+
+注意: 某单词的中文释义, 如果只用一个中文词组来解释, 意思不精确的话, 你就用多个中文词组来解释. 比如 tactic 单词, 中文释义需要多个词组来解释成"策略；手段；招数", 你就不要只给出仅一个"策略"的释义, 而要写全这些多个中文词组来释义. 即不要只写为"tactic 策略", 而要写成"tactic 策略；手段；招数". 单词的中文解释不需要用小括号括起来. 也不需要再在文章最后单独列出每个单词的释义.
+
+3. 在每段英文后面, 加个空行, 再跟上该段的中文翻译. 即:
+
+英文第1段
+
+第1段的中文翻译
+
+英文第2段
+
+第2段的中文翻译
+
+...
+
+4. 执行上面的改造操作时, 注意不要遗漏任何英文原文. 一定要记住这一点, 不要遗漏任何英文原文的内容.
+
+'''
+
+
+
+
+== 加标点
+
+下面是英文视频的字幕, 跟上面没有任何关系, 1.请加入缺失的标点. 注意不要改造原文! 也不要用列表, 不要漏掉任何一句, 直接加入标点即可. 并根据内容来分段. 2.如果有单词拼写错误可以修正. 3.如果有破折号存在的话, 请用 两个短横线" -- " 来表示(前后各留一个空格), 而不要只写成一个横线"-"来表示破折号.
+
+
+== 翻译
+
+把下面的这篇英文, 完整翻译成中文. 注意:
+1.翻译时不要做总结, 直接按原文来翻译, 不要漏掉任何一句原文. 我再强调一次:不要漏掉任何一句原文!不要漏掉任何一句原文!
+2.并根据内容来分段.
+3.另外, 对于英文人名, 地名, 书名, 公司名字, 机构名字, 专业术语这些, 在翻译成中文的同时, 也保留它们英文的名字跟在后面放在小括号中.
+4.在每段后面, 再加一个 " + " 字符串 (即空格,加号, 空格)
+
+
+
+== 对文中的英文单词添加释义
+
+对下面的这篇英文, 进行改造
+
+
+比如原文是: ① Talking peace suddenly means talking about places like this—this lunar landscape, a titanium mine struggling under the Russian bombardment of Ukraine’s power grid, sometimes with only three hours of power a day.
+
+请你变成这样: ② Talking peace 谓 suddenly means talking about places like this — this lunar 月球的；月亮的 landscape 景观, a titanium 钛 mine 矿，矿井 struggling under the Russian bombardment 轰炸；炮击 of Ukraine’s power grid 电网, sometimes with only three hours of power 电力 a day.
+
+即在英文原文里,把里面的重要单词 (比如托福词汇, 雅思词汇, gre词汇, 专业术语), 惯用语(比如 make a big deal of sth), 短语(比如 go through, take part in 这样的短语动词等等), 后面直接跟上牛津高阶双语学习词典中的中文解释. 即把上面的 ①, 变成 ② 这样的形式. 在原文中这样展示就行了.
+
+注意: 某单词的中文释义, 如果只用一个中文词组来解释, 意思不精确的话, 你就用多个中文词组来解释. 比如 tactic 单词, 中文释义需要多个词组来解释成"策略；手段；招数", 你就不要只给出仅一个"策略"的释义, 而要写全这些多个中文词组来释义. 即不要只写为"tactic 策略", 而要写成"tactic 策略；手段；招数". 单词的中文解释不需要用小括号括起来. 也不需要再在文章最后单独列出每个单词的释义.
+
+在每段后面, 再加一个 " + " 字符串 (即空格,加号, 空格)
+
+
+
+== 建立 adoc 文件
+
+请用python来编一段程序, 来执行以下功能:
+
+创建59个文本文件, 扩展名都是 ".adoc", 但文件名,是从"American Pageant - 001"一直到"American Pageant - 059", 即里面的数字"001"会递增到"059".
+
+每个文本文件中的内容是下面这段(即我用大括号{}包围起来的里面部分):
+
+
+{
+= American Pageant - 001
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: myAdocCss.css
+
+'''
+
+== 释义
+
+
+'''
+
+
+== 中文翻译
+
+
+'''
+
+
+== pure
+
+
+'''
+}
+
+
+其中里面的 "= American Pageant - 001" 这个文字, 其"001"部分, 会跟着文件中的数字来. 即 如果文件名是"American Pageant - 001.adoc"的话, 那么它里面的内容就是 "= American Pageant - 001"
+
+如果文件名是"American Pageant - 002.adoc"的话, 那么它里面的内容就是 "= American Pageant - 002"
+
+如果文件名是"American Pageant - 059.adoc"的话, 那么它里面的内容就是 "= American Pageant - 059"

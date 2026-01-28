@@ -1,0 +1,127 @@
+= 017
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../../../../myAdocCss.css
+
+'''
+
+
+- (017.) Thus, for instance, it may *come as a shock* 使人震惊 to mathematicians 数学家 #to learn that# /`主` the _Schrodinger equation_ 薛定谔方程 for the hydrogen atom 氢原子 `系` is not _a literally  按照字面意义地，真正地，确实地 correct description_ of the atom, but only an approximation 近似值 to _a somewhat more correct equation_ 后定说明 *taking account of* 考虑到 spin 自旋;（使）快速旋转, magnetic dipole (n.)(偶极；双极子)磁偶极子, and relativistic 相对论的 effects; #and that# `主` this corrected 修正的；校正的 equation `系` is itself only an imperfect 有缺点的；未完成的 approximation 粗略估计，近似值 to an _infinite set_ 无限集,无限集合  of quantum field-theoretical 量子场论 equations 量子场论方程. +
+
+[.my1]
+.案例
+====
+- (017.) Thus, for instance, it may come as a shock to mathematicians to learn that the Schrodinger equation for the hydrogen atom is not a literally correct description of the atom, but only an approximation to a somewhat more correct equation taking account of spin, magnetic dipole, and relativistic effects; and that this corrected equation is itself only an imperfect approximation to an infinite set of quantum field-theoretical equations.
+
+因此，举例来说，数学家们可能会震惊地得知，氢原子的薛定谔方程, 并非对原子字面意义上完全正确的描述，而只是一个稍更正确方程的近似，后者考虑了自旋、磁偶极子和"相对论效应"；而且这个经过修正的方程本身, 也只是"无限量子场论方程组"的一个不完美的近似。
+
+你在阅读时, 需要清楚地明白, 应该读到什么程度, 远比研究里面的生僻专有名词,更重要。其实是否知道薛定鄂方程, 对读者来说并重要，因为GRE考试出题人也不见得知道它. 关键是你要读懂句子的主要意思: 这里说的是, 数学家不能理解"不精确和近似值"的伟大意义。
+
+
+
+.#it# may come as a shock (n.) to mathematicians #to learn (v.)  that#... +
+这里 it 是一个形式主语，其真正主语, 即主语的具体的内容是 to learn that... 这段.
+
+“Shock (n.) to mathematicians”（对数学家的冲击）： +
+*这句话点明，数学家理想中的“方程”是绝对精确、完美描述系统的数学真理。但物理学家告诉他们，物理世界的描述永远是近似的模型。*
+
+.DeepSeek:
+
+[.my3]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|the Schrödinger equation ... is *not* a literally correct description of... *but* only an approximation
+|薛定谔方程, 可以解析求解，其解（波函数）完美地给出了电子的能级、轨道形状等. 然而，从更现代、更精确的物理视角看，薛定谔方程是一个近似。它忽略了三个重要的物理效应：
+
+|a somewhat more correct equation 后定说明 *taking account of* spin, magnetic dipole, and relativistic effects
+|这个“更正确的方程”指的是狄拉克方程，或者更广义地说是考虑了"相对论"修正的量子力学方程。
+
+三项忽略的效应：
+
+- 自旋：电子具有内禀"角动量"（自旋），像一个微小的磁铁。薛定谔方程无法自然得出自旋，自旋是作为额外假设加入的。狄拉克方程, 则自然地包含了"自旋"。
+- 磁偶极矩：与"自旋"相关，是电子与磁场相互作用的强度。精确计算需要考虑"相对论修正"。
+- 相对论效应：当电子在"原子核"附近高速运动时，其"质量"会因"狭义相对论效应"而增加，这会影响"能级"的精确位置（如著名的精细结构）。
+
+|this corrected equation is itself only _an imperfect approximation_  to an _infinite set_ of _quantum field-theoretical equations_.
+|即使是包含了"自旋"和"相对论效应"的"狄拉克方程"，仍然是一个近似值。 +
+描述氢原子最“根本”的理论框架, 是"quantum electrodynamics 量子电动力学 (QED)"。
+
+在QED中：
+
+- 电子和光子被视为量子场。
+- 质子不再被视为一个静止的点电荷，而是一个有内部结构的复合粒子（由夸克和胶子组成）。
+- 真空不再是空的，而是充满"虚粒子对"的涨落（如虚电子-正电子对），它们会与原子中的电子,发生相互作用。
+- 计算需要用"微扰论"展开成"无穷级数"（“无限集方程”），每一项都对应更复杂的费曼图（如电子发射和再吸收虚光子）。
+
+QED的预测精度达到了惊人的水平（如电子磁矩的计算值与实验值吻合到10位以上有效数字）。可以说，QED是当前我们对氢原子物理的终极近似。但作者暗示，即使QED也可能只是某个更基础理论的近似（如未来可能统一四种力的“万物理论”）。
+|===
+
+即(上为精确, 下为粗糙):
+....
+现实中的氢原子 (无限复杂)
+          ↑ (近似)
+量子电动力学 (QED) 模型 [考虑虚粒子、辐射修正、质子结构...]
+          ↑ (近似，忽略了高阶项和核效应)
+相对论量子力学 (狄拉克方程) 模型 [考虑自旋、相对论效应]
+          ↑ (近似，完全忽略了相对论和自旋)
+非相对论量子力学 (薛定谔方程) 模型 [基础模型]
+....
+
+近似是常态，而非例外：没有一个理论是“literally correct”（字面意义上完全正确）的。所有理论都是在一定条件和精度范围内有效的近似。​ 薛定谔方程在化学、材料科学中极其成功，因为在这些领域，相对论和QED修正, 小到可以忽略。
+
+.Infinite Set 无限集
+这是一个数学概念。
+
+定义：*一个包含"#无限多元素#"的集合。*
+核心特征：你无法用自然数1, 2, 3, ... 将其元素全部列举完。
+
+例子： +
+- 所有自然数的集合 {1, 2, 3, ...}, 是无限集。 +
+- 一条直线上的所有点, 构成一个无限集。 +
+- 所有可能的圆形, 也是一个无限集。
+
+在物理上下文中的含义：#*当说一个理论或方程是“无限集”时，通常意味着这个理论涉及"无穷多的项、无穷多的过程、或无穷多的自由度"，你无法用有限个方程, 或有限步计算, 来彻底描述它。*#
+
+.Quantum Field-Theoretical Equations 量子场论方程
+
+这是一个物理概念，描述自然界最基本层次的理论框架。 +
+#*你可以把它理解为 “量子力学” + “狭义相对论” + “场”​ 的终极结合。*#
+
+- “Quantum”（量子）：物质和**能量不是连续的，而是以一份份的“量子”形式存在**（如光子）。
+
+- “Field”（场）：宇宙中充满各种“场”（如电磁场、电子场、夸克场）。**粒子不是独立的“小球”，而是这些场受激发而产生的“涟漪”或“捆扎的能量包”。**例如：
+.. "电磁场"的激发 → 光子。
+.. "电子场"的激发 → 电子。
+
+- “Theoretical Equations”（理论方程）：描述这些场如何行为、如何相互作用的核心数学方程。
+
+最成功的例子：量子电动力学. +
+描述"电子场"与"电磁（光子）"场如何相互作用的QED，其核心是“拉格朗日量”，从中可以推导出运动方程。
+
+
+
+.An Infinite Set of Quantum Field-Theoretical Equations
+
+#*它不是一个单一方程，而是一个理论上无穷无尽、越来越复杂的近似过程。*#
+
+具体来说，它指的是：​ 在"量子场论"框架下（如QED），为了计算一个看似简单的物理过程（如一个电子在氢原子中的能级），你需要进行的微扰展开计算，而这个展开, 会生成无限多个需要计算的项。
+
+.摄动理论 /微扰
+**摄动理论, 使用一些特别的数学方法, 来对于很多"不具精确解的问题"给出"近似解"，这些方法从"相关的较简单问题的精确解"开始入手。 +
+#"摄动理论"将原本问题, 分为"具有精确解的较简单部分"与"不具精确解的微扰部分"。#**摄动理论适用的问题通常具有以下性质：通过加入一个"微扰项"于较简单部分的数学表述，可以计算出整个问题的近似解。
+
+摄动理论计算出来的解答, 通常会表达为一个"微小参数的幂级数"。"摄动理论解答"与"精确解"之间的差别，可以用这微小参数来做数量比较。##幂级数的第一个项目,是"精确解"的解答。后面的项目,描述解答的**修正**。##这修正是因为精确解与原本问题的“完全解”之间的误差而产生的。
+
+更正式地，完全解 A 的近似, 可以表达为一个级数：
+
+stem:[A= (ϵ^0 A_0) + (ϵ^1 A_1) + (ϵ^2 A_2) + ... ]
+
+在这例子里:
+
+- #*stem:[ A_0] 是简单又有“精确解”的问题的精确解.*#
+- stem:[ A_1, A_2] 代表由某种系统程序, 反复地找到的"高阶项目修正"。*#因为 ϵ 的值很微小，这些高阶项目修正, 应该会越来越不重要。#*
+
+'''

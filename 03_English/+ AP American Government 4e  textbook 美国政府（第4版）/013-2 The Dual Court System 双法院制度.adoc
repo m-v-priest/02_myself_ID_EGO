@@ -1,0 +1,159 @@
+
+= 013-2 The Dual Court System 双法院制度
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../../myAdocCss.css
+
+
+'''
+
+
+== 释义
+
+
+
+
+Before the writing of the U.S. Constitution and the establishment of the permanent national judiciary under Article III, the states had courts. Each of the thirteen colonies had also had its own courts, based on the British common law model. The judiciary today continues as a dual court system, with courts at both the national and state levels. Both levels have three basic tiers consisting of trial courts, appellate courts, and finally courts of last resort, typically called supreme courts, at the top (Figure 13.4).
+
+[.my2]
+在美国宪法制定和第三条设立常设国家司法机构之前，各州都设有法院。十三个殖民地也都各自拥有法院，这些法院以英国普通法为蓝本。如今，美国的司法体系仍然沿用双层法院制度 ，既有联邦法院，也有州级法院。两级法院均分为三个基本层级： 初审法院 、 上诉法院 ， 以及位于顶层的终审法院，通常称为最高法院（ 图 13.4 ）。
+
+A chart that demonstrates the structure of the dual court system. At the top of the chart is a box labeled “U.S. Supreme Court”. There are boxes below it on either side, arranged in the shape of a triangle. On the left hand side of the triangle are two boxes. From bottom to top, the boxes are labeled “U.S. District Courts” and “U.S. Federal Courts.” An arrow points from the top of the box labeled “U.S. District Courts” to the box labeled “U.S. Federal Courts”. An arrow points from the top of the box labeled “U.S. Federal Courts” to the box labeled “U.S. Supreme Court”. On the right hand side of the triangle are three boxes. From bottom to top, the boxes are labeled “State Trial Courts”, “Intermediate Appellate Courts”, and “State Supreme Courts”. An arrow points from the top of the box labeled “State Trial Courts” to the bottom of the box labeled “Intermediate Appellate Courts”. An arrow points from the top of the box labeled “Intermediate Appellate Courts” to the bottom of the box labeled “State Supreme Courts”. An arrow points from the top of the box labeled “State Supreme Courts” to the bottom of the box labeled “U.S. Supreme Court”.
+
+[.my2]
+Figure 13.4 The U.S. judiciary features a dual court system comprising a federal court system and the courts in each of the fifty states. On both the federal and state sides, the U.S. Supreme Court is at the top and is the final court of appeal.
+
+[.my2]
+图 13.4 美国司法系统采用双重法院体系，包括联邦法院系统和五十个州的各级法院。在联邦和州两方面，美国最高法院都处于最高层，是最终上诉法院。
+To add to the complexity, the state and federal court systems sometimes intersect and overlap each other, and no two states are exactly alike when it comes to the organization of their courts. Since a state’s court system is created by the state itself, each one differs in structure, the number of courts, and even name and jurisdiction. Thus, the organization of state courts closely resembles but does not perfectly mirror the more clear-cut system found at the federal level.28 Still, we can summarize the overall three-tiered structure of the dual court model and consider the relationship that the national and state sides share with the U.S. Supreme Court, as illustrated in Figure 13.4.
+
+[.my2]
+更复杂的是，州法院系统和联邦法院系统有时会相互交叉重叠，而且没有两个州的法院组织结构完全相同。由于州法院系统由州政府自行建立，因此每个州的法院系统在结构、法院数量，甚至名称和管辖范围上都存在差异。因此，州法院的组织结构与联邦层面更为清晰的体系非常相似，但并非完全相同。 28 尽管如此，我们仍然可以概括双重法院模式的三级结构，并考察联邦和州法院与美国最高法院之间的关系，如图 13.4 所示。
+
+Cases heard by the U.S. Supreme Court come from two primary pathways: (1) the circuit courts, or U.S. courts of appeals (after the cases have originated in the federal district courts), and (2) state supreme courts (when there is a substantive federal question in the case). In a later section of the chapter, we discuss the lower courts and the movement of cases through the dual court system to the U.S. Supreme Court. But first, to better understand how the dual court system operates, we consider the types of cases state and local courts handle and the types for which the federal system is better designed.
+
+[.my2]
+美国最高法院审理的案件主要来自两条途径：(1) 巡回法院，即美国上诉法院（案件最初由联邦地区法院受理）；(2) 州最高法院（当案件涉及实质性联邦问题时）。本章后续章节将讨论下级法院以及案件如何通过双重法院系统最终上诉至美国最高法院。但首先，为了更好地理解双重法院系统的运作方式，我们将探讨州和地方法院处理的案件类型，以及联邦法院系统更适合处理的案件类型。
+
+COURTS AND FEDERALISM  法院与联邦制
+Courts hear two different types of disputes: criminal and civil. Under criminal law, governments establish rules and punishments; laws define conduct that is prohibited because it can harm others and impose punishment for committing such an act. Crimes are usually labeled felonies or misdemeanors based on their nature and seriousness; felonies are the more serious crimes. When someone commits a criminal act, the government (state or national, depending on which law has been broken) charges that person with a crime, and the case brought to court contains the name of the charging government, as in Miranda v. Arizona discussed below.29 On the other hand, civil law cases involve two or more private (non-government) parties, at least one of whom alleges harm or injury committed by the other. In both criminal and civil matters, the courts decide the remedy and resolution of the case, and in all cases, the U.S. Supreme Court is the final court of appeal.
+
+[.my2]
+法院审理两种不同类型的纠纷：刑事纠纷和民事纠纷。在刑法中，政府制定规则和惩罚措施；法律界定哪些行为因可能损害他人而被禁止，并对实施此类行为的行为施以惩罚。犯罪通常根据其性质和严重程度被分为重罪或轻罪；重罪是更严重的犯罪。当某人实施犯罪行为时，政府（州政府或联邦政府，取决于违反的是哪项法律）会对其提起刑事诉讼，提交法院的案件会包含提起诉讼的政府的名称，例如下文讨论的 “米兰达诉亚利桑那州案”。 另一方面 ， 民事案件涉及两个或两个以上私人（非政府）当事人，其中至少一方指控另一方对其造成了损害或伤害。在刑事和民事案件中，法院都会决定案件的救济和解决方式，而美国最高法院是所有案件的最终上诉法院。
+
+Link to Learning  学习链接
+This site provides an interesting challenge: Look at the different cases presented and decide whether each would be heard in the state or federal courts. You can check your results at the end.
+
+[.my2]
+这个网站提供了一个有趣的挑战：浏览不同的案例 ，并判断每个案例应该由州法院还是联邦法院审理。你可以在最后查看你的结果。
+
+Although the Supreme Court tends to draw the most public attention, it typically hears fewer than one hundred cases every year. In fact, the entire federal side—both trial and appellate—handles proportionately very few cases, with about 90 percent of all cases in the U.S. court system being heard at the state level.30 The several hundred thousand cases handled every year on the federal side pale in comparison to the several million handled by the states.
+
+[.my2]
+尽管最高法院往往最受公众关注，但它每年审理的案件通常不足一百件。事实上，整个联邦法院——包括审判和上诉——处理的案件比例都非常低，美国法院系统中约 90%的案件都是在州一级审理的。 30 联邦法院每年处理的数十万件案件与各州处理的数百万件案件相比，简直是小巫见大巫。
+
+State courts really are the core of the U.S. judicial system, and they are responsible for a huge area of law. Most crimes and criminal activity, such as robbery, rape, and murder, are violations of state laws, and cases are thus heard by state courts. State courts also handle civil matters; personal injury, malpractice, divorce, family, juvenile, probate, and contract disputes and real estate cases, to name just a few, are usually state-level cases.
+
+[.my2]
+州法院是美国司法体系的核心，负责处理极其广泛的法律事务。大多数犯罪行为，例如抢劫、强奸和谋杀，都违反了州法律，因此案件由州法院审理。州法院也处理民事案件，例如人身伤害、医疗事故、离婚、家庭事务、青少年事务、遗嘱认证、合同纠纷和房地产案件等等，这些通常都属于州级案件。
+
+The federal courts, on the other hand, will hear any case that involves a foreign government, patent or copyright infringement, Native American rights, maritime law, bankruptcy, or a controversy between two or more states. Cases arising from activities across state lines (interstate commerce) are also subject to federal court jurisdiction, as are cases in which the United States is a party. A dispute between two parties not from the same state or nation and in which damages of at least $75,000 are claimed is handled at the federal level. Such a case is known as a diversity of citizenship case.31
+另一方面， 联邦法院将审理任何涉及外国政府、专利或版权侵权、美洲原住民权利、海事法、破产或两个或多个州之间争议的案件。跨州活动（州际贸易）引起的案件以及美国作为一方当事人的案件也受联邦法院管辖。如果两名当事人并非来自同一州或国家，且索赔金额至少为 75,000 美元，则此类争议由联邦法院处理。此类案件被称为“公民身份多元化案件”。 31
+
+However, some cases cut across the dual court system and may end up being heard in both state and federal courts. Any case has the potential to make it to the federal courts if it invokes the U.S. Constitution or federal law. It could be a criminal violation of federal law, such as assault with a gun, the illegal sale of drugs, or bank robbery. Or it could be a civil violation of federal law, such as employment discrimination or securities fraud. Also, any perceived violation of a liberty protected by the Bill of Rights, such as freedom of speech or the protection against cruel and unusual punishment, can be argued before the federal courts. A summary of the basic jurisdictions of the state and federal sides is provided in Table 13.2.
+
+[.my2]
+然而，有些案件会跨越州和联邦两级法院系统，最终可能需要在州法院和联邦法院同时审理。任何案件，只要涉及美国宪法或联邦法律，都有可能提交至联邦法院。这类案件可能涉及违反联邦法律的刑事犯罪，例如持枪袭击、非法贩卖毒品或银行抢劫；也可能涉及违反联邦法律的民事犯罪，例如就业歧视或证券欺诈。此外，任何被认为侵犯了《权利法案》所保护的自由（例如言论自由或免受残酷和非常规惩罚的权利）的行为，都可以在联邦法院进行辩护。 表 13.2 概述了州和联邦法院的基本管辖权。
+
+Jurisdiction of the Courts: State vs. Federal
+法院管辖权：州与联邦
+State Courts  州法院	Federal Courts  联邦法院
+Hear most day-to-day cases, covering 90 percent of all cases
+审理大多数日常案件，涵盖所有案件的90%。	Hear cases that involve a “federal question,” involving the Constitution, federal laws or treaties, or a “federal party” in which the U.S. government is a party to the case
+审理涉及“联邦问题”（即涉及宪法、联邦法律或条约）或“联邦当事人”（即美国政府作为案件当事人）的案件。
+Hear both civil and criminal matters
+审理民事和刑事案件	Hear both civil and criminal matters, although many criminal cases involving federal law are tried in state courts
+审理民事和刑事案件，但许多涉及联邦法律的刑事案件都在州法院审理。
+Help the states retain their own sovereignty in judicial matters over their state laws, distinct from the national government
+帮助各州在司法事务上维护自身主权，使其能够依据本州法律行使主权，这与联邦政府截然不同。	Hear cases that involve “interstate” matters, “diversity of citizenship” involving parties of two different states, or between a U.S. citizen and a citizen of another nation (and with a damage claim of at least $75,000)
+审理涉及“州际”事务、涉及两个不同州的“公民身份多元化”案件，或涉及美国公民和另一国公民的案件（且损害赔偿金额至少为 75,000 美元）。
+Table 13.2
+表 13.2
+While we may certainly distinguish between the two sides of a jurisdiction, looking on a case-by-case basis will sometimes complicate the seemingly clear-cut division between the state and federal sides. It is always possible that issues of federal law may start in the state courts before they make their way over to the federal side. And any case that starts out at the state and/or local level on state matters can make it into the federal system on appeal—but only on points that involve a federal law or question, and usually after all avenues of appeal in the state courts have been exhausted.32
+虽然我们当然可以区分司法管辖权的两方面，但逐案分析有时会使州和联邦之间看似泾渭分明的界限变得复杂。联邦法律问题有可能先在州法院审理，然后再移交到联邦法院。任何在州和/或地方层面就州级事务提起的案件，都可以通过上诉进入联邦系统——但前提是必须涉及联邦法律或问题，而且通常是在州法院的所有上诉途径都已用尽之后 。32
+
+Consider the case Miranda v. Arizona.33 Ernesto Miranda, arrested for kidnapping and rape, which are violations of state law, was easily convicted and sentenced to prison after a key piece of evidence—his own signed confession—was presented at trial in the Arizona court. On appeal first to the Arizona Supreme Court and then to the U.S. Supreme Court to exclude the confession on the grounds that its admission was a violation of his constitutional rights, Miranda won the case. By a slim 5–4 margin, the justices ruled that the confession had to be excluded from evidence because in obtaining it, the police had violated Miranda’s Fifth Amendment right against self-incrimination and his Sixth Amendment right to an attorney. In the opinion of the Court, because of the coercive nature of police interrogation, no confession can be admissible unless a suspect is made aware of his rights and then in turn waives those rights. For this reason, Miranda’s original conviction was overturned.
+
+[.my2]
+以米兰达诉亚利桑那州案为例。埃内斯托·米兰达因绑架和强奸罪被捕，这些罪行违反了州法律。在亚利桑那州法院的审判中，一份关键证据——他本人签署的供词——被提交，米兰达因此被轻易定罪并判处监禁。米兰达先是向亚利桑那州最高法院上诉，后又向美国最高法院上诉，要求排除这份供词作为证据，理由是其被采纳侵犯了他的宪法权利。最终，米兰达胜诉。最高法院以 5 比 4 的微弱优势裁定，这份供词必须被排除在证据之外，因为警方在获取供词的过程中侵犯了米兰达受宪法第五修正案保护的免于自证其罪的权利以及受宪法第六修正案保护的获得律师帮助的权利。最高法院认为，由于警方审讯具有强制性，任何供词都必须在嫌疑人被告知其权利并放弃这些权利之后才能被采纳。因此，米兰达最初的定罪被推翻。
+
+Yet the Supreme Court considered only the violation of Miranda’s constitutional rights, but not whether he was guilty of the crimes with which he was charged. So there were still crimes committed for which Miranda had to face charges. He was therefore retried in state court in 1967, the second time without the confession as evidence, found guilty again based on witness testimony and other evidence, and sent to prison.
+
+[.my2]
+然而，最高法院只审理了米兰达的宪法权利是否受到侵犯，而没有审理他是否犯有被指控的罪行。因此，米兰达仍然要为所犯的罪行接受审判。于是，他在1967年于州法院再次受审，第二次审判中没有了米兰达的认罪供词作为证据，他再次根据证人证词和其他证据被判有罪，并被送进监狱。
+
+Miranda’s story is a good example of the tandem operation of the state and federal court systems. His guilt or innocence of the crimes was a matter for the state courts, whereas the constitutional questions raised by his trial were a matter for the federal courts. Although he won his case before the Supreme Court, which established a significant precedent that criminal suspects must be read their so-called Miranda rights before police questioning, the victory did not do much for Miranda himself. After serving prison time, he was stabbed to death in a bar fight in 1976 while out on parole, and due to a lack of evidence, no one was ever convicted in his death.
+
+[.my2]
+米兰达的故事很好地体现了州法院和联邦法院系统的协同运作。他是否有罪由州法院裁决，而审判中提出的宪法问题则由联邦法院审理。尽管他在最高法院胜诉，并确立了一项重要的先例，即警方讯问前必须告知犯罪嫌疑人所谓的“米兰达权利”，但这场胜利对米兰达本人并无太大益处。服刑期满后，他在1976年假释期间于酒吧斗殴中被刺身亡，由于缺乏证据，最终无人因其死亡而被定罪。
+
+THE IMPLICATIONS OF A DUAL COURT SYSTEM
+双轨制法院系统的影响
+From an individual’s perspective, the dual court system has both benefits and drawbacks. On the plus side, each person has more than just one court system ready to protect that individual's rights. The dual court system provides alternate venues in which to appeal for assistance, as Ernesto Miranda’s case illustrates. The U.S. Supreme Court found for Miranda an extension of his Fifth Amendment protections—a constitutional right to remain silent when faced with police questioning. It was a right he could not get solely from the state courts in Arizona, but one those courts had to honor nonetheless.
+
+[.my2]
+从个人角度来看， 双重法院系统既有优点也有缺点。优点在于，每个人都有不止一个法院系统来保护其权利。双重法院系统提供了寻求帮助的替代途径，埃内斯托·米兰达的案例便说明了这一点。美国最高法院裁定米兰达享有第五修正案赋予的保护——在面对警方讯问时保持沉默的宪法权利。这项权利他无法仅从亚利桑那州法院获得，但这些法院仍然必须予以尊重。
+
+The fact that a minority voice like Miranda’s can be heard in court, and that grievances can be resolved in a minority voice's favor if warranted, says much about the role of the judiciary in a democratic republic. In Miranda’s case, a resolution came from the federal courts, but it can also come from the state side. In fact, the many differences among the state courts themselves may enhance an individual’s potential to be heard.
+
+[.my2]
+像米兰达这样的少数族裔的声音能在法庭上被听到，而且如果情况属实，少数族裔的诉求也能得到公正的解决，这充分体现了司法机构在民主共和政体中的作用。米兰达的案件最终由联邦法院裁决，但州法院也能做出裁决。事实上，各州法院之间的诸多差异反而可能增加个人获得公正对待的机会。
+
+State courts vary in the degree to which they take on certain types of cases or issues, give access to particular groups, or promote certain interests. If a particular issue or topic is not taken up in one place, it may be handled in another, giving rise to many different opportunities for an interest to be heard somewhere across the nation. In their research, Paul Brace and Melinda Hall found that state courts are important instruments of democracy because they provide different alternatives and varying arenas for political access. They wrote, “Regarding courts, one size does not fit all, and the republic has survived in part because federalism allows these critical variations.”34
+各州法院在处理特定类型案件或议题、给予特定群体诉讼权利或促进特定利益方面的程度各不相同。如果某个特定议题或话题在一个地方法院未被受理，则可能在另一个地方法院得到处理，从而为全国各地的利益诉求提供了多种表达的机会。保罗 ·布雷斯和梅琳达 ·霍尔的研究发现，州法院是民主的重要工具，因为它们提供了不同的选择和不同的政治参与平台。他们写道：“就法院而言，没有一种模式可以适用于所有情况，共和国之所以能够存续，部分原因在于联邦制允许这些关键的差异。” 34
+
+But the existence of the dual court system and variations across the states and nation also mean that there are different courts in which a person could face charges for a crime or for a violation of another person’s rights. Except for the fact that the U.S. Constitution binds judges and justices in all the courts, it is state law that governs the authority of state courts, so judicial rulings about what is legal or illegal may differ from state to state. These differences are particularly pronounced when the laws across the states and the nation are not the same, as we see with marijuana laws today.
+
+[.my2]
+但双重法院制度的存在以及各州和全国范围内的差异也意味着，一个人可能在不同的法院面临不同的指控，无论是犯罪还是侵犯他人权利。尽管美国宪法对所有法院的法官和大法官都具有约束力，但州法律才是州法院权力的真正来源，因此，关于合法与非法行为的司法裁决可能因州而异。当各州和全国的法律不一致时，这些差异尤为显著，正如我们今天在大麻法律方面所看到的那样。
+
+Finding a Middle Ground
+寻找折衷方案
+Marijuana Laws and the Courts
+大麻法律与法院
+There are so many differences in marijuana laws between states, and between the states and the national government, that uniform application of treatment in courts across the nation is nearly impossible (Figure 13.5). What is legal in one state may be illegal in another, and state laws do not cross state geographic boundary lines—but people do. What’s more, a person residing in any of the fifty states is still subject to federal law.
+
+[.my2]
+各州之间以及州政府与联邦政府之间的大麻法律差异巨大，以至于在全国范围内法院统一适用相关法律几乎不可能（ 图 13.5 ）。在一个州合法的事物在另一个州可能就是非法的，而且州法律不会跨越州界——但人们却会跨越。此外，居住在五十个州中的任何一个州的人仍然受联邦法律的约束。
+
+A map of the Unites States titled “Marijuana Legal Status by State”. The map shows which states have an adult & medical use regulated program, a comprehensive medical cannabis program, a C B D or low T H C program, or no public cannabis access program. The states with an adult & medical use regulated program are Alaska, Arizona, California Colorado, Connecticut, Delaware, Illinois, Maine, Massachusetts, Michigan, Minnesota, Missouri, Montana, Nevada, New Jersey, New Mexico, New York, Ohio, Oregon, Rhode Island, Vermont, Virginia, and Washington. The states with a comprehensive medical cannabis program are Alabama, Arkansas, Florida, Hawaii, Kentucky, Louisiana, Mississippi, Nebraska, New Hampshire, North Dakota, Oklahoma, Pennsylvania, South Dakota, Utah, and West Virginia. The states with a C B D or low T H C program are Georgia, Indiana, Iowa, North Carolina, South Carolina, Tennessee, Texas, Wisconsin, and Wyoming. The states with no public cannabis access program are Idaho and Kansas.
+
+[.my2]
+Figure 13.5 Marijuana laws vary remarkably across the fifty states. In some states, marijuana use is illegal, as it is under federal law, but many states have decriminalized it, some allow it for medicinal use, and some have done both. As of the Spring of 2025, marijuana was legal for recreational use in twenty-four states. Source: NCSL, "State Medical Cannabis Laws," March, 2025
+图 13.5 五十个州的大麻法律差异显著。在一些州，大麻的使用与联邦法律一样属于非法行为，但许多州已将其非刑事化，一些州允许将其用于医疗用途，还有一些州则两者兼而有之。截至 2025 年春季，已有 24 个州将大麻用于娱乐用途合法化。资料来源：NCSL，《各州医用大麻法律》，2025 年 3 月。
+For example, a person over the age of twenty-one may legally buy marijuana for recreational use in twenty-four states and for medicinal purpose in more than 80 percent of the country, but could face charges—and time in court—for possession in a neighboring state where marijuana use is not legal. Under federal law, too, marijuana is still regulated as a Schedule 1 (most dangerous) drug, and federal authorities often find themselves pitted against states that have legalized it. Such differences can lead, somewhat ironically, to arrests and federal criminal charges for people who have marijuana in states where it is legal, or to federal raids on growers and dispensaries that would otherwise be operating legally under their state’s law.
+
+[.my2]
+例如，21岁以上的人在24个州可以合法购买大麻用于娱乐用途，在超过80%的州可以合法购买大麻用于医疗用途，但在邻近的、大麻使用不合法的州，持有大麻则可能面临指控和法庭审判。根据联邦法律，大麻仍然被列为一级管制药品（最危险的药品），联邦当局经常与已经将其合法化的州发生冲突。具有讽刺意味的是，这种差异可能导致在合法州持有大麻的人遭到逮捕和联邦刑事指控，或者导致联邦政府突袭那些原本在其州法律下合法经营的种植者和销售点。
+
+Differences among the states have also prompted a number of lawsuits against states with legalized marijuana, as people opposed to those state laws seek relief from (none other than) the courts. They want the courts to resolve the issue, which has left in its wake contradictions and conflicts between states that have legalized marijuana and those that have not, as well as conflicts between states and the national government. These lawsuits include at least one filed by the states of Nebraska and Oklahoma against Colorado. Citing concerns over cross-border trafficking, difficulties with law enforcement, and violations of the Constitution’s supremacy clause, Nebraska and Oklahoma have petitioned the U.S. Supreme Court to intervene and rule on the legality of Colorado’s marijuana law, hoping to get it overturned.35 The Supreme Court has yet to take up the case.
+
+[.my2]
+各州之间的分歧也引发了多起针对已将大麻合法化的州的诉讼，反对这些州法律的人们寻求通过法院寻求救济。他们希望法院能够解决这一问题，因为该问题已在已将大麻合法化的州和未合法化的州之间，以及各州与联邦政府之间造成了矛盾和冲突。这些诉讼中至少包括内布拉斯加州和俄克拉荷马州对科罗拉多州提起的诉讼。内布拉斯加州和俄克拉荷马州以跨境贩运、执法困难以及违反宪法最高条款为由 ， 向美国最高法院提出申请，请求其介入并裁决科罗拉多州大麻法的合法性，希望推翻该法。最高法院尚未受理此案。
+
+How do you think differences among the states and differences between federal and state law regarding marijuana use can affect the way a person is treated in court? What, if anything, should be done to rectify the disparities in application of the law across the nation?
+您认为各州之间以及联邦和州法律在关于大麻使用方面的差异会如何影响一个人在法庭上受到的待遇？为了纠正全国各地法律适用上的差异，应该采取哪些措施（如果有的话）？
+
+Where you are physically located can affect not only what is allowable and what is not, but also how cases are judged. For decades, political scientists have confirmed that political culture affects the operation of government institutions, and when we add to that the differing political interests and cultures at work within each state, we end up with court systems that vary greatly in their judicial and decision-making processes.36 Each state court system operates with its own individual set of biases. People with varying interests, ideologies, behaviors, and attitudes run the disparate legal systems, so the results they produce are not always the same. Moreover, the selection method for judges at the state and local level varies. In some states, judges are elected rather than appointed, which can affect their rulings.
+
+[.my2]
+你身处何地不仅会影响哪些行为是允许的，哪些行为是不允许的，还会影响案件的判决方式。几十年来，政治学家已经证实，政治文化会影响政府机构的运作。再加上各州内部不同的政治利益和文化，最终导致各州的法院系统在司法和决策程序上存在巨大差异。每个州的法院系统都存在其自身的一套偏见。由于不同利益、意识形态、行为和态度的人员在不同的司法系统中运作，因此他们产生的判决结果并不总是相同的。此外，州和地方法官的选拔方式也各不相同。在一些州，法官是选举产生的，而不是任命的，这可能会影响他们的判决。
+
+Just as the laws vary across the states, so do judicial rulings and interpretations, and the judges who make them. That means there may not be uniform application of the law—even of the same law—nationwide. We are somewhat bound by geography and do not always have the luxury of picking and choosing the venue for our particular case. So, while having such a decentralized and varied set of judicial operations affects the kinds of cases that make it to the courts and gives citizens alternate locations to get their case heard, it may also lead to disparities in the way they are treated once they get there.
+
+[.my2]
+正如各州的法律各不相同一样，司法判决和解释也因州而异，做出判决的法官亦是如此。这意味着即使是同一部法律，在全国范围内也可能无法得到统一的适用。我们在一定程度上受到地理位置的限制，并非总能随心所欲地选择案件的审理地点。因此，尽管这种分散且多样化的司法运作模式影响着案件的类型，并为公民提供了更多选择，让他们可以在不同的地点获得审理，但也可能导致他们在法庭上受到不公平的对待。
+
+
+'''

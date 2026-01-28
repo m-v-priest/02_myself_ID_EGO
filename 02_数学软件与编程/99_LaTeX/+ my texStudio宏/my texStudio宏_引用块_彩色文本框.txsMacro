@@ -1,0 +1,18 @@
+{
+    "abbrev": "\\mybox",
+    "description": [
+        ""
+    ],
+    "formatVersion": 1,
+    "menu": "",
+    "name": "引用块(彩色文本框)",
+    "shortcut": "",
+    "tag": [
+        "\\begin{tcolorbox}[title = {你的标题内容},boxrule={0.1em},colframe={black!10}, colback={black!3},colbacktitle={black!10},coltitle={black}]",
+        "\t上",
+        "\t\\tcblower",
+        "\t下",
+        "\\end{tcolorbox}"
+    ],
+    "trigger": ""
+}

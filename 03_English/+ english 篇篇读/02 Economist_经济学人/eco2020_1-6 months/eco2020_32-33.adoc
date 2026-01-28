@@ -1,0 +1,708 @@
+
+= eco 2020 (32-33)
+:toc:
+
+---
+
+== 32. Are data more like oil or sunlight?
+
+The question *highlights*(`= : to emphasize sth, especially so that people give it more attention 突出；强调`) the many different faces of data
+
+数据更像是石油还是阳光? +
+这个问题, 突显了数据有很多不同方面的属性
+
+Feb 20th 2020 |
+
+
+PASSIONATE(`= : having or showing strong feelings of enthusiasm for sth or belief in sth 热诚的；狂热的`)) GRAMMARIANS 语法学家 *have long quarrelled 争吵；吵嘴；吵架 over* whether data *should be* singular or plural(a.)(`=plural : 多样的；多元的;/复数，复数形式`) (*contrary(a.)与之相异的；相对立的；相反的 to* common usage(`= : the fact of sth being used; how much sth is used 使用；利用；利用率`), this newspaper *is sticking with*(`=*stick with sb/sth* : to continue with sth or continue doing sth 持续；坚持;/紧跟，不离开（某人，以便得到帮助）`) the latter （刚提及的两者中）后者的；（系列中）最后的，末尾的, for now).
+
+A better question *is* why *are* data so singularly(`= : very; in an unusual way 非常；特别；异常地`) plural? That *is*, *why do they have* so many different faces?
+
+长期以来，热情的语法学家们一直在争论, 数据应该是单面的, 还是多元化的? (与通常用法相反，本报目前坚持使用后者)。一个更好的问题是，为什么数据如此特别? 也就是说，为什么他们有这么多不同的面?
+
+For an answer, *start with* the many metaphors(`=metaphors : 暗喻；隐喻`) *used* to describe(v.) flows of data.
+
+====
+- metaphor => meta-,改变，-phor,带来，词源同bring.引申词义改变方式，用于语法指暗喻，隐喻。
+====
+
+
+Originally they *were likened(v.) to*(`=*LIKEN STH/SB TO STH/SB* : 把…比作…`) oil, *suggesting that* data *are* the fuel of the future.
+
+More recently, the comparison 比较;对比；相比 *has been* with sunlight because soon, like solar rays, they *will be* everywhere and *underlie* 构成…的基础；作为…的原因 everything.
+
+There *is* also *talk of* data *as* infrastructure: they *should be seen as* a kind of digital twin of roads or railways, *requiring* public investment and new institutions *to manage* them.
+
+
+要回答这个问题，我们可以从用来描述数据流的很多比喻开始。最初，它们被比作石油，认为数据是未来的燃料。最近，人们又将其比作阳光，因为不久后，就像太阳光线一样，它们将无处不在，构成一切的基石。也有人将数据比作基础设施:它们应该被看作是公路或铁路的数字化化身，需要公共来投资, 也需要新的机构来管理它们。
+
+The multiplication(`=multiplication : 乘；相乘；增加`) of metaphors 暗喻；隐喻 *reflects* the malleable(a.)(`=malleable : 可塑的；易受影响（或改变）的;/(金属等)可锻造的；可轧压的；易成型的`) economics of data.
+
+First, they *are* “non-rivalrous”(`=rivalrous : 有竞争性的`): since they *are* infinitely 极其；无限地 copyable 可复制,可拷贝的, they *can be used* by many people without *limiting* the use by others.
+
+But they *are* also “excludable” 排他性的: technologies(`= : technology的复数`) like encryption(`=encryption : 加密；加密术`) *can control* who has access to them.
+
+*Depending on* where one *sets* the cryptographic(`=cryptographic : 关于暗号的，用密码写的`) slider, data *can indeed be* private goods(n.) like oil /or public goods like sunlight -- or something in between, *known as* a “club good”.
+
+比喻的增多反映出数据经济形态的可塑性。首先，它们是“非竞争性的”：由于无限可复制，许多人都可以使用它们，并不会因此而限制其他人的使用。但它们也是“可排他的”：加密之类的技术可以控制谁有访问权。实际上，取决于你把“加密滑动条”放在哪里，数据确实可以是如同石油的私人物品，或是如同阳光的公共物品——也可以是介于两者之间的东西，有人称之为“俱乐部物品”。
+
+This [in turn](`= : as a result of sth in a series of events 相应地；转而;/依次；轮流；逐个`) *means that* there *is not* just one data economy, but three more or less 或多或少 distinct(a.) 截然不同的；有区别的；不同种类的 ones, each with its own ideology  思想（体系）；思想意识; 意识形态；观念形态.
+
+And the big question *is* whether one *will come to （用于许多词组表示达到某种状态）达到，进入 dominate*, or whether the mirror world *will be* as much of a mixture 混合；结合体 as the real one.
+
+====
+- *come to/into sth* : used in many expressions to show that *sth has reached a particular state* （用于许多词组表示达到某种状态）达到，进入 +
+-> At last winter *came to an end* . 冬天终于结束了。 +
+-> He *came to power* in 1959. 他于1959年上台掌权。 +
+-> When will they *come to a decision* ? 他们何时会作出决定？ +
+-> The trees *are coming into leaf*. 树开始长叶子了。
+====
+
+这进而意味着，数字经济, 不仅仅只有一种，而是大概有三种截然不同数字经济形态，每种数字经济, 都有自己的思想逻辑。最大的问题是, 是否有其中一种, 会最终成为统治的一个，或者, 镜像世界是否会像真实世界一样, 是一个混合体。
+
+If oil *is* still the most-used metaphor 暗喻；隐喻, it *is* because `主` *comparing* data *to* the black stuff `系` *is* easy.
+
+Like oil, data *must be refined* 精炼；提纯；去除杂质 *to be* useful.
+
+[In most cases] they *need to be “cleansed”(`=cleanse : 使清洁; 使净化`) and “tagged”* 加标识符（或标记、标签）于, *meaning* stripped 除去，剥去（一层）；（尤指）剥光 of(`=*strip sb of sth* : to take away property or honours from sb, as a punishment 剥夺；褫夺`) inaccuracies(n.)(`=inaccuracy  : 不准确`) and *marked* to identify what can be seen, say, on a video.
+
+This *has spawned* a global industry *employing* hundreds of thousands of people, mostly in low-wage countries.
+
+Scale AI, a startup in San Francisco, *employs* 30,000 taggers 加标签者 around the world who *review*  审裁; 审度; 复查；重新考虑 footage  (描述某一事件的) 片段镜头 from self-driving cars 自动驾驶汽车 /and *ensure* the firm’s software *has correctly classified* 将…分类；将…归类 things like houses and pedestrians(`=pedestrian : 行人；步行者`).
+
+====
+- pedestrian =>  -ped-足 + estr + -ian…人
+====
+
+如果石油仍然算是最常用的比喻的话，那是因为, 将数据与石油进行比较, 会更容易理解一些。就像石油一样，数据必须经过"提炼"才有用。在大多数情况下，它们需要被“清洗”和“标记”，这意味着, 需要对数据去除不准确的内容，并进行标记，以识别出比如在视频中会看到的内容。这催生了一个雇佣了数十万人的全球行业，其中大部分在低收入国家。Scale AI 是旧金山的一家初创公司, 它在世界各地雇佣了3万名标记员，他们会审查自动驾驶汽车产生的视频，并确保该公司的软件, 能正确地对房屋和行人等物品进行分类。
+
+Before data *can power* 驱动，推动（机器或车辆） AI services, they *also need to be fed* through algorithms, *to teach* them *to recognise* faces, *steer*(v.) 驾驶（船、汽车等）；掌控方向盘 self-driving cars and *predict* when jet engines *need* a check-up(n.)  检查；（尤指）体格检查.
+
+And different data sets(n.) *often need* to be combined(v.)（使）结合，组合，联合，混合 for statistical patterns *to emerge*.
+
+In the case of jet engines, for instance, `主` *mixing* usage 使用；利用；利用率 *and* weather data `谓` *helps* forecast(v.) wear and tear.
+
+在数据为人工智能服务, 提供动力之前，还需要向它们提供算法，以教会它们如何识别人脸，驾驶自动驾驶汽车，以及预测喷气式发动机, 何时需要检查。不同的数据集, 通常需要组合起来, 才能出现统计模式。例如，在应用于喷气发动机的情况下，只有将其飞机的使用情况, 和天气数据结合起来, 才能有助于预测它的磨损情况。
+
+The oil metaphor also *rings true*(`=*ring true/hollow/false* : to give the impression of being sincere/true or not sincere/true 给人以真实（或空洞、虚假）的印象`) because `主` some types of data and some of the insights 洞悉；了解 *extracted from* them `谓` *are already widely traded*.
+
+Online advertising *is* perhaps the biggest marketplace for personal data: clicks *are bought*(`= : buy`) *and sold* based on a detailed digital profile 面部的侧影；侧面轮廓; 印象；形象 of each viewer.
+
+It *was* worth $178bn globally in 2018, *according to* Strategy&, a consultancy.
+
+Data brokers 经纪人；掮客, which *can track* thousands of data points(n.) for each individual, *do* brisk business [with personal information], too.
+
+They *sell* it *to* everyone *from* banks *to* telecoms carriers  电话公司；互联网公司；通信公司, *generating* annual revenue of more than $21bn, *says* Strategy&.
+
+石油的比喻之所以合适，还因为某些类型的数据, 以及从中提取的见解, 已经在广泛交易。在线广告可能是最大的个人数据市场：根据每个用户的详细数字资料, 来买卖点击。咨询公司思略特（Strategy&）的数据显示，2018年该市场的全球价值为1780亿美元。数据经纪人可以为每个人跟踪数千个数据点，它们的个人信息业务也很红火。思略特称，它们将这类数据出售给从银行到电信运营商的各种机构，年收入超过210亿美元。
+
+*Offering* insights *from* mining 采矿；采矿业 data 挖掘数据 *can be* very profitable 有利润的；赢利的, too.
+
+On Kaggle, a website *owned by* Google that *hosts* machine-learning contests, thousands of teams of data scientists *compete against each other* to see who *can come up with*(`=*come up with sth* : 找到（答案）；拿出（一笔钱等）`) the best algorithms *to predict* a building’s energy consumption or *to detect* “deepfake” videos, with prizes(n.)奖赏；奖励；奖品；奖金 sometimes *exceeding* $1m.
+
+That *is* also Facebook’s and Google’s way *to make money*.
+
+They *hardly ever sell* data, but they *do sell* insights about who *is* the best target for advertising.
+
+提供挖掘数据所得的见解也可以非常有利可图。在谷歌旗下的机器学习竞赛网站Kaggle上，成千上万个数据科学家团队参赛，看谁能拿出最佳算法来预测建筑物的能耗或识别“深伪”视频，有时奖金超过100万美元。这也是Facebook和谷歌的赚钱方式。它们几乎从不出售数据，但出售谁是最佳广告目标的见解。
+
+Yet data *have failed to become* “a new asset class 资产类别；资产种类”, *as* the World Economic Forum, a conference-organiser and think-tank, *predicted* in 2011.
+
+Most data *never change hands* 易手, 转手, and `主` attempts(n.) *to make* them more tradable 可买卖的；可交易的 `谓` *have not taken off*(`=*take off* : 起飞; (观念、产品等)突然大受欢迎；迅速流行`).
+
+*To change* this, especially in Europe, manufacturers *are pushing* to secure(`= : *~ sth (for sb/sth) /~ sb sth* : ( formal ) to obtain or achieve sth, especially when this means using a lot of effort （尤指经过努力）获得，取得，实现`) property rights 产权, 财产权 for the data *generated by* their products 产品；制品.
+
+====
+- 注意: *secure sth (for sb/sth) / secure sb sth* ( formal ) to obtain or achieve sth, especially when this means using a lot of effort （尤指经过努力）获得，取得，实现 +
+*secure sth (against sth)* : to protect sth so that it is safe and difficult to attack or damage 保护；保卫；使安全
+====
+
+Others *want* consumers *to own the data* they create, so they *can sell them* and *get a bigger cut*(n.)(`= : a share in sth, especially money （尤指钱的）份，份额`) from their information.
+
+不过，数据没能像会议组织者兼智库“世界经济论坛”在2011年预测的那样，成为一种“新资产类别”。大多数数据从未易手，那些努力让它们变得更易于交易的尝试也没能大行其道。为改变这种局面，特别是在欧洲，制造商正在推动取得自家产品生成的数据的产权。还有些人则希望让消费者拥有自己生成的数据，这样他们就可以出售数据，从自己的信息中分得更大的一杯羹。
+
+Again, economics *gets in the way*(`=*get in the way of* : 挡…的路；妨碍`).
+
+Although data *are often thought of as* a commodity, corporate data sets(`=*data set* : a collection of data which is treated as a single unit by a computer 数据集`), in particular, *tend not to be* fungible(`=fungible : 代替的；可取代的`).
+
+Each *is* different [in the way it was collected, and in its purpose and reliability].
+
+This *makes* it difficult for buyers and sellers *to agree on* a price: the value of each sort *is hard to compare* /and *changes* over time.
+
+A further barrier to trading `系` *is that* the value of a data set *depends on* who controls it.
+
+`主` What *might simply be* data exhaust(n.)（车辆、发动机或机器排出的）废气 to one firm `系` *could be* digital gold *to* another.
+
+“There *is* no true value of data,” *says* Diane Coyle of the University of Cambridge.
+
+经济运作方式又一次挡了路。尽管数据常被视为大宗商品，但企业数据集尤其不易互换利用。它们的收集方式、目的和可靠性各不相同。这使得买卖双方难以就价格达成共识：各个种类的数据的价值难以比较，且会随时间变化。交易的另一个障碍是数据集的价值取决于谁控制它。对一家公司是垃圾的数据, 对另一家却可能是黄金。“数据没有真实价值。”剑桥大学的黛安·科伊尔（Diane Coyle）表示。
+
+
+*As for* 至于，就……方面说 personal data, *defining* property rights *is* tricky(a.)(`= : difficult to do or deal with 难办的；难对付的`), because much information *cannot be attributed to* one person.
+
+`主` Who, for instance, `谓` *owns* the fact that `主` a dating site `谓` *has matched* a couple? The couple themselves? Or the service?
+
+*Complicating*(v.)使复杂化 matters, data *have* plenty of externalities(`=externality : the state or condition of being external 外部的;外在性;外部效应`), both positive and negative, *meaning that* markets often *fail*.
+
+Why *should* a social network, say, *buy* the data of an individual [if it *can make* quite accurate predictions about him *by crunching*(`=crunch : 嘎吱嘎吱地嚼;（快速大量地）处理信息；数字捣弄`) data from other users]?
+
+至于个人数据，要界定产权很难，因为很多信息无法归属到某一个人。例如，谁拥有约会网站匹配了一对情侣这一事实？这对情侣自己吗？还是网站？让事情变得更复杂的是，数据具有大量外部性，包括正面和负面的，这意味着市场经常失灵。例如，如果一个社交网络可以通过处理其他用户的数据来做出关于某个人的相当准确的预测，那么它为什么还要购买这个人的数据呢？
+
+Although data *are unlikely ever to be traded* as widely as oil, tech firms *keep trying* to make this easier.
+
+Amazon Web Services (AWS), the cloud-computing arm(`= : ~ (of sth) a section of a large organization that deals with one particular activity 分部；职能部门 `) of the e-commerce giant *recently launched* a marketplace 集市；市场 that *aims* to make trading in data as easy as possible.
+
+It *works [a bit like* an online store for smartphone apps]: buyers *subscribe to* feeds （婴儿的）一次喂奶，一餐；（动物的）一次喂给的饲料, *agree to* licensing 许可；批准;授权 conditions, and AWS *processes* the payment.
+
+尽管数据不太可能像石油那样广泛地来进行交易，但科技公司一直在努力简化这一过程。电子商务巨头亚马逊, 有一个云计算部门: 亚马逊网络服务(AWS), 它最近推出了一个市场, 旨在让数据交易尽可能简单。它的工作原理, 有点像智能手机的app在线商店:买家订阅订阅源，同意授权条件后，具体的支付处理过程, 交由AWS来做。
+
+Light stuff *not* black stuff
+
+轻盈的，而不是黑乎乎的
+
+Champions of the “open-data” movement *push* organisations *to give away*(`= : 泄露；暴露`) their data
+
+“开放数据”运动的拥护者, 推动各种组织来公开他们的数据
+
+*As* the oil metaphor *is seen as* increasingly problematic(a.)造成困难的；产生问题的, the comparison to sunlight or similar resources, such as air and water, *has risen* in favour(`=*in favour (of sb/sth)* : if you are *in favour of sb/sth*, you support and agree with them/it 赞同；支持`).
+
+Many people who *prefer* this metaphor *ask* if data *do not really lend*(`= : *lend sth (to sb/sth)~ (sb/sth)* : sth to give or provide help, support, etc. 给予，提供（帮助、支持等）`) themselves *to be turned into* a tradable good, then why *even try*?
+
+====
+- lend : *~ sth (to sb/sth)~ (sb/sth) sth* : ( formal ) to give a particular quality to a person or a situation 给…增加，增添（特色） +
+-> The setting sun *lent* an air of melancholy *to* the scene. 落日给景色增添了伤感的气氛。 +
+-> Her presence *lent the occasion* a certain dignity. 她的出席使那场面增添了几分光彩。 +
+(2) *lend sth (to sb/sth) / lend (sb/sth) sth* :  to give or provide help, support, etc. 给予，提供（帮助、支持等） +
+-> I was more than happy *to lend my support to* such a good cause. 我非常乐意给这样美好的事业提供援助。 +
+-> He came along *to lend me moral support*. 他来给予我精神上的支持。
+====
+
+*Would it not instead be better* to ensure(v.) that {data *are used* as much as possible}? After all, this *will maximise* social wealth. In other words, nobody *puts up*(`= : to raise sth or put it in a higher position 提升；使升高`) curtains and *tries to charge for* 收（费）；（向…）要价 sunlight.
+
+随着石油的比喻日渐被视为有问题，与阳光或类似的资源（如空气和水）的类比越来越受欢迎。许多喜欢这种比喻的人问，如果数据并不那么适合变成一种可交易商品，那为何还要费劲去尝试呢？确保它尽可能多地被利用不是更好吗？毕竟这会使社会财富最大化。换言之，没人会挂起窗帘，试图叫卖阳光。
+
+This line （尤指为达到某种目的说的）话，言语 of argument *has already given birth to*(`=*GIVE BIRTH (TO SB/STH)* : 生孩子；产仔`) what *is known as* the “open-data” movement.
+
+Its champions *push* organisations and universities *to give away* their data 因此 *so* they *can be widely used*, for instance by startups.
+
+Today, most governments, national or otherwise, *boast* an open-data project, although `主` the quality of the data made available `谓` *varies greatly*.
+
+这套论述已经催生了“开放数据”运动。其拥护者敦促各种组织和大学院校交出数据，以让它们可被广泛利用——比如被创业公司使用。如今，大多数国家或地方的政府都在吹嘘某个开放数据项目，尽管这些被开放的数据的质量差异很大。
+
+More recently, companies *have started* to publish(v.) their data, too. Several firms that *work on* self-driving cars *have shared* some of the information *collected by* their vehicles.
+
+“For researchers *to ask* the right questions, they *need* the right data,” *according to* Dragomir Anguelov, principal(a.)(`= :  most important; main 最重要的；主要的`) scientist at Waymo, a firm *owned by* Alphabet, Google’s parent, that *is* one of the companies that *has done* this.
+
+Others *are working on* technology *to make* such data-sharing *easier*: Microsoft and other software makers *will soon start* to implement(v.)使生效；贯彻；执行；实施 what it *calls* the “open-data initiative”.
+
+后来，企业也开始公开自家数据了。几家研发无人驾驶汽车的公司共享了自己的车辆收集到的部分信息。谷歌母公司Alphabet是其中之一。它旗下的Waymo公司的首席科学家德拉戈默·安戈洛夫（Dragomir Anguelov）说：“若要让研究人员能提出正确的问题，他们需要正确的数据。”其他公司正在研究能让这种数据共享变得更容易的技术。微软等软件制造商将很快开始实施微软所说的“开放数据计划”。
+
+Some *see* such efforts *as* the beginning of an open-source movement for data, *much like* the approach that now *rules* large parts of the software industry.
+
+And Microsoft, in particular, *is keen* to see(v.) this happen. “We *need to democratise*(`=democratize : 使民主化`) AI and the data *on which it relies*,” *writes* Brad Smith, the firm’s president and chief legal officer in his recently published book, “Tools and Weapons”.
+
+Unsurprisingly, this position *also smacks 用巴掌打；掴 of*(`=*smack of sth* : to seem to contain or involve a particular unpleasant quality 有…味道；带有…意味`) self-interest: Microsoft *does not make much money from data directly*, but *does* from tools and services that *handle* data.
+
+一些人将这种努力视为数据开源运动的开始——很像如今统治了软件行业大部分的开源运动。微软对此尤为热衷。公司总裁兼首席法务官布拉德·史密斯（Brad Smith）在他最近出版的《工具和武器》（Tools and Weapons）一书中写道：“我们需要让人工智能及其依赖的数据民主化。”自然，这种立场带着些利己的气味：微软并不直接从数据中赚多少钱，它从处理数据的工具和服务中赚钱。
+
+Like the oil comparison, however, the data-as-sunlight analogy(n.)类比；比拟；比喻 *breaks down* 失败;出故障；坏掉: open data, too, *can go only so far*.
+
+For personal data, the main limitation *is* increasingly strict(a.)严格的（指必须恪守） privacy laws, such as the EU’s General Data Protection Regulation (GDPR), *as well as* the California Consumer Privacy Act (CCPA), which *will start* being enforced in July.
+
+[For corporate data] the checks(`= :  to control sth; to stop sth from increasing or getting worse 控制；抑制；阻止`)) *are* economic [in nature 本质上，事实上] : `主` *generating* good data `系` *is* expensive /and they *can reveal* too much about a firm’s products.
+
+“Companies *will make* very strategic decisions about what data sets they *will make public* and which ones *they will keep to themselves*,” *explains* Michael Chui of the McKinsey Global Institute, a consultancy think-tank.
+
+然而，就像石油的比喻一样，阳光的类比也出了问题：开放数据的范围同样有限。对于个人数据，主要的限制是日益严格的隐私法，例如欧盟的《通用数据保护条例》（GDPR），以及将于7月开始实施的《加州消费者隐私法》（CCPA）。对于公司数据而言，设立关卡天然就更经济：生成优质数据的成本高昂，它们还可能过多地泄露了一家公司产品的信息。咨询智库麦肯锡全球研究所的迈克尔·崔（Michael Chui）解释说：“企业将就哪些数据集要公开、哪些要保密, 做出非常战略性的决策。”
+
+`主` *Separating* what can be safely shared *from* what should be closely guarded `系` *will be* tricky(a.)(`= :difficult to do or deal with 难办的；难对付的 `), but technology *should*, in time(`= : after a period of time when a situation has changed 经过一段时间之后；迟早；最后；终于`), *make* such decisions *easier*.
+
+Something called “differential(`= : showing or depending on a difference; not equal 差别的；以差别而定的；有区别的`) privacy”, for instance, *replaces* one data set [*with* another that *includes* different information], but *has* the same statistical patterns.
+
+====
+- differential : a. *showing or depending on a difference; not equal* 差别的；以差别而定的；有区别的 +
+-> *the differential treatment* of prisoners based on sex and social class 按性别和社会阶层区别对待犯人 +
+-> *differential rates* of pay 工资级差
+====
+
+“Homomorphic(`=Homomorphic : 同态的；同形的`) encryption” 加密；加密术 *allows* algorithms *to crunch （快速大量地）处理信息；数字捣弄;嘎吱嘎吱地嚼 data* without *decrypting* 解密 them.
+
+`主` And blockchains, which *are* the special databases of the sort that *underlie* many digital currencies 货币, `谓` *enable* people and companies *to manage* [in minute(a.)(`= :extremely small 极小的；微小的；细微的;细致入微的；详细的`) detail] who *is allowed* to access what data /and *to track* who has done so.
+
+====
+- minute : a.  *extremely small* 极小的；微小的；细微的 +
+-> *minute amounts of chemicals* in the water 水中含量极小的化学成分 +
+-> The kitchen on the boat *is minute*. 小船上的厨房小极了。 +
+(2) *very detailed, careful and thorough* 细致入微的；详细的 +
+-> *a minute examination/inspection* 细致的检查╱视察 +
+-> She remembered everything [*in minute detail/in the minutest detail(s)*] . 她记得每一件事的细节。
+====
+
+要把可以安全共享的内容与应严格保密的内容剥离开来会很棘手。不过，假以时日，技术进步应该会让这类决策变得更容易。例如，一种叫“差分隐私”的技术可把一个数据集替换成另一个包含不同的信息，却具有相同统计模式的数据集。“同态加密”则让算法无需解密数据就能分析处理它们。还有区块链这种作为许多数字货币底层技术的特殊数据库，它使人们和企业可以细致入微地管理谁能访问哪些数据并追踪这些访问。
+
+[Slowly] these technologies *are being deployed* 有效地利用；调动; 部署，调度（军队或武器）.
+
+`主` DECODE 解（码）；破译（尤指密码）, an initiative(n.)倡议；新方案;（美国某些州的）公民立法提案程序 *financed* until last year by the European Union, `谓` *has used* a combination of them *to create* tools that *allow* people *to control* the data they *generate* /and *collect* about their environment, for instance, on noise levels and air quality.
+
+They *are being tested* in Amsterdam and Barcelona 巴塞罗纳（西班牙）.
+
+Oasis Labs, another startup in San Francisco, *has built* something similar *for* health data.
+
+Its first service, which *will launch soon*, *will let* users *donate* genetic information *to* research projects.
+
+这些技术正在慢慢铺开。直至去年一直受欧盟资助的项目DECODE集结了多种技术来创建工具，让人们可以掌控他们对噪音水平和空气质量这类周遭环境生成和收集的数据。这些工具正在阿姆斯特丹和巴塞罗那测试。旧金山另一家创业公司Oasis Labs为健康数据创建了类似的工具。它的首个服务即将推出，让用户可以把遗传信息捐赠给研究项目。
+
+Such data-dividing technologies *are also grist*(n.) *to the mill*(`=*(ALL) GRIST TO THE/SB'S MILL* : ( BrE ) ( NAmE also *(all) grist for the/sb's mill* ) something that is useful to sb for a particular purpose 对…有用的东西（或有利的事）`) of those who *liken*(v.)(`=*LIKEN STH/SB TO STH/SB* :  把…比作…`) data *to* infrastructure.
+
+You *have to travel* many digital roads -- and *combine* many data sets(n.) and streams -- *to get to* 开始（感觉到、认识到、成为）；达到…地步（或程度） new insights, *says* Jeni Tennison, who *heads* the Open Data Institute, a research outfit(n.)(`= : a group of people working together as an organization, business, team, etc. 团队；小组；分队`) *based* in Britain.
+
+====
+- get :
+[ V to inf ] *to reach the point at which you feel, know, are, etc. sth* 开始（感觉到、认识到、成为）；达到…地步（或程度） +
+-> After a time *you get to realize that* these things don't matter. 过段时间你会明白这些事情并不要紧。 +
+-> His drinking *is getting to be a problem*. 他的酗酒越来越成问题了。 +
+-> She'*s getting to be* an old lady now. 她现在都快是个老太婆了。
+====
+
+Some *will be* private toll(`= : money that you pay to use a particular road or bridge （道路、桥梁的）通行费`) roads 收费道路, others public multi-lane 多车道 highways, but many *need to be operated as* shared digital resources *managed* in a “club” by users.
+
+====
+- toll : money that you pay to use a particular road or bridge （道路、桥梁的）通行费 +
+-> *motorway tolls* 高速公路通行费 +
+-> *a toll road/bridge* 收费道路╱桥梁
+====
+
+这样的数据分割技术, 有利于那些把数据比作基础设施的人。总部位于英国的研究机构开放数据研究所（Open Data Institute）负责人热尼·腾尼森（Jeni Tennison）说，你必须走过很多条数字公路，结合许多数据集和数据流，才能获得新的见解。它们当中有些会是私人收费公路，另一些是多车道公共高速路，但它们大多需要按共享数字资源来运营，由一个用户“俱乐部”管理这些资源。
+
+
+[Yet] technology alone *will not be enough* to create(v.) these “club goods”.
+
+They *also need* institutions （大学、银行等规模大的）机构 that *provide* what Ms Tennison *calls* “data stewardship”(`=stewardship : the act of taking care of or managing sth, for example property, an organization, money or valuable objects 管理；看管；组织工作`).
+
+====
+- stewardship => steward,管家，监工，-ship,名词后缀。
+====
+
+Data trusts, data co-operatives, personal data stores 仓库；贮藏所;商店；店铺 -- *all are different* in detail, but the idea *is* essentially the same: they *provide* a governance 统治；管理；治理；统治方式；管理方法 structure  结构；构造 *to organise* access to data *in a way* that *takes into account* 考虑到；顾及 the interests of those *producing* and *using* a particular sort of data.
+
+但是，仅凭技术还不足以创造这些“俱乐部物品”。他们还需要机构来提供腾尼森所说的“数据看管”。数据信托、数据合作社、个人数据商店在细节上各不相同，但思路是基本一致的：它们提供了一种治理结构，在组织对数据的访问时把某类特定数据的生产者和使用者的利益考虑在内。
+
+It *is* early days, but such data clubs *have started to pop up* 突然出现 in many places.
+
+MIDATA *is* a Swiss co-operative that *collects and manages* members’ health-care data.
+
+In Taiwan Audrey Tang, the digital minister, *has created* an ongoing 持续存在的；仍在进行的；不断发展的 “Presidential Hackathon 黑客马拉松;编程马拉松” *to set up*(`= :  to create sth or start it 创建；建立；开办`) “data collaboratives”(a.)合作的；协作的；协力的, *including* several for environmental data.
+
+In Finland 芬兰, Sitra, a policy outfit 团队；小组；分队, *has launched* a similar competition *to help* get “fair data exchanges” off the ground(`=*get (sth) off the ground* : to start happening successfully; to make sth start happening successfully （使）顺利开始，开始发生`).
+
+目前尚在发展初期，但这类数据俱乐部已经开始在许多地方涌现。瑞士的MIDATA合作社收集并管理会员的医疗数据。台湾的“数字政务委员”唐凤创建了一个仍在进行中的“总统杯黑客马拉松”来建立“数据协作社”，包括几个针对环境数据的协作社。芬兰具政府政策功能的国家研发基金（Sitra）发起了类似的竞赛，以帮助发展“公平的数据交换”。
+
+New thing on the old continent
+
+旧大陆上的新事物
+
+Most projects *are* still small and *live* [on the public dime(`=dime : （美国、加拿大的）十分硬币，十分钱`)], which *raises doubts about* whether they *will ever be* a big part of the data economy.
+
+But whether they are successful or not *is* a question of political will, *says* Francesca Bria, the founder of the DECODE project.
+
+Cities [in particular], she *argues*, *need to create* alternatives *to* the big online platforms, which *treat* data they collect *as* their own.
+
+A former chief technology officer of Barcelona(`=Barcelona : 巴塞罗纳（西班牙）`), she *turned* the city *into* a model of what is possible, which *is now copied elsewhere* in Europe.
+
+*[Not only]* *can* Barcelona’s citizens *control* the data (the city *holds on them*), *[but]* its suppliers(n.) *must add* the information (they *gather* while *delivering* 递送；传送；交付；运载 services) *to* the municipal 市政的；地方政府的 data commons(`=common : an area of open land in a town or village that anyone may use 公共用地；公地`).
+
+大多数项目的规模仍然很小，而且由公家资助，这让人们怀疑它们是否真的会成为数据经济的重要组成。但DECODE项目的创始人弗朗西丝卡·布里亚（Francesca Bria）说，它们是否成功是一个政治意愿问题。她认为，城市尤其需要创建替代方案来取代那些把收集到的数据据为己有的大型在线平台。这位巴塞罗那前首席技术官把这座城市变成了一个展示可能性的典范，如今已被复制到欧洲其他地方。巴塞罗那市民不仅可以控制该市拥有的有关他们的数据，并且提供数据的各方还必须添加它们在向这片“城市数据公地”提供服务时收集到的数据。
+
+*Given* their respective 分别的；各自的 limitations, none of the three sorts of data economies *will dominate*, but they *are likely* to have strongholds  有广泛支持的地方；势力强大的地方;堡垒；要塞；据点.
+
+[In America] data *are treated* like oil: whoever *extracts* them *owns* them.
+
+`主` China -- although it, too, *has* data-hungry online platforms of its own, *including* Alibaba and Tencent -- `系` *is* an extreme example of a place where data *are* public goods.
+
+They *are ultimately 最终；最后；终归;最基本地；根本上 controlled* by the government, which *is pushing* firms *to pool* 集中资源（或材料等） certain types, *such as* health data.
+
+In Europe, many regulators *have come to* see data as infrastructure. The new European Commission in Brussels *has* big plans *to support* the creation of data trusts.
+
+
+鉴于它们各自的局限性，三类数据经济无一将占据主导，但它们会有各自的据点。 +
+在美国，人们把数据等同于石油来处理：谁提炼它们，谁就拥有它们。 +
+中国是数据成为公共物品的极端例子，尽管它拥有阿里巴巴和腾讯这样数据量极大的在线平台。这里的数据最终受政府控制，政府正在推动企业合并某些类型的数据，比如医疗健康数据。 +
+在欧洲，许多监管机构开始把数据视为基础设施。布鲁塞尔的新一届欧盟委员会制定了支持创建数据信托的大型计划。
+
+This *sounds* as if the EU *is about* to condemn(v.)（通常因道义上的原因而）谴责，指责 itself *to remaining* a tech laggard(`=laggard : 迟钝懒散者；迟缓者；涣散的机构`).
+
+But this *need not be* the case.
+
+`主` A “fair data-economy” -- one that *takes into account* the interests of citizens and consumers, who *will generate* much of the fuel of the future -- `谓` *may prove to be* quite competitive(a.)有竞争力的, *says* Luukas Ilves, the co-author of a report for Sitra 芬兰一地名 in Finland.
+
+If people, *as well as* firms, *can trust* the continent’s data infrastructure, they *will be willing* to share(v.) more and better data, which *means* better services for everyone.
+
+If such a “virtuous(a.)(`=virtuous : 品行端正的；品德高的；有道德的`) cycle” 良性循环 *were* to take off  起飞;突然大受欢迎；迅速流行, it *would be* quite a reversal(n.)颠倒；彻底转变；反转；倒置 of the old world’s fortunes （尤指影响人生的）机会，运气;命运，前途.
+
+听起来，欧盟似乎是要自我加害，继续做一个技术落伍者。但这并不是必然的。为芬兰的国家研发基金撰写报告的联合作者卢卡斯·伊尔维斯（Luukas Ilves）说，一种“公平的数据经济”把公民和消费者这些将为未来生成大量“燃料”的人的利益考虑在内，可能具有相当大的竞争力。如果民众和企业能够信任欧洲的数据基础设施，他们会愿意共享更多、更好的数据，这继而又会给每个人换来更好的服务。如果这样一个“良性循环”真的腾飞了，那将是旧世界命运的一次大逆转。
+
+
+---
+
+== 32. Are data more like oil or sunlight? 纯净版
+
+The question *highlights* the many different faces of data
+
+Feb 20th 2020 |
+
+
+PASSIONATE GRAMMARIANS *have long quarrelled over* whether data *should be* singular or plural (*contrary to* common usage, this newspaper *is sticking with* the latter, for now). A better question *is* why are data so singularly plural? That is, why *do* they *have* so many different faces?
+
+For an answer, *start with* the many metaphors *used to describe* flows of data. Originally they *were likened to* oil, *suggesting that* data *are* the fuel of the future. More recently, the comparison *has been* with sunlight because soon, like solar rays, they *will be* everywhere and *underlie* everything. There *is* also *talk of* data *as* infrastructure: they *should be seen as* a kind of digital twin(n.) of roads or railways, *requiring* public investment and new institutions *to manage* them.
+
+The multiplication of metaphors *reflects* the malleable economics of data. First, they *are* “non-rivalrous”: since they *are* infinitely copyable, they *can be used* by many people without *limiting* the use by others. But they *are* also “excludable”: technologies like encryption *can control* who *has access to* them. *Depending on* where one *sets* the cryptographic slider, data *can indeed be* private goods (like oil) or public goods (like sunlight) -- or something in between, *known as* a “club good”.
+
+This in turn *means that* there *is not* just one data economy, but three more or less distinct ones, each with its own ideology. And the big question *is* whether one *will come to dominate*, or whether the mirror world *will be* *[as much]* of a mixture *[as]* the real one.
+
+If oil *is* still the most-used metaphor, it *is* because `主` *comparing* data *to* the black stuff `系` *is* easy. Like oil, data *must be refined* to be useful. In most cases they *need to be “cleansed” and “tagged”*, *meaning* stripped(v.) of inaccuracies(n.) and *marked* to identify(v.) what *can be seen*, say, on a video. This *has spawned* a global industry *employing* hundreds of thousands of people, mostly in low-wage countries. Scale AI, a startup in San Francisco, *employs* 30,000 taggers around the world who *review* footage from self-driving cars and *ensure* the firm’s software *has correctly classified things* like houses and pedestrians.
+
+Before data *can power* AI services, they also *need to be fed* through algorithms, *to teach* them *to recognise* faces, *steer* self-driving cars and *predict* when jet engines *need* a check-up. And different data sets *often need to be combined* for statistical patterns *to emerge*. In the case of jet engines, for instance, `主` *mixing* usage *and* weather data `谓` *helps* forecast(v.) wear and tear.
+
+The oil metaphor *also rings true* because `主` some types of data and some of the insights *extracted from* them `谓` *are already widely traded*. Online advertising *is* perhaps the biggest marketplace for personal data: clicks *are bought and sold* based on a detailed digital profile of each viewer. It *was* worth $178bn globally in 2018, *according to* Strategy&, a consultancy. Data brokers, which *can track* thousands of data points(n.) *for* each individual, *do* brisk business with personal information, too. They *sell* it *to* everyone *from* banks *to* telecoms carriers, *generating* annual revenue of more than $21bn, *says* Strategy&.
+
+`主` *Offering* insights *from* mining data `系` *can be* very profitable, too. On Kaggle, a website *owned by* Google that *hosts* machine-learning contests, `主` thousands of teams of data scientists `谓` *compete against each other* to see(v.) who *can come up with* the best algorithms *to predict* a building’s energy consumption /or *to detect* “deepfake” videos, with prizes sometimes *exceeding* $1m. That *is* also Facebook’s and Google’s way *to make money*. They *hardly ever sell data*, but they *do sell insights(n.) about* who *is* the best target for advertising.
+
+Yet data *have failed to become* “a new asset class”, *as* the World Economic Forum, a conference-organiser and think-tank, *predicted* in 2011. Most data *never change hands*, and *attempts* to make them more tradable *have not taken off*. *To change* this, especially in Europe, manufacturers *are pushing* to secure(v.) property rights for the data *generated by* their products. Others *want* consumers *to own* the data they create, so they *can sell them* and *get a bigger cut* from their information.
+
+Again, economics *gets in the way*. Although data *are often thought of as* a commodity, corporate data sets, in particular, *tend not to be* fungible. Each *is* different [*in the way* it was collected, and in its purpose and reliability]. This *makes it difficult* for buyers and sellers *to agree on* a price: the value of each sort *is hard to compare* and *changes [over time]*. `主` A further barrier to trading `系` *is that* the value of a data set *depends on* who *controls* it. `主` What *might simply be* data exhaust(n.) [to one firm] `系` *could be* digital gold [to another]. “There *is* no true value of data,” *says* Diane Coyle of the University of Cambridge.
+
+*As for* personal data, *defining* property rights *is* tricky, because much information *cannot be attributed to* one person. Who, for instance, *owns the fact that* a dating site *has matched* a couple? The couple themselves? Or the service? *Complicating*(v.) matters, data *have* plenty of externalities, *both* positive *and* negative, *meaning that* {markets *often fail*}. Why *should* a social network, say, *buy* the data of an individual if it *can make quite accurate predictions* about him *by crunching data* from other users?
+
+Although data *are unlikely ever to be traded [as widely as oil]*, tech firms *keep trying to make this easier*. Amazon Web Services (AWS), the cloud-computing arm of the e-commerce giant *recently launched* a marketplace that *aims to make trading in data [as easy as possible]*. It *works* a bit like an online store for smartphone apps: buyers *subscribe to* feeds, *agree to* licensing conditions, and AWS *processes* the payment.
+
+Light stuff *not* black stuff
+
+Champions of the “open-data” movement *push* organisations *to give away* their data
+
+*As* the oil metaphor *is seen as* increasingly problematic, `主` the comparison to sunlight or similar resources, such as air and water, `谓` *has risen* in favour. `主` Many people who *prefer* this metaphor `谓` *ask* if data *do not really lend* themselves *to be turned into* a tradable good, then *why even try*? Would *it* not instead be better *to ensure that* data *are used* [as much as possible]? After all, this *will maximise* social wealth. In other words, nobody *puts up curtains*(n.) and *tries to charge for* sunlight.
+
+This line of argument *has already given birth to* what *is known as* the “open-data” movement. Its champions *push* organisations and universities *to give away* their data so they *can be widely used*, for instance by startups. Today, most governments, national or otherwise, *boast* an open-data project, although `主` the quality of the data made available `谓` *varies greatly*.
+
+More recently, companies *have started* to publish(v.) their data, too. `主` Several firms that *work on* self-driving cars `谓` *have shared* some of the information *collected by* their vehicles. “For researchers *to ask* the right questions, they *need* the right data,” *according to* Dragomir Anguelov, principal scientist at Waymo, a firm *owned by* Alphabet, Google’s parent, that *is* one of the companies that *has done* this. Others *are working on* technology *to make* such data-sharing *easier*: Microsoft and other software makers *will soon start to implement* what it *calls* the “open-data initiative”.
+
+Some *see* such efforts *as* the beginning of an open-source movement for data, *much like* the approach that *now rules* large parts of the software industry. And Microsoft, in particular, *is keen* to see this happen. “We *need to democratise* AI and the data (*on which* it *relies*),” *writes* Brad Smith, the firm’s president and chief legal officer in his recently published book, “Tools and Weapons”. Unsurprisingly, this position *also smacks(v.) of* self-interest: Microsoft *does not make much money* from data directly, but *does from* tools and services that *handle* data.
+
+Like the oil comparison, however, the data-as-sunlight analogy *breaks down*: open data, too, *can go only so far*. For personal data, the main limitation *is* increasingly strict privacy laws, *such as* the EU’s General Data Protection Regulation (GDPR), *as well as* the California Consumer Privacy Act (CCPA), which *will start* being enforced(v.) in July. [For corporate data] the checks *are* economic in nature: generating(v.) good data *is* expensive /and they *can reveal* too much about a firm’s products. “Companies *will make very strategic decisions about* what data sets *they will make public* and which ones *they will keep to themselves*,” *explains* Michael Chui of the McKinsey Global Institute, a consultancy think-tank.
+
+`主` *Separating* what can be safely shared *from* what should be closely guarded `系` *will be* tricky, but technology *should*, in time, *make* such decisions *easier*. `主` Something *called* “differential privacy”, for instance, `谓` *replaces* one data set *with another* that *includes* different information, but *has* the same statistical patterns. “Homomorphic(a.) encryption” *allows* algorithms *to crunch data* without *decrypting* them. And `主` blockchains, which *are* the special databases of the sort that *underlie* many digital currencies, `谓` *enable* people and companies *to manage* [in minute detail] who *is allowed* to access(v.) what data /and *to track* who has done so.
+
+*Slowly* these technologies *are being deployed*. `主` DECODE, an initiative *financed* until last year *by* the European Union, `谓` *has used* a combination of them *to create tools* that *allow* people *to control the data* they generate /and *collect about* their environment, for instance, on noise levels and air quality. They *are being tested* in Amsterdam and Barcelona. Oasis Labs, another startup in San Francisco, *has built* something similar *for* health data. `主` Its first service, which *will launch soon*, `谓` *will let* users *donate* genetic information *to* research projects.
+
+Such data-dividing technologies `系` *are also grist(n.) to the mill* of those who *liken* data *to* infrastructure. You *have to travel* many digital roads -- and *combine* many data sets and streams - *to get to* new insights, *says* Jeni Tennison, who *heads* the Open Data Institute, a research outfit *based* in Britain. Some *will be* private toll roads, others public multi-lane highways, but many *need to be operated as* shared digital resources *managed* in a “club” by users.
+
+Yet technology alone *will not be enough* to create(v.) these “club goods”. They *also need* institutions that *provide* what Ms Tennison *calls* “data stewardship”. Data trusts, data co-operatives, personal data stores—all *are* different in detail, but the idea *is* essentially the same: they *provide* a governance structure *to organise* access to data [*in a way* that *takes into account* the interests of those *producing* and *using* a particular sort of data].
+
+It *is* early days, but such data clubs *have started* to pop up in many places. MIDATA *is* a Swiss co-operative that *collects and manages* members’ health-care data. In Taiwan Audrey Tang, the digital minister, *has created* an ongoing “Presidential Hackathon” *to set up* “data collaboratives”, *including* several for environmental data. In Finland, Sitra, a policy outfit, *has launched* a similar competition *to help* get(v.) “fair data exchanges” [off the ground].
+
+New thing on the old continent
+
+Most projects *are* still small /and *live [on* the public dime], which *raises doubts about* whether they *will ever be* a big part of the data economy. But `主` whether they are successful or not `系` *is* a question of political will, *says* Francesca Bria, the founder of the DECODE project. `主` Cities [in particular], she *argues*, `谓` *need to create* alternatives *to* the big online platforms, which *treat* data (they collect) *as* their own. A former chief technology officer of Barcelona, she *turned* the city *into* a model of what is possible, which *is now copied elsewhere* in Europe. [Not only] *can* Barcelona’s citizens *control* the data the city holds on them, [but] its suppliers *must add* the information (they *gather* while *delivering* services *to* the municipal data commons).
+
+*Given* their respective limitations, none of the three sorts of data economies *will dominate*, but they *are likely* to have strongholds. [In America] data *are treated* like oil: whoever extracts them *owns* them. `主` China -- although it, too, *has* data-hungry online platforms of its own, *including* Alibaba and Tencent -- `系` *is* an extreme example of a place where data *are* public goods. They *are ultimately controlled* by the government, which *is pushing* firms *to pool* certain types, *such as* health data. In Europe, many regulators *have come to see* data *as* infrastructure. The new European Commission in Brussels *has* big plans *to support* the creation of data trusts.
+
+This *sounds as if* the EU *is about to* condemn(v.) itself *to remaining* a tech laggard. But this *need not be the case*. `主` A “fair data-economy” -- one that *takes into account* the interests of citizens and consumers, who *will generate* much of the fuel of the future -- `谓` *may prove to be* quite competitive, *says* Luukas Ilves, the co-author of a report for Sitra in Finland. If people, *as well as* firms, *can trust* the continent’s data infrastructure, they *will be willing* to share(v.) more and better data, which *means* better services for everyone. If such a “virtuous cycle” *were to take off*, it *would be* quite a reversal(n.) of the old world’s fortunes.
+
+---
+
+== 33. Should data be crunched at the centre or at the edge?
+
+“Edge computing” *is* on the rise
+
+数据应该在中心还是在边缘处理? +
+“边缘计算”正在兴起
+
+Feb 20th 2020 | +
+eco 2020-2-22 / Special report / Infrastructure: Spreading out
+
+
+ONCE A YEAR the computing cloud *touches down* 着陆；降落 in Las Vegas.
+
+In early December tens of thousands of mostly male geeks *descend on* America’s gambling capital *in hope not of* winnings(n.)（比赛、赌博中）赢得的钱 *but of* wisdom about Amazon Web Services (AWS), the world’s biggest cloud-computing provider.
+
+Last year they *had* the choice of more than 2,500 different sessions （法庭的）开庭，开庭期；（议会等的）会议，会期 over a week at the shindig(n.)(`=shindig : a big noisy party 盛大而喧闹的聚会；盛大舞会`), which *was called* “Re:Invent”.
+
+====
+- re:Invent 大会 : 是亚马逊AWS(Amazon Web Services)年度盛会. 作为全球云计算的领导厂商，每年的re:Invent大会异常隆重，汇集最新技术和产品，堪称一场科技盛宴。 +
+AWS re:Invent 是云计算巨头公司AWS举办的一届盛会。作为 *科技界的四大春晚之一的 re:Invent，如同微软的 Builder大会，谷歌的 I/O大会, 和苹果的 WWDC*，都是在一年的固定时间举行，吸引全世界的开发者和消费者的目光。集结了大量程序员，研究学者，IT 技术公司，创业团队，技术服务提供商相聚于此，共襄盛举。
+
+- AWS(Amazon Web Services) : 是Amazon提供的云平台.
+====
+
+The high point *was* the keynote(`= : the central idea of a book, a speech, etc. （书、演说等的）要旨，主题，基调`) *featuring* 以…为特色；由…主演；以…为主要组成 AWS’s latest offerings(n.)(`= : something that is produced for other people to use, watch, enjoy etc. 用品；剧作；作品；供消遣的产品`) by Andy Jassy, the firm’s indefatigable(`=indefatigable : never giving up or getting tired of doing sth 不屈不挠的；不知疲倦的`) boss, who *paced 踱步；缓慢而行 the stage* for nearly three hours.
+
+====
+- shindig => 俚语，可能来自 shin,胫骨，腿，dig,挖，俚语义摇摆。引申词义盛大舞会。
+- indefatigable => in-,不，非，de-,表强调，fatigue,疲倦。
+====
+
+每一年, computing cloud 都会在拉斯维加斯开幕.  12月初，数万名男性为多的极客, 来到美国赌城拉斯维加斯，他们不是来赌博赢钱的, 而是来获取 Amazon 网络服务提供的智慧的. Amazon 是世界上最大的云计算服务商. 去年,这些极客们在这场为期一周, 名为“Re:Invent”(重新:发明)的盛会上，能参加超过2500个不同的分会. 其中最精彩的部分, 是由 AWS 的 CEO, Andy Jassy 主讲的AWS最新产品. 他不知疲倦的在台上来回踱步了近三个小时。
+
+But those who *dare to walk* the long city blocks of Las Vegas *to* the conference venues(`=venue : 聚会地点（如音乐厅、体育比赛场馆、会场）`) *can connect to* the cloud, and thus the mirror worlds, [in another way].
+
+====
+- venue => 来自拉丁语 venire,来，来自 PIE*gwa,来，往，词源同 come,acrobat,advent.
+====
+
+*Push* a button *to request* a green light at one of thousands of intersections 十字路口；交叉路口；交点 /and this *will trigger* software from SWIM.AI, a startup, *to perform* a series of calculations that *may influence* the traffic flow in the entire city.
+
+These intersections *do not exist* [just in the physical realm], but *live* [*in the form of* digital twins] *in* a data centre.
+
+Each *takes in* 吸入，吞入（体内） information *from* its environment -- *not just* button-pushing pedestrians(`=pedestrian : 行人；步行者`), *but* every car crossing a loop 环形；环状物；圆圈 in the road /and every light change -- and *continually predicts* what its traffic lights will do [*two minutes ahead of time*].
+
+Ride-hailing 叫车服务, 打车服务 firms *such as* Uber, among others, *can then feed* 供给；供应; 把…放进机器；将…塞进机器 these predictions *into* their systems *to optimise* driving routes.
+
+但是，这些敢于跨越拉斯维加斯长长的城市街区, 去往会场的人, 可以用另一种方式来连接到云，从而连接到镜像世界。他们只需按下一个按钮，就能在数千个十字路口中, 请求一个路口为绿灯状态，这将触发初创公司SWIM.AI的软件, 来执行一系列计算，这些计算可能会影响整个城市的交通流量。这些交叉点不仅仅存在于物理领域，而是以数字化双胞胎的形式, 存在于数据中心。每辆车都从它自己的的环境中获取信息 -- 不仅仅是按下按钮的行人，还有每辆穿过环路的汽车, 和每一个红绿灯的变化 -- 并不断地提前两分钟来预测它的红绿灯会处在什么状态. 然后，优步(Uber)等叫车公司, 可以将这些预测输入他们的系统中，以优化驾驶路线。
+
+AWS *represents* a centralised model where all the data *are collected and crunched* in a few places, namely big data centres.
+
+SWIM.AI, on the other hand, *is* an example of what *is being called* “edge computing”: the data *are processed* in real time 实时的；及时的；立即 *[as close as possible] to* where they are collected.
+
+*It is* between these two poles *that* the infrastructure of the data economy *will stretch*.
+
+It `系` *will be*, *to quote* a metaphor *first used by* Brian Arthur of the Santa Fe 美国地名 Institute, `表` *very much like* the root system of an aspen(`=aspen : （美洲）颤杨，大齿杨；（欧洲）山杨`) tree.
+
+====
+- aspen => 白杨又被称作“颤抖的树”，因为它的叶子总是在风中微微颤抖。 实用知识：Aspen（阿斯彭）：美国科罗拉多州地名，度假胜地，以冬季滑雪和夏季户外音乐会著称。该地有丰富的白杨林，故得名Aspen（白杨）。
+====
+
+For every tree above the ground, there *are* miles and miles of interconnected 连通的；有联系的 roots underground, which also *connect to* the roots of other trees.
+
+Similarly, for every warehouse 仓库；货栈；货仓-sized data centre, there *will be* an endless network of cables and connections, *collecting* data *from* every nook(`=nook : a small quiet place or corner that is sheltered or hidden from other people 僻静处；幽静的角落
+`)) and cranny(n.)(`=cranny : （尤指墙上的）小孔，缝隙，裂缝`)(`=*EVERY NOOK AND CRANNY* : every part of a place; every aspect of a situation 到处；各个方面`) of the world.
+
+====
+- cranny => 来自PIE sker, 砍，劈，词源同shear, caries.
+====
+
+AWS代表了一种集中化的模式，所有数据都在少数几个地方(即大数据中心)被收集和处理。另一方面，人工智能是所谓的“边缘计算”的一个例子:数据被实时地处理，尽可能地接近它们被收集的地方。正是在这两个极端之间，数据经济的基础设施, 将得到延伸。 +
+用圣菲研究所的布赖恩·阿瑟(Brian Arthur)首次使用的一个比喻来说，它非常像白杨树的根系。对于地面上的每棵树，地下都有几英里长的树根, 相互连接，并且这些树根也连接着其他树的树根。同样，对于每个有着仓库大小般的数据中心来说，它们都有着无限长的电缆和网络连接，从世界的每个角落收集数据。
+
+*To grasp*  理解；领会；领悟；明白; 抓紧；抓牢 how all this *may work*, *consider* the origin and journey of a typical bit /and how both *will change* in the years to come.
+
+[Today] the bit *is often still created* by a human clicking on a website or tapping on a smartphone.
+
+Tomorrow it *will more often than not*(`=*more often than not*
+ : 往往; 多半; 通常`) *be generated* by machines, *collectively 集体地，共同地 called* the “Internet of Things” (IOT): cranes(`=crane : 起重机`), cars, washing machines, eyeglasses 眼镜 and so on.
+
+And these devices *will [not only] serve as* sensors, *[but] act on* the world (*in which* they *are embedded*).
+
+要理解这一切是如何运作的，请考虑一个典型bit的起源和旅程，以及在未来几年, 这两者将如何变化。如今，比特数据, 仍然是人们通过点击网站或智能手机而创造出来的。但未来, 它将更多地由机器产生，这些机器统称为“物联网”(IOT): 包括起重机、汽车、洗衣机、眼镜等等。这些设备不仅可以作为传感器，还可以对其所在的世界产生影响。
+
+Ericsson(`=Ericsson : 瑞典爱立信`) , a maker of network gear （某种活动的）设备，用具，衣服, *predicts that* the number of IOT devices *will reach* 25bn by 2025, up *from* 11bn in 2019.
+
+Such an estimate *may sound* self-serving 只为个人打算的；一心谋私利的, but this explosion *is* the likely outcome of a big shift in how data is collected.
+
+Currently, many devices *are tethered*(v.)(`=tether :  拴（牲畜）;（拴牲畜的）拴绳，拴链`) by cable. Increasingly, they *will be connected wirelessly* 无线的.
+
+5G, the next generation of mobile technology, *is designed to support* 1m connections per square kilometre, *meaning that* in Manhattan alone there *could be* 60m connections.
+
+Ericsson *estimates that* mobile networks *will carry* 160 exabytes(`=exabyte : 艾字节;M-G-T-P-(E)-Z`) of data globally each month by 2025, four times the current amount.
+
+网络设备制造商爱立信(Ericsson)预计，到2025年，物联网设备的数量, 将从2019年的110亿部, 增至250亿部。这样的估计可能听起来是自私的，但这次爆炸, 很可能是数据收集方式发生重大转变的结果。目前，许多设备都是用电缆连接的。它们将逐渐实现无线连接。下一代移动技术5G的设计, 支持每平方公里100万个连接，这意味着仅在曼哈顿, 就可能有6000万个连接。爱立信估计，到2025年，全球的移动网络, 每月将传输160艾字节的数据，是目前的4倍。
+
+
+
+The destination 目的地；终点 of your average 普通的；平常的；一般的 bit *is changing*, too.
+
+Historically, most digital information *stayed home*, on the device where it was created.
+
+Now, more and more data *flow into* the big computing factories *operated by* AWS, but also its main competitors  竞争者，对手, Microsoft Azure(`=azure : a.天蓝色的；蔚蓝色的`), Alibaba Cloud and Google Cloud.
+
+
+These *are*, in most cases, `表` the only places *[so]* far (`=so...that... : 如此...以至于`) with enough computing power *to train* algorithms *[that]* *can*, for instance, *quickly detect* credit-card fraud 欺诈罪；欺骗罪;骗子；行骗的人 or *predict* when a machine *needs* a check-up, *says* Bill Vass, who *runs* AWS’s storage business -- the world’s biggest.
+
+He *declines*(v.)谢绝；婉言拒绝 *to say* how big, *only that* it is 14 times bigger than that of AWS’s closest competitor, which *would be* Azure (*see* chart).
+
+你所创造的普通bit字节的最终去处, 也在改变. 以往，大多数的数字信息, 都只呆在"家里"，存储在创造出它的设备上。现在，越来越多的数据, 会流进由AWS运营的大型计算工厂，同时也流入了它主要的竞争对手中: 微软Azure、阿里巴巴云、谷歌云。在大多数情况下，这些是目前为止仅有的, 拥有足够计算能力来训练算法的地方，例如，能够快速检测信用卡欺诈, 或预测机器何时需要检查，AWS的存储业务(世界上最大的存储业务)负责人Bill Vass说。他拒绝透露规模有多大，只是说它比AWS最接近的竞争对手Azure, 大14倍(见图表)。
+
+`主` What Mr Vass *also prefers* not to say, `系` *is that* AWS and other big cloud-computing providers *are striving mightily* 全力以赴地；极其努力地;很；非常 *to deepen*(v.) this centralisation.
+
+AWS *provides* customers *with* free or cheap software that *makes it easy* to connect(v.) and manage(v.) IOT devices.
+
+It *offers* no fewer than 14 ways *to get* data *into* its cloud, *including* several services *to do this* [via the internet], but also offline methods, *such as* lorries 卡车；货运汽车 *packed with* digital storage which *can hold up to* 100 petabytes *to ferry* 渡运；摆渡 around data (one of which Mr Jassy *welcomed* [on stage] during his keynote(n.)（书、演说等的）要旨，主题，基调 speech in 2016).
+
+Vass先生也不愿说的是，AWS和其他大型云计算提供商, 正在竭尽全力深化这种集中化。AWS为客户提供免费或廉价的软件，让他们可以轻松地连接和管理物联网设备。它提供了至少14种将数据放入云中的方法，包括几种通过互联网实现这一目的的服务，但也有离线方法，比如装满数字存储(器)的卡车，可以容纳高达100PB的数据(雅西在2016年发表主旨演讲时, 曾在舞台上欢迎其中一种)。
+
+The reason for this approach *is no* secret. Data *attract* more data, because different sets(n.) *are most profitably 有利地；有益地 mined(v.)（在某地）开矿，采矿 together* -- a phenomenon *known as* “data gravity”.
+
+And once a firm’s important data *are* in the cloud, it *will move* more of its business applications *to* the computing skies, *generating* ever more revenue *for* cloud-computing providers.
+
+Cloud providers *also offer* an increasingly rich palette(`=palette : 调色板;（画家使用的）主要色彩，主色调`) of services which *allow* customers *to mine* their data *for* insights.
+
+采取这种方法的原因, 已经不是什么秘密了。数据会吸引更多的数据，因为将不同的数据集合一起来挖掘, 是最有利可图的 -- 这种现象被称为“数据引力”。一旦一家公司将重要的数据放入云端，它就会将更多的商业应用, 转入计算云，从而为云计算提供商, 带来更多的收入。云提供商还提供越来越丰富的服务项目，允许客户挖掘其数据, 以从中获得洞见。
+
+Yet such centralisation *comes with costs*. One *is* the steep 陡的；陡峭的 fees(n.)费用 firms *have to pay* when they *want to move data to* other clouds.
+
+More important, `主` *concentrating*(v.) data in big centres `谓` *could also become* more costly(a.)(`= : causing problems or the loss of sth 引起困难的；造成损失的`) for the environment.
+
+`主` *Sending* data *to* a central location `谓` *consumes* energy. And once there, the temptation 引诱；诱惑 *is* great *to keep* crunching(v.) them.
+
+*According to* OpenAI, a startup-cum(`= : and; as well as 和；与；及`)-think-tank, `主` the computing power *used* in cutting-edge 前沿;尖端的 AI projects `谓` *started* to explode(v.) in 2012.
+
+====
+- cum : ( used for linking two nouns 用于连接两个名词 ) *and; as well as* 和；与；及 +
+-> a bedroom-*cum*-study 卧室兼书房
+====
+
+[Before that] it *closely 紧密地；接近地 tracked* Moore’s law, which *holds 怀有，持有（信念、意见） that* the processing power of chips *doubles* [roughly every two years]; since then, demand *has doubled* [every 3.4 months].
+
+====
+- OpenAI 分析了自2012年以来, AI算法消耗算力的情况。发现, 最先进AI模型的计算量, 每3.4个月翻一番，也就是每年增长10倍，比摩尔定律2年增长一倍快得多。从2012年至今，按照摩尔定律，芯片算力只增长了7倍，而在这7年间, AI对算力的需求增长了30万倍。硬件厂商是否感觉压力山大？ +
+在之前的几十年中，AI计算量的增长速度基本和摩尔定律是同步的，2012年成为AI两个时期的分水岭。
+====
+
+
+然而，将数据集中化, 是有代价的。原因之一是, 当公司想要将数据转移到其他云上时，他们不得不支付高昂的费用。更重要的是，将数据集中在大型数据中心, 也会增加环境成本。将数据发送到数据中心, 会消耗能源。一旦数据放进了那里，人们就更想在那儿处理数据。据OpenAI(一家初创企业兼智库)称，用于尖端人工智能项目的计算能力, 在2012年开始激增。在此之前，它还紧跟摩尔定律，摩尔定律认为, 芯片的处理能力大约每两年翻一番; 但自2012年以来，AI对计算能力的需求, 每3.4个月就翻一番。
+
+Happily, a counter 逆向地；相反地；反对地-movement *has already started* --  toward the computing “edge”, where data *are generated*.
+
+*It is [not just]* servers(n.) in big data centres *that* are getting more powerful, *[but also]* smaller local centres and connected devices themselves, thus *allowing* data *to be analysed* closer to the source.
+
+What *is* more, `主` software `谓` now *exists* 状 *to move* computing power *[around]* 转弯；掉转；掉头 *to* where it works best, which *can be* on or near IOT devices.
+
+令人高兴的是，一场反运动已经开始 ——向计算“边缘”发展，数据会在那里被生成。不仅是大数据中心的服务器, 变得更强大，更小的本地中心和连接的设备, 本身也变得更强大，从而使数据分析, 能更接近源头。更重要的是，现在有软件, 可以将计算能力转移到它工作得最好的地方，可以在物联网设备上或附近。
+
+`主` Applications *such as* self-driving cars `谓` *need* very fast-reacting connections /and *cannot afford* the risk of being disconnected, 因此 so computing *needs* to happen(v.) in nearby data centres /or even in the car itself.
+
+And [in some cases] the data flows *are* simply *too* large *to be sent to* the cloud, 正如 as with the traffic lights in Las Vegas, which together *generate* 60 terabytes a day (a tenth of the amount (Facebook *collects* in a day)).
+
+自动驾驶汽车等应用程序, 需要反应非常快速的连接，因为它无法承受断开连接的风险，因此, 需要在附近的数据中心来进行运算，甚至需要在汽车本身中来进行运算。 +
+在某些情况下，也源于数据流实在太大，无法发送到云端，就像拉斯维加斯的交通灯一样，每天总共会产生出60兆兆字节的信息(达到Facebook一天收集的数据量的十分之一)。
+
+One day soon, debates *may rage*(`= :  *~ (on)* : ( of a storm, a battle, an argument, etc. 暴风雨、战斗、争论等 ) to continue in a violent way 猛烈地继续；激烈进行`) over whether data generation *should be taxed*
+
+不久的将来，对"是否应该对生成数据, 进行征税"的争论, 可能会非常激烈
+
+
+How far *will* the pendulum(n.)钟摆 *swing back*? The answer *depends on* whom you ask.
+
+====
+- pendulum =>  -pend-悬挂 + ulum
+====
+
+The edge *is* important, *concedes* 承认（某事属实、合乎逻辑等） Matt Wood, who *is* in charge of AI at AWS, but “[at some point] you *need to aggregate your data together* so that you *can train* your models”.
+
+Sam George, who *leads* Azure’s IOT business, *expects* 预料；预期；预计 computing *to be equally spread* between the cloud and its edge.
+
+And `主` Simon Crosby, the chief technologist at SWIM.AI, while *admitting that* his firm’s approach “*does not apply everywhere*”, `谓` *argues that* *[too]*(`=too...to : 太...而不能`) much data *are generated* at the edge *[to] send to* the cloud, and there *will never be* enough data scientists *to help* train(v.) all the models centrally.
+
+钟摆会向后摆动多远？答案取决于你问的是谁。AWS负责人工智能的马特·伍德(Matt Wood)承认，边缘很重要，但“在某些时候，你需要将你的数据聚合在一起，这样你就可以训练你的模型”。领导Azure物联网业务的山姆·乔治(Sam George)预计，计算将在云和边缘之间平均分布。SWIM.AI的首席技术专家西蒙·克罗斯比(Simon Crosby)承认，他的公司的方法“并不适用于所有地方”，但他认为，太多的数据是在边缘产生的，无法发送到云中，而且永远不会有足够的数据科学家, 来帮助集中培训所有的模型。
+
+Even so, this counter-movement *may not go far enough*. *Given* the incentives 激励；刺激；鼓励, big cloud providers *will still be tempted* to collect(v.) too much data and *crunch* them.
+
+One day soon, debates *may rage*(v.) over whether data generation *should be taxed*, if the world *does not want to drown* in the digital sea.
+
+即便如此，这场反向运动可能还不够深入。考虑到这些激励措施，大型云提供商, 仍然会受到诱惑，而收集太多数据, 并对其进行处理。不久的将来，如果世界不想淹死在数字海洋中，对数据生成是否应该征税的辩论, 可能会激烈起来。
+
+
+
+---
+
+== 33. Should data be crunched at the centre or at the edge? 纯净版
+
+“Edge computing” *is* on the rise
+
+Feb 20th 2020 |
+
+
+ONCE A YEAR the computing cloud *touches down* in Las Vegas. In early December tens of thousands of mostly male geeks *descend on* America’s gambling capital *in hope not of* winnings(n.) *but of* wisdom about Amazon Web Services (AWS), the world’s biggest cloud-computing provider. Last year *they had the choice* of more than 2,500 different sessions over a week at the shindig(n.), which *was called* “Re:Invent”. The high point *was* the keynote *featuring* AWS’s latest offerings(n.) by Andy Jassy, the firm’s indefatigable boss, who *paced the stage* for nearly three hours.
+
+But `主` those *who dare to walk* the long city blocks of Las Vegas *to* the conference venues `谓` *can connect to* the cloud, and thus the mirror worlds, [in another way]. *Push* a button *to request* a green light at one of thousands of intersections /and this *will trigger* software from SWIM.AI, a startup, *to perform* a series of calculations that *may influence* the traffic flow in the entire city. These intersections *do not exist* just in the physical realm, but *live [in the form of digital twins]* in a data centre. Each *takes in* information *from* its environment -- *[not just]* button-pushing pedestrians(n.), *[but]* every car *crossing* a loop in the road /and every light change -- and *continually predicts* what its traffic lights *will do* two minutes ahead of time. Ride-hailing firms *such as* Uber, among others, *can then feed* these predictions *into* their systems *to optimise* driving routes.
+
+AWS *represents* a centralised model where all the data *are collected and crunched* in a few places, namely big data centres. SWIM.AI, on the other hand, *is* an example of what *is being called* “edge computing”: the data *are processed* [in real time] *as close as possible to* where they are collected. *It is* between these two poles *that* the infrastructure of the data economy *will stretch*. It `系` *will be*, *to quote* a metaphor *first used* by Brian Arthur of the Santa Fe Institute, `表` *very much like* the root system of an aspen tree. For every tree above the ground, there *are* miles and miles of interconnected roots underground, which also *connect to* the roots of other trees. Similarly, for every warehouse-sized data centre, there *will be* an endless network of cables and connections, *collecting* data *from* every nook and cranny of the world.
+
+*To grasp* how all this *may work*, *consider* the origin and journey of a typical bit /and how both *will change* in the years to come. Today the bit *is often still created* by a human clicking on a website or tapping on a smartphone. Tomorrow it *will [more often than not] be generated* by machines, *collectively called* the “Internet of Things” (IOT): cranes, cars, washing machines, eyeglasses and so on. And these devices *will [not only] serve as* sensors, *[but] act on* the world (*in which* they *are embedded*).
+
+Ericsson, a maker of network gear, *predicts that* the number of IOT devices *will reach 25bn* by 2025, up *from* 11bn in 2019. Such an estimate *may sound* self-serving, but this explosion *is* the likely outcome of a big shift in how data *is collected*. Currently, many devices *are tethered* by cable. Increasingly, they *will be connected wirelessly*. 5G, the next generation of mobile technology, *is designed* to support(v.) 1m connections per square kilometre, *meaning that* in Manhattan alone there *could be* 60m connections. Ericsson *estimates that* mobile networks *will carry* 160 exabytes of data globally each month by 2025, *four times* the current amount.
+
+
+The destination of your average bit *is changing, too*. Historically, most digital information *stayed home*, on the device where it was created. Now, more and more data *flow into* the big computing factories *operated by* AWS, but also its main competitors, Microsoft Azure, Alibaba Cloud and Google Cloud. These *are*, in most cases, the only places [so far] with enough computing power *to train* algorithms that *can*, for instance, *quickly detect* credit-card fraud /or *predict* when a machine *needs* a check-up, *says* Bill Vass, who *runs* AWS’s storage business -- the world’s biggest. He *declines* to say(v.) how big, *only that* it *is* 14 times bigger than that of AWS’s closest competitor, which *would be* Azure (*see* chart).
+
+`主` What Mr Vass *also prefers* not to say, `系` *is that* AWS and other big cloud-computing providers *are striving mightily* to deepen(v.) this centralisation. AWS *provides* customers *with* free or cheap software that *makes it easy* to connect(v.) and manage(v.) IOT devices. It *offers* no fewer than 14 ways *to get* data *into* its cloud, *including* several services *to do this* [via the internet], *but also* offline methods, *such as* lorries *packed with* digital storage which *can hold up to* 100 petabytes *to ferry [around]* data (one of which Mr Jassy *welcomed* [on stage] during his keynote speech in 2016).
+
+The reason for this approach *is* no secret. Data *attract* more data, because different sets(n.) *are most profitably mined together* -- a phenomenon *known as* “data gravity”. And once a firm’s important data *are* in the cloud, it *will move* more of its business applications *to* the computing skies, *generating* ever more revenue *for* cloud-computing providers. Cloud providers *also offer* an increasingly rich palette of services which *allow* customers *to mine* their data *for* insights.
+
+Yet such centralisation *comes [with costs]*. One *is* the steep fees(n.) firms *have to pay* when they *want to move* data *to* other clouds. More important, `主` *concentrating* data in big centres `谓` *could also become more costly* for the environment. `主` *Sending* data *to* a central location `谓` *consumes* energy. And once there, the temptation *is* great *to keep crunching* them. *According to* OpenAI, a startup-cum-think-tank, `主` the computing power *used* in cutting-edge AI projects `谓` *started to explode* in 2012. [Before that] it *closely tracked* Moore’s law, which *holds that* the processing power of chips *doubles* [roughly every two years]; since then, demand *has doubled* [every 3.4 months].
+
+Happily, a counter-movement *has already started* -- toward the computing “edge”, where data *are generated*. *It is not just* servers(n.) in big data centres *that* are getting more powerful, but also smaller local centres and connected devices themselves, thus *allowing* data *to be analysed* [closer to the source]. What is more, `主` software `谓` *now exists* 状 *to move* computing power around *to* where it works best, which *can be* on or near IOT devices.
+
+`主` Applications *such as* self-driving cars `谓` *need* very fast-reacting connections /and *cannot afford the risk of* being disconnected, so computing *needs to happen* [in nearby data centres] or even [in the car itself]. And [in some cases] the data flows *are* simply *too* large *to be sent to* the cloud, *as* with the traffic lights in Las Vegas, which together *generate* 60 terabytes a day (a tenth of the amount (Facebook *collects* in a day)).
+
+One day soon, debates *may rage* over {whether data generation *should be taxed*}
+
+How far *will* the pendulum *swing back*? The answer *depends on* whom you ask. The edge *is* important, *concedes* Matt Wood, who *is* in charge of AI at AWS, but “[at some point] you *need* to aggregate(v.) your data together *so that* you *can train* your models”. Sam George, who *leads* Azure’s IOT business, *expects* computing *to be equally spread* [between] the cloud [and] its edge. And `主` Simon Crosby, the chief technologist at SWIM.AI, while *admitting that* his firm’s approach “*does not apply everywhere*”, `谓` *argues that* {*too* much data *are generated* at the edge *to send to* the cloud, and there *will never be* enough data scientists *to help train* all the models centrally}.
+
+Even so, this counter-movement *may not go far enough*. *Given* the incentives, big cloud providers *will still be tempted* to collect(v.) too much data and *crunch* them. One day soon, debates *may rage* over whether data generation *should be taxed*, if the world *does not want to drown* in the digital sea.
+
+
+
+---
+
+
+== 熟听单词
+
+|===
+|word |description
+|plural|
+|*stick with sb/sth*|
+|metaphors|
+|*LIKEN STH/SB TO STH/SB*|
+|multiplication|
+|malleable|
+|rivalrous|
+|encryption|
+|cryptographic|
+|cleanse|
+|*strip sb of sth*|
+|inaccuracy|
+|pedestrian|
+|*ring true/hollow/false*|
+|*come up with sth*|
+|*take off*|
+|*get in the way of*|
+|*data set*|
+|fungible|
+|externality|
+|crunch|
+|*in favour (of sb/sth)*|
+|*GIVE BIRTH (TO SB/STH)*|
+|democratize|
+|*smack of sth*|
+|Homomorphic|
+|*(ALL) GRIST TO THE/SB'S MILL*|
+|*LIKEN STH/SB TO STH/SB*|
+|stewardship|
+|*get (sth) off the ground*|
+|dime|
+|Barcelona|
+|common|
+|laggard|
+|virtuous|
+
+|---|---
+
+|shindig|
+|indefatigable|
+|venue|
+|pedestrian|
+|aspen|
+|nook|
+|cranny|
+|*EVERY NOOK AND CRANNY*|
+|crane|
+|Ericsson|
+|tether|
+|exabyte|
+|azure|
+|so...that...|
+|palette|
+|too...to|
+
+|===
+
+---

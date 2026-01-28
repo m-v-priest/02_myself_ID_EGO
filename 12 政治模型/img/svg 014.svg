@@ -1,0 +1,78 @@
+<svg viewBox="0 0 555 389" width="555" xmlns:xlink="http://www.w3.org/1999/xlink" height="389" xmlns="http://www.w3.org/2000/svg">
+    <defs/>
+    <g transform="translate(-358.00,-190.91)">
+        <g id="shape1" transform="translate(402.00,191.91)">
+            <path d="M222.0,116.7L222.0,.0L.0,.0L.0,116.7L222.0,116.7z" fill-rule="nonzero" fill="#ffffff" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="19.0" x="98.0">国会</tspan>
+            </text>
+        </g>
+        <g id="shape2" transform="translate(416.00,225.83)">
+            <path d="M94.0,48.8L94.0,.0L.0,.0L.0,48.8L94.0,48.8z" fill-rule="nonzero" fill="#ffffff" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="19.0" x="14.5">直接征税权</tspan>
+                <tspan y="38.0" x="36.5">(无)</tspan>
+            </text>
+        </g>
+        <g id="shape3" transform="translate(514.26,225.83)">
+            <path d="M94.0,48.8L94.0,.0L.0,.0L.0,48.8L94.0,48.8z" fill-rule="nonzero" fill="#ffffff" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="19.0" x="14.5">关税管理权</tspan>
+                <tspan y="38.0" x="36.5">(无)</tspan>
+            </text>
+        </g>
+        <g id="shape4" transform="translate(680.00,383.00)">
+            <path d="M222.0,108.0L222.0,.0L.0,.0L.0,108.0L222.0,108.0z" fill-rule="nonzero" fill="#ffffff" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="19.0" x="104.5">州</tspan>
+            </text>
+        </g>
+        <g id="shape5" transform="translate(744.00,412.58)">
+            <path d="M94.0,48.8L94.0,.0L.0,.0L.0,48.8L94.0,48.8z" fill-rule="nonzero" fill="#ffffff" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="19.0" x="14.5">关税管理权</tspan>
+                <tspan y="38.0" x="36.5">(有)</tspan>
+            </text>
+        </g>
+        <g id="shape6" transform="translate(680.00,191.91)">
+            <path d="M222.0,116.7L222.0,.0L.0,.0L.0,116.7L222.0,116.7z" fill-rule="nonzero" fill="#ffffff" stroke="#323232"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="19.0" x="98.0">政府</tspan>
+                <tspan y="38.0" x="74.5">(尚缺乏权威)</tspan>
+            </text>
+        </g>
+        <g id="shape7" transform="translate(795.23,461.42)">
+            <path d="M.0,.0L.0,42.6" fill="none" stroke="#191919"/>
+            <path d="M3.0,42.6L.0,48.6L-3.0,42.6L3.0,42.6" stroke-linecap="round" fill="#191919" stroke-width="1" stroke="#191919"/>
+        </g>
+        <g id="shape8" transform="translate(694.00,499.00)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="36.0" x="26.0">有的州竟然要对跨州的货物</tspan>
+                <tspan y="55.0" x="71.5">征收关税。</tspan>
+            </text>
+        </g>
+        <g id="shape9" transform="translate(563.26,274.67)">
+            <path d="M.0,.0L.0,162.3L174.7,162.3" fill="none" stroke="#191919"/>
+            <path d="M174.7,159.3L180.7,162.3L174.7,165.3L174.7,159.3" stroke-linecap="round" fill="#191919" stroke-width="1" stroke="#191919"/>
+        </g>
+        <g id="shape10" transform="translate(463.26,274.67)">
+            <path d="M.0,.0L.0,59.3" fill="none" stroke="#191919"/>
+            <path d="M3.0,59.3L.0,65.3L-3.0,59.3L3.0,59.3" stroke-linecap="round" fill="#191919" stroke-width="1" stroke="#191919"/>
+        </g>
+        <g id="shape11" transform="translate(359.00,340.00)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="26.5" x="19.5">没征税权, 如何偿还战争欠债?</tspan>
+                <tspan y="45.5" x="10.0">(7年的独立战争中, 国家向老百姓</tspan>
+                <tspan y="64.5" x="63.0">借入了不少钱)</tspan>
+            </text>
+        </g>
+        <g id="shape12" transform="translate(791.00,308.59)">
+            <path d="M.0,.0L.0,68.4" fill="none" stroke="#191919"/>
+            <path d="M3.0,68.4L.0,74.4L-3.0,68.4L3.0,68.4" stroke-linecap="round" fill="#191919" stroke-width="1" stroke="#191919"/>
+            <rect y="21.8" width="234.0" fill="#ffffff" x="-116.0" height="19.0"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan y="36.8" x="-116.0">联邦政府没有能力调解州与州之间的纠纷</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

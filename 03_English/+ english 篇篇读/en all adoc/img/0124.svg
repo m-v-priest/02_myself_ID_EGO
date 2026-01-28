@@ -1,0 +1,63 @@
+<svg width="499" xmlns="http://www.w3.org/2000/svg" height="424" viewBox="0 0 499 424" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs/>
+    <g transform="translate(-560.50,-786.70)">
+        <path stroke="#323232" d="M496.5,274.0L496.5,.0L.0,.0L.0,274.0L496.5,274.0z" id="shape1" fill="none" transform="translate(561.50,935.70)"/>
+        <g id="shape2" transform="translate(617.74,1114.70)">
+            <path d="M206.5,73.0L206.5,.0L.0,.0L.0,73.0L206.5,73.0z" stroke="#323232" fill="#ffffff" fill-rule="nonzero"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt;font-weight:bold">
+                <tspan x="79.3" y="23.0">P类问题</tspan>
+                <tspan style="font-weight:normal" x="127.3"></tspan>
+                <tspan style="font-weight:normal" x="10.3" y="42.0">(1.能在"多项式"的时间里解决它.</tspan>
+                <tspan style="font-weight:normal" x="13.8" y="61.0">2.所有的P类问题, 都是NP问题)</tspan>
+            </text>
+        </g>
+        <g id="shape3" transform="translate(570.74,1039.70)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="29.8" y="21.5">(找到一个解很困难，但验证一个解很容易.</tspan>
+                <tspan x="14.8" y="40.5">能在多项式的时间里, 验证它的一个解是否正确)</tspan>
+            </text>
+        </g>
+        <g id="shape4" transform="translate(661.00,1010.70)">
+            <path d="M120.0,29.0L120.0,.0L.0,.0L.0,29.0L120.0,29.0z" fill="#ffffff" fill-rule="nonzero"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt;font-weight:bold">
+                <tspan x="30.5" y="20.0">NP类问题</tspan>
+            </text>
+        </g>
+        <g id="shape5" transform="translate(775.00,935.70)">
+            <path d="M283.0,80.4L283.0,.0L.0,.0L.0,80.4L283.0,80.4z" stroke="#323232" fill="#ffffff" fill-rule="nonzero"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt;font-weight:bold">
+                <tspan x="112.0" y="27.0">NPC 问题</tspan>
+                <tspan style="font-weight:normal" x="171.0"></tspan>
+                <tspan style="font-weight:normal" x="82.0" y="46.0">(1. 它是一个NP问题.</tspan>
+                <tspan style="font-weight:normal" x="40.5" y="65.0">2.</tspan>
+                <tspan style="fill:#af1121;font-weight:normal" x="51.5">所有的"NP问题"都可以约化到它</tspan>
+                <tspan style="font-weight:normal" x="238.5">)</tspan>
+            </text>
+        </g>
+        <g id="shape6" transform="translate(721.00,1010.70)">
+            <path stroke="#191919" d="M.0,.0L.0,-34.8L48.0,-34.8" fill="none"/>
+            <path stroke="#191919" d="M48.0,-37.8L54.0,-34.8L48.0,-31.8L48.0,-37.8" stroke-linecap="round" stroke-width="1" fill="#191919"/>
+        </g>
+        <g id="shape7" transform="translate(775.00,787.70)">
+            <path d="M283.0,130.4L283.0,.0L.0,.0L.0,130.4L283.0,130.4z" stroke="#323232" fill="#ffffff" fill-rule="nonzero"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt;font-weight:bold">
+                <tspan x="98.5" y="33.0">NP-Hard问题</tspan>
+                <tspan style="font-weight:normal" x="184.5"></tspan>
+                <tspan style="font-weight:normal" x="62.5" y="52.0">(1. 它不一定是一个NP问题.</tspan>
+                <tspan style="font-weight:normal" x="42.5" y="71.0">2.所有的"NP问题"都可以约化到它</tspan>
+                <tspan style="font-weight:normal" x="65.0" y="90.0">3.难以找到"多项式"的算法</tspan>
+                <tspan style="font-weight:normal" x="30.0" y="109.0">4.无精确算法求解，只能寻求近似算法)</tspan>
+            </text>
+        </g>
+        <g id="shape8" transform="translate(775.00,852.91)">
+            <path stroke="#191919" d="M-8.0,.0L-54.0,.0L-54.0,157.8" fill="none"/>
+            <path stroke="#191919" d="M-8.0,-4.0L.0,.0L-8.0,4.0L-8.0,-4.0" stroke-linecap="round" stroke-width="1" fill="#191919"/>
+        </g>
+        <g id="shape9" transform="translate(870.48,1089.75)">
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="58.3" y="21.3">问题: </tspan>
+                <tspan x="16.8" y="40.3">是否所有的NP =P ?</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

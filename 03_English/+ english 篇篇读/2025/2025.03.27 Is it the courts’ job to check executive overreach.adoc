@@ -1,0 +1,548 @@
+
+= 2025.03.27 Is it the courts’ job to check executive overreach
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../../../myAdocCss.css
+
+'''
+
+== 释义
+
+==== Introduction to the Podcast and Host
+
+Hi, I'm Katie Dun Tempest, a _visiting fellow_ 访问学者,客座研究员 in _governance 政府管理；治理 studies_ at the Brookings Institution 布鲁金斯学会 /and director of the Katzman Initiative on _Improving Interbranch Relations and Government_ "政府各部门间关系改进项目"的负责人.
+
+[.my1]
+.案例
+====
+- visiting fellow : 访问学者：一种在其他学术机构或研究中心, 进行短期学术交流的学者，通常会进行研究、讲座, 或参与项目合作。
+====
+
+This is Season 2 of _Democracy **in Question**_ (处于怀疑或不确定状态), a podcast 播客 where we examine (v.)审视；研究 current events through the lens of 从…的视角；以…为切入点 America’s political foundations 政治基础, thinking about how recent events *fit into* 融入；适应 the broader 更广泛的 stream of democracy 民主的发展脉络 that *runs throughout* 贯穿整个,遍布 our history 贯穿我们历史的.
+
+You can find episodes （电视剧或广播剧的）集 of this podcast at brookings.edu/democracyinquestion, all one word —all one word 全拼作一个单词（说明网址不含空格）.
+
+[.my2]
+====
+大家好，我是凯蒂·邓·坦佩斯特，目前是布鲁金斯学会治理研究项目的客座研究员，也是“卡茨曼跨部门关系与政府改进倡议”的负责人。
+
+这是一档名为《民主待问》的播客的第二季。在这档节目中，我们从美国政治基础的角度审视当下的时事，思考近期事件是如何融入我们历史中那条持续流动的民主发展主线的。
+
+你可以在网址 brookings.edu/democracyinquestion 找到这档节目的各期内容（注意网址是全拼作一个词）。
+====
+
+On today’s episode, I’m posing 提出；抛出 the question: Is it the court’s job 职责；义务 to check (v.)制约；制衡 executive 行政的 overreach 滥用权力,伸得过远? Mass 大规模的 firings (n.)解雇；开除 of federal workers 联邦雇员, the deportation 驱逐出境 of people without due process 正当法律程序, the detention 拘留 of pro-Palestinian 支持巴勒斯坦的 protesters 抗议者, and the defunding 削减资金；停止拨款 of key _research institutions_ 研究机构—as of today 截至今天,到今天为止, March 18, 2025, these are just a few of the Trump administration’s recent actions that have sparked 引发；激起 serious questions of constitutionality 合宪性问题. So how far can a president go 总统的权力能扩展到什么程度, and where does the judiciary 司法机构 step in 介入 to check 制约 the executive branch 行政部门?
+
+[.my2]
+在今天这一集节目中，我要提出的问题是：**法院是否有责任去制衡行政权力的滥用？**联邦雇员的大规模解雇、未经过正当法律程序的驱逐出境、对支持巴勒斯坦的抗议者的拘留、以及对关键研究机构的资金削减——截至今天，也就是2025年3月18日，这些只是特朗普政府最近引发重大合宪性争议的一部分行动。那么，*总统的权力到底能走多远？司法系统又该在什么时候介入去制约行政部门呢？*
+
+In this episode of Democracy in Question, we’re diving deep 深入探讨 into the vital 至关重要的 role of the courts in safeguarding 保护；维护 constitutional boundaries 宪法界限. We’ll explore 探讨 some of the most consequential 意义重大的 pending 悬而未决的 court cases 案件 since President Trump’s inauguration 就职, along with 连同；以及 the statutory 法律的 questions and constitutional considerations 宪法层面的考量 they raise. We hope to give you a clear, thoughtful 深思熟虑的 understanding of how the judiciary works to keep executive power in check 加以制衡 when it matters most 最关键的时候.
+
+【中文翻译】
+在本期《民主待问》中，我们将深入探讨**法院在维护宪法界限方面的重要作用。**我们将研究自特朗普总统就职以来最具影响力的一些悬而未决的法庭案件，以及这些案件引发的法律问题和宪法层面的考量。我们的目标是让你清晰而深入地理解，*当关键时刻来临时，司法系统是如何发挥作用来制衡行政权力的。*
+
+I’m thrilled 非常高兴 to be joined by my colleague Ben Wittes, a senior fellow 高级研究员 in the Governance Studies program at Brookings and co-founder 联合创始人 and editor-in-chief 主编 of Lawfare. Together, we’ll break down 解析；拆解 these critical 关键的；重要的 issues and explore what’s at stake 所关系到的事物；利害攸关 for American democracy. Welcome, Ben! I’m eager 渴望的；热切的 to dive into 展开讨论 the discussion with you about how pivotal 关键性的；决定性的 a role the courts play in maintaining our system of checks and balances 制衡体系.
+
+【中文翻译】
+我非常高兴能邀请到我的同事本·威特斯加入本期节目。他是布鲁金斯治理研究项目的高级研究员，同时也是 Lawfare 网站的联合创始人和主编。今天我们将一起解析这些关键议题，探讨它们对美国民主所带来的重大影响。欢迎你，本！我非常期待与你展开这场关于法院在维持我们制衡体系中所发挥关键作用的讨论。
+
+Thanks, good to be here! So why don’t you just take it from there? 从你刚才说的继续讲下去吧 From that intro, what are you thinking?
+
+【中文翻译】
+谢谢，能来这里我很高兴！那你继续刚才的话题吧——从你刚才的介绍来看，你是怎么想的？
+
+==== The Courts’ Historical Role in Checking Executive Power
+
+All right, so let’s start with the easy part: Do the courts have a role in checking 制衡 the executive branch 行政部门 in the legality 合法性 of its actions? The answer in our historical system is yes, absolutely 毫无疑问的；明确的, and that goes back a very long way. Obviously, the right of judicial review 司法审查权 of the constitutionality 合宪性 of congressional 国会的 action is claimed 被主张 as early as 早在 Marbury v. Madison in 1803, but the idea that the courts might restrain 限制；制约 executive activity 行政行为 is actually even older than that.
+
+【中文翻译】
+好的，那我们先从简单的部分说起：**法院是否在"审查行政行为是否合法方面"扮演着角色？在我们的历史体系中，答案是肯定的，**毫无疑问，而且这个传统可以追溯到很久以前。显然，**法院有权对"国会行为的合宪性"进行司法审查，**这一权利早在1803年的“马伯里诉麦迪逊案”中就被确立了，但法院可能限制行政行为的观念, 其实比这还要早。
+
+The concept of habeas corpus 人身保护令, where you’re challenging 质疑；提出异议 the legality 合法性 of somebody’s detention 拘押, is in the common law 普通法体系中, predating 早于 the Constitution 宪法. The idea that the courts might seek to restrain 制约 the executive branch 行政部门 from unlawful 非法的 action is quite early established 在早期就已确立 in the American tradition. So that’s the easy question.
+
+【中文翻译】
+**"人身保护令"的概念，即人们可以质疑"某人被拘押是否合法"，这一制度早在普通法体系中, 就已存在，甚至早于美国宪法的制定。法院可能制约"行政机关的非法行为"的观念，在美国传统中是很早就被确立的。**所以这个问题相对来说比较简单。
+
+The hard question—and one that we have never really confronted 面对；处理 before—is what happens when a president comes into office 上任 and immediately 立即地, across a wide range of 涉及广泛领域的 diverse 多种多样的 programmatic 按计划进行的 activity 行动, starts doing things that are in conflict with 与……相冲突 statutes 成文法；法律?
+
+Notice 注意 that I didn’t say illegal 非法的, because in each of these cases, he has some theory 理论；解释 about why he’s in fact allowed 被允许的 to do this. But there’s at least somebody who would say, “No, you’re not allowed to do this because this law says you have to behave 行为；举止 this way.”
+
+【中文翻译】
+*但更困难的问题——也是我们从未真正面对过的问题——是：如果一位总统上任后, 立即在广泛多样的政策事务中采取行动，而这些行为又与现行法律相冲突，会发生什么？#请注意，我并没有说这些行为是“非法”的，因为在每一个案例中，总统都有某种理由或理论, 来说明自己为何“事实上是被允许这么做的”。但总会有人反驳说：“不，你不能这么做，因为法律规定你必须按另一种方式行事。”#*
+
+He comes in and, with an “everything everywhere all at once” 全面开战式的（比喻用法，意指无所不做） quality 特征, throws 抛出 a million legal questions 法律问题 at the wall 全面抛出（比喻用法，意指毫无保留地一次性提出） all at the same time.
+
+【中文翻译】
+他一上任, 就像在搞一场“无处不在、无事不做”的全面行动，把无数法律问题一下子全部抛出来，铺天盖地地冲击整个体系。
+
+Of course, because these are not hypotheticals 假设情况—they are real people getting fired 被解雇, real people getting deported 被驱逐出境, real people getting put on 被安排在 administrative leave 行政停职, or real people having their expected grants 预期拨款 withheld 被扣留—they immediately sue 起诉.
+
+There are consequences 后果, and there are plaintiffs 原告.
+
+【中文翻译】
+当然了，因为这些情况并非是纸上谈兵——它们关系到现实中被解雇的人、被驱逐出境的人、被迫行政停职的人，或是原本应获得拨款却被扣下的人——*他们马上就提起诉讼了。有实际后果，也有众多的原告。*
+
+You’re mostly not dealing here with a situation where you can do it in slow motion 慢慢来；缓慢处理 because there’s not really any immediate harm 直接伤害 to somebody.
+
+It’s not a hypothetical where Congress passes a law that theoretically 理论上地 would affect 影响 certain people negatively in certain ways, but nobody’s actually been prosecuted 被起诉 under those laws.
+
+We’re dealing with thousands and thousands of actually harmed people who are claiming 声称 the executive branch is behaving illegally 非法行事, all at the same time. That is a problem that I don’t think we have ever faced before.
+
+【中文翻译】
+我们面对的, 并不是那种可以慢慢处理的情况，因为这些行为对人们造成的是立刻的伤害。这也不是国会通过了某项理论上可能会带来负面影响的法律、但实际还没有任何人因此被起诉的那种假设场景。**我们所面对的是数以千计的现实受害者，他们在同一时间声称, 行政部门的行为是非法的。**我认为我们从未遇到过这种情况。
+
+We’ve faced situations where the president is alleged 被指称 to have done one really big thing illegally 非法地—for example, seizing 强行夺取 the steel mills 钢铁厂, suspending 暂停 habeas corpus 人身保护令—and you kind of 有点儿 have some time to figure it out 慢慢理清楚.
+
+But there is a deep challenge 严峻的挑战 to the courts in this “doing everything everywhere all at once” problem 问题, and pivotally 关键地；决定性地 doing it while talking about your authority 权力；权限 to defy 违抗 court orders 法院命令.
+
+【中文翻译】
+我们确实曾经历过一些总统被指控实施某项重大非法行为的情况，比如强行控制钢铁厂、暂停人身保护令——这些情况还让我们有时间去慢慢厘清问题。但**如今法院面临的挑战更为严峻：总统像在打一场“全面战役”，什么都做，而且关键是他一边做这些事，一边还在谈论自己有权力无视法院命令。**
+
+You’re kind of putting the courts on notice 发出警告：“I’m going to do all this stuff that you might think is illegal, and if you say it’s illegal, I’m going to do it anyway 反正我还会做.”
+
+That’s the nature of the current challenge 当前挑战的本质. I understand that as of this point 截至目前, there’s over 100 cases that have been filed 提起诉讼.
+
+Is there a way to categorize 分类 them or to prioritize 优先处理 them? Is there some sort of hierarchy 层级体系 where you see some of these challenges as the most significant to our democracy 对民主最具影响的?
+
+【中文翻译】
+总统的意思就像是在向法院发出警告：“我会做这些你们可能认为是非法的事情，而且就算你说它们非法，我还是会继续做。”这就是当前挑战的本质。据我了解，截至目前，已有超过100起相关诉讼被提起。那么，我们是否有办法对这些案件进行分类, 或设定处理优先级？*是否存在某种层级体系，可以帮助我们识别出哪些挑战对我们的民主制度影响最大？*
+
+==== Categorizing the Legal Challenges
+
+Yeah, okay, so let me divide them into four categories 分类 of cases. I used to say three, but now I think there’s meaningfully 有意义地；实质上 a fourth category.
+
+【中文翻译】
+好，那**我来把这些案件分为四类。**我以前说是三类，但现在我认为实际上有第四类。
+
+The first category, which is the smallest, is the category of cases where the administration 政府当局 is taking a substantive 实质性的 policy position 政策立场 that somebody finds objectionable 令人反感的 and illegal, and that substantive view of policy is being challenged 受到质疑. The most prominent 显著的；突出的 example of this category—which I say is the smallest—is the birthright citizenship 出生公民权 case. The administration comes in and says, “The Constitution has always been understood to mean that if you’re born here as a child of illegal aliens 非法移民, you’re a citizen anyway. We think it doesn’t mean that, and we direct 指示 the executive branch 行政部门 to behave otherwise.” Somebody comes in and sues 起诉 and says, “No, it actually means what it appears to say.” So that’s category one.
+
+【中文翻译】
+**第一类案件，也是最少的一类，是指政府提出了某种实质性的政策立场，而有人认为这种立场令人反感且违法，并对这一政策主张提出质疑。**最典型的例子就是“出生公民权”案。**政府上台后表示：“宪法一向被理解为，若你在美国出生，即便父母是非法移民，你依然是公民。但我们认为不是这样，**并指示行政机构不要按这种方式行事。”*于是有人提起诉讼，说：“不，宪法的意思就是字面所表达的那样。”这就是第一类案件。*
+
+Category two is firing 解雇 people, and these are all government people. Some of them involve people who were the heads of independent agencies 独立机构；独立机构负责人; some of them involve line people 基层人员 at the FBI and at the Justice Department who have civil service protections 公务员保障. In each of these cases, the president is taking the position, “I, under the Appointments Clause 任命条款, have the authority to control the executive branch, and that means if you work for the executive branch, I can fire you.” I wanted to add in one more subgroup there that I think is kind of interesting: the inspector generals 监察长, because they’re congressionally mandated 由国会授权设立的, as are the independent agencies.
+
+【中文翻译】
+**第二类, 是有关"解雇政府工作人员"的案件。**其中一些涉及被解雇的是独立机构的负责人，另一些则是联邦调查局, 或司法部的基层人员，**这些人依法享有公务员保障。在这些案件中，总统的立场是：“根据宪法中的‘任命条款’，我有权控制行政部门，这意味着只要你在行政体系中工作，我就可以解雇你。”**我还想额外加一个子类别，我觉得挺有意思的：监察长——因为他们是由国会授权设立的，就像那些独立机构一样。
+
+In each of these cases, the president claims the authority 权力 to control the executive branch, and there’s some statute 法律；成文法 that Congress has passed that gives this person some category of protection—civil service protections, or by law, independent agencies where you can only remove the heads with some form of cause 正当理由, and inspectors general who also have that “for cause” removal, or even just a notification 通知 requirement, like a two-week notification period. In each of these, the administration says, “No, we can ignore 忽视 the law because the president’s authority to control the executive branch is broad 广泛的.”
+
+【中文翻译】
+在这些案件中，**总统都声称自己有权控制"行政部门"，但国会通常已经立法，为这些工作人员设定了某种形式的保护机制——例如公务员保障，或规定某些独立机构负责人只有在有正当理由的情况下, 才能被解职；**监察长也是如此，甚至有的法律只要求提前两周通知即可。*但在所有这些情形中，政府的立场是：“不，我们可以无视这些法律，因为总统对行政部门拥有广泛的控制权。”*
+
+Does that mean then that this notion 观念 of civil service protections—most observers 观察者 of American government have always thought that one of the good things about working for the federal government is that you do have protections—in each of these cases, the strongest position of the executive branch would be, “We get to do this, and laws that get in the president’s way 阻碍总统行使权力的法律 in this regard are invalid 无效的”? Now, I think the higher up you are in the government, the more you’re in a policymaking role, the more likely that claim is to have legs 被法院接受, particularly as they’re currently constituted 构成的；组成的. I doubt very much that the courts will say the president can override 推翻 civil service protections, but that’s going to be the claim. So that’s category two.
+
+【中文翻译】
+那么这是否意味着，关于"公务员保障"的观念——许多研究美国政府的观察者都认为，在联邦政府工作的一大好处就是, 你有制度保护——在这些案件中，行政部门最强硬的立场是：“我们可以这么做，而那些妨碍总统这样做的法律是无效的”？我认为，职位越高、越接近政策制定岗位的人，这种主张在法院中被接受的可能性就越大，尤其是考虑到当前法院的构成。**我很怀疑法院会说"总统可以无视公务员保障"，**但政府的确会这么主张。所以这就是第二类案件。
+
+Category three is this thing that has cropped up 出现；冒出来 in a variety of different contexts, but there are dogged 顽强的；不屈不挠的 efforts to shut down federal agencies entirely—dismantling 拆除；解散 federal agencies. They often involve what’s called an impoundment 暂缓拨款；拒绝拨款, where Congress has said, “You must spend money on X, Y, and Z,” and the president says, “No, I’m not spending that money.” Sometimes that shows up in a foreign policy context, like the USAID 美国国际开发署 cases, and sometimes it shows up in a more domestic context, like some of the freezes 冻结 on federal grants 拨款. There’s this broad category of cases that involves some measure or another of impoundment.
+
+【中文翻译】
+*第三类案件, 出现在各种背景中，其共同点是存在"关闭联邦机构、彻底解散这些机构"的顽强努力。它们通常##涉及所谓的“资金冻结”（impoundment），即国会已经要求对某些事项如X、Y、Z进行拨款，但总统却说：“不，我不会拨这笔钱。”##有时, 这种情形出现在外交事务中，例如美国国际开发署的案件；有时则出现在国内事务中，比如冻结联邦补助金。这类案件涵盖了各种形式的资金冻结。*
+
+There’s a related set of cases that involve, “Okay, we’re going to dismantle this agency even though Congress required that this agency exist.” So, what if we strip it down to the bone? 极度削弱（机构）How far can we go in getting rid of the Consumer Financial Protection Board 消费者金融保护局 without running afoul of 违反 the statute that creates it? And by the way, if we do run afoul of that statute, can we get away with it anyway 仍能逃脱惩罚? So that’s category number three. Categories two and three account for an enormous 巨大的 percentage of the litigation 诉讼.
+
+【中文翻译】
+**还有一些相关案件是这样的：“好吧，##我们要解散这个机构，尽管国会要求它必须存在。”那么问题来了：如果我们把它精简到几乎不存在，还算是在遵守法律吗？##我们在不违反成立该机构的法律前提下，最多可以削弱到什么程度？**顺便说一句，就算我们确实违反了那部法律，我们是否仍能逃脱惩罚？**这就是第三类案件。**第二类和第三类案件在所有诉讼中占据了极大的比例。
+
+This brings me to category four, which I think really came to fruition 实现；开始显现 this week: litigation involving immigration detainees 被拘押的移民 and people who are, to one degree or another, slated for deportation 被计划遣返. Those have become particularly acute 尖锐的；严重的 since the president issued an order invoking 援引 the Alien Enemies Act of 1798 《外国敌人法》—older than Marbury v. Madison. Usually, Marbury v. Madison is the oldest thing that gets cited in a constitutional law discussion that’s not the Constitution itself, but not today.
+
+【中文翻译】
+这就引出了**第四类案件，**我认为这类案件本周开始真正显现：**它们涉及"被拘押的移民"，**以及那些在某种程度上被计划遣返的人。这些问题变得尤为严重，是**因为总统发布命令，援引了1798年的《外国敌人法》**——这部法律比“马伯里诉麦迪逊案”还要早。通常在宪法法讨论中，最早被引用的案例就是“马伯里案”（除了宪法本身以外），但今天不是这样了。
+
+Those cases, again, are relatively small in number, but they’re super important because they involve people getting detained 拘留 at airports and then denied entry 拒绝入境 to the country despite an apparently valid 有效的 visa, or a few hundred Venezuelans 委内瑞拉人 being put on planes and flown to Panama despite a court order 法院命令 that says the planes have to turn around. These are acute separation-of-powers 权力分立 questions that really impact the liberty 自由 of human beings.
+
+【中文翻译】
+这些案件数量相对较少，但却极其重要，因为它们涉及人们被拘留在机场，尽管他们持有看似有效的签证，却被拒绝入境；又或者有几百名委内瑞拉人, 被强行登上飞机送往巴拿马，尽管法院下令这些飞机必须返航。*这些都是尖锐的权力分立问题，直接关系到人的自由权利。*
+
+==== Assessing Threats to Democracy
+From your perspective 观点，看法, which do you see as the most threatening 威胁的 to American democracy 民主制度?
+
+Okay, so they’re very different in that regard 在那方面，关于那一点. The most profound 深刻的；意义深远的 tectonic 构造性的；根本性的 question—it doesn’t involve human liberty 自由 or anything—is, in my opinion, the impoundment 冻结拨款；扣押 question, because this is a question of whether Congress really has the power of the purse 财政支配权 or whether one of the purse strings 财政控制权 is held by the president.
+
+If you’re thinking about the tectonic plates 构造板块；（此处为比喻）结构基础 of democracy, this is the most profound and important question. If you’re thinking about the costs for human liberty 人身自由, it’s really hard to argue with the immigration 移民 cases.
+
+If you’re thinking about the cases that are fundamentally 根本地 about the president’s control over the executive branch 行政部门, those are really important for the question of whether the president can turn the executive branch into an instrument 工具；手段 of his personal will 个人意志. I would say they’re really important for different aspects 方面 of democracy.
+
+The one that I think is the least important is, ironically 具有讽刺意味地, the ones that challenge substantive 实质性的 policy areas 政策领域. I believe in birthright citizenship 出生公民权, but there are democratic countries that have it, and there are democratic countries that don’t have it. I believe in it very deeply, but I don’t think the fate of the republic 共和国的命运 turns on 取决于 it.
+
+I have this fear that Congress, by sort of ceding 放弃；割让 a lot of its authority—including impoundment and the ability to control the purse strings 财政支配权, which they seem to be ceding—is it something like, once you lose these powers, I guess we don’t know because we don’t have this prior 先前的 example in history, but let’s say 10 years from now or even less, can Congress reassert 重新主张 its authority and capture back 夺回 what it gave to the executive 行政部门?
+
+I take it 明白；理解 in your question you’re assuming 假设 that the president gets away with it 侥幸成功，不受惩罚 for now and that the courts do not stop it. Well, I guess what I’m concerned about is that members of the Republican Party in Congress are not protesting 抗议 this.
+
+I think there are two mechanisms 机制, other than a change of heart 改变态度 on their part, that you could imagine arresting 阻止 it. The first is that the courts actually say, “No, that statute 法令；成文法 says you have to spend the money, and that’s not discretionary 可由个人决定的.”
+
+Now, over what time period they would have occasion 机会；时机 to say that is an interesting question. The courts will not be in a rush 急于 to reach an impoundment question; they will figure out every way to avoid 避开 it. But eventually 最终, he’s doing some impoundments here.
+
+Was Nixon the last president to attempt 尝试 this? He was the last president to claim the authority 权力 unilaterally 单方面地. Eventually, they’re going to have to argue that the Impoundment Control Act 《冻结拨款控制法》, which was put in place 实施 to counter 反对 Nixon’s claims, is unconstitutional 违宪的 and the president is allowed 被允许 to do this.
+
+They have not argued that yet. What they’ve argued is that these aren’t impoundments. There’s a whole sequence 一系列 of questions that they have to lose on before they lose. They’re going to lose on a lot of them because they’re in fact impounding money, but that’s going to take some time 一些时间；一段时间.
+
+What do you mean by “some time”? Like eight months, a year, or...? Well, I don’t know. It depends on how aggressive 激进的；有进取心的 they want to be about it. If you want to do it in a way that’s as deniable 可否认的 as possible, you have to be more subtle 微妙的；巧妙的 about it.
+
+If you’re subtler 更隐晦些 about it, you create other arguments for yourself, and it can take a much longer period of time. On the other hand, if you don’t give the National Endowment for Democracy 国家民主基金会 money, which is a clear line item 单项预算 in the budget, they’re going to sue 起诉 you—which they’ve done. By the way, the government paid them almost as soon as they sued.
+
+中文完整翻译：
+从你的角度来看，你认为哪一类对美国民主制度构成最大的威胁？
+
+嗯，就这点而言，它们之间有很大的不同。*在我看来，#最深刻、最根本的问题是“冻结拨款”问题#——它其实并不涉及"人身自由"或其他类似的东西——而##是一个关乎"国会是否真正拥有财政支配权"的问题，还是说总统也握有部分财政大权。##*
+
+**如果你从民主制度的深层结构来看，这是最重要、最深远的问题。如果你关注的是"人身自由"所付出的代价，**那么很难否认移民案件的严重性。
+
+**如果你关注的是那些从根本上与"总统对行政部门控制权"有关的案件，那它们也非常重要，因为它们关乎总统是否能将整个行政机构, 变成他个人意志的工具。**我会说，*这些问题各自从不同维度影响着民主制度。*
+
+**我认为最不重要的问题，反而是那些"挑战具体政策领域"的案件。我支持"出生公民权"，但现实中有的民主国家有这种制度，有的却没有。**我对它信念坚定，但**我不认为共和国的命运就取决于它。**
+
+*我担心的是，#国会正在放弃大量权力——包括"冻结拨款的控制权"和"财政支配权"，他们似乎在默许这些权力的流失。问题在于，一旦失去这些权力#……我们没有历史先例来告诉我们接下来会发生什么。假设十年之后，甚至更短时间，#国会还能重新确立自己的权力、把让出去的东西收回来吗？#*
+
+我理解你的问题, 是假设总统暂时得逞，法院也没有出手阻止。*我担心的是，共和党国会议员没有对此发出抗议。*
+
+我认为除了他们自身态度的改变，*还有两个机制有可能阻止这一趋势。第一个是法院明确表示：“不，那条法律规定, 你必须花这笔钱，这不是你可以自由裁量的。” 但法院要在什么时间做出这个判断，是个有趣的问题。法院通常不会急于对“冻结拨款”做出裁定，他们会想方设法绕开这个问题。但最终，总统这边确实在进行冻结拨款的操作。*
+
+尼克松是最后一个尝试这么做的总统吗？他是最后一个单方面声称拥有这种权力的总统。最终，他们将不得不辩称，为了反制尼克松的主张而制定的《冻结拨款控制法》是违宪的，总统有权这样做。
+
+他们目前还没有做出这样的主张。他们只是辩称这些行为不算是"冻结拨款"。事实上，在他们真正输掉这个案件之前，他们需要在一连串的问题上败诉。他们将在很多问题上败诉，因为他们的确在冻结资金，但整个过程会需要一些时间。
+
+你说的“一些时间”是多久？比如八个月，一年？我也不确定。这取决于他们想以多激进的方式推进这件事。如果你想把它操作得尽可能不易被发现，那就必须更隐蔽。如果你更隐蔽一些，就会为自己制造更多辩护空间，这样可能拖更长的时间。另一方面，**如果你不给“国家民主基金会”拨款，而这笔拨款在预算中是明确列出的，那他们会起诉你——事实上他们已经这么做了。**而且一旦起诉，政府几乎立即就付了钱。
+
+Oh, really? Yes. In the interest of full disclosure 信息公开；坦率说明, Benjamin Wittes’ spouse 配偶, Tamara Koffman Wittes, also a former Brookings scholar 学者, is the president of the National Democratic Institute 民主基金会, a beneficiary 受益者 of the National Endowment for Democracy 国家民主基金会.
+
+One question is: Does the government really want to force 强行推动 these issues, or do they want to thump their chests 拍胸脯（比喻夸耀、虚张声势）, but then when you really call them on an actual impoundment 冻结拨款, they’ll back down 退让；让步? I don’t know the answer to that question.
+
+How aggressive 咄咄逼人的；积极进取的 they are about it will guide how quickly a case comes before the Supreme Court 最高法院 that presents the issue squarely 明确地；直接地.
+
+Don’t the prior 先前的 50 days suggest 表明 that they’ll continue to be extremely aggressive? They’re mixed 好坏参半；表现不一致. They’re being very aggressive in the first instance 一开始；起初.
+
+When the USAID suit 诉讼 happens, they are aggressive about appealing 上诉 it, but they don’t admit 承认 that it’s an impoundment. Then, when they’re ordered 命令 to pay out $2 billion, they ask the Supreme Court for relief 司法救济；法律补救, and when they don’t get it, they start paying.
+
+Eventually 最终, the courts are going to confront 面对；处理 these issues, but the fact that they—you can call it backing down 让步, you can call it ultimately complying 遵从；服从 with court orders 法院命令, you can call it something else—but they’re actually taking steps 采取措施 to avoid 避免 having to go to the courts and say, “Yeah, we impounded this, and damn it 该死的（表示愤怒或强调） we’re allowed to.” That’s not what they’re doing.
+
+Do you think that’s a strategy 策略；计谋 because they know it’s not going to pass muster 符合标准；经得起检验 in the court? If you are the Solicitor General 诉讼事务总长（代表政府出庭的高级律师）, it is probably very important, if you know you’re going to have to litigate 提起诉讼 this, that you want the right facts 适合的事实背景 to litigate it with.
+
+The facts where you haven’t made a specific 明确的 decision—it’s a blanket 全面性的；一概而论的 thing, “We’re freezing all of this,” and you have malaria kids dying—that’s not a good set of facts to litigate the “we get to not spend this money” thing.
+
+From a litigation point of view 从诉讼角度来看, if you’re trying to manage 管理 this litigation from the government side, getting the government to back down 在最严重的情况中让步 in the most egregious 极其严重的；恶劣的 situations where you’re just going to lose, you want to wait until you have a set of facts that you have a chance with. That’s what I think is going on, but I don’t know.
+
+I think I sidetracked you 把你带偏题了, though. Tell me, the impoundment is the one that you believe to be the most...? Yeah, I think this is the most important to the function 运作；职能 of a democracy. It is the least important from a human liberty standpoint 从人权角度来看, but look, in a world in which you are trying to concentrate 集中 executive power 行政权力 and you’re trying to get the courts to tolerate 容忍 that, this is a big piece of the enchilada （美式俚语）大局中的重要部分；关键一环.
+
+中文完整翻译：
+哦，真的吗？是的。为做到完全坦率公开，需要说明的是，Benjamin Wittes 的配偶 Tamara Koffman Wittes（她曾是布鲁金斯学会的学者），现任国家民主研究所的主席，而这个机构是“国家民主基金会”的受益方。
+
+一个问题是：政府是否真的想强行推动这些问题，还是他们只是拍着胸脯虚张声势，而当你真正指出他们在进行冻结拨款时，他们就会退让？我不知道这个问题的答案。
+
+他们对此采取多么积极强硬的态度，将决定一个案件多快会被送到最高法院，并明确地提出这个问题。
+
+过去这50天的表现, 难道不表明他们会继续非常激进吗？情况其实有些复杂。他们在一开始确实非常激进。当美国国际开发署（USAID）遭遇诉讼时，他们积极上诉，但并不承认那是一次“冻结拨款”。然后，在法院下令他们支付20亿美元后，他们向最高法院寻求司法救济；当没有获得批准时，他们开始支付这笔钱。
+
+最终，法院会不得不面对这些问题，但他们现在——你可以说这是让步，你也可以说是他们最终遵从了法院命令，或是别的什么——但实际上他们正采取一些措施，以避免必须走进法院并承认：“是的，我们确实冻结了这笔拨款，而且我们有权这么做。”这并不是他们现在的做法。
+
+你觉得这是他们的策略吗，因为他们知道这在法院里过不了关？如果你是诉讼事务总长，而你知道自己最终必须就此打官司，那么你很可能会非常在意你手上有哪些事实来支持你的立场。
+
+如果是那种你没有明确决定的情况——比如说你一刀切地说：“我们把这些全部冻结”，然后因此有疟疾儿童死亡——那就不是一组有利于你打赢诉讼的事实。
+
+从诉讼策略的角度来看，如果你是政府这方, 在操盘这场诉讼，你会希望政府在那些最极端、注定会输掉的场景中先让步，等到你有一组更有胜算的事实时, 再出手。这是我认为正在发生的事，但我也不能确定。
+
+不过我刚刚好像把你带偏题了。*你说##"冻结拨款"##是你认为最……？是的，我认为##它对民主制度的运作来说最重要.## 从"人身自由"的角度来看，它可能是最不重要的。但你想想， ##在一个你试图集中行政权力，并希望"法院"对此睁一只眼闭一只眼的世界里，这就是关键一环。 (即, 三权分立的天平正在倾斜, 政府正在削弱最高法院的权力)##*
+
+==== Potential Solutions and the Role of Congress
+
+There’s really only two ways that this gets corrected.
+One is if the courts ultimately force it,
+but the second is if the composition 构成；组成 of Congress changes.
+This problem will go away as soon as Congress says,
+“Nice White House helicopter you have there.
+It would be a shame if we put restrictions 限制；约束 on your ability to fly in it and spend money to fly in it.”
+Congress’s ability to prevent the president from spending money—
+or, you want to take over 接管；接收 Greenland?
+Good luck getting any money to spend on that.
+Once Congress decides that it wants to deal with a question like this,
+it has a lot of ways to make its will felt 让意图被感受到；施加影响.
+The problem now, as you described, is that Congress doesn’t want to do that.
+
+
+*实际上只有两种方法可以纠正这个问题。
+一种是, 法院最终强制纠正，
+另一种则是"国会的构成"发生变化。*
+只要国会说一句：“你那架白宫直升机挺好看的，
+要是我们限制你使用, 和发放拨款飞它，那可真是遗憾。”这个问题就会立刻消失。
+*国会有能力阻止总统花钱*——
+比如**你想接管格陵兰？**
+那祝你好运，*试试看能不能拿到钱。*
+一旦国会决定要处理这样的问题，
+它有很多办法来让自己的意志被感受到。
+问题是，如你所说，国会现在并不打算这么做。
+
+How are you feeling these days about the Supreme Court?
+I know last summer was the big presidential immunity 总统豁免权 case,
+and I know that predicting the outcomes 结果 of some of these cases is difficult,
+but do you think, at their core, they are likely to uphold 维持；支持 some of these constitutional 宪法的 separation-of-powers 权力分立 principles?
+
+
+你最近对"最高法院"有什么看法？
+我知道去年夏天有一起关于总统豁免权的重要案件，
+我也知道**预测这些案件的结果很困难，**
+但你认为，从根本上说，他们可能会支持某些宪法中的"权力分立原则"吗？
+
+I think principles 原则 are very different from one another,
+and even within one basket 类别, the merits 优点；是非曲直 of things can vary.
+For example, I don’t believe the statutory 法定的 “for cause” restrictions 限制 on removing independent agency heads—
+I think the Supreme Court’s going to side with 支持；站在…一边 Trump on that.
+
+
+我认为，不同的原则彼此差别很大，
+即使在同一类别中，事情的是非曲直也会有所不同。
+例如，我不认为, 对解雇独立机构负责人设置“有因”限制的法律是合理的，
+我认为, 最高法院在这个问题上会支持特朗普。
+
+Oh, you do?
+I do. Why?
+Because they’ve all but said so in a previous case,
+and I think the old Humphrey’s Executor case from the ’30s is a dead case walking 看似有效实则已被否定的案例（口语表达）.
+But I don’t think that’s true of civil service protections 公务员保护机制.
+The lower down the executive food chain 等级体系（比喻用法） you go,
+the more attractive the idea that Congress can regulate 管理；控制 the executive’s management of the executive branch becomes.
+Even within the zone of what are called Appointments Clause 任命条款 issues,
+I think they’re going to end up being a bit of a mixed bag 混合体；好坏参半的局面.
+
+
+哦，是吗？
+是的。为什么？
+因为他们在之前的一个案子里几乎已经表态了，
+我认为上世纪30年代的 Humphrey’s Executor 案例已经是个“死案子”了（即看似有效, 但实际上已被否定）。
+但我不认为这适用于公务员保护机制。
+在行政体系中职位越低，
+国会对行政部门管理的控制权, 就越有吸引力。
+即使是在所谓的“任命条款”问题领域，
+我也认为最后会出现一种好坏参半的情况。
+
+I don’t know how to count five votes on the Supreme Court
+for the idea that the president can impound 扣留；不予拨款 lawfully appropriated money.
+But look, I also didn’t count five votes on the Supreme Court
+for the idea that the president was absolutely immune from 免于；豁免于 criminal prosecution
+for a wide range of his activities,
+so I’m modest 谦虚的；谨慎的 about my ability to predict these things.
+
+
+*我不知道如何在最高法院中, 找到五张支持“总统可以扣留合法拨款”的票。
+但话说回来，我也没有预测到, 最高法院会有五票支持“总统对大量行为享有绝对刑事豁免权”，
+所以我对自己预测这类事情的能力, 是很谨慎的。*
+
+
+What do your tea leaves 茶叶占卜（比喻：预测未来） tell you about the birthright citizenship 出生地主义公民权 case, should that get to the Supreme Court?
+No judge in the country has held anything other than that the Constitution means what it says on the subject of birthright citizenship,
+and I would be shocked if there were more than two votes, maybe three, for anything else at the Supreme Court.
+I think that one’s the easiest.
+
+
+**如果"出生公民权"的案子提交到"最高法院"，**你怎么看？
+目前全国没有任何法官做出与宪法条文不同的解释，
+即在"出生地主义公民权"问题上，宪法的意思就是它写的那样。
+*如果最高法院有超过两张，也许三张票反对这个观点，我会非常震惊。*
+我认为这个案子是最容易判断的。
+
+Do you think that what’s occurred over the past 50 years
+is sort of a series of the boldest challenges to our Constitution,
+or do you think they will keep spattering 零星持续地发生 through the first year, second year,
+until the midterm elections 期中选举 and the equation 政治格局；局势 changes?
+Well, it won’t continue at the current pace 节奏；速度; the pace is already slackening 放缓.
+It will continue—they do continue to do things,
+and the more things you do, the more opportunities there are to create plaintiffs 原告,
+and some percentage of those plaintiffs sue.
+This is going to be a litigation-heavy 诉讼密集的 environment for the next two years.
+By the way, that’s not a bad thing.
+Any bold 大胆的 agenda by any administration is going to create a lot of litigation.
+What’s novel about this is that,
+first of all, they’re going to lose so much of the litigation, particularly at the lower court levels,
+and secondly, the litigations are so dramatic 引人注目的；剧烈的
+because the underlying policy objectives are so bold.
+
+
+你觉得过去50年发生的事情，是一系列对宪法最为大胆的挑战，
+还是说, 这些事情会在第一年、第二年持续零星发生，直到"期中选举"后, 政治局势发生变化？
+我认为, 不会以现在这种节奏继续下去；现在节奏已经开始放缓了。
+不过还会持续——他们还在不断采取行动，
+而你做的事情越多，就越可能出现原告，
+其中一部分原告会提出诉讼。
+未来两年将是一个诉讼密集的时期。
+顺便说一句，这并不是坏事。
+*任何政府推动的大胆议程, 都会引发大量诉讼。*
+*这个情况的新颖之处在于：
+首先，他们将输掉很多诉讼，尤其是在初级法院；*
+其次，这些诉讼本身非常引人注目，
+因为他们背后的政策目标极其大胆。
+
+Do you think there’s partly a strategy in coming out with this rapid pace and rapid set of aggressive moves—
+that their hope was to overwhelm the courts 压垮法院?
+In which case a lot of these policies can continue?
+Like, people have lost their jobs,
+and it’s going to take a while before they get rehired based on a court case.
+
+
+你认为他们采取这波快速、激进措施的部分原因, 是有战略考量吗——
+*他们是否希望压垮法院？
+这样很多政策就可以继续执行？*
+比如说，一些人已经失去了工作，
+等法院裁定后重新雇佣这些人, 也需要时间。
+
+
+Here's the processed text with annotations and translation:
+
+I don’t know if the goal 目标 is to overwhelm 压垮；使应接不暇 the courts 法院. We have 900 federal 联邦的 judges 法官, and a hundred biggish 较大的 admin (=administrative) law 行政法 cases—it’s a volume 数量, but it’s not going to overwhelm the courts. It’s overwhelming the public 公众, but the courts chug 缓慢前进 along, and they’re built for this. Look, I think you just identified 确认 one of the fundamental 基本的 problems here, which is they’re going to lose a lot of this litigation 诉讼 and they’re going to win anyway. The reason is, if you fire 解雇 a whole lot of people and then it ultimately 最终 turns out that you fired them illegally 非法地, but they’ve gone on and gotten other jobs, and the goal wasn’t specifically 特别地 to get rid of 摆脱 them as individuals—it was to destroy 摧毁 the agencies 机构 that they work for—you can lose a lot of cases 案件 and still win.
+
+Now, it’s a really cost-ineffective 成本效益低的 way to reduce 削减 a workforce 劳动力 because you’re going to end up having to pay them back wages 工资, you’re going to have to end up paying their pensions 养老金. Firing somebody illegally is a very ineffective 无效的, from a cost 成本 point of view 观点, way to get rid of them, and it’s a really bad way to downsize 裁员 a workforce. But if the question is, "Is the Consumer Financial Protection Board still around 存在?" the answer may still be no at the end of the day 最终. That’s true of USAID, and that’s true of others. You can win the war 战争 after losing every legal 法律的 battle 战斗 because you’ve just reduced the place to a wasteland 荒地. That may be all that they were after 追求.
+
+I fear 害怕 that may be right—that they’re willing 愿意 to lose a lot of litigation because the point 要点 is to wreck 破坏 things, and it’s much quicker 更快 this way. You wreck everything, and then, yeah, you’ll pay a lot of damages 赔偿金 later.
+
+中文翻译：
+**我不确定(特朗普政府的)目标是否是要压垮法院系统。我们有900名联邦法官, 和上百个较大的行政法案件——数量确实不少，但还不至于压垮法院。**这确实让公众不堪重负，但法院系统仍能缓慢运转，它们本就是为处理这些而设立的。听着，我想你刚刚指出了**一个根本问题：他们会输掉很多诉讼，但最终仍会达到目的。因为如果你解雇大批员工，最终（两年后）证明解雇是非法的，但这些人已经另谋高就，而特朗普政府的目标本就不是针对具体个人——而是要摧毁他们所在的机构——那么就算输掉很多官司，你依然算赢了。**
+
+**从成本角度看，这是种效益极低的裁员方式，因为你最终不仅要补发工资，还得支付养老金。非法解雇在成本效益上非常不划算，也不是理想的裁员手段。**但如果问题是"消费者金融保护局是否还会存在？"，最终答案可能依然是否定的。美国国际开发署和其他机构也是如此。*你可以在输掉所有法律诉讼后, 赢得战争，因为你已经把那个地方变成了废墟。这可能正是他们追求的效果。*
+
+我担心这可能是对的——*他们愿意输掉很多诉讼，因为关键是要"破坏现有体系"，而这种方式快得多。你把一切破坏殆尽*，是的，之后要支付巨额赔偿——但那都是后话了。
+
+==== Conclusion and Reflections
+So just to return to the episode’s question: Is it the court’s job to check 制止；约束 executive overreach 越权行为? You would say absolutely yes?
+
+Yeah, there’s no doubt 毫无疑问 that it’s the court’s job, but I will say something else about that. The courts should not be the primary 主要的 people doing this job. If you wanted to do this job maximally 最大程度地 effectively 有效地, the courts would be in a supporting 辅助的 role vis-à-vis 相对于 Congress 国会, and the primary lead 主导 would be done by Congress. We’ll get there, maybe, hopefully 希望, someday.
+
+One last question that I’ve been asking all my guests: Imagine you’re teaching high school students about democracy 民主. What is one lesson 教训；经验 you’d want to leave them with? What’s the most profound 深刻的 lesson that you believe, especially right now, given the current context 背景?
+
+Voting 投票 is a necessary 必要的 but insufficient 不足的 account 描述 of your civic 公民的 obligations 义务. We have this idea that you vote, you pay taxes 税, and once every few years you do jury service 陪审义务, and those are your civic obligations. I think that’s wrong. That’s like saying humans need clothing, food, and shelter 住所—there’s so much more. You need to think about your civic obligations in terms of a much richer 更丰富的 conception 概念 of citizenship 公民身份.
+
+I’ve been struck 震惊 by how many people are showing up at town meetings 市政会议 to talk to their members of Congress, how many people are doing political protests 抗议 for the first time in their lives. We all need to think about what the boundaries 界限 are of our civic participation 参与 in a more ambitious 雄心勃勃的 fashion 方式 than we have. If I were in front of a high school class, I would say, “Don’t think you’ve done your job when you cast 投（票） your vote.”
+
+Great, that’s actually good for everybody, including high school students, for sure. Thanks so much for your time today. That was a really interesting discussion 讨论. You really helped lay the groundwork 奠定基础 because I feel like I’m in the middle of a snowstorm 暴风雪, and there’s all of these cases 案件 that are coming down, and it’s hard to understand them in a clear manner 方式. I think you helped us organize 整理 our thoughts, so thank you so much.
+
+Thank you!
+
+结论与反思
+回到这一集的问题：**#法院的职责是制止"行政越权行为"吗？#**你会毫不犹豫地说“是的”？
+
+*是的，#毫无疑问这是法院的职责#*，但我想补充一点：**#"法院"不应该是执行这一职责的主要力量。如果要最高效地完成这项工作，法院应该扮演辅助角色，而"国会"才是主导者。#**也许有一天我们会实现这一点，希望如此。
+
+最后一个问题，我问过所有嘉宾：假设你在给高中生讲授民主，你最想让他们记住的一课是什么？尤其是当下这个背景，你认为最深刻的经验是什么？
+
+**投票是"公民义务"的必要部分，但远远不够。**我们总有一种观念，**认为投票、纳税、偶尔履行陪审义务, 就是公民义务的全部。我认为这是错的。**这就像说人类只需要衣服、食物和住所一样——*其实远不止于此。我们需要以更丰富的公民身份概念, 来思考自己的义务。*
+
+让我印象深刻的是，现在有这么多人参加市政会议、与国会议员对话，还有许多人平生第一次参加政治抗议。我们都需要以更宏大的方式, 思考"公民参与"的边界。如果我在高中课堂上，我会说：“别以为投完票, 就完成任务了。”
+
+这确实对所有人——包括高中生——都很有启发。非常感谢你今天的时间，这是一次非常有趣的讨论。你帮助我们理清了思路，因为我现在感觉就像身处暴风雪中，各种案件纷至沓来，很难清晰理解。你的分析让我们更有条理，非常感谢！
+
+谢谢！
+
+==== Credits
+
+Democracy in Question is a production 制作 of the Brookings Podcast Network. Thank you for listening, and thank you to my guests for sharing their time and expertise 专业知识 on this podcast. Also, thanks to the team at Brookings that makes this podcast possible, including Fred Dews, producer 制作人; Daniel Morales, audio engineer 音频工程师 and video manager 视频经理; the team in Governance Studies, including associate producer 副制作人 Adele Patton, plus Antonio Sadore and Terara Molson; and our government affairs 政府事务 and promotion 推广 colleagues 同事 in the Office of Communications at Brookings. Shante Mendes designed 设计 the beautiful logo 标志 and show art. You can find episodes 集 of Democracy in Question wherever you like to get your podcasts and learn more about the show on our website at brookings.edu/democracyinquestion, all one word. I’m Katie Dun Tempest. Thank you for listening.
+
+制作名单
+
+《民主之问》由布鲁金斯学会播客网络制作。感谢您的收听，也感谢嘉宾们抽出时间分享专业见解。同时感谢布鲁金斯团队的支持，包括制作人弗雷德·杜斯、音频工程师兼视频经理丹尼尔·莫拉莱斯、治理研究团队的副制作人阿黛尔·帕顿、安东尼奥·萨多尔和特拉拉·莫尔森，以及布鲁金斯传播办公室的政府事务与推广同事。香特·门德斯设计了精美的标志和节目视觉。您可以在任何播客平台收听《民主之问》，或访问我们的网站brookings.edu/democracyinquestion（无空格）了解更多。我是凯蒂·邓·坦佩斯特，感谢您的收听。
+
+'''
+
+
+== pure
+
+==== Introduction to the Podcast and Host
+Hi, I'm Katie Dun Tempest, a visiting fellow in governance studies at the Brookings Institution and director of the Katzman Initiative on Improving Interbranch Relations and Government. This is Season 2 of Democracy in Question, a podcast where we examine current events through the lens of America’s political foundations, thinking about how recent events fit into the broader stream of democracy that runs throughout our history. You can find episodes of this podcast at brookings.edu/democracyinquestion, all one word.
+
+On today’s episode, I’m posing the question: Is it the court’s job to check executive overreach? Mass firings of federal workers, the deportation of people without due process, the detention of pro-Palestinian protesters, and the defunding of key research institutions—as of today, March 18, 2025, these are just a few of the Trump administration’s recent actions that have sparked serious questions of constitutionality. So how far can a president go, and where does the judiciary step in to check the executive branch?
+
+In this episode of Democracy in Question, we’re diving deep into the vital role of the courts in safeguarding constitutional boundaries. We’ll explore some of the most consequential pending court cases since President Trump’s inauguration, along with the statutory questions and constitutional considerations they raise. We hope to give you a clear, thoughtful understanding of how the judiciary works to keep executive power in check when it matters most.
+
+I’m thrilled to be joined by my colleague Ben Wittes, a senior fellow in the Governance Studies program at Brookings and co-founder and editor-in-chief of Lawfare. Together, we’ll break down these critical issues and explore what’s at stake for American democracy. Welcome, Ben! I’m eager to dive into the discussion with you about how pivotal a role the courts play in maintaining our system of checks and balances.
+
+Thanks, good to be here! So why don’t you just take it from there? From that intro, what are you thinking?
+
+==== The Courts’ Historical Role in Checking Executive Power
+All right, so let’s start with the easy part: Do the courts have a role in checking the executive branch in the legality of its actions? The answer in our historical system is yes, absolutely, and that goes back a very long way. Obviously, the right of judicial review of the constitutionality of congressional action is claimed as early as Marbury v. Madison in 1803, but the idea that the courts might restrain executive activity is actually even older than that. The concept of habeas corpus, where you’re challenging the legality of somebody’s detention, is in the common law, predating the Constitution. The idea that the courts might seek to restrain the executive branch from unlawful action is quite early established in the American tradition. So that’s the easy question.
+
+The hard question—and one that we have never really confronted before—is what happens when a president comes into office and immediately, across a wide range of diverse programmatic activity, starts doing things that are in conflict with statutes? Notice that I didn’t say illegal, because in each of these cases, he has some theory about why he’s in fact allowed to do this. But there’s at least somebody who would say, “No, you’re not allowed to do this because this law says you have to behave this way.” He comes in and, with an “everything everywhere all at once” quality, throws a million legal questions at the wall all at the same time.
+
+Of course, because these are not hypotheticals—these are real people getting fired, real people getting deported, real people getting put on administrative leave, or real people having their expected grants withheld—they immediately sue. There are consequences, and there are plaintiffs. You’re mostly not dealing here with a situation where you can do it in slow motion because there’s not really any immediate harm to somebody. It’s not a hypothetical where Congress passes a law that theoretically would affect certain people negatively in certain ways, but nobody’s actually been prosecuted under those laws. We’re dealing with thousands and thousands of actually harmed people who are claiming the executive branch is behaving illegally, all at the same time. That is a problem that I don’t think we have ever faced before.
+
+We’ve faced situations where the president is alleged to have done one really big thing illegally—seizing the steel mills, suspending habeas corpus—and you kind of have some time to figure it out. But there is a deep challenge to the courts in this “doing everything everywhere all at once” problem, and pivotally doing it while talking about your authority to defy court orders. You’re kind of putting the courts on notice: “I’m going to do all this stuff that you might think is illegal, and if you say it’s illegal, I’m going to do it anyway.” That’s the nature of the current challenge. I understand that as of this point, there’s over 100 cases that have been filed. Is there a way to categorize them or to prioritize them? Is there some sort of hierarchy where you see some of these challenges as the most significant to our democracy?
+
+==== Categorizing the Legal Challenges
+Yeah, okay, so let me divide them into four categories of cases. I used to say three, but now I think there’s meaningfully a fourth category.
+
+The first category, which is the smallest, is the category of cases where the administration is taking a substantive policy position that somebody finds objectionable and illegal, and that substantive view of policy is being challenged. The most prominent example of this category—which I say is the smallest—is the birthright citizenship case. The administration comes in and says, “The Constitution has always been understood to mean that if you’re born here as a child of illegal aliens, you’re a citizen anyway. We think it doesn’t mean that, and we direct the executive branch to behave otherwise.” Somebody comes in and sues and says, “No, it actually means what it appears to say.” So that’s category one.
+
+Category two is firing people, and these are all government people. Some of them involve people who were the heads of independent agencies; some of them involve line people at the FBI and at the Justice Department who have civil service protections. In each of these cases, the president is taking the position, “I, under the Appointments Clause, have the authority to control the executive branch, and that means if you work for the executive branch, I can fire you.” I wanted to add in one more subgroup there that I think is kind of interesting: the inspector generals, because they’re congressionally mandated, as are the independent agencies.
+
+In each of these cases, the president claims the authority to control the executive branch, and there’s some statute that Congress has passed that gives this person some category of protection—civil service protections, or by law, independent agencies where you can only remove the heads with some form of cause, and inspectors general who also have that “for cause” removal, or even just a notification requirement, like a two-week notification period. In each of these, the administration says, “No, we can ignore the law because the president’s authority to control the executive branch is broad.”
+
+Does that mean then that this notion of civil service protections—most observers of American government have always thought that one of the good things about working for the federal government is that you do have protections—in each of these cases, the strongest position of the executive branch would be, “We get to do this, and laws that get in the president’s way in this regard are invalid”? Now, I think the higher up you are in the government, the more you’re in a policymaking role, the more likely that claim is to have legs in the courts, particularly as they’re currently constituted. I doubt very much that the courts will say the president can override civil service protections, but that’s going to be the claim. So that’s category two.
+
+Category three is this thing that has cropped up in a variety of different contexts, but there are dogged efforts to shut down federal agencies entirely—dismantling federal agencies. They often involve what’s called an impoundment, where Congress has said, “You must spend money on X, Y, and Z,” and the president says, “No, I’m not spending that money.” Sometimes that shows up in a foreign policy context, like the USAID cases, and sometimes it shows up in a more domestic context, like some of the freezes on federal grants. There’s this broad category of cases that involves some measure or another of impoundment.
+
+There’s a related set of cases that involve, “Okay, we’re going to dismantle this agency even though Congress required that this agency exist.” So, what if we strip it down to the bone? How far can we go in getting rid of the Consumer Financial Protection Board without running afoul of the statute that creates it? And by the way, if we do run afoul of that statute, can we get away with it anyway? So that’s category number three. Categories two and three account for an enormous percentage of the litigation.
+
+This brings me to category four, which I think really came to fruition this week: litigation involving immigration detainees and people who are, to one degree or another, slated for deportation. Those have become particularly acute since the president issued an order invoking the Alien Enemies Act of 1798—older than Marbury v. Madison. Usually, Marbury v. Madison is the oldest thing that gets cited in a constitutional law discussion that’s not the Constitution itself, but not today. Those cases, again, are relatively small in number, but they’re super important because they involve people getting detained at airports and then denied entry to the country despite an apparently valid visa, or a few hundred Venezuelans being put on planes and flown to Panama despite a court order that says the planes have to turn around. These are acute separation-of-powers questions that really impact the liberty of human beings.
+
+==== Assessing Threats to Democracy
+From your perspective, which do you see as the most threatening to American democracy?
+
+Okay, so they’re very different in that regard. The most profound tectonic question—it doesn’t involve human liberty or anything—is, in my opinion, the impoundment question, because this is a question of whether Congress really has the power of the purse or whether one of the purse strings is held by the president. If you’re thinking about the tectonic plates of democracy, this is the most profound and important question. If you’re thinking about the costs for human liberty, it’s really hard to argue with the immigration cases. If you’re thinking about the cases that are fundamentally about the president’s control over the executive branch, those are really important for the question of whether the president can turn the executive branch into an instrument of his personal will. I would say they’re really important for different aspects of democracy.
+
+The one that I think is the least important is, ironically, the ones that challenge substantive policy areas. I believe in birthright citizenship, but there are democratic countries that have it, and there are democratic countries that don’t have it. I believe in it very deeply, but I don’t think the fate of the republic turns on it.
+
+I have this fear that Congress, by sort of ceding a lot of its authority—including impoundment and the ability to control the purse strings, which they seem to be ceding—is it something like, once you lose these powers, I guess we don’t know because we don’t have this prior example in history, but let’s say 10 years from now or even less, can Congress reassert its authority and capture back what it gave to the executive?
+
+I take it in your question you’re assuming that the president gets away with it for now and that the courts do not stop it. Well, I guess what I’m concerned about is that members of the Republican Party in Congress are not protesting this. I think there are two mechanisms, other than a change of heart on their part, that you could imagine arresting it. The first is that the courts actually say, “No, that statute says you have to spend the money, and that’s not discretionary.” Now, over what time period they would have occasion to say that is an interesting question. The courts will not be in a rush to reach an impoundment question; they will figure out every way to avoid it. But eventually, he’s doing some impoundments here.
+
+Was Nixon the last president to attempt this? He was the last president to claim the authority unilaterally. Eventually, they’re going to have to argue that the Impoundment Control Act, which was put in place to counter Nixon’s claims, is unconstitutional and the president is allowed to do this. They have not argued that yet. What they’ve argued is that these aren’t impoundments. There’s a whole sequence of questions that they have to lose on before they lose. They’re going to lose on a lot of them because they’re in fact impounding money, but that’s going to take some time.
+
+What do you mean by “some time”? Like eight months, a year, or...? Well, I don’t know. It depends on how aggressive they want to be about it. If you want to do it in a way that’s as deniable as possible, you have to be more subtle about it. If you’re subtler about it, you create other arguments for yourself, and it can take a much longer period of time. On the other hand, if you don’t give the National Endowment for Democracy money, which is a clear line item in the budget, they’re going to sue you—which they’ve done. By the way, the government paid them almost as soon as they sued.
+
+Oh, really? Yes. In the interest of full disclosure, Benjamin Wittes’ spouse, Tamara Koffman Wittes, also a former Brookings scholar, is the president of the National Democratic Institute, a beneficiary of the National Endowment for Democracy. One question is: Does the government really want to force these issues, or do they want to thump their chests, but then when you really call them on an actual impoundment, they’ll back down? I don’t know the answer to that question. How aggressive they are about it will guide how quickly a case comes before the Supreme Court that presents the issue squarely.
+
+Don’t the prior 50 days suggest that they’ll continue to be extremely aggressive? They’re mixed. They’re being very aggressive in the first instance. When the USAID suit happens, they are aggressive about appealing it, but they don’t admit that it’s an impoundment. Then, when they’re ordered to pay out $2 billion, they ask the Supreme Court for relief, and when they don’t get it, they start paying. Eventually, the courts are going to confront these issues, but the fact that they—you can call it backing down, you can call it ultimately complying with court orders, you can call it something else—but they’re actually taking steps to avoid having to go to the courts and say, “Yeah, we impounded this, and damn it, we’re allowed to.” That’s not what they’re doing.
+
+Do you think that’s a strategy because they know it’s not going to pass muster in the court? If you are the Solicitor General, it is probably very important, if you know you’re going to have to litigate this, that you want the right facts to litigate it with. The facts where you haven’t made a specific decision—it’s a blanket thing, “We’re freezing all of this,” and you have malaria kids dying—that’s not a good set of facts to litigate the “we get to not spend this money” thing. From a litigation point of view, if you’re trying to manage this litigation from the government side, getting the government to back down in the most egregious situations where you’re just going to lose, you want to wait until you have a set of facts that you have a chance with. That’s what I think is going on, but I don’t know.
+
+I think I sidetracked you, though. Tell me, the impoundment is the one that you believe to be the most...? Yeah, I think this is the most important to the function of a democracy. It is the least important from a human liberty standpoint, but look, in a world in which you are trying to concentrate executive power and you’re trying to get the courts to tolerate that, this is a big piece of the enchilada.
+
+==== Potential Solutions and the Role of Congress
+There’s really only two ways that this gets corrected. One is if the courts ultimately force it, but the second is if the composition of Congress changes. This problem will go away as soon as Congress says, “Nice White House helicopter you have there. It would be a shame if we put restrictions on your ability to fly in it and spend money to fly in it.” Congress’s ability to prevent the president from spending money—or, you want to take over Greenland? Good luck getting any money to spend on that. Once Congress decides that it wants to deal with a question like this, it has a lot of ways to make its will felt. The problem now, as you described, is that Congress doesn’t want to do that.
+
+How are you feeling these days about the Supreme Court? I know last summer was the big presidential immunity case, and I know that predicting the outcomes of some of these cases is difficult, but do you think, at their core, they are likely to uphold some of these constitutional separation-of-powers principles?
+
+I think principles are very different from one another, and even within one basket, the merits of things can vary. For example, I don’t believe the statutory “for cause” restrictions on removing independent agency heads—I think the Supreme Court’s going to side with Trump on that.
+
+Oh, you do? I do. Why? Because they’ve all but said so in a previous case, and I think the old Humphrey’s Executor case from the ’30s is a dead case walking. But I don’t think that’s true of civil service protections. The lower down the executive food chain you go, the more attractive the idea that Congress can regulate the executive’s management of the executive branch becomes. Even within the zone of what are called Appointments Clause issues, I think they’re going to end up being a bit of a mixed bag.
+
+I don’t know how to count five votes on the Supreme Court for the idea that the president can impound lawfully appropriated money. But look, I also didn’t count five votes on the Supreme Court for the idea that the president was absolutely immune from criminal prosecution for a wide range of his activities, so I’m modest about my ability to predict these things.
+
+What do your tea leaves tell you about the birthright citizenship case, should that get to the Supreme Court? No judge in the country has held anything other than that the Constitution means what it says on the subject of birthright citizenship, and I would be shocked if there were more than two votes, maybe three, for anything else at the Supreme Court. I think that one’s the easiest.
+
+Do you think that what’s occurred over the past 50 years is sort of a series of the boldest challenges to our Constitution, or do you think they will keep spattering through the first year, second year, until the midterm elections and the equation changes? Well, it won’t continue at the current pace; the pace is already slackening. It will continue—they do continue to do things, and the more things you do, the more opportunities there are to create plaintiffs, and some percentage of those plaintiffs sue. This is going to be a litigation-heavy environment for the next two years. By the way, that’s not a bad thing. Any bold agenda by any administration is going to create a lot of litigation. What’s novel about this is that, first of all, they’re going to lose so much of the litigation, particularly at the lower court levels, and secondly, the litigations are so dramatic because the underlying policy objectives are so bold.
+
+Do you think there’s partly a strategy in coming out with this rapid pace and rapid set of aggressive moves—that their hope was to overwhelm the courts, in which case a lot of these policies can continue? Like, people have lost their jobs, and it’s going to take a while before they get rehired based on a court case.
+
+I don’t know if the goal is to overwhelm the courts. We have 900 federal judges, and a hundred biggish admin law cases—it’s a volume, but it’s not going to overwhelm the courts. It’s overwhelming the public, but the courts chug along, and they’re built for this. Look, I think you just identified one of the fundamental problems here, which is they’re going to lose a lot of this litigation and they’re going to win anyway. The reason is, if you fire a whole lot of people and then it ultimately turns out two years later that you fired them illegally, but they’ve gone on and gotten other jobs, and the goal wasn’t specifically to get rid of them as individuals—it was to destroy the agencies that they work for—you can lose a lot of cases and still win.
+
+Now, it’s a really cost-ineffective way to reduce a workforce because you’re going to end up having to pay them back wages, you’re going to have to end up paying their pensions. Firing somebody illegally is a very ineffective, from a cost point of view, way to get rid of them, and it’s a really bad way to downsize a workforce. But if the question is, “Is the Consumer Financial Protection Board still around?” the answer may still be no at the end of the day. That’s true of USAID, and that’s true of others. You can win the war after losing every legal battle because you’ve just reduced the place to a wasteland. That may be all that they were after.
+
+I fear that may be right—that they’re willing to lose a lot of litigation because the point is to wreck things, and it’s much quicker this way. You wreck everything, and then, yeah, you’ll pay a lot of damages later.
+
+==== Conclusion and Reflections
+So just to return to the episode’s question: Is it the court’s job to check executive overreach? You would say absolutely yes?
+
+Yeah, there’s no doubt that it’s the court’s job, but I will say something else about that. The courts should not be the primary people doing this job. If you wanted to do this job maximally effectively, the courts would be in a supporting role vis-à-vis Congress, and the primary lead would be done by Congress. We’ll get there, maybe, hopefully, someday.
+
+One last question that I’ve been asking all my guests: Imagine you’re teaching high school students about democracy. What is one lesson you’d want to leave them with? What’s the most profound lesson that you believe, especially right now, given the current context?
+
+Voting is a necessary but insufficient account of your civic obligations. We have this idea that you vote, you pay taxes, and once every few years you do jury service, and those are your civic obligations. I think that’s wrong. That’s like saying humans need clothing, food, and shelter—there’s so much more. You need to think about your civic obligations in terms of a much richer conception of citizenship.
+
+I’ve been struck by how many people are showing up at town meetings to talk to their members of Congress, how many people are doing political protests for the first time in their lives. We all need to think about what the boundaries are of our civic participation in a more ambitious fashion than we have. If I were in front of a high school class, I would say, “Don’t think you’ve done your job when you cast your vote.”
+
+Great, that’s actually good for everybody, including high school students, for sure. Thanks so much for your time today. That was a really interesting discussion. You really helped lay the groundwork because I feel like I’m in the middle of a snowstorm, and there’s all of these cases that are coming down, and it’s hard to understand them in a clear manner. I think you helped us organize our thoughts, so thank you so much.
+
+Thank you!
+
+==== Credits
+Democracy in Question is a production of the Brookings Podcast Network. Thank you for listening, and thank you to my guests for sharing their time and expertise on this podcast. Also, thanks to the team at Brookings that makes this podcast possible, including Fred Dews, producer; Daniel Morales, audio engineer and video manager; the team in Governance Studies, including associate producer Adele Patton, plus Antonio Sadore and Terara Molson; and our government affairs and promotion colleagues in the Office of Communications at Brookings. Shante Mendes designed the beautiful logo and show art. You can find episodes of Democracy in Question wherever you like to get your podcasts and learn more about the show on our website at brookings.edu/democracyinquestion, all one word. I’m Katie Dun Tempest. Thank you for listening.
+
+'''
+

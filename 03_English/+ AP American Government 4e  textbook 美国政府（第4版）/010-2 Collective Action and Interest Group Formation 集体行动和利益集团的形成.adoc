@@ -1,0 +1,105 @@
+
+= 010-2 Collective Action and Interest Group Formation 集体行动和利益集团的形成
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../../myAdocCss.css
+
+
+'''
+
+
+== 释义
+
+
+
+
+
+In any group project in which you have participated, you may have noticed that a small number of students did the bulk of the work while others did very little. Yet everyone received the same grade. Why do some do all the work, while others do little or none? How is it possible to get people to work when there is a disincentive to do so? This situation is an example of a collective action problem, and it exists in government as well as in public and private organizations. Whether it is Congress trying to pass a budget or an interest group trying to motivate members to contact lawmakers, organizations must overcome collective action problems to be productive. This is especially true of interest groups, whose formation and survival depend on members doing the necessary work to keep the group funded and operating.
+
+[.my2]
+在你参与过的任何小组项目中，你可能都注意到，少数学生承担了大部分工作，而其他学生却几乎什么都没做。然而，所有人的成绩却都一样。为什么有些人包揽所有工作，而有些人却几乎什么都没做？当缺乏动力时，如何才能让人们积极参与？这种情况就是一个集体行动困境的例子，它不仅存在于政府部门，也存在于公共和私营组织中。无论是国会试图通过预算，还是利益集团试图动员成员联系立法者，组织都必须克服集体行动困境才能高效运作。利益集团尤其如此，它们的成立和生存依赖于成员付出必要的努力来维持组织的资金和运转。
+
+COLLECTIVE ACTION AND FREE RIDING
+集体行动与搭便车
+Collective action problems exist when people have a disincentive to take action.17 In his classic work, The Logic of Collective Action, economist Mancur Olson discussed the conditions under which collective actions problems would exist, and he noted that they were prevalent among organized interests. People tend not to act when the perceived benefit is insufficient to justify the costs associated with engaging in the action. Many citizens may have concerns about the appropriate level of taxation, gun control, or environmental protection, but these concerns are not necessarily strong enough for them to become politically active. In fact, most people take no action on most issues, either because they do not feel strongly enough or because their action will likely have little bearing on whether a given policy is adopted. Thus, there is a disincentive to call your member of Congress, because rarely will a single phone call sway a politician on an issue.
+
+[.my2]
+当人们缺乏采取行动的动力时，就会出现集体行动困境。经济学家曼瑟 ·奥尔森在其经典著作 《集体行动的逻辑 》 中探讨了集体行动困境存在的条件，并指出这种困境在有组织的利益集团中普遍存在。当人们认为行动的收益不足以抵消其成本时，他们往往不会采取行动。许多公民可能关心税收水平、枪支管制或环境保护等问题，但这些关心并不足以促使他们积极参与政治活动。事实上，大多数人对大多数问题都不采取任何行动，要么是因为他们的感受不够强烈，要么是因为他们的行动可能对某项政策的采纳影响甚微。因此，人们缺乏给国会议员打电话的动力，因为一个电话很少能左右政客在某个问题上的立场。
+
+Why do some students elect to do little on a group project? The answer is that they likely prefer to do something else and realize they can receive the same grade as the rest of the group without contributing to the effort. This result is often termed the free rider problem, because some individuals can receive benefits (get a free ride) without helping to bear the cost. When National Public Radio (NPR) engages in a fund-raising effort to help maintain the station, many listeners will not contribute. Since it is unlikely that any one listener’s donation will be decisive in whether NPR has adequate funding to continue to operate, most listeners will not contribute to the costs but instead will free ride and continue to receive the benefits of listening.
+
+[.my2]
+为什么有些学生在小组项目中选择偷懒？答案很可能是他们更愿意做其他事情，并且意识到即使不付出努力，也能获得与其他组员相同的分数。这种情况通常被称为 “搭便车”问题 ，因为有些人可以不承担任何成本就获得好处​​（搭便车）。例如，当美国国家公共广播电台（NPR）发起筹款活动以维持电台运营时，许多听众都不会捐款。由于任何一位听众的捐款都不太可能对 NPR 能否获得足够的资金继续运营起到决定性作用，因此大多数听众不会承担任何费用，而是选择搭便车，继续享受收听 NPR 带来的好处。
+
+Collective action problems and free riding occur in many other situations as well. If union membership is optional and all workers will receive a salary increase regardless of whether they make the time and money commitment to join, some workers may free ride. The benefits sought by unions, such as higher wages, collective bargaining rights, and safer working conditions, are often enjoyed by all workers regardless of whether they are members. Therefore, free riders can receive the benefit of the pay increase without helping defray the cost by paying dues, attending meetings or rallies, or joining protests, like that shown in Figure 10.5.
+
+[.my2]
+集体行动困境和搭便车现象也存在于许多其他情况下。如果加入工会是自愿的，并且所有工人无论是否投入时间和金钱加入工会都能获得加薪，那么一些工人可能会搭便车。 工会所追求的利益，例如更高的工资、集体谈判权和更安全的工作环境，通常所有工人都能享有，无论他们是否是工会成员。因此，搭便车者可以享受加薪带来的好处，而无需通过缴纳会费、参加会议或集会、或参与抗议活动等方式来帮助分担成本，如图 10.5 所示。
+
+A group of people gathered outside, many with signs, listening to a person speaking.
+
+[.my2]
+Figure 10.5 In December 2018, in protest against working conditions such as computer tracking and being required to work at a high rate of speed, around two hundred Amazon workers, mostly of East African descent, protested outside their workplace in Shakopee, Minnesota. (credit: modification of "East African worker protest against Amazon" by Fibonacci Blue/Wikimedia Commons, CC BY)
+图 10.5 2018 年 12 月，约 200 名亚马逊员工（其中大部分是东非裔）在明尼苏达州沙科皮的办公地点外举行抗议活动，以反对诸如电脑跟踪和被要求高速工作等工作条件。（图片来源：Fibonacci Blue/Wikimedia Commons 的“东非裔工人抗议亚马逊”图片，CC BY 授权，已修改）
+If free riding is so prevalent, why are there so many interest groups and why is interest group membership so high in the United States? One reason is that free riding can be overcome in a variety of ways. Olson argued, for instance, that some groups are better able than others to surmount collective action problems.18 They can sometimes maintain themselves by obtaining financial support from patrons outside the group.19 Groups with financial resources have an advantage in mobilizing in that they can offer incentives or hire a lobbyist. Smaller, well-organized groups also have an advantage. For one thing, opinions within smaller groups may be more similar, making it easier to reach consensus. It is also more difficult for members to free ride in a smaller group. In comparison, larger groups have a greater number of individuals and therefore more viewpoints to consider, making consensus more difficult. It may also be easier to free ride because it is less obvious in a large group when any single person does not contribute. However, if people do not lobby for their own interests, they may find that they are ignored, especially if smaller but more active groups with interests opposed to theirs lobby on behalf of themselves. Even though the United States is a democracy, policy is often made to suit the interests of the few instead of the needs of the many.
+
+[.my2]
+如果搭便车现象如此普遍，为什么美国会有如此多的利益集团，而且利益集团成员比例如此之高？原因之一是，搭便车可以通过多种方式克服。例如，奥尔森认为，有些集团比其他集团更能克服集体行动难题。 18 它们有时可以通过获得集团外部赞助人的财政支持来维持自身运转。 19 拥有财政资源的集团在动员方面具有优势，因为它们可以提供激励措施或聘请游说者。规模较小、组织良好的集团也具有优势。首先，小型集团内部的意见可能更加一致，更容易达成共识。其次，小型集团的成员更难搭便车。相比之下，大型集团成员众多，因此需要考虑的观点也更多，这使得达成共识更加困难。此外，在大型集团中，如果有人不做出贡献，这种行为可能不太容易被察觉，因此搭便车也可能更容易发生。然而，如果人们不为自身利益游说，他们可能会发现自己的诉求被忽视，尤其是在一些规模较小但更为活跃、利益与他们相悖的团体替他们游说的情况下。尽管美国是民主国家，但政策制定往往是为了迎合少数人的利益，而非多数人的需要。
+
+Group leaders also play an important role in overcoming collective action problems. For instance, political scientist Robert Salisbury suggests that group leaders will offer incentives to induce activity among individuals.20 Some offer material incentives, which are tangible benefits of joining a group. AARP, for example, offers discounts on hotel accommodations and insurance rates for its members, while dues are very low, so they can actually save money by joining. Group leaders may also offer solidary incentives, which provide the benefit of joining with others who have the same concerns or are similar in other ways. Some scholars suggest that people are naturally drawn to others with similar concerns. The NAACP is a civil rights groups concerned with promoting equality and eliminating discrimination based on race, and members may join to associate with others who have dealt with issues of inequality.21
+团体领导者在克服集体行动困境方面也发挥着重要作用。例如，政治学家罗伯特· 索尔兹伯里指出，团体领导者会提供激励措施来激发成员的积极性。 20 一些领导者提供物质激励 ，即加入团体可获得的切实利益。例如，美国退休人员协会（AARP）为其会员提供酒店住宿和保险折扣，而会费却很低，因此会员加入后实际上可以省钱。团体领导者也可能提供团结激励 ，即与拥有相同关注点或在其他方面相似的人一起加入团体所带来的益处。一些学者认为，人们天生会被与自己有相似关注点的人所吸引。全国有色人种协进会 （NAACP） 是一个致力于促进平等和消除种族歧视的民权组织，其成员加入该组织可能是为了与那些曾处理过不平等问题的人建立联系。 21
+
+Similarly, purposive incentives focus on the issues or causes promoted by the group. Someone concerned about protecting individual rights might join a group like the American Civil Liberties Union (ACLU) because it supports the liberties guaranteed in the U.S. Constitution, even the free expression of unpopular views.22 Members of the ACLU sometimes find the messages of those they defend (including Nazis and the Ku Klux Klan) deplorable, but they argue that the principle of protecting civil liberties is critical to U.S. democracy. In many ways, the organization’s stance is analogous to James Madison’s defense of factions mentioned earlier in this chapter. A commitment to protecting rights and liberties can serve as an incentive in overcoming collective action problems, because members or potential members care enough about the issues to join or participate. Thus, interest groups and their leadership will use whatever incentives they have at their disposal to overcome collective action problems and mobilize their members.
+
+[.my2]
+同样， 目的性激励机制侧重于团体所倡导的议题或事业。例如，关心个人权利的人可能会加入美国公民自由联盟 （ACLU）这样的组织，因为该组织支持美国宪法保障的各项自由，甚至包括自由表达不受欢迎的观点。 22 ACLU 的成员有时也会对他们所捍卫的对象（包括纳粹和三 K 党）的言论感到愤慨，但他们认为保护公民自由的原则对美国民主至关重要。在许多方面，该组织的立场类似于本章前面提到的詹姆斯·麦迪逊对派系的辩护。对保护权利和自由的承诺可以成为克服集体行动困境的激励因素，因为成员或潜在成员会出于对这些议题的关心而加入或参与其中。因此，利益集团及其领导层会利用一切可用的激励手段来克服集体行动困境并动员其成员。
+
+Finally, sometimes collective action problems are overcome because there is little choice about whether to join an organization. For example, some organizations may require membership in order to participate in a profession. To practice law, individuals may be required to join the American Bar Association or a state bar association. In the past, union membership could be required of workers, particularly in urban areas controlled by political machines consisting of a combination of parties, elected representatives, and interest groups.
+
+[.my2]
+最后，有时集体行动难题得以克服，是因为人们几乎没有选择加入某个组织的余地。例如，某些组织可能要求成员资格才能从事特定职业。要从事法律工作，个人可能需要加入美国律师协会或州律师协会。过去，工会成员资格可能被强制要求，尤其是在由政党、民选代表和利益集团组成的政治机器控制的城市地区。
+
+Link to Learning  学习链接
+Visit the Free Rider Problem for a closer look at free riding as a philosophical problem. Think of a situation you have been in where a collective action problem existed or someone engaged in free riding behavior. Why did the collective action problem or free riding occur? What could have been done to overcome the problem? How will knowledge of these problems affect the way you act in future group settings?
+请访问 “搭便车问题” 页面，深入了解搭便车这一哲学问题。想想你曾经遇到过的集体行动困境或有人搭便车的情形。为什么会出现集体行动困境或搭便车现象？可以采取哪些措施来克服这个问题？了解这些问题会如何影响你未来在群体环境中的行为？
+
+DISTURBANCE THEORY AND COLLECTIVE ACTION
+扰动理论与集体行动
+In addition to the factors discussed above that can help overcome collective action problems, external events can sometimes help mobilize groups and potential members. Some scholars argue that disturbance theory can explain why groups mobilize due to an event in the political, economic, or social environment.23 For example, in 1962, Rachel Carson published Silent Spring, a book exposing the dangers posed by pesticides such as DDT.24 The book served as a catalyst for individuals worried about the environment and the potential dangers of pesticides. The result was an increase in both the number of environmental interest groups, such as Greenpeace and American Rivers, and the number of members within them.
+
+[.my2]
+除了上文讨论的有助于克服集体行动困境的因素外，外部事件有时也能帮助动员群体和潜在成员。一些学者认为， 扰动理论可以解释为什么政治、经济或社会环境中的事件会促使群体动员起来。 23 例如，1962 年，蕾切尔· 卡森出版了 《寂静的春天》 ，这本书揭露了滴滴涕等杀虫剂的危害。 24 这本书激发了人们对环境和杀虫剂潜在危害的担忧。其结果是，绿色和平组织和美国河流保护协会等环保组织的数量及其成员人数均有所增加。
+
+More recently, several shooting deaths of unarmed young African American men have raised awareness of racial issues in the United States and potential problems in policing practices, including racial disparities in treatment by police officers.25 In 2014, Ferguson, Missouri, erupted in protests and riots26 following a decision not to indict Darren Wilson, a White police officer, in the fatal shooting of Michael Brown, who had allegedly been involved in a theft at a local convenience store and ended up in a dispute with the officer.27 The incident mobilized groups representing civil rights, such as the protestors in Figure 10.6, as well as others supporting the interests of police officers. In May 2020, George Floyd died shortly after police officer Derek Chauvin leaned his knee on Floyd's neck for nine and half minutes, while Floyd was handcuffed and laying face down on the ground.28 Chauvin was later convicted of murder for the act. The protests that followed the release of video footage of the incident occurred in cities all across the United States, including Washington DC, and were much greater—bigger, more widespread, and more significant—than the Ferguson demonstrations. (A protest is an orderly exercise of the constitutional right of free speech and peaceful assembly. Rioting involves destroying property and/or attacking other people, which are crimes.)29
+近年来，多起非裔美国青年手无寸铁遭枪击身亡的事件，引发了人们对美国种族问题以及警务实践中潜在问题的关注，包括警察对待不同种族人群的差异。 25 2014 年，密苏里州弗格森市爆发了抗议和骚乱， 26 起因是白人警察达伦·威尔逊枪杀了迈克尔· 布朗 。据称，布朗在当地一家便利店行窃后与威尔逊发生争执。 27 该事件动员了包括图 10.6 所示的抗议者在内的民权团体，以及其他支持警察权益的团体。2020 年 5 月，乔治· 弗洛伊德被警察德里克·肖万用膝盖压住脖子长达九分半钟，当时弗洛伊德已被戴上手铐，脸朝下趴在地上。 28 肖万后来因该行为被判谋杀罪。事件视频公布后，美国各地城市，包括华盛顿特区，都爆发了抗议活动，其规模远超弗格森示威活动——范围更广、程度更高、意义也更重大。（抗议是有序行使宪法赋予的言论自由和和平集会权利。骚乱则涉及破坏财产和/或攻击他人，这些都是犯罪行为。） 29
+
+Image A shows a mural painting of George Floyd outside the market where he died among flowers and signs in a makeshift memorial. Image B shows activists gathered with a large sign reading “Defund Police”.
+
+[.my2]
+Figure 10.6 On May 25, 2020, in Minneapolis, George Floyd was murdered while in police custody as onlookers recorded the incident; he has since been memorialized at the site of the crime (a). His death led to massive protests and calls to divest funds from police departments across the country, including in Minneapolis (b). (credit a: modification of "George Floyd Memorial" by Fibonacci Blue/Flickr, CC BY; credit b: modification of "Minneapolis City Council Pledges to Dismantle Police Department" by Tony Webster/Flickr, CC BY)
+图 10.6 2020 年 5 月 25 日，在明尼阿波利斯，乔治·弗洛伊德在警方拘留期间被杀害，旁观者拍摄了整个过程；此后，人们在案发现场为他设立了纪念碑 (a)。他的死引发了大规模抗议，并呼吁削减全国各地（包括明尼阿波利斯）警察部门的资金 (b)。（图片来源：a：Fibonacci Blue/Flickr 的“乔治·弗洛伊德纪念碑”的修改版，CC BY；b：Tony Webster/Flickr 的“明尼阿波利斯市议会承诺拆除警察局”的修改版，CC BY）
+Both the Silent Spring and Ferguson examples demonstrate the idea that people will naturally join groups in response to disturbances. Some mobilization efforts develop more slowly and may require the efforts of group leaders. Sometimes political candidates can push issues to the forefront, which may result in interest group mobilization. The recent focus on immigration, for example, has resulted in the mobilization of those in support of restrictive policies as well as those opposed to them (Figure 10.7). Rather than being a single disturbance, debate about immigration policy has ebbed and flowed in recent years, creating what might best be described as a series of minor disturbances. When, during his presidential candidacy, Donald Trump made controversial statements about immigrants, many rallied both for and against him.30
+《 寂静的春天》 和弗格森事件都表明，人们会在动荡时期自然而然地加入群体。有些动员行动发展较为缓慢，可能需要群体领导者的努力。有时，政治候选人会将某些议题推到风口浪尖，从而引发利益集团的动员。例如，近期对移民问题的关注就导致了支持和反对限制性政策的人士的动员（ 图 10.7 ）。近年来，关于移民政策的辩论并非单一的动荡，而是此消彼长，形成了一系列小规模的动荡。唐纳德· 特朗普在总统竞选期间发表了关于移民的争议性言论，引发了支持和反对他的各方集会。 30
+
+A chart titled “Which comes closer to your view of immigrants today?”To the left are two images of people holding signs that read “Peace for immigrants” and “We are not criminals we are hard workers!”. In the center is a graph showing that in 2019 62% of respondents responded “strengthen country through hard work and talents and 28% responded “weaken country by taking jobs, housing, and health care. The graph illustrates that views about immigrants have become increasingly positive over time. To the right are two images of people holding signs that read “Secure the borders now” and “Stop illegal immigration”.
+
+[.my2]
+Figure   数字 10.7 Protestors take to the streets on different sides of the immigration issue. Some argue that the United States is a nation of immigrants, whereas others demonstrate in support of greater restrictions on immigration. (credit "Peace": modification of "Minneapolis protest against Arizona immigrant law SB 1070" by Fibonacci Blue/Flickr, CC BY; credit "We Are Not": modification of "We Are Not Criminals" by Michael Righi/Flickr, CC BY; credit "Secure": modification of "Immigration Protest" by Travis Wise/Flickr, CC BY; credit "Stop": modification of "Protest by the Tea Parties Against Amnesty and Illegal Immigration (and counter protest) in St. Paul on November 14, 2009" by Fibonacci Blue/Flickr, CC BY)
+抗议者们就移民问题走上街头，各执一词。一些人认为美国是一个移民国家，而另一些人则支持加强移民限制。（图片来源：“和平”：Fibonacci Blue/Flickr 的“明尼阿波利斯抗议亚利桑那州移民法 SB 1070”的修改版，CC BY；“我们不是”：Michael Righi/Flickr 的“我们不是罪犯”的修改版，CC BY；“安全”：Travis Wise/Flickr 的“移民抗议”的修改版，CC BY；“停止”：Fibonacci Blue/Flickr 的“2009 年 11 月 14 日圣保罗茶党反对大赦和非法移民（及反抗议）的抗议”的修改版，CC BY）
+Finding a Middle Ground
+寻找折衷方案
+Student Activism and Apathy
+学生积极性和冷漠
+Student behavior is somewhat paradoxical when it comes to political participation. On one hand, students have been very active on college campuses at various times over the past half-century. Many became politically active in the 1960s as part of the civil rights movement, with some joining campus groups that promoted civil rights, while others supported groups that opposed these rights. In the late 1960s and early 1970s, college campuses were very active in opposition to the Vietnam War. More recently, in 2015, students at the University of Missouri protested against the university system president, who was accused of not taking racial issues at the university seriously. The student protests were supported by civil rights groups like the NAACP, and their efforts culminated in the president’s resignation.31 In April 2021, hundreds of students, faculty, and staff gathered at the University of Richmond to protest the names of two campus buildings, one named after an enslaver and one after a segregationist.32
+学生在政治参与方面的行为有些矛盾。一方面，在过去半个世纪里，大学校园里的学生在不同时期都非常活跃。许多学生在 20 世纪 60 年代参与了民权运动，开始积极投身政治活动，一些人加入了校园里倡导民权的团体，而另一些人则支持反对民权的团体。在 20 世纪 60 年代末和 70 年代初，大学校园里也积极参与了反对越南战争的运动。最近，在 2015 年，密苏里大学的学生抗议该大学系统校长，指责他没有认真对待学校的种族问题。学生的抗议活动得到了全国有色人种协进会（NAACP）等民权组织的支持，最终导致校长辞职。 31 2021 年 4 月，数百名学生、教职员工聚集在里士满大学，抗议两座校园建筑的命名，一座以奴隶主的名字命名，另一座以种族隔离主义者的名字命名。 32
+
+Yet at the same time, students participate by voting and joining groups at lower rates than members of other age cohorts. Why is it the case that students can play such an important role in facilitating political change in some cases, while at the same time they are typically less active than other demographic groups?
+然而与此同时，学生的投票率和加入社团的积极性却低于其他年龄段的成员。为什么学生在某些情况下能够发挥如此重要的作用来推动政治变革，而与此同时，他们的活跃度通常又低于其他人群呢？
+
+Are there groups on campus that represent issues important to you? If not, find out what you could do to start such a group.
+
+[.my2]
+校园里是否有代表你所关心议题的社团？如果没有，了解一下你可以做些什么来成立这样一个社团。
+
+'''

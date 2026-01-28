@@ -1,0 +1,725 @@
+
+= CONTRACTS I (Offer and Acceptance)
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../../myAdocCss.css
+
+'''
+
+
+== 释义
+
+
+3.CONTRACTS I (Offer and Acceptance)
+
+Contracts are one of the core foundation 核心基础 courses for American law schools and legal professionals 法律从业者, for a variety of 多种的；各式各样的 reasons. Perhaps one main reason is the seeming omnipresence 无处不在 of contracts beyond the classroom in practical settings 实际场景—both in written and unwritten form—that are negotiated 协商；谈判, entered into 签订；订立, and at times, terminated 终止 (or attempted to be terminated) within and outside of the United States. For instance 例如, the non-U.S. lawyer may face American contract issues in his or her home jurisdiction 司法管辖区 as well as in the United States, ranging from 涵盖；涉及 entertainment law 娱乐法 to construction contracts 建筑合同. Therefore, contracts are the first core hardware 核心框架 topic covered in _American Law 101_.
+
+[.my2]
+====
+3.合同法（一）：要约与承诺 +
+合同是美国法学院与法律从业者的核心基础课程之一，原因有很多。其中一个主要原因或许是，在课堂之外的实际场景中，合同似乎无处不在——无论是书面形式还是口头形式，在美国境内外都会被协商、订立，有时还会被终止（或试图终止）。例如，非美国律师无论在本国司法管辖区还是在美国，都可能遇到与美国合同相关的法律问题，这些问题涵盖娱乐法到建筑合同等多个领域。因此，合同是《美国法律基础》这本书中第一个核心框架主题。
+====
+
+So what exactly 究竟；到底 is a contract? The definition of a contract is a promise or set of promises for the breach 违反；违约 of which the law gives a remedy 补救措施；救济方法, or the performance 履行 of which the law in some way recognizes as a duty 义务 (definition from the Restatement (Second) of Contracts, American Law Institute (ALI), Article 1). Contracts can also be thought of as “an agreement between two or more people that creates an obligation 义务 to do or not to do a particular thing.” The end result 最终结果 of a contract is the creation of a legal relationship 法律关系 involving rights and duties of legal persons 法人, which can include individuals 自然人 as well as corporate entities 法人实体；企业实体.
+
+[.my2]
+那么，合同究竟是什么？合同的定义是：一项或一组允诺，若违反该允诺，法律将提供救济；若履行该允诺，法律会以某种方式将其认定为一项义务（该定义源自美国法学会《合同法重述（第二次）》第1条）。合同也可以被定义为“两人或多人之间达成的协议，该协议产生了实施或不实施某一特定行为的义务”。合同的最终效力是创设一种涉及法人权利与义务的法律关系，这里的法人既包括自然人，也包括企业实体。
+
+Several sources of law govern 管辖；规制 American law contracts, including the following:
+
+[.my2]
+规制美国合同法律关系的法律渊源有以下几种：
+
+- Common law 普通法 (taken from English common law)
+- Uniform Commercial Code (UCC) 《统一商法典》
+ UCC applies only to “sales of goods 货物买卖.”
+ UCC was enacted 颁布；制定 in all 50 U.S. states and Washington, D.C.
+- State of Louisiana 路易斯安那州 (governed by civil, not common law) has enacted many UCC provisions 条款, except for UCC, Article 2.
+- Restatement of contracts 合同法重述 (applies only if adopted by 被……采纳 a specific state)
+
+[.my2]
+====
+- 普通法（源自英国普通法）
+- 《统一商法典》
+ 该法典仅适用于“货物买卖”领域。
+ 美国全部50个州以及华盛顿哥伦比亚特区均已颁布该法典。
+- 路易斯安那州（适用大陆法而非普通法）已颁布《统一商法典》的多项条款，但不包含该法典第2条。
+- 合同法重述（仅在被特定州采纳后才具有法律效力）
+====
+
+The jurisdiction 管辖权 (legal authority 司法权 to hear a dispute) of many contracts is governed by state law and heard by state courts. Cases that may be heard by federal courts include, for instance, those contracts involving parties 当事人 from different states or a citizen of a foreign nation 外国公民.
+
+[.my2]
+许多合同纠纷的管辖权由州法规制，并由州法院审理。联邦法院有权审理的合同案件包括但不限于：合同当事人来自不同州，或其中一方为外国公民的案件。
+
+To create a legally binding 具有法律约束力的 contract under American law, the following elements 构成要素 are necessary:
+
+[.my2]
+根据美国法律，一份具有法律约束力的合同的成立，需要满足以下构成要素：
+
+- Mutual Assent 合意 (the relevant parties “agree” and thus have an intent 意图 to enter into a contract), which is then subdivided into 细分为:
+ Offer 要约
+ Acceptance 承诺
+- Consideration 对价 (a “bargained-for exchange 经协商的交换”)
+- Legality 合法性 (that the agreement does not violate 违反 public policy 公共政策)
+- Capacity 缔约能力 (that the party has contractual capacity 缔约能力 to enter into the agreement)
+
+[.my2]
+- 合意（合同相关当事人达成“共识”，进而具有订立合同的意图），该要素细分为：
+ 要约
+ 承诺
+- 对价（一种“经协商的交换”）
+- 合法性（协议内容不得违反公共政策）
+- 缔约能力（合同当事人需具备订立该协议的缔约能力）
+
+An agreement generally only becomes a contract, rather than a mere 仅仅；只是 agreement, if all of the required contract elements are met 满足 (the so-called birth of a contract 合同的成立). If any of the four elements are not met, then the agreement is generally not a contract, although exceptions 例外情况 can arise. This means that the parties will have a mere agreement, rather than a validly binding 具有有效约束力的, and thus legally enforceable 具有法律强制执行力的, contract.
+
+[.my2]
+只有当合同的所有必备要素均得到满足时，一份协议才能正式成为合同（即所谓的合同成立），而非仅仅停留在协议层面。若四项要素中的任意一项未被满足，该协议通常不构成合同，但存在例外情况。这意味着合同当事人之间仅存在一份普通协议，而非一份具有有效约束力、进而具备法律强制执行力的合同。
+
+As a result 因此, if one of the parties violates 违反 one of the agreed-upon terms 约定条款, a legal claim 法律诉求 generally cannot be brought against 对……提起诉讼 the alleged 被指控的 breaching party 违约方 with a mere agreement. However, with a contract that satisfies all of the required elements (after contract formation 合同成立后), the party that breached the contract may be liable for 对……承担责任 damages 损害赔偿 in a court of law. A contract breach 违约 occurs when one or more parties to a contract fails to perform 履行 some agreed-upon act 约定行为 and/or fails to comply with 遵守 a duty imposed by law 法定义务.
+
+[.my2]
+因此，若一方当事人违反了协议中的某项约定条款，仅凭一份普通协议，另一方通常无法对被指控的违约方提起法律诉求。但对于一份满足所有必备要素的合同（合同成立后），违约方可能需要在法庭上承担损害赔偿责任。当合同一方或多方当事人未履行约定行为，且/或未遵守法定义务时，即构成违约。
+
+The next section focuses on 聚焦于；重点论述 the first contract element of mutual assent, specifically regarding 关于 offer and acceptance.
+
+[.my2]
+下一节将重点论述合同的首个构成要素——合意，具体围绕要约与承诺展开。
+
+---
+
+=== Offer and Acceptance 要约与承诺
+
+The next step is understanding what constitutes 构成；认定 an offer under American law. A valid offer 有效要约 is the manifestation 表示；体现 of willingness 意愿 of a party to enter into a bargain 交易；磋商. The party proposing 发出；提出 the offer is the offeror 要约人. Under American law, a principle 原则 exists, which states that the “offeror is the master of his offer 要约人主导要约内容.” Translated into plain English 说白了；通俗地讲, this means that the offeror can create nearly any terms and conditions 条款 and conditions 条件 the offeror desires, assuming 假设；如果 they do not violate other elements of the contract or other relevant laws 相关法律 in the jurisdiction.
+
+[.my2]
+"要约"与"承诺" +
+接下来需要明确的是，根据美国法律，何为"要约的构成要件"。**#有效要约, 是一"方当事人愿意进行交易磋商"的意思#**表示。##**发出要约的一方, 称为"要约人"。**## +
+##**美国法律中有一项原则，即“'要约人'主导要约内容”。**##通俗地讲，这意味着只要不违反合同的其他构成要素, 或司法管辖区内的其他相关法律，#*"要约人"可以拟定几乎任何其想要的条款和条件。*#
+
+A valid acceptance 有效承诺 of the offer by the offeree 受要约人 is indicated by agreement to the offer terms. More formally 更正式地说, an acceptance under contract law is a manifestation of assent 同意的意思表示 to the terms in a manner invited or required by the offer, remembering the notion 理念 that the offeror is the master of his offer.
+
+[.my2]
+**"受要约人"对"要约"作出有效承诺的标志，是其同意"要约"的全部条款。**更正式地说，合同法中的"承诺"，是指"受要约人"以"要约"所邀请或要求的方式，作出"同意要约条款"的意思表示，这一点需要结合“'要约人'主导要约内容”的理念来理解。
+
+How can offers be accepted? There are generally two ways an offer can be accepted: (1) through performance of a certain act 特定行为的履行, or (2) by a promise to perform in the future 未来履行的允诺. Acceptance by performance 以履行行为作出承诺 requires that at least part of what the offer requests 要约要求的内容 be performed. With the second acceptance method, by promise 以允诺方式作出承诺, the offeree must complete every act essential to 对……至关重要的 the making of the promise.
+
+[.my2]
+如何对"要约"作出承诺？通常有两种方式：（1）履行特定行为；（2）作出"未来履行"的允诺"。以履行行为作出承诺，要求至少履行"要约"所要求的部分内容。对于第二种承诺方式——以允诺方式作出承诺，"受要约人"必须完成作出该允诺所需的全部关键行为。
+
+What if the offer and/or acceptance is unclear 不明确的；模糊的? Does a contract exist? The short answer 简短回答 is generally no. In litigation 诉讼程序 (through a lawsuit), the court decides whether an offer and/or acceptance existed from a legal purview 法律视角；法律层面. When the courts make an analysis 分析, they generally use the objective theory of contracts 合同客观理论, which binds 约束 parties on what a “reasonable person 理性人” would understand of an explicit manifestation 明确意思表示 of the offer and/or acceptance at issue 争议中的. As a result, implicit manifestations 默示意思表示 are generally not taken into account 被考虑；被纳入考量 by the courts in determining whether an offer and/or acceptance existed. Thus, it is to the parties’ benefit 对当事人有利 to make all understandings, terms, and conditions of the agreement as explicit as possible 尽可能明确. If not, they will likely not be considered, and deemed as 被认定为 irrelevant 不相关的, by the courts in determining whether or not a contract existed between the relevant parties. Put simply 简而言之, to maximize the chance 最大化可能性 of an agreement being deemed as a validly binding contract, it is best to communicate 传达 offers and acceptances clearly and unequivocally 清晰明确地.
+
+[.my2]
+##**若"要约"和/或"承诺"的内容不明确，合同是否成立？简短回答通常是不成立。**##在诉讼程序中，法院会从法律层面判定争议中的"要约"和/或"承诺"是否存在。法院进行分析时，通常会采用"合同客观理论"，该理论以“理性人”对要约和/或承诺的明确意思表示的理解为依据，对合同当事人具有约束力。因此，法院在判定要约和/或承诺是否存在时，通常不会将默示意思表示纳入考量范围。##**故而，对当事人而言，最好将协议的所有共识、条款及条件都规定得尽可能明确。否则，法院在判定相关当事人之间是否存在"合同关系"时，很可能不会考虑这些模糊内容，并将其认定为"不相关因素"。简而言之，若想最大程度地使一份协议被认定为具有有效约束力的合同，最好清晰明确地传达要约与承诺的内容。**##
+
+Must all contracts be in writing 书面形式 and signed 签署 under American law? The short answer is no, unless the agreement stipulates otherwise 另有约定. Generally, contracts can be in written or unwritten form 口头形式, but if a dispute arises 发生纠纷, the courts will stress test 严格审查 whether the contract truly reflects 反映 the intent of the parties, among other things 除其他因素外. At the same time, one notable exception 显著例外 to this general rule 一般规则 is that certain agreements must be written under a concept known as the Statute of Frauds 反欺诈法.
+
+[.my2]
+**根据美国法律，所有合同, 都必须采用"书面形式"并经过"签署"吗？简短回答是不需要，除非协议另有约定。一般而言，合同可以是书面形式，也可以是口头形式，**但如果发生纠纷，法院除考量其他因素外，还会严格审查该合同是否真实反映了当事人的真实意图。与此同时，*该一般规则存在一项显著例外：根据"反欺诈法"的相关规定，特定类型的协议必须采用"书面形式"。*
+
+
+
+
+
+Although varying from state to state 因州而异, the following contract types are normally required to be in writing 采用书面形式 (if not listed, then the possibility exists that the contract may not be required to be in writing):
+
+[.my2]
+尽管具体要求因州而异，但**以下类型的合同, 通常需要采用书面形式**（若某类合同未被列入，则可能无需以"书面形式"订立）：
+
+- A contract to pay another’s debt 偿还他人债务的合同
+- A contract in consideration of marriage 以结婚为对价的合同
+- A contract for the sale of a land interest 土地权益买卖合同
+- A contract that is not to be performed within one year of the time it is made 订立后一年内,无法履行完毕的合同
+- A contract for the sale of goods for $500 or more 价款在500美元及以上的货物买卖合同
+
+[.my2]
+- 偿还他人债务的合同
+- 以结婚为对价的合同
+- 土地权益买卖合同
+- 订立后一年内无法履行完毕的合同
+- 价款在500美元及以上的货物买卖合同
+
+The term “reasonable” is used often in American law. So what does “reasonable” mean exactly? Under American law, the term “reasonable” and the phrase “reasonable person” are works of legal art 法律专业术语；法律专门概念. In plain English 通俗地讲, a “reasonable person” is what the fact finder 事实认定者 (the judge or jury 陪审团) would deem as 认定为 reasonable. To add more clarity 为进一步说明, think of the _reasonable person_ as someone who is above the average person 普通人 but not quite at the level of the _perfect person_ 完人, shown in the following graphic:
+
+[.my2]
+“合理”一词在美国法律中被广泛使用。那么“合理”究竟是什么意思？在美国法律体系下，“合理”这一术语以及“理性人”这一表述, 均属于法律专业术语。通俗地讲，##**“reasonable person 理性人”的标准，是指"事实认定者"（法官或陪审团）所认定的合理状态。**##为进一步说明，我们可以将"理性人"理解为一个高于普通人、但尚未达到"完人"标准的主体，具体可参考下图：
+
+image:/img/002.jpg[,%]
+
+
+
+Here is an example of the reasonable person standard 理性人标准:
+
+[.my2]
+以下是"理性人标准"的一则应用案例：
+
+- Case 案件: _Leonard v. PepsiCo, Inc_., 88 F. Supp. 2d 116 (S.D.N.Y. 1999)
+- Facts 事实: Plaintiff 原告 John Leonard sued 起诉 PepsiCo, Inc. alleging that 主张 the company had made an offer 作出要约 through a TV commercial 电视广告 it aired 播出 nationwide in the United States. PepsiCo.’s TV commercial featured 展示 a military fighter jet 军用战斗机 appearing as a young child won a redeemable product 可兑换商品. The plaintiff alleged that the visual of the military fighter jet as a prize 奖品画面 constituted 构成 a contractual offer, with an acceptance 承诺 occurring when the relevant product was redeemed 兑换.
+- Issue 争议焦点: Whether PepsiCo.’s TV commercial featuring a military fighter jet constituted an offer (applying a reasonable person’s perspective 从理性人视角出发)?
+- Conclusion 结论: No, PepsiCo.’s TV advertisement featuring a military fighter jet did not constitute an offer (applying a reasonable person’s perspective).
+
+[.my2]
+- 案件：伦纳德诉百事可乐公司案，88 F. Supp. 2d 116（纽约南区联邦地区法院，1999年）
+- 事实：原告约翰·伦纳德, 起诉百事可乐公司，主张该公司通过一则在美国全国范围内播出的电视广告, 作出了要约。这则广告中出现了这样的画面：一个小孩赢得了一款可兑换商品，奖品是一架军用战斗机。原告主张，广告中军用战斗机作为奖品的画面, 构成了"合同要约"，而当相关商品被兑换时，承诺即告成立。
+- 争议焦点：从"理性人"视角出发，百事可乐公司包含军用战斗机画面的电视广告, 是否构成要约？
+- 结论：不构成。从"理性人"视角出发，百事可乐公司包含军用战斗机画面的电视广告, 不构成要约。
+
+One question related to this case is whether advertisements are offers. The general rule 一般规则 is that advertisements are usually not considered offers. What are advertisements then? From a legal purview 从法律层面来讲, an advertisement is considered an “invitation to an offer 要约邀请” (one step before a valid offer 有效要约). This is because an advertisement, generally speaking 一般而言, is indefinite 不确定的 and incomplete 不完整的. As a result, the act of a customer paying the price of a product 支付价款的行为 is usually the offer. The store’s acceptance occurs by accepting the money 接收款项 and handing the goods 交付货物 to the customer.
+
+[.my2]
+与本案相关的一个问题是：##**广告是否属于要约？一般规则是，广告通常不被视为"要约"。**##那么广告的法律性质是什么？##**从法律层面来讲，广告被认定为“要约邀请”（即有效要约的前置阶段）。**##这是**因为一般而言，广告的内容具有不确定性和不完整性。#因此，顾客支付商品价款的行为, 通常才构成"要约"，而商家接收款项, 并将货物交付给顾客的行为, 则构成"承诺"。#**
+
+The exception to the general rule 一般规则的例外情形 that advertisements are not offers can occur, creating a binding obligation 产生具有约束力的义务 if the advertisements made are clear, definite, and explicit offers 明确且具体的要约, which leave nothing open for negotiation 无协商余地.
+
+[.my2]
+*"广告不构成要约"的一般规则, 存在例外情形：若广告内容, 属于明确且具体、无协商余地的要约，则该广告可产生具有约束力的义务。* (所以中国的地产广告, 都要写上一条, "本文案不属于要约, 最终解释权归开发商所有".)
+
+Here is an example of an invitation to offer case 要约邀请相关案例:
+
+[.my2]
+以下是一则与"要约邀请"相关的案例：
+
+- Case 案件: _Lefkowitz v. Great Minneapolis Surplus Store_, 251 Minn. 188, 86 N.W.2d 689 (1957)
+- Facts 事实: A store placed an advertisement 刊登广告 in the newspaper on April 6, 1956, which had the following wording 内容如下: +
+ Saturday 9AM sharp 周六上午9点整 +
+ 3 brand new fur coats 全新皮草大衣3件 worth to $100 价值100美元 +
+ First come first served 先到先得 +
+ $1 each 每件1美元 +
+
+[.my2]
+- 案件：莱夫科维茨, 诉明尼阿波利斯平价商品店案，251 Minn. 188，86 N.W.2d 689（1957年）
+- 事实：1956年4月6日，一家商店在报纸上刊登广告，内容如下： +
+ 周六上午9点整 +
+ 全新皮草大衣3件，价值100美元 +
+ 先到先得 +
+ 每件1美元 +
+
+A male customer 男性顾客 was the first person to arrive on that day. That customer requested 要求购买 the fur coat for $1. The store refused to sell the coat to the male customer, because the house rule 店规 was that the fur coats were for female customers only 仅限女性顾客购买.
+
+[.my2]
+一名男性顾客在当天第一个抵达商店，要求以1美元的价格购买皮草大衣。但商店拒绝将大衣卖给该顾客，理由是店规规定, 皮草大衣仅限女性顾客购买。
+
+- Facts (additional) 补充事实: The same store placed another advertisement 再次刊登广告 in the newspaper on April 13, 1956, which had the following wording 内容如下: +
+ Saturday 9AM 周六上午9点 +
+ 2 brand new pastel mink scarves 全新淡色水貂围巾2条 +
+ Selling for $89.50 原价89.50美元 +
+ $1 each 每条1美元 +
+ First come first served 先到先得 +
+
+[.my2]
+- 补充事实：1956年4月13日，该商店再次在报纸上刊登广告，内容如下： +
+ 周六上午9点 +
+ 全新淡色水貂围巾2条 +
+ 原价89.50美元 +
+ 每条1美元 +
+ 先到先得 +
+
+The same male customer was again the first customer to arrive. The store again refused to sell him the advertised goods 广告商品 because he was a man. The male customer sued the store for refusing to accept his offer to buy the goods. The store argued that 辩称 (1) the newspaper advertisement was only an “invitation to an offer 要约邀请” and not an offer in itself 本身并非要约; and (2) the male customer offered to buy the goods, but the store simply rejected his offer 拒绝其要约 to buy the goods.
+
+[.my2]
+还是那名男性顾客第一个抵达商店，而商店再次以其为男性为由，拒绝向他出售广告中的商品。该男性顾客因商店拒绝接受其购买要约, 而提起诉讼。*商店辩称：（1）报纸上的广告仅为“要约邀请”，其本身并非"要约"；（2）是该男性顾客主动提出购买商品，而商店只是拒绝了他的购买要约。*
+
+- Issue 争议焦点: Whether the store’s two advertisements constituted valid offers 构成有效要约.
+- Conclusion 结论: Yes, the store’s two advertisements did constitute a valid offer, rather than being deemed as 而非被认定为 an “invitation of an offer 要约邀请.”
+- Rule (of law) 法律规则: An advertisement can constitute an offer, rather than a mere invitation to an offer, only if it is “a clear, definite, and explicit offer that leaves nothing open for negotiation 内容明确具体且无协商余地的要约.”
+- Application (of rule to the facts) 规则适用: The store’s advertisement was clear, definite, and explicit, and did not leave room for negotiation 无协商空间 because (1) the exact day and time of the offer was given 载明了要约的具体日期和时间; (2) the exact location was given 载明了具体地点; (3) the exact price was given 载明了具体价格; and (4) the event was on a first-come, first-served basis 注明了“先到先得”的规则.
+
+[.my2]
+- **争议焦点：该商店的两则广告, 是否构成"有效要约"？**
+- **结论：构成。**该商店的两则广告构成有效要约，而非被认定为“要约邀请”。
+- 法律规则：只有当广告内容属于“明确、具体且无协商余地的要约”时，其才能构成"要约"，而非单纯的"要约邀请"。
+- 规则适用：该商店的广告内容, 明确具体且无协商空间，理由如下：（1）载明了要约的具体日期和时间；（2）载明了具体地点；（3）载明了具体价格；（4）注明了“先到先得”的规则。
+
+Another aspect of American law contracts under common law 普通法下的美国合同法 is the mirror image rule 镜像规则. Under the mirror image rule, an acceptance must mirror (be the same as 与……完全一致) the offer for a contract to exist. When the offeree’s 受要约人的 acceptance does not mirror the offeror’s 要约人的 first offer (Offer 1 要约1), then a counteroffer 反要约 has been created. In the case of a counteroffer (Offer 2 反要约/要约2), a role reversal 角色互换 occurs, whereby 此时 the original offeree 原受要约人 (Offeree 1 受要约人1) becomes the new offeror 新要约人 (Offeror 2 要约人2) relating to the newly created offer in the form of the counteroffer. The original offeror 原要约人 (Offeror 1 要约人1) now takes on the new role of 承担……新角色 offeree (Offeree 2 受要约人2) in considering the new offer (Offer 2 要约2) by Offeror 2 要约人2.
+
+[.my2]
+**普通法下的美国合同法, 还有一项重要规则，即"镜像规则"。根据"镜像规则"，"承诺"的内容, 必须与"要约"内容完全一致（即“镜像”），合同方能成立。**若"受要约人"的承诺内容, 与"要约人"的初始要约（要约1）不一致，则构成"反要约"。在"反要约"（要约2）的情形下，双方角色发生互换：原"受要约人"（受要约人1）成为新"要约人"（要约人2），其"反要约"构成新的"要约"；原"要约人"（要约人1）则承担新的"受要约人"角色（受要约人2），需要对"要约人2"提出的新要约（要约2）作出回应。
+
+image:/img/003.jpg[,%]
+
+
+
+
+
+What can invalidate 使无效；使失去法律效力 the ability to accept an offer by the offeree 受要约人? Generally, four events could occur, as follows:
+
+[.my2]
+哪些情形, 会导致"受要约人"丧失"承诺要约"的权利？通常而言，存在以下四种情形：
+
+1. Rejection 拒绝 or counteroffer 反要约 by the offeree
+2. Lapse of time 期限届满 (Sometimes a set period of time 约定的期限 is written in the agreement, and if not, if a reasonable period of time 合理期限 expires 届满, as determined by the courts 由法院判定.)
+3. Revocation of the offer 要约的撤销 by the offeror 要约人
+4. Death or incapacity 死亡或丧失行为能力 of the offeror or offeree
+
+[.my2]
+1.  "受要约人"拒绝要约, 或作出"反要约"
+2.  要约期限届满（协议中有时会载明约定的期限；若未载明，则以法院判定的合理期限届满为准）
+3.  要约人撤销要约
+4.  要约人或受要约人死亡, 或丧失行为能力
+
+To reconfirm 再次明确 the American law concepts of offer and acceptance, the next section provides a series of short, hypothetical problem sets 假设案例题. In the following problem sets, only offer and acceptance principles under American contract law are to be applied, separate from 不涉及 the other required contract elements of consideration 对价, legality 合法性, and capacity 缔约能力, which are discussed later.
+
+[.my2]
+为再次明确美国法律中要约与承诺的相关概念，下一节将给出一系列简短的假设案例题。在以下案例题的分析中，仅适用美国合同法中关于要约与承诺的原则，暂不涉及合同的其他必备构成要素——对价、合法性及缔约能力，这些要素将在后续内容中展开论述。
+
+---
+
+=== Problem Sets: Offer and Acceptance 假设案例题：要约与承诺
+
+The following problem sets involve two hypothetical people 虚拟人物, Mariachi and Johnny. The hypothetical events are listed in sequential order 按时间顺序. Unless otherwise stated 除非另有说明, Mariachi and Johnny’s actions should be construed as 应被解释为 explicitly manifested 明确作出意思表示 to the other party.
+
+[.my2]
+以下假设案例题, 涉及两个虚拟人物——玛丽亚奇和约翰尼。案例中的事件按时间顺序排列。除非另有说明，玛丽亚奇与约翰尼的行为, 均应被解释为向对方作出的明确意思表示。
+
+. 1. Assume 假设:
+ Mariachi makes an offer to Johnny.
+ Johnny accepts Mariachi’s offer.
+ Mariachi withdraws 撤回 her offer.
+
+[.my2]
+1.  假设： +
+ 玛丽亚奇向约翰尼发出要约。 +
+ 约翰尼接受了玛丽亚奇的要约。 +
+ 玛丽亚奇撤回其要约。 +
+
+Q1: Is the withdrawal valid 有效? Is there an enforceable contract 具有强制执行力的合同?
+A1: No, the withdrawal is not valid. Yes, an enforceable contract exists, assuming all other elements needed for a validly binding contract 具有有效约束力的合同 exist. Once Johnny accepts Mariachi’s offer, a contract is formed 合同成立. Thereafter 此后, following the contract formation, Mariachi (the offeror) cannot withdraw her offer.
+
+[.my2]
+问题1：*该撤回行为是否有效？双方之间是否存在具有强制执行力的合同？* +
+答案1：撤回行为无效。若具备具有有效约束力的合同所需的其他全部构成要素，则双方之间存在具有强制执行力的合同。一旦约翰尼接受了玛丽亚奇的要约，合同即告成立。此后，合同成立后，玛丽亚奇（要约人）无权撤回其要约。 +
+
+. 2. Assume 假设: +
+ Mariachi makes an offer to Johnny. +
+ Mariachi withdraws her offer. +
+ Johnny accepts Mariachi’s offer. +
+
+[.my2]
+2.  假设： +
+ 玛丽亚奇向约翰尼发出要约。 +
+ 玛丽亚奇撤回其要约。 +
+ 约翰尼接受玛丽亚奇的要约。 +
+
+Q2: Is the withdrawal valid? Is there an enforceable contract?
+A2: Yes, the withdrawal is effective 生效的. No, an enforceable contract does not exist. Even though Mariachi made the offer, Mariachi (as offeror) can withdraw her offer anytime up to, but before 最迟在……之前（但不包括该时间点）, Johnny’s acceptance (as offeree) of Mariachi’s offer.
+
+[.my2]
+问题2：该撤回行为是否有效？双方之间是否存在具有强制执行力的合同？ +
+答案2：**撤回行为生效。**双方之间不存在具有强制执行力的合同。*尽管玛丽亚奇发出了要约，但作为要约人，她有权在约翰尼（受要约人）作出承诺前的任意时间撤回要约。*
+
+. 3. Assume 假设:  +
+ Mariachi makes an offer to Johnny. +
+ Mariachi decides to withdraw her offer but does not expressly manifest or otherwise communicate 以其他方式告知 her decision to Johnny. +
+ Johnny accepts Mariachi’s offer.
+
+[.my2]
+3.  假设： +
+ 玛丽亚奇向约翰尼发出要约。 +
+ 玛丽亚奇决定撤回要约，但未向约翰尼明确作出意思表示, 或以其他方式告知其决定。 +
+ 约翰尼接受玛丽亚奇的要约。 +
+
+Q3: Is the withdrawal effective? Does an enforceable contract exist?
+A3: No, the withdrawal is not effective. Yes, an enforceable contract exists, assuming all other elements needed for a validly binding contract exist. Unlike in Problem Set 2, Mariachi only decides to withdraw her offer, but she does not explicitly manifest or communicate her intentions verbally 口头地 or otherwise to Johnny (the offeree).
+
+[.my2]
+问题3：该撤回行为是否生效？双方之间是否存在具有强制执行力的合同？ +
+答案3：**撤回行为不生效。**若具备具有有效约束力的合同所需的其他全部构成要素，则双方之间存在具有强制执行力的合同。*与案例2不同，玛丽亚奇仅仅是决定撤回要约，但并未以口头或其他方式, 向约翰尼（受要约人）明确作出意思表示, 或告知其撤回意图。*
+
+
+
+. 4. Assume 假设: +
+ Mariachi makes an offer to Johnny, stating to Johnny that her offer is good for 有效期为 only two weeks. +
+ Three weeks expire 届满 from the time of Mariachi’s offer to Johnny.
+ Johnny accepts Mariachi’s offer during week three.
+
+[.my2]
+4.  假设： +
+ 玛丽亚奇向约翰尼发出要约，并告知对方其"要约有效期"仅为两周。 +
+ 自玛丽亚奇发出要约之日起，三周时间已届满。 +
+ 约翰尼在第三周时接受了玛丽亚奇的要约。 +
+
+Q4: Does an offer exist 要约是否存在? Does an enforceable contract 具有强制执行力的合同 exist? +
+A4: No, an offer does not exist. Thus, Johnny can no longer accept Mariachi’s offer, because Mariachi, the offeror, “is the master of [her] offer 要约人主导要约内容.” As a result, Mariachi (as offeror) is free to set a time limit 设定期限 on her offer of two weeks, after which time the offer no longer exists from an American contract law purview 从美国合同法层面来讲.
+
+[.my2]
+问题4：要约是否存在？双方之间是否存在具有强制执行力的合同？ +
+答案4：要约不存在。因此，约翰尼无法再接受玛丽亚奇的要约，因为作为要约人的玛丽亚奇“主导要约内容”。基于此，*玛丽亚奇（要约人）有权为自己的要约设定两周的有效期，从美国合同法层面来讲，#有效期届满后，要约即告失效。#*
+
+. 5. Assume 假设: +
+ Mariachi makes an offer to Johnny, stating that the offer is good for only two weeks. +
+ One week passes 流逝 from the time of Mariachi’s offer to Johnny.
+ Mariachi withdraws 撤回 her offer to Johnny.
+ Johnny accepts Mariachi’s offer.
+
+[.my2]
+5.  假设： +
+ 玛丽亚奇向约翰尼发出要约，称该要约有效期仅为两周。 +
+ 自玛丽亚奇发出要约之日起，一周时间已流逝。 +
+ 玛丽亚奇撤回了向约翰尼发出的要约。 +
+ 约翰尼随后接受了玛丽亚奇的要约。 +
+
+Q5: Is Mariachi’s withdrawal valid 撤回行为是否有效? Does an enforceable contract exist?
+A5: Yes, Mariachi’s withdrawal is valid. Mariachi (as offeror) can withdraw her offer at any time before Johnny accepts her offer, which Mariachi did. Thus, generally, because Mariachi’s offer was withdrawn, an enforceable contract would be deemed to 被认定为 not exist. However, one exception 例外情形 is if Johnny “relied to his detriment 遭受损害的信赖” (known as promissory estoppel 允诺禁反言 or the detrimental reliance principle 信赖利益受损原则) on Mariachi’s promise, and then Johnny started performing 履行义务 based on the promise. In this case, Johnny may claim recovery damages 主张损害赔偿 under promissory estoppel (more on promissory estoppel is discussed in xref:americanlaw101_ch04.html#ch04[Chapter 4]).
+
+[.my2]
+问题5：玛丽亚奇的撤回行为是否有效？双方之间是否存在具有强制执行力的合同？ +
+答案5：**玛丽亚奇的撤回行为有效。玛丽亚奇（要约人）有权在约翰尼接受要约前的任意时间, 撤回要约，**而她正是这么做的。*因此，一般情况下，由于要约已被撤回，双方之间不被认定存在具有强制执行力的合同。* +
+但存在一项例外情形：若约翰尼对玛丽亚奇的要, 约产生了“遭受损害的信赖”（即允诺禁反言或信赖利益受损原则），并且已经基于该要约开始履行义务，那么在此情况下，约翰尼可依据允诺禁反言, 主张损害赔偿（关于允诺禁反言的更多内容, 详见本书第四章）。
+
+. 6. Assume 假设: +
+ Mariachi makes an offer to Johnny. +
+ Johnny rejects 拒绝 Mariachi’s offer. +
+ Johnny then changes his mind 改变主意, and accepts Mariachi’s offer. +
+
+[.my2]
+6.  假设： +
+ 玛丽亚奇向约翰尼发出要约。 +
+ 约翰尼拒绝了玛丽亚奇的要约。 +
+ 之后约翰尼改变主意，接受了玛丽亚奇的要约。 +
+
+Q6: Is Johnny’s acceptance valid 承诺是否有效? Does an enforceable contract exist?
+A6: No, Johnny’s acceptance is not valid. No, an enforceable contract does not exist. Once Johnny rejects Mariachi’s offer, the offer is no longer valid 失效. Applying the objective theory of contracts 适用合同客观理论, no one in Mariachi’s position 处于玛丽亚奇的立场 would reasonably believe 合理相信 that Johnny would accept the offer.
+
+[.my2]
+问题6：约翰尼的承诺是否有效？双方之间是否存在具有强制执行力的合同？ +
+答案6：约翰尼的承诺无效。双方之间不存在具有强制执行力的合同。*一旦约翰尼拒绝了玛丽亚奇的要约，该要约即告失效。适用合同客观理论来看，任何处于玛丽亚奇立场的人, 都不会合理相信约翰尼还会接受该要约。*
+
+. 7. Assume 假设:
+ Mariachi makes an offer to Johnny to sell a new tablet PC 平板电脑 for $10,000.
+ Johnny counteroffers 作出反要约 to buy the new tablet PC for $9,000.
+ Johnny then changes his mind, takes back 撤回 the counteroffer, and accepts the original offer 原要约 for $10,000.
+
+[.my2]
+7.  假设： +
+ 玛丽亚奇向约翰尼发出要约，愿以10,000美元的价格出售一台全新平板电脑。 +
+ 约翰尼作出"反要约"，愿以9,000美元的价格购买该平板电脑。 +
+ 之后约翰尼改变主意，撤回了"反要约"，并接受了玛丽亚奇10,000美元的原要约。 +
+
+Q7: Does a contract exist?
+A7: No, a contract does not exist. By making a counteroffer, (1) Johnny rejected 拒绝了 Marichi’s original offer; and (2) Johnny then created a new offer 创设了新要约 for Mariachi to accept or reject (in this case, the positions are switched 双方角色互换, so that Johnny is now the offeror 要约人, and Mariachi is now the offeree 受要约人). As a result, there is no longer an offer that Johnny can accept.
+
+[.my2]
+问题7：双方之间是否存在合同关系？
+答案7：不存在合同关系。**约翰尼作出"反要约"的行为, 产生两个效果：（1）拒绝了玛丽亚奇的原要约；（2）创设了一份新要约，供玛丽亚奇决定接受或拒绝（在此情形下，双方角色互换，约翰尼成为新要约人，玛丽亚奇成为新受要约人）。**因此，此时已不存在可供约翰尼接受的要约。
+
+---
+
+=== Option Contracts 期权合同
+
+An option contract is a promise that meets the requirements 符合要件 for the formation of a contract and limits 限制 the offeror’s power to revoke 撤销权. These cases are considered offers. A good example of an option contract is a contract related to a land sale or house where the seller allows a specific period of time 特定期限 for the potential land/house buyer 潜在买家 to decide whether or not to purchase the property 房产.
+
+[.my2]
+期权合同 +
+期权合同是指一份符合合同成立要件、且能限制要约人撤销权的允诺，此类合同本身也被视为要约。"期权合同"的典型例子, 是土地或房屋买卖合同，即卖方给予潜在买家一段特定期限，供其决定是否购买该房产。
+
+An option contract is an irrevocable offer 不可撤销要约. Thus, a seller cannot decide to not sell the seller’s property to the buyer during the designated period of time 约定期限 provided. Also, unlike most contracts that require consideration 对价, option contracts allow for nominal consideration 象征性对价 (the concept of consideration is covered in greater detail in Chapter 4).
+
+[.my2]
+*"期权合同"属于"不可撤销要约"。因此，在约定期限内，卖方不得拒绝将房产出售给买方。此外，与多数需要"支付对价"的合同不同，期权合同允许支付"象征性对价"*（对价的相关概念, 详见本书第四章）。
+
+Here is an example of an option contract:
+
+[.my2]
+以下是一则期权合同的示例：
+
+- A seller wants to sell her land for $100,000.
+- A buyer wants to buy the seller’s land, but he wants some time to decide whether or not to buy the land.
+- The buyer gives the seller $1,000 as consideration in exchange for 作为交换 a one-month hold 保留权 on the land sale, during which time the seller can only sell her land to the buyer in question 该特定买家.
+
+[.my2]
+- 卖方希望以100,000美元的价格出售其土地。 +
+- 买方有意购买该土地，但需要一些时间来决定是否购入。 +
+- 买方向卖方支付1,000美元作为对价，换取该土地为期一个月的出售保留权，在此期间，卖方只能将土地出售给该特定买家。 +
+
+---
+
+=== Contract Remedies 合同救济方式
+
+When a contract is formed 合同成立后, what happens when one side breaches 违反 the contract? Ultimately 归根结底, this may come down to 归结为 the question of deciding what contract remedies 合同救济方式 exist. For remedies to be provided 要获得救济, the injured party 受害方 must have suffered some injury 遭受损害 attributable to 归因于 the making of the contractual promise 合同允诺的作出.
+
+[.my2]
+合同成立后，若一方违约会产生什么后果？归根结底，这需要确定可适用的合同救济方式。要获得救济，受害方必须证明其所遭受的损害, 是归因于合同允诺的作出。
+
+Remedies can be broadly grouped into 大致分为 the following categories 类别, among others:
+
+[.my2]
+合同救济方式, 大致可分为以下几类：
+
+- Expectation damages 期待利益损害赔偿
+- Reliance damages 信赖利益损害赔偿
+- Restitutionary damages 返还性损害赔偿
+
+[.my2]
+- 期待利益损害赔偿
+- 信赖利益损害赔偿
+- 返还性损害赔偿
+
+Expectation damages restore 使恢复；使复原 the promisee 受允诺人 (party receiving the promise, also known as the offeree 受要约人) to the position he would have been in if the promise had occurred as it was originally promised by the promisor 允诺人 (party making the promise). Reliance damages restore the promisee to the position she would have been in if the promise had never been made in the first place 起初；一开始. Restitutionary damages restore the “unjust enrichment 不当得利” gained by the promisor back to the promisee.
+
+[.my2]
+期待利益损害赔偿的目的，是使受允诺人（即接受允诺的一方，也称为"受要约人"）恢复到允诺人完全履行合同允诺后, 其本应处于的状态。信赖利益损害赔偿的目的，是使受允诺人恢复到合同允诺从未作出时, 其本应处于的状态。返还性损害赔偿的目的，是将允诺人获得的“不当得利”返还给受允诺人。
+
+Here is an example of a remedies case 救济方式相关案例:
+
+[.my2]
+以下是一则关于合同救济方式的案例：
+
+- Case 案件: _Sullivan v. O’Connor_, 363 Mass. 579, 296 N.E.2d 183 (1973)
+- Facts 事实: A female patient 女患者 asks a plastic surgeon 整形外科医生 to make her nose look beautiful. The doctor promised to do so, and thus bound himself with an enforceable contract 签订了具有强制执行力的合同 that he would make the patient’s nose look beautiful. The nose did not turn out to be beautiful 最终效果不佳 after the surgery 手术后.
+- Expectation damages 期待利益损害赔偿: Damages = expected nose value 预期鼻子状态的价值 – current nose value 当前鼻子状态的价值. The intent 目的 is to put the woman in the position she would have been in if the doctor performed as he promised under the contract 按合同约定履行义务.
+- Reliance damages 信赖利益损害赔偿: Damages = original nose value 术前鼻子状态的价值 – current nose value 当前鼻子状态的价值. The intent is to put the woman in the position she would have been in if she did not have the surgery.
+- Restitutionary damages 返还性损害赔偿: The intent is to give back to the woman what the doctor “unjustly” received 不当收取的费用. Because the doctor did not perform what he promised, he unjustly received medical expenses 医疗费用 from the woman. Thus, out-of-pocket medical expenses 实际支付的医疗费用 and any other costs that the patient paid to the doctor would be paid back to her as restitutionary damages.
+
+[.my2]
+- 案件：沙利文诉奥康纳案，363 Mass. 579，296 N.E.2d 183（1973年）
+- 事实：一名女患者请求整形外科医生为其隆鼻，使其鼻子变得美观。医生承诺会达到该效果，并与患者签订了具有强制执行力的合同，保证术后患者的鼻子会变得美观。但术后患者的鼻子最终效果并不理想。
+- *期待利益损害赔偿：赔偿金额 = 鼻子预期状态的价值 − 鼻子当前状态的价值。赔偿目的是使患者恢复到医生按合同约定履行义务后，其本应拥有的状态。*
+- *信赖利益损害赔偿：赔偿金额 = 鼻子术前状态的价值 − 鼻子当前状态的价值。赔偿目的是使患者恢复到未接受手术时其本应拥有的状态。*
+- *返还性损害赔偿：赔偿目的是将医生“不当收取”的费用返还给患者。由于医生未履行承诺，其向患者收取的医疗费用构成不当得利。因此，患者实际支付的医疗费用及其他相关费用，都应作为返还性损害赔偿返还给患者。*
+
+---
+
+=== Summary 小结
+
+A validly binding contract 具有有效约束力的合同 requires mutual assent 合意, which can be subdivided into 细分为 offer and acceptance. The party making the offer is the offeror 要约人 (promisor 允诺人). The party deciding to accept or reject the offer is the offeree 受要约人 (promisee 受允诺人). An offer can be revoked 撤销 up to, but excluding 不包括, an acceptance by the offeree. Generally, an advertisement is not an offer. However, exceptions exist 存在例外情形 in which the advertisement is specific enough to constitute 构成 an offer. If the offeree changes the material terms 实质性条款 of the offer, the offeree has (1) rejected the offer and (2) created a new offer 创设新要约. Various remedies for a contract breach 违约救济方式 exist, including expectation damages, reliance damages, and restitutionary damages.
+
+[.my2]
+=== 小结
+- 一份具有有效约束力的合同, 需要具备“合意”这一要素，"合意"又可细分为"要约"与"承诺"。
+- 发出要约的一方为"要约人"（即"允诺人"），决定接受或拒绝要约的一方为"受要约人"（即受"允诺人"）。##**要约可在"受要约人"作出承诺前的任意时间, 被撤销. 但承诺一旦作出, 则要约不得撤销。**## +
+- 一般而言，**广告不构成要约，但存在例外情形——若广告内容足够具体明确，则可构成要约。** +
+- 若"受要约人"修改了要约的实质性条款，该行为会产生两个效果：（1）拒绝"原要约"；（2）创设一份"新要约"。 +
+- 针对"合同违约"存在多种救济方式，包括"期待利益损害赔偿"、"信赖利益损害赔偿"以及"返还性损害赔偿"。
+
+
+
+
+
+'''
+
+
+== pure
+
+3.CONTRACTS I (Offer and Acceptance)
+
+Contracts are one of the core foundation courses for American law schools and legal professionals, for a variety of reasons. Perhaps one main reason is the seeming omnipresence of contracts beyond the classroom in practical settings—both in written and unwritten form—that are negotiated, entered into, and at times, terminated (or attempted to be terminated) within and outside of the United States. For instance, the non-U.S. lawyer may face American contract issues in his or her home jurisdiction as well as in the United States, ranging from entertainment law to construction contracts. Therefore, contracts are the first core hardware topic covered in _American Law 101_.
+
+So what exactly is a contract? The definition of a contract is a promise or set of promises for the breach of which the law gives a remedy, or the performance of which the law in some way recognizes as a duty (definition from the Restatement (Second) of Contracts, American Law Institute (ALI), Article 1. Contracts can also be thought of as “an agreement between two or more people that creates an obligation to do or not to do a particular thing.” The end result of a contract is the creation of a legal relationship involving rights and duties of legal persons, which can include individuals as well as corporate entities.
+
+Several sources of law govern American law contracts, including the following:
+
+- Common law (taken from English common law)
+- Uniform Commercial Code (UCC)
+ UCC applies only to “sales of goods.”
+ UCC was enacted in all 50 U.S. states and Washington, D.C.
+- State of Louisiana (governed by civil, not common law) has enacted many UCC provisions, except for UCC, Article 2.
+- Restatement of contracts (applies only if adopted by a specific state)
+
+The jurisdiction (legal authority to hear a dispute) of many contracts is governed by state law and heard by state courts. Cases that may be heard by federal courts include, for instance, those contracts involving parties from different states or a citizen of a foreign nation.
+
+To create a legally binding contract under American law, the following elements are necessary:
+
+- Mutual Assent (the relevant parties “agree” and thus have an intent to enter into a contract), which is then subdivided into:
+ Offer
+ Acceptance
+- Consideration (a “bargained-for exchange”)
+- Legality (that the agreement does not violate public policy)
+- Capacity (that the party has contractual capacity to enter into the agreement)
+
+An agreement generally only becomes a contract, rather than a mere agreement, if all of the required contract elements are met (the so-called birth of a contract). If any of the four elements are not met, then the agreement is generally not a contract, although exceptions can arise. This means that the parties will have a mere agreement, rather than a validly binding, and thus legally enforceable, contract.
+
+As a result, if one of the parties violates one of the agreed-upon terms, a legal claim generally cannot be brought against the alleged breaching party with a mere agreement. However, with a contract that satisfies all of the required elements (after contract formation), the party that breached the contract may be liable for damages in a court of law. A contract breach occurs when one or more parties to a contract fails to perform some agreed-upon act and/or fails to comply with a duty imposed by law.
+
+The next section focuses on the first contract element of mutual assent, specifically regarding offer and acceptance.
+
+---
+
+=== Offer and Acceptance
+
+The next step is understanding what constitutes an offer under American law. A valid offer is the manifestation of willingness of a party to enter into a bargain. The party proposing the offer is the offeror. Under American law, a principle exists, which states that the “offeror is the master of his offer.” Translated into plain English, this means that the offeror can create nearly any terms and conditions the offeror desires, assuming they do not violate other elements of the contract or other relevant laws in the jurisdiction.
+
+A valid acceptance of the offer by the offeror is indicated by agreement to the offer terms. More formally, an acceptance under contract law is a manifestation of assent to the terms in a manner invited or required by the offer, remembering the notion that the offeror is the master of his offer.
+
+How can offers be accepted? There are generally two ways an offer can be accepted: (1) through performance of a certain act, or (2) by a promise to perform in the future. Acceptance by performance requires that at least part of what the offer requests be performed. With the second acceptance method, by promise, the offeree must complete every act essential to the making of the promise.
+
+What if the offer and/or acceptance is unclear? Does a contract exist? The short answer is generally no. In litigation (through a lawsuit), the court decides whether an offer and/or acceptance existed from a legal purview. When the courts make an analysis, they generally use the objective theory of contracts, which binds parties on what a “reasonable person” would understand of an explicit manifestation of the offer and/or acceptance at issue. As a result, implicit manifestations are generally not taken into account by the courts in determining whether an offer and/or acceptance existed. Thus, it is to the parties’ benefit to make all understandings, terms, and conditions of the agreement as explicit as possible. If not, they will likely not be considered, and deemed as irrelevant, by the courts in determining whether or not a contract existed between the relevant parties. Put simply, to maximize the chance of an agreement being deemed as a validly binding contract, it is best to communicate offers and acceptances clearly and unequivocally.
+
+Must all contracts be in writing and signed under American law? The short answer is no, unless the agreement stipulates otherwise. Generally, contracts can be in written or unwritten form, but if a dispute arises, the courts will stress test whether the contract truly reflects the intent of the parties, among other things. At the same time, one notable exception to this general rule is that certain agreements must be written under a concept known as the Statute of Frauds.
+
+Although varying from state to state, the following contract types are normally required to be in writing (if not listed, then the possibility exists that the contract may not be required to be in writing):
+
+- A contract to pay another’s debt
+- A contract in consideration of marriage
+- A contract for the sale of a land interest
+- A contract that is not to be performed within one year of the time it is made
+- A contract for the sale of goods for $500 or more
+
+The term “reasonable” is used often in American law. So what does “reasonable” mean exactly? Under American law, the term “reasonable” and the phrase “reasonable person” are works of legal art. In plain English, a “reasonable person” is what the fact finder (the judge or jury) would deem as reasonable. To add more clarity, think of the reasonable person as someone who is above the average person but not quite at the level of the perfect person, shown in the following graphic:
+
+image:/img/002.jpg[,%]
+
+Here is an example of the reasonable person standard:
+
+- Case: _Leonard v. PepsiCo, Inc_., 88 F. Supp. 2d 116 (S.D.N.Y. 1999)
+- Facts: Plaintiff John Leonard sued PepsiCo, Inc. alleging that the company had made an offer through a TV commercial it aired nationwide in the United States. PepsiCo.’s TV commercial featured a military fighter jet appearing as a young child won a redeemable product. The plaintiff alleged that the visual of the military fighter jet as a prize constituted a contractual offer, with an acceptance occurring when the relevant product was redeemed.
+- Issue: Whether PepsiCo.’s TV commercial featuring a military fighter jet constituted an offer (applying a reasonable person’s perspective)?
+- Conclusion: No, PepsiCo.’s TV advertisement featuring a military fighter jet did not constitute an offer (applying a reasonable person’s perspective).
+
+One question related to this case is whether advertisements are offers. The general rule is that advertisements are usually not considered offers. What are advertisements then? From a legal purview, an advertisement is considered an “invitation to an offer” (one step before a valid offer). This is because an advertisement, generally speaking, is indefinite and incomplete. As a result, the act of a customer paying the price of a product is usually the offer. The store’s acceptance occurs by accepting the money and handing the goods to the customer.
+
+The exception to the general rule that advertisements are not offers can occur, creating a binding obligation if the advertisements made are clear, definite, and explicit offers, which leave nothing open for negotiation.
+
+Here is an example of an invitation to offer case:
+
+- Case: _Lefkowitz v. Great Minneapolis Surplus Store_, 251 Minn. 188, 86 N.W.2d 689 (1957)
+- Facts: A store placed an advertisement in the newspaper on April 6, 1956, which had the following wording:
+ Saturday 9AM sharp
+ 3 brand new fur coats worth to $100
+ First come first served
+ $1 each
+
+
+A male customer was the first person to arrive on that day. That customer requested the fur coat for $1. The store refused to sell the coat to the male customer, because the house rule was that the fur coats were for female customers only.
+
+
+- Facts (additional): The same store placed another advertisement in the newspaper on April 13, 1956, which had the following wording:
+ Saturday 9AM
+ 2 brand new pastel mink scarves
+ Selling for $89.50
+ $1 each
+ First come first served
+
+
+The same male customer was again the first customer to arrive. The store again refused to sell him the advertised goods because he was a man. The male customer sued the store for refusing to accept his offer to buy the goods. The store argued that (1) the newspaper advertisement was only an “invitation to an offer” and not an offer in itself; and (2) the male customer offered to buy the goods, but the store simply rejected his offer to buy the goods.
+
+- Issue: Whether the store’s two advertisements constituted valid offers.
+- Conclusion: Yes, the store’s two advertisements did constitute a valid offer, rather than being deemed as an “invitation of an offer.”
+- Rule (of law): An advertisement can constitute an offer, rather than a mere invitation to an offer, only if it is “a clear, definite, and explicit offer that leaves nothing open for negotiation.”
+- Application (of rule to the facts): The store’s advertisement was clear, definite, and explicit, and did not leave room for negotiation because (1) the exact day and time of the offer was given; (2) the exact location was given; (3) the exact price was given; and (4) the event was on a first-come, first-served basis.
+
+Another aspect of American law contracts under common law is the mirror image rule. Under the mirror image rule, an acceptance must mirror (be the same as) the offer for a contract to exist. When the offeree’s acceptance does not mirror the offeror’s first offer (Offer 1), then a counteroffer has been created. In the case of a counteroffer (Offer 2), a role reversal occurs, whereby the original offeree (Offeree 1) becomes the new offeror (Offeror 2) relating to the newly created offer in the form of the counteroffer. The original offeror (Offeror 1) now takes on the new role of offeree (Offeree 2) in considering the new offer (Offer 2) by Offeror 2.
+
+image:/img/003.jpg[,%]
+
+What can invalidate the ability to accept an offer by the offeree? Generally, four events could occur, as follows:
+
+1. Rejection or counteroffer by the offeree
+2. Lapse of time (Sometimes a set period of time is written in the agreement, and if not, if a reasonable period of time expires, as determined by the courts.)
+3. Revocation of the offer by the offeror
+4. Death or incapacity of the offeror or offeree
+
+To reconfirm the American law concepts of offer and acceptance, the next section provides a series of short, hypothetical problem sets. In the following problem sets, only offer and acceptance principles under American contract law are to be applied, separate from the other required contract elements of consideration, legality, and capacity, which are discussed later.
+
+---
+
+=== Problem Sets: Offer and Acceptance
+
+The following problem sets involve two hypothetical people, Mariachi and Johnny. The hypothetical events are listed in sequential order. Unless otherwise stated, Mariachi and Johnny’s actions should be construed as explicitly manifested to the other party.
+
+. 1. Assume:
+ Mariachi makes an offer to Johnny.
+ Johnny accepts Mariachi’s offer.
+ Mariachi withdraws her offer.
+
+
+Q1: Is the withdrawal valid? Is there an enforceable contract?
+A1: No, the withdrawal is not valid. Yes, an enforceable contract exists, assuming all other elements needed for a validly binding contract exist. Once Johnny accepts Mariachi’s offer, a contract is formed. Thereafter, following the contract formation, Mariachi (the offeror) cannot withdraw her offer.
+
+. 2. Assume:
+ Mariachi makes an offer to Johnny.
+ Mariachi withdraws her offer.
+ Johnny accepts Mariachi’s offer.
+
+
+Q2: Is the withdrawal valid? Is there an enforceable contract?
+A2: Yes, the withdrawal is effective. No, an enforceable contract does not exist. Even though Mariachi made the offer, Mariachi (as offeror) can withdraw her offer anytime up to, but before, Johnny’s acceptance (as offeree) of Mariachi’s offer.
+
+. 3. Assume:
+ Mariachi makes an offer to Johnny.
+ Mariachi decides to withdraw her offer but does not expressly manifest or otherwise communicate her decision to Johnny.
+ Johnny accepts Mariachi’s offer.
+
+
+Q3: Is the withdrawal effective? Does an enforceable contract exist?
+A3: No, the withdrawal is not effective. Yes, an enforceable contract exists, assuming all other elements needed for a validly binding contract exist. Unlike in Problem Set 2, Mariachi only decides to withdraw her offer, but she does not explicitly manifest or communicate her intentions verbally or otherwise to Johnny (the offeree).
+
+. 4. Assume:
+ Mariachi makes an offer to Johnny, stating to Johnny that her offer is good for only two weeks.
+ Three weeks expire from the time of Mariachi’s offer to Johnny.
+ Johnny accepts Mariachi’s offer during week three.
+
+
+Q4: Does an offer exist? Does an enforceable contract exist?
+A4: No, an offer does not exist. Thus, Johnny can no longer accept Mariachi’s offer, because Mariachi, the offeror, “is the master of [her] offer.” As a result, Mariachi (as offeror) is free to set a time limit on her offer of two weeks, after which time the offer no longer exists from an American contract law purview.
+
+. 5. Assume:
+ Mariachi makes an offer to Johnny, stating that the offer is good for only two weeks.
+ One week passes from the time of Mariachi’s offer to Johnny.
+ Mariachi withdraws her offer to Johnny.
+ Johnny accepts Mariachi’s offer.
+
+
+Q5: Is Mariachi’s withdrawal valid? Does an enforceable contract exist?
+A5: Yes, Mariachi’s withdrawal is valid. Mariachi (as offeror) can withdraw her offer at any time before Johnny accepts her offer, which Mariachi did. Thus, generally, because Mariachi’s offer was withdrawn, an enforceable contract would be deemed to not exist. However, one exception is if Johnny “relied to his detriment” (known as promissory estoppel or the detrimental reliance principle) on Mariachi’s promise, and then Johnny started performing based on the promise. In this case, Johnny may claim recovery damages under promissory estoppel (more on promissory estoppel is discussed in xref:americanlaw101_ch04.html#ch04[Chapter 4]).
+
+. 6. Assume:
+ Mariachi makes an offer to Johnny.
+ Johnny rejects Mariachi’s offer.
+ Johnny then changes his mind, and accepts Mariachi’s offer.
+
+
+Q6: Is Johnny’s acceptance valid? Does an enforceable contract exist?
+A6: No, Johnny’s acceptance is not valid. No, an enforceable contract does not exist. Once Johnny rejects Mariachi’s offer, the offer is no longer valid. Applying the objective theory of contracts, no one in Mariachi’s position would reasonably believe that Johnny would accept the offer.
+
+. 7. Assume:
+ Mariachi makes an offer to Johnny to sell a new tablet PC for $10,000.
+ Johnny counteroffers to buy the new tablet PC for $9,000.
+ Johnny then changes his mind, takes back the counteroffer, and accepts the original offer for $10,000.
+
+
+Q7: Does a contract exist?
+A7: No, a contract does not exist. By making a counteroffer, (1) Johnny rejected Marichi’s original offer; and (2) Johnny then created a new offer for Mariachi to accept or reject (in this case, the positions are switched, so that Johnny is now the offeror, and Mariachi is now the offeree). As a result, there is no longer an offer that Johnny can accept.
+
+---
+
+=== Option Contracts
+
+An option contract is a promise that meets the requirements for the formation of a contract and limits the offeror’s power to revoke. These cases are considered offers. A good example of an option contract is a contract related to a land sale or house where the seller allows a specific period of time for the potential land/house buyer to decide whether or not to purchase the property.
+
+An option contract is an irrevocable offer. Thus, a seller cannot decide to not sell the seller’s property to the buyer during the designated period of time provided. Also, unlike most contracts that require consideration, option contracts allow for nominal consideration (the concept of consideration is covered in greater detail in xref:americanlaw101_ch04.html#ch04[Chapter 4]).
+
+Here is an example of an option contract:
+
+- A seller wants to sell her land for $100,000.
+- A buyer wants to buy the seller’s land, but he wants some time to decide whether or not to buy the land.
+- The buyer gives the seller $1,000 as consideration in exchange for a one-month hold on the land sale, during which time the seller can only sell her land to the buyer in question.
+
+---
+
+=== Contract Remedies
+
+When a contract is formed, what happens when one side breaches the contract? Ultimately, this may come down to the question of deciding what contract remedies exist. For remedies to be provided, the injured party must have suffered some injury attributable to the making of the contractual promise.
+
+Remedies can be broadly grouped into the following categories, among others:
+
+- Expectation damages
+- Reliance damages
+- Restitutionary damages
+
+Expectation damages restore the promisee (party receiving the promise, also known as the offeree) to the position he would have been in if the promise had occurred as it was originally promised by the promisor (party making the promise). Reliance damages restore the promisee to the position she would have been in if the promise had never been made in the first place. Restitutionary damages restore the “unjust enrichment” gained by the promisor back to the promisee.
+
+Here is an example of a remedies case:
+
+- Case: _Sullivan v. O’Connor_, 363 Mass. 579, 296 N.E.2d 183 (1973)
+- Facts: A female patient asks a plastic surgeon to make her nose look beautiful. The doctor promised to do so, and thus bound himself with an enforceable contract that he would make the patient’s nose look beautiful. The nose did not turn out to be beautiful after the surgery.
+- Expectation damages: Damages = expected nose value – current nose value. The intent is to put the woman in the position she would have been in if the doctor performed as he promised under the contract.
+- Reliance damages: Damages = original nose value – current nose value. The intent is to put the woman in the position she would have been in if she did not have the surgery.
+- Restitutionary damages: The intent is to give back to the woman what the doctor “unjustly” received. Because the doctor did not perform what he promised, he unjustly received medical expenses from the woman. Thus, out-of-pocket medical expenses and any other costs that the patient paid to the doctor would be paid back to her as restitutionary damages.
+
+---
+
+=== Summary
+
+A validly binding contract requires mutual assent, which can be subdivided into offer and acceptance. The party making the offer is the offeror (promisor). The party deciding to accept or reject the offer is the offeree (promisee). An offer can be revoked up to, but excluding, an acceptance by the offeree. Generally, an advertisement is not an offer. However, exceptions exist in which the advertisement is specific enough to constitute an offer. If the offeree changes the material terms of the offer, the offeree has (1) rejected the offer and (2) created a new offer. Various remedies for a contract breach exist, including expectation damages, reliance damages, and restitutionary damages.
