@@ -8,4 +8,92 @@
 
 
 
+- (044.) `主` One such novel 新颖的 idea `系` is that of *inserting into* the chromosomes 染色体 of plants _discrete 离散的；独立的 genes_ that are not a part of the plants’ natural constitution 构造；组成: specifically, the idea of *inserting into* nonleguminous 非豆科的 plants #the genes#, if #they# can be identified 鉴定；辨认,被识别 and isolated 分离；提取, #`后定说明(修饰前面的genes)` that# fit the leguminous 豆科的 plants to be hosts 寄主，宿主 for nitrogen-fixing bacteria 固氮细菌. Hence, the intensified (a.)加强的；深入的 research (n.)加强的研究 on legumes 豆科植物. +
+
+[.my1]
+.案例
+====
+- (044.) One such novel idea is that of inserting into the chromosomes of plants discrete genes that are not a part of the plants’ natural constitution: specifically, the idea of inserting into nonleguminous plants the genes, if they can be identified and isolated, that fit the leguminous plants to be hosts for nitrogen-fixing bacteria. Hence, the intensified research on legumes.
+
+
+One such novel idea is that idea［of inserting /into the
+chromosomes of plants/ discrete genes (that are not a part of the plants'
+natural constitution)］：specifically, the idea［of inserting /into
+nonleguminous plants /the genes, if they can be identified and isolated, (that fit the leguminous plants to be hosts for nitrogen-fixing bacteria)］. Hence, there is the intensified research on legumes.
+
+一个这样新颖的构想是，将不属于植物自然构成部分的离散基因, 插入植物的染色体中：具体而言，就是将那些如果能够识别和分离出来，能使非豆科植物成为固氮细菌宿主的基因，插入到非豆科植物中。因此，对豆科植物的研究也得到了加强。
+
+.gemini
+
+这段话描述的是农业生物技术领域一个非常宏大的设想：跨物种的固氮基因工程（Nitrogen-Fixation Genetic Engineering）。 +
+简单来说，科学家想通过基因编辑，让小麦、水稻这类本不会"固氮"的植物，也具备和豆科植物一样的“特长”。
+
+固氮作用（Nitrogen Fixation）:
+*#所有的植物生长, 都需要氮肥，但大部分植物（非豆科植物，如小麦、玉米）无法直接吸收空气中占 78% 的氮气。#*
+
+#*豆科植物（Legumes）： 像大豆、花生，它们有一种特异功能。它们的根部会长出根瘤（Root Nodules），里面住着"根瘤菌"。*#
+
+- #*共生关系： "根瘤菌"把空气中的"氮气", 变成植物能吃的“营养”；植物给细菌提供糖分。*#
+
+- #*非豆科植物（Nonleguminous plants）： 它们没有这些基因，所以不具备这种“招待”细菌的体质，只能依靠人类施加化学氮肥。*#
+
+[.my3]
+[options="autowidth" cols="1a,1a,1a"]
+|===
+| 术语 | 通俗解释 | 在文中的角色
+
+| Chromosomes (染色体) | 遗传信息的“硬盘” | 基因手术的目标位置。
+| *Discrete genes (离散基因)* | *特定的功能片段* | 文中指那些能让植物招募"固氮菌"的特定基因。
+| Nonleguminous plants | 非豆科植物 | 接受“移植”的对象（如小麦、水稻）。
+| Identified and isolated | 鉴定与分离 | 基因工程的第一步：找到并剪切出那段代码。
+|===
+
+文中最后一句 Hence, the intensified research on legumes. 解释了研究重心：
+
+我们要想把“固氮补丁”装给小麦，首先得彻底搞清楚豆科植物是怎么做到的。 +
+- 哪些基因, 负责发信号, 邀请细菌？ +
+- 哪些基因, 负责在根部盖房子（建根瘤）？ +
+- 哪些基因, 负责给细菌提供氧气和能量？ +
+
+只有把豆科植物这套“全自动充电系统”研究透了，才有可能实现跨物种的移植。
+
+.One such novel idea is #that of# *inserting into* the chromosomes of plants discrete genes 后定说明 that are not a part of the plants’ natural constitution
+
+- that of，是 that idea of 的省略形式。
+
+- *inserting into* the chromosomes of plants discrete genes. +
+这里有个倒装. 正常的语序是: #*inserting*# discrete genes (that are not a part of the plants' natural constitution) #*into*# the chromosomes of plants. 即把非此植物的genes, 插入到该植物中。 +
+之所以用倒装，是因为 discrete genes 加上复杂修饰的成分以后, 太长之故。
+
+
+.最后的一句话，Hence, the intensified research on legumes.
+
+#**其实是一句话省略成了一个词：research。作者省略了 there is. **#
+
+##**其实此处即使看不清语法结构，作者的意思还是可以懂的。因此，笔者在前面强调
+的“如果可以看懂意思，不必去分析语法”，**##在实战的应用中有其意义：#*GRE和GMAT中很多表达其实不严格遵守语法，或者有考生不懂的语法，读者处心积虑去研究它们，不但没有实战的意义，而且还令读者徒增烦恼。*#
+
+本句是GRE和GMAT考试中集各种语言现象之大成者，包括了几乎所有的难句类型。希望读者一定把这句话读熟；有心者最好能把它背熟，一定对提高你的阅读能力有好处。
+
+
+
+.DeepSeek
+
+One such novel idea is that of *inserting into* the chromosomes of plants discrete genes that are not a part of the plants’ natural constitution 植物自然构成的 `(冒号引出 同位语)` : specifically, the idea of *inserting into* nonleguminous plants #the genes# 将"基因"插入"非豆科植物", if #they# can be identified and isolated, () #that# fit 使适合 the leguminous plants 豆科植物 to be hosts for nitrogen-fixing bacteria 成为固氮细菌的宿主. Hence, the intensified research 加强的研究 on legumes.
+
+.*inserting into* _the chromosomes of plants_ discrete genes
+
+inserting into... discrete genes是 宾语后置​ 结构，正常语序应为 *inserting* discrete genes *into*...，但为了强调插入位置，将介词短语提前
+
+.host
+[ C]( technical 术语) an animal or a plant /on which another animal or plant lives (v.) and feeds (v.) （寄生动植物的）寄主，宿主
+
+.legume
+( technical 术语) any plant that has seeds in long pods 长豆荚. Peas  豌豆 and beans 豆类；豆子；黄豆 are legumes .豆科作物 +
+-> 来自拉丁语legumen,豆科，##来自 legere,收集，词源同 collect.##因要把豆子用手择出来而得名。
+
+
+====
+
+
 '''

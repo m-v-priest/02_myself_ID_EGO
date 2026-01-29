@@ -6,6 +6,118 @@
 
 '''
 
+- (051.) `主` #Some geologists# 地质学家, however, on the basis 根据，按照 of observations 观察；观测 后定说明 concerning (v.)关于，涉及 _mantle 地幔 xenoliths_ 捕虏体；捕虏岩（被火山带到地表的深部岩石样品）, `谓` #argue that# /the mantle is not layered (v.)分层的；成层的, but that `主` heterogeneity 异质性；不均匀性 `谓` is created by fluids 流体 #①后定说明  rich in “incompatible 不相容的，不能共存的 elements# 富含"不相容元素"的” (elements 后定说明 tending (v.) toward 倾向于 liquid 液体的；液态的 rather than solid 固体的；固态的 state 状态)  #②后定说明 percolating (v.)渗透；渗漏 upward# 向上地 and transforming (v.)使改变形态；使改观 portions 部分；一份 of the upper mantle 上地幔 irregularly 不规则地；不规律地, according to the vagaries 变幻莫测；难以预测的变化 of the fluids’ pathways 路径；路线.
+
+[.my1]
+.案例
+====
+
+- (051.) Some geologists, however, on the basis of observations concerning mantle xenoliths, argue that the mantle is not layered, but that heterogeneity is created by fluids rich in “incompatible elements” (elements tending toward liquid rather than solid state) percolating upward and transforming portions of the upper mantle irregularly, according to the vagaries of the fluids’ pathways.
+
+然而，一些地质学家根据对地幔捕虏岩的观测，认为地幔并非分层，而是由富含“不相容元素”（倾向于液态而非固态的元素）的流体向上渗透，并根据流体路径的变幻，不规则地改造上地幔的某些部分，从而产生异质性。
+
+但是，一些地质学家（基于关于地幔捕虏岩的观察）认
+为，地幔不是分层的，而其不同的成分是/由一些流体造成的，这些流
+体［富含“不相容成分”（即那些趋向于作为液体而非固体而存在的成
+分），（这些物质向上渗透，并/依照这些流体所经过的随机路径/不规
+则地改变了上地幔的某些部分）］。
+
+
+
+.heterogeneity is created by fluids #后定说明②# rich in “incompatible elements” (elements tending (v.) toward liquid rather than solid state) #后定说明②# percolating (v.) upward /and transforming portions of the upper mantle irregularly,
+
+percolating... and transforming... 是并列的现在分词短语，修饰fluids
+
+
+这句话提出了 反对分层地幔理论的另一种解释： +
+否定观点：地幔不是分层的（反对前文的分层论题） +
+替代解释：地幔的"非均质性", 是由流体活动造成的，而非分层结构 +
+机制描述：富含不相容元素的流体向上渗透，随机改造上地幔 +
+
+术语 +
+mantle xenoliths：地幔捕虏体（被火山带到地表的深部岩石样品） +
+*heterogeneity：非均质性（物质成分不均匀）* +
+incompatible elements：不相容元素（在地幔熔融过程中倾向于进入熔体的元素） +
+percolating upward：向上渗透 +
+vagaries of the fluids' pathways：流体路径的随机性/不确定性 +
+
+.grok
+
+这句话在描述地幔（mantle）成分不均匀性（heterogeneity）成因的一种重要观点，和传统的“地幔分层（layered mantle）”模型形成鲜明对比。
+
+[.my3]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|传统观点（被这群地质学家反对的）
+|*很多人原本认为地球地幔是分层的，就像洋葱一样：*
+
+上地幔（upper mantle） +
+下地幔（lower mantle）
+
+*不同深度, 有比较清楚的化学成分和矿物相的界限*（比如过渡带、410 km 和 660 km 不连续面, 被认为是重要化学或矿物相变的边界）。
+
+这种分层模型在 20 世纪 70–80 年代很流行，尤其根据地震波速度跳变, 和一些早期地幔球模型。
+
+|这群地质学家的反对意见（基于 mantle xenoliths 的证据）
+|*他们说：地幔其实没有那么清楚的层状结构，看到的化学不均匀（heterogeneity）, 主要不是因为“天生分层”，而是被后期流体改造造成的。*
+
+关键过程 —— 流体交代作用（metasomatism / mantle metasomatism）
+
+
+- mantle xenoliths, 地幔捕虏体，*就是火山喷发或金伯利岩管带上来的地幔小碎块，我们能直接拿到手研究的地幔真实样本*
+- heterogeneity, *成分不均匀、不均一（有些地方富集某些元素，有些地方贫化）*
+- incompatible elements, **不相容元素（特别“不听话”的元素），它们不喜欢待在固体矿物晶格里，更容易跑进熔体/流体里。**比如轻稀土（LREE）、K、Na、Rb、Ba、Th、U、Nb 等
+- percolating (v.) upward, *像水从下往上慢慢渗透、渗流一样向上移动*
+- transforming (v.) portions irregularly, 把地幔的某些局部区域, 不规则地“改造成”富含不相容元素的化学成分
+- vagaries of the fluids’ pathways, *流体走的路径很随机、很 capricious（任性），导致改造区域分布很“花斑”状、不连续*
+|===
+
+
+[.my3]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|这段话的核心科学主张，用一句话总结就是：
+|“*你们看到的那些化学不均匀，不是因为地幔本来就分成好几层"成分不同的壳"，而是因为富含不相容元素的流体（fluids rich in incompatible elements）像水流一样从下面往上乱窜，走到哪里就把哪里的地幔“污染”/“富集”了，造成成分斑驳不均。*”
+
+这种改造叫"地幔交代作用"（mantle metasomatism），尤其是富不相容元素交代（incompatible-element metasomatism）。
+
+|为什么他们用 xenoliths 做证据？
+|因为直接从地幔带上来的岩石样本（捕虏体）显示： +
+很多地方原本应该是贫化（depleted）的橄榄岩（经过部分熔融后剩下来的“渣”）, 但却突然出现很多"不相容元素"超高的特征（LREE 富集、Sr、Ba、K 异常高等）. 而且这种富集, 往往是局部、斑块状的，而不是整层都均匀变化. +
+有时还能看到交代矿物（amphibole 角闪石、phlogopite 金云母、apatite 磷灰石等）沿着裂隙或脉体出现.
+
+这就支持了“流体沿着裂隙随机渗透、局部改造”的模型，而不是“整层化学成分天生不同”的分层模型。
+
+|简单类比
+|想象地幔是一大块原本比较“干净、贫瘠”的海绵（贫化橄榄岩）。
+后来有一些带着“调味料”（不相容元素）的汤汁（富不相容元素的流体）从下面往上渗。
+汤汁流到哪里，哪里的海绵就被“腌入味”了，变得味道很重（不相容元素富集）。
+但因为汤汁流路很随机，所以最终整个海绵味道分布得非常不均匀、花斑一样，而不是分成泾渭分明的几层味道区。
+|===
+
+我继续问: 那么当前的主流最新研究, 更支持哪种观点呢?
+
+*当前的主流最新研究（基于 2023 – 2025 年的论文和综述）并不简单地“一边倒”支持其中一种极端观点，而是倾向于一个综合模型：地幔既有大规模的分层结构（layered structure），又有显著的化学和岩石不均匀性（heterogeneity），而metasomatism（交代作用，尤其是流体/熔体引起的）是造成上地幔（特别是岩石圈地幔和软流圈上部）局部到区域尺度不均匀性的最重要机制之一。*
+
+[.my3]
+[options="autowidth" cols="1a,1a,1a"]
+|===
+|方面|当前主流观点（2024 – 2025 年研究）|通俗解释
+
+|整体地幔结构|*仍存在清晰的"径向分层"*（radial layering），如 410 km、660 km 过渡带、D″ 层、LLVPs 等全球尺度特征|地**幔像洋葱，有大尺度的“层”，地震波速度和矿物相变支持这个框架没被推翻**
+|上地幔（< ~660 km）异质性|非常强，尤其是岩石圈地幔（lithospheric mantle）和软流圈（asthenosphere），化学成分差异大|上地幔不是均匀的“汤”，到处是“斑块”“条带”“脉体”
+|异质性主要成因|metasomatism（流体/熔体渗透交代）是主导机制之一，特别是 subduction-related fluids/melts、碳酸盐交代、硅酸盐熔体交代|很多“不均匀”是被后期“汤汁”泡过、改造成分的，而不是天生就分层不同
+|xenoliths 证据|大量新研究（2024 – 2025）继续强调mantle xenoliths 显示广泛的incompatible elements 富集、交代矿物（phlogopite、amphibole、apatite 等），支持 metasomatism|直接抓到手的“地幔碎块”里，常常看到被“污染”过的痕迹，支持流体改造说
+|与“纯分层模型”的关系|*纯的“静态分层”（layered without much later modification）已不被广泛接受；现在是分层 + 后期动态改造*|过去的分层是“骨架”，但后来被 subduction、plume、rift 等过程反复“打补丁”
+|典型例子|慢速扩张脊下 asthenosphere heterogeneity（2025 论文）；大陆俯冲导致的 heterogeneous metasomatism（2025 Qaidam）；碳酸盐 + 硅酸盐 metasomatism（2025 Eifel）|很多地方的“不均匀”直接跟俯冲带、裂谷、热点相关
+|===
+
+
+====
 
 
 '''
