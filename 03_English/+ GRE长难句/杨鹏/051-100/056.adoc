@@ -7,5 +7,170 @@
 '''
 
 
+- (056.) It is possible to make _specific 明确的，具体的；特定的 complementary 相互补充的，相辅相成的 DNAs_ 互补脱氧核糖核酸 (cDNAs, 一种通过逆转录信使RNA合成的DNA) that can *serve as* molecular probes 分子探针 (用于检测特定核酸序列的分子) to seek out 搜寻并发现 the messenger RNAs 信使核糖核酸 (mRNAs, 携带DNA遗传信息并指导蛋白质合成的RNA) of the peptide 肽 hormones 肽类激素 (由氨基酸链组成的激素，如胰岛素).  +
+If brain cells 脑细胞 are making the hormones 激素；荷尔蒙, the cells will contain (v.) these mRNAs.  +
+If `主` #the products# 产物 后定说明 the brain cells make `谓` #resemble# (v.)与……相似；类似于 the hormones /but are not identical (a.)完全相同的；同一的 to 与……完全相同；与……一模一样 them, then `主` the cDNAs should still bind to 与……结合 (指分子间通过化学键或相互作用连接) these mRNAs, but should not bind *as tightly 紧密地；牢固地 as* they would to mRNAs 后定说明 for 编码…的,对应于…的 the true hormones.
+
+[.my2]
+这是可能的: 制备出特定的互补DNA (这个互补DNA能作为分子探针, 来寻找肽类激素的信使RNA)。 +
+如果脑细胞正在制造那些激素, 那么那些细胞将会包含这些信使RNA。 +
+如果脑细胞制造的产物 (这个产物是脑细胞制造的) 类似于那些激素,但并不与之完全相同, 那么互补DNA应该仍然能结合到这些信使RNA上, 但不会结合得像它们 (互补DNA) 对真正的激素的信使RNA (这个信使RNA是为真正的激素编码的) 那样紧密。
+
+
+[.my1]
+.案例
+====
+- (056.) It is possible to make specific complementary DNAs that can serve as molecular probes to seek out the messenger RNAs of the peptide hormones. If brain cells are making the hormones, the cells will contain these mRNAs. If the products the brain cells make resemble the hormones but are not identical to them, then the cDNAs should still bind to these mRNAs, but should not bind as tightly as they would to mRNAs for the true hormones.
+
+可以制造出特定的互补DNA，它们可以作为分子探针，寻找肽激素的信使RNA。如果脑细胞正在制造这些激素，那么这些细胞将包含这些mRNA。如果脑细胞制造的产品类似于这些激素但并不完全相同，那么cDNA仍然应该与这些mRNA结合，但结合的紧密程度不会像与真正激素的mRNA结合那样紧密。
+
+有可能制备出特定的"互补DNA"（cDNA），使其能够作为"分子探针"，来寻找"肽类激素"的信使RNA（mRNA）。如果脑细胞正在制造这些激素，那么细胞中就会含有这些mRNA。如果脑细胞制造的产物, 与这些激素相似,但不完全相同，那么cDNA探针应该仍然能够与这些mRNA结合，但结合得不会像与"编码真正激素的mRNA"结合时那样紧密。
+
+
+.grok:
+
+这句话其实是在讲 20 世纪 80 年代初（原文出自 1982 年左右的文章）一种很经典的分子生物学技术：用 cDNA 探针（complementary DNA probe） 来“钓”脑细胞里编码 肽类激素（peptide hormones） 的 mRNA，并且还能区分“真激素”和“类似但不完全相同”的变体。
+
+[.my3]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|核心技术原理：核酸杂交（nucleic acid hybridization）
+|- cDNA：complementary DNA，*互补 DNA。* +
+通俗说：*从真正的激素 mRNA 反转录（reverse transcription）得到的 DNA 链，它和原 mRNA 序列完全互补（像钥匙和锁）。*
+
+- molecular probes：分子探针。  +
+*就是把这个 cDNA 标记上放射性或荧光，当作“侦探”去寻找匹配的 mRNA。*
+
+- seek out the messenger RNAs：去寻找 / 检测那些 mRNA。
+
+|第一部分：如果脑细胞真的在制造激素 +
+“If brain cells are making the hormones, the cells will contain these mRNAs.”
+|#*脑细胞如果在合成某种"肽类激素"*#（比如脑啡肽 enkephalin、血管加压素 vasopressin、催产素 oxytocin 等），#*它就必须先转录出对应的 mRNA。所以细胞里一定会有那种特定的 mRNA。*#
+用针对这个激素的 "cDNA 探针" 去杂交（hybridize），就会牢固结合（tight binding），信号很强。
+
+通俗比喻："探针"像一把精确的钥匙，真 mRNA 是对应的锁孔 → 完美匹配，钥匙插进去很紧。
+
+|第二部分：如果产物“像激素但不完全相同” +
+“If `主` the products the brain cells make `谓` resemble the hormones but are not identical to them, then the cDNAs should still bind to these mRNAs, but should not bind as tightly as they would to mRNAs for the true hormones.”
+|#*很多肽类激素, 有家族成员或"前体" / 类似物*#（比如 pro-opiomelanocortin 衍生出一堆：ACTH、β-内啡肽、MSH 等；或神经肽 Y 家族）。
+*#这些“类似激素”的 mRNA 序列和“真激素” mRNA 大部分相似（高度同源 homologous），但有几个碱基不同（mismatch）。 +
+所以探针（针对"真激素的 cDNA"）还是能和这种“类似 mRNA”杂交（bind），但因为有错配，结合不那么牢固（not bind as tightly）。#*
+
+通俗比喻：
+
+- 真 mRNA → 完美匹配的锁，钥匙插到底，很稳。 +
+- 类似 mRNA → 锁孔有点变形或多了一点锈，钥匙还能插进去，但没那么紧，稍微一拉就松。
+
+|科学上怎么利用这个性质？（stringency 杂交严格度）
+|原文想说的就是：用同一种 cDNA 探针，在不同严格度下做实验，就能判断脑细胞里是否有“真激素”的 mRNA，还是只有“类似物”的 mRNA。
+
+|这句话的时代背景和意义
+|1982 年左右，正是"原位杂交（in situ hybridization, ISH）技术"刚开始广泛用于神经内分泌学的时候。
+#*当时科学家想搞清楚：脑子里到底有没有直接合成"经典外周激素"（比如胰岛素、胰高血糖素），还是只合成"结构相似的神经肽"？*# +
+这个方法提供了一种不用先纯化蛋白、直接从基因水平找证据的办法。
+后来这个思路被大量用于发现脑内各种神经肽（如 CRH、TRH、somatostatin 等）的 mRNA 定位。
+|===
+
+一句话总结：
+“可以用针对已知肽激素的 cDNA 做探针，去检测脑细胞里的 mRNA。如果是完全相同的真激素，探针结合得很牢；如果是结构相似的变体，探针也能结合，但结合得没那么牢。通过调节实验条件，就能区分到底是真货还是类似物。”
+
+
+
+
+.句子1:
+....
+【主句】 It is possible to make specific complementary DNAs
+                                   │
+          【定语从句】 that can serve as molecular probes
+                                   │
+          【目的状语】 to seek out the messenger RNAs of the peptide hormones
+....
+
+[.my3]
+[options="autowidth" cols="1a,1a,1a"]
+|===
+| 语法要素 (英文) | 语法要素 (中文) | 翻译
+
+| 句子1: 主句 (It is... to...) | It is possible /to make specific complementary DNAs | 这是可能的: 制备出特定的互补DNA
+
+- complementary (a.) DNA (cDNA) : 互补DNA。在分子生物学中，特指以"信使RNA" (mRNA) 为模板，通过"逆转录酶"合成的DNA序列。它与mRNA序列互补，因此是研究基因表达的强力工具。
+
+| 句子1: 定语从句 | that can *serve as* molecular probes | 该互补DNA能作为分子探针
+
+- molecular probes : 分子探针。这里指带有标记（如放射性或荧光标记）的cDNA片段，用于在混合物中, 特异性地检测和结合其互补的mRNA序列。
+
+| 句子1: 目的状语 | *to seek out* the _messenger RNAs_ of _the peptide hormones_ | 来寻找"肽类激素"的信使RNA
+
+-  messenger RNAs (mRNAs) : 信使RNA。携带遗传信息（编码蛋白质的序列），从细胞核DNA转录而来，在"细胞质"中作为模板, 指导"蛋白质"合成。
+- peptide hormones : 肽类激素。由"氨基酸链（肽）"构成的激素，例如胰岛素、生长激素。许多大脑产生的活性物质,也属于此类。
+|===
+
+
+
+
+.句子2:
+
+If brain cells are making the hormones, the cells will contain these mRNAs.
+
+....
+【条件状语从句】 If brain cells are making the hormones
+                          │
+          【主句】 the cells will contain these mRNAs
+....
+
+[.my3]
+[options="autowidth" cols="1a,1a,1a"]
+|===
+| 语法要素 (英文) | 语法要素 (中文) | 翻译
+
+| 句子2: 条件状语从句 | If brain cells are making the hormones | 如果脑细胞正在制造那些激素
+| 句子2: 主句 | the cells will contain these mRNAs | 那么那些细胞将会包含这些信使RNA
+|===
+
+
+.句子3:  +
+
+If `主` the products 后定说明 the brain cells make `谓` resemble (v.) the hormones but are not identical to them, then the cDNAs should still bind to these mRNAs, but should not bind as tightly as they would to mRNAs for the true hormones.
+
+....
+【条件状语从句】 If the products resemble (v.) the hormones /but are not identical to them
+                     │
+          【定语从句】 (that) the brain cells make
+                     │
+          【主句】 then the cDNAs should still bind to these mRNAs
+                     │
+          【转折并列分句】 but should not bind as tightly
+                                    │
+          【比较状语从句】 as they would (bind) to mRNAs for the true hormones
+....
+
+
+
+
+[.my3]
+[options="autowidth" cols="1a,1a,1a"]
+|===
+| 语法要素 (英文) | 语法要素 (中文) | 翻译
+
+| 句子3: 条件状语从句 | If `主` the products 后定说明 the brain cells make  `谓` resemble (v.) the hormones /but are not identical to them | 如果脑细胞制造的产物, 类似于那些激素, 但并不与之完全相同
+| 句子3: 条件句中的定语从句 | (that) the brain cells make | (这个产物是)脑细胞制造的
+| 句子3: 主句 | then the cDNAs should still bind to these mRNAs | 那么互补DNA, 应该仍然能结合到这些信使RNA上
+| 句子3: 主句中的转折分句 | but should not bind *as tightly as* they would to mRNAs for the true hormones | 但不会结合得像它们对"真正的激素的信使RNA"那样紧密
+
+- bind (as tightly) : （紧密地）结合。这里指cDNA探针, 通过"碱基互补配对原则"（A-T, G-C）, 与"目标mRNA序列"特异性结合。bind tightly 意味着结合牢固、特异性高。
+
+| 句子3: 比较状语从句 | as they would (bind) to mRNAs for the true hormones | 如同它们（将会结合）到"真正的激素的信使RNA"那样
+
+- ##**would表示一种假设性比较（“在理想情况下会如何”），**##不能省略不译。for表示归属关系，即“编码真正激素的mRNA”。
+- for the true hormones: *##这里的 for表示“编码…的”、“对应于…的”。##mRNAs for the true hormones即“编码真正激素的mRNA”。*
+
+|===
+
+
+
+
+====
 
 '''

@@ -7,5 +7,107 @@
 '''
 
 
+- (052.) Fallois 人名 proposed 提议；建议 that /Proust #had tried to begin a novel# 小说 in 1908, #abandoned 放弃；舍弃 it# /for *what was to be 将要成为...的东西 a long demonstration* 证明；论证 of Saint-Beuve’s blindness 无知；不了解 to the real nature 本质；性质 of great writing, #found# (v.) the essay 散文；论说文 giving rise to 引起；导致 personal memories 回忆；记忆 and fictional 虚构的；小说的 development 发展 /#and allowed these# to take over 接管；接手 in a steadily 稳定地；持续地 developing novel.
+
+[.my1]
+.案例
+====
+- (052.) Fallois proposed that Proust had tried to begin a novel in 1908, abandoned it for what was to be a long demonstration of Saint-Beuve’s blindness to the real nature of great writing, found the essay giving rise to personal memories and fictional development and allowed these to take over in a steadily developing novel.
+
+法卢瓦提出，普鲁斯特在1908年曾尝试开始一部小说，后来放弃了，转而进行了一场冗长的论证，旨在揭示圣伯夫对伟大写作真实本质的盲目，结果发现这篇论文引发了个人记忆和虚构情节的发展，并允许这些内容在一个稳步发展的小说中占据主导。
+
+.DeepSeek:
+
+这句话描述了 普鲁斯特创作《追忆似水年华》的起源过程： +
+初始计划（1908年）：尝试开始一部小说 +
+转向批评：放弃小说，转向批评圣伯夫的文学评论 +
+创作转折：批评文章, 引发个人记忆和虚构情节 +
+最终成果：这些内容发展成《追忆似水年华》 +
+
+《追忆似水年华》（马塞尔·普鲁斯特著）最经典、最常用的正式英文书名为 In Search of Lost Time。另一个被广泛接受的早期译名是 Remembrance of Things Past。该作是意识流文学的代表作。
+
+....
+【主句】
+主语： [Fallois]
+谓语： [proposed]
+     │
+     └─ 【宾语从句】
+          连词： [that]
+          主语： [Proust]
+          谓语1： [had tried to begin a novel in 1908]
+          谓语2： [abandoned it for what was to be a long demonstration of Saint-Beuve’s blindness to the real nature of great writing]
+          谓语3： [found the essay giving rise to personal memories and fictional development]
+          并列连词： [and]
+          谓语4： [allowed these to take over in a steadily developing novel]
+....
+
+*#并列谓语识别：四个动词（tried, abandoned, found, allowed）共享主语Proust.#*
+
+我又问 DeepSeek: 这里,  abandoned..., found..., and allowed  是不是都省略了 had? 完整的是否是Fallois proposed that Proust had tried..., had abandoned...,had  found..., and had allowed...  ?
+
+[.my3]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|DeepSeek 回答:
+|是的，完全正确。​ 这四个动词（tried, abandoned, found, allowed）是并列谓语，共享同一个助动词 had，构成过去完成时 had tried, had abandoned, had found, and had allowed。英语语法允许在并列结构中省略重复的助动词，因此原句只保留第一个 had，后面三个都承前省略了。
+
+|gemini 的回答:
+|从语法逻辑来看，这确实是一个过去完成时的并列结构。abandoned、found 和 allowed 在逻辑上都属于 Proust 在 1908 年之后的一系列动作，且都发生在 Fallois proposed（过去某个时间提议）之前。
+
+语法上的“共享” +
+#*在英语长句中，如果一系列动作是由同一个主语发出的，且都处于同一个时态背景下，我们通常只在第一个动词前使用助动词（如 had），后面的动词会自动“共享”这个助动词。*#
+
+逻辑完整版： ...Proust had tried..., [had] abandoned..., [had] found..., and [had] allowed...
+
+实际呈现版： #*这是一种“顺时态（Tense Carry-over）”现象。只要中间没有插入改变时间的信号词（比如 but now），读者就会默认这一串动作都发生在同一个“过去的过去”的时间轴上。*#
+
+我们可以用一个时间线来可视化 Proust 的心路历程，这些动作全部发生在 Fallois “提出（Proposed）”这个动作之前：
+
+[.my3]
+[options="autowidth" cols="1a,1a,1a"]
+!===
+! 动作顺序 ! 动词 ! 描述内容
+
+! 1 (起始) ! had tried ! 1908 年尝试写小说（设定时间背景点）。
+! 2 (转折) ! (had) abandoned ! 放弃小说，转而写一篇反驳 Saint-Beuve 的长文（论文）。
+! 3 (发现) ! (had) found ! 发现写论文时带出了大量私人回忆和虚构情节。
+! 4 (结果) ! (had) allowed ! 顺水推舟，让这些回忆演变成了最终的长篇小说。
+!===
+
+这段话描述的是普鲁斯特名著《追寻逝去的时光》（À la recherche du temps perdu）极其独特的诞生过程： 最初他只是想写一篇文学评论（针对圣伯夫 Saint-Beuve），结果写着写着，回忆像洪水一样涌出，评论变成了小说，原本的“论文”最后缩水成了小说里的某些章节。
+|===
+
+
+
+
+
+
+- Saint-Beuve：圣伯夫（19世纪法国文学评论家）
+- blindness (n.) to the real nature of great writing：对伟大写作真正本质的视而不见/误判
+- personal memories and fictional development：个人记忆和虚构情节发展
+- steadily developing (a.) novel：稳步发展的小说（指《追忆似水年华》）
+
+
+这段话涉及 普鲁斯特对圣伯夫的批评： +
+圣伯夫主张, 通过作家生平来理解作品. +
+普鲁斯特反对这种"传记批评"，认为伟大作品有其独立价值. +
+普鲁斯特原本想写批评文章驳斥圣伯夫，但创作过程中, 个人记忆涌现，最终发展成小说. +
+
+.本书作者的解读:
+
+本句从that引导的宾语从句开始，实际上是以布鲁斯特的意识流向为线索，以列举的方式描述其动机的变化，从一开始的写别的小说，到
+为了批S-B放弃它，再到从批S-B的文章中得到启发，最后形成《追忆似
+水年华》，其英文为 Proust had tried to..., abandoned..., found..., and
+allowed...。但是因为 abandoned之后的状语/for…/的结构复杂、用词抽
+象，所以这个结构不太容易被看出来。
+
+
+
+
+
+====
+
 
 '''

@@ -6,6 +6,53 @@
 
 '''
 
+- (054.) But `主` #those of us# 我们中的那些人 后定说明 *who hoped*, 插入 with Kolb 和…一起,与…意见一致, *that* /`主` *Kolb’s newly published* _complete edition_ (版本；版)完整版 of Proust’s correspondence 通信；书信往来 for 1909 `谓` *would document (v.)记录；记载 the process* 过程；进程 in greater detail 细节；详情 `系` #are disappointed# 失望的；沮丧的.
+
+[.my1]
+.案例
+====
+- (054.) But those of us who hoped, with Kolb, that Kolb’s newly published complete edition of Proust’s correspondence for 1909 would document the process in greater detail are disappointed.
+
+但是，我们中那些与科尔布一样，希望科尔布新出版的1909年普鲁斯特书信全集, 能更详细地记录这一过程的人，都感到失望了。
+
+但是我们中的一些人 (这些人曾希望, 和 Kolb 一起, 认为 Kolb 新出版的完整的普鲁斯特1909年书信集, 会以更详尽的方式记载那个过程) 是失望的。
+
+这个句子表达了一种 学术期待落空的情绪。前文（可能）提到了普鲁斯特创作转型的“过程”（the process）很重要但细节模糊。学者科伯（Kolb）出版了相关的书信全集，人们（包括作者自己）原本期望这部新资料能提供更多细节，但结果令人失望。
+
+.DeepSeek
+
+但是我们中的一些人 (这些人曾希望, 和 Kolb 一起, 认为 Kolb 新出版的完整的普鲁斯特1909年书信集, 会以更详尽的方式记载那个过程) 是失望的。
+
+这个句子表达了一种 学术期待落空的情绪。前文（可能）提到了普鲁斯特创作转型的“过程”（the process）很重要但细节模糊。学者科伯（Kolb）出版了相关的书信全集，人们（包括作者自己）原本期望这部新资料能提供更多细节，但结果令人失望。
 
 
-'''
+....
+【主句】 主语：But those of us
+                              ↑
+                 【定语从句】 who hoped, with Kolb,
+                              │
+                              └─ 【宾语从句】 that Kolb’s newly published... would document...
+                                     │
+                                     ├─ 主语：Kolb’s newly published complete edition
+                                     │        │
+                                     │        └─ 后置定语：of Proust’s correspondence for 1909
+                                     │
+                                     ├─ 谓语：would document
+                                     │
+                                     ├─ 宾语：the process
+                                     │
+                                     └─ 状语：in greater detail
+                 【主句】 谓语：are disappointed
+....
+
+
+.But those of us *who hoped*, _with Kolb_, *that*...
+
+- with Kolb : 这里的 with 不是“使用”，而是“和…一起”、“与…意见一致”，表示“我们”和学者 Kolb 怀有同样的希望。这里表示“我们中的一些人,与科尔布抱有同样的希望”，强调是共同的观点。
+
+- with Kolb,作为插入语，打断了定语从句中 hoped 和其宾语从句 that...的连贯性。
+
+
+====
+
+

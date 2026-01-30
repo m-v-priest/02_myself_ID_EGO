@@ -7,5 +7,78 @@
 '''
 
 
+- (057.) `主` The molecular 分子的 approach 方法；途径 to detecting 探测；检测 peptide 肽 hormones 激素 using cDNA probes 探针 `谓` should also be much faster than the immunological 免疫学的 method 方法 /because it can take years of tedious 乏味的；单调的；冗长的 purifications 提纯；净化 to isolate (v.)分离；提取 peptide hormones 肽类激素 and then develop (v.) antiserums 抗血清 to them.
+
+[.my2]
+这个分子生物学方法 (这个方法是用来检测肽类激素的, 利用cDNA探针) 也应该会比免疫学方法快得多, 因为它 (这个“它”是形式主语) 可能需要数年枯燥的纯化工作 (这个纯化工作的目的是分离肽类激素) 然后才能制备出抗血清 (这个抗血清是针对那些肽类激素的)。
+
+
+[.my1]
+.案例
+====
+- (057.) The molecular approach to detecting peptide hormones using cDNA probes should also be much faster than the immunological method because it can take years of tedious purifications to isolate peptide hormones and then develop antiserums to them.
+
+使用cDNA探针检测肽激素的分子方法, 也应该比免疫学方法快得多，因为分离肽激素, 并随后开发针对它们的抗血清, 可能需要数年繁琐的纯化过程。
+
+- tedious purifications : 枯燥/繁琐的纯化工作。指从复杂的生物样品（如脑组织匀浆）中，通过层析、电泳等多种生化手段，将含量极微的"目标肽类激素"逐步分离、纯化出来的过程。
+
+- antiserums : 抗血清。将纯化后的抗原（此处是肽类激素）注射到动物（如兔、鼠）体内，刺激其免疫系统产生的、含有特异性抗体的"血清"。这是制备多克隆抗体的传统方法。antiserums是 antiserum的复数形式。
+
+.and then develop antiserums to them.
+
+*to 在这里表示“针对…的”*，是免疫学常用搭配 (antiserum to a specific antigen)。不能翻译为“给它们的抗血清”或“它们的抗血清”。
+
+.grok:
+
+这句话是在对比两种检测 肽类激素（peptide hormones） 的方法：免疫学方法（immunological method） vs 分子方法（molecular approach，用 cDNA 探针），并指出分子方法更快，因为免疫学方法太费时费力。
+
+[.my3]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|为什么人们要检测肽激素？
+|一句话总结：*检测肽激素, 是为了破解脑如何用化学信号控制身体和行为，也是找新药靶点的基础。*
+
+
+很多经典激素（如胰岛素 insulin、催产素 oxytocin、血管加压素 vasopressin）原本以为只在外周器官产生，但 20 世纪 70–80 年代发现：脑（尤其是下丘脑和垂体）也大量合成和释放类似的肽。
+这些脑内肽激素（neuropeptides）控制情绪、疼痛、食欲、应激、生殖、学习记忆等。 +
+
+例如：脑啡肽（enkephalins）和内啡肽（endorphins）是天然“止痛药”；CRH（corticotropin-releasing hormone）调控应激；GnRH 调控生殖。
+
+历史上，很多肽激素是先从外周（如肠道、胰腺）发现的，后来才知道脑里也有。
+科学家想知道：脑细胞到底有没有直接合成“真”激素，还是只合成“类似物”？这能揭示脑-身体的“双向对话”（neuroendocrine crosstalk）。
+
+检测是为了定位（在哪里表达？）、定量（有多少？）、验证功能（敲除后行为变不变？）。
+
+临床和药物开发:
+异常的肽激素水平, 与抑郁症、肥胖、慢性疼痛、不孕、高血压、糖尿病等相关。
+检测能作为"生物标志物"（biomarker），帮助诊断。
+很多药物（如 GnRH 类似物用于不孕, 或前列腺癌治疗）就是基于这些肽的。
+
+|为什么要开发抗血清（antisera）？（即免疫学方法的核心工具）
+|抗血清（antiserum） 就是把纯化的肽激素, 注射到动物（如兔子、山羊）体内，让动物产生针对这个肽的 "抗体"（antibodies），然后采集动物的血清 → 这就是抗血清。
+
+*#人们检测肽激素, 是为了揭开脑如何用小分子“指挥”情绪、行为、生理的秘密，同时为疾病诊断和药物开发铺路；开发抗血清, 则是当时最主要的工具，用来灵敏地定位、定量和研究这些肽的功能，没有它，很多脑内“化学信使”就没法被“看到”。#*
+
+原文说：分子方法（cDNA 探针）比免疫方法快多了，因为免疫方法要“几年枯燥的纯化 + 开发抗血清”。
+
+- 免疫方法：先拿到纯肽 → 做抗体 → 才能检测（耗时几年）。
+- #*分子方法：只要知道部分序列，就能做 cDNA 探针 → 直接从 mRNA 水平找基因表达（几个月搞定）。*#
+
+这标志着从“蛋白水平检测”向“基因水平检测”的技术革命，帮助 80 年代后期爆发式发现了大批脑内神经肽。
+|===
+
+
+.作者解说
+
+The molecular approach to detecting peptide hormones using cDNA probes should also be much faster than the immunological method because it can take years of tedious purifications to isolate peptide hormones and then develop antiserums to them.
+
+这里有个 because从句, *按照一般的习惯，作为从句主语的it, 应该指主句的主语*. 但本句的主句是一个比较结构，A should be faster than B /because
+it...，此处it也可以指B。但是因为这种指代不符和我们以前所形成的习
+惯，所以阅读时, 不得不 边读边根据句意来判断.
+
+
+====
 
 '''

@@ -7,5 +7,61 @@
 '''
 
 
+- (061.) `主` Many critics 评论家 of Emily Brontë’s novel 小说 _Wuthering 咆哮的 Heights_ 呼啸山庄 `谓` *see* (v.) its second part 部分 *as* a counterpoint （音乐中的）对位法；（文学、艺术等的）对比；对照 后定说明 `主` #that *comments (v.)表达意见 on*#, if it does not reverse (v.)颠倒；反转；翻转, `宾` #*the first part*#, where a “romantic” reading 解读；理解 receives (v.) more confirmation 证实；确认；证明.
+
+
+[.my2]
+许多批评家 (这些批评家是评论艾米莉·勃朗特的小说《呼啸山庄》的) 将它的第二部分视为一种对位/对比/对应物 (这个对位/对比/对应物是对第一部分进行评论/注解的, 即便它 (这个对位/对比/对应物) 没有彻底颠覆第一部分)，在第一部分中，一种“浪漫主义”的解读得到了更多的证实/支持。
+
+[.my1]
+.案例
+====
+- (061.) Many critics of Emily Brontë’s novel Wuthering Heights see its second part as a counterpoint that comments on, if it does not reverse, the first part, where a “romantic” reading receives more confirmation.
+
+艾米丽·勃朗特小说《呼啸山庄》的许多评论家认为, 其第二部分是一个对位，它评论了（即便没有颠覆）第一部分，在第一部分中，“浪漫主义”的解读获得了更多印证。
+
+这句话总结了一种关于《呼啸山庄》结构的文学批评观点。其逻辑是：许多批评家认为，小说的第二部分 (聚焦于第二代的故事和结局) 并非第一部分的简单延续，而是扮演了一个“对位”角色，它对第一部分 (聚焦于凯瑟琳和希斯克利夫的激情故事) 进行了审视和评论。​ 这种“对位”关系，即便没有完全推翻第一部分留给读者的浪漫主义印象，至少也对其提出了复杂的质疑。而之所以有“浪漫主义”印象，是因为第一部分本身更支持这种解读。
+
+....
+【主句】
+├─ 主语：Many critics
+│       │
+│       └─ 【后置定语】 of Emily Brontë’s novel Wuthering Heights
+├─ 谓语：see
+├─ 宾语：its second part
+└─ 【宾语补足语】 as a counterpoint
+        │
+        └─ 【定语从句】 that comments on the first part
+              │
+              └─ 【条件状语插入语】 , if it does not reverse,
+              │   (其中 it 指代 the second part 或 the counterpointing action)
+              │
+              └─ 【非限制性定语从句】 , where a “romantic” reading receives more confirmation
+                 (其中 where 指代 in the first part)
+....
+
+
+.`主` Many critics of ... `谓` *see* its second part *as* a counterpoint
+
+- **see A as B 结构：意为“将A视为B”。**此处 A 是 its second part， B 是 a counterpoint。
+
+- **counterpoint : 对位法。**源自音乐术语，**指两条或多条"独立,但和谐并进"的旋律线。**在文学批评中，**引申为两个并行、互相对照、互相评论的部分、主题或叙事线索。**此处指小说的第二部分与第一部分, 形成一种对照、呼应、甚至反驳的关系。
+
+
+
+.Many critics of ... *see* its second part *as* a counterpoint 后定说明 that *comments (v.) on*, if it does not reverse (v.) , the first part, where a _“romantic” reading_ receives (v.) more confirmation.
+
+- 定语从句 that comments on the first part 被一个条件状语插入语 , if it does not reverse, 打断.
+
+- if it does not reverse  即便没有彻底颠覆。这是一个让步状语插入语，it指代第二部分或其“评论”行为。*意思是：第二部分的“对位”作用, 至少达到了“评论/注解”的程度，甚至可能强烈到“颠覆/反转”第一部分所建立的理解。*​ 这是一个“退一步说”的表达，强调其评论性，并暗示颠覆的可能性。
+
+- 书作者的解说: ：**if 既可以理解成“如果”的意思，也可以理解成“即使”的意思。**如果理解成“即使”的意思，上下文的意思则要理解成“即使不反对第一部分，也要给予第一部分一个负面的评论”。然而此处不能这样理解，因为 that 之前的 counterpoint 的意思不是相反、对立，而是指"和谐的组成部分"的意思。这个词来源于一个音乐术语，指音乐中的对位法、旋律配合，引伸为形容两个不同的东西彼此和谐一致，同义词是 harmony。因此文中的 if it does not reverse 的意思是“假如不反对第一部分，则是与第一部分和谐一致的评论”的意思。这种情况下，这个插入语纯属废话。
+
+- a “romantic” reading  一种“浪漫主义”的解读。指从"浪漫主义文学"的角度来理解小说第一部分。
+
+receives (v.) more confirmation  得到更多的证实/支持。指小说第一部分的情节、人物塑造和氛围，更容易让读者得出一种"浪漫主义"的解读。
+
+====
+
 
 '''
