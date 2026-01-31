@@ -8,4 +8,105 @@
 
 
 
+- (064.) The _isotopic (a.)同位素的；同位旋的 composition_ 构成；成分 of lead 铅 `谓` often varies (v.) *from* one source 来源；出处 of common copper ore 铜矿石 *to* another, 伴随装 with variations 变化；变动 exceeding (v.)超过（数量）；超越，越出（权限） the _measurement error_ 测量误差；测定误差；and _preliminary 初步的；预备的 studies_ (n.) indicate (v.) _virtually 几乎；差不多 uniform_ (a.)一致的；统一的；均匀的 isotopic composition 同位素组成 of the lead 后定说明 from a single copper-ore source.
+
+[.my2]
+====
+铅的同位素组成 (这个组成是 lead 的) 常常不同 (从这一个普通铜矿来源,到另一个来源)，其差异超过了测量误差；并且初步研究表明 (表明的内容是) 几乎一致的同位素组成 (这个组成是铅的, 这个铅来自单一铜矿来源)。
+
+流畅的整体译文 +
+铅的同位素组成，在不同的普通铜矿来源之间常常存在差异，而且差异程度超过了测量误差；同时，初步研究表明，来自同一个铜矿来源的铅，其同位素组成几乎是完全一致的。
+====
+
+[.my1]
+.案例
+====
+- (064.) The isotopic composition of lead often varies from one source of common copper ore to another, with variations exceeding the measurement error; and preliminary studies indicate virtually uniform isotopic composition of the lead from a single copper-ore source.
+
+铅的同位素组成, 常常因普通铜矿石来源的不同而异，其变异量超出测量误差；初步研究表明，来自单一铜矿石来源的铅, 具有几乎一致的同位素组成。
+
+
+
+....
+【分句1】
+├─ 主语：The isotopic composition
+│       │
+│       └─ 【后置定语】 of lead
+├─ 谓语：often varies
+├─ 状语：from one source to another
+│       │
+│       └─ 【source 的后置定语】 of common copper ore
+└─ 【独立主格 (伴随状语)】 , with variations exceeding the measurement error;
+        │
+        ├─ 逻辑主语：variations
+        └─ 现在分词短语：exceeding the measurement error
+
+【并列连词】 and
+
+【分句2】
+├─ 主语：preliminary studies
+├─ 谓语：indicate
+└─ 宾语：virtually uniform isotopic composition
+        │
+        └─ 【后置定语】 of the lead
+                │
+                └─ 【介词短语】 from a single copper-ore source
+....
+
+
+
+这句话陈述了 "铅同位素"地球化学, 在考古或地质溯源研究中的基本原理。它包含两个被分号 (;) 和连词 (and) 连接的并列事实，共同构成一个完整的逻辑：
+
+- 事实A (差异性)：*不同来源的铜矿，其伴生铅的同位素组成, 常常有显著差异 (这种差异大到可以排除是测量误差)。*
+- 事实B (一致性)：*而来自同一来源的铜矿，其"铅同位素组成"则几乎相同。*
+
+逻辑结论：##**铅同位素组成, 可以作为一种有效的“指纹”，用来区分不同的矿源 (fact A)，并归并同一矿源的样本 (fact B)。**##这是利用微量元素同位素, 进行溯源研究的经典前提。
+
+
+.`主` The _isotopic composition_ of lead often `谓` varies (v.) *from* one source of _common copper ore_ *to* another,
+
+
+- isotopic composition : 同位素组成。指某一元素 (此处是铅) 的各种稳定同位素 (如铅-204, 铅-206, 铅-207, 铅-208) 在样本中的相对丰度比例。这是地球化学“指纹”分析的基础。
+- common copper ore : 普通铜矿。指常见的、用于冶炼铜的矿石，如黄铜矿、斑铜矿等。*铅常作为微量杂质存, 在于这些矿石中。*
+
+
+- #*from* one source... *to* another：*不能译为“从一个来源到另一个”。这是英语中表示“在不同X之间”的固定结构，意思是“因来源不同而异”。应译为“ (在) 不同的 (铜矿) 来源之间”。*#
+
+.`主` The isotopic composition of lead `谓` often varies (v.) from one source of common copper ore to another, 伴随装 with variations exceeding (v.) the measurement error##;## and *preliminary studies (n.)  indicate* (v.) _virtually uniform_ (a.) isotopic composition of the lead from a single copper-ore source.
+
+
+- ##**with variations exceeding (v.) ... : 这是一个“with + 名词 + 现在分词”构成的独立主格结构，在句中作伴随状语，对主句 (varies) 进行补充说明，**##详细描述“变化”的程度。variations是逻辑主语，exceeding是逻辑谓语。 +
+
+- 独立主格结构：, #with# variations exceed##ing## (v.) the measurement error; **是一个##独立主格结构，##作伴随状语。#它有自己的逻辑主语 (文中即 variations)，#**用来说明主句 The isotopic composition... often varies (v.) 所导致的结果或伴随状况——“其变化幅度之大，以至于超出了测量误差的范围”。
+
+- with variations exceeding (v.) ...：不能译为“随着变化超过…”。这里的 with引导独立主格，表示“伴随着…情况”，或直接译为“其差异超过了…”。variations是名词，指“变化的幅度/差异值”，exceeding是现在分词表示“超过”。
+
+
+- measurement error : 测量误差。指在科学测量中，由于仪器精度、操作等因素导致的结果, 与“真实值”之间的随机差异。*#文中提到“差异超过测量误差”，意味着观察到的同位素组成差异, 是真实的、显著的，而非实验误差所致。#*
+
+
+- 分号 (;) 的使用：#*分号在这里连接两个在意义上紧密相关、语法上各自独立的完整句子*# (分句1和分句2)。and进一步明确了它们的并列和递进关系。
+
+
+- **virtually uniform (a.)  : 几乎一致/均匀的。**virtually表示“几乎、实际上”，承认可能存在极其微小的、在测量精度内的波动，但总体上可视作一致。这强调了同一来源内部的稳定性。 +
+virtually uniform：virtually 不表示“虚拟地”，而是“几乎、实际上”。uniform是“一致的、均匀的”。合起来意为“几乎完全一致”，强调了同一来源内部的均一性，这是进行溯源比对的重要前提。
+
+
+
+- single copper-ore source : 单一铜矿来源。指地质上同属一个"矿体"或"矿床"的铜矿。来自同一来源的矿石，其微量铅杂质,被认为具有相同的“同位素指纹”。 +
+single强调“单一的、同一个”，在地质上指具有共同成因和地质历史的矿体。不能简单译为“一个铜矿来源”，而应强调其“单一性/同一性”。
+
+- 在分句2中，宾语 virtually uniform (a.) isotopic composition 被一个后置定语链修饰：of the lead from a single copper-ore source。 of the lead 说明是“铅的”组成，from a single copper-ore source 说明铅的“来源”。
+
+.uniform
+
+(a.)  not varying; the same in all parts and at all times 一致的；统一的；一律的 +
+•_uniform (a.) rates_ of pay 统一的薪资标准 +
+•The walls were a uniform (a.) grey. 墙壁一律都是灰色。 +
+•Growth *has not been uniform* (a.)  across the country. 全国各地的发展程度不一。 +
+====
+
+
+
+
 '''
