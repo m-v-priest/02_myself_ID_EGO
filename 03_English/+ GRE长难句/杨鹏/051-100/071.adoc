@@ -7,5 +7,73 @@
 '''
 
 
+- (071.) Other theorists 理论家；学说创立者 propose (v.)提议；建议；提出 that /the Moon was ripped 撕；扯；猛力移除 out of 从…中撕裂出来 the Earth’s rocky 岩石构成的 mantle （地球的）地幔 by the Earth’s collision 碰撞；相撞 with another large celestial 天空的；天上的 body /after much of 大部分 the Earth’s iron 铁 *fell to* its core （地球的）地核.
+
+
+[.my2]
+====
+其他理论家提出 (认为)：月球是从地球的岩石质地幔中, 被撕裂出来的 (这个撕裂是通过地球与另一个大型天体的碰撞实现的, 这发生在地球大部分铁, 沉降到其地核之后)。
+
+流畅的整体译文 +
+其他理论家提出，在地球大部分铁元素沉降形成地核之后，地球与另一个大型天体发生碰撞，从而将月球从地球的岩石质地幔中撕裂了出来。
+====
+
+[.my1]
+.案例
+====
+- (071.) Other theorists propose that the Moon was ripped out of the Earth’s rocky mantle by the Earth’s collision with another large celestial body  after much of the Earth’s iron fell to its core. +
+
+其他理论家提出，在地球大部分铁元素落入地核之后，月球是由地球与另一个大型天体碰撞，从地球的岩石地幔中撕裂出来的。
+
+....
+【主句】
+├─ 主语：Other theorists
+├─ 谓语：propose
+│
+└─ 【宾语从句】 that the Moon was ripped out of the Earth’s rocky mantle
+        │
+        ├─ 地点状语：the Earth’s rocky mantle
+        │
+        ├─ 方式状语：by the Earth’s collision
+        │       │
+        │       └─ 【后置定语】 with another large celestial body
+        │
+        └─ 【时间状语从句】 after much of the Earth’s iron fell to its core
+                │
+                ├─ 主语：much of the Earth’s iron
+                ├─ 谓语：fell
+                └─ 状语：to its core
+                        (its 指代 the Earth's)
+....
+
+这句话阐述了 月球起源的“大碰撞说” (Giant Impact Hypothesis) 的一个版本。其逻辑链条清晰地描述了一个动态过程：
+
+1. 前提条件 (时间)：首先，地球经历了一个内部过程——大部分铁元素沉降到中心，形成了金属地核，留下了以硅酸盐岩石为主的地幔。
+2. 关键事件 (方式)：之后，早期地球, 与一个火星大小的天体 (忒伊亚) 发生了剧烈碰撞。
+3. 直接结果 (动作)：这次碰撞的巨大能量，将地球岩石质地幔的一部分物质, 撕裂并抛射出去。
+4. 最终产物：这些被抛射到太空中的地幔物质，最终在引力作用下聚集形成了月球。
+
+这个假说, 用以解释月球轨道特征、其与地球地幔相似的化学成分，以及其缺乏大型铁核的原因。
+
+
+
+.the Earth’s collision with another large celestial (a.)  body
+
+celestial +
+(a.) ( formal ) ( literary) of the sky or of heaven 天空的；天上的 +
+• *celestial bodies* (= the sun, moon, stars, etc.) 天体（太阳、月亮、星球等） +
+
+-> 来自拉丁词caelum, 天空，最终来自 PIE*kaid,*skai, 照耀，明亮，#*词源同candle, shine.*#
+
+.Other theorists propose that /the Moon *was ripped out of* the Earth’s rocky mantle /by the Earth’s collision with another large celestial body  /after much of the Earth’s iron *fell to* its core.
+
+-  Earth’s rocky mantle : 地球的岩石质地幔。地球内部结构的一层，位于地壳之下、地核之上，主要由硅酸盐岩石构成。与富含铁镍的金属地核相区别。 +
+the Earth’s rocky mantle：rocky 指“岩石质的”，以区别于液态外核或金属内核。
+
+- after much of the Earth’s iron *fell to* its core : 在地球大部分铁沉降到其地核之后。这是一个关键的时间条件。*它意味着这次碰撞, 发生在地球已经完成初步的“核幔分异”之后，即重元素铁已沉降形成"金属地核"，而轻的硅酸盐物质上浮形成"地幔"。这解释了为什么月球物质 (来自地幔) 与地球"地幔"成分相似，但缺乏地球那样的巨大铁核。*
+
+- 宾语从句的谓语 was ripped out of 被三个状语修饰：(1) 地点状语 the Earth’s rocky mantle；(2) 方式状语 by the Earth’s collision with...；(3) 时间状语从句 after... fell to its core。这些状语依次说明了撕裂的位置、机制和发生时间.
+
+====
 
 '''

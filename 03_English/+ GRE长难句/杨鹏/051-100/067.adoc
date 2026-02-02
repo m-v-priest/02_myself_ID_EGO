@@ -7,5 +7,98 @@
 '''
 
 
+- (067.) It is not known 尚不清楚 *how rare* this resemblance 相似之处；相似性 is, or *whether it is most often seen* in inclusions 内含物；包裹体 of silicate 硅酸盐 such as garnet 石榴石, whose crystallography 晶体学 *is generally somewhat similar to* that of diamond 钻石；金刚石; but when present (v.)当这种相似性存在时, the resemblance 相似之处；相似性 *is regarded as* _compelling 有说服力的；令人信服的 evidence_ 证据 that `主` the diamonds 钻石；金刚石 and inclusions 内含物；包裹体 `系`  are truly cogenetic (a.)同源的；同成因的.
+
+[.my2]
+====
+目前尚不清楚 (不清楚的内容是) 这种相似性有多么罕见，或者它是否最常见于"硅酸盐包体"中 (例如石榴石, 其晶体结构,通常与钻石的 (晶体结构) 有几分相似)；但是当 (这种相似性) 出现时，这种相似性,就被视为强有力的证据 (这个证据是证明,钻石和包体是真正同源的)。
+
+流畅的整体译文 +
+目前尚不清楚这种相似性有多罕见，也不清楚它是否最常见于晶体结构与钻石有几分相似的硅酸盐包裹体（如石榴石）中；但是，一旦观察到这种相似性，它就被视为证明钻石与包裹体确属同源的强有力证据。
+====
+
+[.my1]
+.案例
+====
+- (067.) It is not known how rare this resemblance is, or whether it is most often seen in inclusions of silicate such as garnet, whose crystallography is generally somewhat similar to that of diamond; but when present, the resemblance is regarded as compelling evidence that the diamonds and inclusions are truly cogenetic.
+
+目前尚不清楚这种相似性有多罕见，也不清楚它是否最常见于石榴石等硅酸盐内含物中（石榴石的晶体结构通常与钻石有些相似）；但如果存在，这种相似性被认为是钻石和内含物确实同源的有力证据。
+
+
+
+....
+【分句1】
+├─ 【主句 (形式主语)】 It is not known
+│        │
+│        ├─ 【并列主语从句1】 how rare this resemblance is
+│        │
+│        ├─ 【并列连词】 or
+│        │
+│        └─ 【并列主语从句2】 whether it is most often seen in inclusions of silicate
+│                │
+│                ├─ 【同位语举例】 such as garnet
+│                │       │
+│                │       └─ 【非限制性定语从句】 , whose crystallography is... similar to that of diamond;
+│                │               (that 指代 crystallography)
+│                │
+└─ 【并列连词 (连接主句)】 but
+
+【分句2】
+├─ 【时间状语从句】 when (it is) present
+│                       (it 指代 the resemblance)
+├─ 【主句主语】 the resemblance
+├─ 【主句谓语】 is regarded as
+├─ 【主句宾语】 compelling evidence
+│               │
+│               └─ 【同位语从句】 that the diamonds and inclusions are truly cogenetic
+....
+
+
+这句话讨论了 利用"包裹体"与"钻石"的“相似性”, 来推断其"成因关系"的证据价值,和当前认知局限。其逻辑是：
+
+- *未知领域 (分句1)：首先承认，科学界对这种"结构相似性"的普遍程度 (how rare) 和具体发生场景 (whether it is most often seen in...) 还不完全了解。并特别提到石榴石这种常见的"硅酸盐包裹体"，其"晶体结构"与钻石有某种相似性，暗示这可能是研究的一个焦点。*
+
+- *已知价值 (分句2)：但是，转折 (but) 指出，一旦确实观察到了这种相似性，它就被视为一个非常强有力的证据 (compelling evidence)，支持"钻石"和"包裹体"是 "同源"的​ (cogenetic) 这一结论。*
+
+简单说：虽然不知道它多常见、在哪儿最常见，但只要看到了，就是证明“同源”的有力证据。
+
+
+
+
+
+.It is not known /*how rare* this resemblance is, #or# whether *it is most often seen* in inclusions of silicate such as garnet, whose crystallography *is generally somewhat similar to* that of diamond;
+
+- It is not known : 这是一个形式主语结构。It是形式主语，真正的主语是后面由 how和 whether引导的两个并列从句。意思是“...是未知的/尚不清楚的”。
+
+-  inclusions : 包裹体。指在"矿物晶体"生长过程中, 被捕获并封存在内部的其它矿物或物质。此处特指钻石中的"硅酸盐矿物包裹体"。
+
+- silicate : 硅酸盐。一类由硅和氧组成的矿物，是地壳和地幔的主要成分。石榴石 (garnet) 是其中一种。
+
+- #*crystallography : 晶体结构/结晶学。指矿物的原子、离子在空间中有规律的排列方式 (晶格)。*#
+
+- whose #crystallography# *is generally somewhat similar to* #that# of diamond; +
+that of diamond : #*这里的 that是代词，指代前面提到的 crystallography(晶体结构)，以避免重复。意思是“钻石的 (晶体结构)”。*# +
+whose crystallography *is... similar to* that of diamond： whose指代 garnet 石榴石，that指代 crystallography 晶体学。 ##**必须将 that的含义译出，否则句子不完整。**##应译为“其晶体结构, 与钻石的 (晶体结构) 相似”。
+
+
+.but when present, the resemblance *is regarded as* _compelling evidence_ that the diamonds and inclusions are truly cogenetic.
+
+- when (it is) present : 这是一个省略了主语和系动词的时间状语从句，完整形式是 when it is present。 *it指代 the resemblance。意思是“当这种相似性存在时”。* +
+#*when present：必须补全为“当这种相似性存在/出现时”，不能直译为“当出现时”。*#
+
+- #*cogenetic : 同源的。地质学/矿物学术语，指两种或多种矿物,形成于同一地质过程、同一时期、同一来源。此处指"钻石"和其内部的"硅酸盐包裹体",是同时、同地、由同一种岩浆或地幔流体结晶形成的，而非后期捕获。*#
+
+
+.书作者解说
+
+在本句中出现的专有名词中，除了silicates（硅酸盐）这个单词常
+常出现于理科文章中，需要记忆之外，其他单词阅读现场简单处理一番
+即可：inclusions 可以猜出是被包含的物质；garnet 作首字母提炼叫g；
+crystallography 只要能从词头推出这个单词与晶体有关即可。
+
+====
+
+
+
 
 '''

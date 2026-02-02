@@ -7,5 +7,67 @@
 '''
 
 
+- (077.) Apparently most _massive stars_ 大质量恒星 manage to lose  (v.)得以失去、设法失去 sufficient material 引导结果状从 #*that*# `主` their masses `谓` drop (v.) below the _critical 关键的；临界的 value_ 临界值 of 1.4M /before they exhaust 耗尽；用尽 their nuclear fuel 核燃料. +
+
+[.my2]
+显然，大多数大质量恒星,得以失去足够的物质 (这个“失去”的程度是：以至于它们的质量下降至1.4倍太阳质量这个临界值以下, 在它们耗尽核燃料之前)。
+
+[.my1]
+.案例
+====
+- (077.) Apparently most massive stars manage to lose sufficient material that their masses drop below the critical value of 1.4M before they exhaust their nuclear fuel.
+
+显然，大多数大质量恒星在耗尽核燃料之前，都能设法损失足够多的物质，使其质量降至1.4M的临界值以下。
+
+....
+【主句】
+├─ 状语：Apparently
+├─ 主语：most massive stars
+├─ 谓语：manage to lose
+├─ 宾语：sufficient material
+│
+└─ 【结果状语从句】 that their masses drop below the critical value
+        │
+        ├─ 宾语：the critical value
+        │       │
+        │       └─ 【后置定语】 of 1.4M
+        │
+        └─ 【时间状语从句】 before they exhaust their nuclear fuel
+....
+
+这句话阐述了 大质量恒星演化中一个关键过程的理论预期：
+
+- 前提：大多数大质量恒星 (most massive stars) 在演化过程中，能够​ (manage to) 通过某种方式 (如强烈的星风) 损失掉足够多​ (sufficient) 的物质。
+- 结果：*物质的损失是如此之多，以至于​ (that) 它们的质量下降*​ (their masses drop) *到一个关键阈值以下*​ (below the critical value of 1.4M)。
+- 时机：*这个质量下降的临界事件，发生在其耗尽核燃料之前*​ (before they exhaust their nuclear fuel)。
+
+天体物理学意义：如果一颗恒星在核燃烧结束时的质量仍高于1.4倍太阳质量，其核心很可能会坍缩并触发剧烈的超新星爆发。这句话指出，许多大质量恒星通过在演化晚期损失质量，成功地“减肥”到了1.4倍太阳质量以下，这使得它们有可能避免剧烈的坍缩，而以一种更平和的方式 (如形成白矮星) 结束生命。这解释了为什么我们观测到的白矮星有很多，而超新星爆发相对较少。
+
+.Apparently /`主` most massive stars `谓`  manage to lose (v.) sufficient material /#*that*# their masses drop (v.) below the critical value of 1.4M /before they exhaust their nuclear fuel.
+
+
+- massive stars :大质量恒星。通常指质量大于约8倍太阳质量的恒星，其演化结局与中小质量恒星 (如太阳) 不同，可能以超新星爆发结束生命。
+- manage to lose : 得以失去、设法失去。manage to表示“成功地做到 (某件有难度的事)”，这里强调恒星需要通过某种机制 (如星风、质量转移) 主动或有效地抛失物质，这并非自动发生。
+
+- _critical value_ of 1.4M : 1.4倍太阳质量的临界值。这是天体物理学中著名的“钱德拉塞卡极限” (Chandrasekhar limit)，即白矮星 (恒星的一种可能残骸) 能够通过"电子简并压力"抵抗自身引力坍缩的最大质量。超过此质量，恒星残骸将坍缩成中子星或黑洞。 +
+*M通常指太阳质量 (Solar Mass)，是天文单位。* +
+M是天文学中表示太阳质量的通用符号，**1.4M即“1.4倍太阳质量”。critical value是“临界值”，**特指“钱德拉塞卡极限”。 +
+
+-  exhaust their nuclear fuel : 耗尽核燃料。指恒星核心通过核聚变反应 (氢聚变、氦聚变等) 将轻元素转化为重元素，直到无法维持足够高温高压以进行下一阶段聚变的过程。这标志着恒星“主序星”阶段的结束。
+
+.书作者的解说:
+
+我们中国考生容易习惯性的把 that以及其后的内容看成了一
+个定语从句来修饰material，但是这样读下来发现意思不通，于是发生
+思维混乱.
+
+##**原文相当于在 that之前省略了so，引导一个表目的的状语从句。事
+实上that本身有这种做连接词的用法，相当于 so that 或 in order that。**##例
+如：Speak loud /*#that#* everybody may hear what you say。
+
+
+
+
+====
 
 '''
