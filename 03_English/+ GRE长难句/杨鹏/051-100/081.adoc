@@ -7,5 +7,127 @@
 '''
 
 
+- (081.) As rock interfaces 界面 are crossed, `主` #the elastic# 弹性的 characteristics 特性；特征 后定说明  encountered 遇到；遭遇 `谓` generally #change (v.) abruptly# 突然地；意外地, which causes (v.) part of the energy 能量 *to be reflected 反射；映出 back to* the surface 表面, where it is recorded (v.)记录；记载 by seismic 地震的 instruments 仪器；器械.
+
+[.my2]
+当岩石界面被穿越时，所遇到的弹性特性通常会突然改变，这导致部分能量被反射回地表 (在那里，它被地震仪器记录下来)。
+
+
+[.my1]
+.案例
+====
+- (081.) As rock interfaces are crossed, the elastic characteristics encountered generally change abruptly, which causes part of the energy to be reflected back to the surface, where it is recorded by seismic instruments.
+
+当穿过岩石界面时，所遇到的弹性特性通常会突然改变，这导致部分能量反射回地表，并在那里被地震仪记录下来。
+
+
+....
+【时间状语从句】 As rock interfaces are crossed
+        │
+【主句】 the elastic characteristics change abruptly
+        │
+        ├─ 主语：the elastic characteristics
+        │       │
+        │       └─ 【后置定语 (过去分词)】 encountered
+        │
+        ├─ 状语：generally
+        │
+        └─ 谓语：change abruptly
+                │
+【非限制性定语从句1】 , which causes part of the energy to be reflected back to the surface
+        (which 指代前面整个“特性突然改变”的事件)
+        │
+        ├─ 宾语：part of the energy
+        │
+        └─ 宾补：to be reflected back to the surface
+                │
+                └─ 【定语从句2 (修饰 the surface)】 , where it is recorded by seismic instruments
+                        (it 指代 the reflected energy)
+....
+
+
+这句话解释了 地震勘探方法的基本物理原理。它描述了一个完整的因果链：
+
+触发事件：当地震波 (由人工震源产生) 在地下传播, 并穿过岩石界面​ (As rock interfaces are crossed) 时…
+
+物理变化：波所遇到的岩石"弹性特性"​ (the elastic characteristics encountered) 会突然改变​ (change abruptly)。
+
+直接结果：这种突然改变导致​ (which causes) 一部分地震波能量, 被反射回地表​ (part of the energy to be reflected back to the surface)。
+
+最终目的：反射回来的能量到达地表后 (where)，被地震仪器记录下来​ (it is recorded by seismic instruments)。
+
+这是反射地震学的核心：通过分析这些被记录下来的反射波信号的时间、振幅和波形，地球物理学家可以推断地下岩层的深度、倾角和性质，从而绘制地下结构图。
+
+
+.As rock interfaces are crossed (v.) , `主` #the elastic characteristics# encountered `谓` #generally change (v.) abruptly#, which causes (v.)  part of the energy *to be reflected back to* the surface, where it is recorded (v.) by seismic instruments.
+
+- rock interfaces : 岩石界面。指地下不同岩层、或同一岩层中不同岩性单元之间的分界面。这是地震波传播路径上的不连续面。
+
+- elastic characteristics :** 弹性特性。指岩石的物理性质，如密度、波速 (纵波速度Vp, 横波速度Vs) 等，这些性质决定了地震波在岩石中传播的速度和方式。**弹性特性的突变, 是波阻抗界面形成的根本原因。
+
+- encountered : 遇到的、遇到的。过去分词作后置定语，修饰 characteristics，意思是“ (地震波传播过程中) 实际遇到的”那些特性。
+
+-  change abruptly : 突然改变。指"波阻抗" (密度与波速的乘积) 在界面处发生跃变，这是"地震波产生反射"的物理前提。
+
+- reflected back to the surface : 反射回地表。*地震波 (能量) 在遇到"波阻抗界面"时，一部分能量会按照“入射角等于反射角”的定律返回地面。*
+
+.grok
+
+这句话描述的是 地震勘探（Seismic Exploration） / 反射地震法（Reflection Seismology） 最核心的物理原理，用非常简洁的语言概括了“为什么我们能用地震波看到地下岩层结构”。
+
+我们把这句话, 拆解成科学上最容易理解的几层意思：
+
+[.my3]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|*岩石界面（rock interfaces）*
+|**指地下两种不同岩石（或同一岩石但物性明显不同）的接触面，**例如： +
+
+砂岩 ↔ 泥岩 +
+沉积岩 ↔ 火成岩 +
+盐层 ↔ 碳酸盐岩 +
+不整合面 等 +
+
+|弹性特性（elastic characteristics）一般是突然改变（change abruptly）
+|专业术语叫 声阻抗（Acoustic Impedance） 发生 突变 +
+#*声阻抗 Z = 岩石密度 ρ × 地震波速度 v*# +
+
+（通俗理解：密度 × 波跑得快慢 的乘积）现实中，#*两种岩石接触时，密度和波速几乎不可能完全一样，所以 Z 值通常会有明显差异*# → 这就是“abruptly”的物理来源。
+
+|当"弹性特性"突然改变时，会发生什么？
+|*就像光从空气射入水面会同时发生反射 + 折射一样，地震波遇到这种"阻抗突变"的界面时*：
+
+- *一部分能量 被反射回来（这就是我们想要的信号）*
+- *另一部分能量 透射过去，继续向下传播（遇到下一个界面再重复这个过程）*
+
+反射能量的多少, 主要取决于两侧"声阻抗"差异的大小（差异越大，反射越强）。
+
+通俗类比： +
+
+- 空气 → 水面 → 能听到很大的回声（"阻抗"差异极大，反射系数高）
+- 空气 → 空气（完全一样）→ 几乎没回声（"阻抗"相同，反射系数 ≈ 0）
+
+|回到这句话的完整科学含义
+|“当地震波穿过岩石界面时，因为遇到了弹性性质（主要是声阻抗）突然变化，所以一部分波的能量会被反射回地面，这些反射回来的能量被地表检波器（地震仪）接收到 → 这就是我们用来画地下地质剖面的原始数据。”
+
+|===
+
+
+
+一句话极简总结（最通俗版）：
+
+*地震波像声呐一样打下去，遇到岩性明显变了的地方（密度或硬度突然不一样），就会像照镜子一样弹一部分回来，我们用仪器接到这些“回声”，就能大致知道地下有哪些“镜子”（界面）以及它们大概的位置和性质。*
+
+补充一句重要现实情况：
+
+*如果两个地层"弹性性质"几乎一样（"声阻抗"差异很小），反射就非常弱，甚至接收不到 → 这也是为什么有些地质界面,在地震剖面上“看不见”的根本物理原因。*
+
+====
+
+
+
+
 
 '''

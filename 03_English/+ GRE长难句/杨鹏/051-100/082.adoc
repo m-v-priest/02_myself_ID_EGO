@@ -7,5 +7,96 @@
 '''
 
 
+- (082.)  While the new doctrine 教义；信条；主义 seems (v.)  almost certainly correct, `主` the one papyrus 纸莎草纸 fragment 碎片；片段 `谓` raises (v.) the specter 幽灵；恐惧；忧虑 that _another may be unearthed_ (v.)发掘；出土, *#showing#*, for instance, *that* it was _a posthumous (a.)死后的；身后的 production_ (作品)指作者去世后才完成或面世的作品 of the Danaid tetralogy 四联剧（古希腊戏剧中由四部相关剧作组成的系列） which bested (v.)打败；击败；胜过(原形是best) Sophocles 人名, #*and throwing*# (v.) the date once more #into# utter 完全的；彻底的 confusion 混乱；困惑.
+
+
+[.my2]
+====
+尽管这个新学说看来几乎肯定是正确的，但那一莎草纸残片,引出了一个幽灵 (这个幽灵是：另一片残片可能被出土，显示着，例如，它是一部身后作品 (这个作品是《达那伊德斯》四联剧的，这个四联剧曾击败了索福克勒斯)，并使年代再次陷入彻底混乱)。
+
+流畅的整体译文 +
+尽管这个新学说几乎可以肯定是正确的，但现有的那片莎草纸残片也带来了一个隐忧：可能有另一片残片被发掘出来，比如说，上面显示那部击败了索福克勒斯的《达那伊德斯》四联剧其实是作者身后的遗作，从而将作品的年代再次抛入彻底的混乱之中。
+====
+
+
+
+[.my1]
+.案例
+====
+- (082.) While the new doctrine seems almost certainly correct, the one papyrus fragment raises the specter that another may be unearthed, showing, for instance, that it was a posthumous production of the Danaid tetralogy which bested Sophocles, and throwing the date once more into utter confusion.
+
+尽管新学说几乎可以肯定是正确的，但那件纸莎草残片引出了一个幽灵般的可能性：也许会出土另一件残片，例如显示它是《达那伊得斯四部曲》的遗作，这部作品曾胜过索福克勒斯，从而再次将日期完全搅乱。
+
+
+
+....
+【让步状语从句】 While the new doctrine seems almost certainly correct
+        │
+【主句】
+├─ 主语：the one papyrus fragment
+├─ 谓语：raises
+├─ 宾语：the specter
+│       │
+│       └─ 【同位语从句】 that another may be unearthed
+│           │
+│           ├─ 【现在分词短语1 (伴随状语)】 , showing (v.), for instance, that...
+│           │     │
+│           │     └─ 【宾语从句 (showing 的宾语)】 that it was a posthumous production
+│           │           │
+│           │           ├─ 主语：it
+│           │           ├─ 系表：was a posthumous production
+│           │           │       │
+│           │           │       └─ 【后置定语】 of the Danaid tetralogy
+│           │           │               │
+│           │           │               └─ 【定语从句】 which bested Sophocles
+│           │           │
+│           └─ 【现在分词短语2 (伴随状语)】 and throwing (v.) the date once more into utter confusion
+│                   (throwing 与 showing 并列，共同修饰 unearthed 或 specter)
+....
+
+这句话：
+
+承认当前学说的优势：首先让步，承认基于现有唯一证据 (the one papyrus fragment) 提出的“新学说” (the new doctrine) 极有可能是正确的 (almost certainly correct)。
+
+指出潜藏的致命风险：但是​ (隐含转折)，恰恰是这片作为当前学说根基的残片，同时也带来一个可怕的幽灵​ (raises the specter)：它证明了更多同类残片可能埋藏在地下。一旦另一片 (another) 出土，而上面的文字与当前学说矛盾…
+
+描绘灾难性后果：例如，新残片可能显示 (showing)，那部著名的、曾击败索福克勒斯的《达那伊德斯》四联剧，其实是埃斯库罗斯的身后遗作​ (posthumous production)。如果是这样，那么关于该剧创作年代、埃斯库罗斯与索福克勒斯竞赛关系，乃至整个古希腊戏剧年表，都将再次被彻底颠覆​ (throwing the date once more into utter confusion)。
+
+简单说：我们手上的这片残片让我们提出了一个很棒的新理论，但它也像一颗定时炸弹，提醒我们可能还有别的残片，随时能把这个新理论炸得粉碎，让一切回到原点。
+
+
+.While the new doctrine seems (v.) almost certainly correct, the one _papyrus fragment_ raises (v.) the specter that another may be unearthed, #showing# (v.) , for instance, that /it was a _posthumous production_ of _the Danaid tetralogy_ which bested (v.) Sophocles, #and throwing# (v.) the date once more into utter confusion.
+
+- *#raises the specter#*：不能直译为“举起幽灵”。*##这是一个固定比喻，意为“引出一个可怕的担忧/可能性”。##可译为“蒙上了一层阴影”或“带来了隐患”*。
+
+- the one papyrus fragment：##**the one是特指，即“ (我们已知的) 那一片”，**##它可能是当前新学说的唯一物证。不能译为“一个纸片”。
+
+- posthumous production : 身后作品、死后发表的作品。指作者去世后才完成或面世的作品。
+
+- posthumous: (a.)  [ usually before noun]happening, done, published, etc. after a person has died死后发生（或做、出版等）的 +
+-> #来自post,在后，#-um,最高级后缀，词源同 maximum,minimum.后词义和拼写同时受##humere（埋葬，入土，词源同 humus）影响而俗化。## +
+a posthumous child（遗腹子），a posthumous award（死后获的奖），posthumous works（遗作）。
+
+- Danaid tetralogy : 《达那伊德斯》四联剧。这是古希腊悲剧家埃斯库罗斯 (Aeschylus) 的一个著名作品系列，由三部悲剧和一部羊人剧组成，讲述达那俄斯女儿们的故事。tetralogy 指由三部悲剧和一部羊人剧组成的竞赛单元。
+
+- bested Sophocles : 击败了索福克勒斯。**bested 意为“胜过、击败”。在古希腊戏剧竞赛中，不同剧作家的作品会相互竞争。**此处暗示如果这部四联剧 是埃斯库罗斯死后才完成并参赛，且击败了索福克勒斯，那将颠覆关于两位剧作家生平和竞赛年表的传统认知。
+
+- throwing the date into confusion : 使日期/年代陷入混乱。the date 特指这部戏剧创作、上演或获奖的具体历史年代。新证据可能推翻已确定的年代学。
+
+- #*showing... and throwing... : 这两个现在分词短语是并列的伴随状语，说明“另一片残片出土”这个假设事件可能带来的具体后果：1) 显示 (showing) 某个颠覆性事实；2) 并导致 (throwing) 年代学混乱。*#
+
+
+.书作者解说
+
+a _posthumous production_ of _the Danaid tetralogy_ 这种说法不符
+合我们的常规想法。我们看到 a posthumous production of 的时候，根据中
+文的语言习惯，惯性的到of之后去找人名，但是看到后面跟着的是作品
+名，就想不通了。+
+**#与中文不同的是，英文中的“遗作”后面不一定只能接
+人名，接作品名的时候, 指的是作品在作者死前未发表的那一部分。#**比如
+本文的四部曲，可能作者死前全部写好，但只发表了三部，但是死后发
+表的遗作第四部, 击败了S。
+
+====
 
 '''

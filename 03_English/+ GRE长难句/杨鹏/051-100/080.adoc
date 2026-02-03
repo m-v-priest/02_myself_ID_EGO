@@ -7,5 +7,110 @@
 '''
 
 
+- (080.)  #Not only# are liver transplants 肝脏移植 never rejected 排斥；拒收, #but# they even induce 引起；导致；诱发 a state 状态 of _donor-specific 供体特异性的 unresponsiveness_ 无反应性；无应答性 in which `主` _subsequent 随后的；继后的 transplants_ 移植 of other organs 器官, such as skin 皮肤, from that donor 供体；捐赠者 `谓` are accepted 接受 permanently 永久地；长久地.
+
+
+[.my2]
+====
+不仅肝脏移植从不被排斥，而且它们甚至诱发一种"供体特异性无应答状态" (在这种状态中，后续的其他器官的移植 (例如皮肤)，来自那个供体的，被永久地接受)。
+
+流畅的整体译文 +
+肝脏移植不仅自身从不引起排异反应，它甚至能在受体内诱导出一种针对该供体的特异性免疫耐受状态。在此状态下，后续来自同一供体的其他器官 (例如皮肤) 的移植，都会被受体永久接受。
+====
+
+[.my1]
+.案例
+====
+- (080.) Not only are liver transplants never rejected, but they even induce a state of donor-specific unresponsiveness in which subsequent transplants of other organs, such as skin, from that donor are accepted permanently.
+
+肝脏移植不仅从未被排斥，它们甚至能诱导一种供体特异性无反应状态，在这种状态下，来自同一供体的其他器官（如皮肤）的后续移植也会被永久接受。
+
+....
+【并列从句1 (倒装)】
+├─ 引导词+部分倒装：Not only are liver transplants never rejected
+│                       (正常语序：Liver transplants are not only never rejected)
+│
+【并列连词】 but
+
+【并列从句2】
+├─ 主语：they (指代 liver transplants)
+├─ 状语：even
+├─ 谓语：induce
+├─ 宾语：a state
+│       │
+│       └─ 【后置定语】 of donor-specific unresponsiveness
+│               │
+│               └─ 【定语从句】 in which subsequent transplants are accepted permanently
+│                 │
+│                 ├─ 主语：subsequent transplants
+│                 │       │
+│                 │       └─ 【后置定语】 of other organs
+│                 │               │
+│                 │               └─ 【同位语举例】 , such as skin,
+│                 │
+│                 ├─ 【介词短语】 from that donor
+│                 │       (that 指代与肝脏移植相同的供体)
+│                 │
+│                 └─ 谓语：are accepted permanently
+....
+
+这句话阐述了 "肝脏移植"在"器官移植免疫学"中一个非常独特且重要的双重特性，通过递进结构 (Not only... but...) 层层推进：
+
+第一重特性 (基本事实)：*"肝脏移植"本身就具有很低的免疫原性，它“从不” (never) 引起急性排斥反应 (are never rejected)。*
+
+第二重特性 (神奇效果)：*不仅如此，肝脏移植还能作为一个“先驱者”或“诱导者”，在受体体内创造出​ (induce) 一种特殊的免疫学状态——供体特异性免疫耐受​ (donor-specific unresponsiveness)。*
+
+对第二重特性的解释：*这种状态意味着，只要后续移植的器官来自同一个供体​ (from that donor)，无论这个器官是肾、心还是高度敏感的皮肤 (such as skin)，受体的免疫系统都会将其视为“自己人”，从而永久接受​ (accepted permanently)，不再发生排异。*
+
+总结：**肝脏移植不仅是自身“好养活”，还能给“自家兄弟”(同一供体的其他器官) 在受体内搞到一张“永久居留证”，使其免受免疫系统的攻击。**这体现了肝脏在诱导免疫耐受方面的核心作用。
+
+
+
+.#Not only# are liver transplants never rejected, #but# they even induce (v.) a state of _donor-specific unresponsiveness_ in which `主` subsequent transplants of other organs, such as skin, from that donor `谓` are accepted permanently.
+
+- Not only... but (also)... : 不仅…而且…。but 后省略了 also，这是一个固定的并列关联结构，表示递进关系。#*当 Not only 置于句首时，其所在的第一个分句需要部分倒装​ (将助动词/系动词提前)，如本句的 are liver transplants*#...(正常语序是 Liver transplants are not only...)。
+
+- a state of donor-specific unresponsiveness : 一种供体特异性无应答状态。这是免疫学的核心概念。 +
+**unresponsiveness 指免疫系统不作出反应的状态，即“免疫耐受”。** +
+**donor-specific 强调这种耐受, 是专门针对"该特定供体的组织抗原"的，而不是对"所有异体组织"的普遍免疫抑制。**这是"肝脏移植"特有的、神奇的免疫调节效应。
+
+- #*in which*# 引导的定语从句：##**这个定语从句修饰前面的名词 a state，详细说明在这种“无应答状态”下会发生什么​ (in which= in this state)。**##这个从句内部结构也较复杂，主语 transplants带有后置定语和被同位语打断。
+
+- subsequent transplants : 后续的移植。指在"肝脏移植"之后进行的其他器官移植手术。
+
+- such as skin 的位置：这是一个插入的同位语，用于举例说明 other organs，用逗号隔开。
+
+- from that donor : 来自那个 (同一) 供体的。强调后续移植的器官, 必须与最初的肝脏移植来自同一个体，耐受是"供体特异性"的。
+
+
+
+.grok
+
+这句话出自移植免疫学（transplant immunology，移植免疫学）领域的一个经典观察，主要基于动物实验（尤其是小鼠和大鼠模型），描述了肝脏移植（liver transplant，肝移植）在免疫耐受（immune tolerance，免疫耐受）方面的独特现象。
+
+核心科学原理：*肝脏是一个高度"免疫耐受性"器官（tolerogenic organ，耐受性器官），它不仅自身很少被排斥，还能主动诱导受体（recipient，受体）对同一供体（donor，供体）的其他组织产生"供体特异性无应答状态"（donor-specific unresponsiveness 或 donor-specific hyporesponsiveness / tolerance，"供体特异性无应答"或"低反应性"）。这是一种主动的、系统性的免疫调节，让受体的免疫系统“学会”不对这个特定供体的抗原产生攻击。*
+
+通俗解释：#*正常情况下，移植其他器官（如心脏、肾脏、皮肤）时，受体免疫系统会把它们当成“外来入侵者”，发动 T 细胞攻击，导致排斥。但"肝脏移植"后，受体免疫系统不但不排斥肝脏，反而像被“洗脑”一样，对同一个供体的皮肤、心脏等后续移植也“睁一只眼闭一只眼”，永久接受（permanent acceptance）。这就像肝脏给免疫系统发了一张“VIP通行证”，告诉它：“这个供体是自己人，别打了。”*#
+
+
+实验证据（动物模型中最经典）
+
+- 在许多小鼠和大鼠品系中，全异基因（fully allogeneic）肝移植, 可自发接受（spontaneous acceptance），无需免疫抑制药。
+- *移植肝脏后，再移植同一供体的皮肤、心脏或肾脏，这些原本会快速排斥的器官，也能被永久接受。*
+- #*如果先移植皮肤，会被排斥；但先移植肝脏，就能“逆转”对皮肤的排斥（reversal of transplantation immunity）。*#
+- **人类临床中也观察到类似现象：肝移植患者往往需要较少的免疫抑制药；同时接受肝+其他器官移植的患者，对其他器官的排斥率显著降低。**
+
+
+#*注意：这句话的“never rejected”有点夸张*#
+
+在动物模型（尤其是某些小鼠/大鼠组合）中，肝移植确实经常自发接受，几乎不排斥。
+##**但在人类临床实践中，肝移植仍然会发生急性排斥（acute rejection）和慢性排斥（chronic rejection），只是发生率和严重程度比其他器官低得多，**##许多患者可逐渐减药甚至停药（operational tolerance，操作性耐受）。
+
+所以原句更像是基于实验模型的经典描述，而不是人类100%事实。
+
+====
+
+
+
 
 '''
