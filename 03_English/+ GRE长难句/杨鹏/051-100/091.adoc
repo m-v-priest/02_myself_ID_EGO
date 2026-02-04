@@ -7,5 +7,119 @@
 '''
 
 
+- (091.) In order to understand the nature 本质；特性 of the ecologist’s 生态学家的 investigation 调查；研究, we may *#think of#* _the density-dependent 与密度相关的 effects_ 影响；效应 on _growth parameters_ 参数；参量 *#as#* the “signal” 后定说明 ecologists 生态学家 *are trying to isolate (v.)隔离；分离 and interpret* (v.)解释；阐释, 同位 one 后定说明 that tends *to make* the population 种群；群体 *increase* (v.)增加 from _relatively 相对地 low values_ 数值；数值 *or decrease* (v.)减少 from _relatively high ones_, while 而,表示对比 _the density-independent 与密度无关的 effects_ act (v.) *to produce (v.)  “noise”* in the population dynamics 动态；动态变化.
+
+[.my2]
+====
+为了理解生态学家研究的本质，我们可以将对增长参数的密度相关效应, 看作“信号” (这个信号是生态学家试图分离和解读的, 它是一个倾向于使种群从相对较低的数值增长，或从相对较高的数值下降的信号)，而密度无关效应,则在种群动态中,起到产生“噪音”的作用。
+
+流畅的整体译文 +
+为了理解生态学研究的本质，我们可以把对"增长参数"的"密度相关效应", 看作是生态学家试图分离和解读的“信号”——这个信号往往会使种群, 在数量较低时增长，在数量较高时下降；而密度无关效应, 则在种群动态中扮演着制造“噪音”的角色。
+====
+
+
+
+
+[.my1]
+.案例
+====
+- (091.) In order to understand the nature of the ecologist’s investigation, we may think of the density-dependent effects on growth parameters as the “signal” ecologists are trying to isolate and interpret, one that tends to make the population increase from relatively low values or decrease from relatively high ones, while the density-independent effects act to produce “noise” in the population dynamics.
+
+为了理解生态学家调查的性质，我们可以将对增长参数的密度依赖性影响视为生态学家试图分离和解释的“信号”，这种信号倾向于使种群从相对较低的值增加或从相对较高的值减少，而密度无关性影响则在种群动态中产生“噪声”。
+
+译文：/为了理解生态学家研究的本质/，我们可以把d-d（对生长因
+素的）效果看作（生态学家们力图去分离和解释的）“信号”，（一个倾
+向于将种群数量从相对较少的值增加或从相对较高的值减少的因素；）
+而d-i因素起到（一个在种群数量的动态变化中）产生“噪音”的作用。
+
+
+
+
+....
+【目的状语】 In order to understand the nature of the ecologist’s investigation
+        │
+【主句】 we may think of the density-dependent effects as the “signal”
+        │
+        ├─ 主语：we
+        ├─ 谓语：may think of
+        ├─ 宾语：the density-dependent effects
+        │       │
+        │       └─ 【后置定语】 on growth parameters
+        │
+        ├─ 【宾补】 as the “signal”
+        │       │
+        │       ├─ 【定语从句 (省略 that)】 (that) ecologists are trying to isolate and interpret
+        │       │
+        │       └─ 【同位语】 , one
+        │               │
+        │               └─ 【定语从句】 that tends to make the population increase... or decrease...
+        │                       │
+        │                       ├─ 并列谓语1：increase
+        │                       │       │
+        │                       │       └─ 【状语】 from relatively low values
+        │                       │
+        │                       └─ 并列谓语2：or decrease
+        │                               │
+        │                               └─ 【状语】 from relatively high ones
+        │
+【对比分句】 while the density-independent effects act to produce “noise” in the population dynamics
+        │
+        ├─ 连词：while
+        ├─ 主语：the density-independent effects
+        ├─ 谓语：act to produce
+        ├─ 宾语：“noise”
+        └─ 【地点状语】 in the population dynamics
+....
+
+
+- 研究目标：理解"生态学研究"的本质 (understand the nature...)。
+
+- 提出类比框架：为了便于理解，我们可以建立一个 “信号-噪音” 模型​ (*think of... as* the “signal”... while... “noise”)。
+
+- “信号”是什么：*密度相关效应​ (density-dependent effects) 被视为生态学家要寻找的 “信号”。因为：*
+.. 它是有意义的规律 (signal)。
+.. **它有明确的调节方向：当种群数量低时，它倾向于促进增长​ (减少竞争压力)；当种群数量高时，它倾向于促进下降​ (加剧竞争、疾病等)。**这是负反馈机制，能使种群趋于稳定。
+.. *生态学家的核心任务, 就是从复杂数据中 “分离和解读”​ (isolate and interpret) 这个信号。*
+
+- “噪音”是什么：密度无关效应​ (density-independent effects) 被视为 “噪音”。因为：
+.. 它是随机的、不可预测的干扰 (noise)。
+.. 它掩盖了内在的调节信号。
+.. 它在种群动态中 “制造噪音”​ (produce “noise”)，使种群变化看起来更不规则。
+
+总结：生态学家的工作, 就像信号处理工程师，要从充满随机波动的环境“噪音”中，提取出反映种群内在调节规律的“信号”。
+
+
+
+
+
+
+In order to understand the nature of the ecologist’s investigation 生态学家研究的本质, we may #*think of*# _the density-dependent effects_ 密度相关效应 on _growth parameters_ 增长参数 #*as*# the “signal” 后定说明 ecologists are trying to isolate (v.) and interpret, one 后定说明 that *tends to make* the population *increase (v.) from* relatively low values *or decrease (v.)  from* relatively high ones, while _the density-independent effects_ 密度无关效应  *act (v.) to produce (v.) “noise”* in the _population dynamics_ 种群动态 .
+
+- #*think of A as B : 将A视为B、把A看作B。*#
+
+- density-dependent effects : 密度相关效应。生态学术语，**指那些"影响强度"随"种群密度"而变化的生物因素，如种内竞争、捕食、寄生、疾病等。种群密度越高，这些效应通常越强。**
+
+- growth parameters : 增长参数。*指描述种群增长速率、出生率、死亡率等动态的量化指标。*
+
+- we may *think of ... as* the  “signal”.  +
+“signal” : 信号。在信息论中，指有意义的、需要提取的信息。此处类比为生态学家试图从复杂数据中识别的规律性、内在的调节机制。
+
+
+- isolate and interpret : 分离和解读。 +
+isolate 指从混杂的背景中识别并分离出目标信号； +
+interpret 指理解该信号的含义。
+
+- density-independent effects : 密度无关效应。生态学术语，*指那些"影响强度"与"种群密度"无关的非生物因素，如气候、灾难、污染等。见上句解释。*
+
+- act (v.) to produce (v.)  “noise”：  +
+*act to是“起到…作用”、“表现为…”*。 +
+produce (v.) “noise”是比喻，意为“产生噪音干扰”。
+
+- “noise” : 噪音。在信息论中，指干扰信号传输的随机扰动。此处类比为掩盖或干扰"密度相关效应" (信号) 的随机、不可预测的环境波动。
+
+- population dynamics : 种群动态。*指种群规模随时间变化的过程，包括增长、下降、波动等。*
+
+====
+
 
 '''

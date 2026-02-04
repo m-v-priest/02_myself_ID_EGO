@@ -7,5 +7,59 @@
 '''
 
 
+- (084.) Traditionally, `主` pollination 授粉；传粉 by wind `谓` *has been viewed as* a reproductive 生殖的；繁殖的 process 繁殖过程 *marked by 以…为标志,特征 random 随机的；随意的 events* in which `主` the vagaries 变幻莫测；难以预测的变化 of the wind `谓` *are compensated (v.)被补偿；弥补 for*  by the generation 产生；生成 of vast 大量的；巨大的 quantities 数量；总量 of pollen 花粉, so that `主` the ultimate (a.)最终的；最后的 production 产生；生成 of new seeds 种子 `谓` is assured 被确保；保证 *at the expense of* 以…为代价 producing (v.) much more pollen than is actually 实际上；事实上 used 产生比实际使用量多得多的花粉.
+
+[.my2]
+====
+传统上，风媒传粉,一直被视为一种繁殖过程 (这个过程是以随机事件为特征的, 在这个随机过程中，风的反复无常被补偿 (这个补偿是通过"产生巨量的花粉"实现的)，从而, 新种子的最终产出,得到保证 (这个保证是以"产生比实际使用多得多的花粉"为代价的))。
+
+流畅的整体译文 +
+传统上，风媒传粉一直被视为一种以随机事件为特征的繁殖过程。在此过程中，风的不可预测性通过产生巨量花粉的方式得以弥补，从而确保了新种子的最终产出——但这需要以产生远超实际所需的花粉量为代价。
+====
+
+
+[.my1]
+.案例
+====
+- (084.) Traditionally, pollination by wind has been viewed as a reproductive process marked by random events in which the vagaries of the wind are compensated for by the generation of vast quantities of pollen, so that the ultimate production of new seeds is assured at the expense of producing much more pollen than is actually used.
+
+传统上，风媒授粉被视为一个以随机事件为特征的繁殖过程，其中风的变幻莫测通过产生大量的花粉来弥补，从而确保了新种子的最终产生，但代价是生产了比实际使用量多得多的花粉。
+
+
+....
+【主句】
+├─ 状语：Traditionally
+├─ 主语：pollination by wind
+├─ 谓语：has been viewed
+└─ 【主语补足语】 as a reproductive process
+     │
+     └─ 【后置定语】 marked by random events
+         │
+         └─ 【定语从句】 in which the vagaries of the wind are compensated for by the generation...
+            │
+            ├─ 方式状语：by the generation
+            │       │
+            │       └─ 【后置定语】 of vast quantities of pollen
+            │
+            └─ 【结果状语从句】 so that the ultimate production of new seeds is assured...
+                 │
+                 └─ 【方式/条件状语】 at the expense of producing much more pollen
+                         │
+                         └─ 【比较状语从句】 than is actually used
+....
+
+
+.Traditionally, `主` pollination by wind `谓` *has been viewed as* a reproductive process *marked by random events*
+
+- marked by random events : 以随机事件为特征。**marked by 意为“以…为标志/特征”，**强调风媒传粉的核心特点是其随机性——花粉的传播方向和落点不受控制。
+
+.`主` the vagaries of the wind `谓` are compensated for by the generation of vast quantities of pollen
+
+- the vagaries of the wind：**vagaries 是复数，指“多变、反复无常的行为”，**不能译为“变化”。the vagaries of the wind 是拟人化表达，指风的不可预测性。
+
+
+
+====
+
 
 '''

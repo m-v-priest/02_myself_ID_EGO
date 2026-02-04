@@ -8,4 +8,121 @@
 
 
 
+- (085.) Because `主` #the potential 潜在的；可能的 hazards# (n.)危险；风险 _pollen 花粉 grains_ 颗粒；细粒 are subject to 受……支配；易受……影响 as they are transported (v.)运输；运送 over long distances 长距离 `系` #are enormous# 巨大的；庞大的, `主` wind-pollinated 风媒传粉的 plants 植物 `谓` *have*, in the view above 根据上述观点, *compensated for* 补偿；弥补 the ensuing 随之发生的；接着产生的 loss 损失 of pollen *through happenstance* (偶然事件；意外情况)由于偶然性,碰运气 by virtue of 凭借；依靠 producing (v.) _an amount 数量 of_ pollen 一定数量的花粉 that is one to three _orders of magnitude_ 数量级 greater than the amount 后定说明 produced by _species 物种 pollinated 授粉 by insects_ (昆虫) 由昆虫传粉的物种(即虫媒植物).
+
+
+[.my2]
+====
+因为潜在的风险 (这些风险是花粉粒所面临的, 当它们被长距离传播时) 是巨大的, 所以, 根据上述观点, 风媒传粉植物已经补偿了随之发生的 由于偶然性导致的花粉损失 (这个补偿是通过产生一定数量的花粉实现的, 这个花粉数量, 比由虫媒传粉的物种所产生的花粉数量, 高出一到三个数量级)。
+
+
+流畅的整体译文 +
+因为花粉粒在长距离传播过程中所面临的潜在风险是巨大的，所以，根据上述观点，"风媒植物", 通过产生比"虫媒植物"多一到三个数量级的花粉量，弥补了因传播过程完全依赖偶然性,而造成的花粉损失。
+====
+
+[.my1]
+.案例
+====
+- (085.) Because the potential hazards pollen grains are subject to as they are transported over long distances are enormous, wind-pollinated plants have, in the view above, compensated for the ensuing loss of pollen through happenstance by virtue of producing an amount of pollen that is one to three orders of magnitude greater than the amount produced by species pollinated by insects.
+
+由于花粉粒在长距离运输过程中可能面临的潜在危险巨大，因此，根据上述观点，风媒植物通过产生比昆虫授粉物种多一到三个数量级的花粉量，来弥补偶然造成的花粉损失。
+
+
+....
+【原因状语从句】 Because the potential hazards are enormous
+│
+├─ 主语：the potential hazards
+│       │
+│       └─ 【定语从句 (省略 that)】 (that) pollen grains are subject to
+│               │
+│               └─ 【时间状语从句】 as they are transported over long distances
+│                       (they 指代 pollen grains)
+│
+└─ 系动词+表语：are enormous
+
+【主句】 wind-pollinated plants have compensated for...
+│
+├─ 主语：wind-pollinated plants
+├─ 插入语：, in the view above,
+├─ 谓语：have compensated for
+├─ 宾语：the ensuing loss
+│       │
+│       └─ 【后置定语】 of pollen
+│          │
+│          └─ 【方式状语】 through happenstance
+│
+└─ 【方式状语】 by virtue of producing an amount of pollen
+        │
+        └─ 【定语从句】 that is one to three orders of magnitude greater than the amount
+            │
+            ├─ 比较对象：the amount
+            │    │
+            │    └─ 【后置定语 (过去分词)】 produced by species
+            │         │
+            │         └─ 【后置定语 (过去分词)】 pollinated by insects
+....
+
+
+原因​ (Because...)：由于花粉在长距离、随机的风媒传播过程中 (as they are transported over long distances)，面临巨大的潜在风险​ (the potential hazards... are enormous)。
+
+结果 (主句)：因此，风媒植物​ (作为对这一生态挑战的适应) 必须补偿​ (have compensated for) 由此必然产生的、因纯粹偶然性 (through happenstance) 造成的花粉损失​ (the ensuing loss of pollen)。
+
+补偿方式：其补偿方式 (by virtue of) 就是产生"极其巨量的花粉"​ (producing an amount of pollen)。
+
+巨量的程度：这个“巨量”被具体量化了：其花粉产量, 比虫媒植物 (species pollinated by insects) 高出1到3个数量级​ (one to three orders of magnitude greater)，即10到1000倍。
+
+简单说：*因为风传粉太不靠谱 (风险大、靠运气)，所以风媒植物演化出了“用数量换概率”的策略，其花粉产量, 比靠昆虫精准传粉的植物, 高出成百上千倍。*
+
+
+
+
+
+
+.Because `主` #the potential hazards# 后定说明 `主` pollen grains 花粉粒 `谓` are subject to /as they are transported over long distances 长距离传播 `系` #are enormous#,
+
+- are subject to : 遭受、经受、面临。是固定短语，后接名词，表示“易受…影响”、“会遭遇…”。
+- pollen grains : 花粉粒。植物的雄性配子体。
+
+
+
+.in the view above 根据上述观点, compensated for 补偿、弥补 the ensuing (a.) loss 随之发生的损失 of pollen *through happenstance* 由于偶然性,碰运气 by virtue of 凭借、依靠、通过 producing an amount of pollen 一定数量的花粉 that is one to three _orders of magnitude_ 高出一到三个数量级 greater than the amount produced by _species pollinated by insects_ 由昆虫传粉的物种(即虫媒植物).
+
+- in the view above, 是插入语，表明整个主句的论断 是基于前文提到的“传统观点”。阅读时可暂时忽略, 以抓住主干。
+
+- ensuing (a.) loss： ensuing是形容词，意为“随之发生的”、“作为结果的”，必须译出这层因果关系。
+
+- through happenstance : 由于偶然性/碰运气。happenstance是 happening(事件) 和 circumstance(环境) 的合成词，强调“偶然、意外、运气”。指花粉能否成功到达柱头, 完全靠运气。 +
+through happenstance： happenstance是“偶然性、意外”。**through表示原因或方式，**即“由于偶然性”或“靠碰运气”。它是修饰 loss的，说明损失的发生方式是随机的。
+
+- ##**an amount of pollen：这里的 an amount不是“一些”，而是与后面的比较级相连，指“ (达到某一比较级别的) 数量”。**##翻译时要和后面的定语从句结合理解。
+
+- one to three _orders of magnitude_ greater : 高出一到三个数量级。科学表达法。一个数量级是10倍，两个是100倍，三个是1000倍。表示风媒植物的花粉产量, 比虫媒植物高10到1000倍。
+
+-  *orders of magnitude 是“数量级”。* +
+orders of magnitude 指的是数量级，其中 order 是等级、级别的意思，而magnitude 在此不是指重要、星球的光亮度，指的是"尺寸大小 或数量多少 的程度"，同义词是 size，quantity，number。
+
+- the amount produced by species pollinated by insects：中心词是 the amount(花粉数量)，它被两个过去分词短语修饰：**produced by species(由物种产生的) 和 pollinated by insects(被昆虫传粉的)。**意思是“由虫媒传粉物种所产生的 (花粉) 数量”。
+
+
+
+.magnitude
+
+(n.)  [U] ( formal ) the great size or importance of sth; the degree to which sth is large or important 巨大；重大；重要性 +
+•We did not realize (v.) _the magnitude of the problem_. 我们没有意识到**这个问题的重要性**。 +
+•a discovery of _the first magnitude_ 一项**极重要**的发现
+
+2.[ CU]( astronomy 天) the degree to which a star is bright 星等；星的亮度 +
+•The star *varies (v.) in brightness* by about _three magnitudes_. 星体的亮度大约分**三个星等**。
+
+3.[ CU]( geology 地)the size of an earthquake 震级
+
+-> ##magni-,巨大的，-tude,名词后缀。##即巨大之物，同时用于地震震级等多种科学术语。
+
+
+
+
+====
+
+
+
 '''

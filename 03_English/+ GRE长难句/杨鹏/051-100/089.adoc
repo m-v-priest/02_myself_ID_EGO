@@ -6,6 +6,98 @@
 
 '''
 
+下面有一个结构, 想要知道:
+##**had less to do with A /than with B :  ① 跟A关系小, 而是更B关系更大.  ② 它强调，与第二个因素相比，第一个原因或因素只是次要因素。③ 与A的关系,不如与B的关系大；④ 更多地与B相关，而非A。**## +
+*had to do with 是“与…有关”。* +
+*Less A than B : B强A弱. A不像B那样.* 如：This car is less expensive than that one.  这辆车没那辆贵
+
+
+- (089.) `主` #The increase# 增加；增长 in the numbers 数量；数目 of married 已婚的 women employed 受雇的；被聘用的 outside the home 在家外被雇佣的、外出就业的 in the twentieth 第二十的 century 世纪 `谓` *#had less to do with#* 没有什么关系 _mechanization 机械化 of housework_ 家务劳动 and an increase in leisure 空闲的；闲暇的 time 时间 for these women /*#than it did with#* their own _economic 经济的；经济上的 necessity_ 必要；必需 *#and with#* high _marriage 婚姻 rates_ 比率；率 后定说明 that shrank (v.)（使）缩小；（使）减少 _the available 可获得的；可利用的 pool_ （人或事物的）集合，储备 of _single 单身的 women workers_, 同位 previously 先前；以前, in many cases 情况；事例, the only women employers 雇主；老板 would hire 雇用；聘用.
+
+[.my2]
+二十世纪外出就业的已婚妇女人数的增加，与"家务劳动的机械化"以及"这些女性闲暇时间的增加"关系不大，而更多地是与她们自身的经济需要, 以及高结婚率有关 (这个结婚率缩减了可用的单身女性工人库，从前，在许多情况下，单身女性是雇主愿意雇用的唯一女性群体)。
+
+
+[.my1]
+.案例
+====
+- (089.) The increase in the numbers of married women employed outside the home in the twentieth century had less to do with mechanization of housework and an increase in leisure time for these women than it did with their own economic necessity and with high marriage rates that shrank the available pool of single women workers, previously, in many cases, the only women employers would hire.
+
+20世纪已婚女性外出就业人数的增加，与其说是由于家务机械化和这些女性闲暇时间的增加，不如说是由于她们自身的经济需求以及高结婚率缩小了单身女性劳动力的可用池（在许多情况下，此前雇主只会雇佣单身女性）。
+
+....
+【主句】
+├─ 主语：The increase
+│       │
+│       ├─ 【后置定语1】 in the numbers
+│       │       │
+│       │       └─ 【后置定语2】 of married women
+│       │               │
+│       │               └─ 【后置定语3 (过去分词短语)】 employed outside the home
+│       │
+│       └─ 【时间状语】 in the twentieth century
+│
+├─ 谓语：had less to do with
+│       │
+│       ├─ 【比较对象A1】 the mechanization
+│       │       │
+│       │       └─ 【后置定语】 of housework
+│       │
+│       └─ 【比较对象A2】 and an increase
+│               │
+│               ├─ 【后置定语】 in leisure time
+│               │       │
+│               │       └─ 【后置定语】 for these women
+│               │
+├─ 【比较连词】 than
+│
+├─ 【比较对象B1 (省略了谓语 did)】 (it did) with their own economic necessity
+│       (it did 指代 had to do)
+│
+├─ 【比较对象B2】 and with high marriage rates
+│       │
+│       └─ 【定语从句】 that shrank the available pool
+│               │
+│               ├─ 宾语：the available pool
+│               │       │
+│               │       └─ 【后置定语】 of single women workers
+│               │
+│               └─ 【同位语/补充说明】 , previously... the only women employers would hire.
+│                       (对 single women workers 的补充说明)
+│
+└─ 完整比较结构：The increase... had less to do with [A1 and A2] than (it did) with [B1 and B2].
+....
+
+观察现象：二十世纪, "已婚女性"外出就业的人数增加了。
+
+- 否定常见归因：这种增加与​ (had less to do with) 两个因素关系不大：
+.. 家务机械化 (这理论上给了她们更多时间)。
+.. 由此带来的闲暇时间增加。 --> *即, 已婚女性出去工作赚钱, 不是因为她们在家里闲得慌, 而是她们真的缺钱,必须出去工作赚钱.*
+
+- 提出真正原因：这种增加更多地与​ (than it did with) 另外两个因素有关：
+.. 已婚女性自身的经济需要​ (养家糊口或个人独立) -> 所以要外出工作赚钱。
+.. 高结婚率。-> 解释第二个原因的作用机制：高结婚率导致了传统劳动力池的萎缩——雇主过去只愿意雇用 (previously... the only women employers would hire) 的单身女性工人​ (single women workers) 数量减少了。
+
+最终因果链：**因此，面对"未结婚者"劳动力短缺，雇主被迫开始雇用"已婚女性"。所以，已婚女性就业增加，主要不是因为她们“有空了”，而是因为她们“需要钱”，**同时社会条件 (高结婚率) 迫使雇主“不得不雇她们”。
+
+The increase in the numbers of married women employed outside the home in the twentieth century had less to do with mechanization of housework and an increase in leisure time for these women than it did with their own economic necessity and with high marriage rates that shrank the available pool of single women workers, previously, in many cases, the only women employers would hire.
+
+- *#had less to do with...(A) /than...(B)：虽然可以直译为“与…有较少关系，比…”。但更好的汉语理解是“与A的关系，不如与B的关系大”，即“更多地与B有关，而不是A”。常用译法是“与其说是因为A，不如说是因为B”。#*
+
+- (书作者的解说:) #*had less to do with... than do with... 的意思是: 与前面的东西的关系, 不如与后面的关系那么重要，相当于中文的: 与其说……还不如说……。*#
+
+- mechanization of housework : 家务劳动的机械化。指洗衣机、吸尘器、电冰箱等家电的普及，理论上减少了家务劳动的时间和强度。
+
+- an increase in leisure time : 闲暇时间的增加。指因机械化而可能空余出的时间。
+
+- their own economic necessity : 她们自身的经济需要。指已婚妇女出于家庭经济压力, 或个人经济独立的需要, 而外出工作。
+
+- available pool of single women workers | 可用的单身女性工人库。**pool指“人才库、劳动力储备”。**指雇主传统上倾向于雇用的单身女性劳动力总量。
+
+
+
+====
+
 
 
 '''
