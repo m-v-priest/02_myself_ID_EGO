@@ -7,5 +7,62 @@
 '''
 
 
+- (099.) Although it has been possible to infer 推断；推论；推理 from the foods and services 后定说明 actually produced 从实际生产的食品和提供的服务 `宾`  _what manufacturers 制造商；生产商 and servicing trades 服务行业 thought (v.) their customers wanted_  (推断出) 制造商和服务业者认为他们的顾客想要什么, `主` only a study of _relevant 相关的；切题的 personal documents_ 文件；文献 written by actual consumers 消费者；用户 `谓` will provide a precise 准确的；精确的 picture 情况；状况 of _who wanted what_.
+
+[.my2]
+尽管从实际生产的食品和提供的服务中，一直可以推断出 (推断的内容是：制造商和服务业者认为他们的顾客想要什么)，但只有对由实际消费者书写的相关个人文件的研究，才能提供一幅精确的图景 (这幅图景是关于谁想要什么的)。
+
+
+[.my1]
+.案例
+====
+- (099.) Although it has been possible to infer from the foods and services actually produced what manufacturers and servicing trades thought their customers wanted, only a study of relevant personal documents written by actual consumers will provide a precise picture of who wanted what.
+
+尽管可以从实际生产的商品和服务中, 推断出制造商和服务行业认为他们的客户想要什么，但只有研究实际消费者撰写的相关个人文件，才能提供一份关于谁想要什么的精确图景。
+
+....
+【让步状语从句】 Although it has been possible to infer...
+        │
+        ├─ 形式主语：it
+        ├─ 谓语：has been possible
+        └─ 【真正主语 (不定式短语)】 to infer (v.) ... from...
+                │
+                ├─ 不定式：to infer
+                ├─ 【宾语 (后置)】 what manufacturers... thought (v.)  their customers wanted
+                │       (这是一个 what 引导的宾语从句，作 infer 的宾语)
+                │       │
+                │       ├─ 从句主语：manufacturers and servicing trades
+                │       ├─ 从句谓语：thought (v.)
+                │       └─ 【宾语从句 (作 thought 的宾语)】 (that) their customers wanted
+                │               (省略了 that)
+                │
+                └─ 【介词短语 (来源状语)】 from the foods and services
+                        │
+                        └─ 【后置定语】 actually produced (v.)
+                                (过去分词作后置定语，修饰 foods and services)
+
+【主句】 only a study... will provide...
+        │
+        ├─ 主语：only a study
+        │       │
+        │       └─ 【后置定语】 of relevant personal documents
+        │               │
+        │               └─ 【后置定语】 written by actual consumers
+        │
+        ├─ 谓语：will provide
+        ├─ 宾语：a precise picture
+        │       │
+        │       └─ 【同位语/后置定语】 of who wanted what
+        │               (这是一个由“介词 of + 疑问词从句”构成的介词短语，解释 picture 的内容)
+        │
+        └─ 主干逻辑：Only a study... will provide a picture of...
+
+....
+
+
+
+
+
+====
 
 '''
