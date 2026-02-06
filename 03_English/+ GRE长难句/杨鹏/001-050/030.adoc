@@ -10,9 +10,9 @@
 
 
 
-[.my1]
-.案例
-====
+
+'''
+
 - (030.) Studies by Hargrave and Geen estimated natural community grazing rates bymeasuring feeding rates of individual zooplankton species in the laboratory andthen computing community grazing rates for field conditions using the knownpopulation density of grazers.
 
 哈格雷夫和吉恩的研究通过测量实验室中单个浮游动物物种的摄食率，然后利用已知的捕食者种群密度计算野外条件下的群落捕食率，从而估算了自然群落的捕食率。
@@ -45,6 +45,3 @@ grazing rates（摄食速率）和feeding rates（摄食速率）在生态学语
 
 - 假设风险：假设实验室测得的"摄食速率", 能准确代表野外真实情况（实际上野外环境更复杂，温度、食物浓度、捕食压力等, 都会影响摄食行为）.
 - 忽略种间关系：简单相加, 可能忽略了物种间的竞争、捕食等相互作用.
-====
-
-'''

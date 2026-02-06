@@ -12,13 +12,12 @@
 
 
 
-[.my2]
+
+
+'''
+
 甚至对主流研究模式的“激进”批评 (例如《分裂的社会》一书中提出的那种批评)，也将"民族同化问题", 过于机械地与"经济和社会流动性因素"联系起来，因而无法阐明波多黎各人 (作为一个殖民少数族裔) 在文化上的从属地位。
 
-
-[.my1]
-.案例
-====
 - (068.) Even the “radical” critiques of the mainstream research model, such as the critique developed in Divided Society, attach the issue of ethnic assimilation too mechanically to factors of economic and social mobility and are thus unable to illuminate the cultural subordination of Puerto Ricans as a colonial minority.
 
 即使是对主流研究模式的“激进”批判，例如《分裂社会》中提出的批判，也过于机械地将民族同化问题与经济和社会流动性因素联系起来，因此无法阐明波多黎各人作为殖民地少数民族的文化从属地位。
@@ -78,7 +77,7 @@
 
 - Puerto Ricans : 波多黎各人。波多黎各是美国的一个自由邦，其居民是美国公民，但在政治地位、经济关系和文化认同上, 具有特殊的殖民历史和后殖民处境。
 
-====
+
 
 
 
@@ -118,7 +117,7 @@ image:../../img/Commonwealth of Puerto Rico.webp[,100%]
 
 波多黎各（Puerto Rico）是美国的 unincorporated territory（未合并领土）。这种地位让波多黎各属于美国，但不是美国本土的一部分（not part of the United States in the full sense）。
 
-[.my3]
+[.small]
 [options="autowidth" cols="1a,1a"]
 |===
 |Header 1 |Header 2
@@ -179,7 +178,7 @@ grok:
 这些概念, 在美国法律和宪法框架下有明确的区分，#*主要基于" 美国宪法 是否完全适用"、"领土是否被视为美国本土的一部分"、"自治程度"以及"与联邦政府的最终关系"。它们都属于美国拥有的领土（U.S. insular areas 或 territories），但地位从“最附属”到“最平等”排列。*#
 
 
-[.my3]
+[.small]
 [options="autowidth" cols="1a,1a,1a,1a,1a,1a,1a"]
 |===
 |概念|英文名称|是否美国“本土”一部分？|宪法适用程度|自治程度与权利|当前例子（有人居住）|通俗比喻（方便理解）
@@ -232,7 +231,7 @@ grok:
 
 #*国会可以随时干预*#（Congress can intervene at any time）这个说法，指的是在美国宪法和法律框架下，波多黎各（Puerto Rico）作为未合并领土（unincorporated territory）的本质地位没有改变，即使它自称“自由邦”（Commonwealth），#*国会仍然拥有对它的全权管辖权（plenary power）。这意味着国会可以单方面修改、限制、甚至废除波多黎各的"自治"安排，而不需要波多黎各本地政府的同意。*#
 
-[.my3]
+[.small]
 [options="autowidth" cols="1a,1a"]
 |===
 |Header 1 |Header 2
@@ -301,5 +300,3 @@ grok:
 
 
 
-
-'''

@@ -14,9 +14,9 @@
 
 
 
-[.my1]
-.案例
-====
+
+'''
+
 - (043.) Islam, on the other hand, represented a radical breakaway from the Arab paganism that preceded it; Islamic law is the result of an examination, from a religious angle, of legal subject matter that was far from uniform, comprising as it did the various components of the laws of pre-Islamic Arabia and numerous legal elements taken over from the non-Arab peoples of the conquered territories. +
 
 另一方面，伊斯兰教代表着与此前阿拉伯异教的彻底决裂；伊斯兰法律是对远非统一的法律主题进行宗教角度审视的结果，因为它包含前伊斯兰阿拉伯地区的各种法律组成部分，以及从被征服的非阿拉伯民族那里吸纳的众多法律元素。
@@ -29,7 +29,7 @@ Islam, on the other hand, represented a radical breakaway 根本性断裂、彻�
 
 .Islamic law is the result of an examination ... of legal subject matter 后定说明 that was..., comprising (v.) *as it did* the various components of...
 
-[.my3]
+[.small]
 [options="autowidth" cols="1a,1a"]
 |===
 |Header 1 |Header 2
@@ -59,6 +59,3 @@ Islam, on the other hand, represented a radical breakaway 根本性断裂、彻�
 taken over 这里应译为"吸收"而非"接管"，因为 take over 在此指 法律元素的吸收、采纳​ ，强调文化融合，而非政治控制。
 
 
-====
-
-'''

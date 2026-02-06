@@ -1,0 +1,52 @@
+这句的语法结构是怎样的? 并同时进行翻译(整句要翻译.  同时在做语法结构分析时, 每一语法段落小结构, 也要做翻译)和讲解. 
+
+要求:
+1.如果有表格输出, 就用 asciidoc格式来输出表格.
+
+表的第一行代码不要直接用 [options="header"] 
+要用 
+[.my3]
+[options="autowidth" cols="1a,1a"]
+
+即,如果表是两列的, 就是 cols="1a,1a"
+
+如果表是三列的, 就是 cols="1a,1a,1a"
+
+如果表是四列的, 就是 cols="1a,1a,1a,1a"
+
+以此类推.
+
+
+
+2.输出中有中英文混合时, 在中文和英文之间, 要加个空格隔开(注意, 中文后有英文, 中间要有空格. 同理, 英文后有中文, 中间也要加上空格).
+比如下面的这句就没有隔开:
+
+关于"the legal matter"的翻译：这里译为"法律事务"而非"法律问题"，因为matter在此指"事务、事项"（如legal matters法律事务），强调法律调整的具体领域和内容，而非"问题"（problem）。
+
+而要输出成:
+
+关于"the legal matter"的翻译：这里译为"法律事务"而非"法律问题"，因为 matter 在此指"事务、事项"（如 legal matters 法律事务），强调法律调整的具体领域和内容，而非"问题"（problem）。
+
+
+即, 上面在 matter 和 legal matters 首尾前后, 都各有一个空格, 和两边的中文汉字隔开了. 这样才能看得清楚.
+
+3.还要用字符画(箭头↑, 线条 --- 这种的符号和缩进), 画出整句的语法结构.
+
+4.句子中如果有术语存在, 也要做解释.
+
+5.句中的容易翻译错误的地方, 也需要做解释.
+
+6.但翻译全部英文时, 尽量严格按照英语句子中词语的顺序来翻译. 哪怕不严格符合中文的说话顺序也没关系, 只要在理解上能达到通顺即可. 比如这段英文:
+
+The best evidence for the layered mantle thesis is the well-established fact that volcanic rocks found on oceanic islands, islands believed to result from mantle plumes arising from the lower mantle, are composed of material fundamentally different from that of the midocean ridge system, whose source, most geologists contend, is the upper mantle.
+
+那么你就要翻译成类似如下的样子:
+
+最佳证据(关于地幔分层理论的), 是公认的事实：火山岩 (该火山岩是发现于"海洋岛屿"上的, 该岛屿被认为是起源于"地幔柱"的, 该地幔柱是起源于"下地幔"上升的), 是由材料组成的 (这些材料根本不同于"洋中脊系统", 洋中脊系统的来源, 大多数地质学家认为, 是源自"上地幔").
+
+也就是说, 如果某名词a遇后置定语x, 该后置定语x可以放在它所修饰的名词a后面的括号中, 并重复一下名词a作为翻译后置定语时的主语. 并且当该后置定语x中还有名词b, 被一个新的后置定语y修饰时, 就继续把后置定语y的翻译放到b后面去, 以此类推.
+
+我再举个例子, 解释一下这种翻译方式, 比如某个句子, 你可以翻译成:  
+
+我喜欢在香港(是属于中国的, 中国是东方的大国的. 东方是指东亚的. 东亚还有日韩等国家的, 日韩是民主国家)接收教育(这个教育是源自英国理念的. 这个理念是来自于英国历史文化中的.)
+

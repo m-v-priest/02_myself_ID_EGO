@@ -11,15 +11,15 @@
 If brain cells 脑细胞 are making the hormones 激素；荷尔蒙, the cells will contain (v.) these mRNAs.  +
 If `主` #the products# 产物 后定说明 the brain cells make `谓` #resemble# (v.)与……相似；类似于 the hormones /but are not identical (a.)完全相同的；同一的 to 与……完全相同；与……一模一样 them, then `主` the cDNAs should still bind to 与……结合 (指分子间通过化学键或相互作用连接) these mRNAs, but should not bind *as tightly 紧密地；牢固地 as* they would to mRNAs 后定说明 for 编码…的,对应于…的 the true hormones.
 
-[.my2]
+
+
+'''
+
 这是可能的: 制备出特定的互补DNA (这个互补DNA能作为分子探针, 来寻找肽类激素的信使RNA)。 +
 如果脑细胞正在制造那些激素, 那么那些细胞将会包含这些信使RNA。 +
 如果脑细胞制造的产物 (这个产物是脑细胞制造的) 类似于那些激素,但并不与之完全相同, 那么互补DNA应该仍然能结合到这些信使RNA上, 但不会结合得像它们 (互补DNA) 对真正的激素的信使RNA (这个信使RNA是为真正的激素编码的) 那样紧密。
 
 
-[.my1]
-.案例
-====
 - (056.) It is possible to make specific complementary DNAs that can serve as molecular probes to seek out the messenger RNAs of the peptide hormones. If brain cells are making the hormones, the cells will contain these mRNAs. If the products the brain cells make resemble the hormones but are not identical to them, then the cDNAs should still bind to these mRNAs, but should not bind as tightly as they would to mRNAs for the true hormones.
 
 可以制造出特定的互补DNA，它们可以作为分子探针，寻找肽激素的信使RNA。如果脑细胞正在制造这些激素，那么这些细胞将包含这些mRNA。如果脑细胞制造的产品类似于这些激素但并不完全相同，那么cDNA仍然应该与这些mRNA结合，但结合的紧密程度不会像与真正激素的mRNA结合那样紧密。
@@ -31,7 +31,7 @@ If `主` #the products# 产物 后定说明 the brain cells make `谓` #resemble
 
 这句话其实是在讲 20 世纪 80 年代初（原文出自 1982 年左右的文章）一种很经典的分子生物学技术：用 cDNA 探针（complementary DNA probe） 来“钓”脑细胞里编码 肽类激素（peptide hormones） 的 mRNA，并且还能区分“真激素”和“类似但不完全相同”的变体。
 
-[.my3]
+[.small]
 [options="autowidth" cols="1a,1a"]
 |===
 |Header 1 |Header 2
@@ -88,7 +88,7 @@ If `主` #the products# 产物 后定说明 the brain cells make `谓` #resemble
           【目的状语】 to seek out the messenger RNAs of the peptide hormones
 ....
 
-[.my3]
+[.small]
 [options="autowidth" cols="1a,1a,1a"]
 |===
 | 语法要素 (英文) | 语法要素 (中文) | 翻译
@@ -120,7 +120,7 @@ If brain cells are making the hormones, the cells will contain these mRNAs.
           【主句】 the cells will contain these mRNAs
 ....
 
-[.my3]
+[.small]
 [options="autowidth" cols="1a,1a,1a"]
 |===
 | 语法要素 (英文) | 语法要素 (中文) | 翻译
@@ -149,7 +149,7 @@ If `主` the products 后定说明 the brain cells make `谓` resemble (v.) the 
 
 
 
-[.my3]
+[.small]
 [options="autowidth" cols="1a,1a,1a"]
 |===
 | 语法要素 (英文) | 语法要素 (中文) | 翻译
@@ -169,8 +169,3 @@ If `主` the products 后定说明 the brain cells make `谓` resemble (v.) the 
 |===
 
 
-
-
-====
-
-'''

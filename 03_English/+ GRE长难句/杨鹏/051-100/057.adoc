@@ -9,13 +9,13 @@
 
 - (057.) `主` The molecular 分子的 approach 方法；途径 to detecting 探测；检测 peptide 肽 hormones 激素 using cDNA probes 探针 `谓` should also be much faster than the immunological 免疫学的 method 方法 /because it can take years of tedious 乏味的；单调的；冗长的 purifications 提纯；净化 to isolate (v.)分离；提取 peptide hormones 肽类激素 and then develop (v.) antiserums 抗血清 to them.
 
-[.my2]
+
+
+'''
+
 这个分子生物学方法 (这个方法是用来检测肽类激素的, 利用cDNA探针) 也应该会比免疫学方法快得多, 因为它 (这个“它”是形式主语) 可能需要数年枯燥的纯化工作 (这个纯化工作的目的是分离肽类激素) 然后才能制备出抗血清 (这个抗血清是针对那些肽类激素的)。
 
 
-[.my1]
-.案例
-====
 - (057.) The molecular approach to detecting peptide hormones using cDNA probes should also be much faster than the immunological method because it can take years of tedious purifications to isolate peptide hormones and then develop antiserums to them.
 
 使用cDNA探针检测肽激素的分子方法, 也应该比免疫学方法快得多，因为分离肽激素, 并随后开发针对它们的抗血清, 可能需要数年繁琐的纯化过程。
@@ -32,7 +32,7 @@
 
 这句话是在对比两种检测 肽类激素（peptide hormones） 的方法：免疫学方法（immunological method） vs 分子方法（molecular approach，用 cDNA 探针），并指出分子方法更快，因为免疫学方法太费时费力。
 
-[.my3]
+[.small]
 [options="autowidth" cols="1a,1a"]
 |===
 |Header 1 |Header 2
@@ -79,6 +79,3 @@ it...，此处it也可以指B。但是因为这种指代不符和我们以前所
 惯，所以阅读时, 不得不 边读边根据句意来判断.
 
 
-====
-
-'''

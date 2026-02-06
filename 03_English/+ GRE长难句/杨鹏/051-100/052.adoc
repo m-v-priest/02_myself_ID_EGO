@@ -9,9 +9,9 @@
 
 - (052.) Fallois 人名 proposed 提议；建议 that /Proust #had tried to begin a novel# 小说 in 1908, #abandoned 放弃；舍弃 it# /for *what was to be 将要成为...的东西 a long demonstration* 证明；论证 of Saint-Beuve’s blindness 无知；不了解 to the real nature 本质；性质 of great writing, #found# (v.) the essay 散文；论说文 giving rise to 引起；导致 personal memories 回忆；记忆 and fictional 虚构的；小说的 development 发展 /#and allowed these# to take over 接管；接手 in a steadily 稳定地；持续地 developing novel.
 
-[.my1]
-.案例
-====
+
+'''
+
 - (052.) Fallois proposed that Proust had tried to begin a novel in 1908, abandoned it for what was to be a long demonstration of Saint-Beuve’s blindness to the real nature of great writing, found the essay giving rise to personal memories and fictional development and allowed these to take over in a steadily developing novel.
 
 法卢瓦提出，普鲁斯特在1908年曾尝试开始一部小说，后来放弃了，转而进行了一场冗长的论证，旨在揭示圣伯夫对伟大写作真实本质的盲目，结果发现这篇论文引发了个人记忆和虚构情节的发展，并允许这些内容在一个稳步发展的小说中占据主导。
@@ -45,7 +45,7 @@
 
 我又问 DeepSeek: 这里,  abandoned..., found..., and allowed  是不是都省略了 had? 完整的是否是Fallois proposed that Proust had tried..., had abandoned...,had  found..., and had allowed...  ?
 
-[.my3]
+[.small]
 [options="autowidth" cols="1a,1a"]
 |===
 |Header 1 |Header 2
@@ -65,7 +65,7 @@
 
 我们可以用一个时间线来可视化 Proust 的心路历程，这些动作全部发生在 Fallois “提出（Proposed）”这个动作之前：
 
-[.my3]
+[.small]
 [options="autowidth" cols="1a,1a,1a"]
 !===
 ! 动作顺序 ! 动词 ! 描述内容
@@ -105,9 +105,3 @@ allowed...。但是因为 abandoned之后的状语/for…/的结构复杂、用�
 
 
 
-
-
-====
-
-
-'''

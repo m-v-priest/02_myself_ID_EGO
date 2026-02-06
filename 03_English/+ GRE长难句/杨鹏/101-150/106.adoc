@@ -8,4 +8,98 @@
 
 
 
+- (106.) Human genes 基因 contain (v.) #too# 太…以至于不能 little information *even #to# specify* (v.明确说明；具体指定)甚至不足以指定 `主` which hemisphere 半球 of the brain /`主` each of a human’s 10^11 neurons (神经元) 人类的 10^11 个神经元中的每一个 `谓` should, let alone 更不用说 the hundreds of connections _that each neuron makes_. +
+
 '''
+
+人类基因包含的信息太少，甚至不足以指定人类的 10^11 个神经元中的每一个,应该在大脑的哪个半球，更不用说指定数百个连接了 (这些连接是每个神经元所形成的)。
+
+
+- (106.) Human genes contain too little information even to specify which hemisphere of the brain each of a human’s $10^{11}$ neurons should, let alone the hundreds of connections that each neuron makes.
+
+人类基因所包含的信息量过少，甚至不足以指定人类10^11个神经元中每个神经元应该位于大脑的哪个半球，更不用说每个神经元所建立的数百个连接了。
+
+人类基因所包含的信息实在太少，甚至不足以规定人脑中那一千亿个神经元各自应该位于左半球还是右半球，更不用说去规定每个神经元所形成的数以百计的连接了。
+
+
+....
+【主句】
+├─ 主语：Human genes
+├─ 谓语：contain
+├─ 宾语：too little information
+│
+└─ 【结果状语】 even to specify..., let alone (to specify)...
+        │
+        ├─ 不定式：to specify
+        ├─ 宾语从句：which hemisphere... each of a human’s 10^11 neurons should
+        │       │
+        │       ├─ 疑问词：which hemisphere
+        │       │       │
+        │       │       └─ 【后置定语】 of the brain
+        │       │
+        │       ├─ 主语：each of a human’s 10^11 neurons
+        │       │       (10^11 即 1000亿)
+        │       │
+        │       └─ 情态动词：should
+        │               (后面省略了 reside in 或 be located in 等动词)
+        │
+        ├─ 【比较/递进连词】 let alone
+        │       (意为“更不用说”，引出程度更甚的对比项)
+        │
+        └─ 【省略的不定式短语】 (to specify) the hundreds of connections
+                │
+                ├─ 宾语：the hundreds of connections
+                │       │
+                │       └─ 【定语从句】 that each neuron makes
+                │               (makes connections 意为“形成连接”)
+                │
+                └─ 完整形式应为：let alone to specify the hundreds of connections...
+....
+
+
+基本前提：人类基因​ (Human genes) 所携带的信息量非常有限​ (contain too little information)。
+
+第一个不可能的任务 (已经很困难)：这些信息甚至 (even) 不足以明确规定​ (to specify) 人脑约 1000亿个神经元中，每一个应该位于大脑的左半球还是右半球​ (which hemisphere... each neuron should)。
+
+这本身就是一个极其精细的编码任务，需要海量信息。
+
+第二个不可能的任务 (更加不可能)：更不用说​ (let alone) 去明确规定 每个神经元所形成的数百个具体连接​ (the hundreds of connections that each neuron makes) 了。
+
+这比"指定位置"所需的信息量, 还要高出多个数量级。
+
+结论：既然基因信息, 连相对简单的“神经元定位”任务都无法完成，那么它绝对不可能精确编码复杂得多的“神经元连接”（即神经回路）。这支持了 神经系统发育在很大程度上依赖于基因以外的因素（如自组织、环境刺激、经验依赖等）​ 的观点。
+
+
+.Human genes contain (v.)  #too# little information *even #to# specify* (v.) which hemisphere of the brain /each of a human’s $10^{11}$ neurons should, let alone 更不用说,遑论 the hundreds of connections that each neuron makes.
+
+- #too# little information /even #to# specify...：这是 too... to...结构，表示“太…以至于不能…”。even是副词，修饰 to specify，强调“甚至连…都不能”。
+
+- that each neuron makes：定语从句修饰 connections， +
+*make connections 是固定搭配，意为“建立连接”。* +
+makes：这里不能译为“制造”，在神经科学语境中是“形成、建立（突触连接）”。
+
+
+.grok:
+
+这句话在科学上基本正确.
+
+原句核心断言:
+人类基因组的信息量太少，甚至不足以指定：
+10^11 个神经元各自应该位于大脑的哪一侧（hemisphere），更不用说
+每个神经元还要形成的数百个连接（hundreds of connections）
+
+科学事实核对（2025–2026 年共识数据）
+
+- 神经元数量: +
+-> 现代估计：人类大脑约有 860 亿 个神经元（≈ 8.6 × 10^10），
+-> 原句用的 10^11 是早期四舍五入的常见近似值 → 合理。
+
+- 每个神经元平均突触数: +
+-> 共识范围：约 7 000 – 10 000 个突触 / 神经元（皮层神经元更高一些）。 +
+-> 原句说 “hundreds”（数百个）→ 严重低估，但方向正确（即使只算“数百”，信息量也已经远远不够）。
+
+
+
+
+
+

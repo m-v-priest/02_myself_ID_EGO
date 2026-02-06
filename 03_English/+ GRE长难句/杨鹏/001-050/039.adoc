@@ -12,9 +12,9 @@
 
 image:../../img/svg 403.svg[,100%]
 
-[.my1]
-.案例
-====
+
+'''
+
 - (039.) Even the requirement that biomaterials processed from these materials be nontoxic to host tissue can be met by techniques derived from studying the reaction of tissue cultures to biomaterials or from short-term implants.
 
 即使是要求"从这些材料中加工出的生物材料, 对宿主组织无毒"，也可以通过研究组织培养物对生物材料的反应, 或通过短期植入物获得的技术, 来满足。
@@ -26,7 +26,7 @@ image:../../img/svg 403.svg[,100%]
 
 .DeepSeek:
 
-[.my3]
+[.small]
 [options="autowidth" cols="1a,1a"]
 |===
 |Header 1 |Header 2
@@ -59,5 +59,3 @@ Even the requirement... can be met by techniques  derived from... or from...
 
 
 
-
-'''

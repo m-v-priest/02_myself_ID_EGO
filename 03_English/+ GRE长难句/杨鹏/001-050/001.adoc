@@ -8,17 +8,16 @@
 
 - (001.) #That sex ratio# 性别比例 will *be favored* (v.)将被青睐,将被选择  后定说明 #which# maximizes (v.) 使最大化 ① #the number# of descendants 后代；后裔 后定说明 an individual will have /and hence 因此；所以 ② #the number# of _gene copies_ 基因拷贝 后定说明 transmitted (v.) 传递；传播.
 
+'''
+
 image:../../img/svg 400.svg[,100%]
 
-[.my1]
-.案例
-====
 
 - (001.) That sex ratio will be favored which maximizes the number of descendants an individual will have and hence the number of gene copies transmitted.
 
 那种能"使个体后代数量最大化"、从而"使基因副本传递数量最大化"的性别比例，将会受到青睐。
 
-[.my3]
+[.small]
 [options="autowidth" cols="1a,1a"]
 |===
 |Header 1 |Header 2
@@ -47,7 +46,4 @@ The sex ratio​ (which maximizes (v.) the number of descendants 后定说明 an
 |the number of gene copies 后定说明  transmitted​(v.)  (被传递的基因副本数量)
 |其中 *transmitted*​ 是过去分词**作"后置定语"，**相当于 gene copies that are transmitted (被传递的基因副本)。
 |===
-====
 
-
-'''

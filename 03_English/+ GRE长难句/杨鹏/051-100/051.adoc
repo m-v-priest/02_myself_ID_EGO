@@ -8,9 +8,9 @@
 
 - (051.) `主` #Some geologists# 地质学家, however, on the basis 根据，按照 of observations 观察；观测 后定说明 concerning (v.)关于，涉及 _mantle 地幔 xenoliths_ 捕虏体；捕虏岩（被火山带到地表的深部岩石样品）, `谓` #argue that# /the mantle is not layered (v.)分层的；成层的, but that `主` heterogeneity 异质性；不均匀性 `谓` is created by fluids 流体 #①后定说明  rich in “incompatible 不相容的，不能共存的 elements# 富含"不相容元素"的” (elements 后定说明 tending (v.) toward 倾向于 liquid 液体的；液态的 rather than solid 固体的；固态的 state 状态)  #②后定说明 percolating (v.)渗透；渗漏 upward# 向上地 and transforming (v.)使改变形态；使改观 portions 部分；一份 of the upper mantle 上地幔 irregularly 不规则地；不规律地, according to the vagaries 变幻莫测；难以预测的变化 of the fluids’ pathways 路径；路线.
 
-[.my1]
-.案例
-====
+
+'''
+
 
 - (051.) Some geologists, however, on the basis of observations concerning mantle xenoliths, argue that the mantle is not layered, but that heterogeneity is created by fluids rich in “incompatible elements” (elements tending toward liquid rather than solid state) percolating upward and transforming portions of the upper mantle irregularly, according to the vagaries of the fluids’ pathways.
 
@@ -45,7 +45,7 @@ vagaries of the fluids' pathways：流体路径的随机性/不确定性 +
 
 这句话在描述地幔（mantle）成分不均匀性（heterogeneity）成因的一种重要观点，和传统的“地幔分层（layered mantle）”模型形成鲜明对比。
 
-[.my3]
+[.small]
 [options="autowidth" cols="1a,1a"]
 |===
 |Header 1 |Header 2
@@ -75,7 +75,7 @@ vagaries of the fluids' pathways：流体路径的随机性/不确定性 +
 |===
 
 
-[.my3]
+[.small]
 [options="autowidth" cols="1a,1a"]
 |===
 |Header 1 |Header 2
@@ -103,7 +103,7 @@ vagaries of the fluids' pathways：流体路径的随机性/不确定性 +
 
 *当前的主流最新研究（基于 2023 – 2025 年的论文和综述）并不简单地“一边倒”支持其中一种极端观点，而是倾向于一个综合模型：地幔既有大规模的分层结构（layered structure），又有显著的化学和岩石不均匀性（heterogeneity），而metasomatism（交代作用，尤其是流体/熔体引起的）是造成上地幔（特别是岩石圈地幔和软流圈上部）局部到区域尺度不均匀性的最重要机制之一。*
 
-[.my3]
+[.small]
 [options="autowidth" cols="1a,1a,1a"]
 |===
 |方面|当前主流观点（2024 – 2025 年研究）|通俗解释
@@ -116,8 +116,3 @@ vagaries of the fluids' pathways：流体路径的随机性/不确定性 +
 |典型例子|慢速扩张脊下 asthenosphere heterogeneity（2025 论文）；大陆俯冲导致的 heterogeneous metasomatism（2025 Qaidam）；碳酸盐 + 硅酸盐 metasomatism（2025 Eifel）|很多地方的“不均匀”直接跟俯冲带、裂谷、热点相关
 |===
 
-
-====
-
-
-'''

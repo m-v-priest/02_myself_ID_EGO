@@ -9,9 +9,9 @@
 
 - (017.) Thus, for instance, it may *come as a shock* 使人震惊 to mathematicians 数学家 #to learn that# /`主` the _Schrodinger equation_ 薛定谔方程 for the hydrogen atom 氢原子 `系` is not _a literally  按照字面意义地，真正地，确实地 correct description_ of the atom, but only an approximation 近似值 to _a somewhat more correct equation_ 后定说明 *taking account of* 考虑到 spin 自旋;（使）快速旋转, magnetic dipole (n.)(偶极；双极子)磁偶极子, and relativistic 相对论的 effects; #and that# `主` this corrected 修正的；校正的 equation `系` is itself only an imperfect 有缺点的；未完成的 approximation 粗略估计，近似值 to an _infinite set_ 无限集,无限集合  of quantum field-theoretical 量子场论 equations 量子场论方程. +
 
-[.my1]
-.案例
-====
+
+'''
+
 - (017.) Thus, for instance, it may come as a shock to mathematicians to learn that the Schrodinger equation for the hydrogen atom is not a literally correct description of the atom, but only an approximation to a somewhat more correct equation taking account of spin, magnetic dipole, and relativistic effects; and that this corrected equation is itself only an imperfect approximation to an infinite set of quantum field-theoretical equations.
 
 因此，举例来说，数学家们可能会震惊地得知，氢原子的薛定谔方程, 并非对原子字面意义上完全正确的描述，而只是一个稍更正确方程的近似，后者考虑了自旋、磁偶极子和"相对论效应"；而且这个经过修正的方程本身, 也只是"无限量子场论方程组"的一个不完美的近似。
@@ -28,7 +28,7 @@
 
 .DeepSeek:
 
-[.my3]
+[.small]
 [options="autowidth" cols="1a,1a"]
 |===
 |Header 1 |Header 2
@@ -124,4 +124,4 @@ stem:[A= (ϵ^0 A_0) + (ϵ^1 A_1) + (ϵ^2 A_2) + ... ]
 - #*stem:[ A_0] 是简单又有“精确解”的问题的精确解.*#
 - stem:[ A_1, A_2] 代表由某种系统程序, 反复地找到的"高阶项目修正"。*#因为 ϵ 的值很微小，这些高阶项目修正, 应该会越来越不重要。#*
 
-'''
+
