@@ -1,0 +1,875 @@
+
+'''
+
+(0001)→ abandon
+
+.. abandon a sinking ship +
+.. abandon one's post/career +
+
+'''
+
+(0002)→ accumulate
+
+.. accumulate a vast fortune +
+.. debris accumulated on the floor +
+
+'''
+
+(0003)→ adverse
+
+.. adverse economic conditions +
+.. adverse reaction to medication +
+
+'''
+
+(0004)→ amazing
+
+.. an amazing discovery +
+.. an amazing performance/view +
+
+'''
+
+(0005)→ approve
+
+.. approve an application +
+.. approve of his choice +
+.. approve of the government's policy +
+
+'''
+
+(0006)→ assemble
+
+.. assemble in the hall +
+.. assemble the jury/fans +
+.. assemble a car from parts +
+.. assemble furniture/a computer +
+
+'''
+
+(0007)→ avid
+
+.. an avid collector of stamps +
+.. an avid fan +
+.. avid for knowledge/praise +
+
+'''
+
+(0008)→ barter
+
+.. a barter economy/trade +
+.. barter for essential supplies +
+.. barter wheat for tools +
+
+'''
+
+(0009)→ biography
+
+.. a biography of the president +
+.. read an inspiring biography +
+.. biography and autobiography +
+
+'''
+
+(0010)→ boulder
+
+.. move a heavy boulder +
+.. a granite boulder +
+.. glacial boulder +
+
+'''
+
+(0011)→ bulb
+
+.. plant tulip bulbs in autumn +
+.. garlic bulb +
+.. a 100-watt light bulb +
+.. replace a broken bulb +
+
+'''
+
+(0012)→ can
+
+.. recycle aluminum cans +
+.. a can of soup +
+.. can fruit for the winter +
+
+'''
+
+(0013)→ casualty
+
+.. heavy/serious casualties +
+.. a casualty of the economic crisis +
+.. casualty ward/insurance +
+
+'''
+
+(0014)→ chance
+
+.. by pure chance +
+.. a chance to study abroad +
+.. take a calculated chance +
+.. miss a chance +
+
+'''
+
+(0015)→ civilian
+
+.. protect civilian lives +
+.. civilian control of the military +
+.. civilian industry/casualties +
+
+'''
+
+(0016)→ conceive
+
+.. conceive a new business strategy +
+.. conceive the idea +
+.. conceive a child at an older age +
+.. be unable to conceive +
+
+'''
+
+(0017)→ consecutive
+
+.. consecutive victories +
+.. on five consecutive days +
+.. consecutive sentences  +
+
+'''
+
+(0018)→ convention
+
+.. social and cultural conventions +
+.. break with convention +
+.. an annual professional convention +
+.. attend a convention +
+
+'''
+
+(0019)→ crab
+
+.. catch crabs with a net +
+.. crab fishing industry +
+.. crab cakes +
+
+'''
+
+(0020)→ curriculum
+
+.. design a challenging curriculum +
+.. curriculum development/reform +
+.. national curriculum +
+
+'''
+
+(0021)→ defend
+
+.. defend one's homeland +
+.. defend against invaders +
+.. defend one's opinion +
+.. defend a thesis in court +
+
+'''
+
+(0022)→ detect
+
+.. detect a faint odor +
+.. detect early signs of disease +
+.. detect fraud with advanced software +
+
+'''
+
+(0023)→ discipline
+
+.. a traditional academic discipline +
+.. interdisciplinary discipline +
+.. military discipline +
+.. lack discipline +
+
+'''
+
+(0024)→ divert
+
+.. divert a river from its course +
+.. divert funds to other projects +
+.. a game to divert the children +
+
+'''
+
+(0025)→ dynamic
+
+.. a dynamic and growing market +
+.. a dynamic leader +
+.. a dynamic relationship between species +
+.. dynamic equilibrium  +
+
+'''
+
+(0026)→ emanate
+
+.. sound emanated from the next room +
+.. warmth emanating from the fireplace +
+.. a sense of authority emanating from him +
+
+'''
+
+(0027)→ entail
+
+.. the job entails frequent travel +
+.. entail significant financial risk +
+.. entail legal consequences +
+
+'''
+
+(0028)→ etch
+
+.. etch a name on a metal plate +
+.. a design etched on glass +
+.. etched in one's memory +
+.. a face etched with sorrow +
+
+'''
+
+(0029)→ exploit
+
+.. exploit solar energy +
+.. exploit an opportunity +
+.. exploit workers for profit +
+.. exploit natural resources unsustainably +
+
+'''
+
+(0030)→ fantasy
+
+.. live in a world of fantasy +
+.. a childish fantasy +
+.. a fantasy novel/film +
+.. indulge in fantasy +
+
+'''
+
+(0031)→ flap
+
+.. the tent flap +
+.. the bird's wing flap +
+.. flap its wings vigorously +
+.. flags flapping in the wind +
+
+'''
+
+(0032)→ forage
+
+.. forage for berries in the woods +
+.. cattle forage in the pasture +
+.. store forage for the winter +
+.. provide forage for livestock +
+
+'''
+
+(0033)→ fuel
+
+.. switch to cleaner fuel +
+.. fossil fuel consumption +
+.. fuel inflation/conflict +
+.. fuel speculation +
+
+'''
+
+(0034)→ genre
+
+.. a new genre of music +
+.. explore different literary genres +
+.. within the horror genre +
+
+'''
+
+(0035)→ gradient
+
+.. a steep road gradient +
+.. climb a steep gradient +
+.. temperature gradient +
+
+'''
+
+(0036)→ hang
+
+.. hang curtains on the windows +
+.. hang a painting on the wall +
+.. hang the criminal for treason +
+.. sentence to hang +
+
+'''
+
+(0037)→ herb
+
+.. grow herbs in the garden +
+.. use fresh herbs in cooking +
+.. medicinal herb +
+
+'''
+
+(0038)→ household
+
+.. household chores +
+.. household expenses +
+.. a three-person household +
+.. head of the household +
+
+'''
+
+(0039)→ imagine
+
+.. imagine yourself on a beach +
+.. imagine the future +
+.. I can't imagine why he did it +
+.. imagine that she'll agree +
+
+'''
+
+(0040)→ incentive
+
+.. a tax incentive for investment +
+.. financial incentive plan +
+.. incentive program +
+.. incentive measures +
+
+'''
+
+(0041)→ initial
+
+.. the initial phase of the project +
+.. initial impression/reaction +
+.. carve one's initials on a tree +
+.. write with your initials +
+
+'''
+
+(0042)→ insult
+
+.. a personal insult +
+.. suffer racial insults +
+.. insult the host by arriving late +
+.. feel insulted by the remark +
+
+'''
+
+(0043)→ invade
+
+.. invade a country in force +
+.. invade enemy territory +
+.. invasive species invade an ecosystem +
+.. tourists invade the city every summer +
+
+'''
+
+(0044)→ journal
+
+.. keep a personal journal +
+.. a travel journal +
+.. a prestigious academic journal +
+.. publish a paper in a scientific journal +
+
+'''
+
+(0045)→ lathe
+
+.. operate a lathe with skill +
+.. a wood-turning lathe +
+.. shape metal on a lathe +
+
+'''
+
+(0046)→ librarian
+
+.. ask the librarian for help +
+.. a school librarian +
+.. consult the reference librarian +
+
+'''
+
+(0047)→ log
+
+.. cut logs for firewood +
+.. a floating log +
+.. log flight data accurately +
+.. log into the system +
+
+'''
+
+(0048)→ magnify
+
+.. magnify the image under a microscope +
+.. a magnifying glass +
+.. magnify the importance of the event +
+.. magnify their fears +
+
+'''
+
+(0049)→ match
+
+.. match words with deeds +
+.. a tie that matches the shirt +
+.. be no match for the champion +
+.. meet one's match +
+.. watch a football match +
+
+'''
+
+(0050)→ meteorite
+
+.. a meteorite impact crater +
+.. a rare iron meteorite +
+.. analyze the composition of a meteorite +
+
+'''
+
+(0051)→ mission
+
+.. a diplomatic mission +
+.. accomplish one's mission +
+.. a space mission to Mars +
+.. launch a rescue mission +
+.. mission statement +
+
+'''
+
+(0052)→ mosaic
+
+.. a Roman floor mosaic +
+.. create a beautiful mosaic +
+.. a mosaic of different cultures +
+
+'''
+
+(0053)→ nebula
+
+.. the Orion Nebula +
+.. a distant planetary nebula +
+.. study the formation of a nebula +
+
+'''
+
+(0054)→ nostalgia
+
+.. a sense of nostalgia for childhood +
+.. evoke nostalgia +
+.. nostalgia for the good old days +
+
+'''
+
+(0055)→ occupy
+
+.. occupy a strategic position +
+.. occupy most of the room +
+.. occupy the enemy's capital +
+.. occupy a foreign territory +
+.. occupy the children with games +
+
+'''
+
+(0056)→ orchid
+
+.. a rare orchid species +
+.. cultivate orchids in a greenhouse +
+.. the delicate beauty of an orchid +
+
+'''
+
+(0057)→ overturn
+
+.. overturn a government by force +
+.. the boat overturned in the storm +
+.. overturn a legal decision +
+
+'''
+
+(0058)→ passage
+
+.. a secret underground passage +
+.. block the passage +
+.. the passage of time +
+.. during the passage of the bill +
+.. a passage from Shakespeare +
+
+'''
+
+(0059)→ per capita
+
+.. per capita income +
+.. per capita consumption of energy +
+.. calculate GDP per capita +
+
+'''
+
+(0060)→ photosynthesis
+
+.. the process of photosynthesis +
+.. oxygen produced by photosynthesis +
+.. the role of chlorophyll in photosynthesis +
+
+'''
+
+(0061)→ plateau
+
+.. reach a high plateau +
+.. the Tibetan Plateau +
+.. sales have reached a plateau +
+.. hit a learning plateau +
+
+'''
+
+(0062)→ portable
+
+.. a portable charger +
+.. portable water filter +
+.. portable computer +
+
+'''
+
+(0063)→ precipitate
+
+.. precipitate a financial crisis +
+.. events that precipitated the war +
+.. precipitate the salt from the solution +
+
+'''
+
+(0064)→ primary
+
+.. in the primary stage of development +
+.. the primary cause of the accident +
+.. primary education/school +
+.. primary colors +
+
+'''
+
+(0065)→ promise
+
+.. keep/break a promise +
+.. make a solemn promise +
+.. show great promise as a musician +
+.. hold a lot of promise for the future +
+.. promise to be here on time +
+
+'''
+
+(0066)→ provoke
+
+.. provoke an angry response +
+.. provoke widespread criticism +
+.. deliberately provoke an argument +
+.. provoke a fight +
+
+'''
+
+(0067)→ quartz
+
+.. quartz crystal +
+.. a quartz watch +
+.. veins of quartz in the rock +
+
+'''
+
+(0068)→ ration
+
+.. ration food during the war +
+.. water rationed to two liters per person +
+.. weekly ration of meat +
+.. be on short rations +
+
+'''
+
+(0069)→ recognition
+
+.. gain international recognition +
+.. recognition of the problem +
+.. out of recognition +
+.. a place of instant recognition +
+.. win an award in recognition of her work +
+.. receive recognition for one's contribution +
+
+'''
+
+(0070)→ regenerate
+
+.. tissues that can regenerate +
+.. regenerate damaged nerves +
+.. regenerate the economy of the region +
+
+'''
+
+(0071)→ remnant
+
+.. remnants of the ancient wall +
+.. a remnant of fabric +
+.. the last remnants of the forest +
+
+'''
+
+(0072)→ request
+
+.. grant a formal request +
+.. make a request for information +
+.. request permission to leave +
+.. as requested by the client +
+
+'''
+
+(0073)→ retire
+
+.. retire at the age of sixty-five +
+.. retire from the army +
+.. retire to bed early +
+.. retire for the night +
+.. retire old banknotes from circulation +
+
+'''
+
+(0074)→ risk
+
+.. take a financial risk +
+.. minimize the risk of failure +
+.. risk one's life to save others +
+.. risk everything on a single venture +
+
+'''
+
+(0075)→ runoff
+
+.. agricultural runoff pollutes rivers +
+.. control urban runoff +
+.. a runoff election between the top two candidates +
+
+'''
+
+(0076)→ scavenger
+
+.. vultures are efficient scavengers +
+.. the scavenger hyena +
+.. act as a scavenger in the ecosystem +
+
+'''
+
+(0077)→ secrete
+
+.. glands that secrete hormones +
+.. secrete digestive enzymes +
+.. secrete a sticky substance +
+
+'''
+
+(0078)→ sew
+
+.. sew a button on a shirt +
+.. sew by hand +
+.. sew up a wound +
+
+'''
+
+(0079)→ shrink
+
+.. the sweater shrank in the wash +
+.. the market has shrunk +
+.. shrink from responsibility +
+.. shrink back in horror +
+
+'''
+
+(0080)→ slide
+
+.. slide on the ice +
+.. children sliding down a slide +
+.. slide the drawer open +
+.. sales continue to slide +
+
+'''
+
+(0081)→ solve
+
+.. solve a mathematical problem +
+.. solve a conflict peacefully +
+.. solve the mystery/crime +
+
+'''
+
+(0082)→ spiky
+
+.. a spiky cactus +
+.. spiky hair +
+.. wear spiky earrings +
+
+'''
+
+(0083)→ squeeze
+
+.. squeeze a lemon to get juice +
+.. squeeze someone's hand for comfort +
+.. squeeze into a crowded bus +
+.. squeeze through a narrow gap +
+.. squeeze more money out of the budget +
+
+'''
+
+(0084)→ steep
+
+.. a steep mountain slope +
+.. a steep flight of stairs +
+.. a steep increase in prices +
+.. a steep decline in profits +
+
+'''
+
+(0085)→ strain
+
+.. suffer from mental strain +
+.. put a great strain on resources +
+.. a new strain of wheat +
+.. a deadly flu strain +
+.. strain a muscle while lifting weights +
+
+'''
+
+(0086)→ submerge
+
+.. submerge the equipment in water +
+.. the submarine submerged +
+.. the town was submerged by the flood +
+.. submerged in work +
+
+'''
+
+(0087)→ summit
+
+.. reach the summit of the mountain +
+.. the summit of one's career +
+.. attend an international summit +
+.. the G7 summit +
+
+'''
+
+(0088)→ sustain
+
+.. pillars that sustain the roof +
+.. sustain life on earth +
+.. sustain economic growth +
+.. sustain interest +
+.. sustain a serious injury +
+
+'''
+
+(0089)→ tail
+
+.. wag its tail happily +
+.. the tail of a comet +
+.. tail the suspect discreetly +
+.. tail the car through the city +
+
+'''
+
+(0090)→ telescope
+
+.. observe stars through a telescope +
+.. a radio telescope +
+.. the Hubble Space Telescope +
+
+'''
+
+(0091)→ theme
+
+.. the central theme of the novel +
+.. explore a common theme +
+.. a theme park +
+
+'''
+
+(0092)→ tight
+
+.. a tight knot +
+.. wear tight jeans +
+.. keep tight control on spending +
+.. on a tight schedule/budget +
+
+'''
+
+(0093)→ tough
+
+.. tough leather boots +
+.. a tough material +
+.. a tough negotiator +
+.. have a tough childhood +
+.. a tough decision/problem +
+
+'''
+
+(0094)→ transparent
+
+.. transparent glass windows +
+.. a transparent plastic bag +
+.. a transparent explanation +
+.. transparent motives +
+
+'''
+
+(0095)→ trouble
+
+.. cause a lot of trouble +
+.. get into trouble with the law +
+.. take the trouble to help +
+.. save someone the trouble +
+.. have trouble sleeping +
+
+'''
+
+(0096)→ undergo
+
+.. undergo surgery for an injury +
+.. undergo a major transformation +
+.. undergo rigorous testing +
+
+'''
+
+(0097)→ utility
+
+.. public utility companies +
+.. the cost of basic utilities  +
+.. a utility vehicle  +
+.. utility software +
+
+'''
+
+(0098)→ venture
+
+.. a risky business venture +
+.. launch a new joint venture +
+.. venture into unknown territory +
+.. venture an opinion +
+
+'''
+
+(0099)→ visual
+
+.. visual arts  +
+.. visual impairment +
+.. strong visual impact/effects +
+.. visual aids in teaching +
+
+'''
+
+(0100)→ way
+
+.. way too expensive +
+.. way better than before +
+.. way ahead of schedule +
+.. find a way to solve the problem +
+
+'''
+
+(0101)→ withdraw
+
+.. withdraw the application +
+.. withdraw from the competition +
+.. withdraw cash from an ATM +
+.. withdraw troops from the region +
+
+'''
+

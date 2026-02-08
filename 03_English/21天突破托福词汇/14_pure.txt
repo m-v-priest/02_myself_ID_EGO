@@ -1,0 +1,838 @@
+
+'''
+
+(1322)→ access
+
+.. gain access to the building  +
+.. have Internet access  +
+.. access the database  +
+.. access information  +
+
+'''
+
+(1323)→ administrate
+
+.. administrate a large organization  +
+.. administrate a trust fund  +
+.. administer justice  +
+
+'''
+
+(1324)→ alligator
+
+.. an alligator in the swamp  +
+.. alligator skin  +
+.. an alligator's powerful jaws  +
+
+'''
+
+(1325)→ antibiotic
+
+.. prescribe an antibiotic  +
+.. antibiotic resistance  +
+.. a course of antibiotics  +
+
+'''
+
+(1326)→ artery
+
+.. a blocked artery  +
+.. a major artery of the city  +
+.. the economic arteries  +
+
+'''
+
+(1327)→ auditory
+
+.. the auditory nerve  +
+.. an auditory hallucination  +
+.. auditory processing  +
+
+'''
+
+(1328)→ barb
+
+.. a fishhook barb  +
+.. a barbed wire fence  +
+.. a barbed comment  +
+
+'''
+
+(1329)→ belief
+
+.. a strong belief in justice  +
+.. hold a belief  +
+.. contrary to popular belief  +
+
+'''
+
+(1330)→ boast
+
+.. boast about one's achievements  +
+.. the city boasts a fine museum  +
+.. a room boasting a great view  +
+
+'''
+
+(1331)→ brilliance
+
+.. the brilliance of the diamond  +
+.. the brilliance of the performance  +
+.. intellectual brilliance  +
+
+'''
+
+(1332)→ calcium
+
+.. calcium-rich foods  +
+.. calcium carbonate  +
+.. a calcium deficiency  +
+
+'''
+
+(1333)→ carpenter
+
+.. hire a carpenter to build a deck  +
+.. a skilled carpenter  +
+.. carpentry work  +
+
+'''
+
+(1334)→ cellular
+
+.. cellular structure  +
+.. cellular respiration  +
+.. cellular phone  +
+
+'''
+
+(1335)→ choreograph
+
+.. choreograph a dance  +
+.. beautifully choreographed  +
+.. choreograph a sequence  +
+
+'''
+
+(1336)→ coat
+
+.. a winter coat  +
+.. a coat of paint  +
+.. coat the chicken with flour  +
+.. coat the walls in white  +
+
+'''
+
+(1337)→ complex
+
+.. a complex problem  +
+.. a complex sentence  +
+.. a sports complex  +
+.. an industrial complex  +
+
+'''
+
+(1338)→ conflict
+
+.. a conflict of interest  +
+.. armed conflict  +
+.. conflict with someone's schedule  +
+.. conflict with the evidence  +
+
+'''
+
+(1339)→ content
+
+.. be content with one's life  +
+.. the sugar content of the drink  +
+.. the content of the speech  +
+.. table of contents  +
+
+'''
+
+(1340)→ correlate
+
+.. correlate the data  +
+.. a high correlation between smoking and disease  +
+.. find a correlation  +
+
+'''
+
+(1341)→ crude
+
+.. crude oil  +
+.. a crude estimate  +
+.. a crude drawing  +
+
+'''
+
+(1342)→ decay
+
+.. tooth decay  +
+.. urban decay  +
+.. moral decay  +
+
+'''
+
+(1343)→ depress
+
+.. depress the button  +
+.. depress the economy  +
+.. feel depressed  +
+.. depressing news  +
+
+'''
+
+(1344)→ dime
+
+.. a dime a dozen  +
+.. drop a dime  +
+.. on a dime  +
+
+'''
+
+(1345)→ distract
+
+.. distract someone's attention  +
+.. be distracted by noise  +
+.. distract from the main issue  +
+
+'''
+
+(1346)→ drip
+
+.. a leaky faucet drip  +
+.. water dripping from the ceiling  +
+.. be on a drip  +
+.. a drip of information  +
+
+'''
+
+(1347)→ elegance
+
+.. the elegance of the design  +
+.. speak with elegance  +
+.. the simple elegance of the solution  +
+
+'''
+
+(1348)→ endow
+
+.. endow a university  +
+.. be endowed with natural beauty  +
+.. a richly endowed region  +
+
+'''
+
+(1349)→ equivalent
+
+.. the equivalent amount in dollars  +
+.. find an equivalent word  +
+.. have no equivalent  +
+
+'''
+
+(1350)→ exhaustion
+
+.. suffer from exhaustion  +
+.. nervous exhaustion  +
+.. the exhaustion of natural resources  +
+
+'''
+
+(1351)→ façade
+
+.. the ornate façade of the building  +
+.. maintain a façade of happiness  +
+.. behind the façade  +
+
+'''
+
+(1352)→ figure
+
+.. a bronze figure of a horse  +
+.. a historical figure  +
+.. a leading figure in the movement  +
+.. a slim figure  +
+
+'''
+
+(1353)→ flour
+
+.. whole wheat flour  +
+.. dust with flour  +
+.. a bag of flour  +
+
+'''
+
+(1354)→ frame
+
+.. a picture frame  +
+.. the frame of the building  +
+.. frame a question  +
+.. frame someone for a crime  +
+
+'''
+
+(1355)→ gap
+
+.. a gap in the fence  +
+.. a generation gap  +
+.. bridge the gap  +
+
+'''
+
+(1356)→ gland
+
+.. sweat glands  +
+.. the thyroid gland  +
+.. swollen glands  +
+
+'''
+
+(1357)→ hallmark
+
+.. the hallmark of a great leader  +
+.. bear the hallmark of genius  +
+.. a hallmark of quality  +
+
+'''
+
+(1358)→ hazard
+
+.. a fire hazard  +
+.. at all hazards  +
+.. hazard a guess  +
+.. hazardous waste  +
+
+'''
+
+(1359)→ hominid
+
+.. early hominid fossils  +
+.. the evolution of hominids  +
+.. study hominid remains  +
+
+'''
+
+(1360)→ identical
+
+.. identical twins  +
+.. be identical in appearance  +
+.. an identical copy  +
+
+'''
+
+(1361)→ implement
+
+.. agricultural implements  +
+.. kitchen implements  +
+.. implement a plan  +
+.. implement changes  +
+
+'''
+
+(1362)→ inflation
+
+.. control inflation  +
+.. high inflation  +
+.. the inflation rate  +
+
+'''
+
+(1363)→ install
+
+.. install new software  +
+.. install a new president  +
+.. install confidence  +
+
+'''
+
+(1364)→ intervene
+
+.. intervene in a dispute  +
+.. intervene to prevent a disaster  +
+.. the years intervening  +
+
+'''
+
+(1365)→ isolate
+
+.. isolate the patient  +
+.. an isolated incident  +
+.. feel isolated  +
+
+'''
+
+(1366)→ kitchen
+
+.. a modern kitchen  +
+.. kitchen utensils  +
+.. a kitchen sink  +
+
+'''
+
+(1367)→ legal
+
+.. legal advice  +
+.. the legal system  +
+.. legal proceedings  +
+
+'''
+
+(1368)→ lithosphere
+
+.. the Earth's lithosphere  +
+.. the movement of lithospheric plates  +
+.. study the lithosphere  +
+
+'''
+
+(1369)→ lure
+
+.. lure fish with bait  +
+.. lure customers with discounts  +
+.. the lure of the big city  +
+.. a fishing lure  +
+
+'''
+
+(1370)→ marble
+
+.. a statue carved from marble  +
+.. a marble floor  +
+.. play marbles  +
+.. a marble quarry  +
+
+'''
+
+(1371)→ mental
+
+.. mental health  +
+.. mental arithmetic  +
+.. a mental image  +
+
+'''
+
+(1372)→ millimeter
+
+.. a few millimeters thick  +
+.. measure in millimeters  +
+.. a tolerance of plus or minus 0.5 mm  +
+
+'''
+
+(1373)→ monetary
+
+.. monetary policy  +
+.. monetary value  +
+.. monetary inflation  +
+
+'''
+
+(1374)→ mystery
+
+.. solve the mystery  +
+.. a mystery novel  +
+.. shrouded in mystery  +
+
+'''
+
+(1375)→ niche
+
+.. find a niche in the market  +
+.. a niche for rare books  +
+.. a statue in a niche  +
+
+'''
+
+(1376)→ objective
+
+.. achieve an objective  +
+.. the main objective  +
+.. an objective analysis  +
+.. objective evidence  +
+
+'''
+
+(1377)→ opinion
+
+.. in my opinion  +
+.. a matter of opinion  +
+.. public opinion  +
+
+'''
+
+(1378)→ output
+
+.. increase industrial output  +
+.. the annual output of a factory  +
+.. the computer's output  +
+
+'''
+
+(1379)→ parallel
+
+.. parallel lines  +
+.. run parallel to the road  +
+.. a parallel case  +
+.. draw a parallel between  +
+
+'''
+
+(1380)→ pedagogy
+
+.. study pedagogy  +
+.. modern pedagogy  +
+.. pedagogical techniques  +
+
+'''
+
+(1381)→ perspective
+
+.. from a historical perspective  +
+.. gain a new perspective  +
+.. put things in perspective  +
+
+'''
+
+(1382)→ plague
+
+.. the bubonic plague  +
+.. a plague of locusts  +
+.. plague someone with questions  +
+
+'''
+
+(1383)→ poll
+
+.. conduct a public opinion poll  +
+.. a poll result  +
+.. go to the polls  +
+
+'''
+
+(1384)→ practical
+
+.. practical advice  +
+.. a practical solution  +
+.. a practical person  +
+
+'''
+
+(1385)→ presumably
+
+.. presumably, he'll arrive soon  +
+.. the letter is presumably from her  +
+.. it's presumably the best option  +
+
+'''
+
+(1386)→ productive
+
+.. a productive meeting  +
+.. productive land  +
+.. be productive of something  +
+
+'''
+
+(1387)→ prosper
+
+.. businesses prosper in a good economy  +
+.. the region prospered under his rule  +
+.. a prosperous city  +
+
+'''
+
+(1388)→ pursue
+
+.. pursue a career  +
+.. pursue one's studies  +
+.. pursue a criminal  +
+
+'''
+
+(1389)→ rainfall
+
+.. heavy rainfall  +
+.. measure the annual rainfall  +
+.. adequate rainfall for crops  +
+
+'''
+
+(1390)→ rebel
+
+.. rebel against authority  +
+.. the rebel forces  +
+.. a teenage rebel  +
+
+'''
+
+(1391)→ refine
+
+.. refine sugar  +
+.. refine one's technique  +
+.. refine a theory  +
+
+'''
+
+(1392)→ reliable
+
+.. a reliable source  +
+.. reliable information  +
+.. a reliable car  +
+
+'''
+
+(1393)→ repetitive
+
+.. repetitive work  +
+.. a repetitive motion  +
+.. repetitive strain injury  +
+
+'''
+
+(1394)→ respect
+
+.. show respect for elders  +
+.. in all respects  +
+.. with respect to  +
+.. respect the rules  +
+
+'''
+
+(1395)→ rhythm
+
+.. the rhythm of the music  +
+.. a natural rhythm  +
+.. biological rhythms  +
+
+'''
+
+(1396)→ rote
+
+.. learn by rote  +
+.. rote memorization  +
+.. rote learning  +
+
+'''
+
+(1397)→ satellite
+
+.. a communications satellite  +
+.. satellite television  +
+.. a satellite image  +
+
+'''
+
+(1398)→ sculptor
+
+.. a famous sculptor  +
+.. the sculptor's studio  +
+.. sculptural forms  +
+
+'''
+
+(1399)→ sentimental
+
+.. sentimental value  +
+.. a sentimental attachment  +
+.. a sentimental song  +
+
+'''
+
+(1400)→ shift
+
+.. a shift in policy  +
+.. the night shift  +
+.. shift the blame  +
+.. shift one's position  +
+
+'''
+
+(1401)→ sink
+
+.. the ship began to sink  +
+.. sink into despair  +
+.. sink a well  +
+.. a kitchen sink  +
+
+'''
+
+(1402)→ soaring
+
+.. soaring prices  +
+.. a soaring eagle  +
+.. a soaring tower  +
+
+'''
+
+(1403)→ species
+
+.. an endangered species  +
+.. a rare species  +
+.. the human species  +
+
+'''
+
+(1404)→ sprawl
+
+.. urban sprawl  +
+.. lie in a sprawl  +
+.. the city sprawls for miles  +
+
+'''
+
+(1405)→ stately
+
+.. a stately home  +
+.. walk with a stately pace  +
+.. a stately procession  +
+
+'''
+
+(1406)→ stock
+
+.. buy stock in a company  +
+.. the stock market  +
+.. a good stock of food  +
+.. in stock  +
+.. livestock  +
+
+'''
+
+(1407)→ stroll
+
+.. take a stroll in the park  +
+.. stroll along the beach  +
+.. go for a stroll  +
+
+'''
+
+(1408)→ succeed
+
+.. succeed in business  +
+.. succeed to the throne  +
+.. day succeeds day  +
+
+'''
+
+(1409)→ surge
+
+.. a surge of electricity  +
+.. a surge in demand  +
+.. surge forward  +
+.. the crowd surged  +
+
+'''
+
+(1410)→ sympathy
+
+.. express sympathy for the bereaved  +
+.. in sympathy with the strikers  +
+.. a letter of sympathy  +
+
+'''
+
+(1411)→ tax
+
+.. pay income tax  +
+.. a tax cut  +
+.. tax the rich heavily  +
+.. tax one's patience  +
+
+'''
+
+(1412)→ terrain
+
+.. mountainous terrain  +
+.. difficult terrain  +
+.. rocky terrain  +
+
+'''
+
+(1413)→ thresh
+
+.. thresh wheat  +
+.. a threshing machine  +
+.. thresh out an idea  +
+
+'''
+
+(1414)→ tomato
+
+.. grow tomatoes in the garden  +
+.. tomato sauce  +
+.. a slice of tomato  +
+
+'''
+
+(1415)→ transaction
+
+.. a business transaction  +
+.. financial transactions  +
+.. the transaction of government business  +
+
+'''
+
+(1416)→ trigger
+
+.. trigger a reaction  +
+.. trigger an alarm  +
+.. pull the trigger  +
+
+'''
+
+(1417)→ twig
+
+.. a dry twig  +
+.. snap a twig  +
+.. the bird landed on a twig  +
+
+'''
+
+(1418)→ unlikely
+
+.. an unlikely story  +
+.. an unlikely candidate  +
+.. it is unlikely that ...  +
+
+'''
+
+(1419)→ various
+
+.. for various reasons  +
+.. various people  +
+.. at various times  +
+
+'''
+
+(1420)→ vigorous
+
+.. vigorous exercise  +
+.. a vigorous debate  +
+.. a vigorous plant  +
+
+'''
+
+(1421)→ wane
+
+.. the moon is waning  +
+.. his influence is waning  +
+.. on the wane  +
+
+'''
+
+(1422)→ wholesale
+
+.. buy goods at wholesale prices  +
+.. a wholesale business  +
+.. wholesale destruction  +
+
+'''
+
+(1423)→ youngster
+
+.. a group of youngsters  +
+.. activities for youngsters  +
+.. a talented youngster  +
