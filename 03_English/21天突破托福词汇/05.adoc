@@ -1642,7 +1642,7 @@ image:/img/saber.jpg[,30%]
 .. shake off 摆脱；甩掉 a cold 感冒 +
 (get rid of it) ((v.) ~ sth off/out to get rid of something unpleasant that you do not want 摆脱，甩掉（讨厌的事物）)  +
 
-.. shake off 甩掉 the pursuers 追踪者 +
+.. shake off 摆脱,甩掉 the pursuers 追踪者 +
   甩掉追踪者  +
 
 
@@ -1765,18 +1765,18 @@ image:/img/stagecoach.jpg[,30%]
 ==== (0492)→ sterile
 
 
-.. sterile 无菌的；消过毒的 surgical instruments 外科手术器械 +
+.. sterile (a.)无菌的；消过毒的;无生殖能力的 surgical instruments 外科手术器械 +
 (free from germs) +
-  无菌的外科手术器械（没有细菌的） ((a.) (of objects and places) completely clean and free from bacteria （物品和场所）无菌的，消过毒的 ▶ 源自拉丁语 sterilis, 不结果实的。)
+  无菌的外科手术器械（没有细菌的） ((a.) (of objects and places) completely clean and free from bacteria （物品和场所）无菌的，消过毒的 ▶ 源自拉丁语 sterilis, 不结果实的。##来自 PIE*ster,固定的，坚固的，僵硬的，词源同 stern,stark. 后用于比喻义指无生育的，##以及杀过菌的，消过毒的。)
 
-.. keep 保持 the wound 伤口 sterile 无菌的 to prevent 防止 infection 感染 +
+.. keep (v.)  the wound 伤口 sterile (a.)无菌的 to prevent (v.) infection  +
   保持伤口无菌以防感染  +
 
-.. sterile 贫瘠的；不毛的 soil 土壤 that cannot support 供养 crops 作物 +
+.. sterile 贫瘠的；不毛的 soil that cannot support (v.) crops 作物 +
 (barren) +
   无法支持作物生长的贫瘠土壤（贫瘠的） ((a.) (of land) not able to produce crops; not fertile （土地）贫瘠的，不毛的)  +
 
-.. a sterile 无结果的；无效果的 debate 辩论 that leads nowhere 毫无进展 +
+.. a sterile 无结果的；无效果的 debate 辩论 that leads (v.) nowhere 毫无进展 +
 (unproductive) ((a.) (of an activity, discussion, etc.) not producing anything useful or new （活动、讨论等）无结果的，无效果的)  +
 
 
@@ -1785,11 +1785,11 @@ image:/img/stagecoach.jpg[,30%]
 ==== (0493)→ strength
 
 
-.. build 增强 physical strength 体力；力气；力量 through exercise 锻炼 +
+.. build (v.)建立；逐渐增强 physical strength 体力；力气；力量 through exercise 锻炼 +
 (power) +
   通过锻炼增强体力（力量） ((n.) [U] the quality of being physically strong 体力，力气，力量 ▶ strong, 强壮的。-th, 名词后缀，表状态。)
 
-.. the strength 强度 of the bridge 桥梁 +
+.. the strength 强度 of the bridge   +
 (its ability to hold weight) +
   桥梁的强度（其承重能力） ((n.) [U] the ability of something to support a force or weight without breaking （物体支撑力或重量时的）强度)  +
 
@@ -1802,14 +1802,14 @@ image:/img/stagecoach.jpg[,30%]
 ==== (0494)→ subsist
 
 
-.. subsist 维持生活；生存 on a diet 饮食 of rice 米饭 and beans 豆类 +
+.. subsist (v.)维持生活；生存 on a diet 饮食 of rice 米饭 and beans 豆类 +
 (survive) +
   靠米饭和豆类维生（生存） ((v.) to manage to stay alive, especially with limited food or money （尤指靠有限的食物或钱）维持生活，生存下去 ▶ sub-, 在下。sistere, 站立，词源同 assist, exist。)
 
-.. the tribe 部落 subsists 维持生活 mainly 主要地 by hunting 狩猎 and gathering 采集 +
+.. the tribe 部落 subsists (v.)维持生活 mainly   by hunting   and gathering 采集 +
   这个部落主要靠狩猎和采集为生  +
 
-.. subsist 维持生活 on very little income 收入 +
+.. subsist (v.)  on very little income   +
   靠微薄的收入过活  +
 
 
@@ -1818,11 +1818,22 @@ image:/img/stagecoach.jpg[,30%]
 ==== (0495)→ superheat
 
 
-.. superheat 使过热；使过度加热 the steam 蒸汽 before it enters 进入 the turbine 涡轮机 +
+.. superheat (v.)使过热；使过度加热 the steam 蒸汽 before it enters (v.) the turbine 涡轮机 +
 (heat beyond boiling point) +
   在蒸汽进入涡轮机之前将其过热（加热到沸点以上） ((v.) to heat (a liquid) above its boiling point without vaporizing it; to heat (a vapor, as steam) not in contact with its own liquid to a temperature above the boiling point 使过热，使过度加热 ▶ super-, 超。heat, 加热。)
 
-.. superheated 过热的 steam 蒸汽 used in power generation 发电 +
+
+[.my3]
+.案例
+====
+.turbine
+渦輪（Turbine，又稱透平）  涡轮（Turbine，又称透平）##**是一種將流體（水、蒸汽、空氣、燃氣）的"動能", 轉換為"旋轉機械能"的設備。**##它由一系列高速旋轉的葉片組成，廣泛應用於發電廠（蒸汽/水輪機）、航空發動機（渦輪噴射/扇）、汽車增壓器和工業泵中，是現代能源與動力工程的核心。
+
+image:/img/turbine.jpg[,30%]
+
+====
+
+.. superheated 过热的 steam 蒸汽 `后定说明` used in _power generation_ 发电 +
   用于发电的过热蒸汽  +
 
 .. a superheated 过热的；过度繁荣的 economy 经济 +
@@ -1835,18 +1846,26 @@ image:/img/stagecoach.jpg[,30%]
 ==== (0496)→ swarm
 
 
-.. a swarm 一大群（昆虫） of bees 蜜蜂 around the hive 蜂巢 +
+.. a swarm 一大群（移动中的昆虫） of bees 蜜蜂 around the hive 蜂巢 +
 (large group) +
   蜂巢周围的一群蜜蜂（一大群） ((n.) a large group of insects, especially bees, moving together in the same direction （移动中的）一大群（昆虫） ▶ 源自古英语 swearm, 蜂群。)
 
-.. a swarm 一大群 of locusts 蝗虫 descending on 降落在 crops 庄稼上 +
+.. a swarm 一大群 of locusts 蝗虫 descending 下降；下倾；降临；降落在 on crops 庄稼上 +
   一大群蝗虫落在庄稼上  +
 
-.. tourists 游客 swarmed into 涌入 the square 广场 +
+[.my3]
+.案例
+====
+.locust
+[植保] 蝗虫，[昆] 蚱蜢 +
+-> 词源有争议，可能来自PIE*lek,弯，转，关节，词源同leg,langustine.用以命名如蝗虫，龙虾等节肢动物。
+====
+
+.. tourists 游客 swarmed (v.) into 涌入 the square 广场 +
 (crowded into it) +
   游客涌入广场（挤入其中） ((v.) ~ (into/out of/around, etc.) (of people, animals, etc.) to move around in a large group （人、动物等）成群地移动，涌往)  +
 
-.. the beach 海滩 was swarming with 挤满 people 人 +
+.. the beach 海滩 was swarming with 挤满 people  +
 (full of them) ((v.) ~ with somebody/something to be full of people or things 挤满，充满)  +
 
 
@@ -1855,18 +1874,18 @@ image:/img/stagecoach.jpg[,30%]
 ==== (0497)→ tame
 
 
-.. tame 驯化；驯养 a wild horse 野马 +
+.. tame (v.)驯化；驯养 a wild horse 野马 +
 (make it gentle) +
   驯服一匹野马（使其温顺） ((v.) to make an animal not afraid of humans and used to living with them 驯化，驯养 ▶ 源自古英语 tam, 驯服的。)
 
-.. tame 驯化 a lion 狮子 for a circus performance 马戏表演 +
+.. tame (v.)驯化 a lion for a circus performance 马戏表演 +
   为马戏表演驯服狮子  +
 
-.. a tame 驯化的；驯服的 bear 熊 that performs tricks 表演把戏 +
+.. a tame (a.) bear   that performs (v.) tricks (技巧，诀窍；骗局) 表演把戏 +
 (domesticated) +
   一只表演把戏的驯服了的熊（驯养的） ((a.) (of animals, birds, etc.) not afraid of people, and used to living with them （动物、鸟等）驯化的，驯服的)  +
 
-.. a tame 乏味的；平淡的；没劲的 debate 辩论 that lacked 缺乏 excitement 激情 +
+.. a tame (a.)乏味的；平淡的；没劲的 debate 辩论 that lacked 缺乏 excitement 激情 +
 (boring and unexciting) ((a.) (disapproving) not interesting or exciting 乏味的，平淡的，没劲的)  +
 
 
