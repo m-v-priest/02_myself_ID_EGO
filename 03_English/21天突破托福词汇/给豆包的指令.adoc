@@ -96,41 +96,63 @@
 == 2
 
 
-对我上传的 .adoc 格式的文本文件, 进行改造.
+....
 
 
-只要修改 以 .. 符号开始, 和以 + 符号结尾的行, 例如:
+对我上传的文本文件, 进行改造.
 
-.. come to an abrupt stop +
+我文件中的内容, 内容是类似下面这样的
 
-.. an abrupt change in the weather +
-
-类似上面这样的行.
-
-而其他的行, 不做任何更改, 按原始内容保留即可.
+==== (0418)→ canopy
 
 
+.. the dense canopy of the rainforest  +
+  热带雨林茂密的树冠层 ((n.) a layer of something that spreads over an area like a roof, especially branches of trees in a forest 华盖，树冠，（尤指森林中）林冠 ▶ 源自希腊语 konops, 蚊帐，来自 kōnōpeion, 带蚊帐的床。)
 
-对以 .. 符号开始, 和以 + 符号结尾的行, 改造要求如下:
+.. sleep under a mosquito canopy  +
+(net) +
+  睡在蚊帐下  +
 
-1. 给英文原文中的难点单词, 加上单词释义.  注意: 简单的小学, 初中英语单词, 就不需要加上释义了.
-
-比如原文是: ① Talking peace suddenly means talking about places like this—this lunar landscape, a titanium mine struggling under the Russian bombardment of Ukraine’s power grid, sometimes with only three hours of power a day.
-
-请你变成这样: ② Talking peace 谓 suddenly means talking about places like this — this lunar 月球的；月亮的 landscape 景观, a titanium 钛 mine 矿，矿井 struggling under the Russian bombardment 轰炸；炮击 of Ukraine’s power grid 电网, sometimes with only three hours of power 电力 a day.
-
-即在英文原文里,把里面的重要单词 (比如托福词汇, 雅思词汇, gre词汇, 专业术语), 惯用语(比如 make a big deal of sth), 短语(比如 go through, take part in 这样的短语动词等等), 后面直接跟上牛津高阶双语学习词典中的中文解释. 即把上面的 ①, 变成 ② 这样的形式. 在原文中这样展示就行了.
-
-注意: 某单词的中文释义, 如果只用一个中文词组来解释, 意思不精确的话, 你就用多个中文词组来解释. 比如 tactic 单词, 中文释义需要多个词组来解释成"策略；手段；招数", 你就不要只给出仅一个"策略"的释义, 而要写全这些多个中文词组来释义. 即不要只写为"tactic 策略", 而要写成"tactic 策略；手段；招数". 单词的中文解释不需要用小括号括起来. 也不需要再在文章最后单独列出每个单词的释义.
+.. a canopy over the entrance to the hotel +
+  酒店入口上方的天篷  +
 
 
-3. 执行上面的改造操作时, 注意不要遗漏任何英文原文. 一定要记住这一点, 不要遗漏任何英文原文的内容.
+'''
 
-4.我给出的英文, 里面带有asciidoc代码符号, 比如 ==, -, ., * 符号等等, 保留所有这些符号! 不要删掉!
 
-5.输出的内容不要做格式上的渲染, 即不要有加粗, 斜体等存在, 就普通纯文本格式输出就行了.
+把它改成:
 
-将最终的内容, 另存为一个文本文件让我下载
+==== (0418)→ canopy
+
+
+.. the dense 密集的；茂密的 canopy 树冠层；华盖；天篷 of the rainforest  +
+  热带雨林茂密的树冠层 ((n.) a layer of something that spreads over an area like a roof, especially branches of trees in a forest 华盖，树冠，（尤指森林中）林冠 ▶ 源自希腊语 konops, 蚊帐，来自 kōnōpeion, 带蚊帐的床。)
+
+.. sleep 睡觉；入睡 under a mosquito 蚊子 canopy 蚊帐；华盖  +
+(net) +
+  睡在蚊帐下  +
+
+.. a canopy 天篷；华盖；遮篷 over the entrance 入口 to the hotel 酒店 +
+  酒店入口上方的天篷  +
+
+
+'''
+
+也就是说, 只要修改 以 .. 符号开始, 和以 + 符号结尾的行,
+给这些行中的难点单词, 后面加上<牛津高阶双语学习辞典>中的中文解释.  注意: 简单的小学, 初中英语单词, 就不需要加上释义了. 单词的中文解释, 不需要用小括号括起来. 注意前面还要有个空格.
+
+
+对于其他行, 不要做任何操作, 原样输出就行. 包括空行也原样输出.
+
+我给出的英文, 里面带有asciidoc代码符号, 比如 ==, -, ., * 符号等等, 保留所有这些符号! 不要删掉!
+
+输出的内容不要做格式上的渲染, 即不要有加粗, 斜体等存在, 就普通纯文本格式 (plaintext) 输出就行了.
+
+
+....
+
+
+
 
 
 
