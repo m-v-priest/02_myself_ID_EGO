@@ -1,0 +1,17 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 162" width="290" height="162">
+    <defs/>
+    <g transform="translate(-396.00,-245.00)">
+        <g transform="translate(397.00,246.00)" id="shape1">
+            <path stroke="#323232" d="M.0,.0L288.0,.0L288.0,160.0L.0,160.0L.0,.0z" fill="#ffffff" fill-rule="nonzero"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="125.0" y="38.0">Vessel</tspan>
+            </text>
+        </g>
+        <g transform="translate(464.50,309.25)" id="shape2">
+            <path stroke="#323232" d="M.0,.0L153.0,.0L153.0,61.5L.0,61.5L.0,.0z" fill="#ffffff" fill-rule="nonzero"/>
+            <text xml:space="preserve" style="fill:#191919;font-family:Microsoft YaHei;font-size:10.00pt">
+                <tspan x="64.0" y="36.3">ship</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
