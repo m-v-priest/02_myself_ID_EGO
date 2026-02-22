@@ -1,0 +1,831 @@
+@charset "utf-8";
+
+/* ---------------------------------------------------------- */
+/* Page */
+
+	@page {
+	}
+
+	body {
+	}
+
+
+/* ---------------------------------------------------------- */
+/* Styles */
+
+	.b {
+		font-weight: bold;
+	}
+
+	.i {
+		font-style: italic;
+	}
+
+	.u {
+		text-decoration: underline;
+	}
+
+	.toc .b {
+		font-weight: normal;
+	}
+
+	.toc .i {
+		font-style: normal;
+	}
+
+	.toc .u {
+		text-decoration: none;
+	}
+
+	.minitoc .b {
+		font-weight: normal;
+	}
+
+	.minitoc .i {
+		font-style: normal;
+	}
+
+	.minitoc .u {
+		text-decoration: none;
+	}
+
+	.color {
+	}
+
+	.toc_table, .toc_figure {
+	}
+
+
+/* ---------------------------------------------------------- */
+/* Sections */
+
+	.part {
+		margin: 8% auto auto auto;
+		padding: 2em 0 3em 0;
+	}
+
+	.chapter, .section1, .section2, .section3, .section4, .section5, .section6, .section7 {
+		margin: auto auto auto auto;
+		padding: 0 0 0 0;
+	}
+
+	.pubInfo {
+		text-align: left;
+	}
+
+	.cover {
+		vertical-align: middle;
+		text-align: center;
+		background-color: white;
+		margin: 0em;
+	}
+
+
+/* ---------------------------------------------------------- */
+/* Headlines  */
+
+
+	h1 {
+		text-align: left;
+		text-indent: 0;
+	}
+
+
+	.title+p {
+		margin-top: 0em;
+	}
+
+	.subtitle+p {
+		margin-top: 0em;
+	}
+
+
+	/* Sections  */
+
+
+
+	.section2>.title+p, .section3>.title+p, .section4>.title+p, .section5>.title+p, .section6>.title+p, .section7>.title+p {
+		margin-top: 1em;
+	}
+
+	.section2>.subtitle+p, .section3>.subtitle+p, .section4>.subtitle+p, .section5>.subtitle+p, .section6>.subtitle+p, .section7>.subtitle+p {
+		margin-top: 1em;
+	}
+
+	/* Blocktext, box  */
+
+	.blocktext>.title+p, .blocktext-grey>.title+p, .box>.title+p, .box-grey>.title+p, .sidebar>.title+p, .sidebar-grey>.title+p, .sidebar-large>.title+p, .sidebar-large-grey>.title+p {
+		margin-top: 1em;
+	}
+
+	.blocktext>.subtitle+p, .blocktext-grey>.subtitle+p, .box>.subtitle+p, .box-grey>.subtitle+p, .sidebar>.subtitle+p, .sidebar-grey>.subtitle+p, .sidebar-large>.subtitle+p, .sidebar-large-grey>.subtitle+p {
+		margin-top: 1em;
+	}
+
+
+/* ---------------------------------------------------------- */
+/* Titles */
+
+	.title  {
+		font-size: 1.8em;
+		letter-spacing: .08em;
+		margin: 8% 0 10% 0;
+		padding: .2em 0 0 0;
+	}
+
+	.part>.title {
+		font-size: 1.8em;
+		letter-spacing: .08em;
+		margin: 0 0 0 0;
+		padding: .8em 0 0 0;
+		text-align: center;
+	}
+
+	.section1>.title, .section2>.title, .section3>.title, .section4>.title, .section5>.title, .section6>.title, .section7>.title  {
+		font-size: 1.1em;
+		letter-spacing: .08em;
+		margin: 0em;
+		padding: .8em 0 0 0;
+		font-weight: bold;
+	}
+
+	.blocktext>.title, .blocktext-grey>.title, .box>.title, .box-grey>.title, .sidebar>.title, .sidebar-grey>.title, .sidebar-large>.title, .sidebar-large-grey>.title {
+		font-size: 1em;
+		letter-spacing: normal;
+		margin-top: 1em;
+		font-style: normal;
+		font-weight: bold;
+		text-align: center;
+	}
+
+	.titlePage .tp-title {
+		font-size: 1.8em;
+		letter-spacing: .08em;
+		margin: 0 0 3em 0;
+		padding: 0 0 0 0;
+		text-align: center;
+	}
+
+
+/* ---------------------------------------------------------- */
+/* Subtitles */
+
+
+	.subtitle  {
+		font-size: 1.5em;
+		letter-spacing: .08em;
+		font-style: italic;
+		font-weight: normal;
+		margin: 0 0 .4em 0;
+	}
+
+	.part>.subtitle {
+		font-size: 1.5em;
+		letter-spacing: .08em;
+		font-style: italic;
+		margin: 0 0 0 0;
+		padding: .5em 0 0 0;
+		text-align: center;
+	}
+
+	.section1>.subtitle, .section2>.subtitle, .section3>.subtitle, .section4>.subtitle, .section5>.subtitle, .section6>.subtitle, .section7>.subtitle  {
+		font-size: 1em;
+		letter-spacing: .08em;
+		font-style: normal;
+		margin: 0 0 0 0;
+		font-weight: bold;
+	}
+
+	.blocktext>.subtitle, .blocktext-grey>.subtitle, .box>.subtitle, .box-grey>.subtitle, .sidebar>.subtitle, .sidebar-grey>.subtitle, .sidebar-large>.subtitle, .sidebar-large-grey>.subtitle  {
+		font-size: 1em;
+		letter-spacing: normal;
+		font-style: normal;
+		font-weight: bold;
+		margin: 0 0 0 0;
+		text-align: center;
+	}
+
+	.titlePage .tp-subtitle {
+		font-size: 1.2em;
+		letter-spacing: .08em;
+		font-style: italic;
+		font-weight: normal;
+		margin: 0 0 4.5em 0;
+		padding: 0 0 0 0;
+		text-align: center;
+	}
+
+
+/* ---------------------------------------------------------- */
+/* Titlepage */
+
+	.titlePage {
+		text-align: center;
+		margin: 20% auto auto auto;
+		padding: 1.7em 0 1.3em 0;
+		text-align: center;
+	}
+
+	.titlePage .tp-author {
+		margin: 0 0 0 0;
+		font-size: 1.3em;
+		text-align: center;
+		font-weight: normal;
+	}
+
+	.titlePage .tp-author+.tp-author {
+		margin: 1em 0 0 0;
+	}
+
+	.titlePage .embellish {
+	}
+
+
+/* ---------------------------------------------------------- */
+/* Paragraphs */
+
+	p {
+		margin-top: 0;
+		margin-bottom: 0;
+		text-indent: 0;
+	}
+
+	p+p, p+div {
+		margin-top: 0.5em;
+	}
+
+	.p, .p-br {
+	}
+
+	.p-indent, .p-indent-br {
+		text-indent: 1em;
+	}
+
+	.p-indent-inverse, .p-indent-inverse-br {
+		text-indent: -1em;
+		padding-left: 1em;
+	}
+	.p-indent-inverse-suite, .p-indent-inverse-suite-br {
+		padding-left: 1em;
+	}
+
+	.p-d, .p-d-br {
+		text-align: right;
+	}
+
+	.p-d-indent {
+		text-align: right;
+		text-indent: 1em;
+	}
+
+	.p-c, .p-c-br {
+		text-align: center;
+	}
+
+	.p-c-indent {
+		text-align: center;
+		text-indent: 1em;
+	}
+
+	.pubInfo p {
+		font-size: 1em;
+		text-indent: 0;
+	}
+
+	.pubInfo .p-c, .pubInfo .p-c-br {
+		text-align: left;
+	}
+
+
+/* ---------------------------------------------------------- */
+/* Images */
+
+	.illustype {
+		margin-top: 1.5em;
+		margin-bottom: 1.5em;
+	}
+
+	.margin_image_left, .margin_image_left_net {
+		text-align: left;
+		display: block;
+		margin-top: 1em;
+		margin-right: auto;
+	}
+
+	.margin_image_right, .margin_image_right_net {
+		text-align: right;
+		display: block;
+		margin-top: 1em;
+		margin-left: auto;
+	}
+
+	.illustype_image, .illustype_image_net, .illustype_image_tab, .illustype_image_text, .illustype_image_text_net, .illustype_image_math, .illustype_image_deco, .illustype_image_deco_net, .image_orig_tab, .illustype_image_externe, .image_sep_para {
+		text-align: center;
+		margin-top: 1.5em;
+		margin-bottom: 1.5em;
+		page-break-inside: avoid;
+	}
+
+	.illustype_fullpage_image, .illustype_fullpage_image_net, .illustype_fullpage_image_tab, .illustype_fullpage_image_text, .illustype_fullpage_image_text_net, .illustype_fullpage_image_math, .illustype_fullpage_image_deco, .illustype_fullpage_image_deco_net, .fullpage_image_orig_tab, .illustype_fullpage_image_externe {
+		text-align: center;
+		margin-top: 0em;
+		margin-bottom: 0em;
+		page-break-inside: avoid;
+	}
+
+	.image, .image_net, .image_tab, .image_text, .image_text_net, .image_math, .image_deco, .image_deco_net, .image_orig_tab, .image_externe, .image_sep_para {
+		margin: auto;
+	}
+
+	img {
+		max-width: 100%;
+		max-height: 100%;
+	}
+
+	.caption {
+		font-style: italic;
+		font-size: 1em;
+		margin: 1.5em auto 1.5em auto;
+		text-indent: 0;
+	}
+
+	.credits {
+		font-size: 0.7em;
+		text-align: center;
+	}
+
+	.titlePage .illustype, .titlePage .illustype_image, .titlePage .illustype_image_net, .titlePage .illustype_image_tab, .titlePage .illustype_image_text, .titlePage .illustype_image_text_net, .titlePage .illustype_image_math, .titlePage .illustype_image_deco, .titlePage .illustype_image_deco_net, .titlePage .image_orig_tab {
+		margin-top: 0em;
+		margin-bottom: 0em;
+	}
+
+	.cover .illustype, .cover .illustype_image, .cover .illustype_image_net, .cover .illustype_image_tab, .cover .illustype_image_text, .cover .illustype_image_text_net, .cover .illustype_image_math, .cover .illustype_image_deco, .cover .illustype_image_deco_net, .cover .image_orig_tab {
+		margin-top: 0em;
+		margin-bottom: 0em;
+	}
+
+	.cover img, .titlePage img {
+		height: 100%;
+	}
+
+
+/* ---------------------------------------------------------- */
+/* Box */
+
+	.box {
+		display: block;
+		margin: 1em auto 1em auto;
+		padding: 1em;
+		border: 1px solid #333333;
+		width: 85%;
+	}
+
+	.box-grey {
+		display: block;
+		margin: 1em auto 1em auto;
+		padding: 1em;
+		border: 1px solid #333333;
+		background-color: #CCCCCC;
+		width: 85%;
+	}
+
+	.blocktext {
+		display: block;
+		margin: 1em auto 1em auto;
+		padding: 1em;
+		width: 85%;
+	}
+
+	.blocktext-grey {
+		display: block;
+		margin: 1em auto 1em auto;
+		padding: 1em;
+		background-color: #CCCCCC;
+		width: 85%;
+	}
+
+	.sidebar {
+		display: block;
+		margin: 1em auto 1em auto;
+		padding: 1em;
+		width: 85%;
+		border-top: thin solid;
+		border-bottom: thin solid;
+	}
+
+	.sidebar-grey {
+		display: block;
+		margin: 1em auto 1em auto;
+		padding: 1em;
+		background-color: #CCCCCC;
+		width: 85%;
+		border-top: thin solid;
+		border-bottom: thin solid;
+	}
+
+	.sidebar-large {
+		display: block;
+		margin: 1em auto 1em auto;
+		padding: 1em;
+		width: 85%;
+		border-top: thin solid;
+		border-bottom: thin solid;
+	}
+
+	.sidebar-large-grey {
+		display: block;
+		margin: 1em auto 1em auto;
+		padding: 1em;
+		background-color: #CCCCCC;
+		width: 85%;
+		border-top: thin solid;
+		border-bottom: thin solid;
+	}
+	
+	.source-box, .verse-box , .source-box-grey, .verse-box-grey {
+	}
+
+
+/* ---------------------------------------------------------- */
+/* TOC */
+
+	.toc_entry {
+		margin-left: 1em;
+	}
+
+	.toc_entry_part {
+		font-weight: bold;
+		margin-top: 1em;
+	}
+
+	.toc_entry_part .b {
+		font-weight: bold;
+	}
+
+	.toc_entry_chapter {
+		margin-top: 0.5em;
+	}
+
+	.toc_entry+.toc_entry {
+		margin-top: 1em;
+	}
+
+
+/* ---------------------------------------------------------- */
+/* MINITOC */
+
+	.minitoc {
+		border-top: 1px solid #555555;
+		border-bottom: 1px solid #555555;
+		margin-left: 2em;
+		padding-top: 1em;
+		padding-bottom: 1em;
+	}
+
+	.minitoc .toc_entry {
+		margin-left: 1em;
+	}
+
+	.minitoc .toc_entry_part {
+		font-weight: bold;
+		margin-top: 1em;
+	}
+
+	.minitoc .toc_entry_part .b {
+		font-weight: bold;
+	}
+
+	.minitoc .toc_entry_chapter {
+		margin-top: 0.5em;
+	}
+
+	.minitoc .toc_entry+.toc_entry {
+		margin-top: 1em;
+	}
+
+	.minitoc>.title {
+		margin-bottom: 0.5em;
+		font-size: 1em;
+		font-style: normal;
+		font-weight: bold;
+		margin-top: 0em;
+		text-align: left;
+		margin-left: 1em;
+	}
+
+
+/* ---------------------------------------------------------- */
+/* Index */
+
+	.index_section {
+		font-size: 0.9em;
+		margin-left: 2em;
+		margin-top: 0em;
+		margin-bottom: 0em;
+	}
+
+	.index_section > p {
+		text-indent: -1em;
+	}
+
+	.index p+p {
+		margin-top: 0em;
+	}
+
+	.index_section+.index_section {
+		margin-top: 1em;
+	}
+
+	.index_section .index_section {
+		font-size: 1em;
+	}
+
+
+/* ---------------------------------------------------------- */
+/* Tables */
+
+	.tableau {
+		display: block;
+		margin: auto;
+		margin-top: 1.5em;
+		margin-bottom: 1.5em;
+		padding: 0.25em;
+	}
+
+
+	table {
+		border-collapse:collapse;
+		margin: auto;
+	   	text-align: left;
+	}
+
+	th {
+		font-weight: normal;
+		letter-spacing: .1em;
+		padding: .5em;
+	}
+
+	td {
+		padding: .5em;
+	}
+
+	.filet_l
+	{
+		border-left: thin solid;
+	}
+
+	.computer .filet_l
+	{
+		border-left: thin dashed;
+	}
+
+	.filet_r
+	{
+		border-right: thin solid;
+	}
+
+	.computer .filet_r
+	{
+		border-right: thin dashed;
+	}
+
+	.filet_t
+	{
+		border-top: thin solid;
+	}
+
+	.computer .filet_t
+	{
+		border-top: thin dashed;
+	}
+
+	.filet_b
+	{
+		border-bottom: thin solid;
+	}
+
+	.computer .filet_b
+	{
+		border-bottom: thin dashed;
+	}
+
+	.filet_x
+	{
+	}
+
+
+
+/* ---------------------------------------------------------- */
+/* Lists */
+
+	ol, ul {
+		margin: .2em 0 1em 0;
+		list-style: none;
+		text-indent: -1em;
+	}
+
+
+	p ul, p ol {
+		margin-top: 0em;
+	}
+
+	ul.bl {
+		list-style: disc;
+		text-indent: 0em;
+	}
+
+	ol.al {
+		list-style: lower-latin;
+		text-indent: 0em;
+	}
+
+	ol.nl {
+		list-style: decimal;
+		text-indent: 0em;
+	}
+
+  ul .ul, li .li {
+  }
+
+/* ---------------------------------------------------------- */
+/* Footnotes */
+
+	.footnote {
+		margin-bottom: 1em;
+		font-size: 1em;
+	}
+
+	.footnote>a {
+		font-weight: bold;
+		font-size: 1em;
+	}
+
+	.footnote p {
+		font-size: 1em;
+		margin-left: 0.5em;
+		margin-top: 0em;
+		margin-bottom: 0em;
+	}
+
+	.footnote a+p {
+		display: inline;
+	}
+
+	.footnote p+p {
+		margin-left: 0em;
+	}
+
+
+/* ---------------------------------------------------------- */
+/* Endnotes */
+
+	.endnotes {
+		margin-left: 0em;
+		margin-bottom: 1em;
+	}
+
+	.endnote>a {
+		font-size: 1em;
+	}
+
+	.endnote p {
+		font-size: 1em;
+		margin-left: 0.5em;
+		margin-top: 0em;
+	}
+
+	.endnote a+p {
+		display: inline;
+	}
+
+	.endnote p+p {
+		margin-left: 0em;
+	}
+
+	.endnote {
+		margin-bottom: 1em;
+	}
+
+
+
+/* ---------------------------------------------------------- */
+/* Computer & scri */
+
+	.computer  {
+		font-family: "Courier";
+		margin: 1em auto 1em auto;
+		width: 85%;
+		text-indent: 0;
+	}
+
+	.scri  {
+		font-family: "Courier";
+	}
+
+
+/* ---------------------------------------------------------- */
+/* Verse Source */
+
+	.source {
+		text-align: left;
+		margin-bottom: 1.5em;
+		font-style: italic;
+	}
+
+	.verse {
+		margin-top: 1.5em;
+		text-align: left;
+		font-style: italic;
+	}
+
+	.verse+.verse {
+		margin-top: 0em;
+	}
+
+	.title+.verse {
+		margin-top: 2em;
+	}
+
+	.subtitle+.verse {
+		margin-top: 2em;
+	}
+
+
+/* ---------------------------------------------------------- */
+/* Glossaire */
+
+	.termdef {
+	}
+
+	.term {
+	}
+
+	.def {
+	}
+
+	.definition {
+	}
+
+
+/* ---------------------------------------------------------- */
+/* Numeros de ligne */
+
+	.numligne {
+		float: left;
+		padding-right: 1em;
+		color: #777777;
+	}
+
+
+/* ---------------------------------------------------------- */
+/* Divers */
+
+	.copyrights {
+	}
+
+	.isbn {
+	}
+
+	.author {
+		text-align: center;
+	}
+
+	.contributor {
+	}
+
+	.serie {
+	}
+
+	.translator {
+	}
+
+	.publisher {
+	}
+
+	a {
+		text-decoration: none;
+	}
+
+
+/* ---------------------------------------------------------- */
+/* Bibliography */
+
+	.biblio p	{
+		padding-left: 1em;
+		margin-bottom: 0%;
+		text-indent: -1em;
+	}
+
+/* ---------------------------------------------------------- */
+/* Preview */
+
+  .preview {
+  }
+
+  .preview-link-toc {
+    color: grey;
+  }
+
+ 	.p-blanc, .p-blanc-box, .p-blanc-blocktext, .p-blanc-box-grey, .p-blanc-blocktext-grey, .p-blanc-sidebar, .p-blanc-sidebar-large, .p-blanc-sidebar-grey, .p-blanc-sidebar-large-grey {
+	      margin:0em;
+	}
