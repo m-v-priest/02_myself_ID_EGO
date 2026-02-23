@@ -1,0 +1,83 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>中式英语之鉴(北京外国语大学硕士研究生考试指定参考用书)(图文版)</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="平卡姆">平卡姆</dc:creator>
+    <dc:identifier id="bookid">urn:uuid:273fd756-62f2-4858-8d67-99e08f24bba9</dc:identifier>
+    <dc:contributor opf:file-as="CompanyName" opf:role="own">Epubor</dc:contributor>
+    <dc:contributor opf:file-as="PersonalName" opf:role="own">Ultimate</dc:contributor>
+    <dc:contributor opf:file-as="eCore" opf:role="bkp">eCore v0.9.6.652 [ http://www.epubor.com/ecore.html ]</dc:contributor>
+    <dc:contributor opf:file-as="SiteURL" opf:role="own">http://www.epubor.com</dc:contributor>
+    <dc:date>2002-12-31T16:00:00+00:00</dc:date>
+    <dc:publisher>FLTCN</dc:publisher>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">8380c32b-aab9-4096-8438-299d6dd3a8b3</dc:identifier>
+    <dc:identifier opf:scheme="ASIN">B009AKTWSC</dc:identifier>
+    <meta name="cover" content="cover-image"/>
+    <meta name="calibre:title_sort" content="中式英语之鉴(北京外国语大学硕士研究生考试指定参考用书)(图文版)"/>
+  </metadata>
+  <manifest>
+    <item href="cover1.html" id="id_1" media-type="application/xhtml+xml"/>
+    <item href="text00000.html" id="id_2" media-type="application/xhtml+xml"/>
+    <item href="text00001.html" id="id_3" media-type="application/xhtml+xml"/>
+    <item href="text00002.html" id="id_4" media-type="application/xhtml+xml"/>
+    <item href="text00003.html" id="id_5" media-type="application/xhtml+xml"/>
+    <item href="text00004.html" id="id_6" media-type="application/xhtml+xml"/>
+    <item href="text00005.html" id="id_7" media-type="application/xhtml+xml"/>
+    <item href="text00006.html" id="id_8" media-type="application/xhtml+xml"/>
+    <item href="text00007.html" id="id_9" media-type="application/xhtml+xml"/>
+    <item href="text00008.html" id="id_10" media-type="application/xhtml+xml"/>
+    <item href="text00009.html" id="id_11" media-type="application/xhtml+xml"/>
+    <item href="text00010.html" id="id_12" media-type="application/xhtml+xml"/>
+    <item href="text00011.html" id="id_13" media-type="application/xhtml+xml"/>
+    <item href="text00012.html" id="id_14" media-type="application/xhtml+xml"/>
+    <item href="text00013.html" id="id_15" media-type="application/xhtml+xml"/>
+    <item href="text00014.html" id="id_16" media-type="application/xhtml+xml"/>
+    <item href="text00015.html" id="id_17" media-type="application/xhtml+xml"/>
+    <item href="text00016.html" id="id_18" media-type="application/xhtml+xml"/>
+    <item href="text00017.html" id="id_19" media-type="application/xhtml+xml"/>
+    <item href="text00018.html" id="id_20" media-type="application/xhtml+xml"/>
+    <item href="text00019.html" id="id_21" media-type="application/xhtml+xml"/>
+    <item href="text00020.html" id="id_22" media-type="application/xhtml+xml"/>
+    <item href="text00021.html" id="id_23" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="flow0001.css" id="id_32" media-type="text/css"/>
+    <item href="Image00000.jpg" id="id_24" media-type="image/jpeg"/>
+    <item href="Image00001.jpg" id="id_25" media-type="image/jpeg"/>
+    <item href="Image00002.jpg" id="id_26" media-type="image/jpeg"/>
+    <item href="Image00003.jpg" id="id_27" media-type="image/jpeg"/>
+    <item href="Image00004.jpg" id="id_28" media-type="image/jpeg"/>
+    <item href="Image00005.jpg" id="id_29" media-type="image/jpeg"/>
+    <item href="Image00006.jpg" id="cover-image" media-type="image/jpeg"/>
+    <item href="Image00008.jpg" id="id_31" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="id_1"/>
+    <itemref idref="id_2"/>
+    <itemref idref="id_3"/>
+    <itemref idref="id_4"/>
+    <itemref idref="id_5"/>
+    <itemref idref="id_6"/>
+    <itemref idref="id_7"/>
+    <itemref idref="id_8"/>
+    <itemref idref="id_9"/>
+    <itemref idref="id_10"/>
+    <itemref idref="id_11"/>
+    <itemref idref="id_12"/>
+    <itemref idref="id_13"/>
+    <itemref idref="id_14"/>
+    <itemref idref="id_15"/>
+    <itemref idref="id_16"/>
+    <itemref idref="id_17"/>
+    <itemref idref="id_18"/>
+    <itemref idref="id_19"/>
+    <itemref idref="id_20"/>
+    <itemref idref="id_21"/>
+    <itemref idref="id_22"/>
+    <itemref idref="id_23"/>
+  </spine>
+  <guide>
+    <reference type="toc" title="目录" href="text00002.html"/>
+    <reference type="cover" title="Cover Html" href="cover1.html"/>
+  </guide>
+</package>
