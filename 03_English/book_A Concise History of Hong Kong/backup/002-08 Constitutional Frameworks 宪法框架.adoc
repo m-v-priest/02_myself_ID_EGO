@@ -1,0 +1,195 @@
+
+= 002-08 Constitutional Frameworks 宪法框架
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../../myAdocCss.css
+
+'''
+
+
+
+
+== Constitutional Frameworks 宪法框架
+
+According to Hong Kong's constitution 宪法, *laid out* 阐述；说明；安排 in the _Letters Patent_ (专利（权），专利证书；专利发明) 专利状;英皇制诰；专利证书 of April 5, 1843, Hong Kong would be run (v.) by a governor  `后定说明`  appointed by the British Crown.  +
+
+The governor would *administer (v.)管理；治理；施行 the colony* with help from a lieutenant 副职官员，代理官员 governor 副总督, a colonial secretary 殖民秘书, an Executive Council 行政局, and a Legislative Council 立法局.  +
+
+_The two councils_  委员会 were _each_ to have both official and nonofficial members `后定说明` appointed by the governor.  +
+
+[.my1]
+.案例
+====
+.The two councils were each to have both ... and...
+
+这里 each 在语法上是怎么解释的?
+
+[.my3]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|豆包:
+|主语 + each + 谓语 +
+*each 作同位语，放在主语后强调 “各自”.* 强调：每一个（个体）
+
+|DeepSeek:
+| each​ 在语法上充当 副词 (Adverb)，修饰动词不定式 to have。
+
+|gemini:
+|我支持豆包的观点。## 这里的 each## 在语法上最标准的理解, 是代词##*作主语的同位语*##（通常被称为“浮动量词” Floating Quantifier）。
+
+DeepSeek 说它是“修饰不定式的副词”有点牵强。副词通常修饰动作的方式（快慢、程度），而 each 并不形容“如何拥有”，它是在指代和分派主语的人数。
+
+为什么是“同位语”？ +
+在这个句子里：
+The two councils (主语) + were (系动词) + each (同位语) + to have... (表语/预定动作)
+
+他的结构变化其实是这样的:
+
+- Each of the councils was... : Each 是主语（代词）。
+- The two councils #each# were... : #Each 是主语的同位语（紧跟主语）。#
+- The two councils were #each# to... : （本句情况） #*Each 发生了“位置浮动”，挪到了助动词/系动词之后，但它的身份依然是指向主语的同位语。*#
+
+又例:
+
+- *We each* ate a pizza. （我们各自吃了一个披萨。） +
+这里 each 就是 We 的同位语。它并不是修饰“吃”这个动作（你不是“每个人地”吃），它是在解释“我们”到底是怎么吃的——是一个人对付一个，而不是两个人分一个。
+
+在英语中，这种现象被称为 Quantifier Float（量词浮动）。虽然它被放在了副词通常出现的位置（助动词之后），但它的血缘关系始终在主语身上。
+|===
+====
+
+
+Often *described as* the governor's cabinet 内阁, the Executive Council was mainly _an advisory 咨询的；顾问的 body_  with members `后定说明`  *drawn (v.) primarily 主要地；首要地 from* the British business elite.  +
+
+Its members, however, sometimes *disagreed with* the governor /and served to restrain 抑制；约束；限制 his power.  +
+Until the 1880s, members of the Legislative Council were almost all non-Chinese.  +
+
+Although _this basic constitutional 宪法的；符合宪法的 framework_  saw (v.) minor 较小的；轻微的 modifications  over the years, *it experienced (v.) no significant  changes* until the early 1980s.
+
+
+[.my1]
+.案例
+====
+According to Hong Kong’s constitution, laid out in the Letters Patent of April 5, 1843, Hong Kong would be run by a governor appointed by the British Crown.  +
+The governor would administer the colony with help from a lieutenant governor, a colonial secretary, an Executive Council, and a Legislative Council.  +
+The two councils were each to have both official and nonofficial members appointed by the governor.  +
+Often described as the governor’s cabinet, the Executive Council was mainly an advisory body with members drawn primarily from the British business elite.  +
+Its members, however, sometimes disagreed with the governor and served to restrain his power.  +
+Until the 1880s, members of the Legislative Council were almost all non-Chinese.  +
+Although this basic constitutional framework saw minor modifications over the years, it experienced no significant changes until the early 1980s.
+根据1843年4月5日颁布的《香港特许状》，香港由英国王室任命的总督管辖。总督在副总督、殖民地秘书、行政会议和立法会议的协助下管理殖民地。行政会议和立法会议均由总督任命的官员和非官员组成。行政会议常被视为总督的内阁，主要是一个咨询机构，其成员主要来自英国商界精英。然而，行政会议成员有时也会与总督意见相左，从而制约总督的权力。直到19世纪80年代，立法会议的成员几乎全部是非华裔。尽管这一基本宪政框架在多年间虽有细微修改，但在20世纪80年代初之前并未发生重大变化。 +
+====
+
+
+
+The issue of political representation (代表；代表制)政治代表权的问题 arose (v.) early in Hong Kong’s history.  +
+
+In August 1845, British merchants  *petitioned* (v.)请愿；请求 Governor John Davis *for* less taxation 税收；征税 and more representation.  +
+The Colonial Office 殖民事务部, however, *agreed* with Davis *that* /this would give the British merchants too much power over the majority Chinese.  +
+
+In 1856, Bowring suggested that /`主` taxpayers 纳税人 (including Chinese) who *owned (v.) land* worth (a.) than ten British pounds  `谓`  should be given the right to elect (v.) one member of the Legislative Council 立法局.  +
+
+The Colonial Office  rejected (v.)  Bowring’s proposal  *#on the grounds that#* 基于……理由；因为 representation  would *enable (v.) possible* Chinese interests  to dominate (v.)支配；控制；占优势 /#*and that*# the Chinese were not ready for representation.  +
+
+[.my2]
+殖民部拒绝了宝宁的提议，理由是赋予代表权, 会使华人利益占据主导地位，而且华人尚未准备好获得代表权。
+
+Colonial Secretary 殖民大臣 Henry Labouchere explained that /with “perhaps a few honourable exceptions,” `主` #the Chinese of Hong Kong#, like most members of “the Chinese race,” `系` #were# “very deficient (a.)缺乏的；不足的；有缺陷的 in the most essential 极其重要的；必不可少的 elements of morality 道德；道德准则.”
+
+
+[.my1]
+.案例
+====
+The issue of political representation arose early in Hong Kong’s history.  +
+In August 1845, British merchants petitioned Governor John Davis for less taxation and more representation.  +
+The Colonial Office, however, agreed with Davis that this would give the British merchants too much power over the majority Chinese.  +
+In 1856, Bowring suggested that taxpayers (including Chinese) who owned land worth more than ten British pounds should be given the right to elect one member of the Legislative Council.  +
+The Colonial Office rejected Bowring’s proposal on the grounds that representation would enable Chinese interests to dominate and that the Chinese were not ready for representation.  +
+Colonial Secretary Henry Labouchere explained that with “perhaps a few honourable exceptions,” the Chinese of Hong Kong, like most members of “the Chinese race,” were “very deficient in the most essential elements of morality.”11
+政治代表权问题在香港历史上早期就已出现。1845 年 8 月，英国商人向总督约翰·戴维斯请愿，要求减税并增加代表权。然而，殖民地事务部同意戴维斯的观点，认为这将赋予英国商人对占多数的华人过大的权力。1856 年，鲍林建议，拥有价值超过十英镑土地的纳税人（包括华人）应有权选举一名立法会议员。殖民地事务部以代表权会使华人利益占据主导地位，以及华人尚未做好接受代表权的准备为由，驳回了鲍林的提议。殖民地大臣亨利·拉布谢尔解释说，除了“少数值得尊敬的例外”，香港华人与大多数“中华民族”成员一样，“在最基本的道德方面非常缺乏”。 11 +
+====
+
+
+After this 在此之后 there were few calls for representation.  +
+
+Although local European merchants wanted (v.) some form of municipal 市政的；市的 government, they were determined that /their Chinese counterparts 职位相当的人；对应的人 should not be included.  +
+These Europeans feared that /any such proposals 提议；建议 for representation would involve  (v.) giving too much power to the Chinese of Hong Kong, which #not only# might harm (v.) British interests   #but might also# help the Qing *take control of*  Hong Kong.  +
+
+*#Nor#* were there *#ever#* any serious demands (n.) from the Chinese community.  +
+
+[.my2]
+而且，华人社区也从未提出过任何严肃的要求。
+
+[.my1]
+.案例
+====
+.#Nor# were there #ever# any serious demands from the Chinese community.
+这里使用了 倒装 (Inversion)。是 #*否定词位于句首, 引发的部分倒装。*#
+
+- 倒装规则：#*当否定副词, 或具有否定意义的词语置于句首时，句子需要进行部分倒装，即将助动词/情态动词/系动词,提到主语之前。*#
+- #*Nor：这是一个表示“也不”的否定连词，用于连接两个否定句，其本身含有强烈的否定意义。当它用于句首时，必须触发倒装。*#
+- Ever：在倒装句中，##**ever的位置从 never中拆出，**##放在了倒装的助动词 were之后、主语 there之前，这是此类倒装的常见语序。
+
+正常语序：*There were never*​ any serious demands from the Chinese community. +
+或者：*There were not*​ ever any serious demands...
+
+又例: (否定词位于句首, 引发倒装. #*倒装是为了：强调否定.*#)
+
+[.my3]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|1.由 Nor (也不) 或 Neither (也不) 引导
+|- I have never been to Japan, #*nor​* do I have# any plans to visit. (我从未去过日本，也没有任何计划要去。)
+- The first solution is not viable, #*neither* is#​ the second one. (第一个方案不可行，第二个也是。)
+- He didn’t like the movie, #*nor* did#​ his wife. (他不喜欢那部电影，他妻子也不喜欢。)
+
+|2.由 Never (从未) 引导
+|- #*Never​*# _in my life_ #have I​ seen# such a beautiful sunset. (我一生中从未见过如此美丽的日落。)
+- #*Never​*# before #had​# the company #faced​# such a severe crisis. (这家公司以前从未面临过如此严重的危机。)
+
+|3.由 Rarely, Seldom, Hardly (很少/几乎不) 引导
+|- #*Rarely​* does he# express (v.) his true feelings. (他很少表露真情实感。)
+- #*Seldom​* have we# encountered such a challenging problem. (我们很少遇到如此棘手的问题。)
+- #*Hardly​* had I# closed my eyes when the phone rang. (我几乎刚闭上眼睛，电话就响了。)
+
+|4.由 Not only (不仅) 引导 (需与 but also 呼应)
+|- #*Not only*​ is she# a brilliant scientist, but​ she is also​ a talented musician. (她不仅是一位杰出的科学家，还是一位有才华的音乐家。)
+- #*Not only*​ did he# finish the project on time, but​ he also exceeded all expectations. (他不仅按时完成了项目，还超出了所有人的预期。)
+
+|5.由 Under no circumstances, In no way (在任何情况下都不) 等否定短语引导
+|- #*Under no circumstances*​ should you# open that door. (在任何情况下你都不应打开那扇门。)
+- #*In no way*​ can this# result be considered acceptable. (这个结果绝不能被认为是可接受的。)
+
+|6.由 Not until (直到…才) 引导
+|- #*Not until*#​ he apologized /#did​ she# agree to speak to him again. (直到他道歉，她才同意再次和他说话。)
+- #*Not until*#​ midnight /#did the noise# finally stop. (直到午夜，噪音才终于停止。)
+
+|7.由 Little (几乎不/毫不) 引导
+|- #*Little​* did he# know that his life was about to change forever. (他毫不知情，自己的生活即将永远改变。)
+- #*Little​* does she# realize how important this decision is. (她几乎没意识到这个决定有多重要。)
+|===
+
+====
+
+
+
+
+Rather, `主` most calls for constitutional 宪法的；章程的 reform `谓`  came from European merchants who felt that /the government needed to protect the interests of the European community /and be more like the colonial governments in Canada, Australia, and New Zealand.
+
+[.my1]
+.案例
+====
+After this there were few calls for representation.  +
+Although local European merchants wanted some form of municipal government, they were determined that their Chinese counterparts should not be included.  +
+These Europeans feared that any such proposals for representation would involve giving too much power to the Chinese of Hong Kong, which not only might harm British interests but might also help the Qing take control of Hong Kong.  +
+Nor were there ever any serious demands from the Chinese community.  +
+Rather, most calls for constitutional reform came from European merchants who felt that the government needed to protect the interests of the European community and be more like the colonial governments in Canada, Australia, and New Zealand.
+此后，要求代表权的呼声寥寥无几。尽管当地欧洲商人希望建立某种形式的市政机构，但他们坚决反对将华人纳入其中。这些欧洲人担心，任何此类代表权提案都会赋予香港华人过大的权力，这不仅可能损害英国的利益，还可能帮助清政府控制香港。此外，华人社群也从未提出过任何实质性的要求。相反，大多数宪政改革的呼声都来自欧洲商人，他们认为政府需要维护欧洲社群的利益，并更像加拿大、澳大利亚和新西兰的殖民地政府。 +
+====
+
+

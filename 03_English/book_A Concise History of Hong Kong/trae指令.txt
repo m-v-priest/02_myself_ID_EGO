@@ -1,0 +1,89 @@
+
+我当前文件中的内容是类似下面这样的: 一段英文, 一段中翻译, 英文和中文之间可能有空行, 也可能没有空行.
+
+Interwar Hong Kong is sometimes characterized as a sleepy colonial backwater, particularly when compared with Shanghai, the “Paris of the Orient.” This image overlooks how during the 1920s and 1930s Hong Kong was drawn more tightly than ever into the orbits of Chinese, British imperial, and world history.  +
+The revolutionary nationalism in China ushered in an era of strikes and boycotts, both in China and in Hong Kong.  +
+两次世界大战之间的香港有时被描述为一个沉睡的殖民地边陲之地，尤其与“东方巴黎”上海相比更是如此。这种印象忽略了20世纪20年代和30年代香港比以往任何时候都更加紧密地卷入了中国、英国帝国和世界历史的漩涡之中。中国的革命民族主义开启了罢工和抵制运动的时代，中国内地和香港都出现了罢工和抵制运动。 +
+
+
+Because of the various interparty and provincial rivalries in China, Hong Kong was more affected than ever by events on the mainland—especially by the turbulent developments in neighboring Guangdong.  +
+Not only was the city of Canton ruled by several successive regimes, but it also became a center for Chinese Communism.  +
+
+由于中国各党派和省份之间的纷争，香港比以往任何时候都更容易受到大陆局势的影响，尤其是邻近广东的动荡局势。广州不仅经历了数个政权的更迭，还成为了中国共产主义的中心。 +
+
+
+
+
+你来进行改造: 把文中内容变成这样:
+
+
+
+
+Interwar 两次世界大战之间的 Hong Kong is sometimes characterized 被描述；被定性 as a sleepy 沉寂的；慵懒的 colonial 殖民地的 backwater 落后闭塞的地区, particularly 尤其；特别 when compared with Shanghai, the “Paris of the Orient.” This image 形象；印象 overlooks 忽略；忽视 how during the 1920s and 1930s Hong Kong was drawn 被卷入；被纳入 more tightly than ever into the orbits 轨道；势力范围 of Chinese, British imperial 帝国的；帝国主义的, and world history.  +
+
+
+The revolutionary 革命的 nationalism 民族主义 in China ushered 开启；迎来 in an era 时代；时期 of strikes 罢工 and boycotts 抵制, both in China and in Hong Kong.  +
+
+
+[.my1]
+.案例
+====
+Interwar Hong Kong is sometimes characterized as a sleepy colonial backwater, particularly when compared with Shanghai, the “Paris of the Orient.” This image overlooks how during the 1920s and 1930s Hong Kong was drawn more tightly than ever into the orbits of Chinese, British imperial, and world history.  +
+The revolutionary nationalism in China ushered in an era of strikes and boycotts, both in China and in Hong Kong.  +
+两次世界大战之间的香港有时被描述为一个沉睡的殖民地边陲之地，尤其与“东方巴黎”上海相比更是如此。这种印象忽略了20世纪20年代和30年代香港比以往任何时候都更加紧密地卷入了中国、英国帝国和世界历史的漩涡之中。中国的革命民族主义开启了罢工和抵制运动的时代，中国内地和香港都出现了罢工和抵制运动。 +
+====
+
+
+Because of the various interparty 政党间的 and provincial 省的 rivalries 竞争；敌对；派系斗争 in China, Hong Kong was more affected than ever by events on the mainland—especially by the turbulent 动荡的；混乱的；骚乱的 developments in neighboring Guangdong.  +
+
+Not only was the city of Canton ruled by several successive 连续的；相继的；接替的 regimes 政权；政体；统治制度, but it also became a center for Chinese Communism.  +
+
+
+[.my1]
+.案例
+====
+Because of the various interparty and provincial rivalries in China, Hong Kong was more affected than ever by events on the mainland—especially by the turbulent developments in neighboring Guangdong.  +
+Not only was the city of Canton ruled by several successive regimes, but it also became a center for Chinese Communism.  +
+
+由于中国各党派和省份之间的纷争，香港比以往任何时候都更容易受到大陆局势的影响，尤其是邻近广东的动荡局势。广州不仅经历了数个政权的更迭，还成为了中国共产主义的中心。 +
+====
+
+
+
+
+
+也就是说: 将原始的英文和对应的中文, 放在
+
+[.my1]
+.案例
+====
+
+====
+
+里面.
+
+
+然后, 将英文部分在[.my1] 行上方重复一遍, 但要变成:加上单词释义的样子. 即要求是:
+
+
+
+1. 给英文原文中的难点单词, 加上单词释义.  注意: 小学, 初中水平的简单英语单词都不需要加上释义. 
+
+比如原文是: ① Talking peace suddenly means talking about places like this—this lunar landscape, a titanium mine struggling under the Russian bombardment of Ukraine’s power grid, sometimes with only three hours of power a day. +
+
+请你变成这样: ② Talking peace 谓 suddenly means talking about places like this — this lunar 月球的；月亮的 landscape 景观, a titanium 钛 mine 矿，矿井 struggling under the Russian bombardment 轰炸；炮击 of Ukraine’s power grid 电网, sometimes with only three hours of power 电力 a day. +
+
+即在英文原文里,把里面的重要单词 (比如托福词汇, 雅思词汇, gre词汇, 专业术语), 惯用语(比如 make a big deal of sth), 短语(比如 go through, take part in 这样的短语动词等等), 后面直接跟上牛津高阶双语学习词典中的中文解释. 即把上面的 ①, 变成 ② 这样的形式. 在原文中这样展示就行了.  注意: 不要再重复输出这个单词, 直接在原始单词后跟上中文释义就行了.
+
+注意: 某单词的中文释义, 如果只用一个中文词组来解释, 意思不精确的话, 你就用多个中文词组来解释. 比如 tactic 单词, 中文释义需要多个词组来解释成"策略；手段；招数", 你就不要只给出仅一个"策略"的释义, 而要写全这些多个中文词组来释义. 即不要只写为"tactic 策略", 而要写成"tactic 策略；手段；招数". 单词的中文解释不需要用小括号括起来. 也不需要再在文章最后单独列出每个单词的释义.
+
+
+3. 执行上面的改造操作时, 注意不要遗漏任何英文原文. 一定要记住这一点, 不要遗漏任何英文原文的内容.
+
+4.我给出的英文, 里面带有asciidoc代码符号, 比如 ==, -, ., +, * 符号等等, 保留所有这些符号! 不要删掉!  
+
+5.不要出现中文标点符号. 即用标点时只用英文标点, 而不要出现，。这些中文标点符号.
+
+6.输出的内容不要做格式上的渲染, 即不要有加粗, 斜体等存在, 就普通纯文本格式输出就行了.
+
+7.每一段落之间, 要加两个空行.
