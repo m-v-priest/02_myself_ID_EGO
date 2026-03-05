@@ -1,5 +1,5 @@
 
-我当前文件中的内容是类似下面这样的: 一段英文, 一段中翻译, 英文和中文之间可能有空行, 也可能没有空行.
+我当前文件中的内容是类似下面这样的(注意,下面只是案例, 只是举例而已): 一段英文, 一段中翻译, 英文和中文之间可能有空行, 也可能没有空行.
 
 Interwar Hong Kong is sometimes characterized as a sleepy colonial backwater, particularly when compared with Shanghai, the “Paris of the Orient.” This image overlooks how during the 1920s and 1930s Hong Kong was drawn more tightly than ever into the orbits of Chinese, British imperial, and world history.  +
 The revolutionary nationalism in China ushered in an era of strikes and boycotts, both in China and in Hong Kong.  +
@@ -67,7 +67,7 @@ Not only was the city of Canton ruled by several successive regimes, but it also
 
 
 
-1. 给英文原文中的难点单词, 加上单词释义.  注意: 小学, 初中水平的简单英语单词都不需要加上释义. 
+1. 给英文原文中的难点单词, 加上单词释义.  注意: 小学, 初中水平的简单英语单词都不需要加上释义.
 
 比如原文是: ① Talking peace suddenly means talking about places like this—this lunar landscape, a titanium mine struggling under the Russian bombardment of Ukraine’s power grid, sometimes with only three hours of power a day. +
 
@@ -80,10 +80,12 @@ Not only was the city of Canton ruled by several successive regimes, but it also
 
 3. 执行上面的改造操作时, 注意不要遗漏任何英文原文. 一定要记住这一点, 不要遗漏任何英文原文的内容.
 
-4.我给出的英文, 里面带有asciidoc代码符号, 比如 ==, -, ., +, * 符号等等, 保留所有这些符号! 不要删掉!  
+4.我给出的英文, 里面带有asciidoc代码符号, 比如 ==, -, ., +, * 符号等等, 保留所有这些符号! 不要删掉!
 
 5.不要出现中文标点符号. 即用标点时只用英文标点, 而不要出现，。这些中文标点符号.
 
 6.输出的内容不要做格式上的渲染, 即不要有加粗, 斜体等存在, 就普通纯文本格式输出就行了.
 
 7.每一段落之间, 要加两个空行.
+
+现在正式开始, 对我当前的页面内容, 进行改造.
