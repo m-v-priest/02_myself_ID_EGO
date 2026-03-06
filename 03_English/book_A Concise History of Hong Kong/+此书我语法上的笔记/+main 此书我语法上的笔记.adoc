@@ -1,0 +1,837 @@
+
+
+= ++ 此书我语法上的笔记
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: ../../../myAdocCss.css
+
+'''
+
+
+倒数上去处理, 002-09 未完
+
+
+== 介词后+ 名/动名词
+
+=== sample
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|`主` #Caldwell#, who accepted bribes 贿赂；行贿财物 and *was suspected (v.) of*  running brothels 妓院 and *associating with*  pirates 海盗, `谓` #did not speak# _the Hakka 客家人 dialect_ 方言 `后定说明` spoken by many of Hong Kong’s Chinese residents.  +
+
+[.my2]
+考德威尔收受贿赂，并且被怀疑经营妓院、勾结海盗，但他却不会说香港许多华人居民所讲的客家话。
+|我问:
+
+这里的三个动词,  +
+accepted 用了 -ed 是表示被动吗 (被接受贿赂)?   +
+running 用了 -ing 是表示主动吗 (主动开妓院)?  +
+associating 用了 -ing 是表示主动吗 (主动和海盗有联系)?
+|===
+
+▶ DeepSeek
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|who *accepted* bribes
+|accepted 不是被动，是“一般过去时”. 这里 accepted 是谓语动词. +
+
+如果是"被动语态", 必须是 be + 过去分词 (如 was accepted)。这里只有 accepted，前面没有 be动词 (was, is等)。
+
+|and was suspected of *running* brothels and *associating with* pirates
+|#*这两个 -ing 形式 跟在介词 of后面*# (suspected #of# runn**ing**... and associat**ing**...)。##**介词后面必须接"名词性成分"，**##所以这里的 running 和 associating"**#是动名词#**" (Gerund)，相当于名词，表示“经营妓院”和“与海盗交往”这两件事情。
+|===
+
+所以, 这三个动词都是主动语态, 而非"被动语态". 如果是被动语态, 就要说成下面这样:
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|主动 |被动
+
+|who *accepted* bribes
+|who *was accepted* bribes
+
+|*running* brothels
+|*being run* brothels
+
+|*associating with*  pirates
+|*being associated with* pirates
+|===
+
+https://xxx[]
+'''
+
+== -ing 现在分词 : 表(同步)伴随, 结果
+
+=== sample
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|Gutzlaff’s weak command 控制；管辖；指挥 of 对……的掌握；精通程度 Chinese `谓` led him to mistranslate (v.)误译；错译 government proclamations 公告；宣言；声明, sometimes *resulting in* _violent, even fatal 致命的；灾难性的, altercations_ (n.)争吵；争辩；冲突 between the colonial government and the Chinese community.
+|我问: 这里为什么用的是 -ing形式的 *resulting in* violent, 而不是 *resulted in* violent ?
+|===
+
+▶ DeepSeek:
+
+用 *resulting in* , 其实是"现在分词短语"作结果状语.
+
+为什么用 resulting in(现在分词) 而不是 resulted in(谓语动词)？ +
+两者的区别在于句子结构和逻辑重心：
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|如果使用 resulted in：
+|Gutzlaff’s weak command... led him to mistranslate..., and #(it) sometimes *resulted in*# violent... altercations...
+
+##**这会将 resulted 升级为另一个并列的谓语动词。**##句子结构变成：A led to​ B, and​ (A) resulted in​ C。
+
+#*逻辑上，这会暗示有这两个独立的事件:*# "A -> 导致了B",  和 "A -> 导致了C", #*即 B 和 C 是独立不相关的两个事件.*# 但事实上, 原文中, B 和 C 是有因果关系的, 并非是独立不相干的关系.
+
+|使用 resulting in(现在分词短语)：
+|这**在语法上明确将 resulting in...标记为状语，修饰前面的整个主句事件**（即“他的中文差, 导致他误译”这件事）。
+
+#*即它建立了一个递进的因果链： +
+A(中文差) -> 导致了B(误译) -> 进而又导致了C(争吵矛盾)*#
+
+因此, resulting in...强调“\(C) 冲突”是前一个动作 ((B) mistranslate) 所自然而然引发的、附带产生的后续结果，而非与“(B) 误译”并列的独立结果。
+|===
+
+
+总结：-ing 现在分词短语,作结果状语:
+
+- 形式：#*主句 (陈述主要事件), resulting in + 名词​ (表示该事件所导致的自然结果)。*#
+- 功能：表示主句所述动作或情况所直接、必然引发的后续结果或影响。这种结果往往是非预期的、负面的或伴随性的。
+
+例:
+
+- The earthquake struck (v.) the city, *destroy##ing##* countless buildings. (地震袭击了城市，摧毁了无数建筑。) — “摧毁”是“地震袭击”的直接、伴随性结果。
+- He made a critical error in judgment, *cost##ing##* the company millions. (他判断上犯了一个严重错误，让公司损失了数百万。) — “损失”是“犯错”导致的直接后果。
+
+
+
+.我又问: 如果 -ing 现在分词能作"结果状语", 那么 -ed 过去分词, 能做"结果状语"么?
+
+▶ DeepSeek:
+
+##**-ed 过去分词（done）通常不能独立作“结果状语”，但它可以作“伴随状语”**##或“方式状语”。
+
+##**虽然这两者（-ing 作结果 vs. -ed 作伴随）在中文翻译上可能都译成“导致……”，但在英语语法逻辑上，-ing 强调“主动产生”，-ed 强调“被动承受”。**##这是你刚才那句 resulting in violent altercations 绝不能换成 resulted in 的根本原因。 +
+
+#*-ed 分词作状语时，通常描述"主句宾语所处的状态"，或者描"述动作发生时的背景环境"。它不表示“导致新结果”，而是表示“在……状态下完成动作”。*#
+
+#**结构：S + V + O, + done...(O 是 done 的逻辑主语，且 O 与 done 是被动关系)
+**#
+
+例句对比:
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|#-ing# 现在分词 (doing), #表"结果"#​ |#-ed# 过去分词 (done)​,#表"伴随/方式"#
+
+|##其逻辑主语​是: "主句的主语##或整个事件"
+|#其逻辑主语​是: 主句的宾语#​ (极少数是主语)
+
+|- He fired the gun, #*killing*# a bird. +
+他开了一枪，打死了一只鸟。 +
+
+(他用 -ing) ##**killing是结果状语。逻辑主语是 He。**##动作：他开枪 → 导致​ 鸟死了（主动产生新事件）。
+|- He fired the gun, #*aimed*# at the bird. +
+他开了一枪，枪口瞄准了那只鸟。 +
+
+(他用 -ed) #*aimed是伴随状语。逻辑主语是 the gun*#​ (枪被瞄准)。动作：他##**开枪时，枪是处于被瞄准状态的**##（描述工具状态）。 +
+
+|
+|- The boy ran out of the house, #*followed*# by his dog. +
+男孩跑出屋子，后面跟着他的狗。  +
+
+(经典 -ed 伴随) #*followed 的逻辑主语是 the boy*#​ (男孩被狗跟随)。动作：#*男孩跑出来，同时伴随着“被狗跟”这个状态。*#
+|===
+
+
+
+
+'''
+
+=== sample
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|When Bowring proposed (v.) a bill 法案；议案 in 1856 /allowing Chinese to practice 从事；执业 law, `主` #a European member# of _the Legislative Council_  `谓`  #objected# 反对；不赞成, #arguing that# /the Chinese “are _a peculiar 独特的；怪异的 race_ of people, and ... are generally crafty (a.)狡猾的；狡诈的, corrupt (a.), mendacious (a.)撒谎的；不诚实的, and deficient (a.)缺乏的；不足的 in those qualifications 资格；条件 which are needed in _a trustworthy 可靠的；值得信赖的 legal adviser_.” +
+|a European member ... `谓`  objected, #arguing# that …
+
+我问: 这里  arguing that  中的 -ing现在分词, 不是表示结果 那它表示什么?
+|===
+
+
+▶ DeepSeek:
+
+这里的 arguing that...​ 绝对不是结果状语。它表示的是伴随情况或方式，具体来说，是解释性伴随状语。
+
+#*虽然我们之前说过, -ing 可以表示"结果状语". 但在本句中, objected(反对)​ 和 arguing(争辩)​ 是同步发生的。这位议员不可能先“反对”（拍桌子喊“我不同意！”），然后过一会儿才“争辩说中国人狡猾”。他一定是在反对的那一刻，同时说出了这番理由。因此，这是"伴随"，不是"结果"。*#
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|-ing 表结果
+|- He mistranslated, *resulting in*​ a fight. (先“误译”，后“导致”打架)。
+
+在时间上，结果状语​ (resulting in) 是表示主句动作完成之后， 才发生的后续、自然结果（时间有先后）。
+
+|-ing 表伴随
+|- a European member ... `谓`  objected (v.), #arguing# that …
+
+时间上, objected 和 arguing 是同时关系.
+
+##**为了体现这种“伴随方式”，翻译时最好用“并”、“同时”**## 或冒号“：”来连接。
+
+当宝宁（Bowring）在 1856 年提出一项法案（该法案允许华人执业法律）时，立法局的一位欧洲籍成员表示反对，##**并争辩说**##中国人“是一个特殊的种族，……普遍狡猾、腐败、虚伪，且缺乏那些（被需要的）素质（这些素质是一位可信赖的法律顾问所必需的）。”
+|===
+
+
+
+'''
+
+== 倒装 : only+状语”位于句首时，其后要用部分倒装
+
+=== sample
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|#*Only*# after 1883, when Governor Bowen convinced 说服 the Colonial Office 殖民部 to let him nominate (v.)提名；推荐 three _unofficial Legislative Council members_, one of whom would be Chinese, #*was there*# always a Chinese member on the Legislative Council.  +
+
+[.my2]
+直到1883年，鲍文总督说服殖民地办事处允许他提名三名非官方的立法会议员，其中一名将是中国人，立法会才一直有一名华人议员。
+|was there always a Chinese member on the Legislative Council. 这里was there 为什么要用倒装?
+|===
+
+这里使用倒装, 是因为句子以 “Only after 1883”​ 这个表示时间的状语开头。
+
+#*在英语中，当句首状语由 “only + 副词/介词短语/从句”​ 构成时，句子通常需要采用"部分倒装"结构。也就是说，助动词（如 was）要提到主语（there）之前。*#
+
+- 正常语序（逻辑顺序）：
+There was always a Chinese member on the Legislative Council /only after 1883. +
+（直到1883年之后，立法局才一直有华人成员。）
+
+- 倒装语序（为了强调时间状语）：
+*Only after 1883​ /was there* always a Chinese member... +
+（强调“直到1883年”这个时间点之后，情况才发生改变。）
+
+'''
+
+== 倒装: as do/does/did + 主语" ，表达“与……情况相同
+
+=== sample
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|After 1845, the registrar general 户籍总监；总务官 had the right to enter (v.) any house `后定说明`  inhabited 居住于；栖居于 by Chinese; all Chinese households 家庭；户 *had to be registered* (v.)登记；注册 with the government, #as did# Chinese servants 仆人；佣人 working for Europeans.  +
+
+[.my2]
+1845年以后，登记官有权进入任何华人居住的房屋；所有的中国家庭都必须在政府登记，为欧洲人工作的中国仆人也是如此。
+|我问: 这里 as did Chinese servants working for Europeans. 用了倒装么 (as do/does/did + 主语),  为什么?
+|===
+
+▶ DeepSeek:
+
+确实使用了倒装结构。 这是一种常见的、为了避免重复而采用的"比较状语从句倒装"。
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|倒装过程还原：
+|正常语序 (不省略，不优美)：as Chinese servants working for Europeans also had to be registered.
+
+为避免重复，用助动词 did替代前面相同的谓语部分：#as Chinese servants# working for Europeans also #did#. (此处的 did替代了 had to be registered)
+
+为强调“同样”, 并符合##*“as + 助动词 + 主语”的倒装习惯*##，将助动词 did提前到主语 Chinese servants之前，形成倒装：#as did Chinese servants# working for Europeans.
+
+|为什么用倒装？
+|避免重复，使行文简洁：这是最主要的功能。*从句的主语 (Chinese servants) 和主句的主语 (all Chinese households) 不同，但谓语部分 (had to be registered) 完全相同。用助动词 did替代整个谓语，再用倒装结构引出新的主语.*
+
+#*这种 "as do/does/did + 主语" 的结构, 在学术、法律、历史等正式文体中非常常见，用以表达“与……情况相同”。*#
+
+例:
+
+- He is an excellent student, #as is his sister#.​ (他是个优秀的学生，他姐姐也是。)
+- The company expanded (v.) rapidly last year, #as did its main competitor#.​ (该公司去年扩张迅速，其主要竞争对手同样如此。)
+- She enjoys (v.) classical music, #as do I#.​ (她喜欢古典音乐，我也喜欢。)
+|===
+
+
+
+
+
+
+
+
+
+▶ gemini:
+
+是的，这里使用了 部分倒装 (Partial Inversion)。 +
+#*具体结构是：as + 助动词 (do/does/did/have/can) + 主语。*#
+
+为什么要倒装？
+
+- 避免重复： 为了承接前句的谓语动词，避免再说一遍 had to be registered。 即 did 是一个代动词，它代替了前文提到的动作：had to be registered。
+
+- 句式平衡： *##在 as 引导的这种"比较或类比从句"中，##如果主语*（Chinese servants working for Europeans）*比较长，把动词 did 放在前面会让句子读起来更稳重，不会“头重脚轻”。*
+
+- 正常语序  ...#as# Chinese servants #did#.
+- 倒装语序  ...#as did# Chinese servants...
+
+又例:
+
+- He believed in the project, #*as did*# most of his colleagues. (他相信这个项目，他的大多数同事也是如此。) +
+→ #did 代替了 believed。#
+
+- The city was beautiful, #*as were*# the surrounding mountains. (这座城市很美，周围的山脉也是如此。) +
+→ 这里##因为前文是 was，所以后面用 were 匹配复数主语。##
+
+
+
+'''
+
+== was/were doing
+
+=== sample
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|By the 1870s, graduates 毕业生 *were acquiring (v.)获得；习得 jobs* with local trading houses 商行；商号；交易行, in the Chinese treaty ports 通商口岸, in Japan, and in the United States.
+
+[.my2]
+到19世纪70年代，毕业生在当地贸易公司、中国通商口岸、日本和美国找到了工作。
+|我问: 这里为什么用了  were acquiring 进行时?
+|===
+
+
+▶  +
+强调“正在获得”的过程. *作者想表达的是，在 19 世纪 70 年代这个时间段里，毕业生们 ##正在陆续地、持续地​ 获得##这些工作机会*。这不仅仅是一个“他们找到了工作”的静态结果，而是一个 动态的、正在发生​ 的趋势。
+
+- 如果用 acquired​ (一般过去时)：只表示“他们获得了工作”，是一个 "完成"​ 的动作，不强调过程。
+- 用 were acquiring​ (过去进行时)：表示“他们 "正在"​ 获得工作”，描绘了当时毕业生就业市场 活跃​ 的场景，暗示这是一个 持续进行​ 的现象。
+
+#*时间背景：By the 1870s​ (到 19 世纪 70 年代为止) 这个时间状语，通常与 "进行时"​ 或 "完成时"​ 搭配，表示到某个时间点为止，某个动作或状态 "一直在持续"​ 或 "正在发生"。*#
+
+'''
+
+== 独立主格, 做状语
+
+=== sample
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|In 1877 the police magistrate 地方治安官；法官 estimated (v.) that /only _one out of every six_ 每六人中就有一人 Chinese women in Hong Kong were either married or concubines 妾；姨太太, #the rest _being prostitutes_#.
+|我问: 为什么用 the rest being prostitutes 而不是 the rest were prostitutes？
+
+|===
+
+▶ DeepSeek:
+
+the rest being prostitutes 这是一个状语，用来补充说明前面主句的情况。它本身不是一个完整的句子，而是依附于主句存在的附加信息。
+
+the rest being prostitutes 也是独立主格.  +
+the rest (逻辑主语) + being (现在分词，表状态)。
+
+因为在英语中，一个句子只能有一套主谓结构（这里是 the police magistrate estimated that...），不能再插入另一个完整的句子（如 the rest were...），否则就构成了串句错误 (Run-on Sentence)。*#这样就变成了两个独立的句子#*（The police `谓` magistrate estimated...和 The rest `系` were prostitutes...）#*，但中间却只用了一个逗号连接。这在标准英语语法中是错误的，必须用分号（;）或句号（.）断开，或者加上连接词（如 and）。*#
+
+
+▶ gemini:
+
+作者之所以不写 the rest were prostitutes，是因为他不想把这句话变成两个平等的句子，而是想让后半部分像一个**“补充挂件”**一样，紧紧跟随在前半部分的描述之后。
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|"独立主格"结构的"公式":
+|#*[名词/代词] + [非谓语动词 / 形容词 / 副词 / 介词短语]*#
+
+这种结构不需要连词（如 and），也不需要完整的谓语动词。它的作用是为前面的主句提供补充说明、背景信息或对比。
+
+- 在 the rest _being prostitutes_ 中： +
+The rest 是这个小结构的逻辑主语。 +
+*Being 是现在分词，表示一种状态。*
+
+
+|独立主格的“独立性”到底在哪里？
+|它的“独立”主要体现在 逻辑主语 上。
+
+请看这个对比：
+
+- 普通分词短语：#Missing the bus#, I was late.
+(逻辑主语是 I，必须和主句主语一致。)
+- 独立主格：#The bus having left#, I had to walk.
+(独立主格的主语是 The bus，主句主语是 I。它们各玩各的，互不干扰，这就是“独立”。)
+
+|独立主格的作用
+|#*独立主格在句子中通常充当“状语”，负责交代以下信息：*#
+
+- 时间：The class over (课结束后) → we went to the canteen.
+- 原因：There being no bus (因为没车了) → we took a taxi.
+- 条件：Weather permitting (如果天气允许) → the game will be held.
+- 伴随/状态：He stood there, his head down (他站在那，低着头).
+
+|避坑指南
+|1.*##千万别加连词：独立主格和主句之间只能用逗号。如果你加了 and，它就变成了“并列句”，##动词就得变回 were 或 was。*
+
+- × The sun rising, and (错!) the fog disappeared.
+- √ The sun rising, the fog disappeared.
+
+2.#*动词不能是谓语：独立主格里的动词必须是“非谓语形式”（V-ing, V-ed 或 Being）。*#
+
+- × The sun rose, the fog disappeared. (这叫“逗号连接两个句子”，是语法错误。)
+
+下面才是正确的用法:
+
+- *The sun rising*, the fog disappeared. (太阳升起，雾散了。) #名词 + V-ing#
+- *The job finished*, we went home. (工作完成了，我们回家了。) #名词 + V-ed#
+- He sat there, *his eyes red*. (他坐在那，眼睛红红的。) #名词 + Adj.#
+- *The meeting over*, everyone left. (会议结束，大家都走了。) #名词 + Adv.#
+- The boy ran,** a stick in hand**. (男孩跑着，手里拿着棍子。) #名词 + Prep#
+|===
+
+
+
+'''
+
+
+== 省略
+
+
+
+=== sample
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|Des Voeux #argued that# /the colony’s security 安全；保障 *depended on* the health of its soldiers and police /#and that# `主` the system was the only way ① *to keep* girls *from* being sold into prostitution 卖淫；娼妓业, ② check (v.)抑制；控制 the spread of venereal 性病的 diseases, ③ and *keep* (v.) brothels 妓院 *from* spreading into the more respectable  parts of town.  +
+
+[.my2]
+Des Voeux辩称，殖民地的安全, 取决于其士兵和警察的健康状况，而这一制度是防止女孩被卖入娼门、遏制性病传播以, 及阻止妓院蔓延到镇上更体面区域 的唯一途径。
+|我问:这句中, check  the spread of 和 and keep brothels from spreading 前面是不是省略了 to ? 完整的应该是 ** to check**  the spread of 和 *and to keep* brothels from spreading ? 这里为什么要省略to?
+|===
+
+
+▶ DeepSeek:
+
+这里确实省略了 to，这是一种非常典型的并列结构省略。
+
+原句的核心结构是：the only way *to do A, (to) do B, and (to) do C*.
+
+A: to keep girls from being sold into prostitution +
+B: (to) check the spread of venereal diseases +
+C: (to) keep brothels from spreading into the more respectable parts of town
+
+
+##**省略规则：当多个不定式（to do）由 and​ 或 or​ 连接，且它们共享同一个逻辑主语（这里是 the system）时，通常只在第一个不定式前保留 to，后面的 to​ 可以省略，**##使句子更简洁流畅。
+
+
+虽然省略很常见，但在以下两种情况，通常建议把 to 写回来：
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|1.动作跨度太长
+|如果第一个动作和第二个动作之间隔了十几个单词，读者可能忘了前面有个 to，这时补上 to 能提醒读者：“嘿，这还是那个‘方式’的一部分。”
+
+|2.强调对比
+|如果你想强调这两个动作是截然不同的两回事，重复 to 会更有力度。 即##**为了强调每一个动作的独立性和重要性，或者为了形成排比句式,以增强气势，通常会保留所有的 to。**## +
+
+- The purpose of this program is *to educate* the public, *to raise* awareness, and *to promote* action.  +
+#*保留三个 to, 强调了这三个目标是同等重要且并列的，而不是一个笼统的“目的”。*#
+- He wanted *to live* and *to win*. (他不仅想活着，他还想赢。重复 to 表达了双重的决心。)
+
+|3.当省略会导致歧义时（避免误读）
+|如果省略 to后，后面的动词可能被误认为是句子的谓语动词（即主句的动词），或者与前面的介词结构混淆，则必须保留 to。
+|===
+
+'''
+
+== 被动句, 还是系表句?
+
+=== sample
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|By *asking for* permission *to form (v.) a society* to stop kidnapping, the Chinese elites were trying to distinguish (v.)区分；辨别 between kidnapping and the mui-tsai system, thus attempting to preserve (v.)保留；维护 a custom   in which _they  were `表` so heavily invested_ (a.). +
+
+[.my2]
+中国精英阶层请求获准建立一个制止绑架的社会，试图将"绑架"与“妹仔”制度区分开来，从而努力维护一种他们投入甚多的习俗。
+|我问: 这里 they were so heavily invested. 为什么有个 were? 难道是被动么?  为什么不写成 they invested so heavily ?
+|===
+
+
+▶ DeepSeek:
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|这里是一个系表结构
+|这里的 were invested​ 并不是被动语态，而是一个“系动词 + 形容词”​ 结构，表示一种状态。 +
+invested：是过去分词转化来的形容词，意思是“投入的、涉入很深的”。
+
+- They were invested (a.). (他们投入很深。)
+
+原句 a custom in which they were `表` so heavily invested (a.)  +
+应理解为： 一种他们（的利益）深陷其中/与之深度绑定的习俗。​ 或更通顺地译为：一种他们与之利害攸关的习俗。
+
+这里的 were​ 是系动词，与形容词化的过去分词 invested​ 构成系表结构，*描述一种深度牵连的状态，而非被动语态，也非主动的“投资”行为。*
+
+
+|为什么不写成 :
+they `谓` invested (v.) so heavily ?
+|这意为“他们主动地、在某个时间点投入了大量（金钱、精力等）”，*这描述的是一个"主动"的投资行为，而不是他们身处其中、与之利益捆绑的"持续状态"。*
+|===
+
+
+
+
+▶ gemini:
+
+这里的 be invested in 并不是我们常说的“被投资”，而##**是一种形容词化的用法，**##表示**“投入了巨大的心力/利益”或“深度参与/利益攸关”**。
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+| 表达方式 | 侧重点
+
+| They were `表` so heavily invested (a.) (状态)
+| ##**侧重于状态。**##强调他们此时此刻正处于一种“泥足深陷”或“利益紧绑”的局面中。
+
+这里用 were invested 是为了表达：这群精英阶层已经和这个制度（妹仔制度 mui-tsai）利益捆绑得太深了，他们已经身处其中，无法轻易脱身。
+
+| They `谓` invested (v.) so heavily (主动)
+| ##**侧重于动作。**##强调他们“投入”了金钱或时间这个行为。
+|===
+
+想象一下你开了一家奶茶店，不仅投了钱，还花了三年心血，连全家人的生计都指望它。
+
+- 如果说 "I invested (v.) in the shop"，就像是在说：“我往店里投了钱。”（听起来只是个买卖）
+- 如果说 "I am heavily invested (a.) in the shop"，意思就是：“这家店就是我的命，我跟它是一体的。”（这是一种深度绑定的状态）
+
+你可以把它看作系表结构。
+
+'''
+
+=== sample
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|After a series of studies on _whether 是否 the system constituted (v.)构成；组成 slavery_ 奴隶制, the matter *went to* the British _House of Lords_ 上议院, which agreed that /the colonial  government should not *interfere (v.)干涉；干预 with customs* #that were `表`  so deeply ingrained (a.)根深蒂固的;使根深蒂固 in Chinese society.# +
+|我问:  这里 that *were so deeply ingrained*  in Chinese society 中, ingrained 这个词既可以做动词, 也可以做形容词, 那么 were  ingrained 是理解成"被动句"好, 还是理解成 "系表结构"好? 理由是什么?
+|===
+
+
+▶ grok:
+
+(1). “deeply ingrained” 是固定搭配，几乎总是形容词用法. 又如:
+“deeply ingrained habit / prejudice / belief / custom / tradition” +
+“deeply ingrained in Chinese society / in our culture / in his character” +
+
+*这个结构在现代英语里出现频率极高，母语者几乎不会把它理解成被动语态。*
+
+(2). #*更重要的是，英国上议院讨论的重点不是“某人把习俗刻进了中国社会”，而是“这些习俗在中国社会里已经根深蒂固到难以撼动”的 状态。*#
+
+(3). 语法测试（很直观的方法） +
+可以把句子做以下替换测试，看是否自然：
+
+- 原句部分 : customs that were so deeply _ingrained_
+
+-> 把 ingrained 换成其他更明显的形容词, 我们来看看句子意思是否合理:
+
+- customs that were so deeply _rooted (a.)根深蒂固的；生根的 / entrenched (a.)根深蒂固的；确立的，不容易改的 / established_ (a.)确立已久的，早已投入使用的
+
+替换后, 意思也完全自然. → 能顺畅替换成其他形容词 → 说明原句本身就是系表结构.
+
+-> 再替换成更明显的被动结构:
+
+- customs that *were so deeply implanted / instilled / embedded* by someone 不自然，语义变了
+- customs that *had been so deeply ingrained* 勉强，但很别扭
+
+▶ gemini:
+
+在这个句子中，##**作者并不是想表达“某人”在那个瞬间把习俗“植入”了社会，而是描述这些习俗已经存在了很久、已经成为了社会DNA的一部分。**##ingrained 在这里修饰 customs，描述其“不可磨灭”的属性。
+
+
+▶ ChatGPT:
+
+如果是纯形容词，通常会： +
+- 不带典型动词搭配 +
+- 不明显体现“被谁做”
+
+- 如果是动作型被动，通常更自然的是：had been ingrained +
+因为“被植入”是一个先发生的动作。
+- 但这里用 simple past “were”，更符合：描述当时存在的状态 +
+
+*英语里大量 V-ed 结构处于一个“灰色地带”*： +
+The door is closed.（状态） +
+The door was closed.（可能是动作，也可能是状态） +
+
+*区分关键永远是：语境是否强调“发生了什么”, 还是强调“处于什么状态”*
+
+
+
+'''
+
+== would have been 用来表达一种与"过去事实"相反的假设或推测
+
+=== sample
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|_Sedan-chair 轿子 carriers_ 搬运工；运送者 and _rickshaw 人力车；黄包车 pullers_ 拉车的人 refused to carry visiting (a.)访问的，参观的 American _Secretary of War_ William Taft (who, weighing (v.) more than three hundred pounds, #*would have been*# a very heavy load 重负；负荷；装载量 indeed) and his entourage 随行人员；随从.  +
+
+[.my2]
+轿夫和人力车夫, 拒绝搭载来访的美国战争部长威廉·塔夫脱（他体重超过300磅，确实会是一个非常沉重的负担）及其随行人员。 +
+|我问: 这里为什么写成 would have been a very heavy load , 而不是 would be a very heavy load ?
+
+|===
+
+
+
+▶ DeepSeek:
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|① “would have been”：表示##**过去的可能性（但实际没发生）**##。
+|#*这里使用 “would have been”​ 而不是 “would be”，是因为作者在描述一个基于历史事实的“反事实假设”。这种用法被称为 “虚拟语气”（Subjunctive Mood），用来表达一种与过去事实相反的假设或推测。*#
+
+这句话的逻辑是：因为轿夫们拒绝了抬他，所以他实际上并没有被抬。 +
+#*假设：如果轿夫们真的抬了他，那会是什么情况？
+“would have been”​ 正是用来描述这种 “如果当时发生了，那就会是…”​ 的虚拟情况。它暗示了这件事实际上并没有发生。*#
+
+例：
+
+- If you had carried​ him, #it would have been#​ a heavy load. （如果你当时抬了他，那本来会是个重担。）—— 实际上没抬。
+- If I had known you were in town, #I would have invited you# to dinner. 要是我当时知道你在城里，我本来会邀请你吃饭的。  <- 描述过去本可以做但没做的事，带有强烈的惋惜情绪。#*表示“遗憾”或“后悔”（最常见用法）*#
+- #She would have been a great doctor# if she hadn't given up her studies. 如果她没有放弃学业，她##**本来会**##成为一名出色的医生。 <- 事实是“她放弃了学业”，所以“她没成为医生”。这是对过去选择的假设。
+
+- Given the traffic jam, #he would have been late for the meeting# anyway. 考虑到堵车，他多半是开会迟到了。 <- *#表示“推测”或“判断”. 对过去某个不确定的情况进行逻辑推断，语气比“must have been”更委婉。#*
+- #It would have been a disaster# if we had followed his advice. 要是我们当时听了他的建议，那绝对会是一场灾难。<- 事实是“我们没听他的建议”，所以避免了灾难。这是对过去另一种可能性的评价。(#*对过去某个未发生或未体验的事情进行评价*#)
+
+- #I would have called you#, but my phone ran out of battery. 我**本来想**给你打电话的，但手机没电了。 <- 事实是“手机没电了”，所以“我没打电话”。前半句表达了我当时的意图。(#*表示“过去的意愿”. 描述过去本打算做但没做成的事。*#)
+
+|② “would be”：表示##**"现在或将来"的可能性**##（可能发生，也可能不发生）。
+|- 例：If you carry him, #it would be#​ a heavy load. （如果你抬他，那会是个重担。）—— 抬不抬还不确定。
+|===
+
+#*总之, “would have + 过去分词”​ 永远指向过去。它就像一台“时光机”，让我们回到过去，去想象一个与现实不同的平行世界。只要你想表达“本来可以…”、“要是…就好了”、“想必当时…”，这个结构就是你的首选。*#
+
+
+▶ Gemini:
+
+首先, would been 在英语语法中是不存在的。would 是一个情态助动词，它后面必须紧跟一个动词原形。
+
+这里其实这涉及到了虚拟语气（Subjunctive Mood）.
+在英语中，#*表示“过去本会……”或“当时可能是……”的结构是：would + have + 过去分词 (done/been)*#
+
+- #It would have been# very heavy. 推测： “如果我刚才搬了，那本来会很沉的。” (事实： 你没搬那个箱子。)
+
+回到原文： +
+事实： 轿夫和黄包车夫拒绝了载他（所以他们并没有实际感受到那个重量）。而如果他们真的抬了，那对他们来说本来会是一个极其沉重的负担。
+
+
+
+'''
+
+== having done =  after sb. had done (表示先发生的一件事, 作为"还有一件后发生事情"的背景说明,或原因解释)
+
+=== sample
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|Sun 孙中山 did not mention (v.) this part, but, #*having observed*# (先发生) 观察；目睹 the anti-French strikes   of 1884, #he knew# (后发生) that Hong Kong would provide a favorable   environment  for his revolutionary activities.
+|我问: 这里having observed 这种语法形式, 表达的是什么意味?
+|===
+
+
+
+▶ ChatGPT:
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|having done <- 描述事情的背景情况
+|现在分词的完成式, #*这种结构表示一个"已经完成的先行动作"，通常带有"原因"或"背景"意义。即有“先时性”​ 和 “因果逻辑”。*#
+
+(#*-ing 往往表示同时发生, 但如果你要把该动作放到过去呢? 就用 -ing的完成时: having done*#)
+
+Sun did not mention this part, but, #having observed# 观察；目睹 the anti-French strikes   of 1884,  he #knew# that Hong Kong would provide a favorable environment for his revolutionary activities.
+
+因为##**他观察过1884年的反法罢工，所以他知道香港会成为有利的革命环境。也就是说：having observed → 表示"先发生的原因背景"**##
+
+即时间线是:
+
+------having observed (先观察.这个动作是作为后来事情的背景)-----he knew (后知道) --------------
+
+|为什么不用普通的 observing？
+|为什么不写成  #observing# (v.) the anti-French strikes of 1884,  #he knew that#...
+
+如果写：observing the anti-French strikes of 1884 +
+#*语义会变得模糊，因为 -ing 分词通常表示： +
+- 1.同时发生 +
+- 2.或一般背景*# +
+
+*但作者想表达的是：先观察这个事件 → 然后形成认识. #这两件事是有时间先后顺序的. 所以要用 having done (A事件,背景事件)，明确表示：A已经完成，然后才发B动作。#*
+
+
+可以把结构展开成完整句： +
+- because he *had observed* the anti-French strikes of 1884 +
+- 或者：after he *had observed* the anti-French strikes of 1884 +
+
+所以：## *having observed = because / after he had observed*##
+
+又例: +
+- #Having finished# (先发生) his studies, he #returned to# China (后发生) .
+= After he had finished his studies. +
+- #Having read# (先发生) the report, she #changed# her opinion (后发生).
+= After she had read the report. +
+- #Having lost# (先发生) the war, the empire #collapsed# (后发生).
+= After it had lost the war.
+
+历史写作很喜欢这种 完成式分词， +
+因为它能把一整句：Because he had observed… +
+压缩成两个词：Having observed
+|===
+
+'''
+
+== other word
+
+
+==== shall : 在法律英语中，shall用于表示强制性的规定或义务。
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|It also allowed any European “acting as a Sentry or Patrol /at any time *between* the hour of Eight in the Evening /*and* Sunrise” /to “fire (v.) upon, with intent or effect to kill 意图或结果致其死亡, any Chinaman /#whom# he shall _meet with_ 将要遇到 or _discover (v.) abroad_ 发现其在户外的 /#and whom# he shall have reasonable ground 有合理理由 *to suspect of* being so abroad _for an improper purpose_  (以那样的状态) 在户外是出于不当目的的 , #and `主` who# (指中国人) 状 being challenged by him 经欧洲人盘问后 /`谓` shall *neglect or refuse to make proper answer* 忽略或拒绝作出适当回答的 to his challenge”.
+
+[.my2]
+该法令也允许任何欧洲人（“在晚上八点, 至日出期间的任何时间, 担任岗哨或巡逻任务时”）可以“向任何华人（该华人是他将要遇到,或发现其在户外的，并且他有合理理由怀疑"其在户外是出于不当目的"的，并且该华人经他盘问后，忽略或拒绝作出适当回答的）开枪射击，意图或结果致其死亡”。
+|
+|===
+
+
+##**这三个由 whom... and whom... and who...引导的定语从句，**##层层递进地规定了“可以射杀”的华人所必须同时满足的三个苛刻条件：1) 在户外被遇到；2) 被合理怀疑目的不轨；3) 经盘问后不配合。 它们共同修饰 any Chinaman. #*体现了法律条文为严密定义适用对象, 而牺牲可读性的特点。*#
+
+
+[.]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|to “fire (v.) upon..., any Chinaman...”
+|“向……开枪射击，……任何华人”​
+
+|with intent or effect to kill
+|意图或结果致其死亡。 +
+法律术语，涵盖“主观故意杀人”和“客观致人死亡”两种情况。
+
+|定语从句1 (修饰Chinaman)：whom he shall meet with or discover abroad
+|(该华人) 是他将要遇到或发现其在户外的​ (限制性定语从句，设定条件)
+
+- abroad：在此处是古旧用法，意为 “在户外、在外、不在室内”，而非“在国外”。
+- shall：##**在法律英语中，shall用于表示强制性的规定或义务。**##此处三个 shall都用于定语从句中，表示“将会（遇到）”、“应有（合理理由）”、“应（忽略或拒绝）”，带有法律规定的确定性。
+
+
+|定语从句2 (并列修饰Chinaman)：and whom he shall have reasonable ground to suspect of being so abroad for an improper purpose,
+|并且 (该华人) 他有合理理由怀疑其 (以那样的状态) 在户外是出于不当目的的​ (并列定语从句，进一步设定条件)
+
+
+
+|定语从句3 (并列修饰Chinaman)：and who being challenged by him shall neglect or refuse to make proper answer to his challenge.
+|并且 (该华人) 经他盘问后，忽略或拒绝作出适当回答的。​ (并列定语从句，设定最终条件)
+
+
+- being challenged：“在被盘问的情况下”。这是一个现在分词短语的"被动式"，作定语从句中的时间/条件状语。
+- proper answer：适当的回答。指符合盘问者要求的回答，解释权在盘问者。
+|===
+
+我继续问: 这里的三个后置定语, 前面两个都用了 whom, 为何最后一个用的是who? 即 #who# being challenged by him ?
+
+#*前两个用 whom （是who 的宾格），因为它们在从句中作宾语；最后一个用 who，因为它在从句中作主语。*#
+
+[.]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|[定语从句1]：...any Chinaman #whom​# he shall meet with or discover abroad...
+|- 结构：he(主语) + shall meet with or discover(谓语动词) + #whom​# (宾语)。
+- 作用：*whom 是及物动词 meet with 和 discover的宾语。因此必须用宾格 whom。*
+
+|[定语从句2]：...and #whom​# he shall have reasonable ground to suspect of being so abroad...
+|- 结构：he(主语) + shall have reasonable ground to suspect(谓语) + whom​ (动词 suspect的宾语) + of being...(宾语补足语)。
+- 作用：*whom是动词 suspect 的宾语。因此必须用宾格 whom。*
+
+|[定语从句3]：...and `主` #who​# being challenged by him `谓` #shall neglect (v.) or refuse# to make proper answer...
+|- *being challenged* by him​ 是一个现在分词短语的被动式，在从句中**作状语，表示“在被盘问的情况下”。**它修饰从句的主语，但不充当谓语。
+- 从句的核心**谓语是：shall neglect (v.) or refuse to make...**
+- #*这个核心谓语需要一个主语。这个主语就是关系代词 who。*#
+
+从句的核心骨架其实是：#[who] shall neglect (v.) or refuse# to make proper answer...
+|===
+
+
+'''
