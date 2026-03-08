@@ -755,6 +755,68 @@ Sun did not mention this part, but, #having observed# 观察；目睹 the anti-F
 
 '''
 
+=== sample
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|*#Having sent#* (先发生) more than two hundred thousand laborers 劳工；工人 *to* Europe during the war, China *#hoped#* (后发生) to regain (v.) control of the German concessions 租界 in Shandong.  +
+|我问: Having sent 这个时态, 表达什么意味?
+|===
+
+
+
+“Having sent” 是现在分词的完成时态​ (Perfect Participle)，其核心作用是明确##**表达一个发生在主句动作之前的、且已完成的行为，并强调这两个动作之间的因果或时间先后关系。**##
+
+*"#Having done#" 是英语中的非谓语动词"完成形式"（分词完成式），表示##该动作,在主句谓语动作之前,已完成，##具有##"主动"意义##。它常在句中作时间、原因状语，##强调动作的"先后顺序"或"因果关系"，##意为“（在）做完某事之后”或“由于做过某事”。*
+
+#*它所描述的动作 (sent) 先于​ 主句动作 (hoped) 发生，并且是主句动作发生的原因或背景。*#
+
+又例:
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|作时间状语（#*表先后*#）：表示##**主句动作发生在 having done 之后。**##
+|- *Having finished his homework*, he went out to play. （做完作业后，他出去玩了。#*= After*# he had finished...）
+做完作业后，他出去玩了。 （做完作业后，他出去玩了。=他完成后...）
+
+|作原因状语（#*表因果*#）：表示##**因为之前完成了某事。**##
+|- *Having lived here for years*, she knows the place well. （因为在这里住了很多年，她很了解这个地方。#*= Because*# she had lived...）
+
+|作宾语（动名词完成式）：跟在某些动词或介词后。
+|- He denied *having stolen the money*. （他否认偷过钱。）
+|===
+
+常见错误：尽量避免使用 "after having done"，在强调先后时，单独使用 "having done" 或 "after doing" 即可。
+
+
+关键点：
+
+- 动作顺序：having done 的动作发生早于谓语动作。
+- 主动与被动：having done 是主动，被动形式为 having been done。
+- 时间状语位置：通常放在句首，需注意主语一致性。
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|如果换成 Sending ...
+|*Sending* (v.) more than two hundred thousand laborers..., China hoped... +
+#*会模糊时间关系，可能暗示“派遣”与“希望”同时发生，削弱了“先贡献，后求回报”的因果逻辑。*#
+|===
+
+
+
+
+
+'''
+
 == other word
 
 
