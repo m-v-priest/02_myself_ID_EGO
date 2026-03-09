@@ -315,6 +315,219 @@ There was always a Chinese member on the Legislative Council /only after 1883. +
 - The city was beautiful, #*as were*# the surrounding mountains. (这座城市很美，周围的山脉也是如此。) +
 → 这里##因为前文是 was，所以后面用 were 匹配复数主语。##
 
+'''
+
+== 虚拟语气
+
+=== insist (v.) sb do (必须用原形)
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|The two *denounced* 谴责；指责 the strikers *as* selfish 自私的 and ignorant 无知的, #insisting# that /the colonial government #ban# 禁止 all unions and #not “retreat# 退却；让步 one inch.”
+|我问: 这里 ban 和 retreat  为什么不写成 to ban 和 to retreat ?
+
+|===
+
+
+▶ DeepSeek:
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|1.因为 动词 insist后接宾语从句时，需要使用"虚拟语气"。
+|#*动词 insist意为“坚持要求、坚决主张”，当它表示坚持某个要求、主张或决定（而非坚持某个事实）时，其后所接的 that宾语从句必须使用 虚拟语气。 +
+虚拟语气的形式是：(should) + 动词原形。 +
+在正式英语，尤其是美式英语中，should常常被省略，直接使用动词原形。*#
+
+原句结构： +
+...insisting [​ that the colonial government ban​(v.) all unions /and (should) not “retreat”​(v.) one inch ].
+
+|2.用 to do 的话, 语义也不准确
+|insist在此表示“坚决要求”（一个未发生的动作），这触发了虚拟语气的使用规则。#*不定式 to do虽然也表示未发生，但它常用于表示"(可做可不做的)目的、意图"或将来的动作，而不具备"虚拟语气"所要求的"强制性(必须做)"、主张性含义。*#
+
+所以, 使用 to do 不定式会削弱“坚持要求”的强制性和正式性。虚拟语气 (should) ban 有“必须禁止、务须禁止”的强制性期望。
+|===
+
+
+
+在翻译时，需要把这种“要求、必须”的虚拟语气含义译出: +
+这两人谴责罢工者自私无知，并##坚决主张（要求）##​ 殖民政府##必须##取缔所有工会，且不得“后退一寸”。
+
+
+
+▶ 网上的说明
+
+https://barshai.org/thoughts/mastering-the-subjunctive-mood-in-english/
+
+#*这种后面必须用"动词原形"的虚拟语气, 除了insist 外, 还有哪些动词? 还有以下这些含有"建议/要求/命令/敦促"意思的:*#
+
+- (v.) #*suggest, advise, propose, recommend, order, demand, insist, require, urge, command*#
+- (a.) #*important, necessary, essential, vital (至关重要的，必不可少的), urgent, desirable (令人向往的，值得拥有的；可取的；性感的), imperative (极重要的，必要的；命令的，强制的；祈使的), mandatory (强制性的，义务的)*#
+
+即: 虚拟语气有两种:
+
+虛擬語氣 第①种 : +
+##**用於表達"必要、重要、願望、建議、命令、要求"等非實際或不確定的情況。句中名詞子句的動詞, 通常使用"原形"，即使其主語是第三人稱單數。**## +
+例如：”It is #crucial# that he #be# present.。
+
+除此之外，不管虛擬語氣的主要子句的時態，名詞子句只用動詞原形。
+
+以下列出使用虛擬語氣的常見形容詞：
+
+- #重要的(關鍵的)#：important, imperative, vital, crucial, critical
+- #必要的#：essential, necessary, mandatory (強制的)
+- #迫切的#：urgent
+- #建議的(明智的)#：advisable, wise
+- #期盼與願望#：desirable (理想的, 令人渴望的), preferable (更好的、更可取的)
+- #評斷#：beneficial (有益的), fitting (適當的), proper (適當的), right (正確的), good (好的)
+
+- #建議# – suggest (建議) / propose (提議) / advise (勸告) / recommend (推薦)
+- #要求# – ask / demand / require / request
+- #堅持# – urge (力勸, 催促) / insist (堅持) / persist
+- #命令# – command / order
+- #規定# – rule / stipulate
+- #偏好、期望、希望# – prefer (較喜歡) / expect (期望)
+
+
+例:
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|表建議的例句
+|- I #suggest# that you #take# a vacation. 我建議你去度假。
+- He #proposes# that we #meet# earlier to discuss the plan. 他建議我們早點見面來討論計劃。
+- She #proposed# that the committee #consider# a new approach. 她建議委員會考慮一種新的方法。
+- She #advised# that he #take# a break from work. 她建議他暫時放下工作休息一下。
+- I #recommend# that you #read# this book for more insight into the topic. 我推薦你閱讀這本書，以深入了解這個話題。
+
+|表要求的例句：
+|- The regulations #require# that all employees #be# trained annually. 規定要求所有員工每年接受培訓。
+- The situation #requires# that we #act# with caution. 情況要求我們謹慎行事。
+- She #asked# that he #arrive# no later than 10 AM. 她要求他最遲在上午 10 點到達。
+- The protestors #demanded# that the law #be# changed. 抗議者要求改變法律。
+- He #demands# that the work #be# completed by the end of the day. 他要求工作在一天結束前完成。
+- She #requests# that guests not #wear# shoes inside the house. 她請求客人在屋內不要穿鞋。
+
+
+|表堅持的例句：
+|- They #insisted# that she #attend# the meeting. 他們堅持讓她參加會議。
+- They #insist# that we #be# present at the meeting. 他們堅持要我們出席會議。
+- The doctor #urges# that he #quit# smoking immediately. 醫生強烈建議他立即戒煙。
+- They #urge# that we #act# now to prevent further damage. 他們催促我們現在就採取行動，以防止進一步的損害。
+
+|表命令與規定的例句：
+|- The judge #orders# that the evidence #be# presented immediately. 法��命令立即呈現證據。
+- The commander #ordered# that the troops #withdraw# at once. 指揮官命令部隊立即撤退。
+- She #suggests# that he #take# a vacation. 她建議他去度假。
+- They #insisted# that she #attend# the meeting. 他們堅持讓她參加會議。
+
+|表偏好的例句：
+|
+- I #prefer# that you not #mention# this matter to anyone. 我希望你不要向任何人提及此事。
+- He #prefers# that we #handle# the situation ourselves. 他希望我們自己處理這種情況。
+- We #expect# that she #be# present at the meeting. 我們期望她出席會議。
+- The company #expects# that all employees #adhere# to the code of conduct. 公司期望所有員工遵守行為準則。
+|===
+
+
+- It is #important# that he #be# on time.
+- It is #critical# that they #find# a solution to the problem soon.
+他們盡快找到問題的解決方案, 至關重要。
+- It is #mandatory# that he #report# to the office by 9 AM.
+他必須在上午 9 點之前到辦公室報到。
+- It is #urgent# that they #evacuate# the building as soon as possible.
+當務之急是他們盡快撤離大樓。
+- It is #imperative# that the government #act# quickly to resolve the crisis.
+政府迅速行動解決危機是迫切的。
+- It is #advisable# that they #reserve# their tickets in advance.
+建議他們提前預訂門票。
+- It is #wise# that they #consult# a lawyer before signing the contract.
+他們在簽署合同前諮詢律師是明智的。
+- It is #desirable# that he #submit# his application early.
+他最好儘早提交申請。
+- It is #preferable# that you #arrive# before noon.
+您最好在中午之前到達。
+- It is #fitting# that they #be# recognized for their hard work.
+他們因為辛勤的工作而被認可, 是適當的(與期望、情境或常理是相符合的)。
+- It is #proper# that he #apologize# for his mistake.
+他為自己的錯誤道歉是適當的(與遵守社會規範、禮儀或行為準則有關)。
+- It is #right# that she #receive# fair treatment.
+她得到公平待遇是正確的(偏重於道德上或法律上的正義和公平)。
+- It is #good# that we #be# aware of environmental issues.
+我們意識到環境問題是件好事。
+- It is #beneficial# that students #participate# in extracurricular activities.
+學生參加課外活動是有益的。
+
+虛擬語氣 第②种: +
+假設語氣 – “如果……會怎樣”的句型。有幾種類型，包括表示條件句，現在非事實、過去非事實條件與未來非事實的假設(實際上發生的事跟自己所說的相反)，根據if子句的類型，時態和形式會有所不同，可能涉及過去式、過去完成式、未來式等。
+
+- I wish I were a bird.
+
+
+'''
+
+=== sample
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|But the seamen always insisted that /the strike was economic and not political (although this was a common justification 正当理由；辩护 for strikes, in Hong Kong and elsewhere, and Su Zhaozheng and Lin Weimin later joined the Chinese Communist Party). +
+
+[.my2]
+但海员们始终坚称，此次罢工是出于经济诉求，而非政治目的（尽管这在香港及其他地区是罢工的常见说辞，而苏兆征与林伟民后来也加入了中国共产党）。
+|我问: 这里  insisted that the strike was  中, insisted 不是虚拟语气吗? 后面为什么不用动词原形 be, 而用了 was?
+|===
+
+
+
+
+▶ DeepSeek:
+
+它揭示了 insist这个词的两种不同含义，以及随之而来的两种完全不同的语法规则。
+#*核心区别在于：insist在这里的含义是“坚称、坚称一个事实”，而不是“坚持要求”。*#
+
+insist有两个主要意思，分别对应两种不同的从句结构：
+
+[.samll]
+[options="autowidth" cols="1a,1a,1a"]
+|===
+|insist的含义 |语法结构 (that 从句)|
+
+|1.坚持要求​ (提出主张或命令)
+|虚拟语气：insist that sb **(should) do** sth
+|坚持（要求）…必须做某事
+
+(坚持要求 → 虚拟语气)：
+
+- The leader #insisted# that​ the meeting #be​# postponed. +
+领导坚持要求会议必须推迟。(这是一个命令或要求)
+
+|2.坚称事实​ (申明一个观点或事实)
+|陈述语气：insist that sth **is/was** ...
+|坚称（认为）…是…
+
+(坚称事实 → 陈述语气)：
+
+- The leader #insisted# that​ the meeting #was​# unproductive. +
+领导坚称，那次会议是没有成效的。(这是一个观点或事实陈述)
+
+|===
+
+如何快速判断用哪种语气？
+一个简单的判断方法是：看 insist后面的内容是否为一个可以“执行”的“动作”或“命令”。
+
+- 如果是动作/命令​ (如“禁止工会”、“推迟会议”、“加工资”)，则用虚拟语气 (动词原形)。因为这是在要求某人去做某事。
+- 如果是状态/事实/观点​ (如“罢工是经济性的”、“会议没成效”、“他是无辜的”)，则用陈述语气 (正常时态)。因为这是在陈述一个情况。
 
 
 '''
@@ -343,6 +556,121 @@ There was always a Chinese member on the Legislative Council /only after 1883. +
 - 用 were acquiring​ (过去进行时)：表示“他们 "正在"​ 获得工作”，描绘了当时毕业生就业市场 活跃​ 的场景，暗示这是一个 持续进行​ 的现象。
 
 #*时间背景：By the 1870s​ (到 19 世纪 70 年代为止) 这个时间状语，通常与 "进行时"​ 或 "完成时"​ 搭配，表示到某个时间点为止，某个动作或状态 "一直在持续"​ 或 "正在发生"。*#
+
+'''
+
+
+=== was/were (not) doing (焦点在"事情的性质"(价值判断)) VS  did/didn't do (焦点在"事情的存在与否"(事实判断))
+
+
+
+Stubbs _in particular_ 特别地,尤其,特别是 has often *been criticized for* not understanding (v.) the political situation in China *and for* failing to differentiate (v.)区分；辨别 between Chinese nationalism 民族主义 and Communism 共产主义, but #he was not necessarily exaggerating# 夸大；夸张 the extent 程度；范围 of these influences from Canton. +
+
+
+[.my2]
+尤其是 Stubbs，经常被批评不了解中国的政治局势，也未能区分中国民族主义与共产主义，但他对来自广州的这些影响程度的描述，未必是夸大其词。
+
+[.my1]
+.案例
+====
+.我问:这里为什么用的是 he was not necessarily exaggerating 而不是 he didn't necessarily exaggerat ?
+
+
+▶ DeepSeek:
+
+[.my3]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|did not exaggerate (一般过去时):
+|仅仅陈述一个事实——“他没有夸大”。这是一个对行为结果的简单否定，不涉及行为过程或性质。
+
+|was not exaggerating (过去进行时)：
+|英语的进行时态, 常用来描述一个动作在特定背景下的"状态或性质"，而不仅仅是记录"动作的发生"。例如：
+
+- You are not helping.(你这不是在帮忙。) →#** 描述“你现在的行为”性质上是“无益的”，而非单纯说“你没帮上忙”。**#
+- He was not lying.(他当时没说谎。) → 强调“他当时说的话”在性质上是“真实的”，比 He didn't lie.更能捍卫他话语的性质。
+
+- He was not exaggerating. #*将焦点从“他这个人是否做了夸大这件事”, 转移到“他所作出的那个具体判断/陈述的性质”上。*#
+|===
+
+又例:
+
+[.my3]
+[options="autowidth" cols="1a,1a"]
+|===
+|did（一般过去时） |was/were + doing（进行时）
+
+
+|did/didn't do：##**客观陈述一个动作“做没做”。**##焦点是事实结果。
+|was/were (not) doing：描述或定性一个动作“在当时是怎样的”。##**焦点是行为过程的性质、**##方式或即时状态，常带有主观评价色彩。
+
+was/were (not) doing结构是英语中一个非常有力的工具，##**用于剥离行为本身，转而聚焦于行为的性质、**##意图或即时状态。在需要做出精细区分、定性评价或即时辩护的语境中（如学术批评、法律辩护、日常解释），它的表现力远超简单的一般过去时。
+
+|- The witness #didn't lie#.​ (证人没有说谎。)
+→ 客观陈述**“说谎”这个##动作没有发生##。**这是一个事实判断。
+|- The witness #was not lying#.​ (证人当时没说谎。)
+→ 描述“证人当时的陈述行为”的**#性质是#“诚实的”。**这是在为其证词的性质辩护。
+
+|- In that remark, you didn't help.​ (你刚才那句话没帮上忙。)
+→ 客观陈述“帮忙”这个##结果没有达成。##听起来更像一个中性的结果汇报。
+|- In that remark, you were not helping.​ (你刚才那句话不是在帮忙。)
+→ 评价“你说那句话的行为”*#性质上是#*“无益的、帮倒忙的”。焦点是言行的效果。
+
+|- I #didn't complain#.​ (我没有抱怨。)
+→ 只是陈述##“抱怨”这个动作没有发生。##缺乏对行为性质的即时界定。
+|- #I wasn't complaining#, just stating a fact.​ (我不是在抱怨，只是在陈述事实。) → 定义自己“刚才说话的行为”的##性质是“陈述”而非“抱怨”。##这是在即时澄清意图。
+
+|- He just #tried# to be funny.​ (他试了试想搞笑。)
+→ 客观陈述他“尝试搞笑”这个事实，不涉及其行为在当下情境中的性质。
+|- He #was just trying# to be funny.​ (他只是想搞笑一下。)
+→ 解释他“当时行为”的意图和##性质是##“出于幽默”，可能为冒犯性言语开脱。
+
+|- All those years, she #sacrificed# for the family.​ (那些年，她为家庭做出了牺牲。)
+→ 客观陈述“牺牲”这个事实，评价意味较弱。
+|-  All those years, she #was sacrificing# for the family.​ (那些年，她一直是在为家庭牺牲。)
+→ 将“她多年的行为”##定性为##一种“牺牲”，带有强烈的情感认同和评价。
+
+|- When you said nothing, you #agreed# by default.​ (你当时一言不发，就等于默认同意了。)
+→ 逻辑上与右边句相同，但听起来更像一个逻辑推论的结果，而非对行为本身的即时定性。
+|- When you said nothing, you #were agreeing# by default.​ (你当时一言不发，就等于默认同意了。)
+→ 将“沉默”这个行为状态##定性为##“默认同意”。这是对行为法律/道德性质的判定。
+|===
+
+▶ Gemini :
+
+[.my3]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|didn't exaggerate (一般过去时)： 听起来更像是在评价某**一个具体的、一次性的行为。**
+|was not exaggerating (过去进行时/状态描述)：暗示司徒拔当时对广州形势的"*持续性判断*". exaggerating 在这里不仅是动词，#它更像是在描述一种**“程度的准确性”**。#
+
+|He didn't exaggerate.  (#事实判断#) . 他没有说假话（非黑即白）。
+|He was not exaggerating.  (#性质评估#) . 他的描述（在当时那种语境下）并不算过分。
+
+|The doctor didn't exaggerate the illness. (他没说错。)
+|The doctor was not exaggerating the danger. (医生当时的这种危机感/描述状态，并不是在夸张。)
+|===
+
+
+
+▶ ChatGPT:
+
+有一个小语言感觉可以帮助理解： +
+- #*exaggerate 更像一个“动作”，*# +
+- #*而 exaggerating 更像一种“行为状态”。*#
+
+所以： +
+- He didn’t lie. （直接判断事实） +
+- He wasn’t lying. （强调当时的行为状态） +
+
+作者显然想表达第二种。
+
+
+====
 
 '''
 
@@ -812,6 +1140,120 @@ Sun did not mention this part, but, #having observed# 观察；目睹 the anti-F
 |===
 
 
+'''
+
+== will have done
+
+=== sample
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|Although any initial   sympathy for the strikers   *eventually   evaporated* 消失；消散, for many Europeans /the strike was a sobering 使清醒的；使冷静的；严重的;令人清醒的；发人深省的 experience.  +
+“#It will have done# some good,” 它会有一些好处 an English-language newspaper argued, “if it teaches (v.) us that /we are living in _a wholly   different world_ from that `后定说明` which existed (v.) before the war.” +
+|我问: 这里 It will have done some good 中用 will have done 语法上表达什么意味? 为什么不用其他时态?
+|===
+
+*It will have done* some good.
+
+image:../img/svg 003.svg[,%]
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+
+|▶ ChatGPT:
+|这里的 “It will have done some good” 看起来像个"未来完成时"，但它的味道其实比“未来”更微妙一点。##**英语里 "will have done" 有两种常见用法：① 一种是字面上的"未来完成时"（到未来某个时间点之前完成），② 另一种是"对已经发生的事情做一种推测或判断"。**##你的句子属于第二种，而且带一点修辞上的克制感。
+
+先看语境。报纸是在评论一次已经发生的罢工。事情已经过去，人们在回头评价它的影响。按最直接的说法，可以写成：
+
+- “It did some good.”
+
+但这样太直截了当，像是在宣布一个确定结论。评论文章往往喜欢稍微退一步，用一种“理性推断”的语气。于是写成：
+
+- “It will have done some good.”
+
+语义其实接近：
+“看来它多少还是起了一点作用。”
+“它大概还是带来了一些好处。”
+
+##**这种 will have done 表达的不是未来，而是一种"对过去结果的推断或判断"。**##
+
+如果把句子完全展开成更白话一点的英语，大概是： +
+It will have done some good /if it teaches us that we are living in a different world. +
+意思是：如果这件事能让我们意识到世界已经变了，那么它至少还是有点好处的。
+
+*这里的 if 其实说明：好处还不是确定的，而是一个可能产生的结果。*
+
+这就是为什么作者不用别的时态。
+
+#*如果写 did some good，语气太确定。 +
+如果写 will do some good，就变成纯粹的未来预测。 +
+而 will have done 给人的感觉是：事情已经发生，我们回头推断它的意义。*# +
+
+又如：
+
+- “*He will have forgotten* the appointment.”
+*意思不是“他将会忘记”，而是：
+他大概已经忘了。*
+
+- “The delay *will have caused some inconvenience*.”
+意思是：
+这次延误想必带来了一些不便。
+
+所以这种结构, 用来不把判断说死，而是用一种理性推断的口吻说出来。语言像一层礼貌的缓冲垫，让观点显得不那么武断。
+
+
+|▶ Gemini:
+|这里的 will have done 使用的是"将来完成时"（Future Perfect），但在这种引言语境下，它承载了比单纯“时间顺序”更复杂的修辞意味。
+
+#*will have done 的核心逻辑是：站在未来的某一个时间点，回过头来看现在发生的事情，并对其影响下定论。*#
+
+它的潜台词： “虽然现在这场罢工让我们很痛苦，但等这件事平息之后，##**当我们未来回想起这段日子时，我们会发现**##它终究还是产生了一些正面作用的。”
+
+为什么不用其他时态？
+
+-   It *does* some good.  (一般现在时) : 听起来像是在赞美罢工：“这件事现在就有好处。”（这显然不符合当时欧洲人对罢工的反感）。
+-   It *will do* some good. (一般将来时) *听起来像是一个预言*：“它以后会起作用。”（语气比较生硬、单薄）。
+-  It *will have done* some good. (将来完成时)  最为客观。 表达一种“事后看来（in retrospect）”的总结感，语气更加委婉,且具有前瞻性。
+
+
+语法层面的“推测”功能:
+在英语中，#*will have done*# 有时不仅仅指代时间，#*还带有一种“想必已经/想必届时会”的逻辑推测意味。*#
+
+例:
+
+- "*I will have dropped it* in the park."（**#想必我刚才#**一定是把钥匙掉在公园里了。）
+
+这里的报纸评论也是类似：
+“这场罢工##**想必最终会**##产生一些益处吧——只要它能让我们清醒过来。”
+
+|▶ DeepSeek:
+|这里 will have done并非字面意义上的“将来完成”（即到将来某个时间点已完成某事）。相反，**它是 “推测性 will”​ 与 “完成时”​ 的结合，#用于说话人在当下对一个已经发生的事件的结果、价值或意义, 进行推测、断言或评价。#**
+
+
+#*为什么用“将来完成时”来评论过去？ +
+这是一种特殊的修辞性用法。说话人将自己置于一个假想的未来回顾点，从这个视角来评判当下 (或刚刚过去) 的事件。它暗示： +
+“当我们 (在未来) 回顾这件事时，我们将会认识到，它 (到那时) 已经产生了好的影响。”*#
+
+- 肯定的推测：说话者 (报社) 确信罢工产生了一些积极后果。**will在这里表示"高度可能性"或"近乎肯定"的判断，类似 must have done，**但语气更委婉、更有预见性，而非事后的强力推断。
+- **评价"已完成事件"的价值：**这是在事件发生后，对其长远价值或教训进行评估。相当于说 “我们可以断定/有理由相信，这件事已经产生了一些好的效果。”
+
+与其它时态对比:
+
+- It *did* some good.​ (一般过去时):
+直接陈述事实，中性描述。
+
+- It *has done* some good.​ (现在完成时):
+#*强调对现在的影响。 而 will have done 则拉长了时间视角，强调了其影响的持续性和"未来"可验证性。*#
+
+
+
+|===
 
 
 
@@ -897,3 +1339,80 @@ Sun did not mention this part, but, #having observed# 观察；目睹 the anti-F
 
 
 '''
+
+=== consider (v.) doing sth
+
+
+Kuomintang 国民党 leaders and their Soviet 苏联的 advisors `谓` even considered attacking (v.) the International Settlement in Shamian.  +
+
+[.my1]
+.案例
+====
+.我问:这里为什么是considered attacking 而没用 considered  to attack?
+
+▶ ChatGPT:
+
+#*因为 consider 只有两个不同结构：*#
+
+- #*consider doing something 考虑做某事*# (consider 在“考虑做某事”这个意义上，英语几乎总是接 -ing。) +
+They considered (v.) moving to Shanghai.
+
+- #*consider someone/something to be…*#
+认为某人/某物是…… +
+They considered (v.) him to be unreliable.
+
+[.my3]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|
+|#*因为 consider 这个动词在表示“考虑做某事”时，英语有一个非常固定的搭配： +
+consider + doing something*#
+
+也就是说，consider 后面通常接动名词（-ing），而不是不定式 to do。
+
+*这个小语法点其实也反映了英语的一种思维习惯： +
+#-ing 形式常常表示一种“还停留在想法阶段”的动作#。*
+
+所以： +
+- consider *attacking* → 在脑子里权衡 +
+- decide *to attack* → 已经下决心
+
+|为什么不能说 considered to attack？
+|因为 consider + to do 是错的,  在英语里它通常是另一种结构：
+
+*consider + 宾语 + to do*
+
+例如：
+
+- They considered him to be a genius.
+他们认为他是个天才。
+- She is considered to be the best candidate.
+她被认为是最佳候选人。
+
+*这里的 to be 属于 宾语补足语结构，意思是“认为……是……”。*
+
+但如果没有宾语，只写：
+considered to attack +
+语法就不成立，因为 to attack 没有依附对象。
+|===
+
+
+▶ DeepSeek:
+
+动词 consider​ 表示“考虑、思考”时，后面如果要接一个动作，必须接动名词 (V-ing)​ 作宾语，不能接不定式 (to do)。
+
+- consider"#*仅仅停留在思考评估阶段，尚未形成决定"，所以用表示“事情本身”的动名词 doing。*#
+- 而decide/plan/hope都"#*表示思考后形成的确定意图或决定"，指向未来的具体行动，所以用表示“将要去做”的不定式 to do。*#
+
+在您的句子中，国民党领导人只是在“考虑、评估”攻击租界这个想法，并未最终决定实施，因此必须用 considered attacking。
+====
+
+
+
+
+
+
+
+
