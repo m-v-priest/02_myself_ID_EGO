@@ -995,6 +995,34 @@ were to be taken seriously (原文) +
 
 '''
 
+=== sample
+
+
+In response to 作为回应 so much pressure, in 1929 the Legislative   Council  passed (v.) an amendment 修正案；修订案 *stipulating 规定；明确要求 that* mui-tsai were to be registered (v.) and paid (v.) wages.  +
+
+[.my1]
+.案例
+====
+.mui-tsai were to be registered
+
+这里的 were to be registered是一个 #*“be + to do”​ 结构，在这里表示 “法律或规定要求必须做某事”，相当于中文的 “须”、“应”​ 或 “必须”。*#
+
+
+是不定式的被动形式，通常表示将来时间，指某个"被动动作", 在未来将被完成，常用于描述计划、安排或预期。它强调动作的**“被动性”和“将来性”，**即**“待办”、“即将被做”。**
+
+- There is much work *to be done*.  (有许多工作要做)。
+
+
+本句这种结构, 在描述法律、规章或正式指令时，*表示 “被规定/被要求去做”​ 或 “未来的安排/计划”。* +
+这里的 were to be强调了 “法律强制力”​ 和 “未来的义务”。它不是简单的“将要被登记”，而是 “根据法律，她们**有义务**被登记”。
+
+#*be to do（were to be registered）：带有 “指令性”​ 或 “计划性”，强调这是修正案 “规定”​ 的内容，是必须遵守的条款。*# +
+在翻译时，为了体现这种 “法律强制”​ 的语气，建议使用 “须”、“应”​ 或 “必须”​ 等词：
+====
+
+
+'''
+
 == 独立主格, 做状语
 
 === sample
@@ -1075,7 +1103,83 @@ The rest 是这个小结构的逻辑主语。 +
 - The boy ran,** a stick in hand**. (男孩跑着，手里拿着棍子。) #名词 + Prep#
 |===
 
+'''
 
+
+
+== 独立主格中, 省略系动词
+
+
+As the campaign *gained steam* (蒸汽,蒸汽动力) 壮大；增强势头 in Britain, _the Hong Kong Anti-Mui Tsai Society_ was founded   in 1921, its _organizing committee_ 委员会 almost all Chinese.  +
+
+
+[.my1]
+.案例
+====
+.这里 its organizing committee almost all Chinese 似乎没有谓语或系动词?
+
+▶ DeepSeek:
+
+its organizing committee almost all Chinese （其组织委员会几乎全是中国人） 确实是一个没有谓语动词的独立结构，这在英语语法中被称为 “独立主格结构” (Absolute Phrase)。
+
+逻辑主语 (Nominative Absolute)：its organizing committee +
+逻辑表语 (Predicative)：almost all Chinese +
+
+语法本质：它省略了系动词 being。完整的写法应该是： +
+its organizing committee (being) almost all Chinese
+
+为什么可以省略系动词？ +
+#*在"独立主格结构"中，being通常可以省略，尤其是在表示“伴随状态”或“补充说明”时。*#
+
+**这个独立主格结构在句中充当 “伴随状语”，**用来补充说明主句主语 the Hong Kong Anti-Mui Tsai Society的细节。
+
+又例:
+
+- He stood there, _his hands (being) in his pockets_.
+（他站在那里，双手插在口袋里。）
+- _The meeting over_, we all went home.
+（会议结束后，我们都回家了。）
+- He entered the room, _his face (being) red with anger_.
+（他走进房间，脸气得通红。）
+
+总结：这是一个典型的 “名词 + 形容词” 型独立主格结构，省略了系动词 being，用来描述主句动作发生时的伴随状态。
+
+▶ Gemini:
+
+##**"独立主格结构"中省略"系动词"（通常为 be 或 being）常见于“名词/代词 + 形容词/副词/介词短语”结构，用于描写伴随状态、原因或时间。**##这种省略使句子更紧凑，##**逻辑主语与主句主语不一致，**##
+
+- #All (being) ready#, we set off. 一切准备就绪，我们出发了。
+- He sat there, #eyes (being) closed#. 他坐在那里，闭着眼睛。
+
+#*独立主格由“独立主语 + 非谓语动词/形容词/副词/名词/介词短语”构成。当谓语部分是"系表结构"（系动词+表语）时，系动词常被省略。*#
+
+省略 be 或 being 的常见结构:
+
+[.my3]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|名词/代词 + 形容词
+|- _All (being) ready_, we started. (全准备好了，我们出发了。)
+-  She stood there, _her face (being) red_. (她站在那，脸红了。)
+
+|名词/代词 + 介词短语
+|- The teacher came in, _a book (being) in her hand_. (老师走进来了，手里拿着书。)
+- He left, _his heart (being) at ease_. (他离开了，心很安宁。)
+
+|名词/代词 + 副词
+|- _The meeting (being) over_, we all went home. (会议结束了，我们都回家了。
+
+|with/without 引导的独立主格
+|#当使用 with 或 without 引导时，同样可以省略 being。#
+
+-  _With all work done_ ( = With all work having been done), he went home. 所有工作完成后 ，他回家了。
+-  She sat there _with her eyes closed_ ( = with her eyes being closed). 她闭着眼睛坐在那里
+|===
+
+
+====
 
 '''
 
@@ -1731,9 +1835,100 @@ considered to attack +
 ====
 
 
+'''
+
+== with + 宾语 + -ed过去分词 ： 表示“伴随着...处于某种被动的状态”
+
+
+=== sample
 
 
 
+In 1939, Labour Officer  Butters reported that /_a tailoring  剪裁；裁缝业 establishment_ (机构；大型组织；企业；旅馆)服装加工店；制衣厂 was “*so* overcrowded *that* `主` #one male worker# `后定说明` engaged in 从事；忙于 ironing 熨烫 `谓` #was found# suspend##ed## (v.)悬挂；吊 from the roof on a beam 横梁 with his _ironing board_ 熨衣板 suspend##ed## (v.) in front of him.”
 
+[.my1]
+.案例
+====
+.我问:  这里为什么用的是  was found suspend##ed## from,  with his ironing board suspend##ed## 而不是 was found suspend##ing## from,  with his ironing board suspend##ing## ?
 
+▶ DeepSeek:
 
+这里使用 suspended（过去分词）而不是 suspending（现在分词），*是因为这两个动作（“工人被悬挂”和“熨衣板被悬挂”）都是"被动"发生的，而不是"主动"进行的。*
+
+[.my3]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|was found suspended from the roof
+|结构：#*find + 宾语 + -ed 过去分词 : 表示“发现某人/某物处于某种被动的状态”。*#
+
+- He was found #dead#.（他被发现死了。）→ 死是被动的结果。
+- He was found suspend##ed##.（他被发现被吊着。）→ 悬挂是被动的状态。
+
+|with his ironing board suspended in front of him
+|结构：#*with + 宾语 + -ed过去分词 ： 表示“伴随着...处于某种被动的状态”。*#
+
+- He stood there _with his hands ti**ed**_.（他站在那里，双手被绑着。）
+- He worked _with the board suspend**ed**_.（他工作，熨衣板被挂着。）
+|===
+
+为什么不能用 suspending？
+如果强行使用 suspending，句子意思会变得非常奇怪：
+
+- was found **suspending** from the roof：意味着工人被发现时，他正在主动地悬挂（某个东西）在屋顶上。这不符合逻辑，因为人不能“悬挂”一个动作。
+- with his ironing board **suspending** in front of him：**意味着熨衣板自己正在主动地悬浮。**这听起来像熨衣板有了生命，自己在飘浮。
+
+总结： +
+*suspended 强调“被悬挂”的静态结果，而 suspending 强调“正在悬挂”的主动动作。*​ 在这个句子中，无论是工人还是熨衣板，都是被外力置于空中的，因此必须使用表示被动的过去分词 suspended。
+
+▶ ChatGPT:
+
+英语会用 -ed过去分词, 来表达"结果状态"。
+
+语言在这里几乎像摄影一样：不是描述动作过程，而是直接把最终的姿态摆在你眼前。
+
+[.my3]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|one male worker engaged in ironing *was found suspend##ed## from the roof*
+|one male worker _engaged in ironing_ *was found suspended* from the roof +
+这里的 was found suspended 不是在描述他“正在把自己挂起来”，而是在描述被发现时的状态。
+
+所以逻辑其实是： the worker was in a suspended position
+
+#*英语常用 -ed 过去分词 表示这种“处于某种状态”。*# 被发现时 是挂在屋顶梁上的状态。
+
+类似的例子很多： +
+He was found _lying on the floor_. （强调动作姿态） +
+He was found _dead_. （状态） +
+He was found _trapped in the building_. （状态） +
+
+如果写成：✗ was found _suspending from the roof_  +
+语义就变成："他 正在把自己悬挂起来". +
+就像一个人正在执行动作：He is suspending (v.) the lamp.  +
+这显然不符合语境。
+
+|with his ironing board *suspended in front of him*
+|这里的 #*with + 名词 + -ed过去分词*#,  是英语非常常见的 with-结构，#*用来描述"伴随状态"。*#
+
+例： +
+He sat there _with his arms crossed_. +
+She stood _with the door closed_. 她关着门站着. +
+The man was lying _with his eyes shut_. +
+
+#*这些都不是"动作"，而是"状态"。*#
+
+所以：with his ironing board suspended in front of him
+意思是：他的熨衣板 吊在他面前。.
+
+如果改成： +
+✗ with his ironing board suspending +
+语义就变成：熨衣板 正在悬挂某个东西
+|===
+
+====
+
+'''
