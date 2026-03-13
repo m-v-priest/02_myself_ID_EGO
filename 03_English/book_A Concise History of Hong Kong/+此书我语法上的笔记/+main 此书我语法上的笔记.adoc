@@ -493,6 +493,7 @@ And only after `主`  the Chinese members of the Legislative Council `谓`   #*h
 
 == 倒装 / as + be + 主语 :​表示“也…”或“和…一样”
 
+=== sample
 
 Chinese were generally excluded from 被排除在...之外 most of these activities, #as 如同 were most Eurasians# (as late as the 1940s, for example, Chinese and Eurasians could not join the Cricket Club).  +
 
@@ -540,6 +541,37 @@ As did many others.* +
 这项改革没能让工人满意，之前的提案也是如此。
 |===
 
+====
+
+'''
+
+=== sample
+
+
+Fear and pragmatism 实用主义；务实精神 were _no doubt_ strong reasons for collaborating, #as# was preserving (v.) their own class interests. +
+
+[.my2]
+但大多数中国和欧亚裔的领导人, 与日本人合作的方式, 可能与大多数香港人一样：“出于不情愿和疑虑，以及为了生存。”恐惧和实用主义无疑是合作的有力理由，就像保护他们自己的阶级利益一样。
+
+[.my1]
+.案例
+====
+.#as# was preserving (v.) their own class interests.
+
+*as 引导"方式状语从句" + 倒装*
+
+#as# was preserving their own class interests +
+= #as# `主` preserving their own class interests `系` was (strong reason)
+
+as = 正如…… 一样 +
+为了避免头重脚轻，把系动词 was 提前，主语后置。
+
+又例:
+
+- She was tall, #as was her mother#.
+她很高，她母亲也一样。
+- He loved music, #as was common# in his family.
+他热爱音乐，这在他家很普遍。
 ====
 
 '''
@@ -884,6 +916,52 @@ Although critics 批评者；评论家 later complained 报怨 that /the British
 
 句子：I thought #I should have studied#​ the day before.
 （站在3月11日，后悔3月10日的事。虽然主句动词 thought是过去式，但从句依然保持 should have studied不变。）
+|===
+
+====
+
+'''
+
+== 虚拟语气 / would
+
+=== sample
+
+
+Churchill now declared that Hong Kong #would# be removed   from the British Empire “over my dead body 从我的尸体上跨过去.”
+
+
+[.my1]
+.案例
+====
+.我问: would be removed from 不是将要移出么?  看上去不像反对香港脱离英国呀?
+
+▶ DeepSeek:
+
+您的理解——“would be removed” 字面意思是“将要被移出”——是完全正确的。但在这个具体语境中，*“would”并不表示单纯的将来，而是表示“在某种假设条件下（这个条件就是丘吉尔死了）会发生的事情”*，而丘吉尔用“over my dead body”恰恰是为了彻底否定这个假设条件存在的可能性。
+
+#*“would”在这里表示“在特定假设条件下会发生的结果”。*#​ 丘吉尔正是通过设立一个绝不可能发生的条件（他死了），来从根本上否定结果（香港被移出）的可能性。
+
+与其他情态动词的对比:
+
+[.my3]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|用 will be removed
+|- Hong Kong #will be removed#...（香港将会被移出。） +
+
+**#这是陈述一个确定的、不可避免的未来事实。#**这显然是丘吉尔坚决反对的，他不会这么说。
+
+|用 shall be removed
+|- Hong Kong #shall be removed#...（香港必须/必将被移出。） +
+
+##**这是表达一种强烈的命令或决心。**##这更是在说反话，变成他主动要求移出了。
+
+|用 would be removed
+|- Hong Kong #would be removed#...（香港（只有在我死后）才可能被移出。）
+
+##**这是表达一个在虚拟条件下才可能发生的事情。**##丘吉尔用“would”把“香港被移出”这件事推入了一个纯粹假设的、他认为绝不会成真的领域，从而彻底否定了它在现实中发生的可能性。
 |===
 
 ====
@@ -1769,6 +1847,10 @@ Sun did not mention this part, but, #having observed# 观察；目睹 the anti-F
 
 '''
 
+
+
+
+
 == will have done
 
 === sample
@@ -1882,7 +1964,90 @@ It will have done some good /if it teaches us that we are living in a different 
 
 |===
 
+'''
 
+== had been doing sth :  表达两个过去动作之间的时间先后关系，并强调动作的“持续性”与“相关性”。
+
+
+
+In January 1943, the Kempeitai 宪兵队（日本特务警察机构） #set# (v.) two _German shepherds_ (牧师,牧羊人)德国牧羊犬 #on# a group of Chinese women `后定说明` who *had been gathering grass* for fuel 燃料.  +
+
+[.my2]
+1943年1月，宪兵队放了两条德国牧羊犬去攻击一群正在割草作燃料的中国妇女。
+
+[.my1]
+.案例
+====
+.这里Chinese women who #had been gathering grass# for fuel 中, 为什么用了 had been gathering , 而没用 were gathering ?
+
+这里使用 had been gathering（过去完成进行时）, 是为了清晰地表达**两个过去动作之间的时间先后关系**，并强调动作的“持续性”与“相关性”。
+
+- Were gathering：仅表示“当时正在采集”，是单一的、简单的过去动作，#*不涉及与另一个过去动作的先后关系。*#
+- Had been gathering：**表示“在（宪兵放狗）那个时间点之前，就已经在采集，并且可能持续了一段时间”。**它明确了“采集”的动作先于“放狗”发生，并为“放狗”这个事件提供了背景。
+
+
+#*had been doing（过去完成进行时） 表示在过去的某个时间点(B时间点), 或另一个过去动作(B动作)之前，一个动作(A动作)已经开始、持续进行了一段时间，并且可能刚刚停止, 或仍在继续。它的核心是 “过去的过去” + “持续进行”。*#
+
+即时间轴是: +
+#-------A动作(先发生)-------B时间点/B动作(后发生)-------#
+
+关键词：for（长达…）， since（自从…）， when， before， by the time等常用于引出这个“过去的参照点”。
+
+主要用于以下三种场景，#*它们的共同点是都需要一个过去的参照时间点(B时间点)。*#
+
+[.my3]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|场景一：强调动作的持续性与过程
+|#*表示一个动作(A动作), 在过去的某个时间点(B时间点)之前, 已经持续了多久。*#
+
+#-------A动作(先发生)-------B时间点/B动作(后发生)-------#
+
+- By the time the police #arrived#, the suspect #had been hiding# in the attic for six hours. +
+（警察到达时，嫌疑人已经在阁楼里躲了六个小时。）
+
+----had been hiding (先发生)--------arrived(后发生)------
+
+参照点：警察到达（过去）。 +
+持续动作：“躲藏”这个动作在“到达”之前就开始了，并持续了六小时。
+
+|场景二：解释过去某一状态的原因或背景
+|*#表示在过去的某个时间点(B时间点)，某个状态(A状态)是由一个持续到那时的动作(A动作)所导致的。#*
+
+#-------A动作(先发生)-------B时间点/B动作(后发生)-------#
+
+- Her eyes #were# red because she #had been crying#.
+（她眼睛红红的，因为她一直哭来着。） +
+.. 参照点/状态：眼睛红（过去）。 +
+.. 原因：导致眼睛红的动作——“哭”，在“眼睛红”之前一直在持续。
+
+.. 即: -------had been crying(先发生)------- were(后发生)-------
+
+
+- The ground #was# wet. It #had been raining# all night.
+（地面是湿的。下了一整夜的雨。） +
+.. 参照点/状态：地面湿（过去）。 +
+.. 原因：导致地湿的动作——“下雨”，持续了整夜，到我们看到湿地面时可能刚停。
+
+|场景三：表示动作刚刚停止或可能仍在继续
+|强调在过去的参照点，一个持续的动作刚刚完成，其影响或结果显而易见。
+
+- I #was# out of breath because I #had been running#. +
+（我上气不接下气，因为我刚刚一直在跑步。） +
+“跑步”这个持续动作, 在“喘不过气”的时刻刚刚停止，但其结果（喘气）非常明显。
+
+- When I #found# him, he #had been waiting for me# for over an hour. He was a little annoyed. +
+（当我找到他时，他已经等了我一个多小时。他有点不高兴。） +
+“等待”这个动作在我“找到他”的那个过去时刻, 可能刚刚停止，也可能还在继续，但重点是这个持续过程及其造成的结果（他不高兴）。
+|===
+
+
+.其他讲解
+
+- set on”​ 的意思是“使攻击、放…去袭击”，其宾语通常是具有攻击性的动物（如狗）。人（即使是牧羊人）通常不会被“放出去攻击”人群，但警犬/军犬会。
+====
 
 '''
 
