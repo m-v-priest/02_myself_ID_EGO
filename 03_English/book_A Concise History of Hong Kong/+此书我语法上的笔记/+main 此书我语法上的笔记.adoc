@@ -576,6 +576,51 @@ as = 正如…… 一样 +
 
 '''
 
+== 倒装/ 否定词 + 助动词/系动词 + 主语 + 其余部分
+
+=== sample
+
+
+The cause of the riots does not appear to have been economic.  +
+#Nor#, despite the growth   of anticolonial  movements   around the world, #was it# particularly  anti-British.  +
+Rather （提出不同或相反的观点）相反，反而，而是, the rioters were expressing 表达 their social   discontent 不满；不平, just as 正如 their counterparts 对应的人；同类人 were doing in Britain, Europe, and other parts of the world.
+
+[.my2]
+这场骚乱的起因似乎并非经济因素。
+尽管全球反殖民运动不断兴起，这场骚乱也并非带有明显的反英色彩。
+相反，骚乱者只是在宣泄自身的社会不满，这与英国、欧洲及世界其他地区的民众所表达的情绪如出一辙。
+
+[.my1]
+.案例
+====
+.Nor, despite the growth of anticolonial movements around the world, was it particularly anti-British.
+
+这里  was it  用了倒装么?
+
+▶ DeepSeek:
+
+是的，这是一个 “否定副词前置”​ 引起的部分倒装。
+
+
+原句：#Nor#, despite..., #was it# particularly anti-British. +
+正常语序：#It was not# particularly anti-British, despite...
+
+倒装过程：
+##**句首使用了否定词（或含有否定意义的词）Nor。按照语法规则，需要将句子的谓语动词的一部分（助动词/情态动词/系动词）​ 提前到主语之前，**##构成“否定词 + 助动词/系动词 + 主语 + 其余部分”的结构。
+
+本句中，谓语是 was（系动词），所以将 was提前到主语 it之前，形成 was it。
+
+Nor表示“也不”，意味着前文已经陈述了一个否定情况，本句是递进的另一个否定情况。
+
+例: +
+#Nor do I# agree with you.（我也不同意你。） +
+#Never have I# seen such a beautiful sight.（我从未见过如此美景。） +
+#Not only was he# late, but he also forgot the documents.（他不仅迟到了，还忘了带文件。） +
+====
+
+
+'''
+
 
 == 形容词/副词/名词 + as + 主语 + 谓语动词 : 让步状语从句的倒装结构，意思是 “尽管/虽然..."
 
