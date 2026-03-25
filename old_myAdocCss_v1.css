@@ -224,12 +224,12 @@ table {
 
 /* 2) 目录项不换行：整行显示，文本超宽时可横向滚动 */
 #toc a, .toc a {
-display: inline !important;         /* 改为 inline 或 block /
-white-space: normal !important;     / 允许正常换行 /
-word-wrap: break-word !important;   / 强制长单词或中文换行 /
-word-break: break-all !important;   / 确保在边界处断开 */
-text-decoration: none !important;
-color: #333 !important;
+    display: inline-block !important;    /* 保证 white-space 生效 */
+    white-space: nowrap !important;       /* 禁止换行 */
+    overflow: visible !important;         /* 让文字超出时不会被截断 */
+    text-overflow: clip !important;       /* 不显示省略号，直接横向滚动 */
+    text-decoration: none !important;
+    color: #333 !important;
 }
 
 /* 如果你希望链接整体是块级元素（整行可点击），也可使用：
@@ -297,19 +297,4 @@ color: #333 !important;
     text-decoration: underline !important;
     color: blue !important;
   }
-}
-
-
-
-/*修复纯文本引用（Literal Blocks/Listing Blocks）不换行*/
-
-/* 针对 AsciiDoc 的 Literal Block (....) 和 Listing Block (----) */
-
-pre, .literalblock pre, .listingblock pre, .content pre {
-white-space: pre-wrap !important;   / 1. 保留空格并允许换行 /
-word-wrap: break-word !important;   / 2. 允许长单词在边界换行 /
-word-break: break-all !important;   / 3. 核心：强制在任何字符间断开，解决连续数字/字母溢出 */
-/* 辅助样式：确保宽度受限 */
-max-width: 100% !important;
-box-sizing: border-box !important;
 }
